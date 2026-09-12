@@ -1,0 +1,23 @@
+PASS content schema, bilingual fields and source references: bloop
+PASS content schema, bilingual fields and source references: wow
+PASS content schema, bilingual fields and source references: voynich
+PASS UI localization keys and verdict classification
+PASS zero declared permissions; cloud backup disabled
+PASS original map geometry bounds
+NOTE: These are host checks, not Android build or runtime tests.
+PASS daily prefers uninvestigated
+PASS daily remains fixed after completion
+PASS empty daily safe
+PASS daily independent of content ordering
+PASS all-complete daily fallback
+PASS 100 random selections avoid investigated cases
+PASS all-complete random fallback
+PASS empty random safe
+PASS overlapping pins cluster across grid edges
+PASS 500 pins retained by clustering
+PASS empty markers safe
+PASS first timings and unique starts
+PASS reopening first case is not conversion
+PASS case 1 to distinct case 2 with route
+PASS conversion captured once and session duration
+TOTAL 15 PASS
