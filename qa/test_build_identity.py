@@ -66,6 +66,24 @@ class BuildIdentityTest(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "Android SDK path"):
             identity.sdk_directory()
 
+    def test_numbered_signer_certificate(self):
+        digest = "ab" * 32
+        self.assertEqual([digest], identity.signer_certificates(
+            f"Signer #1 certificate SHA-256 digest: {digest}\n"))
+
+    def test_v31_sdk_range_signers_and_duplicate_certificate(self):
+        digest = "cd" * 32
+        output = (f"Signer (minSdkVersion=33, maxSdkVersion=2147483647) certificate SHA-256 digest: {digest}\n"
+                  f"Signer (minSdkVersion=28, maxSdkVersion=32) certificate SHA-256 digest: {digest}\n")
+        self.assertEqual([digest], identity.signer_certificates(output))
+
+    def test_other_digests_and_malformed_certificate_do_not_pass(self):
+        digest = "ef" * 32
+        for output in [f"Source Stamp Signer certificate SHA-256 digest: {digest}",
+                       f"Signer #1 public key SHA-256 digest: {digest}",
+                       "Signer #1 certificate SHA-256 digest: not-a-sha256"]:
+            self.assertEqual([], identity.signer_certificates(output))
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

@@ -53,12 +53,23 @@ def sdk_tool(name):
     return str(candidates[-1])
 
 
+def signer_certificates(signing):
+    # apksigner uses SDK-range labels for v3.1 signatures, numbered labels otherwise.
+    # Accept only signer certificates, never public-key or source-stamp digests.
+    label = r"(?:#\d+|\(minSdkVersion=\d+(?: \(dev release=true\))?, maxSdkVersion=\d+\))"
+    return list(dict.fromkeys(value.lower() for value in re.findall(
+        rf"^Signer {label} certificate SHA-256 digest: ([0-9a-fA-F]{{64}})\s*$",
+        signing, re.M
+    )))
+
+
 def inspect(apk):
     raw = apk.read_bytes()
     signing = subprocess.check_output(
         [sdk_tool("apksigner"), "verify", "--print-certs", str(apk)], text=True
     )
-    certificates = re.findall(r"Signer #\d+ certificate SHA-256 digest: (\S+)", signing)
+    print(f"Verified apksigner output for {apk.name}:\n{signing}", flush=True)
+    certificates = signer_certificates(signing)
     if not certificates:
         raise RuntimeError(f"No verified signer certificate for {apk.name}")
     badging = subprocess.check_output([sdk_tool("aapt"), "dump", "badging", str(apk)], text=True)

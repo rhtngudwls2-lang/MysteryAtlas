@@ -109,12 +109,21 @@ class V2FlowTest {
             scroll("article_list", "evidence_section")
             screenshot("04-evidence.png")
             scroll("article_list", "article_sources")
+            screenshot("13-sources.png")
+            val detail = JSONObject(context.assets.open("v2/articles/cooper.json").bufferedReader().use { it.readText() })
+            val evidence = detail.getJSONArray("evidence")
+            for (index in 0 until evidence.length()) {
+                scroll("article_list", "evidence_${evidence.getJSONObject(index).getString("id")}")
+                screenshot("14-evidence-$index.png")
+            }
         }
         val relatedId = case("cooper").getJSONArray("related").getJSONObject(0).getString("caseId")
         checkStep("Rabbit Hole opens from article; related case; Android Back") {
-            scroll("article_list", "rabbit_open"); tap("rabbit_open"); await("rabbit_list")
+            scroll("article_list", "rabbit_open"); screenshot("15-imagery-and-rabbit-entry.png")
+            tap("rabbit_open"); await("rabbit_list")
             scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 1")
             screenshot("05-rabbit-hole.png")
+            scroll("rabbit_list", "rabbit_path"); screenshot("16-rabbit-connections.png")
             scroll("rabbit_list", "related_$relatedId"); tap("related_$relatedId"); article(relatedId)
             scroll("article_list", "rabbit_open"); tap("rabbit_open")
             scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 2")
