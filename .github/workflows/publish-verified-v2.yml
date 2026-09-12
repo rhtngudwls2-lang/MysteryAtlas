@@ -1,0 +1,110 @@
+name: Publish verified V2 APK
+on:
+  push:
+    branches: [delivery/v2-a6ac8c1]
+    paths: [.github/workflows/publish-verified-v2.yml]
+permissions:
+  actions: read
+  contents: write
+concurrency:
+  group: publish-verified-v2-a6ac8c1
+  cancel-in-progress: false
+jobs:
+  publish-existing-apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Copy the verified Actions artifact into a GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import hashlib, io, json, os, urllib.error, urllib.parse, urllib.request, zipfile
+          repo = os.environ["GH_REPO"]
+          assert repo == "rhtngudwls2-lang/MysteryAtlas"
+          root = "https://api.github.com/repos/" + repo
+          token = os.environ["GH_TOKEN"]
+          source = "a6ac8c188e23e49eee265518fb0cda1fcb73c059"
+          run_id = 34690363374
+          artifact_id = 10297167611
+          expected_sha = "eae6104520c36b8392072a4144f8eaf5af4215cef5af88bdf3fe77f0d109d75d"
+          expected_size = 12461213
+          tag = "v0.2.0-v2-verified"
+          def api(path, method="GET", data=None):
+              raw = None if data is None else json.dumps(data).encode()
+              req = urllib.request.Request(root + path, data=raw, method=method, headers={
+                  "Authorization": "Bearer " + token,
+                  "Accept": "application/vnd.github+json",
+                  "X-GitHub-Api-Version": "2022-11-28",
+                  "Content-Type": "application/json",
+                  "User-Agent": "MysteryAtlas-verified-artifact-publisher"})
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  body = response.read()
+                  return json.loads(body) if body else None
+          run = api("/actions/runs/" + str(run_id))
+          assert run["head_sha"] == source and run["status"] == "completed" and run["conclusion"] == "success", "Approved build identity/status mismatch"
+          artifact = api("/actions/artifacts/" + str(artifact_id))
+          assert artifact["name"] == "MysteryAtlas-debug-apk" and not artifact["expired"]
+          assert artifact["workflow_run"]["id"] == run_id and artifact["workflow_run"]["head_sha"] == source
+          # gh follows GitHub's documented artifact redirect without exposing a signed URL.
+          import subprocess
+          archive = subprocess.check_output(["gh", "api", "repos/" + repo + "/actions/artifacts/" + str(artifact_id) + "/zip"], timeout=120)
+          with zipfile.ZipFile(io.BytesIO(archive)) as z:
+              names = [i.filename for i in z.infolist() if not i.is_dir()]
+              assert names == ["app-debug.apk"], names
+              apk = z.read("app-debug.apk")
+          assert len(apk) == expected_size and hashlib.sha256(apk).hexdigest() == expected_sha, "APK bytes differ from tested APK"
+          print("APPROVED_APK_IDENTITY_PASS", len(apk), hashlib.sha256(apk).hexdigest(), flush=True)
+          notes = ("Verified Mystery Atlas V2 debug APK.\n\n"
+                   "This release copies the existing APK; no build or QA rerun was performed.\n\n"
+                   "Source commit: " + source + "\n"
+                   "Successful build and Android QA: https://github.com/" + repo + "/actions/runs/" + str(run_id) + "\n\n"
+                   "File: app-debug.apk\nSize: " + str(expected_size) + " bytes\nSHA-256: " + expected_sha + "\n\n"
+                   "Download app-debug.apk under Assets on your Android phone.\n"
+                   "Tested on the API 35 emulator; physical-device installation remains untested.")
+          try:
+              release = api("/releases/tags/" + tag)
+              assert release["target_commitish"] == source, "Existing release target differs"
+          except urllib.error.HTTPError as e:
+              if e.code != 404:
+                  raise
+              release = api("/releases", method="POST", data={
+                  "tag_name": tag, "target_commitish": source,
+                  "name": "Mystery Atlas V2 — verified Android APK",
+                  "body": notes, "draft": True, "prerelease": True,
+                  "generate_release_notes": False})
+          assets = api("/releases/" + str(release["id"]) + "/assets")
+          same_name = [a for a in assets if a["name"] == "app-debug.apk"]
+          assert len(same_name) <= 1
+          if same_name:
+              asset = same_name[0]
+          else:
+              upload = release["upload_url"].split("{", 1)[0] + "?name=app-debug.apk"
+              assert upload.startswith("https://uploads.github.com/repos/" + repo + "/releases/")
+              req = urllib.request.Request(upload, data=apk, method="POST", headers={
+                  "Authorization": "Bearer " + token,
+                  "Accept": "application/vnd.github+json",
+                  "X-GitHub-Api-Version": "2022-11-28",
+                  "Content-Type": "application/vnd.android.package-archive",
+                  "User-Agent": "MysteryAtlas-verified-artifact-publisher"})
+              with urllib.request.urlopen(req, timeout=120) as response:
+                  asset = json.load(response)
+          assert asset["state"] == "uploaded" and asset["size"] == expected_size
+          assert asset["digest"] == "sha256:" + expected_sha, "Release asset digest mismatch"
+          if release["draft"]:
+              release = api("/releases/" + str(release["id"]), method="PATCH", data={"draft": False})
+          tag_ref = api("/git/ref/tags/" + tag)
+          assert tag_ref["object"]["type"] == "commit" and tag_ref["object"]["sha"] == source, "Release tag does not target tested commit"
+          main_ref = api("/git/ref/heads/main")
+          assert main_ref["object"]["sha"] == source, "Main was changed during delivery"
+          print(json.dumps({"release": release["html_url"], "download": asset["browser_download_url"],
+                            "bytes": asset["size"], "sha256": expected_sha, "source_commit": source,
+                            "release_id": release["id"], "asset_id": asset["id"]}, indent=2), flush=True)
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as f:
+              f.write("Published the original verified APK without rebuilding.\n\n")
+              f.write("[Download app-debug.apk](" + asset["browser_download_url"] + ")\n\n")
+              f.write("SHA-256: " + expected_sha + "\n")
+          PY
