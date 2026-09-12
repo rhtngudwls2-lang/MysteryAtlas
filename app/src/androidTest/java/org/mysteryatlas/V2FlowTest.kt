@@ -65,6 +65,11 @@ class V2FlowTest {
         compose.waitUntil(12_000) {
             instrumentation.uiAutomation.rootInActiveWindow?.packageName?.toString() == context.packageName
         }
+        // Allow the compositor to present the final image frame after semantic readiness.
+        android.os.SystemClock.sleep(300)
+        compose.waitForIdle()
+        compose.onAllNodesWithTag("art_loading", useUnmergedTree = true).assertCountEquals(0)
+        compose.onAllNodesWithTag("art_error", useUnmergedTree = true).assertCountEquals(0)
         val bitmap = checkNotNull(instrumentation.uiAutomation.takeScreenshot()) { "Android screenshot unavailable: $name" }
         assertTrue("Real Android screenshot width", bitmap.width >= 320)
         assertTrue("Real Android screenshot height", bitmap.height >= 600)
@@ -92,6 +97,10 @@ class V2FlowTest {
             await("hero_open")
             listOf("nav_home", "nav_explore", "nav_saved", "nav_search").forEach { node(it).assertIsDisplayed() }
             screenshot("01-home.png")
+            node("home_list").performScrollToIndex(2); screenshot("22-home-picks.png")
+            node("home_list").performScrollToIndex(3); screenshot("23-home-connections.png")
+            node("home_list").performScrollToIndex(5); screenshot("24-home-categories.png")
+            node("home_list").performScrollToIndex(0); await("hero_open")
         }
         checkStep("Saved empty state on fresh app") {
             tap("nav_saved"); await("saved_empty"); screenshot("08-saved-empty.png")
@@ -130,7 +139,8 @@ class V2FlowTest {
             scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 1")
             screenshot("05-rabbit-hole.png")
             scroll("rabbit_list", "rabbit_path"); screenshot("16-rabbit-connections.png")
-            scroll("rabbit_list", "related_$relatedId"); tap("related_$relatedId"); article(relatedId)
+            scroll("rabbit_list", "related_$relatedId"); screenshot("25-rabbit-first-choice.png")
+            tap("related_$relatedId"); article(relatedId)
             scroll("article_list", "rabbit_open"); tap("rabbit_open")
             scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 2")
             back(); article(relatedId)
@@ -193,14 +203,20 @@ class V2FlowTest {
                 screenshot("19-$id-shared-illustration.png")
             }
         }
-        checkStep("Final saved Korean Cooper and recent state; no uncaught crash during flow") {
+        checkStep("Narrative completion is persisted") {
             tap("nav_saved"); await("saved_list"); tap("card_cooper"); article("cooper")
             scroll("article_list", "article_read_end")
             val completed = runBlocking { withTimeout(12_000) { ProgressRepository(context).flow.first { "cooper" in it.completed } } }
             assertTrue("End-of-narrative completion recorded", "cooper" in completed.completed)
-            scroll("article_list", "section_money")
+        }
+        checkStep("Exact reading position is prepared for independent cold-start verification") {
+            val sections = JSONObject(context.assets.open("v2/articles/cooper.json").bufferedReader().use { it.readText() }).getJSONArray("sections")
+            val sectionIndex = (0 until sections.length()).first { sections.getJSONObject(it).getString("id") == "money" }
+            val targetIndex = 3 + sectionIndex
+            node("article_list").performScrollToIndex(targetIndex)
+            compose.waitForIdle(); await("section_money")
             val expected = runBlocking { withTimeout(12_000) {
-                ProgressRepository(context).flow.first { it.positions["cooper"]?.first == 7 }
+                ProgressRepository(context).flow.first { it.positions["cooper"] == (targetIndex to 0) }
             } }.positions.getValue("cooper")
             val range = node("article_list").fetchSemanticsNode().config[SemanticsProperties.VerticalScrollAxisRange].value()
             File(proofDir, "reading-position-expected.json").writeText(JSONObject()

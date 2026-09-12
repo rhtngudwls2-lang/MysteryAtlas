@@ -156,6 +156,10 @@ class V2DisplayTest {
         compose.waitUntil(12_000) {
             instrumentation.uiAutomation.rootInActiveWindow?.packageName?.toString() == context.packageName
         }
+        android.os.SystemClock.sleep(300)
+        compose.waitForIdle()
+        compose.onAllNodesWithTag("art_loading", useUnmergedTree = true).assertCountEquals(0)
+        compose.onAllNodesWithTag("art_error", useUnmergedTree = true).assertCountEquals(0)
         val bitmap = checkNotNull(instrumentation.uiAutomation.takeScreenshot())
         File(proofDir, "20-$variant-$name.png").outputStream().use {
             check(bitmap.compress(Bitmap.CompressFormat.PNG, 100, it))
