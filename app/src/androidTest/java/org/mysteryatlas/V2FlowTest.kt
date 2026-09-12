@@ -62,6 +62,9 @@ class V2FlowTest {
         }
         compose.waitForIdle()
         instrumentation.waitForIdleSync()
+        compose.waitUntil(12_000) {
+            instrumentation.uiAutomation.rootInActiveWindow?.packageName?.toString() == context.packageName
+        }
         val bitmap = checkNotNull(instrumentation.uiAutomation.takeScreenshot()) { "Android screenshot unavailable: $name" }
         assertTrue("Real Android screenshot width", bitmap.width >= 320)
         assertTrue("Real Android screenshot height", bitmap.height >= 600)

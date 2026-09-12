@@ -88,6 +88,11 @@ run_instrumentation() {
   atlas_class="$1"
   atlas_phase="$2"
   shift 2
+  # The API35 Google image can leave a Pixel Launcher ANR dialog above the app.
+  # Stop only that unrelated launcher on this already-verified disposable emulator.
+  # Never suppress or dismiss an ANR from Mystery Atlas itself.
+  adb shell am start -W -n "$atlas_package/org.mysteryatlas.MainActivity" > "$atlas_evidence/$atlas_phase-launch.txt"
+  adb shell am force-stop com.google.android.apps.nexuslauncher
   set +e
   timeout 900 adb shell am instrument -w -r -e class "$atlas_class" "$@" "$atlas_runner" 2>&1 | tee "$atlas_evidence/$atlas_phase.txt"
   atlas_adb_exit=${PIPESTATUS[0]}

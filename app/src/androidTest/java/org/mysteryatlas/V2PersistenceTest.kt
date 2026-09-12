@@ -153,6 +153,9 @@ class V2DisplayTest {
             compose.onAllNodesWithTag("art_loading", useUnmergedTree = true).fetchSemanticsNodes().isEmpty()
         }
         compose.waitForIdle(); instrumentation.waitForIdleSync()
+        compose.waitUntil(12_000) {
+            instrumentation.uiAutomation.rootInActiveWindow?.packageName?.toString() == context.packageName
+        }
         val bitmap = checkNotNull(instrumentation.uiAutomation.takeScreenshot())
         File(proofDir, "20-$variant-$name.png").outputStream().use {
             check(bitmap.compress(Bitmap.CompressFormat.PNG, 100, it))
