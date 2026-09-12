@@ -1,0 +1,270 @@
+{
+  "brand": {
+    "en": "MYSTERY ATLAS",
+    "ko": "MYSTERY ATLAS"
+  },
+  "observer": {
+    "en": "OBSERVER",
+    "ko": "관찰자"
+  },
+  "investigator": {
+    "en": "INVESTIGATOR",
+    "ko": "조사관"
+  },
+  "investigated": {
+    "en": "INVESTIGATED",
+    "ko": "조사 완료"
+  },
+  "map": {
+    "en": "MAP",
+    "ko": "지도"
+  },
+  "archive": {
+    "en": "ARCHIVE",
+    "ko": "기록실"
+  },
+  "settings": {
+    "en": "SETTINGS",
+    "ko": "설정"
+  },
+  "random": {
+    "en": "INVESTIGATE RANDOM CASE",
+    "ko": "무작위 사건 조사"
+  },
+  "daily": {
+    "en": "DAILY CASE",
+    "ko": "오늘의 사건"
+  },
+  "investigate": {
+    "en": "INVESTIGATE",
+    "ko": "조사 시작"
+  },
+  "resume": {
+    "en": "CONTINUE INVESTIGATION",
+    "ko": "조사 이어가기"
+  },
+  "review": {
+    "en": "REVIEW CASE",
+    "ko": "기록 다시 보기"
+  },
+  "briefing": {
+    "en": "BRIEFING",
+    "ko": "브리핑"
+  },
+  "theory": {
+    "en": "YOUR THEORY",
+    "ko": "나의 가설"
+  },
+  "theory_hint": {
+    "en": "Choose a provisional explanation. This is not a graded quiz.",
+    "ko": "임시 가설을 골라보세요. 정답을 채점하는 퀴즈가 아닙니다."
+  },
+  "evidence": {
+    "en": "EVIDENCE",
+    "ko": "증거"
+  },
+  "evidence_help": {
+    "en": "Record quality, not the probability of a mystery claim.",
+    "ko": "사건 기록의 근거 품질이며, 미스터리 주장이 맞을 확률이 아닙니다."
+  },
+  "next": {
+    "en": "CONTINUE",
+    "ko": "계속"
+  },
+  "reveal": {
+    "en": "REVEAL VERDICT",
+    "ko": "판정 공개"
+  },
+  "verdict": {
+    "en": "VERDICT",
+    "ko": "판정"
+  },
+  "guessed": {
+    "en": "YOU GUESSED",
+    "ko": "내가 선택한 가설"
+  },
+  "points": {
+    "en": "EVIDENCE POINTS TO",
+    "ko": "증거가 가리키는 결론"
+  },
+  "complete": {
+    "en": "CASE INVESTIGATED ✓",
+    "ko": "사건 조사 완료 ✓"
+  },
+  "return": {
+    "en": "RETURN TO MAP",
+    "ko": "지도로 돌아가기"
+  },
+  "related": {
+    "en": "NEXT RELATED CASE",
+    "ko": "연관 사건 살펴보기"
+  },
+  "sources": {
+    "en": "SHOW ME THE SOURCES",
+    "ko": "근거 출처 보기"
+  },
+  "close": {
+    "en": "CLOSE",
+    "ko": "닫기"
+  },
+  "back": {
+    "en": "BACK",
+    "ko": "뒤로"
+  },
+  "bookmarks": {
+    "en": "BOOKMARKED CASES",
+    "ko": "저장한 사건"
+  },
+  "bookmark": {
+    "en": "BOOKMARK",
+    "ko": "저장"
+  },
+  "unbookmark": {
+    "en": "BOOKMARKED ✓",
+    "ko": "저장됨 ✓"
+  },
+  "empty_bookmarks": {
+    "en": "No bookmarked cases yet.",
+    "ko": "아직 저장한 사건이 없습니다."
+  },
+  "discoveries": {
+    "en": "DISCOVERED VERDICTS",
+    "ko": "발견한 판정"
+  },
+  "categories": {
+    "en": "CATEGORIES",
+    "ko": "카테고리"
+  },
+  "language": {
+    "en": "LANGUAGE",
+    "ko": "언어"
+  },
+  "auto": {
+    "en": "Device language",
+    "ko": "기기 언어"
+  },
+  "privacy": {
+    "en": "Offline. No accounts, permissions or data collection.",
+    "ko": "오프라인 앱 · 계정, 권한 요청, 개인정보 수집 없음"
+  },
+  "local_metrics": {
+    "en": "Session metrics stay on this device.",
+    "ko": "세션 지표는 이 기기에서만 확인합니다."
+  },
+  "report": {
+    "en": "LOCAL SESSION REPORT",
+    "ko": "로컬 세션 보고서"
+  },
+  "report_note": {
+    "en": "Current process session. Timings start at app launch; returning from background includes elapsed time. CASE 1 → CASE 2 means starting a different case after the first completion. Entry route distinguishes map, random, daily, archive and related.",
+    "ko": "현재 앱 프로세스 세션 기준. 앱 시작부터 측정하며 백그라운드 경과 시간도 포함합니다. CASE 1 → CASE 2는 첫 완료 뒤 다른 사건을 시작했는지입니다. 진입 경로는 지도·무작위·오늘·기록실·연관으로 구분합니다."
+  },
+  "refresh": {
+    "en": "REFRESH",
+    "ko": "새로고침"
+  },
+  "loading": {
+    "en": "Opening the archive…",
+    "ko": "기록을 여는 중…"
+  },
+  "error": {
+    "en": "Some archive data could not be read.",
+    "ko": "일부 기록 데이터를 읽지 못했습니다."
+  },
+  "retry": {
+    "en": "RETRY",
+    "ko": "다시 시도"
+  },
+  "save_error": {
+    "en": "Could not save. Please retry.",
+    "ko": "저장하지 못했습니다. 다시 시도해 주세요."
+  },
+  "fact": {
+    "en": "VERIFIED RECORD",
+    "ko": "확인된 기록"
+  },
+  "myth": {
+    "en": "UNSUPPORTED / REFUTED CLAIM",
+    "ko": "근거 없거나 반박된 주장"
+  },
+  "fact_label": {
+    "en": "WHAT THE RECORD SUPPORTS",
+    "ko": "기록으로 말할 수 있는 것"
+  },
+  "unknown": {
+    "en": "UNREVEALED",
+    "ko": "미공개"
+  },
+  "ocean": {
+    "en": "OCEAN",
+    "ko": "해양"
+  },
+  "space": {
+    "en": "SPACE",
+    "ko": "우주"
+  },
+  "document": {
+    "en": "CODE / DOCUMENT",
+    "ko": "암호 / 문서"
+  },
+  "UNSOLVED": {
+    "en": "UNSOLVED",
+    "ko": "미해결"
+  },
+  "EXPLAINED": {
+    "en": "EXPLAINED",
+    "ko": "설명됨"
+  },
+  "PARTLY_EXPLAINED": {
+    "en": "PARTLY EXPLAINED",
+    "ko": "부분 설명"
+  },
+  "LEGEND": {
+    "en": "LEGEND",
+    "ko": "전설"
+  },
+  "map_credit": {
+    "en": "Map: Mystery Atlas • schematic",
+    "ko": "지도: Mystery Atlas · 단순화 도식"
+  },
+  "zoom_in": {
+    "en": "ZOOM IN",
+    "ko": "확대"
+  },
+  "zoom_out": {
+    "en": "ZOOM OUT",
+    "ko": "축소"
+  },
+  "map_help": {
+    "en": "Drag to explore · pinch to zoom",
+    "ko": "드래그로 탐색 · 두 손가락으로 확대"
+  },
+  "all_done": {
+    "en": "All three investigated. Reopen any file.",
+    "ko": "세 사건 조사 완료. 기록을 다시 열어보세요."
+  },
+  "save_wait": {
+    "en": "Saving…",
+    "ko": "저장 중…"
+  },
+  "cluster": {
+    "en": "Nearby cases",
+    "ko": "가까운 사건"
+  },
+  "start_hint": {
+    "en": "Three records. Make your own first guess.",
+    "ko": "세 개의 기록. 먼저 당신의 가설을 골라보세요."
+  },
+  "stage": {
+    "en": "STEP",
+    "ko": "단계"
+  },
+  "ko": {
+    "en": "한국어",
+    "ko": "한국어"
+  },
+  "en": {
+    "en": "English",
+    "ko": "English"
+  }
+}
