@@ -1,19 +1,32 @@
-# Required Android acceptance — all NOT RUN
+# Mystery Atlas V2 — Android acceptance checklist
 
-These are the remaining gates, not claims of successful verification.
+Status: prepared checklist, NOT an execution report. Consult `qa/local-validation/LOCAL_VALIDATION.md` for this local session.
+Package: `org.mysteryatlas.prototype.v2`. Use a disposable emulator, never clear the user's V1 or V2 phone data.
 
-1. Clean debug install in airplane mode. Launch and confirm 0 / 3 and OBSERVER, world geometry and three case locations (nearby Ohio/New Haven markers may cluster).
-2. Pan and pinch in portrait and landscape; zoom controls and clusters must remain usable. At maximum zoom, a coincident cluster opens a selectable case list.
-3. Tap Bloop marker. Preview must show `VERDICT: ???`, evidence-quality explanation and approximate coordinate note.
-4. Start → briefing → theory. Continue must be disabled before choice. Choose unknown creature. Advance all three evidence cards individually, then reveal.
-5. Confirm EXPLAINED, chosen creature versus Antarctic ice, completion check and 1 / 3. Open sources and bookmark.
-6. Return to map, force-stop with `adb shell am force-stop org.mysteryatlas.prototype`, then relaunch via launcher. Confirm 1 / 3, investigated marker, bookmark and theory retained.
-7. Random must select one of the other two cases. Complete it and confirm 2 / 3. Return voluntarily to the map and start the third case; complete to reach INVESTIGATOR, 3 / 3.
-8. After all complete, Random must safely reopen a case. Daily must remain fixed on repeated use the same date; test a new emulator date separately.
-9. Switch 한국어 → English → 한국어. Verify both UI and all case stages, including year and source descriptions. Test fresh installation on an English and a Korean device locale.
-10. Archive must reflect category completion, revealed statuses only, bookmarks and reopen behavior. Check sources for every case.
-11. Recreate Activity/rotate on theory and every evidence stage. Stage and selected theory must remain. Test process kill and relaunch separately from Activity recreation.
-12. Long-press title in debug. Confirm first tap/start/complete timings, marker/random/archive counters, elapsed session duration and CASE 1 → CASE 2 entry route. Reopening case 1 must not be conversion.
-13. On a test-only modified data build, corrupt one case, then the entire cases JSON. App must load remaining cases or show safe empty state; random/daily disabled with no cases. Corrupt world JSON and verify no crash. Restore the shipping JSON afterward.
-14. Large font (200%), narrow display, landscape, Android 8 / API 26 and Android 16 / API 36: bottom-sheet/button access, system back and safe drawing insets. Test TalkBack names for map markers.
-15. Review `adb logcat -b crash -d` after the complete flow. Record APK SHA256, device model/API, screenshots and real PASS/FAIL in `BUILD_STATUS.md`.
+## Identity and environment
+- Build `:app:compileDebugKotlin :app:lintDebug :app:assembleDebug :app:assembleDebugAndroidTest` from the recorded source identity.
+- Record final app/test APK bytes, SHA-256, package, version and signer; install those same bytes for all checks.
+- Run `qa/android-run-qa.sh` only with the recorded APKs, SDK tools and a disposable emulator.
+
+## Seven real screens
+- Home: all five sections, honest readership status, Hero image/title/hook/CTA, four bottom tabs.
+- Explore: eight approved categories; populated and empty category paths.
+- Article: complete Cooper story, reconstruction disclosures, summary, timeline, claims/facts, related stories.
+- Evidence: five distinct evidence labels, source correspondence, source links.
+- Rabbit Hole: legitimate edges, depth, Back, revisits truncate the path, visited markers, exhausted branch → Explore.
+- Search: KO/EN, punctuation, aliases, people/places/categories, relevance ordering, empty results and keyboard.
+- Save: add/remove, reading/read labels, empty state, recent history and reopen.
+
+## Functional and accessibility checks
+- Force-stop and independent process retain bookmarks, nondefault locale, recent history and reading position.
+- Activity recreation and tab switching preserve list/Article position and valid Back navigation.
+- Read status changes only after the narrative-end marker is reached; persist across a new process.
+- DataStore read/write error shows a distinct message, preserves last known state, and Retry re-subscribes.
+- Missing image shows an explicit placeholder; unavailable article and catalog errors recover through Retry.
+- App works offline; source URLs open externally or provide a visible fallback.
+- Inspect all seven screens at ordinary width; Home/Explore/Article/Evidence also at 360dp, fontScale 1.3 and 2.0.
+- Check ≥48dp touch targets, TalkBack labels/order, meaningful saved-state shape, IME/system-inset overlap and truncation.
+- Review actual PNGs against approved VisualReferences. Screenshot existence or successful build is not Visual/Product PASS.
+
+## Independent gate
+Product / UX-Design / Editorial / Fact / Engineering / Functional QA / Independent Red Team must review the same final source/APK identity and evidence. Record PASS/FAIL/BLOCKED/NOT RUN for the precise tested scope. Rebuild and re-render after product changes.

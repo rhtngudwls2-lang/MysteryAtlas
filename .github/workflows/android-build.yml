@@ -3,12 +3,16 @@ name: Android Build
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [ main, codex/mystery-atlas-v2 ]
   pull_request:
     branches: [ main ]
 
 permissions:
   contents: read
+
+concurrency:
+  group: android-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build-debug:
@@ -33,8 +37,20 @@ jobs:
       - name: Run host QA
         run: bash qa/run-host-checks.sh
 
+      - name: Compile app Kotlin
+        run: gradle --no-daemon --stacktrace :app:compileDebugKotlin
+
+      - name: Run Android lint
+        run: gradle --no-daemon --stacktrace :app:lintDebug
+
       - name: Build debug APK
         run: gradle --no-daemon --stacktrace :app:assembleDebug
+
+      - name: Compile instrumentation APK
+        run: gradle --no-daemon --stacktrace :app:assembleDebugAndroidTest
+
+      - name: Record APK identity and signing certificate
+        run: python3 qa/android-record-build.py
 
       - name: Upload debug APK
         if: success()
@@ -43,4 +59,87 @@ jobs:
           name: MysteryAtlas-debug-apk
           path: app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
+          retention-days: 14
+
+      - name: Upload instrumentation APK
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: MysteryAtlas-V2-test-apk
+          path: app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Upload build identity and lint reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: MysteryAtlas-V2-build-evidence
+          path: |
+            build/qa/apk-provenance.json
+            app/build/reports/lint-results-debug.*
+          if-no-files-found: warn
+          retention-days: 14
+
+  android-qa:
+    needs: build-debug
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - name: Checkout tested source
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17 for Android SDK tools
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Download the final app APK
+        uses: actions/download-artifact@v4
+        with:
+          name: MysteryAtlas-debug-apk
+          path: build/qa-input/app
+
+      - name: Download its instrumentation APK
+        uses: actions/download-artifact@v4
+        with:
+          name: MysteryAtlas-V2-test-apk
+          path: build/qa-input/test
+
+      - name: Download build identity
+        uses: actions/download-artifact@v4
+        with:
+          name: MysteryAtlas-V2-build-evidence
+          path: build/qa-input/evidence
+
+      - name: Enable KVM
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - name: Run real Android functional and rendering QA
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 35
+          target: google_apis
+          arch: x86_64
+          profile: pixel_7
+          cores: 2
+          ram-size: 2048M
+          disk-size: 4096M
+          disable-animations: true
+          disable-spellchecker: true
+          emulator-boot-timeout: 600
+          emulator-options: -no-window -gpu swiftshader_indirect -no-snapshot -noaudio -no-boot-anim -camera-back none
+          script: bash qa/android-run-qa.sh
+
+      - name: Upload screenshots, test results and runtime evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: MysteryAtlas-V2-android-api35-evidence
+          path: build/android-qa
+          if-no-files-found: warn
           retention-days: 14

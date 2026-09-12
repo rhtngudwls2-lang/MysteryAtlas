@@ -1,0 +1,164 @@
+{
+  "caseId": "dyatlov",
+  "verifiedAt": "2026-09-12",
+  "summary": {
+    "ko": "1959년 우랄산맥에서 등산객 9명이 숨졌다. 텐트를 떠난 행동과 부상은 오랫동안 의문을 낳았다. 지금은 눈사태 설명과 이를 뒷받침하는 물리 모델이 있다. 모든 장면이 입증됐다는 뜻은 아니다.",
+    "en": "Nine hikers died in the Urals in 1959. Their abandoned tent and injuries prompted decades of speculation. An avalanche explanation now has physical modelling behind it, without establishing every event that night."
+  },
+  "sections": [
+    {
+      "id": "opening",
+      "type": "text",
+      "title": {
+        "ko": "피난처를 떠난 밤",
+        "en": "A night outside shelter"
+      },
+      "body": {
+        "ko": "1959년 2월, 디아틀로프 일행 9명은 우랄산맥에서 숨졌다. 남겨진 텐트와 서로 다른 위치에서 발견된 시신은 탈출 뒤의 행동을 재구성하게 만들었다.",
+        "en": "In February 1959, nine members of the Dyatlov party died in the Urals. The tent and separate recovery locations became clues to reconstructing their movements."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    },
+    {
+      "id": "facts",
+      "type": "fact",
+      "title": {
+        "ko": "의문은 물리적으로 다뤄질 수 있다",
+        "en": "Questions that physics can test"
+      },
+      "body": {
+        "ko": "눈사태 흔적이 뚜렷하지 않았다는 점, 완만해 보이는 경사, 부상 양상은 설명을 어렵게 했다. 2021년 연구는 작은 판상 눈사태가 이런 조건에서 가능한지 계산했다.",
+        "en": "Limited avalanche traces, an apparently gentle slope and injury patterns complicated the explanation. A 2021 study modelled whether a small slab avalanche could fit those constraints."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    },
+    {
+      "id": "image",
+      "type": "image",
+      "title": {
+        "ko": "실제 현장과 구분하는 이미지",
+        "en": "Distinguishing illustration from record"
+      },
+      "body": {
+        "ko": "눈 덮인 텐트를 표현한 생성 일러스트. 실제 수색 사진이나 텐트 위치를 검증하는 자료가 아니다.",
+        "en": "Generated snowy-tent illustration, not a search photograph or evidence of the exact campsite."
+      },
+      "sourceIds": [],
+      "image": "images/dyatlov.webp"
+    },
+    {
+      "id": "timeline",
+      "type": "timeline",
+      "title": {
+        "ko": "설명은 이후에도 바뀌었다",
+        "en": "The explanation developed later"
+      },
+      "body": {
+        "ko": "1959년 · 사망 사건과 수사.\n\n2020년 · 러시아 검찰의 눈사태 결론.\n\n2021년 · 바람에 쌓인 눈과 경사면 절단을 결합한 판상 눈사태 모델 발표.",
+        "en": "1959 · Deaths and investigation.\n\n2020 · Russian prosecutors reach an avalanche conclusion.\n\n2021 · A model combines wind-loaded snow with a cut made into the slope."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    },
+    {
+      "id": "mechanism",
+      "type": "theories",
+      "title": {
+        "ko": "시간차로 움직이는 눈",
+        "en": "Snow that fails after a delay"
+      },
+      "body": {
+        "ko": "텐트를 설치하며 눈을 깎은 곳 위로 바람이 눈을 더 쌓는다. 하중이 커지면 눈판이 뒤늦게 무너질 수 있다는 것이 제안된 메커니즘이다.\n\n물리적으로 가능한 경로를 제시한 것이며, 그날을 촬영한 기록은 아니다.",
+        "en": "Wind deposits additional snow above a cut made for the tent. Increasing load can eventually release a slab.\n\nThis is a proposed physical mechanism, not a recording of the event itself."
+      },
+      "sourceIds": [
+        "dyatlov-paper",
+        "dyatlov-eth"
+      ]
+    },
+    {
+      "id": "current",
+      "type": "text",
+      "title": {
+        "ko": "설명 있음, 모든 세부는 미확정",
+        "en": "An explanation, with remaining limits"
+      },
+      "body": {
+        "ko": "원인불명의 초자연 사건으로만 소개하면 현재 연구를 지우게 된다. 눈사태는 근거 있는 설명이다. 다만 탈출 이후의 정확한 순서 등은 여전히 재구성의 영역이다.",
+        "en": "Calling this only an unexplained paranormal event would erase the research. Avalanche is an evidence-based explanation; the precise sequence after escape remains a reconstruction."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    },
+    {
+      "id": "next",
+      "type": "text",
+      "title": {
+        "ko": "강한 이야기를 시험하는 법",
+        "en": "Testing a powerful story"
+      },
+      "body": {
+        "ko": "다음에는 Wow! 신호를 살펴보자. 낯선 현상에 자연적인 설명이 제시됐을 때, 설명의 가능성과 확정은 어떻게 다를까?",
+        "en": "Try the Wow! Signal next. When a natural explanation is proposed for an unusual event, what separates plausibility from confirmation?"
+      },
+      "sourceIds": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "deaths",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "1959년 일행 9명이 사망했다.",
+        "en": "Nine members of the party died in 1959."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    },
+    {
+      "id": "model",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "판상 눈사태를 다룬 물리 모델이 2021년에 발표됐다.",
+        "en": "A physical slab-avalanche model was published in 2021."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    },
+    {
+      "id": "sequence",
+      "status": "DISPUTED",
+      "text": {
+        "ko": "눈사태가 텐트 이탈의 원인이었다 — 물리 모델은 이를 뒷받침하지만 그날의 전체 행동 순서를 입증하지는 않는다.",
+        "en": "An avalanche caused the hikers to leave the tent — modelling supports this account without establishing their complete sequence of actions."
+      },
+      "sourceIds": [
+        "dyatlov-paper"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "dyatlov-paper",
+      "title": "Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959",
+      "publisher": "Gaume & Puzrin; Communications Earth & Environment (2021)",
+      "url": "https://www.nature.com/articles/s43247-020-00081-8",
+      "accessedAt": "2026-09-12"
+    },
+    {
+      "id": "dyatlov-eth",
+      "title": "Dyatlov Pass research project",
+      "publisher": "ETH Zurich, Institute for Geotechnical Engineering",
+      "url": "https://geomechanics.ethz.ch/project-list/Dyatlov_pass.html",
+      "accessedAt": "2026-09-12"
+    }
+  ]
+}

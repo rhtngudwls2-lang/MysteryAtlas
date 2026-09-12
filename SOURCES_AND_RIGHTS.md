@@ -1,3 +1,5 @@
+> V1 ARCHIVAL RECORD — retained for provenance only. This document describes the previous prototype and is superseded for V2 by `qa/CONTENT_SOURCES.md` and `app/src/main/assets/v2/image-rights.json`. V2 includes five AI-generated editorial illustrations, clearly separated from historical evidence.
+
 # Source and rights record
 
 Editorial verification performed 2026-09-12. Text is paraphrased; no source-page images/audio were embedded. `source_verified` marks the cited editorial source review, not independent coordinate or Android QA approval.

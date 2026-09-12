@@ -1,0 +1,156 @@
+{
+  "caseId": "mary-celeste",
+  "verifiedAt": "2026-09-12",
+  "summary": {
+    "ko": "1872년 대서양에서 발견된 메리 셀레스트에는 사람이 없었다. 사라진 작은 배와 남은 항해 기록은 대피를 시사한다. 왜 큰 배를 떠났는지, 그 뒤 어디로 갔는지는 밝혀지지 않았다.",
+    "en": "Mary Celeste was found deserted in the Atlantic in 1872. A missing boat and surviving records point towards abandonment. They do not explain why everyone left or what happened afterwards."
+  },
+  "sections": [
+    {
+      "id": "opening",
+      "type": "text",
+      "title": {
+        "ko": "발견된 것은 빈 배였다",
+        "en": "A ship without its people"
+      },
+      "body": {
+        "ko": "1872년 12월, 데이 그라티아호 사람들이 메리 셀레스트에 올라갔다. 선장 가족과 선원들은 없었다. 작은 배도 사라져 있었다.",
+        "en": "In December 1872, men from Dei Gratia boarded Mary Celeste. Its captain, family and crew were absent. The ship’s boat was missing too."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "timeline",
+      "type": "timeline",
+      "title": {
+        "ko": "기록이 멈춘 뒤의 간격",
+        "en": "The gap after the last entry"
+      },
+      "body": {
+        "ko": "11월 7일 · 뉴욕에서 제노바로 출항.\n\n11월 25일 · 남은 항해 기록의 마지막 기재.\n\n12월 · 무인 상태로 발견.",
+        "en": "November 7 · Departs New York for Genoa.\n\nNovember 25 · Last surviving log entry.\n\nDecember · Found deserted."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "image",
+      "type": "image",
+      "title": {
+        "ko": "정적을 표현한 재구성",
+        "en": "An imagined stillness"
+      },
+      "body": {
+        "ko": "생성된 범선 일러스트. 실제 메리 셀레스트 사진이나 발견 당시 장면이 아니다.",
+        "en": "Generated sailing-ship illustration, not a photograph of Mary Celeste or its discovery."
+      },
+      "sourceIds": [],
+      "image": "images/mary-celeste.webp"
+    },
+    {
+      "id": "facts",
+      "type": "fact",
+      "title": {
+        "ko": "무엇이 없어졌는지가 중요하다",
+        "en": "Absence can narrow a question"
+      },
+      "body": {
+        "ko": "배가 남았다는 사실만 보면 갑작스러운 실종을 상상하기 쉽다. 작은 배와 항해 도구가 없었다는 관찰은 다른 질문을 만든다. 그들은 어떤 위험을 예상했기에 옮겨 탔을까?",
+        "en": "A vessel still afloat invites stories of sudden disappearance. The missing boat and navigational instruments invite a different question: what danger might have made leaving seem safer?"
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "theories",
+      "type": "theories",
+      "title": {
+        "ko": "떠난 이유를 찾는 설명들",
+        "en": "Why abandon the vessel?"
+      },
+      "body": {
+        "ko": "선내 위험이나 화물의 알코올 증기에 대한 우려 등 여러 설명이 제시됐다. 이것들은 출항·발견 기록과 같은 등급의 사실이 아니다.",
+        "en": "Proposals include danger aboard and alarm about the alcohol cargo. A possible motive for leaving is not an observation from the discovery."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "current",
+      "type": "text",
+      "title": {
+        "ko": "사라진 결말",
+        "en": "The missing ending"
+      },
+      "body": {
+        "ko": "떠났다는 추론과 떠난 이유의 증명은 다르다. 이 기사에서 확인한 박물관 해설도 최종 원인을 확정하지 않는다.",
+        "en": "Inferring abandonment is different from demonstrating its cause. The museum account checked here does not establish a final explanation."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "next",
+      "type": "text",
+      "title": {
+        "ko": "물건은 사람의 마지막 선택을 말해 줄까",
+        "en": "Can objects explain a final decision?"
+      },
+      "body": {
+        "ko": "비행기에서 사라진 Cooper의 돈, 눈 속에 남은 디아틀로프의 텐트. 남은 물건을 따라 다음 기록으로 이어가 보자.",
+        "en": "Follow the related records to Cooper’s money and the tent at Dyatlov Pass: more surviving objects, and more uncertain decisions."
+      },
+      "sourceIds": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "empty",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "배는 사람이 없는 상태로 발견됐다.",
+        "en": "The vessel was found deserted."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "cause",
+      "status": "DISPUTED",
+      "text": {
+        "ko": "선내 위험을 피해 자발적으로 배를 떠났다 — 남은 흔적은 대피를 시사하지만 정확한 이유는 확인되지 않았다.",
+        "en": "Those aboard deliberately fled a danger on the ship — the traces suggest abandonment but do not establish its cause."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    },
+    {
+      "id": "fiction",
+      "status": "DEBUNKED",
+      "text": {
+        "ko": "코넌 도일의 이야기는 실제 생존자의 증언이다 — 해당 작품은 소설이며 사건 기록으로 사용할 수 없다.",
+        "en": "Conan Doyle’s story is actual survivor testimony — it is fiction and cannot serve as an eyewitness record."
+      },
+      "sourceIds": [
+        "rmg-mary"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "rmg-mary",
+      "title": "The mystery of the Mary Celeste",
+      "publisher": "Royal Museums Greenwich; Andrew Choong Han Lin, curator",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/mystery-mary-celeste",
+      "accessedAt": "2026-09-12"
+    }
+  ]
+}

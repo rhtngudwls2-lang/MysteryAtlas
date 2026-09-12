@@ -1,0 +1,49 @@
+{
+  "scope": "OFFLINE_STATIC_INTEGRITY_ONLY",
+  "checks": [
+    {
+      "check": "V2 schema, 7 unique cases, eight approved bilingual categories",
+      "status": "PASS"
+    },
+    {
+      "check": "cooper: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "voynich: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "mary-celeste: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "dyatlov: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "wow: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "rohonc: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "phaistos: bilingual article, live asset paths, evidence/source references and Rabbit Hole targets",
+      "status": "PASS"
+    },
+    {
+      "check": "All 5 packaged images have matching hashes, dimensions and generation provenance",
+      "status": "PASS"
+    },
+    {
+      "check": "Offline permission/backup gate; V1 content, map and game test absent from active app",
+      "status": "PASS"
+    },
+    {
+      "check": "TOTAL: 7 articles, 18 evidence records, 12 source records",
+      "status": "PASS"
+    }
+  ]
+}

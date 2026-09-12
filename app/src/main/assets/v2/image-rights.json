@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "project": "Mystery Atlas V2",
+  "createdAt": "2026-09-12T07:45:34.367693+00:00",
+  "displayPolicy": {
+    "ko": "실제 자료로 오인하지 않도록 기사 이미지 캡션에 재구성 이미지 표시",
+    "en": "Display the illustration caption near article images; never present generated images as historical evidence."
+  },
+  "images": [
+    {
+      "id": "cooper",
+      "path": "images/cooper.webp",
+      "type": "AI_GENERATED_EDITORIAL_ILLUSTRATION",
+      "rightsBasis": "DIRECTLY_GENERATED_FOR_THIS_PROJECT",
+      "rightsNote": "Original image generated through the built-in OpenAI image generation tool for Mystery Atlas. Not sourced from a third-party website or licensed as a historical source. Applicable service terms apply; exclusivity is not asserted.",
+      "generator": "built-in image_gen.imagegen",
+      "referenceInputs": [],
+      "prompt": "Use case: historical-scene. Asset type: cinematic editorial illustration for Mystery Atlas Android app, pure image, NOT an app screen. Primary request: the disappearance of D.B. Cooper evoked through a 1971-era Boeing 727-inspired tri-jet airliner silhouette banking above the dark Pacific Northwest forested mountains, storm clouds parting to a pale moon. A single aircraft, distant, viewed from rear side, recognizable rear engines and T-tail but no logos or identifying livery. No people, no parachutist, no faces. Landscape composition 3:2, intended for hero and thumbnail crop, dramatic main subject in upper-middle, lower quarter quiet dark mountain atmosphere. Premium documentary archive mood, painterly photorealistic cinematic realism, charcoal ink and cold slate blue with subtle ivory moonlight, rich textured natural clouds, visible mountain layers, film grain subtle. High image quality with clear subject even at thumbnail size. No text, no lettering, no numbers, no logos, no watermark, no UI, no collage, no official seals or document marks. This is openly an atmospheric historical reconstruction illustration, not a purported actual photograph or evidence.",
+      "generatedOriginalFileName": "exec-78e25218-cd8d-48d6-ac3f-8072ab2f0db0.png",
+      "originalSha256": "4619b22882d7bb5ee526c469a9050f696e016a86788bfd89a6eca0edee31954e",
+      "sha256": "77bbe5f23fb4ae198a8993d72550ae476221ee902806e16ed3c166def0383d10",
+      "originalDimensions": [
+        1536,
+        1024
+      ],
+      "dimensions": [
+        1200,
+        800
+      ],
+      "bytes": 68490,
+      "processing": [
+        "proportional resize with Lanczos",
+        "RGB WebP encoding"
+      ],
+      "isEvidence": false,
+      "caption": {
+        "ko": "재구성 이미지 · 실제 증거 자료가 아닙니다.",
+        "en": "Editorial illustration; not evidence."
+      },
+      "alt": {
+        "ko": "밤하늘의 여객기와 산맥을 표현한 재구성 이미지",
+        "en": "Editorial reconstruction of an airliner above dark mountains"
+      },
+      "limitations": "Atmosphere only; aircraft and landscape are not forensic reconstructions."
+    },
+    {
+      "id": "voynich",
+      "path": "images/voynich.webp",
+      "type": "AI_GENERATED_EDITORIAL_ILLUSTRATION",
+      "rightsBasis": "DIRECTLY_GENERATED_FOR_THIS_PROJECT",
+      "rightsNote": "Original image generated through the built-in OpenAI image generation tool for Mystery Atlas. Not sourced from a third-party website or licensed as a historical source. Applicable service terms apply; exclusivity is not asserted.",
+      "generator": "built-in image_gen.imagegen",
+      "referenceInputs": [],
+      "prompt": "Use case: historical-scene. Asset type: pure image editorial cover illustration, no app UI. Primary request: a mysterious centuries-old botanical manuscript lies open on a dark archive table, two ivory vellum pages with intricate green roots and curling blue green imaginary leaves, curious plant diagrams and tiny ornamental handwritten marks that cannot be read, a few warm muted gold details; close-up of one open book, tactile aged paper and stitched binding. Atmospheric imagined manuscript inspired by undeciphered historical botanical books, not a scan of any specific page and not evidence. Landscape 3:2 composition, book dominant in the center, shot at a graceful shallow overhead angle, clear subject at small thumbnail. Premium documentary archive style, realistic editorial still life, chiaroscuro side light, charcoal surroundings, parchment ivory, muted olive, small amber highlights, restrained film grain. No modern props, no magnifier, no people, no faces, no readable text, no title, no watermark, no logo, no UI, no official marks.",
+      "generatedOriginalFileName": "exec-430ce620-5f71-44df-9921-71a3f7de2c40.png",
+      "originalSha256": "486bb6f6c00fad0b433ddbe2559b629867e828799d3b6f69b4ea8e0682a1509f",
+      "sha256": "f22ca79caf90774b8550862604926e24ae1d1a575585d61ff26fd9644bef9e73",
+      "originalDimensions": [
+        1536,
+        1024
+      ],
+      "dimensions": [
+        1200,
+        800
+      ],
+      "bytes": 233030,
+      "processing": [
+        "proportional resize with Lanczos",
+        "RGB WebP encoding"
+      ],
+      "isEvidence": false,
+      "caption": {
+        "ko": "재구성 이미지 · 실제 증거 자료가 아닙니다.",
+        "en": "Editorial illustration; not evidence."
+      },
+      "alt": {
+        "ko": "가상의 식물 삽화가 있는 오래된 필사본을 표현한 이미지",
+        "en": "Imagined aged manuscript with botanical drawings"
+      },
+      "limitations": "Imaginary page; never label as a scanned Voynich manuscript page."
+    },
+    {
+      "id": "mary-celeste",
+      "path": "images/mary-celeste.webp",
+      "type": "AI_GENERATED_EDITORIAL_ILLUSTRATION",
+      "rightsBasis": "DIRECTLY_GENERATED_FOR_THIS_PROJECT",
+      "rightsNote": "Original image generated through the built-in OpenAI image generation tool for Mystery Atlas. Not sourced from a third-party website or licensed as a historical source. Applicable service terms apply; exclusivity is not asserted.",
+      "generator": "built-in image_gen.imagegen",
+      "referenceInputs": [],
+      "prompt": "Use case: historical-scene. Asset type: pure image editorial illustration for mystery content, not UI. Primary request: a solitary 1872-era two-masted brigantine wooden merchant ship on the cold open Atlantic Ocean in dense pale sea fog, loosely set weathered sails, dark wet hull, low waves; elegant historically inspired rigging, no visible crew and no damage, no horror. Landscape 3:2 composition, ship large enough to recognize at small thumbnail, placed centrally slightly above middle, sea in foreground and deep fog behind. Premium documentary atmospheric cinematic realism, charcoal navy and slate blue, ivory fog highlights and muted brown wood, natural dramatic diffuse light. This is an imagined historical reconstruction, never a claimed actual historical photograph. No people, no bodies, no supernatural objects, no flags with symbols, no ship name, no readable text, no logos, no watermark, no UI.",
+      "generatedOriginalFileName": "exec-30196127-5142-4711-aada-d886fa79e8fb.png",
+      "originalSha256": "2a9919d7159afb353448783b458429edf1b3b40e6744232aec7be52a11106689",
+      "sha256": "97272ede0f5655d6bc1033b0a9dba1512d4a113b4e619e74f659f1e4083c02fc",
+      "originalDimensions": [
+        1536,
+        1024
+      ],
+      "dimensions": [
+        1200,
+        800
+      ],
+      "bytes": 111086,
+      "processing": [
+        "proportional resize with Lanczos",
+        "RGB WebP encoding"
+      ],
+      "isEvidence": false,
+      "caption": {
+        "ko": "재구성 이미지 · 실제 증거 자료가 아닙니다.",
+        "en": "Editorial illustration; not evidence."
+      },
+      "alt": {
+        "ko": "안개 낀 대서양의 두 돛대 범선을 표현한 재구성 이미지",
+        "en": "Editorial reconstruction of a two-masted sailing ship in Atlantic fog"
+      },
+      "limitations": "Atmosphere only; vessel is not a precise reconstruction of Mary Celeste."
+    },
+    {
+      "id": "dyatlov",
+      "path": "images/dyatlov.webp",
+      "type": "AI_GENERATED_EDITORIAL_ILLUSTRATION",
+      "rightsBasis": "DIRECTLY_GENERATED_FOR_THIS_PROJECT",
+      "rightsNote": "Original image generated through the built-in OpenAI image generation tool for Mystery Atlas. Not sourced from a third-party website or licensed as a historical source. Applicable service terms apply; exclusivity is not asserted.",
+      "generator": "built-in image_gen.imagegen",
+      "referenceInputs": [],
+      "prompt": "Use case: historical-scene. Asset type: pure editorial cover image for Mystery Atlas, not app UI. Primary request: an unoccupied weathered low canvas ridge tent on a remote snow-covered Ural mountain slope at night, guy ropes in wind, deep drifted snow, distant mountains under low moonlit clouds, faint spindrift visible. Single tent, no people, no bodies, no injuries, no tracks leading to a person, no supernatural creatures. Landscape 3:2 composition, tent central large in foreground with strong silhouette, mountain depth above, easy subject recognition at small thumbnail. Premium documentary historical reconstruction mood, cinematic natural realism, cold slate blue and charcoal palette, ivory highlights on snow, subtle canvas brown. This is an imagined atmosphere illustration and must not resemble a marked authentic archive photo. No text, no numbers, no logos, no watermark, no UI, no collage. Make snow and tent readable, not excessively dark.",
+      "generatedOriginalFileName": "exec-99279a35-c6ad-49d1-b06f-0b09af9aea6c.png",
+      "originalSha256": "27e8ffa6be432e0ce6a9e5be4c1dbf41b5f34fa016ce9fb2b2ed706fe564d7de",
+      "sha256": "6b25f0b7707f10100d3fda05ce5ea0dbb39d8e4335f05c1588f410ebcb21f0cf",
+      "originalDimensions": [
+        1536,
+        1024
+      ],
+      "dimensions": [
+        1200,
+        800
+      ],
+      "bytes": 154648,
+      "processing": [
+        "proportional resize with Lanczos",
+        "RGB WebP encoding"
+      ],
+      "isEvidence": false,
+      "caption": {
+        "ko": "재구성 이미지 · 실제 증거 자료가 아닙니다.",
+        "en": "Editorial illustration; not evidence."
+      },
+      "alt": {
+        "ko": "눈 덮인 산비탈의 텐트를 표현한 재구성 이미지",
+        "en": "Editorial reconstruction of a tent on a snowy mountain slope"
+      },
+      "limitations": "Atmosphere only; not the original tent or incident photograph."
+    },
+    {
+      "id": "wow",
+      "path": "images/wow.webp",
+      "type": "AI_GENERATED_EDITORIAL_ILLUSTRATION",
+      "rightsBasis": "DIRECTLY_GENERATED_FOR_THIS_PROJECT",
+      "rightsNote": "Original image generated through the built-in OpenAI image generation tool for Mystery Atlas. Not sourced from a third-party website or licensed as a historical source. Applicable service terms apply; exclusivity is not asserted.",
+      "generator": "built-in image_gen.imagegen",
+      "referenceInputs": [],
+      "prompt": "Use case: illustration-story. Asset type: cinematic editorial image for an article about an unexplained radio signal, pure picture not UI. Primary request: a large terrestrial radio telescope dish seen from its side beneath a vast starry night sky, low observatory horizon and quiet dark landscape, the dish aiming into the Milky Way; contemplative scientifically grounded astronomy atmosphere, NOT a depiction of the actual Big Ear instrument. Landscape 3:2 composition, dish central lower-middle, luminous textured stars across upper half, strong recognizable silhouette for small thumbnail. Premium documentary editorial realism, charcoal midnight blue and ivory stars with very faint subdued warm gold horizon lights, subtle atmospheric haze, no sci-fi beams. This is a conceptual editorial illustration, not actual evidence. No aliens, no UFOs, no spaceships, no signal graphics, no text, no letters, no numbers, no logos, no watermark, no UI. Clear telescope structure, believable astronomy instrumentation.",
+      "generatedOriginalFileName": "exec-e64b5cdc-8d87-41b1-95ce-4e2a5c8e6aaa.png",
+      "originalSha256": "5247e0698288a58770231cda98970c66423c89594a9cc6913a4200dbaffdaa1d",
+      "sha256": "2aad3b5bbc09abee1d5e624960bff23085dcfad5dfdd0f12030c8a77a0e3757b",
+      "originalDimensions": [
+        1536,
+        1024
+      ],
+      "dimensions": [
+        1200,
+        800
+      ],
+      "bytes": 215744,
+      "processing": [
+        "proportional resize with Lanczos",
+        "RGB WebP encoding"
+      ],
+      "isEvidence": false,
+      "caption": {
+        "ko": "재구성 이미지 · 실제 증거 자료가 아닙니다.",
+        "en": "Editorial illustration; not evidence."
+      },
+      "alt": {
+        "ko": "별이 빛나는 하늘 아래 전파망원경을 표현한 개념 이미지",
+        "en": "Conceptual radio telescope beneath a starry sky; not the Big Ear instrument"
+      },
+      "limitations": "Conceptual dish telescope; not the historical Big Ear instrument or a depiction of the signal origin."
+    }
+  ]
+}

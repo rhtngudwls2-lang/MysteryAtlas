@@ -1,0 +1,70 @@
+{
+  "reviewer": "independent Product reviewer /root/product_review",
+  "reviewedAtUtc": "2026-09-12T09:33:01.996931+00:00",
+  "sourceVerdict": "PASS",
+  "androidProductVerdict": "NOT RUN / unverified",
+  "sourceSha256": {
+    "app/src/main/java/org/mysteryatlas/AtlasViewModel.kt": "24072526c3de95f33cabc93ba3d970aa686541d88b996e87a426dc5d4fb518bb",
+    "app/src/main/java/org/mysteryatlas/data/Content.kt": "2f251348ab8666d856c8d003a5201eda58cd1b8670bea5531c709cdcd5addc0b",
+    "app/src/main/java/org/mysteryatlas/data/Progress.kt": "9ac596202b4221e81a21487460fa34f9e6217dd041af4ac05c9f77aa72a1444c",
+    "app/src/main/java/org/mysteryatlas/ui/Components.kt": "68d23ab44e83ce3d75b5279f8cf080828f73b65ecac5b2dcc0cc8c7f2916730c",
+    "app/src/main/java/org/mysteryatlas/ui/AtlasApp.kt": "68ad17172f694022467e04cb1c9ca665e3280c9a6ef117f2cd82e9b04346326e",
+    "app/src/main/assets/v2/catalog.json": "3233976158b21f8da49c01010fdc339d1b88422560ac93ac5047b3689e074881"
+  },
+  "fixes": [
+    {
+      "finding": "P1 related-path revisit invents graph edge",
+      "verdict": "SOURCE PASS / CLOSED",
+      "evidence": "Content.kt:38–39; AtlasViewModel.kt:45–51,63; revisiting an ID truncates at its existing index; related appends are constrained to edited outgoing edge"
+    },
+    {
+      "finding": "P1 compact story rows omit hook/status",
+      "verdict": "SOURCE PASS / CLOSED",
+      "evidence": "Components.kt:71–82; status, headline, hook, canonical title, read time and optional reading state present; narrow/large-font stacking implemented"
+    },
+    {
+      "finding": "P2 Rabbit visited/exhaustion/current-story labels",
+      "verdict": "SOURCE PASS / CLOSED",
+      "evidence": "AtlasApp.kt:144–149; clickable path items, neutral Current connection wording, visited/read labels, exhausted branch message and Explore CTA"
+    },
+    {
+      "finding": "P2 search relevance ordering",
+      "verdict": "SOURCE PASS / CLOSED",
+      "evidence": "Content.kt:40–49; NFKC/Locale.ROOT normalization, exact names rank 0, partial names 1, headlines 2, metadata 3, stable ID tie-break"
+    },
+    {
+      "finding": "P2 explicit reading completion state",
+      "verdict": "SOURCE PASS / CLOSED",
+      "evidence": "Progress.kt:10,16,22,28; AtlasViewModel.kt:72; AtlasApp.kt:116–119,133,161,166,168; persistent completed IDs, explicit end-reached label"
+    },
+    {
+      "finding": "Re-review completion misses fling/reopen beyond marker",
+      "verdict": "SOURCE PASS / CLOSED",
+      "evidence": "AtlasApp.kt:118 now includes firstVisibleItemIndex > 3+a.sections.size OR fully visible reading_end marker; observation starts after article load and excludes empty/scrolling layouts"
+    }
+  ],
+  "hostRouteOracle": {
+    "transitions": 3570,
+    "status": "PASS",
+    "scope": "Independent host model of route invariant over actual catalog; not executed Kotlin or Android",
+    "regressionInput": [
+      "cooper",
+      "mary-celeste",
+      "dyatlov",
+      "wow",
+      "dyatlov"
+    ],
+    "expectedRoute": [
+      "cooper",
+      "mary-celeste",
+      "dyatlov"
+    ]
+  },
+  "limits": [
+    "No Gradle/compile/lint/assembleDebug or APK execution by this reviewer",
+    "No real Android 7-screen evidence inspected",
+    "No source-only approval may be promoted to complete Product Gate PASS",
+    "No app source changes authored by reviewer",
+    "No GitHub access"
+  ]
+}

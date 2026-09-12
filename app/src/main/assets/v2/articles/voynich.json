@@ -1,0 +1,152 @@
+{
+  "caseId": "voynich",
+  "verifiedAt": "2026-09-12",
+  "summary": {
+    "ko": "그림은 알아볼 듯한데 문장을 읽을 수 없다. 예일대가 보관하는 보이니치 문서는 저자와 문자 체계가 확정되지 않은 책이다. 낯선 문자보다 더 어려운 문제는 해독이 맞았다는 사실을 어떻게 증명하느냐다.",
+    "en": "The pictures look almost familiar; the writing does not. Yale’s Voynich manuscript has no established author or accepted reading. The puzzle is not just finding a translation, but showing why anyone should trust it."
+  },
+  "sections": [
+    {
+      "id": "opening",
+      "type": "text",
+      "title": {
+        "ko": "읽을 수 있을 것 같은 책",
+        "en": "A book that seems almost readable"
+      },
+      "body": {
+        "ko": "식물, 별자리처럼 보이는 도형, 목욕 장면. 그림은 내용의 실마리를 주지만 곁의 글을 번역해 주지는 않는다. 예일대 소개는 이 문자를 아직 확인되지 않은 체계로 설명한다.",
+        "en": "Plants, celestial diagrams and bathing scenes offer clues without translating the writing beside them. Yale describes the script as unidentified."
+      },
+      "sourceIds": [
+        "yale-beinecke"
+      ]
+    },
+    {
+      "id": "history",
+      "type": "timeline",
+      "title": {
+        "ko": "소유자는 바뀌고, 질문은 남았다",
+        "en": "New owners, the same question"
+      },
+      "body": {
+        "ko": "1912년 · 서적상 윌프리드 보이니치가 구입.\n\n1969년 · 예일대 바이네케 도서관에 기증.\n\n2025년 · 예일대는 여전히 번역되지 않은 문서로 소개.",
+        "en": "1912 · Bookseller Wilfrid Voynich acquires the manuscript.\n\n1969 · It is donated to Yale’s Beinecke Library.\n\n2025 · Yale still describes it as resisting translation."
+      },
+      "sourceIds": [
+        "yale-beinecke",
+        "yale-2025"
+      ]
+    },
+    {
+      "id": "image",
+      "type": "image",
+      "title": {
+        "ko": "기묘한 문서의 분위기",
+        "en": "An imagined archive"
+      },
+      "body": {
+        "ko": "생성 일러스트. 실제 보이니치 문서의 페이지나 정확한 글자·그림 복제가 아니다.",
+        "en": "Generated illustration, not an actual Voynich folio or an accurate reproduction of its script."
+      },
+      "sourceIds": [],
+      "image": "images/voynich.webp"
+    },
+    {
+      "id": "facts",
+      "type": "fact",
+      "title": {
+        "ko": "책의 연대와 글의 뜻은 별개다",
+        "en": "A date is not a translation"
+      },
+      "body": {
+        "ko": "재료 분석과 서체·그림 연구는 제작 맥락을 좁힐 수 있다. 그러나 재료가 오래됐다는 것과 특정 번역이 옳다는 것은 서로 다른 주장이다.",
+        "en": "Material analysis and visual study can narrow a manuscript’s context. Establishing old materials and validating a particular translation are separate tasks."
+      },
+      "sourceIds": []
+    },
+    {
+      "id": "theories",
+      "type": "theories",
+      "title": {
+        "ko": "문자일까, 암호일까",
+        "en": "Writing, cipher, or something else?"
+      },
+      "body": {
+        "ko": "예일대는 암호인지 자체도 조건부로 표현한다. 숨긴 언어라고 먼저 결정하면 해독 시도도 그 전제에 갇힌다.\n\n어떤 해석이든 다른 페이지에도 같은 규칙이 적용되는지 살펴야 한다.",
+        "en": "Yale leaves even the premise of encryption open. Assuming a hidden language too early can trap a proposed solution inside its own assumptions.\n\nAsk whether the same rules work on pages not used to construct the reading."
+      },
+      "sourceIds": [
+        "yale-beinecke"
+      ]
+    },
+    {
+      "id": "current",
+      "type": "text",
+      "title": {
+        "ko": "지금 남은 가장 큰 과제",
+        "en": "The remaining test"
+      },
+      "body": {
+        "ko": "이 기사에서 확인한 예일 자료는 확정 번역을 제시하지 않는다. 의미를 상상하는 일과 재현 가능한 해독을 만드는 일 사이에 이 책의 난제가 있다.",
+        "en": "The Yale sources checked for this article provide no accepted translation. The challenge lies between imagining meaning and producing a reproducible reading."
+      },
+      "sourceIds": [
+        "yale-beinecke",
+        "yale-2025"
+      ]
+    },
+    {
+      "id": "next",
+      "type": "text",
+      "title": {
+        "ko": "다른 문서는 얼마나 읽혔을까",
+        "en": "Has another manuscript yielded more?"
+      },
+      "body": {
+        "ko": "로혼치 코덱스에는 학술지에 실린 해석 제안이 있다. 두 책을 연결해 읽으면 해독 시도와 검증을 구분하기가 쉬워진다.",
+        "en": "The Rohonc Codex has a published interpretation proposal. Follow it next to compare a proposed reading with the evidence needed to validate one."
+      },
+      "sourceIds": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "held",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "문서는 예일대 바이네케 도서관에 소장돼 있다.",
+        "en": "The manuscript is held by Yale’s Beinecke Library."
+      },
+      "sourceIds": [
+        "yale-beinecke"
+      ]
+    },
+    {
+      "id": "meaning",
+      "status": "DISPUTED",
+      "text": {
+        "ko": "문서는 자연언어를 암호화한 글이다 — 문자 체계의 정체와 해석이 확정되지 않아 전제부터 논의 대상이다.",
+        "en": "The manuscript encodes a natural language — its script and interpretation remain unsettled, including that premise."
+      },
+      "sourceIds": [
+        "yale-beinecke"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "yale-beinecke",
+      "title": "The Beinecke Cipher (Voynich) Manuscript",
+      "publisher": "Yale Library",
+      "url": "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript",
+      "accessedAt": "2026-09-12"
+    },
+    {
+      "id": "yale-2025",
+      "title": "Deciphering a mysterious manuscript",
+      "publisher": "Yale News",
+      "url": "https://news.yale.edu/2025/02/21/deciphering-mysterious-manuscript",
+      "accessedAt": "2026-09-12"
+    }
+  ]
+}

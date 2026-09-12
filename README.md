@@ -1,73 +1,43 @@
-# Mystery Atlas — Android Prototype source
+# Mystery Atlas V2 — Android
 
-**Build status: BLOCKED / FAIL. No APK or AAB has been produced.**
-This is the recoverable native implementation, not a completed or runtime-verified deliverable.
+Native Android content app under implementation. The V2 product loop is discovery → article → related story → Rabbit Hole → save → return. The previous map and investigation game are being archived or removed. Do not use a successful APK build as evidence of product or visual approval.
 
-## Build in an Android-capable environment
+## Build foundation
 
-Requirements: JDK 17, Gradle 8.13, Android SDK Platform 36 and Build Tools 35.0.0, access to Google Maven, Maven Central and Gradle plugin repositories. Set `ANDROID_HOME` or use Android Studio's `local.properties`. The pinned AGP 8.13.2 / Gradle 8.13 combination supports API 36.
+The working V1 foundation is retained: JDK 17, Gradle 8.13, Android Gradle Plugin 8.13.2, Kotlin/Compose plugin 2.2.10, compile/target SDK 36 and minimum SDK 26. GitHub Actions installs Gradle explicitly; a Gradle Wrapper JAR is not included.
 
-Import this directory in Android Studio and use installed Gradle 8.13 for the first sync. Or run:
+V2 uses application ID `org.mysteryatlas.prototype.v2`, version code `2`, version name `0.2.0`. It can be installed alongside V1 (`org.mysteryatlas.prototype`) without uninstalling V1 or resetting its data. The namespace and Activity class remain `org.mysteryatlas` / `org.mysteryatlas.MainActivity`.
 
-```sh
-bash build-local.sh
-```
+The test build is debug-signed. No signing key is committed. Cross-run debug signing continuity is not guaranteed; this is not a production Play release. The same main APK bytes and instrumentation APK produced in one CI run are installed in that run's emulator job.
 
-The Gradle wrapper binary is **not** included because tool downloads were blocked. With Gradle installed, `gradle wrapper --gradle-version 8.13` generates the official wrapper. No home-written downloader substitutes for it.
+## CI and evidence
 
-Expected outputs **after a successful build**, not existing files:
+`.github/workflows/android-build.yml` runs for main and `codex/mystery-atlas-v2` pushes, main pull requests, and manual dispatch.
 
-- `app/build/outputs/apk/debug/app-debug.apk` (automatically debug-signed)
-- `app/build/outputs/bundle/release/app-release.aab` (unsigned test build structure; no release signing credentials)
+1. `build-debug` runs host QA, builds the main APK, compiles the instrumentation APK, runs Android lint, and records APK hashes, package/version identity and signer certificate hashes.
+2. `android-qa` downloads those exact APKs. It verifies their hashes and commit, starts one API 35 Google APIs x86_64 Pixel 7 emulator with KVM, and installs the downloaded APKs without rebuilding them.
+3. It clears only V2 data on this disposable emulator, runs `org.mysteryatlas.V2FlowTest`, force-stops and relaunches the app, then runs `org.mysteryatlas.V2PersistenceTest`. A second force-stop precedes `V2LocalePersistenceTest`, which verifies the nondefault English preference before restoring Korean. `V2DisplayTest` then runs separately at 360dp width and at system font scales 1.3 and 2.0; display settings are reset even on failure.
+4. AndroidJUnitRunner status is parsed explicitly. Test failure, skipped acceptance tests, runner failure, or zero executed tests fail the job. Seven named baseline screenshots and twelve display-variant screenshots must be produced. Independent visual review remains a separate gate.
 
-No Play upload or account setup is part of this task. Do not publish the unsigned release build.
+Artifacts:
 
-## Core loop
+| Artifact | Contents |
+|---|---|
+| `MysteryAtlas-debug-apk` | The built `app-debug.apk` for V2 |
+| `MysteryAtlas-V2-test-apk` | Its instrumentation APK |
+| `MysteryAtlas-V2-build-evidence` | APK provenance and lint reports |
+| `MysteryAtlas-V2-android-api35-evidence` | Device properties, installed package details, test logs/XML, screenshots and hashes, logcat, crash buffer, final UI hierarchy, APK provenance |
 
-Map → marker preview → briefing → provisional theory → three manual evidence steps → reveal → persisted completion → map / related preview.
+Artifact retention is 14 days. Final deliverables must be retrieved from the successful run rather than relying on indefinite artifact retention. Runtime evidence collection runs on test failure as well as success.
 
-The preview never exposes status before investigation. Completed markers use a check, without status colours. Bookmark controls live in previews and verdicts. The archive shows only revealed classifications. The rank configuration is separate data. Settings support device language, Korean and English.
+Instrumentation screenshots are written under the target app's `getExternalFilesDir(null)/screenshots`. No user storage permission is required. The CI script retrieves that directory before the emulator is stopped.
 
-Long-press MYSTERY ATLAS at the top in a debug build to open the local Session Report. No analytics SDK, identifiers, network requests or telemetry exports exist. Reports cover the current process session, include background elapsed time, and survive Activity recreation through the ViewModel. A new process starts a new session. Distinct case IDs prevent reopening case 1 from being counted as CASE 1 → CASE 2. The entry route is retained to distinguish related-button prompts from map exploration.
+The emulator setup follows the maintainer's [Android Emulator Runner documentation](https://github.com/ReactiveCircus/android-emulator-runner). KVM, `google_apis`, `x86_64`, headless options and the action's boot timeout are explicit in the workflow.
 
-Daily selection is deterministic over sorted IDs, prefers uninvestigated cases on the first selection that day, and persists the first selection for that date. The last 31 dates are retained. Local time-zone/date changes can change the daily date; no server is used.
+## Verification boundaries
 
-## Small, replaceable components
+The authoring environment currently has Java 17 and the `jdk.compiler` module, but no local Android SDK, Gradle, adb or emulator. Android compilation and rendering must be verified through CI until an Android toolchain is available locally.
 
-- `data/Content.kt`: parse and validate each case independently on Dispatchers.IO; reject malformed cases instead of taking down the catalog.
-- `data/Progress.kt`: DataStore preferences for theories, steps, completion, bookmarks, language, ranks and daily history; no cloud backup.
-- `domain/AtlasRules.java`: Android-independent daily/random selection, spatial clustering and session transition rules.
-- `map/AtlasMap.kt`: `MapRenderer` boundary and original offline schematic renderer; pinch/pan, zoom controls, clustered markers and brief focus motion.
-- `ui/`: Compose Material 3 with charcoal/ivory/amber tokens and progressive disclosure.
-- `metrics/`: process-local counters and a no-op case exit policy. It does not display ads.
-- `assets/cases.json`, `ui.json`, `ranks.json`, `world.json`: local data and translations.
+One API 35 emulator does not establish API 26 compatibility, every device configuration, real-device performance or commercial readiness. Source validation, build, functionality, accessibility, content/facts/rights, and independent visual review are separately tracked in `BUILD_STATUS.md`.
 
-## Map decision and limitations
-
-MapLibre Native and OpenFreeMap were evaluated as a keyless replacement path. This prototype source uses an original, intentionally coarse equirectangular world sketch so first-launch offline access requires no tile service or third-party asset download. Geometry is illustrative, not a navigation map. The visible credit is “Map: Mystery Atlas • schematic”. No OpenStreetMap/OpenFreeMap data or historical images are included. Do not falsely attribute this original sketch to those providers.
-
-A future provider must keep its required attribution visible. OpenFreeMap documents `OpenFreeMap © OpenMapTiles Data from OpenStreetMap`; MapLibre has an offline package but that alone does not bundle a map. No migration is implemented here.
-
-All coordinates are approximate, explicitly explained in previews, and deliberately have `coordinate_verified: false`. Bloop is a South Pacific discovery-area anchor, not a measured acoustic source. Wow is the Ohio observation site; Voynich is the present repository, not its place of authorship. Independent coordinate verification is outstanding.
-
-## Validation
-
-```sh
-bash qa/run-host-checks.sh
-```
-
-Host checks validate JSON structure, both languages, source references, verdicts, original map bounds, no manifest permissions, and 15 Java rule assertions including 500 marker retention and the case conversion metric. They do not compile Compose or validate Android persistence.
-
-After building and connecting a disposable emulator/device:
-
-```sh
-adb install -r app/build/outputs/apk/debug/app-debug.apk
-adb shell pm clear org.mysteryatlas.prototype
-gradle :app:connectedDebugAndroidTest
-```
-
-`pm clear` intentionally resets only this prototype's local progress on the test device. The instrumented test is authored but **not run**. Follow `qa/DEVICE_CHECKLIST.md` for force-stop persistence, gestures, source UI and crash checks. Do not mark delivery complete before those tests pass.
-
-## Scope
-
-Three cases only. No server, account, AI, location, permissions, AdMob, IAP, notifications, community, real-time content, user uploads or unclear-rights imagery. Reading time is an editorial target of about two minutes including choices and reflection, not a measured usability result.
+V1 repository and artifact verification succeeded before the pivot. V1's old source-only BLOCKED report is historical, not the current V1 outcome. V2 evidence must name the actual tested commit and artifact instead of inheriting V1 PASS claims.

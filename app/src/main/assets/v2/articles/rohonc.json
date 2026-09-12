@@ -1,0 +1,130 @@
+{
+  "caseId": "rohonc",
+  "verifiedAt": "2026-09-12",
+  "summary": {
+    "ko": "낯선 기호로 채운 로혼치 코덱스에는 기독교적 장면의 그림도 있다. 해독 제안은 학술지에 발표됐다. 흥미로운 질문은 더 이상 아무도 읽지 못했느냐가 아니라, 제안된 읽기를 얼마나 검증할 수 있느냐다.",
+    "en": "The Rohonc Codex mixes unfamiliar signs with religious imagery. An interpretation has reached a scholarly journal. The useful question is how well a proposed reading can be tested."
+  },
+  "sections": [
+    {
+      "id": "opening",
+      "type": "text",
+      "title": {
+        "ko": "그림이 열쇠가 될 수 있을까",
+        "en": "Can pictures provide a key?"
+      },
+      "body": {
+        "ko": "작은 책 안에 약 450쪽, 성서 장면처럼 보이는 그림 80여 개가 들어 있다. 로혼치 코덱스는 헝가리 과학아카데미 도서관의 MS K 114다.\n\n그림에서는 익숙한 장면을 찾을 수 있어도, 바로 옆의 기호는 쉽게 읽히지 않는다. 이미지가 열쇠인지, 해석을 미리 유도하는 함정인지부터 따져야 한다.",
+        "en": "A small book holds nearly 450 pages and more than 80 apparently biblical illustrations. It is MS K 114 at the Library of the Hungarian Academy of Sciences.\n\nA recognisable picture beside unreadable signs can be a clue—or steer a reader towards a meaning too soon."
+      },
+      "sourceIds": [
+        "rohonc-study"
+      ]
+    },
+    {
+      "id": "history",
+      "type": "timeline",
+      "title": {
+        "ko": "문서와 해석의 기록",
+        "en": "The record and its readings"
+      },
+      "body": {
+        "ko": "1838년 · 아카데미 소장품에 들어옴.\n\n2018년 · 키라이와 토카이의 해독 논문 발표.\n\n2019년 · 역사학자 베네데크 랑이 이전 시도들과 새로운 연구를 검토.",
+        "en": "1838 · Enters the Academy’s collection.\n\n2018 · Király and Tokai publish a decipherment paper.\n\n2019 · Historian Benedek Láng reviews earlier attempts and the newer work."
+      },
+      "sourceIds": [
+        "rohonc-study"
+      ]
+    },
+    {
+      "id": "image",
+      "type": "image",
+      "title": {
+        "ko": "문서 분위기 일러스트",
+        "en": "Archive illustration"
+      },
+      "body": {
+        "ko": "일반적인 고문서 분위기의 생성 이미지. 로혼치 코덱스의 실제 페이지가 아니다.",
+        "en": "Generated general archive illustration, not an actual Rohonc Codex page."
+      },
+      "sourceIds": [],
+      "image": "images/voynich.webp"
+    },
+    {
+      "id": "theories",
+      "type": "theories",
+      "title": {
+        "ko": "제안과 입증 사이",
+        "en": "Between proposal and demonstration"
+      },
+      "body": {
+        "ko": "2019년 연구는 새 해독 시도를 유망하게 평가한다. 그 평가를 모든 기호·문장이 최종 확정됐다는 뜻으로 바꾸지는 않는다.",
+        "en": "The 2019 review describes the newer attempt as promising. That assessment should not be expanded into certainty about every sign and sentence."
+      },
+      "sourceIds": [
+        "rohonc-study"
+      ]
+    },
+    {
+      "id": "current",
+      "type": "text",
+      "title": {
+        "ko": "시작과 끝도 확실하지 않은 책",
+        "en": "A book with uncertain beginnings and endings"
+      },
+      "body": {
+        "ko": "표제지는 없다. 앞뒤의 여러 장은 책에서 떨어져 원래 순서도 확실하지 않다. 읽을 기호뿐 아니라 페이지가 이어지는 순서까지 문제인 셈이다.\n\n1838년은 제작 연도가 아니라 소장 기록의 기준점이다. 그 이전의 여정을 모른다는 사실이 이 책의 이야기에 또 하나의 빈칸을 남긴다.",
+        "en": "There is no title page. Leaves detached from the front and back also leave their original sequence uncertain. Even the order of the pages presents a problem.\n\n1838 marks an accession record, not the date of manufacture. The earlier journey remains another gap in the story."
+      },
+      "sourceIds": [
+        "rohonc-study"
+      ]
+    },
+    {
+      "id": "next",
+      "type": "text",
+      "title": {
+        "ko": "이번에는 점토 위의 기호다",
+        "en": "Now try signs in clay"
+      },
+      "body": {
+        "ko": "파이스토스 원반은 책 한 권보다 훨씬 짧은 자료를 남겼다. 문서가 짧아지면 해석을 검증하기는 쉬워질까, 더 어려워질까?",
+        "en": "The Phaistos Disc offers much less material than a book. Does a shorter text make a proposed reading easier to test—or harder?"
+      },
+      "sourceIds": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "publication",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "2018년 해독 제안이 발표됐고 2019년 연구에서 논의됐다.",
+        "en": "A 2018 decipherment proposal is discussed in the 2019 study."
+      },
+      "sourceIds": [
+        "rohonc-study"
+      ]
+    },
+    {
+      "id": "interpretation",
+      "status": "DISPUTED",
+      "text": {
+        "ko": "제안된 해독으로 본문을 일관되게 읽을 수 있다 — 2019년 연구는 유망한 시도로 평가했으나 모든 해석의 최종 확정을 뜻하지 않는다.",
+        "en": "The proposed decipherment provides a consistent reading — the 2019 study regards it as promising, without establishing every interpretation as final."
+      },
+      "sourceIds": [
+        "rohonc-study"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "rohonc-study",
+      "title": "Experiences in the Historiography of the Rohonc Codex",
+      "publisher": "Benedek Láng; HistoCrypt 2019 / Linköping University Electronic Press",
+      "url": "https://ep.liu.se/ecp/158/006/ecp19158006.pdf",
+      "accessedAt": "2026-09-12"
+    }
+  ]
+}

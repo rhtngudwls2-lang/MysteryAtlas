@@ -1,0 +1,18 @@
+{
+  "reviewedAtUtc": "2026-09-12T09:38:19.372600+00:00",
+  "reviewScope": "Independent Engineering source, build-config, prepared-test and QA-script review; no Android execution",
+  "sourceReview": "SOURCE_REVIEW_PASS",
+  "androidCompileLintAssembleRuntime": "BLOCKED",
+  "buildInputManifestSha256": "44f0788ce80cc1a16c96d83478fce4e90afcef69736e3b194504a8af16c2ff2e",
+  "reviewManifest": "qa/local-validation/reviews/engineering-reviewed-files.sha256",
+  "reviewManifestSha256": "c4645053a60021080d83228acc9700956877eeab0f4a87450b0300ffb24d754d",
+  "reviewedFileCount": 42,
+  "knownStaticDefectsRemaining": [],
+  "correctedFindings": [
+    "E1",
+    "E2",
+    "E4"
+  ],
+  "preparedRuntimeVerificationGap": "E3 now has prepared assertions; still NOT RUN on Android",
+  "finalNarrowReReview": "Only V2FlowTest.kt changed since previous stamp. All three rabbit_depth checks explicitly scroll the existing rabbit_list to the header before asserting. Preserved-list scroll no longer causes an offscreen-node assertion; Android tests still NOT RUN."
+}

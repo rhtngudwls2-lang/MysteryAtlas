@@ -1,0 +1,119 @@
+{
+  "caseId": "phaistos",
+  "verifiedAt": "2026-09-12",
+  "summary": {
+    "ko": "점토 원반의 양면에 기호가 나선처럼 이어진다. 파이스토스 원반은 미노아 문명의 수수께끼 같은 유물이다. 남은 기호를 볼 수 있다는 것과 그것을 읽을 수 있다는 것은 다르다.",
+    "en": "Signs spiral across both sides of a clay disc. The Phaistos Disc is an enigmatic Minoan artefact: visible marks do not automatically yield a readable message."
+  },
+  "sections": [
+    {
+      "id": "opening",
+      "type": "text",
+      "title": {
+        "ko": "점토 위에 찍힌 나선",
+        "en": "A spiral impressed into clay"
+      },
+      "body": {
+        "ko": "이라클리오 고고학박물관의 설명에 따르면 기호는 작은 도장을 이용해 점토에 찍혔다. 눈앞에 남은 것은 누군가 기호를 배치한 방식이다.",
+        "en": "The Heraklion Archaeological Museum describes signs impressed into clay with small stamps. What survives is a visible arrangement made by someone."
+      },
+      "sourceIds": [
+        "phaistos-museum"
+      ]
+    },
+    {
+      "id": "fact",
+      "type": "fact",
+      "title": {
+        "ko": "먼저 볼 수 있는 것부터",
+        "en": "Start with what can be observed"
+      },
+      "body": {
+        "ko": "박물관은 양면의 기호를 총 241개로 설명한다. 같은 기호의 반복과 나선형 배치는 관찰할 수 있지만, 그것만으로 특정 번역이 증명되지는 않는다.",
+        "en": "The museum counts 241 signs across both faces. Repetition and spiral layout can be observed; neither alone validates a particular translation."
+      },
+      "sourceIds": [
+        "phaistos-museum"
+      ]
+    },
+    {
+      "id": "image",
+      "type": "image",
+      "title": {
+        "ko": "고문서 아카이브 일러스트",
+        "en": "General archive illustration"
+      },
+      "body": {
+        "ko": "고대 기록을 연상시키는 생성 이미지. 실제 파이스토스 원반이나 그 표면의 기호를 재현한 이미지가 아니다.",
+        "en": "Generated archive illustration. It does not depict the actual Phaistos Disc or reproduce its signs."
+      },
+      "sourceIds": [],
+      "image": "images/voynich.webp"
+    },
+    {
+      "id": "theories",
+      "type": "theories",
+      "title": {
+        "ko": "긁어 쓴 글이 아니라 찍어 낸 자국",
+        "en": "Impressed marks, not scratched lines"
+      },
+      "body": {
+        "ko": "작은 도장으로 기호를 찍었다면 도장 자체를 먼저 준비해야 한다. 손으로 매번 새로 그리는 방식과는 다른 선택이다.\n\n원반을 둘러싼 질문은 글의 뜻만이 아니다. 왜 이 제작 방식을 택했고, 양면의 나선에 기호를 어떻게 배치했을까? 도장의 사용에서 출발한 질문이며, 용도가 밝혀졌다는 뜻은 아니다.",
+        "en": "Using small stamps requires the stamps to exist before the marks are made—a different choice from drawing each sign afresh.\n\nThe puzzle includes that choice of manufacture: why stamps, and why an arrangement winding across two faces? These questions follow from the technique; they do not establish the object’s purpose."
+      },
+      "sourceIds": [
+        "phaistos-museum"
+      ]
+    },
+    {
+      "id": "current",
+      "type": "text",
+      "title": {
+        "ko": "241개의 자국이 남긴 질문",
+        "en": "The question in 241 impressions"
+      },
+      "body": {
+        "ko": "박물관이 제시한 241은 양면에 남은 기호의 총수다. 곧바로 서로 다른 글자가 241종이라는 뜻은 아니다.\n\n기호가 어디서 반복되는지, 나선의 어느 부분에서 이어지는지를 살펴보면 이야기를 붙이기 전에 볼 수 있는 것이 늘어난다. 이 기록에서는 확정 번역을 제시하지 않는다.",
+        "en": "The museum’s 241 is a total across both faces. It does not mean there are 241 different characters.\n\nWhere marks repeat and how they sit along the spiral are questions to examine before attaching a story. This record offers no settled translation."
+      },
+      "sourceIds": [
+        "phaistos-museum"
+      ]
+    },
+    {
+      "id": "next",
+      "type": "text",
+      "title": {
+        "ko": "책 한 권으로 돌아가 보기",
+        "en": "Return to a whole book"
+      },
+      "body": {
+        "ko": "보이니치 문서에는 훨씬 많은 페이지가 있다. 자료의 양이 늘어나도 읽기가 저절로 가능해지지는 않는다. 이제 그 책을 다른 눈으로 살펴보자.",
+        "en": "Voynich offers many more pages. More material does not automatically make a script readable. Return to it with a different question in mind."
+      },
+      "sourceIds": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "object",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "양면에 나선형 기호가 찍힌 점토 원반이다.",
+        "en": "A clay disc bears spiral arrangements of impressed signs on both faces."
+      },
+      "sourceIds": [
+        "phaistos-museum"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "phaistos-museum",
+      "title": "The Phaistos Disc",
+      "publisher": "Heraklion Archaeological Museum",
+      "url": "https://heraklionmuseum.gr/en/exhibit/the-phaistos-disc/",
+      "accessedAt": "2026-09-12"
+    }
+  ]
+}

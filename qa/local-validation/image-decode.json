@@ -1,0 +1,50 @@
+{
+  "scope": "ACTUAL_PACKAGED_IMAGE_DECODE_NOT_ANDROID_RENDER",
+  "checks": [
+    {
+      "file": "images/cooper.webp",
+      "actualDimensions": [
+        1200,
+        800
+      ],
+      "format": "WEBP",
+      "decode": "PASS"
+    },
+    {
+      "file": "images/voynich.webp",
+      "actualDimensions": [
+        1200,
+        800
+      ],
+      "format": "WEBP",
+      "decode": "PASS"
+    },
+    {
+      "file": "images/mary-celeste.webp",
+      "actualDimensions": [
+        1200,
+        800
+      ],
+      "format": "WEBP",
+      "decode": "PASS"
+    },
+    {
+      "file": "images/dyatlov.webp",
+      "actualDimensions": [
+        1200,
+        800
+      ],
+      "format": "WEBP",
+      "decode": "PASS"
+    },
+    {
+      "file": "images/wow.webp",
+      "actualDimensions": [
+        1200,
+        800
+      ],
+      "format": "WEBP",
+      "decode": "PASS"
+    }
+  ]
+}

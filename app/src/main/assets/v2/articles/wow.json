@@ -1,0 +1,164 @@
+{
+  "caseId": "wow",
+  "verifiedAt": "2026-09-12",
+  "summary": {
+    "ko": "1977년 빅 이어 전파망원경의 출력지에 6EQUJ5가 남았다. 강한 신호의 세기 기록이었다. 외계인의 문장을 받은 것은 아니다. 이후 재분석은 자연적인 천체 현상 가능성을 살피고 있다.",
+    "en": "In 1977, Big Ear recorded 6EQUJ5: an intensity sequence from a strong radio signal, not a decoded alien sentence. Later reanalysis has explored a possible natural astrophysical origin."
+  },
+  "sections": [
+    {
+      "id": "opening",
+      "type": "text",
+      "title": {
+        "ko": "우주가 남긴 여섯 글자?",
+        "en": "Six characters from space?"
+      },
+      "body": {
+        "ko": "제리 에먼은 관측 출력지를 검토하다 강한 신호를 발견하고 Wow!라고 적었다. 6EQUJ5는 문장이 아니라 수신 세기를 압축해 인쇄한 값이다.",
+        "en": "Reviewing the printout, Jerry Ehman marked an unusual signal with “Wow!” The sequence 6EQUJ5 encoded received intensity, not words."
+      },
+      "sourceIds": [
+        "ehman"
+      ]
+    },
+    {
+      "id": "timeline",
+      "type": "timeline",
+      "title": {
+        "ko": "한 번의 기록, 여러 번의 재검토",
+        "en": "One record, repeated scrutiny"
+      },
+      "body": {
+        "ko": "1977년 8월 15일 · 미국 현지 날짜 기준 관측.\n\n2007년 · 에먼이 관측·해석의 한계를 정리.\n\n2025년 · 과거 관측 자료를 다시 분석한 프리프린트 발표.",
+        "en": "August 15, 1977 · Detection, using the local US date.\n\n2007 · Ehman reviews the observation and its limits.\n\n2025 · A preprint reanalyses archived observations."
+      },
+      "sourceIds": [
+        "ehman",
+        "wow-2025"
+      ]
+    },
+    {
+      "id": "image",
+      "type": "image",
+      "title": {
+        "ko": "전파를 듣는 밤의 이미지",
+        "en": "An imagined listening station"
+      },
+      "body": {
+        "ko": "전파 관측을 연상시키는 생성 일러스트. 빅 이어의 정확한 구조나 실제 신호 출력지가 아니다.",
+        "en": "Generated radio-observatory illustration, not an accurate depiction of Big Ear or the original printout."
+      },
+      "sourceIds": [],
+      "image": "images/wow.webp"
+    },
+    {
+      "id": "facts",
+      "type": "fact",
+      "title": {
+        "ko": "72초는 관측의 창이다",
+        "en": "A window, not a message length"
+      },
+      "body": {
+        "ko": "흔히 약 72초로 소개되는 기록은 망원경이 신호를 관측한 구간이다. 송신원이 정확히 그 시간만 작동했다고 단정할 수 없다.",
+        "en": "The commonly cited roughly 72 seconds describes the recorded observation window. It does not prove that the source emitted for exactly that long."
+      },
+      "sourceIds": [
+        "ehman"
+      ]
+    },
+    {
+      "id": "theories",
+      "type": "theories",
+      "title": {
+        "ko": "자연현상이라는 새 설명",
+        "en": "A proposed natural origin"
+      },
+      "body": {
+        "ko": "2025년 연구진은 위치·세기·주파수의 추정치를 다시 계산하고 천체 기원을 지지한다고 보고했다. 차가운 수소 구름과 관련된 방출은 제안된 설명이지 확인된 정답이 아니다.",
+        "en": "The 2025 authors revised position, intensity and frequency estimates and reported support for an astrophysical origin. Emission involving cold hydrogen clouds remains a proposal, not an identified source."
+      },
+      "sourceIds": [
+        "wow-2025"
+      ]
+    },
+    {
+      "id": "current",
+      "type": "text",
+      "title": {
+        "ko": "외계 신호로 확정되지 않았다",
+        "en": "No confirmed alien origin"
+      },
+      "body": {
+        "ko": "강렬하고 특이했다는 점과 외계 지성이 보냈다는 결론 사이에는 큰 간격이 있다. 재분석 논문도 추가 연구가 필요하다고 말한다.",
+        "en": "An intense, unusual signal is not the same as evidence of an intelligent sender. The reanalysis still calls for further investigation."
+      },
+      "sourceIds": [
+        "wow-2025"
+      ]
+    },
+    {
+      "id": "next",
+      "type": "text",
+      "title": {
+        "ko": "읽지 못한 것과 해석하지 못한 것",
+        "en": "Unread, or unexplained?"
+      },
+      "body": {
+        "ko": "보이니치 문서에서는 기호의 뜻을, Wow!에서는 수치가 생긴 원인을 묻는다. 다음 기록으로 가서 두 질문의 차이를 살펴보자.",
+        "en": "Voynich asks what symbols mean; Wow! asks what caused a measurement. Follow the manuscript to explore that difference."
+      },
+      "sourceIds": []
+    }
+  ],
+  "evidence": [
+    {
+      "id": "signal",
+      "status": "CONFIRMED",
+      "text": {
+        "ko": "1977년 관측 데이터에 신호 세기 수열이 남아 있다.",
+        "en": "The 1977 data contain an intensity sequence."
+      },
+      "sourceIds": [
+        "ehman"
+      ]
+    },
+    {
+      "id": "natural",
+      "status": "CLAIM",
+      "text": {
+        "ko": "차가운 수소 구름과 관련된 방출이 신호의 원인이다 — 연구진이 제안했으며 원인이 확정된 것은 아니다.",
+        "en": "Emission involving cold hydrogen clouds caused the signal — researchers propose this; the source has not been identified."
+      },
+      "sourceIds": [
+        "wow-2025"
+      ]
+    },
+    {
+      "id": "message",
+      "status": "DEBUNKED",
+      "text": {
+        "ko": "6EQUJ5는 외계인의 해독된 문장이다 — 실제로는 수신 세기를 나타내는 기록이다.",
+        "en": "6EQUJ5 is a decoded alien sentence — it actually records received signal intensity."
+      },
+      "sourceIds": [
+        "ehman"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ehman",
+      "title": "The Big Ear Wow! Signal — 30th Anniversary Report",
+      "publisher": "Jerry R. Ehman; Ohio State University Radio Observatory / NAAPO",
+      "url": "https://www.bigear.org/Wow30th/wow30th.htm",
+      "accessedAt": "2026-09-12"
+    },
+    {
+      "id": "wow-2025",
+      "title": "Arecibo Wow! II: Revised Properties of the Wow! Signal from Archival Ohio SETI Data",
+      "publisher": "Méndez et al.; arXiv preprint (2025)",
+      "url": "https://arxiv.org/abs/2508.10657",
+      "accessedAt": "2026-09-12"
+    }
+  ]
+}

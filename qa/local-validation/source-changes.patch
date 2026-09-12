@@ -1,0 +1,772 @@
+--- original/SOURCES_AND_RIGHTS.md
++++ local/SOURCES_AND_RIGHTS.md
+@@ -1,3 +1,5 @@
++> V1 ARCHIVAL RECORD — retained for provenance only. This document describes the previous prototype and is superseded for V2 by `qa/CONTENT_SOURCES.md` and `app/src/main/assets/v2/image-rights.json`. V2 includes five AI-generated editorial illustrations, clearly separated from historical evidence.
++
+ # Source and rights record
+ 
+ Editorial verification performed 2026-09-12. Text is paraphrased; no source-page images/audio were embedded. `source_verified` marks the cited editorial source review, not independent coordinate or Android QA approval.
+--- original/app/src/androidTest/java/org/mysteryatlas/V2FlowTest.kt
++++ local/app/src/androidTest/java/org/mysteryatlas/V2FlowTest.kt
+@@ -4,6 +4,7 @@
+ import android.view.KeyEvent
+ import androidx.compose.ui.test.*
+ import androidx.compose.ui.test.junit4.createAndroidComposeRule
++import androidx.compose.ui.semantics.SemanticsProperties
+ import androidx.test.platform.app.InstrumentationRegistry
+ import org.json.JSONArray
+ import org.json.JSONObject
+@@ -11,6 +12,10 @@
+ import org.junit.Rule
+ import org.junit.Test
+ import java.io.File
++import kotlinx.coroutines.flow.first
++import kotlinx.coroutines.runBlocking
++import kotlinx.coroutines.withTimeout
++import org.mysteryatlas.data.ProgressRepository
+ 
+ /** Real Android instrumentation. Run on the disposable emulator after pm clear. */
+ class V2FlowTest {
+@@ -108,9 +113,14 @@
+         val relatedId = case("cooper").getJSONArray("related").getJSONObject(0).getString("caseId")
+         checkStep("Rabbit Hole opens from article; related case; Android Back") {
+             scroll("article_list", "rabbit_open"); tap("rabbit_open"); await("rabbit_list")
++            scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 1")
+             screenshot("05-rabbit-hole.png")
+             scroll("rabbit_list", "related_$relatedId"); tap("related_$relatedId"); article(relatedId)
++            scroll("article_list", "rabbit_open"); tap("rabbit_open")
++            scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 2")
++            back(); article(relatedId)
+             back(); await("rabbit_list")
++            scroll("rabbit_list", "rabbit_depth"); node("rabbit_depth").assertTextEquals("RABBIT HOLE · 1")
+         }
+         checkStep("Explore; Category; category case opens article") {
+             tap("nav_explore"); await("explore_list"); screenshot("02-explore.png")
+@@ -158,6 +168,17 @@
+         }
+         checkStep("Final saved Korean Cooper and recent state; no uncaught crash during flow") {
+             tap("nav_saved"); await("saved_list"); tap("card_cooper"); article("cooper")
++            scroll("article_list", "article_read_end")
++            val completed = runBlocking { withTimeout(12_000) { ProgressRepository(context).flow.first { "cooper" in it.completed } } }
++            assertTrue("End-of-narrative completion recorded", "cooper" in completed.completed)
++            scroll("article_list", "section_money")
++            val expected = runBlocking { withTimeout(12_000) {
++                ProgressRepository(context).flow.first { it.positions["cooper"]?.first == 7 }
++            } }.positions.getValue("cooper")
++            val range = node("article_list").fetchSemanticsNode().config[SemanticsProperties.VerticalScrollAxisRange].value()
++            File(proofDir, "reading-position-expected.json").writeText(JSONObject()
++                .put("caseId", "cooper").put("index", expected.first).put("offset", expected.second)
++                .put("scrollRange", range.toDouble()).put("completed", true).toString(2))
+             tap("nav_home"); await("hero_open")
+         }
+     }
+--- original/app/src/androidTest/java/org/mysteryatlas/V2PersistenceTest.kt
++++ local/app/src/androidTest/java/org/mysteryatlas/V2PersistenceTest.kt
+@@ -4,12 +4,17 @@
+ import androidx.compose.ui.test.*
+ import androidx.compose.ui.test.junit4.createAndroidComposeRule
+ import androidx.compose.ui.unit.dp
++import androidx.compose.ui.semantics.SemanticsProperties
+ import androidx.test.platform.app.InstrumentationRegistry
+ import org.json.JSONArray
+ import org.json.JSONObject
+ import org.junit.Rule
+ import org.junit.Test
+ import java.io.File
++import kotlinx.coroutines.flow.first
++import kotlinx.coroutines.runBlocking
++import kotlinx.coroutines.withTimeout
++import org.mysteryatlas.data.ProgressRepository
+ 
+ /** Run as a NEW instrumentation process after am force-stop, without pm clear. */
+ class V2PersistenceTest {
+@@ -40,6 +45,21 @@
+         record("Cold app launch") { await("hero_open") }
+         record("Saved Cooper survives force-stop and new process") {
+             tap("nav_saved"); await("saved_list"); node("card_cooper").assertIsDisplayed()
++        }
++        record("Reading completion and actual Article scroll position survive force-stop") {
++            val expectedFile = File(context.getExternalFilesDir(null), "screenshots/reading-position-expected.json")
++            check(expectedFile.isFile) { "Previous-process reading-position evidence missing" }
++            val expected = JSONObject(expectedFile.readText())
++            val restored = runBlocking { withTimeout(12_000) { ProgressRepository(context).flow.first { it.ready } } }
++            check("cooper" in restored.completed) { "Read completion did not persist" }
++            check(restored.positions["cooper"] == (expected.getInt("index") to expected.getInt("offset"))) { "Saved reading position changed across processes" }
++            tap("card_cooper"); await("article_list")
++            compose.waitUntil(12_000) {
++                val actual = node("article_list").fetchSemanticsNode().config[SemanticsProperties.VerticalScrollAxisRange].value()
++                kotlin.math.abs(actual - expected.getDouble("scrollRange").toFloat()) < 0.01f
++            }
++            node("section_money").assertIsDisplayed()
++            tap("nav_saved"); await("saved_list")
+         }
+         record("Korean locale persists independently of navigation") {
+             tap("card_cooper"); await("article_list")
+--- original/app/src/main/assets/v2/articles/mary-celeste.json
++++ local/app/src/main/assets/v2/articles/mary-celeste.json
+@@ -59,7 +59,7 @@
+       },
+       "body": {
+         "ko": "배가 남았다는 사실만 보면 갑작스러운 실종을 상상하기 쉽다. 작은 배와 항해 도구가 없었다는 관찰은 다른 질문을 만든다. 그들은 어떤 위험을 예상했기에 옮겨 탔을까?",
+-        "en": "An intact vessel invites stories of sudden disappearance. The missing boat and navigational instruments invite a different question: what danger might have made leaving seem safer?"
++        "en": "A vessel still afloat invites stories of sudden disappearance. The missing boat and navigational instruments invite a different question: what danger might have made leaving seem safer?"
+       },
+       "sourceIds": [
+         "rmg-mary"
+--- original/app/src/main/java/org/mysteryatlas/AtlasViewModel.kt
++++ local/app/src/main/java/org/mysteryatlas/AtlasViewModel.kt
+@@ -7,13 +7,17 @@
+ import kotlinx.coroutines.flow.*
+ import kotlinx.coroutines.launch
+ import kotlinx.coroutines.CancellationException
++import kotlinx.coroutines.Job
+ import org.mysteryatlas.data.*
+ 
+ class AtlasViewModel(application:Application,private val saved:SavedStateHandle):AndroidViewModel(application) {
+  private val repository=ContentRepository(application)
+  private val storage=ProgressRepository(application)
+  val catalog=MutableStateFlow<Catalog?>(null)
+- val user=storage.flow.stateIn(viewModelScope,SharingStarted.Eagerly,UserState())
++ val user=MutableStateFlow(UserState())
++ val storageError=MutableStateFlow(false)
++ private var userJob:Job?=null
++ private var articleJob:Job?=null
+  val error=MutableStateFlow(false)
+  val article=MutableStateFlow<Article?>(null)
+  val articleError=MutableStateFlow(false)
+@@ -25,21 +29,46 @@
+  private var stack:ArrayList<String>
+   get()=saved.get<ArrayList<String>>("v2:stack")?:arrayListOf()
+   set(value){saved["v2:stack"]=value}
+- init{load()}
++ init{retryStorage();load()}
++ fun retryStorage(){
++  userJob?.cancel()
++  storageError.value=false
++  userJob=viewModelScope.launch{
++   try{storage.flow.collect{user.value=it;storageError.value=false}}
++   catch(c:CancellationException){throw c}
++   catch(_:Exception){storageError.value=true}
++  }
++ }
+  fun load(forceError:Boolean=false){viewModelScope.launch{error.value=false;catalog.value=null;if(forceError){error.value=true;return@launch};runCatching{repository.catalog()}.onSuccess{catalog.value=it;if(screen.value=="article")loadArticle(active.value)}.onFailure{error.value=true}}}
+  fun tab(to:String){stack=arrayListOf();saved["v2:path"]=arrayListOf<String>();saved["v2:screen"]=to}
+  private fun push(){stack=ArrayList(stack+listOf("${screen.value}~${active.value}~${category.value}~${path.value.joinToString(",")}"))}
+- fun open(id:String,related:Boolean=false){if(catalog.value?.cases?.none{it.id==id}!=false)return;push();saved["v2:path"]=if(related)ArrayList(path.value.filter{it!=id}+id)else arrayListOf(id);saved["v2:active"]=id;saved["v2:screen"]="article";loadArticle(id);write{storage.visit(id)}}
+- fun loadArticle(id:String){val story=catalog.value?.cases?.find{it.id==id}?:return;article.value=null;articleError.value=false;viewModelScope.launch{runCatching{repository.article(story)}.onSuccess{if(active.value==id)article.value=it}.onFailure{if(active.value==id)articleError.value=true}}}
++ fun open(id:String,related:Boolean=false){
++  val data=catalog.value?:return
++  if(data.cases.none{it.id==id})return
++  if(related&&path.value.isNotEmpty()&&data.cases.firstOrNull{it.id==path.value.last()}?.related?.none{it.caseId==id}!=false)return
++  if(screen.value=="article"&&active.value==id)return
++  push();saved["v2:path"]=if(related)ArrayList(relatedPath(path.value,id))else arrayListOf(id)
++  saved["v2:active"]=id;saved["v2:screen"]="article";loadArticle(id);write{storage.visit(id)}
++ }
++ fun loadArticle(id:String){
++  val story=catalog.value?.cases?.find{it.id==id}?:return
++  articleJob?.cancel();article.value=null;articleError.value=false
++  articleJob=viewModelScope.launch{
++   try{val loaded=repository.article(story);if(active.value==id)article.value=loaded}
++   catch(c:CancellationException){throw c}
++   catch(_:Exception){if(active.value==id)articleError.value=true}
++  }
++ }
+  fun rabbit(){push();if(path.value.isEmpty())saved["v2:path"]=arrayListOf("cooper");saved["v2:screen"]="rabbit"}
++ fun revisit(id:String){if(id !in path.value)return;push();saved["v2:path"]=ArrayList(relatedPath(path.value,id));saved["v2:active"]=id;saved["v2:screen"]="article";loadArticle(id);write{storage.visit(id)}}
+  fun category(id:String){push();saved["v2:category"]=id;saved["v2:screen"]="category"}
+  fun recent(){push();saved["v2:screen"]="recent"}
+  fun back(){val s=stack;if(s.isEmpty()){tab("home");return};val p=s.last().split("~");stack=ArrayList(s.dropLast(1));saved["v2:active"]=p.getOrElse(1){""};saved["v2:category"]=p.getOrElse(2){""};saved["v2:path"]=ArrayList(p.getOrElse(3){""}.split(",").filter{it.isNotEmpty()});saved["v2:screen"]=p[0];if(p[0]=="article")loadArticle(active.value)}
+  fun query(value:String){saved["v2:query"]=value}
+- private fun write(action:suspend()->Unit){viewModelScope.launch{try{action()}catch(c:CancellationException){throw c}catch(_:Exception){error.value=true}}}
+- fun bookmark(id:String){write{storage.bookmark(id)}}
+- fun language(){write{storage.language(if(user.value.language=="ko")"en" else "ko")}}
++ private fun write(action:suspend()->Unit){viewModelScope.launch{try{action()}catch(c:CancellationException){throw c}catch(_:Exception){storageError.value=true}}}
++ fun bookmark(id:String){if(user.value.ready&&!storageError.value)write{storage.bookmark(id)}}
++ fun language(){if(user.value.ready&&!storageError.value)write{storage.language(if(user.value.language=="ko")"en" else "ko")}}
+  fun position(id:String,index:Int,offset:Int){write{storage.position(id,index,offset)}}
+- fun results():List<Story>{val data=catalog.value?:return emptyList();val q=normalize(query.value);if(q.isEmpty())return data.cases;return data.cases.filter{s->(listOf(s.canonicalTitle,s.headline.ko,s.headline.en,s.hook.ko,s.hook.en,s.country.ko,s.country.en)+s.tags+s.aliases+s.persons.map{it.name}+s.locations.map{it.name}+data.categories.filter{it.id in s.categoryIds}.flatMap{listOf(it.name.ko,it.name.en)}).any{normalize(it).contains(q)}}}
+- private fun normalize(s:String)=s.lowercase().filter{it.isLetterOrDigit()}
++ fun complete(id:String){if(id !in user.value.completed)write{storage.complete(id)}}
++ fun results():List<Story> = catalog.value?.let{searchStories(it,query.value)}?:emptyList()
+ }
+--- original/app/src/main/java/org/mysteryatlas/data/Content.kt
++++ local/app/src/main/java/org/mysteryatlas/data/Content.kt
+@@ -5,6 +5,8 @@
+ import kotlinx.coroutines.withContext
+ import org.json.JSONArray
+ import org.json.JSONObject
++import java.text.Normalizer
++import java.util.Locale
+ 
+ data class Copy(val translations:Map<String,String>,val markets:Map<String,Map<String,String>> = emptyMap()) {
+  val ko:String get()=text("ko")
+@@ -33,6 +35,19 @@
+ data class Source(val id:String,val title:String,val publisher:String,val url:String,val accessedAt:String)
+ data class Article(val caseId:String,val verifiedAt:String,val summary:Copy,val sections:List<Section>,val evidence:List<Evidence>,val sources:List<Source>)
+ data class Catalog(val categories:List<Category>,val cases:List<Story>)
++// Returning to an earlier node truncates the route, preserving actual graph edges.
++fun relatedPath(path:List<String>,id:String):List<String>{val prior=path.indexOf(id);return if(prior>=0)path.take(prior+1)else path+id}
++private fun normalizedSearch(value:String)=Normalizer.normalize(value,Normalizer.Form.NFKC).lowercase(Locale.ROOT).filter{it.isLetterOrDigit()}
++fun searchStories(data:Catalog,query:String):List<Story>{
++ val q=normalizedSearch(query);if(q.isEmpty())return data.cases
++ return data.cases.mapNotNull{s->
++  val names=(listOf(s.canonicalTitle)+s.aliases).map(::normalizedSearch)
++  val headlines=listOf(s.headline.ko,s.headline.en).map(::normalizedSearch)
++  val metadata=(listOf(s.hook.ko,s.hook.en,s.country.ko,s.country.en)+s.tags+s.persons.map{it.name}+s.locations.map{it.name}+data.categories.filter{it.id in s.categoryIds}.flatMap{listOf(it.name.ko,it.name.en)}).map(::normalizedSearch)
++  val rank=when{q in names->0;names.any{it.contains(q)}->1;headlines.any{it.contains(q)}->2;metadata.any{it.contains(q)}->3;else->return@mapNotNull null}
++  s to rank
++ }.sortedWith(compareBy<Pair<Story,Int>>{it.second}.thenBy{it.first.id}).map{it.first}
++}
+ private fun JSONObject.copy(key:String)=getJSONObject(key).let { o->
+  val translations=o.keys().asSequence().filter{it!="markets"}.associateWith{o.getString(it)}
+  val variants=o.optJSONObject("markets")
+--- original/app/src/main/java/org/mysteryatlas/data/Progress.kt
++++ local/app/src/main/java/org/mysteryatlas/data/Progress.kt
+@@ -4,25 +4,26 @@
+ import androidx.datastore.core.handlers.ReplaceFileCorruptionHandler
+ import androidx.datastore.preferences.core.*
+ import androidx.datastore.preferences.preferencesDataStore
+-import kotlinx.coroutines.flow.catch
+ import kotlinx.coroutines.flow.map
+-import java.io.IOException
+ 
+ private val Context.store by preferencesDataStore("atlas_progress",corruptionHandler=ReplaceFileCorruptionHandler{emptyPreferences()})
+-data class UserState(val bookmarks:Set<String> = emptySet(),val language:String="ko",val recent:List<String> = emptyList(),val positions:Map<String,Pair<Int,Int>> = emptyMap(),val ready:Boolean=false)
++data class UserState(val bookmarks:Set<String> = emptySet(),val language:String="ko",val recent:List<String> = emptyList(),val positions:Map<String,Pair<Int,Int>> = emptyMap(),val ready:Boolean=false,val completed:Set<String> = emptySet())
+ class ProgressRepository(context:Context) {
+  private val store=context.store
+  private val marks=stringSetPreferencesKey("bookmarks")
+  private val lang=stringPreferencesKey("language")
+  private val recent=stringPreferencesKey("v2:recent")
+- val flow=store.data.catch{if(it is IOException)emit(emptyPreferences())else throw it}.map{p->
++ private val completed=stringSetPreferencesKey("v2:completed")
++ // Read failures propagate to the ViewModel; an error is never an empty saved list.
++ val flow=store.data.map{p->
+   val positions=p.asMap().entries.filter{it.key.name.startsWith("v2:position:")}.associate {e->
+-   val parts=e.value.toString().split(":");e.key.name.removePrefix("v2:position:") to ((parts.getOrNull(0)?.toIntOrNull()?:0) to (parts.getOrNull(1)?.toIntOrNull()?:0))
++   val parts=e.value.toString().split(":");e.key.name.removePrefix("v2:position:") to ((parts.getOrNull(0)?.toIntOrNull()?:0).coerceAtLeast(0) to (parts.getOrNull(1)?.toIntOrNull()?:0).coerceAtLeast(0))
+   }
+-  UserState(p[marks]?:emptySet(),p[lang]?.takeIf{it in setOf("ko","en")}?:"ko",p[recent]?.split("|")?.filter{it.isNotBlank()}?:emptyList(),positions,true)
++   UserState(p[marks]?:emptySet(),p[lang]?.takeIf{it in setOf("ko","en")}?:"ko",p[recent]?.split("|")?.filter{it.isNotBlank()}?:emptyList(),positions,true,p[completed]?:emptySet())
+  }
+  suspend fun bookmark(id:String){store.edit{p->val s=p[marks]?:emptySet();p[marks]=if(id in s)s-id else s+id}}
+  suspend fun language(value:String){store.edit{it[lang]=value}}
+  suspend fun visit(id:String){store.edit{p->p[recent]=(listOf(id)+(p[recent]?.split("|")?:emptyList()).filter{it!=id&&it.isNotBlank()}).take(50).joinToString("|");p[intPreferencesKey("v2:migration")]=2}}
+  suspend fun position(id:String,index:Int,offset:Int){store.edit{it[stringPreferencesKey("v2:position:$id") ]="$index:$offset"}}
++ suspend fun complete(id:String){store.edit{p->p[completed]=(p[completed]?:emptySet())+id}}
+ }
+--- original/app/src/main/java/org/mysteryatlas/ui/AtlasApp.kt
++++ local/app/src/main/java/org/mysteryatlas/ui/AtlasApp.kt
+@@ -34,6 +34,7 @@
+ @Composable fun AtlasApp(vm:AtlasViewModel=viewModel(),forceError:Boolean=false){
+  val catalog by vm.catalog.collectAsStateWithLifecycle();val user by vm.user.collectAsStateWithLifecycle();val screen by vm.screen.collectAsStateWithLifecycle();val error by vm.error.collectAsStateWithLifecycle();val active by vm.active.collectAsStateWithLifecycle();val category by vm.category.collectAsStateWithLifecycle()
+  val lang=user.language;val holder=rememberSaveableStateHolder()
++ val storageFailed by vm.storageError.collectAsStateWithLifecycle()
+  LaunchedEffect(forceError){if(forceError)vm.load(true)}
+  BackHandler(screen!="home"){vm.back()}
+  Surface(Modifier.fillMaxSize(),color=Ink){Column(Modifier.fillMaxSize().safeDrawingPadding()){
+@@ -42,7 +43,11 @@
+    Box(Modifier.weight(1f).padding(start=if(screen in listOf("home","explore","saved","search"))8.dp else 0.dp)){Brand()}
+    TextButton(onClick=vm::language,modifier=Modifier.testTag("lang_toggle").semantics{contentDescription=tr(lang,"영어로 변경","Switch to Korean")}){Text(if(lang=="ko")"EN"else"한",color=Muted,fontSize=14.sp)}
+   }
+-  HorizontalDivider(color=Line.copy(alpha=.5f))
++   HorizontalDivider(color=Line.copy(alpha=.5f))
++   if(storageFailed)Column(Modifier.fillMaxWidth().padding(horizontal=20.dp,vertical=8.dp).testTag("storage_error")){
++    Text(tr(lang,"저장 상태를 확인하지 못했어요. 다시 시도해 주세요.","Your saved state could not be confirmed. Please try again."),style=MaterialTheme.typography.bodyMedium)
++    TextButton(onClick=vm::retryStorage,modifier=Modifier.testTag("storage_retry")){Text(tr(lang,"다시 시도","Try again"))}
++   }
+   Box(Modifier.weight(1f)){
+    when{
+     error->Column(Modifier.fillMaxWidth().padding(24.dp)){EmptyMessage(tr(lang,"기록을 불러오지 못했어요","Unable to load the archive"),tr(lang,"잠시 후 다시 시도해 주세요. 저장한 이야기는 유지됩니다.","Try again. Your saved stories are retained."),"error_state");Button(onClick={vm.load()},modifier=Modifier.testTag("retry")){Text(tr(lang,"다시 시도","Try again"))}}
+@@ -63,24 +68,25 @@
+    }
+   }
+   HorizontalDivider(color=Line)
+-  NavigationBar(containerColor=Ink,tonalElevation=0.dp){listOf("home" to tr(lang,"홈","Home"),"explore" to tr(lang,"탐색","Explore"),"saved" to tr(lang,"저장","Saved"),"search" to tr(lang,"검색","Search")).forEach{(id,label)->NavigationBarItem(selected=screen==id,onClick={vm.tab(id)},icon={Glyph(id,if(screen==id)Amber else Muted)},label={Text(label,fontSize=13.sp)},colors=NavigationBarItemDefaults.colors(indicatorColor=Amber.copy(alpha=.09f),selectedTextColor=Amber,unselectedTextColor=Muted),modifier=Modifier.testTag("nav_$id"))}}
++  NavigationBar(containerColor=Ink,tonalElevation=0.dp){listOf("home" to tr(lang,"홈","Home"),"explore" to tr(lang,"탐색","Explore"),"saved" to tr(lang,"저장","Saved"),"search" to tr(lang,"검색","Search")).forEach{(id,label)->NavigationBarItem(selected=screen==id,onClick={vm.tab(id)},icon={Glyph(id,if(screen==id)Amber else Muted)},label={Text(label,fontSize=14.sp)},colors=NavigationBarItemDefaults.colors(indicatorColor=Amber.copy(alpha=.09f),selectedTextColor=Amber,unselectedTextColor=Muted),modifier=Modifier.testTag("nav_$id"))}}
+  }}
+ }
+ 
++@OptIn(ExperimentalLayoutApi::class)
+ @Composable private fun Home(data:Catalog,user:UserState,lang:String,vm:AtlasViewModel){val hero=data.cases.first{it.id=="cooper"};LazyColumn(Modifier.fillMaxSize().testTag("home_list"),contentPadding=PaddingValues(bottom=24.dp)){
+  item{Column{
+   Box(Modifier.fillMaxWidth()){
+    Art(hero.image,lang,Modifier.matchParentSize())
+    Box(Modifier.matchParentSize().background(Brush.verticalGradient(listOf(Color.Transparent,Ink.copy(alpha=.25f),Ink))))
+    Column(Modifier.fillMaxWidth().padding(horizontal=22.dp).padding(top=18.dp,bottom=12.dp)){
+-    Row(Modifier.fillMaxWidth(),horizontalArrangement=Arrangement.SpaceBetween){Pill(tr(lang,"오늘의 미스터리","TODAY'S MYSTERY"));Text(tr(lang,"재구성 이미지","ILLUSTRATION"),color=Muted,fontSize=11.sp,modifier=Modifier.background(Ink.copy(alpha=.6f)).padding(5.dp))}
++    FlowRow(Modifier.fillMaxWidth(),horizontalArrangement=Arrangement.spacedBy(8.dp),verticalArrangement=Arrangement.spacedBy(8.dp)){Pill(tr(lang,"오늘의 미스터리","TODAY'S MYSTERY"));Text(tr(lang,"재구성 이미지","ILLUSTRATION"),color=Muted,fontSize=14.sp,modifier=Modifier.background(Ink.copy(alpha=.6f)).padding(5.dp))}
+     Spacer(Modifier.height(145.dp))
+     StoryMeta(hero,lang)
+     Text(hero.headline.text(lang),style=MaterialTheme.typography.headlineLarge,modifier=Modifier.padding(top=13.dp))
+     Text(hero.hook.text(lang),style=MaterialTheme.typography.bodyLarge,color=Muted,modifier=Modifier.padding(top=9.dp))
+    }
+   }
+-  Row(Modifier.fillMaxWidth().padding(horizontal=22.dp).padding(bottom=16.dp),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(12.dp)){
++  FlowRow(Modifier.fillMaxWidth().padding(horizontal=22.dp).padding(bottom=16.dp),horizontalArrangement=Arrangement.spacedBy(12.dp),verticalArrangement=Arrangement.spacedBy(8.dp)){
+    Button(onClick={vm.open(hero.id)},shape=RoundedCornerShape(28.dp),modifier=Modifier.heightIn(min=50.dp).testTag("hero_open")){Text(tr(lang,"사건 읽기","Read story"),fontWeight=FontWeight.Bold);Spacer(Modifier.width(12.dp));Glyph("arrow",Ink,Modifier.size(19.dp))}
+    SaveButton(hero,hero.id in user.bookmarks,lang){vm.bookmark(hero.id)};ReadMeta(hero,lang)
+   }
+@@ -104,11 +110,15 @@
+ }}
+ 
+ @Composable private fun ArticleScreen(data:Catalog,id:String,user:UserState,lang:String,vm:AtlasViewModel){val story=data.cases.firstOrNull{it.id==id}?:return;val article by vm.article.collectAsStateWithLifecycle();val failed by vm.articleError.collectAsStateWithLifecycle();val pos=user.positions[id]?: (0 to 0);val state=rememberLazyListState(pos.first,pos.second)
+- LaunchedEffect(id,state){snapshotFlow{if(state.isScrollInProgress)null else state.firstVisibleItemIndex to state.firstVisibleItemScrollOffset}.filterNotNull().distinctUntilChanged().collect{vm.position(id,it.first,it.second)}}
+  if(failed){Column(Modifier.padding(24.dp)){EmptyMessage(tr(lang,"이 기록을 열 수 없어요","This record could not be opened"),tr(lang,"다시 시도하거나 다른 이야기를 읽어 보세요.","Try again or explore another story."),"article_error");Button(onClick={vm.loadArticle(id)}){Text(tr(lang,"다시 시도","Try again"))}};return}
+  val a=article?.takeIf{it.caseId==id};if(a==null){Box(Modifier.fillMaxSize(),contentAlignment=Alignment.Center){CircularProgressIndicator()};return}
++ // Start observing only after content has loaded, so the empty loading layout cannot overwrite the saved position.
++ LaunchedEffect(id,state,a){snapshotFlow{
++  if(state.isScrollInProgress||state.layoutInfo.totalItemsCount==0)null
++  else Triple(state.firstVisibleItemIndex,state.firstVisibleItemScrollOffset,state.firstVisibleItemIndex>3+a.sections.size||state.layoutInfo.visibleItemsInfo.any{it.key=="reading_end"&&it.offset+it.size<=state.layoutInfo.viewportEndOffset})
++ }.filterNotNull().distinctUntilChanged().collect{vm.position(id,it.first,it.second);if(it.third)vm.complete(id)}}
+  LazyColumn(state=state,modifier=Modifier.fillMaxSize().testTag("article_list"),contentPadding=PaddingValues(bottom=28.dp)){
+-  item{Box{Art(story.image,lang,Modifier.fillMaxWidth().height(240.dp));Box(Modifier.fillMaxWidth().height(240.dp).background(Brush.verticalGradient(listOf(Color.Transparent,Ink.copy(alpha=.1f),Ink))));Text(tr(lang,"재구성 이미지 · 실제 기록 사진이 아닙니다","Editorial illustration · not archival evidence"),style=MaterialTheme.typography.labelSmall,color=Muted,modifier=Modifier.align(Alignment.BottomStart).padding(horizontal=20.dp,vertical=9.dp))}}
++  item{Box{Art(story.image,lang,Modifier.fillMaxWidth().height(240.dp),sharedImageNote(story,lang));Box(Modifier.fillMaxWidth().height(240.dp).background(Brush.verticalGradient(listOf(Color.Transparent,Ink.copy(alpha=.1f),Ink))));Text(sharedImageNote(story,lang)?:tr(lang,"재구성 이미지 · 실제 기록 사진이 아닙니다","Editorial illustration · not archival evidence"),style=MaterialTheme.typography.labelSmall,color=Muted,modifier=Modifier.align(Alignment.BottomStart).padding(horizontal=20.dp,vertical=9.dp))}}
+   item{Column(Modifier.padding(horizontal=22.dp),verticalArrangement=Arrangement.spacedBy(12.dp)){
+    StoryMeta(story,lang)
+    Text(story.headline.text(lang),style=MaterialTheme.typography.headlineLarge,modifier=Modifier.testTag("article_title"));Text(story.canonicalTitle,color=Amber,style=MaterialTheme.typography.labelLarge);Text(story.hook.text(lang),color=Muted,style=MaterialTheme.typography.bodyLarge)
+@@ -117,9 +127,10 @@
+   item{Surface(color=Panel,shape=RoundedCornerShape(12.dp),border=BorderStroke(1.dp,Amber.copy(alpha=.3f)),modifier=Modifier.padding(20.dp).testTag("article_summary")){Column(Modifier.padding(18.dp),verticalArrangement=Arrangement.spacedBy(12.dp)){Text(tr(lang,"30초 요약","THE 30-SECOND BRIEF"),color=Amber,style=MaterialTheme.typography.titleMedium);Text(a.summary.text(lang),style=MaterialTheme.typography.bodyLarge)}}}
+   items(a.sections,key={it.id}){s->Column(Modifier.fillMaxWidth().padding(horizontal=22.dp).padding(top=15.dp,bottom=17.dp).testTag("section_${s.id}"),verticalArrangement=Arrangement.spacedBy(15.dp)){
+    Text(s.title.text(lang),style=MaterialTheme.typography.titleLarge,color=if(s.type=="timeline")Amber else Ivory)
+-   if(s.image!=null){Surface(shape=RoundedCornerShape(10.dp)){Art(s.image,lang,Modifier.fillMaxWidth().height(190.dp))};Text(tr(lang,"사건의 분위기를 표현한 재구성 이미지","An editorial reconstruction of the setting"),color=Muted,style=MaterialTheme.typography.labelSmall)}
++   if(s.image!=null){Surface(shape=RoundedCornerShape(10.dp)){Art(s.image,lang,Modifier.fillMaxWidth().height(190.dp),sharedImageNote(story,lang))};Text(sharedImageNote(story,lang)?:tr(lang,"사건의 분위기를 표현한 재구성 이미지","An editorial reconstruction of the setting"),color=Muted,style=MaterialTheme.typography.labelSmall)}
+    if(s.type in listOf("fact","quote","theories"))Surface(color=Panel,shape=RoundedCornerShape(10.dp),border=BorderStroke(1.dp,Line)){Text(s.body.text(lang),style=MaterialTheme.typography.bodyLarge,modifier=Modifier.padding(17.dp))}else Text(s.body.text(lang),style=MaterialTheme.typography.bodyLarge)
+   }}
++  item(key="reading_end"){Text(tr(lang,"본문 끝 · 아래에서 근거와 출처를 확인하세요","End of story · explore the evidence and sources below"),color=Muted,style=MaterialTheme.typography.labelMedium,modifier=Modifier.fillMaxWidth().padding(22.dp).testTag("article_read_end"))}
+   item{Column(Modifier.padding(horizontal=22.dp).padding(top=20.dp,bottom=14.dp).testTag("evidence_section"),verticalArrangement=Arrangement.spacedBy(12.dp)){Text("EVIDENCE LAYER",color=Amber,style=MaterialTheme.typography.labelLarge);Text(tr(lang,"사실과 주장을 구분하다","Separate facts from claims"),style=MaterialTheme.typography.headlineMedium);Text(tr(lang,"확인됨 · 논쟁 중 · 주장 · 전승 · 반박됨","Confirmed · Disputed · Claim · Legend · Debunked"),color=Muted,style=MaterialTheme.typography.bodyMedium)}}
+   items(a.evidence,key={"ev_${it.id}"}){e->val color=when(e.status){Epistemic.CONFIRMED->Color(0xFF96CAA8);Epistemic.DISPUTED->Amber;Epistemic.CLAIM->Color(0xFFE0A27F);Epistemic.LEGEND->Color(0xFFC6A6DE);Epistemic.DEBUNKED->Muted};Surface(color=Panel,shape=RoundedCornerShape(10.dp),border=BorderStroke(1.dp,Line),modifier=Modifier.padding(horizontal=20.dp,vertical=6.dp).testTag("evidence_${e.id}")){Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(10.dp)){Pill(evidenceLabel(e.status,lang),color);Text(e.text.text(lang),style=MaterialTheme.typography.bodyLarge);Text(e.sourceIds.mapNotNull{key->a.sources.firstOrNull{it.id==key}?.publisher}.distinct().joinToString(" · "),color=Muted,style=MaterialTheme.typography.labelSmall)}}}
+   item{Column(Modifier.padding(22.dp).testTag("article_sources"),verticalArrangement=Arrangement.spacedBy(12.dp)){HorizontalDivider(color=Line);Text(tr(lang,"출처와 검증","Sources & verification"),style=MaterialTheme.typography.titleLarge);Text(tr(lang,"마지막 검증 · ${a.verifiedAt}","Last verified · ${a.verifiedAt}"),color=Muted,style=MaterialTheme.typography.bodyMedium)}}
+@@ -130,10 +141,12 @@
+ }
+ private fun evidenceLabel(status:Epistemic,lang:String)=when(status){Epistemic.CONFIRMED->tr(lang,"확인됨","Confirmed");Epistemic.DISPUTED->tr(lang,"논쟁 중","Disputed");Epistemic.CLAIM->tr(lang,"주장","Claim");Epistemic.LEGEND->tr(lang,"전승","Legend");Epistemic.DEBUNKED->tr(lang,"반박됨","Debunked")}
+ 
+-@Composable private fun RabbitScreen(data:Catalog,lang:String,vm:AtlasViewModel){val path by vm.path.collectAsStateWithLifecycle();val current=data.cases.firstOrNull{it.id==path.lastOrNull()}?:data.cases.first();LazyColumn(Modifier.fillMaxSize().testTag("rabbit_list"),contentPadding=PaddingValues(22.dp)){
++@Composable private fun RabbitScreen(data:Catalog,lang:String,vm:AtlasViewModel){val path by vm.path.collectAsStateWithLifecycle();val user by vm.user.collectAsStateWithLifecycle();val current=data.cases.firstOrNull{it.id==path.lastOrNull()}?:data.cases.first();LazyColumn(Modifier.fillMaxSize().testTag("rabbit_list"),contentPadding=PaddingValues(22.dp)){
+  item{Text("RABBIT HOLE",color=Amber,style=MaterialTheme.typography.headlineMedium);Text(tr(lang,"하나의 의문, 다음 이야기","One question. Another story."),style=MaterialTheme.typography.bodyLarge,color=Muted,modifier=Modifier.padding(vertical=10.dp));Text("RABBIT HOLE · ${path.size.coerceAtLeast(1)}",color=Amber,style=MaterialTheme.typography.labelMedium,modifier=Modifier.testTag("rabbit_depth").padding(vertical=8.dp))}
+- item{Surface(color=Panel,shape=RoundedCornerShape(12.dp),border=BorderStroke(1.dp,Line)){Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(10.dp)){Text(tr(lang,"지금 읽은 이야기","YOUR CURRENT STORY"),color=Muted,style=MaterialTheme.typography.labelSmall);Text(current.headline.text(lang),style=MaterialTheme.typography.titleLarge);Art(current.image,lang,Modifier.fillMaxWidth().height(150.dp))}};SectionTitle(tr(lang,"다음 의문을 선택하세요","Choose your next question"),tr(lang,"공통 주제로 연결한 이야기입니다. 인과관계를 뜻하지 않습니다.","Connected by theme, not by a claim of causation."))}
+- items(current.related,key={it.caseId}){r->val s=data.cases.first{it.id==r.caseId};Column(Modifier.padding(bottom=14.dp)){Text(r.reason.text(lang),color=Amber,style=MaterialTheme.typography.bodyMedium,modifier=Modifier.padding(bottom=9.dp));StoryCard(s,lang,Modifier.fillMaxWidth(),"related_${s.id}"){vm.open(s.id,true)}}}
++ item{Surface(color=Panel,shape=RoundedCornerShape(12.dp),border=BorderStroke(1.dp,Line)){Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(10.dp)){Text(tr(lang,"현재 연결 지점","CURRENT CONNECTION"),color=Muted,style=MaterialTheme.typography.labelSmall);StoryMeta(current,lang);Text(current.headline.text(lang),style=MaterialTheme.typography.titleLarge);Text(current.hook.text(lang),color=Muted,style=MaterialTheme.typography.bodyMedium);ReadMeta(current,lang);Art(current.image,lang,Modifier.fillMaxWidth().height(150.dp),sharedImageNote(current,lang));sharedImageNote(current,lang)?.let{Text(it,color=Muted,style=MaterialTheme.typography.labelSmall)}}}}
++ item{Column(Modifier.testTag("rabbit_path")){path.forEachIndexed{index,id->val visited=data.cases.firstOrNull{it.id==id};if(visited!=null)TextButton(onClick={vm.revisit(id)},modifier=Modifier.fillMaxWidth().testTag("path_$id")){Text("${index+1}. ${visited.headline.text(lang)}",modifier=Modifier.fillMaxWidth())}};SectionTitle(tr(lang,"다음 의문을 선택하세요","Choose your next question"),tr(lang,"공통 주제로 연결한 이야기입니다. 인과관계를 뜻하지 않습니다.","Connected by theme, not by a claim of causation."))}}
++ if(current.related.all{it.caseId in path||it.caseId in user.recent})item{Column(Modifier.testTag("rabbit_exhausted")){EmptyMessage(tr(lang,"이 갈래의 이야기를 모두 방문했어요","You have visited every story on this branch"),tr(lang,"앞선 이야기로 돌아가거나 다른 카테고리에서 새 의문을 찾아보세요.","Revisit a story or explore another category."),"rabbit_exhausted_message");Button(onClick={vm.tab("explore")},modifier=Modifier.testTag("rabbit_explore")){Text(tr(lang,"다른 이야기 탐색","Explore other stories"))}}}
++ items(current.related,key={it.caseId}){r->val s=data.cases.first{it.id==r.caseId};Column(Modifier.padding(bottom=14.dp)){if(s.id in path)Pill(tr(lang,"현재 경로에서 방문함","Visited on this path"))else readingLabel(user,s.id,lang)?.let{Pill(it)};Text(r.reason.text(lang),color=Amber,style=MaterialTheme.typography.bodyMedium,modifier=Modifier.padding(bottom=9.dp));StoryCard(s,lang,Modifier.fillMaxWidth(),"related_${s.id}"){vm.open(s.id,true)}}}
+ }}
+ @Composable private fun SearchScreen(lang:String,vm:AtlasViewModel){val query by vm.query.collectAsStateWithLifecycle();val list=vm.results();val keyboard=LocalSoftwareKeyboardController.current;Column(Modifier.fillMaxSize().padding(horizontal=20.dp)){
+  Text(tr(lang,"검색","Search"),style=MaterialTheme.typography.headlineLarge,modifier=Modifier.padding(top=22.dp,bottom=18.dp))
+@@ -141,13 +154,15 @@
+  if(query.isBlank())Text(tr(lang,"이런 이야기는 어떠세요?","START WITH A QUESTION"),color=Amber,style=MaterialTheme.typography.labelLarge,modifier=Modifier.padding(top=22.dp,bottom=8.dp))else Text(tr(lang,"${list.size}개의 기록","${list.size} records"),color=Muted,modifier=Modifier.padding(top=18.dp))
+  LazyColumn(Modifier.fillMaxSize().testTag("search_results"),contentPadding=PaddingValues(bottom=24.dp)){if(list.isEmpty())item{EmptyMessage(tr(lang,"아직 발견하지 못한 이야기예요","No stories found"),tr(lang,"다른 사건명이나 영문 이름으로 검색해 보세요.","Try another name or keyword."),"search_empty")};items(list,key={it.id}){s->StoryRow(s,lang,"search_result_${s.id}"){vm.open(s.id)}}}
+ }}
++@OptIn(ExperimentalLayoutApi::class)
+ @Composable private fun SavedScreen(data:Catalog,user:UserState,lang:String,vm:AtlasViewModel){val list=data.cases.filter{it.id in user.bookmarks};LazyColumn(Modifier.fillMaxSize().testTag("saved_list"),contentPadding=PaddingValues(20.dp)){
+- item{Text(tr(lang,"저장한 이야기","Saved stories"),style=MaterialTheme.typography.headlineLarge);Row(Modifier.fillMaxWidth().padding(vertical=14.dp),verticalAlignment=Alignment.CenterVertically){Pill(tr(lang,"전체 ${list.size}","All ${list.size}"));Spacer(Modifier.weight(1f));TextButton(onClick=vm::recent,modifier=Modifier.testTag("recent_open")){Glyph("clock",Amber,Modifier.size(17.dp));Spacer(Modifier.width(7.dp));Text(tr(lang,"최근 읽은 이야기","Recently read"))}}}
++ item{Text(tr(lang,"저장한 이야기","Saved stories"),style=MaterialTheme.typography.headlineLarge);FlowRow(Modifier.fillMaxWidth().padding(vertical=14.dp),horizontalArrangement=Arrangement.spacedBy(10.dp),verticalArrangement=Arrangement.spacedBy(8.dp)){Pill(tr(lang,"전체 ${list.size}","All ${list.size}"));TextButton(onClick=vm::recent,modifier=Modifier.testTag("recent_open")){Glyph("clock",Amber,Modifier.size(17.dp));Spacer(Modifier.width(7.dp));Text(tr(lang,"최근 읽은 이야기","Recently read"))}}}
+  if(list.isEmpty())item{EmptyMessage(tr(lang,"다시 보고 싶은 의문을 모아두세요","Keep a question for later"),tr(lang,"기사의 저장 버튼을 누르면 여기에서 다시 이어 읽을 수 있어요.","Save a story to return to it here."),"saved_empty");Button(onClick={vm.tab("home")}){Text(tr(lang,"이야기 발견하기","Discover stories"))}}
+- items(list,key={it.id}){s->Row(verticalAlignment=Alignment.CenterVertically){Box(Modifier.weight(1f)){StoryRow(s,lang){vm.open(s.id)}};SaveButton(s,true,lang){vm.bookmark(s.id)}}}
++ items(list,key={it.id}){s->Row(verticalAlignment=Alignment.CenterVertically){Box(Modifier.weight(1f)){StoryRow(s,lang,readingState=readingLabel(user,s.id,lang)){vm.open(s.id)}};SaveButton(s,true,lang){vm.bookmark(s.id)}}}
+ }}
+ @Composable private fun RecentScreen(data:Catalog,user:UserState,lang:String,vm:AtlasViewModel){val list=user.recent.mapNotNull{id->data.cases.firstOrNull{it.id==id}};LazyColumn(Modifier.fillMaxSize().testTag("recent_list"),contentPadding=PaddingValues(20.dp)){
+  item{Text(tr(lang,"최근 읽은 이야기","Recently read"),style=MaterialTheme.typography.headlineLarge);Text(tr(lang,"남겨둔 의문에서 다시 시작하세요.","Pick up the questions you left behind."),color=Muted,style=MaterialTheme.typography.bodyLarge,modifier=Modifier.padding(vertical=12.dp))}
+  if(list.isEmpty())item{EmptyMessage(tr(lang,"첫 이야기를 기다리고 있어요","Your first story awaits"),tr(lang,"읽은 기록은 이 기기에만 저장됩니다.","Your reading history stays on this device."),"recent_empty")}
+- items(list,key={it.id}){s->StoryRow(s,lang){vm.open(s.id)}}
++ items(list,key={it.id}){s->StoryRow(s,lang,readingState=readingLabel(user,s.id,lang)){vm.open(s.id)}}
+ }}
++private fun readingLabel(user:UserState,id:String,lang:String):String?=when{id in user.completed->tr(lang,"읽음 · 본문 끝까지 이동함","Read · reached the end of the story");id in user.recent->tr(lang,"읽는 중","Reading");else->null}
+--- original/app/src/main/java/org/mysteryatlas/ui/Components.kt
++++ local/app/src/main/java/org/mysteryatlas/ui/Components.kt
+@@ -13,6 +13,7 @@
+ import androidx.compose.ui.graphics.drawscope.Stroke
+ import androidx.compose.ui.layout.ContentScale
+ import androidx.compose.ui.platform.LocalContext
++import androidx.compose.ui.platform.LocalDensity
+ import androidx.compose.ui.platform.testTag
+ import androidx.compose.ui.semantics.*
+ import androidx.compose.ui.text.font.FontFamily
+@@ -20,6 +21,7 @@
+ import androidx.compose.ui.unit.dp
+ import androidx.compose.ui.unit.sp
+ import kotlinx.coroutines.Dispatchers
++import kotlinx.coroutines.CancellationException
+ import kotlinx.coroutines.withContext
+ import org.mysteryatlas.data.Story
+ 
+@@ -28,7 +30,7 @@
+  val w=size.width;val h=size.height;val s=2.dp.toPx()
+  when(name){
+   "search"->{drawCircle(color,w*.29f,Offset(w*.42f,h*.42f),style=Stroke(s));drawLine(color,Offset(w*.65f,h*.65f),Offset(w*.92f,h*.92f),s)}
+-  "saved"->{val p=Path().apply{moveTo(w*.23f,h*.12f);lineTo(w*.77f,h*.12f);lineTo(w*.77f,h*.91f);lineTo(w*.5f,h*.7f);lineTo(w*.23f,h*.91f);close()};drawPath(p,color,style=Stroke(s))}
++  "saved","saved_filled"->{val p=Path().apply{moveTo(w*.23f,h*.12f);lineTo(w*.77f,h*.12f);lineTo(w*.77f,h*.91f);lineTo(w*.5f,h*.7f);lineTo(w*.23f,h*.91f);close()};if(name=="saved_filled")drawPath(p,color)else drawPath(p,color,style=Stroke(s))}
+   "home"->{val p=Path().apply{moveTo(w*.12f,h*.46f);lineTo(w*.5f,h*.12f);lineTo(w*.88f,h*.46f);lineTo(w*.8f,h*.46f);lineTo(w*.8f,h*.88f);lineTo(w*.57f,h*.88f);lineTo(w*.57f,h*.64f);lineTo(w*.43f,h*.64f);lineTo(w*.43f,h*.88f);lineTo(w*.2f,h*.88f);lineTo(w*.2f,h*.46f);close()};drawPath(p,color,style=Stroke(s))}
+   "explore","globe"->{drawCircle(color,w*.4f,Offset(w*.5f,h*.5f),style=Stroke(s));if(name=="explore"){val p=Path().apply{moveTo(w*.7f,h*.27f);lineTo(w*.57f,h*.57f);lineTo(w*.28f,h*.73f);lineTo(w*.43f,h*.43f);close()};drawPath(p,color,style=Stroke(s))}else{drawOval(color,topLeft=Offset(w*.31f,h*.1f),size=androidx.compose.ui.geometry.Size(w*.38f,h*.8f),style=Stroke(s*.6f));drawLine(color,Offset(w*.1f,h*.5f),Offset(w*.9f,h*.5f),s*.6f)}}
+   "back"->{drawLine(color,Offset(w*.8f,h*.5f),Offset(w*.2f,h*.5f),s);drawLine(color,Offset(w*.2f,h*.5f),Offset(w*.48f,h*.22f),s);drawLine(color,Offset(w*.2f,h*.5f),Offset(w*.48f,h*.78f),s)}
+@@ -37,15 +39,25 @@
+   else->{drawCircle(color,w*.35f,Offset(w*.5f,h*.5f),style=Stroke(s));drawCircle(color,w*.17f,Offset(w*.5f,h*.5f),style=Stroke(s))}
+  }
+ }}
+-@Composable fun Art(path:String,lang:String,modifier:Modifier=Modifier){
++private data class Artwork(val bitmap:ImageBitmap?=null,val loading:Boolean=true)
++@Composable fun Art(path:String,lang:String,modifier:Modifier=Modifier,description:String?=null){
+  val context=LocalContext.current
+- val bitmap by produceState<ImageBitmap?>(null,path){value=withContext(Dispatchers.IO){runCatching{context.assets.open(path).use{BitmapFactory.decodeStream(it)?.asImageBitmap()}}.getOrNull()}}
+- Box(modifier.background(Panel).testTag(if(bitmap==null)"art_loading"else"art_ready")) {if(bitmap!=null)Image(bitmap!!,contentDescription=tr(lang,"재구성 이미지 · 실제 사건 사진이 아닙니다","Editorial illustration, not a photograph of the event"),contentScale=ContentScale.Crop,modifier=Modifier.matchParentSize())else Box(Modifier.matchParentSize().background(Brush.verticalGradient(listOf(Panel,Ink))),contentAlignment=Alignment.Center){Glyph("globe",Muted,Modifier.size(48.dp))}}
++ val art by produceState(Artwork(),path){
++  value=Artwork()
++  val bitmap=withContext(Dispatchers.IO){try{context.assets.open(path).use{BitmapFactory.decodeStream(it)?.asImageBitmap()}}catch(c:CancellationException){throw c}catch(_:Exception){null}}
++  value=Artwork(bitmap,false)
++ }
++ Box(modifier.background(Panel).testTag(if(art.loading)"art_loading"else if(art.bitmap==null)"art_error"else"art_ready")) {
++  val bitmap=art.bitmap
++  if(bitmap!=null)Image(bitmap,contentDescription=description?:tr(lang,"재구성 이미지 · 실제 사건 사진이 아닙니다","Editorial illustration, not a photograph of the event"),contentScale=ContentScale.Crop,modifier=Modifier.matchParentSize())
++  else Column(Modifier.matchParentSize().padding(8.dp),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.Center){Glyph("globe",Muted,Modifier.size(32.dp));if(!art.loading)Text(tr(lang,"이미지를 표시할 수 없어요","Image unavailable"),color=Muted,style=MaterialTheme.typography.labelSmall)}
++ }
+ }
++fun sharedImageNote(story:Story,lang:String):String?=if(story.id in listOf("rohonc","phaistos"))tr(lang,"주제 공통 이미지 · 해당 유물의 모습이 아닙니다","Shared thematic illustration · not a depiction of this artifact")else null
+ @Composable fun Pill(text:String,color:Color=Amber){Surface(color=color.copy(alpha=.1f),shape=RoundedCornerShape(20.dp),border=BorderStroke(1.dp,color.copy(alpha=.4f))){Text(text,color=color,style=MaterialTheme.typography.labelSmall,modifier=Modifier.padding(horizontal=10.dp,vertical=4.dp))}}
+ @OptIn(ExperimentalLayoutApi::class)
+ @Composable fun StoryMeta(story:Story,lang:String){FlowRow(horizontalArrangement=Arrangement.spacedBy(7.dp),verticalArrangement=Arrangement.spacedBy(7.dp)){Pill(story.status.text(lang),Color(0xFFE1A6A0));Pill(story.country.text(lang),Muted);Pill(story.displayYear(lang),Muted)}}
+-@Composable fun SaveButton(story:Story,saved:Boolean,lang:String,onClick:()->Unit){IconButton(onClick=onClick,modifier=Modifier.testTag("save_${story.id}").semantics{selected=saved;contentDescription=tr(lang,if(saved)"저장 해제" else "저장",if(saved)"Remove saved story"else"Save story")}){Glyph("saved",if(saved)Amber else Ivory)}}
++@Composable fun SaveButton(story:Story,saved:Boolean,lang:String,onClick:()->Unit){IconButton(onClick=onClick,modifier=Modifier.testTag("save_${story.id}").semantics{selected=saved;contentDescription=tr(lang,if(saved)"저장 해제" else "저장",if(saved)"Remove saved story"else"Save story")}){Glyph(if(saved)"saved_filled"else"saved",if(saved)Amber else Ivory)}}
+ @Composable fun ReadMeta(story:Story,lang:String){Row(verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(6.dp)){Glyph("clock",Muted,Modifier.size(15.dp));Text(tr(lang,"${story.minutes(lang)}분 읽기","${story.minutes(lang)} min read"),color=Muted,style=MaterialTheme.typography.labelSmall)}}
+ @Composable fun SectionTitle(title:String,subtitle:String?=null,action:String?=null,onAction:()->Unit={}){Column(Modifier.fillMaxWidth().padding(top=28.dp,bottom=14.dp)){
+  Row(verticalAlignment=Alignment.CenterVertically){Text(title,style=MaterialTheme.typography.titleLarge,modifier=Modifier.weight(1f));if(action!=null)TextButton(onClick=onAction){Text(action,color=Amber)}}
+@@ -53,14 +65,22 @@
+ }}
+ @Composable fun StoryCard(story:Story,lang:String,modifier:Modifier=Modifier,tag:String="card_${story.id}",onClick:()->Unit){
+  Surface(shape=RoundedCornerShape(12.dp),color=Panel,border=BorderStroke(1.dp,Line),modifier=modifier.testTag(tag).clickable(onClick=onClick)){
+-  Column{Art(story.image,lang,Modifier.fillMaxWidth().height(140.dp));Column(Modifier.padding(14.dp),verticalArrangement=Arrangement.spacedBy(9.dp)){Pill(story.status.text(lang));Text(story.headline.text(lang),style=MaterialTheme.typography.titleMedium);Text(story.hook.text(lang),color=Muted,style=MaterialTheme.typography.bodyMedium);ReadMeta(story,lang)}}
++  Column{Art(story.image,lang,Modifier.fillMaxWidth().height(140.dp),sharedImageNote(story,lang));Column(Modifier.padding(14.dp),verticalArrangement=Arrangement.spacedBy(9.dp)){sharedImageNote(story,lang)?.let{Text(it,color=Muted,style=MaterialTheme.typography.labelSmall)};Pill(story.status.text(lang));Text(story.headline.text(lang),style=MaterialTheme.typography.titleMedium);Text(story.hook.text(lang),color=Muted,style=MaterialTheme.typography.bodyMedium);ReadMeta(story,lang)}}
+  }
+ }
+-@Composable fun StoryRow(story:Story,lang:String,tag:String="card_${story.id}",onClick:()->Unit){Column{
+- Row(Modifier.fillMaxWidth().testTag(tag).clickable(onClick=onClick).padding(vertical=16.dp),horizontalArrangement=Arrangement.spacedBy(14.dp)){
+-  Surface(shape=RoundedCornerShape(9.dp)){Art(story.image,lang,Modifier.size(94.dp,110.dp))}
+-  Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(7.dp)){Text(story.canonicalTitle,color=Amber,style=MaterialTheme.typography.labelSmall);Text(story.headline.text(lang),style=MaterialTheme.typography.titleMedium);ReadMeta(story,lang)}
++@Composable fun StoryRow(story:Story,lang:String,tag:String="card_${story.id}",readingState:String?=null,onClick:()->Unit){Column{
++ BoxWithConstraints(Modifier.fillMaxWidth().testTag(tag).clickable(onClick=onClick).padding(vertical=16.dp)){
++  val stacked=maxWidth<310.dp||LocalDensity.current.fontScale>1.3f
++  val copy:@Composable ()->Unit={Column(verticalArrangement=Arrangement.spacedBy(8.dp)){
++   Pill(story.status.text(lang));Text(story.headline.text(lang),style=MaterialTheme.typography.titleMedium)
++   Text(story.hook.text(lang),color=Muted,style=MaterialTheme.typography.bodyMedium)
++   Text(story.canonicalTitle,color=Amber,style=MaterialTheme.typography.labelSmall)
++   sharedImageNote(story,lang)?.let{Text(it,color=Muted,style=MaterialTheme.typography.labelSmall)}
++   ReadMeta(story,lang);readingState?.let{Text(it,color=Amber,style=MaterialTheme.typography.labelMedium,modifier=Modifier.testTag("reading_${story.id}"))}
++  }}
++  if(stacked)Column(verticalArrangement=Arrangement.spacedBy(14.dp)){Surface(shape=RoundedCornerShape(9.dp)){Art(story.image,lang,Modifier.fillMaxWidth().height(150.dp),sharedImageNote(story,lang))};copy()}
++  else Row(horizontalArrangement=Arrangement.spacedBy(14.dp)){Surface(shape=RoundedCornerShape(9.dp)){Art(story.image,lang,Modifier.size(94.dp,110.dp),sharedImageNote(story,lang))};Box(Modifier.weight(1f)){copy()}}
+  };HorizontalDivider(color=Line)
+ }}
+-@Composable fun Brand(){Row(verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(9.dp)){Glyph("globe",Amber,Modifier.size(27.dp));Column{Text("MYSTERY ATLAS",fontFamily=FontFamily.Serif,fontSize=18.sp,letterSpacing=2.sp,fontWeight=FontWeight.Medium);Text("FOLLOW THE UNEXPLAINED",fontSize=9.sp,letterSpacing=1.3.sp,color=Muted)}}}
++@Composable fun Brand(){Row(verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(9.dp)){Glyph("globe",Amber,Modifier.size(27.dp));Column{Text("MYSTERY ATLAS",fontFamily=FontFamily.Serif,fontSize=18.sp,letterSpacing=1.sp,fontWeight=FontWeight.Medium);Text("FOLLOW THE UNEXPLAINED",fontSize=14.sp,lineHeight=19.sp,color=Muted)}}}
+ @Composable fun EmptyMessage(title:String,body:String,tag:String){Column(Modifier.fillMaxWidth().testTag(tag).padding(vertical=36.dp),verticalArrangement=Arrangement.spacedBy(12.dp)){Glyph("explore",Amber,Modifier.size(36.dp));Text(title,style=MaterialTheme.typography.titleLarge);Text(body,color=Muted,style=MaterialTheme.typography.bodyLarge)}}
+--- original/app/src/main/java/org/mysteryatlas/ui/Theme.kt
++++ local/app/src/main/java/org/mysteryatlas/ui/Theme.kt
+@@ -18,5 +18,5 @@
+  titleLarge=TextStyle(fontWeight=FontWeight.Bold,fontSize=21.sp,lineHeight=29.sp),
+  titleMedium=TextStyle(fontWeight=FontWeight.SemiBold,fontSize=18.sp,lineHeight=26.sp),
+  bodyLarge=TextStyle(fontSize=17.sp,lineHeight=28.sp),bodyMedium=TextStyle(fontSize=15.sp,lineHeight=24.sp),
+- labelLarge=TextStyle(fontWeight=FontWeight.SemiBold,fontSize=15.sp,lineHeight=21.sp),labelMedium=TextStyle(fontSize=14.sp,lineHeight=21.sp),labelSmall=TextStyle(fontSize=13.sp,lineHeight=19.sp)
++ labelLarge=TextStyle(fontWeight=FontWeight.SemiBold,fontSize=15.sp,lineHeight=21.sp),labelMedium=TextStyle(fontSize=14.sp,lineHeight=21.sp),labelSmall=TextStyle(fontSize=14.sp,lineHeight=21.sp)
+  ),content=content)}
+--- original/build-local.sh
++++ local/build-local.sh
+@@ -1,7 +1,11 @@
+ #!/usr/bin/env bash
+ set -euo pipefail
+ cd "$(dirname "$0")"
+-command -v java >/dev/null || { echo 'JDK 17 required'; exit 2; }
+-command -v gradle >/dev/null || { echo 'BLOCKED: Install Gradle 8.13, then rerun. No wrapper JAR is bundled.'; exit 2; }
+-[[ -n "${ANDROID_HOME:-${ANDROID_SDK_ROOT:-}}" || -f local.properties ]] || { echo 'BLOCKED: Android SDK 36 required'; exit 2; }
+-gradle --no-daemon :app:assembleDebug :app:bundleRelease
++atlas_missing=0
++command -v java >/dev/null || { echo 'BLOCKED: JDK 17 unavailable'; atlas_missing=1; }
++command -v gradle >/dev/null || { echo 'BLOCKED: Gradle 8.13 unavailable; wrapper JAR is not bundled'; atlas_missing=1; }
++[[ -n "${ANDROID_HOME:-${ANDROID_SDK_ROOT:-}}" || -f local.properties ]] || { echo 'BLOCKED: Android SDK path unavailable'; atlas_missing=1; }
++[[ "$atlas_missing" == 0 ]] || exit 2
++bash qa/run-host-checks.sh
++gradle --no-daemon --stacktrace :app:compileDebugKotlin :app:lintDebug :app:assembleDebug :app:assembleDebugAndroidTest
++python3 qa/android-record-build.py
+--- original/qa/DEVICE_CHECKLIST.md
++++ local/qa/DEVICE_CHECKLIST.md
+@@ -1,19 +1,32 @@
+-# Required Android acceptance — all NOT RUN
++# Mystery Atlas V2 — Android acceptance checklist
+ 
+-These are the remaining gates, not claims of successful verification.
++Status: prepared checklist, NOT an execution report. Consult `qa/local-validation/LOCAL_VALIDATION.md` for this local session.
++Package: `org.mysteryatlas.prototype.v2`. Use a disposable emulator, never clear the user's V1 or V2 phone data.
+ 
+-1. Clean debug install in airplane mode. Launch and confirm 0 / 3 and OBSERVER, world geometry and three case locations (nearby Ohio/New Haven markers may cluster).
+-2. Pan and pinch in portrait and landscape; zoom controls and clusters must remain usable. At maximum zoom, a coincident cluster opens a selectable case list.
+-3. Tap Bloop marker. Preview must show `VERDICT: ???`, evidence-quality explanation and approximate coordinate note.
+-4. Start → briefing → theory. Continue must be disabled before choice. Choose unknown creature. Advance all three evidence cards individually, then reveal.
+-5. Confirm EXPLAINED, chosen creature versus Antarctic ice, completion check and 1 / 3. Open sources and bookmark.
+-6. Return to map, force-stop with `adb shell am force-stop org.mysteryatlas.prototype`, then relaunch via launcher. Confirm 1 / 3, investigated marker, bookmark and theory retained.
+-7. Random must select one of the other two cases. Complete it and confirm 2 / 3. Return voluntarily to the map and start the third case; complete to reach INVESTIGATOR, 3 / 3.
+-8. After all complete, Random must safely reopen a case. Daily must remain fixed on repeated use the same date; test a new emulator date separately.
+-9. Switch 한국어 → English → 한국어. Verify both UI and all case stages, including year and source descriptions. Test fresh installation on an English and a Korean device locale.
+-10. Archive must reflect category completion, revealed statuses only, bookmarks and reopen behavior. Check sources for every case.
+-11. Recreate Activity/rotate on theory and every evidence stage. Stage and selected theory must remain. Test process kill and relaunch separately from Activity recreation.
+-12. Long-press title in debug. Confirm first tap/start/complete timings, marker/random/archive counters, elapsed session duration and CASE 1 → CASE 2 entry route. Reopening case 1 must not be conversion.
+-13. On a test-only modified data build, corrupt one case, then the entire cases JSON. App must load remaining cases or show safe empty state; random/daily disabled with no cases. Corrupt world JSON and verify no crash. Restore the shipping JSON afterward.
+-14. Large font (200%), narrow display, landscape, Android 8 / API 26 and Android 16 / API 36: bottom-sheet/button access, system back and safe drawing insets. Test TalkBack names for map markers.
+-15. Review `adb logcat -b crash -d` after the complete flow. Record APK SHA256, device model/API, screenshots and real PASS/FAIL in `BUILD_STATUS.md`.
++## Identity and environment
++- Build `:app:compileDebugKotlin :app:lintDebug :app:assembleDebug :app:assembleDebugAndroidTest` from the recorded source identity.
++- Record final app/test APK bytes, SHA-256, package, version and signer; install those same bytes for all checks.
++- Run `qa/android-run-qa.sh` only with the recorded APKs, SDK tools and a disposable emulator.
++
++## Seven real screens
++- Home: all five sections, honest readership status, Hero image/title/hook/CTA, four bottom tabs.
++- Explore: eight approved categories; populated and empty category paths.
++- Article: complete Cooper story, reconstruction disclosures, summary, timeline, claims/facts, related stories.
++- Evidence: five distinct evidence labels, source correspondence, source links.
++- Rabbit Hole: legitimate edges, depth, Back, revisits truncate the path, visited markers, exhausted branch → Explore.
++- Search: KO/EN, punctuation, aliases, people/places/categories, relevance ordering, empty results and keyboard.
++- Save: add/remove, reading/read labels, empty state, recent history and reopen.
++
++## Functional and accessibility checks
++- Force-stop and independent process retain bookmarks, nondefault locale, recent history and reading position.
++- Activity recreation and tab switching preserve list/Article position and valid Back navigation.
++- Read status changes only after the narrative-end marker is reached; persist across a new process.
++- DataStore read/write error shows a distinct message, preserves last known state, and Retry re-subscribes.
++- Missing image shows an explicit placeholder; unavailable article and catalog errors recover through Retry.
++- App works offline; source URLs open externally or provide a visible fallback.
++- Inspect all seven screens at ordinary width; Home/Explore/Article/Evidence also at 360dp, fontScale 1.3 and 2.0.
++- Check ≥48dp touch targets, TalkBack labels/order, meaningful saved-state shape, IME/system-inset overlap and truncation.
++- Review actual PNGs against approved VisualReferences. Screenshot existence or successful build is not Visual/Product PASS.
++
++## Independent gate
++Product / UX-Design / Editorial / Fact / Engineering / Functional QA / Independent Red Team must review the same final source/APK identity and evidence. Record PASS/FAIL/BLOCKED/NOT RUN for the precise tested scope. Rebuild and re-render after product changes.
+--- original/qa/android-check-instrumentation.py
++++ local/qa/android-check-instrumentation.py
+@@ -2,6 +2,7 @@
+ """Turn raw AndroidJUnitRunner status into a strict CI result and JUnit XML."""
+ import re
+ import sys
++from collections import Counter
+ from pathlib import Path
+ from xml.etree import ElementTree as ET
+ 
+@@ -10,6 +11,8 @@
+ raw = log_path.read_text(errors="replace").replace("\r", "")
+ current = {}
+ completed = []
++started = []
++declared_counts = []
+ stack_key = None
+ for line in raw.splitlines():
+     item = re.match(r"INSTRUMENTATION_STATUS: ([^=]+)=(.*)", line)
+@@ -20,7 +23,11 @@
+     status = re.match(r"INSTRUMENTATION_STATUS_CODE: (-?\d+)", line)
+     if status:
+         code = int(status.group(1))
+-        if code != 1:
++        if "numtests" in current:
++            declared_counts.append(current["numtests"])
++        if code == 1:
++            started.append(dict(current))
++        else:
+             completed.append({**current, "statusCode": code})
+         current = {}
+         stack_key = None
+@@ -41,6 +48,33 @@
+ if unexpected:
+     errors.append("Unattributed instrumentation failure: " + repr(unexpected))
+ 
++# A successful runner code does not prove that every scheduled test completed.
++# Reject contradictory or incomplete status streams before accepting the gate.
++valid_counts = []
++for count in declared_counts:
++    if not re.fullmatch(r"[1-9]\d*", count):
++        errors.append("Invalid declared test count: " + repr(count))
++    else:
++        valid_counts.append(int(count))
++if len(set(valid_counts)) > 1:
++    errors.append("Inconsistent declared test counts: " + repr(sorted(set(valid_counts))))
++elif valid_counts and valid_counts[0] != len(tests):
++    errors.append(f"Declared {valid_counts[0]} tests but received {len(tests)} terminal test results")
++
++def identity(event):
++    return (event.get("class", "unknown"), event.get("test", ""))
++
++starts = Counter(identity(event) for event in started if event.get("test"))
++finishes = Counter(identity(event) for event in tests)
++if any(count > 1 for count in finishes.values()):
++    errors.append("Duplicate terminal test results: " + repr(dict(finishes)))
++if any(count > 1 for count in starts.values()):
++    errors.append("Duplicate test starts: " + repr(dict(starts)))
++if starts - finishes:
++    errors.append("Started tests did not complete: " + repr(dict(starts - finishes)))
++if finishes - starts:
++    errors.append("Terminal test results have no matching start: " + repr(dict(finishes - starts)))
++
+ failed = [test for test in tests if test["statusCode"] != 0]
+ suite = ET.Element("testsuite", name=log_path.stem, tests=str(len(tests) + len(errors)), failures=str(len(failed)), errors=str(len(errors)))
+ for test in tests:
+--- original/qa/android-record-build.py
++++ local/qa/android-record-build.py
+@@ -13,11 +13,40 @@
+ EXPECTED_PACKAGE = "org.mysteryatlas.prototype.v2"
+ 
+ 
+-def sdk_tool(name):
++def source_identity():
++    """Stable build-input identity works for both an extracted ZIP and a CI checkout."""
++    files = []
++    for path in sorted(ROOT.rglob("*")):
++        if not path.is_file():
++            continue
++        relative = path.relative_to(ROOT)
++        if any(part in {".git", ".gradle", "build", "__pycache__"} for part in relative.parts):
++            continue
++        if relative.parts[0] not in {"app", "gradle"} and relative.as_posix() not in {
++            "settings.gradle.kts", "build.gradle.kts", "gradle.properties"
++        }:
++            continue
++        files.append({"path": relative.as_posix(), "sha256": hashlib.sha256(path.read_bytes()).hexdigest()})
++    payload = "".join(f"{entry['sha256']}  {entry['path']}\n" for entry in files)
++    return {"type": "sha256-build-input-manifest", "sha256": hashlib.sha256(payload.encode()).hexdigest(), "files": files}
++
++
++def sdk_directory():
+     sdk = os.environ.get("ANDROID_HOME") or os.environ.get("ANDROID_SDK_ROOT")
++    if not sdk and (ROOT / "local.properties").is_file():
++        text = (ROOT / "local.properties").read_text()
++        match = re.search(r"^\s*sdk\.dir\s*[=:]\s*(.+)$", text, re.M)
++        if match:
++            # Android Studio writes sdk.dir using Java-properties backslash escapes.
++            sdk = re.sub(r"\\u([0-9a-fA-F]{4})|\\(.)", lambda m: chr(int(m[1], 16)) if m[1] else {"t": "\t", "n": "\n", "r": "\r", "f": "\f"}.get(m[2], m[2]), match[1].strip())
+     if not sdk:
+         raise RuntimeError("Android SDK path is not available")
+-    candidates = list((Path(sdk) / "build-tools").glob(f"*/{name}"))
++    path = Path(sdk)
++    return path if path.is_absolute() else ROOT / path
++
++
++def sdk_tool(name):
++    candidates = list((sdk_directory() / "build-tools").glob(f"*/{name}"))
+     candidates.sort(key=lambda p: tuple(int(n) for n in re.findall(r"\d+", p.parent.name)))
+     if not candidates:
+         raise RuntimeError(f"Android SDK tool missing: {name}")
+@@ -47,21 +76,27 @@
+     }
+ 
+ 
+-app, test = inspect(APP), inspect(TEST)
+-assert app["applicationId"] == EXPECTED_PACKAGE, app
+-assert app["versionCode"] == 2, app
+-assert test["applicationId"] == EXPECTED_PACKAGE + ".test", test
+-assert app["signerCertificateSha256"] == test["signerCertificateSha256"], "App/test signatures differ"
+-record = {
+-    "schemaVersion": 1,
+-    "commit": os.environ.get("GITHUB_SHA") or subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=ROOT, text=True).strip(),
+-    "runId": os.environ.get("GITHUB_RUN_ID"),
+-    "runAttempt": os.environ.get("GITHUB_RUN_ATTEMPT"),
+-    "app": app,
+-    "instrumentation": test,
+-    "signingScope": "Same-run debug signing; no promise of cross-run update compatibility. V1 installs are isolated by the .v2 application ID.",
+-}
+-output = ROOT / "build/qa/apk-provenance.json"
+-output.parent.mkdir(parents=True, exist_ok=True)
+-output.write_text(json.dumps(record, indent=2) + "\n")
+-print(json.dumps(record, indent=2))
++def main():
++    app, test = inspect(APP), inspect(TEST)
++    assert app["applicationId"] == EXPECTED_PACKAGE, app
++    assert app["versionCode"] == 2, app
++    assert test["applicationId"] == EXPECTED_PACKAGE + ".test", test
++    assert app["signerCertificateSha256"] == test["signerCertificateSha256"], "App/test signatures differ"
++    record = {
++        "schemaVersion": 2,
++        "commit": os.environ.get("GITHUB_SHA"),
++        "sourceIdentity": source_identity(),
++        "runId": os.environ.get("GITHUB_RUN_ID"),
++        "runAttempt": os.environ.get("GITHUB_RUN_ATTEMPT"),
++        "app": app,
++        "instrumentation": test,
++        "signingScope": "Same-run debug signing; no promise of cross-run update compatibility. V1 installs are isolated by the .v2 application ID.",
++    }
++    output = ROOT / "build/qa/apk-provenance.json"
++    output.parent.mkdir(parents=True, exist_ok=True)
++    output.write_text(json.dumps(record, indent=2) + "\n")
++    print(json.dumps(record, indent=2))
++
++
++if __name__ == "__main__":
++    main()
+--- original/qa/android-run-qa.sh
++++ local/qa/android-run-qa.sh
+@@ -2,18 +2,31 @@
+ set -euo pipefail
+ cd "$(dirname "$0")/.."
+ 
+-# This script runs only on the disposable CI emulator, never the user's phone.
++# This script runs only on a disposable emulator, never the user's phone.
+ atlas_package="org.mysteryatlas.prototype.v2"
+ atlas_runner="${atlas_package}.test/androidx.test.runner.AndroidJUnitRunner"
+ atlas_evidence="build/android-qa"
+ atlas_app="build/qa-input/app/app-debug.apk"
+ atlas_test="build/qa-input/test/app-debug-androidTest.apk"
++command -v adb >/dev/null || { echo 'BLOCKED: adb / Android execution environment is unavailable'; exit 2; }
++[[ -f "$atlas_app" && -f "$atlas_test" ]] || { echo 'BLOCKED: app and instrumentation APK inputs are unavailable'; exit 2; }
++[[ "$(adb shell getprop ro.kernel.qemu 2>/dev/null | tr -d '\r')" == 1 ]] || { echo 'BLOCKED: exactly one running disposable Android emulator is required'; exit 2; }
++# Keep previous evidence separately; no previous PNG may satisfy this run's gates.
++if [[ -d "$atlas_evidence" ]]; then
++  atlas_previous="$(mktemp -d build/android-qa-previous.XXXXXX)"
++  mv "$atlas_evidence" "$atlas_previous/evidence"
++fi
+ mkdir -p "$atlas_evidence/screenshots"
++atlas_installed=0
+ 
+ collect_evidence() {
+   atlas_exit=$?
+   trap - EXIT
+   set +e
++  if [[ "$atlas_installed" != 1 ]]; then
++    echo 'No runtime captures: exact APK installation and app-data reset did not complete.' > "$atlas_evidence/runtime-not-started.txt"
++    exit "$atlas_exit"
++  fi
+   adb logcat -d -v threadtime > "$atlas_evidence/logcat.txt" 2>&1
+   adb logcat -b crash -d -v threadtime > "$atlas_evidence/crash-logcat.txt" 2>&1
+   adb shell dumpsys package "$atlas_package" > "$atlas_evidence/package.txt" 2>&1
+@@ -42,11 +55,14 @@
+ 
+ # Verify that both installed APKs are the exact bytes produced by build-debug.
+ python3 - "$atlas_app" "$atlas_test" "$atlas_evidence" <<'PY'
+-import hashlib,json,os,shutil,sys
++import hashlib,importlib.util,json,os,shutil,sys
+ from pathlib import Path
+ records=list(Path('build/qa-input/evidence').rglob('apk-provenance.json'))
+ assert len(records)==1, 'Missing or ambiguous APK build identity'
+ r=json.loads(records[0].read_text())
++spec=importlib.util.spec_from_file_location('atlas_identity','qa/android-record-build.py')
++module=importlib.util.module_from_spec(spec);spec.loader.exec_module(module)
++assert r['sourceIdentity']['sha256']==module.source_identity()['sha256'], 'Installed APK build inputs differ from the current source'
+ for path,key in zip(sys.argv[1:3],['app','instrumentation']):
+     raw=Path(path).read_bytes()
+     assert hashlib.sha256(raw).hexdigest()==r[key]['sha256'], f'{key} APK hash mismatch'
+@@ -66,6 +82,7 @@
+ adb install -r -t "$atlas_app"
+ adb install -r -t "$atlas_test"
+ adb shell pm clear "$atlas_package"
++atlas_installed=1
+ 
+ run_instrumentation() {
+   atlas_class="$1"
+@@ -104,6 +121,8 @@
+ adb shell am force-stop "$atlas_package"
+ run_instrumentation org.mysteryatlas.V2DisplayTest display-font200 -e qa_variant font200
+ adb shell settings put system font_scale 1.0
++adb shell am force-stop "$atlas_package"
++run_instrumentation org.mysteryatlas.V2RuleRegressionTest rule-regressions
+ 
+ # Screenshot production is a required output, independent of JUnit success.
+ adb pull "/sdcard/Android/data/$atlas_package/files/screenshots/." "$atlas_evidence/screenshots/" > "$atlas_evidence/screenshot-pull.txt" 2>&1
+--- original/qa/run-host-checks.sh
++++ local/qa/run-host-checks.sh
+@@ -2,3 +2,5 @@
+ set -euo pipefail
+ cd "$(dirname "$0")/.."
+ python3 qa/check_content.py
++python3 qa/test_instrumentation_parser.py
++python3 qa/test_build_identity.py

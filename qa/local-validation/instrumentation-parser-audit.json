@@ -1,0 +1,82 @@
+[
+  {
+    "fixture": "valid_single",
+    "expectedExit": 0,
+    "actualExit": 0,
+    "status": "PASS",
+    "stdout": "valid_single: 1 tests, 0 non-passing tests, 0 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "assertion_failure",
+    "expectedExit": 1,
+    "actualExit": 1,
+    "status": "PASS",
+    "stdout": "assertion_failure: 1 tests, 1 non-passing tests, 0 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: -2\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "skipped",
+    "expectedExit": 1,
+    "actualExit": 1,
+    "status": "PASS",
+    "stdout": "skipped: 1 tests, 1 non-passing tests, 0 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: -3\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "zero_tests",
+    "expectedExit": 1,
+    "actualExit": 1,
+    "status": "PASS",
+    "stdout": "zero_tests: 0 tests, 0 non-passing tests, 1 runner errors",
+    "input": "INSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "crash",
+    "expectedExit": 1,
+    "actualExit": 1,
+    "status": "PASS",
+    "stdout": "crash: 0 tests, 0 non-passing tests, 2 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_RESULT: shortMsg=Process crashed.\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "abort",
+    "expectedExit": 1,
+    "actualExit": 1,
+    "status": "PASS",
+    "stdout": "abort: 1 tests, 0 non-passing tests, 1 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\nINSTRUMENTATION_ABORTED: reason\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "missing_final",
+    "expectedExit": 1,
+    "actualExit": 1,
+    "status": "PASS",
+    "stdout": "missing_final: 1 tests, 0 non-passing tests, 1 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\n"
+  },
+  {
+    "fixture": "started_second_not_completed",
+    "expectedExit": 1,
+    "actualExit": 0,
+    "status": "FAIL",
+    "stdout": "started_second_not_completed: 1 tests, 0 non-passing tests, 0 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=2\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=2\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=2\nINSTRUMENTATION_STATUS: numtests=2\nINSTRUMENTATION_STATUS: test=two\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "expected_two_only_one_reported",
+    "expectedExit": 1,
+    "actualExit": 0,
+    "status": "FAIL",
+    "stdout": "expected_two_only_one_reported: 1 tests, 0 non-passing tests, 0 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=2\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=2\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\nINSTRUMENTATION_CODE: -1\n"
+  },
+  {
+    "fixture": "duplicate_terminal_result",
+    "expectedExit": 1,
+    "actualExit": 0,
+    "status": "FAIL",
+    "stdout": "duplicate_terminal_result: 2 tests, 0 non-passing tests, 0 runner errors",
+    "input": "INSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 1\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\nINSTRUMENTATION_STATUS: class=org.mysteryatlas.Test\nINSTRUMENTATION_STATUS: current=1\nINSTRUMENTATION_STATUS: numtests=1\nINSTRUMENTATION_STATUS: test=one\nINSTRUMENTATION_STATUS_CODE: 0\nINSTRUMENTATION_CODE: -1\n"
+  }
+]

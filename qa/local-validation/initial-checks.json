@@ -1,0 +1,54 @@
+[
+  {
+    "name": "host-initial",
+    "command": [
+      "bash",
+      "qa/run-host-checks.sh"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "local-build-initial",
+    "command": [
+      "bash",
+      "build-local.sh"
+    ],
+    "exit_code": 2
+  },
+  {
+    "name": "java",
+    "command": [
+      "java",
+      "-version"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "java-modules",
+    "command": [
+      "java",
+      "--list-modules"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "bash-syntax",
+    "command": [
+      "bash",
+      "-n",
+      "qa/run-host-checks.sh",
+      "qa/android-run-qa.sh",
+      "build-local.sh"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "toolchain-files",
+    "command": [
+      "bash",
+      "-c",
+      "rg --files --hidden /opt /usr/local /usr/lib/jvm /workspace /root/.cache 2>/dev/null | rg '(^|/)(gradle|adb|emulator|sdkmanager|android\\.jar|javac|gradle-launcher[^/]*\\.jar|gradle-[0-9][^/]*\\.zip|commandlinetools[^/]*\\.zip)$' | head -80"
+    ],
+    "exit_code": 0
+  }
+]

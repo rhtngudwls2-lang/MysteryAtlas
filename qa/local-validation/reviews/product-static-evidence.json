@@ -1,0 +1,72 @@
+{
+  "reviewer": "independent Product reviewer /root/product_review",
+  "reviewedAtUtc": "2026-09-12T09:20:54.495952+00:00",
+  "scope": "initial source review; no Android execution",
+  "sourceSha256": {
+    "app/src/main/java/org/mysteryatlas/AtlasViewModel.kt": "a0046b3cd42884a0042f8da76f020a37b703f7e25f8b656695adf5ed6873cfc6",
+    "app/src/main/java/org/mysteryatlas/data/Progress.kt": "c5ad332c68d02a4341313e0e74e1173d742b8e73a3ffbc50cb10f2b5847cab5b",
+    "app/src/main/java/org/mysteryatlas/ui/AtlasApp.kt": "d10bc28c290ac44b304c9d500def9bc016981b9f7ff76d34950675222d6b56b0",
+    "app/src/main/java/org/mysteryatlas/ui/Components.kt": "5402cb9803c5e210936f875c1fe282ea92319ff1ff4f34a4744aff6c3f7c577e",
+    "app/src/main/assets/v2/catalog.json": "3233976158b21f8da49c01010fdc339d1b88422560ac93ac5047b3689e074881"
+  },
+  "checks": [
+    {
+      "check": "exact_case_inventory",
+      "status": "PASS",
+      "detail": [
+        "cooper",
+        "voynich",
+        "mary-celeste",
+        "dyatlov",
+        "wow",
+        "rohonc",
+        "phaistos"
+      ]
+    },
+    {
+      "check": "complete_article_targets",
+      "status": "PASS",
+      "detail": "All 7 catalog article paths exist"
+    },
+    {
+      "check": "related_graph",
+      "status": "PASS",
+      "detail": "14 valid non-self edges with KO/EN reasons"
+    },
+    {
+      "check": "exact_category_inventory",
+      "status": "PASS",
+      "detail": "8 approved exact category names"
+    },
+    {
+      "check": "article_content_ids",
+      "status": "PASS",
+      "detail": "All 7 files belong to catalog story"
+    },
+    {
+      "check": "rabbit_revisit_counterexample",
+      "status": "FAIL",
+      "source_expression": "path.value.filter{it!=id}+id",
+      "input": [
+        "cooper",
+        "mary-celeste",
+        "dyatlov",
+        "wow",
+        "dyatlov"
+      ],
+      "actual_path": [
+        "cooper",
+        "mary-celeste",
+        "wow",
+        "dyatlov"
+      ],
+      "invalid_adjacencies": [
+        [
+          "mary-celeste",
+          "wow"
+        ]
+      ],
+      "scope": "Python counterexample to directly read Kotlin expression, not Android execution"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "host-final",
+    "command": [
+      "bash",
+      "qa/run-host-checks.sh"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "bash-syntax-final",
+    "command": [
+      "bash",
+      "-n",
+      "qa/run-host-checks.sh",
+      "qa/android-run-qa.sh",
+      "build-local.sh"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "local-build-final",
+    "command": [
+      "bash",
+      "build-local.sh"
+    ],
+    "exit_code": 2
+  },
+  {
+    "name": "android-runtime-preflight",
+    "command": [
+      "bash",
+      "qa/android-run-qa.sh"
+    ],
+    "exit_code": 2
+  },
+  {
+    "name": "java-compiler-module",
+    "command": [
+      "java",
+      "-m",
+      "jdk.compiler/com.sun.tools.javac.Main",
+      "-version"
+    ],
+    "exit_code": 0
+  }
+]
