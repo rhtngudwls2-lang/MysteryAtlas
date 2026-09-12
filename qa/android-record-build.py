@@ -56,9 +56,9 @@ def sdk_tool(name):
 def signer_certificates(signing):
     # apksigner uses SDK-range labels for v3.1 signatures, numbered labels otherwise.
     # Accept only signer certificates, never public-key or source-stamp digests.
-    label = r"(?:#\d+|\(minSdkVersion=\d+(?: \(dev release=true\))?, maxSdkVersion=\d+\))"
+    label = r"(?:Signer (?:#\d+|\(minSdkVersion=\d+(?: \(dev release=true\))?, maxSdkVersion=\d+\))|V2 Signer:)"
     return list(dict.fromkeys(value.lower() for value in re.findall(
-        rf"^Signer {label} certificate SHA-256 digest: ([0-9a-fA-F]{{64}})\s*$",
+        rf"^{label} certificate SHA-256 digest: ([0-9a-fA-F]{{64}})\s*$",
         signing, re.M
     )))
 

@@ -84,6 +84,14 @@ class BuildIdentityTest(unittest.TestCase):
                        "Signer #1 certificate SHA-256 digest: not-a-sha256"]:
             self.assertEqual([], identity.signer_certificates(output))
 
+    def test_actual_ci_v2_signer_output(self):
+        # Exact public certificate output from Actions run 34689086197.
+        output = ("V2 Signer: certificate DN: C=US, O=Android, CN=Android Debug\n"
+                  "V2 Signer: certificate SHA-256 digest: 0b1fcec6e2803df3086e47c549ab76cde7b33c73b2a7d77ab33ff99cf1f2b0b8\n"
+                  "V2 Signer: certificate SHA-1 digest: 5d40695ec513ecca5b1ba53d0cb8a0aad076c26c\n")
+        self.assertEqual(["0b1fcec6e2803df3086e47c549ab76cde7b33c73b2a7d77ab33ff99cf1f2b0b8"],
+                         identity.signer_certificates(output))
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

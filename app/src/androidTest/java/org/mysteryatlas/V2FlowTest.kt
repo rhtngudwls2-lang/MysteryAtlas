@@ -104,6 +104,9 @@ class V2FlowTest {
             tap("nav_home"); tap("hero_open"); article("cooper")
             screenshot("03-cooper.png")
             scroll("article_list", "article_summary")
+            screenshot("17-article-summary.png")
+            scroll("article_list", "section_money")
+            screenshot("18-article-body.png")
         }
         checkStep("Article scroll; Evidence Layer; source section") {
             scroll("article_list", "evidence_section")
@@ -174,6 +177,18 @@ class V2FlowTest {
             compose.activityRule.scenario.onActivity { it.intent.putExtra("qa_error", true) }
             compose.activityRule.scenario.recreate(); compose.waitForIdle()
             await("error_state"); screenshot("12-error.png"); tap("retry"); await("hero_open")
+        }
+        checkStep("Shared artifact illustrations visibly disclose their thematic use") {
+            for (id in listOf("phaistos", "rohonc")) {
+                tap("nav_search"); await("search_input")
+                node("search_input").performTextClearance()
+                node("search_input").performTextInput(case(id).getString("canonicalTitle"))
+                node("search_input").performImeAction()
+                tap("search_result_$id"); article(id)
+                node("article_list").performScrollToIndex(0)
+                compose.onAllNodesWithText("주제 공통 이미지 · 해당 유물의 모습이 아닙니다").onFirst().assertIsDisplayed()
+                screenshot("19-$id-shared-illustration.png")
+            }
         }
         checkStep("Final saved Korean Cooper and recent state; no uncaught crash during flow") {
             tap("nav_saved"); await("saved_list"); tap("card_cooper"); article("cooper")
