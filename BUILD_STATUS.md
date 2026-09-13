@@ -17,7 +17,7 @@ Product Spec Restore Addendum implementation adds Quick Preview, local reactions
 | Render review | PASS for RC | Home and case views inspected at mobile and desktop sizes; missing imagery is visibly disclosed |
 | Public deployment | NOT RUN — approval required | Production origin, public host and publish action deliberately unset |
 
-The separate Web CI workflow passed on branch commit `ec03f8cee32909bca2a8857f25ae7e01496369e8` in GitHub Actions run `34758482742`. Canonical URLs use `https://mystery-atlas.example` until an approved free deployment hostname is known.
+The separate Web CI workflow passed on the restored Product Spec branch head `a0f8e1cc36436d037923462d673784424b505644` in GitHub Actions run `34760417261`. Canonical URLs use `https://mystery-atlas.example` until an approved free deployment hostname is known.
 
 ## Android V2
 
