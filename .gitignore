@@ -1,3 +1,13 @@
-1ëa¡Ñ1qêmŠ‰ËŠw¶´ƒ…ŠW‘y§@–TŞÆĞ”±êìºÇ«‡.™éí°*{´Û­=×yÂjyèµÊ'½êíj¸.™éí¢WB…ªğŠØoj[~ŠÑz™Zqëh·*^K+-z`¡j°šz-r‰ïz»oj[¶‹r¥ä²²×¦
-«ºè­+kŠx&ºË[yìZrÙr¢wœ…ªÚr×«–‰à1ëa¡Ò'¾‡¶*'¦Ø¨œ¸§{g!j½t
-‰ïz»S ¬{®¶¸§7±´IÜ¡Ø§DÅğg­+^°L\z›b¢w–X§€g­+^³­‡V«‚éÛj[q©ç¢ÖŞée=ªÚ™ë^­ÈZ®
+.gradle/
+.idea/
+local.properties
+**/build/
+*.jks
+*.keystore
+web/node_modules/
+web/.next/
+web/out/
+web/test-results/
+web/playwright-report/
+web/artifacts/
+web/*.tsbuildinfo
