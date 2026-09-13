@@ -15,7 +15,7 @@ Baseline: `main@a6ac8c188e23e49eee265518fb0cda1fcb73c059`. Work is isolated on `
 | Render review | PASS for RC | Home and case views inspected at mobile and desktop sizes; missing imagery is visibly disclosed |
 | Public deployment | NOT RUN — approval required | Production origin, public host and publish action deliberately unset |
 
-The Web CI workflow is configured separately. Its first remote run is pending the branch push and does not inherit local PASS results. Canonical URLs use `https://mystery-atlas.example` until an approved free deployment hostname is known.
+The separate Web CI workflow passed on branch commit `ec03f8cee32909bca2a8857f25ae7e01496369e8` in GitHub Actions run `34758482742`. Canonical URLs use `https://mystery-atlas.example` until an approved free deployment hostname is known.
 
 ## Android V2
 
