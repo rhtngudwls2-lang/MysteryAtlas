@@ -1,6 +1,27 @@
-# Mystery Atlas V2 — verification status
+# Mystery Atlas — verification status
 
-**V2 local implementation is being checkpointed. Android compilation, instrumentation and visual approval are not yet verified.** This file must be updated from actual CI/runtime evidence, not from authored source or intended behavior.
+## Web V3 release candidate
+
+Baseline: `main@a6ac8c188e23e49eee265518fb0cda1fcb73c059`. Work is isolated on `codex/mystery-atlas-v3-web`; no Android source or build configuration is changed.
+
+| Gate | Status | Evidence |
+|---|---|---|
+| Next.js static production build | PASS (local) | 49 pages exported, including both locales and all 18 localized case routes |
+| ESLint / TypeScript | PASS (local) | `npm run lint`; `npm run typecheck` |
+| Unit tests | PASS (local) | 6/6: catalog, 15-claim migration, schema, reading time, search fields, relation integrity |
+| Internal links | PASS (local) | 48 generated HTML pages and every root-relative link checked against static output |
+| Browser smoke | PASS (local) | 14/14 across Chromium Pixel 7 and desktop projects; locale, search, save persistence, metadata, sitemap/robots, evidence and reading time |
+| Basic accessibility | PASS (local) | axe WCAG A/AA serious/critical checks on four core surfaces in both viewport projects after contrast correction |
+| Render review | PASS for RC | Home and case views inspected at mobile and desktop sizes; missing imagery is visibly disclosed |
+| Public deployment | NOT RUN — approval required | Production origin, public host and publish action deliberately unset |
+
+The Web CI workflow is configured separately. Its first remote run is pending the branch push and does not inherit local PASS results. Canonical URLs use `https://mystery-atlas.example` until an approved free deployment hostname is known.
+
+## Android V2
+
+The V3 Source of Truth identifies `a6ac8c188e23e49eee265518fb0cda1fcb73c059` as the verified V2 commit and records successful real-phone testing, a successful Android CI/build path, tests of seven major screens, and an existing debug APK. Exact historical CI run and artifact identifiers were not supplied, so no new identifiers are invented here. V3 work does not alter `app/` or the Android workflow.
+
+The historical detail below predates the verified V2 handoff and is retained only as implementation provenance. Where it conflicts with the preceding verified handoff status, the preceding status controls.
 
 ## Verified V1 baseline
 
@@ -10,7 +31,7 @@
 - V1 APK: `app-debug.apk`, 11,589,966 bytes, SHA256 `c2ea8d61b4dfd1d783695772df136f619ccc4858e7fd42dee5ca1200c8a18e3a`.
 - Android installation and launch: confirmed by the user for V1. V1 commercial/UX/visual quality failed and is not inherited by V2.
 
-## Current execution block
+## Historical pre-V2 execution block
 
 The GitHub integration rejected branch creation with HTTP 403, `Resource not accessible by integration`. No alternative write route was attempted. V2 changes have not been pushed and no V2 CI build or emulator run is claimed. The configured CI pipeline requires the repository connection to have the necessary authenticated access before execution.
 

@@ -1,4 +1,24 @@
-# Mystery Atlas V2 — Android
+# Mystery Atlas — Android V2 + Web V3
+
+The repository now preserves the verified Android V2 application under `app/` and adds an independent, web-first V3 release candidate under `web/`. V3 is a bilingual, static-first editorial product; it does not restore the rejected V1 map/game loop.
+
+## Web V3 release candidate
+
+Requirements: Node.js 22 and npm.
+
+```bash
+cd web
+npm ci
+npm run test:all
+```
+
+`npm run build` exports the complete site to `web/out`. Use `npm run dev` for local authoring. The locale entry points are `/en/` and `/ko/`. Set `NEXT_PUBLIC_SITE_URL` to the approved production origin before release; the checked-in fallback hostname is intentionally non-production.
+
+The web app reuses the Android V2 JSON catalog and five existing editorial reconstruction images. It adds a V3 evidence model and source-bounded research records for D.B. Cooper, Rendlesham Forest, and Loch Ness. Missing verified images remain explicit placeholders.
+
+Web QA is isolated in `.github/workflows/web-build.yml`; Android QA remains in `.github/workflows/android-build.yml`. The web workflow lints, type-checks, unit-tests, builds all static routes, checks internal links, and runs Playwright at mobile and desktop viewports with basic axe accessibility checks.
+
+## Android V2
 
 Native Android content app under implementation. The V2 product loop is discovery → article → related story → Rabbit Hole → save → return. The previous map and investigation game are being archived or removed. Do not use a successful APK build as evidence of product or visual approval.
 
