@@ -1,7 +1,8 @@
 import { describe, expect, it } from "vitest";
 import { cases, collections } from "../../src/content";
-import { readingMinutes } from "../../src/lib/reading-time";
+import { readingMinutes, readingStrategies } from "../../src/lib/reading-time";
 import { searchCases } from "../../src/lib/search";
+import { marketConfig, supportedLocales } from "../../src/config/market";
 
 describe("release content", () => {
   it("ships exactly the approved nine-case catalog", () => {
@@ -37,6 +38,7 @@ describe("release content", () => {
     const cooper = cases.find((item) => item.slug === "cooper")!;
     expect(readingMinutes(cooper, "en")).toBeGreaterThan(1);
     expect(readingMinutes(cooper, "ko")).toBeGreaterThan(1);
+    expect(readingStrategies.en.unitsPerMinute).not.toBe(readingStrategies.ko.unitsPerMinute);
   });
 
   it("searches title, alias, people, place, dates, tags and categories", () => {
@@ -50,5 +52,32 @@ describe("release content", () => {
     const slugs = new Set(cases.map((item) => item.slug));
     expect(collections.every((item) => item.caseSlugs.every((slug) => slugs.has(slug)))).toBe(true);
     expect(cases.every((item) => item.related.every((edge) => slugs.has(edge.slug)))).toBe(true);
+  });
+
+  it("materializes canonical, locale, image-role and visual-flow data", () => {
+    for (const record of cases) {
+      expect(record.id).toBe(record.slug);
+      expect(record.sourceModel?.canonical.id).toBe(record.slug);
+      expect(record.sourceModel?.locales.en.preview).toBe(record.preview.en);
+      expect(record.sourceModel?.locales.ko.preview).toBe(record.preview.ko);
+      expect(record.images.every((image) => image.id && typeof image.reconstruction === "boolean")).toBe(true);
+      expect(record.visualSequence).toHaveLength(record.narrative.length);
+      expect(record.related.every((edge) => edge.relationType)).toBe(true);
+    }
+    const visiblePaths = cases.flatMap((record) => record.images.flatMap((image) => image.path ? [image.path] : []));
+    expect(new Set(visiblePaths).size).toBe(visiblePaths.length);
+  });
+
+  it("keeps market identity and future locales in configuration", () => {
+    expect(marketConfig.en.publicDisplayName).toBeTruthy();
+    expect(marketConfig.ko.reactionLabels.positive).toBe("좋아요");
+    expect(supportedLocales).toEqual(expect.arrayContaining(["ja", "zh-Hans", "zh-Hant", "es", "pt", "th", "de", "fr"]));
+  });
+
+  it("search accepts a 100-case data set without implementation changes", () => {
+    const seed = cases[0];
+    const expanded = Array.from({ length: 100 }, (_, index) => ({ ...seed, id: `scale-${index}`, slug: `scale-${index}`, title: `Scale Case ${index}`, aliases: [`Expansion ${index}`] }));
+    expect(searchCases("Expansion 99", "en", expanded)[0].slug).toBe("scale-99");
+    expect(searchCases("", "en", expanded)).toHaveLength(100);
   });
 });

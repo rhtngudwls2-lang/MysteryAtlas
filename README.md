@@ -16,6 +16,17 @@ npm run test:all
 
 The web app reuses the Android V2 JSON catalog and five existing editorial reconstruction images. It adds a V3 evidence model and source-bounded research records for D.B. Cooper, Rendlesham Forest, and Loch Ness. Missing verified images remain explicit placeholders.
 
+The restored V3 product architecture is data-driven beyond the nine-case launch catalog:
+
+- each runtime case exposes canonical data separately from locale editorial content;
+- market configuration owns public identity, SEO, share copy, featured collections, hook cases and reaction labels;
+- the locale registry distinguishes Simplified and Traditional Chinese and can activate future approved locales without changing the case schema;
+- image records carry IDs, six placement roles, provenance, reconstruction flags and sequence metadata; narrative visual beats preserve missing slots rather than fabricating art;
+- Rabbit Hole edges carry explicit relation types, while Explore derives country and category filters from records instead of fixed page lists;
+- analytics, content repository, reaction repository, community-review and entitlement boundaries are provider-neutral interfaces. No backend, paid SDK, paywall or fake aggregate is active.
+
+The case-page “10-second preview” is a short editorial content type, not a timer or paid gate. Reactions and saves are local-only and display no global totals.
+
 Web QA is isolated in `.github/workflows/web-build.yml`; Android QA remains in `.github/workflows/android-build.yml`. The web workflow lints, type-checks, unit-tests, builds all static routes, checks internal links, and runs Playwright at mobile and desktop viewports with basic axe accessibility checks.
 
 ## Android V2

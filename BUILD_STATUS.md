@@ -4,13 +4,15 @@
 
 Baseline: `main@a6ac8c188e23e49eee265518fb0cda1fcb73c059`. Work is isolated on `codex/mystery-atlas-v3-web`; no Android source or build configuration is changed.
 
+Product Spec Restore Addendum implementation adds Quick Preview, local reactions, country/category discovery, typed Rabbit Hole edges, narrative image sequencing, market/brand configuration, future-locale registration, canonical/editorial separation, and provider-neutral analytics/content/community/entitlement interfaces. The nine verified launch records remain unchanged in count and no new factual content or image was generated.
+
 | Gate | Status | Evidence |
 |---|---|---|
 | Next.js static production build | PASS (local) | 49 pages exported, including both locales and all 18 localized case routes |
 | ESLint / TypeScript | PASS (local) | `npm run lint`; `npm run typecheck` |
-| Unit tests | PASS (local) | 6/6: catalog, 15-claim migration, schema, reading time, search fields, relation integrity |
+| Unit tests | PASS (local) | 9/9: catalog, 15-claim migration, schema, locale reading strategies, search fields, 100-record scale fixture, relations, image de-duplication, market config |
 | Internal links | PASS (local) | 48 generated HTML pages and every root-relative link checked against static output |
-| Browser smoke | PASS (local) | 14/14 across Chromium Pixel 7 and desktop projects; locale, search, save persistence, metadata, sitemap/robots, evidence and reading time |
+| Browser smoke | PASS (local) | 20/20 across Chromium Pixel 7 and desktop projects; locale, Quick Preview, reactions, country discovery, typed Rabbit Hole, search, save persistence, metadata, sitemap/robots, evidence and reading time |
 | Basic accessibility | PASS (local) | axe WCAG A/AA serious/critical checks on four core surfaces in both viewport projects after contrast correction |
 | Render review | PASS for RC | Home and case views inspected at mobile and desktop sizes; missing imagery is visibly disclosed |
 | Public deployment | NOT RUN — approval required | Production origin, public host and publish action deliberately unset |

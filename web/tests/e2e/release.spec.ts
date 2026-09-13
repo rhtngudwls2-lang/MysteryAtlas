@@ -16,6 +16,33 @@ test("case page exposes evidence, canonical metadata and calculated reading time
   await expect(page.getByText("What this does not establish").first()).toBeVisible();
 });
 
+test("quick preview, visual sequence and typed rabbit hole render", async ({ page }) => {
+  await page.goto("/en/cases/cooper/");
+  await page.getByText("10-second preview", { exact: true }).click();
+  await expect(page.locator(".quick-preview .case-preview")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "How the case moves" })).toBeVisible();
+  await expect(page.locator(".visual-sequence li")).not.toHaveCount(0);
+  await expect(page.getByText("Evidence pattern").first()).toBeVisible();
+});
+
+test("country discovery filters the catalog", async ({ page }) => {
+  await page.goto("/en/explore/");
+  await page.getByLabel("Country").selectOption("united-kingdom");
+  await expect(page.locator(".case-card")).toHaveCount(1);
+  await expect(page.getByRole("heading", { name: "Rendlesham Forest" })).toBeVisible();
+});
+
+test("reaction can change, cancel and persist locally", async ({ page }) => {
+  await page.goto("/en/cases/cooper/");
+  const positive = page.getByRole("button", { name: /Worth reading/ });
+  await positive.click();
+  await expect(positive).toHaveAttribute("aria-pressed", "true");
+  await page.reload();
+  await expect(page.getByRole("button", { name: /Worth reading/ })).toHaveAttribute("aria-pressed", "true");
+  await page.getByRole("button", { name: /Worth reading/ }).click();
+  await expect(page.getByRole("button", { name: /Worth reading/ })).toHaveAttribute("aria-pressed", "false");
+});
+
 test("search uses aliases and people", async ({ page }) => {
   await page.goto("/en/search/");
   await page.getByTestId("search-input").fill("Charles Halt");
@@ -59,4 +86,6 @@ test("captures release-candidate surfaces", async ({ page }, testInfo) => {
   await page.screenshot({ path: `artifacts/screenshots/${testInfo.project.name}-cooper.png`, fullPage: true });
   await page.goto("/ko/cases/rendlesham/");
   await page.screenshot({ path: `artifacts/screenshots/${testInfo.project.name}-rendlesham-ko.png`, fullPage: true });
+  await page.goto("/en/explore/");
+  await page.screenshot({ path: `artifacts/screenshots/${testInfo.project.name}-explore.png`, fullPage: true });
 });
