@@ -4,3 +4,10 @@ local.properties
 **/build/
 *.jks
 *.keystore
+web/node_modules/
+web/.next/
+web/out/
+web/test-results/
+web/playwright-report/
+web/artifacts/
+web/*.tsbuildinfo
