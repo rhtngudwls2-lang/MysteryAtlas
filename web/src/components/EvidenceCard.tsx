@@ -1,7 +1,10 @@
+"use client";
+
 import type { EvidenceClaim, Locale } from "@/content/schema";
 import { copy } from "@/lib/copy";
+import { trackEvent } from "@/lib/analytics";
 
-export function EvidenceCard({ claim, locale }: { claim: EvidenceClaim; locale: Locale }) {
+export function EvidenceCard({ claim, locale, caseId }: { claim: EvidenceClaim; locale: Locale; caseId: string }) {
   const c = copy(locale);
   return <article className="evidence-card" id={claim.id} data-status={claim.status}>
     <header><span className="claim-id">{claim.id}</span><span className={`evidence-status status-${claim.status.toLowerCase()}`}>{claim.status}</span></header>
@@ -15,9 +18,9 @@ export function EvidenceCard({ claim, locale }: { claim: EvidenceClaim; locale: 
     </dl>
     <div className="source-block">
       <div><span>{claim.sourceType[locale]}</span><span>{claim.sourceDate}</span></div>
-      <a href={claim.source.url} rel="noreferrer" target="_blank">{claim.source.title} ↗</a>
-      {claim.counterSource && <a href={claim.counterSource.url} rel="noreferrer" target="_blank">{locale === "en" ? "Counter-source" : "반대 출처"}: {claim.counterSource.title} ↗</a>}
+      <a href={claim.source.url} rel="noreferrer" target="_blank" onClick={() => trackEvent({ name: "source_click", caseId, locale, value: claim.id })}>{claim.source.title} ↗</a>
+      {claim.counterSource && <a href={claim.counterSource.url} rel="noreferrer" target="_blank" onClick={() => trackEvent({ name: "source_click", caseId, locale, value: `${claim.id}:counter` })}>{locale === "en" ? "Counter-source" : "반대 출처"}: {claim.counterSource.title} ↗</a>}
     </div>
-    <footer><span>{c.verified}: {claim.lastVerified}</span><details><summary>{c.history}</summary>{claim.changeHistory.map((item) => <p key={`${item.date}-${item.note.en}`}>{item.date} — {item.note[locale]}</p>)}</details></footer>
+    <footer><span>{c.verified}: {claim.lastVerified}</span><details onToggle={(event) => { if (event.currentTarget.open) trackEvent({ name: "evidence_interaction", caseId, locale, value: claim.id }); }}><summary>{c.history}</summary>{claim.changeHistory.map((item) => <p key={`${item.date}-${item.note.en}`}>{item.date} — {item.note[locale]}</p>)}</details></footer>
   </article>;
 }

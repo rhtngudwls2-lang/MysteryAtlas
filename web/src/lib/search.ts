@@ -3,10 +3,10 @@ import type { CaseRecord, Locale } from "@/content/schema";
 
 const normalize = (value: string) => value.normalize("NFKC").toLocaleLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
 
-export function searchCases(query: string, locale: Locale): CaseRecord[] {
+export function searchCases(query: string, locale: Locale, records: CaseRecord[] = cases): CaseRecord[] {
   const needle = normalize(query);
-  if (!needle) return cases;
-  return cases.map((record) => {
+  if (!needle) return records;
+  return records.map((record) => {
     const categoryNames = categories.filter((category) => record.categories.includes(category.id)).flatMap((category) => [category.name.en, category.name.ko]);
     const exact = [record.title, ...record.aliases].map(normalize);
     const primary = [record.title, record.subtitle[locale], record.preview[locale], ...record.aliases].map(normalize);

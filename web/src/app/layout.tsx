@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { getMarket } from "@/config/market";
+
+const defaultMarket = getMarket("en");
 
 export const metadata: Metadata = {
-  title: "Mystery Atlas",
-  description: "Mystery stories with evidence, counterevidence, and source boundaries.",
+  title: defaultMarket.seoTitle,
+  description: defaultMarket.seoDescription,
   icons: { icon: "/favicon.svg" },
 };
 

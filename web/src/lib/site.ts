@@ -1,7 +1,8 @@
 import type { Locale } from "@/content/schema";
 import type { Metadata } from "next";
+import { getMarket } from "@/config/market";
 
-export const siteName = "Mystery Atlas";
+export const siteName = getMarket("en").publicDisplayName;
 export const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://mystery-atlas.example";
 export const localePath = (locale: Locale, path = "") => `/${locale}${path}`;
 export const absoluteUrl = (path: string) => new URL(path, siteUrl).toString();

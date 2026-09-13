@@ -223,8 +223,8 @@ export const researchedCases: CaseRecord[] = [
       { id: "debate", ...sources.debate, accessedAt: "2026-09-13" },
     ],
     related: [
-      { slug: "wow", question: L("When does a recorded signal become evidence of a source?", "기록된 신호는 언제 원인의 증거가 되는가?") },
-      { slug: "cooper", question: L("What can an official file establish without solving identity?", "공식 기록은 신원을 풀지 못해도 무엇을 입증할 수 있는가?") },
+      { slug: "wow", relationType: "evidence_pattern", question: L("When does a recorded signal become evidence of a source?", "기록된 신호는 언제 원인의 증거가 되는가?") },
+      { slug: "cooper", relationType: "evidence_pattern", question: L("What can an official file establish without solving identity?", "공식 기록은 신원을 풀지 못해도 무엇을 입증할 수 있는가?") },
     ],
   },
   {
@@ -246,8 +246,8 @@ export const researchedCases: CaseRecord[] = [
       { id: "illumina", ...sources.illumina, accessedAt: "2026-09-13" },
     ],
     related: [
-      { slug: "dyatlov", question: L("How far can a supported model explain a whole incident?", "유력 모델은 사건 전체를 어디까지 설명할 수 있는가?") },
-      { slug: "voynich", question: L("What remains unknown after material evidence is established?", "물질적 증거를 확인한 뒤에도 무엇이 미확정으로 남는가?") },
+      { slug: "dyatlov", relationType: "evidence_pattern", question: L("How far can a supported model explain a whole incident?", "유력 모델은 사건 전체를 어디까지 설명할 수 있는가?") },
+      { slug: "voynich", relationType: "evidence_pattern", question: L("What remains unknown after material evidence is established?", "물질적 증거를 확인한 뒤에도 무엇이 미확정으로 남는가?") },
     ],
   },
 ];
