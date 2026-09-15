@@ -12,7 +12,20 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "app/src/main/assets"
 REPORT = []
-EPISTEMIC = {"CONFIRMED", "DISPUTED", "CLAIM", "LEGEND", "DEBUNKED"}
+EPISTEMIC = {
+    "CONFIRMED", "SUPPORTED", "DISPUTED", "ALLEGED", "UNVERIFIED",
+    "DEBUNKED", "OUTDATED", "CLAIM", "LEGEND",
+}
+SLUG_ID = re.compile(r"[a-z0-9][a-z0-9_-]*")
+EVIDENCE_ID = re.compile(r"(?:[a-z0-9][a-z0-9_-]*|[CRL][0-9]{2})")
+RELATION_TYPES = {
+    "similar_case", "same_country", "same_era", "same_theme",
+    "related_person", "related_place", "derived_conspiracy",
+    "skeptical_explanation", "evidence_pattern", "question_based",
+}
+HTTP_SOURCE_EXCEPTIONS = {
+    "http://www.ianridpath.com/ufo/rendlesham2.html",
+}
 CORE = {"cooper", "voynich", "mary-celeste", "dyatlov", "wow"}
 REQUIRED_CATEGORIES = {
     "우리는 혼자인가", "죽음 너머에서", "설명할 수 없는 것들", "역사가 설명하지 못한 것들",
@@ -61,10 +74,10 @@ def dated(value, where):
     require(parsed <= date.today(), f"Future verification/publication date: {where}")
 
 
-def unique_ids(items, where):
+def unique_ids(items, where, pattern=SLUG_ID):
     require(isinstance(items, list), f"Expected array: {where}")
     ids = [entry.get("id") for entry in items]
-    require(all(isinstance(i, str) and re.fullmatch(r"[a-z0-9][a-z0-9_-]*", i) for i in ids), f"Invalid IDs: {where}")
+    require(all(isinstance(i, str) and pattern.fullmatch(i) for i in ids), f"Invalid IDs: {where}")
     require(len(ids) == len(set(ids)), f"Duplicate IDs: {where}")
     return set(ids)
 
@@ -120,24 +133,45 @@ def main():
             target = edge["caseId"]
             require(target in case_ids and target != identifier, f"Broken/self Rabbit Hole link: {identifier}->{target}")
             localized(edge["reason"], f"related reason {identifier}->{target}")
+            relation = edge.get("type")
+            if relation is not None:
+                require(isinstance(relation, dict) and len(relation) == 1, f"Invalid Rabbit Hole type: {identifier}->{target}")
+                relation_name, relation_value = next(iter(relation.items()))
+                require(relation_name == relation_value and relation_name in RELATION_TYPES, f"Unknown Rabbit Hole type: {identifier}->{target}")
             targets.append(target)
         require(len(targets) == len(set(targets)), f"Duplicate Rabbit Hole targets: {identifier}")
-        asset_path(story["image"], f"{identifier}.image")
-        required_image_paths.add(story["image"])
+        if story.get("image"):
+            asset_path(story["image"], f"{identifier}.image")
+            required_image_paths.add(story["image"])
+        else:
+            images = story.get("images")
+            require(isinstance(images, list) and images, f"Missing image metadata: {identifier}")
+            hero = next((image for image in images if image.get("role") == "hero"), None)
+            require(
+                hero is not None
+                and SLUG_ID.fullmatch(hero.get("id", ""))
+                and hero.get("path") == ""
+                and isinstance(hero.get("provenance"), str)
+                and hero["provenance"].strip()
+                and hero.get("reconstruction") is False,
+                f"Invalid missing-image state: {identifier}",
+            )
 
         article = read_json(asset_path(story["article"], f"{identifier}.article"))
         require(article["caseId"] == identifier, f"Article belongs to wrong case: {identifier}")
         dated(article["verifiedAt"], f"{identifier}.verifiedAt")
         localized(article["summary"], f"{identifier}.summary")
         section_ids = unique_ids(article["sections"], f"{identifier}.sections")
-        evidence_ids = unique_ids(article["evidence"], f"{identifier}.evidence")
+        evidence_ids = unique_ids(article["evidence"], f"{identifier}.evidence", EVIDENCE_ID)
         source_ids = unique_ids(article["sources"], f"{identifier}.sources")
         require(section_ids and evidence_ids and source_ids, f"Incomplete article: {identifier}")
         for source in article["sources"]:
             for field in ("title", "publisher"):
                 text(source[field], f"{identifier}.{source['id']}.{field}")
-            url = urlparse(source["url"])
-            require(url.scheme == "https" and url.netloc and not url.username and not url.password, f"Invalid HTTPS source URL: {identifier}.{source['id']}")
+            source_url = source["url"]
+            url = urlparse(source_url)
+            secure_url = url.scheme == "https" and url.netloc and not url.username and not url.password
+            require(secure_url or source_url in HTTP_SOURCE_EXCEPTIONS, f"Invalid HTTPS source URL: {identifier}.{source['id']}")
             dated(source["accessedAt"], f"{identifier}.{source['id']}.accessedAt")
         for section in article["sections"]:
             text(section["type"], f"{identifier}.{section['id']}.type")
@@ -174,7 +208,7 @@ def main():
         require(image["sha256"] == hashlib.sha256(path.read_bytes()).hexdigest(), f"Image hash differs from provenance: {image['path']}")
         require(len(image["dimensions"]) == 2 and min(image["dimensions"]) >= 600, f"Insufficient source image dimensions: {image['path']}")
     require(required_image_paths <= licensed_paths, f"Unlicensed referenced image: {required_image_paths - licensed_paths}")
-    packaged = {str(p.relative_to(ASSETS)) for p in (ASSETS / "images").glob("*") if p.is_file()}
+    packaged = {p.relative_to(ASSETS).as_posix() for p in (ASSETS / "images").glob("*") if p.is_file()}
     require(packaged <= licensed_paths, f"Untracked packaged image: {packaged - licensed_paths}")
     passed(f"All {len(licensed_paths)} packaged images have matching hashes, dimensions and generation provenance")
 
