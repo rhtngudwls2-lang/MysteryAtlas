@@ -99,7 +99,8 @@ class V2FlowTest {
             screenshot("01-home.png")
             node("home_list").performScrollToIndex(2); screenshot("22-home-picks.png")
             node("home_list").performScrollToIndex(3); screenshot("23-home-connections.png")
-            node("home_list").performScrollToIndex(5); screenshot("24-home-categories.png")
+            val firstCategoryId = catalog.getJSONArray("categories").getJSONObject(0).getString("id")
+            scroll("home_list", "home_category_$firstCategoryId"); screenshot("24-home-categories.png")
             node("home_list").performScrollToIndex(0); await("hero_open")
         }
         checkStep("Saved empty state on fresh app") {
