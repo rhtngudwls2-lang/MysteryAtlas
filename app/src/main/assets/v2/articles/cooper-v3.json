@@ -1,0 +1,83 @@
+{
+  "caseId": "cooper",
+  "verifiedAt": "2026-09-13",
+  "status": "UNVERIFIED",
+  "summary": {
+    "en": "A man using the name Dan Cooper hijacked an airliner on November 24, 1971. His identity and fate remain unconfirmed.",
+    "ko": "A man using the name Dan Cooper hijacked an airliner on November 24, 1971. His identity and fate remain unconfirmed."
+  },
+  "sections": [
+    {
+      "id": "record",
+      "type": "text",
+      "title": { "en": "The public record", "ko": "The public record" },
+      "body": { "en": "The FBI public record documents the hijacking, ransom and surviving evidence while leaving the hijacker's identity unresolved.", "ko": "The FBI public record documents the hijacking, ransom and surviving evidence while leaving the hijacker's identity unresolved." },
+      "sourceIds": ["fbi-case", "fbi-2016"]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C01", "status": "CONFIRMED",
+      "text": { "en": "The FBI announced that it redirected active investigative resources while continuing to accept specific physical evidence.", "ko": "The FBI announced that it redirected active investigative resources while continuing to accept specific physical evidence." },
+      "reason": { "en": "The agency statement was checked directly; it is not presented as a complete view of all internal activity.", "ko": "The agency statement was checked directly; it is not presented as a complete view of all internal activity." },
+      "sourceIds": ["fbi-2016"], "sourceType": { "en": "Primary - official agency statement", "ko": "Primary - official agency statement" }, "sourceDate": "2016-07-12",
+      "whatItEstablishes": { "en": "The policy the agency announced publicly.", "ko": "The policy the agency announced publicly." },
+      "whatItDoesNotEstablish": { "en": "An identification, Cooper's death, or that no investigation occurred afterward.", "ko": "An identification, Cooper's death, or that no investigation occurred afterward." },
+      "counterEvidence": { "en": "The FBI's 2007 public request records an earlier period of active investigation; it is a different point in time, not contradictory new evidence.", "ko": "The FBI's 2007 public request records an earlier period of active investigation; it is a different point in time, not contradictory new evidence." },
+      "counterSourceIds": ["fbi-2007"], "lastVerified": "2026-09-13",
+      "changeHistory": { "en": "H-C1: policy change recorded; no identity status change.", "ko": "H-C1: policy change recorded; no identity status change." }
+    },
+    {
+      "id": "C02", "status": "UNVERIFIED",
+      "text": { "en": "Richard McCoy has been confirmed as D.B. Cooper.", "ko": "Richard McCoy has been confirmed as D.B. Cooper." },
+      "reason": { "en": "The existence of a private claim and an official identification are kept separate; the two positions are not shown as equal evidence.", "ko": "The existence of a private claim and an official identification are kept separate; the two positions are not shown as equal evidence." },
+      "sourceIds": ["fbi-case"], "sourceType": { "en": "Primary/closest - official case overview; publication date not stated", "ko": "Primary/closest - official case overview; publication date not stated" }, "sourceDate": "NOT VERIFIED",
+      "whatItEstablishes": { "en": "The agency's public account differs from the private identification claim.", "ko": "The agency's public account differs from the private identification claim." },
+      "whatItDoesNotEstablish": { "en": "That the private claim became a new official identification.", "ko": "That the private claim became a new official identification." },
+      "counterEvidence": { "en": "The FBI lists reasons for ruling McCoy out, including mismatches with two crew descriptions; the private claim cites similarities and interpretations of objects.", "ko": "The FBI lists reasons for ruling McCoy out, including mismatches with two crew descriptions; the private claim cites similarities and interpretations of objects." },
+      "counterSourceIds": ["csd"], "lastVerified": "2026-09-13",
+      "changeHistory": { "en": "H-C2: new reporting was recorded, but identity status did not change.", "ko": "H-C2: new reporting was recorded, but identity status did not change." }
+    },
+    {
+      "id": "C03", "status": "UNVERIFIED", "statusQualifier": { "en": "PRIMARY NOT FOUND - SECONDARY ONLY", "ko": "PRIMARY NOT FOUND - SECONDARY ONLY" },
+      "text": { "en": "The December 2025 return of a parachute authenticated it as Cooper's parachute.", "ko": "The December 2025 return of a parachute authenticated it as Cooper's parachute." },
+      "reason": { "en": "Returning or disposing of an object is separate from authenticating it; absence of authentication is not converted into a fake verdict.", "ko": "Returning or disposing of an object is separate from authenticating it; absence of authentication is not converted into a fake verdict." },
+      "sourceIds": ["csd"], "sourceType": { "en": "Secondary reporting; receipt, examination report and agency authentication not found", "ko": "Secondary reporting; receipt, examination report and agency authentication not found" }, "sourceDate": "2026-02-22",
+      "whatItEstablishes": { "en": "The owner described a return without a conclusion, and the report relays the FBI's refusal to comment.", "ko": "The owner described a return without a conclusion, and the report relays the FBI's refusal to comment." },
+      "whatItDoesNotEstablish": { "en": "Authentication, official exclusion, or a direct agency statement that examination was inconclusive.", "ko": "Authentication, official exclusion, or a direct agency statement that examination was inconclusive." },
+      "counterEvidence": { "en": "The report includes a contrary interpretation and a retired agent's general view; the 2016 FBI policy also does not equate receipt with authentication.", "ko": "The report includes a contrary interpretation and a retired agent's general view; the 2016 FBI policy also does not equate receipt with authentication." },
+      "counterSourceIds": ["fbi-2016"], "lastVerified": "2026-09-13",
+      "changeHistory": { "en": "H-C2: news item added; authentication remains unverified.", "ko": "H-C2: news item added; authentication remains unverified." }
+    },
+    {
+      "id": "C04", "status": "UNVERIFIED", "statusQualifier": { "en": "Strong counterevidence - PRIMARY IDENTIFIED, NOT RETRIEVED", "ko": "Strong counterevidence - PRIMARY IDENTIFIED, NOT RETRIEVED" },
+      "text": { "en": "A usable Cooper DNA profile was obtained from the cigarette butts.", "ko": "A usable Cooper DNA profile was obtained from the cigarette butts." },
+      "reason": { "en": "Public counterevidence is strong, but the key internal record was not retrieved; neither CONFIRMED DNA nor a fully audited DEBUNKED status is used.", "ko": "Public counterevidence is strong, but the key internal record was not retrieved; neither CONFIRMED DNA nor a fully audited DEBUNKED status is used." },
+      "sourceIds": ["vault"], "sourceType": { "en": "Primary identified, not retrieved; internal date not verified", "ko": "Primary identified, not retrieved; internal date not verified" }, "sourceDate": "NOT VERIFIED",
+      "whatItEstablishes": { "en": "There is strong counterevidence to the cigarette-butt DNA claim, while the checked FBI article identifies the tie as the DNA source.", "ko": "There is strong counterevidence to the cigarette-butt DNA claim, while the checked FBI article identifies the tie as the DNA source." },
+      "whatItDoesNotEstablish": { "en": "A review of every internal record, the exact disposal date or process, or the full current sample inventory.", "ko": "A review of every internal record, the exact disposal date or process, or the full current sample inventory." },
+      "counterEvidence": { "en": "A cited FBI Evidence Review and a former case agent's account indicate the butts were gone before DNA work; initial collection alone does not prove a successful profile.", "ko": "A cited FBI Evidence Review and a former case agent's account indicate the butts were gone before DNA work; initial collection alone does not prove a successful profile." },
+      "counterSourceIds": ["cooper-wiki"], "lastVerified": "2026-09-13",
+      "changeHistory": { "en": "Corrected an AI cigarette-butt/tie mix-up; this is not a new forensic finding.", "ko": "Corrected an AI cigarette-butt/tie mix-up; this is not a new forensic finding." }
+    },
+    {
+      "id": "C05", "status": "UNVERIFIED",
+      "text": { "en": "DNA recovered from the tie must belong to Cooper.", "ko": "DNA recovered from the tie must belong to Cooper." },
+      "reason": { "en": "Evidence connecting the object to the person is required; 'may not be his' is not rewritten as 'is not his.'", "ko": "Evidence connecting the object to the person is required; 'may not be his' is not rewritten as 'is not his.'" },
+      "sourceIds": ["fbi-2007"], "sourceType": { "en": "Primary - agency statement; raw analysis and complete custody history not obtained", "ko": "Primary - agency statement; raw analysis and complete custody history not obtained" }, "sourceDate": "2007-12-31",
+      "whatItEstablishes": { "en": "The agency described DNA derived from the tie.", "ko": "The agency described DNA derived from the tie." },
+      "whatItDoesNotEstablish": { "en": "That the person who left the DNA was necessarily the hijacker.", "ko": "That the person who left the DNA was necessarily the hijacker." },
+      "counterEvidence": { "en": "A former agent discussed handling, contact routes and multiple contributors; that does not identify another donor either.", "ko": "A former agent discussed handling, contact routes and multiple contributors; that does not identify another donor either." },
+      "counterSourceIds": ["csd"], "lastVerified": "2026-09-13",
+      "changeHistory": { "en": "No new donor identification was verified in scope.", "ko": "No new donor identification was verified in scope." }
+    }
+  ],
+  "sources": [
+    { "id": "fbi-2016", "title": "Update on Investigation of 1971 Hijacking by D.B. Cooper", "publisher": "FBI Seattle", "url": "https://www.fbi.gov/contact-us/field-offices/seattle/news/press-releases/update-on-investigation-of-1971-hijacking-by-d.b.-cooper", "accessedAt": "2026-09-13" },
+    { "id": "fbi-case", "title": "D.B. Cooper Hijacking", "publisher": "Federal Bureau of Investigation", "url": "https://www.fbi.gov/history/cases-and-criminals/db-cooper-hijacking", "accessedAt": "2026-09-13" },
+    { "id": "fbi-2007", "title": "D.B. Cooper Redux", "publisher": "Federal Bureau of Investigation", "url": "https://archives.fbi.gov/archives/news/stories/2007/december/dbcooper_123107", "accessedAt": "2026-09-13" },
+    { "id": "csd", "title": "FBI's One-In-A-Billion Parachute Returns And Revives D.B. Cooper Mystery", "publisher": "Cowboy State Daily", "url": "https://cowboystatedaily.com/2026/02/22/fbis-one-in-a-billion-parachute-returns-and-revives-d-b-cooper-mystery/", "accessedAt": "2026-09-13" },
+    { "id": "vault", "title": "D.B. Cooper Part 51", "publisher": "FBI Vault", "url": "https://vault.fbi.gov/D-B-Cooper%20/d.b.-cooper-part-51/view", "accessedAt": "2026-09-13" },
+    { "id": "cooper-wiki", "title": "D. B. Cooper - FBI Evidence Review citation", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/D._B._Cooper", "accessedAt": "2026-09-13" }
+  ]
+}

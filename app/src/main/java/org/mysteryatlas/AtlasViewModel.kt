@@ -14,6 +14,7 @@ class AtlasViewModel(application:Application,private val saved:SavedStateHandle)
  private val repository=ContentRepository(application)
  private val storage=ProgressRepository(application)
  val catalog=MutableStateFlow<Catalog?>(null)
+ val index=MutableStateFlow<SearchManifest?>(null)
  val user=MutableStateFlow(UserState())
  val storageError=MutableStateFlow(false)
  private var userJob:Job?=null
@@ -26,6 +27,7 @@ class AtlasViewModel(application:Application,private val saved:SavedStateHandle)
  val category=saved.getStateFlow("v2:category","")
  val query=saved.getStateFlow("v2:query","")
  val path=saved.getStateFlow("v2:path",arrayListOf<String>())
+ val screenFlow=saved.getStateFlow("v2:screen","home")
  private var stack:ArrayList<String>
   get()=saved.get<ArrayList<String>>("v2:stack")?:arrayListOf()
   set(value){saved["v2:stack"]=value}
@@ -39,8 +41,25 @@ class AtlasViewModel(application:Application,private val saved:SavedStateHandle)
    catch(_:Exception){storageError.value=true}
   }
  }
- fun load(forceError:Boolean=false){viewModelScope.launch{error.value=false;catalog.value=null;if(forceError){error.value=true;return@launch};runCatching{repository.catalog()}.onSuccess{catalog.value=it;if(screen.value=="article")loadArticle(active.value)}.onFailure{error.value=true}}}
+  fun load(forceError:Boolean=false){
+   viewModelScope.launch{
+    error.value=false
+    catalog.value=null
+    if(forceError){error.value=true;return@launch}
+    runCatching{repository.catalog()}.onSuccess{
+      catalog.value=it
+      index.value=buildSearchManifest(it)
+      if(screen.value=="article"||screen.value=="preview")loadArticle(active.value)
+    }.onFailure{error.value=true}
+   }
+  }
  fun tab(to:String){stack=arrayListOf();saved["v2:path"]=arrayListOf<String>();saved["v2:screen"]=to}
+ fun openQuick(id:String){
+ val data=catalog.value?:return
+ if(data.cases.none{it.id==id})return
+ if(screen.value=="preview"&&active.value==id)return
+ push();saved["v2:active"]=id;saved["v2:screen"]="preview";loadArticle(id);write{storage.quickSeen(id)}
+ }
  private fun push(){stack=ArrayList(stack+listOf("${screen.value}~${active.value}~${category.value}~${path.value.joinToString(",")}"))}
  fun open(id:String,related:Boolean=false){
   val data=catalog.value?:return
@@ -70,5 +89,15 @@ class AtlasViewModel(application:Application,private val saved:SavedStateHandle)
  fun language(){if(user.value.ready&&!storageError.value)write{storage.language(if(user.value.language=="ko")"en" else "ko")}}
  fun position(id:String,index:Int,offset:Int){write{storage.position(id,index,offset)}}
  fun complete(id:String){if(id !in user.value.completed)write{storage.complete(id)}}
- fun results():List<Story> = catalog.value?.let{searchStories(it,query.value)}?:emptyList()
+ fun results():List<Story> = catalog.value?.let{
+   index.value?.let { searchStories(it,query.value) } ?: searchStories(it,query.value)
+ }?:emptyList()
+ fun react(id:String,type:ReactionType){
+  if(!user.value.ready||storageError.value)return
+  write {
+   val current=user.value.reactions[id] ?: ReactionType.NONE
+   storage.reaction(id, if(current==type) ReactionType.NONE else type)
+  }
+ }
+ fun reactionValue(id:String):ReactionType=user.value.reactions[id]?:ReactionType.NONE
 }

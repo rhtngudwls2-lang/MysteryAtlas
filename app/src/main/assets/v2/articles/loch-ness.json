@@ -1,0 +1,66 @@
+{
+  "caseId": "loch-ness", "verifiedAt": "2026-09-13", "status": "UNVERIFIED",
+  "summary": { "en": "Eel DNA, statistical size analysis, a disputed photograph and a new collection plan answer different questions. None should be substituted for another.", "ko": "Eel DNA, statistical size analysis, a disputed photograph and a new collection plan answer different questions. None should be substituted for another." },
+  "sections": [
+    { "id": "records", "type": "text", "title": { "en": "Four records, four questions", "ko": "Four records, four questions" }, "body": { "en": "The eDNA announcement, size analysis, photograph history and follow-up plan each address a different proposition.", "ko": "The eDNA announcement, size analysis, photograph history and follow-up plan each address a different proposition." }, "sourceIds": ["otago", "foxon", "nova", "illumina"] },
+    { "id": "boundaries", "type": "text", "title": { "en": "The boundaries matter", "ko": "The boundaries matter" }, "body": { "en": "Detection does not establish size, a statistical model does not prove biological impossibility, and a plan is not a research result.", "ko": "Detection does not establish size, a statistical model does not prove biological impossibility, and a plan is not a research result." }, "sourceIds": ["otago", "foxon", "illumina"] }
+  ],
+  "evidence": [
+    {
+      "id": "L01", "status": "SUPPORTED",
+      "text": { "en": "The research team reported eel DNA but could not determine the animals' size.", "ko": "The research team reported eel DNA but could not determine the animals' size." },
+      "reason": { "en": "The institutional research announcement is distinguished from an independently reproduced experiment.", "ko": "The institutional research announcement is distinguished from an independently reproduced experiment." },
+      "sourceIds": ["otago"], "sourceType": { "en": "Primary research-team announcement; raw data and full methods paper not obtained", "ko": "Primary research-team announcement; raw data and full methods paper not obtained" }, "sourceDate": "2019-09-05",
+      "whatItEstablishes": { "en": "The reported detection result and the researcher's explicit limitation.", "ko": "The reported detection result and the researcher's explicit limitation." },
+      "whatItDoesNotEstablish": { "en": "Individual size or the monster's identity.", "ko": "Individual size or the monster's identity." },
+      "counterEvidence": { "en": "Size interpretation must be considered separately through the 2023 statistical paper.", "ko": "Size interpretation must be considered separately through the 2023 statistical paper." },
+      "counterSourceIds": ["foxon"], "lastVerified": "2026-09-13", "changeHistory": { "en": "H-L1: later size analysis added; the eDNA observation was not withdrawn.", "ko": "H-L1: later size analysis added; the eDNA observation was not withdrawn." }
+    },
+    {
+      "id": "L02", "status": "UNVERIFIED",
+      "text": { "en": "The 2019 results exclude every possible unidentified large animal.", "ko": "The 2019 results exclude every possible unidentified large animal." },
+      "reason": { "en": "The result is not extended beyond its observation scope; that limitation is also not positive evidence that an unidentified animal exists.", "ko": "The result is not extended beyond its observation scope; that limitation is also not positive evidence that an unidentified animal exists." },
+      "sourceIds": ["otago"], "sourceType": { "en": "Primary research-team announcement", "ko": "Primary research-team announcement" }, "sourceDate": "2019-09-05",
+      "whatItEstablishes": { "en": "Non-detection within that sampling and analysis.", "ko": "Non-detection within that sampling and analysis." },
+      "whatItDoesNotEstablish": { "en": "Complete absence across all times, locations and organisms.", "ko": "Complete absence across all times, locations and organisms." },
+      "counterEvidence": { "en": "A 2025 interview discusses the single-time-point limitation and plans repeated collection.", "ko": "A 2025 interview discusses the single-time-point limitation and plans repeated collection." },
+      "counterSourceIds": ["illumina"], "lastVerified": "2026-09-13", "changeHistory": { "en": "The follow-up plan does not withdraw the original result.", "ko": "The follow-up plan does not withdraw the original result." }
+    },
+    {
+      "id": "L03", "status": "SUPPORTED",
+      "text": { "en": "Under the model, a giant eel is highly improbable, but biological impossibility was not proved.", "ko": "Under the model, a giant eel is highly improbable, but biological impossibility was not proved." },
+      "reason": { "en": "The paper's strong wording is not reused outside the model's stated scope.", "ko": "The paper's strong wording is not reused outside the model's stated scope." },
+      "sourceIds": ["foxon"], "sourceType": { "en": "Primary - peer-reviewed statistical analysis; not a new sampling experiment", "ko": "Primary - peer-reviewed statistical analysis; not a new sampling experiment" }, "sourceDate": "2023-07-21",
+      "whatItEstablishes": { "en": "Under the stated data and distribution assumptions, the very-large-eel explanation is weakened.", "ko": "Under the stated data and distribution assumptions, the very-large-eel explanation is weakened." },
+      "whatItDoesNotEstablish": { "en": "The impossibility of every physiological growth path or every unidentified species.", "ko": "The impossibility of every physiological growth path or every unidentified species." },
+      "counterEvidence": { "en": "The paper's limitations include 129 Loch Ness samples, distribution assumptions, exclusion of biological mechanisms and cross-environment comparison limits.", "ko": "The paper's limitations include 129 Loch Ness samples, distribution assumptions, exclusion of biological mechanisms and cross-environment comparison limits." },
+      "counterSourceIds": ["foxon"], "lastVerified": "2026-09-13", "changeHistory": { "en": "H-L1: added as separate evidence about size, not a retraction of eDNA findings.", "ko": "H-L1: added as separate evidence about size, not a retraction of eDNA findings." }
+    },
+    {
+      "id": "L04", "status": "SUPPORTED", "statusQualifier": { "en": "SECONDARY ONLY - primary recording and object NOT RETRIEVED", "ko": "SECONDARY ONLY - primary recording and object NOT RETRIEVED" },
+      "text": { "en": "The hoax account substantially weakens the surgeon's photograph as evidence of a large unidentified animal.", "ko": "The hoax account substantially weakens the surgeon's photograph as evidence of a large unidentified animal." },
+      "reason": { "en": "The account is strong, but the original confession recording and physical device were not verified here, so CONFIRMED is not used.", "ko": "The account is strong, but the original confession recording and physical device were not verified here, so CONFIRMED is not used." },
+      "sourceIds": ["nova"], "sourceType": { "en": "Secondary reconstruction with direct interview; primary recording and device not retrieved", "ko": "Secondary reconstruction with direct interview; primary recording and device not retrieved" }, "sourceDate": "2000-11",
+      "whatItEstablishes": { "en": "The basis and public history of the hoax explanation.", "ko": "The basis and public history of the hoax explanation." },
+      "whatItDoesNotEstablish": { "en": "That every later sighting was a hoax.", "ko": "That every later sighting was a hoax." },
+      "counterEvidence": { "en": "The same page reports questions about the toy's performance and timing of the confession; those questions do not restore the photo's authenticity.", "ko": "The same page reports questions about the toy's performance and timing of the confession; those questions do not restore the photo's authenticity." },
+      "counterSourceIds": ["nova"], "lastVerified": "2026-09-13", "changeHistory": { "en": "H-L2: evidence value narrowed without extending the conclusion to other sightings.", "ko": "H-L2: evidence value narrowed without extending the conclusion to other sightings." }
+    },
+    {
+      "id": "L05", "status": "CONFIRMED", "statusQualifier": { "en": "Limited to what the interview announces", "ko": "Limited to what the interview announces" },
+      "text": { "en": "A 2025 interview introduces a new passive eDNA collection plan.", "ko": "A 2025 interview introduces a new passive eDNA collection plan." },
+      "reason": { "en": "The narrow proposition that a plan was announced can be checked directly.", "ko": "The narrow proposition that a plan was announced can be checked directly." },
+      "sourceIds": ["illumina"], "sourceType": { "en": "Direct interview published by a technology provider", "ko": "Direct interview published by a technology provider" }, "sourceDate": "2025-01-10",
+      "whatItEstablishes": { "en": "The proposed follow-up approach and plan.", "ko": "The proposed follow-up approach and plan." },
+      "whatItDoesNotEstablish": { "en": "Completion, a new organism discovery, or the absence of every later result through 2026.", "ko": "Completion, a new organism discovery, or the absence of every later result through 2026." },
+      "counterEvidence": { "en": "The earlier Otago result and later size analysis are separate; a plan article is not a research result.", "ko": "The earlier Otago result and later size analysis are separate; a plan article is not a research result." },
+      "counterSourceIds": ["otago"], "lastVerified": "2026-09-13", "changeHistory": { "en": "H-L3: plan announced; no discovery status change.", "ko": "H-L3: plan announced; no discovery status change." }
+    }
+  ],
+  "sources": [
+    { "id": "otago", "title": "First eDNA study of Loch Ness points to something fishy", "publisher": "University of Otago", "url": "https://www.otago.ac.nz/news/newsroom/first-edna-study-of-loch-ness-points-to-something-fishy", "accessedAt": "2026-09-13" },
+    { "id": "foxon", "title": "The Largest Eel? A Statistical Analysis", "publisher": "JMIRx Bio", "url": "https://xbio.jmir.org/2023/1/e49063", "accessedAt": "2026-09-13" },
+    { "id": "illumina", "title": "Back to the drawing board: Loch Ness eDNA", "publisher": "Illumina", "url": "https://www.illumina.com/company/news-center/feature-articles/loch-ness-edna.html", "accessedAt": "2026-09-13" },
+    { "id": "nova", "title": "Birth of a Legend 3", "publisher": "PBS NOVA", "url": "https://www.pbs.org/wgbh/nova/lochness/legend3.html", "accessedAt": "2026-09-13" }
+  ]
+}

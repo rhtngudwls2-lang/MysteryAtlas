@@ -146,7 +146,7 @@
         "시애틀"
       ],
       "image": "images/cooper.webp",
-      "article": "v2/articles/cooper.json",
+      "article": "v2/articles/cooper-v3.json",
       "publishedAt": "2026-09-12",
       "related": [
         {
@@ -161,7 +161,24 @@
           "reason": {
             "ko": "남은 증거로 마지막 선택을 재구성하다",
             "en": "Reconstructing a final decision from evidence"
-          }
+          },
+          "type": { "evidence_pattern": "evidence_pattern" }
+        },
+        {
+          "caseId": "rendlesham",
+          "reason": {
+            "ko": "공식 기록이 관찰과 원인을 어디까지 구분하는가",
+            "en": "How far an official record separates observation from cause"
+          },
+          "type": { "evidence_pattern": "evidence_pattern" }
+        },
+        {
+          "caseId": "loch-ness",
+          "reason": {
+            "ko": "서로 다른 증거가 서로 다른 질문에 답한다",
+            "en": "Different evidence answers different questions"
+          },
+          "type": { "evidence_pattern": "evidence_pattern" }
         }
       ],
       "persons": [
@@ -675,6 +692,58 @@
         "ko": "미노아 시대",
         "en": "Minoan period"
       }
+    },
+    {
+      "id": "rendlesham",
+      "canonicalTitle": "Rendlesham Forest",
+      "headline": { "ko": "공식 메모는 실제로 무엇을 입증하는가?", "en": "What does an official memo actually establish?" },
+      "hook": { "ko": "날짜가 적힌 메모는 이상한 빛의 보고를 기록한다. 그 자체로 외계 원인을 확인하지는 않는다.", "en": "A dated memo records unusual-light reports. It does not, by itself, identify an extraterrestrial cause." },
+      "status": { "ko": "증거 논쟁 중", "en": "Evidence disputed" },
+      "resolutionCode": "DISPUTED",
+      "country": { "ko": "영국", "en": "United Kingdom" },
+      "year": "1980-1981",
+      "minutes": { "ko": 3, "en": 3 },
+      "categoryIds": ["unexplained"],
+      "tags": ["UFO", "UAP", "memo", "radiation", "lighthouse"],
+      "aliases": ["Rendlesham Forest incident", "Britain's Roswell"],
+      "image": "",
+      "images": [{ "id": "rendlesham-placeholder", "path": "", "role": "hero", "provenance": "No verified image available", "reconstruction": false, "sequence": 0 }],
+      "article": "v2/articles/rendlesham.json",
+      "publishedAt": "2026-09-13",
+      "related": [
+        { "caseId": "wow", "reason": { "ko": "설명되지 않은 신호 기록", "en": "A record of an unexplained signal" }, "type": { "evidence_pattern": "evidence_pattern" } },
+        { "caseId": "cooper", "reason": { "ko": "공식 기록이 결론보다 좁은 사건", "en": "An official record narrower than the conclusion" }, "type": { "evidence_pattern": "evidence_pattern" } }
+      ],
+      "persons": [{ "id": "charles-halt", "name": "Charles Halt" }, { "id": "jim-penniston", "name": "Jim Penniston" }],
+      "locations": [{ "id": "rendlesham-forest", "name": "Rendlesham Forest", "role": "event" }, { "id": "orford-ness", "name": "Orford Ness", "role": "context" }],
+      "dates": [{ "start": "1980-12", "precision": "MONTH" }, { "start": "1981-01-13", "precision": "DAY" }],
+      "localizedYear": { "ko": "1980-1981", "en": "1980-1981" }
+    },
+    {
+      "id": "loch-ness",
+      "canonicalTitle": "Loch Ness Monster",
+      "headline": { "ko": "DNA 연구는 괴물을 입증했는가, 거대 장어를 입증했는가?", "en": "Did DNA research prove a monster or a giant eel?" },
+      "hook": { "ko": "장어 DNA, 크기 통계, 논쟁적인 사진과 새 수집 계획은 서로 다른 질문에 답한다. 어느 것도 다른 것을 대신하지 않는다.", "en": "Eel DNA, statistical size analysis, a disputed photograph and a new collection plan answer different questions. None should be substituted for another." },
+      "status": { "ko": "정체 미검증", "en": "Identity unverified" },
+      "resolutionCode": "UNVERIFIED",
+      "country": { "ko": "스코틀랜드, 영국", "en": "Scotland, United Kingdom" },
+      "year": "1934-2025",
+      "minutes": { "ko": 3, "en": 3 },
+      "categoryIds": ["creatures", "unexplained"],
+      "tags": ["cryptid", "eDNA", "eel", "photograph"],
+      "aliases": ["Nessie", "Loch Ness creature"],
+      "image": "",
+      "images": [{ "id": "loch-ness-placeholder", "path": "", "role": "hero", "provenance": "No verified image available", "reconstruction": false, "sequence": 0 }],
+      "article": "v2/articles/loch-ness.json",
+      "publishedAt": "2026-09-13",
+      "related": [
+        { "caseId": "dyatlov", "reason": { "ko": "관찰과 후대 해석을 분리한다", "en": "Separate observation from later interpretation" }, "type": { "skeptical_explanation": "skeptical_explanation" } },
+        { "caseId": "voynich", "reason": { "ko": "증거의 한계가 정체 주장을 제한한다", "en": "Evidence limits constrain identity claims" }, "type": { "evidence_pattern": "evidence_pattern" } }
+      ],
+      "persons": [{ "id": "neil-gemmell", "name": "Neil Gemmell" }, { "id": "floe-foxon", "name": "Floe Foxon" }],
+      "locations": [{ "id": "loch-ness", "name": "Loch Ness", "role": "event" }],
+      "dates": [{ "start": "1934", "precision": "YEAR" }, { "start": "2019-09-05", "precision": "DAY" }, { "start": "2023-07-21", "precision": "DAY" }, { "start": "2025-01-10", "precision": "DAY" }],
+      "localizedYear": { "ko": "1934-2025", "en": "1934-2025" }
     }
   ]
 }

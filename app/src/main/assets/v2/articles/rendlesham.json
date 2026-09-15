@@ -1,0 +1,67 @@
+{
+  "caseId": "rendlesham", "verifiedAt": "2026-09-13", "status": "DISPUTED",
+  "summary": { "en": "A dated memo records unusual-light reports. It does not, by itself, identify an extraterrestrial cause.", "ko": "A dated memo records unusual-light reports. It does not, by itself, identify an extraterrestrial cause." },
+  "sections": [
+    { "id": "record", "type": "text", "title": { "en": "The record", "ko": "The record" }, "body": { "en": "The Halt memorandum records observations and reports. A record of observation is not by itself an identification of cause.", "ko": "The Halt memorandum records observations and reports. A record of observation is not by itself an identification of cause." }, "sourceIds": ["halt"] },
+    { "id": "cause", "type": "text", "title": { "en": "Report is not cause", "ko": "Report is not cause" }, "body": { "en": "The lighthouse, radiation and later binary-code claims require separate evidence and separate limits.", "ko": "The lighthouse, radiation and later binary-code claims require separate evidence and separate limits." }, "sourceIds": ["halt", "rendlesham-wiki", "boone"] }
+  ],
+  "evidence": [
+    {
+      "id": "R01", "status": "CONFIRMED", "statusQualifier": { "en": "Limited to the content of the public document copy", "ko": "Limited to the content of the public document copy" },
+      "text": { "en": "A memo dated 13 January 1981 under Halt's name records reports of unusual lights.", "ko": "A memo dated 13 January 1981 under Halt's name records reports of unusual lights." },
+      "reason": { "en": "The observation recorded by the document is separated from an interpretation of the phenomenon; the copy's full chain of custody remains unverified.", "ko": "The observation recorded by the document is separated from an interpretation of the phenomenon; the copy's full chain of custody remains unverified." },
+      "sourceIds": ["halt"], "sourceType": { "en": "Contemporary agency document - third-party public copy", "ko": "Contemporary agency document - third-party public copy" }, "sourceDate": "1981-01-13",
+      "whatItEstablishes": { "en": "The report appears in the document.", "ko": "The report appears in the document." },
+      "whatItDoesNotEstablish": { "en": "Independent verification of every sentence, an extraterrestrial origin, or that Halt directly witnessed the first-night events.", "ko": "Independent verification of every sentence, an extraterrestrial origin, or that Halt directly witnessed the first-night events." },
+      "counterEvidence": { "en": "Paragraph 1 summarizes other people's reports; Halt's participation and observation scope are described separately later.", "ko": "Paragraph 1 summarizes other people's reports; Halt's participation and observation scope are described separately later." },
+      "counterSourceIds": ["halt"], "lastVerified": "2026-09-13", "changeHistory": { "en": "Record created; not a new change to the document itself.", "ko": "Record created; not a new change to the document itself." }
+    },
+    {
+      "id": "R02", "status": "UNVERIFIED",
+      "text": { "en": "The memo independently proves an extraterrestrial spacecraft landing.", "ko": "The memo independently proves an extraterrestrial spacecraft landing." },
+      "reason": { "en": "Witness seriousness or professional status cannot replace causal identification; unexplained details are not automatically evidence of an extraterrestrial cause.", "ko": "Witness seriousness or professional status cannot replace causal identification; unexplained details are not automatically evidence of an extraterrestrial cause." },
+      "sourceIds": ["halt"], "sourceType": { "en": "Contemporary agency document - third-party public copy", "ko": "Contemporary agency document - third-party public copy" }, "sourceDate": "1981-01-13",
+      "whatItEstablishes": { "en": "It records the observers' reports.", "ko": "It records the observers' reports." },
+      "whatItDoesNotEstablish": { "en": "Independent analysis of extraterrestrial material, machinery, or biology.", "ko": "Independent analysis of extraterrestrial material, machinery, or biology." },
+      "counterEvidence": { "en": "Conventional explanations, including the lighthouse hypothesis, remain to be tested; they do not necessarily resolve every observation.", "ko": "Conventional explanations, including the lighthouse hypothesis, remain to be tested; they do not necessarily resolve every observation." },
+      "counterSourceIds": ["rendlesham-wiki"], "lastVerified": "2026-09-13", "changeHistory": { "en": "No new verification of extraterrestrial origin was found within scope.", "ko": "No new verification of extraterrestrial origin was found within scope." }
+    },
+    {
+      "id": "R03", "status": "DEBUNKED", "statusQualifier": { "en": "Only as a claim about this specific memo", "ko": "Only as a claim about this specific memo" },
+      "text": { "en": "Penniston's binary code is written in the 1981 Halt memo.", "ko": "Penniston's binary code is written in the 1981 Halt memo." },
+      "reason": { "en": "Whether the specified document contains the code can be checked directly; a later ASCII decoding does not authenticate transmission or date.", "ko": "Whether the specified document contains the code can be checked directly; a later ASCII decoding does not authenticate transmission or date." },
+      "sourceIds": ["halt"], "sourceType": { "en": "Document inspection - full body of the public copy", "ko": "Document inspection - full body of the public copy" }, "sourceDate": "1981-01-13",
+      "whatItEstablishes": { "en": "The specified memo does not contain a binary string or a report of receiving code.", "ko": "The specified memo does not contain a binary string or a report of receiving code." },
+      "whatItDoesNotEstablish": { "en": "That no 1980 personal notebook existed anywhere, deliberate fabrication, or that extraterrestrial communication is impossible.", "ko": "That no 1980 personal notebook existed anywhere, deliberate fabrication, or that extraterrestrial communication is impossible." },
+      "counterEvidence": { "en": "Later notebook and code claims exist; Boone did not compare his transcription bit-for-bit, and the original creation date is PRIMARY NOT FOUND.", "ko": "Later notebook and code claims exist; Boone did not compare his transcription bit-for-bit, and the original creation date is PRIMARY NOT FOUND." },
+      "counterSourceIds": ["boone"], "lastVerified": "2026-09-13", "changeHistory": { "en": "The code-release chronology was reused; the original notebook date was not newly established.", "ko": "The code-release chronology was reused; the original notebook date was not newly established." }
+    },
+    {
+      "id": "R04", "status": "SUPPORTED", "statusQualifier": { "en": "SECONDARY ONLY - PRIMARY IDENTIFIED, NOT RETRIEVED", "ko": "SECONDARY ONLY - PRIMARY IDENTIFIED, NOT RETRIEVED" },
+      "text": { "en": "Orford Ness lighthouse is a grounded explanation for some flashing-light observations.", "ko": "Orford Ness lighthouse is a grounded explanation for some flashing-light observations." },
+      "reason": { "en": "The original analysis, full contemporary observations and geometry were not independently reproduced, so 'the lighthouse solved the case' is withheld.", "ko": "The original analysis, full contemporary observations and geometry were not independently reproduced, so 'the lighthouse solved the case' is withheld." },
+      "sourceIds": ["ridpath-light"], "sourceType": { "en": "Primary analysis identified, not retrieved; secondary summary checked", "ko": "Primary analysis identified, not retrieved; secondary summary checked" }, "sourceDate": "NOT VERIFIED",
+      "whatItEstablishes": { "en": "A specific conventional hypothesis worth examining exists.", "ko": "A specific conventional hypothesis worth examining exists." },
+      "whatItDoesNotEstablish": { "en": "That every night, observation point and object had the same cause.", "ko": "That every night, observation point and object had the same cause." },
+      "counterEvidence": { "en": "The memo reports multiple positions and movements that require further comparison; needing comparison is not itself a refutation.", "ko": "The memo reports multiple positions and movements that require further comparison; needing comparison is not itself a refutation." },
+      "counterSourceIds": ["halt"], "lastVerified": "2026-09-13", "changeHistory": { "en": "Observation and later-analysis dates remain separate.", "ko": "Observation and later-analysis dates remain separate." }
+    },
+    {
+      "id": "R05", "status": "UNVERIFIED",
+      "text": { "en": "The radiation values recorded in the memo alone prove an anomalous craft landed.", "ko": "The radiation values recorded in the memo alone prove an anomalous craft landed." },
+      "reason": { "en": "Neither a background-level explanation nor a later anomalous-value recollection resolves the other's uncertainty; no health hazard or extraterrestrial origin is inferred.", "ko": "Neither a background-level explanation nor a later anomalous-value recollection resolves the other's uncertainty; no health hazard or extraterrestrial origin is inferred." },
+      "sourceIds": ["halt"], "sourceType": { "en": "Contemporary document notation", "ko": "Contemporary document notation" }, "sourceDate": "1981-01-13",
+      "whatItEstablishes": { "en": "The memo's reported numbers and notation: '0.1 milliroentgens' and '.05-.07'; it does not include /hour.", "ko": "The memo's reported numbers and notation: '0.1 milliroentgens' and '.05-.07'; it does not include /hour." },
+      "whatItDoesNotEstablish": { "en": "Instrument model, calibration, adequate background control, isotope source, or the cause of a landing.", "ko": "Instrument model, calibration, adequate background control, isotope source, or the cause of a landing." },
+      "counterEvidence": { "en": "A later article reports different retrospective values and a correction hypothesis, but not contemporaneous independent calibration.", "ko": "A later article reports different retrospective values and a correction hypothesis, but not contemporaneous independent calibration." },
+      "counterSourceIds": ["debate"], "lastVerified": "2026-09-13", "changeHistory": { "en": "The 2019 recollection was added as material, not accepted as a confirmed change to the 1980 measurement.", "ko": "The 2019 recollection was added as material, not accepted as a confirmed change to the 1980 measurement." }
+    }
+  ],
+  "sources": [
+    { "id": "halt", "title": "Halt Memorandum - public copy and transcription", "publisher": "Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/File:Halt_Memorandum.jpg", "accessedAt": "2026-09-13" },
+    { "id": "rendlesham-wiki", "title": "Rendlesham Forest incident - sceptical analysis", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident", "accessedAt": "2026-09-13" },
+    { "id": "boone", "title": "Rendlesham Forest binary code analysis", "publisher": "Kevin Boone", "url": "https://kevinboone.me/rendelsham-binary.html", "accessedAt": "2026-09-13" },
+    { "id": "ridpath-light", "title": "Rendlesham - flashing light analysis", "publisher": "Ian Ridpath", "url": "http://www.ianridpath.com/ufo/rendlesham2.html", "accessedAt": "2026-09-13" },
+    { "id": "debate", "title": "Rendlesham Forest Incident 1980 - Radiation Readings", "publisher": "The Debate", "url": "https://thedebate.org/2019/09/03/rendlesham-forest-incident-1980-radiation-readings-important-new-information/", "accessedAt": "2026-09-13" }
+  ]
+}
