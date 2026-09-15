@@ -1,9 +1,10 @@
 package org.mysteryatlas.data
 
+import org.junit.Test
 import kotlin.system.measureNanoTime
 
 data class SyntheticCaseIndex(val id:String,val slug:String,val title:String,val country:String,val category:String,val relationIds:List<String>)
-data class ScaleMeasurement(val size:Int,val searchNanos:Long,val slugLookupNanos:Long,val sparseStateLookupNanos:Long,val relationLookupNanos:Long,val facetLookupNanos:Long)
+data class ScaleMeasurement(val size:Int,val searchNanos:Long,val slugLookupNanos:Long,val saveLookupNanos:Long,val reactionLookupNanos:Long,val relationLookupNanos:Long,val facetLookupNanos:Long)
 
 object ContentScaleFixture {
  val sizes=listOf(100,1_000,10_000,50_000)
@@ -19,10 +20,17 @@ object ContentScaleFixture {
   var hits=0
   val search=measureNanoTime { hits=records.count{it.title.contains("mystery ${size-1}",ignoreCase=true)} }; check(hits==1)
   val slug=measureNanoTime { check(bySlug["synthetic-${size-1}"]?.id=="synthetic-${size-1}") }
-  val sparse=measureNanoTime { check("synthetic-1" in saved && reactions["synthetic-1"]=="positive") }
+  val save=measureNanoTime { check("synthetic-1" in saved) }
+  val reaction=measureNanoTime { check(reactions["synthetic-1"]=="positive") }
   val relation=measureNanoTime { check(relations["synthetic-${size-1}"]==listOf("synthetic-${size-2}")) }
   val facet=measureNanoTime { check(countries["country-0"].orEmpty().isNotEmpty() && categories["category-0"].orEmpty().isNotEmpty()) }
-  return ScaleMeasurement(size,search,slug,sparse,relation,facet)
+  return ScaleMeasurement(size,search,slug,save,reaction,relation,facet)
  }
  fun runAll():List<ScaleMeasurement> = sizes.map(::measure)
+}
+
+class ContentScaleFixtureTest {
+ @Test fun validates100To50000Indexes() {
+  ContentScaleFixture.runAll().forEach { println("SCALE_RESULT=$it") }
+ }
 }

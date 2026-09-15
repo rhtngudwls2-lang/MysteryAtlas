@@ -280,7 +280,7 @@ private fun JSONObject.optCopy(key:String):Copy?{
   if(translations.isEmpty()&&markets.isEmpty())null else Copy(translations.ifEmpty{mapOf("en" to obj.getString(obj.keys().asSequence().first()) )},markets)
  }
 }
-private fun JSONObject.optStringList(key:String):List<String> = optJSONArray(key)?.strings()
+private fun JSONObject.optStringList(key:String):List<String> = optJSONArray(key).strings()
 private fun JSONArray?.strings():List<String> = if(this==null)emptyList() else (0 until length()).map{getString(it)}
 private fun <T> JSONArray?.objects(f:(JSONObject)->T):List<T> = if(this==null)emptyList() else (0 until length()).map{f(getJSONObject(it))}
 
@@ -350,7 +350,7 @@ class ContentRepository(private val context:Context) {
     persons=o.optJSONArray("persons").objects{Person(it.getString("id"),it.getString("name"))},
     locations=o.optJSONArray("locations").objects{Place(it.getString("id"),it.getString("name"),it.getString("role"))},
     dates=o.optJSONArray("dates").objects{CaseDate(it.getString("start"),it.getString("precision"))},
-    localizedYear=optCopy(o,"localizedYear")
+    localizedYear=o.optCopy("localizedYear")
    )
   }
   require(stories.map{it.id}.distinct().size==stories.size)
@@ -379,15 +379,15 @@ class ContentRepository(private val context:Context) {
      it.copy("text"),
      if(it.optJSONObject("reason") != null) it.copy("reason") else null,
      it.optJSONArray("sourceIds").strings(),
-     optCopy(it,"whatItEstablishes"),
-     optCopy(it,"whatItDoesNotEstablish"),
-     optCopy(it,"counterEvidence"),
-     optCopy(it,"counterSource"),
+     it.optCopy("whatItEstablishes"),
+     it.optCopy("whatItDoesNotEstablish"),
+     it.optCopy("counterEvidence"),
+     it.optCopy("counterSource"),
      it.optString("lastVerified").takeIf { v -> v.isNotBlank() },
-     optCopy(it,"changeHistory"),
-     optCopy(it,"sourceType"),
+     it.optCopy("changeHistory"),
+     it.optCopy("sourceType"),
      it.optString("sourceDate").takeIf { v -> v.isNotBlank() },
-     optCopy(it,"statusQualifier"),
+     it.optCopy("statusQualifier"),
      it.optJSONArray("counterSourceIds").strings()
    )
   }

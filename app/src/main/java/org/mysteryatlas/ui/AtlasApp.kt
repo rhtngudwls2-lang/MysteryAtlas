@@ -9,6 +9,7 @@ import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.saveable.rememberSaveableStateHolder
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -28,6 +29,8 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import org.mysteryatlas.AtlasViewModel
 import org.mysteryatlas.data.*
+import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.flow.filterNotNull
 import kotlin.math.max
 
 @Composable fun AtlasApp(vm:AtlasViewModel=viewModel(),forceError:Boolean=false){
@@ -96,20 +99,26 @@ import kotlin.math.max
  }
 }}
 
-@Composable private fun Explore(data:Catalog,lang:String,vm:AtlasViewModel){val columns=if(LocalConfiguration.current.screenWidthDp<370||LocalDensity.current.fontScale>1.3f)1 else 2;var showCountry by rememberSaveable { mutableStateOf(false)};var selectedCountry by rememberSaveable { mutableStateOf<String?>(null)};val countryGroups=data.cases.groupBy{it.country.en.ifBlank {it.country.ko}};LazyColumn(Modifier.fillMaxSize().testTag("explore_list"),contentPadding=PaddingValues(20.dp)){
- if(showCountry&&selectedCountry==null){
-  item{FlowRow(horizontalArrangement=Arrangement.spacedBy(8.dp)){TextButton(onClick={showCountry=false}){Text(tr(lang,"카테고리 보기","Categories"))}; TextButton(onClick={selectedCountry=null}){Text(tr(lang,"전체 보기","All Countries"))}}
-  item{Text(tr(lang,"국가 기준 탐색","Browse by country"),style=MaterialTheme.typography.headlineLarge)}
-  item{countryGroups.toList().sortedBy{it.key}.forEach{(id,list)->val display= list.firstOrNull()?.country?.text(lang) ?: id; val count=list.size; Surface(shape=RoundedCornerShape(12.dp),color=Panel,border=BorderStroke(1.dp,Line),modifier=Modifier.fillMaxWidth().padding(vertical=6.dp).testTag("country_${id}").clickable{selectedCountry=display}){Column(Modifier.padding(14.dp)){Text(display,style=MaterialTheme.typography.titleMedium);Text(tr(lang,"${count}건","$count cases"),color=Muted,style=MaterialTheme.typography.bodySmall)}}}}
- } else if(showCountry && selectedCountry!=null){
-  val list=countryGroups[selectedCountry]?:emptyList()
-  item{TextButton(onClick={selectedCountry=null}){Text(tr(lang,"국가 목록으로","Back to country list"))};if(list.isEmpty())item{EmptyMessage(tr(lang,"해당 나라 사건이 없습니다","No cases for this country"),tr(lang,"다른 나라부터 확인하세요","Check another country"),"explore_empty")}else item{Text(selectedCountry!!,style=MaterialTheme.typography.headlineLarge)}}
-  items(list,key={it.id}){s->StoryRow(s,lang,"explore_${s.id}"){vm.open(s.id)}}
- } else {
-  item{Text(tr(lang,"탐색", "Explore"),style=MaterialTheme.typography.headlineLarge);FlowRow{listOf(false,true).forEach{mode-> FilterChip(selected = showCountry==mode,onClick = {showCountry=mode},label={Text(if(mode) tr(lang,"국가","Country") else tr(lang,"카테고리","Category"))},modifier=Modifier.padding(end=8.dp))}}
-  items(data.categories.chunked(columns)){row->Row(horizontalArrangement=Arrangement.spacedBy(12.dp),modifier=Modifier.padding(bottom=14.dp)){row.forEach{c->Surface(shape=RoundedCornerShape(12.dp),color=Panel,border=BorderStroke(1.dp,Line),modifier=Modifier.weight(1f).testTag("category_${c.id}").clickable{vm.category(c.id)}){Column{Art(c.image,lang,Modifier.fillMaxWidth().height(126.dp));Column(Modifier.padding(13.dp),verticalArrangement=Arrangement.spacedBy(8.dp)){Text(c.name.text(lang),style=MaterialTheme.typography.titleMedium);Text(c.hook.text(lang),style=MaterialTheme.typography.bodyMedium,color=Muted);val count=data.cases.count{c.id in it.categoryIds};Text(if(count>0)tr(lang,"${count}건","$count stories")else tr(lang,"아직 준비중","Coming soon"),color=Amber,style=MaterialTheme.typography.labelMedium)}}}}}
+@Composable private fun Explore(data:Catalog,lang:String,vm:AtlasViewModel){
+ val columns=if(LocalConfiguration.current.screenWidthDp<370||LocalDensity.current.fontScale>1.3f)1 else 2
+ var showCountry by rememberSaveable { mutableStateOf(false) }
+ var selectedCountry by rememberSaveable { mutableStateOf<String?>(null) }
+ val countryGroups=data.cases.groupBy{it.country.en.ifBlank {it.country.ko}}
+ LazyColumn(Modifier.fillMaxSize().testTag("explore_list"),contentPadding=PaddingValues(20.dp)){
+  if(showCountry&&selectedCountry==null){
+   item{FlowRow(horizontalArrangement=Arrangement.spacedBy(8.dp)){TextButton(onClick={showCountry=false}){Text(tr(lang,"카테고리 보기","Categories"))};TextButton(onClick={selectedCountry=null}){Text(tr(lang,"전체 보기","All Countries"))}}}
+   item{Text(tr(lang,"국가 기준 탐색","Browse by country"),style=MaterialTheme.typography.headlineLarge)}
+   item{countryGroups.toList().sortedBy{it.first}.forEach{(id,list)->val display=list.firstOrNull()?.country?.text(lang)?:id;val count=list.size;Surface(shape=RoundedCornerShape(12.dp),color=Panel,border=BorderStroke(1.dp,Line),modifier=Modifier.fillMaxWidth().padding(vertical=6.dp).testTag("country_${id}").clickable{selectedCountry=id}){Column(Modifier.padding(14.dp)){Text(display,style=MaterialTheme.typography.titleMedium);Text(tr(lang,"${count}건","$count cases"),color=Muted,style=MaterialTheme.typography.bodySmall)}}}}
+  }else if(showCountry&&selectedCountry!=null){
+   val list=countryGroups[selectedCountry].orEmpty()
+   item{TextButton(onClick={selectedCountry=null}){Text(tr(lang,"국가 목록으로","Back to country list"))}}
+   if(list.isEmpty())item{EmptyMessage(tr(lang,"해당 나라 사건이 없습니다","No cases for this country"),tr(lang,"다른 나라부터 확인하세요","Check another country"),"explore_empty")}else item{Text(list.first().country.text(lang),style=MaterialTheme.typography.headlineLarge)}
+   items(list,key={it.id}){s->StoryRow(s,lang,"explore_${s.id}"){vm.open(s.id)}}
+  }else{
+   item{Text(tr(lang,"탐색","Explore"),style=MaterialTheme.typography.headlineLarge);FlowRow{listOf(false,true).forEach{mode->FilterChip(selected=showCountry==mode,onClick={showCountry=mode},label={Text(if(mode)tr(lang,"국가","Country")else tr(lang,"카테고리","Category"))},modifier=Modifier.padding(end=8.dp))}}}
+   items(data.categories.chunked(columns)){row->Row(horizontalArrangement=Arrangement.spacedBy(12.dp),modifier=Modifier.padding(bottom=14.dp)){row.forEach{c->Surface(shape=RoundedCornerShape(12.dp),color=Panel,border=BorderStroke(1.dp,Line),modifier=Modifier.weight(1f).testTag("category_${c.id}").clickable{vm.category(c.id)}){Column{Art(c.image,lang,Modifier.fillMaxWidth().height(126.dp));Column(Modifier.padding(13.dp),verticalArrangement=Arrangement.spacedBy(8.dp)){Text(c.name.text(lang),style=MaterialTheme.typography.titleMedium);Text(c.hook.text(lang),style=MaterialTheme.typography.bodyMedium,color=Muted);val count=data.cases.count{c.id in it.categoryIds};Text(if(count>0)tr(lang,"${count}건","$count stories")else tr(lang,"아직 준비중","Coming soon"),color=Amber,style=MaterialTheme.typography.labelMedium)}}}}}}
+  }
  }
- }}
 }
 
 @Composable private fun CollectionsScreen(data:Catalog,lang:String,vm:AtlasViewModel){
@@ -120,7 +129,7 @@ import kotlin.math.max
   item{SectionTitle(collection.title.text(lang),collection.subtitle.text(lang))}
   val selected=data.cases.filter{it.id in collection.caseIds}
   if(selected.isEmpty())item{Text(tr(lang,"현재 비어 있습니다","No items available yet"),color=Muted,style=MaterialTheme.typography.bodyMedium,modifier=Modifier.padding(bottom=20.dp))}
-  items(selected,key={it.id}){s->StoryRow(s,lang,tag="collection_${collection.id}_${s.id}",onClick={vm.open(it.id)})}
+  items(selected,key={it.id}){s->StoryRow(s,lang,tag="collection_${collection.id}_${s.id}",onClick={vm.open(s.id)})}
  }
 }
 }
@@ -128,7 +137,7 @@ import kotlin.math.max
 @Composable private fun CategoryScreen(data:Catalog,id:String,lang:String,vm:AtlasViewModel){val c=data.categories.firstOrNull{it.id==id}?:return;val list=data.cases.filter{id in it.categoryIds};LazyColumn(Modifier.fillMaxSize().testTag("category_list"),contentPadding=PaddingValues(20.dp)){
  item{Text(c.name.text(lang),style=MaterialTheme.typography.headlineLarge);Text(c.hook.text(lang),color=Muted,modifier=Modifier.padding(vertical=10.dp))}
  if(list.isEmpty())item{EmptyMessage(tr(lang,"준비 중인 기록입니다","New records on the way"),tr(lang,"다른 카테고리를 탐색해보세요.","Find your next story in another category."),"category_empty");TextButton(onClick={vm.tab("explore")}){Text(tr(lang,"카테고리 더 보기","Explore categories"))}}
- items(list,key={it.id}){s->StoryRow(s,lang){vm.open(it.id)}}
+ items(list,key={it.id}){s->StoryRow(s,lang){vm.open(s.id)}}
 }}
 
 @Composable private fun QuickPreviewScreen(data:Catalog,id:String,lang:String,vm:AtlasViewModel){val story=data.cases.firstOrNull{it.id==id}?:return;val article by vm.article.collectAsStateWithLifecycle();LaunchedEffect(story.id){if(article==null || article?.caseId!=story.id)vm.loadArticle(story.id)};val body=article?.summary?.text(lang)?:"";val minutes=estimateReadingMinutes(story,article,lang)
@@ -144,7 +153,7 @@ import kotlin.math.max
  if(failed){Column(Modifier.padding(24.dp)){EmptyMessage(tr(lang,"이 기록을 열 수 없습니다","This record could not be opened"),tr(lang,"다시 열어보거나 다른 기록을 탐색하세요.","Try again or explore another story."),"article_error");Button(onClick={vm.loadArticle(id)}){Text(tr(lang,"다시 시도","Try again"))}};return}
  val a=article?.takeIf{it.caseId==id};if(a==null){Box(Modifier.fillMaxSize(),contentAlignment=Alignment.Center){CircularProgressIndicator()};return}
  val minutes=estimateReadingMinutes(story,a,lang)
- LaunchedEffect(id,state){snapshotFlow{if(state.layoutInfo.totalItemsCount==0) null else Triple(state.firstVisibleItemIndex,state.firstVisibleItemOffset,state.firstVisibleItemIndex>3+a.sections.size||state.layoutInfo.visibleItemsInfo.any{it.key=="reading_end"&&it.offset+it.size<=state.layoutInfo.viewportEndOffset})}.filterNotNull().distinctUntilChanged().collect{if(it.first==0&&it.second==0&&it.third){};vm.position(id,it.first,it.second);if(it.third)vm.complete(id)}}
+ LaunchedEffect(id,state){snapshotFlow{if(state.layoutInfo.totalItemsCount==0) null else Triple(state.firstVisibleItemIndex,state.firstVisibleItemScrollOffset,state.firstVisibleItemIndex>3+a.sections.size||state.layoutInfo.visibleItemsInfo.any{it.key=="reading_end"&&it.offset+it.size<=state.layoutInfo.viewportEndOffset})}.filterNotNull().distinctUntilChanged().collect{vm.position(id,it.first,it.second);if(it.third)vm.complete(id)}}
  LazyColumn(state=state,modifier=Modifier.fillMaxSize().testTag("article_list"),contentPadding=PaddingValues(bottom=28.dp)){
    item{
     Box {
@@ -159,7 +168,18 @@ import kotlin.math.max
   item(key="reading_end"){Text(tr(lang,"본문의 끝입니다. 아래에서 증거와 출처를 확인하세요","The article ends here. Explore evidence and sources below"),color=Muted,style=MaterialTheme.typography.labelMedium,modifier=Modifier.fillMaxWidth().padding(22.dp).testTag("article_read_end"))}
   item{Column(Modifier.padding(horizontal=22.dp).padding(top=20.dp,bottom=14.dp).testTag("evidence_section"),verticalArrangement=Arrangement.spacedBy(12.dp)){Text("EVIDENCE LAYER",color=Amber,style=MaterialTheme.typography.labelLarge);Text(tr(lang,"주장과 근거를 분리해 확인하세요","Separate claims from evidence"),style=MaterialTheme.typography.headlineMedium);Text(tr(lang,"확정됨/지지됨/반박됨 등을 구분하세요","Distinguish confirmed/supported/disputed status"))}
   }
-  items(a.evidence,key={"ev_${it.id}"}){e->val color=when(e.status){EvidenceStatus.CONFIRMED->Color(0xFF96CAA8);EvidenceStatus.SUPPORTED->Color(0xFF7BB5D2);EvidenceStatus.DISPUTED->Amber;EvidenceStatus.ALLEGED->Color(0xFFE0A27F);EvidenceStatus.UNVERIFIED->Color(0xFF9EC7E4);EvidenceStatus.DEBUNKED->Muted;EvidenceStatus.OUTDATED->Color(0xFFB4A1FF);EvidenceStatus.CLAIM->Color(0xFFD8B7A2)};Surface(color=Panel,shape=RoundedCornerShape(10.dp),border=BorderStroke(1.dp,Line),modifier=Modifier.padding(horizontal=20.dp,vertical=6.dp).testTag("evidence_${e.id}")){Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(10.dp)){Pill(localizedEvidenceLabel(e.status,lang),color);e.reason?.let{Text(it.text(lang),style=MaterialTheme.typography.labelMedium,color=Muted)};Text(e.text.text(lang),style=MaterialTheme.typography.bodyLarge);e.whatItEstablishes?.let{Text("${tr(lang,"확인됨:","What it establishes:")} ${it.text(lang)}",style=MaterialTheme.typography.bodyMedium,color=Muted)};e.whatItDoesNotEstablish?.let{Text("${tr(lang,"확인 불가:","What it does not establish:")} ${it.text(lang)}",style=MaterialTheme.typography.bodyMedium,color=Muted)}})}
+  items(a.evidence,key={"ev_${it.id}"}){e->
+   val color=when(e.status){EvidenceStatus.CONFIRMED->Color(0xFF96CAA8);EvidenceStatus.SUPPORTED->Color(0xFF7BB5D2);EvidenceStatus.DISPUTED->Amber;EvidenceStatus.ALLEGED->Color(0xFFE0A27F);EvidenceStatus.UNVERIFIED->Color(0xFF9EC7E4);EvidenceStatus.DEBUNKED->Muted;EvidenceStatus.OUTDATED->Color(0xFFB4A1FF);EvidenceStatus.CLAIM->Color(0xFFD8B7A2)}
+   Surface(color=Panel,shape=RoundedCornerShape(10.dp),border=BorderStroke(1.dp,Line),modifier=Modifier.padding(horizontal=20.dp,vertical=6.dp).testTag("evidence_${e.id}")){
+    Column(Modifier.padding(16.dp),verticalArrangement=Arrangement.spacedBy(10.dp)){
+     Pill(localizedEvidenceLabel(e.status,lang),color)
+     e.reason?.let{Text(it.text(lang),style=MaterialTheme.typography.labelMedium,color=Muted)}
+     Text(e.text.text(lang),style=MaterialTheme.typography.bodyLarge)
+     e.whatItEstablishes?.let{Text("${tr(lang,"확인됨:","What it establishes:")} ${it.text(lang)}",style=MaterialTheme.typography.bodyMedium,color=Muted)}
+     e.whatItDoesNotEstablish?.let{Text("${tr(lang,"확인 불가:","What it does not establish:")} ${it.text(lang)}",style=MaterialTheme.typography.bodyMedium,color=Muted)}
+    }
+   }
+  }
   item{Column(Modifier.padding(22.dp).testTag("article_sources"),verticalArrangement=Arrangement.spacedBy(12.dp)){HorizontalDivider(color=Line);Text(tr(lang,"출처와 검증", "Sources & verification"),style=MaterialTheme.typography.titleLarge);Text(tr(lang,"최종 확인일 ${a.verifiedAt}","Last verified • ${a.verifiedAt}"),color=Muted,style=MaterialTheme.typography.bodyMedium)}}
   items(a.sources,key={"src_${it.id}"}){s->val uri=LocalUriHandler.current;Column(Modifier.padding(horizontal=20.dp,vertical=4.dp)){OutlinedButton(onClick={runCatching{uri.openUri(s.url)}},shape=RoundedCornerShape(9.dp),modifier=Modifier.fillMaxWidth().testTag("source_${s.id}")){Column(Modifier.weight(1f).padding(vertical=7.dp)){Text(s.title,modifier=Modifier.fillMaxWidth(),color=Ivory,style=MaterialTheme.typography.bodyMedium);Text(s.publisher,color=Amber,style=MaterialTheme.typography.labelSmall)};Glyph("arrow",Amber,Modifier.size(18.dp))}}}
   item{Column(Modifier.padding(22.dp),verticalArrangement=Arrangement.spacedBy(13.dp)){Text("EVIDENCE / RELIABILITY",style=MaterialTheme.typography.titleMedium);Text(tr(lang,"이미지는 아카이브 기록이 아닙니다.","Image is not an archival record."),color=Muted,style=MaterialTheme.typography.bodyMedium);Button(onClick=vm::rabbit,shape=RoundedCornerShape(10.dp),modifier=Modifier.fillMaxWidth().heightIn(min=52.dp).testTag("rabbit_open")){Text(tr(lang,"연결 사건 보기","Open connected stories"));Spacer(Modifier.width(10.dp));Glyph("arrow",Ivory,Modifier.size(18.dp))}}}
@@ -172,6 +192,7 @@ import kotlin.math.max
  item{Surface(color=Panel,shape=RoundedCornerShape(12.dp),border=BorderStroke(1.dp,Line)){Column(Modifier.padding(14.dp),verticalArrangement=Arrangement.spacedBy(8.dp)){Text(tr(lang,"현재 연결","CURRENT CONNECTION"),color=Muted,style=MaterialTheme.typography.labelSmall);Text(current.canonicalTitle,style=MaterialTheme.typography.titleLarge);Pill(current.status.text(lang))}}}
  item{if(current.related.all{it.caseId in path||it.caseId in user.recent}){Column(Modifier.testTag("rabbit_exhausted")){EmptyMessage(tr(lang,"모든 연결을 탐색했습니다","No new chain available"),tr(lang,"저장한 관련 사건을 다시 보거나 새 주제를 탐색하세요.","Revisit a saved case or explore another category."),"rabbit_exhausted_message");Button(onClick={vm.tab("explore")},modifier=Modifier.testTag("rabbit_explore")){Text(tr(lang,"탐색으로 이동","Explore topics"))}}}}
  items(current.related,key={it.caseId}){r->val s=data.cases.firstOrNull{it.id==r.caseId}?:return@items;Column(Modifier.padding(bottom=14.dp)){if(s.id in path)Pill(tr(lang,"이미 방문","Visited"));Text(r.reason.text(lang),color=Amber,style=MaterialTheme.typography.bodyMedium,modifier=Modifier.padding(bottom=9.dp));StoryRow(s,lang,tag="related_${s.id}"){vm.open(s.id,true)}}}
+}
 }
 
 @Composable private fun SearchScreen(lang:String,vm:AtlasViewModel){val query by vm.query.collectAsStateWithLifecycle();val list=vm.results();val keyboard=LocalSoftwareKeyboardController.current;Column(Modifier.fillMaxSize().padding(horizontal=20.dp)){Text(tr(lang,"검색","Search"),style=MaterialTheme.typography.headlineLarge,modifier=Modifier.padding(top=22.dp,bottom=18.dp));OutlinedTextField(value=query,onValueChange=vm::query,keyboardOptions=KeyboardOptions(imeAction=ImeAction.Search),keyboardActions=KeyboardActions(onSearch={keyboard?.hide()}),placeholder={Text(tr(lang,"사건, 인물, 장소를 검색하세요","Search stories, people, places"),fontSize=15.sp)},singleLine=true,leadingIcon={Glyph("search",Muted)},shape=RoundedCornerShape(12.dp),modifier=Modifier.fillMaxWidth().testTag("search_input"));if(query.isBlank())Text(tr(lang,"검색어를 입력해 탐색하세요","START WITH A QUESTION"),color=Amber,style=MaterialTheme.typography.labelLarge,modifier=Modifier.padding(top=22.dp,bottom=8.dp))else Text(tr(lang,"${list.size}건","${list.size} records"),color=Muted,modifier=Modifier.padding(top=18.dp));LazyColumn(Modifier.fillMaxSize().testTag("search_results"),contentPadding=PaddingValues(bottom=24.dp)){if(list.isEmpty())item{EmptyMessage(tr(lang,"검색 결과가 없습니다","No stories found"),tr(lang,"다른 키워드로 다시 시도하세요.","Try another keyword."),"search_empty")};items(list,key={it.id}){s->StoryRow(s,lang,tag="search_result_${s.id}"){vm.open(s.id)}}}}
