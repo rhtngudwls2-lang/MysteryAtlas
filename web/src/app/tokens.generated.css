@@ -1,0 +1,33 @@
+/* Generated from shared/design/design-tokens.json. Do not edit by hand. */
+:root {
+  --bg: #14181a;
+  --panel: #1d2325;
+  --panel-2: #232a2c;
+  --ink: #f4f1e9;
+  --muted: #c6c9c5;
+  --dim: #aab0ae;
+  --line: #394143;
+  --gold: #dfbc83;
+  --gold-soft: #947853;
+  --reader-max: 740px;
+  --max: 1200px;
+  --reader-size: 17px;
+  --reader-leading: 1.68;
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+  --radius: 9px;
+}
+html[data-reader-tone="dark"] { --bg: #14181a; --panel: #1d2325; }
+html[data-reader-tone="dim"] { --bg: #101719; --panel: #182023; }
+html[data-reader-tone="warm"] { --bg: #1b1917; --panel: #26221d; }
+html[data-reader-size="16"] { --reader-size: 16px; }
+html[data-reader-size="17"] { --reader-size: 17px; }
+html[data-reader-size="18"] { --reader-size: 18px; }
+html[data-reader-leading="compact"] { --reader-leading: 1.55; }
+html[data-reader-leading="normal"] { --reader-leading: 1.68; }
+html[data-reader-leading="relaxed"] { --reader-leading: 1.78; }

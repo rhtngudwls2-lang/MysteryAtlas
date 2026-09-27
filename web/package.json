@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next dev",
     "sync:content": "python3 ../shared/tools/sync_content.py --copy-web",
-    "build": "npm run sync:content && next build && node scripts/postbuild.mjs",
+    "sync:design": "python3 ../shared/tools/sync_design.py",
+    "build": "npm run sync:content && npm run sync:design && next build && node scripts/postbuild.mjs",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
