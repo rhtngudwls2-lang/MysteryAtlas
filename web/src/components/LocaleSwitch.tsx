@@ -12,7 +12,7 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
   function rememberPosition(event: React.MouseEvent<HTMLAnchorElement>, choice: Locale) {
     if (!article) return;
     const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
-    const current = sections.filter((section) => section.getBoundingClientRect().top <= 180).at(-1);
+    const current = sections.filter((section) => section.getBoundingClientRect().top <= 300).at(-1);
     if (current) {
       event.preventDefault();
       router.push(`/${choice}${route || "/"}#${current.id}`);

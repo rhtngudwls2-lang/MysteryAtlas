@@ -13,7 +13,7 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
       ticking = true;
       requestAnimationFrame(() => {
         const blocks = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
-        const current = blocks.filter((block) => block.getBoundingClientRect().top < 180).at(-1);
+        const current = blocks.filter((block) => block.getBoundingClientRect().top < 300).at(-1);
         try { localStorage.setItem(progressKey, JSON.stringify({ canonicalId, locale, blockId: current?.id ?? "", updatedAt: Date.now() })); } catch { /* Keep reading if storage is disabled. */ }
         ticking = false;
       });
