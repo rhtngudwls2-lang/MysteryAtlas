@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "assets"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "minLength": 1
+    },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "caseId",
+          "assetId",
+          "role",
+          "locale",
+          "fileName",
+          "sha256",
+          "rightsStatus",
+          "captionKo",
+          "captionEn",
+          "altKo",
+          "altEn",
+          "sourceRefs"
+        ],
+        "properties": {
+          "locale": {
+            "enum": [
+              "ko",
+              "en"
+            ]
+          },
+          "rightsStatus": {
+            "const": "PROJECT_ORIGINAL"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "fileName": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9_.-]+\\.png$"
+          }
+        }
+      }
+    }
+  }
+}

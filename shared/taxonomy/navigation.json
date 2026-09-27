@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "U2-1.0",
+  "main": [
+    "home",
+    "explore",
+    "search",
+    "collections",
+    "saved"
+  ],
+  "home": [
+    "continueReading",
+    "featured",
+    "randomEligibleOnly",
+    "genreBrowse",
+    "recommendations",
+    "rabbitHole"
+  ],
+  "article": [
+    "back",
+    "localeSwitch",
+    "readerSettings",
+    "share",
+    "narrative",
+    "evidence",
+    "factBoundary",
+    "sources",
+    "rabbitHole"
+  ],
+  "randomRule": "Filter publication.randomEligible === true; if none, show truthful preview text with no random action",
+  "android": "native navigation and system back; map same editorial destinations"
+}

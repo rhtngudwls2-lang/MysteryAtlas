@@ -1,0 +1,415 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "wall-street-bombing-1920",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1920 월스트리트 폭탄사건",
+    "canonicalTitleEn": "1920 Wall Street Bombing",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected: verified material supports a dense unsolved-crime file; no padding added simply to reach 3,000 Korean characters."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "월스트리트 한복판의 폭탄—가장 유력한 가설이 있어도 왜 사건은 미해결인가",
+      "hook": "폭탄과 전단, 이전 anarchist 공격의 유사성은 분명한 방향을 가리켰다. 하지만 현장증거가 사라지고 마차 운전자의 신원도 잡히지 않으면서 ‘유력한 배후’는 끝내 ‘확정된 범인’이 되지 못했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1920년 9월 16일 정오, 말마차 한 대가 Wall Street에서 폭발했다",
+          "headingEn": "September 16, 1920: A Horse-Drawn Wagon Exploded on Wall Street",
+          "textKo": "1920년 9월 16일 점심시간, U.S. Assay Office 앞과 J.P. Morgan 건물 맞은편에 멈춘 말마차가 폭발했다. FBI 역사자료는 30명 이상이 즉사하고 약 300명이 다쳤으며 이후 사망자가 더 늘었다고 정리한다. 현장사진과 폭탄부품 분석사진도 Library of Congress에 남아 있다. **공격 자체와 대규모 피해는 매우 잘 기록돼 있지만, 폭탄을 가져온 사람은 끝내 확정되지 않았다.**",
+          "textEn": "At lunchtime on September 16, 1920, a horse-drawn wagon stopped near the U.S. Assay Office across from J.P. Morgan and exploded. FBI history records more than thirty people killed immediately and roughly three hundred injured, with the death toll later rising. Library of Congress photographs preserve the scene and the examination of bomb fragments. The attack is well documented; the bomber was never definitively identified."
+        },
+        {
+          "blockId": "evidence-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현장을 너무 빨리 치운 것이 수사를 어렵게 했다",
+          "headingEn": "Rapid Cleanup Destroyed Evidence Modern Investigators Would Preserve",
+          "textKo": "FBI는 사건 직후 Wall Street가 다음 날 다시 영업할 수 있도록 밤새 정리되는 과정에서 오늘날이라면 핵심이 될 물리증거가 상당 부분 사라졌다고 설명한다. 당시 NYPD는 남은 부품으로 폭탄과 fuse mechanism을 재구성했지만 폭약종류에는 논쟁이 있었고, 부품 자체도 시중에서 구할 수 있는 것이었다. **현장보존의 실패가 ‘증거가 없었다’는 뜻은 아니지만, 범인을 좁힐 forensic specificity를 크게 약화시켰다.**",
+          "textEn": "The FBI notes that Wall Street was cleaned overnight so business could resume the next morning, removing physical evidence that modern investigators would regard as crucial. NYPD reconstructed the bomb and fuse from surviving fragments, but the explosive type was debated and the components were commonly available. Evidence existed, but rapid cleanup reduced the forensic specificity needed to identify a perpetrator."
+        },
+        {
+          "blockId": "flyers-03",
+          "type": "TURNING_POINT",
+          "headingKo": "폭발 전 발견된 ‘American Anarchist Fighters’ 전단",
+          "headingEn": "Flyers From “American Anarchist Fighters” Became the Strongest Lead",
+          "textKo": "사건 전 한 우편배달원이 주변에서 조악하게 인쇄된 전단 네 장을 발견했다. 전단은 ‘American Anarchist Fighters’를 자칭하며 정치범 석방을 요구했고, 전년도 이탈리아계 anarchist 폭탄사건에서 사용된 전단과 유사했다. Bureau는 동부해안을 따라 인쇄경로를 추적했지만 출처를 확정하지 못했다. **전단은 무정부주의 연계 의심을 강화했지만 특정 인물에게 폭탄을 연결하는 지문처럼 작동하지 못했다.**",
+          "textEn": "Before the explosion, a letter carrier found four crudely printed flyers in the area, signed by a group calling itself the “American Anarchist Fighters” and demanding the release of political prisoners. The language resembled material used in the previous year’s Italian anarchist bombing campaigns. The Bureau tried to trace the printing along the East Coast but failed to establish its source. The flyers strengthened an anarchist hypothesis without identifying an individual bomber."
+        },
+        {
+          "blockId": "galleani-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "수사의 가장 강한 가설은 Galleanist 계열이었다",
+          "headingEn": "The Strongest Investigative Hypothesis Pointed Toward Galleanist Anarchists",
+          "textKo": "Bureau는 이전 폭탄공격들과의 유사성 때문에 Luigi Galleani 추종세력을 초기부터 의심했다. FBI의 현재 역사평가도 이후 증거와 분석이 소수의 이탈리아 anarchist가 배후였다는 초기 방향을 가장 잘 지지한다고 본다. 그러나 FBI는 동시에 사건이 입증되지 않았고 bombers were not identified라고 명시한다. **‘현재 가장 유력한 역사적 가설’과 ‘법적으로 확정된 범인’ 사이의 경계를 유지해야 한다.**",
+          "textEn": "Because of similarities to earlier attacks, the Bureau initially suspected followers of Luigi Galleani. The FBI’s current historical assessment says later evidence and analysis best support the idea that a small group of Italian anarchists were responsible. Yet the FBI also states that the case could not be proved and the bombers were not identified. A leading historical hypothesis is not a legally established perpetrator."
+        },
+        {
+          "blockId": "investigation-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수백 명을 조사했지만 마차 운전자의 기억은 너무 흐렸다",
+          "headingEn": "Hundreds Were Interviewed, but the Wagon Driver Could Not Be Reconstructed Reliably",
+          "textKo": "Bureau, NYPD, Secret Service 등 여러 기관이 수사에 참여했고 Bureau는 현장 주변의 수백 명을 인터뷰했다. 그러나 마차를 몰고 온 인물에 대한 기억은 모호하고 서로 도움이 되지 않았다. 폭탄구조·전단·이전 공격과의 유사성은 ‘유형’을 가리켰지만 한 사람의 신원을 만들지 못했다. **대형사건에서 단서가 많다는 것과 단서가 개인신원으로 수렴한다는 것은 다른 문제**다.",
+          "textEn": "The Bureau of Investigation, NYPD, Secret Service, and other agencies pursued the case, with the Bureau interviewing hundreds of people near the scene. Recollections of the wagon driver were vague and largely unusable. The bomb mechanism, flyers, and similarities with previous attacks pointed toward a type of perpetrator but did not converge on one identifiable person."
+        },
+        {
+          "blockId": "redscare-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Red Scare 분위기는 ‘무정부주의자’ 가설을 더 쉽게 키웠다",
+          "headingEn": "The Red Scare Made Anarchist Explanations Politically Powerful",
+          "textKo": "공격은 1919년 우편폭탄·6월 폭탄사건과 Palmer Raids가 이어진 Red Scare 한복판에서 발생했다. 실제로 anarchist 폭력사건이 있었지만, FBI는 당시 국내안보 대응이 과잉·시민권 침해로 비판받았던 역사도 별도로 인정한다. 따라서 **시대의 공포가 가설을 만들었다고 해서 가설이 틀린 것도 아니고, 실제 anarchist violence가 있었다고 해서 Wall Street 범인의 개인신원이 증명되는 것도 아니다.**",
+          "textEn": "The bombing occurred amid the Red Scare, after the 1919 mail bombs, June bombings, and Palmer Raids. Real anarchist violence existed, while FBI historical material also acknowledges excesses and civil-liberties abuses in the era’s security response. Political fear does not automatically make the anarchist hypothesis false, but previous anarchist violence does not identify the Wall Street bomber either."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1920년 9월 16일 Wall Street에서 말마차 폭탄이 폭발해 수십 명이 사망하고 수백 명이 다쳤다. ‘American Anarchist Fighters’ 전단과 1919년 폭탄사건의 유사성 때문에 수사기관은 Galleanist anarchist 연계를 강하게 검토했다. FBI의 후대 역사평가도 이 방향을 가장 유력하게 본다.\n\n**확인되지 않음:** 폭탄을 설치·운반한 특정 개인이나 집단은 법적으로 확정되지 않았다. 전단 인쇄출처도 추적되지 않았다. 따라서 유력한 anarchist 가설을 ‘해결된 범인’으로 쓰지 않는다.",
+          "textEn": "**Established:** A horse-wagon bomb exploded on Wall Street on September 16, 1920, killing dozens and injuring hundreds. Flyers signed “American Anarchist Fighters” and similarities to the 1919 bombing campaigns made Galleanist anarchist involvement a major investigative hypothesis. The FBI’s later historical assessment still treats that as the strongest explanation.\n\n**Not established:** No individual or group was legally established as the bomber, and the flyer printing source was never traced. The leading anarchist hypothesis should not be rewritten as a solved identity."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1920년 9월 16일 Wall Street에서 말마차 폭탄이 폭발해 수십 명이 사망하고 수백 명이 다쳤다. ‘American Anarchist Fighters’ 전단과 1919년 폭탄사건의 유사성 때문에 수사기관은 Galleanist anarchist 연계를 강하게 검토했다. FBI의 후대 역사평가도 이 방향을 가장 유력하게 본다.\n\n**확인되지 않음:** 폭탄을 설치·운반한 특정 개인이나 집단은 법적으로 확정되지 않았다. 전단 인쇄출처도 추적되지 않았다. 따라서 유력한 anarchist 가설을 ‘해결된 범인’으로 쓰지 않는다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "evidence-02",
+        "flyers-03",
+        "galleani-04",
+        "investigation-05",
+        "redscare-06"
+      ]
+    },
+    "en": {
+      "headline": "A Bomb on Wall Street—Why Is the Case Still Unsolved Despite a Leading Theory?",
+      "hook": "The bomb, flyers, and similarities to earlier anarchist attacks pointed in a clear direction. But lost evidence and an unidentified wagon driver prevented a leading theory from becoming a solved identity.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1920년 9월 16일 정오, 말마차 한 대가 Wall Street에서 폭발했다",
+          "headingEn": "September 16, 1920: A Horse-Drawn Wagon Exploded on Wall Street",
+          "textKo": "1920년 9월 16일 점심시간, U.S. Assay Office 앞과 J.P. Morgan 건물 맞은편에 멈춘 말마차가 폭발했다. FBI 역사자료는 30명 이상이 즉사하고 약 300명이 다쳤으며 이후 사망자가 더 늘었다고 정리한다. 현장사진과 폭탄부품 분석사진도 Library of Congress에 남아 있다. **공격 자체와 대규모 피해는 매우 잘 기록돼 있지만, 폭탄을 가져온 사람은 끝내 확정되지 않았다.**",
+          "textEn": "At lunchtime on September 16, 1920, a horse-drawn wagon stopped near the U.S. Assay Office across from J.P. Morgan and exploded. FBI history records more than thirty people killed immediately and roughly three hundred injured, with the death toll later rising. Library of Congress photographs preserve the scene and the examination of bomb fragments. The attack is well documented; the bomber was never definitively identified."
+        },
+        {
+          "blockId": "evidence-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현장을 너무 빨리 치운 것이 수사를 어렵게 했다",
+          "headingEn": "Rapid Cleanup Destroyed Evidence Modern Investigators Would Preserve",
+          "textKo": "FBI는 사건 직후 Wall Street가 다음 날 다시 영업할 수 있도록 밤새 정리되는 과정에서 오늘날이라면 핵심이 될 물리증거가 상당 부분 사라졌다고 설명한다. 당시 NYPD는 남은 부품으로 폭탄과 fuse mechanism을 재구성했지만 폭약종류에는 논쟁이 있었고, 부품 자체도 시중에서 구할 수 있는 것이었다. **현장보존의 실패가 ‘증거가 없었다’는 뜻은 아니지만, 범인을 좁힐 forensic specificity를 크게 약화시켰다.**",
+          "textEn": "The FBI notes that Wall Street was cleaned overnight so business could resume the next morning, removing physical evidence that modern investigators would regard as crucial. NYPD reconstructed the bomb and fuse from surviving fragments, but the explosive type was debated and the components were commonly available. Evidence existed, but rapid cleanup reduced the forensic specificity needed to identify a perpetrator."
+        },
+        {
+          "blockId": "flyers-03",
+          "type": "TURNING_POINT",
+          "headingKo": "폭발 전 발견된 ‘American Anarchist Fighters’ 전단",
+          "headingEn": "Flyers From “American Anarchist Fighters” Became the Strongest Lead",
+          "textKo": "사건 전 한 우편배달원이 주변에서 조악하게 인쇄된 전단 네 장을 발견했다. 전단은 ‘American Anarchist Fighters’를 자칭하며 정치범 석방을 요구했고, 전년도 이탈리아계 anarchist 폭탄사건에서 사용된 전단과 유사했다. Bureau는 동부해안을 따라 인쇄경로를 추적했지만 출처를 확정하지 못했다. **전단은 무정부주의 연계 의심을 강화했지만 특정 인물에게 폭탄을 연결하는 지문처럼 작동하지 못했다.**",
+          "textEn": "Before the explosion, a letter carrier found four crudely printed flyers in the area, signed by a group calling itself the “American Anarchist Fighters” and demanding the release of political prisoners. The language resembled material used in the previous year’s Italian anarchist bombing campaigns. The Bureau tried to trace the printing along the East Coast but failed to establish its source. The flyers strengthened an anarchist hypothesis without identifying an individual bomber."
+        },
+        {
+          "blockId": "galleani-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "수사의 가장 강한 가설은 Galleanist 계열이었다",
+          "headingEn": "The Strongest Investigative Hypothesis Pointed Toward Galleanist Anarchists",
+          "textKo": "Bureau는 이전 폭탄공격들과의 유사성 때문에 Luigi Galleani 추종세력을 초기부터 의심했다. FBI의 현재 역사평가도 이후 증거와 분석이 소수의 이탈리아 anarchist가 배후였다는 초기 방향을 가장 잘 지지한다고 본다. 그러나 FBI는 동시에 사건이 입증되지 않았고 bombers were not identified라고 명시한다. **‘현재 가장 유력한 역사적 가설’과 ‘법적으로 확정된 범인’ 사이의 경계를 유지해야 한다.**",
+          "textEn": "Because of similarities to earlier attacks, the Bureau initially suspected followers of Luigi Galleani. The FBI’s current historical assessment says later evidence and analysis best support the idea that a small group of Italian anarchists were responsible. Yet the FBI also states that the case could not be proved and the bombers were not identified. A leading historical hypothesis is not a legally established perpetrator."
+        },
+        {
+          "blockId": "investigation-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수백 명을 조사했지만 마차 운전자의 기억은 너무 흐렸다",
+          "headingEn": "Hundreds Were Interviewed, but the Wagon Driver Could Not Be Reconstructed Reliably",
+          "textKo": "Bureau, NYPD, Secret Service 등 여러 기관이 수사에 참여했고 Bureau는 현장 주변의 수백 명을 인터뷰했다. 그러나 마차를 몰고 온 인물에 대한 기억은 모호하고 서로 도움이 되지 않았다. 폭탄구조·전단·이전 공격과의 유사성은 ‘유형’을 가리켰지만 한 사람의 신원을 만들지 못했다. **대형사건에서 단서가 많다는 것과 단서가 개인신원으로 수렴한다는 것은 다른 문제**다.",
+          "textEn": "The Bureau of Investigation, NYPD, Secret Service, and other agencies pursued the case, with the Bureau interviewing hundreds of people near the scene. Recollections of the wagon driver were vague and largely unusable. The bomb mechanism, flyers, and similarities with previous attacks pointed toward a type of perpetrator but did not converge on one identifiable person."
+        },
+        {
+          "blockId": "redscare-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Red Scare 분위기는 ‘무정부주의자’ 가설을 더 쉽게 키웠다",
+          "headingEn": "The Red Scare Made Anarchist Explanations Politically Powerful",
+          "textKo": "공격은 1919년 우편폭탄·6월 폭탄사건과 Palmer Raids가 이어진 Red Scare 한복판에서 발생했다. 실제로 anarchist 폭력사건이 있었지만, FBI는 당시 국내안보 대응이 과잉·시민권 침해로 비판받았던 역사도 별도로 인정한다. 따라서 **시대의 공포가 가설을 만들었다고 해서 가설이 틀린 것도 아니고, 실제 anarchist violence가 있었다고 해서 Wall Street 범인의 개인신원이 증명되는 것도 아니다.**",
+          "textEn": "The bombing occurred amid the Red Scare, after the 1919 mail bombs, June bombings, and Palmer Raids. Real anarchist violence existed, while FBI historical material also acknowledges excesses and civil-liberties abuses in the era’s security response. Political fear does not automatically make the anarchist hypothesis false, but previous anarchist violence does not identify the Wall Street bomber either."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1920년 9월 16일 Wall Street에서 말마차 폭탄이 폭발해 수십 명이 사망하고 수백 명이 다쳤다. ‘American Anarchist Fighters’ 전단과 1919년 폭탄사건의 유사성 때문에 수사기관은 Galleanist anarchist 연계를 강하게 검토했다. FBI의 후대 역사평가도 이 방향을 가장 유력하게 본다.\n\n**확인되지 않음:** 폭탄을 설치·운반한 특정 개인이나 집단은 법적으로 확정되지 않았다. 전단 인쇄출처도 추적되지 않았다. 따라서 유력한 anarchist 가설을 ‘해결된 범인’으로 쓰지 않는다.",
+          "textEn": "**Established:** A horse-wagon bomb exploded on Wall Street on September 16, 1920, killing dozens and injuring hundreds. Flyers signed “American Anarchist Fighters” and similarities to the 1919 bombing campaigns made Galleanist anarchist involvement a major investigative hypothesis. The FBI’s later historical assessment still treats that as the strongest explanation.\n\n**Not established:** No individual or group was legally established as the bomber, and the flyer printing source was never traced. The leading anarchist hypothesis should not be rewritten as a solved identity."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** A horse-wagon bomb exploded on Wall Street on September 16, 1920, killing dozens and injuring hundreds. Flyers signed “American Anarchist Fighters” and similarities to the 1919 bombing campaigns made Galleanist anarchist involvement a major investigative hypothesis. The FBI’s later historical assessment still treats that as the strongest explanation.\n\n**Not established:** No individual or group was legally established as the bomber, and the flyer printing source was never traced. The leading anarchist hypothesis should not be rewritten as a solved identity.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "evidence-02",
+        "flyers-03",
+        "galleani-04",
+        "investigation-05",
+        "redscare-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "WALL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1920-09-16 Wall Street에서 말마차 폭탄이 폭발해 30명 이상이 즉사하고 약 300명이 부상했다.",
+      "statementEn": "A horse-wagon bomb exploded on Wall Street on September 16, 1920, immediately killing more than thirty and injuring about three hundred.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ]
+    },
+    {
+      "claimId": "WALL-C2",
+      "status": "CONFIRMED",
+      "statementKo": "American Anarchist Fighters 전단 네 장이 사건 전 인근에서 발견됐고 1919 anarchist bombing 자료와 유사했다.",
+      "statementEn": "Four 'American Anarchist Fighters' flyers were found nearby before the blast and resembled material from 1919 anarchist bombings.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ]
+    },
+    {
+      "claimId": "WALL-C3",
+      "status": "SUPPORTED",
+      "statementKo": "FBI의 후대 역사평가는 소수 이탈리아 anarchist가 배후였다는 가설을 가장 유력하게 본다.",
+      "statementEn": "The FBI's later historical assessment treats a small group of Italian anarchists as the strongest explanation.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ]
+    },
+    {
+      "claimId": "WALL-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 폭탄범 또는 집단의 법적 책임은 확정되지 않았다.",
+      "statementEn": "No specific bomber or group was legally established as responsible.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "WALL_FBI",
+      "title": "Wall Street Bombing 1920",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/cases-and-criminals/wall-street-bombing-1920",
+      "sourceType": "US_GOVERNMENT_CASE_HISTORY"
+    },
+    {
+      "sourceId": "WALL_LOC",
+      "title": "City chemists analyze Wall Street bomb parts",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/item/2008675780/",
+      "sourceType": "PRIMARY_PHOTO_CATALOGUE"
+    },
+    {
+      "sourceId": "WALL_FBI_RED",
+      "title": "Palmer Raids",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/cases-and-criminals/palmer-raids",
+      "sourceType": "US_GOVERNMENT_HISTORICAL_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "wall-v01",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Wall Street·Broad Street·U.S. Assay Office·J.P. Morgan 위치관계 개념도.",
+      "captionEn": "Original location diagram of Wall Street, Broad Street, U.S. Assay Office, and J.P. Morgan.",
+      "altKo": "Wall Street·Broad Street·U.S. Assay Office·J.P. Morgan 위치관계 개념도.",
+      "altEn": "Original location diagram of Wall Street, Broad Street, U.S. Assay Office, and J.P. Morgan.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "wall-street-bombing-1920__v01__ko.png",
+          "sha256": "d7f65bb5a032e8a1b25a853c69197cc4e968546e7dfd50556ed0376f43d8bc42",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "wall-street-bombing-1920__v01__en.png",
+          "sha256": "60294516c58288925e552b4b9fb5738e6fcdf2f1ff54e91b2c6ea872c6a20711",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "wall-v02",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "전단 발견 → 정오 폭발 → 현장정리 → 3년 수사 → 미확정 종결.",
+      "captionEn": "Flyers found → noon explosion → cleanup → three-year investigation → unresolved.",
+      "altKo": "전단 발견 → 정오 폭발 → 현장정리 → 3년 수사 → 미확정 종결.",
+      "altEn": "Flyers found → noon explosion → cleanup → three-year investigation → unresolved.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "wall-street-bombing-1920__v02__ko.png",
+          "sha256": "2dfe84ec2c3ee556e1a2c6d02f03408a75a5befe29d30ce2bab669e1bd766b3d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "wall-street-bombing-1920__v02__en.png",
+          "sha256": "9479726ef8fafb380196a7a01c6a7912929989a5e9917490b43465ce8f689ab9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "wall-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "폭탄부품·전단·Galleanist 가설과 개인신원 확정실패의 관계.",
+      "captionEn": "How bomb fragments, flyers, and the Galleanist hypothesis failed to identify an individual perpetrator.",
+      "altKo": "폭탄부품·전단·Galleanist 가설과 개인신원 확정실패의 관계.",
+      "altEn": "How bomb fragments, flyers, and the Galleanist hypothesis failed to identify an individual perpetrator.",
+      "sourceRefs": [
+        "WALL_FBI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "wall-street-bombing-1920__v03__ko.png",
+          "sha256": "a824c62e80553030c31dc6914667f4f46379f24954b37327fa9e19e6f7c7ce6c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "wall-street-bombing-1920__v03__en.png",
+          "sha256": "4002c222140ee49275a74e92ef130cbb4f6578dd69e75891a513ce3d676cedcc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New York City"
+    ],
+    "places": [
+      {
+        "name": "Wall Street",
+        "role": "bombing site"
+      },
+      {
+        "name": "J.P. Morgan building",
+        "role": "adjacent landmark"
+      }
+    ],
+    "people": [
+      {
+        "name": "Luigi Galleani",
+        "role": "anarchist figure linked to leading hypothesis"
+      }
+    ],
+    "organizations": [
+      "Bureau of Investigation",
+      "NYPD",
+      "U.S. Secret Service",
+      "Library of Congress"
+    ],
+    "dateRange": {
+      "start": "1920-09-16",
+      "end": "1923",
+      "precision": "attack through active investigation period"
+    },
+    "era": "Early 20th century / Red Scare",
+    "resolution": "ATTACK_CONFIRMED_PERPETRATOR_UNIDENTIFIED",
+    "searchAliases": [
+      "Wall Street bombing 1920",
+      "Wall Street bomb",
+      "American Anarchist Fighters"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1750,
+    "enBodyWords": 460,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH10",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH10_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

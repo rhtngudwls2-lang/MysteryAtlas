@@ -1,0 +1,546 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "beast-gevaudan",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "제보당의 야수 사냥 기록",
+    "canonicalTitleEn": "The Beast of Gévaudan",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사람을 죽인 ‘야수’는 정말 한 마리였나",
+      "hook": "1764~1767년 제보당에서 치명적인 동물공격이 실제로 일어났다는 기록은 남아 있다. 미스터리는 그 다음이다. 수십 건의 공격을 한 마리 ‘괴물’의 이야기로 묶을 수 있는가.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1764년 여름, 제보당에서 사람을 노리는 ‘야수’",
+          "headingEn": "1764: A Predator Became a Public Crisis",
+          "textKo": "1764년 프랑스 남부 Gévaudan 지역에서 사람을 공격하는 큰 동물에 대한 보고가 잇따랐다. 희생자 다수는 목축·농촌 노동을 하던 여성과 아이들이었다. 당시 교구기록과 지역문서에는 공격과 매장이 실제로 남아 있다. 사건은 곧 평범한 늑대피해를 넘어 ‘La Bête’, 야수라는 하나의 존재로 이야기되기 시작했다. 하지만 **여러 해 동안 넓은 지역에서 일어난 모든 공격이 한 마리 동물의 소행이었다는 전제는 별도로 검증해야 한다.**",
+          "textEn": "Beginning in 1764, reports of attacks by a large animal spread across the Gévaudan region of southern France. Many victims were women and children working in rural settings. Parish and regional records preserve real attacks and burials. The events soon became narrated as the work of a singular creature—*La Bête*, “the Beast.” Yet the assumption that every attack across years and a wide region came from one animal requires separate evidence."
+        },
+        {
+          "blockId": "records-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "교구기록은 ‘전설’보다 구체적이다",
+          "headingEn": "Parish Records Are More Concrete Than the Legend",
+          "textKo": "Lozère département가 공개한 자료에는 1765년 2월 공격 뒤 11일 매장된 희생자의 교구기록 인용 등 구체적인 사례가 남아 있다. 이런 자료는 공격이 후대에 꾸며낸 완전한 허구가 아님을 보여준다. 날짜·이름·매장 같은 행정기록이 있기 때문이다. 그러나 기록은 보통 ‘야수에게 공격당했다’는 지역적 표현을 담을 뿐, 공격자를 현대 동물학적 기준으로 하나의 개체·종으로 확인하지 않는다. **역사적 피해의 실재와 괴물의 생물학적 정체는 서로 다른 층**이다.",
+          "textEn": "Material published by the Département de la Lozère preserves concrete parish evidence, including a burial record following a February 1765 attack. Such documents show that the attacks were not simply a modern invented legend: names, dates, deaths, and burials were recorded. But those records generally describe victims as attacked by “the Beast” or a dangerous animal; they do not identify one individual predator or zoological species by modern forensic standards. The historical reality of attacks and the biological identity of the attacker are separate questions."
+        },
+        {
+          "blockId": "royal-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "사건은 왕실의 체면 문제가 됐다",
+          "headingEn": "The Beast Became a Royal Problem",
+          "textKo": "공격이 계속되면서 지역 사냥꾼뿐 아니라 프랑스 왕실이 개입했다. Courtauld 연구는 1765년의 왕실 사냥과 당시 이미지·문서가 Bourbon 권위와 결합된 과정을 분석한다. 한 동물을 제거해 공포를 끝내는 것은 치안문제이자 왕권의 능력을 보여주는 일이 됐다. 왕실 사냥에서 큰 늑대가 잡힌 뒤 ‘야수 문제가 해결됐다’는 발표가 나왔지만, 이후에도 공격보고가 이어졌다. 이 점은 **1765년 잡힌 개체가 모든 공격을 일으킨 단 하나의 야수였다는 주장에 큰 문제**를 만든다.",
+          "textEn": "As attacks continued, the response expanded beyond local hunters to the French crown. Courtauld research examines how the royal hunt of 1765 and contemporary imagery became intertwined with Bourbon authority. Killing the predator was not only a safety issue but a demonstration of royal competence. A large wolf was killed during the royal hunt and publicly presented as the solution, yet reports of attacks later resumed. That continuation is a serious problem for the claim that the 1765 animal alone caused every incident attributed to the Beast."
+        },
+        {
+          "blockId": "images-04",
+          "type": "BACKGROUND",
+          "headingKo": "판화 속 괴물은 현장사진이 아니다",
+          "headingEn": "The Famous Images Are Not Documentary Photographs",
+          "textKo": "BnF가 소장한 1765년 전단·판화는 당시 사람들에게 야수가 어떤 이미지로 소비됐는지를 보여준다. 그러나 이 그림들을 ‘실제 동물의 외형을 정확히 기록한 자료’로 쓰면 안 된다. 18세기 판화는 뉴스·선전·상업출판의 시각언어 속에서 만들어졌고, Courtauld 연구는 정치적 상징과 지역적 도상까지 분석한다. 판화에 그려진 과장된 몸집과 형태는 **대중이 야수를 어떻게 상상했는지**의 자료이지, 동물학적 신원표가 아니다.",
+          "textEn": "Pamphlets and prints preserved by the Bibliothèque nationale de France show how the Beast was visually presented to eighteenth-century audiences. They should not be treated as accurate documentary images of the animal’s anatomy. Contemporary prints operated within visual conventions of news, propaganda, and commercial publishing, and Courtauld research analyses their political and regional iconography. The exaggerated body and form in such images reveal how the Beast was imagined, not a zoological identification."
+        },
+        {
+          "blockId": "chastel-05",
+          "type": "TURNING_POINT",
+          "headingKo": "1767년 Jean Chastel 이후 공격이 잦아들다",
+          "headingEn": "1767: After Jean Chastel’s Kill, the Attacks Faded",
+          "textKo": "1767년 Jean Chastel이 또 다른 큰 동물을 사살한 뒤 공격이 크게 줄고 사건은 종결단계로 들어갔다. 이 때문에 후대 이야기에서는 Chastel이 ‘진짜 야수’를 죽였다고 자주 서술된다. 그러나 Courtauld 자료가 강조하듯, 이 결론은 사건 전체를 한 마리 개체에 묶는 해석과 함께 읽어야 한다. 1764~1767년의 공격이 서로 다른 늑대·개과동물·오인사건의 묶음이었다면, 마지막 공격 감소가 특정 한 마리의 정체를 완전히 증명하지는 않는다.",
+          "textEn": "After Jean Chastel killed another large animal in 1767, the attacks diminished and the episode moved toward an end. Later retellings often say that Chastel killed “the real Beast.” But that conclusion depends on treating the entire 1764–1767 episode as the work of one individual. If the attacks involved multiple wolves, wolf-dog hybrids, or misclassified incidents, the decline after Chastel’s kill does not by itself identify one singular monster."
+        },
+        {
+          "blockId": "wolf-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "늑대 가설은 가장 평범하지만 가장 강한 후보",
+          "headingEn": "Wolves Remain the Most Ordinary—and Strongest—Candidate",
+          "textKo": "당시 프랑스 농촌에서 늑대의 인간공격은 완전히 낯선 현상이 아니었다. 제보당 사건의 피해양상·사냥기록·잡힌 동물들이 늑대 또는 대형 개과동물과 연결된다는 점 때문에 현대 연구에서는 늑대 가설이 가장 자연스러운 출발점이다. 그러나 ‘늑대였다’는 설명도 세밀하게 쓰면 여러 가능성이 있다. 한 마리 비정상적으로 대담한 늑대, 여러 늑대, 늑대-개 잡종, 또는 서로 다른 사건이 하나의 전설로 묶였을 수 있다. **늑대라는 범주는 가능성이 높아도 ‘한 마리의 정체’는 별도 문제**다.",
+          "textEn": "Human attacks by wolves were not unknown in eighteenth-century rural France. Victim patterns, hunting records, and animals killed during the Gévaudan episode make wolves or large canids the most straightforward modern starting point. But even “it was a wolf” contains several possibilities: one unusually bold wolf, multiple wolves, wolf-dog hybrids, or different incidents merged into one legend. A likely animal category does not automatically identify one singular Beast."
+        },
+        {
+          "blockId": "other-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "이국적 맹수설은 왜 계속 살아남나",
+          "headingEn": "Why Exotic-Animal Theories Persist",
+          "textKo": "후대에는 하이에나, 사자류, 훈련된 맹수 같은 이국적 설명도 반복됐다. 당시 목격자가 낯선 체형을 묘사했다는 이야기와 판화의 특이한 모습이 이런 가설을 자극했다. 그러나 Work가 잠근 자료에서 이국적 맹수의 소유·탈출·사체를 입증하는 동시대 직접자료는 확인되지 않았다. **설명할 수 있다는 것과 실제로 그 동물이 제보당에 있었다는 증거는 다르다.** 이국적 동물설은 흥미로운 가설이지만 확정된 역사사실로 올리지 않는다.",
+          "textEn": "Later retellings repeatedly proposed exotic animals such as hyenas or other imported predators, encouraged by unusual witness descriptions and dramatic prints. But the locked source set does not contain direct contemporary evidence establishing the ownership, escape, or recovered body of such an exotic animal in Gévaudan. Being biologically capable of producing attacks is not the same as proving that such an animal was actually present. Exotic-predator theories remain hypotheses rather than established history."
+        },
+        {
+          "blockId": "story-08",
+          "type": "AFTERMATH",
+          "headingKo": "‘괴물 한 마리’라는 이야기가 기록을 단순하게 만들었다",
+          "headingEn": "A Single Monster Made a Messy Record Easier to Remember",
+          "textKo": "제보당 사건의 실제 기록은 여러 마을, 여러 달, 여러 희생자와 여러 사냥으로 흩어져 있다. 이를 ‘정체불명의 괴물 한 마리와 영웅적 사냥꾼’의 이야기로 압축하면 기억하기 쉬워진다. 왕실 선전, 판화, 지역전승이 그 압축을 강화했다. 그러나 역사연구 입장에서는 바로 그 압축을 다시 풀어야 한다. **공격은 실재했고 공포도 실재했다. 하지만 ‘그 모든 공격의 유일한 범인’은 기록만으로 확정되지 않는다.**",
+          "textEn": "The actual Gévaudan record is scattered across many villages, months, victims, and hunts. Turning it into a story of one mysterious monster and a heroic hunter makes it easier to remember. Royal publicity, prints, and local tradition reinforced that compression. Historical analysis has to unpack it again. The attacks were real and the fear was real, but the record does not securely identify one single animal as the perpetrator of every incident."
+        },
+        {
+          "blockId": "victims-065",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기록은 ‘괴물’보다 피해자들을 먼저 보여준다",
+          "headingEn": "The Records Reveal Victims Before They Reveal a Monster",
+          "textKo": "후대 이야기에서는 야수의 정체가 중심이 되지만, 교구기록의 가장 확실한 정보는 피해자의 이름·사망·매장이다. 이런 기록을 모으면 사건이 실제 농촌생활에 준 위험이 드러난다. 동시에 기록의 언어는 오늘날 법의학 보고서처럼 공격자의 종·개체를 식별하지 않는다. **역사기록의 강점은 피해의 실재를 확인하는 데 있고, 약점은 공격자 신원을 세밀하게 구분하기 어렵다는 데 있다.** 이 때문에 여러 공격을 하나의 야수로 묶는 후대 편집을 그대로 받아들이기 어렵다.",
+          "textEn": "Later retellings focus on the identity of the Beast, but parish records are strongest when they document victims, deaths, and burials. Taken together, they show the real danger faced by rural communities. At the same time, their language is not a modern forensic identification of species or individual predator. Historical records are powerful for establishing that attacks happened, but weaker for proving that all attacks came from one animal."
+        },
+        {
+          "blockId": "royal-image-072",
+          "type": "BACKGROUND",
+          "headingKo": "‘야수’는 동물인 동시에 정치적 이미지가 됐다",
+          "headingEn": "The Beast Became a Political Image as Well as an Animal",
+          "textKo": "Courtauld 연구가 중요한 이유는 사건이 단순한 자연사 기록이 아니었음을 보여주기 때문이다. 왕실이 사냥에 개입하면서 야수를 잡는 일은 Bourbon 권위와 치안능력을 보여주는 상징이 됐다. 판화와 전단은 사건을 널리 퍼뜨리는 동시에 ‘왕이 공포를 제압한다’는 시각적 이야기를 만들 수 있었다. 따라서 당시 이미지에서 야수가 과장돼 보인다고 해서 실제 동물이 그 모습이었다고 추정할 수 없다. **정치적·상업적 이미지와 동물학적 관찰을 분리해야 한다.**",
+          "textEn": "The Courtauld research matters because it shows that the episode was never only natural history. Once the royal hunt became involved, killing the Beast became a symbol of Bourbon authority and the ability to restore order. Prints and pamphlets spread the story while also creating political imagery of royal power confronting fear. The exaggerated creature in a print is therefore not reliable zoological anatomy; political and commercial representation must be separated from observation."
+        },
+        {
+          "blockId": "one-beast-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘하나의 야수’라는 가정이 사건의 가장 큰 함정",
+          "headingEn": "The Biggest Trap Is Assuming There Was One Beast",
+          "textKo": "여러 해의 피해를 한 이름으로 부르면 자연스럽게 ‘범인은 하나’라고 생각하게 된다. 그러나 기록상 공격시점과 장소가 넓게 퍼져 있고, 1765년 큰 늑대 사살 뒤에도 공격이 이어졌다는 사실은 단일개체 가정을 약화한다. **‘La Bête’는 역사적으로 강력한 명칭이지만, 이름 하나가 곧 생물학적 개체 하나를 뜻하지는 않는다.**",
+          "textEn": "Giving years of attacks one name makes it natural to imagine one perpetrator. Yet the wide spread of attacks and the continuation of reports after a large wolf was killed in 1765 weaken that assumption. **“La Bête” is a powerful historical label, but one label does not necessarily mean one biological individual.**"
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1764~1767년 Gévaudan 지역에서 치명적인 동물공격이 실제로 일어났고 교구·지역기록에 피해자와 매장이 남아 있다. 왕실이 1765년 사냥에 개입했고, 1767년 Jean Chastel이 큰 동물을 사살한 뒤 사건이 종결단계로 갔다. 당시 판화와 문서는 ‘야수’ 이미지가 어떻게 형성됐는지를 보여준다.\n\n**확인되지 않음:** 모든 공격이 한 마리 동물의 소행이었다는 점은 입증되지 않는다. 1765 또는 1767년에 잡힌 특정 동물이 ‘유일한 진짜 야수’였다는 것도 확정되지 않는다. 하이에나·사자류 등 이국적 맹수설은 이번 검증자료에서 직접 입증되지 않는다.",
+          "textEn": "**Established:** Fatal animal attacks occurred in Gévaudan between 1764 and 1767 and victims and burials appear in parish and regional records. The crown intervened in 1765, and the episode moved toward an end after Jean Chastel killed a large animal in 1767. Contemporary prints and documents show how the image of “the Beast” was constructed.\n\n**Not established:** It has not been demonstrated that every attack was caused by one animal. Neither the 1765 nor 1767 kill is proven to be the single perpetrator of all cases. Exotic-animal theories such as hyena explanations are not directly established by the verified source set."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1764~1767년 Gévaudan 지역에서 치명적인 동물공격이 실제로 일어났고 교구·지역기록에 피해자와 매장이 남아 있다. 왕실이 1765년 사냥에 개입했고, 1767년 Jean Chastel이 큰 동물을 사살한 뒤 사건이 종결단계로 갔다. 당시 판화와 문서는 ‘야수’ 이미지가 어떻게 형성됐는지를 보여준다.\n\n**확인되지 않음:** 모든 공격이 한 마리 동물의 소행이었다는 점은 입증되지 않는다. 1765 또는 1767년에 잡힌 특정 동물이 ‘유일한 진짜 야수’였다는 것도 확정되지 않는다. 하이에나·사자류 등 이국적 맹수설은 이번 검증자료에서 직접 입증되지 않는다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "records-02",
+        "royal-03",
+        "images-04",
+        "chastel-05",
+        "wolf-06",
+        "other-07",
+        "story-08",
+        "victims-065",
+        "royal-image-072",
+        "one-beast-085"
+      ]
+    },
+    "en": {
+      "headline": "Was the Beast of Gévaudan Really One Animal?",
+      "hook": "Fatal animal attacks really were recorded in Gévaudan between 1764 and 1767. The mystery comes next: can dozens of attacks across years and villages be reduced to one monster?",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1764년 여름, 제보당에서 사람을 노리는 ‘야수’",
+          "headingEn": "1764: A Predator Became a Public Crisis",
+          "textKo": "1764년 프랑스 남부 Gévaudan 지역에서 사람을 공격하는 큰 동물에 대한 보고가 잇따랐다. 희생자 다수는 목축·농촌 노동을 하던 여성과 아이들이었다. 당시 교구기록과 지역문서에는 공격과 매장이 실제로 남아 있다. 사건은 곧 평범한 늑대피해를 넘어 ‘La Bête’, 야수라는 하나의 존재로 이야기되기 시작했다. 하지만 **여러 해 동안 넓은 지역에서 일어난 모든 공격이 한 마리 동물의 소행이었다는 전제는 별도로 검증해야 한다.**",
+          "textEn": "Beginning in 1764, reports of attacks by a large animal spread across the Gévaudan region of southern France. Many victims were women and children working in rural settings. Parish and regional records preserve real attacks and burials. The events soon became narrated as the work of a singular creature—*La Bête*, “the Beast.” Yet the assumption that every attack across years and a wide region came from one animal requires separate evidence."
+        },
+        {
+          "blockId": "records-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "교구기록은 ‘전설’보다 구체적이다",
+          "headingEn": "Parish Records Are More Concrete Than the Legend",
+          "textKo": "Lozère département가 공개한 자료에는 1765년 2월 공격 뒤 11일 매장된 희생자의 교구기록 인용 등 구체적인 사례가 남아 있다. 이런 자료는 공격이 후대에 꾸며낸 완전한 허구가 아님을 보여준다. 날짜·이름·매장 같은 행정기록이 있기 때문이다. 그러나 기록은 보통 ‘야수에게 공격당했다’는 지역적 표현을 담을 뿐, 공격자를 현대 동물학적 기준으로 하나의 개체·종으로 확인하지 않는다. **역사적 피해의 실재와 괴물의 생물학적 정체는 서로 다른 층**이다.",
+          "textEn": "Material published by the Département de la Lozère preserves concrete parish evidence, including a burial record following a February 1765 attack. Such documents show that the attacks were not simply a modern invented legend: names, dates, deaths, and burials were recorded. But those records generally describe victims as attacked by “the Beast” or a dangerous animal; they do not identify one individual predator or zoological species by modern forensic standards. The historical reality of attacks and the biological identity of the attacker are separate questions."
+        },
+        {
+          "blockId": "royal-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "사건은 왕실의 체면 문제가 됐다",
+          "headingEn": "The Beast Became a Royal Problem",
+          "textKo": "공격이 계속되면서 지역 사냥꾼뿐 아니라 프랑스 왕실이 개입했다. Courtauld 연구는 1765년의 왕실 사냥과 당시 이미지·문서가 Bourbon 권위와 결합된 과정을 분석한다. 한 동물을 제거해 공포를 끝내는 것은 치안문제이자 왕권의 능력을 보여주는 일이 됐다. 왕실 사냥에서 큰 늑대가 잡힌 뒤 ‘야수 문제가 해결됐다’는 발표가 나왔지만, 이후에도 공격보고가 이어졌다. 이 점은 **1765년 잡힌 개체가 모든 공격을 일으킨 단 하나의 야수였다는 주장에 큰 문제**를 만든다.",
+          "textEn": "As attacks continued, the response expanded beyond local hunters to the French crown. Courtauld research examines how the royal hunt of 1765 and contemporary imagery became intertwined with Bourbon authority. Killing the predator was not only a safety issue but a demonstration of royal competence. A large wolf was killed during the royal hunt and publicly presented as the solution, yet reports of attacks later resumed. That continuation is a serious problem for the claim that the 1765 animal alone caused every incident attributed to the Beast."
+        },
+        {
+          "blockId": "images-04",
+          "type": "BACKGROUND",
+          "headingKo": "판화 속 괴물은 현장사진이 아니다",
+          "headingEn": "The Famous Images Are Not Documentary Photographs",
+          "textKo": "BnF가 소장한 1765년 전단·판화는 당시 사람들에게 야수가 어떤 이미지로 소비됐는지를 보여준다. 그러나 이 그림들을 ‘실제 동물의 외형을 정확히 기록한 자료’로 쓰면 안 된다. 18세기 판화는 뉴스·선전·상업출판의 시각언어 속에서 만들어졌고, Courtauld 연구는 정치적 상징과 지역적 도상까지 분석한다. 판화에 그려진 과장된 몸집과 형태는 **대중이 야수를 어떻게 상상했는지**의 자료이지, 동물학적 신원표가 아니다.",
+          "textEn": "Pamphlets and prints preserved by the Bibliothèque nationale de France show how the Beast was visually presented to eighteenth-century audiences. They should not be treated as accurate documentary images of the animal’s anatomy. Contemporary prints operated within visual conventions of news, propaganda, and commercial publishing, and Courtauld research analyses their political and regional iconography. The exaggerated body and form in such images reveal how the Beast was imagined, not a zoological identification."
+        },
+        {
+          "blockId": "chastel-05",
+          "type": "TURNING_POINT",
+          "headingKo": "1767년 Jean Chastel 이후 공격이 잦아들다",
+          "headingEn": "1767: After Jean Chastel’s Kill, the Attacks Faded",
+          "textKo": "1767년 Jean Chastel이 또 다른 큰 동물을 사살한 뒤 공격이 크게 줄고 사건은 종결단계로 들어갔다. 이 때문에 후대 이야기에서는 Chastel이 ‘진짜 야수’를 죽였다고 자주 서술된다. 그러나 Courtauld 자료가 강조하듯, 이 결론은 사건 전체를 한 마리 개체에 묶는 해석과 함께 읽어야 한다. 1764~1767년의 공격이 서로 다른 늑대·개과동물·오인사건의 묶음이었다면, 마지막 공격 감소가 특정 한 마리의 정체를 완전히 증명하지는 않는다.",
+          "textEn": "After Jean Chastel killed another large animal in 1767, the attacks diminished and the episode moved toward an end. Later retellings often say that Chastel killed “the real Beast.” But that conclusion depends on treating the entire 1764–1767 episode as the work of one individual. If the attacks involved multiple wolves, wolf-dog hybrids, or misclassified incidents, the decline after Chastel’s kill does not by itself identify one singular monster."
+        },
+        {
+          "blockId": "wolf-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "늑대 가설은 가장 평범하지만 가장 강한 후보",
+          "headingEn": "Wolves Remain the Most Ordinary—and Strongest—Candidate",
+          "textKo": "당시 프랑스 농촌에서 늑대의 인간공격은 완전히 낯선 현상이 아니었다. 제보당 사건의 피해양상·사냥기록·잡힌 동물들이 늑대 또는 대형 개과동물과 연결된다는 점 때문에 현대 연구에서는 늑대 가설이 가장 자연스러운 출발점이다. 그러나 ‘늑대였다’는 설명도 세밀하게 쓰면 여러 가능성이 있다. 한 마리 비정상적으로 대담한 늑대, 여러 늑대, 늑대-개 잡종, 또는 서로 다른 사건이 하나의 전설로 묶였을 수 있다. **늑대라는 범주는 가능성이 높아도 ‘한 마리의 정체’는 별도 문제**다.",
+          "textEn": "Human attacks by wolves were not unknown in eighteenth-century rural France. Victim patterns, hunting records, and animals killed during the Gévaudan episode make wolves or large canids the most straightforward modern starting point. But even “it was a wolf” contains several possibilities: one unusually bold wolf, multiple wolves, wolf-dog hybrids, or different incidents merged into one legend. A likely animal category does not automatically identify one singular Beast."
+        },
+        {
+          "blockId": "other-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "이국적 맹수설은 왜 계속 살아남나",
+          "headingEn": "Why Exotic-Animal Theories Persist",
+          "textKo": "후대에는 하이에나, 사자류, 훈련된 맹수 같은 이국적 설명도 반복됐다. 당시 목격자가 낯선 체형을 묘사했다는 이야기와 판화의 특이한 모습이 이런 가설을 자극했다. 그러나 Work가 잠근 자료에서 이국적 맹수의 소유·탈출·사체를 입증하는 동시대 직접자료는 확인되지 않았다. **설명할 수 있다는 것과 실제로 그 동물이 제보당에 있었다는 증거는 다르다.** 이국적 동물설은 흥미로운 가설이지만 확정된 역사사실로 올리지 않는다.",
+          "textEn": "Later retellings repeatedly proposed exotic animals such as hyenas or other imported predators, encouraged by unusual witness descriptions and dramatic prints. But the locked source set does not contain direct contemporary evidence establishing the ownership, escape, or recovered body of such an exotic animal in Gévaudan. Being biologically capable of producing attacks is not the same as proving that such an animal was actually present. Exotic-predator theories remain hypotheses rather than established history."
+        },
+        {
+          "blockId": "story-08",
+          "type": "AFTERMATH",
+          "headingKo": "‘괴물 한 마리’라는 이야기가 기록을 단순하게 만들었다",
+          "headingEn": "A Single Monster Made a Messy Record Easier to Remember",
+          "textKo": "제보당 사건의 실제 기록은 여러 마을, 여러 달, 여러 희생자와 여러 사냥으로 흩어져 있다. 이를 ‘정체불명의 괴물 한 마리와 영웅적 사냥꾼’의 이야기로 압축하면 기억하기 쉬워진다. 왕실 선전, 판화, 지역전승이 그 압축을 강화했다. 그러나 역사연구 입장에서는 바로 그 압축을 다시 풀어야 한다. **공격은 실재했고 공포도 실재했다. 하지만 ‘그 모든 공격의 유일한 범인’은 기록만으로 확정되지 않는다.**",
+          "textEn": "The actual Gévaudan record is scattered across many villages, months, victims, and hunts. Turning it into a story of one mysterious monster and a heroic hunter makes it easier to remember. Royal publicity, prints, and local tradition reinforced that compression. Historical analysis has to unpack it again. The attacks were real and the fear was real, but the record does not securely identify one single animal as the perpetrator of every incident."
+        },
+        {
+          "blockId": "victims-065",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기록은 ‘괴물’보다 피해자들을 먼저 보여준다",
+          "headingEn": "The Records Reveal Victims Before They Reveal a Monster",
+          "textKo": "후대 이야기에서는 야수의 정체가 중심이 되지만, 교구기록의 가장 확실한 정보는 피해자의 이름·사망·매장이다. 이런 기록을 모으면 사건이 실제 농촌생활에 준 위험이 드러난다. 동시에 기록의 언어는 오늘날 법의학 보고서처럼 공격자의 종·개체를 식별하지 않는다. **역사기록의 강점은 피해의 실재를 확인하는 데 있고, 약점은 공격자 신원을 세밀하게 구분하기 어렵다는 데 있다.** 이 때문에 여러 공격을 하나의 야수로 묶는 후대 편집을 그대로 받아들이기 어렵다.",
+          "textEn": "Later retellings focus on the identity of the Beast, but parish records are strongest when they document victims, deaths, and burials. Taken together, they show the real danger faced by rural communities. At the same time, their language is not a modern forensic identification of species or individual predator. Historical records are powerful for establishing that attacks happened, but weaker for proving that all attacks came from one animal."
+        },
+        {
+          "blockId": "royal-image-072",
+          "type": "BACKGROUND",
+          "headingKo": "‘야수’는 동물인 동시에 정치적 이미지가 됐다",
+          "headingEn": "The Beast Became a Political Image as Well as an Animal",
+          "textKo": "Courtauld 연구가 중요한 이유는 사건이 단순한 자연사 기록이 아니었음을 보여주기 때문이다. 왕실이 사냥에 개입하면서 야수를 잡는 일은 Bourbon 권위와 치안능력을 보여주는 상징이 됐다. 판화와 전단은 사건을 널리 퍼뜨리는 동시에 ‘왕이 공포를 제압한다’는 시각적 이야기를 만들 수 있었다. 따라서 당시 이미지에서 야수가 과장돼 보인다고 해서 실제 동물이 그 모습이었다고 추정할 수 없다. **정치적·상업적 이미지와 동물학적 관찰을 분리해야 한다.**",
+          "textEn": "The Courtauld research matters because it shows that the episode was never only natural history. Once the royal hunt became involved, killing the Beast became a symbol of Bourbon authority and the ability to restore order. Prints and pamphlets spread the story while also creating political imagery of royal power confronting fear. The exaggerated creature in a print is therefore not reliable zoological anatomy; political and commercial representation must be separated from observation."
+        },
+        {
+          "blockId": "one-beast-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘하나의 야수’라는 가정이 사건의 가장 큰 함정",
+          "headingEn": "The Biggest Trap Is Assuming There Was One Beast",
+          "textKo": "여러 해의 피해를 한 이름으로 부르면 자연스럽게 ‘범인은 하나’라고 생각하게 된다. 그러나 기록상 공격시점과 장소가 넓게 퍼져 있고, 1765년 큰 늑대 사살 뒤에도 공격이 이어졌다는 사실은 단일개체 가정을 약화한다. **‘La Bête’는 역사적으로 강력한 명칭이지만, 이름 하나가 곧 생물학적 개체 하나를 뜻하지는 않는다.**",
+          "textEn": "Giving years of attacks one name makes it natural to imagine one perpetrator. Yet the wide spread of attacks and the continuation of reports after a large wolf was killed in 1765 weaken that assumption. **“La Bête” is a powerful historical label, but one label does not necessarily mean one biological individual.**"
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1764~1767년 Gévaudan 지역에서 치명적인 동물공격이 실제로 일어났고 교구·지역기록에 피해자와 매장이 남아 있다. 왕실이 1765년 사냥에 개입했고, 1767년 Jean Chastel이 큰 동물을 사살한 뒤 사건이 종결단계로 갔다. 당시 판화와 문서는 ‘야수’ 이미지가 어떻게 형성됐는지를 보여준다.\n\n**확인되지 않음:** 모든 공격이 한 마리 동물의 소행이었다는 점은 입증되지 않는다. 1765 또는 1767년에 잡힌 특정 동물이 ‘유일한 진짜 야수’였다는 것도 확정되지 않는다. 하이에나·사자류 등 이국적 맹수설은 이번 검증자료에서 직접 입증되지 않는다.",
+          "textEn": "**Established:** Fatal animal attacks occurred in Gévaudan between 1764 and 1767 and victims and burials appear in parish and regional records. The crown intervened in 1765, and the episode moved toward an end after Jean Chastel killed a large animal in 1767. Contemporary prints and documents show how the image of “the Beast” was constructed.\n\n**Not established:** It has not been demonstrated that every attack was caused by one animal. Neither the 1765 nor 1767 kill is proven to be the single perpetrator of all cases. Exotic-animal theories such as hyena explanations are not directly established by the verified source set."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Fatal animal attacks occurred in Gévaudan between 1764 and 1767 and victims and burials appear in parish and regional records. The crown intervened in 1765, and the episode moved toward an end after Jean Chastel killed a large animal in 1767. Contemporary prints and documents show how the image of “the Beast” was constructed.\n\n**Not established:** It has not been demonstrated that every attack was caused by one animal. Neither the 1765 nor 1767 kill is proven to be the single perpetrator of all cases. Exotic-animal theories such as hyena explanations are not directly established by the verified source set.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "records-02",
+        "royal-03",
+        "images-04",
+        "chastel-05",
+        "wolf-06",
+        "other-07",
+        "story-08",
+        "victims-065",
+        "royal-image-072",
+        "one-beast-085"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GEV-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1764~1767년 Gévaudan 지역에서 사람을 죽인 동물공격이 교구·지역기록에 남아 있다.",
+      "statementEn": "Fatal animal attacks in Gévaudan between 1764 and 1767 are documented in parish and regional records.",
+      "sourceRefs": [
+        "LOZERE_BEAST"
+      ]
+    },
+    {
+      "claimId": "GEV-C2",
+      "status": "CONFIRMED",
+      "statementKo": "프랑스 왕실은 1765년 사건에 개입해 조직적인 사냥을 벌였다.",
+      "statementEn": "The French crown intervened in the case with organized hunting in 1765.",
+      "sourceRefs": [
+        "COURTAULD_BEAST"
+      ]
+    },
+    {
+      "claimId": "GEV-C3",
+      "status": "CONFIRMED",
+      "statementKo": "1767년 Jean Chastel이 큰 동물을 죽인 뒤 공격이 크게 줄었다.",
+      "statementEn": "Attacks diminished after Jean Chastel killed a large animal in 1767.",
+      "sourceRefs": [
+        "COURTAULD_BEAST"
+      ]
+    },
+    {
+      "claimId": "GEV-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 공격이 한 마리 동물에 의해 일어났다는 것은 확립되지 않는다.",
+      "statementEn": "It is not established that one animal caused every attack.",
+      "sourceRefs": [
+        "LOZERE_BEAST",
+        "COURTAULD_BEAST"
+      ]
+    },
+    {
+      "claimId": "GEV-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "당시 판화는 실제 야수의 정확한 생물학적 외형을 기록한 사진자료가 아니다.",
+      "statementEn": "Contemporary prints are not documentary photographs of the animal's exact biological appearance.",
+      "sourceRefs": [
+        "BNF_BEAST",
+        "COURTAULD_BEAST"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "LOZERE_BEAST",
+      "title": "La Bête du Gévaudan dossier",
+      "publisher": "Département de la Lozère",
+      "url": "https://lozere.fr/sites/default/files/upload/documents/cl_bete_gevaudan.pdf",
+      "sourceType": "OFFICIAL_REGIONAL_ARCHIVE"
+    },
+    {
+      "sourceId": "BNF_BEAST",
+      "title": "Collections du musée de la BnF — Beast pamphlets/prints context",
+      "publisher": "Bibliothèque nationale de France",
+      "url": "https://www.bnf.fr/fr/les-collections-du-musee-de-la-bnf",
+      "sourceType": "NATIONAL_LIBRARY_CURATED_PRIMARY_MATERIAL"
+    },
+    {
+      "sourceId": "COURTAULD_BEAST",
+      "title": "Monstrous Ecology, Regional Iconographies and Bourbon Authority in Depictions of the Beast of Gévaudan",
+      "publisher": "Courtauld Institute / Harvey Shepherd",
+      "url": "https://courtauld.ac.uk/research/research-resources/publications/courtauld-books-online/apocalypse/monstrous-ecology-regional-iconographies-and-bourbon-authority-in-depictions-of-the-beast-of-gevaudan-1764-5/",
+      "sourceType": "ACADEMIC_SOURCE_CRITICISM"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "beast-gevaudan-animal-hypotheses",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "늑대·여러 개과동물 가설과 이국적 맹수설의 증거강도를 비교한 카드.",
+      "captionEn": "Comparison of canid explanations and exotic-predator theories for the Beast of Gévaudan.",
+      "altKo": "왼쪽 개과대안, 오른쪽 직접증거가 약한 이국적 맹수설.",
+      "altEn": "Two-column comparison of canid and exotic-predator hypotheses.",
+      "sourceRefs": [
+        "COURTAULD_BEAST",
+        "BNF_BEAST"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beast-gevaudan__animal-hypotheses__ko.png",
+          "sha256": "ad190c36f1f944489da98cb2211aea40aa47640b31b384cc40b1d231d473fa43",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beast-gevaudan__animal-hypotheses__en.png",
+          "sha256": "8c7da64d8882f04ccf1f293683db1c893443b3d3cf1544fb8b4aa4f7f094f79f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "beast-gevaudan-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "제보당 공격기록·1765 왕실사냥·공격지속·1767 종료단계를 정리한 hero 도표.",
+      "captionEn": "Hero explainer of the Gévaudan attacks, 1765 royal hunt, continued attacks, and 1767 decline.",
+      "altKo": "1764~1767 네 단계로 단일 야수 가정의 문제를 보여준다.",
+      "altEn": "Four stages from 1764 to 1767 showing the problem with a single-Beast assumption.",
+      "sourceRefs": [
+        "LOZERE_BEAST",
+        "COURTAULD_BEAST"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beast-gevaudan__hero-context__ko.png",
+          "sha256": "e7b5213bda060383d99e5ba25aacc1e62138366f7e39478e4d855c660e31ee07",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beast-gevaudan__hero-context__en.png",
+          "sha256": "b11c95b5c3f6e825107657fb1358878f130c78e659989ebcaae77cea75823aa9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "beast-gevaudan-records-vs-monster",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "제보당의 실제 피해기록과 단일 괴물전설을 분리한 카드.",
+      "captionEn": "Evidence card separating documented Gévaudan attacks from the one-monster narrative.",
+      "altKo": "왼쪽 기록사실, 오른쪽 미확정 단일개체·이국적 맹수 주장.",
+      "altEn": "Two-column comparison of recorded facts and unestablished single-animal/exotic theories.",
+      "sourceRefs": [
+        "LOZERE_BEAST",
+        "COURTAULD_BEAST"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beast-gevaudan__records-vs-monster__ko.png",
+          "sha256": "9607e8fb8ae0cff4fe2fd9e36d6bd3bda71636fbeb71c63b327a76034bb5800a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beast-gevaudan__records-vs-monster__en.png",
+          "sha256": "2bd27fa43168da2ae074ff4fdbbb286f1cb56281fce2c88f05f97c59c6015869",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "beast-gevaudan-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1764~1767 제보당 공격·사냥의 핵심 연표.",
+      "captionEn": "Key timeline of the Gévaudan attacks and hunts from 1764 to 1767.",
+      "altKo": "공격 시작, 왕실사냥, 공격지속, Chastel 사살 네 시점.",
+      "altEn": "Four milestones: attacks begin, royal hunt, continued reports, Chastel kill.",
+      "sourceRefs": [
+        "LOZERE_BEAST",
+        "COURTAULD_BEAST"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beast-gevaudan__timeline__ko.png",
+          "sha256": "66126768f5316c8aa9f06dedcd52c17766265aef0f4d02b6d63f07d3bbb486be",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beast-gevaudan__timeline__en.png",
+          "sha256": "f3ce4673894f8c8d06d9c59e0a6a3a1aee5c68517410710379e3b077e79fa197",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity",
+      "Paranormal / Haunting / Folklore"
+    ],
+    "countries": [
+      "France"
+    ],
+    "regions": [
+      "Gévaudan / Lozère"
+    ],
+    "places": [
+      {
+        "name": "Gévaudan",
+        "role": "attack region"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jean Chastel",
+        "role": "hunter associated with 1767 kill"
+      }
+    ],
+    "organizations": [
+      "French Crown",
+      "Département de la Lozère",
+      "Bibliothèque nationale de France"
+    ],
+    "dateRange": {
+      "start": "1764",
+      "end": "1767",
+      "precision": "attack period"
+    },
+    "era": "18th century",
+    "resolution": "ATTACKS_ESTABLISHED_SINGLE_BEAST_IDENTITY_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Beast of Gévaudan",
+      "La Bête du Gévaudan"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3038,
+    "enBodyWords": 894,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH05",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH05_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

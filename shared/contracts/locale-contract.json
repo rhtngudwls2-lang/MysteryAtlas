@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "U2-1.0",
+  "supported": [
+    "ko",
+    "en"
+  ],
+  "required": [
+    "ko",
+    "en"
+  ],
+  "canonicalIdShared": true,
+  "blockIdAligned": true,
+  "visualAssetIdShared": true,
+  "visualFilePerLocale": true,
+  "articleLocaleSwitch": "same canonicalId and nearest blockId anchor",
+  "audioLocale": "visible article locale; Android VC16 audio architecture retained",
+  "missingLocale": "content validation failure"
+}

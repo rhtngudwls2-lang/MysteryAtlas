@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/postbuild.mjs",
+    "sync:content": "python3 ../shared/tools/sync_content.py --copy-web",
+    "build": "npm run sync:content && next build && node scripts/postbuild.mjs",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",

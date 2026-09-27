@@ -1,0 +1,558 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "richard-iii-greyfriars",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "주차장 아래 리처드 3세 유골",
+    "canonicalTitleEn": "Richard III Beneath the Car Park",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "주차장 아래 뼈는 어떻게 왕의 이름을 되찾았나",
+      "hook": "왕의 무덤은 수백 년 동안 사라졌고, 후대에는 유해가 버려졌다는 소문까지 돌았다. 2012년 Greyfriars 터에서 나온 골격은 고고학과 DNA가 역사 신원을 어떻게 복원하는지 보여줬다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2012년, 주차장 아래의 무덤",
+          "headingEn": "2012: A Grave Beneath a Car Park",
+          "textKo": "2012년 레스터 도심의 Greyfriars 수도원터 발굴에서 한 남성의 골격이 발견됐다. 장소 자체가 중요했다. 1485년 Bosworth 전투에서 사망한 리처드 3세가 Greyfriars에 매장됐다는 역사기록이 있었지만, 수도원은 16세기 해산 뒤 사라졌고 정확한 무덤 위치도 잊혔다. 발굴팀이 찾은 골격은 척추측만, 전투성 손상, 연대와 장소라는 여러 특징에서 리처드 3세 후보로 떠올랐다. 그러나 **‘왕이 묻힌 장소에서 맞는 시대의 남성골격을 찾았다’는 것만으로 신원확인이 끝나지는 않았다.**",
+          "textEn": "In 2012, archaeologists excavating the site of the lost Greyfriars friary in Leicester found a male skeleton. The location mattered: historical records placed Richard III’s burial at Greyfriars after his death at the Battle of Bosworth in 1485, but the friary disappeared after the Dissolution and the grave location was lost. The skeleton’s date, location, scoliosis, and battle-related injuries made it a strong candidate. But finding the right kind of body in the right place was not enough to establish identity."
+        },
+        {
+          "blockId": "history-02",
+          "type": "BACKGROUND",
+          "headingKo": "1485년 매장부터 1538년 수도원 해산까지",
+          "headingEn": "From the 1485 Burial to the Dissolution",
+          "textKo": "Historic England의 유적기록은 리처드 3세가 Bosworth에서 사망한 뒤 Greyfriars에 매장됐고, 수도원이 1538년 해산된 후 건물과 지형이 크게 바뀌었다는 장소의 역사를 정리한다. 후대에는 유해가 이동됐다는 이야기나 강에 버려졌다는 전설도 등장했다. 하지만 2012년 발굴은 적어도 하나의 핵심 소문을 시험할 수 있게 했다. **수도원터에 무덤이 남아 있었는가.** 발견된 골격은 그 질문에 예상 밖으로 강한 ‘그렇다’를 돌려줬다.",
+          "textEn": "Historic England’s site record traces the location from Richard’s burial after Bosworth through the friary’s Dissolution in 1538 and the later transformation of the area. Stories developed that the remains had been moved or thrown into a river. The 2012 excavation provided a direct way to test at least one core question: had a grave survived at the friary site? The skeleton provided a surprisingly strong answer that such a burial had."
+        },
+        {
+          "blockId": "skeleton-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "골격은 역사기록과 얼마나 맞았나",
+          "headingEn": "How Well Did the Skeleton Fit the Historical Record?",
+          "textKo": "King et al.의 Nature Communications 연구는 고고학, 방사성탄소연대, 골격·외상, DNA를 한 묶음으로 평가했다. 골격은 성인 남성이었고 척추측만이 있었으며, 사망 전후의 전투성 손상이 확인됐다. 매장 위치와 자세도 일반적인 고위성직자 무덤과 달랐다. 방사성탄소연대는 15세기 후반과 양립했지만 식이보정 등 불확실성을 함께 다뤄야 했다. **각 특징 하나만으로는 왕을 증명하지 못하지만, 여러 독립 특징이 같은 역사적 인물 쪽으로 겹쳤다.**",
+          "textEn": "The *Nature Communications* study by King and colleagues evaluated archaeology, radiocarbon dating, skeletal evidence, trauma, and DNA together. The skeleton was an adult male with scoliosis and perimortem injuries consistent with violent death. The burial position and location were unusual. Radiocarbon dating was compatible with the late fifteenth century after accounting for dietary correction and uncertainty. No single feature proves a king’s identity, but multiple independent lines converged on the same historical candidate."
+        },
+        {
+          "blockId": "mtdna-04",
+          "type": "TURNING_POINT",
+          "headingKo": "모계 DNA가 살아 있는 친족과 이어졌다",
+          "headingEn": "Maternal DNA Linked the Skeleton to Living Relatives",
+          "textKo": "University of Leicester 연구팀은 리처드 3세의 누이 Anne of York에서 이어지는 모계계보를 추적해 살아 있는 친족과 비교했다. 골격에서 얻은 미토콘드리아 DNA는 이 모계 친족들과 일치하는 방향을 보였다. mtDNA는 모계선으로 전달되기 때문에 수백 년 뒤에도 특정 계보를 연결하는 데 유용하다. 이 일치는 장소·연대·골격 특징과 함께 신원확인의 핵심 증거가 됐다. **DNA는 발굴현장의 고고학을 대체한 것이 아니라, 서로 독립된 증거들을 한 인물로 묶는 역할을 했다.**",
+          "textEn": "The University of Leicester team traced living maternal-line relatives through Richard III’s sister Anne of York. Mitochondrial DNA recovered from the skeleton matched that maternal line. Because mtDNA passes through the maternal lineage, it can connect historical remains with distant living relatives. The match became a major part of the identification when combined with location, chronology, and skeletal evidence. DNA did not replace archaeology; it connected independent lines of evidence."
+        },
+        {
+          "blockId": "y-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그런데 Y염색체는 맞지 않았다",
+          "headingEn": "But the Y Chromosome Did Not Match",
+          "textKo": "사건을 더 흥미롭게 만든 것은 부계 Y염색체였다. 연구팀은 리처드 3세와 공통 부계조상을 가진 현대 후손들과 비교했지만 Y염색체가 일치하지 않았다. 이것만 보면 신원확인이 무너지는 것처럼 보일 수 있다. 그러나 연구팀은 500년이 넘는 부계계보 어디선가 비부계 사건(non-paternity event)이 있었을 가능성을 제시했다. **Y 불일치는 ‘이 골격은 리처드 3세가 아니다’라는 단순 결론이 아니라, 역사계보의 어느 세대에서 생물학적 부계가 문서계보와 달라졌음을 시사한다.**",
+          "textEn": "The paternal Y chromosome produced a surprise. Researchers compared the skeleton with modern men tracing a paternal line to a common ancestor of Richard III, but the Y profiles did not match. At first glance that might seem to undermine the identification. The team instead interpreted it as evidence that one or more non-paternity events occurred somewhere in the many generations of the recorded paternal genealogy. The mismatch does not simply mean “this is not Richard”; it exposes a break somewhere in the documentary male-line pedigree."
+        },
+        {
+          "blockId": "radiocarbon-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "탄소연대도 한 숫자로 끝나지 않았다",
+          "headingEn": "Radiocarbon Dating Was Not a Single Magic Number",
+          "textKo": "Historic England의 chronological modelling 자료는 리처드 3세 사례를 방사성탄소연대가 어떻게 역사연대와 함께 쓰이는지 보여주는 사례로 소개한다. 사람의 식단, 특히 해산물 섭취는 탄소연대에 영향을 줄 수 있어 단순 측정값을 그대로 달력연도로 바꿀 수 없다. 연구팀은 이런 보정을 고려해 1485년 사망과 양립하는 범위를 평가했다. **탄소연대는 신원을 직접 말해주는 이름표가 아니라, 후보가 해당 시대에 속할 수 있는지를 시험하는 필터**였다.",
+          "textEn": "Historic England uses the Richard III case to illustrate how chronological modelling and radiocarbon evidence interact. Human diet—especially marine food—can affect radiocarbon results, so a measurement cannot simply be converted into one exact calendar year. Researchers accounted for such factors and assessed compatibility with death in 1485. Radiocarbon dating was not a name tag; it was a filter testing whether the individual could belong to the correct historical period."
+        },
+        {
+          "blockId": "combined-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "신원은 ‘DNA 한 방’이 아니라 종합판정이었다",
+          "headingEn": "The Identification Was a Combined Case, Not a Single DNA Match",
+          "textKo": "리처드 3세 신원확인을 ‘DNA가 왕을 찾았다’고만 요약하면 연구의 구조를 놓친다. Greyfriars라는 정확한 장소, 15세기 후반 연대, 성인남성 골격, 척추측만, 전투손상, 매장형태, 모계 DNA가 각각 다른 질문에 답했다. 연구는 이런 증거를 종합해 리처드 3세일 가능성이 다른 후보보다 압도적으로 높다고 판단했다. **강한 역사신원 확인은 하나의 결정적 단서보다 서로 독립된 여러 약한·중간 단서가 같은 방향으로 수렴할 때 만들어진다.**",
+          "textEn": "Summarizing the identification as “DNA found a king” misses its structure. The Greyfriars location, late-fifteenth-century chronology, adult male skeleton, scoliosis, battle trauma, burial context, and maternal DNA each answered different questions. The identification emerged from their convergence. Strong historical identification often comes not from one miraculous clue but from several independent lines pointing in the same direction."
+        },
+        {
+          "blockId": "rumor-08",
+          "type": "AFTERMATH",
+          "headingKo": "주차장 발견이 지운 오래된 소문",
+          "headingEn": "The Car-Park Discovery Tested Old Rumours",
+          "textKo": "리처드 3세의 유해가 수도원 해산 뒤 사라졌거나 강에 버려졌다는 후대 소문은 오랫동안 반복됐다. 2012년 발굴은 그런 이야기를 문자 그대로 받아들이기 전에 물리적 장소를 시험하는 힘을 보여줬다. 유골이 Greyfriars 터에서 발견됐다는 사실은 ‘모든 후대 이야기 중 무엇이 살아남는가’를 다시 정리하게 했다. **전승이 오래됐다는 것과 전승이 사실이라는 것은 다르며, 고고학은 그 차이를 직접 시험할 수 있다.**",
+          "textEn": "Later stories repeatedly claimed that Richard III’s remains had been removed after the Dissolution or thrown into a river. The 2012 excavation demonstrated the value of testing physical locations rather than repeating inherited stories. Finding the skeleton at Greyfriars forced a reassessment of which later traditions could survive contact with archaeology. Longevity of a story is not proof; archaeology can directly test some parts of it."
+        },
+        {
+          "blockId": "probability-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "각 단서의 힘을 따로 계산해 합쳤다",
+          "headingEn": "The Identification Combined Independent Probabilities",
+          "textKo": "King 연구팀은 ‘골격이 왕처럼 보인다’는 인상으로 결론내리지 않았다. 장소, 성별·연령, 척추측만, 사망시기, 전투성 손상, mtDNA 같은 서로 다른 단서가 리처드 3세가 아닌 임의의 사람에게 동시에 나타날 가능성을 따로 평가한 뒤 종합했다. 이런 접근은 어떤 단서 하나가 흔하거나 불완전해도 전체 신원확인이 강해질 수 있는 이유를 보여준다. **역사 신원확인의 힘은 단서 하나의 희귀성보다 서로 독립된 단서들이 같은 사람을 가리키는 수렴성에 있다.**",
+          "textEn": "King and colleagues did not identify the skeleton because it simply “looked royal.” They considered different categories of evidence—location, sex and age, scoliosis, date, battle trauma, and mtDNA—and evaluated how likely those traits would be to coincide in an unrelated individual. This illustrates why identification can become strong even when no single clue is unique. The power lies in multiple relatively independent lines converging on one historical person."
+        },
+        {
+          "blockId": "ymeaning-082",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Y염색체 불일치가 오히려 계보의 한계를 보여줬다",
+          "headingEn": "The Y Mismatch Exposed the Limits of Documentary Genealogy",
+          "textKo": "부계 Y 불일치는 처음에는 신원확인의 약점처럼 보이지만, 실제로는 중세 이후 수백 년짜리 문서계보를 유전학이 어떻게 시험하는지 보여준다. 문서상 부자관계가 모든 세대에서 생물학적 부자관계와 같았다는 보장은 없다. 연구팀은 계보 어디선가 비부계 사건이 있었을 가능성을 열어뒀고, 정확한 세대는 찾지 못했다. 따라서 이 불일치를 왕의 신원부정으로 단순화하면 오히려 **현대 후손 쪽 긴 부계경로가 가진 불확실성**을 놓치게 된다.",
+          "textEn": "The paternal Y mismatch can look at first like a weakness in the identification, but it also shows how genetics can test centuries of documentary genealogy. A recorded father-son relationship is not guaranteed to be biological in every generation. The team allowed for one or more non-paternity events somewhere in the long paternal chain and could not identify the exact generation. Treating the mismatch as simple disproof of the skeleton would ignore uncertainty in the modern descendants’ long recorded male-line pedigree."
+        },
+        {
+          "blockId": "method-088",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "결론은 ‘가장 잘 맞는 한 사람’이었다",
+          "headingEn": "The Result Was a Best-Fit Historical Identification",
+          "textKo": "고고학적 신원확인은 주민등록번호를 읽는 작업이 아니다. 연구팀은 ‘이 골격이 리처드 3세라면 예상되는 특징’과 ‘무관한 다른 사람이 우연히 이 모든 조건을 만족할 가능성’을 비교했다. Greyfriars라는 장소와 1485년 전후 연대, 전투손상, 척추측만, 모계 DNA가 한 방향으로 모이면서 대안후보의 가능성이 급격히 낮아졌다. **신원은 한 단서가 이름을 말해서가 아니라, 다른 설명이 점점 설 자리를 잃으면서 확정됐다.**",
+          "textEn": "Archaeological identification is not a matter of reading an ID card. The team compared what would be expected if the skeleton were Richard III with the chance that an unrelated individual could satisfy all the same conditions by accident. Greyfriars, the date, battle trauma, scoliosis, and maternal DNA all converged, progressively shrinking the space for alternative identities. The identification became strong not because one clue spoke a name, but because competing explanations became increasingly implausible."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 2012년 Greyfriars 수도원터에서 발견된 골격은 장소·고고학·골격·연대·모계 DNA를 종합했을 때 리처드 3세로 강하게 확인됐다. 모계 DNA는 살아 있는 친족과 일치하는 방향을 보였다. 부계 Y염색체는 문서계보상 현대 남계후손과 일치하지 않았다.\n\n**확인되지 않음:** Y염색체 불일치가 어느 정확한 세대의 비부계 사건에서 생겼는지는 확인되지 않는다. 탄소연대 하나만으로 리처드 3세 신원을 확정한 것도 아니다. 후대의 모든 유골이동 소문이 실제 역사라는 증거도 없다.",
+          "textEn": "**Established:** The skeleton discovered at Greyfriars in 2012 was strongly identified as Richard III through the combined evidence of location, archaeology, skeletal traits, chronology, and maternal DNA. The mtDNA aligned with living maternal-line relatives. The Y chromosome did not match modern men in the recorded paternal genealogy.\n\n**Not established:** The exact generation in which the paternal-line break occurred is unknown. Radiocarbon dating alone did not identify Richard. Nor are later stories about removal or disposal of the remains established as historical fact."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 2012년 Greyfriars 수도원터에서 발견된 골격은 장소·고고학·골격·연대·모계 DNA를 종합했을 때 리처드 3세로 강하게 확인됐다. 모계 DNA는 살아 있는 친족과 일치하는 방향을 보였다. 부계 Y염색체는 문서계보상 현대 남계후손과 일치하지 않았다.\n\n**확인되지 않음:** Y염색체 불일치가 어느 정확한 세대의 비부계 사건에서 생겼는지는 확인되지 않는다. 탄소연대 하나만으로 리처드 3세 신원을 확정한 것도 아니다. 후대의 모든 유골이동 소문이 실제 역사라는 증거도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "history-02",
+        "skeleton-03",
+        "mtdna-04",
+        "y-05",
+        "radiocarbon-06",
+        "combined-07",
+        "rumor-08",
+        "probability-075",
+        "ymeaning-082",
+        "method-088"
+      ]
+    },
+    "en": {
+      "headline": "How Did Bones Beneath a Car Park Regain a King’s Name?",
+      "hook": "The king’s grave vanished for centuries and later stories claimed his remains had been discarded. A skeleton found at Greyfriars in 2012 became a test of how archaeology and DNA can rebuild historical identity.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2012년, 주차장 아래의 무덤",
+          "headingEn": "2012: A Grave Beneath a Car Park",
+          "textKo": "2012년 레스터 도심의 Greyfriars 수도원터 발굴에서 한 남성의 골격이 발견됐다. 장소 자체가 중요했다. 1485년 Bosworth 전투에서 사망한 리처드 3세가 Greyfriars에 매장됐다는 역사기록이 있었지만, 수도원은 16세기 해산 뒤 사라졌고 정확한 무덤 위치도 잊혔다. 발굴팀이 찾은 골격은 척추측만, 전투성 손상, 연대와 장소라는 여러 특징에서 리처드 3세 후보로 떠올랐다. 그러나 **‘왕이 묻힌 장소에서 맞는 시대의 남성골격을 찾았다’는 것만으로 신원확인이 끝나지는 않았다.**",
+          "textEn": "In 2012, archaeologists excavating the site of the lost Greyfriars friary in Leicester found a male skeleton. The location mattered: historical records placed Richard III’s burial at Greyfriars after his death at the Battle of Bosworth in 1485, but the friary disappeared after the Dissolution and the grave location was lost. The skeleton’s date, location, scoliosis, and battle-related injuries made it a strong candidate. But finding the right kind of body in the right place was not enough to establish identity."
+        },
+        {
+          "blockId": "history-02",
+          "type": "BACKGROUND",
+          "headingKo": "1485년 매장부터 1538년 수도원 해산까지",
+          "headingEn": "From the 1485 Burial to the Dissolution",
+          "textKo": "Historic England의 유적기록은 리처드 3세가 Bosworth에서 사망한 뒤 Greyfriars에 매장됐고, 수도원이 1538년 해산된 후 건물과 지형이 크게 바뀌었다는 장소의 역사를 정리한다. 후대에는 유해가 이동됐다는 이야기나 강에 버려졌다는 전설도 등장했다. 하지만 2012년 발굴은 적어도 하나의 핵심 소문을 시험할 수 있게 했다. **수도원터에 무덤이 남아 있었는가.** 발견된 골격은 그 질문에 예상 밖으로 강한 ‘그렇다’를 돌려줬다.",
+          "textEn": "Historic England’s site record traces the location from Richard’s burial after Bosworth through the friary’s Dissolution in 1538 and the later transformation of the area. Stories developed that the remains had been moved or thrown into a river. The 2012 excavation provided a direct way to test at least one core question: had a grave survived at the friary site? The skeleton provided a surprisingly strong answer that such a burial had."
+        },
+        {
+          "blockId": "skeleton-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "골격은 역사기록과 얼마나 맞았나",
+          "headingEn": "How Well Did the Skeleton Fit the Historical Record?",
+          "textKo": "King et al.의 Nature Communications 연구는 고고학, 방사성탄소연대, 골격·외상, DNA를 한 묶음으로 평가했다. 골격은 성인 남성이었고 척추측만이 있었으며, 사망 전후의 전투성 손상이 확인됐다. 매장 위치와 자세도 일반적인 고위성직자 무덤과 달랐다. 방사성탄소연대는 15세기 후반과 양립했지만 식이보정 등 불확실성을 함께 다뤄야 했다. **각 특징 하나만으로는 왕을 증명하지 못하지만, 여러 독립 특징이 같은 역사적 인물 쪽으로 겹쳤다.**",
+          "textEn": "The *Nature Communications* study by King and colleagues evaluated archaeology, radiocarbon dating, skeletal evidence, trauma, and DNA together. The skeleton was an adult male with scoliosis and perimortem injuries consistent with violent death. The burial position and location were unusual. Radiocarbon dating was compatible with the late fifteenth century after accounting for dietary correction and uncertainty. No single feature proves a king’s identity, but multiple independent lines converged on the same historical candidate."
+        },
+        {
+          "blockId": "mtdna-04",
+          "type": "TURNING_POINT",
+          "headingKo": "모계 DNA가 살아 있는 친족과 이어졌다",
+          "headingEn": "Maternal DNA Linked the Skeleton to Living Relatives",
+          "textKo": "University of Leicester 연구팀은 리처드 3세의 누이 Anne of York에서 이어지는 모계계보를 추적해 살아 있는 친족과 비교했다. 골격에서 얻은 미토콘드리아 DNA는 이 모계 친족들과 일치하는 방향을 보였다. mtDNA는 모계선으로 전달되기 때문에 수백 년 뒤에도 특정 계보를 연결하는 데 유용하다. 이 일치는 장소·연대·골격 특징과 함께 신원확인의 핵심 증거가 됐다. **DNA는 발굴현장의 고고학을 대체한 것이 아니라, 서로 독립된 증거들을 한 인물로 묶는 역할을 했다.**",
+          "textEn": "The University of Leicester team traced living maternal-line relatives through Richard III’s sister Anne of York. Mitochondrial DNA recovered from the skeleton matched that maternal line. Because mtDNA passes through the maternal lineage, it can connect historical remains with distant living relatives. The match became a major part of the identification when combined with location, chronology, and skeletal evidence. DNA did not replace archaeology; it connected independent lines of evidence."
+        },
+        {
+          "blockId": "y-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그런데 Y염색체는 맞지 않았다",
+          "headingEn": "But the Y Chromosome Did Not Match",
+          "textKo": "사건을 더 흥미롭게 만든 것은 부계 Y염색체였다. 연구팀은 리처드 3세와 공통 부계조상을 가진 현대 후손들과 비교했지만 Y염색체가 일치하지 않았다. 이것만 보면 신원확인이 무너지는 것처럼 보일 수 있다. 그러나 연구팀은 500년이 넘는 부계계보 어디선가 비부계 사건(non-paternity event)이 있었을 가능성을 제시했다. **Y 불일치는 ‘이 골격은 리처드 3세가 아니다’라는 단순 결론이 아니라, 역사계보의 어느 세대에서 생물학적 부계가 문서계보와 달라졌음을 시사한다.**",
+          "textEn": "The paternal Y chromosome produced a surprise. Researchers compared the skeleton with modern men tracing a paternal line to a common ancestor of Richard III, but the Y profiles did not match. At first glance that might seem to undermine the identification. The team instead interpreted it as evidence that one or more non-paternity events occurred somewhere in the many generations of the recorded paternal genealogy. The mismatch does not simply mean “this is not Richard”; it exposes a break somewhere in the documentary male-line pedigree."
+        },
+        {
+          "blockId": "radiocarbon-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "탄소연대도 한 숫자로 끝나지 않았다",
+          "headingEn": "Radiocarbon Dating Was Not a Single Magic Number",
+          "textKo": "Historic England의 chronological modelling 자료는 리처드 3세 사례를 방사성탄소연대가 어떻게 역사연대와 함께 쓰이는지 보여주는 사례로 소개한다. 사람의 식단, 특히 해산물 섭취는 탄소연대에 영향을 줄 수 있어 단순 측정값을 그대로 달력연도로 바꿀 수 없다. 연구팀은 이런 보정을 고려해 1485년 사망과 양립하는 범위를 평가했다. **탄소연대는 신원을 직접 말해주는 이름표가 아니라, 후보가 해당 시대에 속할 수 있는지를 시험하는 필터**였다.",
+          "textEn": "Historic England uses the Richard III case to illustrate how chronological modelling and radiocarbon evidence interact. Human diet—especially marine food—can affect radiocarbon results, so a measurement cannot simply be converted into one exact calendar year. Researchers accounted for such factors and assessed compatibility with death in 1485. Radiocarbon dating was not a name tag; it was a filter testing whether the individual could belong to the correct historical period."
+        },
+        {
+          "blockId": "combined-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "신원은 ‘DNA 한 방’이 아니라 종합판정이었다",
+          "headingEn": "The Identification Was a Combined Case, Not a Single DNA Match",
+          "textKo": "리처드 3세 신원확인을 ‘DNA가 왕을 찾았다’고만 요약하면 연구의 구조를 놓친다. Greyfriars라는 정확한 장소, 15세기 후반 연대, 성인남성 골격, 척추측만, 전투손상, 매장형태, 모계 DNA가 각각 다른 질문에 답했다. 연구는 이런 증거를 종합해 리처드 3세일 가능성이 다른 후보보다 압도적으로 높다고 판단했다. **강한 역사신원 확인은 하나의 결정적 단서보다 서로 독립된 여러 약한·중간 단서가 같은 방향으로 수렴할 때 만들어진다.**",
+          "textEn": "Summarizing the identification as “DNA found a king” misses its structure. The Greyfriars location, late-fifteenth-century chronology, adult male skeleton, scoliosis, battle trauma, burial context, and maternal DNA each answered different questions. The identification emerged from their convergence. Strong historical identification often comes not from one miraculous clue but from several independent lines pointing in the same direction."
+        },
+        {
+          "blockId": "rumor-08",
+          "type": "AFTERMATH",
+          "headingKo": "주차장 발견이 지운 오래된 소문",
+          "headingEn": "The Car-Park Discovery Tested Old Rumours",
+          "textKo": "리처드 3세의 유해가 수도원 해산 뒤 사라졌거나 강에 버려졌다는 후대 소문은 오랫동안 반복됐다. 2012년 발굴은 그런 이야기를 문자 그대로 받아들이기 전에 물리적 장소를 시험하는 힘을 보여줬다. 유골이 Greyfriars 터에서 발견됐다는 사실은 ‘모든 후대 이야기 중 무엇이 살아남는가’를 다시 정리하게 했다. **전승이 오래됐다는 것과 전승이 사실이라는 것은 다르며, 고고학은 그 차이를 직접 시험할 수 있다.**",
+          "textEn": "Later stories repeatedly claimed that Richard III’s remains had been removed after the Dissolution or thrown into a river. The 2012 excavation demonstrated the value of testing physical locations rather than repeating inherited stories. Finding the skeleton at Greyfriars forced a reassessment of which later traditions could survive contact with archaeology. Longevity of a story is not proof; archaeology can directly test some parts of it."
+        },
+        {
+          "blockId": "probability-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "각 단서의 힘을 따로 계산해 합쳤다",
+          "headingEn": "The Identification Combined Independent Probabilities",
+          "textKo": "King 연구팀은 ‘골격이 왕처럼 보인다’는 인상으로 결론내리지 않았다. 장소, 성별·연령, 척추측만, 사망시기, 전투성 손상, mtDNA 같은 서로 다른 단서가 리처드 3세가 아닌 임의의 사람에게 동시에 나타날 가능성을 따로 평가한 뒤 종합했다. 이런 접근은 어떤 단서 하나가 흔하거나 불완전해도 전체 신원확인이 강해질 수 있는 이유를 보여준다. **역사 신원확인의 힘은 단서 하나의 희귀성보다 서로 독립된 단서들이 같은 사람을 가리키는 수렴성에 있다.**",
+          "textEn": "King and colleagues did not identify the skeleton because it simply “looked royal.” They considered different categories of evidence—location, sex and age, scoliosis, date, battle trauma, and mtDNA—and evaluated how likely those traits would be to coincide in an unrelated individual. This illustrates why identification can become strong even when no single clue is unique. The power lies in multiple relatively independent lines converging on one historical person."
+        },
+        {
+          "blockId": "ymeaning-082",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Y염색체 불일치가 오히려 계보의 한계를 보여줬다",
+          "headingEn": "The Y Mismatch Exposed the Limits of Documentary Genealogy",
+          "textKo": "부계 Y 불일치는 처음에는 신원확인의 약점처럼 보이지만, 실제로는 중세 이후 수백 년짜리 문서계보를 유전학이 어떻게 시험하는지 보여준다. 문서상 부자관계가 모든 세대에서 생물학적 부자관계와 같았다는 보장은 없다. 연구팀은 계보 어디선가 비부계 사건이 있었을 가능성을 열어뒀고, 정확한 세대는 찾지 못했다. 따라서 이 불일치를 왕의 신원부정으로 단순화하면 오히려 **현대 후손 쪽 긴 부계경로가 가진 불확실성**을 놓치게 된다.",
+          "textEn": "The paternal Y mismatch can look at first like a weakness in the identification, but it also shows how genetics can test centuries of documentary genealogy. A recorded father-son relationship is not guaranteed to be biological in every generation. The team allowed for one or more non-paternity events somewhere in the long paternal chain and could not identify the exact generation. Treating the mismatch as simple disproof of the skeleton would ignore uncertainty in the modern descendants’ long recorded male-line pedigree."
+        },
+        {
+          "blockId": "method-088",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "결론은 ‘가장 잘 맞는 한 사람’이었다",
+          "headingEn": "The Result Was a Best-Fit Historical Identification",
+          "textKo": "고고학적 신원확인은 주민등록번호를 읽는 작업이 아니다. 연구팀은 ‘이 골격이 리처드 3세라면 예상되는 특징’과 ‘무관한 다른 사람이 우연히 이 모든 조건을 만족할 가능성’을 비교했다. Greyfriars라는 장소와 1485년 전후 연대, 전투손상, 척추측만, 모계 DNA가 한 방향으로 모이면서 대안후보의 가능성이 급격히 낮아졌다. **신원은 한 단서가 이름을 말해서가 아니라, 다른 설명이 점점 설 자리를 잃으면서 확정됐다.**",
+          "textEn": "Archaeological identification is not a matter of reading an ID card. The team compared what would be expected if the skeleton were Richard III with the chance that an unrelated individual could satisfy all the same conditions by accident. Greyfriars, the date, battle trauma, scoliosis, and maternal DNA all converged, progressively shrinking the space for alternative identities. The identification became strong not because one clue spoke a name, but because competing explanations became increasingly implausible."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 2012년 Greyfriars 수도원터에서 발견된 골격은 장소·고고학·골격·연대·모계 DNA를 종합했을 때 리처드 3세로 강하게 확인됐다. 모계 DNA는 살아 있는 친족과 일치하는 방향을 보였다. 부계 Y염색체는 문서계보상 현대 남계후손과 일치하지 않았다.\n\n**확인되지 않음:** Y염색체 불일치가 어느 정확한 세대의 비부계 사건에서 생겼는지는 확인되지 않는다. 탄소연대 하나만으로 리처드 3세 신원을 확정한 것도 아니다. 후대의 모든 유골이동 소문이 실제 역사라는 증거도 없다.",
+          "textEn": "**Established:** The skeleton discovered at Greyfriars in 2012 was strongly identified as Richard III through the combined evidence of location, archaeology, skeletal traits, chronology, and maternal DNA. The mtDNA aligned with living maternal-line relatives. The Y chromosome did not match modern men in the recorded paternal genealogy.\n\n**Not established:** The exact generation in which the paternal-line break occurred is unknown. Radiocarbon dating alone did not identify Richard. Nor are later stories about removal or disposal of the remains established as historical fact."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The skeleton discovered at Greyfriars in 2012 was strongly identified as Richard III through the combined evidence of location, archaeology, skeletal traits, chronology, and maternal DNA. The mtDNA aligned with living maternal-line relatives. The Y chromosome did not match modern men in the recorded paternal genealogy.\n\n**Not established:** The exact generation in which the paternal-line break occurred is unknown. Radiocarbon dating alone did not identify Richard. Nor are later stories about removal or disposal of the remains established as historical fact.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "history-02",
+        "skeleton-03",
+        "mtdna-04",
+        "y-05",
+        "radiocarbon-06",
+        "combined-07",
+        "rumor-08",
+        "probability-075",
+        "ymeaning-082",
+        "method-088"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "R3-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2012년 Greyfriars 터에서 리처드 3세 후보 골격이 발굴됐다.",
+      "statementEn": "A candidate skeleton for Richard III was excavated at Greyfriars in 2012.",
+      "sourceRefs": [
+        "KING2014",
+        "HE_GREYFRIARS"
+      ]
+    },
+    {
+      "claimId": "R3-C2",
+      "status": "CONFIRMED",
+      "statementKo": "모계 mtDNA는 리처드 3세 모계 친족계보와 일치하는 방향을 보였다.",
+      "statementEn": "Maternal mtDNA was consistent with Richard III's maternal-line relatives.",
+      "sourceRefs": [
+        "LEIC_R3",
+        "KING2014"
+      ]
+    },
+    {
+      "claimId": "R3-C3",
+      "status": "CONFIRMED",
+      "statementKo": "부계 Y염색체는 기록상 현대 남계후손과 일치하지 않았다.",
+      "statementEn": "The Y chromosome did not match modern men in the recorded paternal genealogy.",
+      "sourceRefs": [
+        "LEIC_R3",
+        "KING2014"
+      ]
+    },
+    {
+      "claimId": "R3-C4",
+      "status": "SUPPORTED",
+      "statementKo": "고고학·골격·연대·DNA의 결합은 골격을 리처드 3세로 강하게 지지한다.",
+      "statementEn": "Combined archaeology, skeletal evidence, chronology, and DNA strongly support identification as Richard III.",
+      "sourceRefs": [
+        "KING2014",
+        "HE_R3_DATE"
+      ]
+    },
+    {
+      "claimId": "R3-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Y염색체 계보단절이 정확히 어느 세대에서 발생했는지는 확립되지 않는다.",
+      "statementEn": "The exact generation in which the paternal-line break occurred is not established.",
+      "sourceRefs": [
+        "LEIC_R3"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "LEIC_R3",
+      "title": "Richard III DNA results",
+      "publisher": "University of Leicester",
+      "url": "https://le.ac.uk/richard-iii/identification/genetics/dna-results",
+      "sourceType": "ORIGINAL_IDENTIFICATION_TEAM"
+    },
+    {
+      "sourceId": "KING2014",
+      "title": "Identification of the remains of King Richard III",
+      "publisher": "Nature Communications / King et al.",
+      "url": "https://www.nature.com/articles/ncomms6631",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "HE_R3_DATE",
+      "title": "Radiocarbon dating and chronological modelling case study",
+      "publisher": "Historic England",
+      "url": "https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling/case-studies/",
+      "sourceType": "GOVERNMENT_METHOD_ASSESSMENT"
+    },
+    {
+      "sourceId": "HE_GREYFRIARS",
+      "title": "Greyfriars site record",
+      "publisher": "Historic England National Heritage List",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1442955",
+      "sourceType": "GOVERNMENT_SITE_RECORD"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "richard-iii-greyfriars-convergence",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "리처드 3세 신원확인의 독립증거 수렴을 층별로 정리한 카드.",
+      "captionEn": "Evidence stack showing independent lines converging on the Richard III identification.",
+      "altKo": "장소, 연대, 골격, mtDNA, 종합판정의 다섯 증거층.",
+      "altEn": "Five evidence layers: location, chronology, skeleton, mtDNA, combined assessment.",
+      "sourceRefs": [
+        "KING2014",
+        "LEIC_R3",
+        "HE_R3_DATE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "richard-iii-greyfriars__convergence__ko.png",
+          "sha256": "1ef618d34808a2d4b0e58bc8d621363281f1964478253db6e3a0c786d8864c60",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "richard-iii-greyfriars__convergence__en.png",
+          "sha256": "256f3c132881eeacede9ce45ccd578bf1d963fc5f9d6e6c8f8a943b190624549",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "richard-iii-greyfriars-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Greyfriars 골격을 리처드 3세로 식별한 장소·골격·연대·DNA 수렴구조를 보여주는 hero 도표.",
+      "captionEn": "Hero explainer showing the convergence of location, skeletal evidence, dating, and DNA in identifying Richard III.",
+      "altKo": "네 종류의 독립증거가 리처드 3세 신원으로 수렴하는 도표.",
+      "altEn": "Four evidence types converging on the Richard III identification.",
+      "sourceRefs": [
+        "LEIC_R3",
+        "KING2014",
+        "HE_R3_DATE",
+        "HE_GREYFRIARS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "richard-iii-greyfriars__hero-context__ko.png",
+          "sha256": "e52de32a4a597356474e2d1d00066a9162915766acfac1911c12df45c7a38d41",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "richard-iii-greyfriars__hero-context__en.png",
+          "sha256": "bf9bd81d722ee7ca7a0c73459d3655af5e63e5ef2497cd47553e15b6682c8f3b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "richard-iii-greyfriars-mtdna-vs-y",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "리처드 3세의 모계 DNA 일치와 부계 Y 불일치를 동시에 설명하는 비교카드.",
+      "captionEn": "Evidence card explaining the maternal mtDNA match and paternal Y-chromosome mismatch.",
+      "altKo": "왼쪽 mtDNA 일치, 오른쪽 Y 불일치와 non-paternity 가능성.",
+      "altEn": "Two-column card: maternal mtDNA match versus paternal Y mismatch and possible pedigree break.",
+      "sourceRefs": [
+        "LEIC_R3",
+        "KING2014"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "richard-iii-greyfriars__mtdna-vs-y__ko.png",
+          "sha256": "0026dfe351894c44887b87c4165e30eec34852547646acac0fbfb1df340247e4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "richard-iii-greyfriars__mtdna-vs-y__en.png",
+          "sha256": "165dfbe4727f33af4c4fcbcfdc630ca6600e4de93dc0320bfc441cedcc3bdbe2",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "richard-iii-greyfriars-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "리처드 3세 매장·수도원 해산·2012 발굴·2014 신원논문의 연표.",
+      "captionEn": "Timeline of Richard III’s burial, the Dissolution, 2012 excavation, and 2014 identification paper.",
+      "altKo": "1485, 1538, 2012, 2014 네 이정표.",
+      "altEn": "Timeline marking 1485, 1538, 2012, and 2014.",
+      "sourceRefs": [
+        "KING2014",
+        "HE_GREYFRIARS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "richard-iii-greyfriars__timeline__ko.png",
+          "sha256": "226b95add597b4bb89ee6de2dc57437dd327a29a9ee5c47be1022d987b074a32",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "richard-iii-greyfriars__timeline__en.png",
+          "sha256": "00eb9448d6930d37b624da97c6ae67bc9efdcc9aee44635c4a215dde69b89339",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "secondaryGenres": [
+      "Ancient History / Archaeology",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "Leicester"
+    ],
+    "places": [
+      {
+        "name": "Greyfriars, Leicester",
+        "role": "burial/excavation site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Richard III",
+        "role": "identified historical individual"
+      }
+    ],
+    "organizations": [
+      "University of Leicester",
+      "Historic England"
+    ],
+    "dateRange": {
+      "start": "1485",
+      "end": "2014",
+      "precision": "burial through peer-reviewed identification"
+    },
+    "era": "Late Medieval / Modern Archaeology",
+    "resolution": "IDENTITY_STRONGLY_RESOLVED_PATERNAL_GENEALOGY_BREAK_UNLOCATED",
+    "searchAliases": [
+      "Richard III car park",
+      "Greyfriars skeleton",
+      "Richard III DNA"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3122,
+    "enBodyWords": 884,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH04",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH04_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

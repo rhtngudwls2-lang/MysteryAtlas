@@ -1,0 +1,551 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "indus-script",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "인더스 문자",
+    "canonicalTitleEn": "Indus Script",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "기호 순서는 언어처럼 보이는데 왜 아직 한 문장도 읽지 못하나",
+      "hook": "인더스문자는 무작위 낙서가 아니다. 시작·끝 기호와 반복구조가 있고 통계도 언어 같은 제약을 보여준다. 그런데 짧은 텍스트, bilingual 부재, 언어 미상 때문에 구조를 아는 것과 의미를 읽는 것 사이가 아직 막혀 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "수천 개의 짧은 문장이 남았는데 한 문장도 확실히 번역하지 못한다",
+          "headingEn": "Thousands of Inscriptions Survive, Yet No Sentence Has a Secure Translation",
+          "textKo": "인더스문자는 고대 인더스문명 유물의 인장·도기·금속·점토물에 반복해서 나타난다. 그러나 100년 넘는 연구에도 합의된 해독은 없다. 2010년 PLOS ONE 연구는 약 3,000개 텍스트와 약 400개 수준의 흔히 쓰이는 sign inventory를 바탕으로 통계분석을 했고, 문장 대부분이 매우 짧으며 한 줄에 14기호를 넘지 않는다고 정리한다. **자료는 많아 보이지만 언어해독에 필요한 긴 문맥은 거의 없다.**",
+          "textEn": "Indus signs recur on seals, pottery, copper, and other durable objects from the Indus civilization, yet more than a century of study has produced no generally accepted decipherment. A 2010 PLOS ONE study analysed a corpus of roughly 3,000 texts and commonly used sign inventories around a few hundred symbols, noting that individual inscriptions are usually extremely short and rarely exceed fourteen signs in a line. The corpus is large in object count but poor in long linguistic context."
+        },
+        {
+          "blockId": "missing-02",
+          "type": "BACKGROUND",
+          "headingKo": "로제타석 같은 bilingual text가 없다",
+          "headingEn": "There Is No Rosetta-Stone-Style Bilingual Key",
+          "textKo": "해독을 가로막는 가장 큰 문제는 짧은 텍스트뿐만이 아니다. 알려진 언어와 인더스문자가 나란히 적힌 확실한 bilingual inscription이 없고, 문자에 기록된 언어가 무엇인지도 알지 못한다. Nature 2015 리뷰는 Indo-Aryan, Dravidian, 다른 언어 또는 비언어 기호체계까지 다양한 해석이 제안됐지만 일반적 합의가 없다고 정리한다. **기호값과 언어를 동시에 모르는 상태라 한쪽이 다른 쪽의 정답지가 되어주지 못한다.**",
+          "textEn": "The obstacle is not only brevity. There is no secure bilingual inscription pairing Indus signs with a known language, and the underlying language itself is unknown. A 2015 Nature review describes proposals ranging from Indo-Aryan and Dravidian readings to non-linguistic interpretations, with no general consensus. Both the sign values and the language are uncertain, so neither provides an independent key to the other."
+        },
+        {
+          "blockId": "entropy-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2009년, ‘언어 같은 구조’가 통계에서 보였다",
+          "headingEn": "2009: Statistical Structure Looked Language-Like",
+          "textKo": "Rao 연구팀은 2009년 Science에서 인더스 기호열의 conditional entropy를 여러 자연언어·비언어 시스템과 비교했다. 결과는 완전히 무작위이거나 완전히 경직된 기호열보다 자연언어 쪽과 비슷한 중간 구조를 보였고, 연구팀은 언어적 구조 가설을 지지한다고 해석했다. **그러나 통계적으로 언어와 비슷하다는 것과 ‘어떤 언어를 어떤 음가로 읽는가’를 밝혔다는 것은 전혀 다른 단계**다.",
+          "textEn": "In 2009, Rao and colleagues compared the conditional entropy of Indus sign sequences with natural languages and non-linguistic systems. The script occupied an intermediate, structured regime more similar to linguistic systems than to completely random or rigid sequences, supporting a linguistic-structure hypothesis. But statistical language-like structure is very different from identifying the language or assigning phonetic values to signs."
+        },
+        {
+          "blockId": "ngram-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기호의 시작·끝과 조합규칙도 보인다",
+          "headingEn": "Sign Order Shows Reproducible Internal Constraints",
+          "textKo": "2010년 PLOS ONE n-gram 연구는 텍스트의 시작기호와 끝기호 분포가 다르고, 특정 bigram·triplet 조합이 강하게 반복되며, 사라진·훼손 기호를 통계모델로 어느 정도 예측할 수 있음을 보였다. 이런 결과는 기호순서에 내부규칙이 있다는 강한 증거다. **하지만 syntax-like pattern은 semantics—그 기호가 실제 무엇을 뜻하는지—를 직접 알려주지 않는다.**",
+          "textEn": "The 2010 PLOS ONE n-gram study found different distributions for text-beginning and text-ending signs, strong recurring bigram and triplet associations, and some ability to predict damaged or uncertain signs. This is strong evidence that sign order follows internal constraints. But syntax-like structure does not directly reveal semantics—what the signs actually mean."
+        },
+        {
+          "blockId": "nonscript-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘문자가 아니라 비언어 상징체계’라는 반론도 남아 있다",
+          "headingEn": "The Non-Linguistic Symbol-System Argument Has Not Simply Disappeared",
+          "textKo": "인더스문자를 자연언어 표기체계로 보는 전통적 관점에는 반론도 있다. Farmer·Sproat·Witzel 등은 짧은 길이와 sign frequency를 근거로 완전한 문자체계가 아닐 가능성을 제기했다. 2009년 entropy 논문은 이 반론에 통계적으로 대응했지만, 비판자들도 데이터모델과 비교방법에 다시 이의를 제기했다. **따라서 ‘2009년 통계가 언어임을 완전히 증명했다’고 쓰는 것도 과장이다.**",
+          "textEn": "The traditional view that Indus signs encode language has been challenged by researchers including Farmer, Sproat, and Witzel, who argued from text length and sign behaviour that the system might not be full writing. The 2009 entropy work addressed that challenge statistically, and critics in turn disputed aspects of the modelling and comparison. It is therefore an overstatement to say that the 2009 result conclusively proved the system is natural language."
+        },
+        {
+          "blockId": "allographs-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기호 개수조차 ‘몇 개’인지 완전히 단순하지 않다",
+          "headingEn": "Even the Number of Distinct Signs Is Not Trivial",
+          "textKo": "2021년 allograph 연구는 좌우반전되거나 약간 다른 기호쌍 가운데 일부가 서로 다른 기호가 아니라 같은 sign의 방향·필기변형일 수 있다고 분석했다. 연구팀은 여러 기준을 이용해 50쌍을 같은 원형기호로 묶을 수 있다고 제안했다. 이것은 해독 이전의 기본작업이 얼마나 어려운지를 보여준다. **‘기호 A와 B가 다른 글자인가 같은 글자의 변형인가’를 잘못 정하면 빈도·문법분석도 함께 흔들린다.**",
+          "textEn": "A 2021 allograph study analysed mirrored and variant sign forms and proposed that many pairs should be grouped as variations of the same underlying sign rather than counted separately. The authors argued for combining fifty pairs using systematic criteria. This shows how difficult the pre-decipherment task is: misclassifying variants as distinct signs changes frequency, sequence, and grammatical analysis before translation even begins."
+        },
+        {
+          "blockId": "claims-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "왜 ‘해독 성공’ 발표가 계속 나오나",
+          "headingEn": "Why New “Decipherments” Keep Appearing",
+          "textKo": "인더스문자에는 Dravidian, Sanskrit/Indo-Aryan, 숫자·상징체계 등 다양한 선호가설이 존재한다. 짧은 문자열에서는 미리 고른 언어의 단어와 우연히 비슷한 대응을 만들기 쉽고, 반례를 피해 해석을 바꾸기도 쉽다. 강한 해독이라면 넓은 corpus에서 반복되는 sign value·문법·어휘를 예측하고 새로운 텍스트에도 적용돼야 한다. **몇 개 인장에서 그럴듯한 단어를 만든 것은 재현 가능한 해독과 다르다.**",
+          "textEn": "Proposed decipherments have linked Indus signs to Dravidian, Indo-Aryan/Sanskrit, numerical systems, and other interpretations. In short inscriptions it is easy to find suggestive matches after choosing a preferred language in advance. A strong decipherment must assign values and grammar that work repeatedly across a broad corpus and make predictions on new texts. A few plausible readings are not the same as a reproducible decipherment."
+        },
+        {
+          "blockId": "corpus-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘약 400개 기호’라는 숫자도 분류법에 따라 달라진다",
+          "headingEn": "Even the Number of Signs Depends on How Variants Are Counted",
+          "textKo": "인더스 sign inventory는 연구자마다 숫자가 달라질 수 있다. 2010년 통계연구는 흔히 약 400개 distinct sign 체계를 사용했지만, Nature 2015 리뷰는 Bryan Wells가 676개를 추정한 사례를 소개한다. 차이가 곧 누군가 틀렸다는 뜻은 아니다. **깨진 모양·회전·반전·필경사 차이를 서로 다른 기호로 셀지 같은 기호의 allograph로 묶을지**에 따라 목록 자체가 달라지기 때문이다. 해독은 단어뜻 이전에 데이터정리 단계부터 불확실성을 가진다.",
+          "textEn": "Indus sign inventories vary across researchers. Statistical studies often use lists around four hundred signs, while the 2015 Nature review notes Bryan Wells’s estimate of 676. The difference does not automatically mean one side is simply wrong: broken forms, rotations, mirror forms, and scribal variants may be counted separately or grouped as allographs. Decipherment uncertainty begins before semantics, at the level of defining the dataset itself."
+        },
+        {
+          "blockId": "direction-035",
+          "type": "BACKGROUND",
+          "headingKo": "인장과 인영에서는 읽는 방향도 뒤집힌다",
+          "headingEn": "Seal and Sealing Can Reverse the Apparent Direction",
+          "textKo": "인더스 기호는 인장(seal)에 새긴 원본과 점토에 찍힌 인영(sealing)을 구분해야 한다. 거울처럼 찍히기 때문에 같은 sequence라도 물체에 따라 좌우방향이 반대로 보일 수 있다. 2010년 연구는 시작기호와 끝기호 분포가 비대칭임을 이용해 directionality와 syntax-like 제약을 분석했다. 2021년 allograph 연구도 mirrored sign을 해석할 때 **문자의미 차이인지 단순히 writing direction 때문에 생긴 변형인지**를 분리하는 것이 중요하다고 본다.",
+          "textEn": "Indus seal engravings and their impressions must be distinguished because stamping reverses the image. The same sequence can appear left-right reversed depending on whether one is looking at the seal or sealing. The 2010 study used asymmetric beginning/end distributions to investigate directionality and syntax-like constraints, while the 2021 allograph work emphasizes separating true sign distinctions from mirroring caused by writing direction."
+        },
+        {
+          "blockId": "prediction-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "통계모델이 훼손기호를 맞힌다고 해서 번역이 된 것은 아니다",
+          "headingEn": "Predicting a Missing Sign Is Not the Same as Translating the Text",
+          "textKo": "n-gram 연구는 주변기호의 조합규칙을 이용해 불분명한 기호를 약 75% 정확도로 복원할 수 있는 모델을 제시했다. 이는 corpus 내부에 반복 가능한 순서규칙이 있다는 인상적인 증거다. 그러나 영어에서 ‘q 다음에 u가 잘 온다’를 아는 것만으로 문장의 뜻을 모르는 문제와 비슷하다. **sequence prediction은 구조를 알려주지만 sign의 소리·단어뜻·문법기능을 자동으로 알려주지 않는다.**",
+          "textEn": "The n-gram study reported that its model could restore some doubtful or missing signs with roughly 75 percent accuracy from surrounding sequence patterns. That is strong evidence for repeatable internal ordering. But predicting that one sign tends to follow another is like knowing letter-sequence patterns without knowing what the sentence means. Sequence prediction reveals structure, not automatic phonetic or semantic values."
+        },
+        {
+          "blockId": "criteria-065",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘해독’이라고 부르려면 새 텍스트에서도 맞아야 한다",
+          "headingEn": "A Decipherment Must Work on Texts It Was Not Built to Explain",
+          "textKo": "강한 해독은 이미 보고 싶은 의미를 끼워 맞춘 뒤 유명한 인장 몇 개만 설명해서는 부족하다. sign value와 문법규칙이 서로 다른 지역·시기의 inscriptions에 반복적용되고, 연구자가 선택하지 않은 새 자료에서도 예측력을 보여야 한다. 가능한 경우 고고학적 문맥과 상품·숫자체계도 함께 맞아야 한다. **반증가능성과 재현성이 없는 해석은 흥미로운 언어가설일 수는 있어도 합의된 해독으로 승격하기 어렵다.**",
+          "textEn": "A robust decipherment cannot be built by choosing desired meanings and explaining only a few famous seals. Sign values and grammatical rules must apply repeatedly across inscriptions from different contexts and make successful predictions on texts not selected to fit the theory. Archaeological context, commodities, and numerical notation should also remain coherent. Without falsifiability and reproducibility, an interpretation may be interesting but not a generally accepted decipherment."
+        },
+        {
+          "blockId": "open-068",
+          "type": "AFTERMATH",
+          "headingKo": "미해독 상태는 실패가 아니라 검증기준이 유지되고 있다는 뜻",
+          "headingEn": "Remaining Undeciphered Is Evidence of a High Bar, Not a Lack of Progress",
+          "textKo": "인더스문자가 아직 미해독이라는 사실은 100년 연구가 아무것도 남기지 못했다는 뜻이 아니다. corpus 정리, directionality, 반복구조, allograph, 통계문법에 대한 지식은 계속 늘었다. **다만 의미를 읽었다고 선언하려면 그 구조지식보다 훨씬 높은 재현성과 예측력이 필요하기 때문에 ‘모른다’는 경계가 유지되는 것**이다.",
+          "textEn": "The script remaining undeciphered does not mean a century of research produced nothing. Knowledge of the corpus, directionality, recurring structures, allographs, and statistical grammar has grown substantially. The boundary remains because claiming semantic decipherment requires much stronger reproducibility and predictive power than identifying structure."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 인더스문자는 기원전 3천년기 인더스문명 유물에 광범위하게 나타나며, 텍스트는 대체로 짧고 bilingual key가 없다. 통계연구는 기호순서에 강한 구조와 syntax-like 제약이 있음을 보여준다. 2021년 연구는 일부 기호형태가 독립 sign이 아니라 allograph일 가능성을 체계적으로 제시했다.\n\n**확인되지 않음:** 인더스문자에 기록된 언어와 각 sign의 음가·의미는 합의된 방식으로 해독되지 않았다. 통계적 언어유사성이 특정 Dravidian·Indo-Aryan 언어를 입증하지도 않는다. 현재까지 널리 받아들여지는 완전해독은 없다.",
+          "textEn": "**Established:** Indus inscriptions are widespread on third-millennium-BCE Indus civilization objects, are usually short, and lack a secure bilingual key. Statistical studies show strong internal ordering and syntax-like constraints, while a 2021 study systematically argues that some visually distinct forms are allographs rather than separate signs.\n\n**Not established:** The underlying language, phonetic values, and meanings of the signs have not been deciphered by general scholarly consensus. Statistical language-like behaviour does not identify a specific Dravidian or Indo-Aryan language. No complete decipherment is widely accepted."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 인더스문자는 기원전 3천년기 인더스문명 유물에 광범위하게 나타나며, 텍스트는 대체로 짧고 bilingual key가 없다. 통계연구는 기호순서에 강한 구조와 syntax-like 제약이 있음을 보여준다. 2021년 연구는 일부 기호형태가 독립 sign이 아니라 allograph일 가능성을 체계적으로 제시했다.\n\n**확인되지 않음:** 인더스문자에 기록된 언어와 각 sign의 음가·의미는 합의된 방식으로 해독되지 않았다. 통계적 언어유사성이 특정 Dravidian·Indo-Aryan 언어를 입증하지도 않는다. 현재까지 널리 받아들여지는 완전해독은 없다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "missing-02",
+        "entropy-03",
+        "ngram-04",
+        "nonscript-05",
+        "allographs-06",
+        "claims-07",
+        "corpus-025",
+        "direction-035",
+        "prediction-045",
+        "criteria-065",
+        "open-068"
+      ]
+    },
+    "en": {
+      "headline": "If the Signs Behave Like Language, Why Can’t We Read a Single Indus Sentence?",
+      "hook": "The Indus signs are not random. They show beginning/end patterns and statistical structure that looks language-like. Yet short texts, no bilingual key, and an unknown underlying language leave a large gap between structure and meaning.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "수천 개의 짧은 문장이 남았는데 한 문장도 확실히 번역하지 못한다",
+          "headingEn": "Thousands of Inscriptions Survive, Yet No Sentence Has a Secure Translation",
+          "textKo": "인더스문자는 고대 인더스문명 유물의 인장·도기·금속·점토물에 반복해서 나타난다. 그러나 100년 넘는 연구에도 합의된 해독은 없다. 2010년 PLOS ONE 연구는 약 3,000개 텍스트와 약 400개 수준의 흔히 쓰이는 sign inventory를 바탕으로 통계분석을 했고, 문장 대부분이 매우 짧으며 한 줄에 14기호를 넘지 않는다고 정리한다. **자료는 많아 보이지만 언어해독에 필요한 긴 문맥은 거의 없다.**",
+          "textEn": "Indus signs recur on seals, pottery, copper, and other durable objects from the Indus civilization, yet more than a century of study has produced no generally accepted decipherment. A 2010 PLOS ONE study analysed a corpus of roughly 3,000 texts and commonly used sign inventories around a few hundred symbols, noting that individual inscriptions are usually extremely short and rarely exceed fourteen signs in a line. The corpus is large in object count but poor in long linguistic context."
+        },
+        {
+          "blockId": "missing-02",
+          "type": "BACKGROUND",
+          "headingKo": "로제타석 같은 bilingual text가 없다",
+          "headingEn": "There Is No Rosetta-Stone-Style Bilingual Key",
+          "textKo": "해독을 가로막는 가장 큰 문제는 짧은 텍스트뿐만이 아니다. 알려진 언어와 인더스문자가 나란히 적힌 확실한 bilingual inscription이 없고, 문자에 기록된 언어가 무엇인지도 알지 못한다. Nature 2015 리뷰는 Indo-Aryan, Dravidian, 다른 언어 또는 비언어 기호체계까지 다양한 해석이 제안됐지만 일반적 합의가 없다고 정리한다. **기호값과 언어를 동시에 모르는 상태라 한쪽이 다른 쪽의 정답지가 되어주지 못한다.**",
+          "textEn": "The obstacle is not only brevity. There is no secure bilingual inscription pairing Indus signs with a known language, and the underlying language itself is unknown. A 2015 Nature review describes proposals ranging from Indo-Aryan and Dravidian readings to non-linguistic interpretations, with no general consensus. Both the sign values and the language are uncertain, so neither provides an independent key to the other."
+        },
+        {
+          "blockId": "entropy-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2009년, ‘언어 같은 구조’가 통계에서 보였다",
+          "headingEn": "2009: Statistical Structure Looked Language-Like",
+          "textKo": "Rao 연구팀은 2009년 Science에서 인더스 기호열의 conditional entropy를 여러 자연언어·비언어 시스템과 비교했다. 결과는 완전히 무작위이거나 완전히 경직된 기호열보다 자연언어 쪽과 비슷한 중간 구조를 보였고, 연구팀은 언어적 구조 가설을 지지한다고 해석했다. **그러나 통계적으로 언어와 비슷하다는 것과 ‘어떤 언어를 어떤 음가로 읽는가’를 밝혔다는 것은 전혀 다른 단계**다.",
+          "textEn": "In 2009, Rao and colleagues compared the conditional entropy of Indus sign sequences with natural languages and non-linguistic systems. The script occupied an intermediate, structured regime more similar to linguistic systems than to completely random or rigid sequences, supporting a linguistic-structure hypothesis. But statistical language-like structure is very different from identifying the language or assigning phonetic values to signs."
+        },
+        {
+          "blockId": "ngram-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기호의 시작·끝과 조합규칙도 보인다",
+          "headingEn": "Sign Order Shows Reproducible Internal Constraints",
+          "textKo": "2010년 PLOS ONE n-gram 연구는 텍스트의 시작기호와 끝기호 분포가 다르고, 특정 bigram·triplet 조합이 강하게 반복되며, 사라진·훼손 기호를 통계모델로 어느 정도 예측할 수 있음을 보였다. 이런 결과는 기호순서에 내부규칙이 있다는 강한 증거다. **하지만 syntax-like pattern은 semantics—그 기호가 실제 무엇을 뜻하는지—를 직접 알려주지 않는다.**",
+          "textEn": "The 2010 PLOS ONE n-gram study found different distributions for text-beginning and text-ending signs, strong recurring bigram and triplet associations, and some ability to predict damaged or uncertain signs. This is strong evidence that sign order follows internal constraints. But syntax-like structure does not directly reveal semantics—what the signs actually mean."
+        },
+        {
+          "blockId": "nonscript-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘문자가 아니라 비언어 상징체계’라는 반론도 남아 있다",
+          "headingEn": "The Non-Linguistic Symbol-System Argument Has Not Simply Disappeared",
+          "textKo": "인더스문자를 자연언어 표기체계로 보는 전통적 관점에는 반론도 있다. Farmer·Sproat·Witzel 등은 짧은 길이와 sign frequency를 근거로 완전한 문자체계가 아닐 가능성을 제기했다. 2009년 entropy 논문은 이 반론에 통계적으로 대응했지만, 비판자들도 데이터모델과 비교방법에 다시 이의를 제기했다. **따라서 ‘2009년 통계가 언어임을 완전히 증명했다’고 쓰는 것도 과장이다.**",
+          "textEn": "The traditional view that Indus signs encode language has been challenged by researchers including Farmer, Sproat, and Witzel, who argued from text length and sign behaviour that the system might not be full writing. The 2009 entropy work addressed that challenge statistically, and critics in turn disputed aspects of the modelling and comparison. It is therefore an overstatement to say that the 2009 result conclusively proved the system is natural language."
+        },
+        {
+          "blockId": "allographs-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기호 개수조차 ‘몇 개’인지 완전히 단순하지 않다",
+          "headingEn": "Even the Number of Distinct Signs Is Not Trivial",
+          "textKo": "2021년 allograph 연구는 좌우반전되거나 약간 다른 기호쌍 가운데 일부가 서로 다른 기호가 아니라 같은 sign의 방향·필기변형일 수 있다고 분석했다. 연구팀은 여러 기준을 이용해 50쌍을 같은 원형기호로 묶을 수 있다고 제안했다. 이것은 해독 이전의 기본작업이 얼마나 어려운지를 보여준다. **‘기호 A와 B가 다른 글자인가 같은 글자의 변형인가’를 잘못 정하면 빈도·문법분석도 함께 흔들린다.**",
+          "textEn": "A 2021 allograph study analysed mirrored and variant sign forms and proposed that many pairs should be grouped as variations of the same underlying sign rather than counted separately. The authors argued for combining fifty pairs using systematic criteria. This shows how difficult the pre-decipherment task is: misclassifying variants as distinct signs changes frequency, sequence, and grammatical analysis before translation even begins."
+        },
+        {
+          "blockId": "claims-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "왜 ‘해독 성공’ 발표가 계속 나오나",
+          "headingEn": "Why New “Decipherments” Keep Appearing",
+          "textKo": "인더스문자에는 Dravidian, Sanskrit/Indo-Aryan, 숫자·상징체계 등 다양한 선호가설이 존재한다. 짧은 문자열에서는 미리 고른 언어의 단어와 우연히 비슷한 대응을 만들기 쉽고, 반례를 피해 해석을 바꾸기도 쉽다. 강한 해독이라면 넓은 corpus에서 반복되는 sign value·문법·어휘를 예측하고 새로운 텍스트에도 적용돼야 한다. **몇 개 인장에서 그럴듯한 단어를 만든 것은 재현 가능한 해독과 다르다.**",
+          "textEn": "Proposed decipherments have linked Indus signs to Dravidian, Indo-Aryan/Sanskrit, numerical systems, and other interpretations. In short inscriptions it is easy to find suggestive matches after choosing a preferred language in advance. A strong decipherment must assign values and grammar that work repeatedly across a broad corpus and make predictions on new texts. A few plausible readings are not the same as a reproducible decipherment."
+        },
+        {
+          "blockId": "corpus-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘약 400개 기호’라는 숫자도 분류법에 따라 달라진다",
+          "headingEn": "Even the Number of Signs Depends on How Variants Are Counted",
+          "textKo": "인더스 sign inventory는 연구자마다 숫자가 달라질 수 있다. 2010년 통계연구는 흔히 약 400개 distinct sign 체계를 사용했지만, Nature 2015 리뷰는 Bryan Wells가 676개를 추정한 사례를 소개한다. 차이가 곧 누군가 틀렸다는 뜻은 아니다. **깨진 모양·회전·반전·필경사 차이를 서로 다른 기호로 셀지 같은 기호의 allograph로 묶을지**에 따라 목록 자체가 달라지기 때문이다. 해독은 단어뜻 이전에 데이터정리 단계부터 불확실성을 가진다.",
+          "textEn": "Indus sign inventories vary across researchers. Statistical studies often use lists around four hundred signs, while the 2015 Nature review notes Bryan Wells’s estimate of 676. The difference does not automatically mean one side is simply wrong: broken forms, rotations, mirror forms, and scribal variants may be counted separately or grouped as allographs. Decipherment uncertainty begins before semantics, at the level of defining the dataset itself."
+        },
+        {
+          "blockId": "direction-035",
+          "type": "BACKGROUND",
+          "headingKo": "인장과 인영에서는 읽는 방향도 뒤집힌다",
+          "headingEn": "Seal and Sealing Can Reverse the Apparent Direction",
+          "textKo": "인더스 기호는 인장(seal)에 새긴 원본과 점토에 찍힌 인영(sealing)을 구분해야 한다. 거울처럼 찍히기 때문에 같은 sequence라도 물체에 따라 좌우방향이 반대로 보일 수 있다. 2010년 연구는 시작기호와 끝기호 분포가 비대칭임을 이용해 directionality와 syntax-like 제약을 분석했다. 2021년 allograph 연구도 mirrored sign을 해석할 때 **문자의미 차이인지 단순히 writing direction 때문에 생긴 변형인지**를 분리하는 것이 중요하다고 본다.",
+          "textEn": "Indus seal engravings and their impressions must be distinguished because stamping reverses the image. The same sequence can appear left-right reversed depending on whether one is looking at the seal or sealing. The 2010 study used asymmetric beginning/end distributions to investigate directionality and syntax-like constraints, while the 2021 allograph work emphasizes separating true sign distinctions from mirroring caused by writing direction."
+        },
+        {
+          "blockId": "prediction-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "통계모델이 훼손기호를 맞힌다고 해서 번역이 된 것은 아니다",
+          "headingEn": "Predicting a Missing Sign Is Not the Same as Translating the Text",
+          "textKo": "n-gram 연구는 주변기호의 조합규칙을 이용해 불분명한 기호를 약 75% 정확도로 복원할 수 있는 모델을 제시했다. 이는 corpus 내부에 반복 가능한 순서규칙이 있다는 인상적인 증거다. 그러나 영어에서 ‘q 다음에 u가 잘 온다’를 아는 것만으로 문장의 뜻을 모르는 문제와 비슷하다. **sequence prediction은 구조를 알려주지만 sign의 소리·단어뜻·문법기능을 자동으로 알려주지 않는다.**",
+          "textEn": "The n-gram study reported that its model could restore some doubtful or missing signs with roughly 75 percent accuracy from surrounding sequence patterns. That is strong evidence for repeatable internal ordering. But predicting that one sign tends to follow another is like knowing letter-sequence patterns without knowing what the sentence means. Sequence prediction reveals structure, not automatic phonetic or semantic values."
+        },
+        {
+          "blockId": "criteria-065",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘해독’이라고 부르려면 새 텍스트에서도 맞아야 한다",
+          "headingEn": "A Decipherment Must Work on Texts It Was Not Built to Explain",
+          "textKo": "강한 해독은 이미 보고 싶은 의미를 끼워 맞춘 뒤 유명한 인장 몇 개만 설명해서는 부족하다. sign value와 문법규칙이 서로 다른 지역·시기의 inscriptions에 반복적용되고, 연구자가 선택하지 않은 새 자료에서도 예측력을 보여야 한다. 가능한 경우 고고학적 문맥과 상품·숫자체계도 함께 맞아야 한다. **반증가능성과 재현성이 없는 해석은 흥미로운 언어가설일 수는 있어도 합의된 해독으로 승격하기 어렵다.**",
+          "textEn": "A robust decipherment cannot be built by choosing desired meanings and explaining only a few famous seals. Sign values and grammatical rules must apply repeatedly across inscriptions from different contexts and make successful predictions on texts not selected to fit the theory. Archaeological context, commodities, and numerical notation should also remain coherent. Without falsifiability and reproducibility, an interpretation may be interesting but not a generally accepted decipherment."
+        },
+        {
+          "blockId": "open-068",
+          "type": "AFTERMATH",
+          "headingKo": "미해독 상태는 실패가 아니라 검증기준이 유지되고 있다는 뜻",
+          "headingEn": "Remaining Undeciphered Is Evidence of a High Bar, Not a Lack of Progress",
+          "textKo": "인더스문자가 아직 미해독이라는 사실은 100년 연구가 아무것도 남기지 못했다는 뜻이 아니다. corpus 정리, directionality, 반복구조, allograph, 통계문법에 대한 지식은 계속 늘었다. **다만 의미를 읽었다고 선언하려면 그 구조지식보다 훨씬 높은 재현성과 예측력이 필요하기 때문에 ‘모른다’는 경계가 유지되는 것**이다.",
+          "textEn": "The script remaining undeciphered does not mean a century of research produced nothing. Knowledge of the corpus, directionality, recurring structures, allographs, and statistical grammar has grown substantially. The boundary remains because claiming semantic decipherment requires much stronger reproducibility and predictive power than identifying structure."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 인더스문자는 기원전 3천년기 인더스문명 유물에 광범위하게 나타나며, 텍스트는 대체로 짧고 bilingual key가 없다. 통계연구는 기호순서에 강한 구조와 syntax-like 제약이 있음을 보여준다. 2021년 연구는 일부 기호형태가 독립 sign이 아니라 allograph일 가능성을 체계적으로 제시했다.\n\n**확인되지 않음:** 인더스문자에 기록된 언어와 각 sign의 음가·의미는 합의된 방식으로 해독되지 않았다. 통계적 언어유사성이 특정 Dravidian·Indo-Aryan 언어를 입증하지도 않는다. 현재까지 널리 받아들여지는 완전해독은 없다.",
+          "textEn": "**Established:** Indus inscriptions are widespread on third-millennium-BCE Indus civilization objects, are usually short, and lack a secure bilingual key. Statistical studies show strong internal ordering and syntax-like constraints, while a 2021 study systematically argues that some visually distinct forms are allographs rather than separate signs.\n\n**Not established:** The underlying language, phonetic values, and meanings of the signs have not been deciphered by general scholarly consensus. Statistical language-like behaviour does not identify a specific Dravidian or Indo-Aryan language. No complete decipherment is widely accepted."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Indus inscriptions are widespread on third-millennium-BCE Indus civilization objects, are usually short, and lack a secure bilingual key. Statistical studies show strong internal ordering and syntax-like constraints, while a 2021 study systematically argues that some visually distinct forms are allographs rather than separate signs.\n\n**Not established:** The underlying language, phonetic values, and meanings of the signs have not been deciphered by general scholarly consensus. Statistical language-like behaviour does not identify a specific Dravidian or Indo-Aryan language. No complete decipherment is widely accepted.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "missing-02",
+        "entropy-03",
+        "ngram-04",
+        "nonscript-05",
+        "allographs-06",
+        "claims-07",
+        "corpus-025",
+        "direction-035",
+        "prediction-045",
+        "criteria-065",
+        "open-068"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "IND-C1",
+      "status": "CONFIRMED",
+      "statementKo": "인더스문자는 합의된 완전해독 없이 남아 있다.",
+      "statementEn": "The Indus script remains without a generally accepted full decipherment.",
+      "sourceRefs": [
+        "INDUS_NATURE2015",
+        "INDUS_PLOS2010"
+      ]
+    },
+    {
+      "claimId": "IND-C2",
+      "status": "SUPPORTED",
+      "statementKo": "기호열의 conditional entropy와 n-gram 구조는 언어적·syntax-like 구조 가설을 지지한다.",
+      "statementEn": "Conditional entropy and n-gram structure support a language-like or syntax-like organization hypothesis.",
+      "sourceRefs": [
+        "INDUS_SCI2009",
+        "INDUS_PLOS2010"
+      ]
+    },
+    {
+      "claimId": "IND-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "통계구조가 특정 Dravidian 또는 Indo-Aryan 언어를 입증하지 않는다.",
+      "statementEn": "Statistical structure does not establish a specific Dravidian or Indo-Aryan language.",
+      "sourceRefs": [
+        "INDUS_NATURE2015",
+        "INDUS_PLOS2010"
+      ]
+    },
+    {
+      "claimId": "IND-C4",
+      "status": "SUPPORTED",
+      "statementKo": "2021년 연구는 여러 mirrored/variant sign pair를 allograph로 묶을 수 있다고 제시했다.",
+      "statementEn": "A 2021 study supports grouping multiple mirrored and variant sign pairs as allographs.",
+      "sourceRefs": [
+        "INDUS_ALLO2021"
+      ]
+    },
+    {
+      "claimId": "IND-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 널리 받아들여지는 완전해독은 없다.",
+      "statementEn": "No complete decipherment currently has broad scholarly acceptance.",
+      "sourceRefs": [
+        "INDUS_NATURE2015",
+        "INDUS_PLOS2010",
+        "INDUS_ALLO2021"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "INDUS_NATURE2015",
+      "title": "Ancient civilization: Cracking the Indus script",
+      "publisher": "Nature / Andrew Robinson",
+      "url": "https://www.nature.com/articles/526499a",
+      "sourceType": "ACADEMIC_REVIEW"
+    },
+    {
+      "sourceId": "INDUS_SCI2009",
+      "title": "Entropic evidence for linguistic structure in the Indus script",
+      "publisher": "Science / Rao et al. 2009 via PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19389998/",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "INDUS_PLOS2010",
+      "title": "Statistical Analysis of the Indus Script Using n-Grams",
+      "publisher": "PLOS ONE / Yadav et al. 2010",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009506",
+      "sourceType": "PEER_REVIEWED_OPEN_ACCESS"
+    },
+    {
+      "sourceId": "INDUS_ALLO2021",
+      "title": "A method of identifying allographs in undeciphered scripts and its application to the Indus Valley Script",
+      "publisher": "Humanities and Social Sciences Communications 2021",
+      "url": "https://www.nature.com/articles/s41599-021-00713-0",
+      "sourceType": "PEER_REVIEWED_METHODOLOGY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "indus-script-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "인더스 문자에서 corpus·순서규칙·통계구조·미해독 의미를 구분한 hero 도표.",
+      "captionEn": "Hero explainer separating Indus corpus, sequence structure, statistical regularity, and unresolved meaning.",
+      "altKo": "수천 텍스트, 순서규칙, 통계분석, 미해독 네 단계.",
+      "altEn": "Four stages: corpus, ordering, statistical structure, undeciphered meaning.",
+      "sourceRefs": [
+        "INDUS_NATURE2015",
+        "INDUS_SCI2009",
+        "INDUS_PLOS2010"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "indus-script__hero-context__ko.png",
+          "sha256": "35e600ed578a23b713c56c9290a7c32398a894816d8b53d1c955c764edfa51f3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "indus-script__hero-context__en.png",
+          "sha256": "ac0b9fd9c585803a64c1261aba3d28ccac95b5a6a8f8784e85419273bb7511bb",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "indus-script-language-like-vs-deciphered",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "인더스 문자의 통계적 언어유사성과 실제 완전해독 사이의 증거단계를 비교한 카드.",
+      "captionEn": "Evidence card separating language-like statistical structure from actual decipherment of the Indus script.",
+      "altKo": "왼쪽 통계적 구조, 오른쪽 아직 미확정인 언어·음가·번역.",
+      "altEn": "Two-column comparison of statistical structure and unresolved language/translation.",
+      "sourceRefs": [
+        "INDUS_SCI2009",
+        "INDUS_PLOS2010",
+        "INDUS_NATURE2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "indus-script__language-like-vs-deciphered__ko.png",
+          "sha256": "5d8dda2aedf4bc0e3e15aba37019d599fbca76d9cb7c114cb81eedbd4276cc27",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "indus-script__language-like-vs-deciphered__en.png",
+          "sha256": "06d96787da797ae7441923a1518e18312428df656986e15723060afd1201e590",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "indus-script-why-hard",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "인더스 문자 해독을 막는 짧은 텍스트·bilingual 부재·언어 미상·sign 분류 문제를 설명한 도표.",
+      "captionEn": "Diagram of the four major barriers to Indus decipherment.",
+      "altKo": "짧은 문장, bilingual 부재, 언어 미상, sign 분류 네 장벽.",
+      "altEn": "Four barriers: short texts, no bilingual, unknown language, sign classification.",
+      "sourceRefs": [
+        "INDUS_NATURE2015",
+        "INDUS_PLOS2010",
+        "INDUS_ALLO2021"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "indus-script__why-hard__ko.png",
+          "sha256": "ddf13d646d21bc48d98bf664d73c1af73ccdbba5f16ad16f1cf8715d55d23b74",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "indus-script__why-hard__en.png",
+          "sha256": "c4f59cd4352723b59a3b9121dfce9ee87db78001654d1502a3d425de1e4c28c3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Ancient History / Archaeology"
+    ],
+    "countries": [
+      "Pakistan",
+      "India"
+    ],
+    "regions": [
+      "Indus Valley / Harappan civilization"
+    ],
+    "places": [
+      {
+        "name": "Harappa",
+        "role": "major archaeological site"
+      },
+      {
+        "name": "Mohenjo-daro",
+        "role": "major archaeological site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Rajesh P. N. Rao",
+        "role": "statistical script researcher"
+      },
+      {
+        "name": "Iravatham Mahadevan",
+        "role": "Indus script scholar"
+      }
+    ],
+    "organizations": [
+      "University of Washington",
+      "TIFR"
+    ],
+    "dateRange": {
+      "start": "c.2600 BCE",
+      "end": "c.1900 BCE",
+      "precision": "mature Harappan use; research ongoing"
+    },
+    "era": "Bronze Age South Asia",
+    "resolution": "SCRIPT_STRUCTURE_ESTABLISHED_MEANING_AND_LANGUAGE_UNDECIPHERED",
+    "searchAliases": [
+      "Indus script",
+      "Harappan script",
+      "Indus Valley writing"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3178,
+    "enBodyWords": 835,
+    "meaningfulBlockCount": 13,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

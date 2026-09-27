@@ -1,0 +1,499 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "hitler-diaries-forgery-1983",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1983년 히틀러 일기 위조 판정",
+    "canonicalTitleEn": "Hitler Diaries Forensic Exposure",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "세계적 특종은 왜 2주 만에 위조로 무너졌나",
+      "hook": "수십 권의 ‘히틀러 일기’는 너무 크고 비싼 발견이라 오히려 더 진짜처럼 보였다. 하지만 종이·잉크·제본과 문장 출처를 따로 검사하자 문서의 시간은 1945년 이후를 가리켰다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1983년 4월, ‘히틀러의 비밀 일기’가 공개되다",
+          "headingEn": "April 1983: “Hitler’s Secret Diaries” Go Public",
+          "textKo": "1983년 독일 잡지 Stern은 Adolf Hitler가 남겼다는 대량의 일기를 확보했다고 발표했다. 특종은 세계적이었다. 수십 권의 노트가 전쟁사와 히틀러 연구를 다시 쓸 수 있는 1차 자료처럼 제시됐다. 문제는 문서의 provenance가 불투명했고, 진본성 검토가 전체 세트가 아니라 제한된 표본과 외부평가에 의존했다는 점이었다. **문서가 많고 비싸며 유명매체가 보유한다는 사실은 진본성의 증거가 아니다.**",
+          "textEn": "In April 1983 the German magazine *Stern* announced that it had obtained a large collection of diaries supposedly written by Adolf Hitler. The scoop was international: dozens of notebooks appeared capable of rewriting major parts of Third Reich history. The problem was provenance and authentication. The chain of custody was murky, while early confidence relied on limited samples and external opinions rather than full forensic validation of the entire set."
+        },
+        {
+          "blockId": "provenance-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘동독에서 비밀리에 나온 문서’라는 출처이야기",
+          "headingEn": "A Dramatic but Weak Provenance Story",
+          "textKo": "기자 Gerd Heidemann은 수집가·중개자를 통해 문서를 확보했고, 일기는 전쟁 말 항공사고에서 살아남아 동독을 거쳐 서독으로 나왔다는 식의 서사를 동반했다. 그러나 이런 provenance는 독립기록으로 단단히 연결되지 않았다. 위조문서에서 출처이야기는 내용만큼 중요하다. **문서가 어디에서 누구를 거쳐 왔는지 검증되지 않으면, 문서 내부의 그럴듯함만으로 진본성을 세우기 어렵다.**",
+          "textEn": "Reporter Gerd Heidemann obtained the material through collectors and intermediaries, accompanied by a dramatic story that the diaries had survived a wartime aircraft crash and later emerged from East Germany. That provenance was not firmly supported by independent records. In document authentication, the chain of custody matters as much as the text: if no reliable path connects an object to its claimed origin, internal plausibility is not enough."
+        },
+        {
+          "blockId": "early-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 감정은 왜 잘못된 자신감을 줬나",
+          "headingEn": "Why Early Authentication Created False Confidence",
+          "textKo": "일부 전문가가 제공받은 제한된 필기표본을 기존 Hitler 서명·문서와 비교해 긍정적인 의견을 내놓으면서 Stern 내부 확신이 커졌다. 그러나 후대 조사에서 비교대상 자체에 위조자료가 섞였을 가능성과, 전체 물질분석이 선행되지 않은 문제가 드러났다. **가짜 문서를 다른 가짜 또는 불완전한 기준과 비교하면 일관성이 오히려 ‘진짜 같다’는 착시를 만들 수 있다.**",
+          "textEn": "Some experts were given limited handwriting samples and compared them with known or purported Hitler material, producing opinions that increased confidence inside *Stern*. Later scrutiny revealed problems with the reference material and with the absence of comprehensive physical testing before publication. Comparing a forgery against compromised or insufficient reference material can create the illusion of consistency rather than reveal the fraud."
+        },
+        {
+          "blockId": "announcement-04",
+          "type": "CHRONOLOGY",
+          "headingKo": "4월 22일 발표, 4월 25일 기자회견",
+          "headingEn": "April 22 Announcement, April 25 Press Conference",
+          "textKo": "Bundesarchiv의 공식 회고자료는 Stern이 1983년 4월 22일 발견을 발표했고 4월 25일 국제 기자회견을 열었다고 정리한다. 세계 언론이 진본성 논쟁을 확대하는 동안 독일 연방기록원과 형사·재료검사기관이 문서 자체를 본격 분석했다. 여기서 사건의 기준점이 바뀐다. 내용해석보다 **종이·잉크·제본·필기재료가 1940년대 물건일 수 있는지**가 먼저 검증되기 시작했다.",
+          "textEn": "The German Federal Archives’ retrospective records *Stern* announcing the discovery on April 22, 1983, followed by an international press conference on April 25. As global coverage grew, the Bundesarchiv and German criminal and materials-testing institutions subjected the notebooks to forensic examination. The key question shifted from interpreting the contents to testing whether the paper, ink, binding, and writing materials could physically belong to the claimed period."
+        },
+        {
+          "blockId": "materials-05",
+          "type": "TURNING_POINT",
+          "headingKo": "재료가 1945년 이후의 시간을 가리켰다",
+          "headingEn": "The Materials Pointed to the Postwar Period",
+          "textKo": "연방기록원과 독일 수사·재료시험기관은 문서재료에서 전후 제조와 맞는 특징을 확인했다. Work의 W2D 경계는 형광증백제 등 1950년대 이후 물질단서와 종이·제본·잉크의 시대불일치를 핵심 반증으로 정리한다. 이것은 필체 ‘인상’보다 훨씬 직접적인 문제다. **1945년 사망한 사람이 1950년대 이후 제조특징을 가진 재료에 일기를 쓸 수는 없다.**",
+          "textEn": "The Bundesarchiv and German forensic/materials institutions identified features of the notebooks consistent with postwar manufacture. Work’s locked boundary highlights indicators such as optical brighteners and other material anachronisms associated with the 1950s or later. This was more decisive than subjective handwriting resemblance. A man who died in 1945 could not have written diaries on materials that did not yet exist."
+        },
+        {
+          "blockId": "content-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "내용도 후대 출판물의 오류를 따라갔다",
+          "headingEn": "The Text Repeated Errors From Postwar Publications",
+          "textKo": "위조는 재료검사에서만 무너진 것이 아니었다. Bundesarchiv 쪽 조사와 examiner Josef Henke의 설명은 일기문장이 후대 Hitler 관련 출판물의 문장·오류를 복제한 흔적을 보여준다고 정리한다. 진짜 개인일기라면 후대 책의 편집·오류를 그대로 선행해서 담을 수 없다. **물질과 내용이라는 서로 독립된 두 검증축이 같은 ‘후대 제작’ 결론으로 수렴했다.**",
+          "textEn": "The diaries also failed on content, not only materials. Bundesarchiv findings and examiner Josef Henke’s account describe passages that reproduced wording and errors from postwar publications about Hitler. An authentic private diary could not pre-emptively contain the editorial mistakes of later books. Independent physical and textual tests converged on the same conclusion: the notebooks were made after the war."
+        },
+        {
+          "blockId": "may6-07",
+          "type": "TURNING_POINT",
+          "headingKo": "5월 6일, 공식 위조 판정",
+          "headingEn": "May 6: Official Forgery Finding",
+          "textKo": "1983년 5월 6일 Bundesarchiv와 관련 독일기관은 일기들이 위조라고 공표했다. 발표 뒤 ‘세기의 특종’은 몇 주 만에 ‘세기의 언론사기’로 뒤집혔다. 위조자는 Konrad Kujau로 확인됐고, Stern의 기자 Gerd Heidemann을 둘러싼 수사와 재판도 이어졌다. 이 사건의 미스터리는 ‘일기가 진짜인가’에서는 빠르게 끝났지만, **왜 그렇게 큰 언론조직이 물질감정을 끝내기 전에 확신했는가**라는 두 번째 질문을 남겼다.",
+          "textEn": "On May 6, 1983, the Bundesarchiv and related German institutions publicly declared the diaries forged. Within weeks, a “scoop of the century” became one of the century’s great media frauds. Konrad Kujau was identified as the forger, with later criminal proceedings involving journalist Gerd Heidemann as well. The authenticity question closed quickly; the larger mystery became why such a major media organization committed before comprehensive forensic testing was complete."
+        },
+        {
+          "blockId": "responsibility-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘Stern 전체가 알고 있었다’는 식의 단순화도 증거가 없다",
+          "headingEn": "It Is Too Simple to Say Everyone at Stern Knew",
+          "textKo": "후대에는 Stern 내부 누가 무엇을 언제 알았는지를 둘러싼 책임논쟁이 이어졌다. Work의 fact boundary는 편집진 전체가 처음부터 위조를 알고 있었다는 포괄적 주장을 UNVERIFIED로 남긴다. 조직적 검증실패와 개인의 사기인식은 다른 문제다. **부실한 provenance 검증, 경쟁적 특종압박, 제한된 전문가 확인을 지적할 수는 있지만, 모든 참여자의 고의공모를 증명하려면 별도의 자료가 필요하다.**",
+          "textEn": "Later debate focused on who inside *Stern* knew what and when. Work’s fact boundary leaves the blanket claim that the entire editorial organization knowingly published a forgery as unverified. Organizational verification failure and individual knowledge of fraud are separate questions. Weak provenance checks, competitive scoop pressure, and overreliance on limited expert review can be documented without assuming universal conspiracy."
+        },
+        {
+          "blockId": "lesson-09",
+          "type": "AFTERMATH",
+          "headingKo": "가장 유명한 ‘전문가도 속았다’ 이야기의 진짜 교훈",
+          "headingEn": "The Real Lesson Behind “Even Experts Were Fooled”",
+          "textKo": "히틀러 일기 사건은 전문가 감정이 무가치하다는 사례가 아니다. 오히려 **어떤 전문가에게 무엇을 보여줬고, 비교기준이 무엇이었으며, 재료검사가 어느 단계에서 이뤄졌는지**가 중요하다는 사례다. 필체만 보고 재료를 보지 않거나, provenance를 검증하지 않고 내용부터 해석하면 인증과정이 취약해진다. 강한 진본성 검사는 독립된 여러 방법이 같은 결론을 내야 한다.",
+          "textEn": "The Hitler Diaries are not proof that expert analysis is useless. They show that authentication depends on what experts are given, what reference material they use, and when physical testing occurs. Handwriting without materials, or content analysis without provenance, leaves major vulnerabilities. Robust authentication requires independent methods to converge."
+        },
+        {
+          "blockId": "boundary-10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Stern은 1983년 4월 히틀러 일기를 공개했고, 5월 6일 Bundesarchiv·BKA·재료시험기관의 검사결과 위조로 판정됐다. 문서에는 전후 제조재료와 맞는 물질특징이 있었고 후대 출판물의 문장·오류가 복제된 흔적도 확인됐다. 위조자는 Konrad Kujau였다.\n\n**확인되지 않음:** Bundesarchiv가 1982년부터 60권 전체의 진본성을 보증했다는 주장은 맞지 않는다. Stern 편집진 전체가 처음부터 위조사실을 알고 있었다는 것도 이번 검증자료로 확립되지 않는다. 이 감사가 개별 기관의 모든 원감정 워크시트를 재현한 것도 아니다.",
+          "textEn": "**Established:** *Stern* unveiled the purported Hitler diaries in April 1983, and on May 6 German archival, criminal, and materials-testing authorities declared them forged. Physical features pointed to postwar manufacture, and textual analysis found dependence on later publications and their errors. Konrad Kujau was the forger.\n\n**Not established:** The Bundesarchiv did not authenticate the entire sixty-volume collection in 1982. Nor does the verified record establish that all *Stern* editors knowingly participated in the fraud from the beginning. This audit also does not reproduce every original laboratory worksheet from every institution involved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Stern은 1983년 4월 히틀러 일기를 공개했고, 5월 6일 Bundesarchiv·BKA·재료시험기관의 검사결과 위조로 판정됐다. 문서에는 전후 제조재료와 맞는 물질특징이 있었고 후대 출판물의 문장·오류가 복제된 흔적도 확인됐다. 위조자는 Konrad Kujau였다.\n\n**확인되지 않음:** Bundesarchiv가 1982년부터 60권 전체의 진본성을 보증했다는 주장은 맞지 않는다. Stern 편집진 전체가 처음부터 위조사실을 알고 있었다는 것도 이번 검증자료로 확립되지 않는다. 이 감사가 개별 기관의 모든 원감정 워크시트를 재현한 것도 아니다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "provenance-02",
+        "early-03",
+        "announcement-04",
+        "materials-05",
+        "content-06",
+        "may6-07",
+        "responsibility-08",
+        "lesson-09"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Global Scoop Collapse Into a Forgery in Two Weeks?",
+      "hook": "Dozens of supposed Hitler diaries looked convincing partly because the discovery was so large and expensive. Then materials and textual provenance were tested independently—and the notebooks pointed to the postwar era.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1983년 4월, ‘히틀러의 비밀 일기’가 공개되다",
+          "headingEn": "April 1983: “Hitler’s Secret Diaries” Go Public",
+          "textKo": "1983년 독일 잡지 Stern은 Adolf Hitler가 남겼다는 대량의 일기를 확보했다고 발표했다. 특종은 세계적이었다. 수십 권의 노트가 전쟁사와 히틀러 연구를 다시 쓸 수 있는 1차 자료처럼 제시됐다. 문제는 문서의 provenance가 불투명했고, 진본성 검토가 전체 세트가 아니라 제한된 표본과 외부평가에 의존했다는 점이었다. **문서가 많고 비싸며 유명매체가 보유한다는 사실은 진본성의 증거가 아니다.**",
+          "textEn": "In April 1983 the German magazine *Stern* announced that it had obtained a large collection of diaries supposedly written by Adolf Hitler. The scoop was international: dozens of notebooks appeared capable of rewriting major parts of Third Reich history. The problem was provenance and authentication. The chain of custody was murky, while early confidence relied on limited samples and external opinions rather than full forensic validation of the entire set."
+        },
+        {
+          "blockId": "provenance-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘동독에서 비밀리에 나온 문서’라는 출처이야기",
+          "headingEn": "A Dramatic but Weak Provenance Story",
+          "textKo": "기자 Gerd Heidemann은 수집가·중개자를 통해 문서를 확보했고, 일기는 전쟁 말 항공사고에서 살아남아 동독을 거쳐 서독으로 나왔다는 식의 서사를 동반했다. 그러나 이런 provenance는 독립기록으로 단단히 연결되지 않았다. 위조문서에서 출처이야기는 내용만큼 중요하다. **문서가 어디에서 누구를 거쳐 왔는지 검증되지 않으면, 문서 내부의 그럴듯함만으로 진본성을 세우기 어렵다.**",
+          "textEn": "Reporter Gerd Heidemann obtained the material through collectors and intermediaries, accompanied by a dramatic story that the diaries had survived a wartime aircraft crash and later emerged from East Germany. That provenance was not firmly supported by independent records. In document authentication, the chain of custody matters as much as the text: if no reliable path connects an object to its claimed origin, internal plausibility is not enough."
+        },
+        {
+          "blockId": "early-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 감정은 왜 잘못된 자신감을 줬나",
+          "headingEn": "Why Early Authentication Created False Confidence",
+          "textKo": "일부 전문가가 제공받은 제한된 필기표본을 기존 Hitler 서명·문서와 비교해 긍정적인 의견을 내놓으면서 Stern 내부 확신이 커졌다. 그러나 후대 조사에서 비교대상 자체에 위조자료가 섞였을 가능성과, 전체 물질분석이 선행되지 않은 문제가 드러났다. **가짜 문서를 다른 가짜 또는 불완전한 기준과 비교하면 일관성이 오히려 ‘진짜 같다’는 착시를 만들 수 있다.**",
+          "textEn": "Some experts were given limited handwriting samples and compared them with known or purported Hitler material, producing opinions that increased confidence inside *Stern*. Later scrutiny revealed problems with the reference material and with the absence of comprehensive physical testing before publication. Comparing a forgery against compromised or insufficient reference material can create the illusion of consistency rather than reveal the fraud."
+        },
+        {
+          "blockId": "announcement-04",
+          "type": "CHRONOLOGY",
+          "headingKo": "4월 22일 발표, 4월 25일 기자회견",
+          "headingEn": "April 22 Announcement, April 25 Press Conference",
+          "textKo": "Bundesarchiv의 공식 회고자료는 Stern이 1983년 4월 22일 발견을 발표했고 4월 25일 국제 기자회견을 열었다고 정리한다. 세계 언론이 진본성 논쟁을 확대하는 동안 독일 연방기록원과 형사·재료검사기관이 문서 자체를 본격 분석했다. 여기서 사건의 기준점이 바뀐다. 내용해석보다 **종이·잉크·제본·필기재료가 1940년대 물건일 수 있는지**가 먼저 검증되기 시작했다.",
+          "textEn": "The German Federal Archives’ retrospective records *Stern* announcing the discovery on April 22, 1983, followed by an international press conference on April 25. As global coverage grew, the Bundesarchiv and German criminal and materials-testing institutions subjected the notebooks to forensic examination. The key question shifted from interpreting the contents to testing whether the paper, ink, binding, and writing materials could physically belong to the claimed period."
+        },
+        {
+          "blockId": "materials-05",
+          "type": "TURNING_POINT",
+          "headingKo": "재료가 1945년 이후의 시간을 가리켰다",
+          "headingEn": "The Materials Pointed to the Postwar Period",
+          "textKo": "연방기록원과 독일 수사·재료시험기관은 문서재료에서 전후 제조와 맞는 특징을 확인했다. Work의 W2D 경계는 형광증백제 등 1950년대 이후 물질단서와 종이·제본·잉크의 시대불일치를 핵심 반증으로 정리한다. 이것은 필체 ‘인상’보다 훨씬 직접적인 문제다. **1945년 사망한 사람이 1950년대 이후 제조특징을 가진 재료에 일기를 쓸 수는 없다.**",
+          "textEn": "The Bundesarchiv and German forensic/materials institutions identified features of the notebooks consistent with postwar manufacture. Work’s locked boundary highlights indicators such as optical brighteners and other material anachronisms associated with the 1950s or later. This was more decisive than subjective handwriting resemblance. A man who died in 1945 could not have written diaries on materials that did not yet exist."
+        },
+        {
+          "blockId": "content-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "내용도 후대 출판물의 오류를 따라갔다",
+          "headingEn": "The Text Repeated Errors From Postwar Publications",
+          "textKo": "위조는 재료검사에서만 무너진 것이 아니었다. Bundesarchiv 쪽 조사와 examiner Josef Henke의 설명은 일기문장이 후대 Hitler 관련 출판물의 문장·오류를 복제한 흔적을 보여준다고 정리한다. 진짜 개인일기라면 후대 책의 편집·오류를 그대로 선행해서 담을 수 없다. **물질과 내용이라는 서로 독립된 두 검증축이 같은 ‘후대 제작’ 결론으로 수렴했다.**",
+          "textEn": "The diaries also failed on content, not only materials. Bundesarchiv findings and examiner Josef Henke’s account describe passages that reproduced wording and errors from postwar publications about Hitler. An authentic private diary could not pre-emptively contain the editorial mistakes of later books. Independent physical and textual tests converged on the same conclusion: the notebooks were made after the war."
+        },
+        {
+          "blockId": "may6-07",
+          "type": "TURNING_POINT",
+          "headingKo": "5월 6일, 공식 위조 판정",
+          "headingEn": "May 6: Official Forgery Finding",
+          "textKo": "1983년 5월 6일 Bundesarchiv와 관련 독일기관은 일기들이 위조라고 공표했다. 발표 뒤 ‘세기의 특종’은 몇 주 만에 ‘세기의 언론사기’로 뒤집혔다. 위조자는 Konrad Kujau로 확인됐고, Stern의 기자 Gerd Heidemann을 둘러싼 수사와 재판도 이어졌다. 이 사건의 미스터리는 ‘일기가 진짜인가’에서는 빠르게 끝났지만, **왜 그렇게 큰 언론조직이 물질감정을 끝내기 전에 확신했는가**라는 두 번째 질문을 남겼다.",
+          "textEn": "On May 6, 1983, the Bundesarchiv and related German institutions publicly declared the diaries forged. Within weeks, a “scoop of the century” became one of the century’s great media frauds. Konrad Kujau was identified as the forger, with later criminal proceedings involving journalist Gerd Heidemann as well. The authenticity question closed quickly; the larger mystery became why such a major media organization committed before comprehensive forensic testing was complete."
+        },
+        {
+          "blockId": "responsibility-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘Stern 전체가 알고 있었다’는 식의 단순화도 증거가 없다",
+          "headingEn": "It Is Too Simple to Say Everyone at Stern Knew",
+          "textKo": "후대에는 Stern 내부 누가 무엇을 언제 알았는지를 둘러싼 책임논쟁이 이어졌다. Work의 fact boundary는 편집진 전체가 처음부터 위조를 알고 있었다는 포괄적 주장을 UNVERIFIED로 남긴다. 조직적 검증실패와 개인의 사기인식은 다른 문제다. **부실한 provenance 검증, 경쟁적 특종압박, 제한된 전문가 확인을 지적할 수는 있지만, 모든 참여자의 고의공모를 증명하려면 별도의 자료가 필요하다.**",
+          "textEn": "Later debate focused on who inside *Stern* knew what and when. Work’s fact boundary leaves the blanket claim that the entire editorial organization knowingly published a forgery as unverified. Organizational verification failure and individual knowledge of fraud are separate questions. Weak provenance checks, competitive scoop pressure, and overreliance on limited expert review can be documented without assuming universal conspiracy."
+        },
+        {
+          "blockId": "lesson-09",
+          "type": "AFTERMATH",
+          "headingKo": "가장 유명한 ‘전문가도 속았다’ 이야기의 진짜 교훈",
+          "headingEn": "The Real Lesson Behind “Even Experts Were Fooled”",
+          "textKo": "히틀러 일기 사건은 전문가 감정이 무가치하다는 사례가 아니다. 오히려 **어떤 전문가에게 무엇을 보여줬고, 비교기준이 무엇이었으며, 재료검사가 어느 단계에서 이뤄졌는지**가 중요하다는 사례다. 필체만 보고 재료를 보지 않거나, provenance를 검증하지 않고 내용부터 해석하면 인증과정이 취약해진다. 강한 진본성 검사는 독립된 여러 방법이 같은 결론을 내야 한다.",
+          "textEn": "The Hitler Diaries are not proof that expert analysis is useless. They show that authentication depends on what experts are given, what reference material they use, and when physical testing occurs. Handwriting without materials, or content analysis without provenance, leaves major vulnerabilities. Robust authentication requires independent methods to converge."
+        },
+        {
+          "blockId": "boundary-10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Stern은 1983년 4월 히틀러 일기를 공개했고, 5월 6일 Bundesarchiv·BKA·재료시험기관의 검사결과 위조로 판정됐다. 문서에는 전후 제조재료와 맞는 물질특징이 있었고 후대 출판물의 문장·오류가 복제된 흔적도 확인됐다. 위조자는 Konrad Kujau였다.\n\n**확인되지 않음:** Bundesarchiv가 1982년부터 60권 전체의 진본성을 보증했다는 주장은 맞지 않는다. Stern 편집진 전체가 처음부터 위조사실을 알고 있었다는 것도 이번 검증자료로 확립되지 않는다. 이 감사가 개별 기관의 모든 원감정 워크시트를 재현한 것도 아니다.",
+          "textEn": "**Established:** *Stern* unveiled the purported Hitler diaries in April 1983, and on May 6 German archival, criminal, and materials-testing authorities declared them forged. Physical features pointed to postwar manufacture, and textual analysis found dependence on later publications and their errors. Konrad Kujau was the forger.\n\n**Not established:** The Bundesarchiv did not authenticate the entire sixty-volume collection in 1982. Nor does the verified record establish that all *Stern* editors knowingly participated in the fraud from the beginning. This audit also does not reproduce every original laboratory worksheet from every institution involved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** *Stern* unveiled the purported Hitler diaries in April 1983, and on May 6 German archival, criminal, and materials-testing authorities declared them forged. Physical features pointed to postwar manufacture, and textual analysis found dependence on later publications and their errors. Konrad Kujau was the forger.\n\n**Not established:** The Bundesarchiv did not authenticate the entire sixty-volume collection in 1982. Nor does the verified record establish that all *Stern* editors knowingly participated in the fraud from the beginning. This audit also does not reproduce every original laboratory worksheet from every institution involved.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "provenance-02",
+        "early-03",
+        "announcement-04",
+        "materials-05",
+        "content-06",
+        "may6-07",
+        "responsibility-08",
+        "lesson-09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Stern은 1983년 4월 히틀러 일기를 공개했다.",
+      "statementEn": "Stern publicly unveiled the purported Hitler diaries in April 1983.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_WP"
+      ]
+    },
+    {
+      "claimId": "HD-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1983-05-06 독일 연방기록원·수사·재료검사기관은 일기를 위조로 판정했다.",
+      "statementEn": "On May 6, 1983, German archival, criminal, and materials-testing authorities declared the diaries forged.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_WP"
+      ]
+    },
+    {
+      "claimId": "HD-C3",
+      "status": "CONFIRMED",
+      "statementKo": "재료분석은 전후 제조와 맞는 특징을 보여줬다.",
+      "statementEn": "Materials analysis showed features consistent with postwar manufacture.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_HENKE"
+      ]
+    },
+    {
+      "claimId": "HD-C4",
+      "status": "SUPPORTED",
+      "statementKo": "문서 내용에는 후대 출판물의 문장과 오류를 복제한 흔적이 있었다.",
+      "statementEn": "The diary text showed dependence on wording and errors from postwar publications.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_HENKE"
+      ]
+    },
+    {
+      "claimId": "HD-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Stern 편집진 전체가 처음부터 위조를 알고 있었다는 것은 확립되지 않는다.",
+      "statementEn": "It is not established that the entire Stern editorial organization knew from the beginning that the diaries were fake.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_WP"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HD_BARCH",
+      "title": "Pressekonferenz des Bundesarchivs zu den Hitler-Tagebüchern",
+      "publisher": "German Federal Archives (Bundesarchiv)",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/pressekonferenz-des-bundesarchivs-zu-hitler-tagebuechern/",
+      "sourceType": "PRIMARY_ARCHIVAL_FINDINGS"
+    },
+    {
+      "sourceId": "HD_HENKE",
+      "title": "Bundesarchiv examiner account",
+      "publisher": "Archivaria / Josef Henke",
+      "url": "https://archivaria.ca/index.php/archivaria/article/download/11132/12069/12774",
+      "sourceType": "PRIMARY_EXAMINER_ACCOUNT"
+    },
+    {
+      "sourceId": "HD_WP",
+      "title": "Bonn Brands Hitler Diaries Fake After Tests",
+      "publisher": "Washington Post, May 7 1983",
+      "url": "https://www.washingtonpost.com/archive/politics/1983/05/07/bonn-brands-7-hitler-diaries-fake-after-tests/4a2e2df6-6f34-4b5e-a6ec-66adf78100d5/",
+      "sourceType": "CONTEMPORARY_INDEPENDENT_REPORT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "hitler-diaries-forgery-1983-authentication-failure",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "히틀러 일기의 초기 인증취약점과 포렌식 반증을 비교한 카드.",
+      "captionEn": "Evidence card comparing early authentication weaknesses with the forensic evidence that exposed the Hitler Diaries.",
+      "altKo": "왼쪽 provenance·필체 취약점, 오른쪽 재료·내용의 결정적 반증.",
+      "altEn": "Two-column comparison of early weaknesses and decisive material/textual counter-evidence.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_HENKE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hitler-diaries-forgery-1983__authentication-failure__ko.png",
+          "sha256": "439c23f99d283a163f914e1692b83d7096804d28776e09d111c65d135e5c2de0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hitler-diaries-forgery-1983__authentication-failure__en.png",
+          "sha256": "18b6c119a3155ed1c3d79d7a0bd1b865073bd5c87c996364569097b928cba086",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hitler-diaries-forgery-1983-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "히틀러 일기 공개·초기감정·포렌식·위조판정의 흐름을 정리한 hero 도표.",
+      "captionEn": "Hero explainer of the Hitler Diaries reveal, early authentication, forensic testing, and forgery finding.",
+      "altKo": "1983년 특종부터 5월6일 위조판정까지 네 단계.",
+      "altEn": "Four stages from the 1983 scoop to the May 6 forgery finding.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_HENKE",
+        "HD_WP"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hitler-diaries-forgery-1983__hero-context__ko.png",
+          "sha256": "17116ad8b7c9bca52a4f4a3de05f533a1bc6ae7143f59f678b43d2144becdb27",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hitler-diaries-forgery-1983__hero-context__en.png",
+          "sha256": "ac38459dd9182799caa79674e8ca43417e0338fec061aac7b19938ee27e19067",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hitler-diaries-forgery-1983-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1983년 4월22일 발표부터 5월6일 위조판정까지의 연표.",
+      "captionEn": "Timeline from Stern’s April 22 announcement to the May 6 forgery finding.",
+      "altKo": "4월22일, 25일, 검사, 5월6일 네 단계.",
+      "altEn": "Four-stage timeline: Apr 22, Apr 25, testing, May 6.",
+      "sourceRefs": [
+        "HD_BARCH",
+        "HD_WP"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hitler-diaries-forgery-1983__timeline__ko.png",
+          "sha256": "e5789f4480e859292e8dcd0cc3fa4910371d4d776851da273d4c822f3f1ffc32",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hitler-diaries-forgery-1983__timeline__en.png",
+          "sha256": "c7f76c5b4d9b34f056da3c7805af721a39de059247219c807e1f2bb86d14e849",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "regions": [
+      "Hamburg",
+      "Koblenz",
+      "Wiesbaden"
+    ],
+    "places": [
+      {
+        "name": "Hamburg",
+        "role": "Stern publication"
+      },
+      {
+        "name": "Koblenz",
+        "role": "Federal Archives"
+      },
+      {
+        "name": "Wiesbaden",
+        "role": "BKA context"
+      }
+    ],
+    "people": [
+      {
+        "name": "Konrad Kujau",
+        "role": "forger"
+      },
+      {
+        "name": "Gerd Heidemann",
+        "role": "Stern journalist"
+      },
+      {
+        "name": "Josef Henke",
+        "role": "Bundesarchiv examiner"
+      }
+    ],
+    "organizations": [
+      "Stern / Gruner + Jahr",
+      "Bundesarchiv",
+      "Bundeskriminalamt",
+      "Bundesanstalt für Materialprüfung"
+    ],
+    "dateRange": {
+      "start": "1983-04-22",
+      "end": "1983-05-06",
+      "precision": "public announcement through official forgery finding"
+    },
+    "era": "late 20th century",
+    "resolution": "FORENSICALLY_PROVEN_FORGERY",
+    "searchAliases": [
+      "Hitler Diaries",
+      "Hitler-Tagebücher",
+      "Konrad Kujau"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2297,
+    "enBodyWords": 652,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH07",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH07_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

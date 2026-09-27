@@ -13,7 +13,7 @@ export function RabbitHole({ record, records, locale }: { record: CaseRecord; re
     const target = records.find((item) => item.slug === related.slug);
     const type = related.relationType ?? "question_based";
     return target ? <Link key={`${type}-${related.slug}`} href={`/${locale}/cases/${related.slug}/`} onClick={() => trackEvent({ name: "rabbit_hole_click", caseId: record.slug, locale, value: `${type}:${related.slug}` })}>
-      <small>{labels[type][locale]}</small><span>{related.question[locale]}</span>{related.context && <em>{related.context[locale]}</em>}<strong>{target.title} →</strong>
+      <small>{labels[type][locale]}</small><span>{related.question[locale]}</span>{related.context && <em>{related.context[locale]}</em>}<strong>{target.displayTitle?.[locale] ?? target.title} →</strong>
     </Link> : null;
   })}</div>;
 }

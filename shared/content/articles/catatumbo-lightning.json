@@ -1,0 +1,408 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "catatumbo-lightning",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "카타툼보 번개",
+    "canonicalTitleEn": "Catatumbo Lightning",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "왜 이 호수의 밤하늘에서는 번개가 세계에서 가장 자주 터질까",
+      "hook": "‘영원한 번개’라는 전설적 별명이 있지만 핵심 현상은 위성으로 측정됐다. 답은 특수한 가스보다 따뜻한 호수, 산악지형, 야간 저층수렴이 반복해서 만드는 대류에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘영원한 번개’는 실제로 지구 최고 수준의 번개핫스폿이다",
+          "headingEn": "The “Never-Ending Storm” Is a Real Global Lightning Hotspot",
+          "textKo": "베네수엘라 Maracaibo 호수 주변의 Catatumbo lightning은 단순한 전설이 아니다. 16년간 TRMM Lightning Imaging Sensor 자료를 0.1° 해상도로 재분석한 2016년 BAMS 연구는 호수 위 hotspot을 지구에서 가장 높은 총번개밀도 지점으로 확인했고, 약 233 flashes km⁻² yr⁻¹를 보고했다. **‘매우 자주 번개가 친다’는 핵심은 위성계측으로 확인된다.**",
+          "textEn": "Catatumbo lightning around Venezuela’s Lake Maracaibo is not merely legend. A 2016 BAMS analysis of sixteen years of TRMM Lightning Imaging Sensor data at 0.1° resolution identified a hotspot over the lake as the world’s highest total-lightning-density location, at roughly 233 flashes per square kilometre per year. The extraordinary frequency is instrumentally measured."
+        },
+        {
+          "blockId": "night-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "297일 평균의 야간대류가 같은 지역에 반복된다",
+          "headingEn": "Nocturnal Thunderstorms Recur in the Same Region on About 297 Days per Year",
+          "textKo": "BAMS 연구는 Maracaibo 호수의 따뜻하고 습한 수면과 둘러싼 Andes·Perijá 산악지형이 밤에 저층수렴을 만들어 깊은 대류를 반복적으로 발생시킨다고 설명한다. 연구기간 평균으로 이 지역에는 약 297일/년 수준의 대류환경이 나타났다. 낮에는 호수-육지 바람과 산곡풍 구조가 대류를 억제할 수 있지만 밤에는 흐름이 뒤집혀 호수 쪽으로 수렴한다. **반복성은 ‘신비한 에너지’보다 일주기 기상순환과 지형에서 나온다.**",
+          "textEn": "The BAMS study explains how warm, humid lake waters and the surrounding Andes and Perijá terrain create nighttime low-level convergence that repeatedly triggers deep convection. Over the study climatology, thunderstorm development occurred on roughly 297 days per year. Daytime circulations can suppress convection over the lake, while nighttime cooling reverses the flow and concentrates moist air. The repeatability emerges from terrain and diurnal meteorology."
+        },
+        {
+          "blockId": "season-03",
+          "type": "BACKGROUND",
+          "headingKo": "번개는 매일 똑같지 않고 계절적으로 강약이 바뀐다",
+          "headingEn": "The Lightning Is Intense but Not Constant",
+          "textKo": "Catatumbo는 ‘365일 쉬지 않는 번개’로 묘사되기도 하지만 실제 관측은 계절성이 뚜렷하다. 2012년 연구와 2016년 BAMS 분석은 야간 최대와 반년주기성, 계절별 두 개의 주요 peak를 보여준다. Caribbean low-level jet가 강해지는 시기와 약해지는 시기가 수렴·대류에 영향을 준다. **현상이 매우 규칙적이라는 것과 매일 같은 세기로 번개가 난다는 것은 다르다.**",
+          "textEn": "Catatumbo is sometimes described as lightning that never stops, but observations show clear seasonality. Studies using LIS and WWLLN data document strong nocturnal maxima and semiannual variability, with two main seasonal peaks. Changes in the Caribbean low-level jet affect convergence and convection. Highly recurrent does not mean identical every night of the year."
+        },
+        {
+          "blockId": "methane-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "메탄이 번개의 ‘특수 연료’라는 설명은 중심원인이 아니다",
+          "headingEn": "Methane Is Not Needed as the Primary Explanation",
+          "textKo": "대중설명에서는 주변 습지와 석유지대의 메탄이 번개를 특별히 증폭한다는 가설이 오래 반복됐다. 그러나 현대 위성·기상연구는 호수수분, 지형, 산곡풍·호수바람, Caribbean low-level jet와 대기불안정만으로 주요 패턴을 설명한다. 2012년 characterization 연구도 local topography, wind, heat를 핵심으로 둔다. **증거상 특수한 하나의 가스원을 주원인으로 추가할 필요가 없다.**",
+          "textEn": "Popular accounts have long repeated a hypothesis that methane from wetlands or petroleum areas uniquely fuels the lightning. Modern satellite and meteorological studies instead explain the main pattern through lake moisture, terrain, mountain–valley and lake–land circulations, the Caribbean low-level jet, and atmospheric instability. The evidence does not require one exotic gas source as the primary cause."
+        },
+        {
+          "blockId": "forecast-05",
+          "type": "AFTERMATH",
+          "headingKo": "‘신비한 번개’는 예측 가능한 기상현상으로 바뀌었다",
+          "headingEn": "A Legendary Light Show Became a Forecasting Problem",
+          "textKo": "현상을 정량화한 뒤 연구의 질문은 ‘왜 번개가 있나’에서 ‘언제 얼마나 강해질까’로 이동했다. 계절적 해수면온도와 Caribbean circulation을 이용해 Catatumbo 번개의 계절강도를 예측하려는 연구까지 나왔다. **신비가 사라졌다기보다, 현상을 만드는 조건이 측정가능해지면서 더 정교한 질문을 할 수 있게 된 것**이다.",
+          "textEn": "Once the phenomenon was quantified, research shifted from simply asking why lightning occurs to forecasting when activity will intensify. Seasonal prediction work has used regional ocean–atmosphere conditions and Caribbean circulation to anticipate lightning activity. The mystery did not disappear so much as become a measurable forecasting problem."
+        },
+        {
+          "blockId": "hotspot-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "핫스폿은 호수 전체가 아니라 매우 국지적이다",
+          "headingEn": "The Hotspot Is Highly Localized, Not the Entire Lake",
+          "textKo": "2016년 고해상도 climatology는 가장 강한 번개핫스폿이 약 5,500km² 규모의 국지영역에 집중된다고 보고했다. 해상도를 높이자 과거 저해상도 자료에서 Congo basin이 1위처럼 보이던 순위도 바뀌었다. **‘Catatumbo 지역 전체가 똑같이 번개친다’가 아니라, 지형·바람수렴이 맞는 특정 공간에 활동이 집중된다는 뜻**이다.",
+          "textEn": "The 2016 high-resolution climatology found that the strongest lightning activity is concentrated in a relatively localized area of roughly 5,500 km². Higher spatial resolution also changed the global ranking that earlier coarse datasets had assigned. The phenomenon is not uniform across the entire region; activity concentrates where terrain and wind convergence align."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Lake Maracaibo 일대는 위성자료에서 지구 최고 수준의 총번개 hotspot으로 확인됐고, 2016년 연구는 약 233 flashes km⁻² yr⁻¹와 약 297일/년의 반복 대류를 보고했다. 야간 저층수렴, 따뜻하고 습한 호수, 둘러싼 산악지형과 Caribbean circulation이 핵심 메커니즘으로 지지된다.\n\n**확인되지 않음:** 번개가 365일 똑같이 지속된다는 것은 아니다. 메탄 같은 하나의 특수한 가스가 현상의 주원인이라는 설명도 현대 계측자료가 요구하지 않는다.",
+          "textEn": "**Established:** Satellite data identify the Lake Maracaibo region as a leading global total-lightning hotspot; the 2016 study reports about 233 flashes km⁻² yr⁻¹ and recurrent convection on roughly 297 days per year. Nighttime low-level convergence, warm moist lake conditions, surrounding mountains, and Caribbean circulation are strongly supported mechanisms.\n\n**Not established:** The lightning does not occur at identical intensity 365 days a year, and modern observations do not require methane or another single exotic gas as the primary cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Lake Maracaibo 일대는 위성자료에서 지구 최고 수준의 총번개 hotspot으로 확인됐고, 2016년 연구는 약 233 flashes km⁻² yr⁻¹와 약 297일/년의 반복 대류를 보고했다. 야간 저층수렴, 따뜻하고 습한 호수, 둘러싼 산악지형과 Caribbean circulation이 핵심 메커니즘으로 지지된다.\n\n**확인되지 않음:** 번개가 365일 똑같이 지속된다는 것은 아니다. 메탄 같은 하나의 특수한 가스가 현상의 주원인이라는 설명도 현대 계측자료가 요구하지 않는다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "night-02",
+        "season-03",
+        "methane-04",
+        "forecast-05",
+        "hotspot-055"
+      ]
+    },
+    "en": {
+      "headline": "Why Does Lightning Strike So Often Over Lake Maracaibo?",
+      "hook": "It has a legendary “never-ending” reputation, but the phenomenon is measured from satellites. The main explanation lies in warm lake water, surrounding mountains, and recurring nighttime convergence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘영원한 번개’는 실제로 지구 최고 수준의 번개핫스폿이다",
+          "headingEn": "The “Never-Ending Storm” Is a Real Global Lightning Hotspot",
+          "textKo": "베네수엘라 Maracaibo 호수 주변의 Catatumbo lightning은 단순한 전설이 아니다. 16년간 TRMM Lightning Imaging Sensor 자료를 0.1° 해상도로 재분석한 2016년 BAMS 연구는 호수 위 hotspot을 지구에서 가장 높은 총번개밀도 지점으로 확인했고, 약 233 flashes km⁻² yr⁻¹를 보고했다. **‘매우 자주 번개가 친다’는 핵심은 위성계측으로 확인된다.**",
+          "textEn": "Catatumbo lightning around Venezuela’s Lake Maracaibo is not merely legend. A 2016 BAMS analysis of sixteen years of TRMM Lightning Imaging Sensor data at 0.1° resolution identified a hotspot over the lake as the world’s highest total-lightning-density location, at roughly 233 flashes per square kilometre per year. The extraordinary frequency is instrumentally measured."
+        },
+        {
+          "blockId": "night-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "297일 평균의 야간대류가 같은 지역에 반복된다",
+          "headingEn": "Nocturnal Thunderstorms Recur in the Same Region on About 297 Days per Year",
+          "textKo": "BAMS 연구는 Maracaibo 호수의 따뜻하고 습한 수면과 둘러싼 Andes·Perijá 산악지형이 밤에 저층수렴을 만들어 깊은 대류를 반복적으로 발생시킨다고 설명한다. 연구기간 평균으로 이 지역에는 약 297일/년 수준의 대류환경이 나타났다. 낮에는 호수-육지 바람과 산곡풍 구조가 대류를 억제할 수 있지만 밤에는 흐름이 뒤집혀 호수 쪽으로 수렴한다. **반복성은 ‘신비한 에너지’보다 일주기 기상순환과 지형에서 나온다.**",
+          "textEn": "The BAMS study explains how warm, humid lake waters and the surrounding Andes and Perijá terrain create nighttime low-level convergence that repeatedly triggers deep convection. Over the study climatology, thunderstorm development occurred on roughly 297 days per year. Daytime circulations can suppress convection over the lake, while nighttime cooling reverses the flow and concentrates moist air. The repeatability emerges from terrain and diurnal meteorology."
+        },
+        {
+          "blockId": "season-03",
+          "type": "BACKGROUND",
+          "headingKo": "번개는 매일 똑같지 않고 계절적으로 강약이 바뀐다",
+          "headingEn": "The Lightning Is Intense but Not Constant",
+          "textKo": "Catatumbo는 ‘365일 쉬지 않는 번개’로 묘사되기도 하지만 실제 관측은 계절성이 뚜렷하다. 2012년 연구와 2016년 BAMS 분석은 야간 최대와 반년주기성, 계절별 두 개의 주요 peak를 보여준다. Caribbean low-level jet가 강해지는 시기와 약해지는 시기가 수렴·대류에 영향을 준다. **현상이 매우 규칙적이라는 것과 매일 같은 세기로 번개가 난다는 것은 다르다.**",
+          "textEn": "Catatumbo is sometimes described as lightning that never stops, but observations show clear seasonality. Studies using LIS and WWLLN data document strong nocturnal maxima and semiannual variability, with two main seasonal peaks. Changes in the Caribbean low-level jet affect convergence and convection. Highly recurrent does not mean identical every night of the year."
+        },
+        {
+          "blockId": "methane-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "메탄이 번개의 ‘특수 연료’라는 설명은 중심원인이 아니다",
+          "headingEn": "Methane Is Not Needed as the Primary Explanation",
+          "textKo": "대중설명에서는 주변 습지와 석유지대의 메탄이 번개를 특별히 증폭한다는 가설이 오래 반복됐다. 그러나 현대 위성·기상연구는 호수수분, 지형, 산곡풍·호수바람, Caribbean low-level jet와 대기불안정만으로 주요 패턴을 설명한다. 2012년 characterization 연구도 local topography, wind, heat를 핵심으로 둔다. **증거상 특수한 하나의 가스원을 주원인으로 추가할 필요가 없다.**",
+          "textEn": "Popular accounts have long repeated a hypothesis that methane from wetlands or petroleum areas uniquely fuels the lightning. Modern satellite and meteorological studies instead explain the main pattern through lake moisture, terrain, mountain–valley and lake–land circulations, the Caribbean low-level jet, and atmospheric instability. The evidence does not require one exotic gas source as the primary cause."
+        },
+        {
+          "blockId": "forecast-05",
+          "type": "AFTERMATH",
+          "headingKo": "‘신비한 번개’는 예측 가능한 기상현상으로 바뀌었다",
+          "headingEn": "A Legendary Light Show Became a Forecasting Problem",
+          "textKo": "현상을 정량화한 뒤 연구의 질문은 ‘왜 번개가 있나’에서 ‘언제 얼마나 강해질까’로 이동했다. 계절적 해수면온도와 Caribbean circulation을 이용해 Catatumbo 번개의 계절강도를 예측하려는 연구까지 나왔다. **신비가 사라졌다기보다, 현상을 만드는 조건이 측정가능해지면서 더 정교한 질문을 할 수 있게 된 것**이다.",
+          "textEn": "Once the phenomenon was quantified, research shifted from simply asking why lightning occurs to forecasting when activity will intensify. Seasonal prediction work has used regional ocean–atmosphere conditions and Caribbean circulation to anticipate lightning activity. The mystery did not disappear so much as become a measurable forecasting problem."
+        },
+        {
+          "blockId": "hotspot-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "핫스폿은 호수 전체가 아니라 매우 국지적이다",
+          "headingEn": "The Hotspot Is Highly Localized, Not the Entire Lake",
+          "textKo": "2016년 고해상도 climatology는 가장 강한 번개핫스폿이 약 5,500km² 규모의 국지영역에 집중된다고 보고했다. 해상도를 높이자 과거 저해상도 자료에서 Congo basin이 1위처럼 보이던 순위도 바뀌었다. **‘Catatumbo 지역 전체가 똑같이 번개친다’가 아니라, 지형·바람수렴이 맞는 특정 공간에 활동이 집중된다는 뜻**이다.",
+          "textEn": "The 2016 high-resolution climatology found that the strongest lightning activity is concentrated in a relatively localized area of roughly 5,500 km². Higher spatial resolution also changed the global ranking that earlier coarse datasets had assigned. The phenomenon is not uniform across the entire region; activity concentrates where terrain and wind convergence align."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Lake Maracaibo 일대는 위성자료에서 지구 최고 수준의 총번개 hotspot으로 확인됐고, 2016년 연구는 약 233 flashes km⁻² yr⁻¹와 약 297일/년의 반복 대류를 보고했다. 야간 저층수렴, 따뜻하고 습한 호수, 둘러싼 산악지형과 Caribbean circulation이 핵심 메커니즘으로 지지된다.\n\n**확인되지 않음:** 번개가 365일 똑같이 지속된다는 것은 아니다. 메탄 같은 하나의 특수한 가스가 현상의 주원인이라는 설명도 현대 계측자료가 요구하지 않는다.",
+          "textEn": "**Established:** Satellite data identify the Lake Maracaibo region as a leading global total-lightning hotspot; the 2016 study reports about 233 flashes km⁻² yr⁻¹ and recurrent convection on roughly 297 days per year. Nighttime low-level convergence, warm moist lake conditions, surrounding mountains, and Caribbean circulation are strongly supported mechanisms.\n\n**Not established:** The lightning does not occur at identical intensity 365 days a year, and modern observations do not require methane or another single exotic gas as the primary cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Satellite data identify the Lake Maracaibo region as a leading global total-lightning hotspot; the 2016 study reports about 233 flashes km⁻² yr⁻¹ and recurrent convection on roughly 297 days per year. Nighttime low-level convergence, warm moist lake conditions, surrounding mountains, and Caribbean circulation are strongly supported mechanisms.\n\n**Not established:** The lightning does not occur at identical intensity 365 days a year, and modern observations do not require methane or another single exotic gas as the primary cause.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "night-02",
+        "season-03",
+        "methane-04",
+        "forecast-05",
+        "hotspot-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CATA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Lake Maracaibo는 2016년 위성 climatology에서 지구 최고 총번개 hotspot으로 확인됐다.",
+      "statementEn": "Lake Maracaibo was identified as the world’s top total-lightning hotspot in a 2016 satellite climatology.",
+      "sourceRefs": [
+        "CATA_BAMS2016"
+      ]
+    },
+    {
+      "claimId": "CATA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "핫스폿 번개밀도는 약 233 flashes km⁻² yr⁻¹로 보고됐다.",
+      "statementEn": "The hotspot was reported at roughly 233 flashes km⁻² yr⁻¹.",
+      "sourceRefs": [
+        "CATA_BAMS2016"
+      ]
+    },
+    {
+      "claimId": "CATA-C3",
+      "status": "SUPPORTED",
+      "statementKo": "호수·산악지형·야간 저층수렴과 Caribbean circulation이 반복 뇌우의 핵심 메커니즘이다.",
+      "statementEn": "Lake moisture, mountain terrain, nighttime low-level convergence, and Caribbean circulation strongly explain the recurrent storms.",
+      "sourceRefs": [
+        "CATA_BAMS2016",
+        "CATA_2012"
+      ]
+    },
+    {
+      "claimId": "CATA-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "메탄이 Catatumbo 번개의 주원인이라는 단일원인 가설은 확립되지 않는다.",
+      "statementEn": "A single-cause hypothesis in which methane primarily drives Catatumbo lightning is not established.",
+      "sourceRefs": [
+        "CATA_BAMS2016",
+        "CATA_2012"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CATA_BAMS2016",
+      "title": "Where Are the Lightning Hotspots on Earth?",
+      "publisher": "Bulletin of the American Meteorological Society / Albrecht et al. 2016",
+      "url": "https://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-14-00193.1",
+      "sourceType": "PEER_REVIEWED_SATELLITE_CLIMATOLOGY"
+    },
+    {
+      "sourceId": "CATA_2012",
+      "title": "Characterization of the lightning activity of Relámpago del Catatumbo",
+      "publisher": "Atmospheric Research / Bürgesser et al.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1364682612000272",
+      "sourceType": "PEER_REVIEWED_OBSERVATIONAL"
+    },
+    {
+      "sourceId": "CATA_COLUMBIA",
+      "title": "The World’s First Seasonal Lightning Forecast",
+      "publisher": "Columbia Climate School",
+      "url": "https://news.climate.columbia.edu/2016/07/06/the-worlds-first-seasonal-lightning-forecast/",
+      "sourceType": "ACADEMIC_RESEARCH_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cata-v01",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Lake Maracaibo와 Andes·Perijá 산악지형, 주요 lightning hotspot의 관계도.",
+      "captionEn": "Original map of Lake Maracaibo, surrounding mountains, and the principal lightning hotspot.",
+      "altKo": "Lake Maracaibo와 Andes·Perijá 산악지형, 주요 lightning hotspot의 관계도.",
+      "altEn": "Original map of Lake Maracaibo, surrounding mountains, and the principal lightning hotspot.",
+      "sourceRefs": [
+        "CATA_BAMS2016",
+        "CATA_2012"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "catatumbo-lightning__v01__ko.png",
+          "sha256": "f50d6ed654f0d1ffa160529dfc16a0dba331daee38fc4ba27527321e5b1a1a76",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "catatumbo-lightning__v01__en.png",
+          "sha256": "9130e1bc3c4b20858a53da3cff7e2b042a5205e54d23f467dd4090b6122ecdf1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cata-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "야간 육지냉각 → 호수 쪽 저층수렴 → 깊은 대류 → 높은 번개빈도.",
+      "captionEn": "Night cooling → low-level convergence over the lake → deep convection → high lightning frequency.",
+      "altKo": "야간 육지냉각 → 호수 쪽 저층수렴 → 깊은 대류 → 높은 번개빈도.",
+      "altEn": "Night cooling → low-level convergence over the lake → deep convection → high lightning frequency.",
+      "sourceRefs": [
+        "CATA_BAMS2016",
+        "CATA_2012"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "catatumbo-lightning__v02__ko.png",
+          "sha256": "deb59942df24d94ee8fde7b9c7baa01b0f2aec41a89522c9b4690b246ad9a8d2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "catatumbo-lightning__v02__en.png",
+          "sha256": "3fd05b9a41149d621d9e9b4214a25b74cf98089f2bc03437e82501dd13e72d99",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cata-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘영원한 번개’ 이미지와 실제 계절·야간변동, 메탄가설의 증거경계.",
+      "captionEn": "Evidence boundary between the “never-ending storm” image, observed variability, and methane hypothesis.",
+      "altKo": "‘영원한 번개’ 이미지와 실제 계절·야간변동, 메탄가설의 증거경계.",
+      "altEn": "Evidence boundary between the “never-ending storm” image, observed variability, and methane hypothesis.",
+      "sourceRefs": [
+        "CATA_BAMS2016",
+        "CATA_2012"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "catatumbo-lightning__v03__ko.png",
+          "sha256": "7e6be3a652ccccfb105ec7847914d4d1810f7f11871dfb32a755ad6f94c474e8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "catatumbo-lightning__v03__en.png",
+          "sha256": "963ca47ddf86fa48ea3d2e5aad17a89c62cbc6a18cec5454a3d986c00f423791",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "Venezuela"
+    ],
+    "regions": [
+      "Lake Maracaibo / Zulia"
+    ],
+    "places": [
+      {
+        "name": "Lake Maracaibo",
+        "role": "lightning hotspot"
+      },
+      {
+        "name": "Catatumbo River region",
+        "role": "cultural naming context"
+      }
+    ],
+    "people": [],
+    "organizations": [],
+    "dateRange": {
+      "start": null,
+      "end": "present",
+      "precision": "persistent natural phenomenon"
+    },
+    "era": "Modern atmospheric science",
+    "resolution": "MEASURED_NATURAL_HOTSPOT_METEOROLOGY_STRONGLY_EXPLAINS_PATTERN",
+    "searchAliases": [
+      "Catatumbo lightning",
+      "Relámpago del Catatumbo",
+      "Maracaibo lightning"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1611,
+    "enBodyWords": 410,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH10",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH10_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

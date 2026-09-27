@@ -3,11 +3,21 @@ import { cases, collections } from "../../src/content";
 import { readingMinutes, readingStrategies } from "../../src/lib/reading-time";
 import { searchCases } from "../../src/lib/search";
 import { marketConfig, supportedLocales } from "../../src/config/market";
+import { getProductizedArticle, productizedItems } from "../../src/content/productized";
 
 describe("release content", () => {
-  it("ships exactly the approved nine-case catalog", () => {
-    expect(cases).toHaveLength(9);
-    expect(new Set(cases.map((item) => item.slug)).size).toBe(9);
+  it("adds all 42 durable articles while preserving the nine-case U1 baseline", () => {
+    expect(productizedItems).toHaveLength(42);
+    expect(cases).toHaveLength(51);
+    expect(new Set(cases.map((item) => item.slug)).size).toBe(cases.length);
+    expect(cases.some((item) => item.slug === "cooper")).toBe(true);
+  });
+
+  it("keeps KO/EN blocks and original visual roles paired within the same canonical dossier", async () => {
+    const article = await getProductizedArticle("romanov-remains-dna");
+    expect(article?.localizedCopy.ko.blocks.map((block) => block.blockId)).toEqual(article?.localizedCopy.en.blocks.map((block) => block.blockId));
+    expect(article?.visuals.every((visual) => visual.localizedFiles.ko.fileName.endsWith("__ko.png") && visual.localizedFiles.en.fileName.endsWith("__en.png"))).toBe(true);
+    expect(article?.publication.randomEligible).toBe(false);
   });
 
   it("preserves all 15 researched V3 claims", () => {

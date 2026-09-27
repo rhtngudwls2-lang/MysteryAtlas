@@ -1,0 +1,584 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "area-51",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Area 51",
+    "canonicalTitleEn": "Area 51 / Groom Lake",
+    "aliasesKo": [
+      "그룸 레이크",
+      "에어리어 51"
+    ],
+    "aliasesEn": [
+      "Groom Lake",
+      "Paradise Ranch",
+      "Watertown"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "비밀기지는 실재했다—그렇다면 외계인 이야기는 어디서 시작됐나",
+      "hook": "Area 51의 가장 중요한 반전은 ‘비밀기지가 정말 있었나’가 아니다. 있었다. 질문은 그곳에서 실제로 개발된 것이 무엇이었고, 기밀의 빈칸에 어떤 이야기가 자라났는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "지도보다 먼저 ‘비밀’이 된 곳",
+          "headingEn": "A Place Defined by Secrecy Before Myth",
+          "textKo": "네바다 사막의 마른 호수바닥 Groom Lake는 오랫동안 대중에게 ‘Area 51’이라는 이름으로 더 잘 알려졌다. 외계인과 추락한 비행접시 이야기로 유명해졌지만, 비밀기지라는 핵심만큼은 전설이 아니었다. CIA 공개자료는 1950년대 중반 이곳이 U-2 고고도 정찰기의 시험과 조종사 훈련을 위해 선택된 실제 시설이었다고 기록한다. 접근이 어렵고 인적이 드물며, 주변이 기존 핵실험 구역과 군사통제지역으로 둘러싸여 있다는 점이 새 항공기를 숨기기에 유리했다.",
+          "textEn": "Groom Lake, a dry lakebed in the Nevada desert, became far better known to the public as “Area 51.” Stories about aliens and recovered flying saucers eventually surrounded the site, but the central fact of a secret test facility was never merely folklore. CIA histories state that the location was selected in the mid-1950s for testing the U-2 high-altitude reconnaissance aircraft and training its pilots. Its isolation, restricted surroundings, and proximity to existing military and atomic-test areas made it ideal for hiding an aircraft the United States did not want observed."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "왜 Groom Lake였나",
+          "headingEn": "Why Groom Lake?",
+          "textKo": "U-2 개발진은 공개 공군기지에서 새 정찰기를 시험하기 어렵다고 판단했다. 기체 자체가 당시 기준으로 비정상적으로 높이 날도록 설계됐고, 소련 방공망을 넘어 사진과 전자정보를 수집하는 것이 목표였다. CIA의 프로그램 역사에 따르면 개발진은 네바다 상공에서 후보지를 찾다가 평평한 호수바닥과 외부 시선을 막기 좋은 주변 환경을 갖춘 Groom Lake를 골랐다. 지도상의 ‘Area 51’, Watertown, Paradise Ranch 같은 여러 이름이 쓰인 것도 시설의 비밀성과 내부 운영문화를 보여준다.",
+          "textEn": "The U-2 team needed somewhere more discreet than an ordinary Air Force base. The aircraft was designed to fly at extraordinary altitude for its time and collect photographic and electronic intelligence over denied territory. CIA program histories describe how project officials searched Nevada from the air and selected Groom Lake, whose flat lakebed and restricted surroundings offered both a usable test area and protection from outside observation. The use of multiple names—Area 51, Watertown, Paradise Ranch, and simply “the Ranch”—reflected both secrecy and the internal culture of the program."
+        },
+        {
+          "blockId": "chronology-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "1955년, U-2가 처음 떠오르다",
+          "headingEn": "1955: The U-2 Leaves the Ground",
+          "textKo": "1955년 8월 1일, 록히드 시험조종사 Tony LeVier는 고속 지상주행 시험 중이던 첫 U-2가 예상치 않게 공중으로 떠오르는 일을 겪었다. 그는 다시 기체를 내려놓았고, 며칠 뒤인 8월 4일 공식 시험비행이 이어졌다. 이 에피소드는 Area 51의 실제 역사에 외계기체 대신 훨씬 현실적이지만 당시에는 극도로 비밀이었던 물체가 있었다는 점을 상징적으로 보여준다. **밖에서 본 낯선 비행체와 안에서 진행된 기밀 항공개발 사이의 간극**이 이 장소의 후대 신화를 키울 토양이 됐다.",
+          "textEn": "On August 1, 1955, Lockheed test pilot Tony LeVier was conducting a high-speed taxi test when the first U-2 unexpectedly became airborne. He brought it back down, and the first official test flight followed on August 4. The episode captures the real foundation of the Area 51 story: the strange vehicles at the site were not alien craft, but they were aircraft so secret and unusual that outsiders had little context for what they might see. The gap between unfamiliar silhouettes in the sky and classified development on the ground helped create fertile soil for later mythology."
+        },
+        {
+          "blockId": "operations-035",
+          "type": "BACKGROUND",
+          "headingKo": "비밀은 활주로만의 문제가 아니었다",
+          "headingEn": "Secrecy Extended Beyond the Runway",
+          "textKo": "시설의 비밀성은 비행기 자체에만 걸려 있지 않았다. CIA의 공개 설명에 따르면 주요 인력과 화물은 통제된 항공편으로 Area 51과 캘리포니아 버뱅크 사이를 오갔고, U-2는 내부 통신에서 ‘Angel’, 조종사는 ‘driver’, Groom Lake는 ‘homeplate’ 같은 암호성 표현으로 불렸다. 이런 운영방식은 두 가지를 동시에 보여준다. 첫째, 실제로 숨겨야 할 항공개발이 있었다. 둘째, 외부인이 부분적인 장면만 목격했을 때 전체 맥락을 알아낼 방법은 거의 없었다. 훗날 Area 51을 둘러싼 신화가 강해진 배경에는 비밀 항공기의 성능뿐 아니라 **시설 자체를 일상적으로 감추는 운영체계**도 있었다.",
+          "textEn": "Secrecy at the site extended beyond the aircraft themselves. CIA public accounts describe controlled air transport moving personnel and cargo between Area 51 and Burbank, California. Internal terminology also obscured ordinary references: the U-2 could be called the “Angel,” pilots were “drivers,” and Groom Lake was “homeplate.” This operational culture reveals two things at once. There really was aerospace development worth concealing, and an outsider who saw only fragments of activity had almost no way to reconstruct the full context. The mythology around Area 51 grew not only from unusual aircraft, but from an operating system designed to keep the facility itself obscure."
+        },
+        {
+          "blockId": "turning-04",
+          "type": "TURNING_POINT",
+          "headingKo": "더 빠르고 더 높은 A-12가 들어오다",
+          "headingEn": "Then Came the A-12",
+          "textKo": "U-2만으로 Area 51의 비밀항공 역사는 끝나지 않았다. CIA는 소련 방공망의 발전에 대응하기 위해 U-2보다 훨씬 빠르고 높게 비행할 A-12 OXCART를 개발했다. Groom Lake에서 A-12의 첫 시험비행이 1962년에 이뤄졌고, CIA 공개자료는 이 기체가 결국 마하 3 이상, 약 9만 피트 고도에서 지속비행하도록 설계됐다고 설명한다. 오늘날 박물관에서 볼 수 있는 기체이지만 당시의 관측자에게는 형태·속도·고도 모두 매우 이질적이었을 수밖에 없었다.",
+          "textEn": "The U-2 was only the beginning of Groom Lake’s secret-aircraft history. As Soviet air defenses improved, the CIA developed the A-12 OXCART, designed to fly much faster and higher than the U-2. The A-12 began flight testing at Groom Lake in 1962, and CIA public histories describe an aircraft capable of sustained speeds above Mach 3 at roughly 90,000 feet. Today the A-12 can be seen in museums. At the time, however, an observer without access to classified information would have been looking at an aircraft with an unfamiliar shape, speed, and altitude."
+        },
+        {
+          "blockId": "evidence-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "확인된 비밀과 확인되지 않은 비밀",
+          "headingEn": "Secrets We Can Document—and Secrets We Cannot",
+          "textKo": "Area 51 기사에서 가장 중요한 구분은 ‘비밀이었다’와 ‘어떤 비밀이든 사실일 수 있다’를 섞지 않는 것이다. CIA가 공개한 U-2·OXCART 역사는 Groom Lake에서 실제로 극비 항공개발이 진행됐음을 강하게 입증한다. 반면 CIA의 2022년 대중설명은 지하에 외계인이 보관돼 있다거나 비행접시를 숨겨두고 있다는 유명한 주장을 사실로 인정하지 않는다. 즉 **기밀시설의 존재는 확인되지만, 그 사실이 외계인 서사의 증거가 되지는 않는다.**",
+          "textEn": "The most important distinction in any Area 51 story is between “the site was secret” and “therefore any secret claim might be true.” Declassified CIA histories strongly establish that Groom Lake hosted highly classified U-2 and OXCART development. By contrast, the CIA’s 2022 public explanation explicitly rejects the familiar claims of alien bodies or stored flying saucers. The existence of a genuine secret facility is therefore well documented; it is not evidence by itself for an extraterrestrial narrative."
+        },
+        {
+          "blockId": "hypothesis-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "그렇다면 UFO 이야기는 왜 이렇게 강해졌나",
+          "headingEn": "Why Did the UFO Story Become So Powerful?",
+          "textKo": "비밀항공시험은 최소한 일부 ‘이상한 비행체’ 목격을 이해하는 데 중요한 배경이다. 냉전기에는 일반 항공기보다 훨씬 높은 고도에서 움직이는 정찰기를 본 사람도, 그 기체가 무엇인지 확인할 방법도 거의 없었다. 여기에 시설 위치 자체가 공개적으로 설명되지 않았고, 프로젝트명과 임무도 장기간 기밀이었다. 그러나 여기서 한 걸음 더 나아가 “Area 51에서 본 모든 미확인 현상은 U-2나 A-12였다”고 말하는 것도 과도하다. 개별 목격사례는 시간·방향·기상·항공기 운용기록을 따로 대조해야 한다.",
+          "textEn": "Classified aircraft testing provides important context for at least some reports of unusual objects in the sky. During the Cold War, observers could see aircraft operating at heights and speeds far outside ordinary civilian experience, while having almost no way to identify the programs behind them. The site itself was not publicly explained in detail, and project names and missions remained classified for years. But the reverse overstatement should also be avoided: not every unexplained sighting near Area 51 can automatically be assigned to a U-2 or A-12. Individual reports still require their own timing, direction, weather, and flight-record evidence."
+        },
+        {
+          "blockId": "counter-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기밀해제 문서도 모든 것을 말해주진 않는다",
+          "headingEn": "Declassification Does Not Mean Total Transparency",
+          "textKo": "공개된 CIA 역사는 강력한 1차·기관 자료지만, 그것이 Area 51의 모든 시기와 모든 활동을 완전히 공개했다는 뜻은 아니다. 기밀시설은 프로그램별로 공개시점이 다르고, 공개문서 자체가 특정 정찰항공 프로젝트의 역사에 초점을 맞춘다. 따라서 ‘문서에 외계인이 없다’는 사실을 근거로 시설에서 이루어진 모든 후속 활동을 알고 있다고 말해서도 안 된다. Mystery Atlas가 확정할 수 있는 범위는 **공개된 문서가 무엇을 보여주는지**까지다.",
+          "textEn": "CIA histories are powerful institutional sources, but declassification does not mean that every activity at Area 51 in every period has been publicly described. Different programs are revealed on different schedules, and the available histories focus on specific reconnaissance projects. The absence of aliens from those documents should not be turned into a claim that every later activity at the facility is known. Mystery Atlas can establish what the released records show—and should stop at that boundary."
+        },
+        {
+          "blockId": "declass-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기밀해제가 바꾼 질문",
+          "headingEn": "How Declassification Changed the Question",
+          "textKo": "수십 년 뒤 공개된 CIA 역사자료는 Area 51의 미스터리를 없애기보다 성격을 바꿨다. 예전에는 ‘그곳이 실제로 무엇을 하는 곳인가’가 가장 큰 빈칸이었다면, 지금은 U-2와 A-12 같은 구체적 프로그램을 기준점으로 삼아 후대 주장을 다시 분류할 수 있다. 문서와 일치하는 주장, 당시 기술로 설명 가능한 목격, 공개자료로는 확인할 수 없는 주장, 명백히 과장된 이야기를 한 층씩 떼어낼 수 있게 된 것이다. **기밀해제는 모든 답을 준 것이 아니라, 최소한 무엇을 사실로 놓고 어디서부터 추정을 시작해야 하는지를 바꿨다.**",
+          "textEn": "Decades of declassification did not eliminate the Area 51 mystery so much as change its shape. Earlier, the largest blank was simply what the site was for. Today, documented programs such as the U-2 and A-12 provide a reference point against which later claims can be sorted: statements that match released records, sightings that may fit known aircraft, claims that remain unsupported by public evidence, and stories that clearly extend beyond what the documents establish. Declassification did not answer every question. It changed where evidence ends and speculation begins."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "전설보다 실제 역사가 더 이상한 이유",
+          "headingEn": "Why the Documented History Is Strange Enough",
+          "textKo": "Area 51의 실제 역사는 ‘외계인 이야기를 빼면 평범해지는 사건’이 아니다. 사막 한가운데 세운 비밀기지에서, 당시 세계 어디에서도 흔히 볼 수 없던 고도와 속도를 목표로 정찰기가 개발됐다. 근무자와 조종사는 항공편으로 드나들었고, 프로그램명조차 대중에게 알려지지 않았다. 수십 년 뒤 공개된 문서는 그 비밀의 상당 부분을 현실적인 항공공학과 냉전 정보전으로 바꿔놓았다. 이 사건의 핵심 미스터리는 결국 **“무엇이 있었나?”에서 “우리가 모를 때 무엇을 상상했나?”로 이동한다.**",
+          "textEn": "The real history of Area 51 does not become ordinary once the alien stories are removed. A secret base in the Nevada desert hosted aircraft development aimed at altitudes and speeds that were extraordinary for the era. Personnel and pilots moved through controlled transport systems, and even the names of the programs were hidden from the public. Decades later, released documents replaced much of the blank space with aerospace engineering and Cold War intelligence history. The central mystery therefore shifts from “what was there?” to “what did people imagine while the real answer was classified?”"
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Groom Lake/Area 51은 U-2와 A-12 OXCART 같은 극비 정찰항공 프로그램의 시험·훈련 기지였다. U-2는 1955년 이곳에서 시험됐고, A-12는 1960년대 초 Groom Lake에서 시험비행을 시작했다. CIA 공개자료는 이러한 항공프로그램을 실제 시설의 핵심 역사로 설명한다.\n\n**확인되지 않음:** 공개된 CIA 문서는 외계인 시신, 회수된 외계 우주선, 외계기술 역설계 같은 유명 주장들을 입증하지 않는다. 반대로 공개문서만으로 시설의 모든 시대·모든 활동을 완전히 알고 있다고 말할 수도 없다. 개별 UFO 목격을 U-2/A-12로 자동 설명하는 것도 별도 증거 없이 할 수 없다.",
+          "textEn": "**Established:** Groom Lake/Area 51 was used to test and support highly classified reconnaissance programs including the U-2 and A-12 OXCART. The U-2 was tested there in 1955, and the A-12 began flight testing at Groom Lake in the early 1960s. CIA public histories identify these aviation programs as central parts of the site’s documented history.\n\n**Not established:** Released CIA records do not establish popular claims about alien bodies, recovered extraterrestrial spacecraft, or reverse-engineered alien technology. At the same time, released histories do not justify claiming that every activity at the site in every period is known. Nor can every UFO report near the facility be assigned to the U-2 or A-12 without case-specific evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Groom Lake/Area 51은 U-2와 A-12 OXCART 같은 극비 정찰항공 프로그램의 시험·훈련 기지였다. U-2는 1955년 이곳에서 시험됐고, A-12는 1960년대 초 Groom Lake에서 시험비행을 시작했다. CIA 공개자료는 이러한 항공프로그램을 실제 시설의 핵심 역사로 설명한다.\n\n",
+        "notEstablished": "외계인·외계 우주선 주장과 모든 개별 UFO 목격의 원인은 공개자료로 입증되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "chronology-03",
+        "operations-035",
+        "turning-04",
+        "evidence-05",
+        "hypothesis-06",
+        "counter-07",
+        "declass-075",
+        "aftermath-08"
+      ]
+    },
+    "en": {
+      "headline": "The Secret Base Was Real—So Where Did the Alien Story Come From?",
+      "hook": "The central twist of Area 51 is not whether a secret base existed. It did. The question is what was actually developed there, and what grew inside the blank space created by classification.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "지도보다 먼저 ‘비밀’이 된 곳",
+          "headingEn": "A Place Defined by Secrecy Before Myth",
+          "textKo": "네바다 사막의 마른 호수바닥 Groom Lake는 오랫동안 대중에게 ‘Area 51’이라는 이름으로 더 잘 알려졌다. 외계인과 추락한 비행접시 이야기로 유명해졌지만, 비밀기지라는 핵심만큼은 전설이 아니었다. CIA 공개자료는 1950년대 중반 이곳이 U-2 고고도 정찰기의 시험과 조종사 훈련을 위해 선택된 실제 시설이었다고 기록한다. 접근이 어렵고 인적이 드물며, 주변이 기존 핵실험 구역과 군사통제지역으로 둘러싸여 있다는 점이 새 항공기를 숨기기에 유리했다.",
+          "textEn": "Groom Lake, a dry lakebed in the Nevada desert, became far better known to the public as “Area 51.” Stories about aliens and recovered flying saucers eventually surrounded the site, but the central fact of a secret test facility was never merely folklore. CIA histories state that the location was selected in the mid-1950s for testing the U-2 high-altitude reconnaissance aircraft and training its pilots. Its isolation, restricted surroundings, and proximity to existing military and atomic-test areas made it ideal for hiding an aircraft the United States did not want observed."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "왜 Groom Lake였나",
+          "headingEn": "Why Groom Lake?",
+          "textKo": "U-2 개발진은 공개 공군기지에서 새 정찰기를 시험하기 어렵다고 판단했다. 기체 자체가 당시 기준으로 비정상적으로 높이 날도록 설계됐고, 소련 방공망을 넘어 사진과 전자정보를 수집하는 것이 목표였다. CIA의 프로그램 역사에 따르면 개발진은 네바다 상공에서 후보지를 찾다가 평평한 호수바닥과 외부 시선을 막기 좋은 주변 환경을 갖춘 Groom Lake를 골랐다. 지도상의 ‘Area 51’, Watertown, Paradise Ranch 같은 여러 이름이 쓰인 것도 시설의 비밀성과 내부 운영문화를 보여준다.",
+          "textEn": "The U-2 team needed somewhere more discreet than an ordinary Air Force base. The aircraft was designed to fly at extraordinary altitude for its time and collect photographic and electronic intelligence over denied territory. CIA program histories describe how project officials searched Nevada from the air and selected Groom Lake, whose flat lakebed and restricted surroundings offered both a usable test area and protection from outside observation. The use of multiple names—Area 51, Watertown, Paradise Ranch, and simply “the Ranch”—reflected both secrecy and the internal culture of the program."
+        },
+        {
+          "blockId": "chronology-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "1955년, U-2가 처음 떠오르다",
+          "headingEn": "1955: The U-2 Leaves the Ground",
+          "textKo": "1955년 8월 1일, 록히드 시험조종사 Tony LeVier는 고속 지상주행 시험 중이던 첫 U-2가 예상치 않게 공중으로 떠오르는 일을 겪었다. 그는 다시 기체를 내려놓았고, 며칠 뒤인 8월 4일 공식 시험비행이 이어졌다. 이 에피소드는 Area 51의 실제 역사에 외계기체 대신 훨씬 현실적이지만 당시에는 극도로 비밀이었던 물체가 있었다는 점을 상징적으로 보여준다. **밖에서 본 낯선 비행체와 안에서 진행된 기밀 항공개발 사이의 간극**이 이 장소의 후대 신화를 키울 토양이 됐다.",
+          "textEn": "On August 1, 1955, Lockheed test pilot Tony LeVier was conducting a high-speed taxi test when the first U-2 unexpectedly became airborne. He brought it back down, and the first official test flight followed on August 4. The episode captures the real foundation of the Area 51 story: the strange vehicles at the site were not alien craft, but they were aircraft so secret and unusual that outsiders had little context for what they might see. The gap between unfamiliar silhouettes in the sky and classified development on the ground helped create fertile soil for later mythology."
+        },
+        {
+          "blockId": "operations-035",
+          "type": "BACKGROUND",
+          "headingKo": "비밀은 활주로만의 문제가 아니었다",
+          "headingEn": "Secrecy Extended Beyond the Runway",
+          "textKo": "시설의 비밀성은 비행기 자체에만 걸려 있지 않았다. CIA의 공개 설명에 따르면 주요 인력과 화물은 통제된 항공편으로 Area 51과 캘리포니아 버뱅크 사이를 오갔고, U-2는 내부 통신에서 ‘Angel’, 조종사는 ‘driver’, Groom Lake는 ‘homeplate’ 같은 암호성 표현으로 불렸다. 이런 운영방식은 두 가지를 동시에 보여준다. 첫째, 실제로 숨겨야 할 항공개발이 있었다. 둘째, 외부인이 부분적인 장면만 목격했을 때 전체 맥락을 알아낼 방법은 거의 없었다. 훗날 Area 51을 둘러싼 신화가 강해진 배경에는 비밀 항공기의 성능뿐 아니라 **시설 자체를 일상적으로 감추는 운영체계**도 있었다.",
+          "textEn": "Secrecy at the site extended beyond the aircraft themselves. CIA public accounts describe controlled air transport moving personnel and cargo between Area 51 and Burbank, California. Internal terminology also obscured ordinary references: the U-2 could be called the “Angel,” pilots were “drivers,” and Groom Lake was “homeplate.” This operational culture reveals two things at once. There really was aerospace development worth concealing, and an outsider who saw only fragments of activity had almost no way to reconstruct the full context. The mythology around Area 51 grew not only from unusual aircraft, but from an operating system designed to keep the facility itself obscure."
+        },
+        {
+          "blockId": "turning-04",
+          "type": "TURNING_POINT",
+          "headingKo": "더 빠르고 더 높은 A-12가 들어오다",
+          "headingEn": "Then Came the A-12",
+          "textKo": "U-2만으로 Area 51의 비밀항공 역사는 끝나지 않았다. CIA는 소련 방공망의 발전에 대응하기 위해 U-2보다 훨씬 빠르고 높게 비행할 A-12 OXCART를 개발했다. Groom Lake에서 A-12의 첫 시험비행이 1962년에 이뤄졌고, CIA 공개자료는 이 기체가 결국 마하 3 이상, 약 9만 피트 고도에서 지속비행하도록 설계됐다고 설명한다. 오늘날 박물관에서 볼 수 있는 기체이지만 당시의 관측자에게는 형태·속도·고도 모두 매우 이질적이었을 수밖에 없었다.",
+          "textEn": "The U-2 was only the beginning of Groom Lake’s secret-aircraft history. As Soviet air defenses improved, the CIA developed the A-12 OXCART, designed to fly much faster and higher than the U-2. The A-12 began flight testing at Groom Lake in 1962, and CIA public histories describe an aircraft capable of sustained speeds above Mach 3 at roughly 90,000 feet. Today the A-12 can be seen in museums. At the time, however, an observer without access to classified information would have been looking at an aircraft with an unfamiliar shape, speed, and altitude."
+        },
+        {
+          "blockId": "evidence-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "확인된 비밀과 확인되지 않은 비밀",
+          "headingEn": "Secrets We Can Document—and Secrets We Cannot",
+          "textKo": "Area 51 기사에서 가장 중요한 구분은 ‘비밀이었다’와 ‘어떤 비밀이든 사실일 수 있다’를 섞지 않는 것이다. CIA가 공개한 U-2·OXCART 역사는 Groom Lake에서 실제로 극비 항공개발이 진행됐음을 강하게 입증한다. 반면 CIA의 2022년 대중설명은 지하에 외계인이 보관돼 있다거나 비행접시를 숨겨두고 있다는 유명한 주장을 사실로 인정하지 않는다. 즉 **기밀시설의 존재는 확인되지만, 그 사실이 외계인 서사의 증거가 되지는 않는다.**",
+          "textEn": "The most important distinction in any Area 51 story is between “the site was secret” and “therefore any secret claim might be true.” Declassified CIA histories strongly establish that Groom Lake hosted highly classified U-2 and OXCART development. By contrast, the CIA’s 2022 public explanation explicitly rejects the familiar claims of alien bodies or stored flying saucers. The existence of a genuine secret facility is therefore well documented; it is not evidence by itself for an extraterrestrial narrative."
+        },
+        {
+          "blockId": "hypothesis-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "그렇다면 UFO 이야기는 왜 이렇게 강해졌나",
+          "headingEn": "Why Did the UFO Story Become So Powerful?",
+          "textKo": "비밀항공시험은 최소한 일부 ‘이상한 비행체’ 목격을 이해하는 데 중요한 배경이다. 냉전기에는 일반 항공기보다 훨씬 높은 고도에서 움직이는 정찰기를 본 사람도, 그 기체가 무엇인지 확인할 방법도 거의 없었다. 여기에 시설 위치 자체가 공개적으로 설명되지 않았고, 프로젝트명과 임무도 장기간 기밀이었다. 그러나 여기서 한 걸음 더 나아가 “Area 51에서 본 모든 미확인 현상은 U-2나 A-12였다”고 말하는 것도 과도하다. 개별 목격사례는 시간·방향·기상·항공기 운용기록을 따로 대조해야 한다.",
+          "textEn": "Classified aircraft testing provides important context for at least some reports of unusual objects in the sky. During the Cold War, observers could see aircraft operating at heights and speeds far outside ordinary civilian experience, while having almost no way to identify the programs behind them. The site itself was not publicly explained in detail, and project names and missions remained classified for years. But the reverse overstatement should also be avoided: not every unexplained sighting near Area 51 can automatically be assigned to a U-2 or A-12. Individual reports still require their own timing, direction, weather, and flight-record evidence."
+        },
+        {
+          "blockId": "counter-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기밀해제 문서도 모든 것을 말해주진 않는다",
+          "headingEn": "Declassification Does Not Mean Total Transparency",
+          "textKo": "공개된 CIA 역사는 강력한 1차·기관 자료지만, 그것이 Area 51의 모든 시기와 모든 활동을 완전히 공개했다는 뜻은 아니다. 기밀시설은 프로그램별로 공개시점이 다르고, 공개문서 자체가 특정 정찰항공 프로젝트의 역사에 초점을 맞춘다. 따라서 ‘문서에 외계인이 없다’는 사실을 근거로 시설에서 이루어진 모든 후속 활동을 알고 있다고 말해서도 안 된다. Mystery Atlas가 확정할 수 있는 범위는 **공개된 문서가 무엇을 보여주는지**까지다.",
+          "textEn": "CIA histories are powerful institutional sources, but declassification does not mean that every activity at Area 51 in every period has been publicly described. Different programs are revealed on different schedules, and the available histories focus on specific reconnaissance projects. The absence of aliens from those documents should not be turned into a claim that every later activity at the facility is known. Mystery Atlas can establish what the released records show—and should stop at that boundary."
+        },
+        {
+          "blockId": "declass-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기밀해제가 바꾼 질문",
+          "headingEn": "How Declassification Changed the Question",
+          "textKo": "수십 년 뒤 공개된 CIA 역사자료는 Area 51의 미스터리를 없애기보다 성격을 바꿨다. 예전에는 ‘그곳이 실제로 무엇을 하는 곳인가’가 가장 큰 빈칸이었다면, 지금은 U-2와 A-12 같은 구체적 프로그램을 기준점으로 삼아 후대 주장을 다시 분류할 수 있다. 문서와 일치하는 주장, 당시 기술로 설명 가능한 목격, 공개자료로는 확인할 수 없는 주장, 명백히 과장된 이야기를 한 층씩 떼어낼 수 있게 된 것이다. **기밀해제는 모든 답을 준 것이 아니라, 최소한 무엇을 사실로 놓고 어디서부터 추정을 시작해야 하는지를 바꿨다.**",
+          "textEn": "Decades of declassification did not eliminate the Area 51 mystery so much as change its shape. Earlier, the largest blank was simply what the site was for. Today, documented programs such as the U-2 and A-12 provide a reference point against which later claims can be sorted: statements that match released records, sightings that may fit known aircraft, claims that remain unsupported by public evidence, and stories that clearly extend beyond what the documents establish. Declassification did not answer every question. It changed where evidence ends and speculation begins."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "전설보다 실제 역사가 더 이상한 이유",
+          "headingEn": "Why the Documented History Is Strange Enough",
+          "textKo": "Area 51의 실제 역사는 ‘외계인 이야기를 빼면 평범해지는 사건’이 아니다. 사막 한가운데 세운 비밀기지에서, 당시 세계 어디에서도 흔히 볼 수 없던 고도와 속도를 목표로 정찰기가 개발됐다. 근무자와 조종사는 항공편으로 드나들었고, 프로그램명조차 대중에게 알려지지 않았다. 수십 년 뒤 공개된 문서는 그 비밀의 상당 부분을 현실적인 항공공학과 냉전 정보전으로 바꿔놓았다. 이 사건의 핵심 미스터리는 결국 **“무엇이 있었나?”에서 “우리가 모를 때 무엇을 상상했나?”로 이동한다.**",
+          "textEn": "The real history of Area 51 does not become ordinary once the alien stories are removed. A secret base in the Nevada desert hosted aircraft development aimed at altitudes and speeds that were extraordinary for the era. Personnel and pilots moved through controlled transport systems, and even the names of the programs were hidden from the public. Decades later, released documents replaced much of the blank space with aerospace engineering and Cold War intelligence history. The central mystery therefore shifts from “what was there?” to “what did people imagine while the real answer was classified?”"
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Groom Lake/Area 51은 U-2와 A-12 OXCART 같은 극비 정찰항공 프로그램의 시험·훈련 기지였다. U-2는 1955년 이곳에서 시험됐고, A-12는 1960년대 초 Groom Lake에서 시험비행을 시작했다. CIA 공개자료는 이러한 항공프로그램을 실제 시설의 핵심 역사로 설명한다.\n\n**확인되지 않음:** 공개된 CIA 문서는 외계인 시신, 회수된 외계 우주선, 외계기술 역설계 같은 유명 주장들을 입증하지 않는다. 반대로 공개문서만으로 시설의 모든 시대·모든 활동을 완전히 알고 있다고 말할 수도 없다. 개별 UFO 목격을 U-2/A-12로 자동 설명하는 것도 별도 증거 없이 할 수 없다.",
+          "textEn": "**Established:** Groom Lake/Area 51 was used to test and support highly classified reconnaissance programs including the U-2 and A-12 OXCART. The U-2 was tested there in 1955, and the A-12 began flight testing at Groom Lake in the early 1960s. CIA public histories identify these aviation programs as central parts of the site’s documented history.\n\n**Not established:** Released CIA records do not establish popular claims about alien bodies, recovered extraterrestrial spacecraft, or reverse-engineered alien technology. At the same time, released histories do not justify claiming that every activity at the site in every period is known. Nor can every UFO report near the facility be assigned to the U-2 or A-12 without case-specific evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "Released CIA histories establish Groom Lake as a major secret test site for the U-2 and A-12 OXCART programs.",
+        "notEstablished": "Released records do not establish alien bodies, recovered extraterrestrial craft, or a single explanation for every UFO report near the site."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "chronology-03",
+        "operations-035",
+        "turning-04",
+        "evidence-05",
+        "hypothesis-06",
+        "counter-07",
+        "declass-075",
+        "aftermath-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "A51-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Groom Lake는 U-2 시험과 조종사 훈련을 위해 비밀 시험장으로 선택됐다.",
+      "statementEn": "Groom Lake was selected as a secret site for U-2 testing and pilot training.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_U2_MONOGRAPH"
+      ]
+    },
+    {
+      "claimId": "A51-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Tony LeVier의 U-2는 1955년 8월 1일 고속 지상주행 시험 중 뜻하지 않게 공중에 떴고, 8월 4일 공식 시험비행이 이어졌다.",
+      "statementEn": "Tony LeVier's U-2 became airborne unexpectedly during a high-speed taxi test on August 1, 1955, followed by an official test flight on August 4.",
+      "sourceRefs": [
+        "CIA_AREA51_2015"
+      ]
+    },
+    {
+      "claimId": "A51-C3",
+      "status": "CONFIRMED",
+      "statementKo": "A-12 OXCART는 Groom Lake에서 1962년 시험비행을 시작했다.",
+      "statementEn": "The A-12 OXCART began flight testing at Groom Lake in 1962.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_U2_MONOGRAPH"
+      ]
+    },
+    {
+      "claimId": "A51-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "공개 CIA 자료는 Area 51에 외계인 시신이나 보관된 비행접시가 있다는 주장을 입증하지 않는다.",
+      "statementEn": "Released CIA material does not establish claims of alien bodies or stored flying saucers at Area 51.",
+      "sourceRefs": [
+        "CIA_AREA51_2022"
+      ]
+    },
+    {
+      "claimId": "A51-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Area 51 주변의 모든 UFO 목격이 U-2/A-12 시험이었다고 자동 결론낼 수 없다.",
+      "statementEn": "Not every UFO report near Area 51 can automatically be attributed to U-2 or A-12 testing.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_U2_MONOGRAPH"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CIA_AREA51_2015",
+      "title": "Area 51 and the Accidental Test Flight",
+      "publisher": "Central Intelligence Agency",
+      "url": "https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/",
+      "sourceType": "US_GOVERNMENT",
+      "scope": "Groom Lake selection, U-2 tests, A-12 testing chronology"
+    },
+    {
+      "sourceId": "CIA_AREA51_2022",
+      "title": "Ask Molly: What really went on at Area 51?",
+      "publisher": "Central Intelligence Agency",
+      "url": "https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/",
+      "sourceType": "US_GOVERNMENT",
+      "scope": "U-2/A-12 role and explicit rejection of alien-body/flying-saucer claims"
+    },
+    {
+      "sourceId": "CIA_U2_MONOGRAPH",
+      "title": "The CIA and the U-2 Program, 1954–1974",
+      "publisher": "CIA History Staff",
+      "url": "https://www.cia.gov/resources/csi/books-monographs/the-cia-and-the-u-2-program-1954-1974/",
+      "sourceType": "US_GOVERNMENT_HISTORY",
+      "scope": "authoritative program history for U-2 and A-12 context"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "area-51-altitude-context",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "U-2와 A-12가 당시 관찰자에게 이질적으로 보일 수 있었던 기술격차를 비율 없이 설명하는 도표.",
+      "captionEn": "Conceptual diagram showing why U-2 and A-12 performance could appear unfamiliar, without asserting scale.",
+      "altKo": "일반 항공, U-2, A-12의 상대적 운용특성을 층위로 표시한 비축척 도표.",
+      "altEn": "Non-scale hierarchy comparing ordinary aircraft, U-2, and A-12 operating context.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_U2_MONOGRAPH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "area-51__altitude-context__ko.png",
+          "sha256": "5116650b96c3de331d58410772ade4688367bef0e1de3064bbae2af690cddeef",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "area-51__altitude-context__en.png",
+          "sha256": "4bd620358e6d679ab916bea882f60ae9adb3c45b91db0b22bb9c6d4df9ce3106",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "area-51-documented-vs-unproven",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "CIA 문서로 확인되는 Area 51의 항공개발과 입증되지 않은 외계인 주장을 분리한 카드.",
+      "captionEn": "Evidence card separating documented Area 51 aircraft programs from unproven extraterrestrial claims.",
+      "altKo": "문서화된 U-2/A-12 프로그램과 외계인·비행접시 주장을 두 열로 비교한 카드.",
+      "altEn": "Two-column card comparing documented U-2/A-12 programs with unproven alien claims.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_AREA51_2022",
+        "CIA_U2_MONOGRAPH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "area-51__documented-vs-unproven__ko.png",
+          "sha256": "36cbccd67b42bfa03d36d758ae353a8b077375b5c636adc14f46033b9ee8fbb8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "area-51__documented-vs-unproven__en.png",
+          "sha256": "38d439a26453394a95c656738a1f330269cc1fc51dc112429db570a5e5dd4cca",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "area-51-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Groom Lake의 문서화된 U-2/A-12 프로그램과 외계인 주장 경계를 한눈에 보여주는 hero 도표.",
+      "captionEn": "Hero explainer showing the documented U-2/A-12 programs at Groom Lake and the boundary around alien claims.",
+      "altKo": "Groom Lake, U-2, A-12, 그리고 입증되지 않은 외계인 주장을 네 단계로 보여주는 원본 도표.",
+      "altEn": "Four-part original explainer showing Groom Lake, U-2, A-12, and the boundary around unproven alien claims.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_AREA51_2022",
+        "CIA_U2_MONOGRAPH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "area-51__hero-context__ko.png",
+          "sha256": "55adafff73912b41a2db522e90937e13b275ac1bb1e19e3046efa0067c12eb20",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "area-51__hero-context__en.png",
+          "sha256": "1746756b9cc08951cffc9968f96af1742f073bf2390f85c7835c28e0d408f57b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "area-51-secrecy-flow",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Groom Lake의 운영보안이 부분 목격과 정보공백을 만든 구조를 설명하는 원본 도표.",
+      "captionEn": "Original diagram showing how operational secrecy around Groom Lake created fragmented public knowledge.",
+      "altKo": "통제된 이동과 암호명, 시험기지, 대중의 정보공백이 이어지는 네 단계 도표.",
+      "altEn": "Four-step diagram from controlled transport and code names to secret testing and public information gaps.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_AREA51_2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "area-51__secrecy-flow__ko.png",
+          "sha256": "b29eb1185b236968cc1f4aa0422249aba4c387ec50ef116482b3d716d54d5709",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "area-51__secrecy-flow__en.png",
+          "sha256": "5a19e93fc4a648671f628943c6a5e103f4155b0a16dbfccd552172788693e9fc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "area-51-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "CIA 공개자료에 근거한 Groom Lake의 U-2·A-12 핵심 연표.",
+      "captionEn": "Key Groom Lake U-2 and A-12 timeline based on CIA public histories.",
+      "altKo": "1955 U-2 시험부터 1962 A-12 시험까지 주요 시점을 표시한 연표.",
+      "altEn": "Timeline from 1955 U-2 testing to 1962 A-12 flight testing.",
+      "sourceRefs": [
+        "CIA_AREA51_2015",
+        "CIA_U2_MONOGRAPH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "area-51__timeline__ko.png",
+          "sha256": "523c99d0161b780e10304b740829660e187d83180a93369d9b91c9a5dc223cca",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "area-51__timeline__en.png",
+          "sha256": "5ed1fb8b62cbb7ad76a23ce50247923fbcfe60959307bfec9496e428b5112b75",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "UFO / UAP / Aerial Anomaly",
+      "Technology / Lost Invention"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Nevada"
+    ],
+    "places": [
+      {
+        "name": "Groom Lake / Area 51",
+        "role": "test site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Tony LeVier",
+        "role": "Lockheed test pilot"
+      },
+      {
+        "name": "Clarence Kelly Johnson",
+        "role": "Lockheed engineer / program context"
+      }
+    ],
+    "organizations": [
+      "Central Intelligence Agency",
+      "United States Air Force",
+      "Lockheed"
+    ],
+    "dateRange": {
+      "start": "1955",
+      "end": "1960s",
+      "precision": "core documented U-2/A-12 development period"
+    },
+    "era": "Cold War",
+    "resolution": "DOCUMENTED_SECRET_PROGRAM_POPULAR_ALIEN_CLAIMS_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Area 51",
+      "Groom Lake",
+      "Paradise Ranch",
+      "Watertown",
+      "U-2",
+      "OXCART"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3138,
+    "enBodyWords": 1031,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 5,
+    "sourceCount": 3,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH01",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH01_MANIFEST_v1.1.json",
+    "assetGroups": 5,
+    "localizedFiles": 10,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

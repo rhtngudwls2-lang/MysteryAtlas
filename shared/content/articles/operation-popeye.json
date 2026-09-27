@@ -1,0 +1,527 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-popeye",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Operation Popeye 비밀 기상개조 작전",
+    "canonicalTitleEn": "Operation Popeye",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "미국은 정말 베트남전에서 ‘비를 무기’로 썼나",
+      "hook": "이 사건은 음모론이 아니다. 미 정부문서는 강우를 늘려 보급로를 진흙탕으로 만들려 한 비밀 cloud-seeding 작전을 기록한다. 진짜 미스터리는 ‘실재 여부’보다 실제 통제력과 효과의 크기다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘날씨조작 음모론’이 아니라 실제 비밀작전이었다",
+          "headingEn": "This One Was Not a Weather-Control Conspiracy Theory",
+          "textKo": "베트남전 시기 미국은 실제로 군사목적으로 구름씨뿌리기를 사용했다. 1967년 1월 국무부 비밀메모는 Project Popeye의 목표를 북베트남과 라오스 보급로에 비를 늘려 트럭 이동을 방해하는 것으로 명시한다. 건기에도 지면을 포화상태에 가깝게 유지해 도로를 진흙탕으로 만들려는 계획이었다. **‘정부가 비밀리에 날씨를 바꾸려 했다’는 핵심명제는 이 사건에서는 문서로 확인된다.**",
+          "textEn": "During the Vietnam War, the United States really did use cloud seeding for military purposes. A January 1967 State Department memorandum describes Project Popeye’s goal as increasing rainfall over infiltration routes in North Vietnam and Laos to hinder truck traffic, including attempts to prolong wet conditions into the dry season. In this case, the core claim that a government secretly attempted weather modification is documented."
+        },
+        {
+          "blockId": "test-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1966년 시험단계는 50회 넘게 씨뿌리기를 했다",
+          "headingEn": "The 1966 Test Phase Used More Than 50 Seeding Experiments",
+          "textKo": "국무부 FRUS 문서는 1966년 10월 라오스 남부 일대에서 50회 이상의 cloud-seeding 실험이 실시됐고, 국방부는 그 결과를 ‘매우 성공적’으로 평가했다고 기록한다. 메모에는 82%의 씨뿌리기 대상 구름이 짧은 시간 안에 비를 내렸다는 DOD 평가도 들어 있다. 그러나 이 숫자는 **독립적인 현대 무작위대조실험이 아니라 당시 군 당국이 정책결정자에게 보고한 작전평가**라는 경계를 유지해야 한다.",
+          "textEn": "The FRUS record says that more than fifty cloud-seeding experiments were carried out during an October 1966 test phase in the Lao Panhandle, and that the Department of Defense regarded the results as highly successful. The memo reports a DOD assessment that 82 percent of seeded clouds produced rain shortly afterward. That number is a contemporary military program assessment, not an independent modern randomized trial."
+        },
+        {
+          "blockId": "uncertainty-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "문서 자체도 통제능력의 한계를 인정했다",
+          "headingEn": "The Memo Itself Admitted Limits on Control",
+          "textKo": "같은 1967년 메모는 아이러니하게도 ‘너무 성공적’일 수 있다는 우려를 적었다. 유도되는 강우량과 영향범위를 정확히 예측할 수 없고, 확실한 통제수단은 작전을 중단하는 것뿐이라는 취지다. 시험단계가 우기였기 때문에 건기에도 같은 효과를 재현할 수 있는지는 확실하지 않다고도 기록한다. **작전이 실제였다는 사실과 원하는 장소·시간에 비를 정밀제어할 수 있었다는 주장은 전혀 다르다.**",
+          "textEn": "The same 1967 memorandum acknowledged a striking limit: the amount and geographical extent of induced rainfall could not be predicted precisely, and the only absolute control was to stop seeding. It also cautioned that rainy-season test results did not guarantee equal effectiveness during the dry season. The program’s existence is documented; precise control of rainfall at will is not."
+        },
+        {
+          "blockId": "operational-04",
+          "type": "TURNING_POINT",
+          "headingKo": "1966~1972년, 동남아에서 실제 작전경험이 축적됐다",
+          "headingEn": "1966–1972: Weather Modification Became an Operational Military Experience",
+          "textKo": "1974년 미국 정부의 환경전 정책검토 문서는 1966~1972년 동남아에서 군사적 강우증강 실험·작전이 수행됐고, 이를 미국의 유일한 주요 전투조건 weather-modification 경험으로 정리한다. 목적은 강우를 늘려 도로를 연약하게 만들고 산사태·도하로 문제를 키워 북베트남 보급을 어렵게 하는 것이었다. **Popeye는 ‘가능성을 연구한 실험실 프로젝트’에만 머문 것이 아니라 실제 전쟁환경에서 운용됐다.**",
+          "textEn": "A 1974 U.S. government review of environmental warfare states that rain-augmentation experiments and operations were carried out in Southeast Asia from 1966 to 1972, describing them as the country’s only significant operational combat experience with military weather modification. The goal was to increase rainfall, soften roads, encourage landslides, and wash out river crossings to hinder North Vietnamese infiltration."
+        },
+        {
+          "blockId": "secrecy-05",
+          "type": "BACKGROUND",
+          "headingKo": "작전의 비밀성은 정치·법적 부담을 보여준다",
+          "headingEn": "The Secrecy Revealed Political and Legal Anxiety",
+          "textKo": "1967년 메모는 작전을 ‘non-publicized’ 상태로 유지하려 했고, 공개될 경우 미국이 날씨를 조작한다는 비판에 취약해질 것을 우려했다. 라오스 정부와의 협의문제, 국제법, 민간인 영향도 내부 검토대상이었다. 이 문서는 단순한 기술보고서가 아니라 **기술효과가 불확실한 상태에서 군사적 이점과 정치·법적 위험을 저울질한 정책문서**다.",
+          "textEn": "The 1967 memo sought to keep the program non-publicized and explicitly worried about vulnerability to accusations of U.S. weather manipulation if exposed. It also discussed consultation with Laos, international-law implications, and possible civilian effects. The document is therefore not merely technical; it records policymakers balancing uncertain technical effects against military, political, and legal consequences."
+        },
+        {
+          "blockId": "scope-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Popeye가 존재했다고 해서 허리케인 조종까지 가능했던 것은 아니다",
+          "headingEn": "Popeye Does Not Prove That Governments Could Steer Hurricanes",
+          "textKo": "1974년 정책검토는 당시 가능한 환경전 기술의 범위를 구분한다. 일부 안개 제거와 강수 증감은 operational 또는 near-operational로 볼 수 있었지만, 허리케인·태풍을 강화하거나 방향을 돌리는 아이디어는 대부분 이론적 가능성으로 분류됐다. **실제 구름씨뿌리기 작전 하나를 근거로 ‘정부가 폭풍·기후 전체를 원하는 대로 통제했다’고 확대하는 것은 문서가 허용하지 않는다.**",
+          "textEn": "The 1974 policy review distinguishes between different levels of capability. Some fog-dispersal and precipitation-modification techniques were considered operational or near-operational, while intensifying or steering major storms such as hurricanes and typhoons remained largely theoretical. Popeye’s reality does not establish broad government control over storms or climate."
+        },
+        {
+          "blockId": "legacy-07",
+          "type": "AFTERMATH",
+          "headingKo": "비밀기술이 공개된 뒤 질문은 ‘가능했나’에서 ‘허용해야 하나’로 바뀌었다",
+          "headingEn": "Once Revealed, the Question Shifted From Capability to Restraint",
+          "textKo": "Popeye 공개 이후 논쟁은 날씨조작이 가능한지 여부보다 전쟁에서 환경을 무기로 사용하는 것을 어디까지 금지할 것인가로 옮겨갔다. 1974년 미국 정부문서도 소련과의 환경전 제한협상을 검토하며 동남아 경험을 직접 언급한다. **이 사건은 비밀작전이 실제였다는 점보다, 불완전하게 통제되는 환경개입을 군사목적으로 사용할 때 어떤 국제규범이 필요한가라는 후속문제를 남겼다.**",
+          "textEn": "After the program became public, the central policy question shifted from whether weather modification was possible to how military environmental manipulation should be restrained. A 1974 U.S. policy review discussed international limits while explicitly referring to the Southeast Asian experience. The long-term significance is as much about the governance of imperfectly controllable environmental intervention as about the operation itself."
+        },
+        {
+          "blockId": "militaryeffect-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘비가 왔다’와 ‘보급망을 실제로 얼마나 끊었나’는 다른 성과지표",
+          "headingEn": "Making Rain and Disrupting Logistics Are Different Measures of Success",
+          "textKo": "1967년 메모는 씨뿌리기 뒤 강우가 늘었다는 평가와 함께 도로포화·차량이동 방해라는 군사적 기대를 연결한다. 그러나 구름 하나가 비를 내렸다는 결과가 전체 보급망의 전략적 차단으로 곧장 이어지는 것은 아니다. 도로복구, 우회로, 계절강우, 적의 대응 같은 변수가 있기 때문이다. **Project Popeye의 기술적 효과와 전쟁전체에서의 전략적 효과를 같은 성공률로 표현하면 안 된다.** 당시 DOD가 ‘성공적’이라고 평가했다는 사실과 독립적인 전쟁효과 평가를 분리해야 한다.",
+          "textEn": "The 1967 memorandum linked increased rainfall after seeding with hoped-for road saturation and traffic disruption. But producing rain in a seeded cloud is not the same metric as strategically interrupting an entire logistics network. Road repair, alternate routes, seasonal weather, and enemy adaptation all matter. DOD’s contemporary assessment of technical success should therefore be separated from a broader independent assessment of wartime strategic effect."
+        },
+        {
+          "blockId": "conditions-055",
+          "type": "BACKGROUND",
+          "headingKo": "구름씨뿌리기는 ‘맑은 하늘에서 비를 만드는 버튼’이 아니었다",
+          "headingEn": "Cloud Seeding Was Not a Button That Made Rain From Clear Skies",
+          "textKo": "문서가 전제하는 Popeye의 작동조건은 이미 적절한 구름과 기상상태가 있는 상황에서 강수과정을 증강하려는 것이다. 1966년 시험이 우기에 수행됐기 때문에 1967년 메모는 건기에 같은 정도의 젖은 조건을 재현할 수 있을지 확실하지 않다고 경고한다. 이 점은 후대 과장과 중요하게 다르다. **작전은 대기조건을 완전히 새로 만드는 기술이 아니라 특정 조건의 구름을 대상으로 강수확률과 양을 바꾸려는 시도였다.**",
+          "textEn": "Popeye assumed suitable clouds and meteorological conditions already existed and attempted to augment precipitation processes within them. Because the 1966 tests occurred during the rainy season, the 1967 memo explicitly warned that the same effects might not be reproduced during the dry season. The program was not technology for creating storms from clear sky at will; it attempted to modify precipitation under particular atmospheric conditions."
+        },
+        {
+          "blockId": "civilian-065",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "민간인 영향과 우방국 주권도 내부에서 문제로 인식됐다",
+          "headingEn": "Civilian Effects and Allied Sovereignty Were Recognized as Problems",
+          "textKo": "1967년 국무부 메모는 라오스 정부와의 협의, 표적 밖 강우, 민간인 생활과 심리효과를 별도 항목으로 검토한다. 작전의 군사목표가 명확했다고 해서 정책결정자들이 부작용을 통제할 수 있다고 자신한 것은 아니다. 오히려 문서에는 영향범위를 정밀예측하기 어렵다는 우려와 우방국 영토에서 비공개 환경개입을 수행하는 정치적 부담이 함께 나타난다. **비밀작전의 존재를 확인하는 동시에 그 내부 문서가 스스로 기록한 불확실성도 보존해야 한다.**",
+          "textEn": "The 1967 State Department memo separately considered consultation with Laos, rainfall outside target areas, civilian effects, and psychological consequences. Clear military objectives did not mean policymakers believed side effects were precisely controllable. The document records both the reality of the secret program and internal concern about unpredictable geographic effects and the political burden of environmental intervention in allied territory."
+        },
+        {
+          "blockId": "policy-075",
+          "type": "AFTERMATH",
+          "headingKo": "후대 정책문서에서 Popeye는 ‘다시 써도 될 무기’가 아니라 제한대상이 됐다",
+          "headingEn": "Later Policy Treated the Experience as a Reason to Debate Restraint",
+          "textKo": "1974년 환경전 검토에서 동남아 강우증강 경험은 향후 전쟁에서 기상개조 권리를 계속 보유할지, 국제적 제한을 협상할지를 논의하는 사례로 등장한다. 문서는 강수·안개 개조와 달리 폭풍 조종 같은 기술은 대부분 이론수준이라고 구분하면서도, **이미 작전에 사용된 기술조차 국제안보·검증·규범 문제를 만든다는 점**을 인정한다. Popeye의 유산은 ‘날씨무기 성공담’보다 환경을 전쟁수단으로 삼을 때 생기는 통제문제에 가깝다.",
+          "textEn": "In the 1974 environmental-warfare review, Southeast Asian rain-augmentation experience became part of a policy debate over whether to preserve military weather-modification options or negotiate restraints. The document distinguished limited precipitation/fog techniques from largely theoretical storm steering, while acknowledging that even operational techniques raised international-security and verification problems. Popeye’s legacy is therefore as much about restraint as capability."
+        },
+        {
+          "blockId": "proof-078",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기밀문서가 ‘작전 존재’를 증명해도 모든 효과수치를 자동으로 확정하지는 않는다",
+          "headingEn": "Declassified Documents Prove the Program, Not Every Claimed Effect Size",
+          "textKo": "Popeye는 문서가 공개됐기 때문에 존재여부는 매우 강하게 확인된다. 그러나 같은 문서 안의 성공률·도로효과는 당시 프로그램 참여기관의 평가다. **기밀해제는 문서의 진위를 높여주지만, 그 문서 안의 모든 인과평가를 독립검증한 실험결과로 바꾸지는 않는다.** 기사에서는 ‘정부가 그렇게 평가했다’와 ‘현대 분석으로 효과가 확정됐다’를 분리한다.",
+          "textEn": "Declassification makes the existence and policy intent of Popeye strongly documentable. But reported success rates and road effects inside those documents remain contemporary program assessments. Authenticity of the document does not transform every causal claim inside it into an independently replicated experiment. The article therefore separates “the government assessed” from “later evidence independently established.”"
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 미국 정부는 베트남전 시기 동남아 보급로의 강우를 늘려 군사이동을 방해하기 위한 비밀 cloud-seeding 프로그램을 시험·운용했다. 1966년 시험은 50회 이상 실시됐고 DOD는 높은 성공률을 보고했다. 1974년 정부문서는 1966~1972년 동남아의 군사 강우증강 작전을 실제 전투조건 운용경험으로 인정한다.\n\n**확인되지 않음:** Popeye가 강우량·영향범위를 정밀하게 원하는 대로 통제할 수 있었다는 것은 아니다. 당시 문서도 예측·통제 한계를 인정한다. 이 사건이 허리케인 조종이나 광범위한 기후통제 능력을 입증하는 것도 아니다.",
+          "textEn": "**Established:** The U.S. government tested and operated secret cloud-seeding programs during the Vietnam War to increase rainfall and hinder military movement along infiltration routes. The 1966 test involved more than fifty experiments, and DOD reported high apparent success. A 1974 policy review describes 1966–1972 Southeast Asian rain-augmentation operations as real military weather-modification experience.\n\n**Not established:** Popeye did not demonstrate precise control over rainfall amount or affected area; contemporary documents acknowledged those limits. Nor does the program establish an ability to steer hurricanes or broadly control climate at will."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 미국 정부는 베트남전 시기 동남아 보급로의 강우를 늘려 군사이동을 방해하기 위한 비밀 cloud-seeding 프로그램을 시험·운용했다. 1966년 시험은 50회 이상 실시됐고 DOD는 높은 성공률을 보고했다. 1974년 정부문서는 1966~1972년 동남아의 군사 강우증강 작전을 실제 전투조건 운용경험으로 인정한다.\n\n**확인되지 않음:** Popeye가 강우량·영향범위를 정밀하게 원하는 대로 통제할 수 있었다는 것은 아니다. 당시 문서도 예측·통제 한계를 인정한다. 이 사건이 허리케인 조종이나 광범위한 기후통제 능력을 입증하는 것도 아니다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "test-02",
+        "uncertainty-03",
+        "operational-04",
+        "secrecy-05",
+        "scope-06",
+        "legacy-07",
+        "militaryeffect-045",
+        "conditions-055",
+        "civilian-065",
+        "policy-075",
+        "proof-078"
+      ]
+    },
+    "en": {
+      "headline": "Did the United States Really Use Rain as a Weapon in Vietnam?",
+      "hook": "This is not a conspiracy theory. U.S. documents record a secret cloud-seeding program intended to make infiltration routes wetter and harder to use. The real question is not whether it existed, but how much control and effect it actually achieved.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘날씨조작 음모론’이 아니라 실제 비밀작전이었다",
+          "headingEn": "This One Was Not a Weather-Control Conspiracy Theory",
+          "textKo": "베트남전 시기 미국은 실제로 군사목적으로 구름씨뿌리기를 사용했다. 1967년 1월 국무부 비밀메모는 Project Popeye의 목표를 북베트남과 라오스 보급로에 비를 늘려 트럭 이동을 방해하는 것으로 명시한다. 건기에도 지면을 포화상태에 가깝게 유지해 도로를 진흙탕으로 만들려는 계획이었다. **‘정부가 비밀리에 날씨를 바꾸려 했다’는 핵심명제는 이 사건에서는 문서로 확인된다.**",
+          "textEn": "During the Vietnam War, the United States really did use cloud seeding for military purposes. A January 1967 State Department memorandum describes Project Popeye’s goal as increasing rainfall over infiltration routes in North Vietnam and Laos to hinder truck traffic, including attempts to prolong wet conditions into the dry season. In this case, the core claim that a government secretly attempted weather modification is documented."
+        },
+        {
+          "blockId": "test-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1966년 시험단계는 50회 넘게 씨뿌리기를 했다",
+          "headingEn": "The 1966 Test Phase Used More Than 50 Seeding Experiments",
+          "textKo": "국무부 FRUS 문서는 1966년 10월 라오스 남부 일대에서 50회 이상의 cloud-seeding 실험이 실시됐고, 국방부는 그 결과를 ‘매우 성공적’으로 평가했다고 기록한다. 메모에는 82%의 씨뿌리기 대상 구름이 짧은 시간 안에 비를 내렸다는 DOD 평가도 들어 있다. 그러나 이 숫자는 **독립적인 현대 무작위대조실험이 아니라 당시 군 당국이 정책결정자에게 보고한 작전평가**라는 경계를 유지해야 한다.",
+          "textEn": "The FRUS record says that more than fifty cloud-seeding experiments were carried out during an October 1966 test phase in the Lao Panhandle, and that the Department of Defense regarded the results as highly successful. The memo reports a DOD assessment that 82 percent of seeded clouds produced rain shortly afterward. That number is a contemporary military program assessment, not an independent modern randomized trial."
+        },
+        {
+          "blockId": "uncertainty-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "문서 자체도 통제능력의 한계를 인정했다",
+          "headingEn": "The Memo Itself Admitted Limits on Control",
+          "textKo": "같은 1967년 메모는 아이러니하게도 ‘너무 성공적’일 수 있다는 우려를 적었다. 유도되는 강우량과 영향범위를 정확히 예측할 수 없고, 확실한 통제수단은 작전을 중단하는 것뿐이라는 취지다. 시험단계가 우기였기 때문에 건기에도 같은 효과를 재현할 수 있는지는 확실하지 않다고도 기록한다. **작전이 실제였다는 사실과 원하는 장소·시간에 비를 정밀제어할 수 있었다는 주장은 전혀 다르다.**",
+          "textEn": "The same 1967 memorandum acknowledged a striking limit: the amount and geographical extent of induced rainfall could not be predicted precisely, and the only absolute control was to stop seeding. It also cautioned that rainy-season test results did not guarantee equal effectiveness during the dry season. The program’s existence is documented; precise control of rainfall at will is not."
+        },
+        {
+          "blockId": "operational-04",
+          "type": "TURNING_POINT",
+          "headingKo": "1966~1972년, 동남아에서 실제 작전경험이 축적됐다",
+          "headingEn": "1966–1972: Weather Modification Became an Operational Military Experience",
+          "textKo": "1974년 미국 정부의 환경전 정책검토 문서는 1966~1972년 동남아에서 군사적 강우증강 실험·작전이 수행됐고, 이를 미국의 유일한 주요 전투조건 weather-modification 경험으로 정리한다. 목적은 강우를 늘려 도로를 연약하게 만들고 산사태·도하로 문제를 키워 북베트남 보급을 어렵게 하는 것이었다. **Popeye는 ‘가능성을 연구한 실험실 프로젝트’에만 머문 것이 아니라 실제 전쟁환경에서 운용됐다.**",
+          "textEn": "A 1974 U.S. government review of environmental warfare states that rain-augmentation experiments and operations were carried out in Southeast Asia from 1966 to 1972, describing them as the country’s only significant operational combat experience with military weather modification. The goal was to increase rainfall, soften roads, encourage landslides, and wash out river crossings to hinder North Vietnamese infiltration."
+        },
+        {
+          "blockId": "secrecy-05",
+          "type": "BACKGROUND",
+          "headingKo": "작전의 비밀성은 정치·법적 부담을 보여준다",
+          "headingEn": "The Secrecy Revealed Political and Legal Anxiety",
+          "textKo": "1967년 메모는 작전을 ‘non-publicized’ 상태로 유지하려 했고, 공개될 경우 미국이 날씨를 조작한다는 비판에 취약해질 것을 우려했다. 라오스 정부와의 협의문제, 국제법, 민간인 영향도 내부 검토대상이었다. 이 문서는 단순한 기술보고서가 아니라 **기술효과가 불확실한 상태에서 군사적 이점과 정치·법적 위험을 저울질한 정책문서**다.",
+          "textEn": "The 1967 memo sought to keep the program non-publicized and explicitly worried about vulnerability to accusations of U.S. weather manipulation if exposed. It also discussed consultation with Laos, international-law implications, and possible civilian effects. The document is therefore not merely technical; it records policymakers balancing uncertain technical effects against military, political, and legal consequences."
+        },
+        {
+          "blockId": "scope-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Popeye가 존재했다고 해서 허리케인 조종까지 가능했던 것은 아니다",
+          "headingEn": "Popeye Does Not Prove That Governments Could Steer Hurricanes",
+          "textKo": "1974년 정책검토는 당시 가능한 환경전 기술의 범위를 구분한다. 일부 안개 제거와 강수 증감은 operational 또는 near-operational로 볼 수 있었지만, 허리케인·태풍을 강화하거나 방향을 돌리는 아이디어는 대부분 이론적 가능성으로 분류됐다. **실제 구름씨뿌리기 작전 하나를 근거로 ‘정부가 폭풍·기후 전체를 원하는 대로 통제했다’고 확대하는 것은 문서가 허용하지 않는다.**",
+          "textEn": "The 1974 policy review distinguishes between different levels of capability. Some fog-dispersal and precipitation-modification techniques were considered operational or near-operational, while intensifying or steering major storms such as hurricanes and typhoons remained largely theoretical. Popeye’s reality does not establish broad government control over storms or climate."
+        },
+        {
+          "blockId": "legacy-07",
+          "type": "AFTERMATH",
+          "headingKo": "비밀기술이 공개된 뒤 질문은 ‘가능했나’에서 ‘허용해야 하나’로 바뀌었다",
+          "headingEn": "Once Revealed, the Question Shifted From Capability to Restraint",
+          "textKo": "Popeye 공개 이후 논쟁은 날씨조작이 가능한지 여부보다 전쟁에서 환경을 무기로 사용하는 것을 어디까지 금지할 것인가로 옮겨갔다. 1974년 미국 정부문서도 소련과의 환경전 제한협상을 검토하며 동남아 경험을 직접 언급한다. **이 사건은 비밀작전이 실제였다는 점보다, 불완전하게 통제되는 환경개입을 군사목적으로 사용할 때 어떤 국제규범이 필요한가라는 후속문제를 남겼다.**",
+          "textEn": "After the program became public, the central policy question shifted from whether weather modification was possible to how military environmental manipulation should be restrained. A 1974 U.S. policy review discussed international limits while explicitly referring to the Southeast Asian experience. The long-term significance is as much about the governance of imperfectly controllable environmental intervention as about the operation itself."
+        },
+        {
+          "blockId": "militaryeffect-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘비가 왔다’와 ‘보급망을 실제로 얼마나 끊었나’는 다른 성과지표",
+          "headingEn": "Making Rain and Disrupting Logistics Are Different Measures of Success",
+          "textKo": "1967년 메모는 씨뿌리기 뒤 강우가 늘었다는 평가와 함께 도로포화·차량이동 방해라는 군사적 기대를 연결한다. 그러나 구름 하나가 비를 내렸다는 결과가 전체 보급망의 전략적 차단으로 곧장 이어지는 것은 아니다. 도로복구, 우회로, 계절강우, 적의 대응 같은 변수가 있기 때문이다. **Project Popeye의 기술적 효과와 전쟁전체에서의 전략적 효과를 같은 성공률로 표현하면 안 된다.** 당시 DOD가 ‘성공적’이라고 평가했다는 사실과 독립적인 전쟁효과 평가를 분리해야 한다.",
+          "textEn": "The 1967 memorandum linked increased rainfall after seeding with hoped-for road saturation and traffic disruption. But producing rain in a seeded cloud is not the same metric as strategically interrupting an entire logistics network. Road repair, alternate routes, seasonal weather, and enemy adaptation all matter. DOD’s contemporary assessment of technical success should therefore be separated from a broader independent assessment of wartime strategic effect."
+        },
+        {
+          "blockId": "conditions-055",
+          "type": "BACKGROUND",
+          "headingKo": "구름씨뿌리기는 ‘맑은 하늘에서 비를 만드는 버튼’이 아니었다",
+          "headingEn": "Cloud Seeding Was Not a Button That Made Rain From Clear Skies",
+          "textKo": "문서가 전제하는 Popeye의 작동조건은 이미 적절한 구름과 기상상태가 있는 상황에서 강수과정을 증강하려는 것이다. 1966년 시험이 우기에 수행됐기 때문에 1967년 메모는 건기에 같은 정도의 젖은 조건을 재현할 수 있을지 확실하지 않다고 경고한다. 이 점은 후대 과장과 중요하게 다르다. **작전은 대기조건을 완전히 새로 만드는 기술이 아니라 특정 조건의 구름을 대상으로 강수확률과 양을 바꾸려는 시도였다.**",
+          "textEn": "Popeye assumed suitable clouds and meteorological conditions already existed and attempted to augment precipitation processes within them. Because the 1966 tests occurred during the rainy season, the 1967 memo explicitly warned that the same effects might not be reproduced during the dry season. The program was not technology for creating storms from clear sky at will; it attempted to modify precipitation under particular atmospheric conditions."
+        },
+        {
+          "blockId": "civilian-065",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "민간인 영향과 우방국 주권도 내부에서 문제로 인식됐다",
+          "headingEn": "Civilian Effects and Allied Sovereignty Were Recognized as Problems",
+          "textKo": "1967년 국무부 메모는 라오스 정부와의 협의, 표적 밖 강우, 민간인 생활과 심리효과를 별도 항목으로 검토한다. 작전의 군사목표가 명확했다고 해서 정책결정자들이 부작용을 통제할 수 있다고 자신한 것은 아니다. 오히려 문서에는 영향범위를 정밀예측하기 어렵다는 우려와 우방국 영토에서 비공개 환경개입을 수행하는 정치적 부담이 함께 나타난다. **비밀작전의 존재를 확인하는 동시에 그 내부 문서가 스스로 기록한 불확실성도 보존해야 한다.**",
+          "textEn": "The 1967 State Department memo separately considered consultation with Laos, rainfall outside target areas, civilian effects, and psychological consequences. Clear military objectives did not mean policymakers believed side effects were precisely controllable. The document records both the reality of the secret program and internal concern about unpredictable geographic effects and the political burden of environmental intervention in allied territory."
+        },
+        {
+          "blockId": "policy-075",
+          "type": "AFTERMATH",
+          "headingKo": "후대 정책문서에서 Popeye는 ‘다시 써도 될 무기’가 아니라 제한대상이 됐다",
+          "headingEn": "Later Policy Treated the Experience as a Reason to Debate Restraint",
+          "textKo": "1974년 환경전 검토에서 동남아 강우증강 경험은 향후 전쟁에서 기상개조 권리를 계속 보유할지, 국제적 제한을 협상할지를 논의하는 사례로 등장한다. 문서는 강수·안개 개조와 달리 폭풍 조종 같은 기술은 대부분 이론수준이라고 구분하면서도, **이미 작전에 사용된 기술조차 국제안보·검증·규범 문제를 만든다는 점**을 인정한다. Popeye의 유산은 ‘날씨무기 성공담’보다 환경을 전쟁수단으로 삼을 때 생기는 통제문제에 가깝다.",
+          "textEn": "In the 1974 environmental-warfare review, Southeast Asian rain-augmentation experience became part of a policy debate over whether to preserve military weather-modification options or negotiate restraints. The document distinguished limited precipitation/fog techniques from largely theoretical storm steering, while acknowledging that even operational techniques raised international-security and verification problems. Popeye’s legacy is therefore as much about restraint as capability."
+        },
+        {
+          "blockId": "proof-078",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기밀문서가 ‘작전 존재’를 증명해도 모든 효과수치를 자동으로 확정하지는 않는다",
+          "headingEn": "Declassified Documents Prove the Program, Not Every Claimed Effect Size",
+          "textKo": "Popeye는 문서가 공개됐기 때문에 존재여부는 매우 강하게 확인된다. 그러나 같은 문서 안의 성공률·도로효과는 당시 프로그램 참여기관의 평가다. **기밀해제는 문서의 진위를 높여주지만, 그 문서 안의 모든 인과평가를 독립검증한 실험결과로 바꾸지는 않는다.** 기사에서는 ‘정부가 그렇게 평가했다’와 ‘현대 분석으로 효과가 확정됐다’를 분리한다.",
+          "textEn": "Declassification makes the existence and policy intent of Popeye strongly documentable. But reported success rates and road effects inside those documents remain contemporary program assessments. Authenticity of the document does not transform every causal claim inside it into an independently replicated experiment. The article therefore separates “the government assessed” from “later evidence independently established.”"
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 미국 정부는 베트남전 시기 동남아 보급로의 강우를 늘려 군사이동을 방해하기 위한 비밀 cloud-seeding 프로그램을 시험·운용했다. 1966년 시험은 50회 이상 실시됐고 DOD는 높은 성공률을 보고했다. 1974년 정부문서는 1966~1972년 동남아의 군사 강우증강 작전을 실제 전투조건 운용경험으로 인정한다.\n\n**확인되지 않음:** Popeye가 강우량·영향범위를 정밀하게 원하는 대로 통제할 수 있었다는 것은 아니다. 당시 문서도 예측·통제 한계를 인정한다. 이 사건이 허리케인 조종이나 광범위한 기후통제 능력을 입증하는 것도 아니다.",
+          "textEn": "**Established:** The U.S. government tested and operated secret cloud-seeding programs during the Vietnam War to increase rainfall and hinder military movement along infiltration routes. The 1966 test involved more than fifty experiments, and DOD reported high apparent success. A 1974 policy review describes 1966–1972 Southeast Asian rain-augmentation operations as real military weather-modification experience.\n\n**Not established:** Popeye did not demonstrate precise control over rainfall amount or affected area; contemporary documents acknowledged those limits. Nor does the program establish an ability to steer hurricanes or broadly control climate at will."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The U.S. government tested and operated secret cloud-seeding programs during the Vietnam War to increase rainfall and hinder military movement along infiltration routes. The 1966 test involved more than fifty experiments, and DOD reported high apparent success. A 1974 policy review describes 1966–1972 Southeast Asian rain-augmentation operations as real military weather-modification experience.\n\n**Not established:** Popeye did not demonstrate precise control over rainfall amount or affected area; contemporary documents acknowledged those limits. Nor does the program establish an ability to steer hurricanes or broadly control climate at will.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "test-02",
+        "uncertainty-03",
+        "operational-04",
+        "secrecy-05",
+        "scope-06",
+        "legacy-07",
+        "militaryeffect-045",
+        "conditions-055",
+        "civilian-065",
+        "policy-075",
+        "proof-078"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "POP-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project Popeye의 목적은 강우를 늘려 북베트남·라오스 보급로 교통을 방해하는 것이었다.",
+      "statementEn": "Project Popeye aimed to increase rainfall to hinder traffic on infiltration routes in North Vietnam and Laos.",
+      "sourceRefs": [
+        "POPEYE1967"
+      ]
+    },
+    {
+      "claimId": "POP-C2",
+      "status": "ATTRIBUTED_ASSESSMENT",
+      "statementKo": "1966년 50회 이상의 시험에서 DOD는 82%의 씨뿌리기 대상 구름이 비를 냈다고 평가했다.",
+      "statementEn": "DOD reported that, in more than fifty 1966 test seedings, 82 percent of seeded clouds produced rain shortly afterward.",
+      "sourceRefs": [
+        "POPEYE1967"
+      ]
+    },
+    {
+      "claimId": "POP-C3",
+      "status": "CONFIRMED",
+      "statementKo": "미국 정부는 1966~1972년 동남아에서 군사적 강우증강 실험·작전을 수행했다.",
+      "statementEn": "The U.S. government carried out military rain-augmentation experiments and operations in Southeast Asia from 1966 to 1972.",
+      "sourceRefs": [
+        "ENVWAR1974"
+      ]
+    },
+    {
+      "claimId": "POP-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "강우량과 영향범위를 정밀하게 통제할 수 있었다는 것은 확립되지 않는다.",
+      "statementEn": "Precise control over rainfall amount and affected area was not established.",
+      "sourceRefs": [
+        "POPEYE1967"
+      ]
+    },
+    {
+      "claimId": "POP-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Popeye가 허리케인 조종이나 전지구 기후통제 능력을 입증하지 않는다.",
+      "statementEn": "Popeye does not establish the ability to steer hurricanes or control global climate.",
+      "sourceRefs": [
+        "ENVWAR1974"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "POPEYE1967",
+      "title": "Weather Modification in North Vietnam and Laos (Project Popeye), January 13 1967",
+      "publisher": "U.S. Department of State, Foreign Relations of the United States",
+      "url": "https://history.state.gov/historicaldocuments/frus1964-68v28/d274",
+      "sourceType": "DECLASSIFIED_PRIMARY_POLICY_MEMO"
+    },
+    {
+      "sourceId": "ENVWAR1974",
+      "title": "Environmental Warfare Interagency Report",
+      "publisher": "U.S. Department of State, FRUS 1969–1976",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76ve14p2/d74",
+      "sourceType": "DECLASSIFIED_POLICY_REVIEW"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "operation-popeye-capability-vs-myth",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Operation Popeye에서 실제로 확인되는 cloud seeding과 과장된 광역 날씨통제를 분리한 카드.",
+      "captionEn": "Evidence card separating documented Popeye cloud seeding from unsupported claims of precise large-scale weather control.",
+      "altKo": "왼쪽 확인된 작전, 오른쪽 입증되지 않은 통제주장.",
+      "altEn": "Two-column comparison of documented operations and unsupported control claims.",
+      "sourceRefs": [
+        "POPEYE1967",
+        "ENVWAR1974"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-popeye__capability-vs-myth__ko.png",
+          "sha256": "48fad311bc978c16f5d0737c1e270871f156b874552bce38d97df090d3a38129",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-popeye__capability-vs-myth__en.png",
+          "sha256": "5a2c4941a11cc3784d5338189c3759750f2891d36a28b32d681a4ce6c8412016",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "operation-popeye-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Operation Popeye의 시험·작전목표·운용·통제한계를 요약한 hero 도표.",
+      "captionEn": "Hero explainer summarizing Operation Popeye tests, objective, operations, and control limits.",
+      "altKo": "1966 시험, 1967 제안, 1966~72 운용, 한계 네 단계.",
+      "altEn": "Four stages: tests, proposal, operations, limits.",
+      "sourceRefs": [
+        "POPEYE1967",
+        "ENVWAR1974"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-popeye__hero-context__ko.png",
+          "sha256": "eae96f3a2edd053efd06391aa3d5ea841faa23d2572d58f4b6707959a91cf9b1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-popeye__hero-context__en.png",
+          "sha256": "40711c1163298b7e54ae5d03d1e9dcb4b8b2acb353b096ca94189f8ab8a42150",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "operation-popeye-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Operation Popeye의 1966 시험부터 1974 환경전 정책검토까지의 타임라인.",
+      "captionEn": "Timeline from the 1966 Popeye tests through the 1974 environmental-warfare policy review.",
+      "altKo": "1966, 1967, 1966~72, 1974 네 단계.",
+      "altEn": "Four milestones: 1966, 1967, 1966–72, 1974.",
+      "sourceRefs": [
+        "POPEYE1967",
+        "ENVWAR1974"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-popeye__timeline__ko.png",
+          "sha256": "76a9fbd5daf016f38522880991830ca52d774fb1a32c71f0392e3fa28f960459",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-popeye__timeline__en.png",
+          "sha256": "70f4128c1c4a9515fdeca3e23683a077209569a7140830c68e3069227c156fc7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States",
+      "Laos",
+      "North Vietnam"
+    ],
+    "regions": [
+      "Southeast Asia"
+    ],
+    "places": [
+      {
+        "name": "Laos Panhandle",
+        "role": "test/operational region"
+      }
+    ],
+    "people": [
+      {
+        "name": "Dean Rusk",
+        "role": "Secretary of State / decision context"
+      },
+      {
+        "name": "Robert McNamara",
+        "role": "Secretary of Defense / policy context"
+      }
+    ],
+    "organizations": [
+      "U.S. Department of Defense",
+      "U.S. Department of State"
+    ],
+    "dateRange": {
+      "start": "1966-10",
+      "end": "1972",
+      "precision": "test through operational period"
+    },
+    "era": "Vietnam War",
+    "resolution": "SECRET_PROGRAM_CONFIRMED_EFFECT_SIZE_AND_CONTROL_LIMITED",
+    "searchAliases": [
+      "Operation Popeye",
+      "Project Popeye",
+      "weather modification Vietnam"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3021,
+    "enBodyWords": 799,
+    "meaningfulBlockCount": 13,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

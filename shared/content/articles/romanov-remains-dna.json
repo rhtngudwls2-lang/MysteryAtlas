@@ -1,0 +1,799 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "romanov-remains-dna",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로마노프 가문의 두 번째 무덤과 DNA 확인",
+    "canonicalTitleEn": "Romanov Children: Second Grave and DNA Identification",
+    "aliasesKo": [
+      "로마노프 두 번째 무덤",
+      "알렉세이·아나스타샤 생존설 DNA"
+    ],
+    "aliasesEn": [
+      "Romanov second grave",
+      "Romanov missing children DNA"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "DEEP_DOSSIER",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사라진 두 아이는 누구였나—두 번째 무덤이 바꾼 로마노프 미스터리",
+      "hook": "첫 번째 무덤의 DNA는 황실 가족 대부분을 확인했지만 두 자녀는 사라진 채였다. 약 70미터 떨어진 두 번째 무덤에서 발견된 44개의 뼈와 치아 조각은 그 빈칸을 다시 법유전학의 문제로 바꿨다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "첫 번째 무덤에는 두 아이가 없었다",
+          "headingEn": "Two Children Were Missing From the First Grave",
+          "textKo": "1991년 예카테린부르크 인근에서 발굴된 얕은 무덤에는 아홉 구의 유해가 있었다. 법의학팀은 이들 가운데 니콜라이 2세와 알렉산드라, 그리고 딸 세 명이 포함돼 있다고 보았다. 황실 주치의와 수행원들도 함께 있었다. 하지만 로마노프 부부에게는 자녀가 다섯이었다. 황태자 알렉세이와 딸 한 명에 해당하는 유해가 비어 있었다. 1918년 처형 이후 수십 년 동안 이어졌던 ‘혹시 누군가 살아남았나’라는 전설은 이 빈자리 때문에 완전히 사라지지 않았다.",
+          "textEn": "When a shallow grave near Yekaterinburg was excavated in 1991, it contained nine sets of human remains. Forensic teams identified a family group consistent with Nicholas II, Alexandra, and three of their daughters, together with members of the imperial household. But the Romanov couple had five children. The remains corresponding to Tsarevich Alexei and one daughter were missing. That absence helped keep alive stories that had circulated since the 1918 killings: perhaps one or more of the children had somehow survived."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "1994년 DNA가 첫 번째 무덤을 묶었다",
+          "headingEn": "DNA Linked the First Grave to the Family",
+          "textKo": "첫 번째 무덤의 신원을 확인하는 데 핵심이 된 것은 당시 빠르게 발전하던 법유전학이었다. 1994년 Nature Genetics에 발표된 Gill 연구팀의 논문은 성별 검사, STR 분석, 미토콘드리아 DNA를 이용해 무덤 속에 실제 가족집단이 존재한다는 점을 확인했다. 알렉산드라로 추정된 유해와 세 딸의 미토콘드리아 DNA는 살아 있는 모계 친족과 일치했고, 니콜라이 2세로 추정된 유해에서도 살아 있는 모계 친족과 연결되는 특징이 확인됐다. 연구진은 DNA 결과가 이 유해들이 로마노프 가족이라는 가설을 지지한다고 결론냈다.",
+          "textEn": "A key tool in identifying the first grave was the rapidly developing field of forensic genetics. In 1994, a Nature Genetics paper led by Peter Gill used sex testing, short tandem repeats, and mitochondrial DNA to show that the grave contained a genuine family group. The mitochondrial DNA attributed to Alexandra and three daughters matched a living maternal relative, while the remains attributed to Nicholas II carried mitochondrial features linking them to living maternal relatives as well. The authors concluded that the DNA evidence supported identification of the remains as members of the Romanov family."
+        },
+        {
+          "blockId": "father-id-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "부모 시료의 신원이 먼저 견뎌야 했다",
+          "headingEn": "The Parents Had to Be Identified Before the Children Could Be",
+          "textKo": "두 번째 무덤의 두 시료가 ‘니콜라이와 알렉산드라의 자녀’라는 계산에 들어가려면, 첫 번째 무덤에서 부모로 분류된 유해 자체의 신원도 충분히 강해야 했다. 1994년 Gill 연구는 알렉산드라와 세 딸의 미토콘드리아 DNA가 살아 있는 모계 친족과 일치하는 것을 확인했고, 니콜라이 2세 추정 유해에서는 한 위치에 두 mtDNA 형태가 함께 존재하는 heteroplasmy를 확인했다. 그 가운데 한 서열은 살아 있는 니콜라이의 모계 친족과 맞았다. 즉 두 번째 무덤의 자녀 식별은 이름표가 붙은 부모 자료를 무비판적으로 받아쓴 것이 아니라, **부모 쪽 유전적 신원확인을 이미 거친 계보 위에 세워졌다.**",
+          "textEn": "For the second-grave samples to be tested as children of Nicholas and Alexandra, the identities assigned to the parents in the first grave also had to be well supported. The 1994 Gill study found that mitochondrial DNA attributed to Alexandra and three daughters matched a living maternal relative. In the remains attributed to Nicholas II, the team documented mitochondrial heteroplasmy at a control-region position, with one sequence matching living maternal relatives of Nicholas. The later child-identification work therefore rested on a pedigree whose parental identities had already been subjected to independent genetic testing, rather than simply accepting historical labels at face value."
+        },
+        {
+          "blockId": "problem-03",
+          "type": "TURNING_POINT",
+          "headingKo": "DNA가 풀어준 사건이 다시 미스터리가 되다",
+          "headingEn": "A Solved Identification Left a New Mystery",
+          "textKo": "그러나 첫 번째 DNA 분석이 강력할수록 빠진 두 자녀의 존재는 더 뚜렷해졌다. 가족관계가 맞는다면 왜 일곱 가족 구성원 중 다섯 명만 첫 무덤에 있었을까. 러시아와 미국의 법인류학자들은 첫 무덤에서 빠진 딸이 마리아인지 아나스타샤인지에 대해서도 서로 다른 해석을 내놓았다. 대중문화에서 특히 유명했던 아나스타샤 생존설은 이 과학적 빈칸을 타고 다시 힘을 얻었다. 하지만 ‘유해 두 구가 없다’는 사실과 ‘두 사람이 살아남았다’는 결론은 같은 말이 아니었다. 필요한 것은 두 번째 증거였다.",
+          "textEn": "The stronger the first DNA identification became, the more conspicuous the two missing children appeared. If the family relationships were correct, why were only five of the seven Romanovs in the first grave? Russian and American forensic anthropologists also disagreed over whether Maria or Anastasia was the daughter absent from that burial. The famous Anastasia survival story gained renewed cultural force from the scientific gap. But “two sets of remains are missing” is not the same claim as “two people survived.” What the case needed was a second body of evidence."
+        },
+        {
+          "blockId": "discovery-04",
+          "type": "CHRONOLOGY",
+          "headingKo": "2007년, 70미터 떨어진 두 번째 무덤",
+          "headingEn": "2007: A Second Grave About 70 Metres Away",
+          "textKo": "2007년 여름, 아마추어 고고학자들이 첫 번째 무덤에서 약 70미터 떨어진 지점에서 뼈 조각을 발견했다. 공식 발굴로 회수된 것은 뼈와 치아를 합쳐 44점이었다. 상태는 좋지 않았다. 일부는 불에 손상됐고, 후대 연구는 화학물질에 노출됐을 가능성도 논의했다. 인류학적 관찰은 적어도 두 사람이 존재한다는 점을 지지했다. 한 사람은 젊은 여성, 다른 한 사람은 어린 남성으로 추정됐다. 나이 범위도 로마노프 가족에서 빠진 두 아이와 맞을 가능성이 있었다. 하지만 나이와 성별만으로는 신원을 증명할 수 없었다.",
+          "textEn": "In the summer of 2007, amateur archaeologists found bone fragments roughly 70 metres from the first grave. An official excavation recovered 44 bone fragments and teeth. The material was badly damaged, with evidence of burning and later discussion of chemical exposure. Anthropological examination supported the presence of at least two individuals: a young female and a younger male. Their estimated ages were compatible with the two Romanov children missing from the first grave. Age and sex, however, could not establish identity on their own."
+        },
+        {
+          "blockId": "methods-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "한 종류의 DNA만 본 것이 아니었다",
+          "headingEn": "The Case Did Not Depend on a Single DNA Test",
+          "textKo": "2009년 PLOS ONE에 발표된 Coble 연구팀은 두 번째 무덤의 시료를 여러 유전 시스템으로 검사했다. 미토콘드리아 DNA는 모계 연결을 확인하는 데 사용됐고, 상염색체 STR은 부모와 자녀 사이의 멘델식 유전관계를 시험했다. 남성 시료에서는 Y-STR도 비교됐다. 일부 핵심 시료는 미국 Armed Forces DNA Identification Laboratory와 오스트리아 Innsbruck의 법의학 연구팀 등 서로 독립된 팀에서 나눠 검사했다. 중요한 점은 ‘어느 한 유전자 위치가 비슷했다’가 아니라 **서로 다른 유전검사가 같은 가족관계 방향으로 수렴했다는 것**이었다.",
+          "textEn": "The 2009 PLOS ONE study led by Michael Coble tested material from the second grave with several genetic systems. Mitochondrial DNA was used to examine maternal relationships, autosomal STRs tested Mendelian inheritance across the family, and Y-STR markers were used for the male sample. Some key specimens were independently divided among specialist teams, including the Armed Forces DNA Identification Laboratory and a forensic laboratory in Innsbruck. The strength of the result did not come from one matching genetic site. It came from different genetic systems converging on the same family relationship."
+        },
+        {
+          "blockId": "evidence-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "남성 유해는 알렉세이와 맞아떨어졌다",
+          "headingEn": "The Male Remains Fit Alexei",
+          "textKo": "두 번째 무덤의 남성 시료는 알렉세이 신원 확인에서 특히 강한 단서를 제공했다. 연구진은 남성 시료의 Y-STR haplotype가 니콜라이 2세의 Y-STR과 일치하고, 살아 있는 로마노프 남계 친족의 자료와도 연결된다고 보고했다. 동시에 상염색체 STR에서 이 시료가 니콜라이 2세와 알렉산드라의 자녀로 들어가는 가족계보와 맞았다. 연구진은 여러 검사결과를 합쳐 이 남성 유해를 황태자 알렉세이로 결론내릴 수 있다고 보았다.",
+          "textEn": "The male sample from the second grave provided especially strong evidence for Alexei. The researchers reported that its Y-STR haplotype matched the Y-STR profile attributed to Nicholas II and also connected with a living Romanov male-line relative. Autosomal STRs placed the sample within a pedigree consistent with a child of Nicholas and Alexandra. Taken together, the different systems allowed the researchers to identify the male remains as Tsarevich Alexei."
+        },
+        {
+          "blockId": "evidence-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "여성 유해는 ‘딸 한 명’까지는 강했다",
+          "headingEn": "The Female Remains Identified a Daughter—but Not Which One",
+          "textKo": "여성 유해의 경우 DNA는 또 다른 종류의 답을 줬다. 미토콘드리아 DNA와 상염색체 STR은 이 유해 역시 니콜라이 2세와 알렉산드라의 자녀이고, 첫 번째 무덤에서 빠진 딸 한 명이라는 해석을 강하게 지지했다. 그러나 여기서 과학적 경계가 중요해진다. Coble 연구팀은 **DNA만으로 그 여성이 마리아인지 아나스타샤인지 결정할 수 없다고 명시했다.** 자매들은 같은 부모를 공유하기 때문에, 당시 이용한 유전표지와 비교자료만으로 어느 자매인지를 하나로 고정할 수 없었다.",
+          "textEn": "The female remains produced a different kind of answer. Mitochondrial and autosomal DNA strongly supported that the individual was another child of Nicholas and Alexandra and therefore the missing daughter from the first grave. But an important scientific boundary remained. Coble and colleagues explicitly stated that **their DNA results could not determine whether the woman was Maria or Anastasia**. The sisters shared the same parents, and the genetic markers and reference material used in that study could not uniquely distinguish which sister occupied the second grave."
+        },
+        {
+          "blockId": "anthro-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "뼈 조각이 먼저 말해준 최소한의 정보",
+          "headingEn": "What the Fragments Could Tell Before DNA",
+          "textKo": "두 번째 무덤은 완전한 두 구의 골격이 놓인 장소가 아니었다. 공식 발굴에서는 44개의 뼈 조각과 치아가 수습됐고, 일부는 불에 손상돼 있었다. Coble 연구팀이 정리한 인류학적 판단은 중복되는 해부학적 부위 때문에 최소 두 사람이 존재한다는 점을 먼저 확인했다. 골반과 장골의 형태는 한 사람이 여성일 가능성을, 다른 사람이 남성일 가능성을 지지했고, 발달연령 역시 청소년 범위였다. 그러나 조각이 너무 작고 대표적인 해부학적 부위가 부족해 키나 조상집단을 신뢰성 있게 추정할 수는 없었다. 즉 **인류학은 ‘두 젊은 사람이 있다’는 문을 열었지만, ‘로마노프의 두 아이’라는 이름표를 붙인 것은 DNA였다.**",
+          "textEn": "The second grave did not contain two complete skeletons. The official excavation recovered forty-four bone fragments and teeth, some damaged by fire. As summarized by Coble and colleagues, duplicated anatomical elements established that at least two individuals were present. Pelvic and other skeletal features supported one female and one probable male, both within adolescent age ranges. But the fragments were too limited to estimate stature or ancestry reliably. Anthropology could therefore establish that the grave held two young people; assigning them to the missing Romanov children required genetic evidence."
+        },
+        {
+          "blockId": "sample-050",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "44조각을 전부 갈아 넣지 않았다",
+          "headingEn": "The Team Did Not Consume All 44 Fragments",
+          "textKo": "두 번째 무덤의 44개 조각 가운데 실제 DNA 분석에는 보존상태와 해부학적 가치가 더 높은 일부 시료가 선택됐다. Coble 연구는 아홉 개 뼈 조각과 치아 조각 하나를 후보로 검토했고, 치아는 DNA를 얻을 가능성이 있어 보였지만 보존을 위해 파괴적 검사를 하지 않기로 했다. 또 핵 DNA 분석에는 상대적으로 상태가 좋은 대퇴골 조각이 선택됐다. 이런 선택은 법유전학의 중요한 현실을 보여준다. 오래된 유해는 ‘검사하면 사라지는’ 재료일 수 있다. 따라서 더 많은 데이터를 얻는 것과 미래 연구를 위해 표본을 남기는 것 사이에서 균형을 잡아야 한다. 로마노프 사건의 결론은 44개를 모두 소비해서 나온 것이 아니라, **대표성과 보존상태를 고려해 고른 시료에서 여러 독립 검사결과를 겹친 결과**였다.",
+          "textEn": "The investigators did not simply consume all forty-four fragments in testing. The Coble study selected a subset based on preservation and anatomical value: nine bone fragments and part of a tooth were considered, but the tooth was ultimately preserved rather than destroyed even though it might have yielded DNA. Better-preserved femoral fragments were chosen for nuclear testing. This illustrates a practical constraint in historical forensics: testing can consume irreplaceable material. The Romanov conclusion did not come from exhausting every fragment. It came from choosing informative specimens carefully and obtaining convergent results while preserving material for future work."
+        },
+        {
+          "blockId": "mtdna-052",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "미토콘드리아 DNA: 모계선을 연결하다",
+          "headingEn": "Mitochondrial DNA Linked the Maternal Line",
+          "textKo": "첫 번째 연결고리는 미토콘드리아 DNA였다. 두 번째 무덤에서 분석 가능한 여러 시료는 같은 control-region profile을 보였고, 이 패턴은 첫 번째 무덤에서 알렉산드라와 세 딸로 분류된 유해의 미토콘드리아 계통과 맞았다. 미토콘드리아 DNA는 어머니에게서 자녀에게 전달되기 때문에, 이 일치는 ‘두 번째 무덤의 두 사람이 알렉산드라의 모계선과 연결된다’는 강한 증거였다. 하지만 미토콘드리아 DNA 하나만으로 같은 어머니를 둔 형제자매 사이에서 누가 누구인지를 모두 구분할 수는 없다. 그래서 연구팀은 다음 단계로 상염색체와 Y염색체 표지를 겹쳤다.",
+          "textEn": "The first genetic bridge came from mitochondrial DNA. Several testable samples from the second grave produced the same control-region profile, and that pattern matched the mitochondrial lineage attributed to Alexandra and three daughters from the first grave. Because mitochondrial DNA is transmitted through the maternal line, the result strongly linked the two new individuals to Alexandra’s maternal family. But mitochondrial DNA alone cannot distinguish every sibling born to the same mother. The investigators therefore layered autosomal and Y-chromosome markers on top of the maternal evidence."
+        },
+        {
+          "blockId": "autosomal-057",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "상염색체 STR: ‘이 가족의 자녀인가’를 시험하다",
+          "headingEn": "Autosomal STRs Tested Whether They Fit the Family",
+          "textKo": "상염색체 STR은 더 직접적인 가족계보 시험을 가능하게 했다. 사람은 각 위치의 대립유전자를 부모에게서 하나씩 물려받기 때문에, 자녀의 프로필은 부모 두 사람의 조합 안에서 설명돼야 한다. 연구팀은 두 번째 무덤에서 보존상태가 좋은 대퇴골 시료를 골라 STR 프로필을 만들고, 첫 무덤의 니콜라이 2세와 알렉산드라로 분류된 유해와 비교했다. 논문은 두 시료의 대립유전자가 부모-자녀 멘델식 유전으로 가족계보 안에 들어맞았다고 보고했다. 이는 ‘같은 모계 친족일 수 있다’보다 한 단계 더 구체적으로, **두 사람이 그 부부의 자녀라는 가설을 직접 시험한 결과**였다.",
+          "textEn": "Autosomal STRs allowed a more direct family-pedigree test. At each marker, a child inherits alleles from the parents, so the child’s profile must be explainable within the parental combination. The researchers selected well-preserved femoral material from the second grave and compared the resulting STR profiles with the remains attributed to Nicholas II and Alexandra in the first grave. The paper reports that the alleles fit the expected Mendelian family pedigree. This moved the evidence beyond a shared maternal lineage and directly tested whether the two individuals could be children of the imperial couple."
+        },
+        {
+          "blockId": "ystr-062",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Y-STR: 남성 유해를 알렉세이로 좁히다",
+          "headingEn": "Y-STR Narrowed the Male Remains to Alexei",
+          "textKo": "남성 시료에는 Y염색체라는 추가 축이 있었다. Coble 연구에서 두 번째 무덤 남성의 17-marker Y-STR haplotype는 니콜라이 2세의 Y-STR과 정확히 일치했고, 살아 있는 로마노프 남계 친족에서도 같은 haplotype가 확인됐다. 첫 번째 무덤에서 빠진 로마노프 남자 자녀는 알렉세이 한 명이었다. 따라서 성별·나이·모계 DNA·상염색체 가족관계에 Y-STR까지 겹치면 남성 유해의 신원은 사실상 한 방향으로 수렴한다. 이 때문에 연구팀은 여성 유해보다 남성 유해를 훨씬 더 구체적으로, **알렉세이**라고 이름 붙일 수 있었다.",
+          "textEn": "The male sample offered an additional line of evidence through the Y chromosome. In the Coble study, the 17-marker Y-STR haplotype from the second-grave male matched the Y-STR profile attributed to Nicholas II and also matched a living Romanov male-line relative. Only one male child of Nicholas and Alexandra was missing from the first grave: Alexei. When sex, age, mitochondrial lineage, autosomal pedigree, and Y-STR evidence are combined, the male identity converges strongly on the Tsarevich. That is why the study could name Alexei more specifically than it could name the female remains."
+        },
+        {
+          "blockId": "replication-068",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "오염과 우연을 어떻게 걸러냈나",
+          "headingEn": "How the Teams Guarded Against Contamination and Coincidence",
+          "textKo": "고대·손상 유해의 DNA는 오염과 부분적 분해가 큰 위험이다. 이 사건에서 일부 핵심 시료는 미국 AFDIL의 서로 다른 부서와 오스트리아 Innsbruck 연구팀 등 독립된 팀이 나눠 분석했다. Coble 논문은 핵 STR 대립유전자를 반복 증폭했고, 실험 blank에서 검출 가능한 DNA가 나오지 않았으며, 보고기준을 넘긴 수많은 대립유전자 가운데 비특이적 drop-in으로 볼 수 있는 신호가 극히 적었다고 기록한다. ‘한 연구실이 한 번 얻은 결과’가 아니라 여러 실험경로에서 같은 가족관계가 재현됐다는 점은 오래된 유해 신원확인에서 매우 중요한 품질장치였다.",
+          "textEn": "Ancient and damaged skeletal DNA is especially vulnerable to contamination and partial degradation. In this case, key specimens were divided among independent specialist teams, including different sections of AFDIL and the forensic laboratory in Innsbruck. The Coble paper reports repeated amplification of nuclear STR alleles, clean reagent blanks, and very few spurious alleles relative to the large number scored above reporting thresholds. The result was not a single laboratory obtaining one convenient match. Multiple analytical routes reproduced the same family relationship, an important safeguard in historical human-identification work."
+        },
+        {
+          "blockId": "shirt-072",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "과거의 피 한 점까지 비교대상이 됐다",
+          "headingEn": "Even an Old Bloodstain Became a Reference",
+          "textKo": "연구팀은 뼈와 살아 있는 친족만 비교한 것도 아니었다. Coble 논문은 젊은 시절 니콜라이가 입었던 셔츠에 남은 혈흔에서 작성된 DNA 프로필을 니콜라이 2세로 분류된 유해의 STR 결과와 비교했다고 설명한다. 역사 유물에서 나온 독립적인 생물학적 기준점이 유해 신원확인을 다시 확인하는 역할을 한 것이다. 이런 교차검증은 ‘가족처럼 보이는 유해가 있었다’는 수준을 넘어, 첫 번째 무덤의 부모 신원과 두 번째 무덤의 자녀 신원을 하나의 계보 안에서 연결하는 데 도움이 됐다.",
+          "textEn": "The investigators did not rely only on skeletal remains and living relatives. The Coble paper describes comparison with a DNA profile obtained from a bloodstain on a shirt worn by Nicholas when he was a young man. That historical biological reference provided another check on the STR profile attributed to Nicholas II. Cross-checks of this kind strengthened the chain linking the parents in the first grave to the children in the second, rather than relying only on the observation that the buried individuals appeared to form a family."
+        },
+        {
+          "blockId": "corroboration-08",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "다른 연구팀도 같은 가족을 가리켰다",
+          "headingEn": "An Independent Genomic Study Pointed the Same Way",
+          "textKo": "같은 해 PNAS에 발표된 Rogaev 연구팀의 genomic identification 연구도 로마노프 유해를 독립적으로 다시 분석했다. 이 연구는 첫 번째 무덤과 두 번째 무덤에서 나온 유전자료를 황실 가족과 연결하며, 2007년에 발견된 두 유해가 빠진 자녀들과 연결된다는 결론을 지지했다. 하나의 논문이 혼자 사건을 닫은 것이 아니라, 서로 다른 연구팀과 분석 접근이 겹치면서 ‘두 아이가 살아남았을 수 있다’는 오래된 빈칸이 급격히 좁아졌다.",
+          "textEn": "A separate genomic-identification study led by Evgeny Rogaev and published in PNAS the same year independently re-examined Romanov material. Its analysis also linked the remains from the first and second graves to the imperial family and supported identification of the two 2007 individuals as the missing children. The case was therefore not closed by a single paper acting alone. Independent research teams and different analytical approaches converged, sharply narrowing the old gap that had sustained survival stories."
+        },
+        {
+          "blockId": "probability-082",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘닮아 보인다’가 아니라 가족일 가능성을 계산했다",
+          "headingEn": "The Analysis Tested Kinship, Not Visual Resemblance",
+          "textKo": "Rogaev 연구팀은 두 번째 무덤의 핵심 시료에서 완전한 미토콘드리아 게놈까지 복원해 첫 무덤의 알렉산드라 추정 유해와 살아 있는 모계 친족 자료를 비교했다. N146·N147 두 시료의 mtDNA는 같은 모계선으로 수렴했고, 상염색체 STR은 두 시료가 니콜라이 2세와 알렉산드라의 직접 자녀로 들어가는 가족관계를 지지했다. 연구는 이 가족관계가 무관한 임의의 사람들일 가능성보다 압도적으로 더 그럴듯하다는 likelihood 계산도 제시했다. 중요한 것은 숫자 하나의 크기가 아니라, **완전 mtDNA·상염색체 STR·Y염색체·살아 있는 친족·첫 무덤 부모 시료가 모두 하나의 가족계보를 가리켰다는 수렴성**이다.",
+          "textEn": "Rogaev and colleagues extended the evidence by recovering complete mitochondrial genomes from key second-grave specimens and comparing them with the remains attributed to Alexandra and with living maternal relatives. The N146 and N147 samples converged on the same maternal lineage, while autosomal STRs supported a direct parent-child relationship with Nicholas and Alexandra. The study also presented likelihood calculations showing that the observed family structure was overwhelmingly more probable under the Romanov-kinship hypothesis than under a model of unrelated random individuals. The important point is not one dramatic probability figure; it is the convergence of complete mtDNA, autosomal STRs, Y-chromosome data, living relatives, and parental remains from the first grave."
+        },
+        {
+          "blockId": "counter-09",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘두 아이를 찾았다’와 ‘모든 논쟁이 끝났다’는 다르다",
+          "headingEn": "Finding the Two Children Did Not Answer Every Historical Question",
+          "textKo": "DNA가 해결한 질문은 매우 구체적이다. 첫 번째 무덤에서 빠진 두 자녀에 해당하는 유해가 두 번째 무덤에 있었는가. 여러 연구는 여기에 강한 ‘그렇다’를 제시했다. 그러나 유전학은 1918년 밤 시신이 어떤 순서로 이동됐는지, 누가 어떤 행동을 했는지, 왜 두 유해가 따로 처리됐는지 같은 역사적 세부를 직접 기록하지 않는다. 또한 Coble 연구만으로 여성 유해를 마리아 또는 아나스타샤 중 한 명으로 이름 붙일 수 없다. 과학이 미스터리를 줄였다는 사실과, 사건의 모든 역사적 세부가 완전히 복원됐다는 주장은 구분해야 한다.",
+          "textEn": "The DNA question was precise: did the second grave contain the two Romanov children missing from the first burial? Multiple studies gave a powerful yes. Genetics does not, however, record every historical detail of the night in 1918—exactly how bodies were moved, who performed each act, or why two sets of remains were handled separately. Nor did the Coble study alone provide a genetic basis for naming the female as Maria rather than Anastasia, or vice versa. Solving the identification problem is not the same as reconstructing every detail of the historical event."
+        },
+        {
+          "blockId": "myth-10",
+          "type": "AFTERMATH",
+          "headingKo": "아나스타샤 생존설이 남긴 긴 그림자",
+          "headingEn": "The Long Shadow of the Anastasia Survival Story",
+          "textKo": "로마노프 미스터리가 대중문화에서 오래 살아남은 이유는 증거의 부재와 이야기가 완벽하게 맞물렸기 때문이다. 첫 무덤에서 두 자녀가 빠져 있었다는 사실은 ‘누군가 도망쳤다’는 이야기에 현실적인 틈을 제공했다. 하지만 2007년 두 번째 무덤과 2009년의 유전분석은 그 틈의 성격을 바꿨다. 이제 중요한 질문은 ‘살아남은 공주가 있었나’가 아니라, **왜 첫 번째 발굴과 초기 신원확인만으로는 가족 전체를 찾지 못했고, 두 번째 무덤의 과학적 검증이 어떻게 그 공백을 메웠는가**가 됐다.",
+          "textEn": "The Romanov survival story endured because an absence in the evidence aligned perfectly with a compelling narrative. The first grave really was missing two children, leaving room for stories that someone had escaped. The second grave in 2007 and the genetic work published in 2009 changed the nature of that gap. The central question is no longer whether a princess escaped. It is how the first burial and early identifications left two family members unaccounted for, and how the second grave and modern forensic genetics closed that space."
+        },
+        {
+          "blockId": "boundary-11",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1991년에 발굴된 첫 번째 무덤의 유해는 DNA 분석에서 니콜라이 2세·알렉산드라와 세 딸을 포함한 가족집단과 일치했다. 2007년 첫 무덤에서 약 70미터 떨어진 두 번째 무덤에서 두 사람의 유해가 발견됐고, 2009년 여러 유전분석은 이들이 첫 무덤에서 빠진 로마노프 자녀 두 명임을 강하게 지지했다. 남성 유해는 알렉세이와 일치한다.\n\n**경계:** Coble 연구의 DNA만으로 여성 유해가 마리아인지 아나스타샤인지 결정할 수 없다. 유전학은 가족관계와 신원 문제를 강하게 해결하지만, 1918년 처형·시신처리의 모든 역사적 세부를 자체적으로 증명하지 않는다.",
+          "textEn": "**Established:** DNA analysis of the first grave excavated in 1991 supported identification of a family group including Nicholas II, Alexandra, and three daughters. A second grave found about 70 metres away in 2007 contained two individuals, and multiple genetic analyses published in 2009 strongly supported that they were the two Romanov children missing from the first grave. The male remains are consistent with Alexei.\n\n**Boundary:** The Coble study’s DNA did not distinguish whether the female was Maria or Anastasia. Genetics can strongly resolve identity and family relationships, but it does not by itself establish every historical detail of the 1918 killings and body-disposal process."
+        }
+      ],
+      "factBoundary": {
+        "established": "두 번째 무덤의 남녀 유해는 로마노프 부부의 빠진 두 자녀와 강하게 일치하며 남성은 알렉세이로 확인된다.",
+        "notEstablished": "Coble 2009 DNA만으로 여성 유해를 마리아 또는 아나스타샤 중 하나로 확정할 수 없고, DNA가 1918년의 모든 역사적 세부를 증명하는 것은 아니다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "father-id-025",
+        "problem-03",
+        "discovery-04",
+        "methods-05",
+        "evidence-06",
+        "evidence-07",
+        "anthro-045",
+        "sample-050",
+        "mtdna-052",
+        "autosomal-057",
+        "ystr-062",
+        "replication-068",
+        "shirt-072",
+        "corroboration-08",
+        "probability-082",
+        "counter-09",
+        "myth-10"
+      ]
+    },
+    "en": {
+      "headline": "Who Were the Two Missing Children? The Second Grave That Changed the Romanov Mystery",
+      "hook": "DNA from the first grave accounted for most of the imperial family, but two children were still missing. Forty-four bone and tooth fragments found in a second grave about seventy metres away turned that gap into a new forensic-genetics problem.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "첫 번째 무덤에는 두 아이가 없었다",
+          "headingEn": "Two Children Were Missing From the First Grave",
+          "textKo": "1991년 예카테린부르크 인근에서 발굴된 얕은 무덤에는 아홉 구의 유해가 있었다. 법의학팀은 이들 가운데 니콜라이 2세와 알렉산드라, 그리고 딸 세 명이 포함돼 있다고 보았다. 황실 주치의와 수행원들도 함께 있었다. 하지만 로마노프 부부에게는 자녀가 다섯이었다. 황태자 알렉세이와 딸 한 명에 해당하는 유해가 비어 있었다. 1918년 처형 이후 수십 년 동안 이어졌던 ‘혹시 누군가 살아남았나’라는 전설은 이 빈자리 때문에 완전히 사라지지 않았다.",
+          "textEn": "When a shallow grave near Yekaterinburg was excavated in 1991, it contained nine sets of human remains. Forensic teams identified a family group consistent with Nicholas II, Alexandra, and three of their daughters, together with members of the imperial household. But the Romanov couple had five children. The remains corresponding to Tsarevich Alexei and one daughter were missing. That absence helped keep alive stories that had circulated since the 1918 killings: perhaps one or more of the children had somehow survived."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "1994년 DNA가 첫 번째 무덤을 묶었다",
+          "headingEn": "DNA Linked the First Grave to the Family",
+          "textKo": "첫 번째 무덤의 신원을 확인하는 데 핵심이 된 것은 당시 빠르게 발전하던 법유전학이었다. 1994년 Nature Genetics에 발표된 Gill 연구팀의 논문은 성별 검사, STR 분석, 미토콘드리아 DNA를 이용해 무덤 속에 실제 가족집단이 존재한다는 점을 확인했다. 알렉산드라로 추정된 유해와 세 딸의 미토콘드리아 DNA는 살아 있는 모계 친족과 일치했고, 니콜라이 2세로 추정된 유해에서도 살아 있는 모계 친족과 연결되는 특징이 확인됐다. 연구진은 DNA 결과가 이 유해들이 로마노프 가족이라는 가설을 지지한다고 결론냈다.",
+          "textEn": "A key tool in identifying the first grave was the rapidly developing field of forensic genetics. In 1994, a Nature Genetics paper led by Peter Gill used sex testing, short tandem repeats, and mitochondrial DNA to show that the grave contained a genuine family group. The mitochondrial DNA attributed to Alexandra and three daughters matched a living maternal relative, while the remains attributed to Nicholas II carried mitochondrial features linking them to living maternal relatives as well. The authors concluded that the DNA evidence supported identification of the remains as members of the Romanov family."
+        },
+        {
+          "blockId": "father-id-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "부모 시료의 신원이 먼저 견뎌야 했다",
+          "headingEn": "The Parents Had to Be Identified Before the Children Could Be",
+          "textKo": "두 번째 무덤의 두 시료가 ‘니콜라이와 알렉산드라의 자녀’라는 계산에 들어가려면, 첫 번째 무덤에서 부모로 분류된 유해 자체의 신원도 충분히 강해야 했다. 1994년 Gill 연구는 알렉산드라와 세 딸의 미토콘드리아 DNA가 살아 있는 모계 친족과 일치하는 것을 확인했고, 니콜라이 2세 추정 유해에서는 한 위치에 두 mtDNA 형태가 함께 존재하는 heteroplasmy를 확인했다. 그 가운데 한 서열은 살아 있는 니콜라이의 모계 친족과 맞았다. 즉 두 번째 무덤의 자녀 식별은 이름표가 붙은 부모 자료를 무비판적으로 받아쓴 것이 아니라, **부모 쪽 유전적 신원확인을 이미 거친 계보 위에 세워졌다.**",
+          "textEn": "For the second-grave samples to be tested as children of Nicholas and Alexandra, the identities assigned to the parents in the first grave also had to be well supported. The 1994 Gill study found that mitochondrial DNA attributed to Alexandra and three daughters matched a living maternal relative. In the remains attributed to Nicholas II, the team documented mitochondrial heteroplasmy at a control-region position, with one sequence matching living maternal relatives of Nicholas. The later child-identification work therefore rested on a pedigree whose parental identities had already been subjected to independent genetic testing, rather than simply accepting historical labels at face value."
+        },
+        {
+          "blockId": "problem-03",
+          "type": "TURNING_POINT",
+          "headingKo": "DNA가 풀어준 사건이 다시 미스터리가 되다",
+          "headingEn": "A Solved Identification Left a New Mystery",
+          "textKo": "그러나 첫 번째 DNA 분석이 강력할수록 빠진 두 자녀의 존재는 더 뚜렷해졌다. 가족관계가 맞는다면 왜 일곱 가족 구성원 중 다섯 명만 첫 무덤에 있었을까. 러시아와 미국의 법인류학자들은 첫 무덤에서 빠진 딸이 마리아인지 아나스타샤인지에 대해서도 서로 다른 해석을 내놓았다. 대중문화에서 특히 유명했던 아나스타샤 생존설은 이 과학적 빈칸을 타고 다시 힘을 얻었다. 하지만 ‘유해 두 구가 없다’는 사실과 ‘두 사람이 살아남았다’는 결론은 같은 말이 아니었다. 필요한 것은 두 번째 증거였다.",
+          "textEn": "The stronger the first DNA identification became, the more conspicuous the two missing children appeared. If the family relationships were correct, why were only five of the seven Romanovs in the first grave? Russian and American forensic anthropologists also disagreed over whether Maria or Anastasia was the daughter absent from that burial. The famous Anastasia survival story gained renewed cultural force from the scientific gap. But “two sets of remains are missing” is not the same claim as “two people survived.” What the case needed was a second body of evidence."
+        },
+        {
+          "blockId": "discovery-04",
+          "type": "CHRONOLOGY",
+          "headingKo": "2007년, 70미터 떨어진 두 번째 무덤",
+          "headingEn": "2007: A Second Grave About 70 Metres Away",
+          "textKo": "2007년 여름, 아마추어 고고학자들이 첫 번째 무덤에서 약 70미터 떨어진 지점에서 뼈 조각을 발견했다. 공식 발굴로 회수된 것은 뼈와 치아를 합쳐 44점이었다. 상태는 좋지 않았다. 일부는 불에 손상됐고, 후대 연구는 화학물질에 노출됐을 가능성도 논의했다. 인류학적 관찰은 적어도 두 사람이 존재한다는 점을 지지했다. 한 사람은 젊은 여성, 다른 한 사람은 어린 남성으로 추정됐다. 나이 범위도 로마노프 가족에서 빠진 두 아이와 맞을 가능성이 있었다. 하지만 나이와 성별만으로는 신원을 증명할 수 없었다.",
+          "textEn": "In the summer of 2007, amateur archaeologists found bone fragments roughly 70 metres from the first grave. An official excavation recovered 44 bone fragments and teeth. The material was badly damaged, with evidence of burning and later discussion of chemical exposure. Anthropological examination supported the presence of at least two individuals: a young female and a younger male. Their estimated ages were compatible with the two Romanov children missing from the first grave. Age and sex, however, could not establish identity on their own."
+        },
+        {
+          "blockId": "methods-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "한 종류의 DNA만 본 것이 아니었다",
+          "headingEn": "The Case Did Not Depend on a Single DNA Test",
+          "textKo": "2009년 PLOS ONE에 발표된 Coble 연구팀은 두 번째 무덤의 시료를 여러 유전 시스템으로 검사했다. 미토콘드리아 DNA는 모계 연결을 확인하는 데 사용됐고, 상염색체 STR은 부모와 자녀 사이의 멘델식 유전관계를 시험했다. 남성 시료에서는 Y-STR도 비교됐다. 일부 핵심 시료는 미국 Armed Forces DNA Identification Laboratory와 오스트리아 Innsbruck의 법의학 연구팀 등 서로 독립된 팀에서 나눠 검사했다. 중요한 점은 ‘어느 한 유전자 위치가 비슷했다’가 아니라 **서로 다른 유전검사가 같은 가족관계 방향으로 수렴했다는 것**이었다.",
+          "textEn": "The 2009 PLOS ONE study led by Michael Coble tested material from the second grave with several genetic systems. Mitochondrial DNA was used to examine maternal relationships, autosomal STRs tested Mendelian inheritance across the family, and Y-STR markers were used for the male sample. Some key specimens were independently divided among specialist teams, including the Armed Forces DNA Identification Laboratory and a forensic laboratory in Innsbruck. The strength of the result did not come from one matching genetic site. It came from different genetic systems converging on the same family relationship."
+        },
+        {
+          "blockId": "evidence-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "남성 유해는 알렉세이와 맞아떨어졌다",
+          "headingEn": "The Male Remains Fit Alexei",
+          "textKo": "두 번째 무덤의 남성 시료는 알렉세이 신원 확인에서 특히 강한 단서를 제공했다. 연구진은 남성 시료의 Y-STR haplotype가 니콜라이 2세의 Y-STR과 일치하고, 살아 있는 로마노프 남계 친족의 자료와도 연결된다고 보고했다. 동시에 상염색체 STR에서 이 시료가 니콜라이 2세와 알렉산드라의 자녀로 들어가는 가족계보와 맞았다. 연구진은 여러 검사결과를 합쳐 이 남성 유해를 황태자 알렉세이로 결론내릴 수 있다고 보았다.",
+          "textEn": "The male sample from the second grave provided especially strong evidence for Alexei. The researchers reported that its Y-STR haplotype matched the Y-STR profile attributed to Nicholas II and also connected with a living Romanov male-line relative. Autosomal STRs placed the sample within a pedigree consistent with a child of Nicholas and Alexandra. Taken together, the different systems allowed the researchers to identify the male remains as Tsarevich Alexei."
+        },
+        {
+          "blockId": "evidence-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "여성 유해는 ‘딸 한 명’까지는 강했다",
+          "headingEn": "The Female Remains Identified a Daughter—but Not Which One",
+          "textKo": "여성 유해의 경우 DNA는 또 다른 종류의 답을 줬다. 미토콘드리아 DNA와 상염색체 STR은 이 유해 역시 니콜라이 2세와 알렉산드라의 자녀이고, 첫 번째 무덤에서 빠진 딸 한 명이라는 해석을 강하게 지지했다. 그러나 여기서 과학적 경계가 중요해진다. Coble 연구팀은 **DNA만으로 그 여성이 마리아인지 아나스타샤인지 결정할 수 없다고 명시했다.** 자매들은 같은 부모를 공유하기 때문에, 당시 이용한 유전표지와 비교자료만으로 어느 자매인지를 하나로 고정할 수 없었다.",
+          "textEn": "The female remains produced a different kind of answer. Mitochondrial and autosomal DNA strongly supported that the individual was another child of Nicholas and Alexandra and therefore the missing daughter from the first grave. But an important scientific boundary remained. Coble and colleagues explicitly stated that **their DNA results could not determine whether the woman was Maria or Anastasia**. The sisters shared the same parents, and the genetic markers and reference material used in that study could not uniquely distinguish which sister occupied the second grave."
+        },
+        {
+          "blockId": "anthro-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "뼈 조각이 먼저 말해준 최소한의 정보",
+          "headingEn": "What the Fragments Could Tell Before DNA",
+          "textKo": "두 번째 무덤은 완전한 두 구의 골격이 놓인 장소가 아니었다. 공식 발굴에서는 44개의 뼈 조각과 치아가 수습됐고, 일부는 불에 손상돼 있었다. Coble 연구팀이 정리한 인류학적 판단은 중복되는 해부학적 부위 때문에 최소 두 사람이 존재한다는 점을 먼저 확인했다. 골반과 장골의 형태는 한 사람이 여성일 가능성을, 다른 사람이 남성일 가능성을 지지했고, 발달연령 역시 청소년 범위였다. 그러나 조각이 너무 작고 대표적인 해부학적 부위가 부족해 키나 조상집단을 신뢰성 있게 추정할 수는 없었다. 즉 **인류학은 ‘두 젊은 사람이 있다’는 문을 열었지만, ‘로마노프의 두 아이’라는 이름표를 붙인 것은 DNA였다.**",
+          "textEn": "The second grave did not contain two complete skeletons. The official excavation recovered forty-four bone fragments and teeth, some damaged by fire. As summarized by Coble and colleagues, duplicated anatomical elements established that at least two individuals were present. Pelvic and other skeletal features supported one female and one probable male, both within adolescent age ranges. But the fragments were too limited to estimate stature or ancestry reliably. Anthropology could therefore establish that the grave held two young people; assigning them to the missing Romanov children required genetic evidence."
+        },
+        {
+          "blockId": "sample-050",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "44조각을 전부 갈아 넣지 않았다",
+          "headingEn": "The Team Did Not Consume All 44 Fragments",
+          "textKo": "두 번째 무덤의 44개 조각 가운데 실제 DNA 분석에는 보존상태와 해부학적 가치가 더 높은 일부 시료가 선택됐다. Coble 연구는 아홉 개 뼈 조각과 치아 조각 하나를 후보로 검토했고, 치아는 DNA를 얻을 가능성이 있어 보였지만 보존을 위해 파괴적 검사를 하지 않기로 했다. 또 핵 DNA 분석에는 상대적으로 상태가 좋은 대퇴골 조각이 선택됐다. 이런 선택은 법유전학의 중요한 현실을 보여준다. 오래된 유해는 ‘검사하면 사라지는’ 재료일 수 있다. 따라서 더 많은 데이터를 얻는 것과 미래 연구를 위해 표본을 남기는 것 사이에서 균형을 잡아야 한다. 로마노프 사건의 결론은 44개를 모두 소비해서 나온 것이 아니라, **대표성과 보존상태를 고려해 고른 시료에서 여러 독립 검사결과를 겹친 결과**였다.",
+          "textEn": "The investigators did not simply consume all forty-four fragments in testing. The Coble study selected a subset based on preservation and anatomical value: nine bone fragments and part of a tooth were considered, but the tooth was ultimately preserved rather than destroyed even though it might have yielded DNA. Better-preserved femoral fragments were chosen for nuclear testing. This illustrates a practical constraint in historical forensics: testing can consume irreplaceable material. The Romanov conclusion did not come from exhausting every fragment. It came from choosing informative specimens carefully and obtaining convergent results while preserving material for future work."
+        },
+        {
+          "blockId": "mtdna-052",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "미토콘드리아 DNA: 모계선을 연결하다",
+          "headingEn": "Mitochondrial DNA Linked the Maternal Line",
+          "textKo": "첫 번째 연결고리는 미토콘드리아 DNA였다. 두 번째 무덤에서 분석 가능한 여러 시료는 같은 control-region profile을 보였고, 이 패턴은 첫 번째 무덤에서 알렉산드라와 세 딸로 분류된 유해의 미토콘드리아 계통과 맞았다. 미토콘드리아 DNA는 어머니에게서 자녀에게 전달되기 때문에, 이 일치는 ‘두 번째 무덤의 두 사람이 알렉산드라의 모계선과 연결된다’는 강한 증거였다. 하지만 미토콘드리아 DNA 하나만으로 같은 어머니를 둔 형제자매 사이에서 누가 누구인지를 모두 구분할 수는 없다. 그래서 연구팀은 다음 단계로 상염색체와 Y염색체 표지를 겹쳤다.",
+          "textEn": "The first genetic bridge came from mitochondrial DNA. Several testable samples from the second grave produced the same control-region profile, and that pattern matched the mitochondrial lineage attributed to Alexandra and three daughters from the first grave. Because mitochondrial DNA is transmitted through the maternal line, the result strongly linked the two new individuals to Alexandra’s maternal family. But mitochondrial DNA alone cannot distinguish every sibling born to the same mother. The investigators therefore layered autosomal and Y-chromosome markers on top of the maternal evidence."
+        },
+        {
+          "blockId": "autosomal-057",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "상염색체 STR: ‘이 가족의 자녀인가’를 시험하다",
+          "headingEn": "Autosomal STRs Tested Whether They Fit the Family",
+          "textKo": "상염색체 STR은 더 직접적인 가족계보 시험을 가능하게 했다. 사람은 각 위치의 대립유전자를 부모에게서 하나씩 물려받기 때문에, 자녀의 프로필은 부모 두 사람의 조합 안에서 설명돼야 한다. 연구팀은 두 번째 무덤에서 보존상태가 좋은 대퇴골 시료를 골라 STR 프로필을 만들고, 첫 무덤의 니콜라이 2세와 알렉산드라로 분류된 유해와 비교했다. 논문은 두 시료의 대립유전자가 부모-자녀 멘델식 유전으로 가족계보 안에 들어맞았다고 보고했다. 이는 ‘같은 모계 친족일 수 있다’보다 한 단계 더 구체적으로, **두 사람이 그 부부의 자녀라는 가설을 직접 시험한 결과**였다.",
+          "textEn": "Autosomal STRs allowed a more direct family-pedigree test. At each marker, a child inherits alleles from the parents, so the child’s profile must be explainable within the parental combination. The researchers selected well-preserved femoral material from the second grave and compared the resulting STR profiles with the remains attributed to Nicholas II and Alexandra in the first grave. The paper reports that the alleles fit the expected Mendelian family pedigree. This moved the evidence beyond a shared maternal lineage and directly tested whether the two individuals could be children of the imperial couple."
+        },
+        {
+          "blockId": "ystr-062",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Y-STR: 남성 유해를 알렉세이로 좁히다",
+          "headingEn": "Y-STR Narrowed the Male Remains to Alexei",
+          "textKo": "남성 시료에는 Y염색체라는 추가 축이 있었다. Coble 연구에서 두 번째 무덤 남성의 17-marker Y-STR haplotype는 니콜라이 2세의 Y-STR과 정확히 일치했고, 살아 있는 로마노프 남계 친족에서도 같은 haplotype가 확인됐다. 첫 번째 무덤에서 빠진 로마노프 남자 자녀는 알렉세이 한 명이었다. 따라서 성별·나이·모계 DNA·상염색체 가족관계에 Y-STR까지 겹치면 남성 유해의 신원은 사실상 한 방향으로 수렴한다. 이 때문에 연구팀은 여성 유해보다 남성 유해를 훨씬 더 구체적으로, **알렉세이**라고 이름 붙일 수 있었다.",
+          "textEn": "The male sample offered an additional line of evidence through the Y chromosome. In the Coble study, the 17-marker Y-STR haplotype from the second-grave male matched the Y-STR profile attributed to Nicholas II and also matched a living Romanov male-line relative. Only one male child of Nicholas and Alexandra was missing from the first grave: Alexei. When sex, age, mitochondrial lineage, autosomal pedigree, and Y-STR evidence are combined, the male identity converges strongly on the Tsarevich. That is why the study could name Alexei more specifically than it could name the female remains."
+        },
+        {
+          "blockId": "replication-068",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "오염과 우연을 어떻게 걸러냈나",
+          "headingEn": "How the Teams Guarded Against Contamination and Coincidence",
+          "textKo": "고대·손상 유해의 DNA는 오염과 부분적 분해가 큰 위험이다. 이 사건에서 일부 핵심 시료는 미국 AFDIL의 서로 다른 부서와 오스트리아 Innsbruck 연구팀 등 독립된 팀이 나눠 분석했다. Coble 논문은 핵 STR 대립유전자를 반복 증폭했고, 실험 blank에서 검출 가능한 DNA가 나오지 않았으며, 보고기준을 넘긴 수많은 대립유전자 가운데 비특이적 drop-in으로 볼 수 있는 신호가 극히 적었다고 기록한다. ‘한 연구실이 한 번 얻은 결과’가 아니라 여러 실험경로에서 같은 가족관계가 재현됐다는 점은 오래된 유해 신원확인에서 매우 중요한 품질장치였다.",
+          "textEn": "Ancient and damaged skeletal DNA is especially vulnerable to contamination and partial degradation. In this case, key specimens were divided among independent specialist teams, including different sections of AFDIL and the forensic laboratory in Innsbruck. The Coble paper reports repeated amplification of nuclear STR alleles, clean reagent blanks, and very few spurious alleles relative to the large number scored above reporting thresholds. The result was not a single laboratory obtaining one convenient match. Multiple analytical routes reproduced the same family relationship, an important safeguard in historical human-identification work."
+        },
+        {
+          "blockId": "shirt-072",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "과거의 피 한 점까지 비교대상이 됐다",
+          "headingEn": "Even an Old Bloodstain Became a Reference",
+          "textKo": "연구팀은 뼈와 살아 있는 친족만 비교한 것도 아니었다. Coble 논문은 젊은 시절 니콜라이가 입었던 셔츠에 남은 혈흔에서 작성된 DNA 프로필을 니콜라이 2세로 분류된 유해의 STR 결과와 비교했다고 설명한다. 역사 유물에서 나온 독립적인 생물학적 기준점이 유해 신원확인을 다시 확인하는 역할을 한 것이다. 이런 교차검증은 ‘가족처럼 보이는 유해가 있었다’는 수준을 넘어, 첫 번째 무덤의 부모 신원과 두 번째 무덤의 자녀 신원을 하나의 계보 안에서 연결하는 데 도움이 됐다.",
+          "textEn": "The investigators did not rely only on skeletal remains and living relatives. The Coble paper describes comparison with a DNA profile obtained from a bloodstain on a shirt worn by Nicholas when he was a young man. That historical biological reference provided another check on the STR profile attributed to Nicholas II. Cross-checks of this kind strengthened the chain linking the parents in the first grave to the children in the second, rather than relying only on the observation that the buried individuals appeared to form a family."
+        },
+        {
+          "blockId": "corroboration-08",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "다른 연구팀도 같은 가족을 가리켰다",
+          "headingEn": "An Independent Genomic Study Pointed the Same Way",
+          "textKo": "같은 해 PNAS에 발표된 Rogaev 연구팀의 genomic identification 연구도 로마노프 유해를 독립적으로 다시 분석했다. 이 연구는 첫 번째 무덤과 두 번째 무덤에서 나온 유전자료를 황실 가족과 연결하며, 2007년에 발견된 두 유해가 빠진 자녀들과 연결된다는 결론을 지지했다. 하나의 논문이 혼자 사건을 닫은 것이 아니라, 서로 다른 연구팀과 분석 접근이 겹치면서 ‘두 아이가 살아남았을 수 있다’는 오래된 빈칸이 급격히 좁아졌다.",
+          "textEn": "A separate genomic-identification study led by Evgeny Rogaev and published in PNAS the same year independently re-examined Romanov material. Its analysis also linked the remains from the first and second graves to the imperial family and supported identification of the two 2007 individuals as the missing children. The case was therefore not closed by a single paper acting alone. Independent research teams and different analytical approaches converged, sharply narrowing the old gap that had sustained survival stories."
+        },
+        {
+          "blockId": "probability-082",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘닮아 보인다’가 아니라 가족일 가능성을 계산했다",
+          "headingEn": "The Analysis Tested Kinship, Not Visual Resemblance",
+          "textKo": "Rogaev 연구팀은 두 번째 무덤의 핵심 시료에서 완전한 미토콘드리아 게놈까지 복원해 첫 무덤의 알렉산드라 추정 유해와 살아 있는 모계 친족 자료를 비교했다. N146·N147 두 시료의 mtDNA는 같은 모계선으로 수렴했고, 상염색체 STR은 두 시료가 니콜라이 2세와 알렉산드라의 직접 자녀로 들어가는 가족관계를 지지했다. 연구는 이 가족관계가 무관한 임의의 사람들일 가능성보다 압도적으로 더 그럴듯하다는 likelihood 계산도 제시했다. 중요한 것은 숫자 하나의 크기가 아니라, **완전 mtDNA·상염색체 STR·Y염색체·살아 있는 친족·첫 무덤 부모 시료가 모두 하나의 가족계보를 가리켰다는 수렴성**이다.",
+          "textEn": "Rogaev and colleagues extended the evidence by recovering complete mitochondrial genomes from key second-grave specimens and comparing them with the remains attributed to Alexandra and with living maternal relatives. The N146 and N147 samples converged on the same maternal lineage, while autosomal STRs supported a direct parent-child relationship with Nicholas and Alexandra. The study also presented likelihood calculations showing that the observed family structure was overwhelmingly more probable under the Romanov-kinship hypothesis than under a model of unrelated random individuals. The important point is not one dramatic probability figure; it is the convergence of complete mtDNA, autosomal STRs, Y-chromosome data, living relatives, and parental remains from the first grave."
+        },
+        {
+          "blockId": "counter-09",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘두 아이를 찾았다’와 ‘모든 논쟁이 끝났다’는 다르다",
+          "headingEn": "Finding the Two Children Did Not Answer Every Historical Question",
+          "textKo": "DNA가 해결한 질문은 매우 구체적이다. 첫 번째 무덤에서 빠진 두 자녀에 해당하는 유해가 두 번째 무덤에 있었는가. 여러 연구는 여기에 강한 ‘그렇다’를 제시했다. 그러나 유전학은 1918년 밤 시신이 어떤 순서로 이동됐는지, 누가 어떤 행동을 했는지, 왜 두 유해가 따로 처리됐는지 같은 역사적 세부를 직접 기록하지 않는다. 또한 Coble 연구만으로 여성 유해를 마리아 또는 아나스타샤 중 한 명으로 이름 붙일 수 없다. 과학이 미스터리를 줄였다는 사실과, 사건의 모든 역사적 세부가 완전히 복원됐다는 주장은 구분해야 한다.",
+          "textEn": "The DNA question was precise: did the second grave contain the two Romanov children missing from the first burial? Multiple studies gave a powerful yes. Genetics does not, however, record every historical detail of the night in 1918—exactly how bodies were moved, who performed each act, or why two sets of remains were handled separately. Nor did the Coble study alone provide a genetic basis for naming the female as Maria rather than Anastasia, or vice versa. Solving the identification problem is not the same as reconstructing every detail of the historical event."
+        },
+        {
+          "blockId": "myth-10",
+          "type": "AFTERMATH",
+          "headingKo": "아나스타샤 생존설이 남긴 긴 그림자",
+          "headingEn": "The Long Shadow of the Anastasia Survival Story",
+          "textKo": "로마노프 미스터리가 대중문화에서 오래 살아남은 이유는 증거의 부재와 이야기가 완벽하게 맞물렸기 때문이다. 첫 무덤에서 두 자녀가 빠져 있었다는 사실은 ‘누군가 도망쳤다’는 이야기에 현실적인 틈을 제공했다. 하지만 2007년 두 번째 무덤과 2009년의 유전분석은 그 틈의 성격을 바꿨다. 이제 중요한 질문은 ‘살아남은 공주가 있었나’가 아니라, **왜 첫 번째 발굴과 초기 신원확인만으로는 가족 전체를 찾지 못했고, 두 번째 무덤의 과학적 검증이 어떻게 그 공백을 메웠는가**가 됐다.",
+          "textEn": "The Romanov survival story endured because an absence in the evidence aligned perfectly with a compelling narrative. The first grave really was missing two children, leaving room for stories that someone had escaped. The second grave in 2007 and the genetic work published in 2009 changed the nature of that gap. The central question is no longer whether a princess escaped. It is how the first burial and early identifications left two family members unaccounted for, and how the second grave and modern forensic genetics closed that space."
+        },
+        {
+          "blockId": "boundary-11",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1991년에 발굴된 첫 번째 무덤의 유해는 DNA 분석에서 니콜라이 2세·알렉산드라와 세 딸을 포함한 가족집단과 일치했다. 2007년 첫 무덤에서 약 70미터 떨어진 두 번째 무덤에서 두 사람의 유해가 발견됐고, 2009년 여러 유전분석은 이들이 첫 무덤에서 빠진 로마노프 자녀 두 명임을 강하게 지지했다. 남성 유해는 알렉세이와 일치한다.\n\n**경계:** Coble 연구의 DNA만으로 여성 유해가 마리아인지 아나스타샤인지 결정할 수 없다. 유전학은 가족관계와 신원 문제를 강하게 해결하지만, 1918년 처형·시신처리의 모든 역사적 세부를 자체적으로 증명하지 않는다.",
+          "textEn": "**Established:** DNA analysis of the first grave excavated in 1991 supported identification of a family group including Nicholas II, Alexandra, and three daughters. A second grave found about 70 metres away in 2007 contained two individuals, and multiple genetic analyses published in 2009 strongly supported that they were the two Romanov children missing from the first grave. The male remains are consistent with Alexei.\n\n**Boundary:** The Coble study’s DNA did not distinguish whether the female was Maria or Anastasia. Genetics can strongly resolve identity and family relationships, but it does not by itself establish every historical detail of the 1918 killings and body-disposal process."
+        }
+      ],
+      "factBoundary": {
+        "established": "The second grave contained remains strongly consistent with the two missing Romanov children; the male is identifiable as Alexei.",
+        "notEstablished": "The Coble 2009 DNA alone cannot determine whether the female was Maria or Anastasia, and genetics does not establish every historical detail of the 1918 events."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "father-id-025",
+        "problem-03",
+        "discovery-04",
+        "methods-05",
+        "evidence-06",
+        "evidence-07",
+        "anthro-045",
+        "sample-050",
+        "mtdna-052",
+        "autosomal-057",
+        "ystr-062",
+        "replication-068",
+        "shirt-072",
+        "corroboration-08",
+        "probability-082",
+        "counter-09",
+        "myth-10"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ROM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1991년 첫 무덤의 9구는 DNA 분석에서 로마노프 가족 일부와 수행원들에 해당하는 집단으로 지지됐다.",
+      "statementEn": "DNA analysis supported identification of the nine remains from the first grave as members of the Romanov family and household.",
+      "sourceRefs": [
+        "GILL1994"
+      ]
+    },
+    {
+      "claimId": "ROM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "2007년 첫 무덤에서 약 70m 떨어진 두 번째 무덤에서 44개 뼈·치아 조각이 회수됐다.",
+      "statementEn": "In 2007, 44 bone fragments and teeth were recovered from a second grave roughly 70 metres from the first.",
+      "sourceRefs": [
+        "COBLE2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C3",
+      "status": "CONFIRMED",
+      "statementKo": "두 번째 무덤에는 최소 두 사람이 있었고 유전분석은 남성과 여성 한 명씩을 지지했다.",
+      "statementEn": "The second grave contained at least two individuals, genetically consistent with one male and one female.",
+      "sourceRefs": [
+        "COBLE2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C4",
+      "status": "CONFIRMED",
+      "statementKo": "남성 유해는 황태자 알렉세이로 확인할 수 있는 유전적 증거를 보였다.",
+      "statementEn": "The male remains showed genetic evidence allowing identification as Tsarevich Alexei.",
+      "sourceRefs": [
+        "COBLE2009",
+        "ROGAEV2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C5",
+      "status": "SUPPORTED",
+      "statementKo": "여성 유해는 니콜라이 2세와 알렉산드라의 빠진 딸 한 명과 일치한다.",
+      "statementEn": "The female remains are consistent with the missing daughter of Nicholas II and Alexandra.",
+      "sourceRefs": [
+        "COBLE2009",
+        "ROGAEV2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Coble 2009 DNA만으로 여성 유해가 마리아인지 아나스타샤인지 결정되지 않는다.",
+      "statementEn": "The Coble 2009 DNA results alone do not determine whether the female was Maria or Anastasia.",
+      "sourceRefs": [
+        "COBLE2009"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GILL1994",
+      "title": "Identification of the remains of the Romanov family by DNA analysis",
+      "publisher": "Nature Genetics / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8162066/",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "scope": "1991 grave family DNA identification"
+    },
+    {
+      "sourceId": "COBLE2009",
+      "title": "Mystery Solved: The Identification of the Two Missing Romanov Children Using DNA Analysis",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004838",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "scope": "2007 second grave, 44 fragments, mtDNA/autosomal STR/Y-STR, Alexei + one sister, daughter-label limitation"
+    },
+    {
+      "sourceId": "ROGAEV2009",
+      "title": "Genomic identification in the historical case of the Nicholas II royal family",
+      "publisher": "PNAS / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19251637/",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "scope": "independent genomic identification of Romanov remains"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "romanov-remains-dna-convergence",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "고고학·인류학·유전학·독립검증이 같은 신원결론으로 수렴한 구조.",
+      "captionEn": "Evidence stack showing archaeology, anthropology, genetics, and independent work converging on the identification.",
+      "altKo": "여러 증거층이 위에서 아래로 쌓여 두 빠진 자녀 신원으로 수렴하는 카드.",
+      "altEn": "Stacked evidence diagram converging on identification of the two missing children.",
+      "sourceRefs": [
+        "GILL1994",
+        "COBLE2009",
+        "ROGAEV2009"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "romanov-remains-dna__convergence__ko.png",
+          "sha256": "c9a8006c0ec654135125ab961ba0430a759d1ea02ecb91cefe3c8d0cdd526a56",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "romanov-remains-dna__convergence__en.png",
+          "sha256": "64c2ceb52ed5c9f68cb49dde55397fb7dd358c02f632577b39060166516561d5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "romanov-remains-dna-dna-methods",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "mtDNA·상염색체 STR·Y-STR이 각각 가족관계를 확인하는 방식을 설명하는 도표.",
+      "captionEn": "Diagram explaining how mtDNA, autosomal STRs, and Y-STRs contributed different kinship tests.",
+      "altKo": "세 DNA 체계가 모계·부모자녀·남계 관계를 각각 검사하고 하나의 결론으로 모이는 흐름.",
+      "altEn": "Flow showing maternal, parent-child, and male-line DNA tests converging on one kinship conclusion.",
+      "sourceRefs": [
+        "COBLE2009",
+        "ROGAEV2009"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "romanov-remains-dna__dna-methods__ko.png",
+          "sha256": "85914d3b3edb733ab62b6f68488b0a3bbeeb389cf4319741ea95d4c460a6aaf2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "romanov-remains-dna__dna-methods__en.png",
+          "sha256": "69c483d9722487c346711029d2c5a80e1cc60f554a9403b905a249378267fc05",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "romanov-remains-dna-grave-schematic",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "첫 무덤과 약 70m 떨어진 두 번째 무덤의 관계를 비축척으로 정리한 원본 도표.",
+      "captionEn": "Original non-scale schematic of the first grave and the second grave roughly 70 metres away.",
+      "altKo": "왼쪽 첫 무덤 9구와 오른쪽 두 번째 무덤 2인 유해를 비교한 관계도.",
+      "altEn": "Side-by-side non-scale schematic comparing the nine-remain first grave with the two-person second grave.",
+      "sourceRefs": [
+        "COBLE2009",
+        "GILL1994"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "romanov-remains-dna__grave-schematic__ko.png",
+          "sha256": "0bc23d22484f859d398b982d1eb9ddee011c2ec2b98652333a096de0da86e914",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "romanov-remains-dna__grave-schematic__en.png",
+          "sha256": "1868f6ccd6e1e676be62e7545f2493b7744698d50dcf2ebc39b616826c46b5b8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "romanov-remains-dna-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "첫 무덤의 빈칸, 두 번째 무덤, DNA 확인을 한눈에 연결한 로마노프 hero 도표.",
+      "captionEn": "Hero explainer linking the missing children in the first grave, the second grave, and the DNA identification.",
+      "altKo": "첫 무덤에서 빠진 두 자녀가 두 번째 무덤과 DNA 분석으로 연결되는 네 단계 원본 도표.",
+      "altEn": "Four-stage original explainer connecting the missing children from the first grave to the second grave and DNA analysis.",
+      "sourceRefs": [
+        "GILL1994",
+        "COBLE2009",
+        "ROGAEV2009"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "romanov-remains-dna__hero-context__ko.png",
+          "sha256": "aa4a274206c1460d39c3ba899f7ccc9efaf0f18eb415b2295602e3f063a2467a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "romanov-remains-dna__hero-context__en.png",
+          "sha256": "bba6cace19a70c6436132a72821ec9b63010289d46825bdad4891fc667045637",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "romanov-remains-dna-resolved-vs-unresolved",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "로마노프 DNA가 강하게 해결한 신원문제와 남은 역사적 한계를 분리한 카드.",
+      "captionEn": "Evidence card separating what Romanov DNA strongly resolved from what remained outside its scope.",
+      "altKo": "왼쪽 해결된 신원관계, 오른쪽 마리아/아나스타샤 라벨과 역사세부 한계를 표시한 카드.",
+      "altEn": "Two-column card showing resolved kinship and remaining Maria/Anastasia/historical-detail limits.",
+      "sourceRefs": [
+        "COBLE2009",
+        "ROGAEV2009"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "romanov-remains-dna__resolved-vs-unresolved__ko.png",
+          "sha256": "31f0bff7bfcef95a137658be9ac8cd642ad82198a9a20c8cc6e5f1c34c2076b8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "romanov-remains-dna__resolved-vs-unresolved__en.png",
+          "sha256": "08fc7566114ff6d389d784b8fb4eb3751dd4d9536e0c3fffcf2b4d12c947e7e5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "romanov-remains-dna-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1918년 사건부터 2009년 독립 유전분석까지 이어지는 연표.",
+      "captionEn": "Timeline from the 1918 killings to the independent genetic analyses published in 2009.",
+      "altKo": "1918·1991·1994·2007·2009의 주요 사건을 표시한 연표.",
+      "altEn": "Timeline marking 1918, 1991, 1994, 2007, and 2009 milestones.",
+      "sourceRefs": [
+        "GILL1994",
+        "COBLE2009",
+        "ROGAEV2009"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "romanov-remains-dna__timeline__ko.png",
+          "sha256": "3f4c4e83bd0c69096eb2d0b009a5ad2f107f61c826d8459e6cdd8525e6fa216f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "romanov-remains-dna__timeline__en.png",
+          "sha256": "4f4487a4e829b7945a6e9f6bd8e2ac4139b67cfc35c83ec127c881cf477849b8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Medicine / Psychology / Human Experiment"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "regions": [
+      "Yekaterinburg / Sverdlovsk region"
+    ],
+    "places": [
+      {
+        "name": "Yekaterinburg",
+        "role": "historical event and burial region"
+      }
+    ],
+    "people": [
+      {
+        "name": "Nicholas II",
+        "role": "Tsar / parent"
+      },
+      {
+        "name": "Alexandra Feodorovna",
+        "role": "Tsarina / parent"
+      },
+      {
+        "name": "Alexei Nikolaevich",
+        "role": "missing son identified by second-grave DNA"
+      },
+      {
+        "name": "Maria Nikolaevna",
+        "role": "one possible identity label for female remains"
+      },
+      {
+        "name": "Anastasia Nikolaevna",
+        "role": "one possible identity label for female remains"
+      }
+    ],
+    "organizations": [
+      "Armed Forces DNA Identification Laboratory",
+      "Institute for Legal Medicine, Innsbruck",
+      "Russian Academy of Sciences"
+    ],
+    "dateRange": {
+      "start": "1918-07-17",
+      "end": "2009",
+      "precision": "historical event through major genetic publications"
+    },
+    "era": "20th–21st century forensic identification",
+    "resolution": "IDENTIFICATION_LARGELY_RESOLVED_DAUGHTER_LABEL_LIMIT_REMAINS",
+    "searchAliases": [
+      "Romanov DNA",
+      "Romanov second grave",
+      "Alexei DNA",
+      "Anastasia survival DNA"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 6056,
+    "enBodyWords": 1804,
+    "meaningfulBlockCount": 20,
+    "visualPlacementCount": 6,
+    "sourceCount": 3,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH01",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH01_MANIFEST_v1.1.json",
+    "assetGroups": 6,
+    "localizedFiles": 12,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

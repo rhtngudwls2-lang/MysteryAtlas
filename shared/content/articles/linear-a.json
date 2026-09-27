@@ -1,0 +1,509 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "linear-a",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Linear A",
+    "canonicalTitleEn": "Linear A",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "기호는 남았지만 언어는 사라졌다—왜 Linear A를 아직 읽지 못하나",
+      "hook": "기호 목록과 회계구조, 숫자와 일부 이름은 연구돼 있다. 그런데도 문장을 읽지 못한다. Linear A의 미스터리는 ‘아무것도 모르는 문자’가 아니라, 많은 구조를 알면서도 언어 전체에 도달하지 못한 상태에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "기호는 읽을 수 있는데 문장은 읽지 못한다",
+          "headingEn": "We Can See the Signs, but We Cannot Read the Language",
+          "textKo": "Linear A는 완전히 정체불명의 낙서가 아니다. 어떤 기호들이 반복되는지, 문서가 어느 방향으로 쓰였는지, 숫자·상품표시와 행정패턴이 어떻게 나타나는지는 상당 부분 연구돼 있다. 그런데도 문장 전체의 뜻은 읽지 못한다. Cambridge의 Ester Salgarella는 Linear A를 약 기원전 1800~1450년 크레타를 중심으로 쓰인 logo-syllabary로 정리하면서, 기록된 Minoan 언어가 여전히 제대로 이해되지 않아 문자체계 전체가 미해독 상태라고 설명한다. **기호를 분류할 수 있는 것과 언어를 해독하는 것은 다른 단계다.**",
+          "textEn": "Linear A is not an entirely mysterious collection of scratches. Scholars can identify recurring signs, document formats, numerical notation, commodities, and administrative patterns. Yet whole texts remain unread. Cambridge scholar Ester Salgarella describes Linear A as a logo-syllabary used roughly 1800–1450 BCE, mainly on Crete, to write the still poorly understood Minoan language. Classifying signs and deciphering a language are different achievements."
+        },
+        {
+          "blockId": "where-02",
+          "type": "BACKGROUND",
+          "headingKo": "점토판만의 문자가 아니었다",
+          "headingEn": "It Was More Than a Tablet Script",
+          "textKo": "Cambridge 자료는 Linear A가 크레타를 중심으로 에게해 섬, 그리스 본토, 소아시아 일부에서 산발적으로 확인된다고 설명한다. 행정용 점토판·roundel·sealing뿐 아니라 석재·금속·도기에도 기호가 남아 있다. 즉 한 궁전의 회계표에만 제한된 시스템이 아니라 여러 매체와 상황에 쓰인 문자였다. 이런 다양성은 corpus를 풍부하게 하지만, 동시에 문맥이 달라져 해석을 더 어렵게 만들기도 한다.",
+          "textEn": "Cambridge material describes Linear A as concentrated on Crete but also attested sporadically on Aegean islands, mainland Greece, and parts of Asia Minor. It appears not only on administrative clay tablets, roundels, and sealings but also on stone, metal, and painted vessels. The script was therefore not confined to one palace accounting system. That diversity enriches the corpus while also creating different contexts that complicate interpretation."
+        },
+        {
+          "blockId": "type-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "logo-syllabary라는 말이 뜻하는 것",
+          "headingEn": "What It Means to Call Linear A a Logo-Syllabary",
+          "textKo": "Linear A에는 음절을 나타내는 것으로 보이는 syllabogram과 상품·개념을 가리키는 logogram/ideogram이 함께 존재한다. 그래서 학자들은 단순 알파벳처럼 ‘기호 하나=소리 하나’로 읽지 않는다. 일부 행정문서에서는 숫자와 상품기호, 반복되는 단어위치 덕분에 기능을 추정할 수 있다. 하지만 **문서의 역할을 알아도 그 안의 언어가 무엇인지 모르면 이름·동사·문법을 안정적으로 번역할 수 없다.**",
+          "textEn": "Linear A includes signs interpreted as syllabograms alongside logograms or ideograms for commodities and concepts. It cannot be treated like a simple alphabet in which each sign maps to one sound. Administrative structure, numbers, and commodity signs allow scholars to infer some functions, but knowing what a document does does not automatically reveal the language encoded in personal names, words, or grammar."
+        },
+        {
+          "blockId": "linearb-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Linear B가 풀렸는데 왜 A는 안 풀리나",
+          "headingEn": "If Linear B Was Deciphered, Why Not Linear A?",
+          "textKo": "Linear A와 Linear B는 시각적으로 많은 기호를 공유하고, Cambridge 연구는 Linear A가 후대에 그리스어를 적는 Linear B의 모델이 됐다고 본다. 그래서 Linear B에서 알려진 음가를 Linear A 기호에 시험하는 접근이 가능하다. 하지만 이것이 자동 번역기는 아니다. 같은 모양 기호가 같은 소리를 유지했는지 항상 확정할 수 없고, 더 큰 문제는 Linear A가 적은 언어 자체가 그리스어가 아니라는 점이다. **문자형태의 계승과 언어의 동일성은 별개다.**",
+          "textEn": "Linear A and Linear B share many visual signs, and Cambridge research treats Linear A as the script template adapted to write Greek in Linear B. This makes it possible to test Linear-B sound values against similar Linear-A signs. But that is not an automatic translation key. A shared sign shape need not guarantee an unchanged sound value, and more fundamentally, the language encoded by Linear A is not simply Greek. Script inheritance and language identity are separate."
+        },
+        {
+          "blockId": "short-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "텍스트가 너무 짧다",
+          "headingEn": "The Texts Are Usually Too Short",
+          "textKo": "해독을 가로막는 실용적 문제 중 하나는 corpus의 성격이다. 많은 Linear A 문서는 짧은 행정기록이나 표식으로, 긴 서사문·법률문·왕명 같은 대규모 문장이 부족하다. 짧고 공식적인 표현은 반복패턴을 찾는 데는 유리하지만 문법과 어휘를 복원할 다양성이 부족하다. 특히 알려진 다른 언어와 같은 내용을 병기한 확실한 bilingual text가 없다. **로제타석 같은 기준문장이 없는 상태에서 짧은 조각들로 언어 전체를 추론해야 한다.**",
+          "textEn": "A practical obstacle is the character of the corpus itself. Many Linear A records are short administrative entries or labels rather than long narratives, legal texts, or royal inscriptions. Formulaic brevity helps identify patterns but provides too little variety for reconstructing grammar and vocabulary. Most importantly, there is no secure bilingual text equivalent to a Rosetta Stone. Scholars must infer a language from short fragments without a known translation."
+        },
+        {
+          "blockId": "known-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "그래도 아무것도 모르는 것은 아니다",
+          "headingEn": "Undeciphered Does Not Mean Completely Unknown",
+          "textKo": "Cambridge의 개요는 일부 place name, personal name, 상품명, 거래용어가 문맥과 반복을 통해 추론될 수 있다고 설명한다. 숫자체계와 회계구조도 연구돼 있다. 이런 부분적 이해는 ‘Linear A는 한 글자도 못 읽는다’는 대중적 표현이 부정확함을 보여준다. **해독은 0과 100 사이에 있다.** 구조와 기능은 상당히 보이고, 특정 표현도 좁혀지지만 전체 언어의 의미체계를 안정적으로 읽는 단계에는 도달하지 못했다.",
+          "textEn": "Cambridge’s overview explains that some place names, personal names, commodities, and transaction terms can be inferred from context and repetition. Numerical and accounting structures are also studied. This makes the popular phrase “we cannot read a single sign” misleading. Decipherment is not binary: substantial structural knowledge exists, while stable reading of the language as a whole remains out of reach."
+        },
+        {
+          "blockId": "computational-07",
+          "type": "HYPOTHESIS",
+          "headingKo": "컴퓨터가 풀어줄 수 있을까",
+          "headingEn": "Can Computation Solve It?",
+          "textKo": "최근 연구는 sign classification, 조합패턴, paleography를 더 정밀하게 분석한다. Salgarella의 combinatory 연구는 composite sign의 조합규칙 자체가 의미있는 구조를 가질 수 있음을 제시한다. 계산언어학·통계기법은 이런 패턴을 정리하는 데 강하지만, **데이터가 부족하고 기준번역이 없으면 알고리즘도 정답을 만들어낼 수 없다.** 패턴발견은 해독을 돕는 도구이지, 역사언어를 자동으로 번역해주는 마법키가 아니다.",
+          "textEn": "Recent work refines sign classification, combinatory patterns, and palaeography. Salgarella’s research on composite signs suggests that the way signs combine may itself carry meaningful structure. Computational and statistical tools are powerful for discovering patterns, but when data are limited and no reference translation exists, algorithms cannot manufacture a correct language. Pattern discovery is a tool for decipherment, not an automatic translator."
+        },
+        {
+          "blockId": "false-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘해독했다’는 발표가 반복되는 이유",
+          "headingEn": "Why Claims of Decipherment Keep Appearing",
+          "textKo": "Linear A는 유명하고 corpus가 공개돼 있어 새로운 해독주장이 반복적으로 등장한다. 문제는 임의로 특정 언어를 가정하면 짧은 문자열에 그럴듯한 대응을 만들기 쉽다는 점이다. 강한 해독이라면 많은 문서에서 일관된 음가·문법·어휘를 설명하고, 알려진 행정구조와도 맞아야 하며, 독립연구자가 같은 규칙으로 재현할 수 있어야 한다. **몇 개 단어가 닮아 보이는 것과 문자체계를 해독하는 것은 전혀 다른 기준**이다.",
+          "textEn": "Linear A is famous and its corpus is accessible, so claims of decipherment appear regularly. If a researcher assumes a preferred language in advance, it is easy to find suggestive resemblances in short strings. A strong decipherment must explain many texts with consistent sound values, grammar, and vocabulary, fit known administrative structure, and be reproducible by independent scholars. A few apparent word matches are not the same as deciphering a script."
+        },
+        {
+          "blockId": "bilingual-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "로제타석 같은 ‘정답지’가 없다",
+          "headingEn": "There Is No Rosetta-Stone-Style Answer Key",
+          "textKo": "성공한 고대문자 해독에는 알려진 언어와 미지의 문자가 나란히 적힌 bilingual text가 결정적이었던 경우가 많다. Linear A에는 그런 확실한 기준문이 없다. 짧은 행정문서에서 숫자와 상품기호를 이용해 문맥을 추정할 수는 있지만, 그 추정이 단어의 정확한 발음과 문법을 자동으로 알려주지는 않는다. **한두 기호의 가능음가를 아는 것과 긴 문장의 의미를 검증하는 것 사이에 기준언어라는 다리가 빠져 있다.**",
+          "textEn": "Successful decipherments of ancient scripts have often benefited from bilingual texts in which an unknown script appears alongside a known language. Linear A has no secure equivalent of a Rosetta Stone. Numbers and commodity signs can help infer administrative context, but context does not automatically reveal exact pronunciation or grammar. The bridge between plausible sign values and verified sentence meaning is missing."
+        },
+        {
+          "blockId": "sign-09",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기호 모양부터 생각보다 단순하지 않다",
+          "headingEn": "Even Defining a Sign Is Not Always Simple",
+          "textKo": "palaeography 연구는 같은 기호가 필경사·재료·시기에 따라 다른 variant로 나타날 수 있음을 다룬다. 어떤 두 모양이 같은 기호의 변형인지, 서로 다른 기호인지 잘못 분류하면 빈도와 조합통계도 흔들린다. Salgarella의 연구가 sign variant와 complex sign 분류를 강조하는 이유다. **해독 전에 먼저 ‘무엇을 하나의 기호로 셀 것인가’를 정교하게 정리해야 한다.**",
+          "textEn": "Palaeographic research shows that the same sign can appear in different variants depending on writer, medium, or period. Misclassifying two variants as separate signs—or two separate signs as one—distorts frequency and combinatory statistics. This is why Salgarella’s work places so much emphasis on sign variants and complex-sign classification. Before decipherment, researchers must first define what counts as a sign."
+        },
+        {
+          "blockId": "language-095",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘어떤 언어인지 맞히면 풀린다’도 너무 단순하다",
+          "headingEn": "Guessing the Language First Is Not Enough",
+          "textKo": "Linear A 해독주장은 종종 특정 언어족과 닮은 단어를 찾는 방식으로 시작한다. 하지만 짧은 corpus에서는 우연한 음성유사성이 쉽게 생긴다. 강한 언어가설이라면 이름 몇 개가 아니라 접사·어순·반복구조·문서기능을 넓은 corpus에서 일관되게 설명해야 한다. **언어를 먼저 고르고 기호를 끼워 맞추는 것이 아니라, 문자 내부의 반복규칙이 외부 언어가설을 견디는지 시험해야 한다.**",
+          "textEn": "Claims to decipher Linear A often begin by finding words that resemble a preferred language family. In a short corpus, accidental phonetic resemblance is easy to generate. A strong language hypothesis must explain morphology, word order, repeated structures, and document function consistently across many texts. The internal script patterns should test the external language hypothesis, not merely be forced to fit it."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Linear A는 대략 기원전 1800~1450년 크레타를 중심으로 쓰인 logo-syllabary이며 행정문서와 여러 재질의 물품에 남아 있다. Linear B와 시각·구조적 계통관계가 있고 일부 이름·상품·거래기능은 추정 가능하다. 그러나 기록된 Minoan 언어는 여전히 충분히 이해되지 않았고 전체 script는 미해독 상태다.\n\n**확인되지 않음:** Linear B 음가를 그대로 대입하면 Linear A 전체가 읽힌다는 것은 아니다. 특정 현대 연구자의 단일 언어가설이 학계의 완전해독으로 확립된 것도 아니다.",
+          "textEn": "**Established:** Linear A is a Bronze Age logo-syllabary used mainly on Crete around 1800–1450 BCE and appears on administrative and other objects. It has graphic and structural relationships with Linear B, and some names, commodities, and transaction functions can be inferred. The underlying Minoan language remains poorly understood and the script is still undeciphered.\n\n**Not established:** Simply applying Linear B sound values does not produce a complete reading of Linear A. No single modern language hypothesis has been established as a full scholarly decipherment."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Linear A는 대략 기원전 1800~1450년 크레타를 중심으로 쓰인 logo-syllabary이며 행정문서와 여러 재질의 물품에 남아 있다. Linear B와 시각·구조적 계통관계가 있고 일부 이름·상품·거래기능은 추정 가능하다. 그러나 기록된 Minoan 언어는 여전히 충분히 이해되지 않았고 전체 script는 미해독 상태다.\n\n**확인되지 않음:** Linear B 음가를 그대로 대입하면 Linear A 전체가 읽힌다는 것은 아니다. 특정 현대 연구자의 단일 언어가설이 학계의 완전해독으로 확립된 것도 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "where-02",
+        "type-03",
+        "linearb-04",
+        "short-05",
+        "known-06",
+        "computational-07",
+        "false-08",
+        "bilingual-085",
+        "sign-09",
+        "language-095"
+      ]
+    },
+    "en": {
+      "headline": "The Signs Survive, but the Language Does Not—Why Linear A Remains Undeciphered",
+      "hook": "Scholars know sign inventories, accounting structure, numbers, and some names, yet full texts remain unread. Linear A is mysterious not because we know nothing, but because structural knowledge has not become a full language.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "기호는 읽을 수 있는데 문장은 읽지 못한다",
+          "headingEn": "We Can See the Signs, but We Cannot Read the Language",
+          "textKo": "Linear A는 완전히 정체불명의 낙서가 아니다. 어떤 기호들이 반복되는지, 문서가 어느 방향으로 쓰였는지, 숫자·상품표시와 행정패턴이 어떻게 나타나는지는 상당 부분 연구돼 있다. 그런데도 문장 전체의 뜻은 읽지 못한다. Cambridge의 Ester Salgarella는 Linear A를 약 기원전 1800~1450년 크레타를 중심으로 쓰인 logo-syllabary로 정리하면서, 기록된 Minoan 언어가 여전히 제대로 이해되지 않아 문자체계 전체가 미해독 상태라고 설명한다. **기호를 분류할 수 있는 것과 언어를 해독하는 것은 다른 단계다.**",
+          "textEn": "Linear A is not an entirely mysterious collection of scratches. Scholars can identify recurring signs, document formats, numerical notation, commodities, and administrative patterns. Yet whole texts remain unread. Cambridge scholar Ester Salgarella describes Linear A as a logo-syllabary used roughly 1800–1450 BCE, mainly on Crete, to write the still poorly understood Minoan language. Classifying signs and deciphering a language are different achievements."
+        },
+        {
+          "blockId": "where-02",
+          "type": "BACKGROUND",
+          "headingKo": "점토판만의 문자가 아니었다",
+          "headingEn": "It Was More Than a Tablet Script",
+          "textKo": "Cambridge 자료는 Linear A가 크레타를 중심으로 에게해 섬, 그리스 본토, 소아시아 일부에서 산발적으로 확인된다고 설명한다. 행정용 점토판·roundel·sealing뿐 아니라 석재·금속·도기에도 기호가 남아 있다. 즉 한 궁전의 회계표에만 제한된 시스템이 아니라 여러 매체와 상황에 쓰인 문자였다. 이런 다양성은 corpus를 풍부하게 하지만, 동시에 문맥이 달라져 해석을 더 어렵게 만들기도 한다.",
+          "textEn": "Cambridge material describes Linear A as concentrated on Crete but also attested sporadically on Aegean islands, mainland Greece, and parts of Asia Minor. It appears not only on administrative clay tablets, roundels, and sealings but also on stone, metal, and painted vessels. The script was therefore not confined to one palace accounting system. That diversity enriches the corpus while also creating different contexts that complicate interpretation."
+        },
+        {
+          "blockId": "type-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "logo-syllabary라는 말이 뜻하는 것",
+          "headingEn": "What It Means to Call Linear A a Logo-Syllabary",
+          "textKo": "Linear A에는 음절을 나타내는 것으로 보이는 syllabogram과 상품·개념을 가리키는 logogram/ideogram이 함께 존재한다. 그래서 학자들은 단순 알파벳처럼 ‘기호 하나=소리 하나’로 읽지 않는다. 일부 행정문서에서는 숫자와 상품기호, 반복되는 단어위치 덕분에 기능을 추정할 수 있다. 하지만 **문서의 역할을 알아도 그 안의 언어가 무엇인지 모르면 이름·동사·문법을 안정적으로 번역할 수 없다.**",
+          "textEn": "Linear A includes signs interpreted as syllabograms alongside logograms or ideograms for commodities and concepts. It cannot be treated like a simple alphabet in which each sign maps to one sound. Administrative structure, numbers, and commodity signs allow scholars to infer some functions, but knowing what a document does does not automatically reveal the language encoded in personal names, words, or grammar."
+        },
+        {
+          "blockId": "linearb-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Linear B가 풀렸는데 왜 A는 안 풀리나",
+          "headingEn": "If Linear B Was Deciphered, Why Not Linear A?",
+          "textKo": "Linear A와 Linear B는 시각적으로 많은 기호를 공유하고, Cambridge 연구는 Linear A가 후대에 그리스어를 적는 Linear B의 모델이 됐다고 본다. 그래서 Linear B에서 알려진 음가를 Linear A 기호에 시험하는 접근이 가능하다. 하지만 이것이 자동 번역기는 아니다. 같은 모양 기호가 같은 소리를 유지했는지 항상 확정할 수 없고, 더 큰 문제는 Linear A가 적은 언어 자체가 그리스어가 아니라는 점이다. **문자형태의 계승과 언어의 동일성은 별개다.**",
+          "textEn": "Linear A and Linear B share many visual signs, and Cambridge research treats Linear A as the script template adapted to write Greek in Linear B. This makes it possible to test Linear-B sound values against similar Linear-A signs. But that is not an automatic translation key. A shared sign shape need not guarantee an unchanged sound value, and more fundamentally, the language encoded by Linear A is not simply Greek. Script inheritance and language identity are separate."
+        },
+        {
+          "blockId": "short-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "텍스트가 너무 짧다",
+          "headingEn": "The Texts Are Usually Too Short",
+          "textKo": "해독을 가로막는 실용적 문제 중 하나는 corpus의 성격이다. 많은 Linear A 문서는 짧은 행정기록이나 표식으로, 긴 서사문·법률문·왕명 같은 대규모 문장이 부족하다. 짧고 공식적인 표현은 반복패턴을 찾는 데는 유리하지만 문법과 어휘를 복원할 다양성이 부족하다. 특히 알려진 다른 언어와 같은 내용을 병기한 확실한 bilingual text가 없다. **로제타석 같은 기준문장이 없는 상태에서 짧은 조각들로 언어 전체를 추론해야 한다.**",
+          "textEn": "A practical obstacle is the character of the corpus itself. Many Linear A records are short administrative entries or labels rather than long narratives, legal texts, or royal inscriptions. Formulaic brevity helps identify patterns but provides too little variety for reconstructing grammar and vocabulary. Most importantly, there is no secure bilingual text equivalent to a Rosetta Stone. Scholars must infer a language from short fragments without a known translation."
+        },
+        {
+          "blockId": "known-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "그래도 아무것도 모르는 것은 아니다",
+          "headingEn": "Undeciphered Does Not Mean Completely Unknown",
+          "textKo": "Cambridge의 개요는 일부 place name, personal name, 상품명, 거래용어가 문맥과 반복을 통해 추론될 수 있다고 설명한다. 숫자체계와 회계구조도 연구돼 있다. 이런 부분적 이해는 ‘Linear A는 한 글자도 못 읽는다’는 대중적 표현이 부정확함을 보여준다. **해독은 0과 100 사이에 있다.** 구조와 기능은 상당히 보이고, 특정 표현도 좁혀지지만 전체 언어의 의미체계를 안정적으로 읽는 단계에는 도달하지 못했다.",
+          "textEn": "Cambridge’s overview explains that some place names, personal names, commodities, and transaction terms can be inferred from context and repetition. Numerical and accounting structures are also studied. This makes the popular phrase “we cannot read a single sign” misleading. Decipherment is not binary: substantial structural knowledge exists, while stable reading of the language as a whole remains out of reach."
+        },
+        {
+          "blockId": "computational-07",
+          "type": "HYPOTHESIS",
+          "headingKo": "컴퓨터가 풀어줄 수 있을까",
+          "headingEn": "Can Computation Solve It?",
+          "textKo": "최근 연구는 sign classification, 조합패턴, paleography를 더 정밀하게 분석한다. Salgarella의 combinatory 연구는 composite sign의 조합규칙 자체가 의미있는 구조를 가질 수 있음을 제시한다. 계산언어학·통계기법은 이런 패턴을 정리하는 데 강하지만, **데이터가 부족하고 기준번역이 없으면 알고리즘도 정답을 만들어낼 수 없다.** 패턴발견은 해독을 돕는 도구이지, 역사언어를 자동으로 번역해주는 마법키가 아니다.",
+          "textEn": "Recent work refines sign classification, combinatory patterns, and palaeography. Salgarella’s research on composite signs suggests that the way signs combine may itself carry meaningful structure. Computational and statistical tools are powerful for discovering patterns, but when data are limited and no reference translation exists, algorithms cannot manufacture a correct language. Pattern discovery is a tool for decipherment, not an automatic translator."
+        },
+        {
+          "blockId": "false-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘해독했다’는 발표가 반복되는 이유",
+          "headingEn": "Why Claims of Decipherment Keep Appearing",
+          "textKo": "Linear A는 유명하고 corpus가 공개돼 있어 새로운 해독주장이 반복적으로 등장한다. 문제는 임의로 특정 언어를 가정하면 짧은 문자열에 그럴듯한 대응을 만들기 쉽다는 점이다. 강한 해독이라면 많은 문서에서 일관된 음가·문법·어휘를 설명하고, 알려진 행정구조와도 맞아야 하며, 독립연구자가 같은 규칙으로 재현할 수 있어야 한다. **몇 개 단어가 닮아 보이는 것과 문자체계를 해독하는 것은 전혀 다른 기준**이다.",
+          "textEn": "Linear A is famous and its corpus is accessible, so claims of decipherment appear regularly. If a researcher assumes a preferred language in advance, it is easy to find suggestive resemblances in short strings. A strong decipherment must explain many texts with consistent sound values, grammar, and vocabulary, fit known administrative structure, and be reproducible by independent scholars. A few apparent word matches are not the same as deciphering a script."
+        },
+        {
+          "blockId": "bilingual-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "로제타석 같은 ‘정답지’가 없다",
+          "headingEn": "There Is No Rosetta-Stone-Style Answer Key",
+          "textKo": "성공한 고대문자 해독에는 알려진 언어와 미지의 문자가 나란히 적힌 bilingual text가 결정적이었던 경우가 많다. Linear A에는 그런 확실한 기준문이 없다. 짧은 행정문서에서 숫자와 상품기호를 이용해 문맥을 추정할 수는 있지만, 그 추정이 단어의 정확한 발음과 문법을 자동으로 알려주지는 않는다. **한두 기호의 가능음가를 아는 것과 긴 문장의 의미를 검증하는 것 사이에 기준언어라는 다리가 빠져 있다.**",
+          "textEn": "Successful decipherments of ancient scripts have often benefited from bilingual texts in which an unknown script appears alongside a known language. Linear A has no secure equivalent of a Rosetta Stone. Numbers and commodity signs can help infer administrative context, but context does not automatically reveal exact pronunciation or grammar. The bridge between plausible sign values and verified sentence meaning is missing."
+        },
+        {
+          "blockId": "sign-09",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기호 모양부터 생각보다 단순하지 않다",
+          "headingEn": "Even Defining a Sign Is Not Always Simple",
+          "textKo": "palaeography 연구는 같은 기호가 필경사·재료·시기에 따라 다른 variant로 나타날 수 있음을 다룬다. 어떤 두 모양이 같은 기호의 변형인지, 서로 다른 기호인지 잘못 분류하면 빈도와 조합통계도 흔들린다. Salgarella의 연구가 sign variant와 complex sign 분류를 강조하는 이유다. **해독 전에 먼저 ‘무엇을 하나의 기호로 셀 것인가’를 정교하게 정리해야 한다.**",
+          "textEn": "Palaeographic research shows that the same sign can appear in different variants depending on writer, medium, or period. Misclassifying two variants as separate signs—or two separate signs as one—distorts frequency and combinatory statistics. This is why Salgarella’s work places so much emphasis on sign variants and complex-sign classification. Before decipherment, researchers must first define what counts as a sign."
+        },
+        {
+          "blockId": "language-095",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘어떤 언어인지 맞히면 풀린다’도 너무 단순하다",
+          "headingEn": "Guessing the Language First Is Not Enough",
+          "textKo": "Linear A 해독주장은 종종 특정 언어족과 닮은 단어를 찾는 방식으로 시작한다. 하지만 짧은 corpus에서는 우연한 음성유사성이 쉽게 생긴다. 강한 언어가설이라면 이름 몇 개가 아니라 접사·어순·반복구조·문서기능을 넓은 corpus에서 일관되게 설명해야 한다. **언어를 먼저 고르고 기호를 끼워 맞추는 것이 아니라, 문자 내부의 반복규칙이 외부 언어가설을 견디는지 시험해야 한다.**",
+          "textEn": "Claims to decipher Linear A often begin by finding words that resemble a preferred language family. In a short corpus, accidental phonetic resemblance is easy to generate. A strong language hypothesis must explain morphology, word order, repeated structures, and document function consistently across many texts. The internal script patterns should test the external language hypothesis, not merely be forced to fit it."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Linear A는 대략 기원전 1800~1450년 크레타를 중심으로 쓰인 logo-syllabary이며 행정문서와 여러 재질의 물품에 남아 있다. Linear B와 시각·구조적 계통관계가 있고 일부 이름·상품·거래기능은 추정 가능하다. 그러나 기록된 Minoan 언어는 여전히 충분히 이해되지 않았고 전체 script는 미해독 상태다.\n\n**확인되지 않음:** Linear B 음가를 그대로 대입하면 Linear A 전체가 읽힌다는 것은 아니다. 특정 현대 연구자의 단일 언어가설이 학계의 완전해독으로 확립된 것도 아니다.",
+          "textEn": "**Established:** Linear A is a Bronze Age logo-syllabary used mainly on Crete around 1800–1450 BCE and appears on administrative and other objects. It has graphic and structural relationships with Linear B, and some names, commodities, and transaction functions can be inferred. The underlying Minoan language remains poorly understood and the script is still undeciphered.\n\n**Not established:** Simply applying Linear B sound values does not produce a complete reading of Linear A. No single modern language hypothesis has been established as a full scholarly decipherment."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Linear A is a Bronze Age logo-syllabary used mainly on Crete around 1800–1450 BCE and appears on administrative and other objects. It has graphic and structural relationships with Linear B, and some names, commodities, and transaction functions can be inferred. The underlying Minoan language remains poorly understood and the script is still undeciphered.\n\n**Not established:** Simply applying Linear B sound values does not produce a complete reading of Linear A. No single modern language hypothesis has been established as a full scholarly decipherment.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "where-02",
+        "type-03",
+        "linearb-04",
+        "short-05",
+        "known-06",
+        "computational-07",
+        "false-08",
+        "bilingual-085",
+        "sign-09",
+        "language-095"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Linear A는 약 기원전 1800~1450년 주로 크레타에서 쓰인 logo-syllabary다.",
+      "statementEn": "Linear A is a logo-syllabary used mainly on Crete around 1800–1450 BCE.",
+      "sourceRefs": [
+        "CAM_LINEAR_A"
+      ]
+    },
+    {
+      "claimId": "LA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Linear A는 여전히 미해독이며 기록된 Minoan 언어도 충분히 이해되지 않았다.",
+      "statementEn": "Linear A remains undeciphered and the Minoan language it records is still poorly understood.",
+      "sourceRefs": [
+        "CAM_LINEAR_A"
+      ]
+    },
+    {
+      "claimId": "LA-C3",
+      "status": "SUPPORTED",
+      "statementKo": "Linear A는 Linear B의 문자체계 발전에 모델 역할을 한 것으로 이해된다.",
+      "statementEn": "Linear A is understood to have served as the script template adapted into Linear B.",
+      "sourceRefs": [
+        "CAM_DRAWING"
+      ]
+    },
+    {
+      "claimId": "LA-C4",
+      "status": "SUPPORTED",
+      "statementKo": "complex signs에는 의미있는 조합패턴이 있을 수 있다는 현대 연구가 있다.",
+      "statementEn": "Modern research suggests complex Linear A signs may follow meaningful combinatory patterns.",
+      "sourceRefs": [
+        "CAM_MIX"
+      ]
+    },
+    {
+      "claimId": "LA-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Linear B 음가의 단순 대입으로 Linear A 전체를 해독할 수 있다는 것은 확립되지 않았다.",
+      "statementEn": "A simple transfer of Linear B sound values has not established a full decipherment of Linear A.",
+      "sourceRefs": [
+        "CAM_LINEAR_A",
+        "CAM_DRAWING"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CAM_LINEAR_A",
+      "title": "Linear A",
+      "publisher": "University of Cambridge Repository / Ester Salgarella",
+      "url": "https://www.repository.cam.ac.uk/items/f50c0df4-f355-4bc0-be2a-8e960b2bb5da",
+      "sourceType": "PEER_REVIEWED_REFERENCE"
+    },
+    {
+      "sourceId": "CAM_DRAWING",
+      "title": "Drawing Lines: The palaeography of Linear A and Linear B",
+      "publisher": "University of Cambridge Repository / Ester Salgarella",
+      "url": "https://www.repository.cam.ac.uk/items/de8aa5ec-cfc7-44cc-a010-8b837d2d9cbb",
+      "sourceType": "PEER_REVIEWED"
+    },
+    {
+      "sourceId": "CAM_MIX",
+      "title": "Mix and Match: A Combinatory (Re-)Classification of Linear A Signs",
+      "publisher": "University of Cambridge Repository / Ester Salgarella",
+      "url": "https://www.repository.cam.ac.uk/items/d1c8c2dd-ee5b-4e61-9524-2c0eb5280eff",
+      "sourceType": "PEER_REVIEWED"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "linear-a-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Linear A의 문자구조·행정문맥·Linear B 관계·미해독 언어를 구분한 hero 도표.",
+      "captionEn": "Hero explainer separating known Linear A structure/context from the undeciphered Minoan language.",
+      "altKo": "알려진 구조와 미해독 언어를 네 단계로 표시.",
+      "altEn": "Four stages distinguishing known structure from undeciphered language.",
+      "sourceRefs": [
+        "CAM_LINEAR_A",
+        "CAM_DRAWING",
+        "CAM_MIX"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "linear-a__hero-context__ko.png",
+          "sha256": "2e90c309fe6ef64ebe99d7efd121af4b3685811437d6a57f3dc61392cccbc4bb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "linear-a__hero-context__en.png",
+          "sha256": "b7736170f2e9317d33835f561b283308576fcc9b1ddbed139bdd6e07f46c70e9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "linear-a-known-vs-unknown",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Linear A에서 구조적으로 알려진 내용과 미해독 언어 영역을 비교한 카드.",
+      "captionEn": "Evidence card comparing what is known structurally about Linear A with what remains undeciphered.",
+      "altKo": "왼쪽 알려진 사용·기호·기능, 오른쪽 미해독 언어·가설.",
+      "altEn": "Two-column comparison of established structural knowledge and unresolved decipherment claims.",
+      "sourceRefs": [
+        "CAM_LINEAR_A",
+        "CAM_DRAWING"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "linear-a__known-vs-unknown__ko.png",
+          "sha256": "dafbd8f17dc272cd97ffdd5343dc729d3cf966739de5a1c3d4f6922a6b735840",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "linear-a__known-vs-unknown__en.png",
+          "sha256": "a623e3681d3bfc0791afa579350f7a36866be10dbe04b7ace4fbe7cacbbd8d9e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "linear-a-why-hard",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Linear A 해독을 막는 짧은 corpus·기호변형·bilingual 부재·검증요건을 설명한 도표.",
+      "captionEn": "Diagram of the main obstacles to Linear A decipherment: short corpus, sign variation, no secure bilingual, and validation requirements.",
+      "altKo": "해독장벽 네 가지를 순서대로 설명.",
+      "altEn": "Four-step diagram of decipherment barriers.",
+      "sourceRefs": [
+        "CAM_LINEAR_A",
+        "CAM_DRAWING",
+        "CAM_MIX"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "linear-a__why-hard__ko.png",
+          "sha256": "39831c5af536a5a787b19358e043a29f36363ba38d87ddd5b547f00cd6958270",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "linear-a__why-hard__en.png",
+          "sha256": "d5d82bdc5c1f794325f646f21ed43bd91aa08bdb003773f775f1ee4a17738a24",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Ancient History / Archaeology"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "regions": [
+      "Crete and Aegean"
+    ],
+    "places": [
+      {
+        "name": "Crete",
+        "role": "primary attestation region"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ester Salgarella",
+        "role": "modern script researcher"
+      }
+    ],
+    "organizations": [
+      "University of Cambridge"
+    ],
+    "dateRange": {
+      "start": "c.1800 BCE",
+      "end": "c.1450 BCE",
+      "precision": "script use period"
+    },
+    "era": "Bronze Age Aegean",
+    "resolution": "SCRIPT_STRUCTURE_PARTLY_UNDERSTOOD_LANGUAGE_UNDECIPHERED",
+    "searchAliases": [
+      "Linear A",
+      "Minoan script"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3033,
+    "enBodyWords": 800,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

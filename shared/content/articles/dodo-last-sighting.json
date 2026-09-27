@@ -1,0 +1,461 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "dodo-last-sighting",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "도도의 마지막 목격 연대 논쟁",
+    "canonicalTitleEn": "The Dodo’s Last Sighting and Extinction Date",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected because the verified core question is narrow: last secure sighting versus estimated extinction window."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "마지막 도도는 1662년에 죽은 게 아니다",
+      "hook": "1662년은 ‘마지막으로 널리 받아들여지는 목격’이지 마지막 개체의 사망일을 찍은 날짜가 아니다. 통계와 후대 문헌을 겹치면 도도의 실제 마지막 시점은 더 흐릿해진다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘마지막 도도’는 정확히 언제 사라졌나",
+          "headingEn": "When Did the Last Dodo Actually Disappear?",
+          "textKo": "도도는 멸종의 상징처럼 알려져 있지만, 아이러니하게도 ‘마지막 도도가 언제 죽었는가’는 정확한 날짜로 남아 있지 않다. Oxford University Museum of Natural History는 1598년 네덜란드 항해자들이 모리셔스에서 도도를 기록했고, 1662년 기록을 마지막으로 널리 받아들여지는 목격으로 소개한다. 그러나 마지막 신뢰기록과 실제 마지막 개체의 죽음은 같은 순간일 필요가 없다. **멸종은 보통 관찰자가 없을 때 완성된다.**",
+          "textEn": "The dodo is one of the world’s great symbols of extinction, yet the exact date on which the final bird died is not known. The Oxford University Museum of Natural History describes Dutch observations from 1598 and treats a 1662 account as the last widely accepted sighting. But the last reliable record and the death of the last individual need not be the same event. Extinction is often completed when no observer is present."
+        },
+        {
+          "blockId": "mauritius-02",
+          "type": "BACKGROUND",
+          "headingKo": "도도는 왜 그렇게 빨리 사라졌나",
+          "headingEn": "Why Did the Dodo Disappear So Quickly?",
+          "textKo": "도도는 모리셔스에 살던 날지 못하는 새였다. 인간 정착 이후 사냥뿐 아니라 돼지·쥐 등 도입동물, 둥지교란, 서식환경 변화가 복합적으로 작용했을 가능성이 논의된다. Natural History Museum은 ‘어리석어서 멸종했다’는 대중적 이미지를 경계하며, 섬 생태계에 갑작스럽게 들어온 인간과 외래동물이 핵심 맥락이라고 설명한다. **멸종 원인을 도도의 행동특성 하나로 돌리는 것은 생태학적 과정을 지나치게 단순화한다.**",
+          "textEn": "The dodo was a flightless bird endemic to Mauritius. After sustained human settlement, hunting, introduced animals such as pigs and rats, nesting disturbance, and habitat change likely combined to drive decline. The Natural History Museum cautions against the popular idea that the dodo vanished because it was somehow “stupid.” The more relevant context is an island ecosystem confronted rapidly with humans and introduced species."
+        },
+        {
+          "blockId": "1662-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1662년 기록이 왜 기준점이 됐나",
+          "headingEn": "Why 1662 Became the Standard Reference Point",
+          "textKo": "OUMNH는 1662년을 마지막 널리 받아들여지는 목격연대로 정리한다. 그 이후에도 도도를 봤다는 것으로 해석될 수 있는 문헌이 있지만, 종 식별·날짜·번역·기록 맥락을 둘러싼 문제가 있다. 따라서 1662년은 ‘그날 마지막 도도가 죽었다’는 날짜가 아니라 **학계에서 비교적 신뢰도가 높은 마지막 직접기록의 기준점**에 가깝다. 이 차이가 멸종연대 연구 전체를 설명하는 핵심이다.",
+          "textEn": "OUMNH summarizes 1662 as the last widely accepted sighting date. Later texts have sometimes been interpreted as references to dodos, but they raise problems of species identification, dating, translation, and context. The year 1662 is therefore best understood not as the date on which the final dodo died, but as a relatively secure last direct record used as a reference point."
+        },
+        {
+          "blockId": "statistics-04",
+          "type": "TURNING_POINT",
+          "headingKo": "2003년, 통계가 ‘약 1690년’을 제시하다",
+          "headingEn": "2003: Statistics Pushed the Estimated Extinction Later",
+          "textKo": "Roberts와 Solow는 2003년 Nature 논문에서 마지막 관찰기록 하나만으로 멸종시점을 정하지 않고, 관찰기록의 간격을 이용해 통계적 멸종시점을 추정했다. 그 결과는 약 1690년 무렵까지 생존했을 가능성을 제시했다. 이 숫자는 ‘1690년에 누군가 도도를 봤다’는 뜻이 아니다. **1662년 이후 관찰이 없더라도 희귀해진 개체가 일정 기간 남아 있었을 확률을 모델링한 추정치**다.",
+          "textEn": "In a 2003 *Nature* paper, Roberts and Solow avoided equating the last sighting with the extinction date. They used the pattern of sighting records to estimate how long the species might have persisted unseen, producing an estimate around 1690. That does not mean someone observed a dodo in 1690. It is a statistical estimate of persistence after the last secure observation."
+        },
+        {
+          "blockId": "diaries-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "네덜란드 기록을 다시 읽자 더 늦은 생존 가능성이 나왔다",
+          "headingEn": "Re-Reading Dutch Records Suggested Later Survival Might Be Possible",
+          "textKo": "2004년 Hume, Martill, Dewdney는 네덜란드 일기와 수집기록을 재검토해 1662년 뒤에도 도도 또는 관련 큰 날지 못하는 새를 가리킬 수 있는 기록이 있다고 제안했다. University of Portsmouth 연구기록은 이 논문이 기존 마지막목격 연대를 재검토했다는 점을 확인한다. 그러나 **후대 기록을 다시 해석할 수 있다는 것과 학계가 새로운 ‘최종 목격일’을 확정했다는 것은 다르다.** 문헌의 종 식별 불확실성이 남는다.",
+          "textEn": "In 2004, Hume, Martill, and Dewdney re-examined Dutch diaries and collecting records and argued that some post-1662 references might indicate later survival of the dodo or a similar large flightless bird. The University of Portsmouth research record confirms that this study re-evaluated the accepted chronology. But reinterpreting later texts is not the same as establishing a new universally accepted final sighting date; species identification remains uncertain."
+        },
+        {
+          "blockId": "museum-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "박물관조차 1662와 1680 가능성을 함께 언급한다",
+          "headingEn": "Even Museum Summaries Leave Some Chronological Room",
+          "textKo": "Natural History Museum의 대중설명은 마지막 신뢰목격을 1662년 또는 1680년 가능성으로 서술하며, 정확한 소멸연대가 단순하지 않음을 보여준다. 이런 차이는 오류라기보다 자료의 한계를 반영한다. 오래된 항해일기에는 오늘날의 표준 생물학적 이름이 없고, 여러 새가 혼동될 수 있다. **역사생태학에서는 ‘정확한 마지막 하루’를 고집하기보다 증거의 신뢰도 단계와 멸종가능 범위를 제시하는 편이 더 정직하다.**",
+          "textEn": "The Natural History Museum’s public account discusses 1662 and the possibility of a later 1680 record, illustrating why a single exact extinction date is difficult. This is not necessarily a contradiction so much as a reflection of the evidence: old travel accounts did not use modern standardized taxonomy, and different birds could be confused. Historical ecology is often better served by graded confidence and a plausible extinction window than by one falsely precise final day."
+        },
+        {
+          "blockId": "specimen-07",
+          "type": "BACKGROUND",
+          "headingKo": "도도를 기억하게 만든 것은 살아 있는 관찰보다 남은 표본이었다",
+          "headingEn": "Specimens Outlived Reliable Sightings",
+          "textKo": "Oxford의 도도 표본은 멸종 뒤에도 종의 존재를 물리적으로 증명해 온 대표적 유물이다. 남은 뼈와 연조직, 초기 그림과 문헌은 도도의 형태와 계통을 재구성하게 한다. 그러나 박물관 표본은 ‘멸종일’을 직접 알려주지는 않는다. **표본은 종의 실재와 형태에 강한 증거지만, 마지막 개체가 언제까지 살았는가에는 관찰기록·통계·역사문헌이 필요하다.**",
+          "textEn": "Oxford’s dodo material became one of the key physical records of a species after reliable living observations had ceased. Bones, surviving tissue, early images, and texts help reconstruct the bird’s anatomy and relationships. Museum specimens, however, do not directly reveal the date of extinction. They strongly establish what the species was; determining how long it survived requires historical records and statistical inference."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "도도는 ‘멸종했다’보다 ‘어떻게 멸종을 아는가’를 묻게 한다",
+          "headingEn": "The Dodo Asks How We Know an Extinction Has Happened",
+          "textKo": "도도의 마지막연대 논쟁은 하나의 숫자를 고르는 퀴즈가 아니다. 마지막 확정관찰, 불확실한 후대기록, 통계적 추정이 서로 다른 종류의 답을 준다. 멸종종 연구에서 이 구분은 매우 중요하다. **‘마지막으로 봤다’는 날짜와 ‘마지막 개체가 죽었다’는 날짜 사이에는 관측되지 않은 시간이 존재할 수 있다.** 도도는 그 간극을 설명하기에 가장 유명한 사례 중 하나다.",
+          "textEn": "The dodo chronology is not a quiz with one correct year. A last secure observation, uncertain later accounts, and statistical extinction estimates answer different questions. In extinction science, that distinction matters: time can pass between the last time humans see a species and the death of the final individual. The dodo is one of the most famous examples of that hidden interval."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 도도는 모리셔스에 살았고 17세기 안에 멸종했다. OUMNH는 1662년을 마지막 널리 받아들여지는 목격기록으로 소개한다. 2003년 통계연구는 관찰간격을 이용해 약 1690년의 멸종 추정치를 제시했다. 2004년 문헌 재분석은 1662년 뒤 생존 가능성을 논의했다.\n\n**확인되지 않음:** 1662년이 마지막 개체가 죽은 정확한 날짜라는 것은 아니다. 1690년은 직접 목격연도가 아니라 통계적 추정이다. 후대 문헌을 도도 목격으로 읽는 해석이 모두 학계의 확정결론인 것도 아니다.",
+          "textEn": "**Established:** The dodo lived on Mauritius and became extinct during the seventeenth century. OUMNH presents 1662 as the last widely accepted sighting. A 2003 statistical study estimated extinction around 1690 from the pattern of observations, and a 2004 historical reanalysis discussed possible later survival.\n\n**Not established:** 1662 is not proven as the exact date the last individual died. The 1690 figure is a statistical estimate, not a direct sighting. Later textual interpretations are not all established as confirmed dodo observations."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 도도는 모리셔스에 살았고 17세기 안에 멸종했다. OUMNH는 1662년을 마지막 널리 받아들여지는 목격기록으로 소개한다. 2003년 통계연구는 관찰간격을 이용해 약 1690년의 멸종 추정치를 제시했다. 2004년 문헌 재분석은 1662년 뒤 생존 가능성을 논의했다.\n\n**확인되지 않음:** 1662년이 마지막 개체가 죽은 정확한 날짜라는 것은 아니다. 1690년은 직접 목격연도가 아니라 통계적 추정이다. 후대 문헌을 도도 목격으로 읽는 해석이 모두 학계의 확정결론인 것도 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mauritius-02",
+        "1662-03",
+        "statistics-04",
+        "diaries-05",
+        "museum-06",
+        "specimen-07",
+        "meaning-08"
+      ]
+    },
+    "en": {
+      "headline": "The Last Dodo Did Not Necessarily Die in 1662",
+      "hook": "1662 is a last widely accepted sighting, not a timestamp for the death of the final bird. Statistical and historical reanalysis makes the dodo’s final years less precise, not more.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘마지막 도도’는 정확히 언제 사라졌나",
+          "headingEn": "When Did the Last Dodo Actually Disappear?",
+          "textKo": "도도는 멸종의 상징처럼 알려져 있지만, 아이러니하게도 ‘마지막 도도가 언제 죽었는가’는 정확한 날짜로 남아 있지 않다. Oxford University Museum of Natural History는 1598년 네덜란드 항해자들이 모리셔스에서 도도를 기록했고, 1662년 기록을 마지막으로 널리 받아들여지는 목격으로 소개한다. 그러나 마지막 신뢰기록과 실제 마지막 개체의 죽음은 같은 순간일 필요가 없다. **멸종은 보통 관찰자가 없을 때 완성된다.**",
+          "textEn": "The dodo is one of the world’s great symbols of extinction, yet the exact date on which the final bird died is not known. The Oxford University Museum of Natural History describes Dutch observations from 1598 and treats a 1662 account as the last widely accepted sighting. But the last reliable record and the death of the last individual need not be the same event. Extinction is often completed when no observer is present."
+        },
+        {
+          "blockId": "mauritius-02",
+          "type": "BACKGROUND",
+          "headingKo": "도도는 왜 그렇게 빨리 사라졌나",
+          "headingEn": "Why Did the Dodo Disappear So Quickly?",
+          "textKo": "도도는 모리셔스에 살던 날지 못하는 새였다. 인간 정착 이후 사냥뿐 아니라 돼지·쥐 등 도입동물, 둥지교란, 서식환경 변화가 복합적으로 작용했을 가능성이 논의된다. Natural History Museum은 ‘어리석어서 멸종했다’는 대중적 이미지를 경계하며, 섬 생태계에 갑작스럽게 들어온 인간과 외래동물이 핵심 맥락이라고 설명한다. **멸종 원인을 도도의 행동특성 하나로 돌리는 것은 생태학적 과정을 지나치게 단순화한다.**",
+          "textEn": "The dodo was a flightless bird endemic to Mauritius. After sustained human settlement, hunting, introduced animals such as pigs and rats, nesting disturbance, and habitat change likely combined to drive decline. The Natural History Museum cautions against the popular idea that the dodo vanished because it was somehow “stupid.” The more relevant context is an island ecosystem confronted rapidly with humans and introduced species."
+        },
+        {
+          "blockId": "1662-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1662년 기록이 왜 기준점이 됐나",
+          "headingEn": "Why 1662 Became the Standard Reference Point",
+          "textKo": "OUMNH는 1662년을 마지막 널리 받아들여지는 목격연대로 정리한다. 그 이후에도 도도를 봤다는 것으로 해석될 수 있는 문헌이 있지만, 종 식별·날짜·번역·기록 맥락을 둘러싼 문제가 있다. 따라서 1662년은 ‘그날 마지막 도도가 죽었다’는 날짜가 아니라 **학계에서 비교적 신뢰도가 높은 마지막 직접기록의 기준점**에 가깝다. 이 차이가 멸종연대 연구 전체를 설명하는 핵심이다.",
+          "textEn": "OUMNH summarizes 1662 as the last widely accepted sighting date. Later texts have sometimes been interpreted as references to dodos, but they raise problems of species identification, dating, translation, and context. The year 1662 is therefore best understood not as the date on which the final dodo died, but as a relatively secure last direct record used as a reference point."
+        },
+        {
+          "blockId": "statistics-04",
+          "type": "TURNING_POINT",
+          "headingKo": "2003년, 통계가 ‘약 1690년’을 제시하다",
+          "headingEn": "2003: Statistics Pushed the Estimated Extinction Later",
+          "textKo": "Roberts와 Solow는 2003년 Nature 논문에서 마지막 관찰기록 하나만으로 멸종시점을 정하지 않고, 관찰기록의 간격을 이용해 통계적 멸종시점을 추정했다. 그 결과는 약 1690년 무렵까지 생존했을 가능성을 제시했다. 이 숫자는 ‘1690년에 누군가 도도를 봤다’는 뜻이 아니다. **1662년 이후 관찰이 없더라도 희귀해진 개체가 일정 기간 남아 있었을 확률을 모델링한 추정치**다.",
+          "textEn": "In a 2003 *Nature* paper, Roberts and Solow avoided equating the last sighting with the extinction date. They used the pattern of sighting records to estimate how long the species might have persisted unseen, producing an estimate around 1690. That does not mean someone observed a dodo in 1690. It is a statistical estimate of persistence after the last secure observation."
+        },
+        {
+          "blockId": "diaries-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "네덜란드 기록을 다시 읽자 더 늦은 생존 가능성이 나왔다",
+          "headingEn": "Re-Reading Dutch Records Suggested Later Survival Might Be Possible",
+          "textKo": "2004년 Hume, Martill, Dewdney는 네덜란드 일기와 수집기록을 재검토해 1662년 뒤에도 도도 또는 관련 큰 날지 못하는 새를 가리킬 수 있는 기록이 있다고 제안했다. University of Portsmouth 연구기록은 이 논문이 기존 마지막목격 연대를 재검토했다는 점을 확인한다. 그러나 **후대 기록을 다시 해석할 수 있다는 것과 학계가 새로운 ‘최종 목격일’을 확정했다는 것은 다르다.** 문헌의 종 식별 불확실성이 남는다.",
+          "textEn": "In 2004, Hume, Martill, and Dewdney re-examined Dutch diaries and collecting records and argued that some post-1662 references might indicate later survival of the dodo or a similar large flightless bird. The University of Portsmouth research record confirms that this study re-evaluated the accepted chronology. But reinterpreting later texts is not the same as establishing a new universally accepted final sighting date; species identification remains uncertain."
+        },
+        {
+          "blockId": "museum-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "박물관조차 1662와 1680 가능성을 함께 언급한다",
+          "headingEn": "Even Museum Summaries Leave Some Chronological Room",
+          "textKo": "Natural History Museum의 대중설명은 마지막 신뢰목격을 1662년 또는 1680년 가능성으로 서술하며, 정확한 소멸연대가 단순하지 않음을 보여준다. 이런 차이는 오류라기보다 자료의 한계를 반영한다. 오래된 항해일기에는 오늘날의 표준 생물학적 이름이 없고, 여러 새가 혼동될 수 있다. **역사생태학에서는 ‘정확한 마지막 하루’를 고집하기보다 증거의 신뢰도 단계와 멸종가능 범위를 제시하는 편이 더 정직하다.**",
+          "textEn": "The Natural History Museum’s public account discusses 1662 and the possibility of a later 1680 record, illustrating why a single exact extinction date is difficult. This is not necessarily a contradiction so much as a reflection of the evidence: old travel accounts did not use modern standardized taxonomy, and different birds could be confused. Historical ecology is often better served by graded confidence and a plausible extinction window than by one falsely precise final day."
+        },
+        {
+          "blockId": "specimen-07",
+          "type": "BACKGROUND",
+          "headingKo": "도도를 기억하게 만든 것은 살아 있는 관찰보다 남은 표본이었다",
+          "headingEn": "Specimens Outlived Reliable Sightings",
+          "textKo": "Oxford의 도도 표본은 멸종 뒤에도 종의 존재를 물리적으로 증명해 온 대표적 유물이다. 남은 뼈와 연조직, 초기 그림과 문헌은 도도의 형태와 계통을 재구성하게 한다. 그러나 박물관 표본은 ‘멸종일’을 직접 알려주지는 않는다. **표본은 종의 실재와 형태에 강한 증거지만, 마지막 개체가 언제까지 살았는가에는 관찰기록·통계·역사문헌이 필요하다.**",
+          "textEn": "Oxford’s dodo material became one of the key physical records of a species after reliable living observations had ceased. Bones, surviving tissue, early images, and texts help reconstruct the bird’s anatomy and relationships. Museum specimens, however, do not directly reveal the date of extinction. They strongly establish what the species was; determining how long it survived requires historical records and statistical inference."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "도도는 ‘멸종했다’보다 ‘어떻게 멸종을 아는가’를 묻게 한다",
+          "headingEn": "The Dodo Asks How We Know an Extinction Has Happened",
+          "textKo": "도도의 마지막연대 논쟁은 하나의 숫자를 고르는 퀴즈가 아니다. 마지막 확정관찰, 불확실한 후대기록, 통계적 추정이 서로 다른 종류의 답을 준다. 멸종종 연구에서 이 구분은 매우 중요하다. **‘마지막으로 봤다’는 날짜와 ‘마지막 개체가 죽었다’는 날짜 사이에는 관측되지 않은 시간이 존재할 수 있다.** 도도는 그 간극을 설명하기에 가장 유명한 사례 중 하나다.",
+          "textEn": "The dodo chronology is not a quiz with one correct year. A last secure observation, uncertain later accounts, and statistical extinction estimates answer different questions. In extinction science, that distinction matters: time can pass between the last time humans see a species and the death of the final individual. The dodo is one of the most famous examples of that hidden interval."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 도도는 모리셔스에 살았고 17세기 안에 멸종했다. OUMNH는 1662년을 마지막 널리 받아들여지는 목격기록으로 소개한다. 2003년 통계연구는 관찰간격을 이용해 약 1690년의 멸종 추정치를 제시했다. 2004년 문헌 재분석은 1662년 뒤 생존 가능성을 논의했다.\n\n**확인되지 않음:** 1662년이 마지막 개체가 죽은 정확한 날짜라는 것은 아니다. 1690년은 직접 목격연도가 아니라 통계적 추정이다. 후대 문헌을 도도 목격으로 읽는 해석이 모두 학계의 확정결론인 것도 아니다.",
+          "textEn": "**Established:** The dodo lived on Mauritius and became extinct during the seventeenth century. OUMNH presents 1662 as the last widely accepted sighting. A 2003 statistical study estimated extinction around 1690 from the pattern of observations, and a 2004 historical reanalysis discussed possible later survival.\n\n**Not established:** 1662 is not proven as the exact date the last individual died. The 1690 figure is a statistical estimate, not a direct sighting. Later textual interpretations are not all established as confirmed dodo observations."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The dodo lived on Mauritius and became extinct during the seventeenth century. OUMNH presents 1662 as the last widely accepted sighting. A 2003 statistical study estimated extinction around 1690 from the pattern of observations, and a 2004 historical reanalysis discussed possible later survival.\n\n**Not established:** 1662 is not proven as the exact date the last individual died. The 1690 figure is a statistical estimate, not a direct sighting. Later textual interpretations are not all established as confirmed dodo observations.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mauritius-02",
+        "1662-03",
+        "statistics-04",
+        "diaries-05",
+        "museum-06",
+        "specimen-07",
+        "meaning-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DODO-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1662년은 도도의 마지막 널리 받아들여지는 목격연도로 자주 사용된다.",
+      "statementEn": "1662 is widely used as the last accepted dodo sighting date.",
+      "sourceRefs": [
+        "OUMNH_DODO"
+      ]
+    },
+    {
+      "claimId": "DODO-C2",
+      "status": "SUPPORTED",
+      "statementKo": "2003년 통계모델은 약 1690년까지의 생존 가능성을 추정했다.",
+      "statementEn": "A 2003 statistical model estimated possible persistence to around 1690.",
+      "sourceRefs": [
+        "ROBERTS_SOLOW"
+      ]
+    },
+    {
+      "claimId": "DODO-C3",
+      "status": "SUPPORTED",
+      "statementKo": "2004년 네덜란드 기록 재분석은 1662년 이후 생존 가능성을 제기했다.",
+      "statementEn": "A 2004 reanalysis of Dutch records raised the possibility of survival after 1662.",
+      "sourceRefs": [
+        "HUME_DODO"
+      ]
+    },
+    {
+      "claimId": "DODO-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1690년에 실제 도도가 직접 목격됐다는 의미는 아니다.",
+      "statementEn": "The 1690 estimate does not mean a dodo was directly observed in that year.",
+      "sourceRefs": [
+        "ROBERTS_SOLOW"
+      ]
+    },
+    {
+      "claimId": "DODO-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 마지막 개체 사망일은 확립되지 않는다.",
+      "statementEn": "The exact death date of the last individual is not established.",
+      "sourceRefs": [
+        "OUMNH_DODO",
+        "NHM_DODO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "OUMNH_DODO",
+      "title": "The Oxford Dodo",
+      "publisher": "Oxford University Museum of Natural History",
+      "url": "https://oumnh.ox.ac.uk/oxford-dodo-0",
+      "sourceType": "SPECIMEN_CUSTODIAN_RESEARCH"
+    },
+    {
+      "sourceId": "ROBERTS_SOLOW",
+      "title": "Flightless birds: When did the dodo become extinct?",
+      "publisher": "Nature / Roberts & Solow 2003",
+      "url": "https://www.nature.com/articles/426245a",
+      "sourceType": "PRIMARY_STATISTICAL_EXTINCTION_MODEL"
+    },
+    {
+      "sourceId": "HUME_DODO",
+      "title": "Palaeobiology, Dutch diaries, and the demise of the dodo",
+      "publisher": "University of Portsmouth / Hume et al. 2004",
+      "url": "https://researchportal.port.ac.uk/en/publications/palaeobiology-dutch-diaries-and-the-demise-of-the-dodo/",
+      "sourceType": "HISTORICAL_REANALYSIS"
+    },
+    {
+      "sourceId": "NHM_DODO",
+      "title": "The dodo bird: the real facts about this icon of extinction",
+      "publisher": "Natural History Museum London",
+      "url": "https://www.nhm.ac.uk/discover/the-dodo-bird-the-real-facts-about-this-icon-of-extinction.html",
+      "sourceType": "INDEPENDENT_MUSEUM_REVIEW"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dodo-last-sighting-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "도도의 1598·1662·후대문헌·1690 통계추정의 의미차이를 정리한 hero 도표.",
+      "captionEn": "Hero explainer distinguishing early observations, the 1662 last accepted sighting, later texts, and the ~1690 statistical estimate.",
+      "altKo": "도도의 직접목격과 추정멸종을 네 단계로 분리.",
+      "altEn": "Four-stage diagram separating direct sightings from estimated extinction.",
+      "sourceRefs": [
+        "OUMNH_DODO",
+        "ROBERTS_SOLOW",
+        "HUME_DODO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dodo-last-sighting__hero-context__ko.png",
+          "sha256": "e2760006b871bd1bd41e64aee06adddacb36c3bf32cf54e92648477a4ed66500",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dodo-last-sighting__hero-context__en.png",
+          "sha256": "6ab6a7b69485e2fdd0cf6e0e457155e68ce1c17c47ea0e80db1ed2f4800ed554",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dodo-last-sighting-last-sighting-vs-extinction",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "도도 1662년 마지막 널리 수용 목격과 약1690년 통계추정의 차이를 비교한 카드.",
+      "captionEn": "Evidence card comparing the 1662 last widely accepted sighting with the ~1690 statistical extinction estimate.",
+      "altKo": "왼쪽 직접기록 1662, 오른쪽 통계추정 ~1690의 차이.",
+      "altEn": "Two-column comparison of the 1662 direct record and the ~1690 statistical estimate.",
+      "sourceRefs": [
+        "OUMNH_DODO",
+        "ROBERTS_SOLOW"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dodo-last-sighting__last-sighting-vs-extinction__ko.png",
+          "sha256": "a7cefbf2aa017815459f4d1989828fbf02ac3e2225341b2485e5de0fb940a5eb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dodo-last-sighting__last-sighting-vs-extinction__en.png",
+          "sha256": "b961cd4d252393cb0aa489c74fb6a7a9654960b814c65175ddeb5ab62b3881c8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dodo-last-sighting-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "도도의 마지막기록과 2003~2004 현대연구를 잇는 연표.",
+      "captionEn": "Timeline linking the dodo’s last accepted record with modern 2003–2004 reanalysis.",
+      "altKo": "1598, 1662, 2003, 2004 네 시점.",
+      "altEn": "Timeline marking 1598, 1662, 2003, and 2004.",
+      "sourceRefs": [
+        "OUMNH_DODO",
+        "ROBERTS_SOLOW",
+        "HUME_DODO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dodo-last-sighting__timeline__ko.png",
+          "sha256": "267438b8ccd5553df1531da785bda996efbe8540072ea1de7b69ec4dd7f0d045",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dodo-last-sighting__timeline__en.png",
+          "sha256": "d5d4ad67ed4aab1f42cc391b559f9c3f461002a51df179de5bc65a73a7998c03",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Mauritius"
+    ],
+    "regions": [
+      "Mauritius"
+    ],
+    "places": [
+      {
+        "name": "Mauritius",
+        "role": "endemic habitat"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Oxford University Museum of Natural History",
+      "Natural History Museum London"
+    ],
+    "dateRange": {
+      "start": "1598",
+      "end": "late 17th century",
+      "precision": "European records through extinction window"
+    },
+    "era": "17th century",
+    "resolution": "EXTINCT_EXACT_LAST_DATE_UNCERTAIN",
+    "searchAliases": [
+      "dodo extinction",
+      "last dodo sighting",
+      "1662 dodo"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2100,
+    "enBodyWords": 605,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH05",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH05_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

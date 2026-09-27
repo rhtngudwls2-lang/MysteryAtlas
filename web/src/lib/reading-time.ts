@@ -16,6 +16,7 @@ export function countContentUnits(record: CaseRecord, locale: Locale): number {
 }
 
 export function readingMinutes(record: CaseRecord, locale: Locale): number {
+  if (record.readMinutesByLocale) return record.readMinutesByLocale[locale];
   const units = countContentUnits(record, locale);
   return Math.max(1, Math.ceil(units / readingStrategies[locale].unitsPerMinute));
 }

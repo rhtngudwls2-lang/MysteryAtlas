@@ -1,0 +1,446 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "japanese-wolf-extinction",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "일본 늑대 표본과 생존 목격담",
+    "canonicalTitleEn": "Japanese Wolf: Specimens and Survival Sightings",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected because the verified source set supports a concise extinction/survival-evidence story; no filler added."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1905년 이후에도 일본늑대는 살아남았나",
+      "hook": "마지막으로 널리 받아들여지는 표본 뒤에도 목격담은 계속됐다. 오래된 뼈와 DNA는 과거의 늑대를 더 정확히 보여주지만, ‘지금도 살아 있다’는 질문에는 다른 종류의 증거가 필요하다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1905년 1월 23일, 마지막으로 기록된 표본",
+          "headingEn": "January 23, 1905: The Last Widely Accepted Specimen",
+          "textKo": "나라현 히가시요시노촌의 공식 기록은 1905년 1월 23일 Washikaguchi에서 한 늑대가 포획·거래된 경위를 전한다. 이 표본은 오늘날 일본늑대(Canis lupus hodophilax)의 마지막 널리 받아들여지는 기록 가운데 하나로 반복해서 언급된다. 이후 수십 년 동안 산악지대의 목격담과 사진 주장이 이어졌지만, ‘1905년 이후에도 생존했다’는 이야기는 표본·DNA·사체처럼 같은 수준의 확인자료를 확보하지 못했다. **그래서 일본늑대 미스터리는 멸종일의 한 점보다, ‘마지막 확실한 증거’와 ‘계속되는 목격’ 사이의 간극에 있다.**",
+          "textEn": "Official material from Higashiyoshino Village records the capture and transaction of a wolf at Washikaguchi on January 23, 1905. That specimen is repeatedly treated as one of the last widely accepted records of the Japanese wolf (*Canis lupus hodophilax*). Sightings and photographic claims continued for decades afterward, but claims of survival after 1905 have not produced evidence at the same level as a specimen, carcass, or verified DNA. The mystery therefore lies in the gap between the last secure record and continuing reports."
+        },
+        {
+          "blockId": "extinction-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘마지막 표본’과 ‘정확한 멸종일’은 같은 말이 아니다",
+          "headingEn": "A Last Specimen Is Not an Exact Extinction Date",
+          "textKo": "멸종은 대개 마지막 개체가 사망하는 순간을 사람이 지켜보며 기록하는 사건이 아니다. 어떤 종이 희귀해질수록 발견확률은 낮아지고, 마지막 확정표본과 실제 마지막 개체 사이에는 시간차가 생길 수 있다. 히가시요시노 공식자료도 1905년 표본 이후 생존 가능성을 논리적으로 0으로 만들지는 않는다. 그러나 **가능성이 남는 것과 실제 생존증거가 존재하는 것은 다르다.** 이 구분이 이후 목격담을 평가하는 출발점이다.",
+          "textEn": "Extinction is rarely an event in which humans watch the final individual die. As a species becomes rare, detection probability falls, and the last confirmed specimen may predate the death of the final animal. Higashiyoshino’s official history does not logically make post-1905 survival impossible. But possibility and evidence are not the same thing. That distinction is the starting point for evaluating later sightings."
+        },
+        {
+          "blockId": "specimen-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "오래된 두개골 하나가 DNA로 다시 확인됐다",
+          "headingEn": "An Old Skull Was Re-Identified With CT and DNA",
+          "textKo": "Ishiguro 연구팀은 일본의 오래된 늑대 후보 두개골 JW275를 CT 형태분석과 미토콘드리아 DNA로 다시 검토했다. 연구는 표본이 일본늑대 계통과 일치한다는 결론을 지지했고, 박물관·개인소장 표본의 신원을 현대기술로 재확인하는 방법을 보여줬다. 동시에 논문은 이런 역사표본 연구가 **살아 있는 개체를 발견한 것과는 전혀 다른 증거**임을 분명히 한다. 오래된 뼈가 진짜 일본늑대라는 사실은 종의 과거 존재를 강화하지만 현대 생존을 증명하지 않는다.",
+          "textEn": "Ishiguro and colleagues re-examined an old candidate skull, JW275, using CT morphology and mitochondrial DNA. Their results supported identification with the Japanese-wolf lineage and demonstrated how modern methods can authenticate historical specimens. At the same time, verifying an old skull is entirely different from finding a living animal. It strengthens the historical record of the species, not evidence of present-day survival."
+        },
+        {
+          "blockId": "genome-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2024년 유전체는 일본늑대의 계통을 더 선명하게 했다",
+          "headingEn": "Genomics Clarified the Lineage, Not Its Survival",
+          "textKo": "2024년 Nature Communications 연구는 역사적 일본늑대 유전체를 분석해 일본의 개 계통과 늑대 사이의 오래된 유전관계를 더 세밀하게 추적했다. 이 연구의 중요성은 ‘늑대가 아직 살아 있다’는 주장과 무관하다. 오히려 남아 있는 역사표본을 통해 일본늑대가 어떤 계통이었고 현대 개와 어떤 관계를 가졌는지 밝히는 데 있다. **유전체 연구가 발전할수록 멸종종의 과거는 더 선명해지지만, 현재 생존 여부는 별도의 현장증거를 요구한다.**",
+          "textEn": "A 2024 *Nature Communications* study analysed historical Japanese-wolf genomes and refined understanding of the lineage’s relationship with Japanese dogs and other wolves. This work does not support a claim that the wolf survives today. Its value lies in reconstructing what the extinct lineage was genetically. Better genomics can clarify the past while leaving present-day survival as a separate field-evidence question."
+        },
+        {
+          "blockId": "sightings-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "산에서 계속되는 목격담",
+          "headingEn": "Why Sightings Continued",
+          "textKo": "John Knight의 민속·사회학 연구는 일본늑대 멸종 뒤에도 산촌과 산악지대에서 늑대 같은 동물을 봤다는 이야기들이 이어진 과정을 다룬다. 이런 보고는 단순한 ‘거짓말 목록’으로 처리하기보다, 지역에서 늑대가 어떤 기억과 상징을 갖는지 보여주는 자료가 될 수 있다. 하지만 개별 목격자의 진술은 거리·조명·관찰시간·비슷한 개과동물의 존재 같은 조건에 영향을 받는다. **목격전승의 문화적 가치와 생물학적 생존증거의 강도는 분리해서 평가해야 한다.**",
+          "textEn": "John Knight’s academic work examines how reports of wolf-like animals continued in mountain communities after the accepted extinction of the Japanese wolf. Such reports need not be dismissed merely as lies; they can reveal the cultural memory and symbolic importance of wolves. But individual sightings are affected by distance, light, observation time, and the presence of similar canids. Cultural significance and biological evidence of survival must therefore be evaluated separately."
+        },
+        {
+          "blockId": "evidence-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘아직 산이 넓다’는 말은 증거가 아니다",
+          "headingEn": "“The Mountains Are Huge” Is Not Evidence",
+          "textKo": "일본의 산지가 넓고 모든 숲을 항상 감시할 수 없다는 사실은 생존 가능성을 완전히 배제하지 못하게 한다. 하지만 미탐사 공간은 그 자체로 생존증거가 아니다. 장기간 살아 있는 늑대 집단이라면 번식 가능한 개체군, 사체·배설물·털·먹이흔적, 신뢰할 수 있는 카메라 영상과 DNA 같은 여러 종류의 흔적을 남길 가능성이 있다. Work 검증자료는 1905년 이후 이런 수준의 확인증거가 확립되지 않았다고 정리한다.",
+          "textEn": "Japan’s mountainous terrain makes exhaustive observation impossible, so survival cannot be ruled out by geography alone. But unsearched space is not positive evidence. A persistent breeding population of wolves would be expected to leave multiple traces—carcasses, scat, hair, prey signs, reliable camera images, or DNA. Work’s verified sources do not establish evidence at that level after 1905."
+        },
+        {
+          "blockId": "identity-07",
+          "type": "AFTERMATH",
+          "headingKo": "멸종종은 사라진 뒤에도 지역문화에서 살아남는다",
+          "headingEn": "An Extinct Animal Can Survive Culturally",
+          "textKo": "일본늑대는 생물학적으로는 멸종종으로 취급되지만, 문화적으로는 사라지지 않았다. 산의 수호자, 두려운 포식자, 잃어버린 야생의 상징처럼 여러 의미가 지역전승과 후대 목격담에 남았다. 이런 지속성 때문에 생존주장은 단순한 동물학 문제를 넘어선다. **‘아직 살아 있기를 바라는 기억’과 ‘실제로 살아 있다는 검증자료’가 겹치는 지점**이 Mystery Atlas가 다뤄야 할 부분이다.",
+          "textEn": "The Japanese wolf is treated biologically as extinct, but it did not disappear culturally. It survives in local memory as guardian, predator, and symbol of lost wilderness. That persistence means survival claims are not purely zoological. Mystery Atlas should examine the point where the desire or memory of continued existence meets the much stricter requirement for evidence of a living population."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1905년 1월 23일 히가시요시노 지역의 일본늑대 표본 기록이 존재한다. 역사표본의 CT·mtDNA 연구와 2024년 유전체 연구는 일본늑대의 과거 계통을 과학적으로 확인·정교화한다. 1905년 이후 생존 목격담은 문화·민속 연구대상으로 실제 존재한다.\n\n**확인되지 않음:** 1905년 이후 살아 있는 일본늑대 개체군이 존재한다는 검증된 표본·DNA·사체는 이번 잠금자료에서 확인되지 않는다. 그렇다고 1905년 날짜가 정확한 ‘마지막 개체 사망일’로 증명된 것도 아니다.",
+          "textEn": "**Established:** A Japanese-wolf specimen record exists from Higashiyoshino on January 23, 1905. CT/mtDNA work on historical specimens and a 2024 genomic study strengthen scientific knowledge of the lineage. Post-1905 survival sightings exist as a real subject of folklore and social research.\n\n**Not established:** The locked source set does not provide a verified post-1905 living specimen, DNA sample, or carcass demonstrating a surviving population. Nor is January 23, 1905 proven to be the exact date the final individual died."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1905년 1월 23일 히가시요시노 지역의 일본늑대 표본 기록이 존재한다. 역사표본의 CT·mtDNA 연구와 2024년 유전체 연구는 일본늑대의 과거 계통을 과학적으로 확인·정교화한다. 1905년 이후 생존 목격담은 문화·민속 연구대상으로 실제 존재한다.\n\n**확인되지 않음:** 1905년 이후 살아 있는 일본늑대 개체군이 존재한다는 검증된 표본·DNA·사체는 이번 잠금자료에서 확인되지 않는다. 그렇다고 1905년 날짜가 정확한 ‘마지막 개체 사망일’로 증명된 것도 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "extinction-02",
+        "specimen-03",
+        "genome-04",
+        "sightings-05",
+        "evidence-06",
+        "identity-07"
+      ]
+    },
+    "en": {
+      "headline": "Did the Japanese Wolf Survive Beyond 1905?",
+      "hook": "Sightings continued after the last widely accepted specimen. Old bones and DNA can clarify the wolf of the past, but present survival requires a different kind of evidence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1905년 1월 23일, 마지막으로 기록된 표본",
+          "headingEn": "January 23, 1905: The Last Widely Accepted Specimen",
+          "textKo": "나라현 히가시요시노촌의 공식 기록은 1905년 1월 23일 Washikaguchi에서 한 늑대가 포획·거래된 경위를 전한다. 이 표본은 오늘날 일본늑대(Canis lupus hodophilax)의 마지막 널리 받아들여지는 기록 가운데 하나로 반복해서 언급된다. 이후 수십 년 동안 산악지대의 목격담과 사진 주장이 이어졌지만, ‘1905년 이후에도 생존했다’는 이야기는 표본·DNA·사체처럼 같은 수준의 확인자료를 확보하지 못했다. **그래서 일본늑대 미스터리는 멸종일의 한 점보다, ‘마지막 확실한 증거’와 ‘계속되는 목격’ 사이의 간극에 있다.**",
+          "textEn": "Official material from Higashiyoshino Village records the capture and transaction of a wolf at Washikaguchi on January 23, 1905. That specimen is repeatedly treated as one of the last widely accepted records of the Japanese wolf (*Canis lupus hodophilax*). Sightings and photographic claims continued for decades afterward, but claims of survival after 1905 have not produced evidence at the same level as a specimen, carcass, or verified DNA. The mystery therefore lies in the gap between the last secure record and continuing reports."
+        },
+        {
+          "blockId": "extinction-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘마지막 표본’과 ‘정확한 멸종일’은 같은 말이 아니다",
+          "headingEn": "A Last Specimen Is Not an Exact Extinction Date",
+          "textKo": "멸종은 대개 마지막 개체가 사망하는 순간을 사람이 지켜보며 기록하는 사건이 아니다. 어떤 종이 희귀해질수록 발견확률은 낮아지고, 마지막 확정표본과 실제 마지막 개체 사이에는 시간차가 생길 수 있다. 히가시요시노 공식자료도 1905년 표본 이후 생존 가능성을 논리적으로 0으로 만들지는 않는다. 그러나 **가능성이 남는 것과 실제 생존증거가 존재하는 것은 다르다.** 이 구분이 이후 목격담을 평가하는 출발점이다.",
+          "textEn": "Extinction is rarely an event in which humans watch the final individual die. As a species becomes rare, detection probability falls, and the last confirmed specimen may predate the death of the final animal. Higashiyoshino’s official history does not logically make post-1905 survival impossible. But possibility and evidence are not the same thing. That distinction is the starting point for evaluating later sightings."
+        },
+        {
+          "blockId": "specimen-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "오래된 두개골 하나가 DNA로 다시 확인됐다",
+          "headingEn": "An Old Skull Was Re-Identified With CT and DNA",
+          "textKo": "Ishiguro 연구팀은 일본의 오래된 늑대 후보 두개골 JW275를 CT 형태분석과 미토콘드리아 DNA로 다시 검토했다. 연구는 표본이 일본늑대 계통과 일치한다는 결론을 지지했고, 박물관·개인소장 표본의 신원을 현대기술로 재확인하는 방법을 보여줬다. 동시에 논문은 이런 역사표본 연구가 **살아 있는 개체를 발견한 것과는 전혀 다른 증거**임을 분명히 한다. 오래된 뼈가 진짜 일본늑대라는 사실은 종의 과거 존재를 강화하지만 현대 생존을 증명하지 않는다.",
+          "textEn": "Ishiguro and colleagues re-examined an old candidate skull, JW275, using CT morphology and mitochondrial DNA. Their results supported identification with the Japanese-wolf lineage and demonstrated how modern methods can authenticate historical specimens. At the same time, verifying an old skull is entirely different from finding a living animal. It strengthens the historical record of the species, not evidence of present-day survival."
+        },
+        {
+          "blockId": "genome-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2024년 유전체는 일본늑대의 계통을 더 선명하게 했다",
+          "headingEn": "Genomics Clarified the Lineage, Not Its Survival",
+          "textKo": "2024년 Nature Communications 연구는 역사적 일본늑대 유전체를 분석해 일본의 개 계통과 늑대 사이의 오래된 유전관계를 더 세밀하게 추적했다. 이 연구의 중요성은 ‘늑대가 아직 살아 있다’는 주장과 무관하다. 오히려 남아 있는 역사표본을 통해 일본늑대가 어떤 계통이었고 현대 개와 어떤 관계를 가졌는지 밝히는 데 있다. **유전체 연구가 발전할수록 멸종종의 과거는 더 선명해지지만, 현재 생존 여부는 별도의 현장증거를 요구한다.**",
+          "textEn": "A 2024 *Nature Communications* study analysed historical Japanese-wolf genomes and refined understanding of the lineage’s relationship with Japanese dogs and other wolves. This work does not support a claim that the wolf survives today. Its value lies in reconstructing what the extinct lineage was genetically. Better genomics can clarify the past while leaving present-day survival as a separate field-evidence question."
+        },
+        {
+          "blockId": "sightings-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "산에서 계속되는 목격담",
+          "headingEn": "Why Sightings Continued",
+          "textKo": "John Knight의 민속·사회학 연구는 일본늑대 멸종 뒤에도 산촌과 산악지대에서 늑대 같은 동물을 봤다는 이야기들이 이어진 과정을 다룬다. 이런 보고는 단순한 ‘거짓말 목록’으로 처리하기보다, 지역에서 늑대가 어떤 기억과 상징을 갖는지 보여주는 자료가 될 수 있다. 하지만 개별 목격자의 진술은 거리·조명·관찰시간·비슷한 개과동물의 존재 같은 조건에 영향을 받는다. **목격전승의 문화적 가치와 생물학적 생존증거의 강도는 분리해서 평가해야 한다.**",
+          "textEn": "John Knight’s academic work examines how reports of wolf-like animals continued in mountain communities after the accepted extinction of the Japanese wolf. Such reports need not be dismissed merely as lies; they can reveal the cultural memory and symbolic importance of wolves. But individual sightings are affected by distance, light, observation time, and the presence of similar canids. Cultural significance and biological evidence of survival must therefore be evaluated separately."
+        },
+        {
+          "blockId": "evidence-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘아직 산이 넓다’는 말은 증거가 아니다",
+          "headingEn": "“The Mountains Are Huge” Is Not Evidence",
+          "textKo": "일본의 산지가 넓고 모든 숲을 항상 감시할 수 없다는 사실은 생존 가능성을 완전히 배제하지 못하게 한다. 하지만 미탐사 공간은 그 자체로 생존증거가 아니다. 장기간 살아 있는 늑대 집단이라면 번식 가능한 개체군, 사체·배설물·털·먹이흔적, 신뢰할 수 있는 카메라 영상과 DNA 같은 여러 종류의 흔적을 남길 가능성이 있다. Work 검증자료는 1905년 이후 이런 수준의 확인증거가 확립되지 않았다고 정리한다.",
+          "textEn": "Japan’s mountainous terrain makes exhaustive observation impossible, so survival cannot be ruled out by geography alone. But unsearched space is not positive evidence. A persistent breeding population of wolves would be expected to leave multiple traces—carcasses, scat, hair, prey signs, reliable camera images, or DNA. Work’s verified sources do not establish evidence at that level after 1905."
+        },
+        {
+          "blockId": "identity-07",
+          "type": "AFTERMATH",
+          "headingKo": "멸종종은 사라진 뒤에도 지역문화에서 살아남는다",
+          "headingEn": "An Extinct Animal Can Survive Culturally",
+          "textKo": "일본늑대는 생물학적으로는 멸종종으로 취급되지만, 문화적으로는 사라지지 않았다. 산의 수호자, 두려운 포식자, 잃어버린 야생의 상징처럼 여러 의미가 지역전승과 후대 목격담에 남았다. 이런 지속성 때문에 생존주장은 단순한 동물학 문제를 넘어선다. **‘아직 살아 있기를 바라는 기억’과 ‘실제로 살아 있다는 검증자료’가 겹치는 지점**이 Mystery Atlas가 다뤄야 할 부분이다.",
+          "textEn": "The Japanese wolf is treated biologically as extinct, but it did not disappear culturally. It survives in local memory as guardian, predator, and symbol of lost wilderness. That persistence means survival claims are not purely zoological. Mystery Atlas should examine the point where the desire or memory of continued existence meets the much stricter requirement for evidence of a living population."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1905년 1월 23일 히가시요시노 지역의 일본늑대 표본 기록이 존재한다. 역사표본의 CT·mtDNA 연구와 2024년 유전체 연구는 일본늑대의 과거 계통을 과학적으로 확인·정교화한다. 1905년 이후 생존 목격담은 문화·민속 연구대상으로 실제 존재한다.\n\n**확인되지 않음:** 1905년 이후 살아 있는 일본늑대 개체군이 존재한다는 검증된 표본·DNA·사체는 이번 잠금자료에서 확인되지 않는다. 그렇다고 1905년 날짜가 정확한 ‘마지막 개체 사망일’로 증명된 것도 아니다.",
+          "textEn": "**Established:** A Japanese-wolf specimen record exists from Higashiyoshino on January 23, 1905. CT/mtDNA work on historical specimens and a 2024 genomic study strengthen scientific knowledge of the lineage. Post-1905 survival sightings exist as a real subject of folklore and social research.\n\n**Not established:** The locked source set does not provide a verified post-1905 living specimen, DNA sample, or carcass demonstrating a surviving population. Nor is January 23, 1905 proven to be the exact date the final individual died."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** A Japanese-wolf specimen record exists from Higashiyoshino on January 23, 1905. CT/mtDNA work on historical specimens and a 2024 genomic study strengthen scientific knowledge of the lineage. Post-1905 survival sightings exist as a real subject of folklore and social research.\n\n**Not established:** The locked source set does not provide a verified post-1905 living specimen, DNA sample, or carcass demonstrating a surviving population. Nor is January 23, 1905 proven to be the exact date the final individual died.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "extinction-02",
+        "specimen-03",
+        "genome-04",
+        "sightings-05",
+        "evidence-06",
+        "identity-07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "JW-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1905-01-23 히가시요시노 지역에서 일본늑대 표본 거래기록이 있다.",
+      "statementEn": "A Japanese-wolf specimen transaction is recorded in Higashiyoshino on January 23, 1905.",
+      "sourceRefs": [
+        "HIGASHI_WOLF"
+      ]
+    },
+    {
+      "claimId": "JW-C2",
+      "status": "CONFIRMED",
+      "statementKo": "역사 두개골 JW275는 CT와 mtDNA 분석에서 일본늑대 계통으로 지지됐다.",
+      "statementEn": "Historical skull JW275 was supported as Japanese wolf by CT and mtDNA analysis.",
+      "sourceRefs": [
+        "ISHIGURO_WOLF"
+      ]
+    },
+    {
+      "claimId": "JW-C3",
+      "status": "CONFIRMED",
+      "statementKo": "2024년 유전체 연구는 역사적 일본늑대와 일본 개 계통의 관계를 분석했다.",
+      "statementEn": "A 2024 genomic study analysed relationships between historical Japanese wolves and Japanese dogs.",
+      "sourceRefs": [
+        "GOJOBORI2024"
+      ]
+    },
+    {
+      "claimId": "JW-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1905년 이후 살아 있는 일본늑대 집단이 존재한다는 검증된 증거는 확립되지 않았다.",
+      "statementEn": "Verified evidence for a surviving Japanese-wolf population after 1905 is not established.",
+      "sourceRefs": [
+        "HIGASHI_WOLF",
+        "ISHIGURO_WOLF",
+        "KNIGHT_WOLF"
+      ]
+    },
+    {
+      "claimId": "JW-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1905년이 정확한 마지막 개체 사망일이라는 것은 증명되지 않는다.",
+      "statementEn": "1905 is not proven to be the exact death date of the last individual.",
+      "sourceRefs": [
+        "HIGASHI_WOLF"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HIGASHI_WOLF",
+      "title": "Japanese wolf history / 1905 specimen",
+      "publisher": "Higashiyoshino Village Government",
+      "url": "https://vill.higashiyoshino.nara.jp/tourism/japaneseookami",
+      "sourceType": "LOCAL_OFFICIAL_HISTORY"
+    },
+    {
+      "sourceId": "ISHIGURO_WOLF",
+      "title": "CT and mtDNA identification of historical Japanese wolf specimen",
+      "publisher": "Journal of Veterinary Medical Science / Ishiguro et al.",
+      "url": "https://www.jstage.jst.go.jp/article/jvms/advpub/0/advpub_16-0429/_pdf",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "GOJOBORI2024",
+      "title": "Population genomics of Japanese wolves and dogs",
+      "publisher": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-024-46124-y",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "KNIGHT_WOLF",
+      "title": "On the extinction of the Japanese wolf",
+      "publisher": "Asian Ethnology / John Knight",
+      "url": "https://asianethnology.org/article/149089-on-the-extinction-of-the-japanese-wolf",
+      "sourceType": "ACADEMIC_FOLKLORE_ANALYSIS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "japanese-wolf-extinction-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "일본늑대의 1905 표본·역사DNA·2024 유전체·현대생존 증거경계를 정리한 hero 도표.",
+      "captionEn": "Hero explainer of the 1905 specimen, historical DNA, 2024 genomics, and the modern survival-evidence gap.",
+      "altKo": "과거 표본연구와 현대 생존주장을 네 단계로 분리.",
+      "altEn": "Four-stage diagram separating historical specimen research from modern survival claims.",
+      "sourceRefs": [
+        "HIGASHI_WOLF",
+        "ISHIGURO_WOLF",
+        "GOJOBORI2024",
+        "KNIGHT_WOLF"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "japanese-wolf-extinction__hero-context__ko.png",
+          "sha256": "8009274cd95d17d8d1f23e9f466620f4080c5ea08ebdd87f26f8b64fae096042",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "japanese-wolf-extinction__hero-context__en.png",
+          "sha256": "085ae5c293b683c46c7f400d741f81aadae44082841d29c35ac0d531cb7f6a54",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "japanese-wolf-extinction-past-vs-survival",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "일본늑대 과거계통 증거와 현대생존 주장의 증거수준을 비교한 카드.",
+      "captionEn": "Evidence card comparing strong historical-lineage evidence with unestablished modern survival claims.",
+      "altKo": "왼쪽 역사표본·유전체 증거, 오른쪽 현대생존의 미확정 상태.",
+      "altEn": "Two-column comparison of historical specimen/genomic evidence and unverified modern survival claims.",
+      "sourceRefs": [
+        "HIGASHI_WOLF",
+        "ISHIGURO_WOLF",
+        "GOJOBORI2024",
+        "KNIGHT_WOLF"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "japanese-wolf-extinction__past-vs-survival__ko.png",
+          "sha256": "b5e698db91df4a11883434f60540b295362e96f644c4da37c1b625d247fb1ea0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "japanese-wolf-extinction__past-vs-survival__en.png",
+          "sha256": "368cba926a8afdeda876bcf0b66785bb6845ad442ab14ad0db43a057df71c273",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "japanese-wolf-extinction-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "일본늑대 마지막 널리 수용되는 표본기록과 현대 연구의 연표.",
+      "captionEn": "Timeline of the last widely accepted Japanese-wolf specimen record and modern research.",
+      "altKo": "1905 표본, 후대 목격, CT/mtDNA, 2024 유전체 연구.",
+      "altEn": "Timeline of the 1905 specimen, later sightings, CT/mtDNA work, and 2024 genomics.",
+      "sourceRefs": [
+        "HIGASHI_WOLF",
+        "ISHIGURO_WOLF",
+        "GOJOBORI2024"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "japanese-wolf-extinction__timeline__ko.png",
+          "sha256": "db91558c0050ec935329b02840b52901167e9980c5364c86c9f9387166a9ab0f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "japanese-wolf-extinction__timeline__en.png",
+          "sha256": "7f418791612ee381c7d9c78d1506abf569c2c172751d7a2e4fbeff29deb57f57",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "regions": [
+      "Nara Prefecture"
+    ],
+    "places": [
+      {
+        "name": "Higashiyoshino",
+        "role": "1905 specimen record"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Higashiyoshino Village",
+      "Journal of Veterinary Medical Science"
+    ],
+    "dateRange": {
+      "start": "1905-01-23",
+      "end": "2024",
+      "precision": "last accepted specimen context through modern genomic research"
+    },
+    "era": "20th–21st century",
+    "resolution": "EXTINCT_LINEAGE_ESTABLISHED_POST1905_SURVIVAL_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Japanese wolf",
+      "Nihon ōkami",
+      "Higashiyoshino wolf"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2021,
+    "enBodyWords": 535,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH05",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH05_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

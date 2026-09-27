@@ -1,0 +1,194 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mystery-atlas.example/contracts/article-schema.json",
+  "title": "Mystery Atlas productized article 2.0",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "canonicalId",
+    "identity",
+    "publication",
+    "localizedCopy",
+    "claims",
+    "sources",
+    "visuals",
+    "metadata",
+    "quality"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "2.0"
+    },
+    "canonicalId": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "identity": {
+      "type": "object",
+      "required": [
+        "canonicalTitleKo",
+        "canonicalTitleEn",
+        "aliasesKo",
+        "aliasesEn"
+      ]
+    },
+    "publication": {
+      "type": "object",
+      "required": [
+        "state",
+        "randomEligible",
+        "releaseEligible"
+      ]
+    },
+    "localizedCopy": {
+      "type": "object",
+      "required": [
+        "ko",
+        "en"
+      ],
+      "properties": {
+        "ko": {
+          "type": "object",
+          "required": [
+            "headline",
+            "hook",
+            "blocks",
+            "factBoundary"
+          ],
+          "properties": {
+            "headline": {
+              "type": "string",
+              "minLength": 1
+            },
+            "hook": {
+              "type": "string",
+              "minLength": 1
+            },
+            "factBoundary": {
+              "type": "object",
+              "required": [
+                "established",
+                "notEstablished"
+              ]
+            },
+            "blocks": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "blockId",
+                  "type",
+                  "headingKo",
+                  "headingEn",
+                  "textKo",
+                  "textEn"
+                ]
+              }
+            }
+          }
+        },
+        "en": {
+          "type": "object",
+          "required": [
+            "headline",
+            "hook",
+            "blocks",
+            "factBoundary"
+          ],
+          "properties": {
+            "headline": {
+              "type": "string",
+              "minLength": 1
+            },
+            "hook": {
+              "type": "string",
+              "minLength": 1
+            },
+            "factBoundary": {
+              "type": "object",
+              "required": [
+                "established",
+                "notEstablished"
+              ]
+            },
+            "blocks": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "required": [
+                  "blockId",
+                  "type",
+                  "headingKo",
+                  "headingEn",
+                  "textKo",
+                  "textEn"
+                ]
+              }
+            }
+          }
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "claimId",
+          "status",
+          "statementKo",
+          "statementEn",
+          "sourceRefs"
+        ]
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "sourceId",
+          "title",
+          "publisher",
+          "url",
+          "sourceType"
+        ]
+      }
+    },
+    "visuals": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "assetId",
+          "role",
+          "rightsStatus",
+          "sourceRefs",
+          "localizedFiles",
+          "captionKo",
+          "captionEn",
+          "altKo",
+          "altEn"
+        ]
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "primaryGenre",
+        "countries",
+        "regions",
+        "era",
+        "resolution",
+        "dateRange",
+        "relatedCases"
+      ]
+    },
+    "quality": {
+      "type": "object"
+    }
+  }
+}

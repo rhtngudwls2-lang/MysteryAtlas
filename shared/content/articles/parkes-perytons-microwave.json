@@ -1,0 +1,527 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "parkes-perytons-microwave",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "파크스 전파망원경의 페리톤과 전자레인지",
+    "canonicalTitleEn": "Parkes Perytons and Microwave Oven Interference",
+    "aliasesKo": [
+      "페리톤",
+      "파크스 페리톤"
+    ],
+    "aliasesEn": [
+      "Perytons",
+      "Parkes perytons"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "우주에서 온 것 같던 신호는 왜 점심시간 전자레인지에서 나왔나",
+      "hook": "전파망원경에 잡힌 짧은 신호는 먼 우주를 지나온 폭발처럼 보였다. 그러나 넓은 주파수대의 현장 잡음을 함께 추적하자, 단서는 관측소 건물 안으로 이어졌다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우주 신호처럼 보였던 ‘가짜’",
+          "headingEn": "A Fake That Looked Cosmic",
+          "textKo": "2015년 1월, 호주 파크스 전파망원경은 이상한 전파 신호를 세 번 잡았다. 짧고 강했으며, 주파수가 시간에 따라 휘어 내려가는 모양은 먼 우주를 지나온 전파가 성간 플라스마를 통과할 때 보이는 ‘분산’과 닮아 있었다. 이런 신호에는 이미 이름이 있었다. 페리톤(peryton). 천문학자들에게 문제는 이것이 단순한 잡음처럼 보이지 않았다는 점이었다. 전형적인 지상 전파간섭과 달리, 페리톤은 진짜 천체 폭발 신호를 흉내 낼 만큼 그럴듯한 형태를 만들었다.",
+          "textEn": "In January 2015, the Parkes radio telescope in Australia detected three strange radio bursts. They were short and bright, and their frequency swept downward with time in a way that resembled the dispersion seen when an astrophysical pulse travels through tenuous plasma between the stars. These signals already had a name: perytons. The problem for astronomers was that they did not look like ordinary radio noise. Unlike most terrestrial interference, perytons could mimic the signature of a genuine cosmic burst well enough to create real doubt."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "왜 천문학자들이 신경 썼나",
+          "headingEn": "Why Astronomers Cared",
+          "textKo": "페리톤은 파크스뿐 아니라 다른 전파관측소에서도 보고됐다. 여러 수신 빔에 넓게 잡히고 주로 근거리 간섭처럼 보였지만, 신호가 주파수에 따라 ‘쓸려 내려가는’ 형태 때문에 혼란을 만들었다. 특히 2007년에 발표된 최초의 고속전파폭발 FRB 010724, 이른바 로리머 버스트와 일부 특징이 닮아 있었다. 만약 페리톤의 정체가 밝혀지지 않는다면, 막 탄생한 FRB 연구 분야 전체가 “혹시 지상 장비가 만든 가짜 신호를 우주 사건으로 착각한 것은 아닌가”라는 질문을 피하기 어려웠다.",
+          "textEn": "Perytons had been reported at Parkes and at other radio observatories. They appeared across a wide field of view and looked local in several respects, yet the frequency sweep made them unusually deceptive. Some of their properties resembled FRB 010724, the first published fast radio burst, also known as the Lorimer burst. As long as the origin of perytons remained unknown, a larger question hung over the new FRB field: could at least some supposedly cosmic bursts actually be interference produced on Earth?"
+        },
+        {
+          "blockId": "signal-025",
+          "type": "BACKGROUND",
+          "headingKo": "잡음인데 왜 그렇게 진짜처럼 보였나",
+          "headingEn": "Why the Interference Looked So Convincing",
+          "textKo": "일반적인 지상 전파간섭이라면 망원경의 여러 빔에 넓게 잡히거나, 천체 신호와 전혀 다른 시간·주파수 모양을 보이는 경우가 많다. 페리톤은 그 중간지대에 있었다. 1.4GHz 관측 대역 전체에서 약 250밀리초에 걸쳐 주파수가 이동하는 ‘chirp’를 만들었고, 분산량을 계산하면 실제 성간 플라스마를 지나온 신호처럼 보일 수 있었다. 과거 문헌에 보고된 25개의 페리톤은 주로 평일 업무시간에 나타났다는 수상한 패턴이 있었지만, 파형만 놓고 보면 천체 신호와 헷갈릴 여지가 충분했다. 결국 연구자들이 찾아야 했던 것은 ‘이 신호가 가짜인가’가 아니라, **무엇이 이런 천문학적 모양을 만들어내는가**였다.",
+          "textEn": "Ordinary terrestrial radio interference often reveals itself by appearing broadly across many receiver beams or by having a time-frequency structure that looks nothing like an astronomical pulse. Perytons occupied an awkward middle ground. Across the 1.4 GHz observing band they produced a swept “chirp” lasting roughly a quarter of a second, and the resulting dispersion-like shape could resemble a signal that had travelled through interstellar plasma. The previously reported population had a suspicious human pattern—many events occurred during office hours and on weekdays—but the waveform itself was deceptive enough to create uncertainty. The real question was therefore not simply whether the signals were artificial, but **what terrestrial system could reproduce such an astronomical-looking sweep**."
+        },
+        {
+          "blockId": "chronology-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "1.4GHz 밖에서 잡힌 두 번째 흔적",
+          "headingEn": "A Second Clue Outside the 1.4 GHz Band",
+          "textKo": "전환점은 파크스가 망원경 수신 대역만 보지 않고 주변 전파환경까지 동시에 감시하면서 왔다. 연구팀은 2014년 말 현장에 402MHz부터 3GHz까지 훑는 RFI 모니터를 설치했다. 2015년 1월 19일, 22일, 23일에 잡힌 세 페리톤을 다시 들여다보자 공통점이 보였다. 세 번 모두 1.4GHz 페리톤이 발생한 시각과 거의 동시에 2.3~2.5GHz 부근에서 강한 현장 전파가 검출됐다. 이 대역은 전자레인지 같은 산업·과학·의료 장비가 쓰는 2.4GHz 부근과 겹쳤다.",
+          "textEn": "The turning point came when the Parkes team stopped looking only at the telescope’s observing band and began monitoring the local radio environment at the same time. An RFI monitor installed in late 2014 surveyed frequencies from 402 MHz to 3 GHz. When the team examined three perytons detected on January 19, 22, and 23 of 2015, all three shared a clue: strong local emission around 2.3–2.5 GHz appeared essentially at the same time as the 1.4 GHz peryton. That higher-frequency range overlaps the 2.4 GHz region used by equipment such as microwave ovens."
+        },
+        {
+          "blockId": "turning-04",
+          "type": "TURNING_POINT",
+          "headingKo": "문을 열었더니 신호가 나왔다",
+          "headingEn": "Open the Door, Get a Peryton",
+          "textKo": "연구팀은 현장 전자레인지를 직접 시험했다. 처음에는 전자레인지를 평범하게 돌리는 것만으로는 결정적인 신호가 나오지 않았다. 결정적인 실험은 2015년 3월 17일이었다. 작동 시간이 끝날 때까지 기다리지 않고, 가동 중 전자레인지 문을 열어 기기를 멈췄다. 그러자 직원 식당의 전자레인지에서 문을 연 정확한 시각에 맞춰 세 개의 밝은 페리톤이 발생했다. 이후 방문자센터의 다른 전자레인지에서도 같은 방식으로 여섯 개의 페리톤이 잡혔다. 다만 문을 연다고 매번 신호가 생긴 것은 아니었다. 연구팀은 이런 조건의 재현 성공률을 약 절반 수준으로 보고했다.",
+          "textEn": "The team then tested the microwave ovens on site. Simply running an oven normally did not immediately solve the mystery. The decisive experiment came on March 17, 2015. Instead of allowing the cycle to finish, the researchers stopped the oven by opening its door while it was still operating. Three bright perytons appeared from the staff-kitchen oven at the exact moments the door was opened. A different oven in the visitors centre later produced six more perytons under the same kind of test. The effect was not perfectly repeatable: the paper reports a success rate of roughly fifty percent under these test conditions."
+        },
+        {
+          "blockId": "evidence-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "왜 ‘전자레인지’라는 결론이 강했나",
+          "headingEn": "Why the Microwave Explanation Was Strong",
+          "textKo": "한 번의 우연한 재현만으로 결론을 내린 것은 아니었다. 연구팀은 페리톤이 잡히는 망원경의 방향과 전자레인지가 수신기의 포커스 캐빈을 ‘볼 수 있는’ 기하학적 조건도 비교했다. 높은 분산값을 가진 과거 페리톤 대부분은 직원 식당 전자레인지와 수신기 사이의 시야가 가능한 망원경 방향에서 나타났다. 낮은 분산값의 일부는 방문자센터나 숙소 쪽 전자레인지와 더 잘 맞았다. 또한 페리톤이 주로 평일 업무시간대에 나타났다는 오래된 통계도 사람이 현장 장비를 사용하는 패턴과 잘 들어맞았다.",
+          "textEn": "The conclusion did not rest on a single lucky recreation. The researchers also compared where the telescope was pointing with whether a microwave oven had a clear geometric line of sight to the receiver cabin. Most historical high-dispersion perytons occurred at telescope pointings consistent with visibility from the staff-kitchen microwave, while a lower-dispersion group was more compatible with other ovens on site. An older statistical clue also fit: perytons had been concentrated during office hours and predominantly on weekdays, a pattern far more suggestive of human activity than of a cosmic population."
+        },
+        {
+          "blockId": "population-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "세 번의 신호가 아니라, 46개 패턴을 설명해야 했다",
+          "headingEn": "The Explanation Had to Fit a Population, Not Just Three Bursts",
+          "textKo": "2015년 논문은 새로 잡힌 세 신호만 보고 전자레인지설을 제시하지 않았다. 연구팀은 과거 HTRU 관측자료를 다시 검색해 중간위도 조사에서 15개, 고위도 조사에서 6개의 페리톤을 추가로 찾았고, 기존 문헌의 사례와 합쳐 당시 분석 대상 집단을 46개까지 늘렸다. 이 집단은 망원경의 여러 빔에 동시에 잡히는 경향, 특정 분산값 범위, 시간대 편중을 공유했다. 전자레인지 재현실험은 그래서 ‘세 번 맞은 우연’이 아니라, 과거 여러 해 동안 축적된 신호의 분포까지 설명해야 했다. 서로 다른 현장 전자레인지가 서로 다른 분산값 집단과 맞아떨어진다는 점도 이 설명을 강화했다.",
+          "textEn": "The 2015 study did not propose a microwave explanation on the basis of only three new events. The team searched older HTRU data and found 15 additional perytons in the intermediate-latitude survey and six more in the high-latitude survey. Combined with previously published detections, the population considered in the paper reached 46 events. Across that larger set, perytons shared traits such as detection in multiple beams, clustered dispersion measures, and a strong time-of-day pattern. The microwave tests therefore had to explain more than three coincident bursts: they had to make sense of a signal population accumulated over years. The fact that different ovens on the site could reproduce different dispersion-measure groupings strengthened that interpretation."
+        },
+        {
+          "blockId": "mechanism-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "해결됐지만, 내부 물리는 완전히 끝난 건 아니다",
+          "headingEn": "Solved at the Source, Not in Every Detail",
+          "textKo": "논문이 제안한 물리적 그림은 이렇다. 전자레인지의 마그네트론은 원래 약 2.4GHz에서 작동한다. 가동 중 문을 열면 전원이 꺼지는 순간 마그네트론이 정상상태에서 벗어나고, 이 짧은 종료 과정에서 의도하지 않은 다른 주파수의 전파가 새어 나올 수 있다. 전자레인지 본체는 원래 이런 방사를 막는 차폐 구조지만, 문이 열린 상태에서는 방사가 밖으로 나올 통로가 생긴다. 다만 연구진은 ‘주파수가 쓸려가는’ 페리톤 특유의 모양이 마그네트론 내부에서 정확히 어떤 미세 과정으로 만들어지는지는 여전히 불분명하다고 적었다. 즉 **발생 장비는 찾았지만, 파형의 모든 세부 물리까지 완전히 해석한 것은 아니었다.**",
+          "textEn": "The physical picture proposed in the paper is straightforward at the system level. A microwave oven’s magnetron normally operates near 2.4 GHz. If the door is opened while the oven is running, the magnetron is forced through a shutdown phase, and unintended radio emission can escape at other frequencies. The oven is normally designed as a shielded enclosure, but an open door provides a route for that radiation to leave. Yet the authors were explicit about an important remaining detail: the exact physical process inside the magnetron that produces the distinctive swept, or “chirped,” peryton waveform was still obscure. In other words, the source equipment was identified even though every microscopic detail of the waveform generation was not."
+        },
+        {
+          "blockId": "counter-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그렇다면 최초의 FRB도 전자레인지였나",
+          "headingEn": "Did That Mean the First FRB Was a Microwave Too?",
+          "textKo": "여기서 가장 중요한 오해가 생길 수 있다. 페리톤이 전자레인지에서 나왔다면, 파크스가 발견한 FRB도 같은 장비 때문이었을까? 연구팀의 결론은 반대였다. 페리톤과 FRB 010724는 비슷해 보이는 부분이 있었지만 관측 특성이 달랐고, 현장 전자레인지의 위치와 망원경 방향을 따져도 해당 FRB를 같은 방식으로 만들 수 없었다. 논문은 오히려 페리톤의 정체를 밝혀냄으로써, FRB와 지상간섭을 더 명확하게 분리할 수 있게 됐다고 설명한다.",
+          "textEn": "This is where the most important misunderstanding can arise. If perytons came from microwave ovens, did that mean the Parkes fast radio bursts came from the same appliances? The researchers concluded the opposite. Perytons and FRB 010724 shared some superficial features, but their observed properties differed, and the geometry of the on-site ovens relative to the telescope could not account for that FRB in the same way. Identifying the local peryton source actually made it easier to separate this class of interference from genuine FRB candidates."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "좋은 미스터리가 좋은 필터가 된 순간",
+          "headingEn": "When a Mystery Became a Better Filter",
+          "textKo": "페리톤 사건의 재미는 ‘천문학자들이 전자레인지에 속았다’는 농담에 있지 않다. 더 중요한 건 잡음 하나의 정체를 끝까지 쫓아가면서 관측 방법 자체가 좋아졌다는 데 있다. 천문학은 신호를 찾는 일만큼이나 **신호가 아닌 것을 버리는 일**이 중요하다. 파크스 연구팀은 넓은 주파수대의 현장 모니터, 여러 수신 빔, 망원경 방향, 재현실험을 겹쳐서 정체불명의 신호를 일상 장비까지 추적했다. 그리고 바로 그 과정을 통해, 진짜 우주 신호를 판별하는 기준도 더 단단해졌다.",
+          "textEn": "The lasting value of the peryton story is not the joke that astronomers were “fooled by a microwave.” The more important point is that chasing one piece of interference all the way to its source improved the observing process itself. Astronomy is not only about finding signals; it is also about rejecting signals that do not belong to the sky. By combining wide-band site monitoring, the telescope’s multiple beams, pointing geometry, and controlled recreation tests, the Parkes team traced a deceptively astrophysical-looking burst back to ordinary equipment. That same process sharpened the criteria used to recognize genuinely astronomical transients."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 파크스에서 기록된 페리톤 신호의 중요한 집단은 현장 전자레인지의 마그네트론 종료 과정과 연결됐고, 가동 중 문을 여는 조건에서 실제로 재현됐다. 2015년 세 페리톤에는 2.3~2.5GHz의 동시 현장 전파가 따라붙었다. 연구팀은 이 전자레인지들이 FRB 010724의 원인이 될 수 없다고 결론냈다.\n\n**아직 남은 부분:** 모든 역사적 페리톤 한 건 한 건의 발생 조건을 직접 재현한 것은 아니다. 마그네트론이 왜 수백 밀리초 규모의 특정 ‘chirp’ 파형을 내는지에 대한 세부 물리도 당시 논문에서 완전히 설명되지 않았다. 그리고 페리톤의 해결은 FRB 전체의 기원을 해결한 사건이 아니다.",
+          "textEn": "**Established:** An important population of Parkes perytons was linked to the shutdown behaviour of on-site microwave-oven magnetrons, and the signals were recreated when oven doors were opened during operation. The three January 2015 perytons coincided with local 2.3–2.5 GHz emission. The research team also concluded that those on-site ovens could not account for FRB 010724.\n\n**Still open or limited:** Not every historical peryton event was individually recreated. The detailed magnetron physics that produces the several-hundred-millisecond chirped waveform was not fully resolved in the 2015 paper. And solving the peryton source did not solve the origin of fast radio bursts as a class."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 파크스에서 기록된 페리톤 신호의 중요한 집단은 현장 전자레인지의 마그네트론 종료 과정과 연결됐고, 가동 중 문을 여는 조건에서 실제로 재현됐다. 2015년 세 페리톤에는 2.3~2.5GHz의 동시 현장 전파가 따라붙었다. 연구팀은 이 전자레인지들이 FRB 010724의 원인이 될 수 없다고 결론냈다.\n\n",
+        "notEstablished": "모든 역사적 페리톤 개별 원인과 chirp의 세부 물리는 완전히 닫히지 않았으며, FRB 일반의 기원은 별도 문제다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "signal-025",
+        "chronology-03",
+        "turning-04",
+        "evidence-05",
+        "population-055",
+        "mechanism-06",
+        "counter-07",
+        "aftermath-08"
+      ]
+    },
+    "en": {
+      "headline": "Why Did a Signal That Looked Cosmic Turn Out to Come From a Microwave Oven?",
+      "hook": "A short radio burst at Parkes looked enough like a signal from deep space to create a genuine astronomical problem. Once the team began monitoring the radio environment around the telescope, however, the trail led back into the observatory buildings.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우주 신호처럼 보였던 ‘가짜’",
+          "headingEn": "A Fake That Looked Cosmic",
+          "textKo": "2015년 1월, 호주 파크스 전파망원경은 이상한 전파 신호를 세 번 잡았다. 짧고 강했으며, 주파수가 시간에 따라 휘어 내려가는 모양은 먼 우주를 지나온 전파가 성간 플라스마를 통과할 때 보이는 ‘분산’과 닮아 있었다. 이런 신호에는 이미 이름이 있었다. 페리톤(peryton). 천문학자들에게 문제는 이것이 단순한 잡음처럼 보이지 않았다는 점이었다. 전형적인 지상 전파간섭과 달리, 페리톤은 진짜 천체 폭발 신호를 흉내 낼 만큼 그럴듯한 형태를 만들었다.",
+          "textEn": "In January 2015, the Parkes radio telescope in Australia detected three strange radio bursts. They were short and bright, and their frequency swept downward with time in a way that resembled the dispersion seen when an astrophysical pulse travels through tenuous plasma between the stars. These signals already had a name: perytons. The problem for astronomers was that they did not look like ordinary radio noise. Unlike most terrestrial interference, perytons could mimic the signature of a genuine cosmic burst well enough to create real doubt."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "왜 천문학자들이 신경 썼나",
+          "headingEn": "Why Astronomers Cared",
+          "textKo": "페리톤은 파크스뿐 아니라 다른 전파관측소에서도 보고됐다. 여러 수신 빔에 넓게 잡히고 주로 근거리 간섭처럼 보였지만, 신호가 주파수에 따라 ‘쓸려 내려가는’ 형태 때문에 혼란을 만들었다. 특히 2007년에 발표된 최초의 고속전파폭발 FRB 010724, 이른바 로리머 버스트와 일부 특징이 닮아 있었다. 만약 페리톤의 정체가 밝혀지지 않는다면, 막 탄생한 FRB 연구 분야 전체가 “혹시 지상 장비가 만든 가짜 신호를 우주 사건으로 착각한 것은 아닌가”라는 질문을 피하기 어려웠다.",
+          "textEn": "Perytons had been reported at Parkes and at other radio observatories. They appeared across a wide field of view and looked local in several respects, yet the frequency sweep made them unusually deceptive. Some of their properties resembled FRB 010724, the first published fast radio burst, also known as the Lorimer burst. As long as the origin of perytons remained unknown, a larger question hung over the new FRB field: could at least some supposedly cosmic bursts actually be interference produced on Earth?"
+        },
+        {
+          "blockId": "signal-025",
+          "type": "BACKGROUND",
+          "headingKo": "잡음인데 왜 그렇게 진짜처럼 보였나",
+          "headingEn": "Why the Interference Looked So Convincing",
+          "textKo": "일반적인 지상 전파간섭이라면 망원경의 여러 빔에 넓게 잡히거나, 천체 신호와 전혀 다른 시간·주파수 모양을 보이는 경우가 많다. 페리톤은 그 중간지대에 있었다. 1.4GHz 관측 대역 전체에서 약 250밀리초에 걸쳐 주파수가 이동하는 ‘chirp’를 만들었고, 분산량을 계산하면 실제 성간 플라스마를 지나온 신호처럼 보일 수 있었다. 과거 문헌에 보고된 25개의 페리톤은 주로 평일 업무시간에 나타났다는 수상한 패턴이 있었지만, 파형만 놓고 보면 천체 신호와 헷갈릴 여지가 충분했다. 결국 연구자들이 찾아야 했던 것은 ‘이 신호가 가짜인가’가 아니라, **무엇이 이런 천문학적 모양을 만들어내는가**였다.",
+          "textEn": "Ordinary terrestrial radio interference often reveals itself by appearing broadly across many receiver beams or by having a time-frequency structure that looks nothing like an astronomical pulse. Perytons occupied an awkward middle ground. Across the 1.4 GHz observing band they produced a swept “chirp” lasting roughly a quarter of a second, and the resulting dispersion-like shape could resemble a signal that had travelled through interstellar plasma. The previously reported population had a suspicious human pattern—many events occurred during office hours and on weekdays—but the waveform itself was deceptive enough to create uncertainty. The real question was therefore not simply whether the signals were artificial, but **what terrestrial system could reproduce such an astronomical-looking sweep**."
+        },
+        {
+          "blockId": "chronology-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "1.4GHz 밖에서 잡힌 두 번째 흔적",
+          "headingEn": "A Second Clue Outside the 1.4 GHz Band",
+          "textKo": "전환점은 파크스가 망원경 수신 대역만 보지 않고 주변 전파환경까지 동시에 감시하면서 왔다. 연구팀은 2014년 말 현장에 402MHz부터 3GHz까지 훑는 RFI 모니터를 설치했다. 2015년 1월 19일, 22일, 23일에 잡힌 세 페리톤을 다시 들여다보자 공통점이 보였다. 세 번 모두 1.4GHz 페리톤이 발생한 시각과 거의 동시에 2.3~2.5GHz 부근에서 강한 현장 전파가 검출됐다. 이 대역은 전자레인지 같은 산업·과학·의료 장비가 쓰는 2.4GHz 부근과 겹쳤다.",
+          "textEn": "The turning point came when the Parkes team stopped looking only at the telescope’s observing band and began monitoring the local radio environment at the same time. An RFI monitor installed in late 2014 surveyed frequencies from 402 MHz to 3 GHz. When the team examined three perytons detected on January 19, 22, and 23 of 2015, all three shared a clue: strong local emission around 2.3–2.5 GHz appeared essentially at the same time as the 1.4 GHz peryton. That higher-frequency range overlaps the 2.4 GHz region used by equipment such as microwave ovens."
+        },
+        {
+          "blockId": "turning-04",
+          "type": "TURNING_POINT",
+          "headingKo": "문을 열었더니 신호가 나왔다",
+          "headingEn": "Open the Door, Get a Peryton",
+          "textKo": "연구팀은 현장 전자레인지를 직접 시험했다. 처음에는 전자레인지를 평범하게 돌리는 것만으로는 결정적인 신호가 나오지 않았다. 결정적인 실험은 2015년 3월 17일이었다. 작동 시간이 끝날 때까지 기다리지 않고, 가동 중 전자레인지 문을 열어 기기를 멈췄다. 그러자 직원 식당의 전자레인지에서 문을 연 정확한 시각에 맞춰 세 개의 밝은 페리톤이 발생했다. 이후 방문자센터의 다른 전자레인지에서도 같은 방식으로 여섯 개의 페리톤이 잡혔다. 다만 문을 연다고 매번 신호가 생긴 것은 아니었다. 연구팀은 이런 조건의 재현 성공률을 약 절반 수준으로 보고했다.",
+          "textEn": "The team then tested the microwave ovens on site. Simply running an oven normally did not immediately solve the mystery. The decisive experiment came on March 17, 2015. Instead of allowing the cycle to finish, the researchers stopped the oven by opening its door while it was still operating. Three bright perytons appeared from the staff-kitchen oven at the exact moments the door was opened. A different oven in the visitors centre later produced six more perytons under the same kind of test. The effect was not perfectly repeatable: the paper reports a success rate of roughly fifty percent under these test conditions."
+        },
+        {
+          "blockId": "evidence-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "왜 ‘전자레인지’라는 결론이 강했나",
+          "headingEn": "Why the Microwave Explanation Was Strong",
+          "textKo": "한 번의 우연한 재현만으로 결론을 내린 것은 아니었다. 연구팀은 페리톤이 잡히는 망원경의 방향과 전자레인지가 수신기의 포커스 캐빈을 ‘볼 수 있는’ 기하학적 조건도 비교했다. 높은 분산값을 가진 과거 페리톤 대부분은 직원 식당 전자레인지와 수신기 사이의 시야가 가능한 망원경 방향에서 나타났다. 낮은 분산값의 일부는 방문자센터나 숙소 쪽 전자레인지와 더 잘 맞았다. 또한 페리톤이 주로 평일 업무시간대에 나타났다는 오래된 통계도 사람이 현장 장비를 사용하는 패턴과 잘 들어맞았다.",
+          "textEn": "The conclusion did not rest on a single lucky recreation. The researchers also compared where the telescope was pointing with whether a microwave oven had a clear geometric line of sight to the receiver cabin. Most historical high-dispersion perytons occurred at telescope pointings consistent with visibility from the staff-kitchen microwave, while a lower-dispersion group was more compatible with other ovens on site. An older statistical clue also fit: perytons had been concentrated during office hours and predominantly on weekdays, a pattern far more suggestive of human activity than of a cosmic population."
+        },
+        {
+          "blockId": "population-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "세 번의 신호가 아니라, 46개 패턴을 설명해야 했다",
+          "headingEn": "The Explanation Had to Fit a Population, Not Just Three Bursts",
+          "textKo": "2015년 논문은 새로 잡힌 세 신호만 보고 전자레인지설을 제시하지 않았다. 연구팀은 과거 HTRU 관측자료를 다시 검색해 중간위도 조사에서 15개, 고위도 조사에서 6개의 페리톤을 추가로 찾았고, 기존 문헌의 사례와 합쳐 당시 분석 대상 집단을 46개까지 늘렸다. 이 집단은 망원경의 여러 빔에 동시에 잡히는 경향, 특정 분산값 범위, 시간대 편중을 공유했다. 전자레인지 재현실험은 그래서 ‘세 번 맞은 우연’이 아니라, 과거 여러 해 동안 축적된 신호의 분포까지 설명해야 했다. 서로 다른 현장 전자레인지가 서로 다른 분산값 집단과 맞아떨어진다는 점도 이 설명을 강화했다.",
+          "textEn": "The 2015 study did not propose a microwave explanation on the basis of only three new events. The team searched older HTRU data and found 15 additional perytons in the intermediate-latitude survey and six more in the high-latitude survey. Combined with previously published detections, the population considered in the paper reached 46 events. Across that larger set, perytons shared traits such as detection in multiple beams, clustered dispersion measures, and a strong time-of-day pattern. The microwave tests therefore had to explain more than three coincident bursts: they had to make sense of a signal population accumulated over years. The fact that different ovens on the site could reproduce different dispersion-measure groupings strengthened that interpretation."
+        },
+        {
+          "blockId": "mechanism-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "해결됐지만, 내부 물리는 완전히 끝난 건 아니다",
+          "headingEn": "Solved at the Source, Not in Every Detail",
+          "textKo": "논문이 제안한 물리적 그림은 이렇다. 전자레인지의 마그네트론은 원래 약 2.4GHz에서 작동한다. 가동 중 문을 열면 전원이 꺼지는 순간 마그네트론이 정상상태에서 벗어나고, 이 짧은 종료 과정에서 의도하지 않은 다른 주파수의 전파가 새어 나올 수 있다. 전자레인지 본체는 원래 이런 방사를 막는 차폐 구조지만, 문이 열린 상태에서는 방사가 밖으로 나올 통로가 생긴다. 다만 연구진은 ‘주파수가 쓸려가는’ 페리톤 특유의 모양이 마그네트론 내부에서 정확히 어떤 미세 과정으로 만들어지는지는 여전히 불분명하다고 적었다. 즉 **발생 장비는 찾았지만, 파형의 모든 세부 물리까지 완전히 해석한 것은 아니었다.**",
+          "textEn": "The physical picture proposed in the paper is straightforward at the system level. A microwave oven’s magnetron normally operates near 2.4 GHz. If the door is opened while the oven is running, the magnetron is forced through a shutdown phase, and unintended radio emission can escape at other frequencies. The oven is normally designed as a shielded enclosure, but an open door provides a route for that radiation to leave. Yet the authors were explicit about an important remaining detail: the exact physical process inside the magnetron that produces the distinctive swept, or “chirped,” peryton waveform was still obscure. In other words, the source equipment was identified even though every microscopic detail of the waveform generation was not."
+        },
+        {
+          "blockId": "counter-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그렇다면 최초의 FRB도 전자레인지였나",
+          "headingEn": "Did That Mean the First FRB Was a Microwave Too?",
+          "textKo": "여기서 가장 중요한 오해가 생길 수 있다. 페리톤이 전자레인지에서 나왔다면, 파크스가 발견한 FRB도 같은 장비 때문이었을까? 연구팀의 결론은 반대였다. 페리톤과 FRB 010724는 비슷해 보이는 부분이 있었지만 관측 특성이 달랐고, 현장 전자레인지의 위치와 망원경 방향을 따져도 해당 FRB를 같은 방식으로 만들 수 없었다. 논문은 오히려 페리톤의 정체를 밝혀냄으로써, FRB와 지상간섭을 더 명확하게 분리할 수 있게 됐다고 설명한다.",
+          "textEn": "This is where the most important misunderstanding can arise. If perytons came from microwave ovens, did that mean the Parkes fast radio bursts came from the same appliances? The researchers concluded the opposite. Perytons and FRB 010724 shared some superficial features, but their observed properties differed, and the geometry of the on-site ovens relative to the telescope could not account for that FRB in the same way. Identifying the local peryton source actually made it easier to separate this class of interference from genuine FRB candidates."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "좋은 미스터리가 좋은 필터가 된 순간",
+          "headingEn": "When a Mystery Became a Better Filter",
+          "textKo": "페리톤 사건의 재미는 ‘천문학자들이 전자레인지에 속았다’는 농담에 있지 않다. 더 중요한 건 잡음 하나의 정체를 끝까지 쫓아가면서 관측 방법 자체가 좋아졌다는 데 있다. 천문학은 신호를 찾는 일만큼이나 **신호가 아닌 것을 버리는 일**이 중요하다. 파크스 연구팀은 넓은 주파수대의 현장 모니터, 여러 수신 빔, 망원경 방향, 재현실험을 겹쳐서 정체불명의 신호를 일상 장비까지 추적했다. 그리고 바로 그 과정을 통해, 진짜 우주 신호를 판별하는 기준도 더 단단해졌다.",
+          "textEn": "The lasting value of the peryton story is not the joke that astronomers were “fooled by a microwave.” The more important point is that chasing one piece of interference all the way to its source improved the observing process itself. Astronomy is not only about finding signals; it is also about rejecting signals that do not belong to the sky. By combining wide-band site monitoring, the telescope’s multiple beams, pointing geometry, and controlled recreation tests, the Parkes team traced a deceptively astrophysical-looking burst back to ordinary equipment. That same process sharpened the criteria used to recognize genuinely astronomical transients."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 파크스에서 기록된 페리톤 신호의 중요한 집단은 현장 전자레인지의 마그네트론 종료 과정과 연결됐고, 가동 중 문을 여는 조건에서 실제로 재현됐다. 2015년 세 페리톤에는 2.3~2.5GHz의 동시 현장 전파가 따라붙었다. 연구팀은 이 전자레인지들이 FRB 010724의 원인이 될 수 없다고 결론냈다.\n\n**아직 남은 부분:** 모든 역사적 페리톤 한 건 한 건의 발생 조건을 직접 재현한 것은 아니다. 마그네트론이 왜 수백 밀리초 규모의 특정 ‘chirp’ 파형을 내는지에 대한 세부 물리도 당시 논문에서 완전히 설명되지 않았다. 그리고 페리톤의 해결은 FRB 전체의 기원을 해결한 사건이 아니다.",
+          "textEn": "**Established:** An important population of Parkes perytons was linked to the shutdown behaviour of on-site microwave-oven magnetrons, and the signals were recreated when oven doors were opened during operation. The three January 2015 perytons coincided with local 2.3–2.5 GHz emission. The research team also concluded that those on-site ovens could not account for FRB 010724.\n\n**Still open or limited:** Not every historical peryton event was individually recreated. The detailed magnetron physics that produces the several-hundred-millisecond chirped waveform was not fully resolved in the 2015 paper. And solving the peryton source did not solve the origin of fast radio bursts as a class."
+        }
+      ],
+      "factBoundary": {
+        "established": "An important population of Parkes perytons was traced to on-site microwave-oven shutdown behaviour and recreated experimentally.",
+        "notEstablished": "Not every historical peryton was individually recreated, the detailed chirp mechanism remained partly unresolved, and this did not explain FRBs as a class."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "signal-025",
+        "chronology-03",
+        "turning-04",
+        "evidence-05",
+        "population-055",
+        "mechanism-06",
+        "counter-07",
+        "aftermath-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PERY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2015년 1월 파크스에서 세 개의 페리톤이 검출됐고, 각각 2.3~2.5GHz 현장 전파와 거의 동시에 발생했다.",
+      "statementEn": "Three Parkes perytons detected in January 2015 coincided with local 2.3–2.5 GHz emission.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ]
+    },
+    {
+      "claimId": "PERY-C2",
+      "status": "CONFIRMED",
+      "statementKo": "가동 중 전자레인지 문을 열어 기기를 멈추면 1.4GHz 페리톤 신호를 재현할 수 있었다.",
+      "statementEn": "Peryton signals at 1.4 GHz could be recreated by opening a microwave-oven door while the oven was operating.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ]
+    },
+    {
+      "claimId": "PERY-C3",
+      "status": "CONFIRMED",
+      "statementKo": "전자레인지 재현은 매번 성공하지 않았고 논문은 약 50%의 성공률을 보고했다.",
+      "statementEn": "The microwave recreation did not succeed every time; the paper reports roughly a 50% success rate.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ]
+    },
+    {
+      "claimId": "PERY-C4",
+      "status": "SUPPORTED",
+      "statementKo": "과거 페리톤의 시간대와 망원경 방향 분포는 현장 전자레인지 사용과 위치에 부합했다.",
+      "statementEn": "The timing and telescope-pointing distribution of historical perytons was consistent with on-site microwave use and location.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ]
+    },
+    {
+      "claimId": "PERY-C5",
+      "status": "CONFIRMED",
+      "statementKo": "연구팀은 현장 전자레인지가 FRB 010724의 원인이 될 수 없다고 결론냈다.",
+      "statementEn": "The team concluded that the on-site microwave ovens could not have caused FRB 010724.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ]
+    },
+    {
+      "claimId": "PERY-C6",
+      "status": "UNRESOLVED",
+      "statementKo": "페리톤 특유의 주파수 chirp를 만드는 마그네트론 내부의 정확한 세부 과정은 당시 논문에서 완전히 규명되지 않았다.",
+      "statementEn": "The exact magnetron process producing the characteristic peryton chirp was not fully resolved in the 2015 paper.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PETROFF2015",
+      "title": "Identifying the source of perytons at the Parkes radio telescope",
+      "publisher": "Monthly Notices of the Royal Astronomical Society / arXiv",
+      "url": "https://arxiv.org/abs/1504.02165",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "whatItEstablishesKo": "2015 페리톤 동시검출, 과거 population 검색, 현장 RFI 모니터, 전자레인지 재현실험, FRB 010724와의 구분.",
+      "whatItDoesNotEstablishKo": "모든 역사적 페리톤 개별 발생의 직접 재현이나 FRB 전체의 기원을 확정하지 않는다.",
+      "mirrorUrl": "https://www.parkes.atnf.csiro.au/people/sar049/papers/JMS_74.pdf"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "parkes-perytons-microwave-context-flow",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "파크스의 1.4GHz 관측, 2.3–2.5GHz 현장 모니터, 전자레인지 재현실험을 한 흐름으로 정리한 원본 도표.",
+      "captionEn": "Project-original flow linking the Parkes 1.4 GHz detections, 2.3–2.5 GHz site monitor, and microwave recreation tests.",
+      "altKo": "파크스 관측 신호가 현장 전파 모니터와 전자레인지 실험으로 추적되는 3단계 흐름도.",
+      "altEn": "Three-stage diagram tracing Parkes signals through site monitoring to microwave recreation.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "parkes-perytons-microwave__context-flow__ko.png",
+          "sha256": "5dc3e83deea18ca45d856e378daa1e4d9900b6c33700c745a35c1a264e4d839c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "parkes-perytons-microwave__context-flow__en.png",
+          "sha256": "8db13bfd194d93378a459cb998effefed920bc94882390963f4e8c96025cb678",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "parkes-perytons-microwave-mechanism",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "전자레인지 마그네트론 종료과정과 peryton 신호의 연결을 설명하는 개념도.",
+      "captionEn": "Conceptual diagram linking microwave magnetron shutdown to a peryton-like radio signal.",
+      "altKo": "가동 중 문을 열 때 마그네트론 종료와 전파 누출이 망원경 신호로 이어지는 흐름.",
+      "altEn": "Flow from microwave-door opening through magnetron shutdown and leakage to telescope detection.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "parkes-perytons-microwave__mechanism__ko.png",
+          "sha256": "a28404d7cf00e8b8bfd86cac51d26fee9e26ecb9996e49c83c37f0b115a41c2a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "parkes-perytons-microwave__mechanism__en.png",
+          "sha256": "c6419cba5b5e2fdaefc42805f34f556e52970068a028b036dd8343000931473d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "parkes-perytons-microwave-peryton-vs-frb",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Peryton과 FRB 010724의 관측·원인 경계를 비교한 원본 카드.",
+      "captionEn": "Original evidence card comparing perytons with FRB 010724.",
+      "altKo": "왼쪽에는 전자레인지로 재현된 peryton, 오른쪽에는 같은 원인으로 설명되지 않은 FRB 010724의 차이.",
+      "altEn": "Side-by-side comparison of microwave-linked perytons and FRB 010724, which the paper did not attribute to the same source.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "parkes-perytons-microwave__peryton-vs-frb__ko.png",
+          "sha256": "e2ca0aabd24204ae928263668987036818624e51c0fd16d0504180017242dd10",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "parkes-perytons-microwave__peryton-vs-frb__en.png",
+          "sha256": "3ba9fb1c67ce5b66d23f1f2a103c3fcbbdc2dbc1bb4bbf16b3332f96cbfb00e2",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "parkes-perytons-microwave-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "2015년 1월 세 페리톤과 3월 전자레인지 재현실험의 시간순서.",
+      "captionEn": "Timeline of the three January 2015 perytons and March microwave recreation tests.",
+      "altKo": "2015년 1월 19·22·23일 신호와 3월 17일 재현실험을 표시한 타임라인.",
+      "altEn": "Timeline marking Jan 19, 22, 23 detections and the Mar 17 recreation test.",
+      "sourceRefs": [
+        "PETROFF2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "parkes-perytons-microwave__timeline__ko.png",
+          "sha256": "4d27da4a79c8c46543f15af3f6efa0c7863ab895f773a94953de1957ebf99e72",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "parkes-perytons-microwave__timeline__en.png",
+          "sha256": "38bd4cff6bc4c90ae3702844074d4b8da8dd3d186d66a8cf36338b6c3af86dda",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "secondaryGenres": [
+      "Space / Astronomy",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "places": [
+      {
+        "name": "Parkes Observatory",
+        "role": "primary site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Emily Petroff",
+        "role": "lead author / research team"
+      }
+    ],
+    "organizations": [
+      "CSIRO / ATNF",
+      "Swinburne University of Technology"
+    ],
+    "dateRange": {
+      "start": "2015-01-19",
+      "end": "2015-03-17",
+      "precision": "case investigation window; historical perytons predate this"
+    },
+    "era": "21st century",
+    "resolution": "EXPLAINED_WITH_MECHANISM_DETAIL_PARTLY_OPEN",
+    "searchAliases": [
+      "페리톤",
+      "peryton",
+      "Parkes microwave",
+      "FRB 010724"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3226,
+    "enBodyWords": 1103,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 4,
+    "sourceCount": 1,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH01",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH01_MANIFEST_v1.1.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

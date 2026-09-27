@@ -1,0 +1,476 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "great-fire-london-1666-inquiry",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "런던 대화재 발화 원인과 음모설",
+    "canonicalTitleEn": "Great Fire of London 1666 Inquiry",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1666년 런던 대화재는 누군가 일부러 낸 불이었나",
+      "hook": "불은 Pudding Lane에서 시작했다. 그러나 그 빈틈에 외국인·가톨릭 음모설과 Robert Hubert의 자백이 들어왔다. 문제는 자백이 실제 발화증거였는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1666년 9월 2일, Pudding Lane에서 시작된 불",
+          "headingEn": "September 2, 1666: Fire at Pudding Lane",
+          "textKo": "1666년 9월 2일 새벽 런던 Pudding Lane의 Thomas Farriner 빵집에서 불이 시작됐다. 강풍과 목조건물, 좁은 골목, 가연성 물품이 겹치며 화재는 며칠 동안 City of London을 휩쓸었다. London Museum은 9월 6일 무렵까지 대형화재가 통제됐다고 정리한다. **불이 어디서 시작됐는지는 비교적 분명하지만, 정확히 어떤 불씨가 처음 붙었는지와 누가 일부러 냈는지는 별개의 질문**이다.",
+          "textEn": "In the early hours of September 2, 1666, fire began at Thomas Farriner’s bakery on Pudding Lane. Strong winds, timber buildings, narrow streets, and combustible materials helped it sweep through the City of London for days. London Museum places the major fire’s containment around September 6. The origin location is relatively well established; the exact ignition mechanism and any claim of deliberate arson are separate questions."
+        },
+        {
+          "blockId": "war-02",
+          "type": "BACKGROUND",
+          "headingKo": "전쟁과 종교불안이 ‘방화범’을 먼저 만들었다",
+          "headingEn": "War and Religious Tension Created Suspects Before Evidence Did",
+          "textKo": "당시 영국은 네덜란드와 전쟁 중이었고 가톨릭 음모에 대한 공포도 컸다. 그래서 화재가 커지는 동안 외국인·가톨릭 신자에게 방화책임을 돌리는 소문과 폭력이 빠르게 퍼졌다. British Library와 London Museum 자료는 이 정치·종교적 배경이 화재원인 해석에 강하게 개입했다고 설명한다. **재난이 너무 크면 ‘사고’보다 ‘적의 계획’이 더 만족스러운 설명처럼 보일 수 있다.**",
+          "textEn": "England was at war with the Dutch, and fear of Catholic conspiracy was intense. As the fire spread, rumours and violence targeted foreigners and Catholics as supposed arsonists. British Library and London Museum research shows how strongly war and religious anxiety shaped interpretations of the disaster. In a catastrophe of this scale, intentional enemy action can feel more satisfying than accident even before evidence exists."
+        },
+        {
+          "blockId": "hubert-03",
+          "type": "TURNING_POINT",
+          "headingKo": "Robert Hubert가 ‘내가 불을 질렀다’고 고백했다",
+          "headingEn": "Robert Hubert Confessed to Starting the Fire",
+          "textKo": "프랑스인 Robert Hubert는 자신이 런던 화재를 일으켰다고 고백했고 결국 처형됐다. 후대에는 이 고백이 방화원인의 핵심 증거처럼 반복됐다. 그러나 British Library의 원자료 재검토는 Hubert 진술에 심각한 모순이 있음을 지적한다. 불을 냈다고 말한 빵집의 구조와 맞지 않는 이야기, 화재 당시 런던 도착시점 문제 등이 대표적이다. **자백이 있다는 사실과 자백이 믿을 만하다는 것은 같은 말이 아니다.**",
+          "textEn": "A Frenchman, Robert Hubert, confessed to starting the Great Fire and was eventually executed. Later retellings often make that confession sound like decisive proof of arson. British Library archival reassessment highlights serious contradictions, including details inconsistent with the bakery and questions about Hubert’s arrival in London. The existence of a confession is not the same thing as the reliability of that confession."
+        },
+        {
+          "blockId": "1667-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1667년 조사 인쇄물도 정치적 문서였다",
+          "headingEn": "The 1667 Inquiry Print Was Itself a Political Document",
+          "textKo": "London Museum의 Fire of London 프로젝트가 공개한 1667년 인쇄자료에는 의회조사와 당시 수집된 정보가 남아 있다. 이 문서는 외국인·가톨릭 음모 의혹이 얼마나 강했는지를 보여주는 중요한 1차 자료다. 동시에 Work는 이를 ‘중립적 포렌식 최종보고서’로 취급하지 않는다. **정치적 위기 속에서 만들어진 조사문서는 당시 의심의 구조를 기록하지만, 그 의심이 사실이라는 보증서는 아니다.**",
+          "textEn": "The Fire of London project’s 1667 printed material preserves parliamentary inquiry information and contemporary allegations. It is important primary evidence for how strongly foreign and Catholic conspiracy suspicions operated. Work does not treat it as a neutral modern forensic report. A political investigation records the structure of suspicion as well as facts, and those two must be separated."
+        },
+        {
+          "blockId": "farriner-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "빵집 발화는 확립돼도 첫 불씨는 확립되지 않는다",
+          "headingEn": "The Bakery Origin Is Stronger Than the Exact Ignition Mechanism",
+          "textKo": "화재가 Farriner의 Pudding Lane 빵집에서 시작됐다는 역사적 합의는 강하지만, Work의 fact boundary는 ‘오븐 불씨가 정확한 최초 점화원이었다’는 문장까지 직접 입증된 것으로 올리지 않는다. 당시 현장감식은 현대 화재조사와 다르고, 화재 자체가 증거를 파괴했다. **‘시작장소’와 ‘정확한 점화기작’을 한 문장으로 합치지 않는 것이 중요하다.**",
+          "textEn": "The historical case for Farriner’s Pudding Lane bakery as the origin is strong, but Work’s fact boundary does not upgrade a specific oven ember or spark into a directly demonstrated ignition mechanism. Seventeenth-century investigation lacked modern fire forensics, and the blaze itself destroyed evidence. Origin location and exact ignition mechanism should remain separate."
+        },
+        {
+          "blockId": "pepys-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "동시대 목격일기는 ‘누가 했나’보다 혼란을 보여준다",
+          "headingEn": "Contemporary Diaries Show Chaos More Clearly Than Culprit Identity",
+          "textKo": "Samuel Pepys와 John Evelyn의 기록은 대화재 당시의 공포·행정대응·도시붕괴를 생생하게 보여주는 동시대 자료다. University of Leicester의 Pepys History는 누가 화재를 처음 발견하고 어떻게 대응했는지를 재구성하는 데 이런 기록을 활용한다. 그러나 일기는 특정 방화범의 물적증거를 제공하지 않는다. **현장경험의 디테일과 범죄원인의 입증력은 서로 다르다.**",
+          "textEn": "The diaries of Samuel Pepys and John Evelyn vividly preserve fear, administrative response, and urban chaos during the Great Fire. University of Leicester’s Pepys History uses such records to reconstruct discovery and response. But diaries do not provide physical proof of a particular arsonist. Rich eyewitness detail and proof of criminal causation are different evidentiary functions."
+        },
+        {
+          "blockId": "conspiracy-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "조직적 외국인·가톨릭 방화 공모는 입증되지 않았다",
+          "headingEn": "An Organized Foreign or Catholic Arson Plot Was Not Established",
+          "textKo": "화재 직후의 정치환경에서는 집단적 방화공모가 매우 그럴듯하게 받아들여졌다. 그러나 현대 archive review와 박물관 연구는 이를 확정된 역사사실로 두지 않는다. Hubert의 모순된 고백도 조직적 음모를 뒷받침하는 믿을 만한 물증이 되지 못한다. **당시 사람들이 음모를 믿었다는 사실은 확실하지만, 음모 자체가 있었다는 사실은 아니다.**",
+          "textEn": "In the political climate after the fire, organized foreign or Catholic arson plots could seem highly plausible. Modern archival and museum research does not treat such a plot as established history. Hubert’s contradictory confession does not supply reliable physical proof of a wider conspiracy. It is certain that people believed conspiracy explanations; it is not certain that the conspiracy existed."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "재난 뒤 ‘범인 찾기’가 어떻게 증거를 앞질렀나",
+          "headingEn": "How the Search for a Culprit Outran the Evidence",
+          "textKo": "런던 대화재의 원인 미스터리는 화재 자체보다 사회반응에서 더 선명해진다. 시작장소는 알려졌지만, 정확한 점화기작은 불확실했고, 그 빈틈을 전쟁·종교불안이 채웠다. 외국인 집단비난, Hubert 자백, 정치 인쇄물이 겹치며 ‘누가 했다’는 이야기가 ‘무엇이 실제 증명됐나’보다 빨리 커졌다. **불확실성이 클수록 사회는 사람 이름을 원하지만, 역사연구는 그 이름을 증거와 분리해야 한다.**",
+          "textEn": "The Great Fire’s mystery becomes clearest in the social reaction. The origin site was known, but the precise ignition mechanism remained uncertain, and that gap was filled by war and religious anxiety. Group blame, Hubert’s confession, and political print culture made “who did it?” grow faster than “what is actually proven?” Historical analysis has to separate names from evidence."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 대화재는 1666년 9월 2일 Pudding Lane의 Farriner 빵집에서 시작돼 6일 무렵 진화됐다. Robert Hubert는 방화를 자백하고 처형됐지만 진술에는 장소·도착시점 등 중대한 모순이 있었다. 당시 전쟁·종교불안 속에서 외국인·가톨릭 방화음모 주장이 널리 퍼졌다.\n\n**확인되지 않음:** Hubert의 고백이 믿을 만한 방화 물증이라는 것은 아니다. 조직적 외국인·가톨릭 방화공모는 입증되지 않았다. 오븐 불씨 등 정확한 최초 점화기작도 직접 확정되지 않는다.",
+          "textEn": "**Established:** The Great Fire began at Farriner’s bakery on Pudding Lane on September 2, 1666, and was largely contained by around September 6. Robert Hubert confessed to arson and was executed, but his account contained major contradictions involving place and timing. Foreign and Catholic conspiracy accusations spread widely amid war and religious tension.\n\n**Not established:** Hubert’s confession is not reliable physical proof of arson. An organized foreign or Catholic plot has not been established. Nor is a specific initial ignition mechanism, such as one oven ember, directly proven."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 대화재는 1666년 9월 2일 Pudding Lane의 Farriner 빵집에서 시작돼 6일 무렵 진화됐다. Robert Hubert는 방화를 자백하고 처형됐지만 진술에는 장소·도착시점 등 중대한 모순이 있었다. 당시 전쟁·종교불안 속에서 외국인·가톨릭 방화음모 주장이 널리 퍼졌다.\n\n**확인되지 않음:** Hubert의 고백이 믿을 만한 방화 물증이라는 것은 아니다. 조직적 외국인·가톨릭 방화공모는 입증되지 않았다. 오븐 불씨 등 정확한 최초 점화기작도 직접 확정되지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "war-02",
+        "hubert-03",
+        "1667-04",
+        "farriner-05",
+        "pepys-06",
+        "conspiracy-07",
+        "meaning-08"
+      ]
+    },
+    "en": {
+      "headline": "Was the Great Fire of London Deliberately Set?",
+      "hook": "The fire began at Pudding Lane. Into the uncertainty came foreign-conspiracy accusations and Robert Hubert's confession. The question is whether that confession was evidence of the ignition itself.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1666년 9월 2일, Pudding Lane에서 시작된 불",
+          "headingEn": "September 2, 1666: Fire at Pudding Lane",
+          "textKo": "1666년 9월 2일 새벽 런던 Pudding Lane의 Thomas Farriner 빵집에서 불이 시작됐다. 강풍과 목조건물, 좁은 골목, 가연성 물품이 겹치며 화재는 며칠 동안 City of London을 휩쓸었다. London Museum은 9월 6일 무렵까지 대형화재가 통제됐다고 정리한다. **불이 어디서 시작됐는지는 비교적 분명하지만, 정확히 어떤 불씨가 처음 붙었는지와 누가 일부러 냈는지는 별개의 질문**이다.",
+          "textEn": "In the early hours of September 2, 1666, fire began at Thomas Farriner’s bakery on Pudding Lane. Strong winds, timber buildings, narrow streets, and combustible materials helped it sweep through the City of London for days. London Museum places the major fire’s containment around September 6. The origin location is relatively well established; the exact ignition mechanism and any claim of deliberate arson are separate questions."
+        },
+        {
+          "blockId": "war-02",
+          "type": "BACKGROUND",
+          "headingKo": "전쟁과 종교불안이 ‘방화범’을 먼저 만들었다",
+          "headingEn": "War and Religious Tension Created Suspects Before Evidence Did",
+          "textKo": "당시 영국은 네덜란드와 전쟁 중이었고 가톨릭 음모에 대한 공포도 컸다. 그래서 화재가 커지는 동안 외국인·가톨릭 신자에게 방화책임을 돌리는 소문과 폭력이 빠르게 퍼졌다. British Library와 London Museum 자료는 이 정치·종교적 배경이 화재원인 해석에 강하게 개입했다고 설명한다. **재난이 너무 크면 ‘사고’보다 ‘적의 계획’이 더 만족스러운 설명처럼 보일 수 있다.**",
+          "textEn": "England was at war with the Dutch, and fear of Catholic conspiracy was intense. As the fire spread, rumours and violence targeted foreigners and Catholics as supposed arsonists. British Library and London Museum research shows how strongly war and religious anxiety shaped interpretations of the disaster. In a catastrophe of this scale, intentional enemy action can feel more satisfying than accident even before evidence exists."
+        },
+        {
+          "blockId": "hubert-03",
+          "type": "TURNING_POINT",
+          "headingKo": "Robert Hubert가 ‘내가 불을 질렀다’고 고백했다",
+          "headingEn": "Robert Hubert Confessed to Starting the Fire",
+          "textKo": "프랑스인 Robert Hubert는 자신이 런던 화재를 일으켰다고 고백했고 결국 처형됐다. 후대에는 이 고백이 방화원인의 핵심 증거처럼 반복됐다. 그러나 British Library의 원자료 재검토는 Hubert 진술에 심각한 모순이 있음을 지적한다. 불을 냈다고 말한 빵집의 구조와 맞지 않는 이야기, 화재 당시 런던 도착시점 문제 등이 대표적이다. **자백이 있다는 사실과 자백이 믿을 만하다는 것은 같은 말이 아니다.**",
+          "textEn": "A Frenchman, Robert Hubert, confessed to starting the Great Fire and was eventually executed. Later retellings often make that confession sound like decisive proof of arson. British Library archival reassessment highlights serious contradictions, including details inconsistent with the bakery and questions about Hubert’s arrival in London. The existence of a confession is not the same thing as the reliability of that confession."
+        },
+        {
+          "blockId": "1667-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1667년 조사 인쇄물도 정치적 문서였다",
+          "headingEn": "The 1667 Inquiry Print Was Itself a Political Document",
+          "textKo": "London Museum의 Fire of London 프로젝트가 공개한 1667년 인쇄자료에는 의회조사와 당시 수집된 정보가 남아 있다. 이 문서는 외국인·가톨릭 음모 의혹이 얼마나 강했는지를 보여주는 중요한 1차 자료다. 동시에 Work는 이를 ‘중립적 포렌식 최종보고서’로 취급하지 않는다. **정치적 위기 속에서 만들어진 조사문서는 당시 의심의 구조를 기록하지만, 그 의심이 사실이라는 보증서는 아니다.**",
+          "textEn": "The Fire of London project’s 1667 printed material preserves parliamentary inquiry information and contemporary allegations. It is important primary evidence for how strongly foreign and Catholic conspiracy suspicions operated. Work does not treat it as a neutral modern forensic report. A political investigation records the structure of suspicion as well as facts, and those two must be separated."
+        },
+        {
+          "blockId": "farriner-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "빵집 발화는 확립돼도 첫 불씨는 확립되지 않는다",
+          "headingEn": "The Bakery Origin Is Stronger Than the Exact Ignition Mechanism",
+          "textKo": "화재가 Farriner의 Pudding Lane 빵집에서 시작됐다는 역사적 합의는 강하지만, Work의 fact boundary는 ‘오븐 불씨가 정확한 최초 점화원이었다’는 문장까지 직접 입증된 것으로 올리지 않는다. 당시 현장감식은 현대 화재조사와 다르고, 화재 자체가 증거를 파괴했다. **‘시작장소’와 ‘정확한 점화기작’을 한 문장으로 합치지 않는 것이 중요하다.**",
+          "textEn": "The historical case for Farriner’s Pudding Lane bakery as the origin is strong, but Work’s fact boundary does not upgrade a specific oven ember or spark into a directly demonstrated ignition mechanism. Seventeenth-century investigation lacked modern fire forensics, and the blaze itself destroyed evidence. Origin location and exact ignition mechanism should remain separate."
+        },
+        {
+          "blockId": "pepys-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "동시대 목격일기는 ‘누가 했나’보다 혼란을 보여준다",
+          "headingEn": "Contemporary Diaries Show Chaos More Clearly Than Culprit Identity",
+          "textKo": "Samuel Pepys와 John Evelyn의 기록은 대화재 당시의 공포·행정대응·도시붕괴를 생생하게 보여주는 동시대 자료다. University of Leicester의 Pepys History는 누가 화재를 처음 발견하고 어떻게 대응했는지를 재구성하는 데 이런 기록을 활용한다. 그러나 일기는 특정 방화범의 물적증거를 제공하지 않는다. **현장경험의 디테일과 범죄원인의 입증력은 서로 다르다.**",
+          "textEn": "The diaries of Samuel Pepys and John Evelyn vividly preserve fear, administrative response, and urban chaos during the Great Fire. University of Leicester’s Pepys History uses such records to reconstruct discovery and response. But diaries do not provide physical proof of a particular arsonist. Rich eyewitness detail and proof of criminal causation are different evidentiary functions."
+        },
+        {
+          "blockId": "conspiracy-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "조직적 외국인·가톨릭 방화 공모는 입증되지 않았다",
+          "headingEn": "An Organized Foreign or Catholic Arson Plot Was Not Established",
+          "textKo": "화재 직후의 정치환경에서는 집단적 방화공모가 매우 그럴듯하게 받아들여졌다. 그러나 현대 archive review와 박물관 연구는 이를 확정된 역사사실로 두지 않는다. Hubert의 모순된 고백도 조직적 음모를 뒷받침하는 믿을 만한 물증이 되지 못한다. **당시 사람들이 음모를 믿었다는 사실은 확실하지만, 음모 자체가 있었다는 사실은 아니다.**",
+          "textEn": "In the political climate after the fire, organized foreign or Catholic arson plots could seem highly plausible. Modern archival and museum research does not treat such a plot as established history. Hubert’s contradictory confession does not supply reliable physical proof of a wider conspiracy. It is certain that people believed conspiracy explanations; it is not certain that the conspiracy existed."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "재난 뒤 ‘범인 찾기’가 어떻게 증거를 앞질렀나",
+          "headingEn": "How the Search for a Culprit Outran the Evidence",
+          "textKo": "런던 대화재의 원인 미스터리는 화재 자체보다 사회반응에서 더 선명해진다. 시작장소는 알려졌지만, 정확한 점화기작은 불확실했고, 그 빈틈을 전쟁·종교불안이 채웠다. 외국인 집단비난, Hubert 자백, 정치 인쇄물이 겹치며 ‘누가 했다’는 이야기가 ‘무엇이 실제 증명됐나’보다 빨리 커졌다. **불확실성이 클수록 사회는 사람 이름을 원하지만, 역사연구는 그 이름을 증거와 분리해야 한다.**",
+          "textEn": "The Great Fire’s mystery becomes clearest in the social reaction. The origin site was known, but the precise ignition mechanism remained uncertain, and that gap was filled by war and religious anxiety. Group blame, Hubert’s confession, and political print culture made “who did it?” grow faster than “what is actually proven?” Historical analysis has to separate names from evidence."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 대화재는 1666년 9월 2일 Pudding Lane의 Farriner 빵집에서 시작돼 6일 무렵 진화됐다. Robert Hubert는 방화를 자백하고 처형됐지만 진술에는 장소·도착시점 등 중대한 모순이 있었다. 당시 전쟁·종교불안 속에서 외국인·가톨릭 방화음모 주장이 널리 퍼졌다.\n\n**확인되지 않음:** Hubert의 고백이 믿을 만한 방화 물증이라는 것은 아니다. 조직적 외국인·가톨릭 방화공모는 입증되지 않았다. 오븐 불씨 등 정확한 최초 점화기작도 직접 확정되지 않는다.",
+          "textEn": "**Established:** The Great Fire began at Farriner’s bakery on Pudding Lane on September 2, 1666, and was largely contained by around September 6. Robert Hubert confessed to arson and was executed, but his account contained major contradictions involving place and timing. Foreign and Catholic conspiracy accusations spread widely amid war and religious tension.\n\n**Not established:** Hubert’s confession is not reliable physical proof of arson. An organized foreign or Catholic plot has not been established. Nor is a specific initial ignition mechanism, such as one oven ember, directly proven."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The Great Fire began at Farriner’s bakery on Pudding Lane on September 2, 1666, and was largely contained by around September 6. Robert Hubert confessed to arson and was executed, but his account contained major contradictions involving place and timing. Foreign and Catholic conspiracy accusations spread widely amid war and religious tension.\n\n**Not established:** Hubert’s confession is not reliable physical proof of arson. An organized foreign or Catholic plot has not been established. Nor is a specific initial ignition mechanism, such as one oven ember, directly proven.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "war-02",
+        "hubert-03",
+        "1667-04",
+        "farriner-05",
+        "pepys-06",
+        "conspiracy-07",
+        "meaning-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GFL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1666-09-02 Pudding Lane Farriner 빵집에서 화재가 시작됐다.",
+      "statementEn": "The Great Fire began at Farriner's bakery on Pudding Lane on September 2, 1666.",
+      "sourceRefs": [
+        "GFL_LM",
+        "GFL_PEPYS"
+      ]
+    },
+    {
+      "claimId": "GFL-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Robert Hubert는 방화를 자백하고 처형됐다.",
+      "statementEn": "Robert Hubert confessed to arson and was executed.",
+      "sourceRefs": [
+        "GFL_BL"
+      ]
+    },
+    {
+      "claimId": "GFL-C3",
+      "status": "SUPPORTED",
+      "statementKo": "Hubert 진술에는 장소·도착시점 등 중대한 모순이 있었다.",
+      "statementEn": "Hubert's account contained major contradictions involving the site and timing.",
+      "sourceRefs": [
+        "GFL_BL"
+      ]
+    },
+    {
+      "claimId": "GFL-C4",
+      "status": "REFUTED",
+      "statementKo": "Hubert의 고백이 방화의 믿을 만한 물적증거라는 주장은 유지되지 않는다.",
+      "statementEn": "Hubert's confession does not stand as reliable physical proof of arson.",
+      "sourceRefs": [
+        "GFL_BL"
+      ]
+    },
+    {
+      "claimId": "GFL-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "조직적 외국인·가톨릭 방화공모는 입증되지 않았다.",
+      "statementEn": "An organized foreign or Catholic arson conspiracy is not established.",
+      "sourceRefs": [
+        "GFL1667",
+        "GFL_LM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GFL1667",
+      "title": "1667 parliamentary-information tract transcript",
+      "publisher": "London Museum Fire of London Project",
+      "url": "https://www.fireoflondon.org.uk/assets/uploads/2016/08/Transcript_42.39_37.pdf",
+      "sourceType": "PRIMARY_1667_POLITICAL_INQUIRY_PRINT"
+    },
+    {
+      "sourceId": "GFL_BL",
+      "title": "Robert Hubert and the Great Fire of London",
+      "publisher": "British Library",
+      "url": "https://www.bl.uk/stories/blogs/posts/robert-hubert-and-the-great-fire-of-london",
+      "sourceType": "INDEPENDENT_ARCHIVAL_REASSESSMENT"
+    },
+    {
+      "sourceId": "GFL_LM",
+      "title": "Great Fire of London",
+      "publisher": "London Museum",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-fire-of-london/",
+      "sourceType": "MUSEUM_HISTORICAL_CONTEXT"
+    },
+    {
+      "sourceId": "GFL_PEPYS",
+      "title": "Who discovered the Great Fire?",
+      "publisher": "University of Leicester Pepys History",
+      "url": "https://pepyshistory.le.ac.uk/who-discovered-the-great-fire/",
+      "sourceType": "ACADEMIC_CONTEMPORARY_RECORD_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "great-fire-london-1666-inquiry-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "런던 대화재의 발화장소·확산·Hubert 자백·후대 검증을 분리한 hero 도표.",
+      "captionEn": "Hero explainer separating origin site, spread, Hubert’s confession, and later reassessment of the Great Fire.",
+      "altKo": "Pudding Lane 발화부터 자백의 모순까지 네 단계.",
+      "altEn": "Four stages from Pudding Lane origin to contradictions in the confession.",
+      "sourceRefs": [
+        "GFL_LM",
+        "GFL_BL",
+        "GFL1667"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "great-fire-london-1666-inquiry__hero-context__ko.png",
+          "sha256": "d11757ff4f46a858fe7bbb84b755264dddf921a51e69ce4c38541807044b3eb6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "great-fire-london-1666-inquiry__hero-context__en.png",
+          "sha256": "abb00e01dbe4c3207cd74d5eb8dd128ca66618fa6777c202dc1536dd209f61e5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "great-fire-london-1666-inquiry-origin-vs-conspiracy",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "런던 대화재에서 강하게 확인되는 발화장소와 미입증 방화음모를 비교한 카드.",
+      "captionEn": "Evidence card comparing the strongly documented origin site with unproven arson/conspiracy claims.",
+      "altKo": "왼쪽 발화장소·자백 사실, 오른쪽 자백 신뢰성·조직음모·점화기작 미확정.",
+      "altEn": "Two-column comparison of established origin/confession facts and unproven conspiracy/ignition claims.",
+      "sourceRefs": [
+        "GFL_LM",
+        "GFL_BL",
+        "GFL1667"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "great-fire-london-1666-inquiry__origin-vs-conspiracy__ko.png",
+          "sha256": "afc7b5807452c6d0f1e49881334a3b34e1650b4cd7c529c9fb940440a598f659",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "great-fire-london-1666-inquiry__origin-vs-conspiracy__en.png",
+          "sha256": "9fc3eadf234f4077593427c3d3c99ffcfca3d2a92b123474216cf13f62930b4e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "great-fire-london-1666-inquiry-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1666 대화재 발화·진화·Hubert 자백·1667 조사자료의 연표.",
+      "captionEn": "Timeline of the fire’s origin, containment, Hubert confession, and the 1667 inquiry print.",
+      "altKo": "1666년9월2일, 9월6일, Hubert, 1667 조사 네 시점.",
+      "altEn": "Four-stage timeline: Sep 2, Sep 6, Hubert, 1667 inquiry.",
+      "sourceRefs": [
+        "GFL_LM",
+        "GFL_BL",
+        "GFL1667"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "great-fire-london-1666-inquiry__timeline__ko.png",
+          "sha256": "fed97f8645a862815201e8ca2878e0ad2b2fa7b4682e6c1351c7b9d9ee2f806b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "great-fire-london-1666-inquiry__timeline__en.png",
+          "sha256": "f945723e3fce6baac72e95324f56ad1ffcd1ee681325e0e986e5bbf7b2966785",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "City of London"
+    ],
+    "places": [
+      {
+        "name": "Pudding Lane",
+        "role": "fire origin"
+      }
+    ],
+    "people": [
+      {
+        "name": "Thomas Farriner",
+        "role": "baker"
+      },
+      {
+        "name": "Robert Hubert",
+        "role": "confessor/executed"
+      },
+      {
+        "name": "Samuel Pepys",
+        "role": "diarist"
+      }
+    ],
+    "organizations": [
+      "House of Commons fire committee",
+      "British Library",
+      "London Museum"
+    ],
+    "dateRange": {
+      "start": "1666-09-02",
+      "end": "1667",
+      "precision": "fire through political inquiry print"
+    },
+    "era": "17th century",
+    "resolution": "FIRE_ORIGIN_SITE_ESTABLISHED_CONSPIRACY_UNPROVEN",
+    "searchAliases": [
+      "Great Fire of London",
+      "Robert Hubert",
+      "Pudding Lane fire"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2053,
+    "enBodyWords": 567,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH06",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH06_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

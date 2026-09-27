@@ -1,0 +1,472 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "princes-in-the-tower",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "런던탑 두 왕자의 행방",
+    "canonicalTitleEn": "Princes in the Tower",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1483년 사라진 두 왕자는 누구에게 죽임당했나—혹은 정말 그 유골이 맞나",
+      "hook": "두 왕자의 공개기록은 1483년 여름 끊겼다. 191년 뒤 두 어린이 유골이 나왔지만 신원은 확정되지 않았다. 사건은 ‘범인’과 ‘유골’이라는 두 미스터리가 겹쳐 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1483년 여름, 두 왕자가 공개기록에서 사라졌다",
+          "headingEn": "1483: Two Princes Disappeared From Public View",
+          "textKo": "Edward V와 동생 Richard of Shrewsbury는 1483년 왕위승계 위기 속에서 런던탑에 머물렀다. 처음에는 왕위 즉위 준비와 보호라는 설명이 가능했지만, 두 소년의 공개등장 기록은 여름 이후 끊긴다. Historic Royal Palaces가 정리한 동시대·근접기록은 그 시점부터 이미 소문과 추측이 커졌음을 보여준다. **두 사람이 탑에 있었고 이후 공개적으로 사라졌다는 사실은 강하지만, 그 다음에 정확히 무엇이 일어났는지는 기록이 갑자기 약해진다.**",
+          "textEn": "Edward V and his younger brother Richard of Shrewsbury were lodged in the Tower of London during the 1483 succession crisis. At first their presence could be explained through preparation for coronation and protection, but records of their public appearance cease during the summer. Historic Royal Palaces’ review of contemporary and near-contemporary material shows rumours and speculation growing from that point. Their presence in the Tower and subsequent disappearance from public view are strong historical facts; what happened next is much less secure."
+        },
+        {
+          "blockId": "mancini-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Mancini는 ‘소문’을 기록했지 살인현장을 본 것이 아니다",
+          "headingEn": "Mancini Recorded Rumours, Not a Murder He Witnessed",
+          "textKo": "이탈리아인 Dominic Mancini의 기록은 당시 분위기를 보여주는 중요한 근접자료다. 그는 소년들이 점차 모습을 보이지 않게 됐고, 주변에서 죽음에 대한 의심이 돌았다는 취지의 내용을 남겼다. 그러나 **소문이 1483년에 이미 존재했다는 사실과 그 소문의 내용이 사실이라는 것은 다르다.** Mancini는 살인을 목격한 증인이 아니며, 책임자까지 확정하는 문서도 아니다.",
+          "textEn": "Dominic Mancini’s account is an important near-contemporary source for the atmosphere of 1483. He described the boys becoming less visible and recorded suspicions that they had died. But the existence of such rumours in 1483 is not proof that the rumours were true. Mancini did not witness a murder and does not provide a definitive identification of a killer."
+        },
+        {
+          "blockId": "suspects-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "Richard III, Buckingham, Henry VII—가설은 많지만 판결은 없다",
+          "headingEn": "Richard III, Buckingham, Henry VII: Hypotheses Without a Verdict",
+          "textKo": "후대 역사에서는 Richard III가 가장 자주 지목됐고, Buckingham 공작이나 Henry VII와 연결된 대안설도 제기됐다. 각 가설은 동기·접근기회·후대 정치선전과 연결된다. 하지만 Work의 fact boundary는 어느 인물도 **동시대 사법판결이나 직접 물증으로 범인 확정**하지 않는다. 책임가설을 비교할 수는 있지만, ‘가장 유명한 용의자’를 사실문으로 바꾸면 증거단계를 넘어선다.",
+          "textEn": "Later history most often accused Richard III, while alternative theories have involved the Duke of Buckingham or Henry VII. Each hypothesis draws on motive, access, and later political narratives. Work’s fact boundary does not establish any of these figures as the killer through contemporary judicial findings or direct physical evidence. Suspect hypotheses can be compared, but fame is not proof."
+        },
+        {
+          "blockId": "bones-04",
+          "type": "TURNING_POINT",
+          "headingKo": "1674년, White Tower에서 어린이 유골이 나왔다",
+          "headingEn": "1674: Child Bones Were Found at the White Tower",
+          "textKo": "1674년 White Tower 공사 중 어린이로 보이는 유골이 발견됐다. Westminster Abbey와 Historic Royal Palaces 자료는 이 발견과, Charles II 시대에 유골이 두 왕자로 여겨져 Westminster Abbey에 안치된 과정을 기록한다. 이 사건은 1483년 실종과 191년 뒤의 물적발견을 연결할 수 있는 놀라운 단서처럼 보였다. 그러나 **발견장소와 연령 추정만으로 두 형제의 개인신원을 확정할 수는 없다.**",
+          "textEn": "In 1674, work at the White Tower uncovered bones believed to be those of children. Westminster Abbey and Historic Royal Palaces document the discovery and the later decision under Charles II to inter the remains as the two princes. The find appeared to connect the 1483 disappearance with physical remains nearly two centuries later. Location and estimated age, however, are not sufficient to establish individual identity."
+        },
+        {
+          "blockId": "epitaph-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "1678년 비문이 Richard를 지목해도 동시대 판결은 아니다",
+          "headingEn": "A 1678 Epitaph Is Not a Contemporary Conviction",
+          "textKo": "Westminster Abbey의 항아리와 후대 비문은 Richard III를 두 왕자의 죽음과 연결하는 강한 서술을 담았다. 하지만 그 비문은 사건으로부터 거의 두 세기 뒤 만들어졌고 Tudor 이후 역사기억의 영향을 받았다. Work는 **1678년 비문을 1483년의 사법 유죄판정처럼 쓰는 서술을 REFUTED로 둔다.** 기념문구는 당시 사회가 사건을 어떻게 기억했는지의 자료이지, 살인범을 과학적으로 확정하는 물증이 아니다.",
+          "textEn": "The Westminster Abbey urn and later epitaph strongly connect Richard III with the princes’ deaths, but the inscription was created nearly two centuries after the events and reflects post-Tudor historical memory. Work explicitly rejects treating a 1678 epitaph as if it were a contemporary judicial conviction from 1483. Memorial language is evidence of later remembrance, not forensic proof of a killer."
+        },
+        {
+          "blockId": "1933-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1933년 검사도 신원을 끝내지 못했다",
+          "headingEn": "The 1933 Examination Did Not Settle Identity",
+          "textKo": "1933년 항아리의 유골이 의학적으로 조사돼 두 어린 개인일 가능성과 연령에 대한 평가가 이뤄졌다. 그러나 당시 방법에는 현대 DNA·정밀연대측정이 없었고, Work는 이 결과를 두 형제 신원의 확정으로 올리지 않는다. **‘두 어린이 유골’이라는 판단과 ‘Edward V와 Richard다’라는 개인신원 판정 사이에는 여전히 큰 차이가 있다.**",
+          "textEn": "The Westminster remains were medically examined in 1933, producing assessments that they represented two young individuals and estimating ages. But the investigation predated modern DNA and precise dating methods, and Work does not treat it as a definitive identification of the brothers. “Two young individuals” is not the same conclusion as “Edward V and Richard of Shrewsbury.”"
+        },
+        {
+          "blockId": "dna-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "DNA로 곧 해결될 것처럼 말할 수도 없다",
+          "headingEn": "DNA Is Not Yet a Completed Solution",
+          "textKo": "대중적으로는 ‘유골만 DNA 검사하면 끝난다’는 기대가 크지만, Work의 잠금자료는 실제 DNA 신원확인이 완료됐다고 보지 않는다. 샘플링 허가, 보존상태, 비교친족 계보, 오염통제와 연대측정 등 여러 조건이 필요하다. **미래에 가능한 검사와 이미 완료된 증거를 구분해야 한다.** 현재 시점의 사실문은 유골이 발견·보관돼 있다는 수준과 기존 검사 범위까지다.",
+          "textEn": "Popular discussion often assumes that one DNA test could simply finish the mystery. Work’s locked evidence does not treat any such identification as completed. Sampling permission, preservation, comparative relatives, contamination control, and dating all matter. Possible future testing must not be confused with evidence already obtained."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 ‘범인 맞히기’보다 증거의 시간차가 더 크다",
+          "headingEn": "The Larger Problem Is the Gap in Time Between Evidence Layers",
+          "textKo": "두 왕자 사건의 자료는 1483년 기록, 후대 소문, 1674년 유골발견, 1678년 비문, 1933년 검사처럼 서로 다른 시대에 흩어져 있다. 각 층은 다른 질문에 답하지만 후대 기억을 동시대 사실처럼 섞기 쉽다. **사건의 핵심 난점은 증거가 적어서가 아니라, 서로 100~200년 떨어진 증거층을 같은 시간의 자료처럼 취급하면 안 된다는 데 있다.**",
+          "textEn": "Evidence in the Princes case is scattered across different centuries: 1483 accounts, later rumours, the 1674 bone discovery, a 1678 epitaph, and the 1933 examination. Each layer answers different questions, but later memory is easily mistaken for contemporary fact. The challenge is not simply lack of evidence; it is the danger of collapsing evidence created centuries apart into one narrative."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Edward V와 Richard of Shrewsbury는 1483년 왕위분쟁 속 런던탑에 있었고 공개등장 기록이 끊겼다. 1674년 White Tower에서 두 어린이 유골이 발견돼 후대에 두 왕자의 유해로 간주돼 Westminster Abbey에 안치됐다. 1933년 유골검사도 실제 진행됐다.\n\n**확인되지 않음:** 두 왕자의 정확한 사망일·장소·가해자는 확정되지 않는다. 1674 유골이 두 왕자의 것이라는 DNA 신원확인도 완료되지 않았다. Richard III·Buckingham·Henry VII 중 누구의 책임도 직접 물증으로 확정되지 않는다.",
+          "textEn": "**Established:** Edward V and Richard of Shrewsbury were in the Tower of London during the 1483 succession crisis and then disappeared from public view. In 1674, the White Tower yielded the remains of two young individuals later interred at Westminster Abbey as the princes. The bones were medically examined in 1933.\n\n**Not established:** The exact date, place, and perpetrator of the princes’ deaths remain unknown. The 1674 remains have not been genetically identified as the brothers. Direct physical evidence does not establish Richard III, Buckingham, Henry VII, or another person as the killer."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Edward V와 Richard of Shrewsbury는 1483년 왕위분쟁 속 런던탑에 있었고 공개등장 기록이 끊겼다. 1674년 White Tower에서 두 어린이 유골이 발견돼 후대에 두 왕자의 유해로 간주돼 Westminster Abbey에 안치됐다. 1933년 유골검사도 실제 진행됐다.\n\n**확인되지 않음:** 두 왕자의 정확한 사망일·장소·가해자는 확정되지 않는다. 1674 유골이 두 왕자의 것이라는 DNA 신원확인도 완료되지 않았다. Richard III·Buckingham·Henry VII 중 누구의 책임도 직접 물증으로 확정되지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mancini-02",
+        "suspects-03",
+        "bones-04",
+        "epitaph-05",
+        "1933-06",
+        "dna-07",
+        "meaning-08"
+      ]
+    },
+    "en": {
+      "headline": "Who Killed the Princes in 1483—and Are Those Bones Really Theirs?",
+      "hook": "The princes disappeared from public view in 1483. Nearly two centuries later, two child skeletons were found—but their identity remains unproven. The case contains two mysteries at once: the fate of the boys and the identity of the bones.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1483년 여름, 두 왕자가 공개기록에서 사라졌다",
+          "headingEn": "1483: Two Princes Disappeared From Public View",
+          "textKo": "Edward V와 동생 Richard of Shrewsbury는 1483년 왕위승계 위기 속에서 런던탑에 머물렀다. 처음에는 왕위 즉위 준비와 보호라는 설명이 가능했지만, 두 소년의 공개등장 기록은 여름 이후 끊긴다. Historic Royal Palaces가 정리한 동시대·근접기록은 그 시점부터 이미 소문과 추측이 커졌음을 보여준다. **두 사람이 탑에 있었고 이후 공개적으로 사라졌다는 사실은 강하지만, 그 다음에 정확히 무엇이 일어났는지는 기록이 갑자기 약해진다.**",
+          "textEn": "Edward V and his younger brother Richard of Shrewsbury were lodged in the Tower of London during the 1483 succession crisis. At first their presence could be explained through preparation for coronation and protection, but records of their public appearance cease during the summer. Historic Royal Palaces’ review of contemporary and near-contemporary material shows rumours and speculation growing from that point. Their presence in the Tower and subsequent disappearance from public view are strong historical facts; what happened next is much less secure."
+        },
+        {
+          "blockId": "mancini-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Mancini는 ‘소문’을 기록했지 살인현장을 본 것이 아니다",
+          "headingEn": "Mancini Recorded Rumours, Not a Murder He Witnessed",
+          "textKo": "이탈리아인 Dominic Mancini의 기록은 당시 분위기를 보여주는 중요한 근접자료다. 그는 소년들이 점차 모습을 보이지 않게 됐고, 주변에서 죽음에 대한 의심이 돌았다는 취지의 내용을 남겼다. 그러나 **소문이 1483년에 이미 존재했다는 사실과 그 소문의 내용이 사실이라는 것은 다르다.** Mancini는 살인을 목격한 증인이 아니며, 책임자까지 확정하는 문서도 아니다.",
+          "textEn": "Dominic Mancini’s account is an important near-contemporary source for the atmosphere of 1483. He described the boys becoming less visible and recorded suspicions that they had died. But the existence of such rumours in 1483 is not proof that the rumours were true. Mancini did not witness a murder and does not provide a definitive identification of a killer."
+        },
+        {
+          "blockId": "suspects-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "Richard III, Buckingham, Henry VII—가설은 많지만 판결은 없다",
+          "headingEn": "Richard III, Buckingham, Henry VII: Hypotheses Without a Verdict",
+          "textKo": "후대 역사에서는 Richard III가 가장 자주 지목됐고, Buckingham 공작이나 Henry VII와 연결된 대안설도 제기됐다. 각 가설은 동기·접근기회·후대 정치선전과 연결된다. 하지만 Work의 fact boundary는 어느 인물도 **동시대 사법판결이나 직접 물증으로 범인 확정**하지 않는다. 책임가설을 비교할 수는 있지만, ‘가장 유명한 용의자’를 사실문으로 바꾸면 증거단계를 넘어선다.",
+          "textEn": "Later history most often accused Richard III, while alternative theories have involved the Duke of Buckingham or Henry VII. Each hypothesis draws on motive, access, and later political narratives. Work’s fact boundary does not establish any of these figures as the killer through contemporary judicial findings or direct physical evidence. Suspect hypotheses can be compared, but fame is not proof."
+        },
+        {
+          "blockId": "bones-04",
+          "type": "TURNING_POINT",
+          "headingKo": "1674년, White Tower에서 어린이 유골이 나왔다",
+          "headingEn": "1674: Child Bones Were Found at the White Tower",
+          "textKo": "1674년 White Tower 공사 중 어린이로 보이는 유골이 발견됐다. Westminster Abbey와 Historic Royal Palaces 자료는 이 발견과, Charles II 시대에 유골이 두 왕자로 여겨져 Westminster Abbey에 안치된 과정을 기록한다. 이 사건은 1483년 실종과 191년 뒤의 물적발견을 연결할 수 있는 놀라운 단서처럼 보였다. 그러나 **발견장소와 연령 추정만으로 두 형제의 개인신원을 확정할 수는 없다.**",
+          "textEn": "In 1674, work at the White Tower uncovered bones believed to be those of children. Westminster Abbey and Historic Royal Palaces document the discovery and the later decision under Charles II to inter the remains as the two princes. The find appeared to connect the 1483 disappearance with physical remains nearly two centuries later. Location and estimated age, however, are not sufficient to establish individual identity."
+        },
+        {
+          "blockId": "epitaph-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "1678년 비문이 Richard를 지목해도 동시대 판결은 아니다",
+          "headingEn": "A 1678 Epitaph Is Not a Contemporary Conviction",
+          "textKo": "Westminster Abbey의 항아리와 후대 비문은 Richard III를 두 왕자의 죽음과 연결하는 강한 서술을 담았다. 하지만 그 비문은 사건으로부터 거의 두 세기 뒤 만들어졌고 Tudor 이후 역사기억의 영향을 받았다. Work는 **1678년 비문을 1483년의 사법 유죄판정처럼 쓰는 서술을 REFUTED로 둔다.** 기념문구는 당시 사회가 사건을 어떻게 기억했는지의 자료이지, 살인범을 과학적으로 확정하는 물증이 아니다.",
+          "textEn": "The Westminster Abbey urn and later epitaph strongly connect Richard III with the princes’ deaths, but the inscription was created nearly two centuries after the events and reflects post-Tudor historical memory. Work explicitly rejects treating a 1678 epitaph as if it were a contemporary judicial conviction from 1483. Memorial language is evidence of later remembrance, not forensic proof of a killer."
+        },
+        {
+          "blockId": "1933-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1933년 검사도 신원을 끝내지 못했다",
+          "headingEn": "The 1933 Examination Did Not Settle Identity",
+          "textKo": "1933년 항아리의 유골이 의학적으로 조사돼 두 어린 개인일 가능성과 연령에 대한 평가가 이뤄졌다. 그러나 당시 방법에는 현대 DNA·정밀연대측정이 없었고, Work는 이 결과를 두 형제 신원의 확정으로 올리지 않는다. **‘두 어린이 유골’이라는 판단과 ‘Edward V와 Richard다’라는 개인신원 판정 사이에는 여전히 큰 차이가 있다.**",
+          "textEn": "The Westminster remains were medically examined in 1933, producing assessments that they represented two young individuals and estimating ages. But the investigation predated modern DNA and precise dating methods, and Work does not treat it as a definitive identification of the brothers. “Two young individuals” is not the same conclusion as “Edward V and Richard of Shrewsbury.”"
+        },
+        {
+          "blockId": "dna-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "DNA로 곧 해결될 것처럼 말할 수도 없다",
+          "headingEn": "DNA Is Not Yet a Completed Solution",
+          "textKo": "대중적으로는 ‘유골만 DNA 검사하면 끝난다’는 기대가 크지만, Work의 잠금자료는 실제 DNA 신원확인이 완료됐다고 보지 않는다. 샘플링 허가, 보존상태, 비교친족 계보, 오염통제와 연대측정 등 여러 조건이 필요하다. **미래에 가능한 검사와 이미 완료된 증거를 구분해야 한다.** 현재 시점의 사실문은 유골이 발견·보관돼 있다는 수준과 기존 검사 범위까지다.",
+          "textEn": "Popular discussion often assumes that one DNA test could simply finish the mystery. Work’s locked evidence does not treat any such identification as completed. Sampling permission, preservation, comparative relatives, contamination control, and dating all matter. Possible future testing must not be confused with evidence already obtained."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 ‘범인 맞히기’보다 증거의 시간차가 더 크다",
+          "headingEn": "The Larger Problem Is the Gap in Time Between Evidence Layers",
+          "textKo": "두 왕자 사건의 자료는 1483년 기록, 후대 소문, 1674년 유골발견, 1678년 비문, 1933년 검사처럼 서로 다른 시대에 흩어져 있다. 각 층은 다른 질문에 답하지만 후대 기억을 동시대 사실처럼 섞기 쉽다. **사건의 핵심 난점은 증거가 적어서가 아니라, 서로 100~200년 떨어진 증거층을 같은 시간의 자료처럼 취급하면 안 된다는 데 있다.**",
+          "textEn": "Evidence in the Princes case is scattered across different centuries: 1483 accounts, later rumours, the 1674 bone discovery, a 1678 epitaph, and the 1933 examination. Each layer answers different questions, but later memory is easily mistaken for contemporary fact. The challenge is not simply lack of evidence; it is the danger of collapsing evidence created centuries apart into one narrative."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Edward V와 Richard of Shrewsbury는 1483년 왕위분쟁 속 런던탑에 있었고 공개등장 기록이 끊겼다. 1674년 White Tower에서 두 어린이 유골이 발견돼 후대에 두 왕자의 유해로 간주돼 Westminster Abbey에 안치됐다. 1933년 유골검사도 실제 진행됐다.\n\n**확인되지 않음:** 두 왕자의 정확한 사망일·장소·가해자는 확정되지 않는다. 1674 유골이 두 왕자의 것이라는 DNA 신원확인도 완료되지 않았다. Richard III·Buckingham·Henry VII 중 누구의 책임도 직접 물증으로 확정되지 않는다.",
+          "textEn": "**Established:** Edward V and Richard of Shrewsbury were in the Tower of London during the 1483 succession crisis and then disappeared from public view. In 1674, the White Tower yielded the remains of two young individuals later interred at Westminster Abbey as the princes. The bones were medically examined in 1933.\n\n**Not established:** The exact date, place, and perpetrator of the princes’ deaths remain unknown. The 1674 remains have not been genetically identified as the brothers. Direct physical evidence does not establish Richard III, Buckingham, Henry VII, or another person as the killer."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Edward V and Richard of Shrewsbury were in the Tower of London during the 1483 succession crisis and then disappeared from public view. In 1674, the White Tower yielded the remains of two young individuals later interred at Westminster Abbey as the princes. The bones were medically examined in 1933.\n\n**Not established:** The exact date, place, and perpetrator of the princes’ deaths remain unknown. The 1674 remains have not been genetically identified as the brothers. Direct physical evidence does not establish Richard III, Buckingham, Henry VII, or another person as the killer.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mancini-02",
+        "suspects-03",
+        "bones-04",
+        "epitaph-05",
+        "1933-06",
+        "dna-07",
+        "meaning-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PIT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "두 왕자는 1483년 런던탑에 있었고 이후 공개등장 기록이 끊겼다.",
+      "statementEn": "The two princes were in the Tower of London in 1483 and then disappeared from public view.",
+      "sourceRefs": [
+        "PIT_HRP"
+      ]
+    },
+    {
+      "claimId": "PIT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1674년 White Tower에서 두 어린이 유골이 발견됐다.",
+      "statementEn": "The remains of two young individuals were found at the White Tower in 1674.",
+      "sourceRefs": [
+        "PIT_WA",
+        "PIT_1674"
+      ]
+    },
+    {
+      "claimId": "PIT-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1674 유골이 Edward V와 Richard라고 DNA로 확정된 것은 아니다.",
+      "statementEn": "The 1674 remains have not been DNA-confirmed as Edward V and Richard.",
+      "sourceRefs": [
+        "PIT_WA",
+        "PIT_HRP"
+      ]
+    },
+    {
+      "claimId": "PIT-C4",
+      "status": "REFUTED",
+      "statementKo": "1678년 비문을 1483년 당시 Richard III 유죄판결처럼 취급하는 것은 부정확하다.",
+      "statementEn": "It is inaccurate to treat the 1678 epitaph as a contemporary 1483 conviction of Richard III.",
+      "sourceRefs": [
+        "PIT_WA"
+      ]
+    },
+    {
+      "claimId": "PIT-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "두 왕자의 정확한 사망일·장소·가해자는 확정되지 않는다.",
+      "statementEn": "The exact date, place, and perpetrator of the princes' deaths are not established.",
+      "sourceRefs": [
+        "PIT_HRP",
+        "PIT_WA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PIT_HRP",
+      "title": "The Princes in the Tower",
+      "publisher": "Historic Royal Palaces",
+      "url": "https://www.hrp.org.uk/tower-of-london/history-and-stories/the-princes-in-the-tower/",
+      "sourceType": "OFFICIAL_SITE_HISTORICAL_SYNTHESIS"
+    },
+    {
+      "sourceId": "PIT_WA",
+      "title": "Edward V & Richard, Duke of York",
+      "publisher": "Westminster Abbey",
+      "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-v-richard-duke-of-york",
+      "sourceType": "INDEPENDENT_CUSTODIAN_RECORD"
+    },
+    {
+      "sourceId": "PIT_1674",
+      "title": "Charles II and the discovery of the Princes in the Tower in 1674",
+      "publisher": "Historic Royal Palaces / Charles Farris",
+      "url": "https://www.hrp.org.uk/blog/charles-ii-and-the-discovery-of-the-princes-in-the-tower-in-1674/",
+      "sourceType": "CURATORIAL_REASSESSMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "princes-in-the-tower-bones-vs-identity",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1674 유골의 발견사실과 두 왕자 개인신원·가해자 미확정을 분리한 카드.",
+      "captionEn": "Evidence card separating the 1674 bone discovery from unresolved identity and perpetrator claims.",
+      "altKo": "왼쪽 유골 발견·안치·검사, 오른쪽 DNA·사망·가해자 미확정.",
+      "altEn": "Two-column comparison of established bone history and unresolved identity/perpetrator questions.",
+      "sourceRefs": [
+        "PIT_HRP",
+        "PIT_WA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "princes-in-the-tower__bones-vs-identity__ko.png",
+          "sha256": "8f03a159744ca935564fcad13d086a986d6c7d53d4c9512cd27998cf912f37f2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "princes-in-the-tower__bones-vs-identity__en.png",
+          "sha256": "efc2776fe71288d87c21f0b89a022a1f93eec19b34d67d551a57f8dcbe877088",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "princes-in-the-tower-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "두 왕자 실종과 1674 유골발견이 별개의 미스터리임을 보여주는 hero 도표.",
+      "captionEn": "Hero explainer showing the disappearance of the princes and the separate mystery of the 1674 remains.",
+      "altKo": "1483 런던탑, 실종, 1674 유골, 현재 미확정의 네 단계.",
+      "altEn": "Four stages: Tower in 1483, disappearance, 1674 bones, unresolved identity today.",
+      "sourceRefs": [
+        "PIT_HRP",
+        "PIT_WA",
+        "PIT_1674"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "princes-in-the-tower__hero-context__ko.png",
+          "sha256": "02769ae12bf3d0379d4059e2780b47b3432b61618f7ec7fa7747c2348c97ac53",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "princes-in-the-tower__hero-context__en.png",
+          "sha256": "cba4d6d672d051798e930cf789bf0e41e9d9ea451c3cc9e5efa3b830bef495c2",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "princes-in-the-tower-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1483 실종·1674 유골·1678 비문·1933 검사를 분리한 연표.",
+      "captionEn": "Timeline separating the 1483 disappearance from the 1674 bones, 1678 epitaph, and 1933 examination.",
+      "altKo": "서로 100년 이상 떨어진 네 증거층을 시간순으로 표시.",
+      "altEn": "Timeline of four evidence layers separated by decades or centuries.",
+      "sourceRefs": [
+        "PIT_HRP",
+        "PIT_WA",
+        "PIT_1674"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "princes-in-the-tower__timeline__ko.png",
+          "sha256": "fd9e5a56c80054336a6bad962d478fe0016a670b14604fddc7cc0727b6d59c0e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "princes-in-the-tower__timeline__en.png",
+          "sha256": "4c1d7f5a8a9d3f1b04f702413b66c3d4c0989db1f9ea42e5008dc555a4a498f4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "secondaryGenres": [
+      "Unsolved Crime / Disappearance"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "London"
+    ],
+    "places": [
+      {
+        "name": "Tower of London",
+        "role": "last known confinement"
+      },
+      {
+        "name": "Westminster Abbey",
+        "role": "custody of 1674 remains"
+      }
+    ],
+    "people": [
+      {
+        "name": "Edward V",
+        "role": "missing prince"
+      },
+      {
+        "name": "Richard of Shrewsbury",
+        "role": "missing prince"
+      },
+      {
+        "name": "Richard III",
+        "role": "later suspect in historical narratives"
+      }
+    ],
+    "organizations": [
+      "Historic Royal Palaces",
+      "Westminster Abbey"
+    ],
+    "dateRange": {
+      "start": "1483-06",
+      "end": null,
+      "precision": "fate unknown; later evidence in 1674/1933"
+    },
+    "era": "Late Medieval / Early Modern investigation history",
+    "resolution": "FATE_AND_REMAINS_IDENTITY_UNRESOLVED",
+    "searchAliases": [
+      "Princes in the Tower",
+      "Edward V",
+      "Richard of Shrewsbury"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2127,
+    "enBodyWords": 585,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH06",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH06_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

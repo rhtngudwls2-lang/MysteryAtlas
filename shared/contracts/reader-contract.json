@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "U2-1.0",
+  "readingOrder": [
+    "metadata",
+    "editorialHeadline",
+    "hook",
+    "hero",
+    "scene",
+    "background",
+    "chronology",
+    "inlineVisual",
+    "evidence",
+    "turningPoint",
+    "hypothesesAndCounterarguments",
+    "factBoundary",
+    "aftermath",
+    "sources",
+    "rabbitHole"
+  ],
+  "blockIdentity": "blockId stable across ko/en; keep same article and nearest block when locale changes",
+  "factBoundary": "Late in article, separates established from notEstablished; do not claim original graphics are documentary evidence",
+  "evidenceLayers": [
+    "narrative",
+    "evidenceSummary",
+    "claimDetail",
+    "sourceDetail"
+  ],
+  "readerSettings": {
+    "textSizePx": [
+      16,
+      17,
+      18
+    ],
+    "lineSpacing": [
+      "compact",
+      "normal",
+      "relaxed"
+    ],
+    "themes": [
+      "dark",
+      "dim",
+      "warm"
+    ],
+    "persistence": "device local; shared semantics, platform storage differs"
+  },
+  "progress": {
+    "key": "canonicalId + blockId + locale",
+    "web": "localStorage",
+    "android": "existing persistence adapter; do not replace VC16 audio"
+  },
+  "media": "localize PNG by same assetId and role; captions/alt/sourceRefs from canonical article"
+}

@@ -1,0 +1,427 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "moon-landing-hoax",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "달 착륙 조작설",
+    "canonicalTitleEn": "Moon Landing Hoax",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "별도 없고 깃발도 흔들렸다—그 사진들은 정말 스튜디오였나",
+      "hook": "조작설은 실제 사진의 낯선 부분에서 출발한다. 그래서 반박도 ‘믿어라’가 아니라 노출·진공·후대 궤도관측처럼 각각 검증 가능한 물리와 독립증거로 나눠야 한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘별이 안 보인다’는 한 장의 사진에서 시작되는 의심",
+          "headingEn": "A Hoax Claim Can Begin With One Strange-Looking Photograph",
+          "textKo": "달 착륙 조작설은 거대한 비밀문서보다 사진 속 직관적 이상함에서 힘을 얻는다. 별이 없는 검은 하늘, 바람이 없는데 주름져 보이는 성조기, 서로 다른 방향처럼 보이는 그림자가 대표적이다. 이런 이미지는 지구의 사진감각으로 보면 낯설다. **하지만 ‘이상해 보인다’는 것은 검증의 출발점이지, 스튜디오 촬영의 결론이 아니다.**",
+          "textEn": "Moon-landing hoax claims often gain strength not from secret documents but from details that look counterintuitive in photographs: a black sky without stars, a flag that appears windblown despite the vacuum, or shadows that seem to point in different directions. These images can look strange through Earth-based intuition. Looking strange is a starting point for testing, not proof of a studio set."
+        },
+        {
+          "blockId": "stars-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "왜 하늘에 별이 안 찍혔나",
+          "headingEn": "Why Aren’t Stars Visible in Apollo Surface Photos?",
+          "textKo": "NASA의 사진설명은 Apollo 사진에서 별이 잘 보이지 않는 이유를 노출시간과 밝기차로 설명한다. 햇빛을 받은 달표면과 우주복은 매우 밝아서 카메라는 짧은 노출을 사용해야 했다. 어두운 배경별은 같은 설정에서 기록되기 어렵다. NASA는 지구·행성 탐사사진에서도 밝은 피사체에 맞춘 짧은 노출에서는 별이 사라지는 같은 효과를 설명한다. **‘별이 없다’가 아니라 ‘그 노출설정에서 별이 기록되지 않았다’가 정확한 표현**이다.",
+          "textEn": "NASA explains the absence of stars in many Apollo surface photos through exposure and brightness contrast. Sunlit lunar soil and white spacesuits were bright, requiring relatively short exposures. Faint background stars would not register under the same settings. NASA describes the same photographic effect in other spacecraft imagery. The accurate statement is not “there were no stars,” but “the exposure used for bright foreground subjects did not record them.”"
+        },
+        {
+          "blockId": "flag-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "성조기는 바람 대신 가로봉으로 펼쳤다",
+          "headingEn": "The Flag Was Held Out by a Horizontal Rod, Not Wind",
+          "textKo": "NASA 역사자료는 달에 대기가 없어 깃발이 자연스럽게 펼쳐질 수 없기 때문에 Lunar Flag Assembly에 수평봉을 넣었다고 설명한다. Apollo 11에서는 봉이 완전히 펴지지 않아 천이 주름진 채 남았고, 그 결과 사진에서 ‘바람에 펄럭이는’ 모양처럼 보였다. 깃발을 설치할 때 우주비행사가 막대를 돌리고 움직이면 천이 진동할 수 있지만 공기흐름이 필요한 것은 아니다. **주름진 형태와 설치 중 움직임은 대기 존재의 증거가 아니다.**",
+          "textEn": "NASA’s history of the Lunar Flag Assembly explains that a horizontal rod was necessary precisely because the Moon lacks an atmosphere that could unfurl a flag. On Apollo 11 the rod did not extend fully, leaving the fabric wrinkled and giving it a windblown appearance. Movement during installation can make the fabric oscillate without any airflow. Wrinkles and motion are not evidence of lunar wind."
+        },
+        {
+          "blockId": "lro-04",
+          "type": "TURNING_POINT",
+          "headingKo": "40년 뒤 다른 우주선이 착륙지를 다시 봤다",
+          "headingEn": "Decades Later, Another Spacecraft Revisited the Landing Sites",
+          "textKo": "2009년 이후 Lunar Reconnaissance Orbiter(LRO)는 Apollo 착륙지를 궤도에서 촬영했다. NASA가 공개한 Apollo 11 영상에는 lunar module 하강단과 우주비행사들이 남긴 이동 흔적이 보인다. 후속 임무에서는 깃발 그림자나 rover 이동 흔적도 확인된다. LRO가 개인 발자국 하나하나를 직접 식별하는 해상도는 아니지만, **아폴로가 남긴 대형 장비와 활동흔적을 수십 년 뒤 독립된 궤도관측으로 확인한다.**",
+          "textEn": "Since 2009, the Lunar Reconnaissance Orbiter has imaged Apollo landing sites from lunar orbit. NASA’s Apollo 11 imagery shows the lunar-module descent stage and surface tracks, while later sites reveal rover paths and, in some cases, flag shadows. LRO does not resolve individual boot prints, but it independently images large hardware and activity traces decades after the missions."
+        },
+        {
+          "blockId": "samples-05",
+          "type": "BACKGROUND",
+          "headingKo": "착륙증거는 사진 한 종류에만 걸려 있지 않다",
+          "headingEn": "The Evidence Does Not Depend on One Kind of Photograph",
+          "textKo": "Apollo 11 우주비행사들은 약 21.5kg의 달 시료를 지구로 가져왔다고 NASA는 기록한다. 다른 Apollo 임무도 시료·장비·실험데이터를 남겼다. 조작설을 검토할 때 중요한 것은 한 사진의 그림자나 깃발만 보는 대신 **궤도관측, 임무통신, 장비, 시료, 지상추적 같은 서로 다른 증거층이 서로 맞는지** 보는 것이다. 하나의 사진해석이 전체 임무기록을 자동으로 뒤집지는 않는다.",
+          "textEn": "NASA records that Apollo 11 returned about 21.5 kilograms of lunar samples, while other Apollo missions returned additional samples, deployed equipment, and generated experimental data. The proper evidentiary question is therefore broader than one shadow or one flag: do independent layers—orbital imagery, mission records, hardware, samples, and tracking—fit together? One photographic puzzle does not automatically override the entire mission record."
+        },
+        {
+          "blockId": "counter-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "LRO 사진 하나도 ‘모든 조작설’을 논리적으로 끝내지는 않는다",
+          "headingEn": "One LRO Image Is Not a Logical Proof Against Every Conceivable Hoax Claim",
+          "textKo": "반대 방향의 과장도 피해야 한다. LRO가 착륙장비를 촬영했다고 해서 그것만으로 모든 가능성의 음모론을 논리적으로 0으로 만드는 것은 아니다. 음모론은 종종 ‘LRO도 조작됐다’고 가정을 확장한다. 이 경우 검증가능성 자체가 사라진다. 과학적 판단은 **서로 독립된 다수 증거가 가장 단순한 설명—실제 착륙—에서 일관되게 맞는지**에 기반해야 한다.",
+          "textEn": "The opposite overstatement should also be avoided. An LRO image by itself cannot logically eliminate every imaginable conspiracy claim; a claim can always be expanded to say the orbiter image was faked too. At that point the hypothesis loses testability. Scientific judgment depends on the convergence of multiple independent evidence streams under the simplest coherent explanation."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Apollo 11은 1969년 7월 20일 달에 착륙했고 달표면 장비와 이동흔적은 후대 LRO 영상에서도 관측된다. Apollo 사진에서 별이 보이지 않는 현상은 밝은 피사체에 맞춘 짧은 노출로 설명되고, 성조기는 진공에서 펼치기 위해 수평봉을 사용했다.\n\n**확인되지 않음:** 사진 속 직관적으로 이상해 보이는 요소만으로 스튜디오 촬영을 입증할 수 없다. 반대로 LRO 사진 한 장만을 ‘모든 가능한 의심을 논리적으로 제거하는 단일 증거’로 과장할 필요도 없다. 전체 판정은 여러 독립증거의 수렴에 기반한다.",
+          "textEn": "**Established:** Apollo 11 landed on the Moon on July 20, 1969, and later LRO imagery shows hardware and surface activity traces at Apollo sites. The lack of visible stars in many Apollo photos follows from exposure settings for bright foreground subjects, and a horizontal rod was used to display the flag in vacuum.\n\n**Not established:** Counterintuitive photographic details do not demonstrate a studio hoax. Conversely, no single LRO image needs to be treated as a philosophical proof against every imaginable conspiracy; the evidence is strongest in its convergence across independent sources."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Apollo 11은 1969년 7월 20일 달에 착륙했고 달표면 장비와 이동흔적은 후대 LRO 영상에서도 관측된다. Apollo 사진에서 별이 보이지 않는 현상은 밝은 피사체에 맞춘 짧은 노출로 설명되고, 성조기는 진공에서 펼치기 위해 수평봉을 사용했다.\n\n**확인되지 않음:** 사진 속 직관적으로 이상해 보이는 요소만으로 스튜디오 촬영을 입증할 수 없다. 반대로 LRO 사진 한 장만을 ‘모든 가능한 의심을 논리적으로 제거하는 단일 증거’로 과장할 필요도 없다. 전체 판정은 여러 독립증거의 수렴에 기반한다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "stars-02",
+        "flag-03",
+        "lro-04",
+        "samples-05",
+        "counter-06"
+      ]
+    },
+    "en": {
+      "headline": "No Stars, a “Waving” Flag—Were the Apollo Photos Really Shot in a Studio?",
+      "hook": "Hoax claims begin with genuinely strange-looking details in real photographs. The useful response is not “just trust NASA,” but to separate exposure, vacuum physics, and later orbital evidence into testable questions.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘별이 안 보인다’는 한 장의 사진에서 시작되는 의심",
+          "headingEn": "A Hoax Claim Can Begin With One Strange-Looking Photograph",
+          "textKo": "달 착륙 조작설은 거대한 비밀문서보다 사진 속 직관적 이상함에서 힘을 얻는다. 별이 없는 검은 하늘, 바람이 없는데 주름져 보이는 성조기, 서로 다른 방향처럼 보이는 그림자가 대표적이다. 이런 이미지는 지구의 사진감각으로 보면 낯설다. **하지만 ‘이상해 보인다’는 것은 검증의 출발점이지, 스튜디오 촬영의 결론이 아니다.**",
+          "textEn": "Moon-landing hoax claims often gain strength not from secret documents but from details that look counterintuitive in photographs: a black sky without stars, a flag that appears windblown despite the vacuum, or shadows that seem to point in different directions. These images can look strange through Earth-based intuition. Looking strange is a starting point for testing, not proof of a studio set."
+        },
+        {
+          "blockId": "stars-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "왜 하늘에 별이 안 찍혔나",
+          "headingEn": "Why Aren’t Stars Visible in Apollo Surface Photos?",
+          "textKo": "NASA의 사진설명은 Apollo 사진에서 별이 잘 보이지 않는 이유를 노출시간과 밝기차로 설명한다. 햇빛을 받은 달표면과 우주복은 매우 밝아서 카메라는 짧은 노출을 사용해야 했다. 어두운 배경별은 같은 설정에서 기록되기 어렵다. NASA는 지구·행성 탐사사진에서도 밝은 피사체에 맞춘 짧은 노출에서는 별이 사라지는 같은 효과를 설명한다. **‘별이 없다’가 아니라 ‘그 노출설정에서 별이 기록되지 않았다’가 정확한 표현**이다.",
+          "textEn": "NASA explains the absence of stars in many Apollo surface photos through exposure and brightness contrast. Sunlit lunar soil and white spacesuits were bright, requiring relatively short exposures. Faint background stars would not register under the same settings. NASA describes the same photographic effect in other spacecraft imagery. The accurate statement is not “there were no stars,” but “the exposure used for bright foreground subjects did not record them.”"
+        },
+        {
+          "blockId": "flag-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "성조기는 바람 대신 가로봉으로 펼쳤다",
+          "headingEn": "The Flag Was Held Out by a Horizontal Rod, Not Wind",
+          "textKo": "NASA 역사자료는 달에 대기가 없어 깃발이 자연스럽게 펼쳐질 수 없기 때문에 Lunar Flag Assembly에 수평봉을 넣었다고 설명한다. Apollo 11에서는 봉이 완전히 펴지지 않아 천이 주름진 채 남았고, 그 결과 사진에서 ‘바람에 펄럭이는’ 모양처럼 보였다. 깃발을 설치할 때 우주비행사가 막대를 돌리고 움직이면 천이 진동할 수 있지만 공기흐름이 필요한 것은 아니다. **주름진 형태와 설치 중 움직임은 대기 존재의 증거가 아니다.**",
+          "textEn": "NASA’s history of the Lunar Flag Assembly explains that a horizontal rod was necessary precisely because the Moon lacks an atmosphere that could unfurl a flag. On Apollo 11 the rod did not extend fully, leaving the fabric wrinkled and giving it a windblown appearance. Movement during installation can make the fabric oscillate without any airflow. Wrinkles and motion are not evidence of lunar wind."
+        },
+        {
+          "blockId": "lro-04",
+          "type": "TURNING_POINT",
+          "headingKo": "40년 뒤 다른 우주선이 착륙지를 다시 봤다",
+          "headingEn": "Decades Later, Another Spacecraft Revisited the Landing Sites",
+          "textKo": "2009년 이후 Lunar Reconnaissance Orbiter(LRO)는 Apollo 착륙지를 궤도에서 촬영했다. NASA가 공개한 Apollo 11 영상에는 lunar module 하강단과 우주비행사들이 남긴 이동 흔적이 보인다. 후속 임무에서는 깃발 그림자나 rover 이동 흔적도 확인된다. LRO가 개인 발자국 하나하나를 직접 식별하는 해상도는 아니지만, **아폴로가 남긴 대형 장비와 활동흔적을 수십 년 뒤 독립된 궤도관측으로 확인한다.**",
+          "textEn": "Since 2009, the Lunar Reconnaissance Orbiter has imaged Apollo landing sites from lunar orbit. NASA’s Apollo 11 imagery shows the lunar-module descent stage and surface tracks, while later sites reveal rover paths and, in some cases, flag shadows. LRO does not resolve individual boot prints, but it independently images large hardware and activity traces decades after the missions."
+        },
+        {
+          "blockId": "samples-05",
+          "type": "BACKGROUND",
+          "headingKo": "착륙증거는 사진 한 종류에만 걸려 있지 않다",
+          "headingEn": "The Evidence Does Not Depend on One Kind of Photograph",
+          "textKo": "Apollo 11 우주비행사들은 약 21.5kg의 달 시료를 지구로 가져왔다고 NASA는 기록한다. 다른 Apollo 임무도 시료·장비·실험데이터를 남겼다. 조작설을 검토할 때 중요한 것은 한 사진의 그림자나 깃발만 보는 대신 **궤도관측, 임무통신, 장비, 시료, 지상추적 같은 서로 다른 증거층이 서로 맞는지** 보는 것이다. 하나의 사진해석이 전체 임무기록을 자동으로 뒤집지는 않는다.",
+          "textEn": "NASA records that Apollo 11 returned about 21.5 kilograms of lunar samples, while other Apollo missions returned additional samples, deployed equipment, and generated experimental data. The proper evidentiary question is therefore broader than one shadow or one flag: do independent layers—orbital imagery, mission records, hardware, samples, and tracking—fit together? One photographic puzzle does not automatically override the entire mission record."
+        },
+        {
+          "blockId": "counter-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "LRO 사진 하나도 ‘모든 조작설’을 논리적으로 끝내지는 않는다",
+          "headingEn": "One LRO Image Is Not a Logical Proof Against Every Conceivable Hoax Claim",
+          "textKo": "반대 방향의 과장도 피해야 한다. LRO가 착륙장비를 촬영했다고 해서 그것만으로 모든 가능성의 음모론을 논리적으로 0으로 만드는 것은 아니다. 음모론은 종종 ‘LRO도 조작됐다’고 가정을 확장한다. 이 경우 검증가능성 자체가 사라진다. 과학적 판단은 **서로 독립된 다수 증거가 가장 단순한 설명—실제 착륙—에서 일관되게 맞는지**에 기반해야 한다.",
+          "textEn": "The opposite overstatement should also be avoided. An LRO image by itself cannot logically eliminate every imaginable conspiracy claim; a claim can always be expanded to say the orbiter image was faked too. At that point the hypothesis loses testability. Scientific judgment depends on the convergence of multiple independent evidence streams under the simplest coherent explanation."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Apollo 11은 1969년 7월 20일 달에 착륙했고 달표면 장비와 이동흔적은 후대 LRO 영상에서도 관측된다. Apollo 사진에서 별이 보이지 않는 현상은 밝은 피사체에 맞춘 짧은 노출로 설명되고, 성조기는 진공에서 펼치기 위해 수평봉을 사용했다.\n\n**확인되지 않음:** 사진 속 직관적으로 이상해 보이는 요소만으로 스튜디오 촬영을 입증할 수 없다. 반대로 LRO 사진 한 장만을 ‘모든 가능한 의심을 논리적으로 제거하는 단일 증거’로 과장할 필요도 없다. 전체 판정은 여러 독립증거의 수렴에 기반한다.",
+          "textEn": "**Established:** Apollo 11 landed on the Moon on July 20, 1969, and later LRO imagery shows hardware and surface activity traces at Apollo sites. The lack of visible stars in many Apollo photos follows from exposure settings for bright foreground subjects, and a horizontal rod was used to display the flag in vacuum.\n\n**Not established:** Counterintuitive photographic details do not demonstrate a studio hoax. Conversely, no single LRO image needs to be treated as a philosophical proof against every imaginable conspiracy; the evidence is strongest in its convergence across independent sources."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Apollo 11 landed on the Moon on July 20, 1969, and later LRO imagery shows hardware and surface activity traces at Apollo sites. The lack of visible stars in many Apollo photos follows from exposure settings for bright foreground subjects, and a horizontal rod was used to display the flag in vacuum.\n\n**Not established:** Counterintuitive photographic details do not demonstrate a studio hoax. Conversely, no single LRO image needs to be treated as a philosophical proof against every imaginable conspiracy; the evidence is strongest in its convergence across independent sources.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "stars-02",
+        "flag-03",
+        "lro-04",
+        "samples-05",
+        "counter-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MOON-C1",
+      "status": "CONFIRMED",
+      "statementKo": "LRO는 Apollo 11 착륙지의 하강단과 활동흔적을 후대에 촬영했다.",
+      "statementEn": "LRO later imaged the Apollo 11 descent stage and surface activity traces.",
+      "sourceRefs": [
+        "NASA_LRO_A11"
+      ]
+    },
+    {
+      "claimId": "MOON-C2",
+      "status": "SUPPORTED",
+      "statementKo": "Apollo 사진에 별이 잘 보이지 않는 것은 밝은 전경에 맞춘 노출로 설명된다.",
+      "statementEn": "The absence of visible stars in many Apollo photos is explained by exposure settings for bright foreground subjects.",
+      "sourceRefs": [
+        "NASA_STARS"
+      ]
+    },
+    {
+      "claimId": "MOON-C3",
+      "status": "CONFIRMED",
+      "statementKo": "달의 진공에서 깃발을 펼치기 위해 수평 지지봉이 사용됐다.",
+      "statementEn": "A horizontal support rod was used to display the flag in lunar vacuum.",
+      "sourceRefs": [
+        "NASA_FLAG",
+        "NASA_FLAGS"
+      ]
+    },
+    {
+      "claimId": "MOON-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "별·깃발·그림자의 직관적 이상함만으로 스튜디오 촬영을 입증할 수 없다.",
+      "statementEn": "Counterintuitive details involving stars, flags, or shadows do not by themselves establish studio filming.",
+      "sourceRefs": [
+        "NASA_STARS",
+        "NASA_FLAG",
+        "NASA_LRO_A11"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_LRO_A11",
+      "title": "Apollo 11 Landing Site From Dawn to Dusk",
+      "publisher": "NASA Science / LRO",
+      "url": "https://science.nasa.gov/resource/apollo-11-landing-site-from-dawn-to-dusk/",
+      "sourceType": "NASA_ORBITAL_IMAGERY"
+    },
+    {
+      "sourceId": "NASA_STARS",
+      "title": "Where are the stars?",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/earth-matters/2011/09/28/where-are-the-stars/",
+      "sourceType": "NASA_PHOTOGRAPHY_EXPLANATION"
+    },
+    {
+      "sourceId": "NASA_FLAG",
+      "title": "50 Years Ago: One Small Step, One Giant Leap",
+      "publisher": "NASA History",
+      "url": "https://www.nasa.gov/history/50-years-ago-one-small-step-one-giant-leap/",
+      "sourceType": "NASA_MISSION_HISTORY"
+    },
+    {
+      "sourceId": "NASA_FLAGS",
+      "title": "Six Flags on the Moon: What is Their Current Condition?",
+      "publisher": "NASA History / Apollo Lunar Surface Journal",
+      "url": "https://www.nasa.gov/wp-content/uploads/static/history/alsj/ApolloFlags-Condition.html",
+      "sourceType": "NASA_LRO_FLAG_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "moon-landing-hoax-exposure",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Apollo 사진에서 밝은 전경노출 때문에 별이 기록되지 않는 과정을 설명한 도표.",
+      "captionEn": "Diagram showing why exposure for bright Apollo foreground subjects did not record faint stars.",
+      "altKo": "밝은 전경, 짧은 노출, 희미한 별, 결과 네 단계.",
+      "altEn": "Four stages of photographic exposure.",
+      "sourceRefs": [
+        "NASA_STARS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "moon-landing-hoax__exposure__ko.png",
+          "sha256": "d032798efed877e40c1c5b5fb9c42a8603a272017fb7b4dab1ade8c4f13d2d99",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "moon-landing-hoax__exposure__en.png",
+          "sha256": "0c321f5ad51098b4259fe7275acc09ba5e312d692ed1418ad5a9d2f81ab7b287",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "moon-landing-hoax-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "달 착륙 조작설의 대표 사진주장과 LRO 등 독립증거를 함께 배치한 hero 도표.",
+      "captionEn": "Hero explainer pairing common moon-hoax photo claims with physical explanations and later LRO evidence.",
+      "altKo": "별, 깃발, LRO, 종합판정 네 단계.",
+      "altEn": "Four stages: stars, flag, LRO, overall assessment.",
+      "sourceRefs": [
+        "NASA_STARS",
+        "NASA_FLAG",
+        "NASA_LRO_A11"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "moon-landing-hoax__hero-context__ko.png",
+          "sha256": "601d02908d2c382ea0a331bfb2fad5732a1eb02c39c6a9ff574e7b76ae873b0d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "moon-landing-hoax__hero-context__en.png",
+          "sha256": "f072ea4649c114fd790253838d44c4ef5f84db3e504c4a701052cdfa135286b5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "moon-landing-hoax-photo-vs-record",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "조작설의 사진 의문과 후대 독립 관측·임무증거를 구분한 카드.",
+      "captionEn": "Evidence card separating photographic puzzles from later orbital and mission evidence.",
+      "altKo": "왼쪽 사진 설명, 오른쪽 독립증거.",
+      "altEn": "Two-column comparison of photo explanations and independent evidence.",
+      "sourceRefs": [
+        "NASA_LRO_A11",
+        "NASA_STARS",
+        "NASA_FLAG",
+        "NASA_FLAGS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "moon-landing-hoax__photo-vs-record__ko.png",
+          "sha256": "f29fe9b9e000815a9b62f9d5f0b0f8a7d44edb926e5ff0e2952ae35e71213ca1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "moon-landing-hoax__photo-vs-record__en.png",
+          "sha256": "b45effd52612f470a0b80cb780cf0c1105ee953453026b3befa28e07661ed2c4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "secondaryGenres": [
+      "Space / Astronomy",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Moon / Mare Tranquillitatis"
+    ],
+    "places": [
+      {
+        "name": "Apollo 11 landing site",
+        "role": "primary site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Neil Armstrong",
+        "role": "Apollo 11 commander"
+      },
+      {
+        "name": "Buzz Aldrin",
+        "role": "Apollo 11 lunar module pilot"
+      }
+    ],
+    "organizations": [
+      "NASA",
+      "Lunar Reconnaissance Orbiter"
+    ],
+    "dateRange": {
+      "start": "1969-07-20",
+      "end": "present",
+      "precision": "landing through later orbital verification"
+    },
+    "era": "Space Age",
+    "resolution": "LANDING_STRONGLY_ESTABLISHED_PHOTO_HOAX_CLAIMS_NOT_SUPPORTED",
+    "searchAliases": [
+      "Moon landing hoax",
+      "Apollo 11 hoax",
+      "LRO Apollo 11"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1641,
+    "enBodyWords": 464,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -15,4 +15,17 @@ for (const file of await htmlFiles(join(process.cwd(), "out", "ko"))) {
   await writeFile(file, html.replace('<html lang="en">', '<html lang="ko">'));
 }
 
+// Static-export CSS is served below the repository path on GitHub Pages.
+// Next.js handles JS/navigation basePath; plain CSS url() needs a prefix too.
+const basePath = process.env.NEXT_PUBLIC_MYSTERY_ATLAS_BASE_PATH;
+if (basePath) {
+  const cssDir = join(process.cwd(), "out", "_next", "static", "chunks");
+  for (const file of await readdir(cssDir)) {
+    if (!file.endsWith(".css")) continue;
+    const target = join(cssDir, file);
+    const css = await readFile(target, "utf8");
+    await writeFile(target, css.replaceAll('url("/fonts/', `url("${basePath}/fonts/`).replaceAll('url(/fonts/', `url(${basePath}/fonts/`));
+  }
+}
+
 console.log("Applied Korean document language to static /ko output.");

@@ -1,0 +1,496 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "hubble-tension",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "허블 텐션",
+    "canonicalTitleEn": "Hubble Tension",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "우주는 한 속도로 팽창해야 하는데 왜 두 숫자가 나올까",
+      "hook": "가까운 우주를 재면 높은 값, 초기우주의 흔적에서 거꾸로 계산하면 낮은 값이 나온다. Webb는 단순한 Hubble 측정오류설을 약화시켰지만, 새 물리학도 아직 답으로 확정되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우주의 팽창속도는 한 숫자여야 하는데 두 숫자가 나온다",
+          "headingEn": "The Universe Should Have One Expansion Rate—So Why Do We Get Two?",
+          "textKo": "우주의 현재 팽창률은 Hubble constant H₀로 표현한다. 그런데 가까운 우주에서 Cepheid 변광성·Ia형 초신성을 이용해 거리사다리로 재면 대체로 70~76 km/s/Mpc 부근이 나오고, 초기우주의 CMB를 표준 ΛCDM 모형으로 진화시켜 추론하면 약 67~68이 나온다. NASA는 이 불일치를 ‘Hubble tension’이라고 부른다. **같은 우주가 서로 다른 방법에 따라 다른 현재 팽창률을 말하는 것처럼 보이는 문제다.**",
+          "textEn": "The present expansion rate of the universe is expressed as the Hubble constant, H₀. Measurements using Cepheid variables and Type Ia supernovae in the nearby universe commonly fall around 70–76 km/s/Mpc, while values inferred from the cosmic microwave background under standard ΛCDM cosmology are around 67–68. NASA calls the discrepancy the Hubble tension. The same universe appears to report different present-day expansion rates through different methods."
+        },
+        {
+          "blockId": "ladder-02",
+          "type": "BACKGROUND",
+          "headingKo": "거리사다리는 가까운 천체에서 먼 초신성까지 연결한다",
+          "headingEn": "The Distance Ladder Builds From Nearby Calibrators to Distant Supernovae",
+          "textKo": "Hubble·Webb 관측의 지역측정은 단순히 은하가 멀어지는 속도만 재지 않는다. 먼저 기하학적으로 거리측정 가능한 천체와 Cepheid 밝기를 보정하고, 그 Cepheid가 있는 은하의 Ia형 초신성을 다시 보정해 더 먼 은하까지 사다리를 확장한다. 마지막으로 거리와 적색편이를 비교해 현재 팽창률을 구한다. **각 단계의 작은 보정오류가 연쇄적으로 전달될 수 있기 때문에 관측자들은 서로 다른 망원경과 표준촛불로 단계마다 반복검증한다.**",
+          "textEn": "The local Hubble/Webb measurement is more than simply measuring recession speed. Geometric distances calibrate Cepheid luminosities; Cepheids calibrate Type Ia supernovae in the same galaxies; those supernovae extend the ladder to greater distances; distance and redshift then give the present expansion rate. Small calibration errors can propagate through the ladder, which is why each rung is repeatedly checked with different instruments and standard candles."
+        },
+        {
+          "blockId": "cmb-03",
+          "type": "BACKGROUND",
+          "headingKo": "CMB 값은 현재속도를 직접 ‘찍는’ 측정이 아니다",
+          "headingEn": "The CMB Value Is an Inference From the Early Universe",
+          "textKo": "Planck 같은 CMB 관측에서 나오는 약 67~68 값은 오늘의 은하를 직접 재서 얻은 값이 아니다. 초기우주의 온도·밀도 요동을 측정한 뒤 표준 우주론 모형을 적용해 현재 H₀를 추론한다. 따라서 tension은 단순히 두 망원경의 눈금차이가 아니라 **초기우주 데이터+우주론 모형의 예측과 후기우주의 직접 거리사다리 측정 사이의 불일치**라는 점이 중요하다.",
+          "textEn": "The ~67–68 value from CMB observations such as Planck is not a direct measurement of nearby galaxies today. It comes from measuring early-universe fluctuations and evolving them forward under the standard cosmological model. The tension is therefore not simply a disagreement between two telescope rulers; it is a mismatch between early-universe data plus a cosmological model and late-universe distance measurements."
+        },
+        {
+          "blockId": "webb-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Webb가 Hubble의 Cepheid 오차설을 시험했다",
+          "headingEn": "Webb Tested Whether Hubble’s Cepheids Were the Problem",
+          "textKo": "Hubble tension의 가장 단순한 해결책은 Hubble Space Telescope의 Cepheid 측정에 crowding·분해능 오차가 숨어 있었다는 것이다. 2024년 NASA는 Webb의 더 높은 적외선 분해능으로 같은 은하의 Cepheid를 다시 관측한 결과 Hubble 거리사다리와 일치했고, 기존 Hubble 측정의 큰 systematic error가 tension 전체를 설명한다는 가능성을 약화시켰다고 정리했다. **‘측정실수였나’라는 쉬운 탈출구 하나가 좁아진 셈이다.**",
+          "textEn": "One of the simplest resolutions would be a hidden systematic error in Hubble Space Telescope Cepheid measurements, perhaps due to crowding. NASA reported in 2024 that Webb’s higher-resolution infrared observations of the same Cepheids agreed with the Hubble distance ladder, weakening the idea that a large Hubble measurement error could explain the full tension. One easy escape route became less comfortable."
+        },
+        {
+          "blockId": "lensed-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "중력렌즈 초신성이라는 독립 방법도 지역값 쪽으로 기울었다",
+          "headingEn": "A Lensed Supernova Offered a Different Route to H₀",
+          "textKo": "2024년 Webb 연구팀은 중력렌즈에 의해 여러 이미지로 보이는 Ia형 초신성을 이용해 H₀를 75.4 km/s/Mpc(+8.1/-5.5)로 추정했다. 서로 다른 빛경로의 시간지연과 렌즈질량모형, 표준촛불 밝기를 결합한 방식이다. 값은 지역 거리사다리와 양립하고 CMB 추론보다 높은 쪽에 있다. 다만 NASA 페이지 자체가 이 결과를 **진행 중 연구이며 당시 peer review 전**이라고 명시하므로, ‘새 방법이 tension을 확정했다’고 과장하지 않는다.",
+          "textEn": "In 2024 a Webb team used a multiply imaged, gravitationally lensed Type Ia supernova to estimate H₀ at 75.4 km/s/Mpc, with large asymmetric uncertainties. The method combines time delays among different light paths, lens-mass models, and standard-candle information. The result is compatible with local measurements and sits above the CMB-inferred value. NASA explicitly labelled the analysis as science in progress that had not yet been peer reviewed, so it should not be treated as a final independent verdict."
+        },
+        {
+          "blockId": "newphysics-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "새 물리학이라면 어디가 바뀌어야 하나",
+          "headingEn": "If It Is New Physics, Something in the Cosmic Model Must Change",
+          "textKo": "측정 systematic이 계속 줄어드는데 tension이 남는다면 표준 ΛCDM 모형의 어떤 가정이 불완전할 가능성이 생긴다. NASA는 초기 암흑에너지, 새로운 입자, 중력이론 변화 같은 후보를 예로 든다. 그러나 이들은 **tension을 설명하기 위해 제안된 경쟁가설**이지 관측으로 확인된 새 물리학이 아니다. 어떤 해법이든 CMB뿐 아니라 대규모구조·초신성·BAO 등 다른 우주론자료까지 동시에 맞춰야 한다.",
+          "textEn": "If measurement systematics continue to shrink while the tension persists, some assumption in standard ΛCDM cosmology may be incomplete. NASA lists possibilities such as early dark energy, exotic particles, or modified gravity. These are competing hypotheses motivated by the discrepancy, not confirmed new physics. Any successful model must also remain consistent with the wider web of cosmological data."
+        },
+        {
+          "blockId": "uncertainty-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘두 숫자가 다르다’고 즉시 우주론이 무너진 것은 아니다",
+          "headingEn": "Two Different Values Do Not Yet Mean Cosmology Has Collapsed",
+          "textKo": "Hubble tension은 통계오차·보정 systematic·모형가정이 모두 얽힌 문제다. 각 연구팀의 오차범위와 사용한 표본, calibration, 렌즈모형이 다르다. 특히 독립방법 하나의 값이 넓은 오차막대를 가지면 양쪽과 동시에 양립할 수도 있다. **tension이 실재하는지, 얼마나 큰지, 어떤 데이터조합에서 강해지는지**를 분리해야 한다. ‘새 물리학 발견’이라는 제목은 아직 결론보다 앞선다.",
+          "textEn": "The Hubble tension combines statistical uncertainty, calibration systematics, and model assumptions. Samples, calibrators, and lens models differ between analyses, and an independent measurement with wide error bars may overlap both sides. The right questions are whether the tension persists, how large it is, and under which data combinations it becomes significant. “New physics discovered” still goes beyond the evidence."
+        },
+        {
+          "blockId": "systematics-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Webb의 역할은 ‘새 값 하나’보다 같은 별을 더 선명하게 다시 보는 데 있었다",
+          "headingEn": "Webb’s Key Role Was Rechecking the Same Distance-Ladder Stars",
+          "textKo": "Hubble tension 논쟁에서 Webb가 중요한 이유는 H₀ 값을 하나 더 추가했기 때문만이 아니다. Hubble이 관측했던 Cepheid가 다른 별빛과 섞여 실제보다 밝게 측정됐을 수 있다는 crowding 문제를 더 높은 적외선 분해능으로 직접 시험할 수 있었다. 2024년 NASA가 소개한 공동분석에서 Webb와 Hubble의 Cepheid 거리는 잘 일치했다. **같은 거리사다리를 다른 망원경으로 다시 재는 교차검증이 ‘기기 하나의 문제’ 가설을 좁혔다.**",
+          "textEn": "Webb matters to the Hubble-tension debate not merely because it adds another H₀ number. Its higher infrared resolution can directly test whether Hubble Cepheids were biased by crowding from neighbouring stars. NASA’s 2024 summary reports close agreement between Webb and Hubble Cepheid distances. Re-measuring the same ladder with a different instrument narrows explanations based on one telescope’s photometric bias."
+        },
+        {
+          "blockId": "modeldep-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "CMB 쪽 숫자도 ‘모형과 무관한 직접측정’은 아니다",
+          "headingEn": "The CMB Number Is Also Model-Dependent",
+          "textKo": "초기우주에서 얻는 H₀는 CMB 지도에서 현재 팽창률을 직접 읽는 값이 아니다. 물질밀도·암흑에너지·중성미자 등 표준 ΛCDM의 매개변수를 적용해 초기조건을 현재로 진화시켜 얻는다. 그래서 tension의 원인이 새 물리학이라면 **CMB 관측이 틀렸다기보다 ‘초기우주에서 지금까지 연결하는 모형의 어떤 가정이 빠졌을 가능성’**이 핵심이다. 반대로 그 모형을 바꾸면 다른 우주론 관측을 동시에 만족해야 한다.",
+          "textEn": "The CMB-derived H₀ is not a direct reading of today’s expansion rate from a sky map. It is inferred by fitting early-universe data within ΛCDM and evolving those conditions forward. If new physics resolves the tension, the issue may be not that the CMB observation is wrong but that some assumption linking the early and late universe is incomplete. Any modified model must still fit the rest of cosmological evidence."
+        },
+        {
+          "blockId": "independent-065",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "독립 방법의 가치는 ‘누가 맞나’보다 공유 systematic을 줄이는 데 있다",
+          "headingEn": "Independent Methods Matter Because They Do Not Share All the Same Systematics",
+          "textKo": "중력렌즈 초신성, 표준사이렌, maser, 적색거성가지(TRGB)처럼 H₀를 재는 방법이 다양해지는 이유는 각 방법의 오류구조가 다르기 때문이다. 하나의 방법이 높은 값 또는 낮은 값과 일치하는 것보다 더 중요한 것은 **거리사다리와 같은 보정단계를 공유하지 않는 방법에서도 불일치 패턴이 반복되는지**다. 2024년 Webb 렌즈초신성 결과는 흥미롭지만 오차범위가 넓고 당시 peer review 전이므로 이 역할을 아직 최종적으로 수행한 것은 아니다.",
+          "textEn": "Methods such as lensed supernovae, standard sirens, masers, and the tip of the red-giant branch are valuable because they do not share all the same systematic errors. More important than one method landing high or low is whether the discrepancy persists in methods that avoid the same calibration chain. The 2024 Webb lensed-supernova result is interesting but had broad uncertainties and was still pre-peer-review, so it was not a final independent adjudication."
+        },
+        {
+          "blockId": "future-075",
+          "type": "AFTERMATH",
+          "headingKo": "해결은 한 숫자의 승리가 아니라 여러 방법의 합의로 와야 한다",
+          "headingEn": "Resolution Will Require Convergence, Not One Winning Number",
+          "textKo": "Hubble tension이 해결되는 방식은 ‘67이 맞았다’ 또는 ‘73이 맞았다’처럼 한 숫자가 승리하는 것보다 복잡할 가능성이 높다. calibration이 수정돼 값이 가까워질 수도 있고, 우주론모형이 바뀌어 CMB 추론이 달라질 수도 있으며, 두 효과가 함께 작용할 수도 있다. **진짜 해결은 서로 다른 관측법이 같은 물리모형 안에서 오차범위까지 일관되게 맞는 상태**여야 한다.",
+          "textEn": "The tension may not end with one side simply “winning” at 67 or 73. Calibration changes could move local measurements, cosmological modelling could shift early-universe inference, or both could contribute. A genuine resolution requires multiple independent methods to become mutually consistent within a physical model and their uncertainties."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 후기우주 Cepheid·Ia초신성 거리사다리는 대체로 70~76 km/s/Mpc, CMB+표준우주론 추론은 약 67~68을 준다. Webb의 Cepheid 검증은 Hubble의 큰 photometric systematic 하나로 차이를 설명하는 시나리오를 약화시켰다. 2024년 중력렌즈 Ia초신성의 독립분석도 높은 지역값과 양립했지만 당시 peer review 전 연구였다.\n\n**확인되지 않음:** tension의 원인이 특정 새 입자·초기 암흑에너지·수정중력이라는 것은 입증되지 않는다. 반대로 모든 systematic error가 완전히 제거됐다고 말할 수도 없다. 현재 상태는 실제로 남아 있는 우주론적 불일치를 여러 독립방법으로 계속 시험하는 단계다.",
+          "textEn": "**Established:** Late-universe Cepheid/Type Ia distance-ladder measurements typically give about 70–76 km/s/Mpc, while CMB inference under standard cosmology gives roughly 67–68. Webb Cepheid checks weaken the explanation that one large Hubble photometric systematic causes the entire discrepancy. A 2024 lensed-Type-Ia analysis was also compatible with higher local values, though NASA described it as science in progress pending peer review.\n\n**Not established:** No specific new particle, early-dark-energy model, or modified-gravity theory has been confirmed as the cause. Nor can all residual systematics be declared eliminated. The tension remains an active cosmological test."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 후기우주 Cepheid·Ia초신성 거리사다리는 대체로 70~76 km/s/Mpc, CMB+표준우주론 추론은 약 67~68을 준다. Webb의 Cepheid 검증은 Hubble의 큰 photometric systematic 하나로 차이를 설명하는 시나리오를 약화시켰다. 2024년 중력렌즈 Ia초신성의 독립분석도 높은 지역값과 양립했지만 당시 peer review 전 연구였다.\n\n**확인되지 않음:** tension의 원인이 특정 새 입자·초기 암흑에너지·수정중력이라는 것은 입증되지 않는다. 반대로 모든 systematic error가 완전히 제거됐다고 말할 수도 없다. 현재 상태는 실제로 남아 있는 우주론적 불일치를 여러 독립방법으로 계속 시험하는 단계다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ladder-02",
+        "cmb-03",
+        "webb-04",
+        "lensed-05",
+        "newphysics-06",
+        "uncertainty-07",
+        "systematics-045",
+        "modeldep-055",
+        "independent-065",
+        "future-075"
+      ]
+    },
+    "en": {
+      "headline": "Why Does One Universe Seem to Have Two Expansion Rates?",
+      "hook": "Late-universe measurements give a higher expansion rate, while early-universe inference gives a lower one. Webb has weakened a simple measurement-error explanation, but new physics is not yet established either.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우주의 팽창속도는 한 숫자여야 하는데 두 숫자가 나온다",
+          "headingEn": "The Universe Should Have One Expansion Rate—So Why Do We Get Two?",
+          "textKo": "우주의 현재 팽창률은 Hubble constant H₀로 표현한다. 그런데 가까운 우주에서 Cepheid 변광성·Ia형 초신성을 이용해 거리사다리로 재면 대체로 70~76 km/s/Mpc 부근이 나오고, 초기우주의 CMB를 표준 ΛCDM 모형으로 진화시켜 추론하면 약 67~68이 나온다. NASA는 이 불일치를 ‘Hubble tension’이라고 부른다. **같은 우주가 서로 다른 방법에 따라 다른 현재 팽창률을 말하는 것처럼 보이는 문제다.**",
+          "textEn": "The present expansion rate of the universe is expressed as the Hubble constant, H₀. Measurements using Cepheid variables and Type Ia supernovae in the nearby universe commonly fall around 70–76 km/s/Mpc, while values inferred from the cosmic microwave background under standard ΛCDM cosmology are around 67–68. NASA calls the discrepancy the Hubble tension. The same universe appears to report different present-day expansion rates through different methods."
+        },
+        {
+          "blockId": "ladder-02",
+          "type": "BACKGROUND",
+          "headingKo": "거리사다리는 가까운 천체에서 먼 초신성까지 연결한다",
+          "headingEn": "The Distance Ladder Builds From Nearby Calibrators to Distant Supernovae",
+          "textKo": "Hubble·Webb 관측의 지역측정은 단순히 은하가 멀어지는 속도만 재지 않는다. 먼저 기하학적으로 거리측정 가능한 천체와 Cepheid 밝기를 보정하고, 그 Cepheid가 있는 은하의 Ia형 초신성을 다시 보정해 더 먼 은하까지 사다리를 확장한다. 마지막으로 거리와 적색편이를 비교해 현재 팽창률을 구한다. **각 단계의 작은 보정오류가 연쇄적으로 전달될 수 있기 때문에 관측자들은 서로 다른 망원경과 표준촛불로 단계마다 반복검증한다.**",
+          "textEn": "The local Hubble/Webb measurement is more than simply measuring recession speed. Geometric distances calibrate Cepheid luminosities; Cepheids calibrate Type Ia supernovae in the same galaxies; those supernovae extend the ladder to greater distances; distance and redshift then give the present expansion rate. Small calibration errors can propagate through the ladder, which is why each rung is repeatedly checked with different instruments and standard candles."
+        },
+        {
+          "blockId": "cmb-03",
+          "type": "BACKGROUND",
+          "headingKo": "CMB 값은 현재속도를 직접 ‘찍는’ 측정이 아니다",
+          "headingEn": "The CMB Value Is an Inference From the Early Universe",
+          "textKo": "Planck 같은 CMB 관측에서 나오는 약 67~68 값은 오늘의 은하를 직접 재서 얻은 값이 아니다. 초기우주의 온도·밀도 요동을 측정한 뒤 표준 우주론 모형을 적용해 현재 H₀를 추론한다. 따라서 tension은 단순히 두 망원경의 눈금차이가 아니라 **초기우주 데이터+우주론 모형의 예측과 후기우주의 직접 거리사다리 측정 사이의 불일치**라는 점이 중요하다.",
+          "textEn": "The ~67–68 value from CMB observations such as Planck is not a direct measurement of nearby galaxies today. It comes from measuring early-universe fluctuations and evolving them forward under the standard cosmological model. The tension is therefore not simply a disagreement between two telescope rulers; it is a mismatch between early-universe data plus a cosmological model and late-universe distance measurements."
+        },
+        {
+          "blockId": "webb-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Webb가 Hubble의 Cepheid 오차설을 시험했다",
+          "headingEn": "Webb Tested Whether Hubble’s Cepheids Were the Problem",
+          "textKo": "Hubble tension의 가장 단순한 해결책은 Hubble Space Telescope의 Cepheid 측정에 crowding·분해능 오차가 숨어 있었다는 것이다. 2024년 NASA는 Webb의 더 높은 적외선 분해능으로 같은 은하의 Cepheid를 다시 관측한 결과 Hubble 거리사다리와 일치했고, 기존 Hubble 측정의 큰 systematic error가 tension 전체를 설명한다는 가능성을 약화시켰다고 정리했다. **‘측정실수였나’라는 쉬운 탈출구 하나가 좁아진 셈이다.**",
+          "textEn": "One of the simplest resolutions would be a hidden systematic error in Hubble Space Telescope Cepheid measurements, perhaps due to crowding. NASA reported in 2024 that Webb’s higher-resolution infrared observations of the same Cepheids agreed with the Hubble distance ladder, weakening the idea that a large Hubble measurement error could explain the full tension. One easy escape route became less comfortable."
+        },
+        {
+          "blockId": "lensed-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "중력렌즈 초신성이라는 독립 방법도 지역값 쪽으로 기울었다",
+          "headingEn": "A Lensed Supernova Offered a Different Route to H₀",
+          "textKo": "2024년 Webb 연구팀은 중력렌즈에 의해 여러 이미지로 보이는 Ia형 초신성을 이용해 H₀를 75.4 km/s/Mpc(+8.1/-5.5)로 추정했다. 서로 다른 빛경로의 시간지연과 렌즈질량모형, 표준촛불 밝기를 결합한 방식이다. 값은 지역 거리사다리와 양립하고 CMB 추론보다 높은 쪽에 있다. 다만 NASA 페이지 자체가 이 결과를 **진행 중 연구이며 당시 peer review 전**이라고 명시하므로, ‘새 방법이 tension을 확정했다’고 과장하지 않는다.",
+          "textEn": "In 2024 a Webb team used a multiply imaged, gravitationally lensed Type Ia supernova to estimate H₀ at 75.4 km/s/Mpc, with large asymmetric uncertainties. The method combines time delays among different light paths, lens-mass models, and standard-candle information. The result is compatible with local measurements and sits above the CMB-inferred value. NASA explicitly labelled the analysis as science in progress that had not yet been peer reviewed, so it should not be treated as a final independent verdict."
+        },
+        {
+          "blockId": "newphysics-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "새 물리학이라면 어디가 바뀌어야 하나",
+          "headingEn": "If It Is New Physics, Something in the Cosmic Model Must Change",
+          "textKo": "측정 systematic이 계속 줄어드는데 tension이 남는다면 표준 ΛCDM 모형의 어떤 가정이 불완전할 가능성이 생긴다. NASA는 초기 암흑에너지, 새로운 입자, 중력이론 변화 같은 후보를 예로 든다. 그러나 이들은 **tension을 설명하기 위해 제안된 경쟁가설**이지 관측으로 확인된 새 물리학이 아니다. 어떤 해법이든 CMB뿐 아니라 대규모구조·초신성·BAO 등 다른 우주론자료까지 동시에 맞춰야 한다.",
+          "textEn": "If measurement systematics continue to shrink while the tension persists, some assumption in standard ΛCDM cosmology may be incomplete. NASA lists possibilities such as early dark energy, exotic particles, or modified gravity. These are competing hypotheses motivated by the discrepancy, not confirmed new physics. Any successful model must also remain consistent with the wider web of cosmological data."
+        },
+        {
+          "blockId": "uncertainty-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘두 숫자가 다르다’고 즉시 우주론이 무너진 것은 아니다",
+          "headingEn": "Two Different Values Do Not Yet Mean Cosmology Has Collapsed",
+          "textKo": "Hubble tension은 통계오차·보정 systematic·모형가정이 모두 얽힌 문제다. 각 연구팀의 오차범위와 사용한 표본, calibration, 렌즈모형이 다르다. 특히 독립방법 하나의 값이 넓은 오차막대를 가지면 양쪽과 동시에 양립할 수도 있다. **tension이 실재하는지, 얼마나 큰지, 어떤 데이터조합에서 강해지는지**를 분리해야 한다. ‘새 물리학 발견’이라는 제목은 아직 결론보다 앞선다.",
+          "textEn": "The Hubble tension combines statistical uncertainty, calibration systematics, and model assumptions. Samples, calibrators, and lens models differ between analyses, and an independent measurement with wide error bars may overlap both sides. The right questions are whether the tension persists, how large it is, and under which data combinations it becomes significant. “New physics discovered” still goes beyond the evidence."
+        },
+        {
+          "blockId": "systematics-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Webb의 역할은 ‘새 값 하나’보다 같은 별을 더 선명하게 다시 보는 데 있었다",
+          "headingEn": "Webb’s Key Role Was Rechecking the Same Distance-Ladder Stars",
+          "textKo": "Hubble tension 논쟁에서 Webb가 중요한 이유는 H₀ 값을 하나 더 추가했기 때문만이 아니다. Hubble이 관측했던 Cepheid가 다른 별빛과 섞여 실제보다 밝게 측정됐을 수 있다는 crowding 문제를 더 높은 적외선 분해능으로 직접 시험할 수 있었다. 2024년 NASA가 소개한 공동분석에서 Webb와 Hubble의 Cepheid 거리는 잘 일치했다. **같은 거리사다리를 다른 망원경으로 다시 재는 교차검증이 ‘기기 하나의 문제’ 가설을 좁혔다.**",
+          "textEn": "Webb matters to the Hubble-tension debate not merely because it adds another H₀ number. Its higher infrared resolution can directly test whether Hubble Cepheids were biased by crowding from neighbouring stars. NASA’s 2024 summary reports close agreement between Webb and Hubble Cepheid distances. Re-measuring the same ladder with a different instrument narrows explanations based on one telescope’s photometric bias."
+        },
+        {
+          "blockId": "modeldep-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "CMB 쪽 숫자도 ‘모형과 무관한 직접측정’은 아니다",
+          "headingEn": "The CMB Number Is Also Model-Dependent",
+          "textKo": "초기우주에서 얻는 H₀는 CMB 지도에서 현재 팽창률을 직접 읽는 값이 아니다. 물질밀도·암흑에너지·중성미자 등 표준 ΛCDM의 매개변수를 적용해 초기조건을 현재로 진화시켜 얻는다. 그래서 tension의 원인이 새 물리학이라면 **CMB 관측이 틀렸다기보다 ‘초기우주에서 지금까지 연결하는 모형의 어떤 가정이 빠졌을 가능성’**이 핵심이다. 반대로 그 모형을 바꾸면 다른 우주론 관측을 동시에 만족해야 한다.",
+          "textEn": "The CMB-derived H₀ is not a direct reading of today’s expansion rate from a sky map. It is inferred by fitting early-universe data within ΛCDM and evolving those conditions forward. If new physics resolves the tension, the issue may be not that the CMB observation is wrong but that some assumption linking the early and late universe is incomplete. Any modified model must still fit the rest of cosmological evidence."
+        },
+        {
+          "blockId": "independent-065",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "독립 방법의 가치는 ‘누가 맞나’보다 공유 systematic을 줄이는 데 있다",
+          "headingEn": "Independent Methods Matter Because They Do Not Share All the Same Systematics",
+          "textKo": "중력렌즈 초신성, 표준사이렌, maser, 적색거성가지(TRGB)처럼 H₀를 재는 방법이 다양해지는 이유는 각 방법의 오류구조가 다르기 때문이다. 하나의 방법이 높은 값 또는 낮은 값과 일치하는 것보다 더 중요한 것은 **거리사다리와 같은 보정단계를 공유하지 않는 방법에서도 불일치 패턴이 반복되는지**다. 2024년 Webb 렌즈초신성 결과는 흥미롭지만 오차범위가 넓고 당시 peer review 전이므로 이 역할을 아직 최종적으로 수행한 것은 아니다.",
+          "textEn": "Methods such as lensed supernovae, standard sirens, masers, and the tip of the red-giant branch are valuable because they do not share all the same systematic errors. More important than one method landing high or low is whether the discrepancy persists in methods that avoid the same calibration chain. The 2024 Webb lensed-supernova result is interesting but had broad uncertainties and was still pre-peer-review, so it was not a final independent adjudication."
+        },
+        {
+          "blockId": "future-075",
+          "type": "AFTERMATH",
+          "headingKo": "해결은 한 숫자의 승리가 아니라 여러 방법의 합의로 와야 한다",
+          "headingEn": "Resolution Will Require Convergence, Not One Winning Number",
+          "textKo": "Hubble tension이 해결되는 방식은 ‘67이 맞았다’ 또는 ‘73이 맞았다’처럼 한 숫자가 승리하는 것보다 복잡할 가능성이 높다. calibration이 수정돼 값이 가까워질 수도 있고, 우주론모형이 바뀌어 CMB 추론이 달라질 수도 있으며, 두 효과가 함께 작용할 수도 있다. **진짜 해결은 서로 다른 관측법이 같은 물리모형 안에서 오차범위까지 일관되게 맞는 상태**여야 한다.",
+          "textEn": "The tension may not end with one side simply “winning” at 67 or 73. Calibration changes could move local measurements, cosmological modelling could shift early-universe inference, or both could contribute. A genuine resolution requires multiple independent methods to become mutually consistent within a physical model and their uncertainties."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 후기우주 Cepheid·Ia초신성 거리사다리는 대체로 70~76 km/s/Mpc, CMB+표준우주론 추론은 약 67~68을 준다. Webb의 Cepheid 검증은 Hubble의 큰 photometric systematic 하나로 차이를 설명하는 시나리오를 약화시켰다. 2024년 중력렌즈 Ia초신성의 독립분석도 높은 지역값과 양립했지만 당시 peer review 전 연구였다.\n\n**확인되지 않음:** tension의 원인이 특정 새 입자·초기 암흑에너지·수정중력이라는 것은 입증되지 않는다. 반대로 모든 systematic error가 완전히 제거됐다고 말할 수도 없다. 현재 상태는 실제로 남아 있는 우주론적 불일치를 여러 독립방법으로 계속 시험하는 단계다.",
+          "textEn": "**Established:** Late-universe Cepheid/Type Ia distance-ladder measurements typically give about 70–76 km/s/Mpc, while CMB inference under standard cosmology gives roughly 67–68. Webb Cepheid checks weaken the explanation that one large Hubble photometric systematic causes the entire discrepancy. A 2024 lensed-Type-Ia analysis was also compatible with higher local values, though NASA described it as science in progress pending peer review.\n\n**Not established:** No specific new particle, early-dark-energy model, or modified-gravity theory has been confirmed as the cause. Nor can all residual systematics be declared eliminated. The tension remains an active cosmological test."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Late-universe Cepheid/Type Ia distance-ladder measurements typically give about 70–76 km/s/Mpc, while CMB inference under standard cosmology gives roughly 67–68. Webb Cepheid checks weaken the explanation that one large Hubble photometric systematic causes the entire discrepancy. A 2024 lensed-Type-Ia analysis was also compatible with higher local values, though NASA described it as science in progress pending peer review.\n\n**Not established:** No specific new particle, early-dark-energy model, or modified-gravity theory has been confirmed as the cause. Nor can all residual systematics be declared eliminated. The tension remains an active cosmological test.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ladder-02",
+        "cmb-03",
+        "webb-04",
+        "lensed-05",
+        "newphysics-06",
+        "uncertainty-07",
+        "systematics-045",
+        "modeldep-055",
+        "independent-065",
+        "future-075"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "H0-C1",
+      "status": "CONFIRMED",
+      "statementKo": "후기우주와 CMB 기반 H₀ 값 사이에 지속적인 불일치가 존재한다.",
+      "statementEn": "A persistent discrepancy exists between late-universe and CMB-based H₀ determinations.",
+      "sourceRefs": [
+        "NASA_H0",
+        "NASA_WEBB2024"
+      ]
+    },
+    {
+      "claimId": "H0-C2",
+      "status": "SUPPORTED",
+      "statementKo": "Webb의 Cepheid 재검증은 Hubble의 큰 단일 systematic error로 tension 전체를 설명하는 가능성을 약화시켰다.",
+      "statementEn": "Webb Cepheid cross-checks weaken the idea that one large Hubble systematic explains the entire tension.",
+      "sourceRefs": [
+        "NASA_WEBB2024"
+      ]
+    },
+    {
+      "claimId": "H0-C3",
+      "status": "PRELIMINARY_SUPPORTED",
+      "statementKo": "2024년 렌즈 Ia초신성 분석은 높은 지역 H₀와 양립했지만 당시 peer review 전이었다.",
+      "statementEn": "A 2024 lensed Type Ia analysis was compatible with high local H₀ values but was presented by NASA as pre-peer-review science in progress.",
+      "sourceRefs": [
+        "NASA_SN2024"
+      ]
+    },
+    {
+      "claimId": "H0-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 새 물리학 모델이 Hubble tension의 원인으로 확인되지는 않았다.",
+      "statementEn": "No specific new-physics model has been confirmed as the cause of the Hubble tension.",
+      "sourceRefs": [
+        "NASA_H0"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_H0",
+      "title": "Hubble Constant and Tension",
+      "publisher": "NASA Science / Hubble",
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/",
+      "sourceType": "NASA_CURRENT_SYNTHESIS"
+    },
+    {
+      "sourceId": "NASA_WEBB2024",
+      "title": "NASA's Webb, Hubble Telescopes Affirm Universe's Expansion Rate, Puzzle Persists",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-hubble-telescopes-affirm-universes-expansion-rate-puzzle-persists/",
+      "sourceType": "NASA_CURRENT_RESEARCH_SUMMARY"
+    },
+    {
+      "sourceId": "NASA_SN2024",
+      "title": "Webb Researchers Discover Lensed Supernova, Confirm Hubble Tension",
+      "publisher": "NASA Science / Webb blog",
+      "url": "https://science.nasa.gov/blogs/webb/2024/10/01/webb-researchers-discover-lensed-supernova-confirm-hubble-tension/",
+      "sourceType": "NASA_RESEARCH_IN_PROGRESS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "hubble-tension-distance-ladder",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "기하거리에서 Cepheid·Ia초신성·적색편이로 이어지는 지역 거리사다리 도표.",
+      "captionEn": "Diagram of the local distance ladder from geometric anchors through Cepheids and Type Ia supernovae to H₀.",
+      "altKo": "기하거리, Cepheid, Ia 초신성, 적색편이 네 단계.",
+      "altEn": "Four stages of the distance ladder.",
+      "sourceRefs": [
+        "NASA_H0",
+        "NASA_WEBB2024"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hubble-tension__distance-ladder__ko.png",
+          "sha256": "a20a4a9f00eb3e95473a9d75385bbed2a9fc48442005a57800070085367c8f2e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hubble-tension__distance-ladder__en.png",
+          "sha256": "263bddb4f944ca42bf4706f3f20521a647bb18a542774c0a03d5f230fdaa66fc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hubble-tension-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "허블 텐션의 거리사다리·지역값·CMB값·미해결 원인을 한눈에 보여주는 hero 도표.",
+      "captionEn": "Hero explainer of the distance ladder, local H₀, CMB-inferred H₀, and unresolved cause of the Hubble tension.",
+      "altKo": "거리사다리, 지역값, CMB값, 원인미정 네 단계.",
+      "altEn": "Four stages: distance ladder, local value, CMB value, unresolved cause.",
+      "sourceRefs": [
+        "NASA_H0",
+        "NASA_WEBB2024"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hubble-tension__hero-context__ko.png",
+          "sha256": "0f937f73cf85de42feaab39f54c796bc0d4b4e063cd232450370f4ed25f47355",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hubble-tension__hero-context__en.png",
+          "sha256": "2bbc1475716d1abd2f93442cbcdfed194a2d32a1a8973d0530a265b433b3bc79",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hubble-tension-systematic-vs-newphysics",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "허블 텐션의 systematic error와 새 물리학 가설을 각각의 근거·한계로 비교한 카드.",
+      "captionEn": "Evidence card comparing systematic-error and new-physics explanations for the Hubble tension.",
+      "altKo": "왼쪽 측정 systematic, 오른쪽 새 물리학 가설.",
+      "altEn": "Two-column comparison of systematics and new physics.",
+      "sourceRefs": [
+        "NASA_H0",
+        "NASA_WEBB2024",
+        "NASA_SN2024"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hubble-tension__systematic-vs-newphysics__ko.png",
+          "sha256": "58bf7d221aaf66d7e54514bc7936ed5b993cb7c0c0338bfaeb14a6dfbeee4473",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hubble-tension__systematic-vs-newphysics__en.png",
+          "sha256": "4630a2d935a34b084a531bf4917d9b174a9138f4404cc3a68908e15da7d4a2b1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "Cosmological"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Adam Riess",
+        "role": "distance-ladder research context"
+      }
+    ],
+    "organizations": [
+      "NASA",
+      "Hubble Space Telescope",
+      "James Webb Space Telescope"
+    ],
+    "dateRange": {
+      "start": "late 1990s",
+      "end": "2026",
+      "precision": "modern precision-cosmology era"
+    },
+    "era": "Contemporary cosmology",
+    "resolution": "MEASUREMENT_DISCREPANCY_PERSISTS_CAUSE_UNRESOLVED",
+    "searchAliases": [
+      "Hubble tension",
+      "Hubble constant discrepancy",
+      "H0 tension"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3061,
+    "enBodyWords": 799,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH09_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "vela-1979-flash",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1979년 벨라 위성의 남대서양 섬광",
+    "canonicalTitleEn": "1979 Vela Satellite Double Flash",
+    "aliasesKo": [
+      "벨라 사건",
+      "남대서양 이중 섬광"
+    ],
+    "aliasesEn": [
+      "Vela Incident",
+      "South Atlantic flash",
+      "Vela double flash"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ARCHIVE_SCAN_REUSE_NOT_CLEARED",
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "핵실험 신호였나, 센서의 오해였나—1979년 남대서양의 이중 섬광",
+      "hook": "핵실험 감시위성이 익숙한 ‘이중 섬광’을 기록했다. 하지만 기밀해제 문서를 열어보면 하나의 확정결론 대신 서로 반대되는 정부 내부 평가가 남아 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1979년 9월 22일, 위성이 잡은 두 번의 빛",
+          "headingEn": "September 22, 1979: Two Flashes Seen From Orbit",
+          "textKo": "1979년 9월 22일, 미국의 벨라(Vela) 위성은 남대서양과 남부 해양권으로 보고된 지역에서 짧은 광학 사건을 기록했다. 핵실험 감시 임무를 위해 운용되던 위성에서 ‘두 번의 섬광’ 패턴이 잡혔다는 사실 때문에 사건은 곧바로 민감해졌다. 이런 이중 섬광은 대기권 핵폭발과 연관될 수 있는 신호로 알려져 있었다. 그러나 센서가 특정 모양을 기록했다는 사실과 실제로 핵폭발이 일어났다는 결론은 같은 것이 아니었다. 바로 그 간극이 이후 수개월 동안 미국 정부 내부의 과학·정보기관 논쟁을 만들었다.",
+          "textEn": "On September 22, 1979, a U.S. Vela satellite recorded a short optical event over a region described in later records as the South Atlantic or southern ocean. The event immediately became sensitive because Vela satellites were part of the U.S. nuclear-test monitoring system and the signal had a characteristic double-flash pattern associated with atmospheric nuclear explosions. But a sensor recording a familiar pattern and a confirmed nuclear detonation are not the same claim. That gap drove months of disagreement among U.S. scientific and intelligence officials."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "벨라는 무엇을 찾도록 만들어졌나",
+          "headingEn": "What Vela Was Designed to Detect",
+          "textKo": "벨라 프로그램은 핵실험 감시를 목적으로 운용된 위성체계였다. 광학 센서는 폭발 순간의 빛 변화를 감지하도록 설계됐고, 핵폭발에서 나타날 수 있는 빠른 첫 섬광과 뒤이은 더 긴 두 번째 밝기 변화를 식별하는 것이 중요한 기능 가운데 하나였다. 그래서 1979년 이벤트가 감지됐을 때 질문은 단순히 ‘빛이 있었나’가 아니었다. **센서가 본 파형이 기존 핵실험과 얼마나 닮았고, 다른 관측수단이 같은 사건을 독립적으로 뒷받침했는가**가 핵심이 됐다.",
+          "textEn": "The Vela system existed to monitor nuclear testing. Its optical sensors were designed to detect the changing light signature of an explosion, including a rapid first pulse followed by a longer second brightening that can characterize an atmospheric nuclear detonation. When the 1979 event appeared, the relevant question was therefore not simply whether a flash occurred. The key issues were **how closely the sensor pattern matched known nuclear explosions and whether independent observing systems corroborated the same event**."
+        },
+        {
+          "blockId": "method-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘이중 섬광’은 결론이 아니라 분류 단서였다",
+          "headingEn": "The Double Flash Was a Diagnostic Clue, Not a Verdict",
+          "textKo": "핵심 센서패턴 자체도 조심해서 읽어야 한다. 이중 섬광은 핵폭발을 탐지하기 위해 벨라가 주목하도록 설계된 특징이었기 때문에 분석가들이 사건을 심각하게 취급할 충분한 이유가 됐다. 그러나 감시체계에서 ‘핵실험과 닮은 패턴을 감지했다’는 것은 조사 개시 조건이지 곧바로 최종 판정은 아니다. 실제 1979년 사건에서 과학자들은 두 센서 출력의 일관성, 다른 지구물리 관측, 예상되는 보조 흔적까지 함께 보려 했다. 이 구분을 놓치면 센서 경보를 곧바로 폭발확인으로 바꾸는 오류가 생긴다.",
+          "textEn": "The sensor signature itself also requires careful interpretation. A double flash was exactly the kind of feature Vela was designed to treat seriously when monitoring for atmospheric nuclear explosions. That made the event a legitimate trigger for investigation, not an automatic final verdict. In the 1979 case, analysts examined the consistency of the optical sensors and looked for independent geophysical evidence and expected supporting signatures. Conflating a detection criterion with a confirmed detonation is one of the easiest ways to overstate the evidence."
+        },
+        {
+          "blockId": "early-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 평가 가운데 일부는 핵실험 쪽으로 강하게 기울었다",
+          "headingEn": "Some Early Assessments Leaned Strongly Toward a Nuclear Test",
+          "textKo": "1980년 1월 25일 국가안보회의 과학기술 스태프 Jerry Oplinger가 Henry Owen에게 보낸 메모는 당시 정보공동체 내부의 중요한 의견차를 보여준다. Oplinger는 CIA의 Safeguards-D 보고서가 해당 이벤트를 핵실험일 확률 ‘90% plus’로 평가했다고 전했다. 이 수치는 CIA 원 평가문 자체가 아니라 Oplinger의 메모를 통해 전달된 것이다. 따라서 Mystery Atlas에서는 이를 **‘CIA가 당시 그렇게 평가했다고 백악관 내부 메모가 기록한다’**고 표현해야 한다. 이 메모만으로 실제 폭발이나 실행국가가 입증되는 것은 아니다.",
+          "textEn": "A January 25, 1980 memorandum from National Security Council science-and-technology staff member Jerry Oplinger to Henry Owen captures one important side of the internal dispute. Oplinger wrote that the CIA’s Safeguards-D report had assessed the probability of a nuclear test at “90% plus.” That figure reaches us through Oplinger’s memorandum rather than through the underlying CIA assessment itself. Mystery Atlas should therefore frame it precisely: **a White House internal memo reported that the CIA had made that assessment**. The memo alone does not prove that a detonation occurred or identify a responsible state."
+        },
+        {
+          "blockId": "science-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "센서 패턴은 닮았지만 ‘평소와 다른’ 부분도 있었다",
+          "headingEn": "The Signal Looked Familiar—but Not Perfectly So",
+          "textKo": "1979년 10월의 또 다른 정부 메모는 CIA 주도로 검토에 참여한 과학자들이 벨라 신호가 대기권 핵폭발 감지와 ‘consistent’하다고 보았음을 기록한다. 동시에 센서 출력이 평소 핵실험 사례만큼 서로 잘 맞아떨어지지는 않았다는 문제도 인정됐다. 즉 핵실험 해석을 지지한 전문가들도 신호가 교과서적인 사례라고 본 것은 아니었다. 추가 방사성 낙진, 음향·전리층 자료, 선박·항공 활동 같은 독립자료를 더 찾아야 한다는 요구가 나온 이유다.",
+          "textEn": "An October 1979 government memorandum recorded another scientific review conducted under CIA auspices. The reviewers considered the Vela signals consistent with detection of an atmospheric nuclear explosion, while also acknowledging that the sensor outputs were less internally consistent than in normal nuclear-test detections. Even scientists leaning toward a nuclear interpretation therefore did not regard the signal as a textbook case. That is why they called for additional evidence from radioactive debris, acoustic or ionospheric observations, and possible air or naval activity in the region."
+        },
+        {
+          "blockId": "panel-05",
+          "type": "TURNING_POINT",
+          "headingKo": "백악관 과학패널은 반대 방향으로 갔다",
+          "headingEn": "The White House Science Panel Reached a Different View",
+          "textKo": "1980년 6월 6일, 백악관 과학고문 Frank Press가 CIA 국장 Stansfield Turner에게 보낸 메모는 Ruina 패널의 결론을 설명한다. Press는 패널이 벨라 섬광을 핵폭발 때문일 가능성이 낮다고 보고, 자연적 사건으로 인한 센서 기록일 가능성을 더 높게 평가했다고 적었다. 중요한 점은 Press가 반대 의견을 숨기지 않았다는 것이다. 국방정보국, CIA의 핵정보 전문가, 에너지부 무기연구소 일부 관계자들이 여전히 핵 이벤트라고 생각하고 있음을 같은 메모 안에서 인정했다.",
+          "textEn": "On June 6, 1980, White House science adviser Frank Press sent CIA Director Stansfield Turner a memorandum explaining the Ruina panel’s conclusion. Press wrote that the panel regarded a nuclear explosion as unlikely and considered a natural event a more probable explanation for the Vela record. Just as important, the memo did not pretend that everyone agreed. It explicitly acknowledged that officials at the Defense Intelligence Agency, the CIA’s nuclear-intelligence community, and Department of Energy weapons laboratories continued to believe that the signal represented a nuclear event."
+        },
+        {
+          "blockId": "why-disagree-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "같은 자료를 보고 왜 결론이 갈렸나",
+          "headingEn": "Why Could Experts Read the Same Event Differently?",
+          "textKo": "핵실험 해석을 지지한 쪽은 무엇보다 벨라 신호의 형태가 기존 핵폭발과 매우 닮았다는 점에 무게를 두었다. 반면 회의적인 패널은 센서 출력의 불일치, 독립적인 보조관측의 애매함, 핵폭발이라면 기대할 수 있는 다른 흔적이 얼마나 명확하게 확인됐는지를 문제 삼았다. Press 메모는 9월 22일과 관련됐을 수 있는 지구물리학적 자료가 검토됐지만 벨라 신호와 명확히 상관된다고 볼 수 없었다는 패널 판단을 전한다. 따라서 논쟁은 ‘한쪽이 데이터를 보고 다른 쪽은 보지 않았다’가 아니라, **같은 종류의 불완전한 증거에 서로 다른 가중치를 준 문제**에 가까웠다.",
+          "textEn": "Officials favouring the nuclear-test interpretation placed heavy weight on the fact that the optical pattern closely resembled known nuclear explosions. The skeptical panel focused instead on inconsistencies between sensor outputs, ambiguity in independent supporting observations, and the absence of corroborating evidence clear enough to settle the event. Press’s memorandum says geophysical data possibly associated with September 22 had been reviewed but could not be clearly correlated with the Vela signal. The disagreement was therefore not simply one side having evidence and the other having none. It was largely a dispute over **how much weight to place on different pieces of incomplete evidence**."
+        },
+        {
+          "blockId": "geophys-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘다른 신호도 있었다’는 주장도 결정타는 아니었다",
+          "headingEn": "Other Possible Signals Did Not Become a Decisive Tie-Breaker",
+          "textKo": "후대 공개된 기록과 National Security Archive의 문서집은 전리층 교란과 해양 음향 신호 같은 보조자료가 검토됐음을 보여준다. 일부 정보·국방 관계자들은 이런 자료가 핵 이벤트 해석을 강화한다고 봤다. 반면 Press가 전달한 패널 쪽 평가는 어느 자료도 벨라 섬광과 명확하게 연결될 수준은 아니라고 보았다. 이것이 사건을 어렵게 만드는 지점이다. 보조관측이 ‘없었다’고 말하기도 어렵고, 반대로 보조관측이 ‘핵실험을 증명했다’고 말하기도 어렵다.",
+          "textEn": "Later-declassified records and the National Security Archive’s document collection show that possible supporting observations—such as ionospheric disturbances and ocean-acoustic signals—were considered. Some intelligence and defense officials believed these strengthened a nuclear interpretation. The panel position conveyed by Press was that none of the geophysical evidence could be clearly correlated with the Vela event. This is one reason the case remains difficult: it is misleading to say there was no supporting evidence at all, but equally misleading to say those observations proved a nuclear test."
+        },
+        {
+          "blockId": "attribution-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘누가 했다’는 질문은 더 약한 증거를 요구한다",
+          "headingEn": "Identifying a Responsible State Requires an Even Higher Bar",
+          "textKo": "벨라 사건은 시간이 지나며 특정 국가를 지목하는 여러 주장과 결합됐다. 그러나 이번 productized article의 공개자료 경계는 거기까지 가지 않는다. 1979~1980년 정부문서가 직접 보여주는 것은 **신호가 감지됐고, 미국 정부 내부에서 핵실험 여부를 놓고 의견이 크게 갈렸다는 사실**이다. 어느 정부가 시험을 실행했다는 주장은 ‘핵폭발이 실제로 있었다’는 단계보다 한 단계 더 많은 증거를 필요로 한다. 공개자료가 그 책임주체를 확정하지 못하는 이상, 후보국가 이름을 결론처럼 제시하지 않는다.",
+          "textEn": "Over time, the Vela event became attached to claims naming particular states. This productized article deliberately stops short of that step. The declassified 1979–1980 records directly establish **that the signal was detected and that U.S. officials disagreed sharply over whether it represented a nuclear test**. Naming a responsible government requires evidence beyond the already disputed question of whether a nuclear detonation occurred at all. Because the public record reviewed here does not establish an actor, candidate states should not be presented as a conclusion."
+        },
+        {
+          "blockId": "archive-09",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기밀해제 문서가 사건을 ‘해결’한 것은 아니다",
+          "headingEn": "Declassification Revealed the Disagreement, Not a Final Answer",
+          "textKo": "이 사건의 독특한 점은 시간이 지나 공개된 문서가 하나의 비밀 정답을 보여주지 않는다는 데 있다. 오히려 Oplinger 메모, Press 메모, 관련 정보기관·과학자 기록은 당시 정부 내부에 상반된 판단이 실제로 존재했다는 사실을 더 선명하게 만든다. 기밀해제는 ‘정부가 무엇을 결론냈나’를 단순화하기보다, **정부 내부에서도 결론이 하나가 아니었다는 사실을 기록으로 남겼다.** 따라서 벨라 사건을 음모론적 ‘숨겨진 확정사실’로 쓰는 것도, 자연현상으로 완전히 해결된 사건으로 쓰는 것도 현재 공개기록과 맞지 않는다.",
+          "textEn": "What makes the Vela case unusual is that declassification did not reveal one hidden, final answer. The Oplinger memorandum, the Press memorandum, and related intelligence and scientific records instead make the internal disagreement more visible. Declassification did not simplify what “the government concluded”; it documented that **different parts of the government reached different judgments**. The event should therefore be treated neither as a secretly settled nuclear test nor as a completely resolved natural anomaly on the basis of the public record."
+        },
+        {
+          "blockId": "boundary-10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1979년 9월 22일 벨라 위성이 핵폭발 감시체계에서 중요하게 취급될 광학 신호를 기록했다. 1979~1980년 미국 정부 내부에는 핵실험 해석을 강하게 지지한 평가와 이를 확정할 수 없다고 본 과학패널 평가가 동시에 존재했다. Oplinger 메모는 CIA Safeguards-D 평가가 핵실험 가능성을 매우 높게 봤다고 전하고, Press 메모는 Ruina 패널이 핵폭발보다는 자연적 사건을 더 가능성 높은 설명으로 판단했다고 기록한다.\n\n**확인되지 않음:** 공개자료만으로 실제 핵폭발이 발생했다고 확정할 수 없다. 반대로 자연적 원인이 무엇이었는지도 확정되지 않았다. 실행국가 또는 책임주체는 이번 검증자료에서 확립되지 않는다. 따라서 ‘핵실험이었다’, ‘아니었다’, ‘특정 국가가 했다’ 중 어느 하나도 Mystery Atlas의 사실문으로 단정하지 않는다.",
+          "textEn": "**Established:** On September 22, 1979, a Vela satellite recorded an optical signal that triggered serious nuclear-test monitoring concern. Declassified 1979–1980 records show that strong nuclear-test assessments and a skeptical White House scientific-panel assessment coexisted inside the U.S. government. Oplinger’s memorandum reported that the CIA Safeguards-D assessment had put the probability of a nuclear test very high, while Press’s memorandum recorded the Ruina panel’s view that a natural event was more likely.\n\n**Not established:** The public material reviewed here does not establish that a nuclear explosion actually occurred. Nor does it establish a specific natural mechanism. No responsible state or actor is proven by these records. Mystery Atlas therefore does not present “it was a nuclear test,” “it was not a nuclear test,” or “a particular country did it” as a settled fact."
+        }
+      ],
+      "factBoundary": {
+        "established": "벨라 이벤트가 감지됐고 미국 정부 내부에서 핵실험 여부를 놓고 상반된 평가가 존재했다.",
+        "notEstablished": "실제 핵폭발, 특정 자연원인, 책임국가 어느 것도 이번 공개자료로 확정되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "method-025",
+        "early-03",
+        "science-04",
+        "panel-05",
+        "why-disagree-06",
+        "geophys-07",
+        "attribution-08",
+        "archive-09"
+      ]
+    },
+    "en": {
+      "headline": "Nuclear Test or Sensor Anomaly? The 1979 South Atlantic Double Flash",
+      "hook": "A nuclear-test monitoring satellite recorded the kind of double flash analysts took seriously. But declassified records reveal not one settled answer, but sharply conflicting judgments inside the U.S. government.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1979년 9월 22일, 위성이 잡은 두 번의 빛",
+          "headingEn": "September 22, 1979: Two Flashes Seen From Orbit",
+          "textKo": "1979년 9월 22일, 미국의 벨라(Vela) 위성은 남대서양과 남부 해양권으로 보고된 지역에서 짧은 광학 사건을 기록했다. 핵실험 감시 임무를 위해 운용되던 위성에서 ‘두 번의 섬광’ 패턴이 잡혔다는 사실 때문에 사건은 곧바로 민감해졌다. 이런 이중 섬광은 대기권 핵폭발과 연관될 수 있는 신호로 알려져 있었다. 그러나 센서가 특정 모양을 기록했다는 사실과 실제로 핵폭발이 일어났다는 결론은 같은 것이 아니었다. 바로 그 간극이 이후 수개월 동안 미국 정부 내부의 과학·정보기관 논쟁을 만들었다.",
+          "textEn": "On September 22, 1979, a U.S. Vela satellite recorded a short optical event over a region described in later records as the South Atlantic or southern ocean. The event immediately became sensitive because Vela satellites were part of the U.S. nuclear-test monitoring system and the signal had a characteristic double-flash pattern associated with atmospheric nuclear explosions. But a sensor recording a familiar pattern and a confirmed nuclear detonation are not the same claim. That gap drove months of disagreement among U.S. scientific and intelligence officials."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "벨라는 무엇을 찾도록 만들어졌나",
+          "headingEn": "What Vela Was Designed to Detect",
+          "textKo": "벨라 프로그램은 핵실험 감시를 목적으로 운용된 위성체계였다. 광학 센서는 폭발 순간의 빛 변화를 감지하도록 설계됐고, 핵폭발에서 나타날 수 있는 빠른 첫 섬광과 뒤이은 더 긴 두 번째 밝기 변화를 식별하는 것이 중요한 기능 가운데 하나였다. 그래서 1979년 이벤트가 감지됐을 때 질문은 단순히 ‘빛이 있었나’가 아니었다. **센서가 본 파형이 기존 핵실험과 얼마나 닮았고, 다른 관측수단이 같은 사건을 독립적으로 뒷받침했는가**가 핵심이 됐다.",
+          "textEn": "The Vela system existed to monitor nuclear testing. Its optical sensors were designed to detect the changing light signature of an explosion, including a rapid first pulse followed by a longer second brightening that can characterize an atmospheric nuclear detonation. When the 1979 event appeared, the relevant question was therefore not simply whether a flash occurred. The key issues were **how closely the sensor pattern matched known nuclear explosions and whether independent observing systems corroborated the same event**."
+        },
+        {
+          "blockId": "method-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘이중 섬광’은 결론이 아니라 분류 단서였다",
+          "headingEn": "The Double Flash Was a Diagnostic Clue, Not a Verdict",
+          "textKo": "핵심 센서패턴 자체도 조심해서 읽어야 한다. 이중 섬광은 핵폭발을 탐지하기 위해 벨라가 주목하도록 설계된 특징이었기 때문에 분석가들이 사건을 심각하게 취급할 충분한 이유가 됐다. 그러나 감시체계에서 ‘핵실험과 닮은 패턴을 감지했다’는 것은 조사 개시 조건이지 곧바로 최종 판정은 아니다. 실제 1979년 사건에서 과학자들은 두 센서 출력의 일관성, 다른 지구물리 관측, 예상되는 보조 흔적까지 함께 보려 했다. 이 구분을 놓치면 센서 경보를 곧바로 폭발확인으로 바꾸는 오류가 생긴다.",
+          "textEn": "The sensor signature itself also requires careful interpretation. A double flash was exactly the kind of feature Vela was designed to treat seriously when monitoring for atmospheric nuclear explosions. That made the event a legitimate trigger for investigation, not an automatic final verdict. In the 1979 case, analysts examined the consistency of the optical sensors and looked for independent geophysical evidence and expected supporting signatures. Conflating a detection criterion with a confirmed detonation is one of the easiest ways to overstate the evidence."
+        },
+        {
+          "blockId": "early-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 평가 가운데 일부는 핵실험 쪽으로 강하게 기울었다",
+          "headingEn": "Some Early Assessments Leaned Strongly Toward a Nuclear Test",
+          "textKo": "1980년 1월 25일 국가안보회의 과학기술 스태프 Jerry Oplinger가 Henry Owen에게 보낸 메모는 당시 정보공동체 내부의 중요한 의견차를 보여준다. Oplinger는 CIA의 Safeguards-D 보고서가 해당 이벤트를 핵실험일 확률 ‘90% plus’로 평가했다고 전했다. 이 수치는 CIA 원 평가문 자체가 아니라 Oplinger의 메모를 통해 전달된 것이다. 따라서 Mystery Atlas에서는 이를 **‘CIA가 당시 그렇게 평가했다고 백악관 내부 메모가 기록한다’**고 표현해야 한다. 이 메모만으로 실제 폭발이나 실행국가가 입증되는 것은 아니다.",
+          "textEn": "A January 25, 1980 memorandum from National Security Council science-and-technology staff member Jerry Oplinger to Henry Owen captures one important side of the internal dispute. Oplinger wrote that the CIA’s Safeguards-D report had assessed the probability of a nuclear test at “90% plus.” That figure reaches us through Oplinger’s memorandum rather than through the underlying CIA assessment itself. Mystery Atlas should therefore frame it precisely: **a White House internal memo reported that the CIA had made that assessment**. The memo alone does not prove that a detonation occurred or identify a responsible state."
+        },
+        {
+          "blockId": "science-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "센서 패턴은 닮았지만 ‘평소와 다른’ 부분도 있었다",
+          "headingEn": "The Signal Looked Familiar—but Not Perfectly So",
+          "textKo": "1979년 10월의 또 다른 정부 메모는 CIA 주도로 검토에 참여한 과학자들이 벨라 신호가 대기권 핵폭발 감지와 ‘consistent’하다고 보았음을 기록한다. 동시에 센서 출력이 평소 핵실험 사례만큼 서로 잘 맞아떨어지지는 않았다는 문제도 인정됐다. 즉 핵실험 해석을 지지한 전문가들도 신호가 교과서적인 사례라고 본 것은 아니었다. 추가 방사성 낙진, 음향·전리층 자료, 선박·항공 활동 같은 독립자료를 더 찾아야 한다는 요구가 나온 이유다.",
+          "textEn": "An October 1979 government memorandum recorded another scientific review conducted under CIA auspices. The reviewers considered the Vela signals consistent with detection of an atmospheric nuclear explosion, while also acknowledging that the sensor outputs were less internally consistent than in normal nuclear-test detections. Even scientists leaning toward a nuclear interpretation therefore did not regard the signal as a textbook case. That is why they called for additional evidence from radioactive debris, acoustic or ionospheric observations, and possible air or naval activity in the region."
+        },
+        {
+          "blockId": "panel-05",
+          "type": "TURNING_POINT",
+          "headingKo": "백악관 과학패널은 반대 방향으로 갔다",
+          "headingEn": "The White House Science Panel Reached a Different View",
+          "textKo": "1980년 6월 6일, 백악관 과학고문 Frank Press가 CIA 국장 Stansfield Turner에게 보낸 메모는 Ruina 패널의 결론을 설명한다. Press는 패널이 벨라 섬광을 핵폭발 때문일 가능성이 낮다고 보고, 자연적 사건으로 인한 센서 기록일 가능성을 더 높게 평가했다고 적었다. 중요한 점은 Press가 반대 의견을 숨기지 않았다는 것이다. 국방정보국, CIA의 핵정보 전문가, 에너지부 무기연구소 일부 관계자들이 여전히 핵 이벤트라고 생각하고 있음을 같은 메모 안에서 인정했다.",
+          "textEn": "On June 6, 1980, White House science adviser Frank Press sent CIA Director Stansfield Turner a memorandum explaining the Ruina panel’s conclusion. Press wrote that the panel regarded a nuclear explosion as unlikely and considered a natural event a more probable explanation for the Vela record. Just as important, the memo did not pretend that everyone agreed. It explicitly acknowledged that officials at the Defense Intelligence Agency, the CIA’s nuclear-intelligence community, and Department of Energy weapons laboratories continued to believe that the signal represented a nuclear event."
+        },
+        {
+          "blockId": "why-disagree-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "같은 자료를 보고 왜 결론이 갈렸나",
+          "headingEn": "Why Could Experts Read the Same Event Differently?",
+          "textKo": "핵실험 해석을 지지한 쪽은 무엇보다 벨라 신호의 형태가 기존 핵폭발과 매우 닮았다는 점에 무게를 두었다. 반면 회의적인 패널은 센서 출력의 불일치, 독립적인 보조관측의 애매함, 핵폭발이라면 기대할 수 있는 다른 흔적이 얼마나 명확하게 확인됐는지를 문제 삼았다. Press 메모는 9월 22일과 관련됐을 수 있는 지구물리학적 자료가 검토됐지만 벨라 신호와 명확히 상관된다고 볼 수 없었다는 패널 판단을 전한다. 따라서 논쟁은 ‘한쪽이 데이터를 보고 다른 쪽은 보지 않았다’가 아니라, **같은 종류의 불완전한 증거에 서로 다른 가중치를 준 문제**에 가까웠다.",
+          "textEn": "Officials favouring the nuclear-test interpretation placed heavy weight on the fact that the optical pattern closely resembled known nuclear explosions. The skeptical panel focused instead on inconsistencies between sensor outputs, ambiguity in independent supporting observations, and the absence of corroborating evidence clear enough to settle the event. Press’s memorandum says geophysical data possibly associated with September 22 had been reviewed but could not be clearly correlated with the Vela signal. The disagreement was therefore not simply one side having evidence and the other having none. It was largely a dispute over **how much weight to place on different pieces of incomplete evidence**."
+        },
+        {
+          "blockId": "geophys-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘다른 신호도 있었다’는 주장도 결정타는 아니었다",
+          "headingEn": "Other Possible Signals Did Not Become a Decisive Tie-Breaker",
+          "textKo": "후대 공개된 기록과 National Security Archive의 문서집은 전리층 교란과 해양 음향 신호 같은 보조자료가 검토됐음을 보여준다. 일부 정보·국방 관계자들은 이런 자료가 핵 이벤트 해석을 강화한다고 봤다. 반면 Press가 전달한 패널 쪽 평가는 어느 자료도 벨라 섬광과 명확하게 연결될 수준은 아니라고 보았다. 이것이 사건을 어렵게 만드는 지점이다. 보조관측이 ‘없었다’고 말하기도 어렵고, 반대로 보조관측이 ‘핵실험을 증명했다’고 말하기도 어렵다.",
+          "textEn": "Later-declassified records and the National Security Archive’s document collection show that possible supporting observations—such as ionospheric disturbances and ocean-acoustic signals—were considered. Some intelligence and defense officials believed these strengthened a nuclear interpretation. The panel position conveyed by Press was that none of the geophysical evidence could be clearly correlated with the Vela event. This is one reason the case remains difficult: it is misleading to say there was no supporting evidence at all, but equally misleading to say those observations proved a nuclear test."
+        },
+        {
+          "blockId": "attribution-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘누가 했다’는 질문은 더 약한 증거를 요구한다",
+          "headingEn": "Identifying a Responsible State Requires an Even Higher Bar",
+          "textKo": "벨라 사건은 시간이 지나며 특정 국가를 지목하는 여러 주장과 결합됐다. 그러나 이번 productized article의 공개자료 경계는 거기까지 가지 않는다. 1979~1980년 정부문서가 직접 보여주는 것은 **신호가 감지됐고, 미국 정부 내부에서 핵실험 여부를 놓고 의견이 크게 갈렸다는 사실**이다. 어느 정부가 시험을 실행했다는 주장은 ‘핵폭발이 실제로 있었다’는 단계보다 한 단계 더 많은 증거를 필요로 한다. 공개자료가 그 책임주체를 확정하지 못하는 이상, 후보국가 이름을 결론처럼 제시하지 않는다.",
+          "textEn": "Over time, the Vela event became attached to claims naming particular states. This productized article deliberately stops short of that step. The declassified 1979–1980 records directly establish **that the signal was detected and that U.S. officials disagreed sharply over whether it represented a nuclear test**. Naming a responsible government requires evidence beyond the already disputed question of whether a nuclear detonation occurred at all. Because the public record reviewed here does not establish an actor, candidate states should not be presented as a conclusion."
+        },
+        {
+          "blockId": "archive-09",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기밀해제 문서가 사건을 ‘해결’한 것은 아니다",
+          "headingEn": "Declassification Revealed the Disagreement, Not a Final Answer",
+          "textKo": "이 사건의 독특한 점은 시간이 지나 공개된 문서가 하나의 비밀 정답을 보여주지 않는다는 데 있다. 오히려 Oplinger 메모, Press 메모, 관련 정보기관·과학자 기록은 당시 정부 내부에 상반된 판단이 실제로 존재했다는 사실을 더 선명하게 만든다. 기밀해제는 ‘정부가 무엇을 결론냈나’를 단순화하기보다, **정부 내부에서도 결론이 하나가 아니었다는 사실을 기록으로 남겼다.** 따라서 벨라 사건을 음모론적 ‘숨겨진 확정사실’로 쓰는 것도, 자연현상으로 완전히 해결된 사건으로 쓰는 것도 현재 공개기록과 맞지 않는다.",
+          "textEn": "What makes the Vela case unusual is that declassification did not reveal one hidden, final answer. The Oplinger memorandum, the Press memorandum, and related intelligence and scientific records instead make the internal disagreement more visible. Declassification did not simplify what “the government concluded”; it documented that **different parts of the government reached different judgments**. The event should therefore be treated neither as a secretly settled nuclear test nor as a completely resolved natural anomaly on the basis of the public record."
+        },
+        {
+          "blockId": "boundary-10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1979년 9월 22일 벨라 위성이 핵폭발 감시체계에서 중요하게 취급될 광학 신호를 기록했다. 1979~1980년 미국 정부 내부에는 핵실험 해석을 강하게 지지한 평가와 이를 확정할 수 없다고 본 과학패널 평가가 동시에 존재했다. Oplinger 메모는 CIA Safeguards-D 평가가 핵실험 가능성을 매우 높게 봤다고 전하고, Press 메모는 Ruina 패널이 핵폭발보다는 자연적 사건을 더 가능성 높은 설명으로 판단했다고 기록한다.\n\n**확인되지 않음:** 공개자료만으로 실제 핵폭발이 발생했다고 확정할 수 없다. 반대로 자연적 원인이 무엇이었는지도 확정되지 않았다. 실행국가 또는 책임주체는 이번 검증자료에서 확립되지 않는다. 따라서 ‘핵실험이었다’, ‘아니었다’, ‘특정 국가가 했다’ 중 어느 하나도 Mystery Atlas의 사실문으로 단정하지 않는다.",
+          "textEn": "**Established:** On September 22, 1979, a Vela satellite recorded an optical signal that triggered serious nuclear-test monitoring concern. Declassified 1979–1980 records show that strong nuclear-test assessments and a skeptical White House scientific-panel assessment coexisted inside the U.S. government. Oplinger’s memorandum reported that the CIA Safeguards-D assessment had put the probability of a nuclear test very high, while Press’s memorandum recorded the Ruina panel’s view that a natural event was more likely.\n\n**Not established:** The public material reviewed here does not establish that a nuclear explosion actually occurred. Nor does it establish a specific natural mechanism. No responsible state or actor is proven by these records. Mystery Atlas therefore does not present “it was a nuclear test,” “it was not a nuclear test,” or “a particular country did it” as a settled fact."
+        }
+      ],
+      "factBoundary": {
+        "established": "The Vela event was detected and declassified records document competing nuclear and non-nuclear assessments.",
+        "notEstablished": "The public record reviewed here does not establish a detonation, a specific natural cause, or a responsible state."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "method-025",
+        "early-03",
+        "science-04",
+        "panel-05",
+        "why-disagree-06",
+        "geophys-07",
+        "attribution-08",
+        "archive-09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "VELA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1979-09-22 벨라 위성은 핵실험 여부를 검토하게 만든 이중 섬광 광학 이벤트를 감지했다.",
+      "statementEn": "On September 22, 1979, a Vela satellite detected a double-flash optical event that triggered evaluation as a possible nuclear test.",
+      "sourceRefs": [
+        "OPLINGER1980",
+        "PRESS1980",
+        "COWEY1979"
+      ]
+    },
+    {
+      "claimId": "VELA-C2",
+      "status": "ATTRIBUTED_ASSESSMENT",
+      "statementKo": "1980-01-25 Oplinger 메모는 CIA Safeguards-D가 핵실험 확률을 90% 이상으로 평가했다고 전한다.",
+      "statementEn": "A January 25, 1980 Oplinger memo reported that the CIA Safeguards-D assessment placed the probability of a nuclear test above 90 percent.",
+      "sourceRefs": [
+        "OPLINGER1980"
+      ]
+    },
+    {
+      "claimId": "VELA-C3",
+      "status": "ATTRIBUTED_ASSESSMENT",
+      "statementKo": "1980-06-06 Press 메모는 Ruina 패널이 핵폭발보다 자연적 사건을 더 가능성 높은 설명으로 봤다고 기록한다.",
+      "statementEn": "A June 6, 1980 Press memo recorded the Ruina panel's view that a natural event was more likely than a nuclear explosion.",
+      "sourceRefs": [
+        "PRESS1980"
+      ]
+    },
+    {
+      "claimId": "VELA-C4",
+      "status": "CONFIRMED",
+      "statementKo": "동시대 미국 정부기관·전문가 사이에는 핵 이벤트 여부에 대한 실질적 의견불일치가 있었다.",
+      "statementEn": "Substantial disagreement existed among U.S. government agencies and scientific advisers over whether the event was nuclear.",
+      "sourceRefs": [
+        "OPLINGER1980",
+        "PRESS1980",
+        "COWEY1979"
+      ]
+    },
+    {
+      "claimId": "VELA-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "공개 검증자료는 실제 핵폭발 발생이나 특정 실행국가를 확정하지 않는다.",
+      "statementEn": "The public material reviewed does not establish that a nuclear detonation occurred or identify a responsible state.",
+      "sourceRefs": [
+        "PRESS1980",
+        "NSA_VELA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "OPLINGER1980",
+      "title": "Jerry Oplinger to Henry Owen, South Atlantic Event",
+      "publisher": "NSC staff memo, Jan. 25 1980; hosted by National Security Archive",
+      "url": "https://nsarchive.gwu.edu/document/19606-national-security-archive-doc-5-jerry-oplinger",
+      "sourceType": "DECLASSIFIED_PRIMARY_MEMO",
+      "scope": "reports CIA Safeguards-D >90% assessment and internal disagreement"
+    },
+    {
+      "sourceId": "PRESS1980",
+      "title": "Frank Press to Stansfield Turner, Possible South Atlantic Nuclear Explosion",
+      "publisher": "White House science adviser memo, Jun. 6 1980; hosted by National Security Archive",
+      "url": "https://nsarchive.gwu.edu/document/19607-national-security-archive-doc-6-frank-press",
+      "sourceType": "DECLASSIFIED_PRIMARY_MEMO",
+      "scope": "Ruina panel skeptical conclusion and acknowledgment of dissenting agencies"
+    },
+    {
+      "sourceId": "COWEY1979",
+      "title": "Memorandum for the Files by Ross E. Cowey, Oct. 10 1979",
+      "publisher": "State Department INR memorandum; hosted by National Security Archive",
+      "url": "https://nsarchive.gwu.edu/document/22322-10-memorandum-files-ross-e-cowey",
+      "sourceType": "DECLASSIFIED_PRIMARY_MEMO",
+      "scope": "scientist review describing signal as consistent with nuclear explosion while noting sensor inconsistency"
+    },
+    {
+      "sourceId": "NSA_VELA",
+      "title": "The Vela Flash: Forty Years Ago",
+      "publisher": "National Security Archive",
+      "url": "https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2019-09-22/vela-flash-forty-years-ago",
+      "sourceType": "INSTITUTIONAL_ARCHIVE_CONTEXT",
+      "scope": "document collection and archival context, not itself definitive sensor finding"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "vela-1979-flash-assessment-conflict",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1979 벨라 사건에서 핵실험 해석과 Ruina 패널의 회의적 평가가 중시한 근거를 비교한 카드.",
+      "captionEn": "Evidence card comparing the nuclear-test interpretation with the Ruina panel’s skeptical assessment.",
+      "altKo": "왼쪽 핵실험 해석의 근거, 오른쪽 회의적 패널의 근거를 비교한 카드.",
+      "altEn": "Two-column comparison of evidence emphasized by nuclear-test and skeptical assessments.",
+      "sourceRefs": [
+        "OPLINGER1980",
+        "PRESS1980",
+        "COWEY1979"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "vela-1979-flash__assessment-conflict__ko.png",
+          "sha256": "b6b6e3eafcd9545863865641308617dbb7d0d5bd4f986c8e35199bdf33a3d805",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "vela-1979-flash__assessment-conflict__en.png",
+          "sha256": "01906c2089719cad28dbed5a927a9fb8dc98bc9b85740511a76f3b18656b0c56",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "vela-1979-flash-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1979년 벨라 감지부터 상충된 내부분석과 미확정 결론까지를 보여주는 hero 도표.",
+      "captionEn": "Hero explainer from the 1979 Vela detection through conflicting assessments to the unresolved public conclusion.",
+      "altKo": "위성 감지, 이중섬광, 내부 분석, 미확정 결론의 네 단계.",
+      "altEn": "Four-stage diagram of satellite detection, double flash, internal analysis, and unresolved conclusion.",
+      "sourceRefs": [
+        "OPLINGER1980",
+        "PRESS1980",
+        "COWEY1979"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "vela-1979-flash__hero-context__ko.png",
+          "sha256": "a574ea8c9e4744d4d09bb64c9d2c8814247b95a89589801d9d8d51cbbfce8bd8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "vela-1979-flash__hero-context__en.png",
+          "sha256": "8c2527348c238fea0d73aad6a9c5879f780d9866a50644b9be8db628c1705ac4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "vela-1979-flash-known-unknown",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "기밀해제 문서가 확인한 신호·내부논쟁과 미확정 원인·책임주체를 분리한 카드.",
+      "captionEn": "Evidence stack separating the documented signal and disagreement from unresolved cause and attribution.",
+      "altKo": "감지·의견충돌은 확인, 핵폭발·자연원인·책임국가는 미정으로 표시.",
+      "altEn": "Card showing detection/disagreement as established and cause/actor as unresolved.",
+      "sourceRefs": [
+        "OPLINGER1980",
+        "PRESS1980",
+        "NSA_VELA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "vela-1979-flash__known-unknown__ko.png",
+          "sha256": "888f68fdbf5db4274ee5423946f122d3fe03cf2c01f1789c71f830e19f608600",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "vela-1979-flash__known-unknown__en.png",
+          "sha256": "4dcf00c5c70286434179aede7b668c5626bf93ee5fc6fb85262d5a5535699c79",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "vela-1979-flash-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "벨라 이벤트 감지부터 1980년 상충된 정부평가까지의 연표.",
+      "captionEn": "Timeline from the Vela detection to the conflicting U.S. government assessments in 1980.",
+      "altKo": "1979년9월 감지, 10월 검토, 1980년1월 CIA 평가보고, 6월 Ruina 패널 결론.",
+      "altEn": "Timeline marking detection, review, reported CIA assessment, and Ruina-panel conclusion.",
+      "sourceRefs": [
+        "OPLINGER1980",
+        "PRESS1980",
+        "COWEY1979"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "vela-1979-flash__timeline__ko.png",
+          "sha256": "af2309becc8ff24ad320f19268468662366064f3a9294ec1949bb5ebf883bef9",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "vela-1979-flash__timeline__en.png",
+          "sha256": "55c7e30872263f282f3556eb44944a0f2d5449668be30ac825dd5a8902b5a643",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "South Atlantic / southern ocean region"
+    ],
+    "places": [
+      {
+        "name": "South Atlantic / southern ocean region",
+        "role": "general event region; exact coordinates not established"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jerry Oplinger",
+        "role": "NSC science and technology staff"
+      },
+      {
+        "name": "Frank Press",
+        "role": "White House science adviser"
+      },
+      {
+        "name": "Jack Ruina",
+        "role": "scientific panel chair"
+      }
+    ],
+    "organizations": [
+      "U.S. National Security Council",
+      "Central Intelligence Agency",
+      "Defense Intelligence Agency",
+      "Department of Energy weapons laboratories",
+      "White House science adviser panel"
+    ],
+    "dateRange": {
+      "start": "1979-09-22",
+      "end": "1980-06-06",
+      "precision": "detection through key opposing assessment"
+    },
+    "era": "late Cold War",
+    "resolution": "DETECTED_SIGNAL_CONFIRMED_CAUSE_AND_ORIGIN_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Vela Incident",
+      "1979 double flash",
+      "South Atlantic nuclear event"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3249,
+    "enBodyWords": 1002,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH02",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH02_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

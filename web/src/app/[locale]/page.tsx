@@ -4,18 +4,23 @@ import { cases, collections } from "@/content";
 import type { Locale } from "@/content/schema";
 import { readingMinutes } from "@/lib/reading-time";
 import { getMarket } from "@/config/market";
+import { assetUrl } from "@/lib/base-path";
+import { ContinueReading } from "@/components/ContinueReading";
+import { productizedItems } from "@/content/productized";
 
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const locale = (await params).locale as Locale;
   const market = getMarket(locale);
-  const lead = cases.find((item) => item.slug === market.localHookCases[0]) ?? cases[0];
-  const picks = [...market.localHookCases.slice(1), "voynich"].slice(0, 3).map((slug) => cases.find((item) => item.slug === slug)).filter((item): item is NonNullable<typeof item> => Boolean(item));
+  const lead = cases.find((item) => item.slug === "romanov-remains-dna") ?? cases[0];
+  const picks = ["antikythera-mechanism", "princes-in-the-tower", "hubble-tension"].map((slug) => cases.find((item) => item.slug === slug)).filter((item): item is NonNullable<typeof item> => Boolean(item));
   return <>
+    <ContinueReading locale={locale} items={productizedItems}/>
     <section className="home-hero">
-      <div className="hero-copy"><p className="kicker">{locale === "en" ? "FEATURED STORY" : "오늘의 이야기"}</p><h1>{lead.title}</h1><p className="hero-question">{lead.subtitle[locale]}</p><p>{lead.preview[locale]}</p><div className="hero-meta"><span>{lead.country[locale]}</span><span>{lead.year}</span><span>{readingMinutes(lead, locale)} {locale === "en" ? "min read" : "분 읽기"}</span></div><Link className="primary-link" href={`/${locale}/cases/${lead.slug}/`}>{locale === "en" ? "Read the story" : "이야기 읽기"} <span>↗</span></Link></div>
-      <div className="hero-art" style={{ backgroundImage: `linear-gradient(90deg, rgba(7,9,12,.92), rgba(7,9,12,.05)), url(${lead.images[0].path})` }}><div className="hero-stamp">EDITORIAL<br/>RECONSTRUCTION<br/><small>NOT EVIDENCE</small></div></div>
+      <div className="hero-copy"><p className="kicker">{locale === "en" ? "FEATURED DOSSIER · PREVIEW" : "주요 사건 · 미리보기"}</p><h1>{lead.displayTitle?.[locale] ?? lead.title}</h1><p className="hero-question">{lead.subtitle[locale]}</p><p>{lead.preview[locale]}</p><div className="hero-meta"><span>{lead.country[locale]}</span><span>{lead.year}</span><span>{readingMinutes(lead, locale)} {locale === "en" ? "min read" : "분 읽기"}</span></div><Link className="primary-link" href={`/${locale}/cases/${lead.slug}/`}>{locale === "en" ? "Read the story" : "이야기 읽기"} <span>↗</span></Link></div>
+      <div className="hero-art" style={{ backgroundImage: `linear-gradient(90deg, rgba(7,9,12,.92), rgba(7,9,12,.05)), url(${assetUrl(lead.images[0].localizedPaths?.[locale] ?? lead.images[0].path ?? "")})` }}><div className="hero-stamp">{locale === "en" ? "PROJECT ORIGINAL" : "자체 제작 자료"}<br/><small>{locale === "en" ? "NOT DOCUMENTARY EVIDENCE" : "당시 증거 사진 아님"}</small></div></div>
     </section>
-    <section className="page-section"><div className="section-heading"><div><p className="kicker">OPEN QUESTIONS</p><h2>{locale === "en" ? "Start with the evidence gap" : "근거가 비어 있는 지점에서 시작하세요"}</h2></div><Link href={`/${locale}/explore/`}>{locale === "en" ? `Explore all ${cases.length} cases` : `${cases.length}개 사건 모두 보기`} →</Link></div><div className="case-grid">{picks.map((record) => <CaseCard key={record.slug} record={record} locale={locale}/>)}</div></section>
+    <section className="page-section"><div className="random-preview"><p className="kicker">{locale === "ko" ? "오늘의 미스터리" : "MYSTERY OF THE DAY"}</p><p>{locale === "ko" ? "랜덤 탐색은 출시 심사를 통과한 기사부터 제공됩니다. 지금은 편집자가 고른 사건을 읽어보세요." : "Random discovery opens when the articles pass release review. For now, follow an editor's pick."}</p><Link href={`/${locale}/cases/${lead.slug}/`}>{locale === "ko" ? "오늘의 추천 읽기" : "Read today's featured dossier"} →</Link></div>
+      <div className="section-heading"><div><p className="kicker">OPEN QUESTIONS</p><h2>{locale === "en" ? "Start with the evidence gap" : "근거가 비어 있는 지점에서 시작하세요"}</h2></div><Link href={`/${locale}/explore/`}>{locale === "en" ? `Explore all ${cases.length} cases` : `${cases.length}개 사건 모두 보기`} →</Link></div><div className="case-grid">{picks.map((record) => <CaseCard key={record.slug} record={record} locale={locale}/>)}</div></section>
     <section className="page-section collection-strip"><p className="kicker">{locale === "en" ? "FOLLOW A QUESTION" : "질문을 따라가기"}</p><div className="collection-grid">{collections.filter((collection) => market.featuredCollections.includes(collection.slug)).map((collection, index) => <Link key={collection.slug} href={`/${locale}/collections/${collection.slug}/`} className="collection-card"><span>0{index + 1}</span><h3>{collection.title[locale]}</h3><p>{collection.description[locale]}</p><b>{collection.caseSlugs.length} {locale === "en" ? "case files" : "개 사건"} →</b></Link>)}</div></section>
   </>;
 }

@@ -1,0 +1,460 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "joan-of-arc-trial-voices",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "잔 다르크의 목소리 주장과 재판 원문",
+    "canonicalTitleEn": "Joan of Arc Voices and Trial Records",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "LEGEND_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "잔 다르크가 들었다는 ‘목소리’는 재판기록에 무엇으로 남았나",
+      "hook": "잔 다르크가 목소리를 들었다고 진술한 사실은 1431년 기록에 남아 있다. 하지만 그 기록은 신적 계시를 증명하는 문서도, 현대 정신의학 진단서도 아니다. 미스터리는 경험보다 증거의 층위에서 시작된다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "재판정에 기록된 ‘목소리’",
+          "headingEn": "The Voices Enter the Trial Record",
+          "textKo": "1431년 루앙의 재판기록에는 잔 다르크가 자신에게 들렸다고 말한 ‘목소리’에 관한 질문과 답변이 반복해서 등장한다. 심문자들은 누가 말했는지, 언제 들었는지, 어떤 명령을 받았는지, 그 목소리를 천사나 성인으로 어떻게 식별했는지를 캐물었다. 중요한 점은 이 문서가 **잔이 그런 경험을 주장했다는 사실을 기록하는 15세기 법정자료**라는 것이다. 기록이 존재한다는 사실과 그 목소리가 객관적으로 신적 존재였다는 결론은 서로 다른 층이다.",
+          "textEn": "The 1431 trial record from Rouen repeatedly questions Joan of Arc about the “voices” she said she heard—who spoke, when she heard them, what they instructed, and how she identified them as saints or divine messengers. The crucial distinction is that the record is a fifteenth-century legal source establishing that **Joan made these claims**. The existence of the testimony is not the same thing as objective proof that the voices were divine beings."
+        },
+        {
+          "blockId": "capture-02",
+          "type": "BACKGROUND",
+          "headingKo": "이 증언은 자유로운 회고록이 아니라 적대적 재판에서 나왔다",
+          "headingEn": "This Was Not a Free Memoir but an Adversarial Trial",
+          "textKo": "잔은 1430년 콩피에뉴에서 붙잡힌 뒤 영국의 이해관계와 연결된 루앙의 교회재판으로 넘겨졌다. Work가 잠근 자료는 Pierre Cauchon이 이끄는 1431년 절차와, 그 안에서 잔의 목소리 진술이 신학적·법적 쟁점으로 다뤄졌음을 확인한다. 따라서 기록을 읽을 때는 답변 내용뿐 아니라 **어떤 권력관계 속에서 질문이 만들어졌는지**도 봐야 한다. 법정기록은 강력한 1차 자료지만, 중립적인 구술사 인터뷰는 아니다.",
+          "textEn": "Joan was captured at Compiègne in 1430 and eventually brought before an ecclesiastical tribunal at Rouen tied to English political interests. Work’s locked sources confirm the 1431 proceedings under Pierre Cauchon and the way Joan’s claims about voices became theological and legal issues. The record is a powerful primary source, but it is not a neutral oral-history interview; the power relationship shaping the interrogation matters."
+        },
+        {
+          "blockId": "content-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기록은 경험의 내용까지 남겼다",
+          "headingEn": "The Record Preserves the Shape of the Experience",
+          "textKo": "Fordham이 공개한 Barrett 번역본에는 잔이 어린 시절부터 목소리를 들었다고 진술하고, 그 목소리가 교회에 가거나 프랑스를 위해 행동하라고 이끌었다는 취지의 답변이 나온다. 심문은 목소리의 방향, 빈도, 빛과 함께 나타났는지, 어떤 이름으로 불렀는지 같은 세부까지 파고든다. 이런 세부는 잔의 종교경험을 역사적으로 연구하는 데 중요하지만, **경험의 자세한 묘사가 경험의 외부 원인을 증명하지는 않는다.**",
+          "textEn": "The Barrett translation preserved by Fordham includes Joan’s testimony that she heard voices from a young age and that they instructed or guided her in religious and political action. The interrogators pressed for details about direction, frequency, light, and the identities she assigned to the speakers. These details matter historically because they preserve the shape of Joan’s reported religious experience. Detailed description, however, does not establish the external cause of the experience."
+        },
+        {
+          "blockId": "recording-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘잔의 말 그대로’라는 표현도 조심해야 한다",
+          "headingEn": "Even “Joan’s Exact Words” Requires Caution",
+          "textKo": "오늘날 읽는 재판텍스트는 현장에서 녹음된 음성이 아니다. 서기들이 라틴어·프랑스어 기록을 남기고, 사본이 전승됐으며, 현대 독자는 다시 번역된 텍스트를 읽는다. British Library의 Stowe MS 84와 Egerton MS 984 같은 소장기록은 이런 문서전승의 물리적 기반을 보여준다. Work는 이 필사본의 전체 본문을 직접 읽은 것이 아니라 소장기술을 확인했다. 따라서 **현대 번역문을 ‘1431년 잔의 녹취록’처럼 절대화하지 않는다.**",
+          "textEn": "The trial text we read today is not an audio recording. Clerks produced Latin and French records, manuscripts were copied and preserved, and modern readers encounter translations. British Library holdings such as Stowe MS 84 and Egerton MS 984 demonstrate the material transmission of the record. Work verified the archival descriptions, not the entire manuscript text. Modern translation should therefore not be treated as a perfect verbatim recording of Joan in 1431."
+        },
+        {
+          "blockId": "conviction-05",
+          "type": "TURNING_POINT",
+          "headingKo": "1431년 판결은 목소리를 신성하다고 인정하지 않았다",
+          "headingEn": "The 1431 Judgment Did Not Validate the Voices",
+          "textKo": "1431년 절차는 잔의 종교적 주장과 교회권위 문제를 적대적으로 심사했고 결국 유죄판결로 끝났다. 목소리를 들었다는 진술이 재판기록에 있다는 사실은 재판부가 그것을 신성한 계시로 승인했다는 뜻이 아니다. 오히려 기록은 그 주장 자체가 심문의 핵심 쟁점이었음을 보여준다. **‘법정에 기록됐다’와 ‘법정이 사실로 인정했다’는 구분이 필요하다.**",
+          "textEn": "The 1431 proceeding examined Joan’s religious claims and relationship to ecclesiastical authority in an adversarial setting and ended in conviction. The fact that her voices were recorded does not mean the tribunal endorsed them as divine revelation. The record shows that the claims themselves were under scrutiny. Being entered into a court record and being accepted as objectively true are different things."
+        },
+        {
+          "blockId": "rehab-06",
+          "type": "TURNING_POINT",
+          "headingKo": "1456년 재심은 유죄를 무효화했다",
+          "headingEn": "The 1456 Proceeding Nullified the Conviction",
+          "textKo": "잔이 처형된 뒤 수십 년이 지나 1455~1456년 재심·무효절차가 진행됐다. 프랑스 법무부의 역사자료는 1456년 판정이 1431년 유죄판결을 무효화한 절차적·법적 전환을 정리한다. 이것은 잔의 명예와 법적 지위를 바꾸는 사건이었다. 그러나 **1456년 무효판정이 목소리의 초자연적 근원을 과학적으로 증명한 것은 아니다.** 재판의 공정성·절차·증언을 다시 판단한 역사적 법적 결정이다.",
+          "textEn": "Decades after Joan’s execution, a rehabilitation/nullification process took place in 1455–1456. Historical material from the French Ministry of Justice describes the 1456 judgment as overturning the 1431 conviction. This profoundly changed Joan’s legal and historical status. But the nullification did not scientifically prove a supernatural origin for her voices; it was a legal and procedural reassessment of the earlier trial."
+        },
+        {
+          "blockId": "diagnosis-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "현대 정신의학 진단도 자료범위를 넘기 쉽다",
+          "headingEn": "Retrospective Psychiatric Diagnosis Can Also Overreach",
+          "textKo": "잔의 목소리를 현대 의학용어 하나로 설명하려는 시도는 반복된다. 그러나 Work의 W2D 경계는 후향적 정신의학 진단을 확정하지 않는다. 15세기 적대적 법정에서 기록·번역·전승된 종교적 진술만으로 현대 임상진단을 내리는 데는 근본적인 한계가 있기 때문이다. **‘신의 목소리였다’고 확정하는 것과 ‘특정 정신질환이었다’고 확정하는 것 모두 현재 자료가 허용하는 범위를 넘어설 수 있다.**",
+          "textEn": "Modern writers have repeatedly tried to explain Joan’s voices through retrospective medical diagnoses. Work’s W2D boundary does not endorse a specific psychiatric diagnosis. Religious testimony recorded, translated, and transmitted from a fifteenth-century adversarial proceeding is not equivalent to a modern clinical assessment. Both “the voices were objectively divine” and “the voices were definitively a particular disorder” can exceed what the evidence supports."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 목소리의 정체보다 기록의 층위에 있다",
+          "headingEn": "The Mystery Is as Much About Evidence as About the Voices",
+          "textKo": "잔 다르크의 목소리 이야기는 초자연 사건과 역사문서가 만나는 대표적 사례다. 우리는 그녀에게 귀속된 구체적 진술을 읽을 수 있고, 그 진술이 유죄재판과 무효재판에서 서로 다른 법적 의미를 가졌다는 것도 확인할 수 있다. 하지만 목소리의 객관적 원인은 문서가 직접 기록할 수 없는 영역이다. **확실한 것은 ‘경험을 주장한 역사적 인물과 그 주장을 심문한 법정’이며, 미확정인 것은 그 경험의 외부 원인**이다.",
+          "textEn": "Joan of Arc’s voices are a classic case where paranormal interpretation meets documentary history. We can read detailed statements attributed to her and trace how those statements were treated differently in condemnation and nullification proceedings. What the documents cannot directly record is the objective external cause of the experience. The historical person and the legal interrogation are well documented; the ontological source of the voices is not."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1431년 재판기록에는 잔 다르크에게 귀속된 목소리 진술이 상세히 남아 있다. 1455~1456년 재심·무효절차는 1431년 유죄판결을 무효화했다. British Library에는 관련 공식 사본·필사본이 소장돼 있고, 현대 번역은 이 기록전승을 통해 제공된다.\n\n**확인되지 않음:** 목소리가 객관적으로 신적·초자연적 존재였다는 것은 입증되지 않는다. 1456년 무효판정이 이를 과학적으로 증명하지도 않는다. 반대로 현대 후향 정신의학 진단 하나로 원인을 확정할 수도 없다.",
+          "textEn": "**Established:** The 1431 trial record preserves detailed statements attributed to Joan of Arc concerning her voices. The 1455–1456 rehabilitation/nullification process overturned the 1431 conviction. Relevant official copies and manuscripts survive in institutional collections, and modern translations depend on that documentary transmission.\n\n**Not established:** The voices are not objectively proven to have had a divine or supernatural source, and the 1456 nullification did not scientifically establish one. Nor can a single modern retrospective psychiatric diagnosis be confirmed from the surviving trial record."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1431년 재판기록에는 잔 다르크에게 귀속된 목소리 진술이 상세히 남아 있다. 1455~1456년 재심·무효절차는 1431년 유죄판결을 무효화했다. British Library에는 관련 공식 사본·필사본이 소장돼 있고, 현대 번역은 이 기록전승을 통해 제공된다.\n\n**확인되지 않음:** 목소리가 객관적으로 신적·초자연적 존재였다는 것은 입증되지 않는다. 1456년 무효판정이 이를 과학적으로 증명하지도 않는다. 반대로 현대 후향 정신의학 진단 하나로 원인을 확정할 수도 없다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "capture-02",
+        "content-03",
+        "recording-04",
+        "conviction-05",
+        "rehab-06",
+        "diagnosis-07",
+        "meaning-08"
+      ]
+    },
+    "en": {
+      "headline": "What Did Joan of Arc’s “Voices” Actually Become in the Trial Record?",
+      "hook": "Joan’s claims about voices are preserved in the 1431 record. But that record is neither proof of divine revelation nor a modern psychiatric case file. The mystery begins with the distinction between experience, testimony, and cause.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "재판정에 기록된 ‘목소리’",
+          "headingEn": "The Voices Enter the Trial Record",
+          "textKo": "1431년 루앙의 재판기록에는 잔 다르크가 자신에게 들렸다고 말한 ‘목소리’에 관한 질문과 답변이 반복해서 등장한다. 심문자들은 누가 말했는지, 언제 들었는지, 어떤 명령을 받았는지, 그 목소리를 천사나 성인으로 어떻게 식별했는지를 캐물었다. 중요한 점은 이 문서가 **잔이 그런 경험을 주장했다는 사실을 기록하는 15세기 법정자료**라는 것이다. 기록이 존재한다는 사실과 그 목소리가 객관적으로 신적 존재였다는 결론은 서로 다른 층이다.",
+          "textEn": "The 1431 trial record from Rouen repeatedly questions Joan of Arc about the “voices” she said she heard—who spoke, when she heard them, what they instructed, and how she identified them as saints or divine messengers. The crucial distinction is that the record is a fifteenth-century legal source establishing that **Joan made these claims**. The existence of the testimony is not the same thing as objective proof that the voices were divine beings."
+        },
+        {
+          "blockId": "capture-02",
+          "type": "BACKGROUND",
+          "headingKo": "이 증언은 자유로운 회고록이 아니라 적대적 재판에서 나왔다",
+          "headingEn": "This Was Not a Free Memoir but an Adversarial Trial",
+          "textKo": "잔은 1430년 콩피에뉴에서 붙잡힌 뒤 영국의 이해관계와 연결된 루앙의 교회재판으로 넘겨졌다. Work가 잠근 자료는 Pierre Cauchon이 이끄는 1431년 절차와, 그 안에서 잔의 목소리 진술이 신학적·법적 쟁점으로 다뤄졌음을 확인한다. 따라서 기록을 읽을 때는 답변 내용뿐 아니라 **어떤 권력관계 속에서 질문이 만들어졌는지**도 봐야 한다. 법정기록은 강력한 1차 자료지만, 중립적인 구술사 인터뷰는 아니다.",
+          "textEn": "Joan was captured at Compiègne in 1430 and eventually brought before an ecclesiastical tribunal at Rouen tied to English political interests. Work’s locked sources confirm the 1431 proceedings under Pierre Cauchon and the way Joan’s claims about voices became theological and legal issues. The record is a powerful primary source, but it is not a neutral oral-history interview; the power relationship shaping the interrogation matters."
+        },
+        {
+          "blockId": "content-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기록은 경험의 내용까지 남겼다",
+          "headingEn": "The Record Preserves the Shape of the Experience",
+          "textKo": "Fordham이 공개한 Barrett 번역본에는 잔이 어린 시절부터 목소리를 들었다고 진술하고, 그 목소리가 교회에 가거나 프랑스를 위해 행동하라고 이끌었다는 취지의 답변이 나온다. 심문은 목소리의 방향, 빈도, 빛과 함께 나타났는지, 어떤 이름으로 불렀는지 같은 세부까지 파고든다. 이런 세부는 잔의 종교경험을 역사적으로 연구하는 데 중요하지만, **경험의 자세한 묘사가 경험의 외부 원인을 증명하지는 않는다.**",
+          "textEn": "The Barrett translation preserved by Fordham includes Joan’s testimony that she heard voices from a young age and that they instructed or guided her in religious and political action. The interrogators pressed for details about direction, frequency, light, and the identities she assigned to the speakers. These details matter historically because they preserve the shape of Joan’s reported religious experience. Detailed description, however, does not establish the external cause of the experience."
+        },
+        {
+          "blockId": "recording-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘잔의 말 그대로’라는 표현도 조심해야 한다",
+          "headingEn": "Even “Joan’s Exact Words” Requires Caution",
+          "textKo": "오늘날 읽는 재판텍스트는 현장에서 녹음된 음성이 아니다. 서기들이 라틴어·프랑스어 기록을 남기고, 사본이 전승됐으며, 현대 독자는 다시 번역된 텍스트를 읽는다. British Library의 Stowe MS 84와 Egerton MS 984 같은 소장기록은 이런 문서전승의 물리적 기반을 보여준다. Work는 이 필사본의 전체 본문을 직접 읽은 것이 아니라 소장기술을 확인했다. 따라서 **현대 번역문을 ‘1431년 잔의 녹취록’처럼 절대화하지 않는다.**",
+          "textEn": "The trial text we read today is not an audio recording. Clerks produced Latin and French records, manuscripts were copied and preserved, and modern readers encounter translations. British Library holdings such as Stowe MS 84 and Egerton MS 984 demonstrate the material transmission of the record. Work verified the archival descriptions, not the entire manuscript text. Modern translation should therefore not be treated as a perfect verbatim recording of Joan in 1431."
+        },
+        {
+          "blockId": "conviction-05",
+          "type": "TURNING_POINT",
+          "headingKo": "1431년 판결은 목소리를 신성하다고 인정하지 않았다",
+          "headingEn": "The 1431 Judgment Did Not Validate the Voices",
+          "textKo": "1431년 절차는 잔의 종교적 주장과 교회권위 문제를 적대적으로 심사했고 결국 유죄판결로 끝났다. 목소리를 들었다는 진술이 재판기록에 있다는 사실은 재판부가 그것을 신성한 계시로 승인했다는 뜻이 아니다. 오히려 기록은 그 주장 자체가 심문의 핵심 쟁점이었음을 보여준다. **‘법정에 기록됐다’와 ‘법정이 사실로 인정했다’는 구분이 필요하다.**",
+          "textEn": "The 1431 proceeding examined Joan’s religious claims and relationship to ecclesiastical authority in an adversarial setting and ended in conviction. The fact that her voices were recorded does not mean the tribunal endorsed them as divine revelation. The record shows that the claims themselves were under scrutiny. Being entered into a court record and being accepted as objectively true are different things."
+        },
+        {
+          "blockId": "rehab-06",
+          "type": "TURNING_POINT",
+          "headingKo": "1456년 재심은 유죄를 무효화했다",
+          "headingEn": "The 1456 Proceeding Nullified the Conviction",
+          "textKo": "잔이 처형된 뒤 수십 년이 지나 1455~1456년 재심·무효절차가 진행됐다. 프랑스 법무부의 역사자료는 1456년 판정이 1431년 유죄판결을 무효화한 절차적·법적 전환을 정리한다. 이것은 잔의 명예와 법적 지위를 바꾸는 사건이었다. 그러나 **1456년 무효판정이 목소리의 초자연적 근원을 과학적으로 증명한 것은 아니다.** 재판의 공정성·절차·증언을 다시 판단한 역사적 법적 결정이다.",
+          "textEn": "Decades after Joan’s execution, a rehabilitation/nullification process took place in 1455–1456. Historical material from the French Ministry of Justice describes the 1456 judgment as overturning the 1431 conviction. This profoundly changed Joan’s legal and historical status. But the nullification did not scientifically prove a supernatural origin for her voices; it was a legal and procedural reassessment of the earlier trial."
+        },
+        {
+          "blockId": "diagnosis-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "현대 정신의학 진단도 자료범위를 넘기 쉽다",
+          "headingEn": "Retrospective Psychiatric Diagnosis Can Also Overreach",
+          "textKo": "잔의 목소리를 현대 의학용어 하나로 설명하려는 시도는 반복된다. 그러나 Work의 W2D 경계는 후향적 정신의학 진단을 확정하지 않는다. 15세기 적대적 법정에서 기록·번역·전승된 종교적 진술만으로 현대 임상진단을 내리는 데는 근본적인 한계가 있기 때문이다. **‘신의 목소리였다’고 확정하는 것과 ‘특정 정신질환이었다’고 확정하는 것 모두 현재 자료가 허용하는 범위를 넘어설 수 있다.**",
+          "textEn": "Modern writers have repeatedly tried to explain Joan’s voices through retrospective medical diagnoses. Work’s W2D boundary does not endorse a specific psychiatric diagnosis. Religious testimony recorded, translated, and transmitted from a fifteenth-century adversarial proceeding is not equivalent to a modern clinical assessment. Both “the voices were objectively divine” and “the voices were definitively a particular disorder” can exceed what the evidence supports."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 목소리의 정체보다 기록의 층위에 있다",
+          "headingEn": "The Mystery Is as Much About Evidence as About the Voices",
+          "textKo": "잔 다르크의 목소리 이야기는 초자연 사건과 역사문서가 만나는 대표적 사례다. 우리는 그녀에게 귀속된 구체적 진술을 읽을 수 있고, 그 진술이 유죄재판과 무효재판에서 서로 다른 법적 의미를 가졌다는 것도 확인할 수 있다. 하지만 목소리의 객관적 원인은 문서가 직접 기록할 수 없는 영역이다. **확실한 것은 ‘경험을 주장한 역사적 인물과 그 주장을 심문한 법정’이며, 미확정인 것은 그 경험의 외부 원인**이다.",
+          "textEn": "Joan of Arc’s voices are a classic case where paranormal interpretation meets documentary history. We can read detailed statements attributed to her and trace how those statements were treated differently in condemnation and nullification proceedings. What the documents cannot directly record is the objective external cause of the experience. The historical person and the legal interrogation are well documented; the ontological source of the voices is not."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1431년 재판기록에는 잔 다르크에게 귀속된 목소리 진술이 상세히 남아 있다. 1455~1456년 재심·무효절차는 1431년 유죄판결을 무효화했다. British Library에는 관련 공식 사본·필사본이 소장돼 있고, 현대 번역은 이 기록전승을 통해 제공된다.\n\n**확인되지 않음:** 목소리가 객관적으로 신적·초자연적 존재였다는 것은 입증되지 않는다. 1456년 무효판정이 이를 과학적으로 증명하지도 않는다. 반대로 현대 후향 정신의학 진단 하나로 원인을 확정할 수도 없다.",
+          "textEn": "**Established:** The 1431 trial record preserves detailed statements attributed to Joan of Arc concerning her voices. The 1455–1456 rehabilitation/nullification process overturned the 1431 conviction. Relevant official copies and manuscripts survive in institutional collections, and modern translations depend on that documentary transmission.\n\n**Not established:** The voices are not objectively proven to have had a divine or supernatural source, and the 1456 nullification did not scientifically establish one. Nor can a single modern retrospective psychiatric diagnosis be confirmed from the surviving trial record."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The 1431 trial record preserves detailed statements attributed to Joan of Arc concerning her voices. The 1455–1456 rehabilitation/nullification process overturned the 1431 conviction. Relevant official copies and manuscripts survive in institutional collections, and modern translations depend on that documentary transmission.\n\n**Not established:** The voices are not objectively proven to have had a divine or supernatural source, and the 1456 nullification did not scientifically establish one. Nor can a single modern retrospective psychiatric diagnosis be confirmed from the surviving trial record.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "capture-02",
+        "content-03",
+        "recording-04",
+        "conviction-05",
+        "rehab-06",
+        "diagnosis-07",
+        "meaning-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "JOAN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1431년 재판기록에는 잔 다르크에게 귀속된 목소리 관련 진술이 남아 있다.",
+      "statementEn": "The 1431 trial record contains statements attributed to Joan of Arc about voices she said she heard.",
+      "sourceRefs": [
+        "JOAN1431"
+      ]
+    },
+    {
+      "claimId": "JOAN-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1456년 재심·무효절차는 1431년 유죄판결을 무효화했다.",
+      "statementEn": "The 1456 nullification proceeding overturned the 1431 conviction.",
+      "sourceRefs": [
+        "JOAN1456"
+      ]
+    },
+    {
+      "claimId": "JOAN-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1456년 무효판정이 목소리의 신적 근원을 과학적으로 증명했다는 주장은 확립되지 않는다.",
+      "statementEn": "The 1456 nullification did not scientifically establish a divine source for the voices.",
+      "sourceRefs": [
+        "JOAN1456"
+      ]
+    },
+    {
+      "claimId": "JOAN-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현대 후향 정신의학 진단 하나로 잔의 경험 원인을 확정할 수 없다.",
+      "statementEn": "A single retrospective psychiatric diagnosis cannot be established from the surviving record.",
+      "sourceRefs": [
+        "JOAN1431",
+        "JOAN_STOWE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "JOAN1431",
+      "title": "The Trial of Joan of Arc — Barrett translation",
+      "publisher": "Fordham Medieval Sourcebook / Barrett 1932 translation",
+      "url": "https://sourcebooks.web.fordham.edu/basis/joanofarc-trial.asp",
+      "sourceType": "PRIMARY_TRIAL_TRANSLATION"
+    },
+    {
+      "sourceId": "JOAN1456",
+      "title": "Procès de Jeanne d’Arc — historical legal context",
+      "publisher": "French Ministry of Justice",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/proces-jeanne-darc",
+      "sourceType": "OFFICIAL_LEGAL_HISTORY"
+    },
+    {
+      "sourceId": "JOAN_STOWE",
+      "title": "Stowe MS 84",
+      "publisher": "British Library",
+      "url": "https://searcharchives.bl.uk/catalog/040-001952867",
+      "sourceType": "ARCHIVAL_MANUSCRIPT_DESCRIPTION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "joan-of-arc-trial-voices-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "잔 다르크의 목소리 주장·1431 재판·기록전승·1456 무효판정을 분리한 hero 도표.",
+      "captionEn": "Hero explainer separating Joan’s reported voices, 1431 trial, document transmission, and 1456 nullification.",
+      "altKo": "개인경험, 재판, 기록, 무효판정의 네 층.",
+      "altEn": "Four layers: reported experience, trial, record transmission, nullification.",
+      "sourceRefs": [
+        "JOAN1431",
+        "JOAN1456",
+        "JOAN_STOWE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "joan-of-arc-trial-voices__hero-context__ko.png",
+          "sha256": "4cf577725ea4c66445c1fd5640602c909013ebbddf9c0fc60a032cf4d3686849",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "joan-of-arc-trial-voices__hero-context__en.png",
+          "sha256": "c77f4f0d3dcf59448c62677ff3dbc072a1e48cf6f5f3dbda9fa9b0b1b195432a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "joan-of-arc-trial-voices-record-vs-cause",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "잔 다르크 재판기록이 확인하는 진술과 신적·의학적 원인 미확정을 분리한 카드.",
+      "captionEn": "Evidence card separating Joan’s documented statements from unproven divine or medical causal claims.",
+      "altKo": "왼쪽 기록사실, 오른쪽 신적·정신의학 원인 미확정.",
+      "altEn": "Two-column comparison of documented testimony and unproven divine/medical causes.",
+      "sourceRefs": [
+        "JOAN1431",
+        "JOAN1456"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "joan-of-arc-trial-voices__record-vs-cause__ko.png",
+          "sha256": "b3179907e89e9440cb21a14c3d5ad5aec3e4a225187ac026c8d188822f8cb161",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "joan-of-arc-trial-voices__record-vs-cause__en.png",
+          "sha256": "1b55f8d7b29489dc0a73fc05795f4c52783968ed50493c0a351c81a8606dd7a4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "joan-of-arc-trial-voices-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "잔 다르크 체포·1431 재판·처형·1455~56 무효절차의 연표.",
+      "captionEn": "Timeline of Joan’s capture, 1431 trial, execution, and 1455–56 nullification process.",
+      "altKo": "1430, 1431, 1431년5월, 1455~56 네 단계.",
+      "altEn": "Four-stage timeline: 1430, 1431, May 1431, 1455–56.",
+      "sourceRefs": [
+        "JOAN1431",
+        "JOAN1456"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "joan-of-arc-trial-voices__timeline__ko.png",
+          "sha256": "e20319212df86e3e0d9cb9309b6daf1f9ba331316d08a5db89cd5630def58a57",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "joan-of-arc-trial-voices__timeline__en.png",
+          "sha256": "e503d884e19937c61f147e75b4bd7c3f741abca7f07f7bc5c829a3031ba5e5fc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "France"
+    ],
+    "regions": [
+      "Compiègne",
+      "Rouen",
+      "Paris"
+    ],
+    "places": [
+      {
+        "name": "Rouen",
+        "role": "1431 trial"
+      },
+      {
+        "name": "Paris",
+        "role": "1455–56 proceeding context"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jeanne d’Arc",
+        "role": "defendant"
+      },
+      {
+        "name": "Pierre Cauchon",
+        "role": "1431 tribunal figure"
+      }
+    ],
+    "organizations": [
+      "1431 ecclesiastical tribunal",
+      "1455–56 nullification tribunal",
+      "British Library",
+      "French Ministry of Justice"
+    ],
+    "dateRange": {
+      "start": "1430-05-23",
+      "end": "1456-07-07",
+      "precision": "capture through nullification"
+    },
+    "era": "15th century",
+    "resolution": "TESTIMONY_AND_NULLIFICATION_ESTABLISHED_SUPERNATURAL_OR_MEDICAL_CAUSE_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Joan of Arc voices",
+      "Trial of Joan of Arc",
+      "Procès de Jeanne d’Arc"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2108,
+    "enBodyWords": 619,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH07",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH07_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

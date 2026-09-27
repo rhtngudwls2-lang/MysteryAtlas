@@ -1,0 +1,567 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "fox-sisters-spiritualism",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "폭스 자매와 영혼 두드림의 시작",
+    "canonicalTitleEn": "Fox Sisters and Hydesville Raps",
+    "aliasesKo": [
+      "폭스 자매",
+      "하이즈빌 두드림"
+    ],
+    "aliasesEn": [
+      "Fox Sisters",
+      "Hydesville Raps"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "LEGEND_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "영혼이 두드렸다는 집—40년 뒤 당사자가 ‘속임수’라고 말했다",
+      "hook": "1848년 두 자매가 시작한 두드림은 미국 Spiritualism의 상징이 됐다. 그런데 사건 40년 뒤, Margaret Fox는 공개석상에서 소리를 만드는 방법을 설명했다. 더 복잡한 건 그 뒤 다시 말을 뒤집었다는 점이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1848년 3월 31일, 벽 안에서 돌아온 대답",
+          "headingEn": "March 31, 1848: Knocks That Seemed to Answer Back",
+          "textKo": "1848년 미국 뉴욕주 Hydesville의 Fox 가족 집에서 이상한 두드림 소리가 화제가 됐다. 어린 Catherine과 Margaret Fox는 소리에 맞춰 손가락을 튕기거나 질문을 던졌고, 두드림이 숫자를 세거나 ‘예/아니오’처럼 반응한다고 주장했다. 이 이야기는 단순한 집안 괴담으로 끝나지 않았다. 이웃들이 모여들고, 소리를 ‘죽은 사람과의 의사소통’으로 해석하는 방식이 만들어지면서 사건은 근대 Spiritualism의 대표적 출발점 가운데 하나로 기억되기 시작했다.",
+          "textEn": "On March 31, 1848, strange knocking sounds in the Fox family home in Hydesville, New York, became a local sensation. Young Catherine and Margaret Fox responded by snapping fingers or asking questions, and the knocks were said to answer by counting or by behaving like yes-and-no responses. The story did not remain a private household ghost tale. Neighbours gathered, a method of interpreting the sounds as communication with the dead developed, and the episode became remembered as one of the foundational events of modern Spiritualism."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "소리에 곧 ‘죽은 행상인’ 이야기가 붙었다",
+          "headingEn": "A Murdered-Peddler Story Grew Around the Sounds",
+          "textKo": "Hydesville 이야기에는 곧 집 아래에 살해돼 묻힌 행상인의 영혼이 소리를 냈다는 서사가 결합됐다. 이름과 살해경위가 전해지는 판본도 생겼다. 그러나 Work 검증자료는 이 행상인의 객관적 신원과 살인사건 자체를 확립된 사실로 두지 않는다. 중요한 것은 실제 영혼의 신원이 확인됐다는 점이 아니라, **익명의 소리가 질문에 대답한다는 시연이 구체적인 사망자 이야기와 결합되면서 훨씬 강한 서사가 됐다는 과정**이다.",
+          "textEn": "The Hydesville story soon acquired a more specific narrative: the knocks were said to come from the spirit of a murdered travelling peddler buried beneath the house. Later versions supplied names and details of the supposed killing. Work’s source review does not treat the peddler’s objective identity or the murder story as established fact. What is historically important is the process: **an unexplained knocking performance became far more persuasive once it was attached to a specific story about a dead person**."
+        },
+        {
+          "blockId": "rochester-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "집 안의 현상이 무대 위 시연으로 바뀌다",
+          "headingEn": "A Household Phenomenon Became a Public Performance",
+          "textKo": "자매는 언니 Leah가 있던 Rochester로 이동했고, 두드림은 점차 공개 시연이 됐다. 관객은 질문을 하고, 소리는 규칙에 따라 답을 주는 것으로 제시됐다. 1851년 Buffalo Medical Journal 계열의 비판문은 당시 시연이 이미 유료 공연의 성격을 띠고 있었다고 기록하며, 초자연 현상이 아니라 신체 관절에서 만들어지는 소리일 수 있다는 설명을 제안했다. 이 점은 사건이 처음부터 ‘믿는 사람 대 안 믿는 사람’으로 단순히 나뉜 것이 아니었음을 보여준다. 현상이 유명해지는 동안 동시에 **검증과 폭로 시도도 따라붙었다.**",
+          "textEn": "The sisters moved into the orbit of their older sister Leah in Rochester, and the raps gradually became public demonstrations. Audiences asked questions and the sounds were presented as answers according to agreed signals. An 1851 critical pamphlet associated with the *Buffalo Medical Journal* described the demonstrations as paid performances and proposed that the noises could be produced by bodily joints rather than spirits. The case was therefore never simply believers on one side and silent skeptics on the other. **Attempts to test and expose the phenomenon grew alongside its popularity.**"
+        },
+        {
+          "blockId": "critique-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1851년 비판은 이미 ‘관절음’을 의심했다",
+          "headingEn": "By 1851, Critics Were Already Suspecting Joint Sounds",
+          "textKo": "1851년 비판 자료는 두드림이 외부의 보이지 않는 존재가 아니라 자매의 신체에서 발생할 수 있다고 보았다. 특히 발가락이나 발 관절을 이용해 반복적인 딱딱 소리를 만드는 설명이 제기됐다. 이것이 모든 공연의 모든 소리를 실험적으로 재현한 완전한 증명이라고 볼 수는 없다. 당시 조사조건과 기록에는 한계가 있었다. 하지만 훗날 Margaret가 공개 고백에서 발가락 관절을 이용한 소리 발생을 설명했다는 점 때문에 이 초기 비판은 사건의 중요한 반증자료가 된다.",
+          "textEn": "The 1851 critical account argued that the knocks could come from the sisters’ bodies rather than an invisible external agency, proposing repeated clicking or cracking from toes or foot joints. It should not be treated as a complete experiment that reproduced every sound in every performance; the historical investigation had obvious limitations. But the critique became especially important in hindsight because Margaret later publicly described producing raps through toe-joint movements. The early criticism and the later confession therefore reinforce one another without proving that every single historical demonstration used an identical mechanism."
+        },
+        {
+          "blockId": "growth-05",
+          "type": "BACKGROUND",
+          "headingKo": "현상보다 더 커진 운동",
+          "headingEn": "The Movement Became Bigger Than the Original Raps",
+          "textKo": "폭스 자매가 유명해질 무렵 미국에서는 죽은 사람과의 교신, séance, mediumship에 관심을 가진 사람들이 빠르게 늘었다. 자매의 시연은 새로운 종교·문화운동의 상징으로 소비됐다. 그래서 Hydesville 사건의 역사적 중요성과 ‘영혼이 실제로 응답했다’는 명제는 따로 다뤄야 한다. **폭스 자매가 Spiritualism 확산에 큰 영향을 줬다는 역사적 사실은, 그들이 정말 죽은 사람과 대화했다는 과학적 증거가 아니다.** 사건의 사회적 영향은 초자연 원인의 진위와 독립적으로 연구할 수 있다.",
+          "textEn": "As the Fox sisters became famous, American interest in communication with the dead, séances, and mediumship expanded rapidly. Their demonstrations became symbolic within a broader religious and cultural movement. That means the historical importance of the Hydesville story must be separated from the proposition that spirits actually answered the sisters. **The Fox sisters’ influence on the growth of Spiritualism is a historical fact; it is not scientific evidence that they communicated with the dead.** Social impact and supernatural causation are different questions."
+        },
+        {
+          "blockId": "confession-06",
+          "type": "TURNING_POINT",
+          "headingKo": "1888년, Margaret가 공개적으로 ‘속임수’라고 말했다",
+          "headingEn": "1888: Margaret Publicly Called It a Fraud",
+          "textKo": "사건이 시작된 지 40년 뒤인 1888년, Margaret Fox는 공개적으로 초기 두드림 현상이 속임수였다고 고백했다. 당시 출판된 텍스트에는 자매가 신체 관절, 특히 발가락을 이용해 소리를 만들었다는 설명과 함께 시연이 소개됐다. 이 고백문이 실제로 존재한다는 사실은 Work의 W2D 검증에서 별도로 확인됐다. 따라서 ‘폭스 자매가 그런 고백을 한 적이 없다’는 주장은 유지하기 어렵다. 다만 고백이 나왔다는 사실과 **고백의 모든 동기·세부가 변하지 않는 최종 증언이었다는 주장**은 다시 구분해야 한다.",
+          "textEn": "Forty years after the Hydesville events, Margaret Fox publicly confessed in 1888 that the original spirit raps had been fraudulent. Contemporary published material described the use of bodily joints—especially the toes—to produce the sounds, alongside public demonstration. Work’s W2D verification separately confirmed the existence of this confession in the historical record. The claim that no such confession occurred is therefore difficult to sustain. But the existence of the confession must still be distinguished from the stronger claim that **every detail of her account remained her final and unchanging position**."
+        },
+        {
+          "blockId": "reversal-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그 뒤 다시 뒤집힌 말은 무엇을 바꾸나",
+          "headingEn": "What Does the Later Reversal Change?",
+          "textKo": "Margaret의 고백 이후에는 이를 철회하거나 뒤집는 발언도 전해졌다. Spiritualism 지지자들은 고백 당시의 경제적 사정과 주변 압력, 자매의 갈등 등을 들어 신뢰성을 공격했다. Work는 이 후대 반대서사가 실제로 존재했다는 점을 확인했지만, 그것이 1888년 고백을 자동으로 무효화하거나 초자연 원인을 입증한다고 보지 않는다. 역사자료의 상태는 더 복잡하다. **고백과 번복이 모두 기록돼 있기 때문에 인물의 동기를 단정하기보다, 어떤 주장에 독립적 증거가 붙어 있는지를 따져야 한다.**",
+          "textEn": "Statements reversing or withdrawing Margaret’s confession were reported later. Spiritualist defenders attacked the confession’s reliability by pointing to financial pressures, family conflict, and circumstances surrounding the public admission. Work confirmed that this later counter-narrative existed, but its existence does not automatically erase the 1888 confession or prove a supernatural cause. The historical record is simply more complicated. **Because confession and reversal are both part of the record, the stronger question is not motive alone, but which claims are independently supported by evidence.**"
+        },
+        {
+          "blockId": "limits-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘발가락 관절음’도 모든 장면의 CCTV는 아니다",
+          "headingEn": "The Joint-Cracking Explanation Is Not a Recording of Every Performance",
+          "textKo": "1888년 고백과 1851년 비판이 같은 방향을 가리킨다고 해서 1848년부터 이어진 모든 시연의 모든 소리를 하나씩 복원한 것은 아니다. 관객 배치, 바닥재, 자매의 자세, 공연장 환경은 시기마다 달랐고 19세기 기록만으로 모든 세부를 재실험할 수 없다. 그래서 Mystery Atlas는 ‘영혼이 했다’는 주장을 사실로 인정하지 않으면서도, ‘역사상 모든 랩은 정확히 동일한 관절기술로 100% 재현됐다’는 식의 과장도 피한다. 확인할 수 있는 것은 **초자연적 원인을 요구하지 않는 구체적 속임수 설명이 동시대 비판과 당사자 고백에 모두 존재한다는 점**이다.",
+          "textEn": "Even though the 1888 confession and the 1851 critique point in the same direction, they do not reconstruct every rap in every demonstration from 1848 onward. Audience layouts, flooring, posture, and performance conditions changed, and nineteenth-century records cannot replay each event experimentally. Mystery Atlas therefore does not accept spirits as an established cause, but it also avoids the overstatement that every historical knock has been individually reproduced with the exact same toe technique. What can be established is **that a concrete non-supernatural method appears both in contemporary criticism and in a later confession by a participant**."
+        },
+        {
+          "blockId": "evidence-09",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘소리가 났다’와 ‘영혼이 냈다’ 사이의 거리",
+          "headingEn": "The Distance Between “There Were Knocks” and “Spirits Made Them”",
+          "textKo": "폭스 자매 사건은 초자연 주장 검증에서 매우 기본적인 구분을 보여준다. 관객들이 실제로 소리를 들었다는 기록이 많다고 해도, 그 사실은 소리의 원인을 결정하지 않는다. 소리와 질문 사이에 규칙이 있었다는 기록도 마찬가지다. 어떤 시연이 인상적이었다는 증언은 ‘설명해야 할 관측’이지 ‘영혼이 존재한다는 결론’이 아니다. 1851년 비판과 1888년 고백은 바로 원인단계에 다른 설명을 제공한다. **현상의 존재와 현상의 해석을 분리하는 것**이 이 사건의 Evidence 구조다.",
+          "textEn": "The Fox sisters case demonstrates a basic rule in evaluating paranormal claims. Numerous people recording that they heard knocks does not determine what caused the sounds. Nor does the existence of a code linking questions and knocks establish the identity of the source. A striking performance is an observation that needs explanation; it is not automatically evidence that spirits exist. The 1851 critique and the 1888 confession provide a competing causal account. **The event and the interpretation of the event must be kept separate.**"
+        },
+        {
+          "blockId": "legacy-10",
+          "type": "AFTERMATH",
+          "headingKo": "사기가 드러나도 운동은 사라지지 않았다",
+          "headingEn": "The Movement Outlived the Explanations",
+          "textKo": "폭스 자매의 이야기가 흥미로운 이유는 고백이 나온 뒤 모든 것이 끝나지 않았기 때문이다. Spiritualism은 이미 자매 세 명의 개인적 신뢰도를 넘어선 종교·문화적 운동이 돼 있었다. 지지자들은 고백을 부정하거나 다시 해석했고, 회의론자들은 사건을 대표적인 폭로 사례로 사용했다. 같은 자료가 서로 다른 공동체에서 완전히 다른 의미를 갖게 된 것이다. 그래서 이 사건의 마지막 장은 ‘요정처럼 정답이 밝혀졌다’가 아니라, **한 번 형성된 믿음의 체계가 창립 이야기의 신뢰성 논쟁을 어떻게 흡수하는가**에 있다.",
+          "textEn": "The Fox story is especially revealing because the movement did not disappear after the confession. Spiritualism had already grown beyond the personal credibility of the three sisters into a much larger religious and cultural community. Supporters disputed or reinterpreted the confession, while skeptics used it as a defining exposure. The same historical record acquired opposite meanings in different communities. The final act of the case is therefore not simply “the trick was revealed,” but **how an established belief system absorbed a challenge to one of its founding stories**."
+        },
+        {
+          "blockId": "boundary-11",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1848년 Hydesville의 Fox 자매 두드림 사건과 이후 Rochester 공개시연은 19세기 기록에 남아 있다. 1851년 비판자료에는 신체 관절로 소리를 만들 수 있다는 설명과 유료시연 비판이 존재한다. 1888년 Margaret Fox의 공개 고백과 발가락 관절음을 이용했다는 설명도 출판기록으로 확인된다. 이후 고백을 뒤집거나 비판하는 Spiritualist 서사 역시 역사적으로 존재한다.\n\n**경계:** 모든 역사적 시연의 개별 소리가 동일한 기술로 만들어졌다고 직접 실험확인된 것은 아니다. Hydesville 집 아래 살해된 행상인의 객관적 신원과 살인 이야기는 이번 검증자료에서 확립되지 않는다. 무엇보다 영혼이 실제로 두드림을 만들었다는 초자연적 원인은 입증되지 않는다.",
+          "textEn": "**Established:** The 1848 Hydesville rapping story and later public demonstrations in Rochester are documented in nineteenth-century sources. An 1851 critical account proposed bodily joint sounds and criticized the paid performances. Margaret Fox’s 1888 public confession, including an explanation involving toe-joint sounds, is also preserved in published material. Later Spiritualist narratives challenging or reversing the confession are historically real as well.\n\n**Boundary:** Every sound in every historical demonstration was not individually tested and reproduced by the same method. The objective identity of the supposedly murdered peddler beneath the Hydesville house is not established by the sources reviewed here. Most importantly, a supernatural cause involving communicating spirits is not demonstrated."
+        }
+      ],
+      "factBoundary": {
+        "established": "1848 사건, 1851 관절음 비판, 1888 공개고백과 후대 번복서사는 역사자료로 확인된다.",
+        "notEstablished": "모든 시연의 정확한 기계적 원인과 영혼의 객관적 존재, 지하실 행상인의 신원은 확립되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "rochester-03",
+        "critique-04",
+        "growth-05",
+        "confession-06",
+        "reversal-07",
+        "limits-08",
+        "evidence-09",
+        "legacy-10"
+      ]
+    },
+    "en": {
+      "headline": "A House Said to Answer With Spirit Raps—Then One Sister Called It a Fraud",
+      "hook": "The raps begun by two sisters in 1848 became a founding story of American Spiritualism. Forty years later, Margaret Fox publicly described how the sounds could be made. The record became more complicated when she later reversed course.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1848년 3월 31일, 벽 안에서 돌아온 대답",
+          "headingEn": "March 31, 1848: Knocks That Seemed to Answer Back",
+          "textKo": "1848년 미국 뉴욕주 Hydesville의 Fox 가족 집에서 이상한 두드림 소리가 화제가 됐다. 어린 Catherine과 Margaret Fox는 소리에 맞춰 손가락을 튕기거나 질문을 던졌고, 두드림이 숫자를 세거나 ‘예/아니오’처럼 반응한다고 주장했다. 이 이야기는 단순한 집안 괴담으로 끝나지 않았다. 이웃들이 모여들고, 소리를 ‘죽은 사람과의 의사소통’으로 해석하는 방식이 만들어지면서 사건은 근대 Spiritualism의 대표적 출발점 가운데 하나로 기억되기 시작했다.",
+          "textEn": "On March 31, 1848, strange knocking sounds in the Fox family home in Hydesville, New York, became a local sensation. Young Catherine and Margaret Fox responded by snapping fingers or asking questions, and the knocks were said to answer by counting or by behaving like yes-and-no responses. The story did not remain a private household ghost tale. Neighbours gathered, a method of interpreting the sounds as communication with the dead developed, and the episode became remembered as one of the foundational events of modern Spiritualism."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "소리에 곧 ‘죽은 행상인’ 이야기가 붙었다",
+          "headingEn": "A Murdered-Peddler Story Grew Around the Sounds",
+          "textKo": "Hydesville 이야기에는 곧 집 아래에 살해돼 묻힌 행상인의 영혼이 소리를 냈다는 서사가 결합됐다. 이름과 살해경위가 전해지는 판본도 생겼다. 그러나 Work 검증자료는 이 행상인의 객관적 신원과 살인사건 자체를 확립된 사실로 두지 않는다. 중요한 것은 실제 영혼의 신원이 확인됐다는 점이 아니라, **익명의 소리가 질문에 대답한다는 시연이 구체적인 사망자 이야기와 결합되면서 훨씬 강한 서사가 됐다는 과정**이다.",
+          "textEn": "The Hydesville story soon acquired a more specific narrative: the knocks were said to come from the spirit of a murdered travelling peddler buried beneath the house. Later versions supplied names and details of the supposed killing. Work’s source review does not treat the peddler’s objective identity or the murder story as established fact. What is historically important is the process: **an unexplained knocking performance became far more persuasive once it was attached to a specific story about a dead person**."
+        },
+        {
+          "blockId": "rochester-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "집 안의 현상이 무대 위 시연으로 바뀌다",
+          "headingEn": "A Household Phenomenon Became a Public Performance",
+          "textKo": "자매는 언니 Leah가 있던 Rochester로 이동했고, 두드림은 점차 공개 시연이 됐다. 관객은 질문을 하고, 소리는 규칙에 따라 답을 주는 것으로 제시됐다. 1851년 Buffalo Medical Journal 계열의 비판문은 당시 시연이 이미 유료 공연의 성격을 띠고 있었다고 기록하며, 초자연 현상이 아니라 신체 관절에서 만들어지는 소리일 수 있다는 설명을 제안했다. 이 점은 사건이 처음부터 ‘믿는 사람 대 안 믿는 사람’으로 단순히 나뉜 것이 아니었음을 보여준다. 현상이 유명해지는 동안 동시에 **검증과 폭로 시도도 따라붙었다.**",
+          "textEn": "The sisters moved into the orbit of their older sister Leah in Rochester, and the raps gradually became public demonstrations. Audiences asked questions and the sounds were presented as answers according to agreed signals. An 1851 critical pamphlet associated with the *Buffalo Medical Journal* described the demonstrations as paid performances and proposed that the noises could be produced by bodily joints rather than spirits. The case was therefore never simply believers on one side and silent skeptics on the other. **Attempts to test and expose the phenomenon grew alongside its popularity.**"
+        },
+        {
+          "blockId": "critique-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1851년 비판은 이미 ‘관절음’을 의심했다",
+          "headingEn": "By 1851, Critics Were Already Suspecting Joint Sounds",
+          "textKo": "1851년 비판 자료는 두드림이 외부의 보이지 않는 존재가 아니라 자매의 신체에서 발생할 수 있다고 보았다. 특히 발가락이나 발 관절을 이용해 반복적인 딱딱 소리를 만드는 설명이 제기됐다. 이것이 모든 공연의 모든 소리를 실험적으로 재현한 완전한 증명이라고 볼 수는 없다. 당시 조사조건과 기록에는 한계가 있었다. 하지만 훗날 Margaret가 공개 고백에서 발가락 관절을 이용한 소리 발생을 설명했다는 점 때문에 이 초기 비판은 사건의 중요한 반증자료가 된다.",
+          "textEn": "The 1851 critical account argued that the knocks could come from the sisters’ bodies rather than an invisible external agency, proposing repeated clicking or cracking from toes or foot joints. It should not be treated as a complete experiment that reproduced every sound in every performance; the historical investigation had obvious limitations. But the critique became especially important in hindsight because Margaret later publicly described producing raps through toe-joint movements. The early criticism and the later confession therefore reinforce one another without proving that every single historical demonstration used an identical mechanism."
+        },
+        {
+          "blockId": "growth-05",
+          "type": "BACKGROUND",
+          "headingKo": "현상보다 더 커진 운동",
+          "headingEn": "The Movement Became Bigger Than the Original Raps",
+          "textKo": "폭스 자매가 유명해질 무렵 미국에서는 죽은 사람과의 교신, séance, mediumship에 관심을 가진 사람들이 빠르게 늘었다. 자매의 시연은 새로운 종교·문화운동의 상징으로 소비됐다. 그래서 Hydesville 사건의 역사적 중요성과 ‘영혼이 실제로 응답했다’는 명제는 따로 다뤄야 한다. **폭스 자매가 Spiritualism 확산에 큰 영향을 줬다는 역사적 사실은, 그들이 정말 죽은 사람과 대화했다는 과학적 증거가 아니다.** 사건의 사회적 영향은 초자연 원인의 진위와 독립적으로 연구할 수 있다.",
+          "textEn": "As the Fox sisters became famous, American interest in communication with the dead, séances, and mediumship expanded rapidly. Their demonstrations became symbolic within a broader religious and cultural movement. That means the historical importance of the Hydesville story must be separated from the proposition that spirits actually answered the sisters. **The Fox sisters’ influence on the growth of Spiritualism is a historical fact; it is not scientific evidence that they communicated with the dead.** Social impact and supernatural causation are different questions."
+        },
+        {
+          "blockId": "confession-06",
+          "type": "TURNING_POINT",
+          "headingKo": "1888년, Margaret가 공개적으로 ‘속임수’라고 말했다",
+          "headingEn": "1888: Margaret Publicly Called It a Fraud",
+          "textKo": "사건이 시작된 지 40년 뒤인 1888년, Margaret Fox는 공개적으로 초기 두드림 현상이 속임수였다고 고백했다. 당시 출판된 텍스트에는 자매가 신체 관절, 특히 발가락을 이용해 소리를 만들었다는 설명과 함께 시연이 소개됐다. 이 고백문이 실제로 존재한다는 사실은 Work의 W2D 검증에서 별도로 확인됐다. 따라서 ‘폭스 자매가 그런 고백을 한 적이 없다’는 주장은 유지하기 어렵다. 다만 고백이 나왔다는 사실과 **고백의 모든 동기·세부가 변하지 않는 최종 증언이었다는 주장**은 다시 구분해야 한다.",
+          "textEn": "Forty years after the Hydesville events, Margaret Fox publicly confessed in 1888 that the original spirit raps had been fraudulent. Contemporary published material described the use of bodily joints—especially the toes—to produce the sounds, alongside public demonstration. Work’s W2D verification separately confirmed the existence of this confession in the historical record. The claim that no such confession occurred is therefore difficult to sustain. But the existence of the confession must still be distinguished from the stronger claim that **every detail of her account remained her final and unchanging position**."
+        },
+        {
+          "blockId": "reversal-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그 뒤 다시 뒤집힌 말은 무엇을 바꾸나",
+          "headingEn": "What Does the Later Reversal Change?",
+          "textKo": "Margaret의 고백 이후에는 이를 철회하거나 뒤집는 발언도 전해졌다. Spiritualism 지지자들은 고백 당시의 경제적 사정과 주변 압력, 자매의 갈등 등을 들어 신뢰성을 공격했다. Work는 이 후대 반대서사가 실제로 존재했다는 점을 확인했지만, 그것이 1888년 고백을 자동으로 무효화하거나 초자연 원인을 입증한다고 보지 않는다. 역사자료의 상태는 더 복잡하다. **고백과 번복이 모두 기록돼 있기 때문에 인물의 동기를 단정하기보다, 어떤 주장에 독립적 증거가 붙어 있는지를 따져야 한다.**",
+          "textEn": "Statements reversing or withdrawing Margaret’s confession were reported later. Spiritualist defenders attacked the confession’s reliability by pointing to financial pressures, family conflict, and circumstances surrounding the public admission. Work confirmed that this later counter-narrative existed, but its existence does not automatically erase the 1888 confession or prove a supernatural cause. The historical record is simply more complicated. **Because confession and reversal are both part of the record, the stronger question is not motive alone, but which claims are independently supported by evidence.**"
+        },
+        {
+          "blockId": "limits-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘발가락 관절음’도 모든 장면의 CCTV는 아니다",
+          "headingEn": "The Joint-Cracking Explanation Is Not a Recording of Every Performance",
+          "textKo": "1888년 고백과 1851년 비판이 같은 방향을 가리킨다고 해서 1848년부터 이어진 모든 시연의 모든 소리를 하나씩 복원한 것은 아니다. 관객 배치, 바닥재, 자매의 자세, 공연장 환경은 시기마다 달랐고 19세기 기록만으로 모든 세부를 재실험할 수 없다. 그래서 Mystery Atlas는 ‘영혼이 했다’는 주장을 사실로 인정하지 않으면서도, ‘역사상 모든 랩은 정확히 동일한 관절기술로 100% 재현됐다’는 식의 과장도 피한다. 확인할 수 있는 것은 **초자연적 원인을 요구하지 않는 구체적 속임수 설명이 동시대 비판과 당사자 고백에 모두 존재한다는 점**이다.",
+          "textEn": "Even though the 1888 confession and the 1851 critique point in the same direction, they do not reconstruct every rap in every demonstration from 1848 onward. Audience layouts, flooring, posture, and performance conditions changed, and nineteenth-century records cannot replay each event experimentally. Mystery Atlas therefore does not accept spirits as an established cause, but it also avoids the overstatement that every historical knock has been individually reproduced with the exact same toe technique. What can be established is **that a concrete non-supernatural method appears both in contemporary criticism and in a later confession by a participant**."
+        },
+        {
+          "blockId": "evidence-09",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘소리가 났다’와 ‘영혼이 냈다’ 사이의 거리",
+          "headingEn": "The Distance Between “There Were Knocks” and “Spirits Made Them”",
+          "textKo": "폭스 자매 사건은 초자연 주장 검증에서 매우 기본적인 구분을 보여준다. 관객들이 실제로 소리를 들었다는 기록이 많다고 해도, 그 사실은 소리의 원인을 결정하지 않는다. 소리와 질문 사이에 규칙이 있었다는 기록도 마찬가지다. 어떤 시연이 인상적이었다는 증언은 ‘설명해야 할 관측’이지 ‘영혼이 존재한다는 결론’이 아니다. 1851년 비판과 1888년 고백은 바로 원인단계에 다른 설명을 제공한다. **현상의 존재와 현상의 해석을 분리하는 것**이 이 사건의 Evidence 구조다.",
+          "textEn": "The Fox sisters case demonstrates a basic rule in evaluating paranormal claims. Numerous people recording that they heard knocks does not determine what caused the sounds. Nor does the existence of a code linking questions and knocks establish the identity of the source. A striking performance is an observation that needs explanation; it is not automatically evidence that spirits exist. The 1851 critique and the 1888 confession provide a competing causal account. **The event and the interpretation of the event must be kept separate.**"
+        },
+        {
+          "blockId": "legacy-10",
+          "type": "AFTERMATH",
+          "headingKo": "사기가 드러나도 운동은 사라지지 않았다",
+          "headingEn": "The Movement Outlived the Explanations",
+          "textKo": "폭스 자매의 이야기가 흥미로운 이유는 고백이 나온 뒤 모든 것이 끝나지 않았기 때문이다. Spiritualism은 이미 자매 세 명의 개인적 신뢰도를 넘어선 종교·문화적 운동이 돼 있었다. 지지자들은 고백을 부정하거나 다시 해석했고, 회의론자들은 사건을 대표적인 폭로 사례로 사용했다. 같은 자료가 서로 다른 공동체에서 완전히 다른 의미를 갖게 된 것이다. 그래서 이 사건의 마지막 장은 ‘요정처럼 정답이 밝혀졌다’가 아니라, **한 번 형성된 믿음의 체계가 창립 이야기의 신뢰성 논쟁을 어떻게 흡수하는가**에 있다.",
+          "textEn": "The Fox story is especially revealing because the movement did not disappear after the confession. Spiritualism had already grown beyond the personal credibility of the three sisters into a much larger religious and cultural community. Supporters disputed or reinterpreted the confession, while skeptics used it as a defining exposure. The same historical record acquired opposite meanings in different communities. The final act of the case is therefore not simply “the trick was revealed,” but **how an established belief system absorbed a challenge to one of its founding stories**."
+        },
+        {
+          "blockId": "boundary-11",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1848년 Hydesville의 Fox 자매 두드림 사건과 이후 Rochester 공개시연은 19세기 기록에 남아 있다. 1851년 비판자료에는 신체 관절로 소리를 만들 수 있다는 설명과 유료시연 비판이 존재한다. 1888년 Margaret Fox의 공개 고백과 발가락 관절음을 이용했다는 설명도 출판기록으로 확인된다. 이후 고백을 뒤집거나 비판하는 Spiritualist 서사 역시 역사적으로 존재한다.\n\n**경계:** 모든 역사적 시연의 개별 소리가 동일한 기술로 만들어졌다고 직접 실험확인된 것은 아니다. Hydesville 집 아래 살해된 행상인의 객관적 신원과 살인 이야기는 이번 검증자료에서 확립되지 않는다. 무엇보다 영혼이 실제로 두드림을 만들었다는 초자연적 원인은 입증되지 않는다.",
+          "textEn": "**Established:** The 1848 Hydesville rapping story and later public demonstrations in Rochester are documented in nineteenth-century sources. An 1851 critical account proposed bodily joint sounds and criticized the paid performances. Margaret Fox’s 1888 public confession, including an explanation involving toe-joint sounds, is also preserved in published material. Later Spiritualist narratives challenging or reversing the confession are historically real as well.\n\n**Boundary:** Every sound in every historical demonstration was not individually tested and reproduced by the same method. The objective identity of the supposedly murdered peddler beneath the Hydesville house is not established by the sources reviewed here. Most importantly, a supernatural cause involving communicating spirits is not demonstrated."
+        }
+      ],
+      "factBoundary": {
+        "established": "The 1848 events, an 1851 joint-sound critique, the 1888 public confession, and later counter-narratives are historically documented.",
+        "notEstablished": "The exact mechanism of every performance, the murdered-peddler identity, and an objective supernatural spirit source are not established."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "rochester-03",
+        "critique-04",
+        "growth-05",
+        "confession-06",
+        "reversal-07",
+        "limits-08",
+        "evidence-09",
+        "legacy-10"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "FOX-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1848년 Hydesville Fox 가족 집의 두드림 사건과 이후 공개시연은 역사자료에 기록돼 있다.",
+      "statementEn": "The 1848 Hydesville rapping episode and later public demonstrations are historically documented.",
+      "sourceRefs": [
+        "FOX1851",
+        "FOX1888"
+      ]
+    },
+    {
+      "claimId": "FOX-C2",
+      "status": "SUPPORTED",
+      "statementKo": "1851년 비판자료는 소리를 신체 관절, 특히 발 부위에서 만들 수 있다는 설명을 제시했다.",
+      "statementEn": "An 1851 critical account proposed that the sounds could be produced by bodily joints, particularly in the feet.",
+      "sourceRefs": [
+        "FOX1851"
+      ]
+    },
+    {
+      "claimId": "FOX-C3",
+      "status": "CONFIRMED",
+      "statementKo": "1888년 Margaret Fox는 초기 두드림을 속임수라고 공개 고백하고 발가락 관절음을 이용한 방식을 설명했다.",
+      "statementEn": "In 1888 Margaret Fox publicly confessed that the original raps were fraudulent and described producing sounds with toe joints.",
+      "sourceRefs": [
+        "FOX1888"
+      ]
+    },
+    {
+      "claimId": "FOX-C4",
+      "status": "DISPUTED",
+      "statementKo": "Margaret의 1888년 고백의 동기와 이후 번복이 그 고백을 어떻게 평가하게 하는지는 논쟁적이다.",
+      "statementEn": "The motives behind Margaret's 1888 confession and the significance of her later reversal remain disputed.",
+      "sourceRefs": [
+        "FOX1888",
+        "FOX_LATER"
+      ]
+    },
+    {
+      "claimId": "FOX-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 공개시연의 모든 소리가 동일한 관절기술로 만들어졌다는 점은 개별적으로 입증되지 않았다.",
+      "statementEn": "It is not individually established that every sound in every demonstration was produced by exactly the same joint technique.",
+      "sourceRefs": [
+        "FOX1851",
+        "FOX1888"
+      ]
+    },
+    {
+      "claimId": "FOX-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "두드림이 실제 영혼과의 의사소통이었다는 초자연적 원인은 입증되지 않았다.",
+      "statementEn": "A supernatural explanation involving communication with spirits is not established.",
+      "sourceRefs": [
+        "FOX1851",
+        "FOX1888",
+        "FOX_LATER"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "FOX1851",
+      "title": "Rochester Knockings: Discovery and Explanation",
+      "publisher": "Rochester Public Library digitization / Buffalo Medical Journal context",
+      "url": "https://libraryweb.org/~digitized/books/Rochester_Knockings_Discovery_and_Explanation.pdf",
+      "sourceType": "PRIMARY_CONTEMPORARY_CRITICAL_PAMPHLET",
+      "scope": "1851 criticism, joint-sound hypothesis, paid performance context"
+    },
+    {
+      "sourceId": "FOX1888",
+      "title": "The Death-Blow to Spiritualism: Being the True Story of the Fox Sisters",
+      "publisher": "R. B. Davenport (1888) / Project Gutenberg",
+      "url": "https://www.gutenberg.org/files/33506/33506-h/33506-h.htm",
+      "sourceType": "PRIMARY_1888_CONFESSION_ADVOCACY_TEXT",
+      "scope": "public confession and toe-joint explanation; author has anti-Spiritualist viewpoint"
+    },
+    {
+      "sourceId": "FOX_LATER",
+      "title": "The Fox Sisters and later Spiritualist interpretation",
+      "publisher": "T. O. Todd / Project Gutenberg",
+      "url": "https://www.gutenberg.org/files/30403/old/30403-h/30403-h.htm",
+      "sourceType": "PRIMARY_LATER_SPIRITUALIST_INTERPRETATION",
+      "scope": "later counter-narrative/reversal context, not proof of supernatural cause"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "fox-sisters-spiritualism-confession-vs-reversal",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1888년 고백과 후대 번복의 역사적 의미를 분리한 카드.",
+      "captionEn": "Evidence card separating the 1888 confession from later reversal narratives.",
+      "altKo": "왼쪽 공개고백, 오른쪽 번복·반론의 의미를 비교.",
+      "altEn": "Two-column comparison of the public confession and later reversal/counter-narratives.",
+      "sourceRefs": [
+        "FOX1888",
+        "FOX_LATER"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fox-sisters-spiritualism__confession-vs-reversal__ko.png",
+          "sha256": "224ac2b02c57639a9e33d458698491bf630a09467a22b06b7658dc0b821af058",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fox-sisters-spiritualism__confession-vs-reversal__en.png",
+          "sha256": "cf41d8ffd56607ffefc228c1f01582dd8d484e60a1156871d4179c64c51e06e4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fox-sisters-spiritualism-evidence-layers",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "두드림 관측에서 영혼 원인주장까지 증거층을 단계별로 분리한 도표.",
+      "captionEn": "Evidence stack separating observed raps from the claim of spirit causation.",
+      "altKo": "관측, 규칙, 대안설, 고백, 경계의 다섯 층.",
+      "altEn": "Five-layer evidence stack: observation, code, alternative, confession, boundary.",
+      "sourceRefs": [
+        "FOX1851",
+        "FOX1888"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fox-sisters-spiritualism__evidence-layers__ko.png",
+          "sha256": "350106b2974b1b9e4b2e0eb6cb0c284ce4781f1cf18df4dcd0243c874522cdb7",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fox-sisters-spiritualism__evidence-layers__en.png",
+          "sha256": "ee3d820efc6a539cf90c31e680c09cf15ac78cbaca40ea86cb2c78819dfe0e88",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fox-sisters-spiritualism-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "폭스 자매 두드림 사건의 1848·1851·1888·후대 반론을 한눈에 정리한 hero 도표.",
+      "captionEn": "Hero explainer showing the 1848 raps, 1851 critique, 1888 confession, and later reversal.",
+      "altKo": "1848 사건부터 후대 번복까지 네 층.",
+      "altEn": "Four-stage diagram from the 1848 events to later reversal.",
+      "sourceRefs": [
+        "FOX1851",
+        "FOX1888",
+        "FOX_LATER"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fox-sisters-spiritualism__hero-context__ko.png",
+          "sha256": "1db89d0a8aa7ee9cc878e70844c7d5ff19f6b62bb752ec9c133305c4e153f1c6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fox-sisters-spiritualism__hero-context__en.png",
+          "sha256": "2eb50a3713e72f1b1cefb7ac5c284f99afca0a32903d6771648434888f049e46",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fox-sisters-spiritualism-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "폭스 자매 사건의 핵심문서·주장 변화를 정리한 연표.",
+      "captionEn": "Timeline of the key documentary stages in the Fox sisters case.",
+      "altKo": "1848, 1851, 1888, 후대 번복을 표시.",
+      "altEn": "Timeline marking 1848, 1851, 1888, and later reversal.",
+      "sourceRefs": [
+        "FOX1851",
+        "FOX1888",
+        "FOX_LATER"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fox-sisters-spiritualism__timeline__ko.png",
+          "sha256": "acdd585722c8cb5f93ca4dcb80a47707e070543783950a1e45100221f8f8f7e1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fox-sisters-spiritualism__timeline__en.png",
+          "sha256": "981b314030653def6c172262b1fee7549e1ec6669a6101c73916c866e9fd553a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New York"
+    ],
+    "places": [
+      {
+        "name": "Hydesville",
+        "role": "1848 origin story"
+      },
+      {
+        "name": "Rochester",
+        "role": "public demonstrations"
+      },
+      {
+        "name": "New York City",
+        "role": "1888 public confession context"
+      }
+    ],
+    "people": [
+      {
+        "name": "Margaret Fox",
+        "role": "participant / later confessor"
+      },
+      {
+        "name": "Catherine Fox",
+        "role": "participant"
+      },
+      {
+        "name": "Leah Fox Fish",
+        "role": "older sister / public career context"
+      }
+    ],
+    "organizations": [
+      "Rochester audiences",
+      "Spiritualist movement"
+    ],
+    "dateRange": {
+      "start": "1848-03-31",
+      "end": "late 1880s",
+      "precision": "origin through confession/reversal period"
+    },
+    "era": "19th century",
+    "resolution": "SPIRIT_CLAIM_NOT_ESTABLISHED_CONFESSION_AND_REVERSAL_RECORDED",
+    "searchAliases": [
+      "Fox Sisters",
+      "Hydesville Raps",
+      "spirit rapping"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3198,
+    "enBodyWords": 980,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH03",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH03_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "salem-spectral-evidence",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "세일럼 재판의 보이지 않는 증거",
+    "canonicalTitleEn": "Salem Spectral Evidence in Witch Trials",
+    "aliasesKo": [
+      "세일럼 마녀재판 환영 증거"
+    ],
+    "aliasesEn": [
+      "Salem spectral evidence",
+      "Salem witch trials spectral testimony"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "LEGEND_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "보이지 않는 ‘형상’은 어떻게 사람을 죽음까지 몰고 갔나",
+      "hook": "누군가의 환영이 자신을 괴롭혔다는 말이 1692년 Salem에서는 실제 법정증거가 될 수 있었다. 사건의 핵심은 마녀가 존재했는지가 아니라, 검증하기 어려운 증언을 법이 어떻게 다뤘고 그 기준이 바뀌자 결과가 어떻게 달라졌는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1692년 봄, 보이지 않는 피고가 법정에 들어오다",
+          "headingEn": "1692: An Invisible Accuser Entered the Courtroom",
+          "textKo": "1692년 매사추세츠만 식민지의 Salem Village에서는 사람들이 눈앞에 없는 존재를 봤다고 말하기 시작했다. 어떤 이는 특정 이웃의 ‘형상’이 자신을 꼬집고, 목을 조르고, 괴롭힌다고 증언했다. 문제는 그런 형상이 다른 사람에게는 보이지 않을 수 있다는 점이었다. 오늘날 이런 증언을 초자연 현상의 기록으로만 읽기 쉽지만, 당시에는 훨씬 직접적인 결과를 낳았다. **보이지 않는 형상에 대한 증언이 실제 형사재판의 증거로 받아들여졌다.** 이른바 spectral evidence, ‘환영 증거’였다.",
+          "textEn": "In 1692, residents of Salem Village in the Massachusetts Bay Colony began describing things other people could not see. Accusers said the “shape” or apparition of a particular neighbour pinched, choked, or tormented them. The crucial problem was that the alleged apparition might be visible only to the accuser. It is easy to read such testimony today merely as a record of supernatural belief. In Salem, it had a much more immediate consequence: **testimony about invisible apparitions was admitted into criminal proceedings as evidence.** This became known as spectral evidence."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "마녀재판은 갑자기 생긴 제도가 아니었다",
+          "headingEn": "The Witch Trials Did Not Appear From Nowhere",
+          "textKo": "17세기 매사추세츠에는 이미 마술·마녀 혐의 재판의 전례가 있었다. 그러나 1692년 Salem 일대의 고발은 규모와 속도에서 이전과 달랐다. Massachusetts Archives는 수백 명이 고발·체포·투옥됐고, 결국 20명이 처형되고 최소 5명이 감옥에서 숨졌다고 정리한다. 사건은 가족갈등, 종교적 긴장, 질병, 경제·지역 분쟁 같은 여러 배경 속에서 커졌다. 하지만 이 모든 배경을 한 가지 원인으로 정리하기보다, 법정이 **어떤 종류의 말을 증거로 받아들였는가**를 보면 재판이 왜 그렇게 빠르게 확산됐는지 한 축을 구체적으로 볼 수 있다.",
+          "textEn": "Seventeenth-century Massachusetts already had precedents for witchcraft accusations and prosecutions. What happened around Salem in 1692 was different in scale and speed. Massachusetts Archives summarizes the crisis as involving hundreds of accusations and arrests, twenty executions, and at least five additional deaths in jail. Family conflict, religious tension, disease, economics, and local politics all formed part of the background. Rather than reducing the outbreak to a single cause, one concrete way to understand its escalation is to examine **what kinds of statements the court was willing to treat as evidence**."
+        },
+        {
+          "blockId": "sarah-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Sarah Good의 기록: ‘그 형상이 아이들을 괴롭혔다’",
+          "headingEn": "The Sarah Good Record: “Her Shape” Was Said to Torment the Children",
+          "textKo": "University of Virginia가 공개한 Sarah Good 사건 필사본에는 1692년 초 심문 분위기가 생생하게 남아 있다. Good는 자신이 아이들을 해치지 않았고 마술을 사용하지 않았다고 반복해서 부인했다. 반면 심문자는 고발당한 아이들에게 Good를 바라보게 했고, 아이들은 그녀가 자신들을 괴롭힌 사람이라고 지목했다. 기록은 아이들이 바로 고통받는 듯한 행동을 했다고 서술한다. 이 문서는 ‘Sarah Good가 실제 마술을 했다’는 증거가 아니다. 대신 **당시 법적 절차에서 고발자의 보이지 않는 경험이 피고인의 행동과 연결돼 해석된 방식**을 직접 보여준다.",
+          "textEn": "The University of Virginia’s transcription of the Sarah Good case preserves the atmosphere of the early 1692 examinations. Good repeatedly denied using witchcraft or harming the children. The examiners, meanwhile, directed the accusers to look at her, and the girls identified Good as one of the people tormenting them. The record describes the children then appearing to suffer. This document is not evidence that Sarah Good actually performed witchcraft. It is evidence of **how an accuser’s invisible experience could be interpreted as an action by the defendant inside a legal process**."
+        },
+        {
+          "blockId": "definition-04",
+          "type": "BACKGROUND",
+          "headingKo": "‘환영 증거’는 무엇이었나",
+          "headingEn": "What Was Spectral Evidence?",
+          "textKo": "Massachusetts Archives는 spectral evidence를 사람이 본 환영이나 형상, 흔히 마녀 또는 악마와의 만남이라고 주장한 경험에 기초한 증거로 설명한다. 가장 큰 문제는 검증 가능성이었다. 누군가 ‘당신의 형상이 밤에 나타나 나를 괴롭혔다’고 말할 때, 피고인은 자신이 그 시간 다른 곳에 있었다는 사실만으로 쉽게 반박할 수 없었다. 실제 육체와 보이지 않는 ‘형상’이 따로 움직일 수 있다는 믿음이 전제되면 알리바이도 힘을 잃는다. Archives는 이런 정보가 본질적으로 intangible해 방어하기 매우 어려웠다고 지적한다.",
+          "textEn": "Massachusetts Archives defines spectral evidence as testimony based on visions or apparitions—often an accuser’s claimed encounter with a witch or the Devil. Its central problem was verifiability. If someone said, “your shape appeared and harmed me,” the accused could not easily rebut the allegation by showing that their physical body was elsewhere. If the court accepted the premise that a person’s invisible spectre could act independently, an ordinary alibi lost much of its force. The Archives explicitly notes that such intangible evidence was extraordinarily difficult to defend against."
+        },
+        {
+          "blockId": "court-05",
+          "type": "CHRONOLOGY",
+          "headingKo": "5월 27일, 특별법원이 만들어졌다",
+          "headingEn": "May 27: A Special Court Was Created",
+          "textKo": "새로 부임한 총독 William Phips는 1692년 5월 27일 Court of Oyer and Terminer를 설치했다. William Stoughton이 재판을 이끌었고, 법원은 6월 2일 Bridget Bishop 사건을 시작으로 본격적인 심리를 진행했다. Massachusetts Archives는 Stoughton이 spectral evidence의 채택을 허용했다고 설명한다. 이 법원 아래에서 Salem Witch Trials의 가장 활발한 시기가 전개됐다. Archives 기록그룹은 이 법원이 10월 29일까지 사건을 들었고, 1693년 1월 관할이 새 Superior Court로 넘어갔다고 정리한다.",
+          "textEn": "On May 27, 1692, newly commissioned governor William Phips established the Court of Oyer and Terminer. William Stoughton led the court, which began formal prosecutions on June 2 with the case of Bridget Bishop. Massachusetts Archives states that Stoughton controversially permitted spectral evidence. The most active phase of the Salem Witch Trials unfolded under this court. The official record group dates its hearings through October 29, with jurisdiction later transferred to the Superior Court in January 1693."
+        },
+        {
+          "blockId": "scale-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "보이지 않는 증거는 예외가 아니라 핵심 도구가 됐다",
+          "headingEn": "Spectral Evidence Became Central, Not Exceptional",
+          "textKo": "Massachusetts Archives의 전시 설명은 spectral evidence가 주변부 자료가 아니었다고 강조한다. 일부 피고인에게는 신체표식, 비정상적 힘, 이웃의 일상적 고발 같은 다른 종류의 증언도 붙었다. 하지만 Archives는 거의 80명에 가까운 피고인이 spectral evidence만을 기반으로 재판을 받았다고 설명한다. 이 숫자는 중요한 의미를 갖는다. Salem 법정에서 보이지 않는 형상에 대한 증언은 단순한 소문이 아니라, 사람을 재판에 세우고 유죄판결 가능성을 높일 수 있는 제도적 증거가 됐다.",
+          "textEn": "Massachusetts Archives emphasizes that spectral evidence was not a marginal curiosity. Some defendants also faced allegations involving bodily marks, unusual feats, or more ordinary accusations from neighbours. Yet the Archives states that nearly eighty accused people were tried on spectral evidence alone. The significance is institutional: testimony about invisible apparitions was not merely village gossip. It could move a person through a criminal process and materially contribute to the possibility of conviction."
+        },
+        {
+          "blockId": "bishop-07",
+          "type": "TURNING_POINT",
+          "headingKo": "Bridget Bishop에서 드러난 재판의 속도",
+          "headingEn": "Bridget Bishop Showed How Fast the Court Could Move",
+          "textKo": "Court of Oyer and Terminer의 첫 정식 피고 Bridget Bishop은 6월 2일부터 심리를 받았고 6월 10일 처형됐다. Massachusetts Archives는 그녀를 상대로 여러 명이 ‘Bishop의 형상’이 자신들을 꼬집고, 물고, 목을 조였다고 증언한 기록을 소개한다. 이것은 초자연 현상이 실제 발생했다는 증명이 아니라 **그런 주장이 법정기록 속에서 사실상 공격증거로 기능했다는 증거**다. 이후 재판은 더 빨라졌고, 여러 피고가 하루에 함께 심리되는 상황도 나타났다.",
+          "textEn": "Bridget Bishop, the first person formally prosecuted by the Court of Oyer and Terminer, was tried beginning June 2 and executed on June 10. Massachusetts Archives summarizes testimony in which several accusers claimed that Bishop’s “shape” pinched, bit, or choked them. This is not proof that a supernatural event occurred. It is proof that **such allegations functioned as accusatory evidence inside the court record**. Later proceedings moved even faster, with multiple defendants tried in a single day."
+        },
+        {
+          "blockId": "death-08",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "법정의 증거기준은 실제 죽음으로 이어졌다",
+          "headingEn": "The Court’s Evidentiary Rules Had Real Consequences",
+          "textKo": "Salem Witch Trials는 상징적 ‘마녀사냥’이라는 표현으로만 기억할 수 없는 실제 형사절차였다. Massachusetts Archives는 20명이 처형됐고 최소 5명이 감옥에서 사망했다고 정리한다. Bridget Bishop 이후 18명이 세 차례 집단 교수형으로 숨졌고, Giles Corey는 재판을 거부한 뒤 압사형으로 죽었다. 여기서 중요한 것은 모든 유죄가 spectral evidence 하나만으로 설명된다고 단순화하지 않는 것이다. 사건마다 다른 증언과 자료가 있었지만, 법원이 보이지 않는 형상에 대한 증언을 합법적 증거로 인정했다는 사실은 그 재판구조 전체를 이해하는 데 결정적이다.",
+          "textEn": "The Salem Witch Trials were not merely a metaphorical “witch hunt”; they were criminal proceedings with lethal outcomes. Massachusetts Archives records twenty executions and at least five additional deaths in jail. After Bridget Bishop, eighteen more people were hanged across three mass execution dates, while Giles Corey died under pressing after refusing to plead. It would be too simple to say that every conviction rested on spectral evidence alone—individual cases involved different allegations and testimony. But the court’s willingness to treat invisible apparitions as legitimate evidence was a defining feature of the system."
+        },
+        {
+          "blockId": "collapse-09",
+          "type": "TURNING_POINT",
+          "headingKo": "10월, 같은 사회가 증거기준을 바꾸기 시작했다",
+          "headingEn": "October: The Evidentiary Rules Began to Change",
+          "textKo": "1692년 10월, Phips는 추가 체포를 금지하고 Court of Oyer and Terminer를 해산했다. Massachusetts Archives는 이 결정에 재판 결과에 대한 불만과 자신의 아내까지 고발된 상황이 영향을 미쳤다고 설명한다. 이후 사건들은 새 Superior Court of Assizes and General Gaole Delivery로 넘어갔다. 가장 중요한 변화는 새 법원이 spectral evidence를 받아들이지 않았다는 점이었다. 같은 사회, 같은 공포, 같은 고발이 이어졌지만 **어떤 증거를 법적으로 인정하는지가 달라졌다.**",
+          "textEn": "In October 1692, Phips prohibited further arrests and dissolved the Court of Oyer and Terminer. Massachusetts Archives notes his growing dissatisfaction with the trials, intensified after his own wife was accused. Remaining cases moved into the new Superior Court of Assizes and General Gaole Delivery. The most important change was evidentiary: the new court did not admit spectral evidence. The society, fear, and accusations had not vanished overnight, but **the rules governing what could count as legal proof had changed**."
+        },
+        {
+          "blockId": "comparison-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 고발, 달라진 유죄율",
+          "headingEn": "Similar Accusations, Different Conviction Rates",
+          "textKo": "Massachusetts Archives는 새 법정에서 spectral evidence가 배제되자 유죄판결 비율이 크게 떨어졌다고 설명한다. 이 비교는 Salem 사건에서 매우 강한 자연실험처럼 보인다. 물론 1693년에는 사회 분위기, 총독의 태도, 피로감, 정치환경도 함께 변했다. 따라서 유죄율 하락을 오직 하나의 변수로 설명할 수는 없다. 그럼에도 **동일한 위기 속에서 증거기준을 바꾸자 결과도 크게 달라졌다는 사실**은 spectral evidence가 단순한 주변요소가 아니었음을 보여준다. Phips는 결국 1693년 중반까지 재판을 끝냈다.",
+          "textEn": "Massachusetts Archives states that conviction rates dropped sharply after the new court excluded spectral evidence. The comparison looks almost like a historical natural experiment. Of course, other things had changed by 1693 as well: public mood, political pressure, fatigue, and the governor’s attitude. The decline in convictions cannot responsibly be assigned to a single variable. Even so, **the fact that outcomes changed markedly when the evidentiary rule changed** shows that spectral evidence was not a trivial side issue. Phips ultimately brought the trials to an end by mid-1693."
+        },
+        {
+          "blockId": "records-11",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "법정기록도 완전한 CCTV는 아니다",
+          "headingEn": "The Court Records Are Not a Complete Recording",
+          "textKo": "University of Virginia의 Salem Witch Trials Documentary Archive는 오늘날 연구자가 수많은 고발장·심문·증언 필사본을 비교할 수 있게 하지만, 자료 자체에도 경계가 있다. Benjamin Ray의 아카이브 설명은 기록이 완전하지 않고, 일부 재판자료가 사라졌으며, 옛 필사와 현대 전사 과정에서 오류 가능성도 있음을 강조한다. 따라서 특정 문장 하나를 떼어 사건 전체의 동기나 심리상태를 확정해서는 안 된다. **문서가 남아 있다는 사실과 문서가 모든 일을 완벽히 기록한다는 주장은 다르다.**",
+          "textEn": "The University of Virginia’s Salem Witch Trials Documentary Archive allows researchers to compare complaints, examinations, and transcriptions across many cases, but the archive itself has limits. Benjamin Ray’s methodological introduction emphasizes that the surviving record is incomplete, that some trial material is missing, and that transcription histories can contain errors. A single sentence should therefore not be used to claim complete knowledge of motive or mental state. **The existence of documents is not the same thing as a perfect recording of everything that happened.**"
+        },
+        {
+          "blockId": "meaning-12",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘환영을 봤다’는 기록은 환영의 실재증명이 아니다",
+          "headingEn": "A Record of a Vision Is Not Proof That the Vision Was Real",
+          "textKo": "Salem의 원문기록을 읽을 때 가장 쉽게 생기는 오류는 법정문서의 존재를 초자연 현상의 실재증거로 바꾸는 것이다. Sarah Good 사건처럼 ‘그 형상이 아이들을 괴롭혔다’는 취지의 증언이 실제로 기록돼 있다는 것은 확인할 수 있다. 그러나 문서가 입증하는 것은 **사람들이 그런 주장을 했고 법원이 그 주장을 취급했다는 역사적 사실**이다. 그 보이지 않는 형상이 실제로 존재했거나, 피고인이 마녀였다는 사실을 문서가 독립적으로 증명하는 것은 아니다.",
+          "textEn": "One of the easiest mistakes when reading Salem’s primary records is to turn the existence of a court document into proof of a supernatural event. In the Sarah Good material, it is historically demonstrable that accusers said her apparition tormented them and that officials recorded those claims. But what the document establishes is **that people made those claims and that the court acted on them**. It does not independently prove that an apparition existed or that the accused person was a witch."
+        },
+        {
+          "blockId": "aftermath-13",
+          "type": "AFTERMATH",
+          "headingKo": "몇 년 뒤, 사회는 자신이 한 일을 다시 보기 시작했다",
+          "headingEn": "The Colony Later Revisited What It Had Done",
+          "textKo": "재판이 끝난 뒤 Massachusetts Bay는 사건을 그대로 봉인하지 않았다. Archives의 aftermath 자료는 1697년 금식과 기도의 날, Samuel Sewall과 배심원들의 사과, 1706년 Ann Putnam Jr.의 공개 사과, 1711년 피해가족에 대한 배상과 사면 절차를 보여준다. 수백 년 뒤에도 법적 명예회복은 이어졌다. 이것은 과거 사람들이 어느 날 갑자기 ‘마녀가 없었다’고 모두 합의했다는 단순한 전환이 아니다. 대신 **재판 절차와 증거, 책임을 공동체가 반복해서 재평가했다는 역사**다.",
+          "textEn": "Massachusetts Bay did not simply seal away the trials after they ended. The Archives’ aftermath materials document a 1697 day of fasting and prayer, apologies by Samuel Sewall and jurors, Ann Putnam Jr.’s public apology in 1706, and pardons and compensation beginning in 1711. Legal exoneration continued centuries later. This should not be reduced to a story in which everyone suddenly agreed that witchcraft was unreal. It is a history of **a community repeatedly reassessing the procedures, evidence, and responsibility surrounding what it had done**."
+        },
+        {
+          "blockId": "boundary-14",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1692년 Salem Witch Trials에서 Court of Oyer and Terminer는 spectral evidence를 받아들였다. Massachusetts Archives와 UVA 원문 필사는 피고인의 ‘형상’이 고발자를 괴롭혔다는 종류의 증언이 실제 법적 기록에 포함됐음을 보여준다. Court of Oyer and Terminer는 1692년 5월 27일 설치돼 6월 2일 본격 심리를 시작했고, 10월 해산됐다. 새 Superior Court는 spectral evidence를 허용하지 않았고 유죄율은 크게 떨어졌다. 전체 재판과 관련해 20명이 처형되고 최소 5명이 감옥에서 숨졌다.\n\n**확립되지 않음:** 피고인들이 실제 마술을 사용했거나 ‘마녀’였다는 초자연적 신원은 증명되지 않는다. spectral testimony가 기록에 존재한다는 사실은 환영 자체의 객관적 실재를 입증하지 않는다. 개별 사건에서 각 증언이 정확히 어느 정도 판결에 영향을 줬는지, 또는 모든 필사본이 완전한지는 사건별로 따로 검토해야 한다.",
+          "textEn": "**Established:** The Court of Oyer and Terminer admitted spectral evidence during the 1692 Salem Witch Trials. Massachusetts Archives and University of Virginia transcriptions show that claims about an accused person’s “shape” tormenting accusers were part of the legal record. The Court of Oyer and Terminer was established on May 27, began formal prosecutions on June 2, and was dissolved in October. The succeeding Superior Court did not allow spectral evidence, and conviction rates fell sharply. Twenty people were executed as a result of the trials, and at least five others died in jail.\n\n**Not established:** The accused were not proven to possess supernatural powers or to be “witches” in an objective sense. The existence of recorded spectral testimony does not prove that the apparitions themselves were real. The precise weight of each statement in every individual case, and the completeness of every surviving transcription, requires case-specific examination."
+        }
+      ],
+      "factBoundary": {
+        "established": "spectral evidence의 법적 사용, Oyer and Terminer의 운영, 새 법원의 배제와 재판 종료는 공식 아카이브로 확인된다.",
+        "notEstablished": "피고인의 마술능력이나 환영의 객관적 실재는 입증되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "sarah-03",
+        "definition-04",
+        "court-05",
+        "scale-06",
+        "bishop-07",
+        "death-08",
+        "collapse-09",
+        "comparison-10",
+        "records-11",
+        "meaning-12",
+        "aftermath-13"
+      ]
+    },
+    "en": {
+      "headline": "How Did Invisible “Spectres” Become Evidence That Could Help Send People to Their Deaths?",
+      "hook": "In Salem in 1692, a claim that someone's apparition was tormenting an accuser could enter the legal record. The central mystery is not whether witches objectively existed, but how unverifiable testimony became admissible—and what changed when the evidentiary rule changed.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1692년 봄, 보이지 않는 피고가 법정에 들어오다",
+          "headingEn": "1692: An Invisible Accuser Entered the Courtroom",
+          "textKo": "1692년 매사추세츠만 식민지의 Salem Village에서는 사람들이 눈앞에 없는 존재를 봤다고 말하기 시작했다. 어떤 이는 특정 이웃의 ‘형상’이 자신을 꼬집고, 목을 조르고, 괴롭힌다고 증언했다. 문제는 그런 형상이 다른 사람에게는 보이지 않을 수 있다는 점이었다. 오늘날 이런 증언을 초자연 현상의 기록으로만 읽기 쉽지만, 당시에는 훨씬 직접적인 결과를 낳았다. **보이지 않는 형상에 대한 증언이 실제 형사재판의 증거로 받아들여졌다.** 이른바 spectral evidence, ‘환영 증거’였다.",
+          "textEn": "In 1692, residents of Salem Village in the Massachusetts Bay Colony began describing things other people could not see. Accusers said the “shape” or apparition of a particular neighbour pinched, choked, or tormented them. The crucial problem was that the alleged apparition might be visible only to the accuser. It is easy to read such testimony today merely as a record of supernatural belief. In Salem, it had a much more immediate consequence: **testimony about invisible apparitions was admitted into criminal proceedings as evidence.** This became known as spectral evidence."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "마녀재판은 갑자기 생긴 제도가 아니었다",
+          "headingEn": "The Witch Trials Did Not Appear From Nowhere",
+          "textKo": "17세기 매사추세츠에는 이미 마술·마녀 혐의 재판의 전례가 있었다. 그러나 1692년 Salem 일대의 고발은 규모와 속도에서 이전과 달랐다. Massachusetts Archives는 수백 명이 고발·체포·투옥됐고, 결국 20명이 처형되고 최소 5명이 감옥에서 숨졌다고 정리한다. 사건은 가족갈등, 종교적 긴장, 질병, 경제·지역 분쟁 같은 여러 배경 속에서 커졌다. 하지만 이 모든 배경을 한 가지 원인으로 정리하기보다, 법정이 **어떤 종류의 말을 증거로 받아들였는가**를 보면 재판이 왜 그렇게 빠르게 확산됐는지 한 축을 구체적으로 볼 수 있다.",
+          "textEn": "Seventeenth-century Massachusetts already had precedents for witchcraft accusations and prosecutions. What happened around Salem in 1692 was different in scale and speed. Massachusetts Archives summarizes the crisis as involving hundreds of accusations and arrests, twenty executions, and at least five additional deaths in jail. Family conflict, religious tension, disease, economics, and local politics all formed part of the background. Rather than reducing the outbreak to a single cause, one concrete way to understand its escalation is to examine **what kinds of statements the court was willing to treat as evidence**."
+        },
+        {
+          "blockId": "sarah-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Sarah Good의 기록: ‘그 형상이 아이들을 괴롭혔다’",
+          "headingEn": "The Sarah Good Record: “Her Shape” Was Said to Torment the Children",
+          "textKo": "University of Virginia가 공개한 Sarah Good 사건 필사본에는 1692년 초 심문 분위기가 생생하게 남아 있다. Good는 자신이 아이들을 해치지 않았고 마술을 사용하지 않았다고 반복해서 부인했다. 반면 심문자는 고발당한 아이들에게 Good를 바라보게 했고, 아이들은 그녀가 자신들을 괴롭힌 사람이라고 지목했다. 기록은 아이들이 바로 고통받는 듯한 행동을 했다고 서술한다. 이 문서는 ‘Sarah Good가 실제 마술을 했다’는 증거가 아니다. 대신 **당시 법적 절차에서 고발자의 보이지 않는 경험이 피고인의 행동과 연결돼 해석된 방식**을 직접 보여준다.",
+          "textEn": "The University of Virginia’s transcription of the Sarah Good case preserves the atmosphere of the early 1692 examinations. Good repeatedly denied using witchcraft or harming the children. The examiners, meanwhile, directed the accusers to look at her, and the girls identified Good as one of the people tormenting them. The record describes the children then appearing to suffer. This document is not evidence that Sarah Good actually performed witchcraft. It is evidence of **how an accuser’s invisible experience could be interpreted as an action by the defendant inside a legal process**."
+        },
+        {
+          "blockId": "definition-04",
+          "type": "BACKGROUND",
+          "headingKo": "‘환영 증거’는 무엇이었나",
+          "headingEn": "What Was Spectral Evidence?",
+          "textKo": "Massachusetts Archives는 spectral evidence를 사람이 본 환영이나 형상, 흔히 마녀 또는 악마와의 만남이라고 주장한 경험에 기초한 증거로 설명한다. 가장 큰 문제는 검증 가능성이었다. 누군가 ‘당신의 형상이 밤에 나타나 나를 괴롭혔다’고 말할 때, 피고인은 자신이 그 시간 다른 곳에 있었다는 사실만으로 쉽게 반박할 수 없었다. 실제 육체와 보이지 않는 ‘형상’이 따로 움직일 수 있다는 믿음이 전제되면 알리바이도 힘을 잃는다. Archives는 이런 정보가 본질적으로 intangible해 방어하기 매우 어려웠다고 지적한다.",
+          "textEn": "Massachusetts Archives defines spectral evidence as testimony based on visions or apparitions—often an accuser’s claimed encounter with a witch or the Devil. Its central problem was verifiability. If someone said, “your shape appeared and harmed me,” the accused could not easily rebut the allegation by showing that their physical body was elsewhere. If the court accepted the premise that a person’s invisible spectre could act independently, an ordinary alibi lost much of its force. The Archives explicitly notes that such intangible evidence was extraordinarily difficult to defend against."
+        },
+        {
+          "blockId": "court-05",
+          "type": "CHRONOLOGY",
+          "headingKo": "5월 27일, 특별법원이 만들어졌다",
+          "headingEn": "May 27: A Special Court Was Created",
+          "textKo": "새로 부임한 총독 William Phips는 1692년 5월 27일 Court of Oyer and Terminer를 설치했다. William Stoughton이 재판을 이끌었고, 법원은 6월 2일 Bridget Bishop 사건을 시작으로 본격적인 심리를 진행했다. Massachusetts Archives는 Stoughton이 spectral evidence의 채택을 허용했다고 설명한다. 이 법원 아래에서 Salem Witch Trials의 가장 활발한 시기가 전개됐다. Archives 기록그룹은 이 법원이 10월 29일까지 사건을 들었고, 1693년 1월 관할이 새 Superior Court로 넘어갔다고 정리한다.",
+          "textEn": "On May 27, 1692, newly commissioned governor William Phips established the Court of Oyer and Terminer. William Stoughton led the court, which began formal prosecutions on June 2 with the case of Bridget Bishop. Massachusetts Archives states that Stoughton controversially permitted spectral evidence. The most active phase of the Salem Witch Trials unfolded under this court. The official record group dates its hearings through October 29, with jurisdiction later transferred to the Superior Court in January 1693."
+        },
+        {
+          "blockId": "scale-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "보이지 않는 증거는 예외가 아니라 핵심 도구가 됐다",
+          "headingEn": "Spectral Evidence Became Central, Not Exceptional",
+          "textKo": "Massachusetts Archives의 전시 설명은 spectral evidence가 주변부 자료가 아니었다고 강조한다. 일부 피고인에게는 신체표식, 비정상적 힘, 이웃의 일상적 고발 같은 다른 종류의 증언도 붙었다. 하지만 Archives는 거의 80명에 가까운 피고인이 spectral evidence만을 기반으로 재판을 받았다고 설명한다. 이 숫자는 중요한 의미를 갖는다. Salem 법정에서 보이지 않는 형상에 대한 증언은 단순한 소문이 아니라, 사람을 재판에 세우고 유죄판결 가능성을 높일 수 있는 제도적 증거가 됐다.",
+          "textEn": "Massachusetts Archives emphasizes that spectral evidence was not a marginal curiosity. Some defendants also faced allegations involving bodily marks, unusual feats, or more ordinary accusations from neighbours. Yet the Archives states that nearly eighty accused people were tried on spectral evidence alone. The significance is institutional: testimony about invisible apparitions was not merely village gossip. It could move a person through a criminal process and materially contribute to the possibility of conviction."
+        },
+        {
+          "blockId": "bishop-07",
+          "type": "TURNING_POINT",
+          "headingKo": "Bridget Bishop에서 드러난 재판의 속도",
+          "headingEn": "Bridget Bishop Showed How Fast the Court Could Move",
+          "textKo": "Court of Oyer and Terminer의 첫 정식 피고 Bridget Bishop은 6월 2일부터 심리를 받았고 6월 10일 처형됐다. Massachusetts Archives는 그녀를 상대로 여러 명이 ‘Bishop의 형상’이 자신들을 꼬집고, 물고, 목을 조였다고 증언한 기록을 소개한다. 이것은 초자연 현상이 실제 발생했다는 증명이 아니라 **그런 주장이 법정기록 속에서 사실상 공격증거로 기능했다는 증거**다. 이후 재판은 더 빨라졌고, 여러 피고가 하루에 함께 심리되는 상황도 나타났다.",
+          "textEn": "Bridget Bishop, the first person formally prosecuted by the Court of Oyer and Terminer, was tried beginning June 2 and executed on June 10. Massachusetts Archives summarizes testimony in which several accusers claimed that Bishop’s “shape” pinched, bit, or choked them. This is not proof that a supernatural event occurred. It is proof that **such allegations functioned as accusatory evidence inside the court record**. Later proceedings moved even faster, with multiple defendants tried in a single day."
+        },
+        {
+          "blockId": "death-08",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "법정의 증거기준은 실제 죽음으로 이어졌다",
+          "headingEn": "The Court’s Evidentiary Rules Had Real Consequences",
+          "textKo": "Salem Witch Trials는 상징적 ‘마녀사냥’이라는 표현으로만 기억할 수 없는 실제 형사절차였다. Massachusetts Archives는 20명이 처형됐고 최소 5명이 감옥에서 사망했다고 정리한다. Bridget Bishop 이후 18명이 세 차례 집단 교수형으로 숨졌고, Giles Corey는 재판을 거부한 뒤 압사형으로 죽었다. 여기서 중요한 것은 모든 유죄가 spectral evidence 하나만으로 설명된다고 단순화하지 않는 것이다. 사건마다 다른 증언과 자료가 있었지만, 법원이 보이지 않는 형상에 대한 증언을 합법적 증거로 인정했다는 사실은 그 재판구조 전체를 이해하는 데 결정적이다.",
+          "textEn": "The Salem Witch Trials were not merely a metaphorical “witch hunt”; they were criminal proceedings with lethal outcomes. Massachusetts Archives records twenty executions and at least five additional deaths in jail. After Bridget Bishop, eighteen more people were hanged across three mass execution dates, while Giles Corey died under pressing after refusing to plead. It would be too simple to say that every conviction rested on spectral evidence alone—individual cases involved different allegations and testimony. But the court’s willingness to treat invisible apparitions as legitimate evidence was a defining feature of the system."
+        },
+        {
+          "blockId": "collapse-09",
+          "type": "TURNING_POINT",
+          "headingKo": "10월, 같은 사회가 증거기준을 바꾸기 시작했다",
+          "headingEn": "October: The Evidentiary Rules Began to Change",
+          "textKo": "1692년 10월, Phips는 추가 체포를 금지하고 Court of Oyer and Terminer를 해산했다. Massachusetts Archives는 이 결정에 재판 결과에 대한 불만과 자신의 아내까지 고발된 상황이 영향을 미쳤다고 설명한다. 이후 사건들은 새 Superior Court of Assizes and General Gaole Delivery로 넘어갔다. 가장 중요한 변화는 새 법원이 spectral evidence를 받아들이지 않았다는 점이었다. 같은 사회, 같은 공포, 같은 고발이 이어졌지만 **어떤 증거를 법적으로 인정하는지가 달라졌다.**",
+          "textEn": "In October 1692, Phips prohibited further arrests and dissolved the Court of Oyer and Terminer. Massachusetts Archives notes his growing dissatisfaction with the trials, intensified after his own wife was accused. Remaining cases moved into the new Superior Court of Assizes and General Gaole Delivery. The most important change was evidentiary: the new court did not admit spectral evidence. The society, fear, and accusations had not vanished overnight, but **the rules governing what could count as legal proof had changed**."
+        },
+        {
+          "blockId": "comparison-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 고발, 달라진 유죄율",
+          "headingEn": "Similar Accusations, Different Conviction Rates",
+          "textKo": "Massachusetts Archives는 새 법정에서 spectral evidence가 배제되자 유죄판결 비율이 크게 떨어졌다고 설명한다. 이 비교는 Salem 사건에서 매우 강한 자연실험처럼 보인다. 물론 1693년에는 사회 분위기, 총독의 태도, 피로감, 정치환경도 함께 변했다. 따라서 유죄율 하락을 오직 하나의 변수로 설명할 수는 없다. 그럼에도 **동일한 위기 속에서 증거기준을 바꾸자 결과도 크게 달라졌다는 사실**은 spectral evidence가 단순한 주변요소가 아니었음을 보여준다. Phips는 결국 1693년 중반까지 재판을 끝냈다.",
+          "textEn": "Massachusetts Archives states that conviction rates dropped sharply after the new court excluded spectral evidence. The comparison looks almost like a historical natural experiment. Of course, other things had changed by 1693 as well: public mood, political pressure, fatigue, and the governor’s attitude. The decline in convictions cannot responsibly be assigned to a single variable. Even so, **the fact that outcomes changed markedly when the evidentiary rule changed** shows that spectral evidence was not a trivial side issue. Phips ultimately brought the trials to an end by mid-1693."
+        },
+        {
+          "blockId": "records-11",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "법정기록도 완전한 CCTV는 아니다",
+          "headingEn": "The Court Records Are Not a Complete Recording",
+          "textKo": "University of Virginia의 Salem Witch Trials Documentary Archive는 오늘날 연구자가 수많은 고발장·심문·증언 필사본을 비교할 수 있게 하지만, 자료 자체에도 경계가 있다. Benjamin Ray의 아카이브 설명은 기록이 완전하지 않고, 일부 재판자료가 사라졌으며, 옛 필사와 현대 전사 과정에서 오류 가능성도 있음을 강조한다. 따라서 특정 문장 하나를 떼어 사건 전체의 동기나 심리상태를 확정해서는 안 된다. **문서가 남아 있다는 사실과 문서가 모든 일을 완벽히 기록한다는 주장은 다르다.**",
+          "textEn": "The University of Virginia’s Salem Witch Trials Documentary Archive allows researchers to compare complaints, examinations, and transcriptions across many cases, but the archive itself has limits. Benjamin Ray’s methodological introduction emphasizes that the surviving record is incomplete, that some trial material is missing, and that transcription histories can contain errors. A single sentence should therefore not be used to claim complete knowledge of motive or mental state. **The existence of documents is not the same thing as a perfect recording of everything that happened.**"
+        },
+        {
+          "blockId": "meaning-12",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘환영을 봤다’는 기록은 환영의 실재증명이 아니다",
+          "headingEn": "A Record of a Vision Is Not Proof That the Vision Was Real",
+          "textKo": "Salem의 원문기록을 읽을 때 가장 쉽게 생기는 오류는 법정문서의 존재를 초자연 현상의 실재증거로 바꾸는 것이다. Sarah Good 사건처럼 ‘그 형상이 아이들을 괴롭혔다’는 취지의 증언이 실제로 기록돼 있다는 것은 확인할 수 있다. 그러나 문서가 입증하는 것은 **사람들이 그런 주장을 했고 법원이 그 주장을 취급했다는 역사적 사실**이다. 그 보이지 않는 형상이 실제로 존재했거나, 피고인이 마녀였다는 사실을 문서가 독립적으로 증명하는 것은 아니다.",
+          "textEn": "One of the easiest mistakes when reading Salem’s primary records is to turn the existence of a court document into proof of a supernatural event. In the Sarah Good material, it is historically demonstrable that accusers said her apparition tormented them and that officials recorded those claims. But what the document establishes is **that people made those claims and that the court acted on them**. It does not independently prove that an apparition existed or that the accused person was a witch."
+        },
+        {
+          "blockId": "aftermath-13",
+          "type": "AFTERMATH",
+          "headingKo": "몇 년 뒤, 사회는 자신이 한 일을 다시 보기 시작했다",
+          "headingEn": "The Colony Later Revisited What It Had Done",
+          "textKo": "재판이 끝난 뒤 Massachusetts Bay는 사건을 그대로 봉인하지 않았다. Archives의 aftermath 자료는 1697년 금식과 기도의 날, Samuel Sewall과 배심원들의 사과, 1706년 Ann Putnam Jr.의 공개 사과, 1711년 피해가족에 대한 배상과 사면 절차를 보여준다. 수백 년 뒤에도 법적 명예회복은 이어졌다. 이것은 과거 사람들이 어느 날 갑자기 ‘마녀가 없었다’고 모두 합의했다는 단순한 전환이 아니다. 대신 **재판 절차와 증거, 책임을 공동체가 반복해서 재평가했다는 역사**다.",
+          "textEn": "Massachusetts Bay did not simply seal away the trials after they ended. The Archives’ aftermath materials document a 1697 day of fasting and prayer, apologies by Samuel Sewall and jurors, Ann Putnam Jr.’s public apology in 1706, and pardons and compensation beginning in 1711. Legal exoneration continued centuries later. This should not be reduced to a story in which everyone suddenly agreed that witchcraft was unreal. It is a history of **a community repeatedly reassessing the procedures, evidence, and responsibility surrounding what it had done**."
+        },
+        {
+          "blockId": "boundary-14",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1692년 Salem Witch Trials에서 Court of Oyer and Terminer는 spectral evidence를 받아들였다. Massachusetts Archives와 UVA 원문 필사는 피고인의 ‘형상’이 고발자를 괴롭혔다는 종류의 증언이 실제 법적 기록에 포함됐음을 보여준다. Court of Oyer and Terminer는 1692년 5월 27일 설치돼 6월 2일 본격 심리를 시작했고, 10월 해산됐다. 새 Superior Court는 spectral evidence를 허용하지 않았고 유죄율은 크게 떨어졌다. 전체 재판과 관련해 20명이 처형되고 최소 5명이 감옥에서 숨졌다.\n\n**확립되지 않음:** 피고인들이 실제 마술을 사용했거나 ‘마녀’였다는 초자연적 신원은 증명되지 않는다. spectral testimony가 기록에 존재한다는 사실은 환영 자체의 객관적 실재를 입증하지 않는다. 개별 사건에서 각 증언이 정확히 어느 정도 판결에 영향을 줬는지, 또는 모든 필사본이 완전한지는 사건별로 따로 검토해야 한다.",
+          "textEn": "**Established:** The Court of Oyer and Terminer admitted spectral evidence during the 1692 Salem Witch Trials. Massachusetts Archives and University of Virginia transcriptions show that claims about an accused person’s “shape” tormenting accusers were part of the legal record. The Court of Oyer and Terminer was established on May 27, began formal prosecutions on June 2, and was dissolved in October. The succeeding Superior Court did not allow spectral evidence, and conviction rates fell sharply. Twenty people were executed as a result of the trials, and at least five others died in jail.\n\n**Not established:** The accused were not proven to possess supernatural powers or to be “witches” in an objective sense. The existence of recorded spectral testimony does not prove that the apparitions themselves were real. The precise weight of each statement in every individual case, and the completeness of every surviving transcription, requires case-specific examination."
+        }
+      ],
+      "factBoundary": {
+        "established": "The legal use of spectral evidence, the operation of the Oyer and Terminer, and its later exclusion are documented in official archives.",
+        "notEstablished": "The accused were not proven to possess supernatural powers, and the apparitions were not objectively demonstrated."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "sarah-03",
+        "definition-04",
+        "court-05",
+        "scale-06",
+        "bishop-07",
+        "death-08",
+        "collapse-09",
+        "comparison-10",
+        "records-11",
+        "meaning-12",
+        "aftermath-13"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SALEM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "William Phips는 1692-05-27 Court of Oyer and Terminer를 설치했고 William Stoughton이 주재했다.",
+      "statementEn": "William Phips established the Court of Oyer and Terminer on May 27, 1692, with William Stoughton presiding.",
+      "sourceRefs": [
+        "MA_TRIALS",
+        "MA_OAT"
+      ]
+    },
+    {
+      "claimId": "SALEM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Court of Oyer and Terminer는 spectral evidence를 증거로 허용했다.",
+      "statementEn": "The Court of Oyer and Terminer admitted spectral evidence.",
+      "sourceRefs": [
+        "MA_TRIALS"
+      ]
+    },
+    {
+      "claimId": "SALEM-C3",
+      "status": "CONFIRMED",
+      "statementKo": "Sarah Good 등 사건기록에는 고발자들이 피고인의 형상·환영이 자신을 괴롭혔다고 진술한 기록이 남아 있다.",
+      "statementEn": "Records in cases including Sarah Good contain accusations that the defendant's apparition or shape tormented accusers.",
+      "sourceRefs": [
+        "UVA_SARAHGOOD",
+        "MA_TRIALS"
+      ]
+    },
+    {
+      "claimId": "SALEM-C4",
+      "status": "CONFIRMED",
+      "statementKo": "1692년 10월 Oyer and Terminer가 해산되고 뒤이은 Superior Court는 spectral evidence를 허용하지 않았다.",
+      "statementEn": "The Court of Oyer and Terminer was dissolved in October 1692, and the succeeding Superior Court did not allow spectral evidence.",
+      "sourceRefs": [
+        "MA_TRIALS",
+        "MA_AFTERMATH"
+      ]
+    },
+    {
+      "claimId": "SALEM-C5",
+      "status": "CONFIRMED",
+      "statementKo": "Massachusetts Archives는 Salem Witch Trials의 결과 20명이 처형되고 5명이 감옥에서 사망했다고 기록한다.",
+      "statementEn": "Massachusetts Archives records twenty executions and five additional deaths in jail resulting from the Salem Witch Trials.",
+      "sourceRefs": [
+        "MA_OAT"
+      ]
+    },
+    {
+      "claimId": "SALEM-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "spectral testimony가 존재했다는 사실은 피고인들이 실제 마술을 사용했거나 환영이 객관적으로 존재했다는 것을 입증하지 않는다.",
+      "statementEn": "The existence of spectral testimony does not establish that the accused actually practiced supernatural witchcraft or that apparitions objectively existed.",
+      "sourceRefs": [
+        "MA_TRIALS",
+        "UVA_METHOD"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MA_TRIALS",
+      "title": "The Trials",
+      "publisher": "Massachusetts Archives Digital Repository",
+      "url": "https://digitalarchives.sec.state.ma.us/the-trials/",
+      "sourceType": "OFFICIAL_PRIMARY_DOCUMENT_EXHIBIT",
+      "scope": "Oyer and Terminer, spectral evidence, Sarah Good evidence summary, later court change"
+    },
+    {
+      "sourceId": "MA_OAT",
+      "title": "Court of Oyer and Terminer (Record Group OAT)",
+      "publisher": "Massachusetts Archives Digital Repository",
+      "url": "https://digitalarchives.sec.state.ma.us/index.php?name=SO_8647fb25-e03b-468c-95d0-d201ae24d472",
+      "sourceType": "OFFICIAL_ARCHIVE_RECORD_GROUP",
+      "scope": "court dates, Stoughton, 20 executions, five jail deaths, jurisdiction transfer"
+    },
+    {
+      "sourceId": "UVA_SARAHGOOD",
+      "title": "SWP No. 063: Sarah Good",
+      "publisher": "University of Virginia Salem Witch Trials Documentary Archive",
+      "url": "https://salem.lib.virginia.edu/n63.html",
+      "sourceType": "PRIMARY_TRANSCRIPTION",
+      "scope": "Sarah Good examinations, denials, accuser/apparition testimony"
+    },
+    {
+      "sourceId": "UVA_METHOD",
+      "title": "Salem Witch Trials Documentary Archive Introduction",
+      "publisher": "University of Virginia / Benjamin Ray",
+      "url": "https://salem.lib.virginia.edu/intro.html",
+      "sourceType": "ACADEMIC_ARCHIVE_METHOD",
+      "scope": "record/transcription limits and archival methodology"
+    },
+    {
+      "sourceId": "MA_AFTERMATH",
+      "title": "The Aftermath",
+      "publisher": "Massachusetts Archives Digital Repository",
+      "url": "https://digitalarchives.sec.state.ma.us/the-aftermath",
+      "sourceType": "OFFICIAL_PRIMARY_DOCUMENT_EXHIBIT",
+      "scope": "ban on spectral evidence, apologies, reparations, later response"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "salem-spectral-evidence-court-transition",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1692 특별법원과 1693 후속법원의 spectral evidence 취급 차이를 비교한 카드.",
+      "captionEn": "Comparison of spectral-evidence rules in the 1692 Oyer and Terminer and the later Superior Court.",
+      "altKo": "1692 법원과 1693 법원의 증거규칙·결과를 두 열로 비교.",
+      "altEn": "Two-column comparison of evidentiary rules and outcomes in the 1692 and 1693 courts.",
+      "sourceRefs": [
+        "MA_TRIALS",
+        "MA_AFTERMATH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "salem-spectral-evidence__court-transition__ko.png",
+          "sha256": "a14d6e65640a99f64a20a46410983da2a3dab0a05b126c8d21aa897b38e8da12",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "salem-spectral-evidence__court-transition__en.png",
+          "sha256": "1f08a133b2fc5461642705a844315bc202f872962d895260ca700e5499e241d7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "salem-spectral-evidence-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "세일럼에서 spectral evidence가 고발·법원·형사결과·배제로 이어진 구조를 보여주는 hero 도표.",
+      "captionEn": "Hero explainer showing the path from spectral accusation to court use, criminal consequences, and later exclusion.",
+      "altKo": "고발, Oyer and Terminer, 처형, 새 법원 배제의 네 단계.",
+      "altEn": "Four stages: accusation, Oyer and Terminer, executions, later exclusion.",
+      "sourceRefs": [
+        "MA_TRIALS",
+        "MA_OAT",
+        "MA_AFTERMATH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "salem-spectral-evidence__hero-context__ko.png",
+          "sha256": "11890de8428dbd0955b96df24dfb2a821a5115e8a777417c48130237d4ab70d9",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "salem-spectral-evidence__hero-context__en.png",
+          "sha256": "ef0d6da8b71656525873b33c0030f66621b54b5866e9306329cbf834619c8271",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "salem-spectral-evidence-record-vs-reality",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "세일럼 문서가 역사적으로 확인하는 것과 초자연적으로 입증하지 못하는 것을 분리한 카드.",
+      "captionEn": "Evidence card separating what Salem court records establish historically from what they do not prove supernaturally.",
+      "altKo": "왼쪽 법정기록의 역사적 사실, 오른쪽 입증되지 않은 초자연 주장.",
+      "altEn": "Two-column comparison of documented legal facts and unproven supernatural conclusions.",
+      "sourceRefs": [
+        "UVA_SARAHGOOD",
+        "MA_TRIALS",
+        "UVA_METHOD"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "salem-spectral-evidence__record-vs-reality__ko.png",
+          "sha256": "e933265152680f507ed78bed836fb8c55b9a5b4f60adb465ab0ac13b3a1c46ea",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "salem-spectral-evidence__record-vs-reality__en.png",
+          "sha256": "2fc4dda09693f6f048823d909d60de3408ef42998904015a24991b5a6288387d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "salem-spectral-evidence-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Court of Oyer and Terminer 설치부터 후속법원의 spectral evidence 배제까지의 연표.",
+      "captionEn": "Timeline from creation of the Court of Oyer and Terminer to later exclusion of spectral evidence.",
+      "altKo": "1692년5월27일, 6월2일, 10월, 1693년의 법원변화를 표시.",
+      "altEn": "Timeline marking the court changes in May, June, October 1692 and 1693.",
+      "sourceRefs": [
+        "MA_TRIALS",
+        "MA_OAT",
+        "MA_AFTERMATH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "salem-spectral-evidence__timeline__ko.png",
+          "sha256": "eb1e619669a04723b491a60b629796aa4a4b5839498d84875ae939354cdec70c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "salem-spectral-evidence__timeline__en.png",
+          "sha256": "387f36fa140e34ae34b240c3e92d764b14f950196c8e0b069c7b4b9a6a4cf2dd",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Massachusetts Bay Colony"
+    ],
+    "places": [
+      {
+        "name": "Salem Village",
+        "role": "accusation community"
+      },
+      {
+        "name": "Salem Town",
+        "role": "trial-region context"
+      }
+    ],
+    "people": [
+      {
+        "name": "William Phips",
+        "role": "governor"
+      },
+      {
+        "name": "William Stoughton",
+        "role": "chief magistrate"
+      },
+      {
+        "name": "Bridget Bishop",
+        "role": "first formally prosecuted by Oyer and Terminer"
+      },
+      {
+        "name": "Sarah Good",
+        "role": "accused; case records illustrate spectral evidence"
+      },
+      {
+        "name": "Samuel Parris",
+        "role": "minister / recorder in some proceedings"
+      }
+    ],
+    "organizations": [
+      "Court of Oyer and Terminer",
+      "Massachusetts Archives",
+      "University of Virginia Salem Witch Trials Documentary Archive"
+    ],
+    "dateRange": {
+      "start": "1692-02",
+      "end": "1693-05",
+      "precision": "accusation/trial period through conclusion"
+    },
+    "era": "Early Modern / Colonial North America",
+    "resolution": "TRIALS_AND_SPECTRAL_TESTIMONY_ESTABLISHED_SUPERNATURAL_WITCHCRAFT_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Salem witch trials",
+      "spectral evidence",
+      "Sarah Good",
+      "Oyer and Terminer"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 4529,
+    "enBodyWords": 1247,
+    "meaningfulBlockCount": 14,
+    "visualPlacementCount": 4,
+    "sourceCount": 5,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH03",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH03_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

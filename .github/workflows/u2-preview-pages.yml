@@ -1,0 +1,41 @@
+name: Mystery Atlas U2 free preview
+on:
+  push:
+    branches: [work/mystery-atlas-unified-web-mobile-u2]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: mystery-atlas-u2-preview
+  cancel-in-progress: false
+
+jobs:
+  build-and-preview:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - uses: actions/configure-pages@v5
+      - run: npm ci
+        working-directory: web
+      - run: npm run lint && npm run typecheck && npm run test && npm run build && npm run check:static
+        working-directory: web
+        env:
+          NEXT_PUBLIC_MYSTERY_ATLAS_BASE_PATH: /MysteryAtlas
+          NEXT_PUBLIC_SITE_URL: https://rhtngudwls2-lang.github.io
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+      - id: deployment
+        uses: actions/deploy-pages@v4

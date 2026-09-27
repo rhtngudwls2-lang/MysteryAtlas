@@ -1,0 +1,553 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "lady-be-good",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Lady Be Good",
+    "canonicalTitleEn": "Lady Be Good",
+    "aliasesKo": [
+      "레이디 비 굿"
+    ],
+    "aliasesEn": [
+      "Lady Be Good B-24"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "15년 뒤 사막에서 발견된 폭격기, 승무원들은 어디까지 걸었나",
+      "hook": "사라진 폭격기는 거의 온전한 모습으로 돌아왔다. 문제는 비행기가 아니라 아홉 명의 승무원이었다. 기체와 일기, 유해가 하나씩 발견되면서 1943년 밤의 항로와 사막 생존경로가 뒤늦게 맞춰졌다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "사막 한가운데 거의 온전한 폭격기",
+          "headingEn": "A Nearly Intact Bomber in the Middle of the Desert",
+          "textKo": "1958년 11월, 리비아 사막 상공을 지나던 영국 지질탐사 인력이 모래 위에 놓인 항공기 한 대를 발견했다. 위치는 해안의 옛 기지에서 수백 킬로미터 남쪽이었다. 이듬해 지상조사팀이 확인한 기체는 1943년 첫 전투임무 뒤 사라진 미 육군항공대 B-24D **Lady Be Good**였다. 더 이상한 점은 기체가 산산조각 난 흔적보다 ‘오래 방치된 항공기’처럼 보였다는 데 있었다. 폭격기는 15년 넘게 사라져 있었지만, 발견 장소에는 승무원 아홉 명이 보이지 않았다.",
+          "textEn": "In November 1958, British geological survey personnel flying over the Libyan Desert spotted an aircraft sitting on the sand hundreds of kilometres south of the old coastal air base at Soluch. A ground party reached the site the following year and identified the wreck as the U.S. Army Air Forces B-24D **Lady Be Good**, missing since its first combat mission in 1943. The strangest detail was not simply that the bomber had survived for more than fifteen years in the desert. It was that none of the nine crewmen were there."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "1943년 4월 4일, 첫 전투임무",
+          "headingEn": "April 4, 1943: The First Combat Mission",
+          "textKo": "1943년 4월 4일 오후, 376th Bomb Group 소속 B-24D 25대가 리비아 Soluch 기지에서 이탈리아 나폴리 항만시설을 공격하기 위해 이륙했다. Lady Be Good에게는 첫 전투임무였다. 작전은 악천후와 야간귀환이 겹친 어려운 임무였고, 다른 항공기들은 연합군 지역으로 돌아왔지만 Lady Be Good만 돌아오지 않았다. 당시에는 기체가 지중해로 추락했을 가능성도 생각할 수 있었다. 실제로 승무원들이 육지 위를 지나쳤다는 사실은 훨씬 뒤에야 드러났다.",
+          "textEn": "On the afternoon of April 4, 1943, twenty-five B-24Ds of the 376th Bomb Group departed Soluch, Libya, for a high-altitude strike on harbour facilities at Naples. It was Lady Be Good’s first combat mission. Weather and a night return made the mission difficult. The rest of the formation returned to Allied territory, but Lady Be Good did not. At the time, a loss over the Mediterranean was an obvious possibility. The fact that the bomber had continued far inland would not become clear for years."
+        },
+        {
+          "blockId": "wreck-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기체는 왜 그렇게 멀쩡했나",
+          "headingEn": "Why Was the Bomber So Well Preserved?",
+          "textKo": "Lady Be Good의 발견이 강한 인상을 남긴 이유 중 하나는 사막환경이었다. 건조한 지역에 놓인 기체와 내부 물품은 오랜 시간이 지나도 놀랄 만큼 많은 흔적을 보존했다. 후속 조사에서는 라디오와 무기 등 일부 장비가 여전히 작동 가능한 상태였다는 기록까지 남았다. 이 보존상태는 초자연적 요소가 아니라 사건 재구성에 결정적인 행운이었다. 기체의 방향, 남은 물품, 승무원이 챙기지 못한 장비를 통해 ‘기체가 먼저 추락했고 승무원이 사라진 것’이 아니라 **승무원이 먼저 탈출한 뒤 무인 항공기가 따로 사막에 내려앉았다는 순서**를 확인하는 데 도움이 됐다.",
+          "textEn": "Part of Lady Be Good’s eerie appearance came from the desert itself. The dry environment preserved the aircraft and many objects inside it to an unusual degree. Later accounts noted that some equipment, including radios and weapons, remained in remarkably usable condition. This preservation was not supernatural; it was a gift to investigators. The orientation of the wreck, the supplies left behind, and the absence of the crew helped establish the sequence: the men had bailed out first, and the unmanned bomber had continued on before coming down separately in the desert."
+        },
+        {
+          "blockId": "chronology-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "기지를 지나쳐 사막으로",
+          "headingEn": "Past the Base and Into the Desert",
+          "textKo": "1959년 기체를 조사한 뒤 사건의 큰 틀이 바뀌었다. 미 공군박물관의 공식 설명은 현장증거가 승무원들이 어둠 속에서 위치를 잃고 Soluch 기지를 지나쳐 남쪽 사막으로 계속 비행했음을 가리킨다고 정리한다. 결국 연료가 거의 바닥나자 승무원 아홉 명은 낙하산으로 탈출했고, 무인 B-24는 그대로 더 날아가 사막에 내려앉았다. 승무원 입장에서는 기체와 떨어진 순간부터 방향감각과 거리판단이 생존을 좌우하는 문제가 됐다.",
+          "textEn": "The 1959 ground investigation changed the outline of the case. The National Museum of the U.S. Air Force summarizes the evidence as showing that the crew became lost in darkness, overflew Soluch, and continued south into the desert. As fuel ran down, all nine men bailed out. The unmanned B-24 continued on and came down farther south. From the moment the crew left the aircraft, navigation and distance—not the condition of the bomber—became the central problem."
+        },
+        {
+          "blockId": "turning-04",
+          "type": "TURNING_POINT",
+          "headingKo": "비행기보다 먼저 죽음이 그들을 따라잡았다",
+          "headingEn": "The Crew’s Real Battle Began After the Bailout",
+          "textKo": "승무원들은 낙하지점 근처에서 여덟 명이 모였다. bombardier John Woravka는 본대와 합류하지 못했다. 이후 여덟 명은 자신들이 해안과 기지에 더 가깝다고 생각한 채 북쪽으로 걷기 시작했다. 육군 Quartermaster Museum이 보존한 Toner의 일기와 회수기록은 이들이 극히 적은 물만 가진 채 며칠을 버텼음을 보여준다. 사막 생존 전문가들이 예상했던 이동거리보다 훨씬 멀리 걸었고, 다섯 명이 함께 멈춘 지점에서 다시 세 명이 도움을 찾기 위해 북쪽으로 더 나아갔다.",
+          "textEn": "Eight of the crewmen managed to regroup after the bailout; bombardier John Woravka did not join them. Believing they were closer to the coast and their base than they really were, the eight started walking north. Lieutenant Robert Toner’s recovered diary and the Army Quartermaster Museum’s recovery history show that they survived for days with almost no water and covered far more ground than desert-survival specialists later expected. When five could no longer continue, three others pressed farther north in an attempt to find help."
+        },
+        {
+          "blockId": "diary-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "일기가 시간표를 되살렸다",
+          "headingEn": "A Diary Rebuilt the Timeline",
+          "textKo": "Toner의 일기는 단순한 개인 유품 이상의 역할을 했다. 짧은 메모들은 승무원들이 4월 5일 새벽 낙하산으로 탈출했고, 며칠 동안 계속 북쪽으로 이동했으며, 물이 거의 바닥난 상태에서도 예상보다 훨씬 오래 버텼다는 시간표를 제공했다. 육군 Quartermaster Museum 기록은 이 일기가 이후 수색대가 유해와 개인물품을 해석하는 기준점이 됐음을 보여준다. 기체 발견만으로는 ‘왜 승무원이 없었는가’를 설명할 수 없었지만, 일기와 발견 위치를 겹치자 **항공사고 이후의 8일간이 사건의 두 번째 절반**으로 드러났다.",
+          "textEn": "Toner’s diary became more than a personal relic. Its brief entries provided a timeline showing that the crew bailed out in the early hours of April 5, continued moving north for days, and survived far longer than expected with almost no water. The Army Quartermaster Museum’s recovery history shows how the diary helped investigators interpret the later locations of remains and equipment. The aircraft alone could explain where the bomber ended up, but not why the men were gone. Once the diary was placed beside the recovery map, the eight days after the bailout became the second half of the story."
+        },
+        {
+          "blockId": "evidence-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1960년, 사막이 답을 돌려주기 시작했다",
+          "headingEn": "1960: The Desert Began Giving Back Answers",
+          "textKo": "1960년 2월 British Petroleum 인력이 다섯 승무원의 유해와 군용장비·개인물품을 발견했다. 그곳에서 나온 Toner의 짧은 일기는 4월 5일부터 12일까지의 생존과 이동을 기록해 사건 재구성의 핵심이 됐다. 이후 합동 수색이 확대됐고 5월에는 Staff Sergeant Guy Shelley와 Technical Sergeant Harold Ripslinger의 유해가 더 북쪽에서 차례로 발견됐다. 다른 수색에서도 승무원 흔적이 추가로 확인돼 결국 아홉 명 중 여덟 명의 유해가 회수됐다. 한 명은 끝내 발견되지 않았다.",
+          "textEn": "In February 1960, British Petroleum workers found the remains of five crewmen together with military equipment and personal effects. Toner’s diary, recovered among those belongings, recorded the men’s struggle from April 5 through April 12 and became a crucial piece of the reconstruction. A larger joint search followed. In May, Staff Sergeant Guy Shelley and Technical Sergeant Harold Ripslinger were found progressively farther north. Additional recovery work eventually accounted for eight of the nine crewmen. One man was never found."
+        },
+        {
+          "blockId": "evidence-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "그들이 몰랐던 가장 잔인한 사실",
+          "headingEn": "The Cruelest Detail They Could Not Know",
+          "textKo": "사건이 뒤늦게 재구성되면서 비극적인 거리감이 드러났다. Smithsonian의 항공사 정리는 승무원 낙하지점과 기체 위치가 생각보다 가까웠다고 설명한다. 무인 상태로 계속 날아간 Lady Be Good에는 물과 통신장비가 남아 있었다. 하지만 어둠 속에서 탈출한 승무원들은 기체가 어디에 떨어졌는지 알 수 없었고, 자신들이 이미 기지를 수백 킬로미터 지나쳤다는 사실도 몰랐다. ‘남쪽으로 갔다면 살 수 있었다’는 문장은 사후 지도를 보고 할 수 있는 말이지, 당시 승무원이 가질 수 있었던 정보는 아니었다.",
+          "textEn": "The later reconstruction revealed one of the case’s most painful ironies. Smithsonian’s aviation history notes that the aircraft came down relatively near the crew’s bailout area and still contained supplies and working equipment. But the men had left the bomber in darkness and had no way to know where it would land. They also did not know that they had already overflown their base by a vast distance. Saying that they might have survived by walking south is a conclusion available from a later map, not a decision they could make with the information they had that night."
+        },
+        {
+          "blockId": "counter-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘저주받은 부품’ 이야기는 사건의 핵심이 아니다",
+          "headingEn": "The ‘Cursed Parts’ Story Is Not the Core Mystery",
+          "textKo": "Lady Be Good가 유명해지면서 기체 부품을 다른 항공기에 옮긴 뒤 사고가 이어졌다는 ‘저주’ 이야기도 퍼졌다. 미 공군박물관의 옛 설명에는 실제로 일부 부품이 다른 항공기에 설치된 뒤 그 항공기들이 문제를 겪었다는 사례가 정리돼 있다. 그러나 Smithsonian은 이를 초자연적 저주의 증거로 취급하지 않고 후대에 붙은 전설로 구분한다. 부품이 사용됐다는 사실과 그 부품 때문에 사고가 일어났다는 인과관계는 같은 명제가 아니다. 이 사건의 실제 미스터리는 저주가 아니라 **항법오류, 밤의 위치착각, 그리고 사막에서의 생존경로가 어떻게 뒤늦게 복원됐는가**에 있다.",
+          "textEn": "As Lady Be Good became famous, stories spread that parts removed from the wreck were later installed in other aircraft that then suffered accidents—fuel for a “curse” legend. An older Air Force museum account does list examples of recovered components later used elsewhere, followed by unrelated aircraft troubles. Smithsonian, however, treats the supernatural interpretation as part of the later mythology. The fact that a component was reused and the claim that it caused a later crash are not the same proposition. The real mystery is not a curse. It is how navigation error, mistaken position, and an extraordinary desert survival route were reconstructed long after the event."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "미제 실종에서 ‘부분적으로 해결된 사건’으로",
+          "headingEn": "From Missing Aircraft to Largely Reconstructed Case",
+          "textKo": "Lady Be Good는 전형적인 ‘유령비행기’ 이야기처럼 시작하지만, 오늘날에는 대부분의 핵심 과정이 상당히 구체적으로 복원돼 있다. 항공기가 어떻게 기지를 지나쳤는지, 승무원이 언제 탈출했는지, 여덟 명이 어느 방향으로 걸었는지, 어디에서 일부가 멈추고 일부가 더 전진했는지가 기체상태·일기·유해·장비 위치를 통해 맞춰졌다. 그래서 이 사건은 완전히 열린 미스터리라기보다 **수십 년 뒤 증거가 하나씩 돌아오면서 큰 줄거리가 해결된 사건**에 가깝다. 다만 마지막 한 승무원의 정확한 최후는 여전히 빈칸으로 남아 있다.",
+          "textEn": "Lady Be Good begins like a classic “ghost plane” story, but today most of the central sequence has been reconstructed in considerable detail. The aircraft’s overflight of its base, the crew bailout, the direction of the march, the point where some men stopped, and the farther progress of others can be pieced together from the wreck, diaries, remains, and recovered equipment. The case is therefore less an entirely open mystery than a disappearance whose main narrative was solved as evidence returned decades later. One crewman’s exact fate, however, remains unknown."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Lady Be Good는 1943년 4월 4일 나폴리 임무 후 귀환하지 못했고, 1958~1959년 리비아 사막에서 기체가 발견됐다. 현장증거와 후속 수색은 승무원들이 기지를 지나친 뒤 연료가 부족해 낙하산 탈출했고, 이후 북쪽으로 장거리 이동했음을 뒷받침한다. 1960년 수색을 통해 아홉 명 중 여덟 명의 유해가 회수됐다.\n\n**남은 부분:** 한 승무원의 유해는 발견되지 않았다. ‘저주받은 부품’ 같은 초자연적 인과는 입증되지 않았다. 또한 후대 지도로 볼 때 다른 선택이 가능해 보인다는 사실을 당시 승무원이 알 수 있었던 정보로 바꾸어 서술해서는 안 된다.",
+          "textEn": "**Established:** Lady Be Good failed to return from its April 4, 1943 mission and was rediscovered in the Libyan Desert in 1958–1959. Evidence from the wreck and later searches supports the reconstruction that the crew overflew its base, bailed out as fuel was depleted, and then marched north through the desert. Eight of the nine crewmen were ultimately recovered.\n\n**Still open or unsupported:** One crewman’s remains were never found. Supernatural claims about “cursed” aircraft parts are not established. And choices that look obvious on a modern reconstruction should not be presented as information the crew actually possessed in 1943."
+        }
+      ],
+      "factBoundary": {
+        "established": "기체의 운명과 승무원 대부분의 이동경로는 공식 수색·회수자료로 상당히 복원됐다.",
+        "notEstablished": "한 승무원의 최후와 초자연적 저주 주장은 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "wreck-025",
+        "chronology-03",
+        "turning-04",
+        "diary-045",
+        "evidence-05",
+        "evidence-06",
+        "counter-07",
+        "aftermath-08"
+      ]
+    },
+    "en": {
+      "headline": "The Bomber Was Found 15 Years Later—How Far Did the Crew Walk?",
+      "hook": "The missing bomber eventually returned almost intact. The real mystery was the nine men who had left it. Wreckage, diaries, remains, and personal effects slowly reconstructed the route of one night in 1943 and the desert march that followed.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "사막 한가운데 거의 온전한 폭격기",
+          "headingEn": "A Nearly Intact Bomber in the Middle of the Desert",
+          "textKo": "1958년 11월, 리비아 사막 상공을 지나던 영국 지질탐사 인력이 모래 위에 놓인 항공기 한 대를 발견했다. 위치는 해안의 옛 기지에서 수백 킬로미터 남쪽이었다. 이듬해 지상조사팀이 확인한 기체는 1943년 첫 전투임무 뒤 사라진 미 육군항공대 B-24D **Lady Be Good**였다. 더 이상한 점은 기체가 산산조각 난 흔적보다 ‘오래 방치된 항공기’처럼 보였다는 데 있었다. 폭격기는 15년 넘게 사라져 있었지만, 발견 장소에는 승무원 아홉 명이 보이지 않았다.",
+          "textEn": "In November 1958, British geological survey personnel flying over the Libyan Desert spotted an aircraft sitting on the sand hundreds of kilometres south of the old coastal air base at Soluch. A ground party reached the site the following year and identified the wreck as the U.S. Army Air Forces B-24D **Lady Be Good**, missing since its first combat mission in 1943. The strangest detail was not simply that the bomber had survived for more than fifteen years in the desert. It was that none of the nine crewmen were there."
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "1943년 4월 4일, 첫 전투임무",
+          "headingEn": "April 4, 1943: The First Combat Mission",
+          "textKo": "1943년 4월 4일 오후, 376th Bomb Group 소속 B-24D 25대가 리비아 Soluch 기지에서 이탈리아 나폴리 항만시설을 공격하기 위해 이륙했다. Lady Be Good에게는 첫 전투임무였다. 작전은 악천후와 야간귀환이 겹친 어려운 임무였고, 다른 항공기들은 연합군 지역으로 돌아왔지만 Lady Be Good만 돌아오지 않았다. 당시에는 기체가 지중해로 추락했을 가능성도 생각할 수 있었다. 실제로 승무원들이 육지 위를 지나쳤다는 사실은 훨씬 뒤에야 드러났다.",
+          "textEn": "On the afternoon of April 4, 1943, twenty-five B-24Ds of the 376th Bomb Group departed Soluch, Libya, for a high-altitude strike on harbour facilities at Naples. It was Lady Be Good’s first combat mission. Weather and a night return made the mission difficult. The rest of the formation returned to Allied territory, but Lady Be Good did not. At the time, a loss over the Mediterranean was an obvious possibility. The fact that the bomber had continued far inland would not become clear for years."
+        },
+        {
+          "blockId": "wreck-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "기체는 왜 그렇게 멀쩡했나",
+          "headingEn": "Why Was the Bomber So Well Preserved?",
+          "textKo": "Lady Be Good의 발견이 강한 인상을 남긴 이유 중 하나는 사막환경이었다. 건조한 지역에 놓인 기체와 내부 물품은 오랜 시간이 지나도 놀랄 만큼 많은 흔적을 보존했다. 후속 조사에서는 라디오와 무기 등 일부 장비가 여전히 작동 가능한 상태였다는 기록까지 남았다. 이 보존상태는 초자연적 요소가 아니라 사건 재구성에 결정적인 행운이었다. 기체의 방향, 남은 물품, 승무원이 챙기지 못한 장비를 통해 ‘기체가 먼저 추락했고 승무원이 사라진 것’이 아니라 **승무원이 먼저 탈출한 뒤 무인 항공기가 따로 사막에 내려앉았다는 순서**를 확인하는 데 도움이 됐다.",
+          "textEn": "Part of Lady Be Good’s eerie appearance came from the desert itself. The dry environment preserved the aircraft and many objects inside it to an unusual degree. Later accounts noted that some equipment, including radios and weapons, remained in remarkably usable condition. This preservation was not supernatural; it was a gift to investigators. The orientation of the wreck, the supplies left behind, and the absence of the crew helped establish the sequence: the men had bailed out first, and the unmanned bomber had continued on before coming down separately in the desert."
+        },
+        {
+          "blockId": "chronology-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "기지를 지나쳐 사막으로",
+          "headingEn": "Past the Base and Into the Desert",
+          "textKo": "1959년 기체를 조사한 뒤 사건의 큰 틀이 바뀌었다. 미 공군박물관의 공식 설명은 현장증거가 승무원들이 어둠 속에서 위치를 잃고 Soluch 기지를 지나쳐 남쪽 사막으로 계속 비행했음을 가리킨다고 정리한다. 결국 연료가 거의 바닥나자 승무원 아홉 명은 낙하산으로 탈출했고, 무인 B-24는 그대로 더 날아가 사막에 내려앉았다. 승무원 입장에서는 기체와 떨어진 순간부터 방향감각과 거리판단이 생존을 좌우하는 문제가 됐다.",
+          "textEn": "The 1959 ground investigation changed the outline of the case. The National Museum of the U.S. Air Force summarizes the evidence as showing that the crew became lost in darkness, overflew Soluch, and continued south into the desert. As fuel ran down, all nine men bailed out. The unmanned B-24 continued on and came down farther south. From the moment the crew left the aircraft, navigation and distance—not the condition of the bomber—became the central problem."
+        },
+        {
+          "blockId": "turning-04",
+          "type": "TURNING_POINT",
+          "headingKo": "비행기보다 먼저 죽음이 그들을 따라잡았다",
+          "headingEn": "The Crew’s Real Battle Began After the Bailout",
+          "textKo": "승무원들은 낙하지점 근처에서 여덟 명이 모였다. bombardier John Woravka는 본대와 합류하지 못했다. 이후 여덟 명은 자신들이 해안과 기지에 더 가깝다고 생각한 채 북쪽으로 걷기 시작했다. 육군 Quartermaster Museum이 보존한 Toner의 일기와 회수기록은 이들이 극히 적은 물만 가진 채 며칠을 버텼음을 보여준다. 사막 생존 전문가들이 예상했던 이동거리보다 훨씬 멀리 걸었고, 다섯 명이 함께 멈춘 지점에서 다시 세 명이 도움을 찾기 위해 북쪽으로 더 나아갔다.",
+          "textEn": "Eight of the crewmen managed to regroup after the bailout; bombardier John Woravka did not join them. Believing they were closer to the coast and their base than they really were, the eight started walking north. Lieutenant Robert Toner’s recovered diary and the Army Quartermaster Museum’s recovery history show that they survived for days with almost no water and covered far more ground than desert-survival specialists later expected. When five could no longer continue, three others pressed farther north in an attempt to find help."
+        },
+        {
+          "blockId": "diary-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "일기가 시간표를 되살렸다",
+          "headingEn": "A Diary Rebuilt the Timeline",
+          "textKo": "Toner의 일기는 단순한 개인 유품 이상의 역할을 했다. 짧은 메모들은 승무원들이 4월 5일 새벽 낙하산으로 탈출했고, 며칠 동안 계속 북쪽으로 이동했으며, 물이 거의 바닥난 상태에서도 예상보다 훨씬 오래 버텼다는 시간표를 제공했다. 육군 Quartermaster Museum 기록은 이 일기가 이후 수색대가 유해와 개인물품을 해석하는 기준점이 됐음을 보여준다. 기체 발견만으로는 ‘왜 승무원이 없었는가’를 설명할 수 없었지만, 일기와 발견 위치를 겹치자 **항공사고 이후의 8일간이 사건의 두 번째 절반**으로 드러났다.",
+          "textEn": "Toner’s diary became more than a personal relic. Its brief entries provided a timeline showing that the crew bailed out in the early hours of April 5, continued moving north for days, and survived far longer than expected with almost no water. The Army Quartermaster Museum’s recovery history shows how the diary helped investigators interpret the later locations of remains and equipment. The aircraft alone could explain where the bomber ended up, but not why the men were gone. Once the diary was placed beside the recovery map, the eight days after the bailout became the second half of the story."
+        },
+        {
+          "blockId": "evidence-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1960년, 사막이 답을 돌려주기 시작했다",
+          "headingEn": "1960: The Desert Began Giving Back Answers",
+          "textKo": "1960년 2월 British Petroleum 인력이 다섯 승무원의 유해와 군용장비·개인물품을 발견했다. 그곳에서 나온 Toner의 짧은 일기는 4월 5일부터 12일까지의 생존과 이동을 기록해 사건 재구성의 핵심이 됐다. 이후 합동 수색이 확대됐고 5월에는 Staff Sergeant Guy Shelley와 Technical Sergeant Harold Ripslinger의 유해가 더 북쪽에서 차례로 발견됐다. 다른 수색에서도 승무원 흔적이 추가로 확인돼 결국 아홉 명 중 여덟 명의 유해가 회수됐다. 한 명은 끝내 발견되지 않았다.",
+          "textEn": "In February 1960, British Petroleum workers found the remains of five crewmen together with military equipment and personal effects. Toner’s diary, recovered among those belongings, recorded the men’s struggle from April 5 through April 12 and became a crucial piece of the reconstruction. A larger joint search followed. In May, Staff Sergeant Guy Shelley and Technical Sergeant Harold Ripslinger were found progressively farther north. Additional recovery work eventually accounted for eight of the nine crewmen. One man was never found."
+        },
+        {
+          "blockId": "evidence-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "그들이 몰랐던 가장 잔인한 사실",
+          "headingEn": "The Cruelest Detail They Could Not Know",
+          "textKo": "사건이 뒤늦게 재구성되면서 비극적인 거리감이 드러났다. Smithsonian의 항공사 정리는 승무원 낙하지점과 기체 위치가 생각보다 가까웠다고 설명한다. 무인 상태로 계속 날아간 Lady Be Good에는 물과 통신장비가 남아 있었다. 하지만 어둠 속에서 탈출한 승무원들은 기체가 어디에 떨어졌는지 알 수 없었고, 자신들이 이미 기지를 수백 킬로미터 지나쳤다는 사실도 몰랐다. ‘남쪽으로 갔다면 살 수 있었다’는 문장은 사후 지도를 보고 할 수 있는 말이지, 당시 승무원이 가질 수 있었던 정보는 아니었다.",
+          "textEn": "The later reconstruction revealed one of the case’s most painful ironies. Smithsonian’s aviation history notes that the aircraft came down relatively near the crew’s bailout area and still contained supplies and working equipment. But the men had left the bomber in darkness and had no way to know where it would land. They also did not know that they had already overflown their base by a vast distance. Saying that they might have survived by walking south is a conclusion available from a later map, not a decision they could make with the information they had that night."
+        },
+        {
+          "blockId": "counter-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘저주받은 부품’ 이야기는 사건의 핵심이 아니다",
+          "headingEn": "The ‘Cursed Parts’ Story Is Not the Core Mystery",
+          "textKo": "Lady Be Good가 유명해지면서 기체 부품을 다른 항공기에 옮긴 뒤 사고가 이어졌다는 ‘저주’ 이야기도 퍼졌다. 미 공군박물관의 옛 설명에는 실제로 일부 부품이 다른 항공기에 설치된 뒤 그 항공기들이 문제를 겪었다는 사례가 정리돼 있다. 그러나 Smithsonian은 이를 초자연적 저주의 증거로 취급하지 않고 후대에 붙은 전설로 구분한다. 부품이 사용됐다는 사실과 그 부품 때문에 사고가 일어났다는 인과관계는 같은 명제가 아니다. 이 사건의 실제 미스터리는 저주가 아니라 **항법오류, 밤의 위치착각, 그리고 사막에서의 생존경로가 어떻게 뒤늦게 복원됐는가**에 있다.",
+          "textEn": "As Lady Be Good became famous, stories spread that parts removed from the wreck were later installed in other aircraft that then suffered accidents—fuel for a “curse” legend. An older Air Force museum account does list examples of recovered components later used elsewhere, followed by unrelated aircraft troubles. Smithsonian, however, treats the supernatural interpretation as part of the later mythology. The fact that a component was reused and the claim that it caused a later crash are not the same proposition. The real mystery is not a curse. It is how navigation error, mistaken position, and an extraordinary desert survival route were reconstructed long after the event."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "미제 실종에서 ‘부분적으로 해결된 사건’으로",
+          "headingEn": "From Missing Aircraft to Largely Reconstructed Case",
+          "textKo": "Lady Be Good는 전형적인 ‘유령비행기’ 이야기처럼 시작하지만, 오늘날에는 대부분의 핵심 과정이 상당히 구체적으로 복원돼 있다. 항공기가 어떻게 기지를 지나쳤는지, 승무원이 언제 탈출했는지, 여덟 명이 어느 방향으로 걸었는지, 어디에서 일부가 멈추고 일부가 더 전진했는지가 기체상태·일기·유해·장비 위치를 통해 맞춰졌다. 그래서 이 사건은 완전히 열린 미스터리라기보다 **수십 년 뒤 증거가 하나씩 돌아오면서 큰 줄거리가 해결된 사건**에 가깝다. 다만 마지막 한 승무원의 정확한 최후는 여전히 빈칸으로 남아 있다.",
+          "textEn": "Lady Be Good begins like a classic “ghost plane” story, but today most of the central sequence has been reconstructed in considerable detail. The aircraft’s overflight of its base, the crew bailout, the direction of the march, the point where some men stopped, and the farther progress of others can be pieced together from the wreck, diaries, remains, and recovered equipment. The case is therefore less an entirely open mystery than a disappearance whose main narrative was solved as evidence returned decades later. One crewman’s exact fate, however, remains unknown."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Lady Be Good는 1943년 4월 4일 나폴리 임무 후 귀환하지 못했고, 1958~1959년 리비아 사막에서 기체가 발견됐다. 현장증거와 후속 수색은 승무원들이 기지를 지나친 뒤 연료가 부족해 낙하산 탈출했고, 이후 북쪽으로 장거리 이동했음을 뒷받침한다. 1960년 수색을 통해 아홉 명 중 여덟 명의 유해가 회수됐다.\n\n**남은 부분:** 한 승무원의 유해는 발견되지 않았다. ‘저주받은 부품’ 같은 초자연적 인과는 입증되지 않았다. 또한 후대 지도로 볼 때 다른 선택이 가능해 보인다는 사실을 당시 승무원이 알 수 있었던 정보로 바꾸어 서술해서는 안 된다.",
+          "textEn": "**Established:** Lady Be Good failed to return from its April 4, 1943 mission and was rediscovered in the Libyan Desert in 1958–1959. Evidence from the wreck and later searches supports the reconstruction that the crew overflew its base, bailed out as fuel was depleted, and then marched north through the desert. Eight of the nine crewmen were ultimately recovered.\n\n**Still open or unsupported:** One crewman’s remains were never found. Supernatural claims about “cursed” aircraft parts are not established. And choices that look obvious on a modern reconstruction should not be presented as information the crew actually possessed in 1943."
+        }
+      ],
+      "factBoundary": {
+        "established": "The aircraft's fate and most of the crew's route are substantially reconstructed from official recovery evidence.",
+        "notEstablished": "One crewman's exact fate remains unknown, and supernatural curse claims are not established."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "wreck-025",
+        "chronology-03",
+        "turning-04",
+        "diary-045",
+        "evidence-05",
+        "evidence-06",
+        "counter-07",
+        "aftermath-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LBG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Lady Be Good는 1943-04-04 나폴리 임무 뒤 실종됐다.",
+      "statementEn": "Lady Be Good disappeared after its April 4, 1943 mission to Naples.",
+      "sourceRefs": [
+        "USAF_LBG"
+      ]
+    },
+    {
+      "claimId": "LBG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "기체는 1958년 공중에서 발견됐고 1959년 지상조사로 Lady Be Good로 확인됐다.",
+      "statementEn": "The aircraft was spotted from the air in 1958 and identified on the ground in 1959 as Lady Be Good.",
+      "sourceRefs": [
+        "USAF_LBG"
+      ]
+    },
+    {
+      "claimId": "LBG-C3",
+      "status": "SUPPORTED",
+      "statementKo": "현장증거는 승무원들이 기지를 지나쳐 연료가 고갈되자 낙하산으로 탈출한 재구성을 지지한다.",
+      "statementEn": "Site evidence supports the reconstruction that the crew overflew its base and bailed out as fuel was exhausted.",
+      "sourceRefs": [
+        "USAF_LBG"
+      ]
+    },
+    {
+      "claimId": "LBG-C4",
+      "status": "CONFIRMED",
+      "statementKo": "1960년 수색에서 아홉 명 중 여덟 명의 유해가 회수됐고 한 명은 발견되지 않았다.",
+      "statementEn": "Eight of the nine crewmen were recovered in 1960; one was never found.",
+      "sourceRefs": [
+        "USAF_LBG",
+        "ARMY_LBG"
+      ]
+    },
+    {
+      "claimId": "LBG-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "회수 부품이 후대 항공사고를 초자연적으로 일으켰다는 인과관계는 입증되지 않았다.",
+      "statementEn": "No supernatural causal link is established between recovered Lady Be Good parts and later aircraft accidents.",
+      "sourceRefs": [
+        "SMITH_LBG"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "USAF_LBG",
+      "title": "Lady Be Good",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196178/lady-be-good/",
+      "sourceType": "US_GOVERNMENT_MUSEUM",
+      "scope": "mission, wreck discovery, reconstruction, eight recovered crew, one unrecovered"
+    },
+    {
+      "sourceId": "ARMY_LBG",
+      "title": "The Lady Be Good Story — Mortuary Affairs History",
+      "publisher": "U.S. Army Quartermaster Museum",
+      "url": "https://qmmuseum.army.mil/research/history-heritage/mortuary-affairs/The-Lady-Be-Good-Story.html",
+      "sourceType": "US_GOVERNMENT_MUSEUM",
+      "scope": "1960 remains recovery, Toner diary, search chronology"
+    },
+    {
+      "sourceId": "SMITH_LBG",
+      "title": "World War II’s Most Famous Ghost Plane",
+      "publisher": "Smithsonian Air & Space Magazine",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/world-war-iis-most-famous-ghost-plane-180967012/",
+      "sourceType": "INSTITUTIONAL_SECONDARY",
+      "scope": "public history, recovered items, curse-legend boundary"
+    },
+    {
+      "sourceId": "NARA_LBG",
+      "title": "Lost and Found: The Story of Lady Be Good and Her Crew",
+      "publisher": "U.S. National Archives blog",
+      "url": "https://unwritten-record.blogs.archives.gov/2017/06/16/lost-and-found-the-story-of-lady-be-good-and-her-crew/",
+      "sourceType": "US_GOVERNMENT_ARCHIVE",
+      "scope": "archival photographs and recovery documentation"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "lady-be-good-curse-vs-record",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Lady Be Good의 공식재구성과 후대 저주전설을 분리한 카드.",
+      "captionEn": "Evidence card separating the documented Lady Be Good reconstruction from the later curse legend.",
+      "altKo": "왼쪽 공식 재구성, 오른쪽 입증되지 않은 저주 주장을 비교.",
+      "altEn": "Two-column comparison of documented reconstruction and unestablished curse claims.",
+      "sourceRefs": [
+        "USAF_LBG",
+        "SMITH_LBG"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lady-be-good__curse-vs-record__ko.png",
+          "sha256": "90a05099c549d2862b4c4187afc920deca19b6f3287dd450946115bfb98740ca",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lady-be-good__curse-vs-record__en.png",
+          "sha256": "dae37acc10ef87a8df075931a31819ffca5871656db54d18e06f128c6a4e5849",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lady-be-good-evidence-stack",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "기체·일기·유해·개인물품이 사건재구성에 기여한 역할을 정리한 카드.",
+      "captionEn": "Evidence stack showing how the aircraft, diary, remains, and personal effects rebuilt the case.",
+      "altKo": "기체, 일기, 유해, 개인물품 네 증거층.",
+      "altEn": "Four-layer evidence stack: aircraft, diary, remains, personal effects.",
+      "sourceRefs": [
+        "USAF_LBG",
+        "ARMY_LBG",
+        "SMITH_LBG"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lady-be-good__evidence-stack__ko.png",
+          "sha256": "b16a96b32b120e85fc00e230af3839246502fc926051ca38e3c84aa35bc57ce3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lady-be-good__evidence-stack__en.png",
+          "sha256": "ab5292655f6ecc4150199a94c03d3bd274762dab570fd9efc0cadba7019a0a87",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lady-be-good-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Lady Be Good 실종·bailout·기체발견·승무원 재구성의 네 단계 hero 도표.",
+      "captionEn": "Hero explainer of Lady Be Good’s disappearance, bailout, wreck discovery, and crew reconstruction.",
+      "altKo": "1943 임무부터 1960년 승무원 수색까지 네 단계.",
+      "altEn": "Four stages from the 1943 mission to the 1960 recovery work.",
+      "sourceRefs": [
+        "USAF_LBG",
+        "ARMY_LBG"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lady-be-good__hero-context__ko.png",
+          "sha256": "6393d83ecf3b2ed972dbb7ff77887ba3d2df07982b06e9449c0bbed63754c6b0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lady-be-good__hero-context__en.png",
+          "sha256": "95ba13f5d98923757961b5ed67dcfa01e7b589501496e27f065f0fd11ad007e1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lady-be-good-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Lady Be Good의 1943 실종부터 1960년 유해회수까지의 핵심연표.",
+      "captionEn": "Timeline from Lady Be Good’s 1943 disappearance through the 1960 recovery of crew remains.",
+      "altKo": "1943, 1958, 1959, 1960년2월, 1960년5월 핵심 사건.",
+      "altEn": "Timeline of the key 1943, 1958, 1959, Feb 1960, and May 1960 events.",
+      "sourceRefs": [
+        "USAF_LBG",
+        "ARMY_LBG"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lady-be-good__timeline__ko.png",
+          "sha256": "7c03a1ed35805b18e0709d9dd0a4b517139cfffb92f8236ac32b055ef7493370",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lady-be-good__timeline__en.png",
+          "sha256": "bab03fcf77419c27dc0305ed948d06cd431c2e8d38372e82338f24c808aa165f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Libya",
+      "United States"
+    ],
+    "regions": [
+      "Libyan Desert"
+    ],
+    "places": [
+      {
+        "name": "Soluch Air Base",
+        "role": "departure/base"
+      },
+      {
+        "name": "Libyan Desert",
+        "role": "wreck/recovery area"
+      }
+    ],
+    "people": [
+      {
+        "name": "William J. Hatton",
+        "role": "pilot"
+      },
+      {
+        "name": "Robert F. Toner",
+        "role": "copilot / diary author"
+      }
+    ],
+    "organizations": [
+      "U.S. Army Air Forces",
+      "376th Bomb Group",
+      "U.S. Army Quartermaster Corps"
+    ],
+    "dateRange": {
+      "start": "1943-04-04",
+      "end": "1960",
+      "precision": "event-to-recovery period"
+    },
+    "era": "World War II / postwar recovery",
+    "resolution": "LARGELY_RECONSTRUCTED_ONE_CREW_MEMBER_UNRECOVERED",
+    "searchAliases": [
+      "Lady Be Good",
+      "B-24D Libya",
+      "ghost plane"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3181,
+    "enBodyWords": 1010,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH02",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH02_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

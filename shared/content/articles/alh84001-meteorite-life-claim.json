@@ -1,0 +1,641 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "alh84001-meteorite-life-claim",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "화성 운석 ALH84001의 미생물 흔적 논쟁",
+    "canonicalTitleEn": "ALH84001 and the Claim of Ancient Martian Life",
+    "aliasesKo": [
+      "앨런 힐스 84001",
+      "ALH84001 화성생명 논쟁"
+    ],
+    "aliasesEn": [
+      "Allan Hills 84001",
+      "ALH 84001",
+      "Martian meteorite life claim"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Downgraded from pre-production DEEP_DOSSIER plan: current verified material supports a dense Standard Story; no padding added to reach 6,000 characters."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "화성 운석 속 ‘생명 흔적’은 왜 30년 가까이 논쟁이 됐나",
+      "hook": "1996년 화성 운석 한 조각이 ‘미생물 화석’ 가능성으로 세계를 들썩이게 했다. 그 뒤 과학자들은 사진 한 장을 믿거나 부정한 것이 아니라, 유기물·자철석·미세구조가 생명 없이도 만들어질 수 있는지 하나씩 시험했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "얼음밭에서 주운 돌 하나",
+          "headingEn": "One Rock Collected From Antarctic Ice",
+          "textKo": "1984년 12월 27일, 남극 Allan Hills에서 운석 탐사팀이 검은 돌 하나를 수집했다. 표본번호는 ALH84001. 처음부터 ‘화성의 생명 증거’로 주목받은 것은 아니었다. 오히려 다른 종류의 운석으로 분류된 채 보관되다가 1993년에야 화성 기원의 오래된 암석이라는 사실이 확인됐다. 약 4.09십억 년 된 이 암석의 균열 안에는 더 젊은 탄산염 구상체가 자리하고 있었다. 1996년, 그 탄산염과 주변의 미세한 특징들이 전 세계적인 질문을 만들었다. **이 돌 안에 과거 화성 생명의 흔적이 남아 있을 수 있을까?**",
+          "textEn": "On December 27, 1984, a meteorite-hunting team in Antarctica collected a dark rock from the Allan Hills ice field. It was catalogued as ALH84001. It did not begin its scientific life as evidence for Martian biology; it was initially classified differently and only recognized in 1993 as an ancient rock from Mars. The meteorite is roughly 4.09 billion years old, with younger carbonate globules deposited in fractures. In 1996, microscopic features associated with those carbonates turned the specimen into a global question: **could this rock preserve evidence of ancient life on Mars?**"
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "화성에서 남극까지",
+          "headingEn": "From Mars to Antarctica",
+          "textKo": "ALH84001의 가치는 생명논쟁 이전부터 컸다. 화성 표면을 직접 시추해 가져온 샘플이 없던 시대에, 화성에서 충돌로 튕겨 나와 우주를 떠돌다가 지구에 떨어진 운석은 초기 화성의 암석과 물-암석 반응을 실험실에서 직접 볼 수 있는 희귀한 자료였다. NASA 자료는 이 암석이 큰 충돌로 화성에서 방출돼 오랜 우주여행 뒤 남극 얼음에 떨어졌다고 설명한다. 따라서 운석 안의 탄산염, 자철석, 유기탄소를 분석하면 ‘그것이 생명이었나’뿐 아니라 **초기 화성에 물과 화학반응이 어떤 환경을 만들었나**도 함께 물을 수 있었다.",
+          "textEn": "ALH84001 was valuable even before the life debate. Before returned Martian samples were available, meteorites blasted from Mars and eventually recovered on Earth provided rare pieces of the planet that could be studied directly in laboratories. NASA histories describe ALH84001 as rock ejected from Mars by impact and later deposited in Antarctic ice. Its carbonates, magnetite, and organic carbon could therefore address more than the question of life: they could reveal what kinds of water-rock reactions and chemical environments existed on early Mars."
+        },
+        {
+          "blockId": "claim-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1996년 Science 논문이 제시한 네 갈래 단서",
+          "headingEn": "The 1996 Science Paper Built a Case From Multiple Clues",
+          "textKo": "1996년 David McKay 연구팀의 Science 논문은 한 가지 ‘화석 사진’만으로 생명을 주장하지 않았다. 연구팀은 탄산염 구상체 주변의 다환방향족탄화수소(PAH), 미세한 자철석과 황화철, 지구의 미생물 유래 탄산염을 닮은 구조와 크기, 그리고 전자현미경에서 보인 미세한 형태를 하나의 묶음으로 제시했다. 논문의 표현도 ‘화성 생명을 발견했다’가 아니라, 이 조합이 과거 생물활동으로 설명될 수 있다는 가능성을 제안하는 것이었다. 원 논문 초록은 동시에 탄산염 구상체가 무기적으로 형성될 가능성도 명시했다. **처음부터 결론은 가능성이었지 확정은 아니었다.**",
+          "textEn": "The 1996 Science paper led by David McKay did not base its argument on a single image of a supposed fossil. The authors combined several observations: polycyclic aromatic hydrocarbons (PAHs), fine magnetite and iron-sulfide phases, carbonate textures and sizes compared with some terrestrial bacterially influenced precipitates, and microscopic forms seen by electron microscopy. Even the original abstract did not declare that life had been discovered. It proposed that the combination could be explained by ancient biological activity while explicitly acknowledging that the carbonate globules might also form inorganically. **From the beginning, the claim was a possibility, not a proof.**"
+        },
+        {
+          "blockId": "public-04",
+          "type": "BACKGROUND",
+          "headingKo": "왜 이 발표가 그렇게 크게 터졌나",
+          "headingEn": "Why the Announcement Became So Big",
+          "textKo": "당시 화성 생명탐사는 바이킹 착륙선 이후 오랜 논쟁 속에 있었다. 그런데 이번에는 멀리서 측정한 대기나 사진이 아니라, 연구실 안에 실제로 놓인 화성 암석에서 생명과 연결될 수 있는 여러 특징이 한꺼번에 보고됐다. ‘화성 미생물 화석’이라는 표현은 과학계뿐 아니라 대중문화까지 빠르게 번졌다. 문제는 여러 약한 단서가 함께 있다고 해서 자동으로 강한 생명증거가 되는 것은 아니라는 점이었다. 각각의 단서가 비생물학적으로 만들어질 수 있다면, 전체 해석도 다시 검토해야 했다.",
+          "textEn": "The announcement arrived after years of debate about Martian biology following the Viking landers. This time the evidence was not a remote atmospheric measurement or photograph; it came from a physical piece of Mars sitting in terrestrial laboratories. The phrase “Martian microfossils” spread rapidly through science and popular culture. But multiple suggestive clues do not automatically become proof if each can plausibly arise without biology. If non-biological processes can account for the individual signals, the combined interpretation has to be reassessed."
+        },
+        {
+          "blockId": "pah-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "유기물은 생명에 필요하지만 생명만 만들지는 않는다",
+          "headingEn": "Organic Molecules Matter—but Life Is Not the Only Way to Make Them",
+          "textKo": "1996년 논쟁에서 PAH와 유기탄소는 중요한 단서였다. ‘유기물’이라는 단어는 일상어에서 생명과 거의 같은 뜻처럼 들리지만, 행성과학에서는 탄소 기반 분자가 비생물학적 반응으로도 만들어질 수 있다. 이후 ALH84001 연구는 바로 이 경계를 파고들었다. 2022년 Andrew Steele 연구팀은 운석 내부의 탄산염과 규산염을 나노스케일로 함께 분석해, 복잡한 내화성 유기물이 광물 carbonation과 serpentinization이 일어난 자리와 함께 존재한다고 보고했다. 이 결과는 조사한 유기물에 **물-암석 반응으로 생성되는 비생물학적 경로**가 있음을 강하게 지지했다.",
+          "textEn": "PAHs and other organic carbon were important parts of the 1996 argument. In everyday language, “organic” can sound almost synonymous with life, but planetary chemistry does not work that way: carbon-bearing molecules can arise through non-biological reactions. Later ALH84001 work focused directly on that boundary. In 2022, Andrew Steele and colleagues used co-located nanoscale analyses of carbonates and silicates and found complex refractory organic material associated with mineral assemblages formed during carbonation and serpentinization. The result strongly supported **abiotic water-rock reactions** as a source for the organics examined in that study."
+        },
+        {
+          "blockId": "2022-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2022년 결과가 실제로 말한 범위",
+          "headingEn": "What the 2022 Result Actually Established",
+          "textKo": "Steele 연구의 결론을 ‘ALH84001의 모든 생명증거가 2022년에 반박됐다’고 요약하면 범위를 넘는다. 이 연구가 직접 다룬 것은 특정 유기물과 주변 광물의 공간적·화학적 관계였다. 연구진은 초기 화성의 물-암석 반응에서 적어도 두 종류의 비생물학적 유기합성이 일어났을 가능성을 제시했다. NASA Astrobiology의 동시대 요약도 해당 유기물이 생물학적으로 형성되지 않았다는 결론을 강조했다. 하지만 **한 종류의 신호를 비생물학적으로 설명하는 것과, 운석에서 제기된 모든 미세구조·자철석 논쟁을 한 번에 종료하는 것은 다른 주장**이다.",
+          "textEn": "It would overstate the 2022 work to summarize it as “every ALH84001 life claim was disproved in 2022.” Steele’s study directly examined particular organic material and its spatial and chemical relationships with surrounding minerals. The authors inferred at least two abiotic organic-synthesis pathways associated with early Martian water-rock reactions. NASA Astrobiology’s contemporary summary emphasized that the organic material in this analysis was not formed biologically. But **explaining one class of signal abiotically is not the same as independently resolving every microscopic-structure and magnetite argument ever made about the meteorite**."
+        },
+        {
+          "blockId": "magnetite-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "마지막까지 버틴 단서, 자철석",
+          "headingEn": "Magnetite Became the Hardest-Fought Clue",
+          "textKo": "초기 비판이 쌓이면서 논쟁의 무게중심은 자철석으로 옮겨갔다. McKay 계열 연구자들은 탄산염 구상체 안의 일부 자철석 결정이 화학적으로 매우 순수하고 결함이 적으며, 지구의 magnetotactic bacteria가 만드는 자철석과 닮은 독특한 형태를 가진다고 주장했다. 일부 논문은 이런 결정이 전체 자철석의 약 4분의 1을 차지하며 생물기원 지표가 될 수 있다고 보았다. 만약 정말 자연적인 무기과정에서는 만들 수 없는 형태라면 강한 biosignature가 될 수 있었다. 그래서 ‘결정의 3차원 형태를 얼마나 정확히 알고 있는가’가 핵심 싸움터가 됐다.",
+          "textEn": "As criticism accumulated against other parts of the original case, magnetite became one of the most contested remaining clues. Researchers continuing the biogenic interpretation argued that a subset of magnetite crystals in the carbonate globules were chemically pure, relatively defect-free, and morphologically similar to crystals produced by terrestrial magnetotactic bacteria. Some work estimated that this subpopulation represented roughly a quarter of the magnetites and might constitute a biosignature. If the morphology truly could not be produced abiotically, it would be powerful evidence. The debate therefore turned heavily on how accurately the crystals’ three-dimensional shapes were known."
+        },
+        {
+          "blockId": "critique-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "2001년: ‘형태가 생물기원을 증명하기엔 부족하다’",
+          "headingEn": "2001: A Direct Challenge to the Magnetite Argument",
+          "textKo": "2001년 Peter Buseck와 동료들은 이 자철석 주장의 핵심을 공격했다. NASA Science에 실린 당시 연구소개는 Buseck 팀이 ALH84001 자철석과 세균 자철석의 형태 일치가 충분히 입증되지 않았고, 매우 작은 결정을 2차원 전자현미경 투영으로만 비교하면 3차원 모양을 과신할 수 있다고 비판했다고 정리한다. 또한 비교에 선택된 자철석 하위집단이 전체를 얼마나 대표하는지도 문제로 제기했다. 이 비판은 ‘자철석은 분명 무기물’이라는 최종 판결이라기보다, **기존 형태학 증거만으로 생물기원을 독점적으로 추론할 수 없다는 문제제기**였다.",
+          "textEn": "In 2001, Peter Buseck and colleagues directly challenged the magnetite argument. A NASA Science account of their work explains that the team questioned whether the shapes of ALH84001 magnetites had been established well enough to claim an exact match with bacterial crystals. At nanometre scale, two-dimensional electron-microscope projections can make three-dimensional morphology difficult to infer. They also questioned how representative the selected magnetite subset was. The critique was not a simple declaration that every crystal had been proven inorganic; it argued that **the existing morphological evidence was inadequate to make biology the exclusive explanation**."
+        },
+        {
+          "blockId": "debate-09",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "반론에도 다시 반론이 있었다",
+          "headingEn": "The Critics Were Criticized Too",
+          "textKo": "ALH84001 논쟁은 한 번의 반박으로 끝나지 않았다. JSC 연구진은 같은 해 Buseck 팀이 자신들이 핵심으로 삼은 ALH84001 자철석 집단 자체를 충분히 조사하지 않았다고 반박했고, magnetotactic bacteria와의 형태 비교를 계속 옹호했다. 이후 연구에는 무기적 열분해 실험으로 유사 자철석을 만들 수 있다는 결과와, 특정 결정군의 형태를 생물기원 지표로 볼 수 있다는 재반박이 나란히 존재했다. 이런 공방은 왜 ‘과학계가 이미 1996년에 완전히 속았다’는 식의 단순한 서사가 부정확한지를 보여준다. 실제로는 **각 단서의 배타성—생명만 만들 수 있는가—을 여러 방법으로 시험하는 긴 검증 과정**이었다.",
+          "textEn": "The ALH84001 debate did not end with a single rebuttal. Johnson Space Center researchers responded that the Buseck team had not directly examined the specific ALH84001 magnetite population central to their argument and continued to defend comparisons with magnetotactic bacteria. Subsequent work included both experiments producing similar magnetite through inorganic processes and papers defending the biomarker interpretation of particular crystal populations. This is why the history cannot be reduced to “scientists were fooled in 1996.” It became a long effort to test **whether any individual clue was exclusive to biology, rather than merely compatible with it**."
+        },
+        {
+          "blockId": "scale-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘화석처럼 보인다’는 말의 함정",
+          "headingEn": "The Trap in Saying Something “Looks Like a Fossil”",
+          "textKo": "1996년 발표에서 가장 대중적으로 강한 이미지는 세균처럼 보이는 미세구조였다. 그러나 형태 유사성만으로 생물을 식별하는 것은 특히 나노미터 규모에서 위험하다. 아주 작은 무기광물도 튜브·구형·막대처럼 보이는 구조를 만들 수 있고, 시료처리나 영상각도도 모양 인상에 영향을 준다. NASA의 후대 과학설명은 ALH84001 논쟁에서 형태, 유기물, 자철석 각각에 비생물학적 설명이 제기돼 왔음을 강조한다. **‘생명과 닮았다’는 관찰은 가설을 만들 수 있지만, 그 자체로 생명만 가능한 구조라는 증명은 아니다.**",
+          "textEn": "The most visually powerful part of the 1996 announcement was the set of structures that looked bacterium-like. Morphological resemblance alone, however, is especially risky at nanometre scale. Inorganic minerals can form tubes, spheres, and rods, while sample preparation and viewing geometry influence appearance. Later NASA summaries emphasize that non-biological explanations have been proposed for morphology, organic compounds, and magnetite in ALH84001. **Looking biological can generate a hypothesis; it does not by itself prove that a structure can only be biological.**"
+        },
+        {
+          "blockId": "current-11",
+          "type": "AFTERMATH",
+          "headingKo": "현재의 무게중심은 어디에 있나",
+          "headingEn": "Where the Weight of Evidence Sits Today",
+          "textKo": "NASA의 2022~2023년 공개설명은 ALH84001의 원래 생명 주장에 대해 대부분의 전문가가 비생물학적 설명을 더 선호하는 방향으로 정리한다. 특히 2022년 연구는 운석 내부 유기물이 화성에서 일어난 지질학적 물-암석 반응과 함께 생성될 수 있음을 직접 보여줬다. 이것은 1996년의 ‘여러 단서가 하나의 생물학적 이야기로 모인다’는 해석을 약화시킨다. 동시에 ALH84001은 실패한 논문으로만 남지 않았다. 초기 화성의 물, 탄산염, 산화-환원 반응, 유기합성을 이해하는 중요한 표본으로 계속 연구되고 있다.",
+          "textEn": "NASA’s 2022–2023 public summaries place the current weight of expert interpretation toward non-biological explanations for the original ALH84001 life claim. In particular, the 2022 study directly connected organic material in the meteorite with geological water-rock reactions on Mars, weakening the idea that multiple clues necessarily converge on one biological story. Yet ALH84001 did not become scientifically irrelevant. It remains an important sample for understanding water, carbonate formation, redox chemistry, and organic synthesis on early Mars."
+        },
+        {
+          "blockId": "bigger-question-12",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "ALH84001이 생명증거가 아니면 화성도 죽은 행성인가",
+          "headingEn": "If ALH84001 Is Not Proof of Life, Does That Mean Mars Was Sterile?",
+          "textKo": "그 결론도 성립하지 않는다. ALH84001에 대한 비생물학적 해석은 **이 운석의 특정 특징들이 생명만으로 설명돼야 하는 것은 아니라는 뜻**이다. 그것은 과거 화성 전체에 생명이 없었다는 증명과는 전혀 다르다. 오히려 serpentinization과 carbonation 같은 반응이 유기분자를 비생물학적으로 만들 수 있다는 사실은 생명탐사의 기준을 더 엄격하게 만든다. 미래 화성시료에서 유기물이 발견돼도 ‘유기물=생명’이라고 바로 결론내릴 수 없고, 지질학적 배경신호와 생물학적 신호를 구분해야 한다.",
+          "textEn": "That conclusion does not follow. Abiotic interpretations of ALH84001 mean **that particular features of this meteorite do not require biology as their only explanation**. They do not prove that Mars was always sterile. In fact, showing that reactions such as serpentinization and carbonation can produce organics makes the search for life more rigorous. Future Martian samples cannot be treated as biological merely because organic molecules are present; investigators must distinguish geological background chemistry from a genuinely biological signature."
+        },
+        {
+          "blockId": "legacy-13",
+          "type": "AFTERMATH",
+          "headingKo": "이 논쟁이 남긴 진짜 유산",
+          "headingEn": "What the Debate Changed",
+          "textKo": "ALH84001은 ‘화성 생명 발견’이라는 결론을 남기지 못했지만, astrobiology가 증거를 다루는 방식을 바꾼 사건으로 남았다. 서로 다른 신호가 함께 나타났을 때 각각이 얼마나 독립적인가, 지구 오염은 배제됐는가, 생물학적 해석이 비생물학적 대안보다 정말 더 강한가, 한 관측이 다른 연구실과 다른 기법으로 재현되는가가 핵심 질문이 됐다. 그래서 이 운석의 이야기는 ‘외계 생명 발견에 실패한 해프닝’보다 훨씬 중요하다. **생명의 증거라고 부르기 위해 얼마나 높은 문턱이 필요한지를 보여준 장기 검증 사례**다.",
+          "textEn": "ALH84001 did not leave science with an accepted discovery of Martian life, but it profoundly influenced how astrobiology evaluates evidence. When several signals appear together, researchers must ask whether they are independent, whether terrestrial contamination has been excluded, whether biology is actually a better explanation than abiotic alternatives, and whether results survive testing by different laboratories and methods. The meteorite is therefore more than a failed “alien life” headline. It became a long-running demonstration of how high the evidentiary bar must be before a planetary sample can be called biological."
+        },
+        {
+          "blockId": "boundary-14",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** ALH84001은 1984년 12월 27일 남극 Allan Hills에서 발견됐고 1993년 화성 기원으로 재분류됐다. 1996년 McKay 연구팀은 PAH, 탄산염, 자철석, 미세형태 등 여러 특징을 과거 화성 생물활동 가능성과 연결했지만 무기적 형성 가능성도 열어뒀다. 후속 연구는 핵심 단서들에 여러 비생물학적 설명을 제시했다. 2022년 Steele 연구팀은 조사한 유기물이 carbonation·serpentinization과 연결된 비생물학적 합성으로 설명될 수 있음을 보고했다.\n\n**확인되지 않음:** ALH84001은 화성 생명체의 존재를 입증한 표본으로 인정되지 않는다. 반대로 이 운석의 논쟁이 화성 전체의 과거·현재 생명 가능성을 부정하지도 않는다. 2022년 유기물 연구 한 편을 1996년에 논의된 모든 미세구조·자철석 쟁점을 각각 독립적으로 반박한 결과처럼 확대해서도 안 된다.",
+          "textEn": "**Established:** ALH84001 was discovered in the Allan Hills of Antarctica on December 27, 1984, and recognized as Martian in 1993. In 1996, McKay and colleagues linked PAHs, carbonates, magnetite, and microscopic morphology to the possibility of ancient Martian biological activity while acknowledging inorganic formation pathways. Subsequent work developed multiple non-biological explanations for important parts of the case. In 2022, Steele and colleagues found that the organics they examined could be explained by abiotic synthesis associated with carbonation and serpentinization.\n\n**Not established:** ALH84001 is not accepted as proof that life existed on Mars. Conversely, the failure of this meteorite to provide accepted proof does not establish that Mars has always been sterile. Nor should the 2022 organic-material result be expanded into a claim that every microscopic or magnetite issue raised since 1996 was independently disproven by that single study."
+        }
+      ],
+      "factBoundary": {
+        "established": "1996년 possible-life claim과 이후 비생물학적 대안 연구, 특히 2022년 특정 유기물의 지질학적 생성근거는 문헌으로 확인된다.",
+        "notEstablished": "ALH84001은 화성 생명을 입증하지 않으며, 반대로 이 사건의 반론이 화성 전체의 생명 가능성을 부정하지도 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "claim-03",
+        "public-04",
+        "pah-05",
+        "2022-06",
+        "magnetite-07",
+        "critique-08",
+        "debate-09",
+        "scale-10",
+        "current-11",
+        "bigger-question-12",
+        "legacy-13"
+      ]
+    },
+    "en": {
+      "headline": "Why Did a Martian Meteorite Become a Three-Decade Debate About Ancient Life?",
+      "hook": "In 1996, one Martian meteorite triggered headlines about possible microbial fossils. What followed was not a simple debunking, but years of testing whether organics, magnetite, and microscopic shapes really required biology—or could arise through geology alone.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "얼음밭에서 주운 돌 하나",
+          "headingEn": "One Rock Collected From Antarctic Ice",
+          "textKo": "1984년 12월 27일, 남극 Allan Hills에서 운석 탐사팀이 검은 돌 하나를 수집했다. 표본번호는 ALH84001. 처음부터 ‘화성의 생명 증거’로 주목받은 것은 아니었다. 오히려 다른 종류의 운석으로 분류된 채 보관되다가 1993년에야 화성 기원의 오래된 암석이라는 사실이 확인됐다. 약 4.09십억 년 된 이 암석의 균열 안에는 더 젊은 탄산염 구상체가 자리하고 있었다. 1996년, 그 탄산염과 주변의 미세한 특징들이 전 세계적인 질문을 만들었다. **이 돌 안에 과거 화성 생명의 흔적이 남아 있을 수 있을까?**",
+          "textEn": "On December 27, 1984, a meteorite-hunting team in Antarctica collected a dark rock from the Allan Hills ice field. It was catalogued as ALH84001. It did not begin its scientific life as evidence for Martian biology; it was initially classified differently and only recognized in 1993 as an ancient rock from Mars. The meteorite is roughly 4.09 billion years old, with younger carbonate globules deposited in fractures. In 1996, microscopic features associated with those carbonates turned the specimen into a global question: **could this rock preserve evidence of ancient life on Mars?**"
+        },
+        {
+          "blockId": "background-02",
+          "type": "BACKGROUND",
+          "headingKo": "화성에서 남극까지",
+          "headingEn": "From Mars to Antarctica",
+          "textKo": "ALH84001의 가치는 생명논쟁 이전부터 컸다. 화성 표면을 직접 시추해 가져온 샘플이 없던 시대에, 화성에서 충돌로 튕겨 나와 우주를 떠돌다가 지구에 떨어진 운석은 초기 화성의 암석과 물-암석 반응을 실험실에서 직접 볼 수 있는 희귀한 자료였다. NASA 자료는 이 암석이 큰 충돌로 화성에서 방출돼 오랜 우주여행 뒤 남극 얼음에 떨어졌다고 설명한다. 따라서 운석 안의 탄산염, 자철석, 유기탄소를 분석하면 ‘그것이 생명이었나’뿐 아니라 **초기 화성에 물과 화학반응이 어떤 환경을 만들었나**도 함께 물을 수 있었다.",
+          "textEn": "ALH84001 was valuable even before the life debate. Before returned Martian samples were available, meteorites blasted from Mars and eventually recovered on Earth provided rare pieces of the planet that could be studied directly in laboratories. NASA histories describe ALH84001 as rock ejected from Mars by impact and later deposited in Antarctic ice. Its carbonates, magnetite, and organic carbon could therefore address more than the question of life: they could reveal what kinds of water-rock reactions and chemical environments existed on early Mars."
+        },
+        {
+          "blockId": "claim-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1996년 Science 논문이 제시한 네 갈래 단서",
+          "headingEn": "The 1996 Science Paper Built a Case From Multiple Clues",
+          "textKo": "1996년 David McKay 연구팀의 Science 논문은 한 가지 ‘화석 사진’만으로 생명을 주장하지 않았다. 연구팀은 탄산염 구상체 주변의 다환방향족탄화수소(PAH), 미세한 자철석과 황화철, 지구의 미생물 유래 탄산염을 닮은 구조와 크기, 그리고 전자현미경에서 보인 미세한 형태를 하나의 묶음으로 제시했다. 논문의 표현도 ‘화성 생명을 발견했다’가 아니라, 이 조합이 과거 생물활동으로 설명될 수 있다는 가능성을 제안하는 것이었다. 원 논문 초록은 동시에 탄산염 구상체가 무기적으로 형성될 가능성도 명시했다. **처음부터 결론은 가능성이었지 확정은 아니었다.**",
+          "textEn": "The 1996 Science paper led by David McKay did not base its argument on a single image of a supposed fossil. The authors combined several observations: polycyclic aromatic hydrocarbons (PAHs), fine magnetite and iron-sulfide phases, carbonate textures and sizes compared with some terrestrial bacterially influenced precipitates, and microscopic forms seen by electron microscopy. Even the original abstract did not declare that life had been discovered. It proposed that the combination could be explained by ancient biological activity while explicitly acknowledging that the carbonate globules might also form inorganically. **From the beginning, the claim was a possibility, not a proof.**"
+        },
+        {
+          "blockId": "public-04",
+          "type": "BACKGROUND",
+          "headingKo": "왜 이 발표가 그렇게 크게 터졌나",
+          "headingEn": "Why the Announcement Became So Big",
+          "textKo": "당시 화성 생명탐사는 바이킹 착륙선 이후 오랜 논쟁 속에 있었다. 그런데 이번에는 멀리서 측정한 대기나 사진이 아니라, 연구실 안에 실제로 놓인 화성 암석에서 생명과 연결될 수 있는 여러 특징이 한꺼번에 보고됐다. ‘화성 미생물 화석’이라는 표현은 과학계뿐 아니라 대중문화까지 빠르게 번졌다. 문제는 여러 약한 단서가 함께 있다고 해서 자동으로 강한 생명증거가 되는 것은 아니라는 점이었다. 각각의 단서가 비생물학적으로 만들어질 수 있다면, 전체 해석도 다시 검토해야 했다.",
+          "textEn": "The announcement arrived after years of debate about Martian biology following the Viking landers. This time the evidence was not a remote atmospheric measurement or photograph; it came from a physical piece of Mars sitting in terrestrial laboratories. The phrase “Martian microfossils” spread rapidly through science and popular culture. But multiple suggestive clues do not automatically become proof if each can plausibly arise without biology. If non-biological processes can account for the individual signals, the combined interpretation has to be reassessed."
+        },
+        {
+          "blockId": "pah-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "유기물은 생명에 필요하지만 생명만 만들지는 않는다",
+          "headingEn": "Organic Molecules Matter—but Life Is Not the Only Way to Make Them",
+          "textKo": "1996년 논쟁에서 PAH와 유기탄소는 중요한 단서였다. ‘유기물’이라는 단어는 일상어에서 생명과 거의 같은 뜻처럼 들리지만, 행성과학에서는 탄소 기반 분자가 비생물학적 반응으로도 만들어질 수 있다. 이후 ALH84001 연구는 바로 이 경계를 파고들었다. 2022년 Andrew Steele 연구팀은 운석 내부의 탄산염과 규산염을 나노스케일로 함께 분석해, 복잡한 내화성 유기물이 광물 carbonation과 serpentinization이 일어난 자리와 함께 존재한다고 보고했다. 이 결과는 조사한 유기물에 **물-암석 반응으로 생성되는 비생물학적 경로**가 있음을 강하게 지지했다.",
+          "textEn": "PAHs and other organic carbon were important parts of the 1996 argument. In everyday language, “organic” can sound almost synonymous with life, but planetary chemistry does not work that way: carbon-bearing molecules can arise through non-biological reactions. Later ALH84001 work focused directly on that boundary. In 2022, Andrew Steele and colleagues used co-located nanoscale analyses of carbonates and silicates and found complex refractory organic material associated with mineral assemblages formed during carbonation and serpentinization. The result strongly supported **abiotic water-rock reactions** as a source for the organics examined in that study."
+        },
+        {
+          "blockId": "2022-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2022년 결과가 실제로 말한 범위",
+          "headingEn": "What the 2022 Result Actually Established",
+          "textKo": "Steele 연구의 결론을 ‘ALH84001의 모든 생명증거가 2022년에 반박됐다’고 요약하면 범위를 넘는다. 이 연구가 직접 다룬 것은 특정 유기물과 주변 광물의 공간적·화학적 관계였다. 연구진은 초기 화성의 물-암석 반응에서 적어도 두 종류의 비생물학적 유기합성이 일어났을 가능성을 제시했다. NASA Astrobiology의 동시대 요약도 해당 유기물이 생물학적으로 형성되지 않았다는 결론을 강조했다. 하지만 **한 종류의 신호를 비생물학적으로 설명하는 것과, 운석에서 제기된 모든 미세구조·자철석 논쟁을 한 번에 종료하는 것은 다른 주장**이다.",
+          "textEn": "It would overstate the 2022 work to summarize it as “every ALH84001 life claim was disproved in 2022.” Steele’s study directly examined particular organic material and its spatial and chemical relationships with surrounding minerals. The authors inferred at least two abiotic organic-synthesis pathways associated with early Martian water-rock reactions. NASA Astrobiology’s contemporary summary emphasized that the organic material in this analysis was not formed biologically. But **explaining one class of signal abiotically is not the same as independently resolving every microscopic-structure and magnetite argument ever made about the meteorite**."
+        },
+        {
+          "blockId": "magnetite-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "마지막까지 버틴 단서, 자철석",
+          "headingEn": "Magnetite Became the Hardest-Fought Clue",
+          "textKo": "초기 비판이 쌓이면서 논쟁의 무게중심은 자철석으로 옮겨갔다. McKay 계열 연구자들은 탄산염 구상체 안의 일부 자철석 결정이 화학적으로 매우 순수하고 결함이 적으며, 지구의 magnetotactic bacteria가 만드는 자철석과 닮은 독특한 형태를 가진다고 주장했다. 일부 논문은 이런 결정이 전체 자철석의 약 4분의 1을 차지하며 생물기원 지표가 될 수 있다고 보았다. 만약 정말 자연적인 무기과정에서는 만들 수 없는 형태라면 강한 biosignature가 될 수 있었다. 그래서 ‘결정의 3차원 형태를 얼마나 정확히 알고 있는가’가 핵심 싸움터가 됐다.",
+          "textEn": "As criticism accumulated against other parts of the original case, magnetite became one of the most contested remaining clues. Researchers continuing the biogenic interpretation argued that a subset of magnetite crystals in the carbonate globules were chemically pure, relatively defect-free, and morphologically similar to crystals produced by terrestrial magnetotactic bacteria. Some work estimated that this subpopulation represented roughly a quarter of the magnetites and might constitute a biosignature. If the morphology truly could not be produced abiotically, it would be powerful evidence. The debate therefore turned heavily on how accurately the crystals’ three-dimensional shapes were known."
+        },
+        {
+          "blockId": "critique-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "2001년: ‘형태가 생물기원을 증명하기엔 부족하다’",
+          "headingEn": "2001: A Direct Challenge to the Magnetite Argument",
+          "textKo": "2001년 Peter Buseck와 동료들은 이 자철석 주장의 핵심을 공격했다. NASA Science에 실린 당시 연구소개는 Buseck 팀이 ALH84001 자철석과 세균 자철석의 형태 일치가 충분히 입증되지 않았고, 매우 작은 결정을 2차원 전자현미경 투영으로만 비교하면 3차원 모양을 과신할 수 있다고 비판했다고 정리한다. 또한 비교에 선택된 자철석 하위집단이 전체를 얼마나 대표하는지도 문제로 제기했다. 이 비판은 ‘자철석은 분명 무기물’이라는 최종 판결이라기보다, **기존 형태학 증거만으로 생물기원을 독점적으로 추론할 수 없다는 문제제기**였다.",
+          "textEn": "In 2001, Peter Buseck and colleagues directly challenged the magnetite argument. A NASA Science account of their work explains that the team questioned whether the shapes of ALH84001 magnetites had been established well enough to claim an exact match with bacterial crystals. At nanometre scale, two-dimensional electron-microscope projections can make three-dimensional morphology difficult to infer. They also questioned how representative the selected magnetite subset was. The critique was not a simple declaration that every crystal had been proven inorganic; it argued that **the existing morphological evidence was inadequate to make biology the exclusive explanation**."
+        },
+        {
+          "blockId": "debate-09",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "반론에도 다시 반론이 있었다",
+          "headingEn": "The Critics Were Criticized Too",
+          "textKo": "ALH84001 논쟁은 한 번의 반박으로 끝나지 않았다. JSC 연구진은 같은 해 Buseck 팀이 자신들이 핵심으로 삼은 ALH84001 자철석 집단 자체를 충분히 조사하지 않았다고 반박했고, magnetotactic bacteria와의 형태 비교를 계속 옹호했다. 이후 연구에는 무기적 열분해 실험으로 유사 자철석을 만들 수 있다는 결과와, 특정 결정군의 형태를 생물기원 지표로 볼 수 있다는 재반박이 나란히 존재했다. 이런 공방은 왜 ‘과학계가 이미 1996년에 완전히 속았다’는 식의 단순한 서사가 부정확한지를 보여준다. 실제로는 **각 단서의 배타성—생명만 만들 수 있는가—을 여러 방법으로 시험하는 긴 검증 과정**이었다.",
+          "textEn": "The ALH84001 debate did not end with a single rebuttal. Johnson Space Center researchers responded that the Buseck team had not directly examined the specific ALH84001 magnetite population central to their argument and continued to defend comparisons with magnetotactic bacteria. Subsequent work included both experiments producing similar magnetite through inorganic processes and papers defending the biomarker interpretation of particular crystal populations. This is why the history cannot be reduced to “scientists were fooled in 1996.” It became a long effort to test **whether any individual clue was exclusive to biology, rather than merely compatible with it**."
+        },
+        {
+          "blockId": "scale-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘화석처럼 보인다’는 말의 함정",
+          "headingEn": "The Trap in Saying Something “Looks Like a Fossil”",
+          "textKo": "1996년 발표에서 가장 대중적으로 강한 이미지는 세균처럼 보이는 미세구조였다. 그러나 형태 유사성만으로 생물을 식별하는 것은 특히 나노미터 규모에서 위험하다. 아주 작은 무기광물도 튜브·구형·막대처럼 보이는 구조를 만들 수 있고, 시료처리나 영상각도도 모양 인상에 영향을 준다. NASA의 후대 과학설명은 ALH84001 논쟁에서 형태, 유기물, 자철석 각각에 비생물학적 설명이 제기돼 왔음을 강조한다. **‘생명과 닮았다’는 관찰은 가설을 만들 수 있지만, 그 자체로 생명만 가능한 구조라는 증명은 아니다.**",
+          "textEn": "The most visually powerful part of the 1996 announcement was the set of structures that looked bacterium-like. Morphological resemblance alone, however, is especially risky at nanometre scale. Inorganic minerals can form tubes, spheres, and rods, while sample preparation and viewing geometry influence appearance. Later NASA summaries emphasize that non-biological explanations have been proposed for morphology, organic compounds, and magnetite in ALH84001. **Looking biological can generate a hypothesis; it does not by itself prove that a structure can only be biological.**"
+        },
+        {
+          "blockId": "current-11",
+          "type": "AFTERMATH",
+          "headingKo": "현재의 무게중심은 어디에 있나",
+          "headingEn": "Where the Weight of Evidence Sits Today",
+          "textKo": "NASA의 2022~2023년 공개설명은 ALH84001의 원래 생명 주장에 대해 대부분의 전문가가 비생물학적 설명을 더 선호하는 방향으로 정리한다. 특히 2022년 연구는 운석 내부 유기물이 화성에서 일어난 지질학적 물-암석 반응과 함께 생성될 수 있음을 직접 보여줬다. 이것은 1996년의 ‘여러 단서가 하나의 생물학적 이야기로 모인다’는 해석을 약화시킨다. 동시에 ALH84001은 실패한 논문으로만 남지 않았다. 초기 화성의 물, 탄산염, 산화-환원 반응, 유기합성을 이해하는 중요한 표본으로 계속 연구되고 있다.",
+          "textEn": "NASA’s 2022–2023 public summaries place the current weight of expert interpretation toward non-biological explanations for the original ALH84001 life claim. In particular, the 2022 study directly connected organic material in the meteorite with geological water-rock reactions on Mars, weakening the idea that multiple clues necessarily converge on one biological story. Yet ALH84001 did not become scientifically irrelevant. It remains an important sample for understanding water, carbonate formation, redox chemistry, and organic synthesis on early Mars."
+        },
+        {
+          "blockId": "bigger-question-12",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "ALH84001이 생명증거가 아니면 화성도 죽은 행성인가",
+          "headingEn": "If ALH84001 Is Not Proof of Life, Does That Mean Mars Was Sterile?",
+          "textKo": "그 결론도 성립하지 않는다. ALH84001에 대한 비생물학적 해석은 **이 운석의 특정 특징들이 생명만으로 설명돼야 하는 것은 아니라는 뜻**이다. 그것은 과거 화성 전체에 생명이 없었다는 증명과는 전혀 다르다. 오히려 serpentinization과 carbonation 같은 반응이 유기분자를 비생물학적으로 만들 수 있다는 사실은 생명탐사의 기준을 더 엄격하게 만든다. 미래 화성시료에서 유기물이 발견돼도 ‘유기물=생명’이라고 바로 결론내릴 수 없고, 지질학적 배경신호와 생물학적 신호를 구분해야 한다.",
+          "textEn": "That conclusion does not follow. Abiotic interpretations of ALH84001 mean **that particular features of this meteorite do not require biology as their only explanation**. They do not prove that Mars was always sterile. In fact, showing that reactions such as serpentinization and carbonation can produce organics makes the search for life more rigorous. Future Martian samples cannot be treated as biological merely because organic molecules are present; investigators must distinguish geological background chemistry from a genuinely biological signature."
+        },
+        {
+          "blockId": "legacy-13",
+          "type": "AFTERMATH",
+          "headingKo": "이 논쟁이 남긴 진짜 유산",
+          "headingEn": "What the Debate Changed",
+          "textKo": "ALH84001은 ‘화성 생명 발견’이라는 결론을 남기지 못했지만, astrobiology가 증거를 다루는 방식을 바꾼 사건으로 남았다. 서로 다른 신호가 함께 나타났을 때 각각이 얼마나 독립적인가, 지구 오염은 배제됐는가, 생물학적 해석이 비생물학적 대안보다 정말 더 강한가, 한 관측이 다른 연구실과 다른 기법으로 재현되는가가 핵심 질문이 됐다. 그래서 이 운석의 이야기는 ‘외계 생명 발견에 실패한 해프닝’보다 훨씬 중요하다. **생명의 증거라고 부르기 위해 얼마나 높은 문턱이 필요한지를 보여준 장기 검증 사례**다.",
+          "textEn": "ALH84001 did not leave science with an accepted discovery of Martian life, but it profoundly influenced how astrobiology evaluates evidence. When several signals appear together, researchers must ask whether they are independent, whether terrestrial contamination has been excluded, whether biology is actually a better explanation than abiotic alternatives, and whether results survive testing by different laboratories and methods. The meteorite is therefore more than a failed “alien life” headline. It became a long-running demonstration of how high the evidentiary bar must be before a planetary sample can be called biological."
+        },
+        {
+          "blockId": "boundary-14",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** ALH84001은 1984년 12월 27일 남극 Allan Hills에서 발견됐고 1993년 화성 기원으로 재분류됐다. 1996년 McKay 연구팀은 PAH, 탄산염, 자철석, 미세형태 등 여러 특징을 과거 화성 생물활동 가능성과 연결했지만 무기적 형성 가능성도 열어뒀다. 후속 연구는 핵심 단서들에 여러 비생물학적 설명을 제시했다. 2022년 Steele 연구팀은 조사한 유기물이 carbonation·serpentinization과 연결된 비생물학적 합성으로 설명될 수 있음을 보고했다.\n\n**확인되지 않음:** ALH84001은 화성 생명체의 존재를 입증한 표본으로 인정되지 않는다. 반대로 이 운석의 논쟁이 화성 전체의 과거·현재 생명 가능성을 부정하지도 않는다. 2022년 유기물 연구 한 편을 1996년에 논의된 모든 미세구조·자철석 쟁점을 각각 독립적으로 반박한 결과처럼 확대해서도 안 된다.",
+          "textEn": "**Established:** ALH84001 was discovered in the Allan Hills of Antarctica on December 27, 1984, and recognized as Martian in 1993. In 1996, McKay and colleagues linked PAHs, carbonates, magnetite, and microscopic morphology to the possibility of ancient Martian biological activity while acknowledging inorganic formation pathways. Subsequent work developed multiple non-biological explanations for important parts of the case. In 2022, Steele and colleagues found that the organics they examined could be explained by abiotic synthesis associated with carbonation and serpentinization.\n\n**Not established:** ALH84001 is not accepted as proof that life existed on Mars. Conversely, the failure of this meteorite to provide accepted proof does not establish that Mars has always been sterile. Nor should the 2022 organic-material result be expanded into a claim that every microscopic or magnetite issue raised since 1996 was independently disproven by that single study."
+        }
+      ],
+      "factBoundary": {
+        "established": "The 1996 possible-life claim and later abiotic alternatives are well documented, including 2022 evidence for geological formation of specific organics.",
+        "notEstablished": "ALH84001 is not proof of Martian life, and its abiotic interpretations do not prove that Mars as a whole was always sterile."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "background-02",
+        "claim-03",
+        "public-04",
+        "pah-05",
+        "2022-06",
+        "magnetite-07",
+        "critique-08",
+        "debate-09",
+        "scale-10",
+        "current-11",
+        "bigger-question-12",
+        "legacy-13"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ALH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "ALH84001은 1984-12-27 남극 Allan Hills에서 발견됐고 1993년 화성 기원으로 확인됐다.",
+      "statementEn": "ALH84001 was discovered in Antarctica on December 27, 1984 and recognized as Martian in 1993.",
+      "sourceRefs": [
+        "NASA_DISCOVERY"
+      ]
+    },
+    {
+      "claimId": "ALH-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1996년 McKay 연구는 여러 광물·유기·형태 특징을 과거 화성 생물활동 가능성과 연결했으나 무기적 형성 가능성도 명시했다.",
+      "statementEn": "The 1996 McKay study linked several mineral, organic, and morphological features to possible ancient Martian biological activity while explicitly allowing inorganic formation.",
+      "sourceRefs": [
+        "MCKAY1996"
+      ]
+    },
+    {
+      "claimId": "ALH-C3",
+      "status": "DISPUTED",
+      "statementKo": "일부 자철석 결정이 생물기원에 특이적인 형태라는 주장은 후속 연구에서 강하게 논쟁됐다.",
+      "statementEn": "The claim that some magnetite crystals had morphology diagnostic of biology was strongly disputed in later work.",
+      "sourceRefs": [
+        "BUSECK2001"
+      ]
+    },
+    {
+      "claimId": "ALH-C4",
+      "status": "SUPPORTED",
+      "statementKo": "2022년 연구는 조사한 유기물이 carbonation과 serpentinization 같은 비생물학적 물-암석 반응과 함께 형성됐다는 근거를 제시했다.",
+      "statementEn": "A 2022 study supported formation of the organics it examined through abiotic water-rock reactions associated with carbonation and serpentinization.",
+      "sourceRefs": [
+        "STEELE2022",
+        "NASA_UPDATE2022"
+      ]
+    },
+    {
+      "claimId": "ALH-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "ALH84001은 화성 생명의 존재를 입증한 운석으로 확립되지 않았다.",
+      "statementEn": "ALH84001 has not been established as proof of Martian life.",
+      "sourceRefs": [
+        "BUSECK2001",
+        "STEELE2022",
+        "NASA_UPDATE2022"
+      ]
+    },
+    {
+      "claimId": "ALH-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "ALH84001의 비생물학적 해석이 화성에 과거·현재 생명이 전혀 없다는 것을 입증하지 않는다.",
+      "statementEn": "Abiotic explanations for ALH84001 do not establish that Mars never hosted life.",
+      "sourceRefs": [
+        "STEELE2022",
+        "NASA_UPDATE2022"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_DISCOVERY",
+      "title": "ALH84001: The Key to Unlocking Secrets About Mars—15 Years and Counting",
+      "publisher": "NASA Technical Reports Server",
+      "url": "https://ntrs.nasa.gov/citations/20110014540",
+      "sourceType": "NASA_TECHNICAL_CONTEXT",
+      "scope": "1984-12-27 discovery, 1993 Martian identification, age and carbonate context"
+    },
+    {
+      "sourceId": "MCKAY1996",
+      "title": "Search for past life on Mars: possible relic biogenic activity in martian meteorite ALH84001",
+      "publisher": "McKay et al., Science 1996 / PubMed + NASA preprint",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8688069/",
+      "sourceType": "PRIMARY_PEER_REVIEWED_ABSTRACT",
+      "scope": "original possible-life claim, PAH/carbonate/magnetite/morphology, explicit inorganic possibility"
+    },
+    {
+      "sourceId": "BUSECK2001",
+      "title": "Evidence of Martian Life Dealt Critical Blow",
+      "publisher": "Arizona State University research context republished by NASA Science",
+      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/evidence-of-martian-life-dealt-critical-blow/",
+      "sourceType": "INDEPENDENT_INSTITUTIONAL_COUNTEREVIDENCE",
+      "scope": "magnetite morphology/sample-selection critique and evidentiary limits"
+    },
+    {
+      "sourceId": "STEELE2022",
+      "title": "Organic synthesis associated with serpentinization and carbonation on early Mars",
+      "publisher": "Steele et al., Science 2022 / NASA NTRS accepted manuscript",
+      "url": "https://ntrs.nasa.gov/citations/20240003863",
+      "sourceType": "PRIMARY_PEER_REVIEWED_REANALYSIS",
+      "scope": "co-located organics/minerals supporting abiotic organic synthesis"
+    },
+    {
+      "sourceId": "NASA_UPDATE2022",
+      "title": "An Update from ALH84001",
+      "publisher": "NASA Astrobiology / Carnegie Science",
+      "url": "https://astrobiology.nasa.gov/news/an-update-from-alh84001/",
+      "sourceType": "OFFICIAL_CURRENT_CONTEXT",
+      "scope": "contextual interpretation of 2022 results"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "alh84001-meteorite-life-claim-1996-vs-later",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1996년 생명가능성 단서와 이후 제시된 비생물학적 대안을 비교한 카드.",
+      "captionEn": "Evidence card comparing the 1996 possible-life clues with later abiotic alternatives.",
+      "altKo": "왼쪽 1996년 네 단서, 오른쪽 후속 비생물학적 설명을 비교.",
+      "altEn": "Two-column card comparing four 1996 clues with later abiotic explanations.",
+      "sourceRefs": [
+        "MCKAY1996",
+        "BUSECK2001",
+        "STEELE2022",
+        "NASA_UPDATE2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "alh84001-meteorite-life-claim__1996-vs-later__ko.png",
+          "sha256": "1c0973e8a9a3279f850c6d7424539dd675a3d161ff5a694e6fe9a0a1dc00337f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "alh84001-meteorite-life-claim__1996-vs-later__en.png",
+          "sha256": "485597ddfab3ae299a3385af60c43b1dcdc2f4097e3d3e02ebefd726fd253014",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "alh84001-meteorite-life-claim-abiotic-organics",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "2022년 연구가 제시한 물-암석 반응과 비생물학적 유기합성의 개념도.",
+      "captionEn": "Conceptual diagram of water-rock reactions and abiotic organic synthesis in the 2022 study.",
+      "altKo": "물-암석 반응, serpentinization, carbonation, 유기물 생성의 흐름.",
+      "altEn": "Flow from water-rock reactions through serpentinization/carbonation to abiotic organics.",
+      "sourceRefs": [
+        "STEELE2022",
+        "NASA_UPDATE2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "alh84001-meteorite-life-claim__abiotic-organics__ko.png",
+          "sha256": "63e16dd7ce5c70489f8d6f2536ce84280836c98b8384b52d290226b762c41c2c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "alh84001-meteorite-life-claim__abiotic-organics__en.png",
+          "sha256": "18a96341538df43ba773c2ed5075dfb21d14e7344c3348024873f2c1b165bdc1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "alh84001-meteorite-life-claim-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "ALH84001 발견·화성기원 확인·1996 주장·후속 반론을 한 흐름으로 정리한 hero 도표.",
+      "captionEn": "Hero explainer summarizing discovery, Martian origin, the 1996 claim, and later abiotic alternatives.",
+      "altKo": "1984 발견부터 후속 비생물학적 설명까지 네 단계.",
+      "altEn": "Four-stage diagram from discovery to later abiotic explanations.",
+      "sourceRefs": [
+        "NASA_DISCOVERY",
+        "MCKAY1996",
+        "BUSECK2001",
+        "STEELE2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "alh84001-meteorite-life-claim__hero-context__ko.png",
+          "sha256": "967f2a7ae239e9a96e768aa0433c9a876dd37acab7b8dad401ed827877cd9c91",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "alh84001-meteorite-life-claim__hero-context__en.png",
+          "sha256": "e46c0b483beaa007c9cf285da7ab24ee3e3d3b8e6f533e4aac72f6a04adabe09",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "alh84001-meteorite-life-claim-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "ALH84001의 발견부터 2022년 비생물학적 유기합성 연구까지의 연표.",
+      "captionEn": "Timeline from ALH84001’s discovery to the 2022 abiotic-organic study.",
+      "altKo": "1984, 1993, 1996, 2001, 2022의 핵심 연구이정표.",
+      "altEn": "Timeline of key 1984, 1993, 1996, 2001, and 2022 milestones.",
+      "sourceRefs": [
+        "NASA_DISCOVERY",
+        "MCKAY1996",
+        "BUSECK2001",
+        "STEELE2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "alh84001-meteorite-life-claim__timeline__ko.png",
+          "sha256": "92e233a2dfa0553873c9f86de9fd1e06404dd024316ed168c4000b2c749d7a88",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "alh84001-meteorite-life-claim__timeline__en.png",
+          "sha256": "a5dfc1f81b7fbf0c2d3f3f76cb9778dc677787f80c47966abc8121e6cf2332f7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "Antarctica",
+      "Mars"
+    ],
+    "regions": [
+      "Allan Hills, Antarctica",
+      "Martian origin"
+    ],
+    "places": [
+      {
+        "name": "Allan Hills, Antarctica",
+        "role": "discovery site"
+      },
+      {
+        "name": "Mars",
+        "role": "source planet"
+      }
+    ],
+    "people": [
+      {
+        "name": "David S. McKay",
+        "role": "1996 lead author"
+      },
+      {
+        "name": "Peter Buseck",
+        "role": "magnetite critique"
+      },
+      {
+        "name": "Andrew Steele",
+        "role": "2022 lead author"
+      }
+    ],
+    "organizations": [
+      "NASA Johnson Space Center",
+      "Arizona State University",
+      "Carnegie Science"
+    ],
+    "dateRange": {
+      "start": "1984-12-27",
+      "end": "2022",
+      "precision": "discovery through major abiotic-organic reanalysis; research ongoing"
+    },
+    "era": "late 20th–21st century astrobiology",
+    "resolution": "MARTIAN_LIFE_UNCONFIRMED_ABIOTIC_EXPLANATIONS_STRONGLY_SUPPORTED_FOR_KEY_SIGNALS",
+    "searchAliases": [
+      "ALH84001",
+      "Allan Hills meteorite",
+      "Mars fossil meteorite"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 4418,
+    "enBodyWords": 1284,
+    "meaningfulBlockCount": 14,
+    "visualPlacementCount": 4,
+    "sourceCount": 5,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH02",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH02_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

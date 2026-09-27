@@ -1,0 +1,403 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "booming-sand-dunes",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "노래하는 모래언덕",
+    "canonicalTitleEn": "Booming Sand Dunes",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사막은 왜 70Hz의 저음으로 ‘노래’하나",
+      "hook": "모래가 무너지면 사구 전체가 악기처럼 울리는 곳이 있다. 수세기 전설의 대상이던 현상은 현장음향·지진파·사구 내부층 측정으로 상당 부분 물리학의 문제로 바뀌었다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "모래가 무너지자 사막이 낮게 울렸다",
+          "headingEn": "When the Sand Slid, the Dune Began to Boom",
+          "textKo": "일부 큰 사구에서는 마른 모래가 경사면을 무너져 내릴 때 단순한 사각거림이 아니라 낮고 지속적인 ‘붐’ 소리가 난다. Caltech 현장연구는 이 소리가 대개 70~105Hz 부근의 강한 기본주파수와 높은 고조파를 갖고, 자연 붕괴나 사람이 유도한 avalanche 뒤에 발생할 수 있다고 기록한다. 조건이 맞으면 소리는 수분 동안 이어지고 멀리까지 들린다. **전설처럼 들리지만 현상 자체는 반복측정 가능한 물리현상이다.**",
+          "textEn": "Some large dunes do not merely hiss when dry sand avalanches down a slip face; they produce a sustained low boom. Caltech field research records dominant frequencies around 70–105 Hz with higher harmonics, triggered by natural or induced avalanches. Under suitable conditions the sound can continue for minutes and travel long distances. It sounds legendary, but the phenomenon itself is repeatable and measurable."
+        },
+        {
+          "blockId": "old-02",
+          "type": "BACKGROUND",
+          "headingKo": "수세기 동안 알려졌지만 설명은 하나가 아니었다",
+          "headingEn": "Known for Centuries, Explained in Many Ways",
+          "textKo": "노래하거나 울리는 모래에 대한 여행기·지역기록은 오래됐다. 초기 설명은 모래알 크기, 마찰, 습도, 지하공간 같은 다양한 원인을 제안했다. 문제는 서로 다른 사구가 서로 다른 음높이를 내고, 같은 사구에서도 계절과 위치에 따라 소리가 달라진다는 점이었다. 단순히 ‘모래알 하나가 바이올린 줄처럼 진동한다’는 그림으로는 전체 현상을 설명하기 어려웠다.",
+          "textEn": "Reports of singing or booming sand go back centuries, and early explanations invoked grain size, friction, humidity, and underground cavities. The problem was variability: different dunes produce different pitches, and the same dune can change with season and location. A simple picture in which individual grains act like tiny instruments could not account for the whole phenomenon."
+        },
+        {
+          "blockId": "field-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현장측정이 입자크기 단독설을 흔들었다",
+          "headingEn": "Field Measurements Challenged Grain-Size-Only Models",
+          "textKo": "2007년 Caltech 연구팀은 여러 사구에서 음향·지진속도·층구조를 측정하고, 붐 주파수가 평균 모래알 크기만으로 결정된다는 기존 설명에 도전했다. 같은 입자특성에서도 다른 주파수가 나타날 수 있었고, 소리가 나는 표층 아래에는 더 단단하고 파속이 빠른 층이 존재했다. 연구팀은 **건조하고 느슨한 표층이 아래의 더 조밀한 층 사이에서 자연적인 waveguide를 만들어 공명주파수를 선택한다**는 모델을 제안했다.",
+          "textEn": "In 2007, Caltech researchers measured sound, seismic velocity, and dune layering at multiple sites and challenged earlier models that tied booming frequency mainly to average grain size. Similar grains could produce different frequencies, while the booming layer sat above denser material with higher wave speeds. The team proposed that the dry, loose surface layer acts as a natural waveguide whose depth and material properties select the resonant frequency."
+        },
+        {
+          "blockId": "waveguide-04",
+          "type": "TURNING_POINT",
+          "headingKo": "‘사구 전체가 악기’라는 그림",
+          "headingEn": "The Dune Behaves More Like an Instrument",
+          "textKo": "waveguide 모델의 직관은 모래알 하나보다 사구의 층구조를 보는 데 있다. avalanche가 진동을 만들면 파동이 느슨한 표층 안에서 전파되고, 아래의 더 높은 파속층과 경계가 에너지를 가두며 특정 주파수를 증폭할 수 있다. Caltech thesis와 후속연구는 지표투과레이더·지진속도·현장음향을 겹쳐 이 구조와 붐 주파수의 관계를 시험했다. **사막이 ‘노래한다’기보다, 층진 모래사구가 거대한 공명체처럼 작동하는 셈**이다.",
+          "textEn": "The waveguide model shifts attention from a single grain to the structure of the dune. An avalanche excites vibration, waves propagate through the loose dry surface layer, and boundaries with denser material can trap and amplify particular frequencies. Caltech thesis work and later studies combined radar, seismic velocity, and acoustic measurements to test the relationship. The dune behaves less like a magical singer than a large layered resonator."
+        },
+        {
+          "blockId": "burps-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "처음에는 ‘붐’이 아니라 짧은 burp가 나온다",
+          "headingEn": "Before the Boom Come Short Broadband Bursts",
+          "textKo": "2015년 후속 현장연구는 거의 단일음에 가까운 booming이 시작되기 전 더 짧고 넓은 주파수대의 ‘burp’ 소리가 나타날 수 있음을 측정했다. 작은 모래 shearing 실험에서 나오는 소리와 비슷한 이 짧은 신호는 **소리를 만드는 초기 source와 사구가 그 소리를 증폭·선택하는 resonance를 구분**하는 단서가 됐다. 즉 ‘모래가 마찰해서 소리가 난다’와 ‘왜 70~105Hz의 큰 소리가 지속되는가’는 서로 다른 단계의 문제다.",
+          "textEn": "A 2015 field study measured short broadband “burps” before the onset of the nearly monotone boom. Those bursts resemble signals from small-scale sand shearing and help separate the initial source of vibration from the resonant amplification that selects the sustained tone. “Sand friction makes sound” and “why a 70–105 Hz tone becomes loud and persistent” are therefore different questions."
+        },
+        {
+          "blockId": "variation-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "waveguide가 있어도 모든 세부가 끝난 것은 아니다",
+          "headingEn": "A Strong Model Does Not Mean Every Detail Is Closed",
+          "textKo": "Caltech 연구는 waveguide 모델이 현장관측을 잘 설명한다고 제시하지만, 사구마다 내부층·수분·압밀·계절상태가 다르고 붕괴유형도 달라진다. 따라서 ‘모든 노래하는 모래가 완전히 동일한 구조와 과정으로 난다’고 확장하면 과도하다. 현재 중요한 결론은 초자연적 원인이 필요한 것이 아니라 **측정 가능한 모래층과 파동물리로 현상을 설명하는 강한 모델이 존재한다는 것**이다.",
+          "textEn": "Caltech research presents the waveguide model as a strong fit to field observations, but dunes differ in layering, moisture, compaction, season, and avalanche behaviour. It would be too broad to claim that every singing-sand site operates in exactly the same way. The key conclusion is that the phenomenon has robust physical models based on measurable sand layers and wave propagation, not that every site is identical."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** booming sand는 자연 또는 유도 avalanche 뒤 반복측정할 수 있는 물리현상이다. 여러 Caltech 현장자료에서 70~105/110Hz 부근의 강한 주파수와 고조파가 관찰됐다. 표층의 느슨하고 건조한 모래층과 더 조밀한 하부층이 만드는 waveguide 공명모델은 주파수 선택과 증폭을 잘 설명한다.\n\n**확인되지 않음:** 모든 사구에서 세부 발생과정이 완전히 동일하다는 것은 아니다. 단순 평균 입자크기 하나만으로 모든 음높이를 설명할 수 있다는 기존 가설은 현장자료와 맞지 않는다.",
+          "textEn": "**Established:** Booming sand is a reproducible physical phenomenon following natural or induced avalanches. Caltech field studies report strong frequencies near 70–105/110 Hz with harmonics. A waveguide formed by loose dry surface sand above denser layers provides a strong model for frequency selection and amplification.\n\n**Not established:** Every booming dune need not share identical detailed mechanics. Earlier claims that average grain size alone determines the pitch do not fit the full field dataset."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** booming sand는 자연 또는 유도 avalanche 뒤 반복측정할 수 있는 물리현상이다. 여러 Caltech 현장자료에서 70~105/110Hz 부근의 강한 주파수와 고조파가 관찰됐다. 표층의 느슨하고 건조한 모래층과 더 조밀한 하부층이 만드는 waveguide 공명모델은 주파수 선택과 증폭을 잘 설명한다.\n\n**확인되지 않음:** 모든 사구에서 세부 발생과정이 완전히 동일하다는 것은 아니다. 단순 평균 입자크기 하나만으로 모든 음높이를 설명할 수 있다는 기존 가설은 현장자료와 맞지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "old-02",
+        "field-03",
+        "waveguide-04",
+        "burps-05",
+        "variation-06"
+      ]
+    },
+    "en": {
+      "headline": "Why Can a Desert Dune Boom at Around 70 Hz?",
+      "hook": "Some dunes produce a sustained low boom when sand avalanches. A phenomenon known for centuries has become a measurable problem in acoustics, seismic waves, and dune layering.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "모래가 무너지자 사막이 낮게 울렸다",
+          "headingEn": "When the Sand Slid, the Dune Began to Boom",
+          "textKo": "일부 큰 사구에서는 마른 모래가 경사면을 무너져 내릴 때 단순한 사각거림이 아니라 낮고 지속적인 ‘붐’ 소리가 난다. Caltech 현장연구는 이 소리가 대개 70~105Hz 부근의 강한 기본주파수와 높은 고조파를 갖고, 자연 붕괴나 사람이 유도한 avalanche 뒤에 발생할 수 있다고 기록한다. 조건이 맞으면 소리는 수분 동안 이어지고 멀리까지 들린다. **전설처럼 들리지만 현상 자체는 반복측정 가능한 물리현상이다.**",
+          "textEn": "Some large dunes do not merely hiss when dry sand avalanches down a slip face; they produce a sustained low boom. Caltech field research records dominant frequencies around 70–105 Hz with higher harmonics, triggered by natural or induced avalanches. Under suitable conditions the sound can continue for minutes and travel long distances. It sounds legendary, but the phenomenon itself is repeatable and measurable."
+        },
+        {
+          "blockId": "old-02",
+          "type": "BACKGROUND",
+          "headingKo": "수세기 동안 알려졌지만 설명은 하나가 아니었다",
+          "headingEn": "Known for Centuries, Explained in Many Ways",
+          "textKo": "노래하거나 울리는 모래에 대한 여행기·지역기록은 오래됐다. 초기 설명은 모래알 크기, 마찰, 습도, 지하공간 같은 다양한 원인을 제안했다. 문제는 서로 다른 사구가 서로 다른 음높이를 내고, 같은 사구에서도 계절과 위치에 따라 소리가 달라진다는 점이었다. 단순히 ‘모래알 하나가 바이올린 줄처럼 진동한다’는 그림으로는 전체 현상을 설명하기 어려웠다.",
+          "textEn": "Reports of singing or booming sand go back centuries, and early explanations invoked grain size, friction, humidity, and underground cavities. The problem was variability: different dunes produce different pitches, and the same dune can change with season and location. A simple picture in which individual grains act like tiny instruments could not account for the whole phenomenon."
+        },
+        {
+          "blockId": "field-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현장측정이 입자크기 단독설을 흔들었다",
+          "headingEn": "Field Measurements Challenged Grain-Size-Only Models",
+          "textKo": "2007년 Caltech 연구팀은 여러 사구에서 음향·지진속도·층구조를 측정하고, 붐 주파수가 평균 모래알 크기만으로 결정된다는 기존 설명에 도전했다. 같은 입자특성에서도 다른 주파수가 나타날 수 있었고, 소리가 나는 표층 아래에는 더 단단하고 파속이 빠른 층이 존재했다. 연구팀은 **건조하고 느슨한 표층이 아래의 더 조밀한 층 사이에서 자연적인 waveguide를 만들어 공명주파수를 선택한다**는 모델을 제안했다.",
+          "textEn": "In 2007, Caltech researchers measured sound, seismic velocity, and dune layering at multiple sites and challenged earlier models that tied booming frequency mainly to average grain size. Similar grains could produce different frequencies, while the booming layer sat above denser material with higher wave speeds. The team proposed that the dry, loose surface layer acts as a natural waveguide whose depth and material properties select the resonant frequency."
+        },
+        {
+          "blockId": "waveguide-04",
+          "type": "TURNING_POINT",
+          "headingKo": "‘사구 전체가 악기’라는 그림",
+          "headingEn": "The Dune Behaves More Like an Instrument",
+          "textKo": "waveguide 모델의 직관은 모래알 하나보다 사구의 층구조를 보는 데 있다. avalanche가 진동을 만들면 파동이 느슨한 표층 안에서 전파되고, 아래의 더 높은 파속층과 경계가 에너지를 가두며 특정 주파수를 증폭할 수 있다. Caltech thesis와 후속연구는 지표투과레이더·지진속도·현장음향을 겹쳐 이 구조와 붐 주파수의 관계를 시험했다. **사막이 ‘노래한다’기보다, 층진 모래사구가 거대한 공명체처럼 작동하는 셈**이다.",
+          "textEn": "The waveguide model shifts attention from a single grain to the structure of the dune. An avalanche excites vibration, waves propagate through the loose dry surface layer, and boundaries with denser material can trap and amplify particular frequencies. Caltech thesis work and later studies combined radar, seismic velocity, and acoustic measurements to test the relationship. The dune behaves less like a magical singer than a large layered resonator."
+        },
+        {
+          "blockId": "burps-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "처음에는 ‘붐’이 아니라 짧은 burp가 나온다",
+          "headingEn": "Before the Boom Come Short Broadband Bursts",
+          "textKo": "2015년 후속 현장연구는 거의 단일음에 가까운 booming이 시작되기 전 더 짧고 넓은 주파수대의 ‘burp’ 소리가 나타날 수 있음을 측정했다. 작은 모래 shearing 실험에서 나오는 소리와 비슷한 이 짧은 신호는 **소리를 만드는 초기 source와 사구가 그 소리를 증폭·선택하는 resonance를 구분**하는 단서가 됐다. 즉 ‘모래가 마찰해서 소리가 난다’와 ‘왜 70~105Hz의 큰 소리가 지속되는가’는 서로 다른 단계의 문제다.",
+          "textEn": "A 2015 field study measured short broadband “burps” before the onset of the nearly monotone boom. Those bursts resemble signals from small-scale sand shearing and help separate the initial source of vibration from the resonant amplification that selects the sustained tone. “Sand friction makes sound” and “why a 70–105 Hz tone becomes loud and persistent” are therefore different questions."
+        },
+        {
+          "blockId": "variation-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "waveguide가 있어도 모든 세부가 끝난 것은 아니다",
+          "headingEn": "A Strong Model Does Not Mean Every Detail Is Closed",
+          "textKo": "Caltech 연구는 waveguide 모델이 현장관측을 잘 설명한다고 제시하지만, 사구마다 내부층·수분·압밀·계절상태가 다르고 붕괴유형도 달라진다. 따라서 ‘모든 노래하는 모래가 완전히 동일한 구조와 과정으로 난다’고 확장하면 과도하다. 현재 중요한 결론은 초자연적 원인이 필요한 것이 아니라 **측정 가능한 모래층과 파동물리로 현상을 설명하는 강한 모델이 존재한다는 것**이다.",
+          "textEn": "Caltech research presents the waveguide model as a strong fit to field observations, but dunes differ in layering, moisture, compaction, season, and avalanche behaviour. It would be too broad to claim that every singing-sand site operates in exactly the same way. The key conclusion is that the phenomenon has robust physical models based on measurable sand layers and wave propagation, not that every site is identical."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** booming sand는 자연 또는 유도 avalanche 뒤 반복측정할 수 있는 물리현상이다. 여러 Caltech 현장자료에서 70~105/110Hz 부근의 강한 주파수와 고조파가 관찰됐다. 표층의 느슨하고 건조한 모래층과 더 조밀한 하부층이 만드는 waveguide 공명모델은 주파수 선택과 증폭을 잘 설명한다.\n\n**확인되지 않음:** 모든 사구에서 세부 발생과정이 완전히 동일하다는 것은 아니다. 단순 평균 입자크기 하나만으로 모든 음높이를 설명할 수 있다는 기존 가설은 현장자료와 맞지 않는다.",
+          "textEn": "**Established:** Booming sand is a reproducible physical phenomenon following natural or induced avalanches. Caltech field studies report strong frequencies near 70–105/110 Hz with harmonics. A waveguide formed by loose dry surface sand above denser layers provides a strong model for frequency selection and amplification.\n\n**Not established:** Every booming dune need not share identical detailed mechanics. Earlier claims that average grain size alone determines the pitch do not fit the full field dataset."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Booming sand is a reproducible physical phenomenon following natural or induced avalanches. Caltech field studies report strong frequencies near 70–105/110 Hz with harmonics. A waveguide formed by loose dry surface sand above denser layers provides a strong model for frequency selection and amplification.\n\n**Not established:** Every booming dune need not share identical detailed mechanics. Earlier claims that average grain size alone determines the pitch do not fit the full field dataset.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "old-02",
+        "field-03",
+        "waveguide-04",
+        "burps-05",
+        "variation-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BOOM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "노래하는 사구는 avalanche 뒤 70~105Hz 부근의 강한 저주파와 고조파를 낼 수 있다.",
+      "statementEn": "Booming dunes can produce dominant low frequencies around 70–105 Hz with harmonics after avalanches.",
+      "sourceRefs": [
+        "CALTECH2007",
+        "CALTECH2015"
+      ]
+    },
+    {
+      "claimId": "BOOM-C2",
+      "status": "SUPPORTED",
+      "statementKo": "표층 loose dry sand와 더 조밀한 하부층의 waveguide 모델은 주파수 선택·증폭을 잘 설명한다.",
+      "statementEn": "A waveguide formed by loose dry surface sand above denser layers strongly explains frequency selection and amplification.",
+      "sourceRefs": [
+        "CALTECH2007",
+        "CALTECH_THESIS"
+      ]
+    },
+    {
+      "claimId": "BOOM-C3",
+      "status": "REFUTED",
+      "statementKo": "평균 모래알 크기 하나만으로 모든 사구의 붐 주파수를 설명할 수 있다는 단순설은 현장자료와 맞지 않는다.",
+      "statementEn": "A simple model in which average grain size alone determines booming frequency does not fit the full field data.",
+      "sourceRefs": [
+        "CALTECH2007"
+      ]
+    },
+    {
+      "claimId": "BOOM-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 사구의 세부 발생과정이 완전히 동일하다는 것은 확립되지 않는다.",
+      "statementEn": "It is not established that every booming dune has identical detailed mechanics.",
+      "sourceRefs": [
+        "CALTECH2015"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CALTECH2007",
+      "title": "Solving the mystery of booming sand dunes",
+      "publisher": "CaltechAUTHORS / Vriend et al.",
+      "url": "https://authors.library.caltech.edu/records/s0m0a-cyg09",
+      "sourceType": "PRIMARY_FIELD_STUDY"
+    },
+    {
+      "sourceId": "CALTECH_THESIS",
+      "title": "Booming Sand Dunes",
+      "publisher": "CaltechTHESIS / Nathalie Vriend",
+      "url": "https://thesis.caltech.edu/5891/",
+      "sourceType": "DISSERTATION_FIELD_SYNTHESIS"
+    },
+    {
+      "sourceId": "CALTECH2015",
+      "title": "Linear and nonlinear wave propagation in booming sand dunes",
+      "publisher": "CaltechAUTHORS / Vriend et al.",
+      "url": "https://authors.library.caltech.edu/records/b3tan-cab83",
+      "sourceType": "PRIMARY_FIELD_STUDY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "booming-sand-dunes-grain-vs-waveguide",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "노래하는 모래의 입자크기 단독설과 waveguide 모델을 비교한 카드.",
+      "captionEn": "Evidence card comparing grain-size-only and waveguide explanations for booming sand.",
+      "altKo": "왼쪽 오래된 단독설, 오른쪽 현장자료 기반 waveguide 모델.",
+      "altEn": "Two-column comparison of the older grain-size model and field-supported waveguide model.",
+      "sourceRefs": [
+        "CALTECH2007",
+        "CALTECH_THESIS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "booming-sand-dunes__grain-vs-waveguide__ko.png",
+          "sha256": "2a6f64994cd1725f3308f8a01bdf2f75b1876fcd8ddaba119f6d20184b6e352a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "booming-sand-dunes__grain-vs-waveguide__en.png",
+          "sha256": "45e370c421d1c59b37728cde782553caca3d96032b490386161f32c7ba3a10af",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "booming-sand-dunes-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "노래하는 모래언덕에서 avalanche·초기진동·waveguide·붐이 이어지는 과정을 설명한 hero 도표.",
+      "captionEn": "Hero explainer of avalanche, initial vibration, waveguide structure, and sustained booming in singing dunes.",
+      "altKo": "사구의 네 물리단계를 설명.",
+      "altEn": "Four physical stages of booming sand.",
+      "sourceRefs": [
+        "CALTECH2007",
+        "CALTECH2015",
+        "CALTECH_THESIS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "booming-sand-dunes__hero-context__ko.png",
+          "sha256": "88ef5a86118f040ad265864afadb35de1acf50d4c96f65032667e321bed91525",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "booming-sand-dunes__hero-context__en.png",
+          "sha256": "d76764e7d46d35984f19c2e47c87aa57b4f8de4733018532d48701095b34ded1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "booming-sand-dunes-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "노래하는 모래현상의 오래된 기록에서 2007·2015 현대 현장연구까지의 흐름.",
+      "captionEn": "Timeline from historical booming-sand reports to modern 2007 and 2015 field studies.",
+      "altKo": "역사기록, 2007, 후속연구, 2015 네 단계.",
+      "altEn": "Four-stage research timeline: historical reports, 2007, later work, 2015.",
+      "sourceRefs": [
+        "CALTECH2007",
+        "CALTECH2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "booming-sand-dunes__timeline__ko.png",
+          "sha256": "1c34080614251d12df7bb32c335c4437a1ae2fa64ac7eee6a496b5050d87dcf4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "booming-sand-dunes__timeline__en.png",
+          "sha256": "37172d5c341d5c807ba79835314957aa734ea582547ecc720e0a1531326c774b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [],
+    "regions": [
+      "Desert dune sites worldwide"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Nathalie Vriend",
+        "role": "lead field researcher"
+      }
+    ],
+    "organizations": [
+      "California Institute of Technology"
+    ],
+    "dateRange": {
+      "start": null,
+      "end": 2015,
+      "precision": "historical phenomenon with modern field studies"
+    },
+    "era": "Modern geophysics",
+    "resolution": "PHYSICAL_PHENOMENON_STRONGLY_EXPLAINED_DETAIL_VARIATION_REMAINS",
+    "searchAliases": [
+      "booming sand dunes",
+      "singing sand"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1672,
+    "enBodyWords": 457,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

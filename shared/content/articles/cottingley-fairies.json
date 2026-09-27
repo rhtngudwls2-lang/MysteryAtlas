@@ -1,0 +1,559 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "cottingley-fairies",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "코팅리 요정 사진의 진실",
+    "canonicalTitleEn": "Cottingley Fairies",
+    "aliasesKo": [
+      "코팅리 요정 사진"
+    ],
+    "aliasesEn": [
+      "Cottingley fairy photographs"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "LEGEND_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "셜록 홈스의 작가까지 믿은 ‘요정 사진’은 어떻게 만들어졌나",
+      "hook": "사진건판에는 합성 흔적이 없었다. 그래서 많은 어른들이 카메라가 요정을 찍었다고 믿었다. 수십 년 뒤 두 촬영자는 전혀 다른 종류의 속임수를 설명했다. 문제는 필름이 아니라 카메라 앞이었다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1917년, 개울가에서 찍힌 첫 장",
+          "headingEn": "1917: The First Photograph by the Beck",
+          "textKo": "1917년 영국 웨스트요크셔 코팅리. 사촌인 엘시 라이트와 프랜시스 그리피스는 자주 코팅리 벡 근처로 나갔다. 어른들이 왜 자꾸 그곳에 가느냐고 묻자 아이들은 요정을 보기 때문이라고 말했다. 어느 날 엘시는 아버지의 카메라를 빌렸다. 현상된 사진에는 프랜시스 앞에서 춤추는 작은 날개 달린 존재들이 찍혀 있었다. 곧 이어 엘시와 ‘노움’처럼 보이는 형상이 함께 있는 두 번째 사진도 나왔다. 오늘날이라면 합성을 먼저 의심했을 사진이지만, 1917년의 가족에게는 필름이라는 물리적 물체가 남아 있었다.",
+          "textEn": "In 1917, in Cottingley, West Yorkshire, cousins Elsie Wright and Frances Griffiths often went down to Cottingley Beck. When adults asked why they spent so much time there, the girls said they went to see fairies. Elsie borrowed her father’s camera. When the plate was developed, Frances appeared with a group of small winged figures dancing in front of her. A second image showed Elsie with a gnome-like figure. Today, digital manipulation would be an immediate suspicion. In 1917, however, what the family had in front of them was a physical photographic plate."
+        },
+        {
+          "blockId": "family-02",
+          "type": "BACKGROUND",
+          "headingKo": "가족 안에서도 처음부터 믿은 것은 아니었다",
+          "headingEn": "Even the Family Was Skeptical",
+          "textKo": "사진이 곧바로 전국적인 사건이 된 것은 아니었다. 초기에는 가족 안에서도 장난이나 속임수일 수 있다는 반응이 있었다. 중요한 변화는 사진이 신지학(Theosophy)과 요정 존재에 관심이 있던 어른들의 네트워크로 넘어가면서 시작됐다. 사진은 ‘아이들이 만든 장난일까’라는 가족 질문에서 ‘카메라가 보이지 않는 자연 존재를 기록했는가’라는 더 큰 주장으로 이동했다. 이 변화는 코팅리 사건을 이해하는 핵심이다. **사진 자체보다 사진을 둘러싼 해석 공동체가 사건의 크기를 키웠다.**",
+          "textEn": "The photographs did not instantly become a national sensation. Within the family, there was skepticism from the beginning and the possibility of a childish trick was not remote. The story changed when the images entered adult networks interested in Theosophy and the possible existence of fairies. A family question—were the girls playing a trick?—became a much larger claim: had photography captured unseen beings in nature? The transformation matters because **the story grew not only from the images but from the community interpreting them**."
+        },
+        {
+          "blockId": "gardner-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "에드워드 가드너가 사진을 가져가다",
+          "headingEn": "Edward Gardner Took the Photographs Seriously",
+          "textKo": "신지학회와 연결된 에드워드 가드너는 사진을 전달받고 코팅리 사건을 조사하기 시작했다. 그는 원판과 인화본을 살펴보고 사진 전문가들에게 의견을 구하며, 이것이 단순한 이중노출이나 암실 조작이 아니라는 판단을 중요한 근거로 삼았다. 그러나 여기에는 이미 중요한 논리적 빈틈이 있었다. **필름 자체가 암실에서 조작되지 않았다는 것과, 카메라 앞의 피사체가 실제 생물이었다는 것은 다른 질문**이다. 나중의 고백이 바로 그 차이를 파고들게 된다.",
+          "textEn": "Edward Gardner, connected with the Theosophical Society, received the photographs and began investigating the Cottingley story. He examined plates and prints and sought opinions from photographic specialists, treating the absence of obvious double exposure or darkroom manipulation as important evidence. But this contained a crucial logical gap: **a photograph can be genuine as a photographic exposure while the object placed in front of the camera is staged**. The later admissions would turn precisely on that distinction."
+        },
+        {
+          "blockId": "doyle-04",
+          "type": "TURNING_POINT",
+          "headingKo": "코난 도일이 사건을 세계로 밀어 올리다",
+          "headingEn": "Arthur Conan Doyle Took the Story Worldwide",
+          "textKo": "셜록 홈스의 작가 아서 코난 도일은 심령주의와 초자연 현상에 깊은 관심이 있었다. 그는 가드너의 조사와 사진을 접한 뒤 이 사건을 공개적으로 옹호했다. 1920년 무렵 사진들이 더 널리 소개됐고, 1922년 도일은 『The Coming of the Fairies』에서 코팅리 사진들을 요정 존재에 대한 중요한 증거로 제시했다. 그의 책은 오늘날 사건의 ‘믿는 쪽’이 당시 무엇을 근거로 삼았는지 보여주는 1차 자료다. 동시에 그 책의 확신은 **도일이 요정의 실재를 입증했다는 독립적 증거가 아니라, 당대 옹호 논리의 기록**으로 읽어야 한다.",
+          "textEn": "Arthur Conan Doyle, creator of Sherlock Holmes, had a deep interest in Spiritualism and psychical phenomena. After learning of Gardner’s investigation and the photographs, he became a public advocate for the case. The images received wider circulation around 1920, and in 1922 Doyle published *The Coming of the Fairies*, presenting the Cottingley pictures as important evidence for fairy existence. His book is now a valuable primary source for understanding what believers thought the evidence showed. Its confidence is **a record of contemporary advocacy, not independent proof that fairies were real**."
+        },
+        {
+          "blockId": "more-05",
+          "type": "CHRONOLOGY",
+          "headingKo": "새 카메라로 세 장이 더 나오다",
+          "headingEn": "Three More Photographs Followed",
+          "textKo": "가드너는 아이들이 다시 사진을 찍을 수 있도록 카메라와 표시된 사진건판을 제공했다. 이후 세 장의 사진이 추가로 만들어져 사건의 전체 유명한 묶음은 다섯 장이 됐다. 이 과정은 당시 옹호자들에게 강한 인상을 줬다. 아이들이 같은 장소에서 또 다른 사진을 만들었고, 필름이 단순히 바꿔치기됐다는 식의 설명은 쉬워 보이지 않았기 때문이다. 그러나 사진 촬영 절차를 통제했다고 해서 카메라 앞의 장면 자체가 통제된 것은 아니었다. 종이 피사체를 현장에 세우는 방식이라면 건판을 바꾸지 않아도 사진은 만들어질 수 있었다.",
+          "textEn": "Gardner later provided cameras and marked photographic plates so the girls could try again. Three additional images were produced, creating the famous set of five. To supporters, this seemed powerful: the girls had generated more photographs under conditions intended to reduce simple plate substitution or darkroom fraud. Yet controlling the plate did not control the scene in front of the lens. If a paper figure could be physically placed near the subjects, the plate itself could remain entirely genuine."
+        },
+        {
+          "blockId": "admission-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수십 년 뒤, 종이 오리기와 핀 이야기가 나왔다",
+          "headingEn": "Decades Later Came the Paper-Cutout Admission",
+          "textKo": "1980년대 인터뷰와 박물관 연구에서 사건의 방향은 크게 바뀌었다. Bradford District Museums가 정리한 자료에 따르면 엘시와 프랜시스는 최초 네 장의 요정 사진이 꾸며진 것이었다고 인정했다. 그림책에서 본 형태를 참고해 종이에 요정을 그리고 오려낸 뒤, 모자핀 등을 이용해 주변 식물에 고정해 카메라 앞에 세웠다는 설명이 제시됐다. 이 방식은 오래된 핵심 수수께끼를 풀었다. 왜 사진건판 자체에는 합성 흔적이 없었는가? **카메라가 거짓말을 한 것이 아니라, 카메라 앞 장면이 연출돼 있었기 때문이다.**",
+          "textEn": "Interviews and archival research in the 1980s changed the case dramatically. Bradford District Museums summarizes later admissions by Elsie and Frances that the first four fairy photographs were staged. They described drawing or copying fairy figures onto paper, cutting them out, and supporting them among the vegetation with hatpins or similar means. The explanation resolved one of the case’s oldest puzzles: why was there no obvious darkroom composite? **The camera did not need to lie if the scene in front of the lens had already been staged.**"
+        },
+        {
+          "blockId": "fifth-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그런데 다섯 번째 사진은 끝까지 하나의 틈으로 남았다",
+          "headingEn": "The Fifth Photograph Remained a Point of Disagreement",
+          "textKo": "사건을 ‘다섯 장 모두 고백으로 완전히 끝났다’고 쓰면 또 다른 왜곡이 생긴다. Bradford의 정리는 프랜시스가 훗날 첫 네 장은 꾸며졌다고 인정하면서도 다섯 번째 사진에 대해서는 다른 태도를 유지했다고 설명한다. 그녀는 마지막 이미지가 진짜였다는 취지의 주장을 남겼다. 그렇다고 이것이 다섯 번째 사진의 초자연적 진위를 입증하는 것은 아니다. 남아 있는 것은 **후대 진술의 불일치**다. 네 장의 제작방식에 대한 고백은 강한 반증이지만, 다섯 번째 장은 ‘진짜 요정 사진’으로 승격되는 것이 아니라 별도의 미확정 주장으로 남는다.",
+          "textEn": "It would be another distortion to say that a single confession cleanly disposed of all five photographs. Bradford’s archival account notes that Frances later admitted the staging of the first four images but continued to treat the fifth differently, maintaining that it was genuine. That does not establish the fifth photograph as supernatural evidence. What remains is **a disagreement in later testimony**. The admission provides powerful evidence about four staged images; the fifth remains a separate unverified claim, not a verified fairy photograph."
+        },
+        {
+          "blockId": "rights-08",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "원본 사진이 있어도 앱에 그대로 넣을 수는 없다",
+          "headingEn": "Owning the Archive Does Not Mean the Images Are Free to Reuse",
+          "textKo": "코팅리 사건은 Mystery Atlas의 이미지 정책을 시험하기 좋은 사례이기도 하다. University of Leeds Special Collections에는 관련 원본 사진과 자료가 보존돼 있지만, Work 권리조사는 해당 소장기록이 상업적 앱·웹에서 이미지를 자유롭게 재사용할 수 있는 허가를 제공하지 않는다고 확인했다. 따라서 실제 원본사진을 ‘유명하니까’ 가져와 본문에 넣지 않는다. 사건의 핵심을 설명할 때는 다섯 프레임의 번호·주장·후대 진술을 텍스트 기반 원본 카드로 재구성하고, **실제 사진을 보지 않아도 조작방식과 증거구조를 이해할 수 있게** 만든다.",
+          "textEn": "The Cottingley case is also a useful test of Mystery Atlas’s media policy. University of Leeds Special Collections preserves relevant original photographs and archival material, but Work’s rights review found that the collection record does not grant blanket permission to reuse those images commercially in an app or website. The famous photographs therefore should not be copied simply because they are historically important. Instead, the article can use original cards describing the five frames, claims, and later testimony so that **the reader can understand the mechanics and evidentiary structure without unlicensed reproduction**."
+        },
+        {
+          "blockId": "why-believed-09",
+          "type": "HYPOTHESIS",
+          "headingKo": "왜 똑똑한 어른들도 믿었나",
+          "headingEn": "Why Intelligent Adults Were Persuaded",
+          "textKo": "코팅리 사진을 이해하는 가장 쉬운 방법은 ‘옛날 사람들은 사진을 몰랐다’고 비웃는 것이 아니다. 당시에도 사진 조작은 알려져 있었고, 그래서 가드너와 도일은 전문가 검토와 원판 상태를 중요하게 봤다. 문제는 검증 질문이 잘못 좁혀졌다는 데 있었다. 이중노출이나 암실합성이 아니라면 피사체도 진짜일 것이라는 가정이 들어갔다. 여기에 아이들이 왜 그런 거짓말을 하겠느냐는 심리적 판단, 이미 요정이나 심령현상을 믿고 싶어 한 관찰자들의 기대가 합쳐졌다. **기술검증이 존재했지만, 가능한 조작방법 전체를 검증한 것은 아니었다.**",
+          "textEn": "The easiest way to misunderstand Cottingley is to mock people in the past as if they knew nothing about photographic fakery. Manipulation was already familiar, which is precisely why Gardner and Doyle cared about expert examination and the condition of the plates. The weakness was narrower: a photograph that was not a double exposure or darkroom composite was too easily treated as a photograph of a genuine subject. Psychological assumptions about why children would or would not deceive adults, combined with observers already sympathetic to fairies or psychical phenomena, amplified the mistake. **There was technical scrutiny, but it did not test the full space of possible staging methods.**"
+        },
+        {
+          "blockId": "legacy-10",
+          "type": "AFTERMATH",
+          "headingKo": "‘가짜 사진’보다 더 오래 남은 질문",
+          "headingEn": "The More Durable Lesson Is Bigger Than the Hoax",
+          "textKo": "코팅리 요정 사진은 초자연적 존재를 입증한 사례로 남지 않았다. 오히려 증거가 어떻게 권위와 기대를 타고 커지는지를 보여주는 사례가 됐다. 두 소녀의 사진은 가드너의 조사, 유명 작가 코난 도일의 지지, 출판과 재출판을 거치며 가족 장난을 국제적 논쟁으로 바꿨다. 수십 년 뒤 제작방식이 드러났을 때도 다섯 번째 사진을 둘러싼 후대 진술은 이야기의 마지막 빈칸을 남겼다. 그래서 이 사건의 진짜 미스터리는 ‘요정이 있었나’보다 **왜 검증을 거친 것처럼 보인 사진이 그렇게 오랫동안 설득력을 유지했나**에 가깝다.",
+          "textEn": "The Cottingley photographs did not survive as accepted evidence for supernatural beings. They survived as a case study in how evidence can grow through authority and expectation. Photographs made by two girls became an international controversy through Gardner’s investigation, Conan Doyle’s endorsement, and repeated publication. Even after the staging method was admitted decades later, conflicting recollections about the fifth image left a small narrative gap. The more durable question is therefore less “were fairies there?” than **why photographs that seemed to have survived scrutiny remained persuasive for so long**."
+        },
+        {
+          "blockId": "boundary-11",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 엘시 라이트와 프랜시스 그리피스는 1917년 코팅리에서 첫 사진들을 만들었고, 1920년 무렵 사진들은 에드워드 가드너와 아서 코난 도일을 통해 널리 알려졌다. 도일은 1922년 저서에서 사진을 요정 존재의 증거로 옹호했다. 1980년대 두 여성의 후대 진술과 Bradford District Museums의 연구는 최초 네 장이 종이 오리기와 핀을 이용해 연출됐다는 설명을 뒷받침한다.\n\n**경계:** 프랜시스가 다섯 번째 사진에 대해 다른 주장을 남겼다는 사실은 기록돼 있지만, 그것이 다섯 번째 사진의 초자연적 진위를 확립하지는 않는다. 요정의 객관적 존재는 이 자료들로 입증되지 않는다. 또한 Leeds가 원본을 소장한다고 해서 그 사진들의 상업적 재사용권이 자동으로 생기는 것은 아니다.",
+          "textEn": "**Established:** Elsie Wright and Frances Griffiths made the first Cottingley photographs in 1917, and the images gained wide attention around 1920 through Edward Gardner and Arthur Conan Doyle. Doyle defended them as evidence for fairies in his 1922 book. Later statements by the women and archival research summarized by Bradford District Museums support the explanation that the first four photographs were staged using paper figures and pins.\n\n**Boundary:** Frances’s later claim that the fifth image was different is historically recorded, but it does not establish the fifth photograph as supernatural evidence. The objective existence of fairies is not demonstrated by these sources. And the preservation of original photographs by the University of Leeds does not itself grant commercial reuse rights."
+        }
+      ],
+      "factBoundary": {
+        "established": "1917 촬영·1920년대 공개·Doyle 옹호·1980년대 최초 네 장의 staging admission이 문헌에 남아 있다.",
+        "notEstablished": "다섯 번째 사진의 초자연 진위와 요정의 객관적 존재는 확립되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "family-02",
+        "gardner-03",
+        "doyle-04",
+        "more-05",
+        "admission-06",
+        "fifth-07",
+        "rights-08",
+        "why-believed-09",
+        "legacy-10"
+      ]
+    },
+    "en": {
+      "headline": "How Were the “Fairy Photographs” That Convinced Arthur Conan Doyle Made?",
+      "hook": "The plates showed no obvious darkroom composite, which helped persuade adults that the camera had captured fairies. Decades later, the photographers described a different kind of trick. The problem was not the film—it was what had been placed in front of the lens.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1917년, 개울가에서 찍힌 첫 장",
+          "headingEn": "1917: The First Photograph by the Beck",
+          "textKo": "1917년 영국 웨스트요크셔 코팅리. 사촌인 엘시 라이트와 프랜시스 그리피스는 자주 코팅리 벡 근처로 나갔다. 어른들이 왜 자꾸 그곳에 가느냐고 묻자 아이들은 요정을 보기 때문이라고 말했다. 어느 날 엘시는 아버지의 카메라를 빌렸다. 현상된 사진에는 프랜시스 앞에서 춤추는 작은 날개 달린 존재들이 찍혀 있었다. 곧 이어 엘시와 ‘노움’처럼 보이는 형상이 함께 있는 두 번째 사진도 나왔다. 오늘날이라면 합성을 먼저 의심했을 사진이지만, 1917년의 가족에게는 필름이라는 물리적 물체가 남아 있었다.",
+          "textEn": "In 1917, in Cottingley, West Yorkshire, cousins Elsie Wright and Frances Griffiths often went down to Cottingley Beck. When adults asked why they spent so much time there, the girls said they went to see fairies. Elsie borrowed her father’s camera. When the plate was developed, Frances appeared with a group of small winged figures dancing in front of her. A second image showed Elsie with a gnome-like figure. Today, digital manipulation would be an immediate suspicion. In 1917, however, what the family had in front of them was a physical photographic plate."
+        },
+        {
+          "blockId": "family-02",
+          "type": "BACKGROUND",
+          "headingKo": "가족 안에서도 처음부터 믿은 것은 아니었다",
+          "headingEn": "Even the Family Was Skeptical",
+          "textKo": "사진이 곧바로 전국적인 사건이 된 것은 아니었다. 초기에는 가족 안에서도 장난이나 속임수일 수 있다는 반응이 있었다. 중요한 변화는 사진이 신지학(Theosophy)과 요정 존재에 관심이 있던 어른들의 네트워크로 넘어가면서 시작됐다. 사진은 ‘아이들이 만든 장난일까’라는 가족 질문에서 ‘카메라가 보이지 않는 자연 존재를 기록했는가’라는 더 큰 주장으로 이동했다. 이 변화는 코팅리 사건을 이해하는 핵심이다. **사진 자체보다 사진을 둘러싼 해석 공동체가 사건의 크기를 키웠다.**",
+          "textEn": "The photographs did not instantly become a national sensation. Within the family, there was skepticism from the beginning and the possibility of a childish trick was not remote. The story changed when the images entered adult networks interested in Theosophy and the possible existence of fairies. A family question—were the girls playing a trick?—became a much larger claim: had photography captured unseen beings in nature? The transformation matters because **the story grew not only from the images but from the community interpreting them**."
+        },
+        {
+          "blockId": "gardner-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "에드워드 가드너가 사진을 가져가다",
+          "headingEn": "Edward Gardner Took the Photographs Seriously",
+          "textKo": "신지학회와 연결된 에드워드 가드너는 사진을 전달받고 코팅리 사건을 조사하기 시작했다. 그는 원판과 인화본을 살펴보고 사진 전문가들에게 의견을 구하며, 이것이 단순한 이중노출이나 암실 조작이 아니라는 판단을 중요한 근거로 삼았다. 그러나 여기에는 이미 중요한 논리적 빈틈이 있었다. **필름 자체가 암실에서 조작되지 않았다는 것과, 카메라 앞의 피사체가 실제 생물이었다는 것은 다른 질문**이다. 나중의 고백이 바로 그 차이를 파고들게 된다.",
+          "textEn": "Edward Gardner, connected with the Theosophical Society, received the photographs and began investigating the Cottingley story. He examined plates and prints and sought opinions from photographic specialists, treating the absence of obvious double exposure or darkroom manipulation as important evidence. But this contained a crucial logical gap: **a photograph can be genuine as a photographic exposure while the object placed in front of the camera is staged**. The later admissions would turn precisely on that distinction."
+        },
+        {
+          "blockId": "doyle-04",
+          "type": "TURNING_POINT",
+          "headingKo": "코난 도일이 사건을 세계로 밀어 올리다",
+          "headingEn": "Arthur Conan Doyle Took the Story Worldwide",
+          "textKo": "셜록 홈스의 작가 아서 코난 도일은 심령주의와 초자연 현상에 깊은 관심이 있었다. 그는 가드너의 조사와 사진을 접한 뒤 이 사건을 공개적으로 옹호했다. 1920년 무렵 사진들이 더 널리 소개됐고, 1922년 도일은 『The Coming of the Fairies』에서 코팅리 사진들을 요정 존재에 대한 중요한 증거로 제시했다. 그의 책은 오늘날 사건의 ‘믿는 쪽’이 당시 무엇을 근거로 삼았는지 보여주는 1차 자료다. 동시에 그 책의 확신은 **도일이 요정의 실재를 입증했다는 독립적 증거가 아니라, 당대 옹호 논리의 기록**으로 읽어야 한다.",
+          "textEn": "Arthur Conan Doyle, creator of Sherlock Holmes, had a deep interest in Spiritualism and psychical phenomena. After learning of Gardner’s investigation and the photographs, he became a public advocate for the case. The images received wider circulation around 1920, and in 1922 Doyle published *The Coming of the Fairies*, presenting the Cottingley pictures as important evidence for fairy existence. His book is now a valuable primary source for understanding what believers thought the evidence showed. Its confidence is **a record of contemporary advocacy, not independent proof that fairies were real**."
+        },
+        {
+          "blockId": "more-05",
+          "type": "CHRONOLOGY",
+          "headingKo": "새 카메라로 세 장이 더 나오다",
+          "headingEn": "Three More Photographs Followed",
+          "textKo": "가드너는 아이들이 다시 사진을 찍을 수 있도록 카메라와 표시된 사진건판을 제공했다. 이후 세 장의 사진이 추가로 만들어져 사건의 전체 유명한 묶음은 다섯 장이 됐다. 이 과정은 당시 옹호자들에게 강한 인상을 줬다. 아이들이 같은 장소에서 또 다른 사진을 만들었고, 필름이 단순히 바꿔치기됐다는 식의 설명은 쉬워 보이지 않았기 때문이다. 그러나 사진 촬영 절차를 통제했다고 해서 카메라 앞의 장면 자체가 통제된 것은 아니었다. 종이 피사체를 현장에 세우는 방식이라면 건판을 바꾸지 않아도 사진은 만들어질 수 있었다.",
+          "textEn": "Gardner later provided cameras and marked photographic plates so the girls could try again. Three additional images were produced, creating the famous set of five. To supporters, this seemed powerful: the girls had generated more photographs under conditions intended to reduce simple plate substitution or darkroom fraud. Yet controlling the plate did not control the scene in front of the lens. If a paper figure could be physically placed near the subjects, the plate itself could remain entirely genuine."
+        },
+        {
+          "blockId": "admission-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수십 년 뒤, 종이 오리기와 핀 이야기가 나왔다",
+          "headingEn": "Decades Later Came the Paper-Cutout Admission",
+          "textKo": "1980년대 인터뷰와 박물관 연구에서 사건의 방향은 크게 바뀌었다. Bradford District Museums가 정리한 자료에 따르면 엘시와 프랜시스는 최초 네 장의 요정 사진이 꾸며진 것이었다고 인정했다. 그림책에서 본 형태를 참고해 종이에 요정을 그리고 오려낸 뒤, 모자핀 등을 이용해 주변 식물에 고정해 카메라 앞에 세웠다는 설명이 제시됐다. 이 방식은 오래된 핵심 수수께끼를 풀었다. 왜 사진건판 자체에는 합성 흔적이 없었는가? **카메라가 거짓말을 한 것이 아니라, 카메라 앞 장면이 연출돼 있었기 때문이다.**",
+          "textEn": "Interviews and archival research in the 1980s changed the case dramatically. Bradford District Museums summarizes later admissions by Elsie and Frances that the first four fairy photographs were staged. They described drawing or copying fairy figures onto paper, cutting them out, and supporting them among the vegetation with hatpins or similar means. The explanation resolved one of the case’s oldest puzzles: why was there no obvious darkroom composite? **The camera did not need to lie if the scene in front of the lens had already been staged.**"
+        },
+        {
+          "blockId": "fifth-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그런데 다섯 번째 사진은 끝까지 하나의 틈으로 남았다",
+          "headingEn": "The Fifth Photograph Remained a Point of Disagreement",
+          "textKo": "사건을 ‘다섯 장 모두 고백으로 완전히 끝났다’고 쓰면 또 다른 왜곡이 생긴다. Bradford의 정리는 프랜시스가 훗날 첫 네 장은 꾸며졌다고 인정하면서도 다섯 번째 사진에 대해서는 다른 태도를 유지했다고 설명한다. 그녀는 마지막 이미지가 진짜였다는 취지의 주장을 남겼다. 그렇다고 이것이 다섯 번째 사진의 초자연적 진위를 입증하는 것은 아니다. 남아 있는 것은 **후대 진술의 불일치**다. 네 장의 제작방식에 대한 고백은 강한 반증이지만, 다섯 번째 장은 ‘진짜 요정 사진’으로 승격되는 것이 아니라 별도의 미확정 주장으로 남는다.",
+          "textEn": "It would be another distortion to say that a single confession cleanly disposed of all five photographs. Bradford’s archival account notes that Frances later admitted the staging of the first four images but continued to treat the fifth differently, maintaining that it was genuine. That does not establish the fifth photograph as supernatural evidence. What remains is **a disagreement in later testimony**. The admission provides powerful evidence about four staged images; the fifth remains a separate unverified claim, not a verified fairy photograph."
+        },
+        {
+          "blockId": "rights-08",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "원본 사진이 있어도 앱에 그대로 넣을 수는 없다",
+          "headingEn": "Owning the Archive Does Not Mean the Images Are Free to Reuse",
+          "textKo": "코팅리 사건은 Mystery Atlas의 이미지 정책을 시험하기 좋은 사례이기도 하다. University of Leeds Special Collections에는 관련 원본 사진과 자료가 보존돼 있지만, Work 권리조사는 해당 소장기록이 상업적 앱·웹에서 이미지를 자유롭게 재사용할 수 있는 허가를 제공하지 않는다고 확인했다. 따라서 실제 원본사진을 ‘유명하니까’ 가져와 본문에 넣지 않는다. 사건의 핵심을 설명할 때는 다섯 프레임의 번호·주장·후대 진술을 텍스트 기반 원본 카드로 재구성하고, **실제 사진을 보지 않아도 조작방식과 증거구조를 이해할 수 있게** 만든다.",
+          "textEn": "The Cottingley case is also a useful test of Mystery Atlas’s media policy. University of Leeds Special Collections preserves relevant original photographs and archival material, but Work’s rights review found that the collection record does not grant blanket permission to reuse those images commercially in an app or website. The famous photographs therefore should not be copied simply because they are historically important. Instead, the article can use original cards describing the five frames, claims, and later testimony so that **the reader can understand the mechanics and evidentiary structure without unlicensed reproduction**."
+        },
+        {
+          "blockId": "why-believed-09",
+          "type": "HYPOTHESIS",
+          "headingKo": "왜 똑똑한 어른들도 믿었나",
+          "headingEn": "Why Intelligent Adults Were Persuaded",
+          "textKo": "코팅리 사진을 이해하는 가장 쉬운 방법은 ‘옛날 사람들은 사진을 몰랐다’고 비웃는 것이 아니다. 당시에도 사진 조작은 알려져 있었고, 그래서 가드너와 도일은 전문가 검토와 원판 상태를 중요하게 봤다. 문제는 검증 질문이 잘못 좁혀졌다는 데 있었다. 이중노출이나 암실합성이 아니라면 피사체도 진짜일 것이라는 가정이 들어갔다. 여기에 아이들이 왜 그런 거짓말을 하겠느냐는 심리적 판단, 이미 요정이나 심령현상을 믿고 싶어 한 관찰자들의 기대가 합쳐졌다. **기술검증이 존재했지만, 가능한 조작방법 전체를 검증한 것은 아니었다.**",
+          "textEn": "The easiest way to misunderstand Cottingley is to mock people in the past as if they knew nothing about photographic fakery. Manipulation was already familiar, which is precisely why Gardner and Doyle cared about expert examination and the condition of the plates. The weakness was narrower: a photograph that was not a double exposure or darkroom composite was too easily treated as a photograph of a genuine subject. Psychological assumptions about why children would or would not deceive adults, combined with observers already sympathetic to fairies or psychical phenomena, amplified the mistake. **There was technical scrutiny, but it did not test the full space of possible staging methods.**"
+        },
+        {
+          "blockId": "legacy-10",
+          "type": "AFTERMATH",
+          "headingKo": "‘가짜 사진’보다 더 오래 남은 질문",
+          "headingEn": "The More Durable Lesson Is Bigger Than the Hoax",
+          "textKo": "코팅리 요정 사진은 초자연적 존재를 입증한 사례로 남지 않았다. 오히려 증거가 어떻게 권위와 기대를 타고 커지는지를 보여주는 사례가 됐다. 두 소녀의 사진은 가드너의 조사, 유명 작가 코난 도일의 지지, 출판과 재출판을 거치며 가족 장난을 국제적 논쟁으로 바꿨다. 수십 년 뒤 제작방식이 드러났을 때도 다섯 번째 사진을 둘러싼 후대 진술은 이야기의 마지막 빈칸을 남겼다. 그래서 이 사건의 진짜 미스터리는 ‘요정이 있었나’보다 **왜 검증을 거친 것처럼 보인 사진이 그렇게 오랫동안 설득력을 유지했나**에 가깝다.",
+          "textEn": "The Cottingley photographs did not survive as accepted evidence for supernatural beings. They survived as a case study in how evidence can grow through authority and expectation. Photographs made by two girls became an international controversy through Gardner’s investigation, Conan Doyle’s endorsement, and repeated publication. Even after the staging method was admitted decades later, conflicting recollections about the fifth image left a small narrative gap. The more durable question is therefore less “were fairies there?” than **why photographs that seemed to have survived scrutiny remained persuasive for so long**."
+        },
+        {
+          "blockId": "boundary-11",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 엘시 라이트와 프랜시스 그리피스는 1917년 코팅리에서 첫 사진들을 만들었고, 1920년 무렵 사진들은 에드워드 가드너와 아서 코난 도일을 통해 널리 알려졌다. 도일은 1922년 저서에서 사진을 요정 존재의 증거로 옹호했다. 1980년대 두 여성의 후대 진술과 Bradford District Museums의 연구는 최초 네 장이 종이 오리기와 핀을 이용해 연출됐다는 설명을 뒷받침한다.\n\n**경계:** 프랜시스가 다섯 번째 사진에 대해 다른 주장을 남겼다는 사실은 기록돼 있지만, 그것이 다섯 번째 사진의 초자연적 진위를 확립하지는 않는다. 요정의 객관적 존재는 이 자료들로 입증되지 않는다. 또한 Leeds가 원본을 소장한다고 해서 그 사진들의 상업적 재사용권이 자동으로 생기는 것은 아니다.",
+          "textEn": "**Established:** Elsie Wright and Frances Griffiths made the first Cottingley photographs in 1917, and the images gained wide attention around 1920 through Edward Gardner and Arthur Conan Doyle. Doyle defended them as evidence for fairies in his 1922 book. Later statements by the women and archival research summarized by Bradford District Museums support the explanation that the first four photographs were staged using paper figures and pins.\n\n**Boundary:** Frances’s later claim that the fifth image was different is historically recorded, but it does not establish the fifth photograph as supernatural evidence. The objective existence of fairies is not demonstrated by these sources. And the preservation of original photographs by the University of Leeds does not itself grant commercial reuse rights."
+        }
+      ],
+      "factBoundary": {
+        "established": "The 1917 photographs, their later publication, Doyle's advocacy, and 1980s admissions that the first four were staged are documented.",
+        "notEstablished": "The fifth photograph's supernatural authenticity and the objective existence of fairies are not established."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "family-02",
+        "gardner-03",
+        "doyle-04",
+        "more-05",
+        "admission-06",
+        "fifth-07",
+        "rights-08",
+        "why-believed-09",
+        "legacy-10"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "COTT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "엘시 라이트와 프랜시스 그리피스는 1917년 코팅리에서 첫 요정 사진들을 촬영했다.",
+      "statementEn": "Elsie Wright and Frances Griffiths made the first Cottingley fairy photographs in 1917.",
+      "sourceRefs": [
+        "BRADFORD_COTT",
+        "DOYLE1922"
+      ]
+    },
+    {
+      "claimId": "COTT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "사진들은 1920년 무렵 Gardner와 Conan Doyle을 통해 널리 공개됐고 Doyle은 1922년 이를 옹호했다.",
+      "statementEn": "The photographs were widely publicized around 1920 through Gardner and Conan Doyle, who defended them in a 1922 book.",
+      "sourceRefs": [
+        "DOYLE1922",
+        "BRADFORD_COTT"
+      ]
+    },
+    {
+      "claimId": "COTT-C3",
+      "status": "SUPPORTED",
+      "statementKo": "1980년대 후대 진술은 최초 네 장이 종이 오리기와 핀을 사용해 연출됐다는 설명을 뒷받침한다.",
+      "statementEn": "Later admissions in the 1980s support the explanation that the first four images were staged with paper cut-outs and pins.",
+      "sourceRefs": [
+        "BRADFORD_COTT"
+      ]
+    },
+    {
+      "claimId": "COTT-C4",
+      "status": "DISPUTED",
+      "statementKo": "프랜시스는 다섯 번째 사진이 나머지와 달리 진짜였다는 취지의 후대 주장을 남겼다.",
+      "statementEn": "Frances later maintained that the fifth photograph was different and genuine.",
+      "sourceRefs": [
+        "BRADFORD_COTT"
+      ]
+    },
+    {
+      "claimId": "COTT-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "다섯 번째 사진이 실제 요정을 기록했다는 주장은 확립되지 않았다.",
+      "statementEn": "The claim that the fifth photograph depicts a real fairy is not established.",
+      "sourceRefs": [
+        "BRADFORD_COTT"
+      ]
+    },
+    {
+      "claimId": "COTT-C6",
+      "status": "REFUTED",
+      "statementKo": "최초 네 장이 독립적인 실제 요정 생물을 촬영했다는 주장은 후대 제작 고백과 양립하지 않는다.",
+      "statementEn": "The claim that the first four images independently photographed real fairy beings is incompatible with the later staging admissions.",
+      "sourceRefs": [
+        "BRADFORD_COTT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "DOYLE1922",
+      "title": "The Coming of the Fairies",
+      "publisher": "Arthur Conan Doyle (1922) / Project Gutenberg",
+      "url": "https://www.gutenberg.org/files/47506/47506-h/47506-h.htm",
+      "sourceType": "PRIMARY_ADVOCATE_ACCOUNT",
+      "scope": "contemporary advocate reasoning, Gardner/Doyle publication path, not proof of fairies"
+    },
+    {
+      "sourceId": "BRADFORD_COTT",
+      "title": "Cottingley Fairies",
+      "publisher": "Bradford District Museums & Galleries",
+      "url": "https://bradfordmuseums.org/cottingley-fairies/",
+      "sourceType": "MUSEUM_CURATORIAL_RESEARCH",
+      "scope": "1917/1920 chronology, 1980s staging admissions, fifth-photo disagreement"
+    },
+    {
+      "sourceId": "LEEDS_COTT",
+      "title": "Cottingley Fairies collection record",
+      "publisher": "University of Leeds Special Collections",
+      "url": "https://explore.library.leeds.ac.uk/special-collections-explore/417918",
+      "sourceType": "PRIMARY_COLLECTION_INVENTORY_AND_RIGHTS",
+      "scope": "collection custody and lack of blanket reproduction permission"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cottingley-fairies-first-four-vs-fifth",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "첫 네 장의 조작고백과 다섯 번째 사진의 미확정 상태를 분리한 카드.",
+      "captionEn": "Evidence card separating the admitted staging of the first four photographs from the unresolved fifth claim.",
+      "altKo": "첫 네 장과 다섯 번째 사진의 후대 진술상태를 두 열로 비교.",
+      "altEn": "Two-column comparison of later testimony on the first four photographs and the fifth.",
+      "sourceRefs": [
+        "BRADFORD_COTT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cottingley-fairies__first-four-vs-fifth__ko.png",
+          "sha256": "783d6cd2350c8011c88083b4917bb1a990cf69004b08d392151dd8faf092eda2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cottingley-fairies__first-four-vs-fifth__en.png",
+          "sha256": "9e414fe3f8fd99e3c45fc5d063ae3181140fc528d0213ba0e0944220a61e3dbb",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cottingley-fairies-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "코팅리 사진의 촬영·옹호·고백·남은경계를 한눈에 정리한 hero 도표.",
+      "captionEn": "Hero explainer of the Cottingley photographs, advocacy, admissions, and remaining boundary.",
+      "altKo": "1917 촬영부터 1980년대 고백과 다섯 번째 사진 경계까지 네 단계.",
+      "altEn": "Four stages from the 1917 photographs to the 1980s admissions and fifth-photo boundary.",
+      "sourceRefs": [
+        "DOYLE1922",
+        "BRADFORD_COTT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cottingley-fairies__hero-context__ko.png",
+          "sha256": "f48bc311a80fd77b64588d1f8278ad30531dccaadaa4b437f2edae3c575f8fdc",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cottingley-fairies__hero-context__en.png",
+          "sha256": "cb6a62b4a74e2ccf6d72397cb38fd18d15286beb19bf97641728a9898b7a835f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cottingley-fairies-staging-mechanism",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "종이오리기와 핀으로 암실합성 없이 장면을 연출하는 구조를 설명한 도표.",
+      "captionEn": "Diagram explaining how paper cut-outs and pins could stage the scene without darkroom compositing.",
+      "altKo": "그림 참고, 종이 오리기, 핀 고정, 정상촬영의 네 단계.",
+      "altEn": "Four-step diagram: reference drawing, cut-out, pinning, normal exposure.",
+      "sourceRefs": [
+        "BRADFORD_COTT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cottingley-fairies__staging-mechanism__ko.png",
+          "sha256": "ba76171bf05be52dc5f8ec6946dc4ad304727c312d85e2777ce764ca6311bf19",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cottingley-fairies__staging-mechanism__en.png",
+          "sha256": "e12b740fef70e09341aba6d5a6197248073000511381b4a9783df39a1602eb6e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cottingley-fairies-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "코팅리 사건의 1917~1980년대 핵심연표.",
+      "captionEn": "Timeline of the key Cottingley events from 1917 to the 1980s.",
+      "altKo": "1917 첫사진, 1920 공개확대, 1922 Doyle 저서, 1980년대 고백.",
+      "altEn": "Timeline marking the first photos, wider publicity, Doyle’s book, and later admissions.",
+      "sourceRefs": [
+        "DOYLE1922",
+        "BRADFORD_COTT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cottingley-fairies__timeline__ko.png",
+          "sha256": "745a57d69f60eb80e174a6121fa90f69a57615fc3c31f2db09e52b1e39e02016",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cottingley-fairies__timeline__en.png",
+          "sha256": "3cda273058895a65fb2d134e142c71ae47722a56c49a946204847c08edb9194f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "West Yorkshire"
+    ],
+    "places": [
+      {
+        "name": "Cottingley",
+        "role": "photograph location"
+      },
+      {
+        "name": "Cottingley Beck",
+        "role": "scene associated with early photographs"
+      }
+    ],
+    "people": [
+      {
+        "name": "Elsie Wright",
+        "role": "photographer/participant"
+      },
+      {
+        "name": "Frances Griffiths",
+        "role": "participant/photographer"
+      },
+      {
+        "name": "Edward Gardner",
+        "role": "Theosophical investigator/advocate"
+      },
+      {
+        "name": "Arthur Conan Doyle",
+        "role": "public advocate and author"
+      }
+    ],
+    "organizations": [
+      "Theosophical Society",
+      "Bradford District Museums & Galleries",
+      "University of Leeds Special Collections"
+    ],
+    "dateRange": {
+      "start": "1917",
+      "end": "1980s",
+      "precision": "first photographs through later admissions"
+    },
+    "era": "early 20th century / later reassessment",
+    "resolution": "FIRST_FOUR_STAGED_FIFTH_CLAIM_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Cottingley Fairies",
+      "fairy photographs",
+      "Elsie Wright",
+      "Frances Griffiths"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3288,
+    "enBodyWords": 1002,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH03",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH03_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

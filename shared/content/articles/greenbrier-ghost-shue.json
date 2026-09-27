@@ -1,0 +1,429 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "greenbrier-ghost-shue",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "그린브라이어 유령 증언과 살인 재판",
+    "canonicalTitleEn": "Greenbrier Ghost and Shue Murder",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "LEGEND_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "유령이 살인범을 법정에 세웠다는 이야기는 어디까지 사실일까",
+      "hook": "어머니가 딸의 유령을 봤다고 주장한 것은 실제 기록돼 있다. 하지만 살인사건을 바꾼 물리적 증거는 재부검의 목 손상이었다. 전설과 법정증거를 분리하면 이야기가 더 선명해진다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1897년 1월, Zona Shue가 집에서 죽은 채 발견됐다",
+          "headingEn": "January 1897: Zona Shue Was Found Dead at Home",
+          "textKo": "1897년 West Virginia Greenbrier County에서 Elva Zona Heaster Shue가 집에서 사망한 채 발견됐다. 초기에는 자연사 가능성이 거론됐지만 가족, 특히 어머니 Mary Jane Heaster는 딸의 죽음에 의문을 품었다. 이후 재부검에서 목과 기도 부위의 심각한 손상이 기록되면서 사건은 살인수사로 바뀌었다. **실제 형사사건의 핵심 증거는 시신의 의학적 손상과 정황이었다.**",
+          "textEn": "In January 1897, Elva Zona Heaster Shue was found dead at home in Greenbrier County, West Virginia. Natural causes were initially considered, but her mother Mary Jane Heaster became suspicious. A later autopsy documented severe injuries to the neck and airway, transforming the case into a murder investigation. The core criminal evidence came from physical injury and surrounding circumstances."
+        },
+        {
+          "blockId": "ghost-02",
+          "type": "BACKGROUND",
+          "headingKo": "어머니는 딸의 ‘유령’이 찾아왔다고 말했다",
+          "headingEn": "Her Mother Said Zona's Ghost Came to Her",
+          "textKo": "Greenbrier Ghost 전설의 중심에는 Mary Jane Heaster의 후대 진술이 있다. 그녀는 딸의 영혼이 여러 차례 나타나 남편 Edward Shue가 목을 부러뜨려 죽였다는 취지의 정보를 줬다고 말했다. West Virginia Encyclopedia와 동시대 신문전사는 이런 주장이 실제 사건서사에 존재했음을 보여준다. 그러나 **유령이 실제 방문했다는 사실과 어머니가 그런 경험을 진술했다는 역사적 사실은 구분해야 한다.**",
+          "textEn": "The Greenbrier Ghost legend centres on Mary Jane Heaster’s later statement that her daughter’s spirit appeared repeatedly and told her that husband Edward Shue had killed Zona by breaking her neck. The West Virginia Encyclopedia and contemporary newspaper transcripts show that this claim became part of the historical narrative. The existence of the statement is not proof that a ghost objectively appeared."
+        },
+        {
+          "blockId": "autopsy-03",
+          "type": "TURNING_POINT",
+          "headingKo": "사건을 바꾼 것은 재부검이었다",
+          "headingEn": "The Autopsy Changed the Case",
+          "textKo": "어머니의 강한 의심과 지역당국의 관심 속에서 시신이 다시 조사됐다. Work가 잠근 동시대 보도는 목·기도 손상이 확인됐고 사건이 살인으로 전환됐음을 보여준다. 이 지점에서 유령전설과 법적증거를 분리해야 한다. **재판으로 이어진 검증가능한 증거는 시신 손상, 남편의 행동, 증언과 정황이지 ‘영혼이 법정에서 말한 것’이 아니다.**",
+          "textEn": "Amid the mother’s persistent suspicions and official attention, the body was re-examined. Contemporary reports locked by Work describe serious neck and airway injuries and the shift to a murder case. This is where folklore and legal evidence must be separated: the verifiable evidence came from the body, behaviour, testimony, and circumstances—not a ghost taking the witness stand."
+        },
+        {
+          "blockId": "trial-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Mary의 유령 이야기는 재판에서 언급됐지만 독립 증인이 아니었다",
+          "headingEn": "The Ghost Story Entered the Trial, but the Ghost Was Not a Witness",
+          "textKo": "동시대 신문전사에는 Mary Heaster가 자신의 환영·유령경험에 관해 증언한 사실이 기록돼 있다. 이 때문에 후대에는 ‘미국에서 유령의 증언으로 살인범이 유죄가 된 유일한 사건’ 같은 문구가 퍼졌다. 하지만 Work의 fact boundary는 이를 REFUTED로 둔다. **법정에 선 사람은 Mary였고, 유령은 독립된 증인으로 소환·증언한 것이 아니다.** 그녀의 이야기는 배심원이 들은 여러 자료 중 하나의 인간 증언이었다.",
+          "textEn": "Contemporary newspaper transcripts record Mary Heaster testifying about her visions or ghost experiences. Later retellings transformed this into claims such as “the only U.S. murder conviction based on ghost testimony.” Work explicitly rejects that formulation. Mary was the witness in court; a ghost was not independently called, sworn, or examined. Her story entered the proceeding as human testimony alongside other evidence."
+        },
+        {
+          "blockId": "conviction-05",
+          "type": "CHRONOLOGY",
+          "headingKo": "Edward Shue는 1급 살인으로 유죄가 됐다",
+          "headingEn": "Edward Shue Was Convicted of First-Degree Murder",
+          "textKo": "1897년 7월 Edward Shue는 1급 살인으로 유죄판결을 받았다. 다만 Work는 평결의 정확한 달력일을 출처 간 차이 때문에 확정하지 않고 7월로만 기록한다. 동시대 보도와 West Virginia 기관자료는 유죄판결 자체를 확인한다. **이 날짜경계는 작은 문제처럼 보이지만, source-bound 기사에서는 ‘확실한 월’과 ‘논쟁적인 하루’를 구분하는 것이 중요하다.**",
+          "textEn": "Edward Shue was convicted of first-degree murder in July 1897. Work deliberately records the month rather than one exact calendar day because contemporary and later sources differ over the verdict date. The conviction itself is secure. This illustrates a broader source rule: a verified month should not be converted into a precise day when the evidence disagrees."
+        },
+        {
+          "blockId": "folklore-06",
+          "type": "AFTERMATH",
+          "headingKo": "법적 사건이 유령전설로 기억된 이유",
+          "headingEn": "How a Murder Case Became a Ghost Legend",
+          "textKo": "실제 살인수사와 재판만으로도 사건은 충분히 극적이지만, 어머니의 유령진술이 결합되며 Greenbrier Ghost는 지역민속의 대표사건이 됐다. 전설은 ‘유령이 범인을 밝혀 법원이 인정했다’는 구조로 단순화되기 쉽다. 그러나 기록을 분리해 보면 더 복잡하다. **어머니의 믿음이 수사재검토를 밀어붙이는 데 영향을 줬을 수 있지만, 유죄의 법적 기반과 초자연 원인의 실재는 같은 질문이 아니다.**",
+          "textEn": "The murder investigation was dramatic enough on its own, but Mary’s ghost account transformed the case into a major piece of regional folklore. The legend is often simplified into “a ghost named the killer and the court believed it.” The records are more complex. A mother’s conviction may have helped drive renewed scrutiny, while the legal basis for conviction and the objective reality of a supernatural visitation remain separate questions."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Zona Heaster Shue는 1897년 사망했고 재부검에서 목·기도의 심각한 손상이 기록됐다. 남편 Edward Shue는 같은 해 7월 1급 살인으로 유죄판결을 받았다. Mary Heaster가 유령·환영 경험을 주장하고 그 내용을 법정에서 말한 사실도 동시대 보도에 남아 있다.\n\n**확인되지 않음:** 실제 망자의 영혼이 돌아와 정보를 전달했다는 것은 입증되지 않는다. 유령이 독립 법정증인으로 증언했다는 서술은 부정확하다. 평결의 정확한 일자는 출처가 충돌해 이번 메타데이터에서는 월만 확정한다.",
+          "textEn": "**Established:** Zona Heaster Shue died in 1897, and the later autopsy documented serious neck and airway injuries. Her husband Edward Shue was convicted of first-degree murder in July. Contemporary reporting also records Mary Heaster claiming ghostly visions and describing them in court.\n\n**Not established:** No objective evidence establishes that Zona’s spirit returned and communicated information. It is inaccurate to say a ghost independently testified as a legal witness. The exact calendar day of the verdict remains disputed across the locked sources, so only the month is fixed here."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Zona Heaster Shue는 1897년 사망했고 재부검에서 목·기도의 심각한 손상이 기록됐다. 남편 Edward Shue는 같은 해 7월 1급 살인으로 유죄판결을 받았다. Mary Heaster가 유령·환영 경험을 주장하고 그 내용을 법정에서 말한 사실도 동시대 보도에 남아 있다.\n\n**확인되지 않음:** 실제 망자의 영혼이 돌아와 정보를 전달했다는 것은 입증되지 않는다. 유령이 독립 법정증인으로 증언했다는 서술은 부정확하다. 평결의 정확한 일자는 출처가 충돌해 이번 메타데이터에서는 월만 확정한다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ghost-02",
+        "autopsy-03",
+        "trial-04",
+        "conviction-05",
+        "folklore-06"
+      ]
+    },
+    "en": {
+      "headline": "Did a Ghost Really Put a Murderer on Trial?",
+      "hook": "A mother really did claim that her daughter's ghost revealed the killer. But the physical evidence that transformed the case came from the autopsy. Separating folklore from legal proof makes the story clearer.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1897년 1월, Zona Shue가 집에서 죽은 채 발견됐다",
+          "headingEn": "January 1897: Zona Shue Was Found Dead at Home",
+          "textKo": "1897년 West Virginia Greenbrier County에서 Elva Zona Heaster Shue가 집에서 사망한 채 발견됐다. 초기에는 자연사 가능성이 거론됐지만 가족, 특히 어머니 Mary Jane Heaster는 딸의 죽음에 의문을 품었다. 이후 재부검에서 목과 기도 부위의 심각한 손상이 기록되면서 사건은 살인수사로 바뀌었다. **실제 형사사건의 핵심 증거는 시신의 의학적 손상과 정황이었다.**",
+          "textEn": "In January 1897, Elva Zona Heaster Shue was found dead at home in Greenbrier County, West Virginia. Natural causes were initially considered, but her mother Mary Jane Heaster became suspicious. A later autopsy documented severe injuries to the neck and airway, transforming the case into a murder investigation. The core criminal evidence came from physical injury and surrounding circumstances."
+        },
+        {
+          "blockId": "ghost-02",
+          "type": "BACKGROUND",
+          "headingKo": "어머니는 딸의 ‘유령’이 찾아왔다고 말했다",
+          "headingEn": "Her Mother Said Zona's Ghost Came to Her",
+          "textKo": "Greenbrier Ghost 전설의 중심에는 Mary Jane Heaster의 후대 진술이 있다. 그녀는 딸의 영혼이 여러 차례 나타나 남편 Edward Shue가 목을 부러뜨려 죽였다는 취지의 정보를 줬다고 말했다. West Virginia Encyclopedia와 동시대 신문전사는 이런 주장이 실제 사건서사에 존재했음을 보여준다. 그러나 **유령이 실제 방문했다는 사실과 어머니가 그런 경험을 진술했다는 역사적 사실은 구분해야 한다.**",
+          "textEn": "The Greenbrier Ghost legend centres on Mary Jane Heaster’s later statement that her daughter’s spirit appeared repeatedly and told her that husband Edward Shue had killed Zona by breaking her neck. The West Virginia Encyclopedia and contemporary newspaper transcripts show that this claim became part of the historical narrative. The existence of the statement is not proof that a ghost objectively appeared."
+        },
+        {
+          "blockId": "autopsy-03",
+          "type": "TURNING_POINT",
+          "headingKo": "사건을 바꾼 것은 재부검이었다",
+          "headingEn": "The Autopsy Changed the Case",
+          "textKo": "어머니의 강한 의심과 지역당국의 관심 속에서 시신이 다시 조사됐다. Work가 잠근 동시대 보도는 목·기도 손상이 확인됐고 사건이 살인으로 전환됐음을 보여준다. 이 지점에서 유령전설과 법적증거를 분리해야 한다. **재판으로 이어진 검증가능한 증거는 시신 손상, 남편의 행동, 증언과 정황이지 ‘영혼이 법정에서 말한 것’이 아니다.**",
+          "textEn": "Amid the mother’s persistent suspicions and official attention, the body was re-examined. Contemporary reports locked by Work describe serious neck and airway injuries and the shift to a murder case. This is where folklore and legal evidence must be separated: the verifiable evidence came from the body, behaviour, testimony, and circumstances—not a ghost taking the witness stand."
+        },
+        {
+          "blockId": "trial-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Mary의 유령 이야기는 재판에서 언급됐지만 독립 증인이 아니었다",
+          "headingEn": "The Ghost Story Entered the Trial, but the Ghost Was Not a Witness",
+          "textKo": "동시대 신문전사에는 Mary Heaster가 자신의 환영·유령경험에 관해 증언한 사실이 기록돼 있다. 이 때문에 후대에는 ‘미국에서 유령의 증언으로 살인범이 유죄가 된 유일한 사건’ 같은 문구가 퍼졌다. 하지만 Work의 fact boundary는 이를 REFUTED로 둔다. **법정에 선 사람은 Mary였고, 유령은 독립된 증인으로 소환·증언한 것이 아니다.** 그녀의 이야기는 배심원이 들은 여러 자료 중 하나의 인간 증언이었다.",
+          "textEn": "Contemporary newspaper transcripts record Mary Heaster testifying about her visions or ghost experiences. Later retellings transformed this into claims such as “the only U.S. murder conviction based on ghost testimony.” Work explicitly rejects that formulation. Mary was the witness in court; a ghost was not independently called, sworn, or examined. Her story entered the proceeding as human testimony alongside other evidence."
+        },
+        {
+          "blockId": "conviction-05",
+          "type": "CHRONOLOGY",
+          "headingKo": "Edward Shue는 1급 살인으로 유죄가 됐다",
+          "headingEn": "Edward Shue Was Convicted of First-Degree Murder",
+          "textKo": "1897년 7월 Edward Shue는 1급 살인으로 유죄판결을 받았다. 다만 Work는 평결의 정확한 달력일을 출처 간 차이 때문에 확정하지 않고 7월로만 기록한다. 동시대 보도와 West Virginia 기관자료는 유죄판결 자체를 확인한다. **이 날짜경계는 작은 문제처럼 보이지만, source-bound 기사에서는 ‘확실한 월’과 ‘논쟁적인 하루’를 구분하는 것이 중요하다.**",
+          "textEn": "Edward Shue was convicted of first-degree murder in July 1897. Work deliberately records the month rather than one exact calendar day because contemporary and later sources differ over the verdict date. The conviction itself is secure. This illustrates a broader source rule: a verified month should not be converted into a precise day when the evidence disagrees."
+        },
+        {
+          "blockId": "folklore-06",
+          "type": "AFTERMATH",
+          "headingKo": "법적 사건이 유령전설로 기억된 이유",
+          "headingEn": "How a Murder Case Became a Ghost Legend",
+          "textKo": "실제 살인수사와 재판만으로도 사건은 충분히 극적이지만, 어머니의 유령진술이 결합되며 Greenbrier Ghost는 지역민속의 대표사건이 됐다. 전설은 ‘유령이 범인을 밝혀 법원이 인정했다’는 구조로 단순화되기 쉽다. 그러나 기록을 분리해 보면 더 복잡하다. **어머니의 믿음이 수사재검토를 밀어붙이는 데 영향을 줬을 수 있지만, 유죄의 법적 기반과 초자연 원인의 실재는 같은 질문이 아니다.**",
+          "textEn": "The murder investigation was dramatic enough on its own, but Mary’s ghost account transformed the case into a major piece of regional folklore. The legend is often simplified into “a ghost named the killer and the court believed it.” The records are more complex. A mother’s conviction may have helped drive renewed scrutiny, while the legal basis for conviction and the objective reality of a supernatural visitation remain separate questions."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Zona Heaster Shue는 1897년 사망했고 재부검에서 목·기도의 심각한 손상이 기록됐다. 남편 Edward Shue는 같은 해 7월 1급 살인으로 유죄판결을 받았다. Mary Heaster가 유령·환영 경험을 주장하고 그 내용을 법정에서 말한 사실도 동시대 보도에 남아 있다.\n\n**확인되지 않음:** 실제 망자의 영혼이 돌아와 정보를 전달했다는 것은 입증되지 않는다. 유령이 독립 법정증인으로 증언했다는 서술은 부정확하다. 평결의 정확한 일자는 출처가 충돌해 이번 메타데이터에서는 월만 확정한다.",
+          "textEn": "**Established:** Zona Heaster Shue died in 1897, and the later autopsy documented serious neck and airway injuries. Her husband Edward Shue was convicted of first-degree murder in July. Contemporary reporting also records Mary Heaster claiming ghostly visions and describing them in court.\n\n**Not established:** No objective evidence establishes that Zona’s spirit returned and communicated information. It is inaccurate to say a ghost independently testified as a legal witness. The exact calendar day of the verdict remains disputed across the locked sources, so only the month is fixed here."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Zona Heaster Shue died in 1897, and the later autopsy documented serious neck and airway injuries. Her husband Edward Shue was convicted of first-degree murder in July. Contemporary reporting also records Mary Heaster claiming ghostly visions and describing them in court.\n\n**Not established:** No objective evidence establishes that Zona’s spirit returned and communicated information. It is inaccurate to say a ghost independently testified as a legal witness. The exact calendar day of the verdict remains disputed across the locked sources, so only the month is fixed here.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ghost-02",
+        "autopsy-03",
+        "trial-04",
+        "conviction-05",
+        "folklore-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GB-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1897년 Zona Shue 사망 뒤 재부검에서 심각한 목·기도 손상이 기록됐다.",
+      "statementEn": "A postmortem examination after Zona Shue's 1897 death documented severe neck and airway injuries.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ]
+    },
+    {
+      "claimId": "GB-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Edward Shue는 1897년 7월 1급 살인으로 유죄판결을 받았다.",
+      "statementEn": "Edward Shue was convicted of first-degree murder in July 1897.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ]
+    },
+    {
+      "claimId": "GB-C3",
+      "status": "CONFIRMED",
+      "statementKo": "Mary Heaster가 유령·환영 경험을 주장하고 이를 법정에서 진술한 기록이 있다.",
+      "statementEn": "Mary Heaster's claims of ghostly visions and her court testimony about them are historically recorded.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ]
+    },
+    {
+      "claimId": "GB-C4",
+      "status": "REFUTED",
+      "statementKo": "유령이 법정에 독립 증인으로 증언했다는 서술은 부정확하다.",
+      "statementEn": "It is inaccurate to say that a ghost independently testified as a court witness.",
+      "sourceRefs": [
+        "GB_PRIMARY"
+      ]
+    },
+    {
+      "claimId": "GB-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "실제 망자의 영혼이 정보를 전달했다는 초자연적 원인은 입증되지 않는다.",
+      "statementEn": "A supernatural return of the dead communicating information is not established.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GB_PRIMARY",
+      "title": "Greenbrier Independent / Monroe Watchman Shue articles",
+      "publisher": "West Virginia Archives & History",
+      "url": "https://archive.wvculture.org/history/crime/shuearticles.html",
+      "sourceType": "PRIMARY_1897_NEWS_TRANSCRIPTS"
+    },
+    {
+      "sourceId": "GB_WVENC",
+      "title": "Greenbrier Ghost",
+      "publisher": "West Virginia Encyclopedia / Humanities Council",
+      "url": "https://www.wvencyclopedia.org/entries/2107",
+      "sourceType": "INDEPENDENT_INSTITUTIONAL_FOLKLORE_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "greenbrier-ghost-shue-ghost-vs-legal",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Greenbrier 사건의 재부검·법정증언·유죄와 초자연 주장 경계를 비교한 카드.",
+      "captionEn": "Evidence card separating legal evidence from supernatural claims in the Greenbrier Ghost case.",
+      "altKo": "왼쪽 법적 확인사실, 오른쪽 입증되지 않은 유령주장.",
+      "altEn": "Two-column comparison of legal facts and unestablished supernatural claims.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "greenbrier-ghost-shue__ghost-vs-legal__ko.png",
+          "sha256": "2c1fe3046f4d37c19ad06204aedf8abddf6b5f7a18e7cc6bd40f4fccef9142a6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "greenbrier-ghost-shue__ghost-vs-legal__en.png",
+          "sha256": "bed8596c08da692cd8a8ec339ae2215c24462261722a7e31684734e14404a1f8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "greenbrier-ghost-shue-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Greenbrier Ghost 사건의 사망·유령주장·재부검·유죄판결을 분리한 hero 도표.",
+      "captionEn": "Hero explainer separating death, ghost claim, autopsy evidence, and conviction in the Greenbrier Ghost case.",
+      "altKo": "1897 사망부터 유죄판결까지 네 단계.",
+      "altEn": "Four stages from the 1897 death to conviction.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "greenbrier-ghost-shue__hero-context__ko.png",
+          "sha256": "8484a8a7986299258e3a51444f77bb887ed4c23d5fa7b396b1674516edd0cd8d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "greenbrier-ghost-shue__hero-context__en.png",
+          "sha256": "2cc98ddbb9f215c6729dfb6550fb6dd9e480305b8a96d0d1a06e6eaf056c061f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "greenbrier-ghost-shue-timeline",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Greenbrier 사건의 사망·유령주장·재부검·1897년7월 유죄판결을 정리한 연표.",
+      "captionEn": "Timeline of the Greenbrier death, ghost claim, autopsy/prosecution, and July 1897 conviction.",
+      "altKo": "정확한 유죄 날짜 대신 월 단위로 표시한 네 단계 연표.",
+      "altEn": "Four-stage timeline using month precision for the verdict.",
+      "sourceRefs": [
+        "GB_PRIMARY",
+        "GB_WVENC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "greenbrier-ghost-shue__timeline__ko.png",
+          "sha256": "919c280e766cd2438a5775f3dcb9375972727f95058fc3aad991f45931689d36",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "greenbrier-ghost-shue__timeline__en.png",
+          "sha256": "06c84e90d33337c7388393cfb7972d3b750dadb6435fd2bbf339f9c9d9d705de",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "secondaryGenres": [
+      "Unsolved Crime / Disappearance",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Greenbrier County, West Virginia"
+    ],
+    "places": [
+      {
+        "name": "Greenbrier County",
+        "role": "death/trial region"
+      },
+      {
+        "name": "Lewisburg courthouse",
+        "role": "trial"
+      }
+    ],
+    "people": [
+      {
+        "name": "Elva Zona Heaster Shue",
+        "role": "victim"
+      },
+      {
+        "name": "Edward S. Shue",
+        "role": "convicted husband"
+      },
+      {
+        "name": "Mary Jane Heaster",
+        "role": "mother and witness"
+      }
+    ],
+    "organizations": [
+      "Greenbrier County Circuit Court",
+      "West Virginia Archives & History",
+      "West Virginia Humanities Council"
+    ],
+    "dateRange": {
+      "start": "1897-01-22",
+      "end": "1897-07",
+      "precision": "death through conviction; verdict day disputed"
+    },
+    "era": "19th century",
+    "resolution": "MURDER_CONVICTION_ESTABLISHED_GHOST_CLAIM_UNVERIFIED",
+    "searchAliases": [
+      "Greenbrier Ghost",
+      "Zona Shue",
+      "Edward Shue"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1645,
+    "enBodyWords": 456,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH06",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH06_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

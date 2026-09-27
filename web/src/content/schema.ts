@@ -39,6 +39,7 @@ export interface CaseImage {
   id?: string;
   role: ImageRole;
   path?: string;
+  localizedPaths?: Record<Locale, string>;
   type: "EDITORIAL_RECONSTRUCTION" | "HISTORICAL_MATERIAL" | "CONTEXT" | "PLACEHOLDER";
   alt: Localized;
   caption: Localized;
@@ -99,6 +100,9 @@ export interface CaseRecord {
   id?: string;
   slug: string;
   title: string;
+  displayTitle?: Localized;
+  readMinutesByLocale?: Record<Locale, number>;
+  resolutionGroup?: "resolved" | "unresolved" | "unknown";
   subtitle: Localized;
   preview: Localized;
   status: Localized;

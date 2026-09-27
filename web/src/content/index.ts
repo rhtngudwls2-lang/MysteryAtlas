@@ -1,6 +1,7 @@
 import { legacyCases, legacyCategories } from "./legacy";
 import { cooperClaims, researchedCases } from "./researched";
 import type { CaseRecord, CollectionRecord, Locale, Localized } from "./schema";
+import { productizedCaseCard, productizedItems } from "./productized";
 
 const L = (en: string, ko: string): Localized => ({ en, ko });
 
@@ -80,8 +81,14 @@ function removeDuplicateHeroReuse(records: CaseRecord[]): CaseRecord[] {
   }));
 }
 
-export const cases: CaseRecord[] = removeDuplicateHeroReuse([...upgradedLegacy, ...researchedCases]).map(materializeCase);
-export const categories = legacyCategories;
+const preservedV3Cases = removeDuplicateHeroReuse([...upgradedLegacy, ...researchedCases]).map(materializeCase);
+export const cases: CaseRecord[] = [...productizedItems.map(productizedCaseCard), ...preservedV3Cases];
+export const categories = [
+  ...legacyCategories,
+  ...[...new Set(productizedItems.map((item) => item.genre))]
+    .filter((name) => !legacyCategories.some((item) => item.id === name))
+    .map((name) => ({ id: name, name: L(name, name) })),
+];
 
 export const collections: CollectionRecord[] = [
   {

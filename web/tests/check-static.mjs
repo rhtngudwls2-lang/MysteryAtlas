@@ -2,6 +2,7 @@ import { access, readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 const output = join(process.cwd(), "out");
+const basePath = process.env.NEXT_PUBLIC_MYSTERY_ATLAS_BASE_PATH ?? "";
 
 async function filesBelow(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
@@ -19,7 +20,12 @@ for (const file of htmlFiles) {
   const links = [...html.matchAll(/href="([^"#?]+)[^"#]*"/g)].map((match) => match[1]);
   for (const href of links) {
     if (!href.startsWith("/") || href.startsWith("//") || href.startsWith("/_next/")) continue;
-    const relative = href === "/" ? "index.html" : href.endsWith("/") ? `${href.slice(1)}index.html` : href.slice(1);
+    const localHref = basePath && href.startsWith(`${basePath}/`) ? href.slice(basePath.length) : href;
+    if (basePath && !href.startsWith(`${basePath}/`) && href !== basePath) {
+      failures.push(`${file}: missing preview prefix ${href}`);
+      continue;
+    }
+    const relative = localHref === "/" ? "index.html" : localHref.endsWith("/") ? `${localHref.slice(1)}index.html` : localHref.slice(1);
     try {
       await access(join(output, relative));
     } catch {

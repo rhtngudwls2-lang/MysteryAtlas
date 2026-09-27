@@ -1,0 +1,514 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "dark-matter-direct-detection",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "암흑물질 직접검출의 미스터리",
+    "canonicalTitleEn": "Dark Matter Direct Detection",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "우주는 암흑물질을 요구하는데, 왜 우리는 아직 한 입자도 잡지 못했나",
+      "hook": "우주론은 보이지 않는 질량을 강하게 요구하지만, 지하 검출기에서 특정 입자를 직접 확인하는 일은 별개다. 2026년 LZ의 이상사건 하나가 그 차이를 선명하게 보여준다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "암흑물질은 ‘필요’한데 한 입자도 잡지 못했다",
+          "headingEn": "Dark Matter Is Needed by the Cosmos—Yet No Particle Has Been Caught",
+          "textKo": "은하의 회전, 중력렌즈, 우주배경복사와 대규모 구조는 보이는 물질만으로 설명하기 어려운 추가 질량성분을 요구한다. 이를 암흑물질이라 부른다. 그러나 ‘우주에 보이지 않는 질량이 필요하다’와 ‘그 질량을 이루는 입자를 실험실에서 직접 잡았다’는 완전히 다른 단계다. 2026년 현재도 후자의 문은 열려 있다. **천체물리학적 필요성과 직접검출은 같은 증거가 아니다.**",
+          "textEn": "Galaxy rotation, gravitational lensing, the cosmic microwave background, and large-scale structure all point to additional unseen mass beyond ordinary visible matter. We call that component dark matter. But “the universe requires unseen mass” and “we have directly detected the particle making it up” are very different statements. As of 2026, the second claim remains open. Astrophysical necessity and direct particle detection are not the same evidence."
+        },
+        {
+          "blockId": "detector-02",
+          "type": "BACKGROUND",
+          "headingKo": "LZ는 무엇을 기다리는가",
+          "headingEn": "What LZ Is Waiting For",
+          "textKo": "LUX-ZEPLIN(LZ)은 지하 깊은 곳에서 액체 크세논을 이용해 암흑물질 후보와 원자핵의 극히 드문 상호작용을 찾는 실험이다. 핵심은 ‘아무 사건도 없는 것’이 정상에 가까운 환경을 만드는 데 있다. 우주선·방사성 불순물·중성자 등 알려진 배경사건을 줄이고, 남은 신호가 배경모델로 설명되는지 시험한다. **암흑물질 후보가 희귀할수록 한 사건의 중요성은 커지지만, 동시에 한 사건만으로 발견을 선언하기도 어려워진다.**",
+          "textEn": "LUX-ZEPLIN (LZ) uses liquid xenon deep underground to search for extremely rare interactions between candidate dark-matter particles and atomic nuclei. The experiment is designed so that “almost nothing happens”: cosmic rays, radioactive contaminants, neutrons, and other known backgrounds are suppressed and modelled. The rarer the expected signal, the more interesting one unusual event can become—but the harder it is to declare discovery from a single event."
+        },
+        {
+          "blockId": "2025-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2025년 결과: 발견이 아니라 더 좁아진 가능성",
+          "headingEn": "2025: Stronger Limits, Not a Discovery",
+          "textKo": "LZ의 2025년 발표와 PRL 결과는 수 tonne-year 규모의 노출에서 WIMP 탐색범위를 더 좁혔다. 이 단계에서 실험은 통계적 발견기준을 통과한 암흑물질 신호를 보고하지 않았다. 이런 ‘미검출’은 실패가 아니다. 특정 질량·상호작용 세기의 WIMP가 존재할 공간을 줄여 이론의 허용범위를 압박한다. 직접검출 실험의 진전은 종종 **신호 하나를 찾는 대신 가능한 세계의 넓이를 잘라내는 방식**으로 나타난다.",
+          "textEn": "LZ’s 2025 result used a multi-tonne-year exposure to tighten limits on WIMP interactions. It did not report a dark-matter signal meeting discovery criteria. Such a null result is not scientific failure: it removes portions of parameter space where particular WIMP masses and interaction strengths could have existed. Progress in direct detection often comes by shrinking the range of possible worlds rather than by announcing one positive event."
+        },
+        {
+          "blockId": "2026-04",
+          "type": "TURNING_POINT",
+          "headingKo": "2026년, 낮은 배경영역에 사건 하나가 남았다",
+          "headingEn": "2026: One Event Survived in a Low-Background Region",
+          "textKo": "2026년 9월 DOE와 LZ는 더 높은 recoil energy까지 확장한 분석에서 설명하기 어려운 사건 하나를 보고했다. LZ 공식자료는 2.84 tonne-years 노출에서 약 248 keV 핵반동과 일치하는 특성의 한 사건이 낮은 배경기대 영역에 있었다고 설명한다. 이 사건은 흥미롭다. 하지만 **흥미롭다는 것과 발견이라는 것은 다르다.** 분석은 look-elsewhere effect를 포함한 global significance 2.6σ로 보고됐고, 물리학에서 발견선으로 흔히 쓰이는 5σ에 미치지 않는다.",
+          "textEn": "In September 2026, DOE and LZ reported one difficult-to-explain event in an analysis extended to higher recoil energies. LZ describes a 2.84 tonne-year exposure with one event consistent with a roughly 248 keV nuclear recoil in a region where known backgrounds are low. The event is interesting, but interesting is not the same as discovery. After accounting for the look-elsewhere effect, the global significance was 2.6 sigma—well below the 5-sigma convention commonly used for a physics discovery."
+        },
+        {
+          "blockId": "sigma-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "왜 2.6σ는 ‘암흑물질 발견’이 아닌가",
+          "headingEn": "Why 2.6 Sigma Is Not a Dark-Matter Discovery",
+          "textKo": "통계적 유의도는 ‘이 사건이 암흑물질일 확률’과 같은 숫자가 아니다. 배경만 존재한다고 가정했을 때 이런 정도의 불일치가 얼마나 드문지를 평가하는 도구다. DOE는 2.6σ 결과가 알려진 배경으로 설명될 가능성이 약 0.5% 수준이라고 소개하지만, 다양한 모델과 에너지영역을 동시에 찾았다는 look-elsewhere effect를 고려한 수치다. **희귀한 배경이나 아직 모델링하지 못한 검출기 효과가 한 사건을 만들 가능성을 충분히 배제하기 전에는 입자발견으로 승격할 수 없다.**",
+          "textEn": "Statistical significance is not the same thing as “the probability this event is dark matter.” It quantifies how unusual the data look under a background-only model. DOE explains the 2.6-sigma result as roughly a half-percent probability of such an event arising from known backgrounds, after accounting for searching across multiple models and regions. Rare backgrounds or detector effects still have to be excluded before one event can be promoted to a particle discovery."
+        },
+        {
+          "blockId": "wimp-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "만약 암흑물질이라면 무엇을 뜻하나",
+          "headingEn": "If It Were Dark Matter, What Would It Imply?",
+          "textKo": "DOE 설명에 따르면 이 사건이 정말 암흑물질로 판명된다면 200GeV/c² 이상처럼 비교적 무거운 WIMP와, 가장 단순한 spin-independent 모델보다 복잡한 상호작용을 시사할 수 있다. 그러나 이 문장은 조건문이다. 현재 데이터가 그 입자를 확인했다는 뜻이 아니다. **가설이 사건을 설명할 수 있다는 것과 사건이 그 가설의 증거로 충분하다는 것은 서로 다른 기준**이다.",
+          "textEn": "DOE notes that if the event were eventually shown to be dark matter, it could point to a relatively heavy WIMP above roughly 200 GeV/c² and to interactions more complex than the simplest spin-independent model. But that sentence is explicitly conditional. The data do not currently identify such a particle. A hypothesis being capable of explaining an event is different from the event being sufficient evidence for that hypothesis."
+        },
+        {
+          "blockId": "repeat-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "다음 데이터가 같은 종류의 사건을 더 보여줘야 한다",
+          "headingEn": "The Next Data Need to Show a Pattern",
+          "textKo": "한 사건이 발견으로 성장하려면 추가노출에서 비슷한 신호가 반복되고, 배경예측과 검출기응답이 더 정밀하게 검증돼야 한다. 반대로 데이터가 늘어나는데 같은 유형의 excess가 사라지면 현재 사건은 통계적 요동이나 알려지지 않은 배경으로 재분류될 수 있다. LZ 연구팀이 ‘더 많은 데이터가 필요하다’고 강조하는 이유다. **암흑물질 검출은 흥미로운 한 점보다 재현되는 분포와 일관된 물리모델을 요구한다.**",
+          "textEn": "For one event to grow into a discovery, future exposure must produce a consistent pattern while background predictions and detector response survive deeper scrutiny. If the excess fades as more data arrive, the event may be reclassified as a statistical fluctuation or previously unmodelled background. That is why LZ emphasizes the need for more data. Direct detection requires a reproducible distribution and a coherent physical model, not simply one exciting point."
+        },
+        {
+          "blockId": "bigger-08",
+          "type": "AFTERMATH",
+          "headingKo": "암흑물질 미스터리는 ‘있나 없나’가 아니다",
+          "headingEn": "The Mystery Is Not Simply Whether Dark Matter Exists",
+          "textKo": "현재 과학의 긴장은 ‘암흑물질이 필요한가’보다 ‘무엇이 암흑물질인가’에 더 가깝다. 우주론·천체물리 관측은 보이지 않는 질량성분을 강하게 요구하지만, WIMP는 여러 후보 중 하나일 뿐이다. 직접검출이 계속 실패하거나 허용범위를 좁히면 axion 같은 다른 후보와 수정된 이론에 대한 관심도 달라진다. **실험이 아무것도 찾지 못하는 기간조차 후보들을 걸러내며 미스터리의 모양을 바꾼다.**",
+          "textEn": "The scientific tension is now less “does the universe need unseen mass?” and more “what is the dark matter?” WIMPs are only one class of candidate. As direct-detection searches tighten constraints, attention can shift toward other particles or models. Even long periods without a detection reshape the mystery by eliminating possibilities."
+        },
+        {
+          "blockId": "background-evidence-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘암흑물질이 있다’는 결론은 LZ 하나에서 나온 게 아니다",
+          "headingEn": "The Case for Dark Matter Does Not Come From LZ",
+          "textKo": "LZ는 암흑물질의 존재를 처음 증명하려는 실험이라기보다, 이미 천체물리학에서 강하게 요구되는 보이지 않는 질량의 ‘정체’를 찾는 실험이다. 은하회전곡선·은하단 중력렌즈·우주배경복사·구조형성은 서로 다른 규모에서 추가 질량성분을 가리킨다. 이 자료들이 특정 WIMP를 지목하지는 않는다. 따라서 **직접검출 실패는 암흑물질의 천체물리학적 필요를 곧바로 지우지 않고, 후보입자의 종류와 상호작용 모델을 압박한다.**",
+          "textEn": "LZ is not the sole experiment establishing the need for dark matter. It is searching for the identity of an unseen mass component already strongly required by several astrophysical and cosmological observations, including galaxy rotation, gravitational lensing, the cosmic microwave background, and structure formation. Those observations do not identify a particular WIMP. Direct-detection null results therefore constrain particle models without erasing the broader astrophysical case."
+        },
+        {
+          "blockId": "backgrounds-09",
+          "type": "BACKGROUND",
+          "headingKo": "검출기의 적은 ‘아무것도 아닌 것’처럼 보이는 정상물질",
+          "headingEn": "The Detector’s Main Enemy Is Ordinary Matter That Looks Rare",
+          "textKo": "직접검출 실험에서 가장 어려운 일은 신호를 만드는 것보다 배경을 이해하는 것이다. 자연방사성동위원소, 검출기 재료, 중성자, 전자반동, 우주선의 2차입자가 암흑물질 후보와 비슷한 흔적을 만들 수 있다. LZ가 지하 깊은 곳에 설치되고 재료순도·외부 veto·다중신호 분석을 사용하는 이유가 여기에 있다. **이상사건 하나가 남았다는 사실은 ‘암흑물질을 봤다’가 아니라 ‘현재 알려진 배경모델로 설명하기 어려운 한 점이 있다’에 가깝다.**",
+          "textEn": "In direct detection, the hardest task is often understanding backgrounds rather than producing a signal. Natural radioactivity, detector materials, neutrons, electronic recoils, and secondary particles can mimic rare interactions. That is why LZ operates deep underground with carefully selected materials, veto systems, and multiple signal channels. One surviving anomalous event is therefore closer to “a point not well explained by current backgrounds” than to “we saw dark matter.”"
+        },
+        {
+          "blockId": "null-095",
+          "type": "AFTERMATH",
+          "headingKo": "미검출은 후보를 죽이고 다음 실험을 설계한다",
+          "headingEn": "Null Results Eliminate Candidates and Shape the Next Search",
+          "textKo": "WIMP 직접검출의 역사는 발견발표보다 upper limit 그래프가 더 많은 분야다. 각 미검출은 특정 질량과 상호작용 세기를 배제해 다음 실험의 민감도와 분석영역을 바꾼다. 2026년 LZ의 고에너지 recoil 확장도 기존의 가장 단순한 WIMP 모델 밖에서 더 넓은 상호작용을 찾으려는 시도다. **답이 안 나온다는 사실도 이론공간을 줄이는 데이터가 된다.**",
+          "textEn": "The history of WIMP searches contains more upper-limit plots than discovery announcements. Each null result excludes combinations of mass and interaction strength, shaping the sensitivity and analysis choices of later searches. LZ’s 2026 high-recoil extension is itself an attempt to probe interactions beyond the simplest WIMP models. Not finding an answer is still data when it removes possibilities."
+        },
+        {
+          "blockId": "discovery-threshold-097",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "발견선이 높은 이유",
+          "headingEn": "Why the Discovery Bar Is So High",
+          "textKo": "희귀입자 탐색에서는 수백만·수십억 번의 기회 중 우연한 극단값이 나올 수 있다. 그래서 물리학은 한 번의 ‘이상한 사건’보다 통계적 반복성과 독립적 재현을 요구한다. **높은 발견기준은 흥미로운 신호를 무시하기 위한 장벽이 아니라, 우연과 새로운 입자를 구분하기 위한 안전장치다.**",
+          "textEn": "Rare-event searches create many opportunities for an extreme fluctuation to appear by chance. Particle physics therefore demands statistical persistence and independent confirmation rather than one striking event. A high discovery threshold is not designed to dismiss interesting signals; it is a safeguard against mistaking chance for a new particle."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** LZ는 액체크세논을 이용해 암흑물질 후보의 직접상호작용을 찾는 실험이다. 2025년 결과는 WIMP 상호작용 한계를 더 좁혔지만 발견을 보고하지 않았다. 2026년 확장분석에서는 낮은 배경영역에 이상한 사건 하나가 남았고 global significance는 2.6σ였다. DOE와 LZ 모두 이를 발견으로 선언하지 않았다.\n\n**확인되지 않음:** 해당 사건이 암흑물질 입자라는 것은 입증되지 않았다. 특정 WIMP 질량·상호작용 모델이 확인된 것도 아니다. 천체물리학적 암흑물질 증거와 지상검출기의 특정 입자 직접검출은 서로 다른 단계다.",
+          "textEn": "**Established:** LZ is a liquid-xenon experiment searching for direct interactions from dark-matter candidates. Its 2025 result tightened WIMP interaction limits without reporting a discovery. A 2026 extended analysis left one unusual event in a low-background region, with a global significance of 2.6 sigma. DOE and LZ explicitly do not call this a discovery.\n\n**Not established:** The event has not been proven to be a dark-matter particle, and no particular WIMP mass or interaction model has been confirmed. Astrophysical evidence for dark matter and direct detection of a specific particle are different evidentiary stages."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** LZ는 액체크세논을 이용해 암흑물질 후보의 직접상호작용을 찾는 실험이다. 2025년 결과는 WIMP 상호작용 한계를 더 좁혔지만 발견을 보고하지 않았다. 2026년 확장분석에서는 낮은 배경영역에 이상한 사건 하나가 남았고 global significance는 2.6σ였다. DOE와 LZ 모두 이를 발견으로 선언하지 않았다.\n\n**확인되지 않음:** 해당 사건이 암흑물질 입자라는 것은 입증되지 않았다. 특정 WIMP 질량·상호작용 모델이 확인된 것도 아니다. 천체물리학적 암흑물질 증거와 지상검출기의 특정 입자 직접검출은 서로 다른 단계다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "detector-02",
+        "2025-03",
+        "2026-04",
+        "sigma-05",
+        "wimp-06",
+        "repeat-07",
+        "bigger-08",
+        "background-evidence-085",
+        "backgrounds-09",
+        "null-095",
+        "discovery-threshold-097"
+      ]
+    },
+    "en": {
+      "headline": "The Universe Needs Dark Matter—So Why Haven’t We Caught a Particle?",
+      "hook": "Cosmology strongly requires unseen mass, but identifying a specific particle in a detector is a separate problem. One unusual LZ event in 2026 makes that distinction unusually clear.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "암흑물질은 ‘필요’한데 한 입자도 잡지 못했다",
+          "headingEn": "Dark Matter Is Needed by the Cosmos—Yet No Particle Has Been Caught",
+          "textKo": "은하의 회전, 중력렌즈, 우주배경복사와 대규모 구조는 보이는 물질만으로 설명하기 어려운 추가 질량성분을 요구한다. 이를 암흑물질이라 부른다. 그러나 ‘우주에 보이지 않는 질량이 필요하다’와 ‘그 질량을 이루는 입자를 실험실에서 직접 잡았다’는 완전히 다른 단계다. 2026년 현재도 후자의 문은 열려 있다. **천체물리학적 필요성과 직접검출은 같은 증거가 아니다.**",
+          "textEn": "Galaxy rotation, gravitational lensing, the cosmic microwave background, and large-scale structure all point to additional unseen mass beyond ordinary visible matter. We call that component dark matter. But “the universe requires unseen mass” and “we have directly detected the particle making it up” are very different statements. As of 2026, the second claim remains open. Astrophysical necessity and direct particle detection are not the same evidence."
+        },
+        {
+          "blockId": "detector-02",
+          "type": "BACKGROUND",
+          "headingKo": "LZ는 무엇을 기다리는가",
+          "headingEn": "What LZ Is Waiting For",
+          "textKo": "LUX-ZEPLIN(LZ)은 지하 깊은 곳에서 액체 크세논을 이용해 암흑물질 후보와 원자핵의 극히 드문 상호작용을 찾는 실험이다. 핵심은 ‘아무 사건도 없는 것’이 정상에 가까운 환경을 만드는 데 있다. 우주선·방사성 불순물·중성자 등 알려진 배경사건을 줄이고, 남은 신호가 배경모델로 설명되는지 시험한다. **암흑물질 후보가 희귀할수록 한 사건의 중요성은 커지지만, 동시에 한 사건만으로 발견을 선언하기도 어려워진다.**",
+          "textEn": "LUX-ZEPLIN (LZ) uses liquid xenon deep underground to search for extremely rare interactions between candidate dark-matter particles and atomic nuclei. The experiment is designed so that “almost nothing happens”: cosmic rays, radioactive contaminants, neutrons, and other known backgrounds are suppressed and modelled. The rarer the expected signal, the more interesting one unusual event can become—but the harder it is to declare discovery from a single event."
+        },
+        {
+          "blockId": "2025-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2025년 결과: 발견이 아니라 더 좁아진 가능성",
+          "headingEn": "2025: Stronger Limits, Not a Discovery",
+          "textKo": "LZ의 2025년 발표와 PRL 결과는 수 tonne-year 규모의 노출에서 WIMP 탐색범위를 더 좁혔다. 이 단계에서 실험은 통계적 발견기준을 통과한 암흑물질 신호를 보고하지 않았다. 이런 ‘미검출’은 실패가 아니다. 특정 질량·상호작용 세기의 WIMP가 존재할 공간을 줄여 이론의 허용범위를 압박한다. 직접검출 실험의 진전은 종종 **신호 하나를 찾는 대신 가능한 세계의 넓이를 잘라내는 방식**으로 나타난다.",
+          "textEn": "LZ’s 2025 result used a multi-tonne-year exposure to tighten limits on WIMP interactions. It did not report a dark-matter signal meeting discovery criteria. Such a null result is not scientific failure: it removes portions of parameter space where particular WIMP masses and interaction strengths could have existed. Progress in direct detection often comes by shrinking the range of possible worlds rather than by announcing one positive event."
+        },
+        {
+          "blockId": "2026-04",
+          "type": "TURNING_POINT",
+          "headingKo": "2026년, 낮은 배경영역에 사건 하나가 남았다",
+          "headingEn": "2026: One Event Survived in a Low-Background Region",
+          "textKo": "2026년 9월 DOE와 LZ는 더 높은 recoil energy까지 확장한 분석에서 설명하기 어려운 사건 하나를 보고했다. LZ 공식자료는 2.84 tonne-years 노출에서 약 248 keV 핵반동과 일치하는 특성의 한 사건이 낮은 배경기대 영역에 있었다고 설명한다. 이 사건은 흥미롭다. 하지만 **흥미롭다는 것과 발견이라는 것은 다르다.** 분석은 look-elsewhere effect를 포함한 global significance 2.6σ로 보고됐고, 물리학에서 발견선으로 흔히 쓰이는 5σ에 미치지 않는다.",
+          "textEn": "In September 2026, DOE and LZ reported one difficult-to-explain event in an analysis extended to higher recoil energies. LZ describes a 2.84 tonne-year exposure with one event consistent with a roughly 248 keV nuclear recoil in a region where known backgrounds are low. The event is interesting, but interesting is not the same as discovery. After accounting for the look-elsewhere effect, the global significance was 2.6 sigma—well below the 5-sigma convention commonly used for a physics discovery."
+        },
+        {
+          "blockId": "sigma-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "왜 2.6σ는 ‘암흑물질 발견’이 아닌가",
+          "headingEn": "Why 2.6 Sigma Is Not a Dark-Matter Discovery",
+          "textKo": "통계적 유의도는 ‘이 사건이 암흑물질일 확률’과 같은 숫자가 아니다. 배경만 존재한다고 가정했을 때 이런 정도의 불일치가 얼마나 드문지를 평가하는 도구다. DOE는 2.6σ 결과가 알려진 배경으로 설명될 가능성이 약 0.5% 수준이라고 소개하지만, 다양한 모델과 에너지영역을 동시에 찾았다는 look-elsewhere effect를 고려한 수치다. **희귀한 배경이나 아직 모델링하지 못한 검출기 효과가 한 사건을 만들 가능성을 충분히 배제하기 전에는 입자발견으로 승격할 수 없다.**",
+          "textEn": "Statistical significance is not the same thing as “the probability this event is dark matter.” It quantifies how unusual the data look under a background-only model. DOE explains the 2.6-sigma result as roughly a half-percent probability of such an event arising from known backgrounds, after accounting for searching across multiple models and regions. Rare backgrounds or detector effects still have to be excluded before one event can be promoted to a particle discovery."
+        },
+        {
+          "blockId": "wimp-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "만약 암흑물질이라면 무엇을 뜻하나",
+          "headingEn": "If It Were Dark Matter, What Would It Imply?",
+          "textKo": "DOE 설명에 따르면 이 사건이 정말 암흑물질로 판명된다면 200GeV/c² 이상처럼 비교적 무거운 WIMP와, 가장 단순한 spin-independent 모델보다 복잡한 상호작용을 시사할 수 있다. 그러나 이 문장은 조건문이다. 현재 데이터가 그 입자를 확인했다는 뜻이 아니다. **가설이 사건을 설명할 수 있다는 것과 사건이 그 가설의 증거로 충분하다는 것은 서로 다른 기준**이다.",
+          "textEn": "DOE notes that if the event were eventually shown to be dark matter, it could point to a relatively heavy WIMP above roughly 200 GeV/c² and to interactions more complex than the simplest spin-independent model. But that sentence is explicitly conditional. The data do not currently identify such a particle. A hypothesis being capable of explaining an event is different from the event being sufficient evidence for that hypothesis."
+        },
+        {
+          "blockId": "repeat-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "다음 데이터가 같은 종류의 사건을 더 보여줘야 한다",
+          "headingEn": "The Next Data Need to Show a Pattern",
+          "textKo": "한 사건이 발견으로 성장하려면 추가노출에서 비슷한 신호가 반복되고, 배경예측과 검출기응답이 더 정밀하게 검증돼야 한다. 반대로 데이터가 늘어나는데 같은 유형의 excess가 사라지면 현재 사건은 통계적 요동이나 알려지지 않은 배경으로 재분류될 수 있다. LZ 연구팀이 ‘더 많은 데이터가 필요하다’고 강조하는 이유다. **암흑물질 검출은 흥미로운 한 점보다 재현되는 분포와 일관된 물리모델을 요구한다.**",
+          "textEn": "For one event to grow into a discovery, future exposure must produce a consistent pattern while background predictions and detector response survive deeper scrutiny. If the excess fades as more data arrive, the event may be reclassified as a statistical fluctuation or previously unmodelled background. That is why LZ emphasizes the need for more data. Direct detection requires a reproducible distribution and a coherent physical model, not simply one exciting point."
+        },
+        {
+          "blockId": "bigger-08",
+          "type": "AFTERMATH",
+          "headingKo": "암흑물질 미스터리는 ‘있나 없나’가 아니다",
+          "headingEn": "The Mystery Is Not Simply Whether Dark Matter Exists",
+          "textKo": "현재 과학의 긴장은 ‘암흑물질이 필요한가’보다 ‘무엇이 암흑물질인가’에 더 가깝다. 우주론·천체물리 관측은 보이지 않는 질량성분을 강하게 요구하지만, WIMP는 여러 후보 중 하나일 뿐이다. 직접검출이 계속 실패하거나 허용범위를 좁히면 axion 같은 다른 후보와 수정된 이론에 대한 관심도 달라진다. **실험이 아무것도 찾지 못하는 기간조차 후보들을 걸러내며 미스터리의 모양을 바꾼다.**",
+          "textEn": "The scientific tension is now less “does the universe need unseen mass?” and more “what is the dark matter?” WIMPs are only one class of candidate. As direct-detection searches tighten constraints, attention can shift toward other particles or models. Even long periods without a detection reshape the mystery by eliminating possibilities."
+        },
+        {
+          "blockId": "background-evidence-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "‘암흑물질이 있다’는 결론은 LZ 하나에서 나온 게 아니다",
+          "headingEn": "The Case for Dark Matter Does Not Come From LZ",
+          "textKo": "LZ는 암흑물질의 존재를 처음 증명하려는 실험이라기보다, 이미 천체물리학에서 강하게 요구되는 보이지 않는 질량의 ‘정체’를 찾는 실험이다. 은하회전곡선·은하단 중력렌즈·우주배경복사·구조형성은 서로 다른 규모에서 추가 질량성분을 가리킨다. 이 자료들이 특정 WIMP를 지목하지는 않는다. 따라서 **직접검출 실패는 암흑물질의 천체물리학적 필요를 곧바로 지우지 않고, 후보입자의 종류와 상호작용 모델을 압박한다.**",
+          "textEn": "LZ is not the sole experiment establishing the need for dark matter. It is searching for the identity of an unseen mass component already strongly required by several astrophysical and cosmological observations, including galaxy rotation, gravitational lensing, the cosmic microwave background, and structure formation. Those observations do not identify a particular WIMP. Direct-detection null results therefore constrain particle models without erasing the broader astrophysical case."
+        },
+        {
+          "blockId": "backgrounds-09",
+          "type": "BACKGROUND",
+          "headingKo": "검출기의 적은 ‘아무것도 아닌 것’처럼 보이는 정상물질",
+          "headingEn": "The Detector’s Main Enemy Is Ordinary Matter That Looks Rare",
+          "textKo": "직접검출 실험에서 가장 어려운 일은 신호를 만드는 것보다 배경을 이해하는 것이다. 자연방사성동위원소, 검출기 재료, 중성자, 전자반동, 우주선의 2차입자가 암흑물질 후보와 비슷한 흔적을 만들 수 있다. LZ가 지하 깊은 곳에 설치되고 재료순도·외부 veto·다중신호 분석을 사용하는 이유가 여기에 있다. **이상사건 하나가 남았다는 사실은 ‘암흑물질을 봤다’가 아니라 ‘현재 알려진 배경모델로 설명하기 어려운 한 점이 있다’에 가깝다.**",
+          "textEn": "In direct detection, the hardest task is often understanding backgrounds rather than producing a signal. Natural radioactivity, detector materials, neutrons, electronic recoils, and secondary particles can mimic rare interactions. That is why LZ operates deep underground with carefully selected materials, veto systems, and multiple signal channels. One surviving anomalous event is therefore closer to “a point not well explained by current backgrounds” than to “we saw dark matter.”"
+        },
+        {
+          "blockId": "null-095",
+          "type": "AFTERMATH",
+          "headingKo": "미검출은 후보를 죽이고 다음 실험을 설계한다",
+          "headingEn": "Null Results Eliminate Candidates and Shape the Next Search",
+          "textKo": "WIMP 직접검출의 역사는 발견발표보다 upper limit 그래프가 더 많은 분야다. 각 미검출은 특정 질량과 상호작용 세기를 배제해 다음 실험의 민감도와 분석영역을 바꾼다. 2026년 LZ의 고에너지 recoil 확장도 기존의 가장 단순한 WIMP 모델 밖에서 더 넓은 상호작용을 찾으려는 시도다. **답이 안 나온다는 사실도 이론공간을 줄이는 데이터가 된다.**",
+          "textEn": "The history of WIMP searches contains more upper-limit plots than discovery announcements. Each null result excludes combinations of mass and interaction strength, shaping the sensitivity and analysis choices of later searches. LZ’s 2026 high-recoil extension is itself an attempt to probe interactions beyond the simplest WIMP models. Not finding an answer is still data when it removes possibilities."
+        },
+        {
+          "blockId": "discovery-threshold-097",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "발견선이 높은 이유",
+          "headingEn": "Why the Discovery Bar Is So High",
+          "textKo": "희귀입자 탐색에서는 수백만·수십억 번의 기회 중 우연한 극단값이 나올 수 있다. 그래서 물리학은 한 번의 ‘이상한 사건’보다 통계적 반복성과 독립적 재현을 요구한다. **높은 발견기준은 흥미로운 신호를 무시하기 위한 장벽이 아니라, 우연과 새로운 입자를 구분하기 위한 안전장치다.**",
+          "textEn": "Rare-event searches create many opportunities for an extreme fluctuation to appear by chance. Particle physics therefore demands statistical persistence and independent confirmation rather than one striking event. A high discovery threshold is not designed to dismiss interesting signals; it is a safeguard against mistaking chance for a new particle."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** LZ는 액체크세논을 이용해 암흑물질 후보의 직접상호작용을 찾는 실험이다. 2025년 결과는 WIMP 상호작용 한계를 더 좁혔지만 발견을 보고하지 않았다. 2026년 확장분석에서는 낮은 배경영역에 이상한 사건 하나가 남았고 global significance는 2.6σ였다. DOE와 LZ 모두 이를 발견으로 선언하지 않았다.\n\n**확인되지 않음:** 해당 사건이 암흑물질 입자라는 것은 입증되지 않았다. 특정 WIMP 질량·상호작용 모델이 확인된 것도 아니다. 천체물리학적 암흑물질 증거와 지상검출기의 특정 입자 직접검출은 서로 다른 단계다.",
+          "textEn": "**Established:** LZ is a liquid-xenon experiment searching for direct interactions from dark-matter candidates. Its 2025 result tightened WIMP interaction limits without reporting a discovery. A 2026 extended analysis left one unusual event in a low-background region, with a global significance of 2.6 sigma. DOE and LZ explicitly do not call this a discovery.\n\n**Not established:** The event has not been proven to be a dark-matter particle, and no particular WIMP mass or interaction model has been confirmed. Astrophysical evidence for dark matter and direct detection of a specific particle are different evidentiary stages."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** LZ is a liquid-xenon experiment searching for direct interactions from dark-matter candidates. Its 2025 result tightened WIMP interaction limits without reporting a discovery. A 2026 extended analysis left one unusual event in a low-background region, with a global significance of 2.6 sigma. DOE and LZ explicitly do not call this a discovery.\n\n**Not established:** The event has not been proven to be a dark-matter particle, and no particular WIMP mass or interaction model has been confirmed. Astrophysical evidence for dark matter and direct detection of a specific particle are different evidentiary stages.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "detector-02",
+        "2025-03",
+        "2026-04",
+        "sigma-05",
+        "wimp-06",
+        "repeat-07",
+        "bigger-08",
+        "background-evidence-085",
+        "backgrounds-09",
+        "null-095",
+        "discovery-threshold-097"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "LZ는 액체크세논 검출기로 암흑물질 후보의 직접상호작용을 찾는다.",
+      "statementEn": "LZ uses liquid xenon to search for direct interactions from dark-matter candidates.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026"
+      ]
+    },
+    {
+      "claimId": "DM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "2026 확장분석은 2.84 tonne-year에서 낮은 배경영역의 이상사건 하나를 보고했다.",
+      "statementEn": "The 2026 extended analysis reported one unusual event in a low-background region in 2.84 tonne-years of exposure.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026"
+      ]
+    },
+    {
+      "claimId": "DM-C3",
+      "status": "CONFIRMED",
+      "statementKo": "global significance는 2.6σ로 보고됐고 LZ/DOE는 발견으로 선언하지 않았다.",
+      "statementEn": "The global significance was 2.6 sigma, and LZ/DOE did not claim a discovery.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026"
+      ]
+    },
+    {
+      "claimId": "DM-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "2026 이상사건이 암흑물질 입자라는 것은 확립되지 않았다.",
+      "statementEn": "The 2026 anomalous event is not established as a dark-matter particle.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "LZ2026",
+      "title": "LZ Dark Matter Experiment — 2026 extended analysis",
+      "publisher": "LZ Collaboration / Lawrence Berkeley National Laboratory",
+      "url": "https://lz.lbl.gov/",
+      "sourceType": "PRIMARY_COLLABORATION"
+    },
+    {
+      "sourceId": "DOE2026",
+      "title": "LZ Sees Surprising Result in Search for Dark Matter",
+      "publisher": "U.S. Department of Energy Office of Science",
+      "url": "https://www.energy.gov/science/articles/lz-sees-surprising-result-search-dark-matter",
+      "sourceType": "US_GOVERNMENT_CURRENT"
+    },
+    {
+      "sourceId": "LZ2025",
+      "title": "LZ results published in Physical Review Letters",
+      "publisher": "Berkeley Lab Physics / LZ context",
+      "url": "https://www.physics.lbl.gov/lz-results-published-in-prl/",
+      "sourceType": "NATIONAL_LAB_CURRENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dark-matter-direct-detection-astro-vs-direct",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "천체물리학적 암흑물질 증거와 특정입자 직접검출의 차이를 비교한 카드.",
+      "captionEn": "Evidence card comparing astrophysical evidence for dark matter with direct detection of a specific particle.",
+      "altKo": "왼쪽 우주론적 증거, 오른쪽 실험실 직접검출 상태.",
+      "altEn": "Two-column comparison of astrophysical evidence and direct-particle detection status.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026",
+        "LZ2025"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dark-matter-direct-detection__astro-vs-direct__ko.png",
+          "sha256": "60f2ea0a77dbca06dbc2b0135a9ee7e44f32eb9ed29501d3e7f3a674d3478b37",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dark-matter-direct-detection__astro-vs-direct__en.png",
+          "sha256": "a21d8af1a98e3a8d0f9355d37a5ce0e517fdbc5aa83d186e1ea0b7afb7b3204c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dark-matter-direct-detection-backgrounds",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "암흑물질 이상사건을 후보·배경·통계·추가데이터로 검증하는 흐름.",
+      "captionEn": "Diagram of how a dark-matter candidate event is tested against backgrounds, statistics, and more data.",
+      "altKo": "후보사건에서 발견판정까지 네 검증단계.",
+      "altEn": "Four verification stages from candidate event to possible discovery.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dark-matter-direct-detection__backgrounds__ko.png",
+          "sha256": "b671f9a83ce39c72254f7f2c619e55a3102f09c07e08bc7da8da5ae3acbdd319",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dark-matter-direct-detection__backgrounds__en.png",
+          "sha256": "a9d50965d50524628facd5c67a7ea9ab3f3bbdf50e8f9dc1d250ab077108f355",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dark-matter-direct-detection-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "암흑물질 천체증거·LZ 직접검출·2025 한계·2026 이상사건을 구분한 hero 도표.",
+      "captionEn": "Hero explainer separating astrophysical dark-matter evidence from LZ direct-detection results in 2025–2026.",
+      "altKo": "천체관측, LZ, 2025, 2026 네 단계.",
+      "altEn": "Four stages: astrophysics, LZ, 2025 limits, 2026 anomaly.",
+      "sourceRefs": [
+        "LZ2026",
+        "DOE2026",
+        "LZ2025"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dark-matter-direct-detection__hero-context__ko.png",
+          "sha256": "c304d03d6084ea3cce586e051828b90dc5b373d10ce48bc5a93a9569a812d81c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dark-matter-direct-detection__hero-context__en.png",
+          "sha256": "eb7db7b36c6484821e379e39928e186dafc7a75e8523d26c58891f7b4fe28007",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Sanford Underground Research Facility context"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "LUX-ZEPLIN Collaboration",
+      "U.S. Department of Energy",
+      "Lawrence Berkeley National Laboratory"
+    ],
+    "dateRange": {
+      "start": "2025",
+      "end": "2026-09-01",
+      "precision": "recent LZ results"
+    },
+    "era": "Contemporary particle astrophysics",
+    "resolution": "DARK_MATTER_ASTROPHYSICS_STRONG_PARTICLE_DIRECT_DETECTION_UNCONFIRMED",
+    "searchAliases": [
+      "LZ dark matter",
+      "WIMP direct detection",
+      "2.6 sigma LZ"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3058,
+    "enBodyWords": 880,
+    "meaningfulBlockCount": 13,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

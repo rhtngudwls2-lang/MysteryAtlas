@@ -1,0 +1,444 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "bermuda-triangle",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "버뮤다 삼각지대",
+    "canonicalTitleEn": "Bermuda Triangle",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected because the regional myth can be explained cleanly in ~2k KO chars; famous incidents belong in linked individual dossiers rather than padding this article."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘죽음의 삼각형’은 실제로 존재하는가",
+      "hook": "삼각지대는 유명하지만 공인 경계가 없다. 개별 사고는 실제고 일부는 미해결이지만, ‘이 해역 전체가 특별히 이상하다’는 주장은 비교통계와 공식기록을 통과해야 한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "삼각형인데 경계가 없다",
+          "headingEn": "A Triangle With No Official Boundary",
+          "textKo": "버뮤다 삼각지대는 세계에서 가장 유명한 미스터리 지명 중 하나지만, NOAA가 가장 먼저 강조하는 사실은 의외로 단순하다. 이곳은 미국 정부가 공식적으로 정한 지리구역이 아니다. 경계도 하나로 합의돼 있지 않다. 어떤 책은 플로리다-버뮤다-푸에르토리코를 잇고, 어떤 서사는 더 넓거나 다른 해역까지 포함한다. **‘특별히 위험한 삼각형’이라는 주장을 검증하려면 먼저 삼각형이 정확히 어디인지 정해야 하는데, 바로 그 출발점부터 흔들린다.**",
+          "textEn": "The Bermuda Triangle is one of the world’s most famous mystery regions, yet NOAA begins with a surprisingly basic fact: it is not an officially defined geographic area. There is no single agreed boundary. Some popular versions connect Florida, Bermuda, and Puerto Rico; others use broader or different areas. To test whether a “special triangle” is unusually dangerous, one must first define the triangle—and that starting point is already unstable."
+        },
+        {
+          "blockId": "official-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "미 해군·해안경비대는 ‘초자연 위험구역’으로 보지 않는다",
+          "headingEn": "U.S. Maritime Agencies Do Not Treat It as a Supernatural Hazard Zone",
+          "textKo": "NOAA는 미 해군과 미 해안경비대가 버뮤다 삼각지대를 선박·항공기의 특별한 초자연 위험구역으로 인정하지 않는다고 정리한다. U.S. Board on Geographic Names도 이 명칭을 공식 지명으로 인정하지 않는다. 이 기관들의 판단이 모든 개별 실종사건을 해결해주는 것은 아니다. 다만 **‘이 지역 전체가 통계적으로 특별한 이상현상 구역이다’라는 큰 주장에는 공식 지원이 없다는 뜻**이다.",
+          "textEn": "NOAA notes that the U.S. Navy and Coast Guard do not recognize the Bermuda Triangle as a special supernatural hazard area for ships or aircraft, and the U.S. Board on Geographic Names does not maintain it as an official geographic name. These positions do not solve every individual loss. They do mean that the broad claim of a statistically special anomalous zone lacks official support."
+        },
+        {
+          "blockId": "weather-03",
+          "type": "BACKGROUND",
+          "headingKo": "실제로 위험한 바다이기는 하다",
+          "headingEn": "The Region Can Be Dangerous Without Being Paranormal",
+          "textKo": "‘초자연적이지 않다’와 ‘안전하다’는 같은 말이 아니다. NOAA는 대서양 열대폭풍과 허리케인의 주요 경로, 빠른 Gulf Stream, 카리브해의 얕은 수역과 항해위험을 이 지역의 현실적인 위험요인으로 든다. 날씨예보·항법기술이 지금보다 약했던 시기에는 이런 조건이 훨씬 치명적이었다. **실제 위험이 존재한다는 사실이 전설의 재료가 될 수 있지만, 실제 위험이 곧 초자연적 원인을 뜻하지 않는다.**",
+          "textEn": "“Not supernatural” does not mean “safe.” NOAA points to Atlantic tropical storms and hurricanes, the fast Gulf Stream, shallow Caribbean waters, and navigational hazards as real dangers in the broader region. Before modern forecasting and navigation, those conditions could be much more deadly. Real hazards can feed a legend without requiring a paranormal cause."
+        },
+        {
+          "blockId": "frequency-04",
+          "type": "TURNING_POINT",
+          "headingKo": "핵심 통계질문: 실종이 정말 더 자주 일어나는가",
+          "headingEn": "The Statistical Question: Do Disappearances Really Happen More Often There?",
+          "textKo": "버뮤다 삼각지대 주장에서 가장 강한 형태는 ‘이곳에서는 다른 바다보다 이상실종이 더 많이 일어난다’는 것이다. NOAA는 이에 대해 **다른 넓고 교통량 많은 해역보다 미스터리한 실종이 더 자주 발생한다는 증거가 없다**고 명시한다. 이 문장은 개별 유명사건의 원인을 하나씩 설명하는 문장이 아니다. 오히려 ‘사건 목록을 모았더니 패턴이 보인다’는 주장에 필요한 비교대상이 빠져 있다는 점을 지적한다.",
+          "textEn": "The strongest version of the Bermuda Triangle claim is statistical: mysterious disappearances supposedly happen there more often than elsewhere. NOAA explicitly states that there is no evidence such disappearances occur more frequently in the Triangle than in other large, heavily travelled ocean areas. That does not explain every famous incident one by one. It challenges the larger pattern claim by asking what the comparison baseline actually is."
+        },
+        {
+          "blockId": "selection-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "유명사건만 모으면 패턴은 더 강해 보인다",
+          "headingEn": "Curating Famous Cases Can Make a Pattern Look Stronger",
+          "textKo": "전설은 대개 유명한 선박·항공기 실종을 한 목록에 묶는 방식으로 만들어진다. 그러나 경계가 유동적인 상태에서 미스터리한 사례는 넣고, 해결된 사고나 비슷한 빈도의 다른 해역은 빼면 선택편향이 생긴다. ‘삼각지대 사건’이 되려면 먼저 그 사건이 어느 경계 안에 있는지, 같은 기간 같은 교통량을 가진 비교해역은 어떤지 따져야 한다. **목록의 인상과 위험률은 같은 지표가 아니다.**",
+          "textEn": "The legend is often built by curating famous ship and aircraft disappearances into one list. But when the boundary itself is flexible, selecting mysterious cases while excluding resolved accidents or comparable losses elsewhere creates selection bias. To call an incident “Triangle evidence,” one must define the region and compare it with similarly travelled waters over the same period. A memorable list is not the same thing as an elevated risk rate."
+        },
+        {
+          "blockId": "compass-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "나침반 이야기도 ‘초자연’ 없이 설명돼야 한다",
+          "headingEn": "Compass Stories Do Not Automatically Require a Mystery Field",
+          "textKo": "버뮤다 삼각지대에는 나침반이 이상하게 움직인다는 이야기도 자주 붙는다. NOAA는 지구 자기장과 true north/magnetic north 관계가 지역과 시기에 따라 달라질 수 있고, 항해오차가 실제 사고요인이 될 수 있다고 설명한다. 중요한 것은 **정상적인 자기편차와 기기·항법오류를 먼저 검토한 뒤에도 설명이 남는지**다. ‘나침반이 달랐다’는 서술만으로 비정상 자기장이나 초자연 현상을 입증할 수 없다.",
+          "textEn": "Stories about malfunctioning compasses are also common in Bermuda Triangle lore. NOAA notes that magnetic variation and the relationship between true and magnetic north change by place and time, while navigational error can contribute to real accidents. The proper question is whether ordinary magnetic variation, instrument issues, and navigation have been excluded before invoking an anomalous field. A report of a compass discrepancy is not proof of a supernatural magnetic phenomenon."
+        },
+        {
+          "blockId": "cases-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "개별 사건은 삼각형 전설과 분리해 다시 봐야 한다",
+          "headingEn": "Each Famous Case Has to Be Reopened on Its Own Evidence",
+          "textKo": "Flight 19, Star Tiger, Star Ariel, USS Cyclops 같은 사건은 버뮤다 삼각지대 목록에서 반복해서 등장한다. 그러나 이 사건들은 각자 다른 날짜·기상·기체·선박·수색기록을 가진 독립사건이다. 어떤 것은 원인이 상당히 좁혀지고, 어떤 것은 잔해 부재 때문에 미해결로 남는다. **‘버뮤다 삼각지대에 들어갔다’는 공통라벨이 각 사건의 조사결론을 덮어서는 안 된다.** Mystery Atlas의 Rabbit Hole은 오히려 이들을 개별 dossier로 분리하는 역할을 해야 한다.",
+          "textEn": "Cases such as Flight 19, Star Tiger, Star Ariel, and USS Cyclops recur in Bermuda Triangle lists, but they are separate incidents with different weather, vehicles, search records, and evidence. Some causes can be narrowed substantially; others remain unresolved because wreckage was never found. The shared label “Bermuda Triangle” should not override the investigative record of each case. Mystery Atlas should use the Triangle as a gateway to individual dossiers, not as a substitute for them."
+        },
+        {
+          "blockId": "legend-08",
+          "type": "AFTERMATH",
+          "headingKo": "공식 지명이 아닌데도 세계적 지명이 된 이유",
+          "headingEn": "How an Unofficial Name Became Globally Real in Culture",
+          "textKo": "지리적으로 공식구역이 아니어도 문화적으로는 버뮤다 삼각지대가 매우 ‘실재’한다. 책·잡지·TV와 인터넷을 통해 이름이 반복되고, 유명실종을 하나의 패턴으로 묶는 서사가 수십 년간 재생산됐다. 그래서 이 사건의 결론을 ‘삼각형은 없다’로 끝내는 것도 부정확하다. **공식 지리구역은 아니지만, 하나의 강력한 현대 전설과 분류체계로는 분명히 존재한다.** 미스터리는 바다보다 이야기가 패턴을 만드는 방식에 있다.",
+          "textEn": "The Bermuda Triangle may lack an official geographic boundary, but culturally it is extremely real. Books, magazines, television, and the internet repeatedly reproduced the name and grouped famous losses into one pattern. Ending with “the Triangle does not exist” would therefore be incomplete. It does not exist as an official hazard zone, but it unquestionably exists as a powerful modern legend and classification system."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 버뮤다 삼각지대는 공식 미국 지명이 아니며 공인 경계가 없다. NOAA와 미국 해양기관은 이 지역에서 다른 비슷한 해역보다 미스터리 실종이 더 자주 발생한다는 증거가 없다고 설명한다. 허리케인, Gulf Stream, 얕은 수역, 항법오류 같은 현실적 위험요인은 존재한다.\n\n**확인되지 않음:** 지역 전체를 하나의 초자연적 위험구역으로 만드는 비정상 원인은 입증되지 않는다. 그렇다고 개별 실종사건이 모두 해결됐다는 뜻도 아니다. 각 사건은 별도 조사기록으로 판단해야 한다.",
+          "textEn": "**Established:** The Bermuda Triangle is not an official U.S. geographic name and has no recognized boundary. NOAA and U.S. maritime authorities state there is no evidence of mysterious disappearances occurring more often there than in comparable heavily travelled ocean areas. Real hazards include hurricanes, the Gulf Stream, shallow waters, and navigation error.\n\n**Not established:** No anomalous mechanism has been demonstrated that turns the whole region into a supernatural hazard zone. That does not mean every individual disappearance has been solved; each case must be judged on its own investigative record."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 버뮤다 삼각지대는 공식 미국 지명이 아니며 공인 경계가 없다. NOAA와 미국 해양기관은 이 지역에서 다른 비슷한 해역보다 미스터리 실종이 더 자주 발생한다는 증거가 없다고 설명한다. 허리케인, Gulf Stream, 얕은 수역, 항법오류 같은 현실적 위험요인은 존재한다.\n\n**확인되지 않음:** 지역 전체를 하나의 초자연적 위험구역으로 만드는 비정상 원인은 입증되지 않는다. 그렇다고 개별 실종사건이 모두 해결됐다는 뜻도 아니다. 각 사건은 별도 조사기록으로 판단해야 한다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "official-02",
+        "weather-03",
+        "frequency-04",
+        "selection-05",
+        "compass-06",
+        "cases-07",
+        "legend-08"
+      ]
+    },
+    "en": {
+      "headline": "Does the Bermuda Triangle Really Exist as a Special Hazard?",
+      "hook": "The Triangle is famous, but it has no official boundary. Individual accidents are real and some remain unresolved, yet the claim that the whole region is unusually anomalous requires statistical and investigative evidence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "삼각형인데 경계가 없다",
+          "headingEn": "A Triangle With No Official Boundary",
+          "textKo": "버뮤다 삼각지대는 세계에서 가장 유명한 미스터리 지명 중 하나지만, NOAA가 가장 먼저 강조하는 사실은 의외로 단순하다. 이곳은 미국 정부가 공식적으로 정한 지리구역이 아니다. 경계도 하나로 합의돼 있지 않다. 어떤 책은 플로리다-버뮤다-푸에르토리코를 잇고, 어떤 서사는 더 넓거나 다른 해역까지 포함한다. **‘특별히 위험한 삼각형’이라는 주장을 검증하려면 먼저 삼각형이 정확히 어디인지 정해야 하는데, 바로 그 출발점부터 흔들린다.**",
+          "textEn": "The Bermuda Triangle is one of the world’s most famous mystery regions, yet NOAA begins with a surprisingly basic fact: it is not an officially defined geographic area. There is no single agreed boundary. Some popular versions connect Florida, Bermuda, and Puerto Rico; others use broader or different areas. To test whether a “special triangle” is unusually dangerous, one must first define the triangle—and that starting point is already unstable."
+        },
+        {
+          "blockId": "official-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "미 해군·해안경비대는 ‘초자연 위험구역’으로 보지 않는다",
+          "headingEn": "U.S. Maritime Agencies Do Not Treat It as a Supernatural Hazard Zone",
+          "textKo": "NOAA는 미 해군과 미 해안경비대가 버뮤다 삼각지대를 선박·항공기의 특별한 초자연 위험구역으로 인정하지 않는다고 정리한다. U.S. Board on Geographic Names도 이 명칭을 공식 지명으로 인정하지 않는다. 이 기관들의 판단이 모든 개별 실종사건을 해결해주는 것은 아니다. 다만 **‘이 지역 전체가 통계적으로 특별한 이상현상 구역이다’라는 큰 주장에는 공식 지원이 없다는 뜻**이다.",
+          "textEn": "NOAA notes that the U.S. Navy and Coast Guard do not recognize the Bermuda Triangle as a special supernatural hazard area for ships or aircraft, and the U.S. Board on Geographic Names does not maintain it as an official geographic name. These positions do not solve every individual loss. They do mean that the broad claim of a statistically special anomalous zone lacks official support."
+        },
+        {
+          "blockId": "weather-03",
+          "type": "BACKGROUND",
+          "headingKo": "실제로 위험한 바다이기는 하다",
+          "headingEn": "The Region Can Be Dangerous Without Being Paranormal",
+          "textKo": "‘초자연적이지 않다’와 ‘안전하다’는 같은 말이 아니다. NOAA는 대서양 열대폭풍과 허리케인의 주요 경로, 빠른 Gulf Stream, 카리브해의 얕은 수역과 항해위험을 이 지역의 현실적인 위험요인으로 든다. 날씨예보·항법기술이 지금보다 약했던 시기에는 이런 조건이 훨씬 치명적이었다. **실제 위험이 존재한다는 사실이 전설의 재료가 될 수 있지만, 실제 위험이 곧 초자연적 원인을 뜻하지 않는다.**",
+          "textEn": "“Not supernatural” does not mean “safe.” NOAA points to Atlantic tropical storms and hurricanes, the fast Gulf Stream, shallow Caribbean waters, and navigational hazards as real dangers in the broader region. Before modern forecasting and navigation, those conditions could be much more deadly. Real hazards can feed a legend without requiring a paranormal cause."
+        },
+        {
+          "blockId": "frequency-04",
+          "type": "TURNING_POINT",
+          "headingKo": "핵심 통계질문: 실종이 정말 더 자주 일어나는가",
+          "headingEn": "The Statistical Question: Do Disappearances Really Happen More Often There?",
+          "textKo": "버뮤다 삼각지대 주장에서 가장 강한 형태는 ‘이곳에서는 다른 바다보다 이상실종이 더 많이 일어난다’는 것이다. NOAA는 이에 대해 **다른 넓고 교통량 많은 해역보다 미스터리한 실종이 더 자주 발생한다는 증거가 없다**고 명시한다. 이 문장은 개별 유명사건의 원인을 하나씩 설명하는 문장이 아니다. 오히려 ‘사건 목록을 모았더니 패턴이 보인다’는 주장에 필요한 비교대상이 빠져 있다는 점을 지적한다.",
+          "textEn": "The strongest version of the Bermuda Triangle claim is statistical: mysterious disappearances supposedly happen there more often than elsewhere. NOAA explicitly states that there is no evidence such disappearances occur more frequently in the Triangle than in other large, heavily travelled ocean areas. That does not explain every famous incident one by one. It challenges the larger pattern claim by asking what the comparison baseline actually is."
+        },
+        {
+          "blockId": "selection-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "유명사건만 모으면 패턴은 더 강해 보인다",
+          "headingEn": "Curating Famous Cases Can Make a Pattern Look Stronger",
+          "textKo": "전설은 대개 유명한 선박·항공기 실종을 한 목록에 묶는 방식으로 만들어진다. 그러나 경계가 유동적인 상태에서 미스터리한 사례는 넣고, 해결된 사고나 비슷한 빈도의 다른 해역은 빼면 선택편향이 생긴다. ‘삼각지대 사건’이 되려면 먼저 그 사건이 어느 경계 안에 있는지, 같은 기간 같은 교통량을 가진 비교해역은 어떤지 따져야 한다. **목록의 인상과 위험률은 같은 지표가 아니다.**",
+          "textEn": "The legend is often built by curating famous ship and aircraft disappearances into one list. But when the boundary itself is flexible, selecting mysterious cases while excluding resolved accidents or comparable losses elsewhere creates selection bias. To call an incident “Triangle evidence,” one must define the region and compare it with similarly travelled waters over the same period. A memorable list is not the same thing as an elevated risk rate."
+        },
+        {
+          "blockId": "compass-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "나침반 이야기도 ‘초자연’ 없이 설명돼야 한다",
+          "headingEn": "Compass Stories Do Not Automatically Require a Mystery Field",
+          "textKo": "버뮤다 삼각지대에는 나침반이 이상하게 움직인다는 이야기도 자주 붙는다. NOAA는 지구 자기장과 true north/magnetic north 관계가 지역과 시기에 따라 달라질 수 있고, 항해오차가 실제 사고요인이 될 수 있다고 설명한다. 중요한 것은 **정상적인 자기편차와 기기·항법오류를 먼저 검토한 뒤에도 설명이 남는지**다. ‘나침반이 달랐다’는 서술만으로 비정상 자기장이나 초자연 현상을 입증할 수 없다.",
+          "textEn": "Stories about malfunctioning compasses are also common in Bermuda Triangle lore. NOAA notes that magnetic variation and the relationship between true and magnetic north change by place and time, while navigational error can contribute to real accidents. The proper question is whether ordinary magnetic variation, instrument issues, and navigation have been excluded before invoking an anomalous field. A report of a compass discrepancy is not proof of a supernatural magnetic phenomenon."
+        },
+        {
+          "blockId": "cases-07",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "개별 사건은 삼각형 전설과 분리해 다시 봐야 한다",
+          "headingEn": "Each Famous Case Has to Be Reopened on Its Own Evidence",
+          "textKo": "Flight 19, Star Tiger, Star Ariel, USS Cyclops 같은 사건은 버뮤다 삼각지대 목록에서 반복해서 등장한다. 그러나 이 사건들은 각자 다른 날짜·기상·기체·선박·수색기록을 가진 독립사건이다. 어떤 것은 원인이 상당히 좁혀지고, 어떤 것은 잔해 부재 때문에 미해결로 남는다. **‘버뮤다 삼각지대에 들어갔다’는 공통라벨이 각 사건의 조사결론을 덮어서는 안 된다.** Mystery Atlas의 Rabbit Hole은 오히려 이들을 개별 dossier로 분리하는 역할을 해야 한다.",
+          "textEn": "Cases such as Flight 19, Star Tiger, Star Ariel, and USS Cyclops recur in Bermuda Triangle lists, but they are separate incidents with different weather, vehicles, search records, and evidence. Some causes can be narrowed substantially; others remain unresolved because wreckage was never found. The shared label “Bermuda Triangle” should not override the investigative record of each case. Mystery Atlas should use the Triangle as a gateway to individual dossiers, not as a substitute for them."
+        },
+        {
+          "blockId": "legend-08",
+          "type": "AFTERMATH",
+          "headingKo": "공식 지명이 아닌데도 세계적 지명이 된 이유",
+          "headingEn": "How an Unofficial Name Became Globally Real in Culture",
+          "textKo": "지리적으로 공식구역이 아니어도 문화적으로는 버뮤다 삼각지대가 매우 ‘실재’한다. 책·잡지·TV와 인터넷을 통해 이름이 반복되고, 유명실종을 하나의 패턴으로 묶는 서사가 수십 년간 재생산됐다. 그래서 이 사건의 결론을 ‘삼각형은 없다’로 끝내는 것도 부정확하다. **공식 지리구역은 아니지만, 하나의 강력한 현대 전설과 분류체계로는 분명히 존재한다.** 미스터리는 바다보다 이야기가 패턴을 만드는 방식에 있다.",
+          "textEn": "The Bermuda Triangle may lack an official geographic boundary, but culturally it is extremely real. Books, magazines, television, and the internet repeatedly reproduced the name and grouped famous losses into one pattern. Ending with “the Triangle does not exist” would therefore be incomplete. It does not exist as an official hazard zone, but it unquestionably exists as a powerful modern legend and classification system."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 버뮤다 삼각지대는 공식 미국 지명이 아니며 공인 경계가 없다. NOAA와 미국 해양기관은 이 지역에서 다른 비슷한 해역보다 미스터리 실종이 더 자주 발생한다는 증거가 없다고 설명한다. 허리케인, Gulf Stream, 얕은 수역, 항법오류 같은 현실적 위험요인은 존재한다.\n\n**확인되지 않음:** 지역 전체를 하나의 초자연적 위험구역으로 만드는 비정상 원인은 입증되지 않는다. 그렇다고 개별 실종사건이 모두 해결됐다는 뜻도 아니다. 각 사건은 별도 조사기록으로 판단해야 한다.",
+          "textEn": "**Established:** The Bermuda Triangle is not an official U.S. geographic name and has no recognized boundary. NOAA and U.S. maritime authorities state there is no evidence of mysterious disappearances occurring more often there than in comparable heavily travelled ocean areas. Real hazards include hurricanes, the Gulf Stream, shallow waters, and navigation error.\n\n**Not established:** No anomalous mechanism has been demonstrated that turns the whole region into a supernatural hazard zone. That does not mean every individual disappearance has been solved; each case must be judged on its own investigative record."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The Bermuda Triangle is not an official U.S. geographic name and has no recognized boundary. NOAA and U.S. maritime authorities state there is no evidence of mysterious disappearances occurring more often there than in comparable heavily travelled ocean areas. Real hazards include hurricanes, the Gulf Stream, shallow waters, and navigation error.\n\n**Not established:** No anomalous mechanism has been demonstrated that turns the whole region into a supernatural hazard zone. That does not mean every individual disappearance has been solved; each case must be judged on its own investigative record.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "official-02",
+        "weather-03",
+        "frequency-04",
+        "selection-05",
+        "compass-06",
+        "cases-07",
+        "legend-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BERM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "버뮤다 삼각지대는 공식 미국 지명이나 공인 경계가 아니다.",
+      "statementEn": "The Bermuda Triangle is not an official U.S. geographic name and has no recognized boundary.",
+      "sourceRefs": [
+        "NOAA_BERMUDA"
+      ]
+    },
+    {
+      "claimId": "BERM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "NOAA는 비슷한 대형 해역보다 미스터리 실종이 더 자주 발생한다는 증거가 없다고 설명한다.",
+      "statementEn": "NOAA states there is no evidence of mysterious disappearances occurring more frequently there than in comparable large ocean areas.",
+      "sourceRefs": [
+        "NOAA_BERMUDA"
+      ]
+    },
+    {
+      "claimId": "BERM-C3",
+      "status": "CONFIRMED",
+      "statementKo": "허리케인, Gulf Stream, 얕은 수역과 항법오류는 현실적 위험요인이다.",
+      "statementEn": "Hurricanes, the Gulf Stream, shallow waters, and navigation error are real hazards in the region.",
+      "sourceRefs": [
+        "NOAA_BERMUDA"
+      ]
+    },
+    {
+      "claimId": "BERM-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "지역 전체에 초자연적 원인이 작용한다는 증거는 확립되지 않았다.",
+      "statementEn": "A supernatural mechanism affecting the entire region is not established.",
+      "sourceRefs": [
+        "NOAA_BERMUDA",
+        "USCG_BERMUDA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NOAA_BERMUDA",
+      "title": "What is the Bermuda Triangle?",
+      "publisher": "NOAA Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/bermudatri.html",
+      "sourceType": "US_GOVERNMENT"
+    },
+    {
+      "sourceId": "USCG_BERMUDA",
+      "title": "Bermuda Triangle / FAQs",
+      "publisher": "U.S. Coast Guard historical FAQ linked by NOAA",
+      "url": "https://www.history.uscg.mil/Frequently-Asked-Questions/",
+      "sourceType": "US_GOVERNMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bermuda-triangle-hero-context",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "버뮤다 삼각지대의 비공식경계·현실위험·사건선택·공식평가를 한눈에 정리한 hero 도표.",
+      "captionEn": "Hero explainer separating the Bermuda Triangle’s unofficial boundary, real hazards, curated cases, and official assessment.",
+      "altKo": "비공식 지명부터 NOAA/USCG 평가까지 네 단계.",
+      "altEn": "Four stages from unofficial geography to NOAA/USCG assessment.",
+      "sourceRefs": [
+        "NOAA_BERMUDA",
+        "USCG_BERMUDA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bermuda-triangle__hero-context__ko.png",
+          "sha256": "f53208deac40e6be7a6a31f332d58d56dfced9e06d577dd5a8e3f2628ea43275",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bermuda-triangle__hero-context__en.png",
+          "sha256": "55c4bb306ed13ee755d5fc8d17c968d55ecbaae242c2f4027c59ab52cc6999fb",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bermuda-triangle-pattern-vs-data",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "버뮤다 삼각지대의 유명사건 목록과 특별위험률 주장 사이의 증거경계를 비교한 카드.",
+      "captionEn": "Evidence card separating famous Bermuda Triangle cases from the unproven claim of elevated anomalous risk.",
+      "altKo": "왼쪽 실제사건·위험, 오른쪽 특별위험률·초자연 원인 미확정.",
+      "altEn": "Two-column comparison of real incidents/hazards and unproven special-risk claims.",
+      "sourceRefs": [
+        "NOAA_BERMUDA",
+        "USCG_BERMUDA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bermuda-triangle__pattern-vs-data__ko.png",
+          "sha256": "8237abb60880162edd6c360a935c24b283adfd8191f6ddbe18749a7b1875b13a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bermuda-triangle__pattern-vs-data__en.png",
+          "sha256": "4ec6f2aca2b253e3d8bd12e39f9c4376e3759fdad3275be59683411b74aef827",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bermuda-triangle-real-hazards",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "버뮤다 삼각지대에 실제 존재하는 기상·해류·수역·항법 위험을 설명하는 도표.",
+      "captionEn": "Diagram of real weather, current, shallow-water, and navigation hazards in the Bermuda Triangle region.",
+      "altKo": "허리케인, Gulf Stream, 얕은 수역, 항법오류 네 위험요인.",
+      "altEn": "Four real hazard factors: storms, Gulf Stream, shallow waters, navigation error.",
+      "sourceRefs": [
+        "NOAA_BERMUDA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bermuda-triangle__real-hazards__ko.png",
+          "sha256": "f8ebdb69855a5297d00bd943f0740c8e860cf957e7ba78bcac55d06b2046b33c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bermuda-triangle__real-hazards__en.png",
+          "sha256": "e3dce2236e3b40ae70a921801e2d6f7b4873de2963ac2104c1d3938920a595b9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "secondaryGenres": [
+      "Maritime / Aviation",
+      "Paranormal / Haunting / Folklore"
+    ],
+    "countries": [
+      "United States",
+      "Bermuda",
+      "Puerto Rico"
+    ],
+    "regions": [
+      "Western North Atlantic / Caribbean context"
+    ],
+    "places": [
+      {
+        "name": "Bermuda",
+        "role": "popular boundary point"
+      },
+      {
+        "name": "Florida",
+        "role": "popular boundary point"
+      },
+      {
+        "name": "Puerto Rico",
+        "role": "popular boundary point"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "NOAA",
+      "U.S. Coast Guard"
+    ],
+    "dateRange": {
+      "start": null,
+      "end": null,
+      "precision": "modern legend; individual incidents span many years"
+    },
+    "era": "Modern",
+    "resolution": "CULTURAL_LEGEND_REAL_SPECIAL_HAZARD_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Bermuda Triangle",
+      "Devil's Triangle"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 2161,
+    "enBodyWords": 633,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH08_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

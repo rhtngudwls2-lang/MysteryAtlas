@@ -7,6 +7,7 @@ import { locales } from "@/content";
 import type { Locale } from "@/content/schema";
 import { absoluteUrl } from "@/lib/site";
 import { getMarket } from "@/config/market";
+import { isPreview } from "@/lib/site";
 
 export const dynamicParams = false;
 export function generateStaticParams() { return locales.map((locale) => ({ locale })); }
@@ -26,5 +27,5 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const { locale: raw } = await params;
   if (!locales.includes(raw as Locale)) notFound();
   const locale = raw as Locale;
-  return <SavedProvider><Header locale={locale}/><main id="main-content" lang={locale}>{children}</main><Footer locale={locale}/></SavedProvider>;
+  return <SavedProvider>{isPreview && <div className="preview-banner">{locale === "ko" ? "Mystery Atlas 미리보기 · 출시 전 콘텐츠 및 기능 검증 중" : "Mystery Atlas preview · editorial and release review in progress"}</div>}<Header locale={locale}/><main id="main-content" lang={locale}>{children}</main><Footer locale={locale}/></SavedProvider>;
 }

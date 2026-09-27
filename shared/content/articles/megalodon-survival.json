@@ -1,0 +1,413 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "megalodon-survival",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "메갈로돈 현대 생존설",
+    "canonicalTitleEn": "Megalodon Survival Claim",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "심해 어딘가에 메갈로돈이 살아 있다면 무엇이 남아 있어야 할까",
+      "hook": "메갈로돈은 진짜 있었던 상어다. 하지만 상어는 평생 이빨을 갈고 대형포식자는 먹이망에 흔적을 남긴다. 현대 생존설은 ‘바다를 다 못 봤다’보다 최근 치아·DNA·사체가 왜 없는지를 설명해야 한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "메갈로돈은 진짜였다—바로 그 사실이 생존설을 더 강하게 만든다",
+          "headingEn": "Megalodon Was Real—and That Makes the Survival Story More Tempting",
+          "textKo": "Otodus megalodon은 상상 속 괴수가 아니라 수천만 년 동안 살았던 실제 거대상어다. Natural History Museum은 화석이 약 2,300만~360만 년 전 지층에서 발견되며 최대급 포식상어였다고 설명한다. ‘한때 정말 있었다’는 사실 때문에 현대 심해에 아직 남아 있을 가능성을 상상하기 쉽다. 하지만 **과거 실재와 현재 생존은 서로 다른 증거문제**다.",
+          "textEn": "Otodus megalodon was not a mythical monster but a real giant shark that lived for millions of years. The Natural History Museum places its fossil record roughly between 23 million and 3.6 million years ago. Because the animal genuinely existed, modern survival stories feel more plausible. Past existence and present survival, however, require different evidence."
+        },
+        {
+          "blockId": "teeth-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "상어는 평생 이빨을 버리기 때문에 ‘숨은 개체군’도 흔적을 남겨야 한다",
+          "headingEn": "A Surviving Population Should Leave Teeth",
+          "textKo": "상어의 골격은 연골이라 잘 화석화되지 않지만 이빨은 다르다. 메갈로돈은 여러 줄의 치아를 계속 교체했고, 수백만 년의 화석기록은 바다퇴적층에 엄청난 양의 이빨을 남겼다. NHM은 약 360만 년보다 젊은 megalodon tooth—화석, subfossil, 신선한 치아—가 발견되지 않았다고 강조한다. **현재 번식집단이 존재한다면 낡은 화석만 아니라 최근에 빠진 치아·사체·DNA 같은 신호가 기대된다.**",
+          "textEn": "Shark cartilage fossilizes poorly, but teeth are different. Megalodon continually replaced rows of teeth, leaving an enormous dental fossil record. The Natural History Museum emphasizes that no megalodon tooth younger than roughly 3.6 million years has been found—not as younger fossils, subfossils, or freshly shed teeth. A living breeding population should be expected to leave recent traces such as teeth, carcasses, or DNA."
+        },
+        {
+          "blockId": "date-03",
+          "type": "TURNING_POINT",
+          "headingKo": "화석연대 재검토는 약 360만 년 전 소멸을 지지한다",
+          "headingEn": "Revised Fossil Dating Supports Extinction Around 3.6 Million Years Ago",
+          "textKo": "Boessenecker 연구팀의 2019년 재분석은 동부 북태평양을 포함한 fossil occurrence의 연대와 지층을 다시 검토해 megalodon이 약 360만 년 전 무렵 전지구적으로 사라졌다는 결론을 강하게 지지했다. 연구는 더 젊다고 보고됐던 일부 기록의 연대·동정 문제를 정리했다. **‘최근까지 살았다’는 주장을 검증할 때는 유명한 이빨 한 점보다 그 이빨의 지층·연대가 정말 최근인지가 핵심**이다.",
+          "textEn": "A 2019 reanalysis by Boessenecker and colleagues revisited the age and stratigraphy of fossil occurrences, including the eastern North Pacific, and strongly supported global extinction around 3.6 million years ago. The study re-evaluated reports thought to be younger and addressed dating or identification problems. Claims of recent survival depend not on possessing a tooth, but on whether its geological context is genuinely young."
+        },
+        {
+          "blockId": "deepsea-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘심해의 대부분을 모른다’는 말은 생존증거가 아니다",
+          "headingEn": "“We Haven’t Explored the Whole Ocean” Is Not Positive Evidence",
+          "textKo": "심해가 완전히 탐사되지 않았다는 사실은 어떤 종의 생존을 논리적으로 0으로 만들 수 없다는 뜻이지, megalodon 생존을 지지하는 양의 증거는 아니다. 현대의 거대상어·고래·대형오징어는 드물게 보이더라도 사체, 부상, 카메라, 유전물질, 먹이흔적을 남긴다. **거대한 최상위포식자의 번식개체군이 수백만 년 동안 아무 최근 치아·사체·DNA 없이 숨어 있다는 가설은 설명해야 할 증거부재가 매우 크다.**",
+          "textEn": "The ocean is incompletely explored, but that only means survival cannot be ruled out by exhaustive visual coverage alone; it is not positive evidence for megalodon. Modern whales, whale sharks, and giant squid may be rarely seen alive, yet they leave carcasses, injuries, photographs, genetic material, and ecological traces. A breeding population of gigantic apex predators surviving without recent teeth, bodies, or DNA would have to explain a substantial absence of expected evidence."
+        },
+        {
+          "blockId": "ecology-05",
+          "type": "BACKGROUND",
+          "headingKo": "몸집이 클수록 먹이망에서 흔적을 감추기 어렵다",
+          "headingEn": "A Giant Predator Would Also Leave Ecological Traces",
+          "textKo": "메갈로돈은 작은 심해어가 아니라 대형 해양포유류 등을 먹던 최상위 포식자였다. NHM은 화석치아와 먹이흔적을 바탕으로 고래·큰 물고기·다른 상어를 먹이로 설명한다. 살아 있는 개체군이라면 먹이개체에 큰 물림흔적, 포식패턴, 이동경로와 에너지수요가 생태계에 나타날 가능성이 높다. **‘깊은 바다에 숨었다’는 가설은 단순히 카메라를 피하는 것뿐 아니라 전체 먹이망에서 흔적을 남기지 않아야 한다.**",
+          "textEn": "Megalodon was not a tiny deep-sea fish but an apex predator associated with large marine prey including whales, fish, and other sharks. A living population would likely impose ecological signals—large bite injuries, predation patterns, movement demands, and substantial energy consumption. A 'hidden in the deep' hypothesis must explain not just absence from cameras but absence from the food web."
+        },
+        {
+          "blockId": "extinction-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "왜 멸종했는지는 하나의 원인으로 끝나지 않는다",
+          "headingEn": "Its Extinction Probably Was Not Caused by One Simple Factor",
+          "textKo": "메갈로돈 멸종원인에는 해양냉각, 먹이구성 변화, 고래분포 변화, 경쟁상어의 등장 등 여러 가설이 있다. 2022년 동위원소 연구는 megalodon과 초기 great white 계통이 먹이자원을 상당 부분 공유했음을 보여 경쟁이 기여했을 가능성을 제시했다. 그러나 **‘백상아리가 메갈로돈을 멸종시켰다’는 단일원인 판정은 과도하다.** 기후·먹이·경쟁이 함께 작용했을 수 있다.",
+          "textEn": "Proposed causes of megalodon extinction include ocean cooling, changes in prey, shifting whale distributions, and competition from other sharks. A 2022 dietary-isotope study found substantial overlap between megalodon and early great-white lineages, suggesting competition may have contributed. That does not establish a simple story in which great whites alone caused the extinction; multiple ecological changes may have interacted."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** megalodon은 실제 존재했던 거대상어이며 화석기록은 약 360만 년 전 무렵까지 이어진다. 최근 화석연대 재검토도 이 시기 전지구 소멸을 강하게 지지한다. 상어의 지속적 치아교체에도 불구하고 그보다 젊은 megalodon 치아·subfossil·신선한 치아가 확인되지 않았고 현대 생존을 뒷받침하는 사체·DNA도 없다.\n\n**확인되지 않음:** 현대 심해에 megalodon 번식집단이 살아 있다는 과학적 증거는 없다. 반대로 정확한 멸종원인을 한 가지—기후 또는 great white 경쟁—만으로 확정할 수도 없다.",
+          "textEn": "**Established:** Megalodon was a real giant shark whose fossil record extends to roughly 3.6 million years ago, a timing strongly supported by revised fossil analyses. Despite continuous tooth replacement, no younger fossil, subfossil, or fresh megalodon teeth are confirmed, and no modern carcass or DNA supports survival.\n\n**Not established:** There is no scientific evidence for a living modern megalodon population. Nor can the extinction be reduced with certainty to one factor such as climate or great-white competition."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** megalodon은 실제 존재했던 거대상어이며 화석기록은 약 360만 년 전 무렵까지 이어진다. 최근 화석연대 재검토도 이 시기 전지구 소멸을 강하게 지지한다. 상어의 지속적 치아교체에도 불구하고 그보다 젊은 megalodon 치아·subfossil·신선한 치아가 확인되지 않았고 현대 생존을 뒷받침하는 사체·DNA도 없다.\n\n**확인되지 않음:** 현대 심해에 megalodon 번식집단이 살아 있다는 과학적 증거는 없다. 반대로 정확한 멸종원인을 한 가지—기후 또는 great white 경쟁—만으로 확정할 수도 없다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "teeth-02",
+        "date-03",
+        "deepsea-04",
+        "ecology-05",
+        "extinction-06"
+      ]
+    },
+    "en": {
+      "headline": "If Megalodon Still Lived in the Deep Ocean, What Evidence Should We Expect?",
+      "hook": "Megalodon was real. But sharks shed teeth throughout life and giant predators leave ecological traces. A survival claim must explain the absence of recent teeth, DNA, bodies, and food-web evidence—not simply point to unexplored ocean.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "메갈로돈은 진짜였다—바로 그 사실이 생존설을 더 강하게 만든다",
+          "headingEn": "Megalodon Was Real—and That Makes the Survival Story More Tempting",
+          "textKo": "Otodus megalodon은 상상 속 괴수가 아니라 수천만 년 동안 살았던 실제 거대상어다. Natural History Museum은 화석이 약 2,300만~360만 년 전 지층에서 발견되며 최대급 포식상어였다고 설명한다. ‘한때 정말 있었다’는 사실 때문에 현대 심해에 아직 남아 있을 가능성을 상상하기 쉽다. 하지만 **과거 실재와 현재 생존은 서로 다른 증거문제**다.",
+          "textEn": "Otodus megalodon was not a mythical monster but a real giant shark that lived for millions of years. The Natural History Museum places its fossil record roughly between 23 million and 3.6 million years ago. Because the animal genuinely existed, modern survival stories feel more plausible. Past existence and present survival, however, require different evidence."
+        },
+        {
+          "blockId": "teeth-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "상어는 평생 이빨을 버리기 때문에 ‘숨은 개체군’도 흔적을 남겨야 한다",
+          "headingEn": "A Surviving Population Should Leave Teeth",
+          "textKo": "상어의 골격은 연골이라 잘 화석화되지 않지만 이빨은 다르다. 메갈로돈은 여러 줄의 치아를 계속 교체했고, 수백만 년의 화석기록은 바다퇴적층에 엄청난 양의 이빨을 남겼다. NHM은 약 360만 년보다 젊은 megalodon tooth—화석, subfossil, 신선한 치아—가 발견되지 않았다고 강조한다. **현재 번식집단이 존재한다면 낡은 화석만 아니라 최근에 빠진 치아·사체·DNA 같은 신호가 기대된다.**",
+          "textEn": "Shark cartilage fossilizes poorly, but teeth are different. Megalodon continually replaced rows of teeth, leaving an enormous dental fossil record. The Natural History Museum emphasizes that no megalodon tooth younger than roughly 3.6 million years has been found—not as younger fossils, subfossils, or freshly shed teeth. A living breeding population should be expected to leave recent traces such as teeth, carcasses, or DNA."
+        },
+        {
+          "blockId": "date-03",
+          "type": "TURNING_POINT",
+          "headingKo": "화석연대 재검토는 약 360만 년 전 소멸을 지지한다",
+          "headingEn": "Revised Fossil Dating Supports Extinction Around 3.6 Million Years Ago",
+          "textKo": "Boessenecker 연구팀의 2019년 재분석은 동부 북태평양을 포함한 fossil occurrence의 연대와 지층을 다시 검토해 megalodon이 약 360만 년 전 무렵 전지구적으로 사라졌다는 결론을 강하게 지지했다. 연구는 더 젊다고 보고됐던 일부 기록의 연대·동정 문제를 정리했다. **‘최근까지 살았다’는 주장을 검증할 때는 유명한 이빨 한 점보다 그 이빨의 지층·연대가 정말 최근인지가 핵심**이다.",
+          "textEn": "A 2019 reanalysis by Boessenecker and colleagues revisited the age and stratigraphy of fossil occurrences, including the eastern North Pacific, and strongly supported global extinction around 3.6 million years ago. The study re-evaluated reports thought to be younger and addressed dating or identification problems. Claims of recent survival depend not on possessing a tooth, but on whether its geological context is genuinely young."
+        },
+        {
+          "blockId": "deepsea-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘심해의 대부분을 모른다’는 말은 생존증거가 아니다",
+          "headingEn": "“We Haven’t Explored the Whole Ocean” Is Not Positive Evidence",
+          "textKo": "심해가 완전히 탐사되지 않았다는 사실은 어떤 종의 생존을 논리적으로 0으로 만들 수 없다는 뜻이지, megalodon 생존을 지지하는 양의 증거는 아니다. 현대의 거대상어·고래·대형오징어는 드물게 보이더라도 사체, 부상, 카메라, 유전물질, 먹이흔적을 남긴다. **거대한 최상위포식자의 번식개체군이 수백만 년 동안 아무 최근 치아·사체·DNA 없이 숨어 있다는 가설은 설명해야 할 증거부재가 매우 크다.**",
+          "textEn": "The ocean is incompletely explored, but that only means survival cannot be ruled out by exhaustive visual coverage alone; it is not positive evidence for megalodon. Modern whales, whale sharks, and giant squid may be rarely seen alive, yet they leave carcasses, injuries, photographs, genetic material, and ecological traces. A breeding population of gigantic apex predators surviving without recent teeth, bodies, or DNA would have to explain a substantial absence of expected evidence."
+        },
+        {
+          "blockId": "ecology-05",
+          "type": "BACKGROUND",
+          "headingKo": "몸집이 클수록 먹이망에서 흔적을 감추기 어렵다",
+          "headingEn": "A Giant Predator Would Also Leave Ecological Traces",
+          "textKo": "메갈로돈은 작은 심해어가 아니라 대형 해양포유류 등을 먹던 최상위 포식자였다. NHM은 화석치아와 먹이흔적을 바탕으로 고래·큰 물고기·다른 상어를 먹이로 설명한다. 살아 있는 개체군이라면 먹이개체에 큰 물림흔적, 포식패턴, 이동경로와 에너지수요가 생태계에 나타날 가능성이 높다. **‘깊은 바다에 숨었다’는 가설은 단순히 카메라를 피하는 것뿐 아니라 전체 먹이망에서 흔적을 남기지 않아야 한다.**",
+          "textEn": "Megalodon was not a tiny deep-sea fish but an apex predator associated with large marine prey including whales, fish, and other sharks. A living population would likely impose ecological signals—large bite injuries, predation patterns, movement demands, and substantial energy consumption. A 'hidden in the deep' hypothesis must explain not just absence from cameras but absence from the food web."
+        },
+        {
+          "blockId": "extinction-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "왜 멸종했는지는 하나의 원인으로 끝나지 않는다",
+          "headingEn": "Its Extinction Probably Was Not Caused by One Simple Factor",
+          "textKo": "메갈로돈 멸종원인에는 해양냉각, 먹이구성 변화, 고래분포 변화, 경쟁상어의 등장 등 여러 가설이 있다. 2022년 동위원소 연구는 megalodon과 초기 great white 계통이 먹이자원을 상당 부분 공유했음을 보여 경쟁이 기여했을 가능성을 제시했다. 그러나 **‘백상아리가 메갈로돈을 멸종시켰다’는 단일원인 판정은 과도하다.** 기후·먹이·경쟁이 함께 작용했을 수 있다.",
+          "textEn": "Proposed causes of megalodon extinction include ocean cooling, changes in prey, shifting whale distributions, and competition from other sharks. A 2022 dietary-isotope study found substantial overlap between megalodon and early great-white lineages, suggesting competition may have contributed. That does not establish a simple story in which great whites alone caused the extinction; multiple ecological changes may have interacted."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** megalodon은 실제 존재했던 거대상어이며 화석기록은 약 360만 년 전 무렵까지 이어진다. 최근 화석연대 재검토도 이 시기 전지구 소멸을 강하게 지지한다. 상어의 지속적 치아교체에도 불구하고 그보다 젊은 megalodon 치아·subfossil·신선한 치아가 확인되지 않았고 현대 생존을 뒷받침하는 사체·DNA도 없다.\n\n**확인되지 않음:** 현대 심해에 megalodon 번식집단이 살아 있다는 과학적 증거는 없다. 반대로 정확한 멸종원인을 한 가지—기후 또는 great white 경쟁—만으로 확정할 수도 없다.",
+          "textEn": "**Established:** Megalodon was a real giant shark whose fossil record extends to roughly 3.6 million years ago, a timing strongly supported by revised fossil analyses. Despite continuous tooth replacement, no younger fossil, subfossil, or fresh megalodon teeth are confirmed, and no modern carcass or DNA supports survival.\n\n**Not established:** There is no scientific evidence for a living modern megalodon population. Nor can the extinction be reduced with certainty to one factor such as climate or great-white competition."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Megalodon was a real giant shark whose fossil record extends to roughly 3.6 million years ago, a timing strongly supported by revised fossil analyses. Despite continuous tooth replacement, no younger fossil, subfossil, or fresh megalodon teeth are confirmed, and no modern carcass or DNA supports survival.\n\n**Not established:** There is no scientific evidence for a living modern megalodon population. Nor can the extinction be reduced with certainty to one factor such as climate or great-white competition.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "teeth-02",
+        "date-03",
+        "deepsea-04",
+        "ecology-05",
+        "extinction-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MEG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Megalodon은 약 360만 년 전 무렵까지 화석기록이 존재하는 실제 거대상어였다.",
+      "statementEn": "Megalodon was a real giant shark with a fossil record extending to roughly 3.6 million years ago.",
+      "sourceRefs": [
+        "MEG_NHM",
+        "MEG_2019"
+      ]
+    },
+    {
+      "claimId": "MEG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "360만 년보다 젊은 확정 megalodon 치아·subfossil·신선한 치아는 알려져 있지 않다.",
+      "statementEn": "No confirmed megalodon teeth younger than about 3.6 million years—fossil, subfossil, or fresh—are known.",
+      "sourceRefs": [
+        "MEG_NHM"
+      ]
+    },
+    {
+      "claimId": "MEG-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현대 심해에 megalodon 번식집단이 존재한다는 과학적 증거는 없다.",
+      "statementEn": "There is no scientific evidence for a surviving modern breeding population of megalodon.",
+      "sourceRefs": [
+        "MEG_NHM",
+        "MEG_2019"
+      ]
+    },
+    {
+      "claimId": "MEG-C4",
+      "status": "SUPPORTED",
+      "statementKo": "초기 great white 계통과 먹이경쟁은 멸종에 기여했을 가능성이 있다.",
+      "statementEn": "Dietary competition with early great-white lineages may have contributed to megalodon extinction.",
+      "sourceRefs": [
+        "MEG_DIET2022"
+      ]
+    },
+    {
+      "claimId": "MEG-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "great white 경쟁 하나가 megalodon 멸종의 유일한 원인이라는 것은 확립되지 않는다.",
+      "statementEn": "Competition with great whites alone is not established as the sole cause of megalodon extinction.",
+      "sourceRefs": [
+        "MEG_DIET2022",
+        "MEG_2019"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MEG_NHM",
+      "title": "Is megalodon still alive?",
+      "publisher": "Natural History Museum London",
+      "url": "https://www.nhm.ac.uk/discover/is-megalodon-still-alive.html",
+      "sourceType": "NATIONAL_MUSEUM_SCIENCE"
+    },
+    {
+      "sourceId": "MEG_2019",
+      "title": "The Early Pliocene extinction of the mega-toothed shark Otodus megalodon",
+      "publisher": "PeerJ / Boessenecker et al. 2019 via PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6377595/",
+      "sourceType": "PEER_REVIEWED_FOSSIL_REANALYSIS"
+    },
+    {
+      "sourceId": "MEG_DIET2022",
+      "title": "Great white sharks could have contributed to megalodon extinction",
+      "publisher": "Natural History Museum summary of Nature Communications research",
+      "url": "https://www.nhm.ac.uk/discover/news/2022/may/great-white-sharks-could-have-contributed-megalodon-extinction.html",
+      "sourceType": "MUSEUM_CURRENT_RESEARCH_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "meg-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "약 2,300만 년 전 출현 → 360만 년 전 무렵 마지막 화석 → 현대 생존증거 0.",
+      "captionEn": "~23 Ma first record → ~3.6 Ma final fossil record → no modern survival evidence.",
+      "altKo": "약 2,300만 년 전 출현 → 360만 년 전 무렵 마지막 화석 → 현대 생존증거 0.",
+      "altEn": "~23 Ma first record → ~3.6 Ma final fossil record → no modern survival evidence.",
+      "sourceRefs": [
+        "MEG_NHM",
+        "MEG_2019",
+        "MEG_DIET2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "megalodon-survival__v01__ko.png",
+          "sha256": "f4f913ad02280d2935305d66f10710186fa35a7f03b876e14b92a5262c7ee002",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "megalodon-survival__v01__en.png",
+          "sha256": "5f70fe0bf1b05fe0f3ecdbe05dcc6a3764f6ebf9ec94271b50f8ac1b39f2aee7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "meg-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "지속적 치아교체 때문에 살아 있는 대형상어 개체군이 남길 것으로 기대되는 증거.",
+      "captionEn": "Expected evidence from a living giant-shark population given continuous tooth replacement.",
+      "altKo": "지속적 치아교체 때문에 살아 있는 대형상어 개체군이 남길 것으로 기대되는 증거.",
+      "altEn": "Expected evidence from a living giant-shark population given continuous tooth replacement.",
+      "sourceRefs": [
+        "MEG_NHM",
+        "MEG_2019",
+        "MEG_DIET2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "megalodon-survival__v02__ko.png",
+          "sha256": "ae6b2be499a47e4d94f29a32a709efbe15a9f5a7c4a1da54fad3fd8e03e500c1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "megalodon-survival__v02__en.png",
+          "sha256": "fbc3d0f3da1bf8c4fa6f4c46ae1efd045d9d7991c002d56b054f25595591a872",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "meg-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘심해 미탐사’ 논리와 실제 현대 생존증거 요구사항 비교.",
+      "captionEn": "Comparison between the 'unexplored deep sea' argument and actual evidence expected from modern survival.",
+      "altKo": "‘심해 미탐사’ 논리와 실제 현대 생존증거 요구사항 비교.",
+      "altEn": "Comparison between the 'unexplored deep sea' argument and actual evidence expected from modern survival.",
+      "sourceRefs": [
+        "MEG_NHM",
+        "MEG_2019",
+        "MEG_DIET2022"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "megalodon-survival__v03__ko.png",
+          "sha256": "b99a1c65138e4373ac0e612a3cfa41bb66bc247b6f1f3e465912348737291efe",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "megalodon-survival__v03__en.png",
+          "sha256": "d90d49acde12c71360c3588961d52b15e478bc1112ebc92374049a17bcb326b6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "Global fossil record"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Natural History Museum London"
+    ],
+    "dateRange": {
+      "start": "c.23 Ma",
+      "end": "c.3.6 Ma",
+      "precision": "fossil range; extinction estimate"
+    },
+    "era": "Cenozoic / modern paleontology",
+    "resolution": "EXTINCT_MODERN_SURVIVAL_NOT_SUPPORTED",
+    "searchAliases": [
+      "megalodon survival",
+      "Otodus megalodon alive",
+      "living megalodon"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1641,
+    "enBodyWords": 454,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH10",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH10_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

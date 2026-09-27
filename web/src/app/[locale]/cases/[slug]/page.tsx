@@ -15,6 +15,8 @@ import { caseBySlug, cases, categories, locales } from "@/content";
 import type { Locale } from "@/content/schema";
 import { readingMinutes } from "@/lib/reading-time";
 import { absoluteUrl } from "@/lib/site";
+import { getProductizedArticle, productizedIds } from "@/content/productized";
+import { ProductizedArticleView } from "@/components/ProductizedArticleView";
 
 export const dynamicParams = false;
 export function generateStaticParams() { return locales.flatMap((locale) => cases.map((record) => ({ locale, slug: record.slug }))); }
@@ -24,13 +26,17 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const locale = raw as Locale;
   const record = caseBySlug(slug);
   if (!record) return {};
+  const productized = productizedIds.has(slug) ? await getProductizedArticle(slug) : undefined;
+  const title = productized?.localizedCopy[locale].headline ?? record.title;
+  const description = productized?.localizedCopy[locale].hook ?? record.preview[locale];
   const canonical = absoluteUrl(`/${locale}/cases/${slug}/`);
   const image = record.images.find((item) => item.role === "HERO" && item.path);
   return {
-    title: record.title,
-    description: record.preview[locale],
+    title,
+    description,
     alternates: { canonical, languages: { en: absoluteUrl(`/en/cases/${slug}/`), ko: absoluteUrl(`/ko/cases/${slug}/`) } },
-    openGraph: { title: record.title, description: record.preview[locale], url: canonical, type: "article", images: image?.path ? [{ url: absoluteUrl(image.path), alt: image.alt[locale] }] : [] },
+    openGraph: { title, description, url: canonical, type: "article", images: image?.path ? [{ url: absoluteUrl(image.localizedPaths?.[locale] ?? image.path), alt: image.alt[locale] }] : [] },
+    twitter: { card: "summary_large_image", title, description, images: image?.path ? [absoluteUrl(image.localizedPaths?.[locale] ?? image.path)] : [] },
   };
 }
 
@@ -39,6 +45,19 @@ export default async function CasePage({ params }: { params: Promise<{ locale: s
   const locale = raw as Locale;
   const record = caseBySlug(slug);
   if (!record) notFound();
+  if (productizedIds.has(slug)) {
+    const article = await getProductizedArticle(slug);
+    if (!article) notFound();
+    const structuredData = {
+      "@context": "https://schema.org", "@type": "Article", inLanguage: locale,
+      headline: article.localizedCopy[locale].headline,
+      description: article.localizedCopy[locale].hook,
+      mainEntityOfPage: absoluteUrl(`/${locale}/cases/${slug}/`),
+      image: article.visuals.filter((visual) => visual.role === "HERO_CONTEXT").map((visual) => absoluteUrl(`/media/${visual.localizedFiles[locale].fileName}`)),
+      isAccessibleForFree: true,
+    };
+    return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }}/><ProductizedArticleView article={article} locale={locale}/></>;
+  }
   const hero = record.images.find((item) => item.role === "HERO")!;
   const genre = categories.find((item) => item.id === record.categories[0])?.name[locale];
   return <article className="case-page">

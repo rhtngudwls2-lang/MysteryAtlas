@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "U2-1.0",
+  "source": "shared/content/articles/*.json + shared/content/media/*.png + shared/content/visual-manifest.json + shared/design/design-tokens.json",
+  "web": {
+    "importer": "shared/tools/sync_content.py",
+    "summary": "shared/content/index.json",
+    "article": "web/src/content/productized.ts + productized-loaders.generated.ts",
+    "reader": "web/src/components/ProductizedArticleView.tsx",
+    "media": "web/public/media/ (generated copy, not committed)"
+  },
+  "android": {
+    "sourceAvailability": "BLOCKED_LATEST_SOURCE_UNAVAILABLE",
+    "assetsProposed": "app/src/main/assets/data/productized/articles/*.json and app/src/main/assets/media/*.png",
+    "targets": "CONFIRM against authoritative Android source before editing; no exact Kotlin paths verified",
+    "adapter": "parse canonicalId/locale blocks, linked claim/source refs, visual role and localized file; preserve existing VC16 audio",
+    "validation": "enforce same content validator and parity; CI image checksums"
+  },
+  "neverRenameCanonicalIds": true
+}

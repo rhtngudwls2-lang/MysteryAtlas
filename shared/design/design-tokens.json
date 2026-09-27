@@ -1,0 +1,130 @@
+{
+  "typography": {
+    "family": "Pretendard Variable, system-ui fallback",
+    "fontLicense": "SIL Open Font License 1.1; bundled license; commercial use allowed subject to license terms",
+    "fontSource": "https://github.com/orioncactus/pretendard",
+    "webFontBytes": 2057688,
+    "fontDisplay": "swap",
+    "body": {
+      "sizePx": 17,
+      "sizeChoicesPx": [
+        16,
+        17,
+        18
+      ],
+      "lineHeight": 1.68,
+      "relaxedLineHeight": 1.78,
+      "paragraphGapEm": 1.07,
+      "weight": 410,
+      "compactLineHeight": 1.55,
+      "lineHeightChoices": {
+        "compact": 1.55,
+        "normal": 1.68,
+        "relaxed": 1.78
+      }
+    },
+    "headline": {
+      "weight": 700,
+      "lineHeight": 1.16,
+      "desktopRemRange": [
+        2.7,
+        4.4
+      ],
+      "mobileRemRange": [
+        2.25,
+        3.3
+      ]
+    },
+    "section": {
+      "weight": 690,
+      "lineHeight": 1.29,
+      "remRange": [
+        1.55,
+        2.15
+      ]
+    },
+    "metadata": {
+      "minApproxRem": 0.8,
+      "colorToken": "muted"
+    }
+  },
+  "colors": {
+    "background": "#14181a",
+    "surface": "#1d2325",
+    "surfaceElevated": "#232a2c",
+    "text": "#f4f1e9",
+    "secondary": "#c6c9c5",
+    "tertiary": "#aab0ae",
+    "border": "#394143",
+    "accent": "#dfbc83",
+    "accentMuted": "#947853"
+  },
+  "tones": {
+    "dark": {
+      "background": "#14181a",
+      "surface": "#1d2325"
+    },
+    "dim": {
+      "background": "#101719",
+      "surface": "#182023"
+    },
+    "warm": {
+      "background": "#1b1917",
+      "surface": "#26221d"
+    }
+  },
+  "layout": {
+    "spacingPx": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48
+    ],
+    "readerMaxWidthPx": 740,
+    "shellMaxWidthPx": 1200,
+    "mobileSidePaddingPx": 20,
+    "cardRadiusPx": 9,
+    "minimumArticleControlTargetPx": 40,
+    "preferredTargetPx": 44
+  },
+  "components": {
+    "articleToolbar": [
+      "back",
+      "article title",
+      "locale",
+      "Aa",
+      "share"
+    ],
+    "reader": [
+      "metadata",
+      "headline",
+      "hook",
+      "hero",
+      "narrative",
+      "evidence",
+      "fact boundary",
+      "sources",
+      "rabbit hole"
+    ],
+    "evidenceLayers": [
+      "narrative",
+      "evidence summary",
+      "claim details",
+      "source link"
+    ],
+    "searchResult": [
+      "title",
+      "hook",
+      "genre/country/era",
+      "read time"
+    ]
+  },
+  "schemaVersion": "U2-1.0",
+  "implementation": {
+    "web": "web/src/app/editorial.css",
+    "android": "Android adapter pending authoritative VC16 source"
+  }
+}
