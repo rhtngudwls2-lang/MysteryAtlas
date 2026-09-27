@@ -1,6 +1,7 @@
 import articleIndex from "../../../shared/content/index.json";
 import { productizedLoaders } from "./productized-loaders.generated";
 import type { CaseRecord, Locale, Localized } from "./schema";
+import { countryLabel } from "./taxonomy";
 
 type LocaleCopy = { headline: string; hook: string; factBoundary: { established: string; notEstablished: string }; blocks: ProductizedBlock[] };
 export type ProductizedBlock = { blockId: string; type: string; headingKo: string; headingEn: string; textKo: string; textEn: string };
@@ -42,7 +43,7 @@ export function productizedCaseCard(item: Summary): CaseRecord {
   return {
     id: item.canonicalId, slug: item.canonicalId, title: title.en, displayTitle: title,
     subtitle, preview, status: { ko: "연구 미리보기", en: "Research preview" },
-    country: { ko: country, en: country }, year: date,
+    country: { ko: item.countries.map((name) => countryLabel(name, "ko")).join(", ") || "불명", en: country }, year: date,
     categories: [item.genre], tags: [item.genre, ...item.genres, item.era, item.resolution, ...item.regions],
     aliases: item.aliases, people: item.people.map((person) => person.name), places: item.places.map((place) => place.name),
     dates: [item.dateRange.start, item.dateRange.end].filter(Boolean).map(String),

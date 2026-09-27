@@ -2,6 +2,7 @@ import { legacyCases, legacyCategories } from "./legacy";
 import { cooperClaims, researchedCases } from "./researched";
 import type { CaseRecord, CollectionRecord, Locale, Localized } from "./schema";
 import { productizedCaseCard, productizedItems } from "./productized";
+import { genreLabel } from "./taxonomy";
 
 const L = (en: string, ko: string): Localized => ({ en, ko });
 
@@ -87,7 +88,7 @@ export const categories = [
   ...legacyCategories,
   ...[...new Set(productizedItems.map((item) => item.genre))]
     .filter((name) => !legacyCategories.some((item) => item.id === name))
-    .map((name) => ({ id: name, name: L(name, name) })),
+    .map((name) => ({ id: name, name: L(name, genreLabel(name, "ko")) })),
 ];
 
 export const collections: CollectionRecord[] = [

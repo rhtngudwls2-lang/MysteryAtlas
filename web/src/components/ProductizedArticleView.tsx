@@ -8,6 +8,7 @@ import { cases } from "@/content";
 import { productizedItems, type ProductizedArticle, type ProductizedBlock, type ProductizedVisual } from "@/content/productized";
 import type { Locale } from "@/content/schema";
 import { assetUrl } from "@/lib/base-path";
+import { countryLabel, genreLabel } from "@/content/taxonomy";
 
 function richText(text: string) {
   return text.split(/\*\*(.*?)\*\*/g).map((part, i) => i % 2 ? <strong key={i}>{part}</strong> : part);
@@ -81,7 +82,7 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
   const boundary = copy.blocks.filter((block) => block.type === "FACT_BOUNDARY");
   const aftermath = copy.blocks.filter((block) => block.type === "AFTERMATH");
   const visualSlots = inlines.map((_, i) => Math.max(0, Math.min(story.length - 1, Math.floor((i + 1) * story.length / (inlines.length + 1)))));
-  const country = article.metadata.countries.join(", ");
+  const country = article.metadata.countries.map((name) => countryLabel(name, locale)).join(", ") || (locale === "ko" ? "장소 미상" : "Place unknown");
   return <article className="case-page productized-page" data-canonical-id={article.canonicalId}>
     <ReadingProgressTracker canonicalId={article.canonicalId} locale={locale}/>
     <div className="article-toolbar"><div className="article-toolbar-inner">
@@ -91,9 +92,9 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
     <header className="case-hero">
       <div className="case-hero-copy">
         <p className="kicker">{locale === "ko" ? "연구 미리보기 · 출시 전 검증 중" : "Research preview · release review pending"}</p>
-        <div className="eyebrow"><span>{article.metadata.primaryGenre}</span><span>{country}</span><span>{article.metadata.era}</span></div>
+        <div className="eyebrow"><span>{genreLabel(article.metadata.primaryGenre, locale)}</span><span>{country}</span><span>{article.metadata.dateRange.start ?? article.metadata.era}</span></div>
         <p className="u2-case-title">{title}</p><h1>{copy.headline}</h1><p className="case-subtitle">{copy.hook}</p>
-        <div className="verification-line"><span>{article.metadata.dateRange.start ?? article.metadata.era}</span><span>{locale === "ko" ? "근거와 출처 포함" : "Evidence and sources included"}</span></div>
+        <div className="verification-line"><span>{locale === "ko" ? "근거와 출처 포함" : "Evidence and sources included"}</span></div>
       </div>
       <ProductVisual article={article} visual={hero} locale={locale} hero/>
     </header>
