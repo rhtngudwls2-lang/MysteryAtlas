@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./editorial.css";
 import { getMarket } from "@/config/market";
 
 const defaultMarket = getMarket("en");

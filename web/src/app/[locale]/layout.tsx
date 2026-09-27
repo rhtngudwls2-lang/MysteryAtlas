@@ -26,5 +26,5 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const { locale: raw } = await params;
   if (!locales.includes(raw as Locale)) notFound();
   const locale = raw as Locale;
-  return <SavedProvider><Header locale={locale}/><main id="main-content">{children}</main><Footer locale={locale}/></SavedProvider>;
+  return <SavedProvider><Header locale={locale}/><main id="main-content" lang={locale}>{children}</main><Footer locale={locale}/></SavedProvider>;
 }
