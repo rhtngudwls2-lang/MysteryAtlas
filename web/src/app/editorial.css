@@ -188,7 +188,7 @@ main { min-width: 0; }
 .search-results .card-body p { margin: 0 0 5px; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 1; overflow: hidden; }
 .search-results .card-footer-meta { font-size: .82rem; }
 .discovery-filters label { color: var(--muted); font-size: .84rem; letter-spacing: 0; text-transform: none; }
-.discovery-filters select { border-radius: var(--radius); }
+.discovery-filters select { border-radius: var(--radius); color-scheme: dark; }
 .result-count { font-size: .88rem; }
 .prose-page h2, .collection-list h2 { font-family: var(--font-body); font-weight: 650; }
 .site-footer { background: var(--bg); border-color: var(--line); }
@@ -222,6 +222,7 @@ main { min-width: 0; }
   .home-hero { min-height: auto; }
   .hero-copy { min-height: auto; padding: 47px 20px 34px; }
   .hero-copy h1 { font-size: clamp(2.7rem, 11vw, 4rem); }
+  .hero-copy h1, .page-intro h1, .case-hero-copy h1 { word-break: keep-all; overflow-wrap: anywhere; }
   .hero-question { font-size: 1.27rem; }
   .hero-copy > p:not(.kicker):not(.hero-question) { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
   .hero-art { min-height: 220px; margin: 0; }
@@ -292,4 +293,7 @@ main { min-width: 0; }
   .discovery-filters label { min-width: 0; }
   .discovery-filters select { width: 100%; }
   .productized-page .fact-columns { grid-template-columns: 1fr; }
+}
+@media (max-width: 380px) {
+  .hero-copy h1 { font-size: 2.25rem; }
 }
