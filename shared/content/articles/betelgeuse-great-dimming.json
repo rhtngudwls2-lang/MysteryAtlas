@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "betelgeuse-great-dimming",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "베텔게우스 대감광",
+    "canonicalTitleEn": "Betelgeuse Great Dimming",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "초신성 전조처럼 보였던 급격한 어두워짐은 실제로 무엇이 가렸나",
+      "hook": "별은 정말 크게 어두워졌다. 하지만 Hubble이 먼저 포착한 것은 폭발직전 core signal이 아니라 surface material outflow와 뒤이어 생긴 dust였다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2019~2020년 Betelgeuse는 맨눈으로도 느낄 만큼 급격히 어두워졌다",
+          "headingEn": "In 2019–2020 Betelgeuse Dimmed Dramatically Enough to Be Obvious to Observers",
+          "textKo": "red supergiant Betelgeuse는 원래 variable star지만 2019년 말부터 2020년 초까지 unprecedented great dimming을 보이며 평소 brightness의 큰 부분을 잃었다. 초신성 전조가 아니냐는 대중적 speculation이 즉시 커졌지만, astronomers는 photosphere temperature, ultraviolet spectra, dust, pulsation을 각각 추적했다. NASA Hubble observations는 dimming 전에 hot dense material이 star atmosphere를 빠져나간 sequence를 포착했다.",
+          "textEn": "Betelgeuse is naturally variable, but in late 2019 and early 2020 it underwent an unprecedented Great Dimming. Hubble observations traced hot dense material moving outward before the star became much fainter."
+        },
+        {
+          "blockId": "outburst-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Hubble은 dimming 전에 star surface에서 material이 대량 방출된 흔적을 봤다",
+          "headingEn": "Hubble Detected a Major Surface Outflow Before the Dimming",
+          "textKo": "NASA는 2019년 ultraviolet spectroscopic monitoring에서 southeast region의 magnesium emission이 크게 밝아지고 material이 약 200,000 miles per hour로 outer atmosphere로 이동한 evidence를 보고했다. 이후 gas가 더 차가운 outer region으로 확장되며 dust grains를 만들었고, 이 dust cloud가 star disk의 일부 light를 가렸다는 scenario가 strong explanation으로 제시됐다. chronology가 핵심이다. dust가 보이기 전에 outflow precursor가 관측됐다.",
+          "textEn": "NASA reports enhanced magnesium emission and material moving outward at roughly 200,000 miles per hour before the dimming. The expelled gas likely cooled into dust that blocked light from part of the stellar disk."
+        },
+        {
+          "blockId": "cooling-03",
+          "type": "BACKGROUND",
+          "headingKo": "surface cooling도 동시에 dimming에 기여했을 가능성이 있다",
+          "headingEn": "Surface Cooling May Also Have Contributed to the Dimming",
+          "textKo": "Betelgeuse는 giant convection cells와 pulsation을 가진 red supergiant라 surface brightness가 균일하지 않다. 여러 observation은 southern hemisphere의 local cooling과 dust obscuration이 함께 event를 강화했을 가능성을 지지한다. 따라서 one-mechanism story보다 outburst→cooling/dust formation→obscuration sequence가 현재 evidence를 더 잘 반영한다. 정확한 fraction을 dust와 temperature effect에 각각 배분하는 건 model-dependent하다.",
+          "textEn": "Betelgeuse has giant convection cells and pulsation, and local surface cooling may have contributed along with dust obscuration. The event is better treated as a sequence of interacting processes than one single effect."
+        },
+        {
+          "blockId": "supernova-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Great Dimming이 dramatic했다고 imminent supernova signal로 확정된 것은 아니다",
+          "headingEn": "The Great Dimming Was Dramatic but Was Not Established as an Imminent Supernova Signal",
+          "textKo": "Betelgeuse는 evolutionarily advanced massive star라 언젠가 core-collapse supernova가 될 것으로 예상된다. 그러나 NASA는 Great Dimming 당시 star가 곧 폭발할 chance는 small하다고 강조했다. 우리는 real-time pre-supernova behavior의 perfect template를 갖고 있지 않지만, dust-producing surface mass ejection이라는 observed sequence가 dimming 자체를 설명한다. “언젠가 supernova”와 “이번 dimming이 countdown”은 다른 claim이다.",
+          "textEn": "Betelgeuse will eventually undergo core collapse, but NASA emphasized that the Great Dimming did not establish an imminent supernova. The observed surface mass ejection and dust provide a direct explanation for the dimming itself."
+        },
+        {
+          "blockId": "after-05",
+          "type": "AFTERMATH",
+          "headingKo": "별은 정상 brightness로 회복했지만 outburst는 red-supergiant mass loss 연구의 중요한 사건이 됐다",
+          "headingEn": "The Star Recovered, but the Outburst Became an Important Case Study in Red-Supergiant Mass Loss",
+          "textKo": "2020년 4월 무렵 brightness는 정상범위로 돌아왔고 Hubble ultraviolet atmosphere도 안정됐다. 그러나 event는 Betelgeuse가 예상보다 큰 surface mass ejection을 만들 수 있음을 보여줬고 massive-star evolution의 late stages를 연구하는 새로운 constraint를 제공했다. mystery가 “왜 어두워졌나”에서 “이런 ejection이 얼마나 자주 일어나고 late evolution에 어떤 역할을 하나”로 이동한 셈이다.",
+          "textEn": "Betelgeuse returned toward normal brightness, but the event became an important case study in surface mass ejection and late red-supergiant evolution."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2019~2020 Great Dimming은 실제 관측됐고 Hubble은 dimming 전에 hot material outflow를 기록했다. ejecta가 식어 dust cloud를 만들고 star light 일부를 가렸다는 explanation이 strong observational support를 가진다.\n\n확인되지 않음: Great Dimming이 imminent supernova countdown이었다는 evidence는 없다. dust와 surface cooling의 exact contribution 비율도 model-dependent하다.",
+          "textEn": "Established: The 2019–2020 Great Dimming was real, Hubble recorded a hot outflow beforehand, and a dust cloud formed from ejected material has strong observational support as a major cause.\n\nNot established: The dimming was not shown to be an imminent-supernova countdown, and the exact relative contributions of dust and surface cooling remain model-dependent."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "outburst-02",
+        "cooling-03",
+        "supernova-04",
+        "after-05"
+      ]
+    },
+    "en": {
+      "headline": "What Actually Caused the Great Dimming That Looked Like a Supernova Warning?",
+      "hook": "The star really dimmed dramatically. But Hubble first saw a surface outflow, not a core-collapse warning, followed by dust that obscured the star.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2019~2020년 Betelgeuse는 맨눈으로도 느낄 만큼 급격히 어두워졌다",
+          "headingEn": "In 2019–2020 Betelgeuse Dimmed Dramatically Enough to Be Obvious to Observers",
+          "textKo": "red supergiant Betelgeuse는 원래 variable star지만 2019년 말부터 2020년 초까지 unprecedented great dimming을 보이며 평소 brightness의 큰 부분을 잃었다. 초신성 전조가 아니냐는 대중적 speculation이 즉시 커졌지만, astronomers는 photosphere temperature, ultraviolet spectra, dust, pulsation을 각각 추적했다. NASA Hubble observations는 dimming 전에 hot dense material이 star atmosphere를 빠져나간 sequence를 포착했다.",
+          "textEn": "Betelgeuse is naturally variable, but in late 2019 and early 2020 it underwent an unprecedented Great Dimming. Hubble observations traced hot dense material moving outward before the star became much fainter."
+        },
+        {
+          "blockId": "outburst-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Hubble은 dimming 전에 star surface에서 material이 대량 방출된 흔적을 봤다",
+          "headingEn": "Hubble Detected a Major Surface Outflow Before the Dimming",
+          "textKo": "NASA는 2019년 ultraviolet spectroscopic monitoring에서 southeast region의 magnesium emission이 크게 밝아지고 material이 약 200,000 miles per hour로 outer atmosphere로 이동한 evidence를 보고했다. 이후 gas가 더 차가운 outer region으로 확장되며 dust grains를 만들었고, 이 dust cloud가 star disk의 일부 light를 가렸다는 scenario가 strong explanation으로 제시됐다. chronology가 핵심이다. dust가 보이기 전에 outflow precursor가 관측됐다.",
+          "textEn": "NASA reports enhanced magnesium emission and material moving outward at roughly 200,000 miles per hour before the dimming. The expelled gas likely cooled into dust that blocked light from part of the stellar disk."
+        },
+        {
+          "blockId": "cooling-03",
+          "type": "BACKGROUND",
+          "headingKo": "surface cooling도 동시에 dimming에 기여했을 가능성이 있다",
+          "headingEn": "Surface Cooling May Also Have Contributed to the Dimming",
+          "textKo": "Betelgeuse는 giant convection cells와 pulsation을 가진 red supergiant라 surface brightness가 균일하지 않다. 여러 observation은 southern hemisphere의 local cooling과 dust obscuration이 함께 event를 강화했을 가능성을 지지한다. 따라서 one-mechanism story보다 outburst→cooling/dust formation→obscuration sequence가 현재 evidence를 더 잘 반영한다. 정확한 fraction을 dust와 temperature effect에 각각 배분하는 건 model-dependent하다.",
+          "textEn": "Betelgeuse has giant convection cells and pulsation, and local surface cooling may have contributed along with dust obscuration. The event is better treated as a sequence of interacting processes than one single effect."
+        },
+        {
+          "blockId": "supernova-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Great Dimming이 dramatic했다고 imminent supernova signal로 확정된 것은 아니다",
+          "headingEn": "The Great Dimming Was Dramatic but Was Not Established as an Imminent Supernova Signal",
+          "textKo": "Betelgeuse는 evolutionarily advanced massive star라 언젠가 core-collapse supernova가 될 것으로 예상된다. 그러나 NASA는 Great Dimming 당시 star가 곧 폭발할 chance는 small하다고 강조했다. 우리는 real-time pre-supernova behavior의 perfect template를 갖고 있지 않지만, dust-producing surface mass ejection이라는 observed sequence가 dimming 자체를 설명한다. “언젠가 supernova”와 “이번 dimming이 countdown”은 다른 claim이다.",
+          "textEn": "Betelgeuse will eventually undergo core collapse, but NASA emphasized that the Great Dimming did not establish an imminent supernova. The observed surface mass ejection and dust provide a direct explanation for the dimming itself."
+        },
+        {
+          "blockId": "after-05",
+          "type": "AFTERMATH",
+          "headingKo": "별은 정상 brightness로 회복했지만 outburst는 red-supergiant mass loss 연구의 중요한 사건이 됐다",
+          "headingEn": "The Star Recovered, but the Outburst Became an Important Case Study in Red-Supergiant Mass Loss",
+          "textKo": "2020년 4월 무렵 brightness는 정상범위로 돌아왔고 Hubble ultraviolet atmosphere도 안정됐다. 그러나 event는 Betelgeuse가 예상보다 큰 surface mass ejection을 만들 수 있음을 보여줬고 massive-star evolution의 late stages를 연구하는 새로운 constraint를 제공했다. mystery가 “왜 어두워졌나”에서 “이런 ejection이 얼마나 자주 일어나고 late evolution에 어떤 역할을 하나”로 이동한 셈이다.",
+          "textEn": "Betelgeuse returned toward normal brightness, but the event became an important case study in surface mass ejection and late red-supergiant evolution."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2019~2020 Great Dimming은 실제 관측됐고 Hubble은 dimming 전에 hot material outflow를 기록했다. ejecta가 식어 dust cloud를 만들고 star light 일부를 가렸다는 explanation이 strong observational support를 가진다.\n\n확인되지 않음: Great Dimming이 imminent supernova countdown이었다는 evidence는 없다. dust와 surface cooling의 exact contribution 비율도 model-dependent하다.",
+          "textEn": "Established: The 2019–2020 Great Dimming was real, Hubble recorded a hot outflow beforehand, and a dust cloud formed from ejected material has strong observational support as a major cause.\n\nNot established: The dimming was not shown to be an imminent-supernova countdown, and the exact relative contributions of dust and surface cooling remain model-dependent."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "outburst-02",
+        "cooling-03",
+        "supernova-04",
+        "after-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "BET_NASA",
+      "title": "Hubble Finds that Betelgeuse’s Mysterious Dimming Is Due to a Traumatic Outburst",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-finds-that-betelgeuses-mysterious-dimming-is-due-to-a-traumatic-outburst/",
+      "sourceType": "NASA_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "BET-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2019~2020 Betelgeuse Great Dimming은 실제 large brightness decline이었다.",
+      "statementEn": "The 2019–2020 Betelgeuse Great Dimming was a real large brightness decline.",
+      "sourceRefs": [
+        "BET_NASA"
+      ]
+    },
+    {
+      "claimId": "BET-C2",
+      "status": "SUPPORTED",
+      "statementKo": "Hubble data는 surface outflow→cooling→dust obscuration scenario를 강하게 지지한다.",
+      "statementEn": "Hubble data strongly support a surface-outflow-to-dust-obscuration scenario.",
+      "sourceRefs": [
+        "BET_NASA"
+      ]
+    },
+    {
+      "claimId": "BET-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Great Dimming이 imminent supernova countdown이었다는 evidence는 없다.",
+      "statementEn": "The Great Dimming was not established as an imminent-supernova countdown.",
+      "sourceRefs": [
+        "BET_NASA"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bet-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "surface outburst → expanding gas → dust formation → partial obscuration → recovery.",
+      "captionEn": "Surface outburst → expanding gas → dust formation → partial obscuration → recovery.",
+      "altKo": "surface outburst → expanding gas → dust formation → partial obscuration → recovery.",
+      "altEn": "Surface outburst → expanding gas → dust formation → partial obscuration → recovery.",
+      "sourceRefs": [
+        "BET_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "betelgeuse-great-dimming__v01__ko.png",
+          "sha256": "887a832187117ed406a8eac68ea9993709dfef58f33afd18e8579746352ca21c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "betelgeuse-great-dimming__v01__en.png",
+          "sha256": "a620fe5137529ff4a13bbb873c33fab9180c35379dcfbb7715169d0cf630015e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bet-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "observed dimming·dust scenario와 imminent-supernova claim을 분리.",
+      "captionEn": "Separate observed dimming/dust evidence from imminent-supernova claims.",
+      "altKo": "observed dimming·dust scenario와 imminent-supernova claim을 분리.",
+      "altEn": "Separate observed dimming/dust evidence from imminent-supernova claims.",
+      "sourceRefs": [
+        "BET_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "betelgeuse-great-dimming__v02__ko.png",
+          "sha256": "58def220edeac0738a63288e43fc0b9442283c1dcc8b380cc92ef77a3d746f6c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "betelgeuse-great-dimming__v02__en.png",
+          "sha256": "8b4e79fceefcfeb845070c95956d110620d06eb6b1254d1ee9cf83f6badbb33a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "regions": [
+      "Orion / Betelgeuse"
+    ],
+    "organizations": [
+      "NASA",
+      "Hubble Space Telescope"
+    ],
+    "dateRange": {
+      "start": "2019",
+      "end": "2020",
+      "precision": "Great Dimming event"
+    },
+    "resolution": "DIMMING_EXPLAINED_BY_SURFACE_OUTBURST_AND_DUST_SUPERNOVA_IMMINENCE_NOT_ESTABLISHED"
+  },
+  "quality": {
+    "koBodyChars": 2018,
+    "enBodyWords": 208,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

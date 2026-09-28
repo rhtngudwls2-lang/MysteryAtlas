@@ -1,0 +1,345 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "dorabella-cipher",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "도라벨라 암호",
+    "canonicalTitleEn": "Dorabella Cipher",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "기호의 ‘키’가 보이는데도 왜 Elgar의 한 문장을 아직 못 읽나",
+      "hook": "Dorabella는 문서가 가짜여서 어려운 게 아니다. 오히려 짧고 key가 불완전하며, text인지 music인지조차 열려 있어 여러 해답이 동시에 가능하다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1897년 Elgar가 Dora Penny에게 보낸 짧은 기호문은 아직 합의된 plaintext가 없다",
+          "headingEn": "Elgar's 1897 Symbol Note to Dora Penny Still Has No Consensus Plaintext",
+          "textKo": "Cipher Foundation은 Edward Elgar가 1897년 Dora Penny에게 보낸 짧은 encoded-looking note를 Dorabella Cipher로 설명한다. 87개가량의 E-like rotated symbol은 Elgar가 사용한 24-symbol symmetrical key와 닮아 있다. 문서의 sender와 recipient는 확실하지만 what it says는 확정되지 않았다. 즉 ‘누가 썼나’가 아니라 ‘무엇을 썼나’가 남은 미스터리다.",
+          "textEn": "The Cipher Foundation describes the Dorabella Cipher as a short encoded-looking note Edward Elgar sent to Dora Penny in 1897. Its rotated E-like symbols resemble a 24-symbol system known from Elgar's other notes. Sender and recipient are known; the message is not."
+        },
+        {
+          "blockId": "key-02",
+          "type": "BACKGROUND",
+          "headingKo": "cipher alphabet처럼 보이는 key가 있어도 그대로 읽히지 않는다",
+          "headingEn": "Even an Apparent Cipher Alphabet Does Not Produce Readable Plaintext",
+          "textKo": "Elgar가 다른 note에서 사용한 24-letter symmetrical key를 Dorabella에 적용하면 natural language plaintext가 나오지 않는다. 그래서 simple substitution 하나로 끝나는 cipher인지, additional transformation이 있는지, 혹은 musical notation이나 private mnemonic인지까지 논쟁이 넓어진다. ‘key가 있다’와 ‘message를 해독했다’는 같은 상태가 아니다.",
+          "textEn": "Applying Elgar's apparent 24-letter symmetrical key does not yield natural-language plaintext, leaving open whether an extra transformation, private mnemonic or even musical interpretation is involved."
+        },
+        {
+          "blockId": "solutions-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "여러 proposed solution이 있지만 서로 같은 규칙으로 수렴하지 않는다",
+          "headingEn": "Many Proposed Solutions Exist, but They Do Not Converge on One Rule Set",
+          "textKo": "수십 년 동안 다양한 plaintext가 제시됐지만 서로 다른 substitutions, anagrams, phonetic assumptions, biographical context를 사용한다. 짧은 ciphertext는 이런 freedom을 허용하기 때문에 원하는 문장에 맞추기 쉽다. 강한 solution이라면 independent solver가 같은 rule로 같은 plaintext를 얻고 ad-hoc exception이 적어야 한다.",
+          "textEn": "Many plaintexts have been proposed using different substitutions, anagrams, phonetic assumptions and biographical context. Short ciphertext permits large solution freedom, so a strong solution should be independently reproducible under one rule set."
+        },
+        {
+          "blockId": "music-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "Elgar의 musical notation habit 때문에 ‘암호가 아니라 음악적 표기’ 가능성도 제기됐다",
+          "headingEn": "Elgar's Musical Habits Keep Open the Possibility of a Non-Textual Notation",
+          "textKo": "Cipher Foundation은 similar symbol sequence가 Elgar의 Liszt concert programme margin에도 나타나며 musical note-taking과 관련됐을 가능성을 언급한다. 그렇다고 Dorabella가 melody라는 proof가 있는 것은 아니다. 이 사례는 artifact가 ‘cipher인지 아닌지’부터 완전히 확정되지 않은 드문 경우다.",
+          "textEn": "The Cipher Foundation notes a similar symbol sequence in Elgar's margin notes on a Liszt concert programme, raising the possibility of musical notation. That does not prove Dorabella is a melody; even the class of encoding remains uncertain."
+        },
+        {
+          "blockId": "context-05",
+          "type": "AFTERMATH",
+          "headingKo": "biographical fit은 useful clue지만 cryptographic proof는 아니다",
+          "headingEn": "Biographical Fit Can Guide a Reading but Cannot Prove It",
+          "textKo": "Elgar와 Dora의 friendship, 당시 language, private jokes는 candidate plaintext의 plausibility를 평가할 때 도움을 준다. 그러나 ‘그가 할 법한 말’이라는 이유만으로 cipher solution이 입증되지는 않는다. external key, longer parallel text, creator explanation이 없는 상황에서는 context가 후보를 좁혀도 unique answer를 만들기 어렵다.",
+          "textEn": "Elgar and Dora's relationship, period language and private jokes can help judge plausibility, but 'something he might have said' is not cryptographic proof. Without an external key or parallel text, context rarely forces a unique answer."
+        },
+        {
+          "blockId": "verification-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그럴듯한 문장 하나가 나왔다고 해독이 끝나는 것은 아니다",
+          "headingEn": "Producing One Plausible Sentence Does Not Finish the Cryptanalysis",
+          "textKo": "Dorabella처럼 짧은 ciphertext에서는 많은 mapping이 어느 정도 자연스러운 text를 만들 수 있다. 진짜 해독이라면 같은 rule이 전체 symbol sequence에 일관되게 적용되고, Elgar의 다른 notation에도 예측력을 가져야 하며, 예외를 최소화해야 한다. 이런 cross-check가 약하면 후보는 흥미로운 해석일 수 있어도 definitive plaintext가 되지 못한다.",
+          "textEn": "With a short ciphertext, many mappings can produce plausible-looking text. A strong solution should apply consistently across the whole symbol sequence, make predictions for related Elgar notation, and minimize exceptions. Without such cross-checks, a reading remains a candidate rather than a definitive plaintext."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Dorabella Cipher는 Elgar가 1897년 Dora Penny에게 보낸 genuine note이며 Elgar가 다른 곳에서 유사한 symbol alphabet을 사용한 기록이 있다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
+          "textEn": "Established: The Dorabella Cipher is a genuine 1897 note from Elgar to Dora Penny, and Elgar used a similar symbol alphabet elsewhere.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Dorabella Cipher는 Elgar가 1897년 Dora Penny에게 보낸 genuine note이며 Elgar가 다른 곳에서 유사한 symbol alphabet을 사용한 기록이 있다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "key-02",
+        "solutions-03",
+        "music-04",
+        "context-05",
+        "verification-055"
+      ]
+    },
+    "en": {
+      "headline": "Why Can We See a Likely Symbol Key Yet Still Not Read Elgar's Message?",
+      "hook": "Dorabella is difficult not because the note is fake, but because it is short, the key is incomplete in practice, and even the type of encoding may be uncertain.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1897년 Elgar가 Dora Penny에게 보낸 짧은 기호문은 아직 합의된 plaintext가 없다",
+          "headingEn": "Elgar's 1897 Symbol Note to Dora Penny Still Has No Consensus Plaintext",
+          "textKo": "Cipher Foundation은 Edward Elgar가 1897년 Dora Penny에게 보낸 짧은 encoded-looking note를 Dorabella Cipher로 설명한다. 87개가량의 E-like rotated symbol은 Elgar가 사용한 24-symbol symmetrical key와 닮아 있다. 문서의 sender와 recipient는 확실하지만 what it says는 확정되지 않았다. 즉 ‘누가 썼나’가 아니라 ‘무엇을 썼나’가 남은 미스터리다.",
+          "textEn": "The Cipher Foundation describes the Dorabella Cipher as a short encoded-looking note Edward Elgar sent to Dora Penny in 1897. Its rotated E-like symbols resemble a 24-symbol system known from Elgar's other notes. Sender and recipient are known; the message is not."
+        },
+        {
+          "blockId": "key-02",
+          "type": "BACKGROUND",
+          "headingKo": "cipher alphabet처럼 보이는 key가 있어도 그대로 읽히지 않는다",
+          "headingEn": "Even an Apparent Cipher Alphabet Does Not Produce Readable Plaintext",
+          "textKo": "Elgar가 다른 note에서 사용한 24-letter symmetrical key를 Dorabella에 적용하면 natural language plaintext가 나오지 않는다. 그래서 simple substitution 하나로 끝나는 cipher인지, additional transformation이 있는지, 혹은 musical notation이나 private mnemonic인지까지 논쟁이 넓어진다. ‘key가 있다’와 ‘message를 해독했다’는 같은 상태가 아니다.",
+          "textEn": "Applying Elgar's apparent 24-letter symmetrical key does not yield natural-language plaintext, leaving open whether an extra transformation, private mnemonic or even musical interpretation is involved."
+        },
+        {
+          "blockId": "solutions-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "여러 proposed solution이 있지만 서로 같은 규칙으로 수렴하지 않는다",
+          "headingEn": "Many Proposed Solutions Exist, but They Do Not Converge on One Rule Set",
+          "textKo": "수십 년 동안 다양한 plaintext가 제시됐지만 서로 다른 substitutions, anagrams, phonetic assumptions, biographical context를 사용한다. 짧은 ciphertext는 이런 freedom을 허용하기 때문에 원하는 문장에 맞추기 쉽다. 강한 solution이라면 independent solver가 같은 rule로 같은 plaintext를 얻고 ad-hoc exception이 적어야 한다.",
+          "textEn": "Many plaintexts have been proposed using different substitutions, anagrams, phonetic assumptions and biographical context. Short ciphertext permits large solution freedom, so a strong solution should be independently reproducible under one rule set."
+        },
+        {
+          "blockId": "music-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "Elgar의 musical notation habit 때문에 ‘암호가 아니라 음악적 표기’ 가능성도 제기됐다",
+          "headingEn": "Elgar's Musical Habits Keep Open the Possibility of a Non-Textual Notation",
+          "textKo": "Cipher Foundation은 similar symbol sequence가 Elgar의 Liszt concert programme margin에도 나타나며 musical note-taking과 관련됐을 가능성을 언급한다. 그렇다고 Dorabella가 melody라는 proof가 있는 것은 아니다. 이 사례는 artifact가 ‘cipher인지 아닌지’부터 완전히 확정되지 않은 드문 경우다.",
+          "textEn": "The Cipher Foundation notes a similar symbol sequence in Elgar's margin notes on a Liszt concert programme, raising the possibility of musical notation. That does not prove Dorabella is a melody; even the class of encoding remains uncertain."
+        },
+        {
+          "blockId": "context-05",
+          "type": "AFTERMATH",
+          "headingKo": "biographical fit은 useful clue지만 cryptographic proof는 아니다",
+          "headingEn": "Biographical Fit Can Guide a Reading but Cannot Prove It",
+          "textKo": "Elgar와 Dora의 friendship, 당시 language, private jokes는 candidate plaintext의 plausibility를 평가할 때 도움을 준다. 그러나 ‘그가 할 법한 말’이라는 이유만으로 cipher solution이 입증되지는 않는다. external key, longer parallel text, creator explanation이 없는 상황에서는 context가 후보를 좁혀도 unique answer를 만들기 어렵다.",
+          "textEn": "Elgar and Dora's relationship, period language and private jokes can help judge plausibility, but 'something he might have said' is not cryptographic proof. Without an external key or parallel text, context rarely forces a unique answer."
+        },
+        {
+          "blockId": "verification-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "그럴듯한 문장 하나가 나왔다고 해독이 끝나는 것은 아니다",
+          "headingEn": "Producing One Plausible Sentence Does Not Finish the Cryptanalysis",
+          "textKo": "Dorabella처럼 짧은 ciphertext에서는 많은 mapping이 어느 정도 자연스러운 text를 만들 수 있다. 진짜 해독이라면 같은 rule이 전체 symbol sequence에 일관되게 적용되고, Elgar의 다른 notation에도 예측력을 가져야 하며, 예외를 최소화해야 한다. 이런 cross-check가 약하면 후보는 흥미로운 해석일 수 있어도 definitive plaintext가 되지 못한다.",
+          "textEn": "With a short ciphertext, many mappings can produce plausible-looking text. A strong solution should apply consistently across the whole symbol sequence, make predictions for related Elgar notation, and minimize exceptions. Without such cross-checks, a reading remains a candidate rather than a definitive plaintext."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Dorabella Cipher는 Elgar가 1897년 Dora Penny에게 보낸 genuine note이며 Elgar가 다른 곳에서 유사한 symbol alphabet을 사용한 기록이 있다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
+          "textEn": "Established: The Dorabella Cipher is a genuine 1897 note from Elgar to Dora Penny, and Elgar used a similar symbol alphabet elsewhere.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: The Dorabella Cipher is a genuine 1897 note from Elgar to Dora Penny, and Elgar used a similar symbol alphabet elsewhere.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "key-02",
+        "solutions-03",
+        "music-04",
+        "context-05",
+        "verification-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DOR-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1897 Elgar→Dora Penny note는 genuine historical artifact다.",
+      "statementEn": "The 1897 Elgar-to-Dora Penny note is a genuine historical artifact.",
+      "sourceRefs": [
+        "DOR_CIPHER"
+      ]
+    },
+    {
+      "claimId": "DOR-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Elgar가 유사한 24-symbol alphabet을 다른 note에서 사용한 기록이 있다.",
+      "statementEn": "Elgar used a similar 24-symbol alphabet elsewhere in his notes.",
+      "sourceRefs": [
+        "DOR_CIPHER"
+      ]
+    },
+    {
+      "claimId": "DOR-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "consensus plaintext와 exact reading rule은 없다.",
+      "statementEn": "No consensus plaintext or exact reading rule is established.",
+      "sourceRefs": [
+        "DOR_CIPHER"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "DOR_CIPHER",
+      "title": "Dorabella Cipher",
+      "publisher": "The Cipher Foundation",
+      "url": "https://cipherfoundation.org/older-ciphers/dorabella-cipher/",
+      "sourceType": "SPECIALIST_CIPHER_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dor-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "rotated E-like symbols → apparent alphabet → unreadable output → competing interpretation paths.",
+      "captionEn": "Rotated E-like symbols → apparent alphabet → unreadable output → competing interpretation paths.",
+      "altKo": "rotated E-like symbols → apparent alphabet → unreadable output → competing interpretation paths.",
+      "altEn": "Rotated E-like symbols → apparent alphabet → unreadable output → competing interpretation paths.",
+      "sourceRefs": [
+        "DOR_CIPHER"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dorabella-cipher__v01__ko.png",
+          "sha256": "66b82cb59aa0a7ac62bdeb33fa710094da76fa6d804e09f64dfb3273b424e040",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dorabella-cipher__v01__en.png",
+          "sha256": "716e00e0cd62af66ddae11089a61288ffe2a14df5e7d90cfba6d2062f73cf3a8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dor-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "artifact/authorship 확정과 plaintext·text-vs-music 미확정을 분리.",
+      "captionEn": "Separate confirmed artifact/authorship from unresolved plaintext and text-vs-music interpretation.",
+      "altKo": "artifact/authorship 확정과 plaintext·text-vs-music 미확정을 분리.",
+      "altEn": "Separate confirmed artifact/authorship from unresolved plaintext and text-vs-music interpretation.",
+      "sourceRefs": [
+        "DOR_CIPHER"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dorabella-cipher__v02__ko.png",
+          "sha256": "14a056d18a2c9e417c300548cafa58e5eb4a3d7e64c5494125eb8c358136dfe0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dorabella-cipher__v02__en.png",
+          "sha256": "7602c6cf542b7c4c49ae1eaafec1ac6609ad9b245495f493e86dcec2d39be45a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "England"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Edward Elgar",
+        "role": "sender"
+      },
+      {
+        "name": "Dora Penny",
+        "role": "recipient"
+      }
+    ],
+    "organizations": [],
+    "dateRange": {
+      "start": "1897",
+      "end": "present",
+      "precision": "note through modern analysis"
+    },
+    "era": "Late Victorian Britain",
+    "resolution": "ARTIFACT_AUTHENTIC_PLAINTEXT_AND_ENCODING_TYPE_UNRESOLVED",
+    "searchAliases": [
+      "Dorabella Cipher"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1721,
+    "enBodyWords": 260,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH23",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH23_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

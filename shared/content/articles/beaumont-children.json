@@ -1,0 +1,407 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "beaumont-children",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "보몬트 세 남매 실종",
+    "canonicalTitleEn": "Beaumont Children Disappearance",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "대규모 수색을 했는데도 세 아이는 왜 60년 동안 physical trace 하나로 닫히지 않았나",
+      "hook": "Beaumont 사건은 “수사를 안 해서 남은 미스터리”가 아니다. 초기 대규모 search부터 후대 excavation까지 이어졌지만 physical trace가 final identity나 location으로 수렴하지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1966년 Australia Day, 세 남매가 Glenelg Beach에서 돌아오지 않았다",
+          "headingEn": "Australia Day 1966: Three Siblings Never Returned From Glenelg Beach",
+          "textKo": "1966년 1월 26일 Jane(9), Arnna(7), Grant(4) Beaumont는 Somerton Park 집을 떠나 bus로 Glenelg Beach에 갔다. 당시 children alone outing은 지금보다 덜 unusual한 일이었다. 오후가 지나도 돌아오지 않아 가족과 경찰이 search를 시작했고 세 아이는 이후 60년이 지나도록 확인되지 않았다.",
+          "textEn": "On January 26, 1966, Jane (9), Arnna (7), and Grant (4) Beaumont left their Somerton Park home by bus for Glenelg Beach. When they failed to return, family and police began searching. Sixty years later, their fate remains unresolved."
+        },
+        {
+          "blockId": "witness",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기수사는 beach sightings와 한 남성에 대한 witness description에 크게 의존했다",
+          "headingEn": "Early Investigation Relied Heavily on Beach Sightings and a Male Description",
+          "textKo": "여러 witness는 children을 Glenelg area에서 봤다고 했고, 일부는 세 아이와 함께 있던 fair-haired adult male을 묘사했다. police composite도 만들어졌다. 그러나 decades가 지나도록 그 description이 특정 identity로 확정되지 않았다. eyewitness evidence는 direction을 주지만 시간이 지날수록 memory·identification uncertainty가 커진다.",
+          "textEn": "Witnesses placed the children around Glenelg and some described an adult male with them, leading to a composite. But that description never became a confirmed identity, and eyewitness evidence degrades in certainty over time."
+        },
+        {
+          "blockId": "search",
+          "type": "BACKGROUND",
+          "headingKo": "초기부터 대규모 search가 있었지만 physical trace가 남지 않았다",
+          "headingEn": "A Massive Search Produced No Confirmed Physical Trace",
+          "textKo": "ABC가 보존한 police-log based timeline에는 beach·foreshore search, public announcements, volunteers, extensive enquiries가 이어진 사실이 나온다. 이 사건의 어려움은 search가 없었던 게 아니라, 큰 search에도 body, clothing, definitive crime scene처럼 사건을 닫을 physical trace가 확인되지 않았다는 데 있다.",
+          "textEn": "Police-log based timelines show extensive searches, public appeals and enquiries. The difficulty is not lack of effort but the absence of confirmed physical traces such as remains, clothing or a definitive crime scene."
+        },
+        {
+          "blockId": "digs",
+          "type": "TURNING_POINT",
+          "headingKo": "수십 년 뒤 여러 person-of-interest와 excavation이 나왔지만 negative search가 곧 결론은 아니다",
+          "headingEn": "Later Persons of Interest and Excavations Did Not Close the Case",
+          "textKo": "2018년과 2025년 특정 property에 대한 digs가 진행됐지만 reported searches는 remains를 찾지 못했다. 2025년 seven-day search가 negative였다는 것은 그 location hypothesis에 불리한 evidence지만 children의 fate 전체를 설명하지는 않는다. 한 장소에서 안 나왔다는 결과를 다른 suspect theory의 proof로 바꿔서는 안 된다.",
+          "textEn": "Later digs, including a 2025 seven-day search, found no remains. A negative search weakens a particular location hypothesis but does not establish what happened overall or validate a different suspect theory."
+        },
+        {
+          "blockId": "memory",
+          "type": "AFTERMATH",
+          "headingKo": "사건은 South Australia의 collective memory와 child-safety culture에 큰 흔적을 남겼다",
+          "headingEn": "The Case Reshaped Collective Memory and Child-Safety Culture",
+          "textKo": "2026년 60주년에도 memorial proposal과 renewed discussion이 이어졌다. 이 사건은 “Adelaide가 innocence를 잃은 날” 같은 cliché로 반복되지만, cultural legacy와 criminal evidence는 구분해야 한다. 사회적 충격이 컸다는 사실이 특정 suspect나 scenario를 입증하지는 않는다.",
+          "textEn": "At the 60th anniversary in 2026, memorial proposals and renewed discussion showed the case’s lasting cultural impact. Social memory is important, but it does not identify a culprit or prove a scenario."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Jane, Arnna, Grant Beaumont는 1966년 1월 26일 Glenelg Beach outing 후 실종됐고 extensive police/public search가 이어졌다. 2025년 특정 site의 seven-day excavation도 remains를 찾지 못했다. 사건은 2026년에도 unresolved였다.\n\n**확인되지 않음:** 세 아이의 exact fate, body location, 특정 abductor or killer identity는 확정되지 않았다. witness-described man이나 후대 person-of-interest를 final culprit로 단정할 수 없다.",
+          "textEn": "**Established:** Jane, Arnna, and Grant Beaumont disappeared after a Glenelg Beach outing on January 26, 1966, prompting extensive searches. A 2025 seven-day excavation at one site found no remains, and the case remained unresolved in 2026.\n\n**Not established:** Their exact fate, body location, and any particular abductor or killer identity remain unconfirmed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Jane, Arnna, Grant Beaumont는 1966년 1월 26일 Glenelg Beach outing 후 실종됐고 extensive police/public search가 이어졌다. 2025년 특정 site의 seven-day excavation도 remains를 찾지 못했다. 사건은 2026년에도 unresolved였다.\n\n**확인되지 않음:** 세 아이의 exact fate, body location, 특정 abductor or killer identity는 확정되지 않았다. witness-described man이나 후대 person-of-interest를 final culprit로 단정할 수 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "witness",
+        "search",
+        "digs",
+        "memory"
+      ]
+    },
+    "en": {
+      "headline": "Why Did a Massive Search Still Leave Three Children Without a Confirmed Physical Trace for 60 Years?",
+      "hook": "The Beaumont case did not remain unsolved for lack of searching. From the original mass search to later excavations, physical evidence never converged on a confirmed fate or offender.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1966년 Australia Day, 세 남매가 Glenelg Beach에서 돌아오지 않았다",
+          "headingEn": "Australia Day 1966: Three Siblings Never Returned From Glenelg Beach",
+          "textKo": "1966년 1월 26일 Jane(9), Arnna(7), Grant(4) Beaumont는 Somerton Park 집을 떠나 bus로 Glenelg Beach에 갔다. 당시 children alone outing은 지금보다 덜 unusual한 일이었다. 오후가 지나도 돌아오지 않아 가족과 경찰이 search를 시작했고 세 아이는 이후 60년이 지나도록 확인되지 않았다.",
+          "textEn": "On January 26, 1966, Jane (9), Arnna (7), and Grant (4) Beaumont left their Somerton Park home by bus for Glenelg Beach. When they failed to return, family and police began searching. Sixty years later, their fate remains unresolved."
+        },
+        {
+          "blockId": "witness",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기수사는 beach sightings와 한 남성에 대한 witness description에 크게 의존했다",
+          "headingEn": "Early Investigation Relied Heavily on Beach Sightings and a Male Description",
+          "textKo": "여러 witness는 children을 Glenelg area에서 봤다고 했고, 일부는 세 아이와 함께 있던 fair-haired adult male을 묘사했다. police composite도 만들어졌다. 그러나 decades가 지나도록 그 description이 특정 identity로 확정되지 않았다. eyewitness evidence는 direction을 주지만 시간이 지날수록 memory·identification uncertainty가 커진다.",
+          "textEn": "Witnesses placed the children around Glenelg and some described an adult male with them, leading to a composite. But that description never became a confirmed identity, and eyewitness evidence degrades in certainty over time."
+        },
+        {
+          "blockId": "search",
+          "type": "BACKGROUND",
+          "headingKo": "초기부터 대규모 search가 있었지만 physical trace가 남지 않았다",
+          "headingEn": "A Massive Search Produced No Confirmed Physical Trace",
+          "textKo": "ABC가 보존한 police-log based timeline에는 beach·foreshore search, public announcements, volunteers, extensive enquiries가 이어진 사실이 나온다. 이 사건의 어려움은 search가 없었던 게 아니라, 큰 search에도 body, clothing, definitive crime scene처럼 사건을 닫을 physical trace가 확인되지 않았다는 데 있다.",
+          "textEn": "Police-log based timelines show extensive searches, public appeals and enquiries. The difficulty is not lack of effort but the absence of confirmed physical traces such as remains, clothing or a definitive crime scene."
+        },
+        {
+          "blockId": "digs",
+          "type": "TURNING_POINT",
+          "headingKo": "수십 년 뒤 여러 person-of-interest와 excavation이 나왔지만 negative search가 곧 결론은 아니다",
+          "headingEn": "Later Persons of Interest and Excavations Did Not Close the Case",
+          "textKo": "2018년과 2025년 특정 property에 대한 digs가 진행됐지만 reported searches는 remains를 찾지 못했다. 2025년 seven-day search가 negative였다는 것은 그 location hypothesis에 불리한 evidence지만 children의 fate 전체를 설명하지는 않는다. 한 장소에서 안 나왔다는 결과를 다른 suspect theory의 proof로 바꿔서는 안 된다.",
+          "textEn": "Later digs, including a 2025 seven-day search, found no remains. A negative search weakens a particular location hypothesis but does not establish what happened overall or validate a different suspect theory."
+        },
+        {
+          "blockId": "memory",
+          "type": "AFTERMATH",
+          "headingKo": "사건은 South Australia의 collective memory와 child-safety culture에 큰 흔적을 남겼다",
+          "headingEn": "The Case Reshaped Collective Memory and Child-Safety Culture",
+          "textKo": "2026년 60주년에도 memorial proposal과 renewed discussion이 이어졌다. 이 사건은 “Adelaide가 innocence를 잃은 날” 같은 cliché로 반복되지만, cultural legacy와 criminal evidence는 구분해야 한다. 사회적 충격이 컸다는 사실이 특정 suspect나 scenario를 입증하지는 않는다.",
+          "textEn": "At the 60th anniversary in 2026, memorial proposals and renewed discussion showed the case’s lasting cultural impact. Social memory is important, but it does not identify a culprit or prove a scenario."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Jane, Arnna, Grant Beaumont는 1966년 1월 26일 Glenelg Beach outing 후 실종됐고 extensive police/public search가 이어졌다. 2025년 특정 site의 seven-day excavation도 remains를 찾지 못했다. 사건은 2026년에도 unresolved였다.\n\n**확인되지 않음:** 세 아이의 exact fate, body location, 특정 abductor or killer identity는 확정되지 않았다. witness-described man이나 후대 person-of-interest를 final culprit로 단정할 수 없다.",
+          "textEn": "**Established:** Jane, Arnna, and Grant Beaumont disappeared after a Glenelg Beach outing on January 26, 1966, prompting extensive searches. A 2025 seven-day excavation at one site found no remains, and the case remained unresolved in 2026.\n\n**Not established:** Their exact fate, body location, and any particular abductor or killer identity remain unconfirmed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Jane, Arnna, and Grant Beaumont disappeared after a Glenelg Beach outing on January 26, 1966, prompting extensive searches. A 2025 seven-day excavation at one site found no remains, and the case remained unresolved in 2026.\n\n**Not established:** Their exact fate, body location, and any particular abductor or killer identity remain unconfirmed.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "witness",
+        "search",
+        "digs",
+        "memory"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BEA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "세 남매는 1966-01-26 Glenelg Beach outing 뒤 실종됐다.",
+      "statementEn": "The three siblings disappeared after a Glenelg Beach outing on January 26, 1966.",
+      "sourceRefs": [
+        "BEA_ABC2016",
+        "BEA_ABC2026"
+      ]
+    },
+    {
+      "claimId": "BEA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "초기부터 extensive police/public search가 진행됐다.",
+      "statementEn": "Extensive police and public searching began immediately.",
+      "sourceRefs": [
+        "BEA_ABC2016"
+      ]
+    },
+    {
+      "claimId": "BEA-C3",
+      "status": "CONFIRMED",
+      "statementKo": "2025 seven-day excavation은 remains를 찾지 못했다.",
+      "statementEn": "A 2025 seven-day excavation found no remains.",
+      "sourceRefs": [
+        "BEA_ABC2025"
+      ]
+    },
+    {
+      "claimId": "BEA-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact fate와 특정 offender identity는 확정되지 않았다.",
+      "statementEn": "The exact fate and offender identity remain unestablished.",
+      "sourceRefs": [
+        "BEA_ABC2026",
+        "BEA_ABC2025"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BEA_ABC2016",
+      "title": "Beaumont children disappearance timeline",
+      "publisher": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2016-01-26/the-beaumont-children-disappearance-timeline-50-years-of-mystery/7104032",
+      "sourceType": "PUBLIC_BROADCASTER_TIMELINE"
+    },
+    {
+      "sourceId": "BEA_ABC2025",
+      "title": "Seven-day search for Beaumont children concludes",
+      "publisher": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2025-03-01/dig-for-beaumont-childrens-remains-concludes/104997388",
+      "sourceType": "PUBLIC_BROADCASTER_CURRENT_SEARCH"
+    },
+    {
+      "sourceId": "BEA_ABC2026",
+      "title": "Call for memorial to Beaumont children, 60 years after they disappeared",
+      "publisher": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2026-01-26/beaumont-children-missing-60-years-today-memorial/106269224",
+      "sourceType": "PUBLIC_BROADCASTER_CURRENT_STATUS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bea-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1966 beach outing → missing report/search → decades of leads → 2025 dig negative → 2026 unresolved.",
+      "captionEn": "1966 beach outing → missing report/search → decades of leads → 2025 dig negative → 2026 unresolved.",
+      "altKo": "1966 beach outing → missing report/search → decades of leads → 2025 dig negative → 2026 unresolved.",
+      "altEn": "1966 beach outing → missing report/search → decades of leads → 2025 dig negative → 2026 unresolved.",
+      "sourceRefs": [
+        "BEA_ABC2016",
+        "BEA_ABC2026",
+        "BEA_ABC2025"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beaumont-children__v01__ko.png",
+          "sha256": "94c2794f7a925c341a3510ec159792c5f1fc25503a855bb0bb4a5014dc7fcfae",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beaumont-children__v01__en.png",
+          "sha256": "04a751feac1aad168f0ec00af10ea977df59387d0d30096d16733aa7e8904b5a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bea-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "confirmed disappearance/search와 witness description·suspect theories·fate uncertainty를 분리.",
+      "captionEn": "Separate confirmed disappearance/search from witness description, suspect theories, and unresolved fate.",
+      "altKo": "confirmed disappearance/search와 witness description·suspect theories·fate uncertainty를 분리.",
+      "altEn": "Separate confirmed disappearance/search from witness description, suspect theories, and unresolved fate.",
+      "sourceRefs": [
+        "BEA_ABC2016",
+        "BEA_ABC2026",
+        "BEA_ABC2025"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beaumont-children__v02__ko.png",
+          "sha256": "34b79cf5ea96f18c1a7b261225359aaebbdab352eef73f22434bf885e91ccefd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beaumont-children__v02__en.png",
+          "sha256": "e43cf7fcf10e30daa7988ec42e8ec290cdea2e7c00828916861fbbabcecc1688",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bea-v03",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "eyewitness lead → police enquiries → site hypothesis → excavation → unresolved status.",
+      "captionEn": "Eyewitness lead → police enquiries → site hypothesis → excavation → unresolved status.",
+      "altKo": "eyewitness lead → police enquiries → site hypothesis → excavation → unresolved status.",
+      "altEn": "Eyewitness lead → police enquiries → site hypothesis → excavation → unresolved status.",
+      "sourceRefs": [
+        "BEA_ABC2016",
+        "BEA_ABC2026",
+        "BEA_ABC2025"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beaumont-children__v03__ko.png",
+          "sha256": "9e2b929964290fef78d59e023bcbb0bc77fabc89ae85485ed0cf985f4642803a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beaumont-children__v03__en.png",
+          "sha256": "18223e91d385d8744fbc5e001b61bffbceb1dad1dc845f01536ce7c4bf709d89",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "South Australia"
+    ],
+    "places": [
+      {
+        "name": "Glenelg Beach",
+        "role": "last known outing area"
+      },
+      {
+        "name": "Somerton Park",
+        "role": "family home"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jane Beaumont",
+        "role": "missing child"
+      },
+      {
+        "name": "Arnna Beaumont",
+        "role": "missing child"
+      },
+      {
+        "name": "Grant Beaumont",
+        "role": "missing child"
+      }
+    ],
+    "organizations": [
+      "South Australia Police"
+    ],
+    "dateRange": {
+      "start": "1966-01-26",
+      "end": "present",
+      "precision": "disappearance through current cold case"
+    },
+    "era": "Modern Australian crime history",
+    "resolution": "THREE_CHILDREN_MISSING_FATE_AND_OFFENDER_UNRESOLVED",
+    "searchAliases": [
+      "Beaumont children",
+      "Glenelg children disappearance"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1516,
+    "enBodyWords": 221,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

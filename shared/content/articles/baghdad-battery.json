@@ -1,0 +1,277 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "baghdad-battery",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "바그다드 전지",
+    "canonicalTitleEn": "Baghdad Battery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "전압이 나오는 replica를 만들 수 있다고 정말 2천 년 전 ‘전지’였던 걸까",
+      "hook": "바그다드 전지의 핵심은 작동 가능성보다 historical intent다. 전기화학적으로 가능한 구조와 실제 고대 사용을 입증하는 증거는 다른 문제다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "토기·구리·철이 함께 있다는 사실이 곧 ‘고대 전지’라는 뜻은 아니다",
+          "headingEn": "A Clay Jar, Copper, and Iron Do Not Automatically Make an Ancient Battery",
+          "textKo": "‘바그다드 전지’로 불리는 유물은 토기 용기 안에 구리와 철이 함께 들어 있는 unusual assembly로 유명해졌다. 20세기 중반부터 galvanic cell 또는 electroplating device였다는 해석이 널리 퍼졌지만, 실제 기능은 archaeological context와 사용흔적을 함께 봐야 한다. 구조가 전지를 닮았다는 사실과 고대인이 전기를 생산·이용했다는 결론 사이에는 큰 증거단계가 있다.",
+          "textEn": "The object popularly called the Baghdad Battery became famous because a clay vessel, copper, and iron appear together in an unusual assembly. Resemblance to a galvanic cell does not by itself establish ancient electrical use."
+        },
+        {
+          "blockId": "replica-02",
+          "type": "BACKGROUND",
+          "headingKo": "산성액을 넣은 replica가 전압을 만들 수 있다는 건 ‘가능성’만 보여준다",
+          "headingEn": "Replica Voltage Demonstrates Capability, Not Historical Use",
+          "textKo": "서로 다른 금속을 electrolyte와 함께 두면 small voltage가 생길 수 있기 때문에 현대 replica는 전기적 potential을 만들 수 있다. 그러나 experiment가 작동한다는 사실은 원래 artifact의 intended function을 입증하지 않는다. archaeology에서는 ‘만들 수 있었다’와 ‘실제로 그렇게 썼다’를 구분한다. wiring, repeated apparatus, associated electrical application 같은 independent context가 필요하다.",
+          "textEn": "A modern replica can generate a small voltage when dissimilar metals are placed in an electrolyte. That demonstrates physical capability, not the intended historical function of the artifact."
+        },
+        {
+          "blockId": "plating-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "electroplating 설은 특히 유명하지만 contemporary evidence가 부족하다",
+          "headingEn": "The Electroplating Theory Is Famous but Poorly Supported by Contemporary Evidence",
+          "textKo": "Smithsonian Museum Conservation Institute의 currentized source는 Baghdad silversmith gilding과 electrochemical technique의 역사적 경계를 논의하면서, ancient electroplating을 입증할 literary source나 해당 방식으로 확실히 도금된 유물이 없다는 점을 강조한다. 즉 ‘전기화학으로 도금이 가능하다’는 기술적 사실과 ‘이 유물이 실제 고대 electroplating apparatus였다’는 역사적 주장은 동일하지 않다.",
+          "textEn": "Smithsonian conservation material emphasizes the evidentiary gap around claims of ancient electroplating: physical possibility is not the same as documented historical use."
+        },
+        {
+          "blockId": "context-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "발굴맥락과 dating uncertainty도 기능추론을 어렵게 한다",
+          "headingEn": "Weak Archaeological Context Makes Functional Interpretation Harder",
+          "textKo": "이 유물군의 original excavation context와 dating은 완벽하게 기록된 사례가 아니다. 비슷한 metal-cylinder containers가 ritual or document-storage context로 해석된 사례도 있어 단일 battery reading은 competing explanation과 비교해야 한다. archaeology에서 object form만으로 function을 확정하기 어려운 이유다. 특히 원래 contents가 남아 있지 않다면 electrolyte 사용 여부를 직접검증하기 어렵다.",
+          "textEn": "The original excavation context and dating are imperfectly documented, and similar metal-cylinder containers have been interpreted in other ways. Form alone cannot securely determine function."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "AFTERMATH",
+          "headingKo": "이 유물이 흥미로운 이유는 ‘고대인은 전기를 몰랐다’가 아니라 evidence standard를 시험하기 때문이다",
+          "headingEn": "The Real Lesson Is About Evidence Standards, Not Underestimating Ancient People",
+          "textKo": "고대사 기술을 평가할 때 modern-sounding 기능을 무조건 배제하는 것도 옳지 않지만, replica가 작동한다는 이유만으로 historical use를 확정하는 것도 옳지 않다. 바그다드 전지는 바로 이 중간지대에 있다. unusual construction은 실제이고 battery-like behavior도 재현가능하지만, 그것이 intended ancient technology였다는 provenance와 application evidence는 부족하다.",
+          "textEn": "The case is not about assuming ancient people were incapable. It is about distinguishing a reproducible modern demonstration from historical provenance and documented application."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 토기·구리·철로 구성된 unusual artifact가 존재하며, 비슷한 구조의 replica는 electrolyte 조건에서 small electrical potential을 만들 수 있다.\n\n확인되지 않음: 이 유물이 실제 고대 battery 또는 electroplating device로 제작·사용됐다는 direct archaeological·textual evidence는 확정되지 않았다.",
+          "textEn": "Established: An unusual clay-copper-iron artifact exists, and similar replicas can generate a small electrical potential under electrolyte conditions.\n\nNot established: Direct archaeological or textual evidence does not establish that the artifact was built and used as an ancient battery or electroplating device."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "replica-02",
+        "plating-03",
+        "context-04",
+        "myth-05"
+      ]
+    },
+    "en": {
+      "headline": "If a Replica Produces Voltage, Does That Mean the Ancient Object Was Really a Battery?",
+      "hook": "The Baghdad Battery puzzle is about historical intent, not whether a modern replica can be made to produce voltage.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "토기·구리·철이 함께 있다는 사실이 곧 ‘고대 전지’라는 뜻은 아니다",
+          "headingEn": "A Clay Jar, Copper, and Iron Do Not Automatically Make an Ancient Battery",
+          "textKo": "‘바그다드 전지’로 불리는 유물은 토기 용기 안에 구리와 철이 함께 들어 있는 unusual assembly로 유명해졌다. 20세기 중반부터 galvanic cell 또는 electroplating device였다는 해석이 널리 퍼졌지만, 실제 기능은 archaeological context와 사용흔적을 함께 봐야 한다. 구조가 전지를 닮았다는 사실과 고대인이 전기를 생산·이용했다는 결론 사이에는 큰 증거단계가 있다.",
+          "textEn": "The object popularly called the Baghdad Battery became famous because a clay vessel, copper, and iron appear together in an unusual assembly. Resemblance to a galvanic cell does not by itself establish ancient electrical use."
+        },
+        {
+          "blockId": "replica-02",
+          "type": "BACKGROUND",
+          "headingKo": "산성액을 넣은 replica가 전압을 만들 수 있다는 건 ‘가능성’만 보여준다",
+          "headingEn": "Replica Voltage Demonstrates Capability, Not Historical Use",
+          "textKo": "서로 다른 금속을 electrolyte와 함께 두면 small voltage가 생길 수 있기 때문에 현대 replica는 전기적 potential을 만들 수 있다. 그러나 experiment가 작동한다는 사실은 원래 artifact의 intended function을 입증하지 않는다. archaeology에서는 ‘만들 수 있었다’와 ‘실제로 그렇게 썼다’를 구분한다. wiring, repeated apparatus, associated electrical application 같은 independent context가 필요하다.",
+          "textEn": "A modern replica can generate a small voltage when dissimilar metals are placed in an electrolyte. That demonstrates physical capability, not the intended historical function of the artifact."
+        },
+        {
+          "blockId": "plating-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "electroplating 설은 특히 유명하지만 contemporary evidence가 부족하다",
+          "headingEn": "The Electroplating Theory Is Famous but Poorly Supported by Contemporary Evidence",
+          "textKo": "Smithsonian Museum Conservation Institute의 currentized source는 Baghdad silversmith gilding과 electrochemical technique의 역사적 경계를 논의하면서, ancient electroplating을 입증할 literary source나 해당 방식으로 확실히 도금된 유물이 없다는 점을 강조한다. 즉 ‘전기화학으로 도금이 가능하다’는 기술적 사실과 ‘이 유물이 실제 고대 electroplating apparatus였다’는 역사적 주장은 동일하지 않다.",
+          "textEn": "Smithsonian conservation material emphasizes the evidentiary gap around claims of ancient electroplating: physical possibility is not the same as documented historical use."
+        },
+        {
+          "blockId": "context-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "발굴맥락과 dating uncertainty도 기능추론을 어렵게 한다",
+          "headingEn": "Weak Archaeological Context Makes Functional Interpretation Harder",
+          "textKo": "이 유물군의 original excavation context와 dating은 완벽하게 기록된 사례가 아니다. 비슷한 metal-cylinder containers가 ritual or document-storage context로 해석된 사례도 있어 단일 battery reading은 competing explanation과 비교해야 한다. archaeology에서 object form만으로 function을 확정하기 어려운 이유다. 특히 원래 contents가 남아 있지 않다면 electrolyte 사용 여부를 직접검증하기 어렵다.",
+          "textEn": "The original excavation context and dating are imperfectly documented, and similar metal-cylinder containers have been interpreted in other ways. Form alone cannot securely determine function."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "AFTERMATH",
+          "headingKo": "이 유물이 흥미로운 이유는 ‘고대인은 전기를 몰랐다’가 아니라 evidence standard를 시험하기 때문이다",
+          "headingEn": "The Real Lesson Is About Evidence Standards, Not Underestimating Ancient People",
+          "textKo": "고대사 기술을 평가할 때 modern-sounding 기능을 무조건 배제하는 것도 옳지 않지만, replica가 작동한다는 이유만으로 historical use를 확정하는 것도 옳지 않다. 바그다드 전지는 바로 이 중간지대에 있다. unusual construction은 실제이고 battery-like behavior도 재현가능하지만, 그것이 intended ancient technology였다는 provenance와 application evidence는 부족하다.",
+          "textEn": "The case is not about assuming ancient people were incapable. It is about distinguishing a reproducible modern demonstration from historical provenance and documented application."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 토기·구리·철로 구성된 unusual artifact가 존재하며, 비슷한 구조의 replica는 electrolyte 조건에서 small electrical potential을 만들 수 있다.\n\n확인되지 않음: 이 유물이 실제 고대 battery 또는 electroplating device로 제작·사용됐다는 direct archaeological·textual evidence는 확정되지 않았다.",
+          "textEn": "Established: An unusual clay-copper-iron artifact exists, and similar replicas can generate a small electrical potential under electrolyte conditions.\n\nNot established: Direct archaeological or textual evidence does not establish that the artifact was built and used as an ancient battery or electroplating device."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "replica-02",
+        "plating-03",
+        "context-04",
+        "myth-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "SMITHSONIAN_MCI",
+      "title": "On the origin of a gilding method of the Baghdad silversmiths",
+      "publisher": "Smithsonian Museum Conservation Institute",
+      "url": "https://mci.si.edu/node/1269271",
+      "sourceType": "INSTITUTION_ACADEMIC_MUSEUM"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "BAG-C1",
+      "status": "SUPPORTED",
+      "statementKo": "artifact-like metal arrangement은 electrochemical potential을 만들 수 있는 구조와 양립한다.",
+      "statementEn": "The metal arrangement is physically compatible with generating a small electrochemical potential.",
+      "sourceRefs": [
+        "SMITHSONIAN_MCI"
+      ]
+    },
+    {
+      "claimId": "BAG-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "ancient electroplating/battery use를 입증하는 direct archaeological·textual evidence는 확정되지 않았다.",
+      "statementEn": "Direct archaeological or textual evidence for ancient battery/electroplating use is not established.",
+      "sourceRefs": [
+        "SMITHSONIAN_MCI"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bag-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "clay vessel + copper + iron + hypothetical electrolyte → possible small voltage.",
+      "captionEn": "Clay vessel + copper + iron + hypothetical electrolyte → possible small voltage.",
+      "altKo": "clay vessel + copper + iron + hypothetical electrolyte → possible small voltage.",
+      "altEn": "Clay vessel + copper + iron + hypothetical electrolyte → possible small voltage.",
+      "sourceRefs": [
+        "SMITHSONIAN_MCI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "baghdad-battery__v01__ko.png",
+          "sha256": "abb6c877d03844d702c6b08201605211ff80a95f941e75f07ed86715f552556d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "baghdad-battery__v01__en.png",
+          "sha256": "37ccae455ab31ee7db83747100e5a042fb55bd053bce36871a6df2a8b1bfda71",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bag-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "physical capability와 historical intended use를 분리.",
+      "captionEn": "Separate physical capability from historical intended use.",
+      "altKo": "physical capability와 historical intended use를 분리.",
+      "altEn": "Separate physical capability from historical intended use.",
+      "sourceRefs": [
+        "SMITHSONIAN_MCI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "baghdad-battery__v02__ko.png",
+          "sha256": "d782319fc69247fe748b0cfd7ade8eb7b38d19b5446ad7942f7365ddc736fd22",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "baghdad-battery__v02__en.png",
+          "sha256": "b242eb5beaf214304cdd44cb0bfaae1c8263b0c4b869b269d9a71af575842473",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "secondaryGenres": [
+      "Technology / Lost Invention"
+    ],
+    "countries": [
+      "Iraq"
+    ],
+    "regions": [
+      "Baghdad area"
+    ],
+    "resolution": "ARTIFACT_REAL_BATTERY_FUNCTION_NOT_ESTABLISHED"
+  },
+  "quality": {
+    "koBodyChars": 1628,
+    "enBodyWords": 176,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

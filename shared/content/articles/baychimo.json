@@ -1,0 +1,307 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "baychimo",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Baychimo",
+    "canonicalTitleEn": "SS Baychimo",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "선원 없이 수십 년 떠돌았다는 ‘유령선’에서 진짜 미스터리는 무엇일까",
+      "hook": "Baychimo가 버려진 뒤 다시 목격됐다는 건 archive에 남아 있다. 남은 미스터리는 초자연적 귀환이 아니라 1969년 이후 최종행방과 wreck location이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1931년 icebound된 Baychimo는 crew가 떠난 뒤에도 다시 나타났다",
+          "headingEn": "After Becoming Icebound in 1931, Baychimo Reappeared Without Its Crew",
+          "textKo": "Hudson's Bay Company Archives ship history는 Baychimo가 1931년 Arctic voyage 중 icebound됐고, crew가 winter camp를 세운 뒤 ship이 사라졌다가 다시 발견됐다고 기록한다. 결국 cargo 일부를 회수한 뒤 vessel은 버려졌지만, 이후 수십 년 동안 여러 차례 drifting ship으로 목격됐다. 그래서 ‘ghost ship’ 전설의 핵심에는 실제 repeated sightings가 있다.",
+          "textEn": "Hudson's Bay Company Archives records that Baychimo became icebound in 1931, disappeared during the crew's winter encampment, reappeared, and was ultimately abandoned after cargo recovery. It was then sighted repeatedly for decades."
+        },
+        {
+          "blockId": "abandon-02",
+          "type": "BACKGROUND",
+          "headingKo": "선원들은 침몰을 직접 본 것이 아니라 더 이상 안전하게 운항할 수 없다고 판단해 떠났다",
+          "headingEn": "The Crew Did Not Watch It Sink; They Abandoned a Vessel They Could No Longer Safely Operate",
+          "textKo": "Arctic pack ice는 hull을 압박하고 navigation을 차단할 수 있다. Baychimo crew는 vessel이 결국 ice pressure를 견디지 못했을 것으로 생각했지만 ship은 다시 떠올랐다. 이 차이는 legend의 출발점이다. ‘침몰했다고 확인했다’가 아니라 ‘lost/abandoned라고 판단했는데 나중에 다시 보였다’가 정확하다.",
+          "textEn": "Arctic pack ice can trap and crush ships. Baychimo's crew believed the vessel had likely been lost to the ice, but it later reappeared. The correct historical frame is abandonment and re-sighting, not a witnessed sinking followed by resurrection."
+        },
+        {
+          "blockId": "sightings-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "HBC Archives는 1969년까지의 later sighting을 기록한다",
+          "headingEn": "Hudson's Bay Company Archives Records Later Sightings Through 1969",
+          "textKo": "Manitoba의 Hudson's Bay Company Archives ship history는 1931 이후 여러 sightings를 정리하고 1969년을 archive상 most recent sighting으로 적는다. 이런 기록은 Baychimo story가 완전한 folklore이 아니라는 점을 보여준다. 그러나 모든 reported sighting이 동일한 documentation quality를 갖는 것은 아니므로 official archive에 남은 기록과 후대 전설을 분리할 필요가 있다.",
+          "textEn": "The Manitoba Hudson's Bay Company Archives ship history summarizes multiple sightings after 1931 and identifies 1969 as the most recent sighting in its record. The story is therefore not pure folklore, although not every later claim has equal provenance."
+        },
+        {
+          "blockId": "drift-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "오래 떠다닐 수 있었던 이유는 Arctic drift와 low human presence로 설명할 수 있다",
+          "headingEn": "Arctic Drift and Sparse Human Presence Can Explain Long Periods Between Sightings",
+          "textKo": "abandoned steel vessel이 sea ice에 갇혔다 풀리며 이동하면 months or years 동안 사람이 거의 없는 coast와 pack-ice zone을 지날 수 있다. repeated disappearance/reappearance를 초자연적 phenomenon으로 만들 필요는 없다. 다만 exact drift track을 reconstruction할 continuous position log는 없다. 그래서 어떤 years에 어디 있었는지는 대부분 알 수 없다.",
+          "textEn": "An abandoned steel vessel trapped and released by sea ice can drift through sparsely inhabited Arctic waters for long periods. No continuous position log exists, so its exact route between sightings cannot be reconstructed."
+        },
+        {
+          "blockId": "fate-05",
+          "type": "AFTERMATH",
+          "headingKo": "진짜 남은 미스터리는 ‘유령선’이 아니라 최종 wreck location이다",
+          "headingEn": "The Real Remaining Mystery Is the Final Wreck Location",
+          "textKo": "1969 이후 verified HBC archival sighting이 끊기면서 Baychimo가 언제 어디서 sink했는지 알 수 없다. later search가 있었지만 wreck identification은 확정되지 않았다. ship이 수십 년간 살아남았다는 사실은 documented history에 가깝고, 오늘날의 unresolved point는 final sinking date와 present wreck location이다.",
+          "textEn": "After the last archival sighting, Baychimo's sinking date and wreck location remain unknown. The long period of drifting is documented history; the final fate is the unresolved part."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "BACKGROUND",
+          "headingKo": "마지막 sighting 이후의 침묵은 침몰시점을 직접 알려주지 않는다",
+          "headingEn": "Silence After the Last Sighting Does Not Reveal the Sinking Date",
+          "textKo": "1969년 이후 reliable archival sighting이 없다는 사실은 그 무렵 바로 sinking했다는 뜻이 아니다. Arctic search coverage가 sparse하고 vessel 자체가 uncrewed였기 때문에 마지막 관측과 actual loss 사이에는 알 수 없는 시간이 있을 수 있다. negative evidence는 ‘이후 위치를 모른다’는 상태를 말할 뿐 exact date를 제공하지 않는다.",
+          "textEn": "The absence of reliable archival sightings after 1969 does not mean Baychimo sank immediately afterward. Sparse Arctic coverage means an unknown interval could separate the last observation from the actual loss."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Baychimo는 1931년 icebound 뒤 abandoned됐고 Hudson's Bay Company Archives에는 이후 여러 sightings와 1969년 most recent sighting이 기록돼 있다.\n\n확인되지 않음: final sinking date, exact drift route, present wreck location은 확정되지 않았다.",
+          "textEn": "Established: Baychimo was abandoned after becoming icebound in 1931, and Hudson's Bay Company Archives records later sightings through 1969.\n\nNot established: The final sinking date, exact drift route, and present wreck location remain unknown."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "abandon-02",
+        "sightings-03",
+        "drift-04",
+        "fate-05",
+        "limits-055"
+      ]
+    },
+    "en": {
+      "headline": "What Is Actually Mysterious About the 'Ghost Ship' That Drifted for Decades?",
+      "hook": "Baychimo's reappearances after abandonment are documented. The unresolved mystery is not supernatural return, but what happened after the last archival sighting.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1931년 icebound된 Baychimo는 crew가 떠난 뒤에도 다시 나타났다",
+          "headingEn": "After Becoming Icebound in 1931, Baychimo Reappeared Without Its Crew",
+          "textKo": "Hudson's Bay Company Archives ship history는 Baychimo가 1931년 Arctic voyage 중 icebound됐고, crew가 winter camp를 세운 뒤 ship이 사라졌다가 다시 발견됐다고 기록한다. 결국 cargo 일부를 회수한 뒤 vessel은 버려졌지만, 이후 수십 년 동안 여러 차례 drifting ship으로 목격됐다. 그래서 ‘ghost ship’ 전설의 핵심에는 실제 repeated sightings가 있다.",
+          "textEn": "Hudson's Bay Company Archives records that Baychimo became icebound in 1931, disappeared during the crew's winter encampment, reappeared, and was ultimately abandoned after cargo recovery. It was then sighted repeatedly for decades."
+        },
+        {
+          "blockId": "abandon-02",
+          "type": "BACKGROUND",
+          "headingKo": "선원들은 침몰을 직접 본 것이 아니라 더 이상 안전하게 운항할 수 없다고 판단해 떠났다",
+          "headingEn": "The Crew Did Not Watch It Sink; They Abandoned a Vessel They Could No Longer Safely Operate",
+          "textKo": "Arctic pack ice는 hull을 압박하고 navigation을 차단할 수 있다. Baychimo crew는 vessel이 결국 ice pressure를 견디지 못했을 것으로 생각했지만 ship은 다시 떠올랐다. 이 차이는 legend의 출발점이다. ‘침몰했다고 확인했다’가 아니라 ‘lost/abandoned라고 판단했는데 나중에 다시 보였다’가 정확하다.",
+          "textEn": "Arctic pack ice can trap and crush ships. Baychimo's crew believed the vessel had likely been lost to the ice, but it later reappeared. The correct historical frame is abandonment and re-sighting, not a witnessed sinking followed by resurrection."
+        },
+        {
+          "blockId": "sightings-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "HBC Archives는 1969년까지의 later sighting을 기록한다",
+          "headingEn": "Hudson's Bay Company Archives Records Later Sightings Through 1969",
+          "textKo": "Manitoba의 Hudson's Bay Company Archives ship history는 1931 이후 여러 sightings를 정리하고 1969년을 archive상 most recent sighting으로 적는다. 이런 기록은 Baychimo story가 완전한 folklore이 아니라는 점을 보여준다. 그러나 모든 reported sighting이 동일한 documentation quality를 갖는 것은 아니므로 official archive에 남은 기록과 후대 전설을 분리할 필요가 있다.",
+          "textEn": "The Manitoba Hudson's Bay Company Archives ship history summarizes multiple sightings after 1931 and identifies 1969 as the most recent sighting in its record. The story is therefore not pure folklore, although not every later claim has equal provenance."
+        },
+        {
+          "blockId": "drift-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "오래 떠다닐 수 있었던 이유는 Arctic drift와 low human presence로 설명할 수 있다",
+          "headingEn": "Arctic Drift and Sparse Human Presence Can Explain Long Periods Between Sightings",
+          "textKo": "abandoned steel vessel이 sea ice에 갇혔다 풀리며 이동하면 months or years 동안 사람이 거의 없는 coast와 pack-ice zone을 지날 수 있다. repeated disappearance/reappearance를 초자연적 phenomenon으로 만들 필요는 없다. 다만 exact drift track을 reconstruction할 continuous position log는 없다. 그래서 어떤 years에 어디 있었는지는 대부분 알 수 없다.",
+          "textEn": "An abandoned steel vessel trapped and released by sea ice can drift through sparsely inhabited Arctic waters for long periods. No continuous position log exists, so its exact route between sightings cannot be reconstructed."
+        },
+        {
+          "blockId": "fate-05",
+          "type": "AFTERMATH",
+          "headingKo": "진짜 남은 미스터리는 ‘유령선’이 아니라 최종 wreck location이다",
+          "headingEn": "The Real Remaining Mystery Is the Final Wreck Location",
+          "textKo": "1969 이후 verified HBC archival sighting이 끊기면서 Baychimo가 언제 어디서 sink했는지 알 수 없다. later search가 있었지만 wreck identification은 확정되지 않았다. ship이 수십 년간 살아남았다는 사실은 documented history에 가깝고, 오늘날의 unresolved point는 final sinking date와 present wreck location이다.",
+          "textEn": "After the last archival sighting, Baychimo's sinking date and wreck location remain unknown. The long period of drifting is documented history; the final fate is the unresolved part."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "BACKGROUND",
+          "headingKo": "마지막 sighting 이후의 침묵은 침몰시점을 직접 알려주지 않는다",
+          "headingEn": "Silence After the Last Sighting Does Not Reveal the Sinking Date",
+          "textKo": "1969년 이후 reliable archival sighting이 없다는 사실은 그 무렵 바로 sinking했다는 뜻이 아니다. Arctic search coverage가 sparse하고 vessel 자체가 uncrewed였기 때문에 마지막 관측과 actual loss 사이에는 알 수 없는 시간이 있을 수 있다. negative evidence는 ‘이후 위치를 모른다’는 상태를 말할 뿐 exact date를 제공하지 않는다.",
+          "textEn": "The absence of reliable archival sightings after 1969 does not mean Baychimo sank immediately afterward. Sparse Arctic coverage means an unknown interval could separate the last observation from the actual loss."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Baychimo는 1931년 icebound 뒤 abandoned됐고 Hudson's Bay Company Archives에는 이후 여러 sightings와 1969년 most recent sighting이 기록돼 있다.\n\n확인되지 않음: final sinking date, exact drift route, present wreck location은 확정되지 않았다.",
+          "textEn": "Established: Baychimo was abandoned after becoming icebound in 1931, and Hudson's Bay Company Archives records later sightings through 1969.\n\nNot established: The final sinking date, exact drift route, and present wreck location remain unknown."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "abandon-02",
+        "sightings-03",
+        "drift-04",
+        "fate-05",
+        "limits-055"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "MANITOBA_HBCA_BAYCHIMO",
+      "title": "Hudson's Bay Company Archives — Baychimo ship history",
+      "publisher": "Archives of Manitoba / Hudson's Bay Company Archives",
+      "url": "https://www.gov.mb.ca/chc/archives/_assets/docs/hbca/ships_histories/baychimo.pdf",
+      "sourceType": "PROVINCIAL_GOV_ARCHIVE"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "BAY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Baychimo는 1931년 icebound 뒤 abandoned됐고 later sightings가 기록돼 있다.",
+      "statementEn": "Baychimo was abandoned after becoming icebound in 1931 and later sightings are documented.",
+      "sourceRefs": [
+        "MANITOBA_HBCA_BAYCHIMO"
+      ]
+    },
+    {
+      "claimId": "BAY-C2",
+      "status": "CONFIRMED",
+      "statementKo": "HBC archive는 1969년을 most recent sighting으로 기록한다.",
+      "statementEn": "The HBC archive records 1969 as the most recent sighting.",
+      "sourceRefs": [
+        "MANITOBA_HBCA_BAYCHIMO"
+      ]
+    },
+    {
+      "claimId": "BAY-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "final sinking date와 present wreck location은 확정되지 않았다.",
+      "statementEn": "The final sinking date and present wreck location are not established.",
+      "sourceRefs": [
+        "MANITOBA_HBCA_BAYCHIMO"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bay-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1931 icebound → abandonment → repeated sightings → 1969 last archival sighting → final fate unknown.",
+      "captionEn": "1931 icebound → abandonment → repeated sightings → 1969 last archival sighting → final fate unknown.",
+      "altKo": "1931 icebound → abandonment → repeated sightings → 1969 last archival sighting → final fate unknown.",
+      "altEn": "1931 icebound → abandonment → repeated sightings → 1969 last archival sighting → final fate unknown.",
+      "sourceRefs": [
+        "MANITOBA_HBCA_BAYCHIMO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "baychimo__v01__ko.png",
+          "sha256": "6a548d99bf1566706d71643d9f11eab9a11e51a30c2c2927e79fe77c943d2ff1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "baychimo__v01__en.png",
+          "sha256": "feefbd0ec992a944b38bf5241b480c0aab0a9eff4ae506773a9ff0d084945c9c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bay-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "documented re-sightings와 supernatural legend, final-wreck uncertainty를 분리.",
+      "captionEn": "Separate documented re-sightings, supernatural legend, and unresolved final wreck.",
+      "altKo": "documented re-sightings와 supernatural legend, final-wreck uncertainty를 분리.",
+      "altEn": "Separate documented re-sightings, supernatural legend, and unresolved final wreck.",
+      "sourceRefs": [
+        "MANITOBA_HBCA_BAYCHIMO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "baychimo__v02__ko.png",
+          "sha256": "268756a0e7812be0054723f0a441f1b0872674ae1621c8b383de2e7eee10e6d0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "baychimo__v02__en.png",
+          "sha256": "7be62dccacc29ef46550e7db9e55a8df7f765f1919696964d69328a1dabc264f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "regions": [
+      "Canadian Arctic"
+    ],
+    "organizations": [
+      "Hudson's Bay Company"
+    ],
+    "resolution": "ABANDONMENT_AND_RE_SIGHTINGS_DOCUMENTED_FINAL_WRECK_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1725,
+    "enBodyWords": 237,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

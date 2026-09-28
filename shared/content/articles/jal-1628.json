@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "jal-1628",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "일본항공 1628편 사건",
+    "canonicalTitleEn": "Japan Airlines Flight 1628",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "알래스카 상공의 거대한 불빛—레이더와 조종사 진술은 어디까지 일치했나",
+      "hook": "JAL 1628은 official aviation record가 남아 있는 강한 UAP 사례다. 하지만 crew가 본 것과 radar가 확정한 것을 같은 층으로 합치면 증거가 과장된다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1986년 Alaska 상공에서 JAL 1628 crew는 거대한 불빛과 두 작은 object를 보고했다고 기록됐다",
+          "headingEn": "In 1986 the JAL 1628 Crew Reported Large Lights and Smaller Objects Over Alaska",
+          "textKo": "National Archives가 보존하는 FAA/UAP records에는 Japan Airlines Flight 1628 사건이 포함돼 있다. captain Kenju Terauchi와 crew는 Alaska 상공에서 unusual lights와 objects를 보고했고 ATC와 지속적으로 교신했다. 사건이 실제 aviation record에 남아 있다는 점은 분명하다. 하지만 crew description을 곧바로 object size·distance·material의 측정값으로 바꾸면 안 된다.",
+          "textEn": "National Archives UAP and FAA records include the Japan Airlines Flight 1628 incident. Captain Kenju Terauchi and the crew reported unusual lights and objects over Alaska while communicating with air traffic control."
+        },
+        {
+          "blockId": "atc-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "FAA communications와 radar discussion이 남아 있어 단순한 후대 목격담은 아니다",
+          "headingEn": "FAA Communications and Radar Discussion Make This More Than a Later Retelling",
+          "textKo": "crew는 Anchorage Center와 교신하며 traffic 확인과 course change를 요청했고 FAA 기록에는 radar returns 여부와 military radar coordination에 대한 discussion이 남아 있다. 이런 contemporaneous documentation은 사건의 evidentiary value를 높인다. 그러나 모든 sensor가 same target을 continuous track했다는 의미는 아니다. radar report의 timing·quality·correlation을 세부적으로 분리해야 한다.",
+          "textEn": "The crew communicated with Anchorage Center, requested traffic checks and course changes, and FAA records discuss radar returns and military coordination. Contemporary documentation strengthens the event record without proving one continuously tracked target."
+        },
+        {
+          "blockId": "radar-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "radar evidence는 ‘confirmed solid craft track’보다 복잡하고 불일치가 있다",
+          "headingEn": "The Radar Evidence Is More Complicated Than a Single Confirmed Solid-Craft Track",
+          "textKo": "NARA material과 후대 official discussion은 radar indications가 있었지만 primary/secondary returns, clutter, target correlation 문제 때문에 해석이 단순하지 않음을 보여준다. crew visual perception과 ATC radar indications가 일부 겹친다고 해서 giant craft의 exact dimensions가 sensor로 측정된 것은 아니다. testimony와 sensor layer가 독립적으로 어떤 claim을 지지하는지 나눠야 한다.",
+          "textEn": "Official records include radar indications, but primary/secondary returns, clutter, and target correlation make the sensor picture complex. Visual reports and radar discussion do not establish a sensor-measured giant craft."
+        },
+        {
+          "blockId": "size-04",
+          "type": "BACKGROUND",
+          "headingKo": "‘항공모함보다 거대했다’는 표현은 visual range uncertainty에 크게 의존한다",
+          "headingEn": "Claims of Enormous Size Depend Strongly on Visual-Range Uncertainty",
+          "textKo": "nighttime light source의 actual distance를 모르면 angular size를 physical size로 바꾸기 어렵다. Terauchi의 large-object description은 중요한 witness report지만 calibrated range measurement가 아니다. 따라서 enormous mothership이라는 popular description은 crew experience를 전달하는 표현이지, public evidence로 고정된 physical dimension이 아니다.",
+          "textEn": "Without a known range, angular size cannot be converted securely into physical size. Terauchi's description is important testimony, not a calibrated dimensional measurement."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "가장 강한 결론은 ‘documented aviation UAP event, identity unresolved’다",
+          "headingEn": "The Strongest Conclusion Is 'Documented Aviation UAP Event, Identity Unresolved'",
+          "textKo": "이 사건은 pilot testimony, ATC communications, FAA documentation 때문에 단순 folklore보다 훨씬 강한 record를 갖는다. 반대로 public record는 extraterrestrial craft, known aircraft, atmospheric phenomenon 중 하나를 확정하지 못한다. strong documentation과 unresolved identity가 동시에 존재하는 대표적 aviation UAP case다.",
+          "textEn": "The case has unusually strong documentation for a UAP report, including pilot testimony, ATC communications, and FAA records. Yet the public record does not establish an extraterrestrial craft or any single alternative identity."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: JAL 1628 crew는 1986년 Alaska 상공에서 unusual objects/lights를 보고했고 contemporaneous FAA communications·records가 남아 있다.\n\n확인되지 않음: object의 exact physical identity, measured size, propulsion, extraterrestrial origin은 public records로 확정되지 않았다. radar evidence도 하나의 continuous calibrated track으로 단순화할 수 없다.",
+          "textEn": "Established: The JAL 1628 crew reported unusual objects/lights over Alaska in 1986 and contemporaneous FAA communications and records survive.\n\nNot established: The exact physical identity, measured size, propulsion, and extraterrestrial origin are not established by the public records, and the radar evidence cannot be reduced to one continuous calibrated track."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "atc-02",
+        "radar-03",
+        "size-04",
+        "status-05"
+      ],
+      "factBoundary": {
+        "established": "확인됨: JAL 1628 crew는 1986년 Alaska 상공에서 unusual objects/lights를 보고했고 contemporaneous FAA communications·records가 남아 있다.\n\n확인되지 않음: object의 exact physical identity, measured size, propulsion, extraterrestrial origin은 public records로 확정되지 않았다. radar evidence도 하나의 continuous calibrated track으로 단순화할 수 없다.",
+        "notEstablished": "See final fact boundary."
+      }
+    },
+    "en": {
+      "headline": "The Huge Lights Over Alaska—How Far Did Radar and Pilot Testimony Actually Agree?",
+      "hook": "JAL 1628 is a well-documented aviation UAP case, but pilot testimony and radar evidence must be kept as separate evidentiary layers.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1986년 Alaska 상공에서 JAL 1628 crew는 거대한 불빛과 두 작은 object를 보고했다고 기록됐다",
+          "headingEn": "In 1986 the JAL 1628 Crew Reported Large Lights and Smaller Objects Over Alaska",
+          "textKo": "National Archives가 보존하는 FAA/UAP records에는 Japan Airlines Flight 1628 사건이 포함돼 있다. captain Kenju Terauchi와 crew는 Alaska 상공에서 unusual lights와 objects를 보고했고 ATC와 지속적으로 교신했다. 사건이 실제 aviation record에 남아 있다는 점은 분명하다. 하지만 crew description을 곧바로 object size·distance·material의 측정값으로 바꾸면 안 된다.",
+          "textEn": "National Archives UAP and FAA records include the Japan Airlines Flight 1628 incident. Captain Kenju Terauchi and the crew reported unusual lights and objects over Alaska while communicating with air traffic control."
+        },
+        {
+          "blockId": "atc-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "FAA communications와 radar discussion이 남아 있어 단순한 후대 목격담은 아니다",
+          "headingEn": "FAA Communications and Radar Discussion Make This More Than a Later Retelling",
+          "textKo": "crew는 Anchorage Center와 교신하며 traffic 확인과 course change를 요청했고 FAA 기록에는 radar returns 여부와 military radar coordination에 대한 discussion이 남아 있다. 이런 contemporaneous documentation은 사건의 evidentiary value를 높인다. 그러나 모든 sensor가 same target을 continuous track했다는 의미는 아니다. radar report의 timing·quality·correlation을 세부적으로 분리해야 한다.",
+          "textEn": "The crew communicated with Anchorage Center, requested traffic checks and course changes, and FAA records discuss radar returns and military coordination. Contemporary documentation strengthens the event record without proving one continuously tracked target."
+        },
+        {
+          "blockId": "radar-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "radar evidence는 ‘confirmed solid craft track’보다 복잡하고 불일치가 있다",
+          "headingEn": "The Radar Evidence Is More Complicated Than a Single Confirmed Solid-Craft Track",
+          "textKo": "NARA material과 후대 official discussion은 radar indications가 있었지만 primary/secondary returns, clutter, target correlation 문제 때문에 해석이 단순하지 않음을 보여준다. crew visual perception과 ATC radar indications가 일부 겹친다고 해서 giant craft의 exact dimensions가 sensor로 측정된 것은 아니다. testimony와 sensor layer가 독립적으로 어떤 claim을 지지하는지 나눠야 한다.",
+          "textEn": "Official records include radar indications, but primary/secondary returns, clutter, and target correlation make the sensor picture complex. Visual reports and radar discussion do not establish a sensor-measured giant craft."
+        },
+        {
+          "blockId": "size-04",
+          "type": "BACKGROUND",
+          "headingKo": "‘항공모함보다 거대했다’는 표현은 visual range uncertainty에 크게 의존한다",
+          "headingEn": "Claims of Enormous Size Depend Strongly on Visual-Range Uncertainty",
+          "textKo": "nighttime light source의 actual distance를 모르면 angular size를 physical size로 바꾸기 어렵다. Terauchi의 large-object description은 중요한 witness report지만 calibrated range measurement가 아니다. 따라서 enormous mothership이라는 popular description은 crew experience를 전달하는 표현이지, public evidence로 고정된 physical dimension이 아니다.",
+          "textEn": "Without a known range, angular size cannot be converted securely into physical size. Terauchi's description is important testimony, not a calibrated dimensional measurement."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "가장 강한 결론은 ‘documented aviation UAP event, identity unresolved’다",
+          "headingEn": "The Strongest Conclusion Is 'Documented Aviation UAP Event, Identity Unresolved'",
+          "textKo": "이 사건은 pilot testimony, ATC communications, FAA documentation 때문에 단순 folklore보다 훨씬 강한 record를 갖는다. 반대로 public record는 extraterrestrial craft, known aircraft, atmospheric phenomenon 중 하나를 확정하지 못한다. strong documentation과 unresolved identity가 동시에 존재하는 대표적 aviation UAP case다.",
+          "textEn": "The case has unusually strong documentation for a UAP report, including pilot testimony, ATC communications, and FAA records. Yet the public record does not establish an extraterrestrial craft or any single alternative identity."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: JAL 1628 crew는 1986년 Alaska 상공에서 unusual objects/lights를 보고했고 contemporaneous FAA communications·records가 남아 있다.\n\n확인되지 않음: object의 exact physical identity, measured size, propulsion, extraterrestrial origin은 public records로 확정되지 않았다. radar evidence도 하나의 continuous calibrated track으로 단순화할 수 없다.",
+          "textEn": "Established: The JAL 1628 crew reported unusual objects/lights over Alaska in 1986 and contemporaneous FAA communications and records survive.\n\nNot established: The exact physical identity, measured size, propulsion, and extraterrestrial origin are not established by the public records, and the radar evidence cannot be reduced to one continuous calibrated track."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "atc-02",
+        "radar-03",
+        "size-04",
+        "status-05"
+      ],
+      "factBoundary": {
+        "established": "Established: The JAL 1628 crew reported unusual objects/lights over Alaska in 1986 and contemporaneous FAA communications and records survive.\n\nNot established: The exact physical identity, measured size, propulsion, and extraterrestrial origin are not established by the public records, and the radar evidence cannot be reduced to one continuous calibrated track.",
+        "notEstablished": "See final fact boundary."
+      }
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "NARA_JAL1628",
+      "title": "UAP Textual and Microfilm Records",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/research/topics/uaps/textual-and-microfilm",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    },
+    {
+      "sourceId": "NARA_JAL_ARTICLE",
+      "title": "Do Records Show Proof of UFOs?",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/news/articles/do-records-show-proof-of-ufos",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "JAL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "JAL 1628 crew의 unusual-object report와 FAA records는 실제 보존자료다.",
+      "statementEn": "The JAL 1628 crew's unusual-object report and FAA records are genuine archival material.",
+      "sourceRefs": [
+        "NARA_JAL1628",
+        "NARA_JAL_ARTICLE"
+      ]
+    },
+    {
+      "claimId": "JAL-C2",
+      "status": "SUPPORTED",
+      "statementKo": "radar indications와 ATC coordination이 있었지만 sensor picture는 복잡하다.",
+      "statementEn": "Radar indications and ATC coordination existed, but the sensor picture is complex.",
+      "sourceRefs": [
+        "NARA_JAL1628",
+        "NARA_JAL_ARTICLE"
+      ]
+    },
+    {
+      "claimId": "JAL-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact object identity·size·extraterrestrial origin은 확정되지 않았다.",
+      "statementEn": "Exact object identity, size and extraterrestrial origin are not established.",
+      "sourceRefs": [
+        "NARA_JAL1628",
+        "NARA_JAL_ARTICLE"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "jal-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "crew sighting → ATC contact → radar discussion → course changes → later FAA record.",
+      "captionEn": "Crew sighting → ATC contact → radar discussion → course changes → later FAA record.",
+      "altKo": "crew sighting → ATC contact → radar discussion → course changes → later FAA record.",
+      "altEn": "Crew sighting → ATC contact → radar discussion → course changes → later FAA record.",
+      "sourceRefs": [
+        "NARA_JAL1628",
+        "NARA_JAL_ARTICLE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "jal-1628__v01__ko.png",
+          "sha256": "85fa6f1ac5c9857d185db3697b59a803f894d1e6c1bde51efcb236df19adc413",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "jal-1628__v01__en.png",
+          "sha256": "e3173c18b30b5491e65c49cf8848be84adaa2c77f990f122a05961cd281d70ec",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "jal-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "visual testimony / radar indications / inferred giant size / identity unresolved를 분리.",
+      "captionEn": "Separate visual testimony, radar indications, inferred giant size and unresolved identity.",
+      "altKo": "visual testimony / radar indications / inferred giant size / identity unresolved를 분리.",
+      "altEn": "Separate visual testimony, radar indications, inferred giant size and unresolved identity.",
+      "sourceRefs": [
+        "NARA_JAL1628",
+        "NARA_JAL_ARTICLE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "jal-1628__v02__ko.png",
+          "sha256": "375316fcab14018a3356d33fb3a2b973e348e01ef105d455415ddba628244ff8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "jal-1628__v02__en.png",
+          "sha256": "7cc8fce8123dbf23ef2d47f8425e952354b8ca62782927d51540a695b8ec2c4c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "UFO / UAP / Aerial Anomaly",
+    "secondaryGenres": [
+      "Maritime / Aviation"
+    ],
+    "countries": [
+      "United States",
+      "Japan"
+    ],
+    "regions": [
+      "Alaska"
+    ],
+    "organizations": [
+      "FAA",
+      "Japan Airlines",
+      "National Archives"
+    ],
+    "resolution": "DOCUMENTED_UAP_EVENT_SENSOR_AND_VISUAL_RECORDS_IDENTITY_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1774,
+    "enBodyWords": 202,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

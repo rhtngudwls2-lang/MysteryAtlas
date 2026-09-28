@@ -1,0 +1,306 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "franklin-expedition",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "프랭클린 원정대",
+    "canonicalTitleEn": "Franklin Expedition",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사라진 배 두 척을 찾았는데도 왜 129명의 마지막 이야기는 아직 완전히 닫히지 않았나",
+      "hook": "Erebus와 Terror의 위치는 이제 미스터리가 아니다. 남은 것은 document, Inuit knowledge, remains, wreck archaeology를 연결해 마지막 months를 얼마나 정확히 복원할 수 있는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1845년 Northwest Passage로 떠난 129명은 사라졌지만, 배 두 척은 21세기에 다시 발견됐다",
+          "headingEn": "The 129-Person Franklin Expedition Vanished, but Both Ships Were Found in the 21st Century",
+          "textKo": "Sir John Franklin이 이끈 HMS Erebus와 HMS Terror는 1845년 Northwest Passage 탐사를 위해 출항했다. 1846년부터 ice에 갇혔고, 1848년 survivors는 ships를 abandon해 south로 이동하려 했다. 129명 중 생존자는 확인되지 않았다. 160년 넘게 wreck 위치가 미스터리였지만 Parks Canada와 Inuit knowledge를 결합한 search로 Erebus는 2014년, Terror는 2016년에 발견됐다. 그래서 현재의 미스터리는 “배가 어디 있나”보다 crew의 final sequence와 왜 expedition이 무너졌는가다.",
+          "textEn": "Franklin’s HMS Erebus and HMS Terror sailed in 1845 with 129 men. The ships became trapped in ice, were abandoned in 1848, and no survivors were found. Parks Canada located Erebus in 2014 and Terror in 2016, shifting the mystery from ship location to the expedition’s final sequence."
+        },
+        {
+          "blockId": "note-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Victory Point note는 ships abandonment와 deaths의 최소 chronology를 제공한다",
+          "headingEn": "The Victory Point Note Provides a Minimum Chronology of Entrapment, Deaths, and Abandonment",
+          "textKo": "19세기 searchers가 회수한 note는 ships가 1846년부터 ice에 갇혔고 Franklin이 1847년 사망했으며 1848년 remaining men이 vessels를 abandon했다고 기록한다. 이 document는 expedition chronology의 핵심 anchor다. 하지만 이후 men이 어떤 route를 택했고 individual groups가 언제 어디서 죽었는지는 skeletons, artifacts, camps, Inuit testimony를 조합해 재구성해야 한다. 한 장의 note가 final months 전체를 설명하지는 않는다.",
+          "textEn": "The Victory Point note records prolonged ice entrapment, Franklin’s death in 1847, and abandonment of the ships in 1848. It anchors the chronology but does not narrate the survivors’ entire final journey."
+        },
+        {
+          "blockId": "inuit-03",
+          "type": "TURNING_POINT",
+          "headingKo": "Inuit oral history는 European search records가 놓친 ship locations와 crew fate의 핵심단서였다",
+          "headingEn": "Inuit Oral History Preserved Critical Clues That European Searches Missed",
+          "textKo": "Parks Canada는 both wreck discoveries에 Inuit Qaujimajatuqangit과 local knowledge가 essential했다고 명시한다. 19세기 John Rae도 Inuit accounts를 통해 starving men, relics, cannibalism reports 등 중요한 evidence를 수집했지만 당시 영국사회에서 강한 반발을 받았다. 21세기 wreck discoveries는 oral knowledge를 secondary folklore로 밀어내지 않고 archaeological search strategy와 결합했을 때 얼마나 강력한지 보여준다.",
+          "textEn": "Parks Canada explicitly credits Inuit knowledge as essential to the discoveries of both wrecks. Nineteenth-century searchers such as John Rae also collected crucial Inuit accounts that were initially resisted in Britain."
+        },
+        {
+          "blockId": "wrecks-04",
+          "type": "BACKGROUND",
+          "headingKo": "Erebus와 Terror discovery는 오래된 story의 일부를 확인했지만 crew fate 전체를 닫지는 않았다",
+          "headingEn": "Finding Erebus and Terror Confirmed Major Parts of the Story Without Solving Every Crew Fate",
+          "textKo": "Erebus는 Queen Maud Gulf에서, Terror는 Terror Bay에서 비교적 well-preserved 상태로 확인됐다. wreck archaeology는 ship configuration, equipment, abandoned or retained objects, later movement 가능성을 조사할 수 있게 했다. 그러나 ship이 발견됐다고 각 crew member의 final route, starvation, disease, exposure, lead burden, nutrition, violence 등 competing mortality factors가 모두 하나로 해결된 것은 아니다. ship evidence와 human-fate evidence의 해상도가 다르다.",
+          "textEn": "The wrecks opened a new archaeological record of ship condition and artifacts, but they do not identify every crew member’s final route or fix one single cause of death across the expedition."
+        },
+        {
+          "blockId": "causes-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“납 중독 하나 때문에 전멸했다” 같은 단일원인 모델은 현재 evidence보다 단순하다",
+          "headingEn": "Single-Cause Collapse Stories Such as “Lead Poisoning Killed Them All” Are Too Simple",
+          "textKo": "Franklin catastrophe에는 prolonged ice entrapment, scurvy/nutrition, tuberculosis and other disease, cold exposure, exhaustion, food issues, leadership loss 등 여러 factors가 겹쳤을 가능성이 있다. 일부 remains에서 lead가 측정됐지만 source와 clinical contribution은 연구마다 해석이 다르다. disaster scale을 한 가지 toxin 또는 한 번의 event로 설명하는 것보다 multiple stressors와 deteriorating logistics의 sequence를 보는 것이 현재 evidence에 더 맞다.",
+          "textEn": "The disaster likely involved multiple stressors: prolonged ice entrapment, nutrition and scurvy, disease, cold, exhaustion, food problems, and leadership loss. Lead exposure is documented in some remains but does not by itself establish one universal cause of death."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Franklin Expedition은 1845년 129명과 출항했고 ships는 ice에 갇힌 뒤 1848년 abandon됐다. HMS Erebus와 HMS Terror는 Inuit knowledge와 modern archaeology를 결합한 search로 2014·2016년 발견됐다.\n\n확인되지 않음: 모든 crew의 exact final route와 death sequence, expedition collapse를 설명하는 하나의 단일원인은 확정되지 않았다.",
+          "textEn": "Established: The Franklin Expedition sailed in 1845 with 129 men, the ships became icebound and were abandoned in 1848, and HMS Erebus and HMS Terror were found in 2014 and 2016 through searches combining Inuit knowledge and modern archaeology.\n\nNot established: The exact final route and death sequence of every crew member, or one single cause of the expedition’s collapse, remain unresolved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "note-02",
+        "inuit-03",
+        "wrecks-04",
+        "causes-05"
+      ]
+    },
+    "en": {
+      "headline": "Both Lost Ships Were Found—So Why Is the Final Story of 129 Men Still Incomplete?",
+      "hook": "The locations of Erebus and Terror are no longer mysteries. The remaining challenge is reconstructing the expedition’s final months from documents, Inuit knowledge, human remains, and wreck archaeology.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1845년 Northwest Passage로 떠난 129명은 사라졌지만, 배 두 척은 21세기에 다시 발견됐다",
+          "headingEn": "The 129-Person Franklin Expedition Vanished, but Both Ships Were Found in the 21st Century",
+          "textKo": "Sir John Franklin이 이끈 HMS Erebus와 HMS Terror는 1845년 Northwest Passage 탐사를 위해 출항했다. 1846년부터 ice에 갇혔고, 1848년 survivors는 ships를 abandon해 south로 이동하려 했다. 129명 중 생존자는 확인되지 않았다. 160년 넘게 wreck 위치가 미스터리였지만 Parks Canada와 Inuit knowledge를 결합한 search로 Erebus는 2014년, Terror는 2016년에 발견됐다. 그래서 현재의 미스터리는 “배가 어디 있나”보다 crew의 final sequence와 왜 expedition이 무너졌는가다.",
+          "textEn": "Franklin’s HMS Erebus and HMS Terror sailed in 1845 with 129 men. The ships became trapped in ice, were abandoned in 1848, and no survivors were found. Parks Canada located Erebus in 2014 and Terror in 2016, shifting the mystery from ship location to the expedition’s final sequence."
+        },
+        {
+          "blockId": "note-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Victory Point note는 ships abandonment와 deaths의 최소 chronology를 제공한다",
+          "headingEn": "The Victory Point Note Provides a Minimum Chronology of Entrapment, Deaths, and Abandonment",
+          "textKo": "19세기 searchers가 회수한 note는 ships가 1846년부터 ice에 갇혔고 Franklin이 1847년 사망했으며 1848년 remaining men이 vessels를 abandon했다고 기록한다. 이 document는 expedition chronology의 핵심 anchor다. 하지만 이후 men이 어떤 route를 택했고 individual groups가 언제 어디서 죽었는지는 skeletons, artifacts, camps, Inuit testimony를 조합해 재구성해야 한다. 한 장의 note가 final months 전체를 설명하지는 않는다.",
+          "textEn": "The Victory Point note records prolonged ice entrapment, Franklin’s death in 1847, and abandonment of the ships in 1848. It anchors the chronology but does not narrate the survivors’ entire final journey."
+        },
+        {
+          "blockId": "inuit-03",
+          "type": "TURNING_POINT",
+          "headingKo": "Inuit oral history는 European search records가 놓친 ship locations와 crew fate의 핵심단서였다",
+          "headingEn": "Inuit Oral History Preserved Critical Clues That European Searches Missed",
+          "textKo": "Parks Canada는 both wreck discoveries에 Inuit Qaujimajatuqangit과 local knowledge가 essential했다고 명시한다. 19세기 John Rae도 Inuit accounts를 통해 starving men, relics, cannibalism reports 등 중요한 evidence를 수집했지만 당시 영국사회에서 강한 반발을 받았다. 21세기 wreck discoveries는 oral knowledge를 secondary folklore로 밀어내지 않고 archaeological search strategy와 결합했을 때 얼마나 강력한지 보여준다.",
+          "textEn": "Parks Canada explicitly credits Inuit knowledge as essential to the discoveries of both wrecks. Nineteenth-century searchers such as John Rae also collected crucial Inuit accounts that were initially resisted in Britain."
+        },
+        {
+          "blockId": "wrecks-04",
+          "type": "BACKGROUND",
+          "headingKo": "Erebus와 Terror discovery는 오래된 story의 일부를 확인했지만 crew fate 전체를 닫지는 않았다",
+          "headingEn": "Finding Erebus and Terror Confirmed Major Parts of the Story Without Solving Every Crew Fate",
+          "textKo": "Erebus는 Queen Maud Gulf에서, Terror는 Terror Bay에서 비교적 well-preserved 상태로 확인됐다. wreck archaeology는 ship configuration, equipment, abandoned or retained objects, later movement 가능성을 조사할 수 있게 했다. 그러나 ship이 발견됐다고 각 crew member의 final route, starvation, disease, exposure, lead burden, nutrition, violence 등 competing mortality factors가 모두 하나로 해결된 것은 아니다. ship evidence와 human-fate evidence의 해상도가 다르다.",
+          "textEn": "The wrecks opened a new archaeological record of ship condition and artifacts, but they do not identify every crew member’s final route or fix one single cause of death across the expedition."
+        },
+        {
+          "blockId": "causes-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“납 중독 하나 때문에 전멸했다” 같은 단일원인 모델은 현재 evidence보다 단순하다",
+          "headingEn": "Single-Cause Collapse Stories Such as “Lead Poisoning Killed Them All” Are Too Simple",
+          "textKo": "Franklin catastrophe에는 prolonged ice entrapment, scurvy/nutrition, tuberculosis and other disease, cold exposure, exhaustion, food issues, leadership loss 등 여러 factors가 겹쳤을 가능성이 있다. 일부 remains에서 lead가 측정됐지만 source와 clinical contribution은 연구마다 해석이 다르다. disaster scale을 한 가지 toxin 또는 한 번의 event로 설명하는 것보다 multiple stressors와 deteriorating logistics의 sequence를 보는 것이 현재 evidence에 더 맞다.",
+          "textEn": "The disaster likely involved multiple stressors: prolonged ice entrapment, nutrition and scurvy, disease, cold, exhaustion, food problems, and leadership loss. Lead exposure is documented in some remains but does not by itself establish one universal cause of death."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Franklin Expedition은 1845년 129명과 출항했고 ships는 ice에 갇힌 뒤 1848년 abandon됐다. HMS Erebus와 HMS Terror는 Inuit knowledge와 modern archaeology를 결합한 search로 2014·2016년 발견됐다.\n\n확인되지 않음: 모든 crew의 exact final route와 death sequence, expedition collapse를 설명하는 하나의 단일원인은 확정되지 않았다.",
+          "textEn": "Established: The Franklin Expedition sailed in 1845 with 129 men, the ships became icebound and were abandoned in 1848, and HMS Erebus and HMS Terror were found in 2014 and 2016 through searches combining Inuit knowledge and modern archaeology.\n\nNot established: The exact final route and death sequence of every crew member, or one single cause of the expedition’s collapse, remain unresolved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "note-02",
+        "inuit-03",
+        "wrecks-04",
+        "causes-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "FRANK_PARKS",
+      "title": "The Wrecks of HMS Erebus and HMS Terror",
+      "publisher": "Parks Canada",
+      "url": "https://www.canada.ca/en/parks-canada/news/2017/09/the_wrecks_of_hmserebusandhmsterror.html",
+      "sourceType": "CANADA_GOVERNMENT"
+    },
+    {
+      "sourceId": "FRANK_DISC",
+      "title": "Discoveries — Wrecks of HMS Erebus and HMS Terror",
+      "publisher": "Parks Canada",
+      "url": "https://www.parcs.canada.ca/lhn-nhs/nu/epaveswrecks/culture/archeologie-archeology/decouvertes-discoveries",
+      "sourceType": "PARKS_CANADA_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "FRANK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1845 expedition 129명은 사라졌고 ships는 1848년 abandon됐다.",
+      "statementEn": "The 129-person expedition disappeared and the ships were abandoned in 1848.",
+      "sourceRefs": [
+        "FRANK_PARKS"
+      ]
+    },
+    {
+      "claimId": "FRANK-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Erebus는 2014년, Terror는 2016년에 발견됐고 Inuit knowledge가 발견에 essential했다.",
+      "statementEn": "Erebus was found in 2014 and Terror in 2016, with Inuit knowledge essential to the discoveries.",
+      "sourceRefs": [
+        "FRANK_PARKS",
+        "FRANK_DISC"
+      ]
+    },
+    {
+      "claimId": "FRANK-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 crew의 final sequence와 one single collapse cause는 확정되지 않았다.",
+      "statementEn": "The final sequence for every crew member and one single cause of collapse are not established.",
+      "sourceRefs": [
+        "FRANK_PARKS",
+        "FRANK_DISC"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "frank-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1845 departure → ice entrapment → 1848 abandonment → Inuit/search evidence → 2014/2016 wreck discoveries.",
+      "captionEn": "1845 departure → ice entrapment → 1848 abandonment → Inuit/search evidence → 2014/2016 wreck discoveries.",
+      "altKo": "1845 departure → ice entrapment → 1848 abandonment → Inuit/search evidence → 2014/2016 wreck discoveries.",
+      "altEn": "1845 departure → ice entrapment → 1848 abandonment → Inuit/search evidence → 2014/2016 wreck discoveries.",
+      "sourceRefs": [
+        "FRANK_PARKS",
+        "FRANK_DISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "franklin-expedition__v01__ko.png",
+          "sha256": "fc7ead9975a21bd867622765c078a5adac67a82adf3fd81df5969c3ef7293209",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "franklin-expedition__v01__en.png",
+          "sha256": "a6aa0c9ea0d3b9c67aa1e014147a7be7a00d2184851bd2aecc7ee6de74ce6a41",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "frank-v02",
+      "role": "EVIDENCE_STACK",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Victory Point note + Inuit knowledge + remains + wreck archaeology evidence layers.",
+      "captionEn": "Victory Point note + Inuit knowledge + remains + wreck archaeology evidence layers.",
+      "altKo": "Victory Point note + Inuit knowledge + remains + wreck archaeology evidence layers.",
+      "altEn": "Victory Point note + Inuit knowledge + remains + wreck archaeology evidence layers.",
+      "sourceRefs": [
+        "FRANK_PARKS",
+        "FRANK_DISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "franklin-expedition__v02__ko.png",
+          "sha256": "e0e9cda45d5366db4a2e3e06e61b80f97bea3d174af6e1b40c79be1c88e09b4b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "franklin-expedition__v02__en.png",
+          "sha256": "2c5042a36055f6a547f4702d749b4204e136b1129e6b4205bf488a3f948f6f9b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Canada",
+      "United Kingdom"
+    ],
+    "regions": [
+      "Canadian Arctic"
+    ],
+    "organizations": [
+      "Parks Canada"
+    ],
+    "dateRange": {
+      "start": "1845",
+      "end": "present",
+      "precision": "expedition through modern archaeology"
+    },
+    "resolution": "WRECKS_FOUND_FINAL_HUMAN_SEQUENCE_PARTLY_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 2056,
+    "enBodyWords": 243,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

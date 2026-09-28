@@ -1,0 +1,304 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "odd-radio-circles",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오드 라디오 서클",
+    "canonicalTitleEn": "Odd Radio Circles",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "전파로만 보이는 거대한 우주 원—Cloverleaf는 무엇을 밝혔나",
+      "hook": "ORC는 실제 radio-sky population이다. Cloverleaf의 X-ray detection은 galaxy-group merger shock라는 강한 clue를 줬지만, 모든 ORC가 같은 방식으로 만들어지는지는 아직 열려 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "ORC는 visible light가 아니라 radio sky에서 처음 드러난 거대한 원형구조다",
+          "headingEn": "Odd Radio Circles First Appeared as Giant Rings in the Radio Sky",
+          "textKo": "Odd Radio Circles는 sensitive radio surveys가 2020s 초에 reveal한 faint edge-brightened circular structures다. NASA는 known ORC들이 entire galaxy를 감쌀 정도로 거대하며 conventional supernova remnant보다 훨씬 큰 scale이라고 설명한다. visible-light photo에서 obvious shell로 보이는 대상이 아니라 radio emission morphology로 먼저 정의된 population이다.",
+          "textEn": "Odd Radio Circles are faint, edge-brightened circular radio structures revealed by sensitive radio surveys. NASA notes that known ORCs can be large enough to surround an entire galaxy and exceed conventional supernova-remnant scales."
+        },
+        {
+          "blockId": "clover-02",
+          "type": "TURNING_POINT",
+          "headingKo": "Cloverleaf ORC에서 처음으로 associated X-ray emission이 확인되며 formation clue가 생겼다",
+          "headingEn": "The Cloverleaf ORC Produced the First Associated X-Ray Detection and a New Formation Clue",
+          "textKo": "NASA의 XMM-Newton report는 Cloverleaf ORC에서 diffuse X-ray emitting gas를 detect했다고 설명한다. spectrum은 약 8~9 million °C gas와 galaxy-group environment를 가리켰고, optical data는 around a dozen galaxies가 interacting system을 형성함을 지지했다. radio ring 하나만 볼 때보다 multiwavelength evidence가 physical environment를 크게 좁힌 것이다.",
+          "textEn": "NASA's XMM-Newton report describes diffuse X-ray emission associated with the Cloverleaf ORC, tracing hot gas in an environment of roughly a dozen galaxies and revealing a likely merging-group system."
+        },
+        {
+          "blockId": "shock-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "두 galaxy group의 merger shock가 old energetic electrons를 다시 가속했을 가능성이 제시된다",
+          "headingEn": "A Galaxy-Group Merger Shock May Have Reaccelerated Older Energetic Electrons",
+          "textKo": "연구팀은 merging galaxy groups가 shock wave를 만들고, resident supermassive black holes의 past activity가 남긴 relic electrons를 reaccelerate해 strong radio emission을 만들었을 가능성을 제시한다. 이 model은 Cloverleaf의 X-ray gas와 radio structure를 연결하는 유력한 mechanism이다. 그러나 galaxy-group merger가 흔한데 ORC는 매우 rare하다는 점 때문에 추가 ingredient가 무엇인지 아직 설명이 필요하다.",
+          "textEn": "The team proposes that shocks from merging galaxy groups reaccelerated relic electrons, possibly left from earlier supermassive-black-hole activity, producing strong radio emission."
+        },
+        {
+          "blockId": "population-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Cloverleaf 해석이 모든 ORC의 universal origin으로 확정된 것은 아니다",
+          "headingEn": "The Cloverleaf Interpretation Is Not Yet a Universal Origin Story for Every ORC",
+          "textKo": "NASA는 ORC가 드물고 known examples도 host environment가 서로 다를 수 있다고 강조한다. Cloverleaf의 merger evidence는 strong clue지만, one object의 X-ray detection을 전체 population에 자동 적용하면 안 된다. giant outflow, merger shock, black-hole activity 등 candidate mechanisms가 object별로 다른 비율로 작용할 수도 있다. ORC라는 morphology가 하나의 physical class인지도 계속 검증해야 한다.",
+          "textEn": "NASA emphasizes that ORCs are rare and that the Cloverleaf result does not automatically establish one universal origin for the whole population."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘저게 진짜인가’에서 ‘어떤 cosmic event가 저 구조를 만들었나’로 이동했다",
+          "headingEn": "The Mystery Has Shifted From Existence to the Cosmic Events That Build These Structures",
+          "textKo": "radio surveys는 ORC morphology의 실재를 반복해서 보여줬고 X-ray follow-up은 최소 한 사례에서 hot gas와 galaxy merger를 연결했다. 이제 핵심은 object별 formation history를 multiwavelength data로 구분하는 것이다. 더 많은 X-ray, optical spectroscopy, deeper radio map이 필요하다. ORC는 ‘unidentified object’라기보다 newly recognized astrophysical class의 formation physics mystery에 가깝다.",
+          "textEn": "Radio surveys establish the morphology, and X-ray follow-up links at least one ORC to hot gas and a galaxy merger. The open problem is now the formation history of individual objects."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: ORC는 giant faint radio-ring population으로 실제 관측되며, Cloverleaf ORC에서는 diffuse X-ray gas와 merging galaxy-group environment가 확인됐다.\n\n확인되지 않음: merger-shock/reaccelerated-electron model이 모든 ORC의 universal formation mechanism인지, ORC population 전체가 하나의 physical origin을 공유하는지는 확정되지 않았다.",
+          "textEn": "Established: ORCs are real giant faint radio-ring structures, and the Cloverleaf ORC shows diffuse X-ray gas associated with a merging galaxy-group environment.\n\nNot established: The merger-shock/reaccelerated-electron model is not yet established as the universal formation mechanism for every ORC."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: ORC는 giant faint radio-ring population으로 실제 관측되며, Cloverleaf ORC에서는 diffuse X-ray gas와 merging galaxy-group environment가 확인됐다.\n\n확인되지 않음: merger-shock/reaccelerated-electron model이 모든 ORC의 universal formation mechanism인지, ORC population 전체가 하나의 physical origin을 공유하는지는 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "clover-02",
+        "shock-03",
+        "population-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "Giant Cosmic Rings Seen in Radio—What Did the Cloverleaf ORC Reveal?",
+      "hook": "ORCs are real radio-sky structures. X-rays from the Cloverleaf provide a strong clue involving a galaxy-group merger, but a universal origin remains open.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "ORC는 visible light가 아니라 radio sky에서 처음 드러난 거대한 원형구조다",
+          "headingEn": "Odd Radio Circles First Appeared as Giant Rings in the Radio Sky",
+          "textKo": "Odd Radio Circles는 sensitive radio surveys가 2020s 초에 reveal한 faint edge-brightened circular structures다. NASA는 known ORC들이 entire galaxy를 감쌀 정도로 거대하며 conventional supernova remnant보다 훨씬 큰 scale이라고 설명한다. visible-light photo에서 obvious shell로 보이는 대상이 아니라 radio emission morphology로 먼저 정의된 population이다.",
+          "textEn": "Odd Radio Circles are faint, edge-brightened circular radio structures revealed by sensitive radio surveys. NASA notes that known ORCs can be large enough to surround an entire galaxy and exceed conventional supernova-remnant scales."
+        },
+        {
+          "blockId": "clover-02",
+          "type": "TURNING_POINT",
+          "headingKo": "Cloverleaf ORC에서 처음으로 associated X-ray emission이 확인되며 formation clue가 생겼다",
+          "headingEn": "The Cloverleaf ORC Produced the First Associated X-Ray Detection and a New Formation Clue",
+          "textKo": "NASA의 XMM-Newton report는 Cloverleaf ORC에서 diffuse X-ray emitting gas를 detect했다고 설명한다. spectrum은 약 8~9 million °C gas와 galaxy-group environment를 가리켰고, optical data는 around a dozen galaxies가 interacting system을 형성함을 지지했다. radio ring 하나만 볼 때보다 multiwavelength evidence가 physical environment를 크게 좁힌 것이다.",
+          "textEn": "NASA's XMM-Newton report describes diffuse X-ray emission associated with the Cloverleaf ORC, tracing hot gas in an environment of roughly a dozen galaxies and revealing a likely merging-group system."
+        },
+        {
+          "blockId": "shock-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "두 galaxy group의 merger shock가 old energetic electrons를 다시 가속했을 가능성이 제시된다",
+          "headingEn": "A Galaxy-Group Merger Shock May Have Reaccelerated Older Energetic Electrons",
+          "textKo": "연구팀은 merging galaxy groups가 shock wave를 만들고, resident supermassive black holes의 past activity가 남긴 relic electrons를 reaccelerate해 strong radio emission을 만들었을 가능성을 제시한다. 이 model은 Cloverleaf의 X-ray gas와 radio structure를 연결하는 유력한 mechanism이다. 그러나 galaxy-group merger가 흔한데 ORC는 매우 rare하다는 점 때문에 추가 ingredient가 무엇인지 아직 설명이 필요하다.",
+          "textEn": "The team proposes that shocks from merging galaxy groups reaccelerated relic electrons, possibly left from earlier supermassive-black-hole activity, producing strong radio emission."
+        },
+        {
+          "blockId": "population-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Cloverleaf 해석이 모든 ORC의 universal origin으로 확정된 것은 아니다",
+          "headingEn": "The Cloverleaf Interpretation Is Not Yet a Universal Origin Story for Every ORC",
+          "textKo": "NASA는 ORC가 드물고 known examples도 host environment가 서로 다를 수 있다고 강조한다. Cloverleaf의 merger evidence는 strong clue지만, one object의 X-ray detection을 전체 population에 자동 적용하면 안 된다. giant outflow, merger shock, black-hole activity 등 candidate mechanisms가 object별로 다른 비율로 작용할 수도 있다. ORC라는 morphology가 하나의 physical class인지도 계속 검증해야 한다.",
+          "textEn": "NASA emphasizes that ORCs are rare and that the Cloverleaf result does not automatically establish one universal origin for the whole population."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘저게 진짜인가’에서 ‘어떤 cosmic event가 저 구조를 만들었나’로 이동했다",
+          "headingEn": "The Mystery Has Shifted From Existence to the Cosmic Events That Build These Structures",
+          "textKo": "radio surveys는 ORC morphology의 실재를 반복해서 보여줬고 X-ray follow-up은 최소 한 사례에서 hot gas와 galaxy merger를 연결했다. 이제 핵심은 object별 formation history를 multiwavelength data로 구분하는 것이다. 더 많은 X-ray, optical spectroscopy, deeper radio map이 필요하다. ORC는 ‘unidentified object’라기보다 newly recognized astrophysical class의 formation physics mystery에 가깝다.",
+          "textEn": "Radio surveys establish the morphology, and X-ray follow-up links at least one ORC to hot gas and a galaxy merger. The open problem is now the formation history of individual objects."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: ORC는 giant faint radio-ring population으로 실제 관측되며, Cloverleaf ORC에서는 diffuse X-ray gas와 merging galaxy-group environment가 확인됐다.\n\n확인되지 않음: merger-shock/reaccelerated-electron model이 모든 ORC의 universal formation mechanism인지, ORC population 전체가 하나의 physical origin을 공유하는지는 확정되지 않았다.",
+          "textEn": "Established: ORCs are real giant faint radio-ring structures, and the Cloverleaf ORC shows diffuse X-ray gas associated with a merging galaxy-group environment.\n\nNot established: The merger-shock/reaccelerated-electron model is not yet established as the universal formation mechanism for every ORC."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: ORCs are real giant faint radio-ring structures, and the Cloverleaf ORC shows diffuse X-ray gas associated with a merging galaxy-group environment.\n\nNot established: The merger-shock/reaccelerated-electron model is not yet established as the universal formation mechanism for every ORC.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "clover-02",
+        "shock-03",
+        "population-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "ORC_NASA",
+      "title": "X-ray Satellite XMM-Newton Sees 'Space Clover' in a New Light",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/missions/xmm-newton/x-ray-satellite-xmm-newton-sees-space-clover-in-a-new-light/",
+      "sourceType": "NASA_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "ORC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "ORC는 giant faint radio-ring structures로 실제 관측된다.",
+      "statementEn": "ORCs are real giant faint radio-ring structures.",
+      "sourceRefs": [
+        "ORC_NASA"
+      ]
+    },
+    {
+      "claimId": "ORC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Cloverleaf ORC에서는 diffuse X-ray gas와 galaxy-group merger environment가 확인됐다.",
+      "statementEn": "The Cloverleaf ORC shows diffuse X-ray gas and a galaxy-group merger environment.",
+      "sourceRefs": [
+        "ORC_NASA"
+      ]
+    },
+    {
+      "claimId": "ORC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "한 formation mechanism이 모든 ORC를 설명한다고 확정되지 않았다.",
+      "statementEn": "No single formation mechanism is established for every ORC.",
+      "sourceRefs": [
+        "ORC_NASA"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "orc-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "galaxy groups merge → hot X-ray gas/shock → relic electrons reaccelerated → giant radio ring.",
+      "captionEn": "Galaxy groups merge → hot X-ray gas/shock → relic electrons reaccelerated → giant radio ring.",
+      "altKo": "galaxy groups merge → hot X-ray gas/shock → relic electrons reaccelerated → giant radio ring.",
+      "altEn": "Galaxy groups merge → hot X-ray gas/shock → relic electrons reaccelerated → giant radio ring.",
+      "sourceRefs": [
+        "ORC_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "odd-radio-circles__v01__ko.png",
+          "sha256": "27b8eb21d7495a505f464ac2afe4082da5cc127800388dd2e06f520019bfa81b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "odd-radio-circles__v01__en.png",
+          "sha256": "7544722db0c6706a07c8b4c3fc81b2ca181871d0caecade0a48efebddaf7b09e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "orc-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "ORC morphology / Cloverleaf X-ray evidence / universal-origin claim을 분리.",
+      "captionEn": "Separate ORC morphology, Cloverleaf X-ray evidence, and universal-origin claims.",
+      "altKo": "ORC morphology / Cloverleaf X-ray evidence / universal-origin claim을 분리.",
+      "altEn": "Separate ORC morphology, Cloverleaf X-ray evidence, and universal-origin claims.",
+      "sourceRefs": [
+        "ORC_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "odd-radio-circles__v02__ko.png",
+          "sha256": "2f5190ec942c092a40e7b3e7d6fcdef3a938f1d8a101bb6c779d37af4da6cdcc",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "odd-radio-circles__v02__en.png",
+          "sha256": "e06ec0bc669561187bc69a7a61e2aa05601944aebc566331b89715d471f196e5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "organizations": [
+      "NASA",
+      "XMM-Newton",
+      "ASKAP"
+    ],
+    "resolution": "ORC_POPULATION_CONFIRMED_CLOVERLEAF_MERGER_CLUE_UNIVERSAL_ORIGIN_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1853,
+    "enBodyWords": 177,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

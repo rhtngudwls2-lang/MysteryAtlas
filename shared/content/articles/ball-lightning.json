@@ -1,0 +1,324 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "ball-lightning",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "구상번개",
+    "canonicalTitleEn": "Ball Lightning",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "번개 뒤 떠다니는 빛나는 구체는 실제인가—이제 질문은 ‘무엇으로 유지되나’다",
+      "hook": "자연상태 spectrum까지 얻어진 지금, 일부 구상번개 현상은 단순 전설보다 훨씬 강한 evidence를 갖는다. 남은 문제는 모든 사례를 설명할 하나의 mechanism이 있는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "구상번개는 수백 년의 목격담만 있는 게 아니라 자연상태 spectrum까지 측정된 현상이다",
+          "headingEn": "Ball Lightning Is Not Only Folklore; a Natural Event Has Been Spectroscopically Recorded",
+          "textKo": "ball lightning은 thunderstorm 근처에서 수초간 떠다니는 luminous sphere로 보고돼 왔지만 rare·transient 특성 때문에 오랫동안 좋은 instrument record가 거의 없었다. 2014년 Physical Review Letters 연구는 중국 field observation 중 cloud-to-ground lightning 뒤 나타난 luminous ball을 두 spectrograph로 약 0.9 km 거리에서 기록했다. 이 관측은 ball-lightning-like phenomenon이 단순한 집단기억이나 사진착시만으로 환원되기 어렵다는 중요한 instrument evidence다.",
+          "textEn": "Ball lightning has long been reported as a luminous sphere near thunderstorms, but instrumental records are rare. A 2014 Physical Review Letters paper captured a luminous ball with two spectrographs after a cloud-to-ground strike, providing unusually strong natural-event data."
+        },
+        {
+          "blockId": "spectrum-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "측정된 spectrum에는 soil elements의 emission signature가 나타났다",
+          "headingEn": "The Recorded Spectrum Contained Emission From Soil Elements",
+          "textKo": "2014 observation의 spectrum은 silicon, iron, calcium 같은 soil-related elements가 luminous lifetime 동안 나타났음을 보고했다. 이는 lightning strike가 ground material을 vaporize하거나 eject하고, 그 material이 luminous structure에 기여한다는 family of models와 잘 맞는다. 하지만 하나의 event spectrum이 모든 historical ball-lightning reports가 동일한 mechanism으로 생성된다는 뜻은 아니다. strong case-specific measurement와 universal mechanism을 분리해야 한다.",
+          "textEn": "The measured spectrum contained emissions associated with soil elements, consistent with models in which a lightning strike vaporizes or ejects ground material. One well-recorded event does not establish one universal mechanism for every historical report."
+        },
+        {
+          "blockId": "models-03",
+          "type": "BACKGROUND",
+          "headingKo": "plasma·microwave·combustion·vaporized material 등 여러 mechanism이 제안돼 왔다",
+          "headingEn": "Plasma, Microwave, Combustion, and Vaporized-Material Models Have All Been Proposed",
+          "textKo": "ball lightning은 lifetime, motion, color, apparent penetration reports가 다양해 하나의 theory로 모든 observation을 설명하기 어렵다. lab experiments에서는 plasma balls나 confined luminous structures를 만들 수 있고, microwave field·silicon combustion·electrical discharge 같은 mechanism도 연구됐다. 중요한 건 laboratory analogue가 자연현상의 exact mechanism을 곧바로 입증하지 않는다는 점이다. 재현된 일부 property와 natural causation은 서로 다른 evidence level이다.",
+          "textEn": "Many mechanisms have been proposed, including plasma, microwave fields, combustion, and vaporized material. Laboratory analogues can reproduce some properties without proving the exact mechanism of natural ball lightning."
+        },
+        {
+          "blockId": "variation-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "목격보고가 서로 너무 다양해 서로 다른 phenomenon이 같은 이름으로 묶였을 가능성도 있다",
+          "headingEn": "Diverse Reports May Group More Than One Physical Phenomenon Under the Same Name",
+          "textKo": "reported diameter, lifetime, motion, sound, smell, apparent interaction with objects가 크게 다르다. 일부는 ordinary lightning afterimage, electrical arcing, combustion, optical illusion으로 설명될 수 있고 일부 instrumented event는 다른 physical process를 보일 수 있다. 따라서 ball lightning을 하나의 perfectly defined object class로 가정하는 것 자체가 검증대상이다. report taxonomy가 정리되지 않으면 mechanism debate도 서로 다른 현상을 비교할 위험이 있다.",
+          "textEn": "Reported size, lifetime, motion, sound, smell, and interaction vary widely. Some reports may be ordinary electrical or optical effects, while some instrumented events may represent distinct physical processes. The category itself may include more than one phenomenon."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "현재는 ‘현상존재’보다 ‘생성·유지 mechanism이 하나인가’가 더 큰 미스터리다",
+          "headingEn": "The Larger Mystery Is Now Mechanism, Not Mere Existence",
+          "textKo": "현대 instrument observation은 적어도 일부 luminous-ball events가 real physical phenomenon이라는 주장을 강하게 만들었다. 그러나 rare event라는 제약 때문에 statistical sample과 synchronized multi-sensor data가 적다. 그래서 current science의 질문은 ‘구상번개가 있나’보다 lightning energy가 어떻게 compact luminous structure로 변하고, 왜 수초간 유지되며, 서로 다른 report를 같은 mechanism으로 설명할 수 있나에 가깝다.",
+          "textEn": "Modern instrument observations strengthen the case that at least some luminous-ball events are real physical phenomena. The harder question is how lightning energy forms and sustains them, and whether diverse reports share one mechanism."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 자연 thunderstorm 중 ball-lightning-like luminous event가 spectrograph로 기록된 사례가 있으며 soil-element emission이 측정됐다. laboratory experiments도 일부 유사 luminous structures를 만들 수 있다.\n\n확인되지 않음: 모든 ball-lightning reports를 설명하는 단일 accepted generation mechanism은 없다. 특정 laboratory model 하나가 natural cases 전체의 원인으로 확정되지도 않았다.",
+          "textEn": "Established: A natural ball-lightning-like event has been recorded spectroscopically, including emissions from soil-related elements, and laboratory experiments can reproduce some luminous structures.\n\nNot established: There is no single accepted generation mechanism for all ball-lightning reports, and no one laboratory model is established as the cause of all natural cases."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 자연 thunderstorm 중 ball-lightning-like luminous event가 spectrograph로 기록된 사례가 있으며 soil-element emission이 측정됐다. laboratory experiments도 일부 유사 luminous structures를 만들 수 있다.\n\n확인되지 않음: 모든 ball-lightning reports를 설명하는 단일 accepted generation mechanism은 없다. 특정 laboratory model 하나가 natural cases 전체의 원인으로 확정되지도 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "spectrum-02",
+        "models-03",
+        "variation-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "Is Ball Lightning Real? The Harder Question Is Now What Sustains It",
+      "hook": "With a natural spectrum now recorded, at least some ball-lightning events have evidence far stronger than folklore. The unresolved question is whether one mechanism can explain them all.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "구상번개는 수백 년의 목격담만 있는 게 아니라 자연상태 spectrum까지 측정된 현상이다",
+          "headingEn": "Ball Lightning Is Not Only Folklore; a Natural Event Has Been Spectroscopically Recorded",
+          "textKo": "ball lightning은 thunderstorm 근처에서 수초간 떠다니는 luminous sphere로 보고돼 왔지만 rare·transient 특성 때문에 오랫동안 좋은 instrument record가 거의 없었다. 2014년 Physical Review Letters 연구는 중국 field observation 중 cloud-to-ground lightning 뒤 나타난 luminous ball을 두 spectrograph로 약 0.9 km 거리에서 기록했다. 이 관측은 ball-lightning-like phenomenon이 단순한 집단기억이나 사진착시만으로 환원되기 어렵다는 중요한 instrument evidence다.",
+          "textEn": "Ball lightning has long been reported as a luminous sphere near thunderstorms, but instrumental records are rare. A 2014 Physical Review Letters paper captured a luminous ball with two spectrographs after a cloud-to-ground strike, providing unusually strong natural-event data."
+        },
+        {
+          "blockId": "spectrum-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "측정된 spectrum에는 soil elements의 emission signature가 나타났다",
+          "headingEn": "The Recorded Spectrum Contained Emission From Soil Elements",
+          "textKo": "2014 observation의 spectrum은 silicon, iron, calcium 같은 soil-related elements가 luminous lifetime 동안 나타났음을 보고했다. 이는 lightning strike가 ground material을 vaporize하거나 eject하고, 그 material이 luminous structure에 기여한다는 family of models와 잘 맞는다. 하지만 하나의 event spectrum이 모든 historical ball-lightning reports가 동일한 mechanism으로 생성된다는 뜻은 아니다. strong case-specific measurement와 universal mechanism을 분리해야 한다.",
+          "textEn": "The measured spectrum contained emissions associated with soil elements, consistent with models in which a lightning strike vaporizes or ejects ground material. One well-recorded event does not establish one universal mechanism for every historical report."
+        },
+        {
+          "blockId": "models-03",
+          "type": "BACKGROUND",
+          "headingKo": "plasma·microwave·combustion·vaporized material 등 여러 mechanism이 제안돼 왔다",
+          "headingEn": "Plasma, Microwave, Combustion, and Vaporized-Material Models Have All Been Proposed",
+          "textKo": "ball lightning은 lifetime, motion, color, apparent penetration reports가 다양해 하나의 theory로 모든 observation을 설명하기 어렵다. lab experiments에서는 plasma balls나 confined luminous structures를 만들 수 있고, microwave field·silicon combustion·electrical discharge 같은 mechanism도 연구됐다. 중요한 건 laboratory analogue가 자연현상의 exact mechanism을 곧바로 입증하지 않는다는 점이다. 재현된 일부 property와 natural causation은 서로 다른 evidence level이다.",
+          "textEn": "Many mechanisms have been proposed, including plasma, microwave fields, combustion, and vaporized material. Laboratory analogues can reproduce some properties without proving the exact mechanism of natural ball lightning."
+        },
+        {
+          "blockId": "variation-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "목격보고가 서로 너무 다양해 서로 다른 phenomenon이 같은 이름으로 묶였을 가능성도 있다",
+          "headingEn": "Diverse Reports May Group More Than One Physical Phenomenon Under the Same Name",
+          "textKo": "reported diameter, lifetime, motion, sound, smell, apparent interaction with objects가 크게 다르다. 일부는 ordinary lightning afterimage, electrical arcing, combustion, optical illusion으로 설명될 수 있고 일부 instrumented event는 다른 physical process를 보일 수 있다. 따라서 ball lightning을 하나의 perfectly defined object class로 가정하는 것 자체가 검증대상이다. report taxonomy가 정리되지 않으면 mechanism debate도 서로 다른 현상을 비교할 위험이 있다.",
+          "textEn": "Reported size, lifetime, motion, sound, smell, and interaction vary widely. Some reports may be ordinary electrical or optical effects, while some instrumented events may represent distinct physical processes. The category itself may include more than one phenomenon."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "현재는 ‘현상존재’보다 ‘생성·유지 mechanism이 하나인가’가 더 큰 미스터리다",
+          "headingEn": "The Larger Mystery Is Now Mechanism, Not Mere Existence",
+          "textKo": "현대 instrument observation은 적어도 일부 luminous-ball events가 real physical phenomenon이라는 주장을 강하게 만들었다. 그러나 rare event라는 제약 때문에 statistical sample과 synchronized multi-sensor data가 적다. 그래서 current science의 질문은 ‘구상번개가 있나’보다 lightning energy가 어떻게 compact luminous structure로 변하고, 왜 수초간 유지되며, 서로 다른 report를 같은 mechanism으로 설명할 수 있나에 가깝다.",
+          "textEn": "Modern instrument observations strengthen the case that at least some luminous-ball events are real physical phenomena. The harder question is how lightning energy forms and sustains them, and whether diverse reports share one mechanism."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 자연 thunderstorm 중 ball-lightning-like luminous event가 spectrograph로 기록된 사례가 있으며 soil-element emission이 측정됐다. laboratory experiments도 일부 유사 luminous structures를 만들 수 있다.\n\n확인되지 않음: 모든 ball-lightning reports를 설명하는 단일 accepted generation mechanism은 없다. 특정 laboratory model 하나가 natural cases 전체의 원인으로 확정되지도 않았다.",
+          "textEn": "Established: A natural ball-lightning-like event has been recorded spectroscopically, including emissions from soil-related elements, and laboratory experiments can reproduce some luminous structures.\n\nNot established: There is no single accepted generation mechanism for all ball-lightning reports, and no one laboratory model is established as the cause of all natural cases."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: A natural ball-lightning-like event has been recorded spectroscopically, including emissions from soil-related elements, and laboratory experiments can reproduce some luminous structures.\n\nNot established: There is no single accepted generation mechanism for all ball-lightning reports, and no one laboratory model is established as the cause of all natural cases.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "spectrum-02",
+        "models-03",
+        "variation-04",
+        "status-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2014년 natural thunderstorm 중 ball-lightning-like event가 spectroscopically recorded됐다.",
+      "statementEn": "A ball-lightning-like event was spectroscopically recorded during a natural thunderstorm in 2014.",
+      "sourceRefs": [
+        "BL_PRL2014",
+        "BL_APS2014"
+      ]
+    },
+    {
+      "claimId": "BL-C2",
+      "status": "CONFIRMED",
+      "statementKo": "recorded spectrum에는 soil-related element emissions가 포함됐다.",
+      "statementEn": "The recorded spectrum included emissions from soil-related elements.",
+      "sourceRefs": [
+        "BL_PRL2014"
+      ]
+    },
+    {
+      "claimId": "BL-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 ball-lightning reports를 설명하는 하나의 generation mechanism은 확정되지 않았다.",
+      "statementEn": "No single generation mechanism is established for all ball-lightning reports.",
+      "sourceRefs": [
+        "BL_APS2014",
+        "BL_PRR2020"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BL_PRL2014",
+      "title": "Observation of the Optical and Spectral Characteristics of Ball Lightning",
+      "publisher": "Physical Review Letters",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.035001",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "BL_APS2014",
+      "title": "First Spectrum of Ball Lightning",
+      "publisher": "American Physical Society Physics",
+      "url": "https://physics.aps.org/articles/v7/5",
+      "sourceType": "APS_RESEARCH_SUMMARY"
+    },
+    {
+      "sourceId": "BL_PRR2020",
+      "title": "Generation of confined plasma balls propagating along discharge channels",
+      "publisher": "Physical Review Research",
+      "url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.013266",
+      "sourceType": "PEER_REVIEWED_EXPERIMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ball-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "lightning strike → ground material/plasma → luminous ball → decay의 candidate mechanism chain.",
+      "captionEn": "Lightning strike → ground material/plasma → luminous ball → decay candidate mechanism chain.",
+      "altKo": "lightning strike → ground material/plasma → luminous ball → decay의 candidate mechanism chain.",
+      "altEn": "Lightning strike → ground material/plasma → luminous ball → decay candidate mechanism chain.",
+      "sourceRefs": [
+        "BL_PRL2014",
+        "BL_APS2014",
+        "BL_PRR2020"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "ball-lightning__v01__ko.png",
+          "sha256": "7a8a2f6d23778b1234fe89b42f22a6e1e88b13de3089a8db2f602871bd1f96f4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "ball-lightning__v01__en.png",
+          "sha256": "4a88fa4e009d89304956b4b1f34d74e47954b7c3a2c8ce699b491a7bee82f0ef",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ball-v02",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "soil-vapor/plasma/microwave 등 competing models와 evidence limits 비교.",
+      "captionEn": "Compare soil-vapor, plasma, microwave and other candidate models with evidence limits.",
+      "altKo": "soil-vapor/plasma/microwave 등 competing models와 evidence limits 비교.",
+      "altEn": "Compare soil-vapor, plasma, microwave and other candidate models with evidence limits.",
+      "sourceRefs": [
+        "BL_PRL2014",
+        "BL_APS2014",
+        "BL_PRR2020"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "ball-lightning__v02__ko.png",
+          "sha256": "a82872e87e7b46b3971438df8e412aaa96d2cc4d5c7b9f5ca8b68fc2561ea655",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "ball-lightning__v02__en.png",
+          "sha256": "d6f73aa75886567c31cfeb8baa0ef06c93ed9ea460769f7d6ed2e428e57108a6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "regions": [
+      "Global thunderstorms"
+    ],
+    "dateRange": {
+      "start": "historical reports",
+      "end": "present",
+      "precision": "historical reports through modern instrumental observations"
+    },
+    "resolution": "PHENOMENON_INSTRUMENTALLY_OBSERVED_UNIVERSAL_MECHANISM_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 2156,
+    "enBodyWords": 222,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 3,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

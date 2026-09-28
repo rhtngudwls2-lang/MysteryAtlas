@@ -1,0 +1,288 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "pentagon-papers",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "펜타곤 페이퍼",
+    "canonicalTitleEn": "Pentagon Papers",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "정부가 만든 비밀전쟁사가 공개되자 무엇이 ‘기밀’보다 더 큰 문제가 됐나",
+      "hook": "Pentagon Papers는 단순한 폭로문서가 아니라 정부가 스스로 작성한 Vietnam decision history였다. 공개 뒤 핵심쟁점은 문서내용과 press restraint가 어디까지 허용되는가였다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "정부 내부의 비밀 연구는 베트남전 의사결정의 역사를 47권으로 정리했다",
+          "headingEn": "A Secret Government Study Compiled the History of Vietnam Decision-Making in 47 Volumes",
+          "textKo": "National Archives는 이른바 Pentagon Papers가 1967년 Robert McNamara 국방장관의 지시로 작성된 Department of Defense study라고 설명한다. 연구는 1945~1967년 미국의 Vietnam policy와 decision-making history를 방대한 문서로 정리했다. 이 문서는 conspiracy theory가 아니라 실제 classified government study였으며, 훗날 leak되며 행정부의 public statements와 internal assessments 사이의 간격을 드러냈다.",
+          "textEn": "The National Archives describes the Pentagon Papers as a Department of Defense study ordered by Secretary Robert McNamara in 1967, documenting U.S. Vietnam policy and decision-making from 1945 to 1967."
+        },
+        {
+          "blockId": "leak-02",
+          "type": "TURNING_POINT",
+          "headingKo": "Daniel Ellsberg가 copy를 언론에 제공하면서 classified history가 public conflict로 바뀌었다",
+          "headingEn": "Daniel Ellsberg's Leak Turned a Classified History Into a Public Constitutional Conflict",
+          "textKo": "연구에 접근할 수 있었던 Daniel Ellsberg는 일부 document를 복사해 언론과 정치인에게 제공했다. 1971년 New York Times와 다른 언론이 내용을 보도하면서 Nixon administration은 publication을 막기 위한 legal action을 시작했다. 여기서 사건은 단순한 leak을 넘어 national security, press freedom, prior restraint가 충돌하는 constitutional controversy가 됐다.",
+          "textEn": "Daniel Ellsberg copied portions of the study and provided them to journalists and political figures. Publication in 1971 triggered legal action by the Nixon administration and a major conflict over national security and prior restraint."
+        },
+        {
+          "blockId": "court-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Supreme Court는 정부가 publication restraint에 필요한 부담을 충족하지 못했다고 봤다",
+          "headingEn": "The Supreme Court Held That the Government Had Not Met the Burden Required for Prior Restraint",
+          "textKo": "New York Times Co. v. United States에서 Supreme Court는 언론 publication을 사전에 막으려는 정부의 burden이 충족되지 않았다고 판단했다. 이 판결은 모든 classified leak이 합법이라는 뜻이 아니고, 모든 national-security claim이 무효라는 뜻도 아니다. 핵심은 press publication을 사전에 차단하는 extraordinary remedy에 매우 높은 기준이 적용된다는 데 있다.",
+          "textEn": "In New York Times Co. v. United States, the Supreme Court held that the government had not met the heavy burden required to justify prior restraint. The ruling did not make every classified leak lawful; it addressed the extraordinary act of blocking publication."
+        },
+        {
+          "blockId": "deception-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Pentagon Papers가 ‘모든 대통령이 하나의 거짓말을 했다’는 단순문서인 것은 아니다",
+          "headingEn": "The Pentagon Papers Are Not a Single Document Proving One Uniform Lie by Every Administration",
+          "textKo": "study는 여러 administration, agencies, military assessments, policy debates를 다룬 방대한 historical record다. public rhetoric와 internal doubts가 어긋난 사례가 많았지만 모든 시기와 모든 official statement를 하나의 motive로 묶는 것은 과도한 단순화다. 문서의 힘은 오히려 decision process의 변화와 불일치를 세부적으로 보여주는 데 있다.",
+          "textEn": "The study covers multiple administrations, agencies, military assessments, and policy debates. It documents important gaps between public rhetoric and internal doubts, but it is not one simple document proving one uniform motive across every administration."
+        },
+        {
+          "blockId": "archive-05",
+          "type": "AFTERMATH",
+          "headingKo": "오늘날 핵심 자료가 NARA에서 공개돼 secrecy 자체보다 기록검증이 가능해졌다",
+          "headingEn": "Today the Core Material Is Publicly Available for Direct Archival Review",
+          "textKo": "National Archives는 Pentagon Papers를 연구용으로 공개하며 volume structure와 provenance를 제공한다. 이 변화는 사건을 ‘누가 무엇을 폭로했다고 말했나’ 수준에서 직접 document를 검토할 수 있는 archival history로 바꿨다. leak의 정치적 의미와 각 document가 실제로 무엇을 보여주는지를 분리해서 읽을 수 있게 된 것이다.",
+          "textEn": "The National Archives now provides the Pentagon Papers for research, allowing direct examination of the documentary record rather than reliance on later retellings."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Pentagon Papers는 1945~1967 Vietnam policy를 다룬 실제 classified Department of Defense study이며 1971년 leak와 publication litigation의 중심자료였다.\n\n확인되지 않음: 이 document corpus 하나만으로 모든 Vietnam-era official의 motive와 모든 public statement를 동일한 ‘의도적 거짓말’로 단정할 수는 없다.",
+          "textEn": "Established: The Pentagon Papers are a real classified Department of Defense study of Vietnam policy from 1945 to 1967 and were central to the 1971 leak and publication litigation.\n\nNot established: The corpus alone does not prove one identical motive or deliberate lie by every official or administration involved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "leak-02",
+        "court-03",
+        "deception-04",
+        "archive-05"
+      ]
+    },
+    "en": {
+      "headline": "When a Secret War History Became Public, What Mattered More Than Classification?",
+      "hook": "The Pentagon Papers were a government-authored history of Vietnam decision-making. Their release turned classified analysis into a conflict over public accountability and prior restraint.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "정부 내부의 비밀 연구는 베트남전 의사결정의 역사를 47권으로 정리했다",
+          "headingEn": "A Secret Government Study Compiled the History of Vietnam Decision-Making in 47 Volumes",
+          "textKo": "National Archives는 이른바 Pentagon Papers가 1967년 Robert McNamara 국방장관의 지시로 작성된 Department of Defense study라고 설명한다. 연구는 1945~1967년 미국의 Vietnam policy와 decision-making history를 방대한 문서로 정리했다. 이 문서는 conspiracy theory가 아니라 실제 classified government study였으며, 훗날 leak되며 행정부의 public statements와 internal assessments 사이의 간격을 드러냈다.",
+          "textEn": "The National Archives describes the Pentagon Papers as a Department of Defense study ordered by Secretary Robert McNamara in 1967, documenting U.S. Vietnam policy and decision-making from 1945 to 1967."
+        },
+        {
+          "blockId": "leak-02",
+          "type": "TURNING_POINT",
+          "headingKo": "Daniel Ellsberg가 copy를 언론에 제공하면서 classified history가 public conflict로 바뀌었다",
+          "headingEn": "Daniel Ellsberg's Leak Turned a Classified History Into a Public Constitutional Conflict",
+          "textKo": "연구에 접근할 수 있었던 Daniel Ellsberg는 일부 document를 복사해 언론과 정치인에게 제공했다. 1971년 New York Times와 다른 언론이 내용을 보도하면서 Nixon administration은 publication을 막기 위한 legal action을 시작했다. 여기서 사건은 단순한 leak을 넘어 national security, press freedom, prior restraint가 충돌하는 constitutional controversy가 됐다.",
+          "textEn": "Daniel Ellsberg copied portions of the study and provided them to journalists and political figures. Publication in 1971 triggered legal action by the Nixon administration and a major conflict over national security and prior restraint."
+        },
+        {
+          "blockId": "court-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Supreme Court는 정부가 publication restraint에 필요한 부담을 충족하지 못했다고 봤다",
+          "headingEn": "The Supreme Court Held That the Government Had Not Met the Burden Required for Prior Restraint",
+          "textKo": "New York Times Co. v. United States에서 Supreme Court는 언론 publication을 사전에 막으려는 정부의 burden이 충족되지 않았다고 판단했다. 이 판결은 모든 classified leak이 합법이라는 뜻이 아니고, 모든 national-security claim이 무효라는 뜻도 아니다. 핵심은 press publication을 사전에 차단하는 extraordinary remedy에 매우 높은 기준이 적용된다는 데 있다.",
+          "textEn": "In New York Times Co. v. United States, the Supreme Court held that the government had not met the heavy burden required to justify prior restraint. The ruling did not make every classified leak lawful; it addressed the extraordinary act of blocking publication."
+        },
+        {
+          "blockId": "deception-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Pentagon Papers가 ‘모든 대통령이 하나의 거짓말을 했다’는 단순문서인 것은 아니다",
+          "headingEn": "The Pentagon Papers Are Not a Single Document Proving One Uniform Lie by Every Administration",
+          "textKo": "study는 여러 administration, agencies, military assessments, policy debates를 다룬 방대한 historical record다. public rhetoric와 internal doubts가 어긋난 사례가 많았지만 모든 시기와 모든 official statement를 하나의 motive로 묶는 것은 과도한 단순화다. 문서의 힘은 오히려 decision process의 변화와 불일치를 세부적으로 보여주는 데 있다.",
+          "textEn": "The study covers multiple administrations, agencies, military assessments, and policy debates. It documents important gaps between public rhetoric and internal doubts, but it is not one simple document proving one uniform motive across every administration."
+        },
+        {
+          "blockId": "archive-05",
+          "type": "AFTERMATH",
+          "headingKo": "오늘날 핵심 자료가 NARA에서 공개돼 secrecy 자체보다 기록검증이 가능해졌다",
+          "headingEn": "Today the Core Material Is Publicly Available for Direct Archival Review",
+          "textKo": "National Archives는 Pentagon Papers를 연구용으로 공개하며 volume structure와 provenance를 제공한다. 이 변화는 사건을 ‘누가 무엇을 폭로했다고 말했나’ 수준에서 직접 document를 검토할 수 있는 archival history로 바꿨다. leak의 정치적 의미와 각 document가 실제로 무엇을 보여주는지를 분리해서 읽을 수 있게 된 것이다.",
+          "textEn": "The National Archives now provides the Pentagon Papers for research, allowing direct examination of the documentary record rather than reliance on later retellings."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Pentagon Papers는 1945~1967 Vietnam policy를 다룬 실제 classified Department of Defense study이며 1971년 leak와 publication litigation의 중심자료였다.\n\n확인되지 않음: 이 document corpus 하나만으로 모든 Vietnam-era official의 motive와 모든 public statement를 동일한 ‘의도적 거짓말’로 단정할 수는 없다.",
+          "textEn": "Established: The Pentagon Papers are a real classified Department of Defense study of Vietnam policy from 1945 to 1967 and were central to the 1971 leak and publication litigation.\n\nNot established: The corpus alone does not prove one identical motive or deliberate lie by every official or administration involved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "leak-02",
+        "court-03",
+        "deception-04",
+        "archive-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "NARA_PENTAGON",
+      "title": "Pentagon Papers",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/research/pentagon-papers",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "PENT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Pentagon Papers는 1967년 지시된 1945~1967 Vietnam-policy classified study다.",
+      "statementEn": "The Pentagon Papers were a classified study ordered in 1967 covering U.S. Vietnam policy from 1945 to 1967.",
+      "sourceRefs": [
+        "NARA_PENTAGON"
+      ]
+    },
+    {
+      "claimId": "PENT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1971 publication conflict는 Supreme Court prior-restraint case로 이어졌다.",
+      "statementEn": "The 1971 publication conflict led to a Supreme Court prior-restraint case.",
+      "sourceRefs": [
+        "NARA_PENTAGON"
+      ]
+    },
+    {
+      "claimId": "PENT-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 관련 official의 motive를 하나의 의도적 거짓말로 일반화할 수는 없다.",
+      "statementEn": "The documents do not establish one uniform deceptive motive for every official involved.",
+      "sourceRefs": [
+        "NARA_PENTAGON"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "pent-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1967 study order → classified history → Ellsberg leak → 1971 publication → Supreme Court.",
+      "captionEn": "1967 study order → classified history → Ellsberg leak → 1971 publication → Supreme Court.",
+      "altKo": "1967 study order → classified history → Ellsberg leak → 1971 publication → Supreme Court.",
+      "altEn": "1967 study order → classified history → Ellsberg leak → 1971 publication → Supreme Court.",
+      "sourceRefs": [
+        "NARA_PENTAGON"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "pentagon-papers__v01__ko.png",
+          "sha256": "a23ccf4f7d7a943166932672cd534bae97d3c7b2829a56051835c7799a528d41",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "pentagon-papers__v01__en.png",
+          "sha256": "7d2b1c88045e4b708912a4412d5146c11bb2c292e2a4e08362e4153d909b7ea4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "pent-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "documented internal history와 broad motive claims를 분리.",
+      "captionEn": "Separate documented internal history from broad claims about motives.",
+      "altKo": "documented internal history와 broad motive claims를 분리.",
+      "altEn": "Separate documented internal history from broad claims about motives.",
+      "sourceRefs": [
+        "NARA_PENTAGON"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "pentagon-papers__v02__ko.png",
+          "sha256": "d8df4ea8d790f9f3a945596c9500824d8f6f3bb617ff52186cbb3df00191cf26",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "pentagon-papers__v02__en.png",
+          "sha256": "ac3fc077cb8cf0abd1b9e9fcf8eeff7278aa16943fea8022c811efec1879c36d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Historical Enigma / Records"
+    ],
+    "countries": [
+      "United States",
+      "Vietnam"
+    ],
+    "organizations": [
+      "Department of Defense",
+      "National Archives"
+    ],
+    "resolution": "CLASSIFIED_STUDY_AND_LEAK_CONFIRMED_BROAD_MOTIVE_GENERALIZATIONS_NOT_ESTABLISHED"
+  },
+  "quality": {
+    "koBodyChars": 1591,
+    "enBodyWords": 216,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

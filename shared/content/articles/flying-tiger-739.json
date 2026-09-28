@@ -1,0 +1,284 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "flying-tiger-739",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Flying Tiger Line 739편",
+    "canonicalTitleEn": "Flying Tiger Line Flight 739",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "107명을 태운 전세기는 태평양 어디에서 사라졌나",
+      "hook": "정상 position report 뒤 contact가 끊겼고, nearby ship은 bright flash를 봤다고 했다. 하지만 wreckage가 없어 exact cause는 끝내 검증되지 못했다.",
+      "blocks": [
+        {
+          "blockId": "b01",
+          "type": "SCENE",
+          "headingKo": "괌을 떠난 전세기는 routine position report 뒤 다시는 응답하지 않았다",
+          "headingEn": "The Charter Flight Vanished After a Routine Position Report",
+          "textKo": "Civil Aeronautics Board archival report 1-0002 concerns Flying Tiger Line Lockheed Super Constellation N6921C, lost between Guam and the Philippine Islands on March 15, 1962. 이 aircraft는 military charter로 107명을 태우고 Guam에서 Clark Air Base 방향으로 비행했다. 마지막 routine radio report 뒤 distress call 없이 contact가 끊겼고, verified wreckage나 survivors는 발견되지 않았다.",
+          "textEn": "The Civil Aeronautics Board report 1-0002 covers Flying Tiger Line N6921C, lost between Guam and the Philippines on March 15, 1962 with 107 people aboard. Contact ceased after a routine position report."
+        },
+        {
+          "blockId": "b02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "대규모 search는 넓은 서태평양을 훑었지만 물리증거를 찾지 못했다",
+          "headingEn": "A Massive Search Found No Confirmed Physical Evidence",
+          "textKo": "military and civil search assets가 vast ocean area를 조사했지만 aircraft wreckage를 확정적으로 회수하지 못했다. 이런 absence는 사고원인 investigation을 근본적으로 제한했다. flight recorder나 debris pattern, structural fracture evidence가 없으므로 mechanical failure, in-flight fire, explosion, sabotage 같은 hypotheses를 물리적으로 비교할 수 없었다.",
+          "textEn": "A large search of the western Pacific failed to recover confirmed wreckage, leaving investigators without flight-recorder, debris-pattern, or structural evidence needed to discriminate among causes."
+        },
+        {
+          "blockId": "b03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "인근 tanker crew가 본 bright flash는 중요한 witness evidence였다",
+          "headingEn": "A Bright Flash Seen by a Tanker Crew Became an Important Witness Account",
+          "textKo": "CAB investigation에는 nearby tanker S/S T. L. Lenzen crew가 하늘에서 intense luminous event를 봤다는 account가 포함됐다. timing과 general area 때문에 aircraft destruction과 연결될 possibility가 검토됐다. 하지만 visual flash를 aircraft itself와 물리적으로 연결할 wreckage가 없었다. 따라서 witness account는 significant clue지만 definitive explosion proof는 아니다.",
+          "textEn": "A nearby tanker crew reported a bright aerial flash in the relevant time and area, a significant clue considered by investigators, but no recovered wreckage physically tied the flash to the aircraft."
+        },
+        {
+          "blockId": "b04",
+          "type": "TURNING_POINT",
+          "headingKo": "CAB는 가능한 in-flight destruction을 검토했지만 probable cause를 확정하지 못했다",
+          "headingEn": "CAB Considered In-Flight Destruction but Could Not Determine a Probable Cause",
+          "textKo": "official investigation은 all available evidence를 검토했지만 lack of substantiating physical evidence 때문에 exact fate와 probable cause를 certainty 있게 정할 수 없었다. 이 distinction이 중요하다. “aircraft가 공중에서 파괴됐을 가능성이 있다”는 inference와 “무엇 때문에 파괴됐다”는 cause determination은 다른 단계다.",
+          "textEn": "The official investigation considered the possibility of in-flight destruction but, without substantiating physical evidence, could not determine the exact fate or a probable cause with certainty."
+        },
+        {
+          "blockId": "b05",
+          "type": "AFTERMATH",
+          "headingKo": "사건이 오래 남는 이유는 conspiracy보다 evidence vacuum 때문이다",
+          "headingEn": "The Case Endures Because of an Evidence Vacuum, Not Because a Conspiracy Is Required",
+          "textKo": "military passengers, Cold War route, bright-flash report 때문에 sabotage theories가 반복됐지만, proof threshold를 넘는 material evidence는 공개기록에 없다. 반대로 ordinary mechanical cause도 wreck 없이 입증되지 않았다. Flying Tiger 739의 핵심은 dramatic theory가 많다는 것보다 decisive evidence가 거의 남지 않았다는 데 있다.",
+          "textEn": "Military passengers, Cold War context, and the flash report encouraged sabotage theories, but public records do not establish them. Ordinary mechanical causes are likewise unproven without wreckage."
+        },
+        {
+          "blockId": "b06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Flying Tiger Line 739/N6921C는 1962년 Guam과 Philippines 사이에서 107명과 함께 실종됐고 대규모 search에도 verified wreckage가 발견되지 않았다. nearby tanker의 bright-flash report도 investigation record에 포함됐다.\n\n확인되지 않음: exact crash location, in-flight destruction 여부, mechanical failure·explosion·sabotage 중 어느 것이 원인이었는지는 확정되지 않았다.",
+          "textEn": "Established: Flying Tiger Line 739/N6921C disappeared in 1962 between Guam and the Philippines with 107 people aboard, and no verified wreckage was recovered; a nearby tanker’s bright-flash report was considered.\n\nNot established: Exact location and whether mechanical failure, explosion, sabotage, or another cause produced the loss remain unresolved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ]
+    },
+    "en": {
+      "headline": "Where Did a Charter Flight Carrying 107 People Disappear in the Pacific?",
+      "hook": "Contact stopped after a routine position report, and a nearby ship reported a bright flash. Without wreckage, the exact cause could never be verified.",
+      "blocks": [
+        {
+          "blockId": "b01",
+          "type": "SCENE",
+          "headingKo": "괌을 떠난 전세기는 routine position report 뒤 다시는 응답하지 않았다",
+          "headingEn": "The Charter Flight Vanished After a Routine Position Report",
+          "textKo": "Civil Aeronautics Board archival report 1-0002 concerns Flying Tiger Line Lockheed Super Constellation N6921C, lost between Guam and the Philippine Islands on March 15, 1962. 이 aircraft는 military charter로 107명을 태우고 Guam에서 Clark Air Base 방향으로 비행했다. 마지막 routine radio report 뒤 distress call 없이 contact가 끊겼고, verified wreckage나 survivors는 발견되지 않았다.",
+          "textEn": "The Civil Aeronautics Board report 1-0002 covers Flying Tiger Line N6921C, lost between Guam and the Philippines on March 15, 1962 with 107 people aboard. Contact ceased after a routine position report."
+        },
+        {
+          "blockId": "b02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "대규모 search는 넓은 서태평양을 훑었지만 물리증거를 찾지 못했다",
+          "headingEn": "A Massive Search Found No Confirmed Physical Evidence",
+          "textKo": "military and civil search assets가 vast ocean area를 조사했지만 aircraft wreckage를 확정적으로 회수하지 못했다. 이런 absence는 사고원인 investigation을 근본적으로 제한했다. flight recorder나 debris pattern, structural fracture evidence가 없으므로 mechanical failure, in-flight fire, explosion, sabotage 같은 hypotheses를 물리적으로 비교할 수 없었다.",
+          "textEn": "A large search of the western Pacific failed to recover confirmed wreckage, leaving investigators without flight-recorder, debris-pattern, or structural evidence needed to discriminate among causes."
+        },
+        {
+          "blockId": "b03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "인근 tanker crew가 본 bright flash는 중요한 witness evidence였다",
+          "headingEn": "A Bright Flash Seen by a Tanker Crew Became an Important Witness Account",
+          "textKo": "CAB investigation에는 nearby tanker S/S T. L. Lenzen crew가 하늘에서 intense luminous event를 봤다는 account가 포함됐다. timing과 general area 때문에 aircraft destruction과 연결될 possibility가 검토됐다. 하지만 visual flash를 aircraft itself와 물리적으로 연결할 wreckage가 없었다. 따라서 witness account는 significant clue지만 definitive explosion proof는 아니다.",
+          "textEn": "A nearby tanker crew reported a bright aerial flash in the relevant time and area, a significant clue considered by investigators, but no recovered wreckage physically tied the flash to the aircraft."
+        },
+        {
+          "blockId": "b04",
+          "type": "TURNING_POINT",
+          "headingKo": "CAB는 가능한 in-flight destruction을 검토했지만 probable cause를 확정하지 못했다",
+          "headingEn": "CAB Considered In-Flight Destruction but Could Not Determine a Probable Cause",
+          "textKo": "official investigation은 all available evidence를 검토했지만 lack of substantiating physical evidence 때문에 exact fate와 probable cause를 certainty 있게 정할 수 없었다. 이 distinction이 중요하다. “aircraft가 공중에서 파괴됐을 가능성이 있다”는 inference와 “무엇 때문에 파괴됐다”는 cause determination은 다른 단계다.",
+          "textEn": "The official investigation considered the possibility of in-flight destruction but, without substantiating physical evidence, could not determine the exact fate or a probable cause with certainty."
+        },
+        {
+          "blockId": "b05",
+          "type": "AFTERMATH",
+          "headingKo": "사건이 오래 남는 이유는 conspiracy보다 evidence vacuum 때문이다",
+          "headingEn": "The Case Endures Because of an Evidence Vacuum, Not Because a Conspiracy Is Required",
+          "textKo": "military passengers, Cold War route, bright-flash report 때문에 sabotage theories가 반복됐지만, proof threshold를 넘는 material evidence는 공개기록에 없다. 반대로 ordinary mechanical cause도 wreck 없이 입증되지 않았다. Flying Tiger 739의 핵심은 dramatic theory가 많다는 것보다 decisive evidence가 거의 남지 않았다는 데 있다.",
+          "textEn": "Military passengers, Cold War context, and the flash report encouraged sabotage theories, but public records do not establish them. Ordinary mechanical causes are likewise unproven without wreckage."
+        },
+        {
+          "blockId": "b06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Flying Tiger Line 739/N6921C는 1962년 Guam과 Philippines 사이에서 107명과 함께 실종됐고 대규모 search에도 verified wreckage가 발견되지 않았다. nearby tanker의 bright-flash report도 investigation record에 포함됐다.\n\n확인되지 않음: exact crash location, in-flight destruction 여부, mechanical failure·explosion·sabotage 중 어느 것이 원인이었는지는 확정되지 않았다.",
+          "textEn": "Established: Flying Tiger Line 739/N6921C disappeared in 1962 between Guam and the Philippines with 107 people aboard, and no verified wreckage was recovered; a nearby tanker’s bright-flash report was considered.\n\nNot established: Exact location and whether mechanical failure, explosion, sabotage, or another cause produced the loss remain unresolved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "FT739_CAB",
+      "title": "Investigation of Aircraft Accident: The Flying Tiger Line: Between Guam and the Philippine Islands: 1962-03-15",
+      "publisher": "Civil Aeronautics Board / U.S. DOT ROSA P",
+      "url": "https://rosap.ntl.bts.gov/view/dot/33670",
+      "sourceType": "CAB_PRIMARY_REPORT"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "FT739-C1",
+      "status": "CONFIRMED",
+      "statementKo": "N6921C는 1962-03-15 Guam-Philippines 구간에서 107명과 함께 실종됐다.",
+      "statementEn": "N6921C disappeared on March 15, 1962 between Guam and the Philippines with 107 people aboard.",
+      "sourceRefs": [
+        "FT739_CAB"
+      ]
+    },
+    {
+      "claimId": "FT739-C2",
+      "status": "CONFIRMED",
+      "statementKo": "verified wreckage가 발견되지 않아 CAB는 probable cause를 확정하지 못했다.",
+      "statementEn": "No verified wreckage was recovered and CAB could not determine a probable cause with certainty.",
+      "sourceRefs": [
+        "FT739_CAB"
+      ]
+    },
+    {
+      "claimId": "FT739-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "bright flash가 aircraft explosion이었다는 physical proof는 없다.",
+      "statementEn": "There is no physical proof that the reported bright flash was the aircraft exploding.",
+      "sourceRefs": [
+        "FT739_CAB"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ft739-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Guam departure → routine report → contact loss → tanker flash → large search → cause undetermined.",
+      "captionEn": "Guam departure → routine report → contact loss → tanker flash → large search → cause undetermined.",
+      "altKo": "Guam departure → routine report → contact loss → tanker flash → large search → cause undetermined.",
+      "altEn": "Guam departure → routine report → contact loss → tanker flash → large search → cause undetermined.",
+      "sourceRefs": [
+        "FT739_CAB"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flying-tiger-739__v01__ko.png",
+          "sha256": "63adc6149f2052918e502a4719f170effeaa37152a6334905a7cd7a5bfa0f1f0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flying-tiger-739__v01__en.png",
+          "sha256": "5f76734397dd79f96227107ce9a2d0bf18d3de8f410e3445dc7d668e80087df1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ft739-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "confirmed disappearance / witness flash / unestablished cause를 분리.",
+      "captionEn": "Separate confirmed disappearance, witness flash, and unestablished cause.",
+      "altKo": "confirmed disappearance / witness flash / unestablished cause를 분리.",
+      "altEn": "Separate confirmed disappearance, witness flash, and unestablished cause.",
+      "sourceRefs": [
+        "FT739_CAB"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flying-tiger-739__v02__ko.png",
+          "sha256": "18d4bf3f9a8b687fe31d60bdfba650d0639e4133f1a56c87cbaf15f56d31b90c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flying-tiger-739__v02__en.png",
+          "sha256": "e121a52f73969248dd280ab28c28df24414dc4c72d575a91d717d239afbf8596",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "countries": [
+      "United States",
+      "Philippines"
+    ],
+    "regions": [
+      "Western Pacific"
+    ],
+    "resolution": "AIRCRAFT_AND_107_LOST_NO_WRECKAGE_PROBABLE_CAUSE_UNDETERMINED"
+  },
+  "quality": {
+    "koBodyChars": 1777,
+    "enBodyWords": 191,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH29",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH29_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

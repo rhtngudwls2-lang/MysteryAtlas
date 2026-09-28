@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "little-red-dots",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "JWST 리틀 레드 닷",
+    "canonicalTitleEn": "JWST Little Red Dots",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "초기우주에 너무 작고 붉은 점들이 왜 이렇게 많이 보일까",
+      "hook": "Little red dots는 JWST가 찾아낸 real population이다. 미스터리는 이 작은 붉은 source들이 모두 같은 종류인지, black hole·stars·dust가 각각 얼마나 빛을 만드는지에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "JWST가 초기우주에서 예상보다 작고 붉고 밝은 점들을 대량으로 보이기 시작했다",
+          "headingEn": "JWST Began Revealing an Unexpected Population of Compact Red Sources in the Early Universe",
+          "textKo": "Smithsonian은 JWST deep observations에서 ‘little red dots’라 불리는 compact red sources가 초기 universe에 상당수 발견됐다고 설명한다. 이들은 매우 작아 보이면서 infrared에서 붉고, 일부는 broad emission lines를 보여 active galactic nucleus 가능성을 제기한다. 문제는 기존 galaxy-growth model로는 작은 host 안에 너무 massive한 black hole 또는 너무 dense한 stars가 필요한 것처럼 보인다는 점이다.",
+          "textEn": "Smithsonian describes a population of compact, red sources revealed by JWST in the early universe. Some show broad emission lines suggesting active galactic nuclei, yet their brightness and compactness strain simple galaxy-growth interpretations."
+        },
+        {
+          "blockId": "blackhole-02",
+          "type": "HYPOTHESIS",
+          "headingKo": "한 해석은 작은 galaxy 안에 빠르게 성장하는 massive black hole이 있다는 것이다",
+          "headingEn": "One Interpretation Invokes Rapidly Growing Massive Black Holes in Small Galaxies",
+          "textKo": "broad-line signatures와 compact morphology 때문에 일부 little red dots는 accreting black hole이 dominant light source라는 model과 잘 맞는다. 이 경우 초기우주에서 black hole이 host galaxy보다 놀랍게 빠르게 성장했어야 한다. 그러나 continuum light 중 얼마나 AGN이 담당하고 얼마나 stars가 담당하는지에 따라 inferred masses가 크게 달라진다. 같은 photometry에서 astrophysical interpretation이 분기되는 이유다.",
+          "textEn": "Broad-line signatures and compact morphology make accreting black holes a strong model for some little red dots. But inferred black-hole and stellar masses depend strongly on how much light comes from AGN versus stars."
+        },
+        {
+          "blockId": "stars-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "매우 조밀한 stellar population과 dust도 red appearance의 일부를 설명할 수 있다",
+          "headingEn": "Dense Stellar Populations and Dust Can Also Contribute to the Red Appearance",
+          "textKo": "모든 object가 동일한 spectrum을 보이지 않고, 일부는 stellar light와 dust reddening이 더 중요한 model로 설명될 수 있다. little red dots라는 observational category가 하나의 single physical class라는 보장은 없다. 즉 ‘작고 붉다’는 selection feature와 ‘같은 종류의 천체다’라는 physical classification을 분리해야 한다.",
+          "textEn": "Not every object shows the same spectrum. Dense stellar populations and dust reddening may matter in some cases, so the observational label 'little red dots' need not describe one single physical class."
+        },
+        {
+          "blockId": "mass-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 큰 미스터리는 brightness를 mass로 바꾸는 과정에서 생긴다",
+          "headingEn": "The Hardest Puzzle Appears When Brightness Is Converted Into Mass",
+          "textKo": "early-universe galaxy가 너무 massive해 보인다는 초기 headline 중 일부는 AGN contribution, dust, star-formation history를 다르게 가정하면 mass estimate가 내려갈 수 있다. 반대로 broad lines가 genuine black-hole activity라면 매우 초기의 black-hole growth problem은 남는다. JWST는 ‘불가능한 galaxy’를 확정한 것이 아니라 기존 model assumptions를 테스트할 수 있는 새로운 population을 보여준 것이다.",
+          "textEn": "Some apparently extreme stellar masses can fall when AGN contribution, dust, and star-formation history are modeled differently. If broad lines do trace black-hole activity, however, rapid early black-hole growth remains a real challenge."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘JWST가 틀렸나’가 아니라 이 population의 physical mix가 무엇인가다",
+          "headingEn": "The Mystery Is the Physical Mix of the Population, Not Whether JWST Is 'Wrong'",
+          "textKo": "little red dots는 instrument artifact 하나로 사라진 population이 아니라 follow-up spectroscopy의 주요 target이 됐다. redshift, line width, variability, X-ray behavior를 더 모으면 AGN-dominated, stellar-dominated, mixed cases를 분리할 수 있다. 현재는 ‘초기우주에 compact red sources가 많다’가 관측사실이고, 그것을 하나의 physical story로 묶는 단계가 진행 중이다.",
+          "textEn": "Little red dots are now major targets for follow-up spectroscopy. Redshift, line width, variability, and X-ray information can separate AGN-dominated, stellar-dominated, and mixed cases."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: JWST는 초기우주에서 compact red source population을 다수 발견했고 일부는 broad-line AGN signatures를 보인다.\n\n확인되지 않음: little red dots 전체가 하나의 physical class인지, 각 object의 black-hole mass·stellar mass·dust contribution을 하나의 model로 확정할 수 있는지는 아직 연구 중이다.",
+          "textEn": "Established: JWST has revealed a substantial population of compact red sources in the early universe, with some showing broad-line AGN signatures.\n\nNot established: It is not yet established that all little red dots form one physical class or that black-hole mass, stellar mass, and dust contribution can be fixed by one model for every object."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "blackhole-02",
+        "stars-03",
+        "mass-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "Why Is the Early Universe Full of Tiny, Red, Surprisingly Bright Dots?",
+      "hook": "Little red dots are a real JWST population. The mystery is how much of their light comes from black holes, stars, and dust—and whether they are even one physical class.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "JWST가 초기우주에서 예상보다 작고 붉고 밝은 점들을 대량으로 보이기 시작했다",
+          "headingEn": "JWST Began Revealing an Unexpected Population of Compact Red Sources in the Early Universe",
+          "textKo": "Smithsonian은 JWST deep observations에서 ‘little red dots’라 불리는 compact red sources가 초기 universe에 상당수 발견됐다고 설명한다. 이들은 매우 작아 보이면서 infrared에서 붉고, 일부는 broad emission lines를 보여 active galactic nucleus 가능성을 제기한다. 문제는 기존 galaxy-growth model로는 작은 host 안에 너무 massive한 black hole 또는 너무 dense한 stars가 필요한 것처럼 보인다는 점이다.",
+          "textEn": "Smithsonian describes a population of compact, red sources revealed by JWST in the early universe. Some show broad emission lines suggesting active galactic nuclei, yet their brightness and compactness strain simple galaxy-growth interpretations."
+        },
+        {
+          "blockId": "blackhole-02",
+          "type": "HYPOTHESIS",
+          "headingKo": "한 해석은 작은 galaxy 안에 빠르게 성장하는 massive black hole이 있다는 것이다",
+          "headingEn": "One Interpretation Invokes Rapidly Growing Massive Black Holes in Small Galaxies",
+          "textKo": "broad-line signatures와 compact morphology 때문에 일부 little red dots는 accreting black hole이 dominant light source라는 model과 잘 맞는다. 이 경우 초기우주에서 black hole이 host galaxy보다 놀랍게 빠르게 성장했어야 한다. 그러나 continuum light 중 얼마나 AGN이 담당하고 얼마나 stars가 담당하는지에 따라 inferred masses가 크게 달라진다. 같은 photometry에서 astrophysical interpretation이 분기되는 이유다.",
+          "textEn": "Broad-line signatures and compact morphology make accreting black holes a strong model for some little red dots. But inferred black-hole and stellar masses depend strongly on how much light comes from AGN versus stars."
+        },
+        {
+          "blockId": "stars-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "매우 조밀한 stellar population과 dust도 red appearance의 일부를 설명할 수 있다",
+          "headingEn": "Dense Stellar Populations and Dust Can Also Contribute to the Red Appearance",
+          "textKo": "모든 object가 동일한 spectrum을 보이지 않고, 일부는 stellar light와 dust reddening이 더 중요한 model로 설명될 수 있다. little red dots라는 observational category가 하나의 single physical class라는 보장은 없다. 즉 ‘작고 붉다’는 selection feature와 ‘같은 종류의 천체다’라는 physical classification을 분리해야 한다.",
+          "textEn": "Not every object shows the same spectrum. Dense stellar populations and dust reddening may matter in some cases, so the observational label 'little red dots' need not describe one single physical class."
+        },
+        {
+          "blockId": "mass-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 큰 미스터리는 brightness를 mass로 바꾸는 과정에서 생긴다",
+          "headingEn": "The Hardest Puzzle Appears When Brightness Is Converted Into Mass",
+          "textKo": "early-universe galaxy가 너무 massive해 보인다는 초기 headline 중 일부는 AGN contribution, dust, star-formation history를 다르게 가정하면 mass estimate가 내려갈 수 있다. 반대로 broad lines가 genuine black-hole activity라면 매우 초기의 black-hole growth problem은 남는다. JWST는 ‘불가능한 galaxy’를 확정한 것이 아니라 기존 model assumptions를 테스트할 수 있는 새로운 population을 보여준 것이다.",
+          "textEn": "Some apparently extreme stellar masses can fall when AGN contribution, dust, and star-formation history are modeled differently. If broad lines do trace black-hole activity, however, rapid early black-hole growth remains a real challenge."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘JWST가 틀렸나’가 아니라 이 population의 physical mix가 무엇인가다",
+          "headingEn": "The Mystery Is the Physical Mix of the Population, Not Whether JWST Is 'Wrong'",
+          "textKo": "little red dots는 instrument artifact 하나로 사라진 population이 아니라 follow-up spectroscopy의 주요 target이 됐다. redshift, line width, variability, X-ray behavior를 더 모으면 AGN-dominated, stellar-dominated, mixed cases를 분리할 수 있다. 현재는 ‘초기우주에 compact red sources가 많다’가 관측사실이고, 그것을 하나의 physical story로 묶는 단계가 진행 중이다.",
+          "textEn": "Little red dots are now major targets for follow-up spectroscopy. Redshift, line width, variability, and X-ray information can separate AGN-dominated, stellar-dominated, and mixed cases."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: JWST는 초기우주에서 compact red source population을 다수 발견했고 일부는 broad-line AGN signatures를 보인다.\n\n확인되지 않음: little red dots 전체가 하나의 physical class인지, 각 object의 black-hole mass·stellar mass·dust contribution을 하나의 model로 확정할 수 있는지는 아직 연구 중이다.",
+          "textEn": "Established: JWST has revealed a substantial population of compact red sources in the early universe, with some showing broad-line AGN signatures.\n\nNot established: It is not yet established that all little red dots form one physical class or that black-hole mass, stellar mass, and dust contribution can be fixed by one model for every object."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "blackhole-02",
+        "stars-03",
+        "mass-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "LRD_SMITH",
+      "title": "Distant 'Little Red Dots' Are a Mystery to Scientists",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/stories/distant-little-red-dots-are-mystery-scientists",
+      "sourceType": "INSTITUTION_ACADEMIC_MUSEUM"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "LRD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "JWST는 초기우주에서 compact red source population을 다수 발견했다.",
+      "statementEn": "JWST has revealed a substantial population of compact red sources in the early universe.",
+      "sourceRefs": [
+        "LRD_SMITH"
+      ]
+    },
+    {
+      "claimId": "LRD-C2",
+      "status": "SUPPORTED",
+      "statementKo": "일부 source의 broad emission lines는 accreting black-hole interpretation을 지지한다.",
+      "statementEn": "Broad emission lines in some sources support an accreting-black-hole interpretation.",
+      "sourceRefs": [
+        "LRD_SMITH"
+      ]
+    },
+    {
+      "claimId": "LRD-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "population 전체가 하나의 physical class라는 것은 확정되지 않았다.",
+      "statementEn": "It is not established that the entire population forms one physical class.",
+      "sourceRefs": [
+        "LRD_SMITH"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "lrd-v01",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "compact red source → AGN-dominated / stellar+dust / mixed models.",
+      "captionEn": "Compact red source → AGN-dominated / stellar+dust / mixed models.",
+      "altKo": "compact red source → AGN-dominated / stellar+dust / mixed models.",
+      "altEn": "Compact red source → AGN-dominated / stellar+dust / mixed models.",
+      "sourceRefs": [
+        "LRD_SMITH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "little-red-dots__v01__ko.png",
+          "sha256": "fe22f1677e4fcd214afa24d8e592614db330fb7e240fc2b437697bf6ccfd2788",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "little-red-dots__v01__en.png",
+          "sha256": "914707cfa773a2f086b86e0163286e3ad844e9e7aa29495dfd9d826ecaec987f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lrd-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "observed red compact population과 inferred masses/physical class를 분리.",
+      "captionEn": "Separate observed compact-red population from inferred masses and physical class.",
+      "altKo": "observed red compact population과 inferred masses/physical class를 분리.",
+      "altEn": "Separate observed compact-red population from inferred masses and physical class.",
+      "sourceRefs": [
+        "LRD_SMITH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "little-red-dots__v02__ko.png",
+          "sha256": "611201b170497ce556712907d4a2d7455d993456c48fa0cbb085d4f9e336362b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "little-red-dots__v02__en.png",
+          "sha256": "d66e923beea62ee3a7694cb1bc52892ea6fbbc16c87aebaaebffe60edbec9e28",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "regions": [
+      "Early universe"
+    ],
+    "organizations": [
+      "JWST",
+      "Smithsonian"
+    ],
+    "resolution": "POPULATION_CONFIRMED_PHYSICAL_INTERPRETATION_ACTIVE"
+  },
+  "quality": {
+    "koBodyChars": 1723,
+    "enBodyWords": 211,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

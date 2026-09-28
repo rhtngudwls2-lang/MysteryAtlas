@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "dagapeyeff-cipher",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "다가페예프 암호",
+    "canonicalTitleEn": "D’Agapeyeff Cipher",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "저자가 만든 연습문제를 저자도 다시 못 풀었다—암호가 틀렸을 가능성까지 계산해야 하나",
+      "hook": "1939년 암호책 마지막의 challenge는 아직 consensus solution이 없다. 더 이상한 점은 cipher method 자체에 human error가 섞였을 가능성까지 solver가 고려해야 한다는 것이다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1939년 입문서 마지막 페이지의 연습문제가 저자 자신도 못 푸는 암호가 됐다",
+          "headingEn": "A 1939 Textbook Exercise Became a Cipher Its Own Author Could Not Recover",
+          "textKo": "Alexander D’Agapeyeff의 `Codes and Ciphers` 1939 edition에는 독자에게 풀어보라고 제시한 long numerical cryptogram이 실려 있다. Open Library는 1939 Oxford University Press edition의 bibliographic record를 보존하고, Cipher Foundation은 이 cipher가 이후 판에서 빠지고 아직 accepted solution이 없다고 정리한다. 원문출판의 존재와 현재 미해독 status는 분리해 확인할 수 있다.",
+          "textEn": "Alexander D’Agapeyeff’s 1939 `Codes and Ciphers` included a long numerical challenge cipher. Open Library preserves the first-edition bibliographic record, while the Cipher Foundation documents its later omission and lack of an accepted solution."
+        },
+        {
+          "blockId": "structure",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "숫자열은 단순 substitution보다 grid/transposition 가능성을 강하게 암시한다",
+          "headingEn": "The Number Pattern Suggests Grid and Transposition Structure",
+          "textKo": "Cipher Foundation analysis는 adjacent digit positions가 서로 다른 digit sets를 쓰는 pattern과 14×14 arrangement 가능성을 지적한다. 이는 coordinate-style substitution과 transposition이 결합됐을 가능성을 높인다. 그러나 structural clue를 찾았다는 것과 plaintext를 복원했다는 것은 다르다.",
+          "textEn": "Cipher Foundation analysis notes alternating digit sets and a possible 14×14 arrangement, suggesting a combination of coordinate-style substitution and transposition. Structural clues are not the same as recovered plaintext."
+        },
+        {
+          "blockId": "error",
+          "type": "HYPOTHESIS",
+          "headingKo": "원래 encryption 또는 typesetting error가 들어갔을 가능성도 진지하게 제기된다",
+          "headingEn": "An Original Encryption or Typesetting Error May Be Part of the Problem",
+          "textKo": "later accounts는 d’Agapeyeff가 solution method를 잊었다고 전하며, worked examples에서 proofreading error가 발견됐다는 연구도 있다. 만약 ciphertext 자체가 한 자리라도 잘못됐다면 conventional cryptanalysis는 correct plaintext에 도달하기 훨씬 어려워진다. 하지만 error hypothesis도 final proof는 아니다.",
+          "textEn": "Later accounts say d’Agapeyeff could not reconstruct his method, and researchers have identified errors in worked examples from the book. A transcription or encryption mistake could make the cipher much harder, but that remains a hypothesis."
+        },
+        {
+          "blockId": "solutions",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "서로 다른 claimed solution이 있다는 사실은 오히려 검증문제를 보여준다",
+          "headingEn": "Competing Claimed Solutions Highlight the Validation Problem",
+          "textKo": "short key assumptions, language guesses, transposition choices를 바꾸면 여러 readable-looking plaintext를 만들 수 있다. 강한 solution이라면 full ciphertext를 consistent rule로 처리하고 independent solver가 같은 result를 재현해야 한다. 아직 그런 consensus가 없다.",
+          "textEn": "Different assumptions about keys, language, and transposition can generate plausible-looking plaintexts. A strong solution must handle the full ciphertext consistently and be independently reproducible; no such consensus exists."
+        },
+        {
+          "blockId": "lesson",
+          "type": "AFTERMATH",
+          "headingKo": "저자의 실수 가능성까지 포함해야 하는 unusual cipher다",
+          "headingEn": "This Is an Unusual Cipher Because the Creator’s Own Error May Be in the Model",
+          "textKo": "대부분 historical cipher는 correct encryption을 전제로 푼다. D’Agapeyeff는 creator memory loss와 possible transcription/encryption error까지 hypothesis space에 포함해야 한다. 그래서 brute-force만 늘리는 것보다 원본 edition과 typesetting provenance를 확인하는 일이 중요하다.",
+          "textEn": "Unlike many historical ciphers, D’Agapeyeff may require modeling creator memory loss or transcription/encryption error, making first-edition provenance as important as brute force."
+        },
+        {
+          "blockId": "provenance-055",
+          "type": "BACKGROUND",
+          "headingKo": "원본 초판의 typesetting과 후대 재판본을 구분해야 한다",
+          "headingEn": "The First Edition and Later Reprints Must Be Kept Distinct",
+          "textKo": "cipher가 후대 판본에서 빠졌기 때문에 first-edition transcription이 기준자료가 된다. 숫자 하나의 오탈자 가능성까지 논쟁되는 사건에서 reprint·blog transcription을 원문처럼 다루면 analysis 자체가 흔들릴 수 있다.",
+          "textEn": "Because the cipher disappeared from later editions, first-edition transcription matters. When even a single digit may be disputed, later reprints or blog copies cannot substitute for the original text."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1939 `Codes and Ciphers` first edition에 D’Agapeyeff challenge cipher가 실제 수록됐고 현재도 accepted plaintext가 없다. 숫자 pattern은 structured cipher임을 강하게 시사한다.\n\n**확인되지 않음:** 어떤 claimed solution도 consensus로 검증되지 않았고, 원문 cipher에 실제 error가 들어갔는지도 확정되지 않았다.",
+          "textEn": "**Established:** The 1939 first edition contains the D’Agapeyeff challenge cipher, and no accepted plaintext exists. Its numerical pattern strongly suggests deliberate structure.\n\n**Not established:** No claimed solution has achieved consensus, and an actual error in the original cipher has not been proven."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1939 `Codes and Ciphers` first edition에 D’Agapeyeff challenge cipher가 실제 수록됐고 현재도 accepted plaintext가 없다. 숫자 pattern은 structured cipher임을 강하게 시사한다.\n\n**확인되지 않음:** 어떤 claimed solution도 consensus로 검증되지 않았고, 원문 cipher에 실제 error가 들어갔는지도 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "structure",
+        "error",
+        "solutions",
+        "lesson",
+        "provenance-055"
+      ]
+    },
+    "en": {
+      "headline": "The Author Could Not Reconstruct His Own Challenge—Does the Cipher Itself Contain an Error?",
+      "hook": "The 1939 challenge still has no consensus solution. Its unusual twist is that solvers may need to model possible human error in the encryption itself.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1939년 입문서 마지막 페이지의 연습문제가 저자 자신도 못 푸는 암호가 됐다",
+          "headingEn": "A 1939 Textbook Exercise Became a Cipher Its Own Author Could Not Recover",
+          "textKo": "Alexander D’Agapeyeff의 `Codes and Ciphers` 1939 edition에는 독자에게 풀어보라고 제시한 long numerical cryptogram이 실려 있다. Open Library는 1939 Oxford University Press edition의 bibliographic record를 보존하고, Cipher Foundation은 이 cipher가 이후 판에서 빠지고 아직 accepted solution이 없다고 정리한다. 원문출판의 존재와 현재 미해독 status는 분리해 확인할 수 있다.",
+          "textEn": "Alexander D’Agapeyeff’s 1939 `Codes and Ciphers` included a long numerical challenge cipher. Open Library preserves the first-edition bibliographic record, while the Cipher Foundation documents its later omission and lack of an accepted solution."
+        },
+        {
+          "blockId": "structure",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "숫자열은 단순 substitution보다 grid/transposition 가능성을 강하게 암시한다",
+          "headingEn": "The Number Pattern Suggests Grid and Transposition Structure",
+          "textKo": "Cipher Foundation analysis는 adjacent digit positions가 서로 다른 digit sets를 쓰는 pattern과 14×14 arrangement 가능성을 지적한다. 이는 coordinate-style substitution과 transposition이 결합됐을 가능성을 높인다. 그러나 structural clue를 찾았다는 것과 plaintext를 복원했다는 것은 다르다.",
+          "textEn": "Cipher Foundation analysis notes alternating digit sets and a possible 14×14 arrangement, suggesting a combination of coordinate-style substitution and transposition. Structural clues are not the same as recovered plaintext."
+        },
+        {
+          "blockId": "error",
+          "type": "HYPOTHESIS",
+          "headingKo": "원래 encryption 또는 typesetting error가 들어갔을 가능성도 진지하게 제기된다",
+          "headingEn": "An Original Encryption or Typesetting Error May Be Part of the Problem",
+          "textKo": "later accounts는 d’Agapeyeff가 solution method를 잊었다고 전하며, worked examples에서 proofreading error가 발견됐다는 연구도 있다. 만약 ciphertext 자체가 한 자리라도 잘못됐다면 conventional cryptanalysis는 correct plaintext에 도달하기 훨씬 어려워진다. 하지만 error hypothesis도 final proof는 아니다.",
+          "textEn": "Later accounts say d’Agapeyeff could not reconstruct his method, and researchers have identified errors in worked examples from the book. A transcription or encryption mistake could make the cipher much harder, but that remains a hypothesis."
+        },
+        {
+          "blockId": "solutions",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "서로 다른 claimed solution이 있다는 사실은 오히려 검증문제를 보여준다",
+          "headingEn": "Competing Claimed Solutions Highlight the Validation Problem",
+          "textKo": "short key assumptions, language guesses, transposition choices를 바꾸면 여러 readable-looking plaintext를 만들 수 있다. 강한 solution이라면 full ciphertext를 consistent rule로 처리하고 independent solver가 같은 result를 재현해야 한다. 아직 그런 consensus가 없다.",
+          "textEn": "Different assumptions about keys, language, and transposition can generate plausible-looking plaintexts. A strong solution must handle the full ciphertext consistently and be independently reproducible; no such consensus exists."
+        },
+        {
+          "blockId": "lesson",
+          "type": "AFTERMATH",
+          "headingKo": "저자의 실수 가능성까지 포함해야 하는 unusual cipher다",
+          "headingEn": "This Is an Unusual Cipher Because the Creator’s Own Error May Be in the Model",
+          "textKo": "대부분 historical cipher는 correct encryption을 전제로 푼다. D’Agapeyeff는 creator memory loss와 possible transcription/encryption error까지 hypothesis space에 포함해야 한다. 그래서 brute-force만 늘리는 것보다 원본 edition과 typesetting provenance를 확인하는 일이 중요하다.",
+          "textEn": "Unlike many historical ciphers, D’Agapeyeff may require modeling creator memory loss or transcription/encryption error, making first-edition provenance as important as brute force."
+        },
+        {
+          "blockId": "provenance-055",
+          "type": "BACKGROUND",
+          "headingKo": "원본 초판의 typesetting과 후대 재판본을 구분해야 한다",
+          "headingEn": "The First Edition and Later Reprints Must Be Kept Distinct",
+          "textKo": "cipher가 후대 판본에서 빠졌기 때문에 first-edition transcription이 기준자료가 된다. 숫자 하나의 오탈자 가능성까지 논쟁되는 사건에서 reprint·blog transcription을 원문처럼 다루면 analysis 자체가 흔들릴 수 있다.",
+          "textEn": "Because the cipher disappeared from later editions, first-edition transcription matters. When even a single digit may be disputed, later reprints or blog copies cannot substitute for the original text."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1939 `Codes and Ciphers` first edition에 D’Agapeyeff challenge cipher가 실제 수록됐고 현재도 accepted plaintext가 없다. 숫자 pattern은 structured cipher임을 강하게 시사한다.\n\n**확인되지 않음:** 어떤 claimed solution도 consensus로 검증되지 않았고, 원문 cipher에 실제 error가 들어갔는지도 확정되지 않았다.",
+          "textEn": "**Established:** The 1939 first edition contains the D’Agapeyeff challenge cipher, and no accepted plaintext exists. Its numerical pattern strongly suggests deliberate structure.\n\n**Not established:** No claimed solution has achieved consensus, and an actual error in the original cipher has not been proven."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The 1939 first edition contains the D’Agapeyeff challenge cipher, and no accepted plaintext exists. Its numerical pattern strongly suggests deliberate structure.\n\n**Not established:** No claimed solution has achieved consensus, and an actual error in the original cipher has not been proven.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "structure",
+        "error",
+        "solutions",
+        "lesson",
+        "provenance-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DAG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1939 first edition에 challenge cryptogram이 실제 실렸다.",
+      "statementEn": "The challenge cryptogram appeared in the 1939 first edition.",
+      "sourceRefs": [
+        "DAG_OPENLIB",
+        "DAG_CIPHERFOUND"
+      ]
+    },
+    {
+      "claimId": "DAG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "현재 accepted plaintext가 없다.",
+      "statementEn": "No accepted plaintext currently exists.",
+      "sourceRefs": [
+        "DAG_CIPHERFOUND"
+      ]
+    },
+    {
+      "claimId": "DAG-C3",
+      "status": "SUPPORTED",
+      "statementKo": "grid/substitution/transposition structure가 유력한 분석방향이다.",
+      "statementEn": "Grid/substitution/transposition structure is a plausible analysis direction.",
+      "sourceRefs": [
+        "DAG_CIPHERFOUND"
+      ]
+    },
+    {
+      "claimId": "DAG-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "original encryption/transcription error가 실제 있었다는 것은 확정되지 않았다.",
+      "statementEn": "An original encryption or transcription error is not established.",
+      "sourceRefs": [
+        "DAG_CIPHERFOUND"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "DAG_OPENLIB",
+      "title": "Codes and ciphers (1939)",
+      "publisher": "Open Library / Oxford University Press bibliographic record",
+      "url": "https://openlibrary.org/books/OL16612369M/Codes_and_ciphers",
+      "sourceType": "BIBLIOGRAPHIC_RECORD"
+    },
+    {
+      "sourceId": "DAG_CIPHERFOUND",
+      "title": "d’Agapeyeff Cipher",
+      "publisher": "The Cipher Foundation",
+      "url": "https://cipherfoundation.org/modern-ciphers/dagapeyeff-cipher/",
+      "sourceType": "HISTORICAL_CIPHER_RESEARCH"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dag-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "digit pairs → 5×5 coordinates → 14×14 transposition candidate 구조.",
+      "captionEn": "Digit pairs → 5×5 coordinates → candidate 14×14 transposition structure.",
+      "altKo": "digit pairs → 5×5 coordinates → 14×14 transposition candidate 구조.",
+      "altEn": "Digit pairs → 5×5 coordinates → candidate 14×14 transposition structure.",
+      "sourceRefs": [
+        "DAG_OPENLIB",
+        "DAG_CIPHERFOUND"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dagapeyeff-cipher__v01__ko.png",
+          "sha256": "00fa6844348a034f2a5a0868a418d6b4ddd0a140e77112e0e7d66b12eda06c86",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dagapeyeff-cipher__v01__en.png",
+          "sha256": "a6e47ff5e8d0682b0e73815c08d7699729f581d37a39c118b02d1e490a81e03f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dag-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "original cipher 존재 / structural clues / claimed solutions / possible-error hypothesis를 분리.",
+      "captionEn": "Separate original-cipher reality, structural clues, claimed solutions, and possible-error hypothesis.",
+      "altKo": "original cipher 존재 / structural clues / claimed solutions / possible-error hypothesis를 분리.",
+      "altEn": "Separate original-cipher reality, structural clues, claimed solutions, and possible-error hypothesis.",
+      "sourceRefs": [
+        "DAG_OPENLIB",
+        "DAG_CIPHERFOUND"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "dagapeyeff-cipher__v02__ko.png",
+          "sha256": "6012a9334fea9617e1cc1c033edde5b5da40928f4308b40e2b5909d9cb0c2f73",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "dagapeyeff-cipher__v02__en.png",
+          "sha256": "c6f6cfa23fe11fc52f85a846329ede0db8ee2c107a49648b2fdf0fd00727a32f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [
+      {
+        "name": "Alexander D’Agapeyeff",
+        "role": "author / cipher creator"
+      }
+    ],
+    "organizations": [
+      "Oxford University Press"
+    ],
+    "dateRange": {
+      "start": "1939",
+      "end": "present",
+      "precision": "publication through ongoing cryptanalysis"
+    },
+    "era": "Modern cryptography history",
+    "resolution": "CIPHER_AUTHENTIC_ACCEPTED_PLAINTEXT_UNRESOLVED",
+    "searchAliases": [
+      "DAgapeyeff cipher",
+      "D’Agapeyeff Cipher"
+    ],
+    "relatedCases": [
+      "beale-ciphers",
+      "zodiac-z13-z32"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1622,
+    "enBodyWords": 221,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

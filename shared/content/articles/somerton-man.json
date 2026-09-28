@@ -1,0 +1,330 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "somerton-man",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "서머턴 맨",
+    "canonicalTitleEn": "Somerton Man",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "DNA로 이름을 찾았다고 78년 미스터리가 전부 끝난 걸까",
+      "hook": "Somerton Man은 이제 ‘완전히 신원불명’이라고만 부르기 어렵다. DNA/genealogy는 Carl Webb를 강하게 가리키지만, formal coronial status와 사망원인은 별개의 미스터리로 남아 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1948년 Adelaide 해변의 unidentified body는 70년 넘게 이름 없이 남았다",
+          "headingEn": "A Body Found on an Adelaide Beach in 1948 Remained Unidentified for More Than 70 Years",
+          "textKo": "1948년 12월 1일 Somerton Beach에서 잘 차려입은 남성의 시신이 발견됐지만 identification documents가 없었고 초기 수사와 inquest는 신원을 확정하지 못했다. pocket에서 발견된 ‘Tamam Shud’ 종이조각과 연결된 Rubaiyat 책, handwritten letter sequence, 제거된 clothing labels 같은 단서가 사건을 국제적 mystery로 키웠다. South Australian archival records는 이 초기 investigation과 poison concern을 historical record로 보존한다.",
+          "textEn": "On December 1, 1948, an unidentified man was found dead on Somerton Beach without identification documents. Early investigation and inquest failed to establish his identity, while the 'Tamam Shud' paper, a linked Rubaiyat volume, written letter sequence, and altered clothing labels fueled decades of mystery."
+        },
+        {
+          "blockId": "dna-02",
+          "type": "TURNING_POINT",
+          "headingKo": "2022년 private DNA/genealogy research는 Carl ‘Charles’ Webb라는 신원을 제시했다",
+          "headingEn": "Private DNA and Genealogy Research in 2022 Proposed Carl 'Charles' Webb as the Identity",
+          "textKo": "University of Adelaide의 Derek Abbott와 forensic genealogist Colleen Fitzpatrick는 plaster death mask에 남아 있던 hair DNA와 genealogical database/family samples를 이용해 Somerton Man을 Melbourne-born electrical engineer Carl ‘Charles’ Webb로 identify했다고 발표했다. family photographs와 relatives의 DNA links도 이 conclusion과 일치한다고 연구팀은 설명했다. 이 결과는 identity mystery를 크게 좁혔지만, private/research identification과 formal coronial determination은 구분해야 한다.",
+          "textEn": "In 2022 Derek Abbott and forensic genealogist Colleen Fitzpatrick announced that DNA from hair preserved in the plaster death mask, combined with genetic genealogy and family samples, identified the man as Melbourne-born electrical engineer Carl 'Charles' Webb."
+        },
+        {
+          "blockId": "official-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2026년 7월 기준 SA Police의 coronial investigation은 아직 ongoing이었다",
+          "headingEn": "As of July 2026, South Australia Police Still Described the Coronial Investigation as Ongoing",
+          "textKo": "ABC의 2026년 7월 보도에서 SA Police는 Somerton Man coronial investigation이 complex and ongoing이며 완료 뒤 report를 Coroner에게 제공하겠다고 밝혔다. Abbott는 Webb identification에 99.99% 확신한다고 말했지만, formal identity finding은 Coroner process에 달려 있었다. 따라서 현재 article status는 ‘research identification strongly supports Webb’와 ‘formal coronial closure는 latest located source 기준 아직 pending’을 함께 적는 것이 정확하다.",
+          "textEn": "In July 2026, ABC reported that South Australia Police still described the coronial investigation as complex and ongoing, with a report to be provided to the Coroner when complete. Abbott said he was 99.99% sure of the Webb identification, but formal determination remained a coronial matter."
+        },
+        {
+          "blockId": "death-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "신원을 알아도 사망원인과 Adelaide에 온 이유는 자동으로 해결되지 않는다",
+          "headingEn": "Even a Strong Identity Does Not Automatically Solve Cause of Death or Why He Was in Adelaide",
+          "textKo": "Webb identification이 맞더라도 1948년 그가 왜 Adelaide에 왔는지, 누구를 만났는지, 어떤 mechanism으로 사망했는지는 별도 question이다. 70년 이상 지난 exhumed remains만으로 subtle poisoning 또는 many medical causes를 입증하기 어려울 수 있다. Abbott도 2026년 cause-of-death determination은 unlikely할 수 있다고 언급했다. identity solved와 case fully solved는 같은 뜻이 아니다.",
+          "textEn": "Even if the Webb identification is correct, why he came to Adelaide, whom he met, and the mechanism of death remain separate questions. Decades-old remains may not preserve evidence for subtle poisoning or many medical causes."
+        },
+        {
+          "blockId": "code-05",
+          "type": "AFTERMATH",
+          "headingKo": "Tamam Shud·letter sequence·clothing clues도 identity가 좁혀졌다고 모두 해독된 것은 아니다",
+          "headingEn": "The Tamam Shud Clues Do Not All Disappear Even if the Identity Is Correct",
+          "textKo": "Rubaiyat의 torn phrase와 handwritten letter sequence는 cold-war spy theory를 키웠지만, identity candidate가 Webb로 좁혀진다고 해서 code가 자동으로 decipher되거나 espionage가 증명되는 것은 아니다. 일부 clue는 ordinary personal history로 재해석될 수 있고 일부는 provenance가 약하다. 사건은 ‘이름을 모르는 남자’에서 ‘이름을 알 가능성이 매우 높지만 death context는 남은 남자’로 성격이 바뀌고 있다.",
+          "textEn": "The Rubaiyat fragment and handwritten letter sequence fueled spy theories, but a likely identity does not automatically decipher the code or establish espionage. The case has shifted from an unknown man to a likely identified man whose death context remains uncertain."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1948 Somerton Beach에서 unidentified man이 발견됐고, 2022 private DNA/genealogy research는 그를 Carl ‘Charles’ Webb로 강하게 identify했다. 2026년 7월 latest located source에서 SA Police는 coronial investigation을 ongoing이라고 밝혔다.\n\n확인되지 않음: latest located source 기준 Coroner의 formal identity finding, exact cause of death, Adelaide 방문 목적, espionage theory는 확정되지 않았다.",
+          "textEn": "Established: An unidentified man was found on Somerton Beach in 1948, and 2022 private DNA/genealogy research strongly identified him as Carl 'Charles' Webb. In the latest located July 2026 source, South Australia Police still described the coronial investigation as ongoing.\n\nNot established: In that latest located source, formal coronial identification, exact cause of death, reason for being in Adelaide, and espionage theories remained unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1948 Somerton Beach에서 unidentified man이 발견됐고, 2022 private DNA/genealogy research는 그를 Carl ‘Charles’ Webb로 강하게 identify했다. 2026년 7월 latest located source에서 SA Police는 coronial investigation을 ongoing이라고 밝혔다.\n\n확인되지 않음: latest located source 기준 Coroner의 formal identity finding, exact cause of death, Adelaide 방문 목적, espionage theory는 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "dna-02",
+        "official-03",
+        "death-04",
+        "code-05"
+      ]
+    },
+    "en": {
+      "headline": "If DNA Found a Name, Did the 78-Year Somerton Mystery Actually End?",
+      "hook": "The Somerton Man can no longer be described simply as completely unidentified. Genetic genealogy strongly points to Carl Webb, while formal coronial status and cause of death remain separate questions.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1948년 Adelaide 해변의 unidentified body는 70년 넘게 이름 없이 남았다",
+          "headingEn": "A Body Found on an Adelaide Beach in 1948 Remained Unidentified for More Than 70 Years",
+          "textKo": "1948년 12월 1일 Somerton Beach에서 잘 차려입은 남성의 시신이 발견됐지만 identification documents가 없었고 초기 수사와 inquest는 신원을 확정하지 못했다. pocket에서 발견된 ‘Tamam Shud’ 종이조각과 연결된 Rubaiyat 책, handwritten letter sequence, 제거된 clothing labels 같은 단서가 사건을 국제적 mystery로 키웠다. South Australian archival records는 이 초기 investigation과 poison concern을 historical record로 보존한다.",
+          "textEn": "On December 1, 1948, an unidentified man was found dead on Somerton Beach without identification documents. Early investigation and inquest failed to establish his identity, while the 'Tamam Shud' paper, a linked Rubaiyat volume, written letter sequence, and altered clothing labels fueled decades of mystery."
+        },
+        {
+          "blockId": "dna-02",
+          "type": "TURNING_POINT",
+          "headingKo": "2022년 private DNA/genealogy research는 Carl ‘Charles’ Webb라는 신원을 제시했다",
+          "headingEn": "Private DNA and Genealogy Research in 2022 Proposed Carl 'Charles' Webb as the Identity",
+          "textKo": "University of Adelaide의 Derek Abbott와 forensic genealogist Colleen Fitzpatrick는 plaster death mask에 남아 있던 hair DNA와 genealogical database/family samples를 이용해 Somerton Man을 Melbourne-born electrical engineer Carl ‘Charles’ Webb로 identify했다고 발표했다. family photographs와 relatives의 DNA links도 이 conclusion과 일치한다고 연구팀은 설명했다. 이 결과는 identity mystery를 크게 좁혔지만, private/research identification과 formal coronial determination은 구분해야 한다.",
+          "textEn": "In 2022 Derek Abbott and forensic genealogist Colleen Fitzpatrick announced that DNA from hair preserved in the plaster death mask, combined with genetic genealogy and family samples, identified the man as Melbourne-born electrical engineer Carl 'Charles' Webb."
+        },
+        {
+          "blockId": "official-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2026년 7월 기준 SA Police의 coronial investigation은 아직 ongoing이었다",
+          "headingEn": "As of July 2026, South Australia Police Still Described the Coronial Investigation as Ongoing",
+          "textKo": "ABC의 2026년 7월 보도에서 SA Police는 Somerton Man coronial investigation이 complex and ongoing이며 완료 뒤 report를 Coroner에게 제공하겠다고 밝혔다. Abbott는 Webb identification에 99.99% 확신한다고 말했지만, formal identity finding은 Coroner process에 달려 있었다. 따라서 현재 article status는 ‘research identification strongly supports Webb’와 ‘formal coronial closure는 latest located source 기준 아직 pending’을 함께 적는 것이 정확하다.",
+          "textEn": "In July 2026, ABC reported that South Australia Police still described the coronial investigation as complex and ongoing, with a report to be provided to the Coroner when complete. Abbott said he was 99.99% sure of the Webb identification, but formal determination remained a coronial matter."
+        },
+        {
+          "blockId": "death-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "신원을 알아도 사망원인과 Adelaide에 온 이유는 자동으로 해결되지 않는다",
+          "headingEn": "Even a Strong Identity Does Not Automatically Solve Cause of Death or Why He Was in Adelaide",
+          "textKo": "Webb identification이 맞더라도 1948년 그가 왜 Adelaide에 왔는지, 누구를 만났는지, 어떤 mechanism으로 사망했는지는 별도 question이다. 70년 이상 지난 exhumed remains만으로 subtle poisoning 또는 many medical causes를 입증하기 어려울 수 있다. Abbott도 2026년 cause-of-death determination은 unlikely할 수 있다고 언급했다. identity solved와 case fully solved는 같은 뜻이 아니다.",
+          "textEn": "Even if the Webb identification is correct, why he came to Adelaide, whom he met, and the mechanism of death remain separate questions. Decades-old remains may not preserve evidence for subtle poisoning or many medical causes."
+        },
+        {
+          "blockId": "code-05",
+          "type": "AFTERMATH",
+          "headingKo": "Tamam Shud·letter sequence·clothing clues도 identity가 좁혀졌다고 모두 해독된 것은 아니다",
+          "headingEn": "The Tamam Shud Clues Do Not All Disappear Even if the Identity Is Correct",
+          "textKo": "Rubaiyat의 torn phrase와 handwritten letter sequence는 cold-war spy theory를 키웠지만, identity candidate가 Webb로 좁혀진다고 해서 code가 자동으로 decipher되거나 espionage가 증명되는 것은 아니다. 일부 clue는 ordinary personal history로 재해석될 수 있고 일부는 provenance가 약하다. 사건은 ‘이름을 모르는 남자’에서 ‘이름을 알 가능성이 매우 높지만 death context는 남은 남자’로 성격이 바뀌고 있다.",
+          "textEn": "The Rubaiyat fragment and handwritten letter sequence fueled spy theories, but a likely identity does not automatically decipher the code or establish espionage. The case has shifted from an unknown man to a likely identified man whose death context remains uncertain."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1948 Somerton Beach에서 unidentified man이 발견됐고, 2022 private DNA/genealogy research는 그를 Carl ‘Charles’ Webb로 강하게 identify했다. 2026년 7월 latest located source에서 SA Police는 coronial investigation을 ongoing이라고 밝혔다.\n\n확인되지 않음: latest located source 기준 Coroner의 formal identity finding, exact cause of death, Adelaide 방문 목적, espionage theory는 확정되지 않았다.",
+          "textEn": "Established: An unidentified man was found on Somerton Beach in 1948, and 2022 private DNA/genealogy research strongly identified him as Carl 'Charles' Webb. In the latest located July 2026 source, South Australia Police still described the coronial investigation as ongoing.\n\nNot established: In that latest located source, formal coronial identification, exact cause of death, reason for being in Adelaide, and espionage theories remained unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: An unidentified man was found on Somerton Beach in 1948, and 2022 private DNA/genealogy research strongly identified him as Carl 'Charles' Webb. In the latest located July 2026 source, South Australia Police still described the coronial investigation as ongoing.\n\nNot established: In that latest located source, formal coronial identification, exact cause of death, reason for being in Adelaide, and espionage theories remained unresolved.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "dna-02",
+        "official-03",
+        "death-04",
+        "code-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "SA_ARCHIVES",
+      "title": "But what poison? Mystery of the Somerton Man",
+      "publisher": "State Records of South Australia",
+      "url": "https://archives.sa.gov.au/finding-information/discover-our-collection/stories-from-the-archive/but-what-poison-mystery-of-the-somerton-man",
+      "sourceType": "STATE_ARCHIVES_RECORD"
+    },
+    {
+      "sourceId": "ABC_2026",
+      "title": "SA Police report to coroner into Somerton Man case complete 'very soon'",
+      "publisher": "ABC News",
+      "url": "https://www.abc.net.au/news/2026-07-06/sa-police-report-coroner-into-somerton-man-case-very-soon/106869302",
+      "sourceType": "CURRENT_NEWS_REPORT"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "SOM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1948 Somerton Beach의 unidentified-body case와 historical investigation은 공식 archival record에 남아 있다.",
+      "statementEn": "The 1948 unidentified-body case and historical investigation are preserved in official archival records.",
+      "sourceRefs": [
+        "SA_ARCHIVES"
+      ]
+    },
+    {
+      "claimId": "SOM-C2",
+      "status": "SUPPORTED",
+      "statementKo": "2022 DNA/genealogy research는 Carl 'Charles' Webb identification을 강하게 지지한다.",
+      "statementEn": "2022 DNA/genealogy research strongly supports the identification as Carl 'Charles' Webb.",
+      "sourceRefs": [
+        "ABC_2026"
+      ]
+    },
+    {
+      "claimId": "SOM-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "2026-07 latest located source 기준 formal coronial identity/cause-of-death finding은 아직 확정되지 않았다.",
+      "statementEn": "In the latest located July 2026 source, formal coronial identity and cause-of-death findings were not yet established.",
+      "sourceRefs": [
+        "ABC_2026"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "som-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1948 body discovery → clues/inquest → 2021 exhumation → 2022 Webb DNA claim → 2026 coronial process pending.",
+      "captionEn": "1948 body discovery → clues/inquest → 2021 exhumation → 2022 Webb DNA claim → 2026 coronial process pending.",
+      "altKo": "1948 body discovery → clues/inquest → 2021 exhumation → 2022 Webb DNA claim → 2026 coronial process pending.",
+      "altEn": "1948 body discovery → clues/inquest → 2021 exhumation → 2022 Webb DNA claim → 2026 coronial process pending.",
+      "sourceRefs": [
+        "SA_ARCHIVES",
+        "ABC_2026"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "somerton-man__v01__ko.png",
+          "sha256": "4b199957ed7976b8074f4557e8002f0850148c19f4141239fbbb6e444a740e6d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "somerton-man__v01__en.png",
+          "sha256": "74ab4af613d01a950400d604479030a536a09f4205b46da5490c7012d62b7f5b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "som-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "research identity / formal coronial status / cause of death / spy theory를 분리.",
+      "captionEn": "Separate research identity, formal coronial status, cause of death, and spy theory.",
+      "altKo": "research identity / formal coronial status / cause of death / spy theory를 분리.",
+      "altEn": "Separate research identity, formal coronial status, cause of death, and spy theory.",
+      "sourceRefs": [
+        "SA_ARCHIVES",
+        "ABC_2026"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "somerton-man__v02__ko.png",
+          "sha256": "66536144c6969fb4ce2c898e3ed88541254d8f5c7917b0f5ab113c9cfcb1583e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "somerton-man__v02__en.png",
+          "sha256": "3e0cea6fb6910c0a7054908b5f06fe1632ac3e5633eb9146298b88c9425dac41",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "Adelaide, South Australia"
+    ],
+    "people": [
+      {
+        "name": "Carl 'Charles' Webb",
+        "role": "strongly supported research identity"
+      },
+      {
+        "name": "Derek Abbott",
+        "role": "researcher"
+      }
+    ],
+    "organizations": [
+      "South Australia Police",
+      "State Records of South Australia"
+    ],
+    "dateRange": {
+      "start": "1948-12-01",
+      "end": "2026",
+      "precision": "body discovery through current coronial process"
+    },
+    "resolution": "RESEARCH_IDENTITY_STRONGLY_SUPPORTS_CARL_WEBB_FORMAL_CORONIAL_AND_DEATH_CAUSE_PENDING_IN_LATEST_SOURCE"
+  },
+  "quality": {
+    "koBodyChars": 2076,
+    "enBodyWords": 271,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH28",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH28_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

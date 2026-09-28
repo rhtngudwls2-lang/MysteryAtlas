@@ -1,0 +1,319 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "flannan-isles",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "플래넌 제도 등대지기 실종",
+    "canonicalTitleEn": "Flannan Isles Lighthouse Disappearance",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "등대는 멀쩡했는데 세 사람은 어디로 사라졌나—공식조사는 무엇을 봤을까",
+      "hook": "Flannan Isles에는 실제 미스터리와 후대 전설이 겹쳐 있다. 현장에는 강한 파도 흔적이 있었고 공식조사는 accident를 가장 유력하게 봤지만 정확한 마지막 순간은 목격되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1900년 relief vessel이 도착했을 때 등대는 서 있었지만 세 keeper는 모두 사라져 있었다",
+          "headingEn": "When the Relief Vessel Arrived in 1900, the Lighthouse Stood Empty and All Three Keepers Were Gone",
+          "textKo": "Northern Lighthouse Board 기록에 따르면 Flannan Isles Lighthouse의 세 keeper—James Ducat, Thomas Marshall, Donald McArthur—는 1900년 12월 중순 실종됐다. routine relief vessel Hesperus가 12월 26일 도착했을 때 island에는 반응이 없었고 relieving keeper Joseph Moore가 lighthouse에 들어가 아무도 없음을 확인했다. 등대 자체가 파괴된 것이 아니라 사람들이 사라졌다는 점이 사건을 오래된 mystery로 만들었다.",
+          "textEn": "Northern Lighthouse Board records state that keepers James Ducat, Thomas Marshall, and Donald McArthur disappeared in December 1900. When the relief vessel Hesperus arrived on December 26, there was no response, and relieving keeper Joseph Moore found the lighthouse empty."
+        },
+        {
+          "blockId": "site-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "west landing에는 강한 파도와 storm damage를 보여주는 현장흔적이 있었다",
+          "headingEn": "The West Landing Showed Damage Consistent With Powerful Seas",
+          "textKo": "official reports에는 west landing의 rope box가 사라지고 ropes가 바위에 흩어져 있었으며 iron railings가 foundation에서 뜯기고 handrail이 사라졌다는 기록이 남아 있다. 이런 damage는 extraordinary sea가 landing area를 덮쳤다는 해석과 잘 맞는다. 현장에 물리적 storm damage가 있었다는 사실은 후대 supernatural story보다 강한 evidence layer다.",
+          "textEn": "Official reports describe a missing rope box, ropes strewn across rocks, broken iron railings, and a missing handrail at the west landing. This physical damage is consistent with a powerful sea striking the area."
+        },
+        {
+          "blockId": "clothes-03",
+          "type": "BACKGROUND",
+          "headingKo": "세 사람의 clothing 상태는 누가 왜 밖으로 나갔는지 일부 단서를 준다",
+          "headingEn": "The Clothing Left Behind Offers Limited Clues About Why the Men Went Outside",
+          "textKo": "Joseph Moore의 report는 Marshall과 Ducat이 seaboots를 신고 있었던 정황과 McArthur의 usual coat가 lighthouse에 남아 있었다는 점을 적었다. 이것은 적어도 일부 keeper가 landing damage나 gear 문제를 확인하기 위해 밖으로 나갔을 가능성을 뒷받침한다. 그러나 세 사람이 정확히 동시에 어디에 있었는지 보여주는 witness는 없다. clothing evidence는 scenario를 좁힐 뿐 final sequence를 직접 기록하지 않는다.",
+          "textEn": "Joseph Moore's report noted seaboots associated with Marshall and Ducat and McArthur's usual coat left behind, supporting the possibility that the men went outside to inspect gear or damage. No witness records their exact final movements."
+        },
+        {
+          "blockId": "inquiry-04",
+          "type": "TURNING_POINT",
+          "headingKo": "공식 결론은 unexpected large roller가 세 사람을 바다로 쓸어갔다는 것이었다",
+          "headingEn": "The Official Conclusion Was That an Unexpected Large Roller Swept the Men Into the Sea",
+          "textKo": "Northern Lighthouse Board의 investigation은 severe weather 속에서 keepers가 landing gear나 damage를 확인하러 나갔다가 unexpected large roller에 swept away됐을 가능성이 가장 높다고 판단했다. 이 결론은 현장 damage와 업무맥락에 기반한 reconstruction이다. bodies가 발견되지 않았고 eyewitness도 없기 때문에 exact minute-by-minute sequence는 증명되지 않았다.",
+          "textEn": "The Northern Lighthouse Board investigation concluded that the keepers most likely went out during severe weather to inspect equipment or damage and were swept away by an unexpected large roller. It is an evidence-based reconstruction rather than an eyewitness account."
+        },
+        {
+          "blockId": "legend-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "공포에 질린 keeper·기도·기이한 diary 이야기는 후대 전설과 official record를 섞지 말아야 한다",
+          "headingEn": "Stories of Terrified Keepers, Prayers, and Strange Diary Entries Must Be Separated From the Official Record",
+          "textKo": "후대 책과 인터넷에서는 keeper들이 storm을 두려워해 울거나 기도했다는 sensational diary entries가 자주 반복된다. 그러나 Northern Lighthouse Board가 공개하는 contemporaneous account의 중심은 relief arrival, empty lighthouse, west-landing damage, clothing, weather, official investigation이다. dramatic diary narrative를 primary record처럼 재현하면 사건이 실제보다 초자연적으로 바뀐다.",
+          "textEn": "Later books and online retellings often include dramatic diary entries about fear and prayer. The Northern Lighthouse Board's contemporary account centers instead on the relief arrival, empty lighthouse, west-landing damage, clothing, weather, and the official investigation."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1900년 Flannan Isles Lighthouse의 세 keeper가 실종됐고, west landing에는 powerful sea와 양립하는 physical damage가 있었다. official investigation은 landing area에서 unexpected large wave에 swept away됐다는 scenario를 가장 유력하게 봤다.\n\n확인되지 않음: 세 사람의 정확한 마지막 동선과 exact moment of death는 eyewitness가 없어 확정되지 않았다. 후대의 기이한 diary·supernatural stories는 contemporaneous official record와 구분해야 한다.",
+          "textEn": "Established: Three Flannan Isles lighthouse keepers disappeared in 1900, and the west landing showed physical damage consistent with powerful seas. The official investigation favored a scenario in which an unexpected large wave swept them away.\n\nNot established: Their exact final movements and moment of death are unknown, and later strange-diary or supernatural stories should be separated from the contemporary official record."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1900년 Flannan Isles Lighthouse의 세 keeper가 실종됐고, west landing에는 powerful sea와 양립하는 physical damage가 있었다. official investigation은 landing area에서 unexpected large wave에 swept away됐다는 scenario를 가장 유력하게 봤다.\n\n확인되지 않음: 세 사람의 정확한 마지막 동선과 exact moment of death는 eyewitness가 없어 확정되지 않았다. 후대의 기이한 diary·supernatural stories는 contemporaneous official record와 구분해야 한다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "site-02",
+        "clothes-03",
+        "inquiry-04",
+        "legend-05"
+      ]
+    },
+    "en": {
+      "headline": "The Lighthouse Was Intact—So What Did the Official Investigation Think Happened to the Three Keepers?",
+      "hook": "Flannan Isles combines a real unresolved disappearance with later legend. Physical storm damage supported an accident scenario, but no one witnessed the final moments.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1900년 relief vessel이 도착했을 때 등대는 서 있었지만 세 keeper는 모두 사라져 있었다",
+          "headingEn": "When the Relief Vessel Arrived in 1900, the Lighthouse Stood Empty and All Three Keepers Were Gone",
+          "textKo": "Northern Lighthouse Board 기록에 따르면 Flannan Isles Lighthouse의 세 keeper—James Ducat, Thomas Marshall, Donald McArthur—는 1900년 12월 중순 실종됐다. routine relief vessel Hesperus가 12월 26일 도착했을 때 island에는 반응이 없었고 relieving keeper Joseph Moore가 lighthouse에 들어가 아무도 없음을 확인했다. 등대 자체가 파괴된 것이 아니라 사람들이 사라졌다는 점이 사건을 오래된 mystery로 만들었다.",
+          "textEn": "Northern Lighthouse Board records state that keepers James Ducat, Thomas Marshall, and Donald McArthur disappeared in December 1900. When the relief vessel Hesperus arrived on December 26, there was no response, and relieving keeper Joseph Moore found the lighthouse empty."
+        },
+        {
+          "blockId": "site-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "west landing에는 강한 파도와 storm damage를 보여주는 현장흔적이 있었다",
+          "headingEn": "The West Landing Showed Damage Consistent With Powerful Seas",
+          "textKo": "official reports에는 west landing의 rope box가 사라지고 ropes가 바위에 흩어져 있었으며 iron railings가 foundation에서 뜯기고 handrail이 사라졌다는 기록이 남아 있다. 이런 damage는 extraordinary sea가 landing area를 덮쳤다는 해석과 잘 맞는다. 현장에 물리적 storm damage가 있었다는 사실은 후대 supernatural story보다 강한 evidence layer다.",
+          "textEn": "Official reports describe a missing rope box, ropes strewn across rocks, broken iron railings, and a missing handrail at the west landing. This physical damage is consistent with a powerful sea striking the area."
+        },
+        {
+          "blockId": "clothes-03",
+          "type": "BACKGROUND",
+          "headingKo": "세 사람의 clothing 상태는 누가 왜 밖으로 나갔는지 일부 단서를 준다",
+          "headingEn": "The Clothing Left Behind Offers Limited Clues About Why the Men Went Outside",
+          "textKo": "Joseph Moore의 report는 Marshall과 Ducat이 seaboots를 신고 있었던 정황과 McArthur의 usual coat가 lighthouse에 남아 있었다는 점을 적었다. 이것은 적어도 일부 keeper가 landing damage나 gear 문제를 확인하기 위해 밖으로 나갔을 가능성을 뒷받침한다. 그러나 세 사람이 정확히 동시에 어디에 있었는지 보여주는 witness는 없다. clothing evidence는 scenario를 좁힐 뿐 final sequence를 직접 기록하지 않는다.",
+          "textEn": "Joseph Moore's report noted seaboots associated with Marshall and Ducat and McArthur's usual coat left behind, supporting the possibility that the men went outside to inspect gear or damage. No witness records their exact final movements."
+        },
+        {
+          "blockId": "inquiry-04",
+          "type": "TURNING_POINT",
+          "headingKo": "공식 결론은 unexpected large roller가 세 사람을 바다로 쓸어갔다는 것이었다",
+          "headingEn": "The Official Conclusion Was That an Unexpected Large Roller Swept the Men Into the Sea",
+          "textKo": "Northern Lighthouse Board의 investigation은 severe weather 속에서 keepers가 landing gear나 damage를 확인하러 나갔다가 unexpected large roller에 swept away됐을 가능성이 가장 높다고 판단했다. 이 결론은 현장 damage와 업무맥락에 기반한 reconstruction이다. bodies가 발견되지 않았고 eyewitness도 없기 때문에 exact minute-by-minute sequence는 증명되지 않았다.",
+          "textEn": "The Northern Lighthouse Board investigation concluded that the keepers most likely went out during severe weather to inspect equipment or damage and were swept away by an unexpected large roller. It is an evidence-based reconstruction rather than an eyewitness account."
+        },
+        {
+          "blockId": "legend-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "공포에 질린 keeper·기도·기이한 diary 이야기는 후대 전설과 official record를 섞지 말아야 한다",
+          "headingEn": "Stories of Terrified Keepers, Prayers, and Strange Diary Entries Must Be Separated From the Official Record",
+          "textKo": "후대 책과 인터넷에서는 keeper들이 storm을 두려워해 울거나 기도했다는 sensational diary entries가 자주 반복된다. 그러나 Northern Lighthouse Board가 공개하는 contemporaneous account의 중심은 relief arrival, empty lighthouse, west-landing damage, clothing, weather, official investigation이다. dramatic diary narrative를 primary record처럼 재현하면 사건이 실제보다 초자연적으로 바뀐다.",
+          "textEn": "Later books and online retellings often include dramatic diary entries about fear and prayer. The Northern Lighthouse Board's contemporary account centers instead on the relief arrival, empty lighthouse, west-landing damage, clothing, weather, and the official investigation."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1900년 Flannan Isles Lighthouse의 세 keeper가 실종됐고, west landing에는 powerful sea와 양립하는 physical damage가 있었다. official investigation은 landing area에서 unexpected large wave에 swept away됐다는 scenario를 가장 유력하게 봤다.\n\n확인되지 않음: 세 사람의 정확한 마지막 동선과 exact moment of death는 eyewitness가 없어 확정되지 않았다. 후대의 기이한 diary·supernatural stories는 contemporaneous official record와 구분해야 한다.",
+          "textEn": "Established: Three Flannan Isles lighthouse keepers disappeared in 1900, and the west landing showed physical damage consistent with powerful seas. The official investigation favored a scenario in which an unexpected large wave swept them away.\n\nNot established: Their exact final movements and moment of death are unknown, and later strange-diary or supernatural stories should be separated from the contemporary official record."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Three Flannan Isles lighthouse keepers disappeared in 1900, and the west landing showed physical damage consistent with powerful seas. The official investigation favored a scenario in which an unexpected large wave swept them away.\n\nNot established: Their exact final movements and moment of death are unknown, and later strange-diary or supernatural stories should be separated from the contemporary official record.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "site-02",
+        "clothes-03",
+        "inquiry-04",
+        "legend-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "NLB_FLANNAN",
+      "title": "Flannan Isles",
+      "publisher": "Northern Lighthouse Board",
+      "url": "https://www.nlb.org.uk/history/flannan-isles/",
+      "sourceType": "PUBLIC_LIGHTHOUSE_AUTHORITY_HISTORY"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "FLAN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "세 keeper는 1900년 12월 실종됐고 Hesperus relief party가 empty lighthouse를 확인했다.",
+      "statementEn": "Three keepers disappeared in December 1900 and the Hesperus relief party found the lighthouse empty.",
+      "sourceRefs": [
+        "NLB_FLANNAN"
+      ]
+    },
+    {
+      "claimId": "FLAN-C2",
+      "status": "SUPPORTED",
+      "statementKo": "official investigation은 west landing에서 large wave에 swept away됐다는 scenario를 가장 유력하게 봤다.",
+      "statementEn": "The official investigation favored a scenario in which a large wave swept the keepers away at the west landing.",
+      "sourceRefs": [
+        "NLB_FLANNAN"
+      ]
+    },
+    {
+      "claimId": "FLAN-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact final sequence와 후대 supernatural diary stories는 official record로 확정되지 않는다.",
+      "statementEn": "The exact final sequence and later supernatural diary stories are not established by the official record.",
+      "sourceRefs": [
+        "NLB_FLANNAN"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "flan-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "last known entries → light not seen → Hesperus arrival → empty lighthouse → investigation.",
+      "captionEn": "Last known entries → light not seen → Hesperus arrival → empty lighthouse → investigation.",
+      "altKo": "last known entries → light not seen → Hesperus arrival → empty lighthouse → investigation.",
+      "altEn": "Last known entries → light not seen → Hesperus arrival → empty lighthouse → investigation.",
+      "sourceRefs": [
+        "NLB_FLANNAN"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flannan-isles__v01__ko.png",
+          "sha256": "8cbad3e204c30be3fd888648622fc7b287230a8de0abeb10e35760e6adbb0344",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flannan-isles__v01__en.png",
+          "sha256": "186c6ab2cb91d6d8b0b1e16980c5b5392542e27c6f250e2a904fa57b4c7a6c08",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "flan-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "official site damage/wave reconstruction과 later diary/supernatural legend를 분리.",
+      "captionEn": "Separate official site damage/wave reconstruction from later diary and supernatural legend.",
+      "altKo": "official site damage/wave reconstruction과 later diary/supernatural legend를 분리.",
+      "altEn": "Separate official site damage/wave reconstruction from later diary and supernatural legend.",
+      "sourceRefs": [
+        "NLB_FLANNAN"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flannan-isles__v02__ko.png",
+          "sha256": "bb0bf5c6588f59208acc5e332ba3b1a7d1607ed8274920205f3561274c5a8a8a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flannan-isles__v02__en.png",
+          "sha256": "0782185a118971e6a5662ff21c9af6555bba9af83e05d790735ac6aac8d20697",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "secondaryGenres": [
+      "Maritime / Aviation"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "Outer Hebrides, Scotland"
+    ],
+    "places": [
+      {
+        "name": "Flannan Isles Lighthouse",
+        "role": "disappearance site"
+      }
+    ],
+    "organizations": [
+      "Northern Lighthouse Board"
+    ],
+    "dateRange": {
+      "start": "1900-12-15",
+      "end": "1901-01",
+      "precision": "disappearance and inquiry"
+    },
+    "resolution": "THREE_KEEPERS_MISSING_WAVE_ACCIDENT_FAVORED_EXACT_SEQUENCE_UNWITNESSED"
+  },
+  "quality": {
+    "koBodyChars": 1824,
+    "enBodyWords": 247,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

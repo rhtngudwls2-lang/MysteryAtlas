@@ -1,0 +1,305 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "milky-seas",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "밀키 시",
+    "canonicalTitleEn": "Milky Seas",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "수백 km 바다가 밤새 우윳빛으로 빛나는 현상은 무엇이 켜는 걸까",
+      "hook": "Milky seas는 선원전설에서 satellite-detected phenomenon으로 넘어왔다. 남은 미스터리는 존재여부가 아니라 어떤 microbial/ecological condition이 그렇게 거대한 steady glow를 시작시키는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "선원들이 수백 년 말해온 ‘바다가 우윳빛으로 빛난다’는 현상은 위성에서도 보였다",
+          "headingEn": "A Centuries-Old Sailor Report of Milk-White Seas Has Been Seen From Space",
+          "textKo": "NASA Earth Observatory는 milky seas를 ocean surface가 snow field처럼 steady white glow로 보이는 rare marine bioluminescence라고 설명한다. 전형적인 plankton flash와 달리 ship wake에 의해 순간적으로 켜지는 게 아니라 넓은 area가 hours에서 days 이상 지속적으로 빛날 수 있다. 선원 보고는 1600s까지 거슬러 올라가며, modern low-light satellite sensor는 이런 event를 실제로 detect할 수 있게 했다.",
+          "textEn": "NASA Earth Observatory describes milky seas as rare marine bioluminescence in which vast ocean areas glow steadily white, sometimes for days, unlike brief wake-triggered flashes."
+        },
+        {
+          "blockId": "satellite-02",
+          "type": "TURNING_POINT",
+          "headingKo": "VIIRS 같은 night-light sensor가 folklore을 repeatable observation target으로 바꿨다",
+          "headingEn": "Night-Light Satellites Turned Maritime Folklore Into a Repeatable Observation Target",
+          "textKo": "2000s 이후 researchers는 satellite low-light instruments가 persistent ocean glow를 detect할 수 있을지 검토했고, VIIRS data로 candidate events를 찾아냈다. 2019년 Java 남쪽 milky sea는 satellite imagery에서 multi-night persistence와 large area를 보여주며 historical ship report와 비교가능한 pattern을 제공했다. 인간이 우연히 passing ship에서 보는 rare event를 orbital monitoring으로 찾을 수 있게 된 것이 큰 변화였다.",
+          "textEn": "Researchers used VIIRS low-light observations to detect candidate milky-sea events, including a large persistent glow south of Java in 2019. Satellite monitoring made rare ship encounters into a repeatable remote-sensing target."
+        },
+        {
+          "blockId": "bacteria-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "가장 강한 biological explanation은 luminous bacteria와 phytoplankton association이다",
+          "headingEn": "The Leading Biological Explanation Involves Luminous Bacteria Associated With Phytoplankton",
+          "textKo": "NASA는 direct sampling이 사실상 한 번뿐이지만 luminous bacteria such as Vibrio harveyi가 algae/phytoplankton colonies와 연결돼 massive continuous glow를 만들 수 있다는 explanation을 소개한다. 일반적인 dinoflagellate bioluminescence는 mechanical disturbance에 flash하지만, milky seas는 steady glow라는 차이가 있다. 이 차이가 bacterial quorum-like luminescence model을 중요하게 만든다.",
+          "textEn": "NASA notes that direct sampling has been extremely rare, but luminous bacteria such as Vibrio harveyi associated with algae or phytoplankton are a leading explanation for the steady glow."
+        },
+        {
+          "blockId": "limits-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "위성에서 glow를 본다고 현장 microbial community를 자동으로 확정할 수는 없다",
+          "headingEn": "Seeing a Glow From Orbit Does Not Automatically Identify the Microbial Community",
+          "textKo": "satellite는 spatial extent와 duration을 강하게 보여주지만 water sample, bacterial abundance, chemistry를 직접 제공하지 않는다. milky sea biology를 확정하려면 satellite detection 뒤 research vessel이 빠르게 sample location에 도달해야 한다. rarity와 remote location 때문에 이 연결이 어렵다. 그래서 ‘현상 존재’는 이제 강하게 확인됐지만 ‘모든 event의 exact ecological trigger’는 여전히 열린 질문이다.",
+          "textEn": "Satellite data strongly constrain extent and duration, but do not directly identify the microbial community or chemistry. Field sampling remains essential to establish the ecology of individual events."
+        },
+        {
+          "blockId": "why-05",
+          "type": "AFTERMATH",
+          "headingKo": "남은 미스터리는 왜 특정 ocean region에서 enormous bacterial glow가 시작되는가다",
+          "headingEn": "The Remaining Mystery Is What Triggers Such Enormous Persistent Glow",
+          "textKo": "nutrient conditions, algal bloom, bacterial density, ocean current convergence 등 여러 ecological factor가 후보지만 event가 rare하기 때문에 onset과 decay를 field에서 연속관측한 자료가 부족하다. 위성은 ‘언제 어디서’의 빈칸을 크게 줄였고, 다음 단계는 그 위치로 가서 ‘무엇이 빛나고 왜 시작됐나’를 sample로 확인하는 것이다. folklore가 science target으로 바뀐 대표사례다.",
+          "textEn": "Nutrients, algal blooms, bacterial density, and current convergence are candidate factors, but the rarity of events leaves onset and decay poorly sampled. Satellites increasingly solve the where and when; field biology must solve the what and why."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: milky seas는 vast persistent marine bioluminescence event로 실제 존재하며 modern satellite night-light sensors로 관측됐다. luminous bacteria와 phytoplankton association은 leading biological explanation이다.\n\n확인되지 않음: 모든 milky sea event의 exact organism composition과 triggering ecological conditions는 충분한 direct sampling으로 확정되지 않았다.",
+          "textEn": "Established: Milky seas are real, vast, persistent marine bioluminescence events detectable by modern low-light satellites, with luminous bacteria associated with phytoplankton a leading explanation.\n\nNot established: The exact organism mix and ecological trigger of every event are not yet established by direct sampling."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: milky seas는 vast persistent marine bioluminescence event로 실제 존재하며 modern satellite night-light sensors로 관측됐다. luminous bacteria와 phytoplankton association은 leading biological explanation이다.\n\n확인되지 않음: 모든 milky sea event의 exact organism composition과 triggering ecological conditions는 충분한 direct sampling으로 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "satellite-02",
+        "bacteria-03",
+        "limits-04",
+        "why-05"
+      ]
+    },
+    "en": {
+      "headline": "What Makes Hundreds of Kilometres of Ocean Glow Milk-White Through the Night?",
+      "hook": "Milky seas have moved from sailor lore to satellite-detected phenomenon. The remaining question is what microbial and ecological conditions trigger such vast steady glow.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "선원들이 수백 년 말해온 ‘바다가 우윳빛으로 빛난다’는 현상은 위성에서도 보였다",
+          "headingEn": "A Centuries-Old Sailor Report of Milk-White Seas Has Been Seen From Space",
+          "textKo": "NASA Earth Observatory는 milky seas를 ocean surface가 snow field처럼 steady white glow로 보이는 rare marine bioluminescence라고 설명한다. 전형적인 plankton flash와 달리 ship wake에 의해 순간적으로 켜지는 게 아니라 넓은 area가 hours에서 days 이상 지속적으로 빛날 수 있다. 선원 보고는 1600s까지 거슬러 올라가며, modern low-light satellite sensor는 이런 event를 실제로 detect할 수 있게 했다.",
+          "textEn": "NASA Earth Observatory describes milky seas as rare marine bioluminescence in which vast ocean areas glow steadily white, sometimes for days, unlike brief wake-triggered flashes."
+        },
+        {
+          "blockId": "satellite-02",
+          "type": "TURNING_POINT",
+          "headingKo": "VIIRS 같은 night-light sensor가 folklore을 repeatable observation target으로 바꿨다",
+          "headingEn": "Night-Light Satellites Turned Maritime Folklore Into a Repeatable Observation Target",
+          "textKo": "2000s 이후 researchers는 satellite low-light instruments가 persistent ocean glow를 detect할 수 있을지 검토했고, VIIRS data로 candidate events를 찾아냈다. 2019년 Java 남쪽 milky sea는 satellite imagery에서 multi-night persistence와 large area를 보여주며 historical ship report와 비교가능한 pattern을 제공했다. 인간이 우연히 passing ship에서 보는 rare event를 orbital monitoring으로 찾을 수 있게 된 것이 큰 변화였다.",
+          "textEn": "Researchers used VIIRS low-light observations to detect candidate milky-sea events, including a large persistent glow south of Java in 2019. Satellite monitoring made rare ship encounters into a repeatable remote-sensing target."
+        },
+        {
+          "blockId": "bacteria-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "가장 강한 biological explanation은 luminous bacteria와 phytoplankton association이다",
+          "headingEn": "The Leading Biological Explanation Involves Luminous Bacteria Associated With Phytoplankton",
+          "textKo": "NASA는 direct sampling이 사실상 한 번뿐이지만 luminous bacteria such as Vibrio harveyi가 algae/phytoplankton colonies와 연결돼 massive continuous glow를 만들 수 있다는 explanation을 소개한다. 일반적인 dinoflagellate bioluminescence는 mechanical disturbance에 flash하지만, milky seas는 steady glow라는 차이가 있다. 이 차이가 bacterial quorum-like luminescence model을 중요하게 만든다.",
+          "textEn": "NASA notes that direct sampling has been extremely rare, but luminous bacteria such as Vibrio harveyi associated with algae or phytoplankton are a leading explanation for the steady glow."
+        },
+        {
+          "blockId": "limits-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "위성에서 glow를 본다고 현장 microbial community를 자동으로 확정할 수는 없다",
+          "headingEn": "Seeing a Glow From Orbit Does Not Automatically Identify the Microbial Community",
+          "textKo": "satellite는 spatial extent와 duration을 강하게 보여주지만 water sample, bacterial abundance, chemistry를 직접 제공하지 않는다. milky sea biology를 확정하려면 satellite detection 뒤 research vessel이 빠르게 sample location에 도달해야 한다. rarity와 remote location 때문에 이 연결이 어렵다. 그래서 ‘현상 존재’는 이제 강하게 확인됐지만 ‘모든 event의 exact ecological trigger’는 여전히 열린 질문이다.",
+          "textEn": "Satellite data strongly constrain extent and duration, but do not directly identify the microbial community or chemistry. Field sampling remains essential to establish the ecology of individual events."
+        },
+        {
+          "blockId": "why-05",
+          "type": "AFTERMATH",
+          "headingKo": "남은 미스터리는 왜 특정 ocean region에서 enormous bacterial glow가 시작되는가다",
+          "headingEn": "The Remaining Mystery Is What Triggers Such Enormous Persistent Glow",
+          "textKo": "nutrient conditions, algal bloom, bacterial density, ocean current convergence 등 여러 ecological factor가 후보지만 event가 rare하기 때문에 onset과 decay를 field에서 연속관측한 자료가 부족하다. 위성은 ‘언제 어디서’의 빈칸을 크게 줄였고, 다음 단계는 그 위치로 가서 ‘무엇이 빛나고 왜 시작됐나’를 sample로 확인하는 것이다. folklore가 science target으로 바뀐 대표사례다.",
+          "textEn": "Nutrients, algal blooms, bacterial density, and current convergence are candidate factors, but the rarity of events leaves onset and decay poorly sampled. Satellites increasingly solve the where and when; field biology must solve the what and why."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: milky seas는 vast persistent marine bioluminescence event로 실제 존재하며 modern satellite night-light sensors로 관측됐다. luminous bacteria와 phytoplankton association은 leading biological explanation이다.\n\n확인되지 않음: 모든 milky sea event의 exact organism composition과 triggering ecological conditions는 충분한 direct sampling으로 확정되지 않았다.",
+          "textEn": "Established: Milky seas are real, vast, persistent marine bioluminescence events detectable by modern low-light satellites, with luminous bacteria associated with phytoplankton a leading explanation.\n\nNot established: The exact organism mix and ecological trigger of every event are not yet established by direct sampling."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Milky seas are real, vast, persistent marine bioluminescence events detectable by modern low-light satellites, with luminous bacteria associated with phytoplankton a leading explanation.\n\nNot established: The exact organism mix and ecological trigger of every event are not yet established by direct sampling.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "satellite-02",
+        "bacteria-03",
+        "limits-04",
+        "why-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "MILKY_NASA",
+      "title": "Hunting Milky Seas by Satellite",
+      "publisher": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-milky-seas-by-satellite-149017/",
+      "sourceType": "NASA_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "MILKY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "milky seas는 vast persistent marine glow로 satellite observation이 가능하다.",
+      "statementEn": "Milky seas are vast persistent marine glows detectable by satellites.",
+      "sourceRefs": [
+        "MILKY_NASA"
+      ]
+    },
+    {
+      "claimId": "MILKY-C2",
+      "status": "SUPPORTED",
+      "statementKo": "luminous bacteria와 phytoplankton association이 leading biological explanation이다.",
+      "statementEn": "Luminous bacteria associated with phytoplankton are a leading biological explanation.",
+      "sourceRefs": [
+        "MILKY_NASA"
+      ]
+    },
+    {
+      "claimId": "MILKY-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "every event의 exact ecological trigger는 direct sampling으로 확정되지 않았다.",
+      "statementEn": "The exact ecological trigger of every event is not established by direct sampling.",
+      "sourceRefs": [
+        "MILKY_NASA"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "milky-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "phytoplankton/algal field + luminous bacteria → threshold population → persistent ocean glow.",
+      "captionEn": "Phytoplankton/algal field + luminous bacteria → threshold population → persistent ocean glow.",
+      "altKo": "phytoplankton/algal field + luminous bacteria → threshold population → persistent ocean glow.",
+      "altEn": "Phytoplankton/algal field + luminous bacteria → threshold population → persistent ocean glow.",
+      "sourceRefs": [
+        "MILKY_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "milky-seas__v01__ko.png",
+          "sha256": "b8bf12041a41536b7103b4384681c8f56a72864c662b01cfd76600c78419dd72",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "milky-seas__v01__en.png",
+          "sha256": "e938642fc211c6653290bc384157529f88d23f4514dad95c7611279d2e81bcd2",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "milky-v02",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "centuries of sailor reports → rare direct sample → low-light satellite detection → targeted field-search future.",
+      "captionEn": "Centuries of sailor reports → rare direct sample → low-light satellite detection → targeted field-search future.",
+      "altKo": "centuries of sailor reports → rare direct sample → low-light satellite detection → targeted field-search future.",
+      "altEn": "Centuries of sailor reports → rare direct sample → low-light satellite detection → targeted field-search future.",
+      "sourceRefs": [
+        "MILKY_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "milky-seas__v02__ko.png",
+          "sha256": "82ee083fcbfa13db47838318e7d3d38de76f4befe265eb866adfef501a15a42d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "milky-seas__v02__en.png",
+          "sha256": "50d97dcddec799e6db84986a1c476770ea22aec4477b37db1f98cc7394e1ae9d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Maritime / Aviation"
+    ],
+    "regions": [
+      "Tropical/subtropical oceans"
+    ],
+    "organizations": [
+      "NASA"
+    ],
+    "resolution": "PHENOMENON_CONFIRMED_BACTERIAL_EXPLANATION_SUPPORTED_EXACT_TRIGGER_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1894,
+    "enBodyWords": 193,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

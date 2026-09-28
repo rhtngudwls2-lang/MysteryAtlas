@@ -1,0 +1,359 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "yeti-dna",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "예티 털 DNA 검증",
+    "canonicalTitleEn": "Yeti Hair DNA Tests",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘예티 털’을 DNA로 검사했더니 왜 곰이 나왔고, 그 해석은 또 왜 수정됐나",
+      "hook": "DNA 검사는 전설을 한 번에 끝내지 않았다. 대신 제출된 털이 무엇이었는지 좁혔고, 짧은 유전서열을 얼마나 과하게 해석하면 안 되는지도 보여줬다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘예티 털’은 실제 DNA 검증 대상이 됐다",
+          "headingEn": "Alleged Yeti Hair Entered a Systematic DNA Test",
+          "textKo": "2014년 Royal Society 연구는 예티·빅풋 등 anomalous primate의 털이라고 제출된 표본을 체계적으로 모아 mitochondrial DNA를 분석했다. Himalayan 두 표본은 unknown primate가 아니라 bear DNA와 연결됐다. 핵심은 전설을 찬반으로 논쟁한 것이 아니라, 실제 주장된 물질을 같은 분석법으로 검사했다는 점이다. 이 단계에서 ‘무엇처럼 보였는가’보다 ‘어떤 DNA가 나왔는가’가 증거의 중심이 됐다.",
+          "textEn": "A 2014 Royal Society study systematically tested hair samples attributed to yeti, bigfoot and other anomalous primates using mitochondrial DNA. Two Himalayan samples associated with the yeti claim aligned with bear DNA rather than an unknown primate. The key shift was from debating stories to testing claimed physical material."
+        },
+        {
+          "blockId": "polar-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 결과는 고대 북극곰 계통 가능성을 제시했다",
+          "headingEn": "The Initial Result Suggested Affinity With an Ancient Polar-Bear Sequence",
+          "textKo": "Ladakh와 Bhutan에서 온 두 털의 짧은 12S sequence가 4만 년 이상 된 Pleistocene polar-bear sequence와 높은 일치를 보였다. 저자들은 previously unrecognized bear lineage 또는 brown/polar-bear hybrid 가능성을 조심스럽게 제안했다. 그러나 이 해석은 매우 짧은 genetic fragment에 기반한 preliminary interpretation이었다. 즉 ‘곰 계통’이라는 결과와 ‘정확히 어떤 곰 계통인가’라는 분류는 같은 확실성을 갖지 않았다.",
+          "textEn": "Two Himalayan hairs produced a short 12S sequence closely matching a Pleistocene polar-bear sequence. The authors cautiously suggested possibilities such as an unrecognized bear lineage or hybrid ancestry, but the interpretation was preliminary because it rested on a very short fragment."
+        },
+        {
+          "blockId": "followup-03",
+          "type": "TURNING_POINT",
+          "headingKo": "후속분석은 그 짧은 서열만으로 고대 북극곰을 구분할 수 없다고 지적했다",
+          "headingEn": "Follow-Up Work Showed the Short Sequence Could Not Uniquely Identify an Ancient Lineage",
+          "textKo": "후속 논문은 문제의 짧은 region이 modern polar bear와도 일치할 수 있어 ‘고대 북극곰 계통’이라는 강한 결론을 지지하지 않는다고 비판했다. 이건 DNA 검사 자체가 틀렸다는 뜻이 아니라, 데이터가 허용하는 taxonomic resolution보다 해석이 앞서갔다는 뜻이다. 같은 자료도 어떤 질문에 답하려는지에 따라 증거강도가 달라진다는 좋은 사례다.",
+          "textEn": "Follow-up analysis argued that the same short region can also match modern polar bears, so the stronger ancient-lineage interpretation was not uniquely supported. The DNA result itself was not worthless; the taxonomic conclusion had exceeded what the fragment could securely establish."
+        },
+        {
+          "blockId": "known-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "검사된 표본이 곰이라고 해서 예티 전설 전체가 한 번에 종결되는 것은 아니다",
+          "headingEn": "Bear DNA in Tested Samples Does Not Resolve Every Yeti Story",
+          "textKo": "DNA 연구가 직접 판정한 것은 제출된 hair sample의 species origin이다. 목격담, footprint, 아직 검사되지 않은 표본 전체를 동시에 검증한 것은 아니다. 따라서 ‘검사된 물질은 알려진 동물과 맞았다’와 ‘모든 예티 보고가 설명됐다’는 다른 주장이다. 반대로 ‘일부 표본만 검사했다’는 이유로 검사결과를 무시하고 unknown primate라고 주장하는 것도 근거가 아니다.",
+          "textEn": "The DNA work directly tested the species origin of submitted hair. It did not simultaneously test every sighting, footprint or unexamined sample. 'The tested material matches known animals' is different from 'every yeti report has been solved.'"
+        },
+        {
+          "blockId": "method-05",
+          "type": "AFTERMATH",
+          "headingKo": "cryptid 연구에서 중요한 것은 표본 provenance와 독립재현성이다",
+          "headingEn": "For Cryptid Claims, Provenance and Independent Reproducibility Matter",
+          "textKo": "털 하나가 의미 있으려면 발견위치·채집방법·오염통제·보관·chain of custody가 함께 기록돼야 한다. 그 뒤 independent lab이 같은 genetic result를 재현할 수 있어야 evidence가 강해진다. Yeti DNA 논쟁은 ‘신기한 물질’보다 검증절차가 더 중요하다는 사례다. 표본의 외형이 이상하다는 인상은 genetic provenance를 대신하지 못한다.",
+          "textEn": "Hair becomes stronger evidence when location, collection method, contamination controls, storage and chain of custody are documented, and when independent laboratories can reproduce the genetic result. The yeti-DNA episode shows why method matters more than how exotic a sample appears."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "BACKGROUND",
+          "headingKo": "샘플 수와 표본선정은 결론의 범위를 결정한다",
+          "headingEn": "Sample Size and Selection Define the Scope of the Conclusion",
+          "textKo": "2014년 연구는 전 세계 예티 주장 전체를 무작위로 조사한 것이 아니라 연구자에게 제출된 표본을 분석했다. 따라서 가장 강한 결론은 ‘이 표본들의 origin이 무엇이었는가’다. 표본이 대표성을 갖는지, 다른 지역의 목격담까지 설명하는지는 별도 질문이다. 이 distinction을 지키면 DNA 결과를 과소평가하지도, 과대평가하지도 않게 된다.",
+          "textEn": "The 2014 study did not randomly sample every yeti claim worldwide; it analyzed submitted material. Its strongest conclusion concerns the origin of those tested hairs. Whether the sample set represents every region or sighting is a separate question."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2014년 systematic survey에서 Himalayan ‘yeti’ 관련 두 hair sample은 bear DNA와 연결됐고 unknown primate DNA는 확인되지 않았다. 후속분석은 짧은 sequence만으로 ancient polar-bear lineage를 특정하기 어렵다고 지적했다.\n\n확인되지 않음: 이 표본검사만으로 모든 예티 목격담의 원인을 확정하거나 예티 존재·부재를 절대적으로 증명할 수는 없다.",
+          "textEn": "Established: In the 2014 systematic survey, two Himalayan hairs attributed to the yeti aligned with bear DNA rather than an unknown primate. Follow-up work challenged the stronger ancient-polar-bear interpretation.\n\nNot established: These sample tests do not determine every yeti report or mathematically prove existence or nonexistence."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 2014년 systematic survey에서 Himalayan ‘yeti’ 관련 두 hair sample은 bear DNA와 연결됐고 unknown primate DNA는 확인되지 않았다. 후속분석은 짧은 sequence만으로 ancient polar-bear lineage를 특정하기 어렵다고 지적했다.\n\n확인되지 않음: 이 표본검사만으로 모든 예티 목격담의 원인을 확정하거나 예티 존재·부재를 절대적으로 증명할 수는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "polar-02",
+        "followup-03",
+        "known-04",
+        "method-05",
+        "limits-055"
+      ]
+    },
+    "en": {
+      "headline": "Why Did DNA From 'Yeti Hair' Point to Bears—and Why Was the First Interpretation Revised?",
+      "hook": "DNA testing did not end the legend. It narrowed what the submitted hairs were and showed how easily a short sequence can be overinterpreted.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘예티 털’은 실제 DNA 검증 대상이 됐다",
+          "headingEn": "Alleged Yeti Hair Entered a Systematic DNA Test",
+          "textKo": "2014년 Royal Society 연구는 예티·빅풋 등 anomalous primate의 털이라고 제출된 표본을 체계적으로 모아 mitochondrial DNA를 분석했다. Himalayan 두 표본은 unknown primate가 아니라 bear DNA와 연결됐다. 핵심은 전설을 찬반으로 논쟁한 것이 아니라, 실제 주장된 물질을 같은 분석법으로 검사했다는 점이다. 이 단계에서 ‘무엇처럼 보였는가’보다 ‘어떤 DNA가 나왔는가’가 증거의 중심이 됐다.",
+          "textEn": "A 2014 Royal Society study systematically tested hair samples attributed to yeti, bigfoot and other anomalous primates using mitochondrial DNA. Two Himalayan samples associated with the yeti claim aligned with bear DNA rather than an unknown primate. The key shift was from debating stories to testing claimed physical material."
+        },
+        {
+          "blockId": "polar-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 결과는 고대 북극곰 계통 가능성을 제시했다",
+          "headingEn": "The Initial Result Suggested Affinity With an Ancient Polar-Bear Sequence",
+          "textKo": "Ladakh와 Bhutan에서 온 두 털의 짧은 12S sequence가 4만 년 이상 된 Pleistocene polar-bear sequence와 높은 일치를 보였다. 저자들은 previously unrecognized bear lineage 또는 brown/polar-bear hybrid 가능성을 조심스럽게 제안했다. 그러나 이 해석은 매우 짧은 genetic fragment에 기반한 preliminary interpretation이었다. 즉 ‘곰 계통’이라는 결과와 ‘정확히 어떤 곰 계통인가’라는 분류는 같은 확실성을 갖지 않았다.",
+          "textEn": "Two Himalayan hairs produced a short 12S sequence closely matching a Pleistocene polar-bear sequence. The authors cautiously suggested possibilities such as an unrecognized bear lineage or hybrid ancestry, but the interpretation was preliminary because it rested on a very short fragment."
+        },
+        {
+          "blockId": "followup-03",
+          "type": "TURNING_POINT",
+          "headingKo": "후속분석은 그 짧은 서열만으로 고대 북극곰을 구분할 수 없다고 지적했다",
+          "headingEn": "Follow-Up Work Showed the Short Sequence Could Not Uniquely Identify an Ancient Lineage",
+          "textKo": "후속 논문은 문제의 짧은 region이 modern polar bear와도 일치할 수 있어 ‘고대 북극곰 계통’이라는 강한 결론을 지지하지 않는다고 비판했다. 이건 DNA 검사 자체가 틀렸다는 뜻이 아니라, 데이터가 허용하는 taxonomic resolution보다 해석이 앞서갔다는 뜻이다. 같은 자료도 어떤 질문에 답하려는지에 따라 증거강도가 달라진다는 좋은 사례다.",
+          "textEn": "Follow-up analysis argued that the same short region can also match modern polar bears, so the stronger ancient-lineage interpretation was not uniquely supported. The DNA result itself was not worthless; the taxonomic conclusion had exceeded what the fragment could securely establish."
+        },
+        {
+          "blockId": "known-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "검사된 표본이 곰이라고 해서 예티 전설 전체가 한 번에 종결되는 것은 아니다",
+          "headingEn": "Bear DNA in Tested Samples Does Not Resolve Every Yeti Story",
+          "textKo": "DNA 연구가 직접 판정한 것은 제출된 hair sample의 species origin이다. 목격담, footprint, 아직 검사되지 않은 표본 전체를 동시에 검증한 것은 아니다. 따라서 ‘검사된 물질은 알려진 동물과 맞았다’와 ‘모든 예티 보고가 설명됐다’는 다른 주장이다. 반대로 ‘일부 표본만 검사했다’는 이유로 검사결과를 무시하고 unknown primate라고 주장하는 것도 근거가 아니다.",
+          "textEn": "The DNA work directly tested the species origin of submitted hair. It did not simultaneously test every sighting, footprint or unexamined sample. 'The tested material matches known animals' is different from 'every yeti report has been solved.'"
+        },
+        {
+          "blockId": "method-05",
+          "type": "AFTERMATH",
+          "headingKo": "cryptid 연구에서 중요한 것은 표본 provenance와 독립재현성이다",
+          "headingEn": "For Cryptid Claims, Provenance and Independent Reproducibility Matter",
+          "textKo": "털 하나가 의미 있으려면 발견위치·채집방법·오염통제·보관·chain of custody가 함께 기록돼야 한다. 그 뒤 independent lab이 같은 genetic result를 재현할 수 있어야 evidence가 강해진다. Yeti DNA 논쟁은 ‘신기한 물질’보다 검증절차가 더 중요하다는 사례다. 표본의 외형이 이상하다는 인상은 genetic provenance를 대신하지 못한다.",
+          "textEn": "Hair becomes stronger evidence when location, collection method, contamination controls, storage and chain of custody are documented, and when independent laboratories can reproduce the genetic result. The yeti-DNA episode shows why method matters more than how exotic a sample appears."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "BACKGROUND",
+          "headingKo": "샘플 수와 표본선정은 결론의 범위를 결정한다",
+          "headingEn": "Sample Size and Selection Define the Scope of the Conclusion",
+          "textKo": "2014년 연구는 전 세계 예티 주장 전체를 무작위로 조사한 것이 아니라 연구자에게 제출된 표본을 분석했다. 따라서 가장 강한 결론은 ‘이 표본들의 origin이 무엇이었는가’다. 표본이 대표성을 갖는지, 다른 지역의 목격담까지 설명하는지는 별도 질문이다. 이 distinction을 지키면 DNA 결과를 과소평가하지도, 과대평가하지도 않게 된다.",
+          "textEn": "The 2014 study did not randomly sample every yeti claim worldwide; it analyzed submitted material. Its strongest conclusion concerns the origin of those tested hairs. Whether the sample set represents every region or sighting is a separate question."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2014년 systematic survey에서 Himalayan ‘yeti’ 관련 두 hair sample은 bear DNA와 연결됐고 unknown primate DNA는 확인되지 않았다. 후속분석은 짧은 sequence만으로 ancient polar-bear lineage를 특정하기 어렵다고 지적했다.\n\n확인되지 않음: 이 표본검사만으로 모든 예티 목격담의 원인을 확정하거나 예티 존재·부재를 절대적으로 증명할 수는 없다.",
+          "textEn": "Established: In the 2014 systematic survey, two Himalayan hairs attributed to the yeti aligned with bear DNA rather than an unknown primate. Follow-up work challenged the stronger ancient-polar-bear interpretation.\n\nNot established: These sample tests do not determine every yeti report or mathematically prove existence or nonexistence."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: In the 2014 systematic survey, two Himalayan hairs attributed to the yeti aligned with bear DNA rather than an unknown primate. Follow-up work challenged the stronger ancient-polar-bear interpretation.\n\nNot established: These sample tests do not determine every yeti report or mathematically prove existence or nonexistence.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "polar-02",
+        "followup-03",
+        "known-04",
+        "method-05",
+        "limits-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "YETI-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Himalayan 두 표본은 unknown primate가 아니라 bear DNA와 연결됐다.",
+      "statementEn": "Two Himalayan samples aligned with bear DNA rather than an unknown primate.",
+      "sourceRefs": [
+        "YETI_INITIAL"
+      ]
+    },
+    {
+      "claimId": "YETI-C2",
+      "status": "DISPUTED",
+      "statementKo": "두 표본을 ancient polar-bear lineage로 강하게 해석한 부분은 후속논쟁이 있었다.",
+      "statementEn": "The stronger ancient-polar-bear-lineage interpretation was disputed in follow-up work.",
+      "sourceRefs": [
+        "YETI_INITIAL",
+        "YETI_FOLLOWUP"
+      ]
+    },
+    {
+      "claimId": "YETI-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "검사표본만으로 예티 존재·부재 전체를 확정할 수 없다.",
+      "statementEn": "The tested samples do not establish the overall existence or nonexistence of the yeti.",
+      "sourceRefs": [
+        "YETI_INITIAL",
+        "YETI_FOLLOWUP"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "YETI_INITIAL",
+      "title": "Genetic analysis of hair samples attributed to yeti, bigfoot and other anomalous primates",
+      "publisher": "Proceedings of the Royal Society B / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "YETI_FOLLOWUP",
+      "title": "Himalayan 'yeti' DNA: polar bear or DNA degradation?",
+      "publisher": "Proceedings of the Royal Society B / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4366689/",
+      "sourceType": "PEER_REVIEWED_COMMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "yeti-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "claimed yeti hair → mtDNA test → bear match → follow-up interpretation limit.",
+      "captionEn": "Claimed yeti hair → mtDNA test → bear match → follow-up interpretation limit.",
+      "altKo": "claimed yeti hair → mtDNA test → bear match → follow-up interpretation limit.",
+      "altEn": "Claimed yeti hair → mtDNA test → bear match → follow-up interpretation limit.",
+      "sourceRefs": [
+        "YETI_INITIAL",
+        "YETI_FOLLOWUP"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "yeti-dna__v01__ko.png",
+          "sha256": "fd2545d2d91e1335a4b410551b91b0237e57e0e994e4fa46e8a143cf6a2b312e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "yeti-dna__v01__en.png",
+          "sha256": "4fe9d0fd304aaa06a9ee2b31f9b86a4a639c05f06ddc8fa6a4f16727cbb1eb91",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "yeti-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "검사표본 결과와 예티 전설 전체에 대한 결론을 분리.",
+      "captionEn": "Separate tested-sample results from claims about the entire yeti legend.",
+      "altKo": "검사표본 결과와 예티 전설 전체에 대한 결론을 분리.",
+      "altEn": "Separate tested-sample results from claims about the entire yeti legend.",
+      "sourceRefs": [
+        "YETI_INITIAL",
+        "YETI_FOLLOWUP"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "yeti-dna__v02__ko.png",
+          "sha256": "84ffa4c6240cca51087178b96e9869c2249c6e3310143f28979050f90bcbc0de",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "yeti-dna__v02__en.png",
+          "sha256": "fd65952a7656258e8c4d87725ebc95a737c4bc562a8c14c2caa809034c881c2a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "India",
+      "Bhutan"
+    ],
+    "regions": [
+      "Himalayas"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Bryan Sykes",
+        "role": "study lead"
+      }
+    ],
+    "organizations": [
+      "University of Oxford",
+      "Royal Society"
+    ],
+    "dateRange": {
+      "start": "2014",
+      "end": "2015",
+      "precision": "initial study and follow-up debate"
+    },
+    "era": "Modern genetics",
+    "resolution": "TESTED_YETI_HAIR_BEAR_ORIGIN_STRONGER_LINEAGE_CLAIM_DISPUTED",
+    "searchAliases": [
+      "Yeti DNA",
+      "Yeti hair DNA"
+    ],
+    "relatedCases": [
+      "bigfoot-dna"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1653,
+    "enBodyWords": 292,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH21",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH21_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "starfish-prime",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Starfish Prime",
+    "canonicalTitleEn": "Starfish Prime",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "400km 상공의 1.4메가톤 폭발은 지구 주변 우주환경을 어떻게 바꿨나",
+      "hook": "Starfish Prime은 고고도 핵실험이 단순한 섬광으로 끝나지 않는다는 걸 보여줬다. aurora, EMP, radio disturbance, artificial radiation belt까지 하나의 폭발이 magnetosphere에 장기흔적을 남겼다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1962년 태평양 상공 약 400km에서 1.4 megaton 핵폭발이 실제로 일어났다",
+          "headingEn": "In 1962 a 1.4-Megaton Nuclear Explosion Occurred Roughly 400 km Above the Pacific",
+          "textKo": "Operation Fishbowl의 첫 high-altitude test인 Starfish Prime은 1962년 7월 9일 Johnston Island 인근 상공 약 400km에서 1.4 megaton yield로 폭발했다. Los Alamos/OSTI 기록은 목적이 high-altitude nuclear burst의 EMP, aurora, radio-communication effects와 radiation environment를 측정하는 것이었다고 설명한다. 이 사건은 secret rumor가 아니라 공식 nuclear test history의 일부다.",
+          "textEn": "Starfish Prime, the first Operation Fishbowl high-altitude test, detonated on July 9, 1962, at roughly 400 km altitude near Johnston Island with a yield of 1.4 megatons."
+        },
+        {
+          "blockId": "aurora-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "폭발 뒤 charged debris가 지구 자기장을 따라 이동하며 거대한 auroral display를 만들었다",
+          "headingEn": "Charged Debris Moved Along Earth's Magnetic Field and Produced Enormous Auroral Effects",
+          "textKo": "high-altitude nuclear burst에서 나온 ionized debris와 energetic particles는 Earth magnetic field와 강하게 상호작용했다. 당시 Pacific region에서는 비정상적으로 밝고 오래 지속되는 auroral effects가 관측됐다. 지상 nuclear burst와 달리 atmosphere가 매우 희박한 altitude에서 일어난 폭발이 magnetosphere 전체 규모의 effect를 만들 수 있음을 보여준 것이다. 이 과정은 이후 space-physics understanding에도 중요한 자료가 됐다.",
+          "textEn": "Ionized debris and energetic particles from the high-altitude burst interacted strongly with Earth's magnetic field, producing dramatic auroral effects across the Pacific and providing important data on magnetospheric physics."
+        },
+        {
+          "blockId": "belt-03",
+          "type": "TURNING_POINT",
+          "headingKo": "가장 예상 밖의 결과 중 하나는 long-lived artificial radiation belts였다",
+          "headingEn": "One of the Most Important Results Was the Creation of Long-Lived Artificial Radiation Belts",
+          "textKo": "OSTI technical history는 Starfish가 densely populated artificial radiation belts를 만들었고, 이 belts가 natural magnetospheric observations를 방해하는 동시에 space-radiation physics를 이해하는 데 자료가 됐다고 설명한다. 일부 energetic electrons는 예상보다 오래 trapped됐다. high-altitude nuclear test가 단순한 순간폭발이 아니라 orbiting spacecraft environment를 장기간 바꿀 수 있다는 사실이 확인된 셈이다.",
+          "textEn": "OSTI technical histories describe Starfish as creating densely populated artificial radiation belts that persisted and interfered with observations while also providing important data on magnetospheric physics."
+        },
+        {
+          "blockId": "satellites-04",
+          "type": "AFTERMATH",
+          "headingKo": "인공 radiation belt는 당시 satellites의 고장과 수명단축 문제를 현실로 만들었다",
+          "headingEn": "The Artificial Radiation Environment Turned Satellite Damage Into a Real Engineering Problem",
+          "textKo": "Starfish 이후 trapped radiation이 일부 spacecraft electronics와 solar cells에 영향을 주면서 high-altitude nuclear effects가 satellite survivability와 직접 연결됐다. 당시에는 orbital infrastructure가 작았지만 결과는 냉전시대 우주자산 취약성을 분명히 보여줬다. ‘EMP가 도시를 얼마나 망가뜨렸나’ 같은 단순한 popular framing보다, magnetosphere·radio·spacecraft에 걸친 multi-domain effect가 더 정확한 역사적 의미다.",
+          "textEn": "The trapped radiation after Starfish affected the space environment and contributed to failures or degradation of some satellites, making high-altitude nuclear effects a practical spacecraft-survivability issue."
+        },
+        {
+          "blockId": "myths-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Starfish Prime이 강력했다고 오늘날 모든 EMP claim을 그대로 입증하는 것은 아니다",
+          "headingEn": "Starfish Prime Does Not Automatically Validate Every Modern EMP Claim",
+          "textKo": "1962 test는 EMP와 geomagnetic effects가 실제라는 강한 evidence다. 하지만 modern infrastructure impact는 burst yield, altitude, latitude, weapon design, grid geometry, shielding, satellite design에 따라 달라진다. 한 historical event를 모든 future scenario의 exact template로 사용하는 것은 과도하다. Starfish가 보여준 것은 effect의 실재와 예상외 complexity이지, 어떤 특정 현대피해 규모를 자동으로 증명한 것은 아니다.",
+          "textEn": "Starfish Prime strongly demonstrates that EMP and geomagnetic effects are real, but modern consequences depend on yield, altitude, latitude, grid geometry, shielding, and spacecraft design."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Starfish Prime은 1962년 약 400km 고도에서 1.4 megaton으로 실행된 Operation Fishbowl high-altitude nuclear test이며 auroral effects, EMP/radio effects, artificial radiation belts를 만들었다.\n\n확인되지 않음: 이 한 test가 모든 modern EMP scenario의 피해규모를 동일하게 예측하게 해주는 것은 아니다.",
+          "textEn": "Established: Starfish Prime was a 1.4-megaton Operation Fishbowl high-altitude nuclear test conducted at roughly 400 km in 1962, producing auroral, EMP/radio, and artificial-radiation-belt effects.\n\nNot established: This single test does not determine the exact damage level of every modern EMP scenario."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Starfish Prime은 1962년 약 400km 고도에서 1.4 megaton으로 실행된 Operation Fishbowl high-altitude nuclear test이며 auroral effects, EMP/radio effects, artificial radiation belts를 만들었다.\n\n확인되지 않음: 이 한 test가 모든 modern EMP scenario의 피해규모를 동일하게 예측하게 해주는 것은 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "aurora-02",
+        "belt-03",
+        "satellites-04",
+        "myths-05"
+      ]
+    },
+    "en": {
+      "headline": "How Did a 1.4-Megaton Blast 400 km Up Alter the Space Around Earth?",
+      "hook": "Starfish Prime showed that a high-altitude nuclear burst does not end with a flash: aurora, EMP, radio disruption, and artificial radiation belts transformed the surrounding space environment.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1962년 태평양 상공 약 400km에서 1.4 megaton 핵폭발이 실제로 일어났다",
+          "headingEn": "In 1962 a 1.4-Megaton Nuclear Explosion Occurred Roughly 400 km Above the Pacific",
+          "textKo": "Operation Fishbowl의 첫 high-altitude test인 Starfish Prime은 1962년 7월 9일 Johnston Island 인근 상공 약 400km에서 1.4 megaton yield로 폭발했다. Los Alamos/OSTI 기록은 목적이 high-altitude nuclear burst의 EMP, aurora, radio-communication effects와 radiation environment를 측정하는 것이었다고 설명한다. 이 사건은 secret rumor가 아니라 공식 nuclear test history의 일부다.",
+          "textEn": "Starfish Prime, the first Operation Fishbowl high-altitude test, detonated on July 9, 1962, at roughly 400 km altitude near Johnston Island with a yield of 1.4 megatons."
+        },
+        {
+          "blockId": "aurora-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "폭발 뒤 charged debris가 지구 자기장을 따라 이동하며 거대한 auroral display를 만들었다",
+          "headingEn": "Charged Debris Moved Along Earth's Magnetic Field and Produced Enormous Auroral Effects",
+          "textKo": "high-altitude nuclear burst에서 나온 ionized debris와 energetic particles는 Earth magnetic field와 강하게 상호작용했다. 당시 Pacific region에서는 비정상적으로 밝고 오래 지속되는 auroral effects가 관측됐다. 지상 nuclear burst와 달리 atmosphere가 매우 희박한 altitude에서 일어난 폭발이 magnetosphere 전체 규모의 effect를 만들 수 있음을 보여준 것이다. 이 과정은 이후 space-physics understanding에도 중요한 자료가 됐다.",
+          "textEn": "Ionized debris and energetic particles from the high-altitude burst interacted strongly with Earth's magnetic field, producing dramatic auroral effects across the Pacific and providing important data on magnetospheric physics."
+        },
+        {
+          "blockId": "belt-03",
+          "type": "TURNING_POINT",
+          "headingKo": "가장 예상 밖의 결과 중 하나는 long-lived artificial radiation belts였다",
+          "headingEn": "One of the Most Important Results Was the Creation of Long-Lived Artificial Radiation Belts",
+          "textKo": "OSTI technical history는 Starfish가 densely populated artificial radiation belts를 만들었고, 이 belts가 natural magnetospheric observations를 방해하는 동시에 space-radiation physics를 이해하는 데 자료가 됐다고 설명한다. 일부 energetic electrons는 예상보다 오래 trapped됐다. high-altitude nuclear test가 단순한 순간폭발이 아니라 orbiting spacecraft environment를 장기간 바꿀 수 있다는 사실이 확인된 셈이다.",
+          "textEn": "OSTI technical histories describe Starfish as creating densely populated artificial radiation belts that persisted and interfered with observations while also providing important data on magnetospheric physics."
+        },
+        {
+          "blockId": "satellites-04",
+          "type": "AFTERMATH",
+          "headingKo": "인공 radiation belt는 당시 satellites의 고장과 수명단축 문제를 현실로 만들었다",
+          "headingEn": "The Artificial Radiation Environment Turned Satellite Damage Into a Real Engineering Problem",
+          "textKo": "Starfish 이후 trapped radiation이 일부 spacecraft electronics와 solar cells에 영향을 주면서 high-altitude nuclear effects가 satellite survivability와 직접 연결됐다. 당시에는 orbital infrastructure가 작았지만 결과는 냉전시대 우주자산 취약성을 분명히 보여줬다. ‘EMP가 도시를 얼마나 망가뜨렸나’ 같은 단순한 popular framing보다, magnetosphere·radio·spacecraft에 걸친 multi-domain effect가 더 정확한 역사적 의미다.",
+          "textEn": "The trapped radiation after Starfish affected the space environment and contributed to failures or degradation of some satellites, making high-altitude nuclear effects a practical spacecraft-survivability issue."
+        },
+        {
+          "blockId": "myths-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Starfish Prime이 강력했다고 오늘날 모든 EMP claim을 그대로 입증하는 것은 아니다",
+          "headingEn": "Starfish Prime Does Not Automatically Validate Every Modern EMP Claim",
+          "textKo": "1962 test는 EMP와 geomagnetic effects가 실제라는 강한 evidence다. 하지만 modern infrastructure impact는 burst yield, altitude, latitude, weapon design, grid geometry, shielding, satellite design에 따라 달라진다. 한 historical event를 모든 future scenario의 exact template로 사용하는 것은 과도하다. Starfish가 보여준 것은 effect의 실재와 예상외 complexity이지, 어떤 특정 현대피해 규모를 자동으로 증명한 것은 아니다.",
+          "textEn": "Starfish Prime strongly demonstrates that EMP and geomagnetic effects are real, but modern consequences depend on yield, altitude, latitude, grid geometry, shielding, and spacecraft design."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Starfish Prime은 1962년 약 400km 고도에서 1.4 megaton으로 실행된 Operation Fishbowl high-altitude nuclear test이며 auroral effects, EMP/radio effects, artificial radiation belts를 만들었다.\n\n확인되지 않음: 이 한 test가 모든 modern EMP scenario의 피해규모를 동일하게 예측하게 해주는 것은 아니다.",
+          "textEn": "Established: Starfish Prime was a 1.4-megaton Operation Fishbowl high-altitude nuclear test conducted at roughly 400 km in 1962, producing auroral, EMP/radio, and artificial-radiation-belt effects.\n\nNot established: This single test does not determine the exact damage level of every modern EMP scenario."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Starfish Prime was a 1.4-megaton Operation Fishbowl high-altitude nuclear test conducted at roughly 400 km in 1962, producing auroral, EMP/radio, and artificial-radiation-belt effects.\n\nNot established: This single test does not determine the exact damage level of every modern EMP scenario.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "aurora-02",
+        "belt-03",
+        "satellites-04",
+        "myths-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "OSTI",
+      "title": "Operation Fishbowl",
+      "publisher": "U.S. Department of Energy OSTI / Los Alamos National Laboratory",
+      "url": "https://www.osti.gov/biblio/1896391",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "SP-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Starfish Prime은 1962-07-09 약 400km 고도에서 1.4 MT로 실행됐다.",
+      "statementEn": "Starfish Prime detonated on July 9, 1962, at roughly 400 km altitude with a yield of 1.4 MT.",
+      "sourceRefs": [
+        "OSTI"
+      ]
+    },
+    {
+      "claimId": "SP-C2",
+      "status": "CONFIRMED",
+      "statementKo": "test는 artificial radiation belts와 auroral/EMP/radio effects를 만들었다.",
+      "statementEn": "The test produced artificial radiation belts and auroral/EMP/radio effects.",
+      "sourceRefs": [
+        "OSTI"
+      ]
+    },
+    {
+      "claimId": "SP-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "이 한 test만으로 모든 modern EMP scenario 피해를 고정할 수 없다.",
+      "statementEn": "This one test does not fix the outcome of every modern EMP scenario.",
+      "sourceRefs": [
+        "OSTI"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sp-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "launch → 400km detonation → aurora/EMP → artificial radiation belt → satellite effects.",
+      "captionEn": "Launch → 400 km detonation → aurora/EMP → artificial radiation belt → satellite effects.",
+      "altKo": "launch → 400km detonation → aurora/EMP → artificial radiation belt → satellite effects.",
+      "altEn": "Launch → 400 km detonation → aurora/EMP → artificial radiation belt → satellite effects.",
+      "sourceRefs": [
+        "OSTI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "starfish-prime__v01__ko.png",
+          "sha256": "7847f06270119ba6133020edcd68b848e00ccf08fe082a364e5ff002695eccf2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "starfish-prime__v01__en.png",
+          "sha256": "2c56e7850b2316f6b8cabfbc1e693e1acf4ae7af2cd68771c917478b323e9b06",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sp-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "high-altitude burst → charged particles → magnetic trapping → radiation-belt persistence.",
+      "captionEn": "High-altitude burst → charged particles → magnetic trapping → persistent radiation belt.",
+      "altKo": "high-altitude burst → charged particles → magnetic trapping → radiation-belt persistence.",
+      "altEn": "High-altitude burst → charged particles → magnetic trapping → persistent radiation belt.",
+      "sourceRefs": [
+        "OSTI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "starfish-prime__v02__ko.png",
+          "sha256": "4acba5496c7a4c7c3db2fcdba34695699a4855c09025d8b521ca319cd1f20441",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "starfish-prime__v02__en.png",
+          "sha256": "de709e57d49f590467e1145b2bfd0032841a96e9af98d15b47922db97879931b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Space / Astronomy",
+      "Technology / Lost Invention"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Johnston Island / Pacific"
+    ],
+    "organizations": [
+      "Los Alamos National Laboratory",
+      "U.S. Department of Energy"
+    ],
+    "dateRange": {
+      "start": "1962-07-09",
+      "end": "1962",
+      "precision": "test and aftermath"
+    },
+    "resolution": "TEST_AND_SPACE_EFFECTS_CONFIRMED_MODERN_DAMAGE_SCENARIOS_CONTEXT_DEPENDENT"
+  },
+  "quality": {
+    "koBodyChars": 1882,
+    "enBodyWords": 177,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

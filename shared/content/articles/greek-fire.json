@@ -1,0 +1,313 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "greek-fire",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "그리스의 불",
+    "canonicalTitleEn": "Greek Fire",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "물 위에서도 타던 비잔틴 무기—사라진 건 화학식 하나였을까",
+      "hook": "Greek fire의 실재는 미스터리가 아니다. 남은 미스터리는 petroleum-like fuel, siphon, ignition, crew procedure가 결합된 전체 weapon system의 exact know-how가 사라졌다는 데 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "물 위에서도 타는 Byzantine 무기는 실제 역사기록에 남아 있다",
+          "headingEn": "The Byzantine Weapon That Burned on Water Is a Real Historical Technology",
+          "textKo": "Royal Museums Greenwich는 Greek fire를 Byzantine Empire가 naval warfare에서 사용한 weapon으로 설명하며, 물 위에서도 계속 타는 성질 때문에 강력했다고 정리한다. 7세기 후반부터 Constantinople 방어와 해전에서 사용됐다는 전승과 기록이 남아 있다. ‘불이 물 위에서 탄다’는 특징은 myth의 핵심이지만, 단순히 마법 같은 현상이 아니라 petroleum-like fuel, delivery system, ignition technique가 결합된 military technology로 보는 것이 타당하다.",
+          "textEn": "Royal Museums Greenwich describes Greek fire as a Byzantine naval weapon famous for continuing to burn on water. Historical tradition places its introduction in the seventh century, with later use in major defenses and campaigns."
+        },
+        {
+          "blockId": "formula-02",
+          "type": "BACKGROUND",
+          "headingKo": "정확한 recipe는 전승되지 않았지만 petroleum/naphtha 계열이 주성분으로 자주 제안된다",
+          "headingEn": "The Exact Formula Is Lost, Though Petroleum or Naphtha Is Often Proposed as the Main Ingredient",
+          "textKo": "RMG는 exact composition이 still a mystery라고 하면서 naphtha 또는 petroleum이 principal ingredient였을 가능성을 제시하고 sulphur, pitch, other materials가 더해졌을 수 있다고 설명한다. 이 정도는 plausible reconstruction이지 preserved recipe가 아니다. 현대인이 비슷한 combustible mixture를 만들 수 있다고 해서 Byzantine formula를 exact하게 복원했다는 뜻도 아니다. ‘작동원리의 범위’와 ‘원래 배합비’는 다른 질문이다.",
+          "textEn": "RMG notes that the exact composition remains unknown, while naphtha or petroleum is often suggested as the principal ingredient, possibly with sulfur, pitch, or other materials. A plausible modern reconstruction is not the same as recovering the original recipe."
+        },
+        {
+          "blockId": "delivery-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "비밀은 액체 자체뿐 아니라 siphon delivery와 ignition system에도 있었을 가능성이 크다",
+          "headingEn": "The Secret Was Likely in the Delivery and Ignition System as Much as the Fuel",
+          "textKo": "Greek fire는 bow-mounted siphon을 통해 enemy ship 쪽으로 분사됐다고 알려져 있다. 이런 weapon은 fuel composition 하나만 알아도 완성되지 않는다. pressure, storage, nozzle, ignition timing, crew procedure가 함께 맞아야 실제 battlefield weapon으로 작동한다. 그래서 recipe가 일부 추정된다고 해도 전체 system engineering을 정확히 재현했다고 말할 수 없다. lost technology라는 표현을 쓸 때도 formula와 system을 분리해야 한다.",
+          "textEn": "Greek fire was delivered through siphons mounted on ships. A practical weapon would require not only fuel chemistry but also storage, pressure, nozzle design, ignition timing, and trained operation."
+        },
+        {
+          "blockId": "water-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘물로 끌 수 없었다’는 유명한 묘사도 모든 상황에서 literal law처럼 읽으면 안 된다",
+          "headingEn": "The Famous 'Water Could Not Extinguish It' Description Should Not Be Treated as an Absolute Physical Law",
+          "textKo": "hydrocarbon-based burning liquid은 물보다 가볍고 surface에 퍼질 수 있어 단순한 water dousing이 오히려 burning area를 넓힐 수 있다. RMG는 sand나 vinegar로 extinguish해야 했다는 전승을 소개한다. 하지만 historical combat descriptions는 dramatic language를 포함할 수 있고 exact chemistry도 unknown이므로, 모든 Greek fire sample이 똑같은 reaction을 했다고 단정하기보다 ‘water-resistant incendiary behavior’라는 수준에서 다루는 편이 안전하다.",
+          "textEn": "A hydrocarbon-based burning liquid can float and spread on water, making simple water dousing ineffective or counterproductive. Historical accounts should still be treated cautiously because the exact chemistry is unknown."
+        },
+        {
+          "blockId": "loss-05",
+          "type": "AFTERMATH",
+          "headingKo": "기술이 사라진 이유는 ‘고대의 초과학’보다 secret military know-how의 전승단절에 가깝다",
+          "headingEn": "Its Loss Is Better Understood as Broken Transmission of Secret Military Know-How Than Lost Super-Science",
+          "textKo": "Greek fire는 state-controlled military secret로 전승됐다고 알려져 있고, later Byzantine decline과 함께 exact manufacturing knowledge도 사라졌다. 이런 기술은 formula를 문서에 완전히 적지 않고 workshop practice와 specialist knowledge로 유지될 수 있다. 그래서 ‘현대과학으로도 이해할 수 없는 물질’이라고 말할 근거는 없다. 남은 mystery는 원래 recipe와 complete engineering workflow를 document로 복원하지 못했다는 데 있다.",
+          "textEn": "Greek fire appears to have been protected as state military know-how. Its disappearance is compatible with loss of specialist practice and transmission rather than a substance beyond modern science."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Greek fire는 Byzantine naval warfare에서 사용된 실제 incendiary weapon으로, 물 위에서도 지속되는 연소와 ship-mounted siphon delivery가 역사기록에 남아 있다.\n\n확인되지 않음: exact chemical formula, mixing ratio, ignition mechanism, complete manufacturing process는 보존되지 않았다. 어떤 modern recipe도 원래 Byzantine formula와 동일하다고 확정할 수 없다.",
+          "textEn": "Established: Greek fire was a real Byzantine incendiary weapon used in naval warfare, remembered for persistent burning on water and siphon-based delivery.\n\nNot established: The exact chemical formula, mixing ratio, ignition mechanism, and complete manufacturing process are lost."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Greek fire는 Byzantine naval warfare에서 사용된 실제 incendiary weapon으로, 물 위에서도 지속되는 연소와 ship-mounted siphon delivery가 역사기록에 남아 있다.\n\n확인되지 않음: exact chemical formula, mixing ratio, ignition mechanism, complete manufacturing process는 보존되지 않았다. 어떤 modern recipe도 원래 Byzantine formula와 동일하다고 확정할 수 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "formula-02",
+        "delivery-03",
+        "water-04",
+        "loss-05"
+      ]
+    },
+    "en": {
+      "headline": "The Byzantine Fire That Burned on Water—Was the Lost Secret More Than a Recipe?",
+      "hook": "Greek fire was real. What was lost was likely not just a recipe, but a complete weapon system combining fuel, delivery, ignition, and operating practice.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "물 위에서도 타는 Byzantine 무기는 실제 역사기록에 남아 있다",
+          "headingEn": "The Byzantine Weapon That Burned on Water Is a Real Historical Technology",
+          "textKo": "Royal Museums Greenwich는 Greek fire를 Byzantine Empire가 naval warfare에서 사용한 weapon으로 설명하며, 물 위에서도 계속 타는 성질 때문에 강력했다고 정리한다. 7세기 후반부터 Constantinople 방어와 해전에서 사용됐다는 전승과 기록이 남아 있다. ‘불이 물 위에서 탄다’는 특징은 myth의 핵심이지만, 단순히 마법 같은 현상이 아니라 petroleum-like fuel, delivery system, ignition technique가 결합된 military technology로 보는 것이 타당하다.",
+          "textEn": "Royal Museums Greenwich describes Greek fire as a Byzantine naval weapon famous for continuing to burn on water. Historical tradition places its introduction in the seventh century, with later use in major defenses and campaigns."
+        },
+        {
+          "blockId": "formula-02",
+          "type": "BACKGROUND",
+          "headingKo": "정확한 recipe는 전승되지 않았지만 petroleum/naphtha 계열이 주성분으로 자주 제안된다",
+          "headingEn": "The Exact Formula Is Lost, Though Petroleum or Naphtha Is Often Proposed as the Main Ingredient",
+          "textKo": "RMG는 exact composition이 still a mystery라고 하면서 naphtha 또는 petroleum이 principal ingredient였을 가능성을 제시하고 sulphur, pitch, other materials가 더해졌을 수 있다고 설명한다. 이 정도는 plausible reconstruction이지 preserved recipe가 아니다. 현대인이 비슷한 combustible mixture를 만들 수 있다고 해서 Byzantine formula를 exact하게 복원했다는 뜻도 아니다. ‘작동원리의 범위’와 ‘원래 배합비’는 다른 질문이다.",
+          "textEn": "RMG notes that the exact composition remains unknown, while naphtha or petroleum is often suggested as the principal ingredient, possibly with sulfur, pitch, or other materials. A plausible modern reconstruction is not the same as recovering the original recipe."
+        },
+        {
+          "blockId": "delivery-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "비밀은 액체 자체뿐 아니라 siphon delivery와 ignition system에도 있었을 가능성이 크다",
+          "headingEn": "The Secret Was Likely in the Delivery and Ignition System as Much as the Fuel",
+          "textKo": "Greek fire는 bow-mounted siphon을 통해 enemy ship 쪽으로 분사됐다고 알려져 있다. 이런 weapon은 fuel composition 하나만 알아도 완성되지 않는다. pressure, storage, nozzle, ignition timing, crew procedure가 함께 맞아야 실제 battlefield weapon으로 작동한다. 그래서 recipe가 일부 추정된다고 해도 전체 system engineering을 정확히 재현했다고 말할 수 없다. lost technology라는 표현을 쓸 때도 formula와 system을 분리해야 한다.",
+          "textEn": "Greek fire was delivered through siphons mounted on ships. A practical weapon would require not only fuel chemistry but also storage, pressure, nozzle design, ignition timing, and trained operation."
+        },
+        {
+          "blockId": "water-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘물로 끌 수 없었다’는 유명한 묘사도 모든 상황에서 literal law처럼 읽으면 안 된다",
+          "headingEn": "The Famous 'Water Could Not Extinguish It' Description Should Not Be Treated as an Absolute Physical Law",
+          "textKo": "hydrocarbon-based burning liquid은 물보다 가볍고 surface에 퍼질 수 있어 단순한 water dousing이 오히려 burning area를 넓힐 수 있다. RMG는 sand나 vinegar로 extinguish해야 했다는 전승을 소개한다. 하지만 historical combat descriptions는 dramatic language를 포함할 수 있고 exact chemistry도 unknown이므로, 모든 Greek fire sample이 똑같은 reaction을 했다고 단정하기보다 ‘water-resistant incendiary behavior’라는 수준에서 다루는 편이 안전하다.",
+          "textEn": "A hydrocarbon-based burning liquid can float and spread on water, making simple water dousing ineffective or counterproductive. Historical accounts should still be treated cautiously because the exact chemistry is unknown."
+        },
+        {
+          "blockId": "loss-05",
+          "type": "AFTERMATH",
+          "headingKo": "기술이 사라진 이유는 ‘고대의 초과학’보다 secret military know-how의 전승단절에 가깝다",
+          "headingEn": "Its Loss Is Better Understood as Broken Transmission of Secret Military Know-How Than Lost Super-Science",
+          "textKo": "Greek fire는 state-controlled military secret로 전승됐다고 알려져 있고, later Byzantine decline과 함께 exact manufacturing knowledge도 사라졌다. 이런 기술은 formula를 문서에 완전히 적지 않고 workshop practice와 specialist knowledge로 유지될 수 있다. 그래서 ‘현대과학으로도 이해할 수 없는 물질’이라고 말할 근거는 없다. 남은 mystery는 원래 recipe와 complete engineering workflow를 document로 복원하지 못했다는 데 있다.",
+          "textEn": "Greek fire appears to have been protected as state military know-how. Its disappearance is compatible with loss of specialist practice and transmission rather than a substance beyond modern science."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Greek fire는 Byzantine naval warfare에서 사용된 실제 incendiary weapon으로, 물 위에서도 지속되는 연소와 ship-mounted siphon delivery가 역사기록에 남아 있다.\n\n확인되지 않음: exact chemical formula, mixing ratio, ignition mechanism, complete manufacturing process는 보존되지 않았다. 어떤 modern recipe도 원래 Byzantine formula와 동일하다고 확정할 수 없다.",
+          "textEn": "Established: Greek fire was a real Byzantine incendiary weapon used in naval warfare, remembered for persistent burning on water and siphon-based delivery.\n\nNot established: The exact chemical formula, mixing ratio, ignition mechanism, and complete manufacturing process are lost."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Greek fire was a real Byzantine incendiary weapon used in naval warfare, remembered for persistent burning on water and siphon-based delivery.\n\nNot established: The exact chemical formula, mixing ratio, ignition mechanism, and complete manufacturing process are lost.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "formula-02",
+        "delivery-03",
+        "water-04",
+        "loss-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "RMG",
+      "title": "Greek fire",
+      "publisher": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/greek-fire",
+      "sourceType": "NATIONAL_MARITIME_MUSEUM_HISTORY"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "GF-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Greek fire는 Byzantine naval warfare에서 실제 사용된 incendiary weapon이다.",
+      "statementEn": "Greek fire was a real Byzantine incendiary weapon used in naval warfare.",
+      "sourceRefs": [
+        "RMG"
+      ]
+    },
+    {
+      "claimId": "GF-C2",
+      "status": "SUPPORTED",
+      "statementKo": "petroleum/naphtha 계열이 principal ingredient였을 가능성이 제시된다.",
+      "statementEn": "Petroleum or naphtha is a plausible principal ingredient.",
+      "sourceRefs": [
+        "RMG"
+      ]
+    },
+    {
+      "claimId": "GF-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact formula와 complete manufacturing process는 확정되지 않았다.",
+      "statementEn": "The exact formula and complete manufacturing process are not established.",
+      "sourceRefs": [
+        "RMG"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gf-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "fuel mixture → storage/pressure → siphon → ignition → burning liquid on water.",
+      "captionEn": "Fuel mixture → storage/pressure → siphon → ignition → burning liquid on water.",
+      "altKo": "fuel mixture → storage/pressure → siphon → ignition → burning liquid on water.",
+      "altEn": "Fuel mixture → storage/pressure → siphon → ignition → burning liquid on water.",
+      "sourceRefs": [
+        "RMG"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "greek-fire__v01__ko.png",
+          "sha256": "8ba7911e8b89857b9d717b0b60bc32b01fa14ee32fdd64225689fe673bd21a09",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "greek-fire__v01__en.png",
+          "sha256": "1960832fdd3b1fbc296b4c0d38c38dc7f22b1f817ca5ffcc6f527bbb2e1977df",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "gf-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "historical weapon / probable ingredients / exact lost recipe를 분리.",
+      "captionEn": "Separate historical weapon, probable ingredients, and lost exact recipe.",
+      "altKo": "historical weapon / probable ingredients / exact lost recipe를 분리.",
+      "altEn": "Separate historical weapon, probable ingredients, and lost exact recipe.",
+      "sourceRefs": [
+        "RMG"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "greek-fire__v02__ko.png",
+          "sha256": "41bddcdd834d63d161a976cae18814255f4bdf35cf8d5f30db3261e8a39a0985",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "greek-fire__v02__en.png",
+          "sha256": "f7b1bc395272ba3821829d0cb9add505e5aab0d57fe6c24b22a3b123b9cdfa36",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Lost Invention",
+    "secondaryGenres": [
+      "Ancient History / Archaeology"
+    ],
+    "countries": [
+      "Byzantine Empire"
+    ],
+    "regions": [
+      "Eastern Mediterranean"
+    ],
+    "organizations": [
+      "Byzantine military"
+    ],
+    "dateRange": {
+      "start": "7th century",
+      "end": "13th century",
+      "precision": "historical use period"
+    },
+    "resolution": "WEAPON_HISTORICALLY_ESTABLISHED_EXACT_FORMULA_AND_SYSTEM_LOST"
+  },
+  "quality": {
+    "koBodyChars": 1939,
+    "enBodyWords": 200,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "damascus-steel",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "다마스쿠스 강철",
+    "canonicalTitleEn": "Damascus Steel",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "17세기 칼에서 carbon nanotube가 나왔다—그럼 중세 장인은 ‘나노기술’을 알았던 걸까",
+      "hook": "Damascus steel의 nanoscale structure는 real finding이다. 하지만 material outcome과 maker의 theoretical knowledge는 다르고, lost recipe도 ‘현대가 전혀 재현 못 한다’는 뜻은 아니다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "물결무늬와 날카로움으로 유명한 Damascus blade는 실제 ultrahigh-carbon steel tradition이었다",
+          "headingEn": "The Famous Watered Damascus Blade Was a Real Ultrahigh-Carbon Steel Tradition",
+          "textKo": "historic Damascus blades는 characteristic wavy banding과 sharp cutting edge, unusual mechanical reputation으로 유명하다. 연구에서는 이 blade들이 Indian-origin wootz-type ultrahigh-carbon steel ingot tradition과 연결된다고 본다. ‘다마스쿠스 강철’이라는 이름이 오늘날 pattern-welded decorative steel에도 넓게 쓰이지만, historical crucible-steel tradition과 modern pattern imitation은 구분해야 한다.",
+          "textEn": "Historical Damascus blades were renowned for characteristic watered banding, sharp edges, and unusual mechanical properties, and are associated with wootz-type ultrahigh-carbon crucible steel traditions."
+        },
+        {
+          "blockId": "nano-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2006년 Nature 연구는 17세기 genuine sabre에서 carbon nanotubes와 cementite nanowires를 보고했다",
+          "headingEn": "A 2006 Nature Study Reported Carbon Nanotubes and Cementite Nanowires in a Genuine Seventeenth-Century Sabre",
+          "textKo": "Reibold 등은 high-resolution transmission electron microscopy로 17세기 Damascus sabre sample을 조사해 carbon nanotubes와 cementite nanowires를 관찰했다고 보고했다. 저자들은 이 microstructure가 characteristic banding과 material properties를 이해하는 clue가 될 수 있다고 제안했다. 중요한 점은 고대 smith가 현대 nanotechnology theory를 알고 carbon nanotube를 의도적으로 설계했다는 뜻이 아니라, traditional processing이 nanoscale structure를 만들 수 있었다는 것이다.",
+          "textEn": "A 2006 Nature study using high-resolution transmission electron microscopy reported carbon nanotubes and cementite nanowires in a seventeenth-century Damascus sabre, suggesting that nanoscale structure may help explain its banding and properties."
+        },
+        {
+          "blockId": "process-03",
+          "type": "BACKGROUND",
+          "headingKo": "wootz chemistry와 repeated thermal cycling이 carbide pattern을 만드는 핵심으로 연구돼 왔다",
+          "headingEn": "Wootz Chemistry and Thermal Cycling Are Central to the Pattern Formation",
+          "textKo": "ultrahigh-carbon crucible steel에서 trace elements, cooling rate, forging temperature, thermal cycles는 cementite distribution과 visible banding을 크게 바꾼다. 그래서 exact historical blade quality는 ore source와 smithing process가 함께 결정했을 가능성이 높다. 단순히 carbon percentage 하나만 복제하거나 acid etching으로 pattern을 만들었다고 original performance를 그대로 재현했다고 할 수 없다.",
+          "textEn": "Trace elements, cooling rate, forging temperature, and thermal cycling can strongly affect cementite distribution and visible banding in ultrahigh-carbon crucible steel. Historical performance depended on both material and process."
+        },
+        {
+          "blockId": "lost-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘recipe가 완전히 사라졌다’는 말도 현대 재현연구를 무시하면 과장이다",
+          "headingEn": "Saying the Recipe Is Completely Lost Can Also Overstate the Mystery",
+          "textKo": "historical production tradition이 18~19세기 무렵 약화·단절된 것은 맞지만 modern metallurgists는 wootz-like ingots와 characteristic patterns를 재현하는 데 상당한 진전을 냈다. 따라서 modern science가 Damascus steel을 전혀 이해하지 못한다는 popular claim은 부정확하다. 남은 historical gap은 original workshops의 exact ore, furnace, temperature control, trade chain, craft transmission을 한 세트로 복원하는 문제에 가깝다.",
+          "textEn": "Although the historical craft tradition declined, modern metallurgists have made significant progress reproducing wootz-like ingots and characteristic patterns. The unresolved gap is the exact historical combination of ore, furnace, thermal control, trade, and craft transmission."
+        },
+        {
+          "blockId": "nanomyth-05",
+          "type": "AFTERMATH",
+          "headingKo": "carbon nanotube 발견은 ‘중세 장인이 나노과학을 알았다’는 증거가 아니다",
+          "headingEn": "Finding Carbon Nanotubes Is Not Evidence That Medieval Smiths Understood Nanoscience",
+          "textKo": "materials processing은 maker가 atomic mechanism을 이론적으로 몰라도 repeatable microstructure를 만들 수 있다. ceramic glaze, alloy, heat treatment가 그러하듯 empirical craft knowledge는 modern scientific explanation과 다른 형태의 knowledge다. Damascus steel의 흥미로운 점은 ancient craftspeople이 nanoscale outcome을 만들었다는 사실이지, contemporary nanoscience vocabulary와 theory를 이미 갖고 있었다는 뜻이 아니다.",
+          "textEn": "Empirical craft can repeatedly produce nanoscale structures without a modern theoretical understanding of atoms or nanotubes. The finding demonstrates a material outcome, not medieval knowledge of nanoscience."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: historical Damascus sabres는 wootz-type ultrahigh-carbon steel tradition과 연결되며 2006년 Nature 연구는 genuine 17세기 sample에서 carbon nanotubes와 cementite nanowires를 보고했다.\n\n확인되지 않음: nanotubes 하나만이 모든 legendary mechanical properties의 유일원인이라는 결론, historical smiths가 modern nanoscience mechanism을 이해했다는 주장은 확립되지 않았다.",
+          "textEn": "Established: Historical Damascus sabres are associated with wootz-type ultrahigh-carbon steel, and a 2006 Nature study reported carbon nanotubes and cementite nanowires in a genuine seventeenth-century sample.\n\nNot established: Nanotubes are not established as the sole cause of every legendary property, nor is modern nanoscience knowledge attributable to historical smiths."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: historical Damascus sabres는 wootz-type ultrahigh-carbon steel tradition과 연결되며 2006년 Nature 연구는 genuine 17세기 sample에서 carbon nanotubes와 cementite nanowires를 보고했다.\n\n확인되지 않음: nanotubes 하나만이 모든 legendary mechanical properties의 유일원인이라는 결론, historical smiths가 modern nanoscience mechanism을 이해했다는 주장은 확립되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "nano-02",
+        "process-03",
+        "lost-04",
+        "nanomyth-05"
+      ]
+    },
+    "en": {
+      "headline": "Carbon Nanotubes Were Found in a Seventeenth-Century Sabre—Did Medieval Smiths Know Nanotechnology?",
+      "hook": "Nanoscale structure in historical Damascus steel is a real finding, but material outcome and theoretical knowledge are different, and 'lost recipe' does not mean modern metallurgy understands nothing.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "물결무늬와 날카로움으로 유명한 Damascus blade는 실제 ultrahigh-carbon steel tradition이었다",
+          "headingEn": "The Famous Watered Damascus Blade Was a Real Ultrahigh-Carbon Steel Tradition",
+          "textKo": "historic Damascus blades는 characteristic wavy banding과 sharp cutting edge, unusual mechanical reputation으로 유명하다. 연구에서는 이 blade들이 Indian-origin wootz-type ultrahigh-carbon steel ingot tradition과 연결된다고 본다. ‘다마스쿠스 강철’이라는 이름이 오늘날 pattern-welded decorative steel에도 넓게 쓰이지만, historical crucible-steel tradition과 modern pattern imitation은 구분해야 한다.",
+          "textEn": "Historical Damascus blades were renowned for characteristic watered banding, sharp edges, and unusual mechanical properties, and are associated with wootz-type ultrahigh-carbon crucible steel traditions."
+        },
+        {
+          "blockId": "nano-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2006년 Nature 연구는 17세기 genuine sabre에서 carbon nanotubes와 cementite nanowires를 보고했다",
+          "headingEn": "A 2006 Nature Study Reported Carbon Nanotubes and Cementite Nanowires in a Genuine Seventeenth-Century Sabre",
+          "textKo": "Reibold 등은 high-resolution transmission electron microscopy로 17세기 Damascus sabre sample을 조사해 carbon nanotubes와 cementite nanowires를 관찰했다고 보고했다. 저자들은 이 microstructure가 characteristic banding과 material properties를 이해하는 clue가 될 수 있다고 제안했다. 중요한 점은 고대 smith가 현대 nanotechnology theory를 알고 carbon nanotube를 의도적으로 설계했다는 뜻이 아니라, traditional processing이 nanoscale structure를 만들 수 있었다는 것이다.",
+          "textEn": "A 2006 Nature study using high-resolution transmission electron microscopy reported carbon nanotubes and cementite nanowires in a seventeenth-century Damascus sabre, suggesting that nanoscale structure may help explain its banding and properties."
+        },
+        {
+          "blockId": "process-03",
+          "type": "BACKGROUND",
+          "headingKo": "wootz chemistry와 repeated thermal cycling이 carbide pattern을 만드는 핵심으로 연구돼 왔다",
+          "headingEn": "Wootz Chemistry and Thermal Cycling Are Central to the Pattern Formation",
+          "textKo": "ultrahigh-carbon crucible steel에서 trace elements, cooling rate, forging temperature, thermal cycles는 cementite distribution과 visible banding을 크게 바꾼다. 그래서 exact historical blade quality는 ore source와 smithing process가 함께 결정했을 가능성이 높다. 단순히 carbon percentage 하나만 복제하거나 acid etching으로 pattern을 만들었다고 original performance를 그대로 재현했다고 할 수 없다.",
+          "textEn": "Trace elements, cooling rate, forging temperature, and thermal cycling can strongly affect cementite distribution and visible banding in ultrahigh-carbon crucible steel. Historical performance depended on both material and process."
+        },
+        {
+          "blockId": "lost-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘recipe가 완전히 사라졌다’는 말도 현대 재현연구를 무시하면 과장이다",
+          "headingEn": "Saying the Recipe Is Completely Lost Can Also Overstate the Mystery",
+          "textKo": "historical production tradition이 18~19세기 무렵 약화·단절된 것은 맞지만 modern metallurgists는 wootz-like ingots와 characteristic patterns를 재현하는 데 상당한 진전을 냈다. 따라서 modern science가 Damascus steel을 전혀 이해하지 못한다는 popular claim은 부정확하다. 남은 historical gap은 original workshops의 exact ore, furnace, temperature control, trade chain, craft transmission을 한 세트로 복원하는 문제에 가깝다.",
+          "textEn": "Although the historical craft tradition declined, modern metallurgists have made significant progress reproducing wootz-like ingots and characteristic patterns. The unresolved gap is the exact historical combination of ore, furnace, thermal control, trade, and craft transmission."
+        },
+        {
+          "blockId": "nanomyth-05",
+          "type": "AFTERMATH",
+          "headingKo": "carbon nanotube 발견은 ‘중세 장인이 나노과학을 알았다’는 증거가 아니다",
+          "headingEn": "Finding Carbon Nanotubes Is Not Evidence That Medieval Smiths Understood Nanoscience",
+          "textKo": "materials processing은 maker가 atomic mechanism을 이론적으로 몰라도 repeatable microstructure를 만들 수 있다. ceramic glaze, alloy, heat treatment가 그러하듯 empirical craft knowledge는 modern scientific explanation과 다른 형태의 knowledge다. Damascus steel의 흥미로운 점은 ancient craftspeople이 nanoscale outcome을 만들었다는 사실이지, contemporary nanoscience vocabulary와 theory를 이미 갖고 있었다는 뜻이 아니다.",
+          "textEn": "Empirical craft can repeatedly produce nanoscale structures without a modern theoretical understanding of atoms or nanotubes. The finding demonstrates a material outcome, not medieval knowledge of nanoscience."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: historical Damascus sabres는 wootz-type ultrahigh-carbon steel tradition과 연결되며 2006년 Nature 연구는 genuine 17세기 sample에서 carbon nanotubes와 cementite nanowires를 보고했다.\n\n확인되지 않음: nanotubes 하나만이 모든 legendary mechanical properties의 유일원인이라는 결론, historical smiths가 modern nanoscience mechanism을 이해했다는 주장은 확립되지 않았다.",
+          "textEn": "Established: Historical Damascus sabres are associated with wootz-type ultrahigh-carbon steel, and a 2006 Nature study reported carbon nanotubes and cementite nanowires in a genuine seventeenth-century sample.\n\nNot established: Nanotubes are not established as the sole cause of every legendary property, nor is modern nanoscience knowledge attributable to historical smiths."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Historical Damascus sabres are associated with wootz-type ultrahigh-carbon steel, and a 2006 Nature study reported carbon nanotubes and cementite nanowires in a genuine seventeenth-century sample.\n\nNot established: Nanotubes are not established as the sole cause of every legendary property, nor is modern nanoscience knowledge attributable to historical smiths.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "nano-02",
+        "process-03",
+        "lost-04",
+        "nanomyth-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "DAM_NATURE",
+      "title": "Carbon nanotubes in an ancient Damascus sabre",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/444286a",
+      "sourceType": "PEER_REVIEWED_RESEARCH"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "DAM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2006 Nature 연구는 genuine 17세기 Damascus sabre에서 carbon nanotubes와 cementite nanowires를 보고했다.",
+      "statementEn": "A 2006 Nature study reported carbon nanotubes and cementite nanowires in a genuine seventeenth-century Damascus sabre.",
+      "sourceRefs": [
+        "DAM_NATURE"
+      ]
+    },
+    {
+      "claimId": "DAM-C2",
+      "status": "SUPPORTED",
+      "statementKo": "nanoscale microstructure는 banding/material properties를 이해하는 clue가 될 수 있다.",
+      "statementEn": "The nanoscale microstructure may help explain banding and material properties.",
+      "sourceRefs": [
+        "DAM_NATURE"
+      ]
+    },
+    {
+      "claimId": "DAM-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "historical smith가 modern nanoscience mechanism을 이해했다는 것은 확립되지 않았다.",
+      "statementEn": "It is not established that historical smiths understood modern nanoscience mechanisms.",
+      "sourceRefs": [
+        "DAM_NATURE"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dam-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "wootz chemistry + thermal cycling → cementite/nanoscale structure → visible banding and material behavior.",
+      "captionEn": "Wootz chemistry + thermal cycling → cementite/nanoscale structure → visible banding and material behavior.",
+      "altKo": "wootz chemistry + thermal cycling → cementite/nanoscale structure → visible banding and material behavior.",
+      "altEn": "Wootz chemistry + thermal cycling → cementite/nanoscale structure → visible banding and material behavior.",
+      "sourceRefs": [
+        "DAM_NATURE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "damascus-steel__v01__ko.png",
+          "sha256": "01aec1b4531f5a82dde049b9ba529707c786c4106ed03758db7590298b1baf33",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "damascus-steel__v01__en.png",
+          "sha256": "afc280a949d0089b63aec781a4709bad89fb35198b652f9593a76a091588600a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dam-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "nanotube observation / property hypothesis / ancient theoretical knowledge claim을 분리.",
+      "captionEn": "Separate nanotube observation, property hypothesis, and claims of ancient theoretical knowledge.",
+      "altKo": "nanotube observation / property hypothesis / ancient theoretical knowledge claim을 분리.",
+      "altEn": "Separate nanotube observation, property hypothesis, and claims of ancient theoretical knowledge.",
+      "sourceRefs": [
+        "DAM_NATURE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "damascus-steel__v02__ko.png",
+          "sha256": "a039fdf56dd4471e4ad84ae4ca637575419fe97e8d0cd4d27fd9382412a78117",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "damascus-steel__v02__en.png",
+          "sha256": "f5fc1c6c543023a2fb0264db8b1620badfa88e27850dd6d8c37793ed3a252124",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Lost Invention",
+    "secondaryGenres": [
+      "Ancient History / Archaeology"
+    ],
+    "regions": [
+      "Middle East / South Asia trade network"
+    ],
+    "resolution": "HISTORICAL_MATERIAL_AND_NANOSTRUCTURE_CONFIRMED_EXACT_CRAFT_CHAIN_PARTLY_LOST"
+  },
+  "quality": {
+    "koBodyChars": 2065,
+    "enBodyWords": 195,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH28",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH28_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

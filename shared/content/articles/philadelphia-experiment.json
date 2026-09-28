@@ -1,0 +1,299 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "philadelphia-experiment",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "필라델피아 실험",
+    "canonicalTitleEn": "Philadelphia Experiment",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1943년 비밀실험이라면 왜 핵심 이야기는 1955년 편지에서 시작될까",
+      "hook": "USS Eldridge와 degaussing은 실재한다. 하지만 invisibility·teleportation 이야기는 contemporary Navy record보다 훨씬 뒤에 등장한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "USS Eldridge를 순간이동시켰다는 핵심 이야기는 1943년 record보다 1955년 편지에서 구체화됐다",
+          "headingEn": "The Teleportation Story Emerged in 1955 Letters, Not in 1943 Navy Records",
+          "textKo": "Naval History and Heritage Command는 Philadelphia Experiment myth가 1955년 Morris K. Jessup의 UFO book 뒤 Carlos Allende/Allen letters에서 구체화됐다고 설명한다. 주장에서는 USS Eldridge가 invisible 또는 teleported됐다고 하지만 contemporary Navy archive에서 그 experiment를 확인하는 record는 발견되지 않았다. 사건을 평가할 때 가장 먼저 볼 것은 dramatic detail이 언제 처음 등장했는가다.",
+          "textEn": "Naval History and Heritage Command traces the Philadelphia Experiment myth to letters from Carlos Allende/Allen after Morris K. Jessup’s 1955 UFO book. No contemporary Navy record confirms the alleged experiment."
+        },
+        {
+          "blockId": "logs-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Eldridge deck log와 war diary는 claimed timeline과 맞지 않는다",
+          "headingEn": "Eldridge’s Deck Log and War Diary Do Not Match the Alleged Timeline",
+          "textKo": "Navy archive는 commissioning 이후 Eldridge의 1943 movements를 검토했고 alleged Philadelphia-to-Norfolk teleportation story와 ship record가 일치하지 않는다고 정리한다. 이런 deck log는 후대 memory보다 contemporaneous location evidence에 가깝다. 따라서 비밀이라 기록이 없었다는 설명을 쓰려면 왜 정상 운항기록과 구체적으로 충돌하는지도 함께 설명해야 한다.",
+          "textEn": "Navy archivists reviewed Eldridge’s 1943 movements and found that its records do not match the alleged Philadelphia-to-Norfolk teleportation timeline."
+        },
+        {
+          "blockId": "degaussing-03",
+          "type": "BACKGROUND",
+          "headingKo": "실제 Navy technology인 degaussing이 전설의 재료가 됐을 가능성이 크다",
+          "headingEn": "Real Naval Degaussing Technology Likely Fed the Legend",
+          "textKo": "Navy는 magnetic mines 대응을 위해 degaussing/deperming 같은 electromagnetic technique을 실제 사용했다. 이 기술은 ship의 magnetic signature를 줄이는 procedure이지 optical invisibility나 teleportation technology가 아니다. 강한 전자기장, 비밀장비, 선박이라는 실제 요소가 나중에 science-fiction mechanism과 결합되면 전설이 설득력 있게 들릴 수 있다.",
+          "textEn": "The Navy genuinely used degaussing and deperming techniques to reduce magnetic signatures against mines. These processes do not make a ship optically invisible or teleport it."
+        },
+        {
+          "blockId": "onr-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "ONR가 1946년에 생겼다는 점도 1943 ONR 주도설과 충돌한다",
+          "headingEn": "ONR Did Not Even Exist in 1943",
+          "textKo": "legend 일부는 Office of Naval Research가 1943 experiment를 주도했다고 주장하지만 ONR은 1946년에 설립됐다. 기관의 existence date는 단순한 trivia가 아니라 provenance check다. 어떤 theory가 당시 존재하지도 않은 기관을 central actor로 넣는다면 최소한 그 version의 narrative는 chronology와 충돌한다.",
+          "textEn": "Some versions place the Office of Naval Research at the center of the 1943 experiment, but ONR was not established until 1946."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "AFTERMATH",
+          "headingKo": "전설은 비밀기술·UFO·시간이동 이야기가 결합되며 계속 커졌다",
+          "headingEn": "The Legend Grew by Combining Secrecy, UFO Culture, and Teleportation",
+          "textKo": "Allende correspondence와 later retellings는 crew injury, teleportation, invisibility 같은 details를 계속 추가했다. 후대 narrative accretion과 1943 ship record를 분리하면 evidentiary imbalance가 매우 크다. 실제 degaussing의 존재는 완전히 만들어낸 이야기와 다르게 들리게 하지만 그 real function은 legend의 핵심 claim과 다르다.",
+          "textEn": "Later retellings added crew injury, teleportation, invisibility and other details. Separating those additions from 1943 ship records reveals a major evidentiary imbalance."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Philadelphia Experiment story는 mid-1950s Allende/Jessup correspondence에서 확산됐고, Navy는 Eldridge logs와 archives를 조사했지만 claimed event를 뒷받침하는 document를 찾지 못했다. degaussing은 실제 Navy technology다.\n\n확인되지 않음: USS Eldridge가 invisible·teleported됐거나 crew가 초상적 효과를 겪었다는 증거는 없다.",
+          "textEn": "Established: The Philadelphia Experiment story spread from mid-1950s Allende/Jessup correspondence. Navy archivists found no records supporting the claimed event, while degaussing was real.\n\nNot established: There is no evidence that USS Eldridge became invisible, teleported, or caused paranormal effects on its crew."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "logs-02",
+        "degaussing-03",
+        "onr-04",
+        "myth-05"
+      ]
+    },
+    "en": {
+      "headline": "If It Was a 1943 Secret Experiment, Why Does the Core Story Begin in 1955 Letters?",
+      "hook": "USS Eldridge and degaussing were real. Invisibility and teleportation claims emerged much later than the contemporary Navy record.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "USS Eldridge를 순간이동시켰다는 핵심 이야기는 1943년 record보다 1955년 편지에서 구체화됐다",
+          "headingEn": "The Teleportation Story Emerged in 1955 Letters, Not in 1943 Navy Records",
+          "textKo": "Naval History and Heritage Command는 Philadelphia Experiment myth가 1955년 Morris K. Jessup의 UFO book 뒤 Carlos Allende/Allen letters에서 구체화됐다고 설명한다. 주장에서는 USS Eldridge가 invisible 또는 teleported됐다고 하지만 contemporary Navy archive에서 그 experiment를 확인하는 record는 발견되지 않았다. 사건을 평가할 때 가장 먼저 볼 것은 dramatic detail이 언제 처음 등장했는가다.",
+          "textEn": "Naval History and Heritage Command traces the Philadelphia Experiment myth to letters from Carlos Allende/Allen after Morris K. Jessup’s 1955 UFO book. No contemporary Navy record confirms the alleged experiment."
+        },
+        {
+          "blockId": "logs-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Eldridge deck log와 war diary는 claimed timeline과 맞지 않는다",
+          "headingEn": "Eldridge’s Deck Log and War Diary Do Not Match the Alleged Timeline",
+          "textKo": "Navy archive는 commissioning 이후 Eldridge의 1943 movements를 검토했고 alleged Philadelphia-to-Norfolk teleportation story와 ship record가 일치하지 않는다고 정리한다. 이런 deck log는 후대 memory보다 contemporaneous location evidence에 가깝다. 따라서 비밀이라 기록이 없었다는 설명을 쓰려면 왜 정상 운항기록과 구체적으로 충돌하는지도 함께 설명해야 한다.",
+          "textEn": "Navy archivists reviewed Eldridge’s 1943 movements and found that its records do not match the alleged Philadelphia-to-Norfolk teleportation timeline."
+        },
+        {
+          "blockId": "degaussing-03",
+          "type": "BACKGROUND",
+          "headingKo": "실제 Navy technology인 degaussing이 전설의 재료가 됐을 가능성이 크다",
+          "headingEn": "Real Naval Degaussing Technology Likely Fed the Legend",
+          "textKo": "Navy는 magnetic mines 대응을 위해 degaussing/deperming 같은 electromagnetic technique을 실제 사용했다. 이 기술은 ship의 magnetic signature를 줄이는 procedure이지 optical invisibility나 teleportation technology가 아니다. 강한 전자기장, 비밀장비, 선박이라는 실제 요소가 나중에 science-fiction mechanism과 결합되면 전설이 설득력 있게 들릴 수 있다.",
+          "textEn": "The Navy genuinely used degaussing and deperming techniques to reduce magnetic signatures against mines. These processes do not make a ship optically invisible or teleport it."
+        },
+        {
+          "blockId": "onr-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "ONR가 1946년에 생겼다는 점도 1943 ONR 주도설과 충돌한다",
+          "headingEn": "ONR Did Not Even Exist in 1943",
+          "textKo": "legend 일부는 Office of Naval Research가 1943 experiment를 주도했다고 주장하지만 ONR은 1946년에 설립됐다. 기관의 existence date는 단순한 trivia가 아니라 provenance check다. 어떤 theory가 당시 존재하지도 않은 기관을 central actor로 넣는다면 최소한 그 version의 narrative는 chronology와 충돌한다.",
+          "textEn": "Some versions place the Office of Naval Research at the center of the 1943 experiment, but ONR was not established until 1946."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "AFTERMATH",
+          "headingKo": "전설은 비밀기술·UFO·시간이동 이야기가 결합되며 계속 커졌다",
+          "headingEn": "The Legend Grew by Combining Secrecy, UFO Culture, and Teleportation",
+          "textKo": "Allende correspondence와 later retellings는 crew injury, teleportation, invisibility 같은 details를 계속 추가했다. 후대 narrative accretion과 1943 ship record를 분리하면 evidentiary imbalance가 매우 크다. 실제 degaussing의 존재는 완전히 만들어낸 이야기와 다르게 들리게 하지만 그 real function은 legend의 핵심 claim과 다르다.",
+          "textEn": "Later retellings added crew injury, teleportation, invisibility and other details. Separating those additions from 1943 ship records reveals a major evidentiary imbalance."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Philadelphia Experiment story는 mid-1950s Allende/Jessup correspondence에서 확산됐고, Navy는 Eldridge logs와 archives를 조사했지만 claimed event를 뒷받침하는 document를 찾지 못했다. degaussing은 실제 Navy technology다.\n\n확인되지 않음: USS Eldridge가 invisible·teleported됐거나 crew가 초상적 효과를 겪었다는 증거는 없다.",
+          "textEn": "Established: The Philadelphia Experiment story spread from mid-1950s Allende/Jessup correspondence. Navy archivists found no records supporting the claimed event, while degaussing was real.\n\nNot established: There is no evidence that USS Eldridge became invisible, teleported, or caused paranormal effects on its crew."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "logs-02",
+        "degaussing-03",
+        "onr-04",
+        "myth-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "PHIL_NAVY",
+      "title": "Philadelphia Experiment",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment.html",
+      "sourceType": "US_NAVY_ARCHIVE"
+    },
+    {
+      "sourceId": "PHIL_ONR",
+      "title": "Philadelphia Experiment — ONR Information Sheet",
+      "publisher": "Office of Naval Research / Naval History",
+      "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment/philadelphia-experiment-onr-info-sheet.html",
+      "sourceType": "US_NAVY_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "PHIL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "myth의 documented origin은 1955 Allende/Jessup correspondence와 연결된다.",
+      "statementEn": "The documented origin of the myth is tied to 1955 Allende/Jessup correspondence.",
+      "sourceRefs": [
+        "PHIL_ONR"
+      ]
+    },
+    {
+      "claimId": "PHIL-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Eldridge logs/war diary는 alleged 1943 event timeline과 맞지 않는다.",
+      "statementEn": "Eldridge logs and war diary do not match the alleged 1943 event timeline.",
+      "sourceRefs": [
+        "PHIL_NAVY"
+      ]
+    },
+    {
+      "claimId": "PHIL-C3",
+      "status": "CONFIRMED",
+      "statementKo": "degaussing은 실제 Navy technology였지만 invisibility/teleportation 기술은 아니다.",
+      "statementEn": "Degaussing was real Navy technology but not invisibility or teleportation.",
+      "sourceRefs": [
+        "PHIL_ONR"
+      ]
+    },
+    {
+      "claimId": "PHIL-C4",
+      "status": "REFUTED",
+      "statementKo": "1943 USS Eldridge invisibility/teleportation experiment는 Navy records로 지지되지 않는다.",
+      "statementEn": "A 1943 USS Eldridge invisibility/teleportation experiment is not supported by Navy records.",
+      "sourceRefs": [
+        "PHIL_NAVY",
+        "PHIL_ONR"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "phil-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1943 Eldridge logs → 1946 ONR founded → 1955 Allende letters → later myth expansion.",
+      "captionEn": "1943 Eldridge logs → 1946 ONR founded → 1955 Allende letters → later myth expansion.",
+      "altKo": "1943 Eldridge logs → 1946 ONR founded → 1955 Allende letters → later myth expansion.",
+      "altEn": "1943 Eldridge logs → 1946 ONR founded → 1955 Allende letters → later myth expansion.",
+      "sourceRefs": [
+        "PHIL_ONR",
+        "PHIL_NAVY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "philadelphia-experiment__v01__ko.png",
+          "sha256": "beeee33a004f5d804c6d4021383181d04899c8e217e05524ac00f95c6a4febf2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "philadelphia-experiment__v01__en.png",
+          "sha256": "4e638e40a08ac663c3e99abc73dd2ad39ce9da4bc4722a868bba54509d806216",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "phil-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "degaussing real technology와 invisibility/teleportation myth를 분리.",
+      "captionEn": "Separate real degaussing technology from invisibility/teleportation mythology.",
+      "altKo": "degaussing real technology와 invisibility/teleportation myth를 분리.",
+      "altEn": "Separate real degaussing technology from invisibility/teleportation mythology.",
+      "sourceRefs": [
+        "PHIL_ONR",
+        "PHIL_NAVY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "philadelphia-experiment__v02__ko.png",
+          "sha256": "05d8b1af2a5e90b46db3982569aa1823698e7252d67b248ecb6f3b4f9efc78df",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "philadelphia-experiment__v02__en.png",
+          "sha256": "bc695f8f7db93b5534eca63d06c87f4bc83d1ad48274f1d11e47c669975ca6b9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "regions": [
+      "U.S. Navy Atlantic context"
+    ],
+    "resolution": "NAVY_RECORDS_DO_NOT_SUPPORT_CLAIM_MYTH_ORIGIN_DOCUMENTED"
+  },
+  "quality": {
+    "koBodyChars": 1620,
+    "enBodyWords": 163,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

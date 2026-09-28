@@ -1,0 +1,343 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "gofast",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "GoFast UAP 영상",
+    "canonicalTitleEn": "GoFast UAP Video",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "바다 바로 위를 초고속으로 달린 것처럼 보였는데 왜 AARO는 13,000ft·비정상속도 없음으로 결론냈나",
+      "hook": "GoFast의 핵심은 영상 진위가 아니다. 영상은 진짜다. 2025년 AARO는 geometry와 motion parallax를 계산해 “초고속 저공비행” 해석을 뒤집었지만 object identity는 열어뒀다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "영상은 실제 Navy footage지만 AARO는 “비정상 고속” 결론을 뒤집었다",
+          "headingEn": "The Navy Video Is Authentic, but AARO Rejected the “Anomalous Speed” Interpretation",
+          "textKo": "GoFast는 2015년 U.S. Navy F/A-18F FLIR footage로 DoD가 2020년 공식공개한 영상이다. 화면에서는 작은 object가 ocean surface 바로 위를 매우 빠르게 지나가는 것처럼 보인다. 하지만 AARO의 2025 case resolution은 object altitude를 약 13,000 ft로, intrinsic speed range를 약 5~92 mph로 평가하며 high confidence로 anomalous performance가 없었다고 결론냈다.",
+          "textEn": "GoFast is authentic 2015 U.S. Navy F/A-18F FLIR footage released by DoD in 2020. It appears to show an object racing just above the ocean, but AARO’s 2025 resolution assessed roughly 13,000 feet altitude and 5–92 mph intrinsic speed, with high confidence that no anomalous performance occurred."
+        },
+        {
+          "blockId": "parallax",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "빠르게 보인 핵심 이유는 moving aircraft와 motion parallax였다",
+          "headingEn": "Motion Parallax Explains the Impression of Extreme Speed",
+          "textKo": "AARO는 moving observer가 closer foreground reference를 보면서 distant/slow object를 볼 때 apparent motion이 과장되는 motion parallax를 핵심으로 설명한다. FLIR line-of-sight, range, aircraft speed와 bank를 재구성하면 object가 ocean surface에 붙어 초고속으로 달릴 필요가 없어진다.",
+          "textEn": "AARO identifies motion parallax as the key optical effect: a fast-moving observer can make a slower object appear to streak across the background. Reconstructing line of sight, range, aircraft speed and bank removes the need for near-surface extreme motion."
+        },
+        {
+          "blockId": "range",
+          "type": "TURNING_POINT",
+          "headingKo": "sensor display의 range와 angle을 geometry로 풀자 altitude가 surface가 아니었다",
+          "headingEn": "Geometry Moved the Object Away From the Ocean Surface",
+          "textKo": "공개영상에는 target range와 sensor azimuth/elevation, aircraft altitude/speed 같은 값이 남아 있었다. AARO는 이를 이용해 geometry를 계산했고 object altitude를 약 13,000 ft로 평가했다. exact aircraft heading이 없어 speed는 single number가 아니라 possible range로 계산했다.",
+          "textEn": "The display preserved target range, sensor angles, aircraft altitude and speed. AARO used these to estimate an object altitude near 13,000 feet; missing exact aircraft heading required a range of possible speeds rather than one value."
+        },
+        {
+          "blockId": "identity",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“anomalous speed가 아니다”와 “무엇인지 확정했다”는 다른 결론이다",
+          "headingEn": "Non-Anomalous Performance Does Not Mean the Object Was Identified",
+          "textKo": "AARO는 object shape를 spherical 또는 oblate ellipsoid로 평가하고 size는 roughly one meter or less 가능성을 언급하지만, object 자체를 definitively identify하지 못했다고 명시한다. 따라서 2025 resolution은 extraordinary-performance claim을 약화했지만 identity mystery를 완전히 닫지는 않는다.",
+          "textEn": "AARO assessed a roughly spherical/oblate object and possibly one meter or less in size, but explicitly did not definitively identify it. The resolution weakens extraordinary-performance claims without fully closing identity."
+        },
+        {
+          "blockId": "data",
+          "type": "BACKGROUND",
+          "headingKo": "원본 metadata가 없었다는 한계도 analysis 안에 공개돼 있다",
+          "headingEn": "AARO Explicitly Documents the Missing-Metadata Limitation",
+          "textKo": "AARO는 original file과 full metadata가 더 이상 available하지 않고 compressed public WMV를 분석했다고 기록한다. aircraft exact position/heading도 unknown이었다. 그래서 모든 possible heading을 계산해 range를 만든다. 이 transparency는 “perfect reconstruction”이 아니라 bounded conclusion이라는 점을 보여준다.",
+          "textEn": "AARO states that the original file and full metadata were unavailable and that analysis used the compressed public video. Exact aircraft position and heading were unknown, so the study modeled possible headings and reported bounded conclusions."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** GoFast는 authentic Navy footage다. AARO 2025 analysis는 object를 약 13,000 ft altitude, wind-corrected 약 5~92 mph 범위로 평가하고 high confidence로 anomalous speed가 없었다고 판단했다. apparent high speed는 motion parallax로 설명된다.\n\n**확인되지 않음:** object 자체의 exact identity는 확정되지 않았다. “외계기체” 또는 exotic propulsion evidence도 없다.",
+          "textEn": "**Established:** GoFast is authentic Navy footage. AARO’s 2025 analysis assessed roughly 13,000 feet altitude, about 5–92 mph wind-corrected speed, and high confidence that no anomalous speed occurred; motion parallax explains the apparent high speed.\n\n**Not established:** The exact object identity is not confirmed, and there is no evidence of extraterrestrial craft or exotic propulsion."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** GoFast는 authentic Navy footage다. AARO 2025 analysis는 object를 약 13,000 ft altitude, wind-corrected 약 5~92 mph 범위로 평가하고 high confidence로 anomalous speed가 없었다고 판단했다. apparent high speed는 motion parallax로 설명된다.\n\n**확인되지 않음:** object 자체의 exact identity는 확정되지 않았다. “외계기체” 또는 exotic propulsion evidence도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "parallax",
+        "range",
+        "identity",
+        "data"
+      ]
+    },
+    "en": {
+      "headline": "It Looked Like a High-Speed Object Skimming the Ocean—Why Did AARO Conclude 13,000 Feet and No Anomalous Speed?",
+      "hook": "The GoFast video is authentic. AARO’s 2025 geometry and parallax analysis overturned the “extreme low-altitude speed” interpretation while leaving the object’s identity unresolved.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "영상은 실제 Navy footage지만 AARO는 “비정상 고속” 결론을 뒤집었다",
+          "headingEn": "The Navy Video Is Authentic, but AARO Rejected the “Anomalous Speed” Interpretation",
+          "textKo": "GoFast는 2015년 U.S. Navy F/A-18F FLIR footage로 DoD가 2020년 공식공개한 영상이다. 화면에서는 작은 object가 ocean surface 바로 위를 매우 빠르게 지나가는 것처럼 보인다. 하지만 AARO의 2025 case resolution은 object altitude를 약 13,000 ft로, intrinsic speed range를 약 5~92 mph로 평가하며 high confidence로 anomalous performance가 없었다고 결론냈다.",
+          "textEn": "GoFast is authentic 2015 U.S. Navy F/A-18F FLIR footage released by DoD in 2020. It appears to show an object racing just above the ocean, but AARO’s 2025 resolution assessed roughly 13,000 feet altitude and 5–92 mph intrinsic speed, with high confidence that no anomalous performance occurred."
+        },
+        {
+          "blockId": "parallax",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "빠르게 보인 핵심 이유는 moving aircraft와 motion parallax였다",
+          "headingEn": "Motion Parallax Explains the Impression of Extreme Speed",
+          "textKo": "AARO는 moving observer가 closer foreground reference를 보면서 distant/slow object를 볼 때 apparent motion이 과장되는 motion parallax를 핵심으로 설명한다. FLIR line-of-sight, range, aircraft speed와 bank를 재구성하면 object가 ocean surface에 붙어 초고속으로 달릴 필요가 없어진다.",
+          "textEn": "AARO identifies motion parallax as the key optical effect: a fast-moving observer can make a slower object appear to streak across the background. Reconstructing line of sight, range, aircraft speed and bank removes the need for near-surface extreme motion."
+        },
+        {
+          "blockId": "range",
+          "type": "TURNING_POINT",
+          "headingKo": "sensor display의 range와 angle을 geometry로 풀자 altitude가 surface가 아니었다",
+          "headingEn": "Geometry Moved the Object Away From the Ocean Surface",
+          "textKo": "공개영상에는 target range와 sensor azimuth/elevation, aircraft altitude/speed 같은 값이 남아 있었다. AARO는 이를 이용해 geometry를 계산했고 object altitude를 약 13,000 ft로 평가했다. exact aircraft heading이 없어 speed는 single number가 아니라 possible range로 계산했다.",
+          "textEn": "The display preserved target range, sensor angles, aircraft altitude and speed. AARO used these to estimate an object altitude near 13,000 feet; missing exact aircraft heading required a range of possible speeds rather than one value."
+        },
+        {
+          "blockId": "identity",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“anomalous speed가 아니다”와 “무엇인지 확정했다”는 다른 결론이다",
+          "headingEn": "Non-Anomalous Performance Does Not Mean the Object Was Identified",
+          "textKo": "AARO는 object shape를 spherical 또는 oblate ellipsoid로 평가하고 size는 roughly one meter or less 가능성을 언급하지만, object 자체를 definitively identify하지 못했다고 명시한다. 따라서 2025 resolution은 extraordinary-performance claim을 약화했지만 identity mystery를 완전히 닫지는 않는다.",
+          "textEn": "AARO assessed a roughly spherical/oblate object and possibly one meter or less in size, but explicitly did not definitively identify it. The resolution weakens extraordinary-performance claims without fully closing identity."
+        },
+        {
+          "blockId": "data",
+          "type": "BACKGROUND",
+          "headingKo": "원본 metadata가 없었다는 한계도 analysis 안에 공개돼 있다",
+          "headingEn": "AARO Explicitly Documents the Missing-Metadata Limitation",
+          "textKo": "AARO는 original file과 full metadata가 더 이상 available하지 않고 compressed public WMV를 분석했다고 기록한다. aircraft exact position/heading도 unknown이었다. 그래서 모든 possible heading을 계산해 range를 만든다. 이 transparency는 “perfect reconstruction”이 아니라 bounded conclusion이라는 점을 보여준다.",
+          "textEn": "AARO states that the original file and full metadata were unavailable and that analysis used the compressed public video. Exact aircraft position and heading were unknown, so the study modeled possible headings and reported bounded conclusions."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** GoFast는 authentic Navy footage다. AARO 2025 analysis는 object를 약 13,000 ft altitude, wind-corrected 약 5~92 mph 범위로 평가하고 high confidence로 anomalous speed가 없었다고 판단했다. apparent high speed는 motion parallax로 설명된다.\n\n**확인되지 않음:** object 자체의 exact identity는 확정되지 않았다. “외계기체” 또는 exotic propulsion evidence도 없다.",
+          "textEn": "**Established:** GoFast is authentic Navy footage. AARO’s 2025 analysis assessed roughly 13,000 feet altitude, about 5–92 mph wind-corrected speed, and high confidence that no anomalous speed occurred; motion parallax explains the apparent high speed.\n\n**Not established:** The exact object identity is not confirmed, and there is no evidence of extraterrestrial craft or exotic propulsion."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** GoFast is authentic Navy footage. AARO’s 2025 analysis assessed roughly 13,000 feet altitude, about 5–92 mph wind-corrected speed, and high confidence that no anomalous speed occurred; motion parallax explains the apparent high speed.\n\n**Not established:** The exact object identity is not confirmed, and there is no evidence of extraterrestrial craft or exotic propulsion.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "parallax",
+        "range",
+        "identity",
+        "data"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GOFAST-C1",
+      "status": "CONFIRMED",
+      "statementKo": "GoFast는 authentic 2015 Navy FLIR footage다.",
+      "statementEn": "GoFast is authentic 2015 Navy FLIR footage.",
+      "sourceRefs": [
+        "GOFAST_AARO2025",
+        "GOFAST_AARO_MEDIA"
+      ]
+    },
+    {
+      "claimId": "GOFAST-C2",
+      "status": "CONFIRMED",
+      "statementKo": "AARO는 object altitude를 약 13,000 ft로 평가했다.",
+      "statementEn": "AARO assessed the object altitude at roughly 13,000 feet.",
+      "sourceRefs": [
+        "GOFAST_AARO2025"
+      ]
+    },
+    {
+      "claimId": "GOFAST-C3",
+      "status": "CONFIRMED",
+      "statementKo": "AARO는 high confidence로 anomalous speed가 없고 apparent speed는 motion parallax라고 판단했다.",
+      "statementEn": "AARO assessed with high confidence that no anomalous speed occurred and attributed the apparent speed to motion parallax.",
+      "sourceRefs": [
+        "GOFAST_AARO2025"
+      ]
+    },
+    {
+      "claimId": "GOFAST-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "object exact identity는 확정되지 않았다.",
+      "statementEn": "The exact object identity remains unconfirmed.",
+      "sourceRefs": [
+        "GOFAST_AARO2025"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GOFAST_AARO2025",
+      "title": "AARO Go Fast Case Resolution",
+      "publisher": "All-domain Anomaly Resolution Office",
+      "url": "https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf",
+      "sourceType": "US_DOD_CASE_RESOLUTION"
+    },
+    {
+      "sourceId": "GOFAST_AARO_MEDIA",
+      "title": "Official UAP Imagery — Go Fast",
+      "publisher": "All-domain Anomaly Resolution Office",
+      "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+      "sourceType": "US_DOD_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gof-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "moving F/A-18 → line of sight → 13,000-ft object → motion-parallax apparent speed 구조.",
+      "captionEn": "Moving F/A-18 → line of sight → 13,000-ft object → motion-parallax apparent speed.",
+      "altKo": "moving F/A-18 → line of sight → 13,000-ft object → motion-parallax apparent speed 구조.",
+      "altEn": "Moving F/A-18 → line of sight → 13,000-ft object → motion-parallax apparent speed.",
+      "sourceRefs": [
+        "GOFAST_AARO2025",
+        "GOFAST_AARO_MEDIA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "gofast__v01__ko.png",
+          "sha256": "3a4ad86720b2e2769bf58f94648c14ceeed60bfeb512552f23f0cc63d622c4c4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "gofast__v01__en.png",
+          "sha256": "89e1df71775cd07c8469b2455707215def26ef5812916f16c43fb45aaaa04985",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "gof-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "authentic video / non-anomalous speed / unresolved identity를 분리.",
+      "captionEn": "Separate authentic video, non-anomalous speed, and unresolved identity.",
+      "altKo": "authentic video / non-anomalous speed / unresolved identity를 분리.",
+      "altEn": "Separate authentic video, non-anomalous speed, and unresolved identity.",
+      "sourceRefs": [
+        "GOFAST_AARO2025",
+        "GOFAST_AARO_MEDIA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "gofast__v02__ko.png",
+          "sha256": "111ed9174a2591384d99b033bc270a91c3716ab41c189ccb852db8ae42a7d9f7",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "gofast__v02__en.png",
+          "sha256": "34d026e3fbac1fae18bf2868c169f2ec4e1be2c2833288af03f41b9e3fb548e1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "UFO / UAP / Aerial Anomaly",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Eastern coast of Florida / Atlantic"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "U.S. Navy",
+      "AARO"
+    ],
+    "dateRange": {
+      "start": "2015-01",
+      "end": "2025-02-06",
+      "precision": "event through AARO resolution"
+    },
+    "era": "Contemporary UAP investigation",
+    "resolution": "VIDEO_AUTHENTIC_ANOMALOUS_SPEED_REFUTED_OBJECT_IDENTITY_UNRESOLVED",
+    "searchAliases": [
+      "GoFast UAP",
+      "Go Fast video"
+    ],
+    "relatedCases": [
+      "gimbal",
+      "aaro-modern-uap"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1535,
+    "enBodyWords": 250,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

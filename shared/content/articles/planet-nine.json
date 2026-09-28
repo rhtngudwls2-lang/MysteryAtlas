@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "planet-nine",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "플래닛 나인",
+    "canonicalTitleEn": "Planet Nine",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "궤도는 행성을 가리키는데 왜 망원경은 아직 못 봤나",
+      "hook": "Planet Nine은 직접 본 object가 아니라 gravity가 남긴 pattern에서 출발한 prediction이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "Planet Nine은 망원경으로 본 행성이 아니라 orbit pattern에서 나온 prediction이다",
+          "headingEn": "Planet Nine Is an Orbital Prediction, Not a Directly Imaged Planet",
+          "textKo": "2016년 Caltech의 Konstantin Batygin과 Mike Brown은 distant Kuiper Belt objects의 orbital clustering을 설명하기 위해 massive distant planet model을 제안했다. 출발점은 telescope image가 아니라 gravity가 남긴 dynamical pattern이었다. 즉 행성이 보였다는 주장이 아니라, 행성이 있으면 이 pattern을 설명할 수 있다는 예측이다. 이 차이를 놓치면 증거와 발견을 같은 단계로 오해하게 된다.",
+          "textEn": "In 2016 Caltech researchers Konstantin Batygin and Mike Brown proposed a massive distant planet to explain orbital clustering among distant Kuiper Belt objects. The hypothesis arose from gravitational dynamics, not from an image."
+        },
+        {
+          "blockId": "pattern-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "일부 distant objects가 우연보다 비슷한 orbital orientation을 보인다는 것이 핵심단서다",
+          "headingEn": "Unexpected Orbital Clustering Is the Core Clue",
+          "textKo": "몇몇 extreme trans-Neptunian objects는 perihelion direction과 orbital plane이 random distribution보다 clustered해 보였다. simulations에서는 distant massive planet이 이런 alignment와 additional high-inclination populations를 만들 수 있었다. 이건 model-consistent evidence이지 planet의 spectrum이나 direct image가 아니다. 따라서 관측된 pattern과 그것을 설명하는 model을 분리해서 읽어야 한다.",
+          "textEn": "Some extreme trans-Neptunian objects appear clustered in orbital orientation, and simulations show that a distant massive planet can produce such structure. This is model-consistent evidence, not direct detection."
+        },
+        {
+          "blockId": "bias-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "survey bias가 clustering을 얼마나 만들었는지는 가장 중요한 반론 중 하나다",
+          "headingEn": "Survey Bias Is One of the Most Important Counterarguments",
+          "textKo": "outer Solar System survey는 sky coverage, season, telescope depth가 균일하지 않다. 특정 방향과 brightness의 object가 더 쉽게 발견되면 실제 population보다 clustering이 강하게 보일 수 있다. 따라서 Planet Nine evidence는 discovery probability까지 포함해 statistical significance를 평가해야 한다. selection effect와 real gravitational signal을 구분하는 일이 hypothesis의 핵심검증이다.",
+          "textEn": "Outer-solar-system surveys have uneven sky coverage, seasons and depth. Some orbits are easier to detect than others, so clustering must be evaluated against selection effects."
+        },
+        {
+          "blockId": "search-04",
+          "type": "BACKGROUND",
+          "headingKo": "직접탐색이 어려운 이유는 predicted sky area와 brightness가 넓기 때문이다",
+          "headingEn": "Direct Search Is Difficult Because the Predicted Sky Area and Brightness Are Broad",
+          "textKo": "candidate planet이 매우 멀고 faint할 것으로 예상되기 때문에 orbital phase와 exact mass에 따라 apparent brightness와 sky position이 크게 달라진다. survey가 넓어질수록 allowed parameter space는 줄어들지만 미발견 자체가 즉시 부재를 증명하지는 않는다. 반대로 계속되는 non-detection도 information이므로 possible orbit와 brightness를 제한한다.",
+          "textEn": "A candidate planet would be very distant and faint, with brightness and sky position depending strongly on mass and orbital phase. Non-detection progressively constrains the allowed parameter space."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "현재 status는 검증 가능한 dynamical hypothesis이지 발견된 ninth planet이 아니다",
+          "headingEn": "The Current Status Is a Testable Dynamical Hypothesis, Not a Discovered Ninth Planet",
+          "textKo": "Planet Nine은 outer Solar System structure를 설명하는 compelling hypothesis로 남아 있지만 direct optical/infrared confirmation이 없다. 과학적으로는 이게 약점이면서 동시에 장점이다. predicted orbit와 brightness를 이용해 반증가능한 search를 계속할 수 있기 때문이다. evidence for a planet과 planet detected는 반드시 구분해야 한다.",
+          "textEn": "Planet Nine remains a compelling dynamical hypothesis, but there is no direct optical or infrared confirmation. Its predictions keep it testable and falsifiable."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: distant trans-Neptunian orbital patterns를 설명하는 Planet Nine dynamical model이 존재하고 simulations는 그런 planet이 일부 observed structure를 만들 수 있음을 보여준다.\n\n확인되지 않음: Planet Nine은 direct observation으로 발견되지 않았다. 정확한 mass·orbit·existence 자체는 아직 최종확정이 아니다.",
+          "textEn": "Established: A dynamical Planet Nine model exists to explain distant trans-Neptunian orbital patterns, and simulations show such a planet could generate some observed structure.\n\nNot established: Planet Nine has not been directly observed; its exact mass, orbit and existence remain unconfirmed."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "pattern-02",
+        "bias-03",
+        "search-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "The Orbits Point to a Planet—Why Has No Telescope Seen It Yet?",
+      "hook": "Planet Nine began as a prediction from gravitational patterns, not an observed object.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "Planet Nine은 망원경으로 본 행성이 아니라 orbit pattern에서 나온 prediction이다",
+          "headingEn": "Planet Nine Is an Orbital Prediction, Not a Directly Imaged Planet",
+          "textKo": "2016년 Caltech의 Konstantin Batygin과 Mike Brown은 distant Kuiper Belt objects의 orbital clustering을 설명하기 위해 massive distant planet model을 제안했다. 출발점은 telescope image가 아니라 gravity가 남긴 dynamical pattern이었다. 즉 행성이 보였다는 주장이 아니라, 행성이 있으면 이 pattern을 설명할 수 있다는 예측이다. 이 차이를 놓치면 증거와 발견을 같은 단계로 오해하게 된다.",
+          "textEn": "In 2016 Caltech researchers Konstantin Batygin and Mike Brown proposed a massive distant planet to explain orbital clustering among distant Kuiper Belt objects. The hypothesis arose from gravitational dynamics, not from an image."
+        },
+        {
+          "blockId": "pattern-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "일부 distant objects가 우연보다 비슷한 orbital orientation을 보인다는 것이 핵심단서다",
+          "headingEn": "Unexpected Orbital Clustering Is the Core Clue",
+          "textKo": "몇몇 extreme trans-Neptunian objects는 perihelion direction과 orbital plane이 random distribution보다 clustered해 보였다. simulations에서는 distant massive planet이 이런 alignment와 additional high-inclination populations를 만들 수 있었다. 이건 model-consistent evidence이지 planet의 spectrum이나 direct image가 아니다. 따라서 관측된 pattern과 그것을 설명하는 model을 분리해서 읽어야 한다.",
+          "textEn": "Some extreme trans-Neptunian objects appear clustered in orbital orientation, and simulations show that a distant massive planet can produce such structure. This is model-consistent evidence, not direct detection."
+        },
+        {
+          "blockId": "bias-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "survey bias가 clustering을 얼마나 만들었는지는 가장 중요한 반론 중 하나다",
+          "headingEn": "Survey Bias Is One of the Most Important Counterarguments",
+          "textKo": "outer Solar System survey는 sky coverage, season, telescope depth가 균일하지 않다. 특정 방향과 brightness의 object가 더 쉽게 발견되면 실제 population보다 clustering이 강하게 보일 수 있다. 따라서 Planet Nine evidence는 discovery probability까지 포함해 statistical significance를 평가해야 한다. selection effect와 real gravitational signal을 구분하는 일이 hypothesis의 핵심검증이다.",
+          "textEn": "Outer-solar-system surveys have uneven sky coverage, seasons and depth. Some orbits are easier to detect than others, so clustering must be evaluated against selection effects."
+        },
+        {
+          "blockId": "search-04",
+          "type": "BACKGROUND",
+          "headingKo": "직접탐색이 어려운 이유는 predicted sky area와 brightness가 넓기 때문이다",
+          "headingEn": "Direct Search Is Difficult Because the Predicted Sky Area and Brightness Are Broad",
+          "textKo": "candidate planet이 매우 멀고 faint할 것으로 예상되기 때문에 orbital phase와 exact mass에 따라 apparent brightness와 sky position이 크게 달라진다. survey가 넓어질수록 allowed parameter space는 줄어들지만 미발견 자체가 즉시 부재를 증명하지는 않는다. 반대로 계속되는 non-detection도 information이므로 possible orbit와 brightness를 제한한다.",
+          "textEn": "A candidate planet would be very distant and faint, with brightness and sky position depending strongly on mass and orbital phase. Non-detection progressively constrains the allowed parameter space."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "현재 status는 검증 가능한 dynamical hypothesis이지 발견된 ninth planet이 아니다",
+          "headingEn": "The Current Status Is a Testable Dynamical Hypothesis, Not a Discovered Ninth Planet",
+          "textKo": "Planet Nine은 outer Solar System structure를 설명하는 compelling hypothesis로 남아 있지만 direct optical/infrared confirmation이 없다. 과학적으로는 이게 약점이면서 동시에 장점이다. predicted orbit와 brightness를 이용해 반증가능한 search를 계속할 수 있기 때문이다. evidence for a planet과 planet detected는 반드시 구분해야 한다.",
+          "textEn": "Planet Nine remains a compelling dynamical hypothesis, but there is no direct optical or infrared confirmation. Its predictions keep it testable and falsifiable."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: distant trans-Neptunian orbital patterns를 설명하는 Planet Nine dynamical model이 존재하고 simulations는 그런 planet이 일부 observed structure를 만들 수 있음을 보여준다.\n\n확인되지 않음: Planet Nine은 direct observation으로 발견되지 않았다. 정확한 mass·orbit·existence 자체는 아직 최종확정이 아니다.",
+          "textEn": "Established: A dynamical Planet Nine model exists to explain distant trans-Neptunian orbital patterns, and simulations show such a planet could generate some observed structure.\n\nNot established: Planet Nine has not been directly observed; its exact mass, orbit and existence remain unconfirmed."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "pattern-02",
+        "bias-03",
+        "search-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "P9_CALTECH",
+      "title": "Caltech Researchers Find Evidence of a Real Ninth Planet",
+      "publisher": "Caltech",
+      "url": "https://www.caltech.edu/about/news/caltech-researchers-find-evidence-real-ninth-planet-49523",
+      "sourceType": "UNIVERSITY_RESEARCH_RELEASE"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "P9-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2016 Caltech model은 orbital clustering을 설명하기 위해 Planet Nine을 제안했다.",
+      "statementEn": "The 2016 Caltech model proposed Planet Nine to explain orbital clustering.",
+      "sourceRefs": [
+        "P9_CALTECH"
+      ]
+    },
+    {
+      "claimId": "P9-C2",
+      "status": "SUPPORTED",
+      "statementKo": "simulation은 distant massive planet이 clustering을 만들 수 있음을 보여준다.",
+      "statementEn": "Simulations show a distant massive planet could produce the clustering.",
+      "sourceRefs": [
+        "P9_CALTECH"
+      ]
+    },
+    {
+      "claimId": "P9-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Planet Nine은 direct observation으로 확인되지 않았다.",
+      "statementEn": "Planet Nine has not been directly observed.",
+      "sourceRefs": [
+        "P9_CALTECH"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "p9-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "orbital clustering → gravitational model → predicted planet → telescope search.",
+      "captionEn": "Orbital clustering → gravitational model → predicted planet → telescope search.",
+      "altKo": "orbital clustering → gravitational model → predicted planet → telescope search.",
+      "altEn": "Orbital clustering → gravitational model → predicted planet → telescope search.",
+      "sourceRefs": [
+        "P9_CALTECH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "planet-nine__v01__ko.png",
+          "sha256": "a421e749c4a97a90e8c93b64db4faa5c80ca2dd1b04ff72710e9306ec68e2b55",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "planet-nine__v01__en.png",
+          "sha256": "b56aa867f781eb8301f7e1d066b742871fae5a02f74b238a1ea69682e1928876",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "p9-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "dynamical evidence / model prediction / direct detection 부재.",
+      "captionEn": "Dynamical evidence / model prediction / lack of direct detection.",
+      "altKo": "dynamical evidence / model prediction / direct detection 부재.",
+      "altEn": "Dynamical evidence / model prediction / lack of direct detection.",
+      "sourceRefs": [
+        "P9_CALTECH"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "planet-nine__v02__ko.png",
+          "sha256": "cfe0d1b5670374dbacc4f042a1389ad596248208ea0845ad2e199fe9526ecd10",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "planet-nine__v02__en.png",
+          "sha256": "3ec8ad05bda7d5d9faaeed01860a9c8225df266168956c883cb8f7769c3b2adc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "regions": [
+      "Outer Solar System"
+    ],
+    "resolution": "DYNAMICAL_HYPOTHESIS_ACTIVE_DIRECT_DETECTION_ABSENT"
+  },
+  "quality": {
+    "koBodyChars": 1701,
+    "enBodyWords": 178,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

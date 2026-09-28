@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "devils-kettle",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "데블스 케틀",
+    "canonicalTitleEn": "Devil’s Kettle",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "폭포 구멍으로 사라진 물은 결국 어디로 갔나",
+      "hook": "오래된 “사라지는 강” 미스터리는 dye보다 단순한 유량측정으로 핵심이 풀렸다. 위와 아래의 물 양이 사실상 같았다.",
+      "blocks": [
+        {
+          "blockId": "b01",
+          "type": "SCENE",
+          "headingKo": "폭포 절반이 구멍으로 사라져 수십 년 동안 “어디로 가나”가 미스터리였다",
+          "headingEn": "Half the Waterfall Vanished Into a Hole, Creating a Decades-Long Mystery",
+          "textKo": "Minnesota의 Brule River는 Devil’s Kettle Falls 위에서 두 갈래로 나뉜다. east branch는 정상적인 waterfall로 떨어지지만 west branch는 rhyolite rock의 깊은 pothole로 사라진다. 오랫동안 사람들은 이 물이 Lake Superior의 다른 곳으로 빠지는지, underground cave로 가는지 추측했다. visual impression이 너무 강해 local legend가 되었지만, 핵심 question은 실제 water balance를 측정하면 검증가능한 문제였다.",
+          "textEn": "At Devil’s Kettle Falls, half of Minnesota’s Brule River appears to vanish into a pothole in rhyolite, inspiring decades of speculation about underground routes."
+        },
+        {
+          "blockId": "b02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2016년 DNR hydrologists는 위·아래 유량을 직접 측정했다",
+          "headingEn": "DNR Hydrologists Measured Flow Above and Below the Falls",
+          "textKo": "Minnesota DNR는 2016년 late fall에 waterfall upstream flow를 123 cubic feet per second, downstream flow를 121 cubic feet per second로 측정했다. stream-gauging equipment tolerance 안에서 두 수치는 essentially same으로 판단됐다. 즉 kettle로 들어간 물이 system 밖으로 사라진다면 나타나야 할 significant flow loss가 관측되지 않았다.",
+          "textEn": "In 2016 Minnesota DNR hydrologists measured 123 cubic feet per second above the falls and 121 below—essentially the same within instrument tolerances."
+        },
+        {
+          "blockId": "b03",
+          "type": "TURNING_POINT",
+          "headingKo": "결론은 물이 멀리 사라지는 게 아니라 바로 하류로 다시 합류한다는 것이다",
+          "headingEn": "The Water Rejoins the River Nearby Rather Than Escaping the Watershed",
+          "textKo": "DNR는 measurement를 근거로 water가 kettle 아래 river에 resurging한다고 결론냈다. 이는 huge subterranean tunnel to Lake Superior 같은 popular theory를 약화한다. 정확한 micro-path through rock fractures와 plunge pool 내부 flow pattern이 시각적으로 보이지 않아도 mass balance는 어디로 갔는지에 강한 constraint를 준다.",
+          "textEn": "DNR concluded that the water resurges in the river below the kettle, undermining ideas of a huge subterranean diversion to Lake Superior."
+        },
+        {
+          "blockId": "b04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "왜 던진 물건이 다시 보이지 않았는지도 fluid dynamics로 설명가능하다",
+          "headingEn": "Why Thrown Objects Did Not Reappear Is Also Compatible With Fluid Dynamics",
+          "textKo": "사람들은 sticks, ping-pong balls, dyes 같은 것을 kettle에 넣고 downstream에서 못 찾았다는 이야기를 evidence로 사용해왔다. 하지만 DNR와 University of Minnesota 설명은 violent recirculating plunge pool이 debris를 파쇄하거나 오래 붙잡을 수 있다고 본다. visible object tracing failure는 water-volume loss와 같은 측정이 아니다.",
+          "textEn": "Stories about thrown objects failing to reappear do not measure water volume. Powerful recirculating currents can break up or retain debris even while the water itself rejoins downstream."
+        },
+        {
+          "blockId": "b05",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 “미스터리를 푼다”는 것이 무엇인지 보여주는 좋은 사례다",
+          "headingEn": "The Case Is a Good Example of What It Means to Solve a Natural Mystery",
+          "textKo": "모든 crack와 flow line을 직접 mapping하지 않아도 upstream/downstream mass balance가 핵심 hypothesis를 강하게 판별할 수 있다. Devil’s Kettle는 dramatic appearance 때문에 미스터리로 남았지만, simple hydrology measurement가 centuries of speculation보다 더 직접적인 답을 줬다. 남아 있는 세부 geology와 main question의 해결을 분리해야 한다.",
+          "textEn": "A full map of every crack is not required to answer the main question. Mass balance can discriminate between competing explanations even when the flow path itself is invisible."
+        },
+        {
+          "blockId": "b06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Minnesota DNR의 upstream/downstream flow measurement는 Devil’s Kettle로 들어간 water가 river system에서 사라지지 않고 하류로 다시 합류함을 지지한다.\n\n확인되지 않음: kettle 내부의 모든 세부 fracture와 instantaneous flow path가 직접 mapping된 것은 아니다. 그러나 멀리 다른 basin으로 대량 유출된다는 popular theory는 유량자료와 맞지 않는다.",
+          "textEn": "Established: Minnesota DNR flow measurements support that water entering Devil’s Kettle remains in the river system and rejoins downstream.\n\nNot established: Every internal fracture and instantaneous flow path has not been directly mapped, but large diversion to another basin is inconsistent with the measured flow balance."
+        }
+      ],
+      "audioNarrationOrder": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ]
+    },
+    "en": {
+      "headline": "Where Does the Water That Vanishes Into Devil’s Kettle Actually Go?",
+      "hook": "The disappearing-water mystery was largely solved by a simple mass-balance measurement: flow above and below the falls was essentially the same.",
+      "blocks": [
+        {
+          "blockId": "b01",
+          "type": "SCENE",
+          "headingKo": "폭포 절반이 구멍으로 사라져 수십 년 동안 “어디로 가나”가 미스터리였다",
+          "headingEn": "Half the Waterfall Vanished Into a Hole, Creating a Decades-Long Mystery",
+          "textKo": "Minnesota의 Brule River는 Devil’s Kettle Falls 위에서 두 갈래로 나뉜다. east branch는 정상적인 waterfall로 떨어지지만 west branch는 rhyolite rock의 깊은 pothole로 사라진다. 오랫동안 사람들은 이 물이 Lake Superior의 다른 곳으로 빠지는지, underground cave로 가는지 추측했다. visual impression이 너무 강해 local legend가 되었지만, 핵심 question은 실제 water balance를 측정하면 검증가능한 문제였다.",
+          "textEn": "At Devil’s Kettle Falls, half of Minnesota’s Brule River appears to vanish into a pothole in rhyolite, inspiring decades of speculation about underground routes."
+        },
+        {
+          "blockId": "b02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2016년 DNR hydrologists는 위·아래 유량을 직접 측정했다",
+          "headingEn": "DNR Hydrologists Measured Flow Above and Below the Falls",
+          "textKo": "Minnesota DNR는 2016년 late fall에 waterfall upstream flow를 123 cubic feet per second, downstream flow를 121 cubic feet per second로 측정했다. stream-gauging equipment tolerance 안에서 두 수치는 essentially same으로 판단됐다. 즉 kettle로 들어간 물이 system 밖으로 사라진다면 나타나야 할 significant flow loss가 관측되지 않았다.",
+          "textEn": "In 2016 Minnesota DNR hydrologists measured 123 cubic feet per second above the falls and 121 below—essentially the same within instrument tolerances."
+        },
+        {
+          "blockId": "b03",
+          "type": "TURNING_POINT",
+          "headingKo": "결론은 물이 멀리 사라지는 게 아니라 바로 하류로 다시 합류한다는 것이다",
+          "headingEn": "The Water Rejoins the River Nearby Rather Than Escaping the Watershed",
+          "textKo": "DNR는 measurement를 근거로 water가 kettle 아래 river에 resurging한다고 결론냈다. 이는 huge subterranean tunnel to Lake Superior 같은 popular theory를 약화한다. 정확한 micro-path through rock fractures와 plunge pool 내부 flow pattern이 시각적으로 보이지 않아도 mass balance는 어디로 갔는지에 강한 constraint를 준다.",
+          "textEn": "DNR concluded that the water resurges in the river below the kettle, undermining ideas of a huge subterranean diversion to Lake Superior."
+        },
+        {
+          "blockId": "b04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "왜 던진 물건이 다시 보이지 않았는지도 fluid dynamics로 설명가능하다",
+          "headingEn": "Why Thrown Objects Did Not Reappear Is Also Compatible With Fluid Dynamics",
+          "textKo": "사람들은 sticks, ping-pong balls, dyes 같은 것을 kettle에 넣고 downstream에서 못 찾았다는 이야기를 evidence로 사용해왔다. 하지만 DNR와 University of Minnesota 설명은 violent recirculating plunge pool이 debris를 파쇄하거나 오래 붙잡을 수 있다고 본다. visible object tracing failure는 water-volume loss와 같은 측정이 아니다.",
+          "textEn": "Stories about thrown objects failing to reappear do not measure water volume. Powerful recirculating currents can break up or retain debris even while the water itself rejoins downstream."
+        },
+        {
+          "blockId": "b05",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 “미스터리를 푼다”는 것이 무엇인지 보여주는 좋은 사례다",
+          "headingEn": "The Case Is a Good Example of What It Means to Solve a Natural Mystery",
+          "textKo": "모든 crack와 flow line을 직접 mapping하지 않아도 upstream/downstream mass balance가 핵심 hypothesis를 강하게 판별할 수 있다. Devil’s Kettle는 dramatic appearance 때문에 미스터리로 남았지만, simple hydrology measurement가 centuries of speculation보다 더 직접적인 답을 줬다. 남아 있는 세부 geology와 main question의 해결을 분리해야 한다.",
+          "textEn": "A full map of every crack is not required to answer the main question. Mass balance can discriminate between competing explanations even when the flow path itself is invisible."
+        },
+        {
+          "blockId": "b06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Minnesota DNR의 upstream/downstream flow measurement는 Devil’s Kettle로 들어간 water가 river system에서 사라지지 않고 하류로 다시 합류함을 지지한다.\n\n확인되지 않음: kettle 내부의 모든 세부 fracture와 instantaneous flow path가 직접 mapping된 것은 아니다. 그러나 멀리 다른 basin으로 대량 유출된다는 popular theory는 유량자료와 맞지 않는다.",
+          "textEn": "Established: Minnesota DNR flow measurements support that water entering Devil’s Kettle remains in the river system and rejoins downstream.\n\nNot established: Every internal fracture and instantaneous flow path has not been directly mapped, but large diversion to another basin is inconsistent with the measured flow balance."
+        }
+      ],
+      "audioNarrationOrder": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "DK_DNR",
+      "title": "Scientists Solve Geological Puzzle",
+      "publisher": "Minnesota Department of Natural Resources",
+      "url": "https://www.dnr.state.mn.us/mcvmagazine/issues/2017/mar-apr/devils-kettle-mystery.html",
+      "sourceType": "STATE_GOVERNMENT_SCIENCE"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "DK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2016 measurement는 upstream 123 cfs, downstream 121 cfs로 essentially same이었다.",
+      "statementEn": "The 2016 measurements were 123 cfs upstream and 121 cfs downstream, essentially the same within tolerance.",
+      "sourceRefs": [
+        "DK_DNR"
+      ]
+    },
+    {
+      "claimId": "DK-C2",
+      "status": "CONFIRMED",
+      "statementKo": "DNR는 water가 downstream river로 재합류한다고 결론냈다.",
+      "statementEn": "DNR concluded the water resurges in the river downstream.",
+      "sourceRefs": [
+        "DK_DNR"
+      ]
+    },
+    {
+      "claimId": "DK-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "kettle 내부 every micro-flow path가 직접 mapping된 것은 아니다.",
+      "statementEn": "Every internal micro-flow path has not been directly mapped.",
+      "sourceRefs": [
+        "DK_DNR"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dk-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Brule River split → kettle plunge → hidden short pathway → downstream rejoin.",
+      "captionEn": "Brule River split → kettle plunge → hidden short pathway → downstream rejoin.",
+      "altKo": "Brule River split → kettle plunge → hidden short pathway → downstream rejoin.",
+      "altEn": "Brule River split → kettle plunge → hidden short pathway → downstream rejoin.",
+      "sourceRefs": [
+        "DK_DNR"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "devils-kettle__v01__ko.png",
+          "sha256": "a8fa0de7fe2dfd2372f5314f68441c817184fefea1d5caedd5d6962357e48964",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "devils-kettle__v01__en.png",
+          "sha256": "52c2d5f081c2a9637416832b82630e86a8e9f8226281a09c8f1d8383e0532b01",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dk-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "유량 balance와 “지하로 사라진다” 전설을 비교.",
+      "captionEn": "Compare measured flow balance with the disappearing-underground legend.",
+      "altKo": "유량 balance와 “지하로 사라진다” 전설을 비교.",
+      "altEn": "Compare measured flow balance with the disappearing-underground legend.",
+      "sourceRefs": [
+        "DK_DNR"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "devils-kettle__v02__ko.png",
+          "sha256": "ef7ffe448bdf95219d1404e1b5b0ad77f67c637d75d35de35936120c18b6b1ee",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "devils-kettle__v02__en.png",
+          "sha256": "baa979c36b1c76bb34ba4c171decd62c598947b739fca8692ae65f85652dd6f1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Minnesota"
+    ],
+    "resolution": "MAIN_WATER_DESTINATION_SOLVED_INTERNAL_FLOW_PATH_PARTLY_UNMAPPED"
+  },
+  "quality": {
+    "koBodyChars": 1636,
+    "enBodyWords": 172,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH29",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH29_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "at2018cow",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "AT2018cow ‘더 카우’",
+    "canonicalTitleEn": "AT2018cow / The Cow",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "며칠 만에 폭발적으로 밝아진 파란 천체의 중심에는 무엇이 있었나",
+      "hook": "The Cow는 너무 빠르고 밝아 ordinary supernova 설명을 흔들었다. 관측은 central engine을 가리켰지만 그 engine이 어떻게 만들어졌는지는 아직 model 경쟁이 남아 있다.",
+      "blocks": [
+        {
+          "blockId": "b01",
+          "type": "SCENE",
+          "headingKo": "2018년 어느 천체가 며칠 만에 일반 초신성보다 훨씬 빠르게 밝아졌다",
+          "headingEn": "In 2018 a Cosmic Transient Brightened Far Faster Than a Typical Supernova",
+          "textKo": "AT2018cow는 2018년 6월 16일 발견된 fast blue optical transient다. NASA/JPL은 이 event가 약 3일 만에 sudden explosion of light를 만들었고 typical supernova보다 최소 10배 밝아졌다고 설명한다. host galaxy는 약 2억 광년 거리 CGCG 137-068이다. unusual rise time과 extreme brightness가 처음부터 standard supernova model을 어렵게 만들었다.",
+          "textEn": "AT2018cow was discovered on June 16, 2018. NASA/JPL reports that it brightened dramatically within about three days, reaching at least ten times the brightness of a typical supernova."
+        },
+        {
+          "blockId": "b02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "X-ray·UV·optical·radio 관측이 빠르게 모였지만 하나의 model로 즉시 수렴하지 않았다",
+          "headingEn": "Multiwavelength Data Arrived Quickly but Did Not Immediately Converge on One Model",
+          "textKo": "Swift, NuSTAR, ground-based optical and radio observatories가 event를 추적했고, unusual X-ray behavior와 rapidly evolving spectrum이 확인됐다. 이런 multiwavelength record는 ordinary supernova보다 compact central engine이 중요한 역할을 했을 가능성을 높였다. 하지만 같은 data를 설명하기 위해 white-dwarf tidal disruption과 engine-driven stellar explosion 등 서로 다른 model이 제안됐다.",
+          "textEn": "Swift, NuSTAR and ground-based observatories captured unusual X-ray, optical and radio behavior, pointing toward a powerful central engine but allowing multiple models."
+        },
+        {
+          "blockId": "b03",
+          "type": "HYPOTHESIS",
+          "headingKo": "두 대표가설은 black-hole disruption과 newborn compact object였다",
+          "headingEn": "Two Leading Ideas Involved a Black-Hole Disruption or a Newborn Compact Object",
+          "textKo": "2019 NASA/JPL summary는 one team이 intermediate-mass black hole이 white dwarf를 shred한 tidal-disruption event를, another team이 supernova가 black hole 또는 neutron star를 만든 scenario를 제시했다고 설명한다. 둘 다 compact-object energy source를 사용하지만 progenitor와 sequence가 완전히 다르다. early data는 “무언가 강력한 engine이 있다”에는 수렴했어도 exact origin에는 수렴하지 않았다.",
+          "textEn": "A 2019 NASA/JPL summary described one model involving a black hole shredding a white dwarf and another involving a supernova that produced a black hole or neutron star."
+        },
+        {
+          "blockId": "b04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“The Cow의 정체가 밝혀졌다”는 headline은 연구시점에 따라 달라질 수 있다",
+          "headingEn": "Claims That the Cow Is Solved Depend on Which Dataset and Model Are Being Discussed",
+          "textKo": "follow-up studies는 central compact object evidence를 강화했지만, astronomical transient classification은 new data와 model comparison에 따라 업데이트된다. 한 paper가 specific model을 선호해도 source physics 전체가 unique하게 결정됐다는 뜻은 아니다. 특히 direct image of a neutron star or black hole이 아니라 emission signatures에서 inference하는 경우 evidence boundary가 중요하다.",
+          "textEn": "Later studies strengthened compact-engine interpretations, but the source is inferred from emission signatures rather than directly imaged. A favored model is not the same as a uniquely established origin."
+        },
+        {
+          "blockId": "b05",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 새로운 transient class를 인식하게 만든 전환점이 됐다",
+          "headingEn": "The Cow Helped Define a New Class of Fast Blue Optical Transients",
+          "textKo": "AT2018cow 이후 유사한 rapidly evolving luminous transients가 더 주목받으며 FBOT/LFBOT 연구가 확장됐다. 즉 Cow의 value는 one-off mystery를 해결하는 데만 있지 않고, 기존 supernova taxonomy로 잘 맞지 않는 population을 발견하게 한 데 있다. “정체불명 폭발”이 새로운 observational category로 바뀐 셈이다.",
+          "textEn": "AT2018cow helped focus attention on a broader class of fast blue optical transients, turning a one-off mystery into a new population for systematic study."
+        },
+        {
+          "blockId": "b06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: AT2018cow는 2018년 발견된 extraordinarily fast, bright transient이며 multiwavelength data는 powerful compact central engine이 중요했음을 강하게 시사한다.\n\n확인되지 않음: exact progenitor와 event mechanism이 하나의 model로 최종확정된 것은 아니다.",
+          "textEn": "Established: AT2018cow was an extraordinarily fast and bright 2018 transient, and multiwavelength data strongly point to a powerful compact central engine.\n\nNot established: The exact progenitor and event mechanism are not uniquely settled by one final model."
+        }
+      ],
+      "audioNarrationOrder": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ]
+    },
+    "en": {
+      "headline": "What Powered the Blue Transient That Brightened Explosively in Just Days?",
+      "hook": "The Cow was too fast and bright for a simple ordinary-supernova story. Observations point toward a central engine, while its exact origin remains model-dependent.",
+      "blocks": [
+        {
+          "blockId": "b01",
+          "type": "SCENE",
+          "headingKo": "2018년 어느 천체가 며칠 만에 일반 초신성보다 훨씬 빠르게 밝아졌다",
+          "headingEn": "In 2018 a Cosmic Transient Brightened Far Faster Than a Typical Supernova",
+          "textKo": "AT2018cow는 2018년 6월 16일 발견된 fast blue optical transient다. NASA/JPL은 이 event가 약 3일 만에 sudden explosion of light를 만들었고 typical supernova보다 최소 10배 밝아졌다고 설명한다. host galaxy는 약 2억 광년 거리 CGCG 137-068이다. unusual rise time과 extreme brightness가 처음부터 standard supernova model을 어렵게 만들었다.",
+          "textEn": "AT2018cow was discovered on June 16, 2018. NASA/JPL reports that it brightened dramatically within about three days, reaching at least ten times the brightness of a typical supernova."
+        },
+        {
+          "blockId": "b02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "X-ray·UV·optical·radio 관측이 빠르게 모였지만 하나의 model로 즉시 수렴하지 않았다",
+          "headingEn": "Multiwavelength Data Arrived Quickly but Did Not Immediately Converge on One Model",
+          "textKo": "Swift, NuSTAR, ground-based optical and radio observatories가 event를 추적했고, unusual X-ray behavior와 rapidly evolving spectrum이 확인됐다. 이런 multiwavelength record는 ordinary supernova보다 compact central engine이 중요한 역할을 했을 가능성을 높였다. 하지만 같은 data를 설명하기 위해 white-dwarf tidal disruption과 engine-driven stellar explosion 등 서로 다른 model이 제안됐다.",
+          "textEn": "Swift, NuSTAR and ground-based observatories captured unusual X-ray, optical and radio behavior, pointing toward a powerful central engine but allowing multiple models."
+        },
+        {
+          "blockId": "b03",
+          "type": "HYPOTHESIS",
+          "headingKo": "두 대표가설은 black-hole disruption과 newborn compact object였다",
+          "headingEn": "Two Leading Ideas Involved a Black-Hole Disruption or a Newborn Compact Object",
+          "textKo": "2019 NASA/JPL summary는 one team이 intermediate-mass black hole이 white dwarf를 shred한 tidal-disruption event를, another team이 supernova가 black hole 또는 neutron star를 만든 scenario를 제시했다고 설명한다. 둘 다 compact-object energy source를 사용하지만 progenitor와 sequence가 완전히 다르다. early data는 “무언가 강력한 engine이 있다”에는 수렴했어도 exact origin에는 수렴하지 않았다.",
+          "textEn": "A 2019 NASA/JPL summary described one model involving a black hole shredding a white dwarf and another involving a supernova that produced a black hole or neutron star."
+        },
+        {
+          "blockId": "b04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“The Cow의 정체가 밝혀졌다”는 headline은 연구시점에 따라 달라질 수 있다",
+          "headingEn": "Claims That the Cow Is Solved Depend on Which Dataset and Model Are Being Discussed",
+          "textKo": "follow-up studies는 central compact object evidence를 강화했지만, astronomical transient classification은 new data와 model comparison에 따라 업데이트된다. 한 paper가 specific model을 선호해도 source physics 전체가 unique하게 결정됐다는 뜻은 아니다. 특히 direct image of a neutron star or black hole이 아니라 emission signatures에서 inference하는 경우 evidence boundary가 중요하다.",
+          "textEn": "Later studies strengthened compact-engine interpretations, but the source is inferred from emission signatures rather than directly imaged. A favored model is not the same as a uniquely established origin."
+        },
+        {
+          "blockId": "b05",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 새로운 transient class를 인식하게 만든 전환점이 됐다",
+          "headingEn": "The Cow Helped Define a New Class of Fast Blue Optical Transients",
+          "textKo": "AT2018cow 이후 유사한 rapidly evolving luminous transients가 더 주목받으며 FBOT/LFBOT 연구가 확장됐다. 즉 Cow의 value는 one-off mystery를 해결하는 데만 있지 않고, 기존 supernova taxonomy로 잘 맞지 않는 population을 발견하게 한 데 있다. “정체불명 폭발”이 새로운 observational category로 바뀐 셈이다.",
+          "textEn": "AT2018cow helped focus attention on a broader class of fast blue optical transients, turning a one-off mystery into a new population for systematic study."
+        },
+        {
+          "blockId": "b06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: AT2018cow는 2018년 발견된 extraordinarily fast, bright transient이며 multiwavelength data는 powerful compact central engine이 중요했음을 강하게 시사한다.\n\n확인되지 않음: exact progenitor와 event mechanism이 하나의 model로 최종확정된 것은 아니다.",
+          "textEn": "Established: AT2018cow was an extraordinarily fast and bright 2018 transient, and multiwavelength data strongly point to a powerful compact central engine.\n\nNot established: The exact progenitor and event mechanism are not uniquely settled by one final model."
+        }
+      ],
+      "audioNarrationOrder": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "COW_JPL",
+      "title": "Holy Cow! Mysterious Blast Studied with NASA Telescopes",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/holy-cow-mysterious-blast-studied-with-nasa-telescopes/",
+      "sourceType": "NASA_JPL_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "COW-C1",
+      "status": "CONFIRMED",
+      "statementKo": "AT2018cow는 약 3일 만에 급격히 밝아지고 typical supernova보다 훨씬 밝았다.",
+      "statementEn": "AT2018cow brightened dramatically within about three days and was far brighter than a typical supernova.",
+      "sourceRefs": [
+        "COW_JPL"
+      ]
+    },
+    {
+      "claimId": "COW-C2",
+      "status": "CONFIRMED",
+      "statementKo": "NASA follow-up은 여러 compact-object origin models를 비교했다.",
+      "statementEn": "NASA follow-up compared multiple compact-object origin models.",
+      "sourceRefs": [
+        "COW_JPL"
+      ]
+    },
+    {
+      "claimId": "COW-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact progenitor와 mechanism은 하나로 최종확정되지 않았다.",
+      "statementEn": "The exact progenitor and mechanism are not uniquely settled.",
+      "sourceRefs": [
+        "COW_JPL"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cow-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "discovery → 3-day rapid rise → multiwavelength follow-up → compact-engine models.",
+      "captionEn": "Discovery → 3-day rapid rise → multiwavelength follow-up → compact-engine models.",
+      "altKo": "discovery → 3-day rapid rise → multiwavelength follow-up → compact-engine models.",
+      "altEn": "Discovery → 3-day rapid rise → multiwavelength follow-up → compact-engine models.",
+      "sourceRefs": [
+        "COW_JPL"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "at2018cow__v01__ko.png",
+          "sha256": "8b8213c368029128bb8f9d95660136bd45de51cf262f21f17b271e2c7a53ca65",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "at2018cow__v01__en.png",
+          "sha256": "56d8eddd7f61a8faf56bd8a8bf64be6bb253bfc92e3e7667e680a443522bf34a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cow-v02",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "white-dwarf disruption vs engine-driven stellar explosion 비교.",
+      "captionEn": "Compare white-dwarf disruption and engine-driven stellar-explosion models.",
+      "altKo": "white-dwarf disruption vs engine-driven stellar explosion 비교.",
+      "altEn": "Compare white-dwarf disruption and engine-driven stellar-explosion models.",
+      "sourceRefs": [
+        "COW_JPL"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "at2018cow__v02__ko.png",
+          "sha256": "15b3eac9cd24841d5a727ae5471e97f465fe387841a7307b1dcc30b0696dd17f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "at2018cow__v02__en.png",
+          "sha256": "4523ff1181fd68411d7a5e85e16c51a59e4336d2b4e437eb149dfc837afe579d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "regions": [
+      "CGCG 137-068 / Hercules"
+    ],
+    "resolution": "FAST_BLUE_TRANSIENT_CONFIRMED_COMPACT_ENGINE_FAVORED_EXACT_ORIGIN_OPEN"
+  },
+  "quality": {
+    "koBodyChars": 1691,
+    "enBodyWords": 170,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH29",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH29_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

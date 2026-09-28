@@ -1,0 +1,313 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "tunguska",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "퉁구스카 대폭발",
+    "canonicalTitleEn": "Tunguska Event",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "거대한 crater가 없는데도 왜 과학자들은 우주물체 폭발이라고 보나",
+      "hook": "Tunguska의 crater 부재는 cosmic explanation의 약점이 아니라 airburst model의 핵심특징이다. 남은 문제는 어떤 object가 어떤 trajectory로 몇 km 상공에서 폭발했는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1908년 시베리아 상공 폭발은 거대한 숲을 눕혔지만 impact crater를 남기지 않았다",
+          "headingEn": "The 1908 Siberian Explosion Flattened a Vast Forest Without Leaving a Classic Impact Crater",
+          "textKo": "1908년 6월 30일 Tunguska 지역에서 fireball과 강한 flash, thunder-like noise가 보고됐고 이후 조사에서 광범위한 forest가 방사형으로 쓰러진 것이 확인됐다. NASA는 asteroid 또는 comet-like cosmic body가 지상에 충돌하기보다 수 km 상공에서 airburst한 것으로 설명한다. 그래서 crater가 없는 것이 mystery의 핵심이 아니라 airburst model과 잘 맞는 특징이다. 당시 remote location 때문에 immediate scientific expedition이 늦어진 것이 후대 전설을 키웠다.",
+          "textEn": "On June 30, 1908, witnesses in Siberia reported a fireball, intense flash, and thunder-like noise. Later surveys found a vast radial pattern of flattened forest. NASA explains the event as an atmospheric airburst of a cosmic body rather than a classic ground impact."
+        },
+        {
+          "blockId": "trees-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "tree-fall pattern과 shock effects는 explosion이 ground 위에서 일어났음을 지지한다",
+          "headingEn": "Tree-Fall Patterns and Shock Effects Support an Explosion Above the Ground",
+          "textKo": "later expeditions은 epicentral region 주변의 tree-fall orientation과 central standing-but-stripped trees를 기록했다. 이런 pattern은 powerful atmospheric blast가 지표를 향해 내려친 geometry와 양립한다. seismic waves와 long-distance atmospheric effects도 large explosion을 지지한다. exact yield estimate는 model마다 달라지지만 event가 ordinary forest fire나 local explosion 수준이 아니었다는 점은 명확하다.",
+          "textEn": "Later expeditions documented radial tree fall and central trees left standing but stripped, a pattern compatible with a powerful atmospheric blast. Seismic and distant atmospheric effects also support a very large explosion."
+        },
+        {
+          "blockId": "object-03",
+          "type": "BACKGROUND",
+          "headingKo": "asteroid와 comet composition은 오랫동안 논쟁됐지만 ‘cosmic airburst’ framework는 강하다",
+          "headingEn": "Asteroid Versus Comet Composition Has Been Debated, but the Cosmic-Airburst Framework Is Strong",
+          "textKo": "Tunguska object의 exact composition은 recovered large fragment가 없기 때문에 논쟁이 이어졌다. entry angle, size, density, fragmentation assumptions에 따라 asteroid 또는 comet-like body model이 달라질 수 있다. 최근 modeling은 stony asteroid airburst를 흔히 선호하지만, 이건 exact original object를 직접 회수해 분석한 결과가 아니다. ‘우주물체 airburst’와 ‘정확히 어떤 종류의 우주물체였나’를 구분해야 한다.",
+          "textEn": "Because no large intact fragment was recovered, the exact composition of the Tunguska body remains debated. Models vary with entry angle, size, density, and fragmentation assumptions. The cosmic-airburst framework is stronger than any single precise composition claim."
+        },
+        {
+          "blockId": "myths-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "alien craft·antimatter·Tesla 같은 후대설은 physical evidence보다 훨씬 멀리 나간다",
+          "headingEn": "Alien Craft, Antimatter, and Tesla Theories Go Far Beyond the Physical Evidence",
+          "textKo": "crater가 없고 object fragment가 희박하다는 점 때문에 alien spacecraft, black hole, antimatter, Nikola Tesla experiment 같은 extraordinary theories가 반복됐다. 하지만 airburst physics는 crater absence와 forest damage를 동시에 설명할 수 있고 eyewitness fireball·shock reports와도 양립한다. 미확정인 세부가 있다고 already-supported mechanism을 버리고 더 복잡한 explanation을 선택할 이유는 생기지 않는다.",
+          "textEn": "The lack of a crater and scarcity of obvious large fragments inspired alien, antimatter, black-hole, and Tesla theories. Atmospheric airburst physics already explains the main features without requiring those extraordinary mechanisms."
+        },
+        {
+          "blockId": "planetary-05",
+          "type": "AFTERMATH",
+          "headingKo": "Tunguska는 현대 planetary defense가 다루는 ‘충돌 전 폭발’ 위험의 대표사례가 됐다",
+          "headingEn": "Tunguska Became a Reference Case for Modern Planetary-Defense Airburst Risk",
+          "textKo": "Tunguska 규모의 object는 지표에 crater를 만들지 않아도 atmosphere에서 폭발해 넓은 지역에 destructive shock wave와 thermal radiation을 줄 수 있다. NASA가 Tunguska를 planetary-defense history에서 반복적으로 다루는 이유다. 사건의 과학적 가치는 1908 mystery를 푸는 데 그치지 않고, future near-Earth-object hazard에서 size·altitude·entry angle이 피해를 어떻게 바꾸는지 이해하는 데 있다.",
+          "textEn": "A Tunguska-scale object can cause severe regional damage through an atmospheric explosion without forming a crater. NASA treats the event as an important planetary-defense analogue for understanding how size, altitude, and entry angle control damage."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1908 Tunguska event는 massive atmospheric explosion이었고 forest-damage pattern, witness reports, seismic/atmospheric effects는 cosmic-body airburst explanation과 강하게 맞는다.\n\n확인되지 않음: impactor의 exact composition, size, entry trajectory, explosion altitude에는 model-dependent uncertainty가 남는다. alien craft·Tesla·antimatter 같은 extraordinary explanations을 요구하는 evidence는 없다.",
+          "textEn": "Established: The 1908 Tunguska event was a massive atmospheric explosion whose forest-damage pattern, witness reports, and seismic/atmospheric effects strongly fit a cosmic-body airburst.\n\nNot established: Exact composition, size, entry trajectory, and burst altitude remain model-dependent, and no evidence requires alien, Tesla, or antimatter explanations."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1908 Tunguska event는 massive atmospheric explosion이었고 forest-damage pattern, witness reports, seismic/atmospheric effects는 cosmic-body airburst explanation과 강하게 맞는다.\n\n확인되지 않음: impactor의 exact composition, size, entry trajectory, explosion altitude에는 model-dependent uncertainty가 남는다. alien craft·Tesla·antimatter 같은 extraordinary explanations을 요구하는 evidence는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "trees-02",
+        "object-03",
+        "myths-04",
+        "planetary-05"
+      ]
+    },
+    "en": {
+      "headline": "Why Do Scientists Favor a Cosmic Airburst Even Though There Is No Giant Crater?",
+      "hook": "The absence of a crater is not a weakness of the cosmic explanation; it is a central feature of the airburst model. The remaining question is the exact object and trajectory.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1908년 시베리아 상공 폭발은 거대한 숲을 눕혔지만 impact crater를 남기지 않았다",
+          "headingEn": "The 1908 Siberian Explosion Flattened a Vast Forest Without Leaving a Classic Impact Crater",
+          "textKo": "1908년 6월 30일 Tunguska 지역에서 fireball과 강한 flash, thunder-like noise가 보고됐고 이후 조사에서 광범위한 forest가 방사형으로 쓰러진 것이 확인됐다. NASA는 asteroid 또는 comet-like cosmic body가 지상에 충돌하기보다 수 km 상공에서 airburst한 것으로 설명한다. 그래서 crater가 없는 것이 mystery의 핵심이 아니라 airburst model과 잘 맞는 특징이다. 당시 remote location 때문에 immediate scientific expedition이 늦어진 것이 후대 전설을 키웠다.",
+          "textEn": "On June 30, 1908, witnesses in Siberia reported a fireball, intense flash, and thunder-like noise. Later surveys found a vast radial pattern of flattened forest. NASA explains the event as an atmospheric airburst of a cosmic body rather than a classic ground impact."
+        },
+        {
+          "blockId": "trees-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "tree-fall pattern과 shock effects는 explosion이 ground 위에서 일어났음을 지지한다",
+          "headingEn": "Tree-Fall Patterns and Shock Effects Support an Explosion Above the Ground",
+          "textKo": "later expeditions은 epicentral region 주변의 tree-fall orientation과 central standing-but-stripped trees를 기록했다. 이런 pattern은 powerful atmospheric blast가 지표를 향해 내려친 geometry와 양립한다. seismic waves와 long-distance atmospheric effects도 large explosion을 지지한다. exact yield estimate는 model마다 달라지지만 event가 ordinary forest fire나 local explosion 수준이 아니었다는 점은 명확하다.",
+          "textEn": "Later expeditions documented radial tree fall and central trees left standing but stripped, a pattern compatible with a powerful atmospheric blast. Seismic and distant atmospheric effects also support a very large explosion."
+        },
+        {
+          "blockId": "object-03",
+          "type": "BACKGROUND",
+          "headingKo": "asteroid와 comet composition은 오랫동안 논쟁됐지만 ‘cosmic airburst’ framework는 강하다",
+          "headingEn": "Asteroid Versus Comet Composition Has Been Debated, but the Cosmic-Airburst Framework Is Strong",
+          "textKo": "Tunguska object의 exact composition은 recovered large fragment가 없기 때문에 논쟁이 이어졌다. entry angle, size, density, fragmentation assumptions에 따라 asteroid 또는 comet-like body model이 달라질 수 있다. 최근 modeling은 stony asteroid airburst를 흔히 선호하지만, 이건 exact original object를 직접 회수해 분석한 결과가 아니다. ‘우주물체 airburst’와 ‘정확히 어떤 종류의 우주물체였나’를 구분해야 한다.",
+          "textEn": "Because no large intact fragment was recovered, the exact composition of the Tunguska body remains debated. Models vary with entry angle, size, density, and fragmentation assumptions. The cosmic-airburst framework is stronger than any single precise composition claim."
+        },
+        {
+          "blockId": "myths-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "alien craft·antimatter·Tesla 같은 후대설은 physical evidence보다 훨씬 멀리 나간다",
+          "headingEn": "Alien Craft, Antimatter, and Tesla Theories Go Far Beyond the Physical Evidence",
+          "textKo": "crater가 없고 object fragment가 희박하다는 점 때문에 alien spacecraft, black hole, antimatter, Nikola Tesla experiment 같은 extraordinary theories가 반복됐다. 하지만 airburst physics는 crater absence와 forest damage를 동시에 설명할 수 있고 eyewitness fireball·shock reports와도 양립한다. 미확정인 세부가 있다고 already-supported mechanism을 버리고 더 복잡한 explanation을 선택할 이유는 생기지 않는다.",
+          "textEn": "The lack of a crater and scarcity of obvious large fragments inspired alien, antimatter, black-hole, and Tesla theories. Atmospheric airburst physics already explains the main features without requiring those extraordinary mechanisms."
+        },
+        {
+          "blockId": "planetary-05",
+          "type": "AFTERMATH",
+          "headingKo": "Tunguska는 현대 planetary defense가 다루는 ‘충돌 전 폭발’ 위험의 대표사례가 됐다",
+          "headingEn": "Tunguska Became a Reference Case for Modern Planetary-Defense Airburst Risk",
+          "textKo": "Tunguska 규모의 object는 지표에 crater를 만들지 않아도 atmosphere에서 폭발해 넓은 지역에 destructive shock wave와 thermal radiation을 줄 수 있다. NASA가 Tunguska를 planetary-defense history에서 반복적으로 다루는 이유다. 사건의 과학적 가치는 1908 mystery를 푸는 데 그치지 않고, future near-Earth-object hazard에서 size·altitude·entry angle이 피해를 어떻게 바꾸는지 이해하는 데 있다.",
+          "textEn": "A Tunguska-scale object can cause severe regional damage through an atmospheric explosion without forming a crater. NASA treats the event as an important planetary-defense analogue for understanding how size, altitude, and entry angle control damage."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1908 Tunguska event는 massive atmospheric explosion이었고 forest-damage pattern, witness reports, seismic/atmospheric effects는 cosmic-body airburst explanation과 강하게 맞는다.\n\n확인되지 않음: impactor의 exact composition, size, entry trajectory, explosion altitude에는 model-dependent uncertainty가 남는다. alien craft·Tesla·antimatter 같은 extraordinary explanations을 요구하는 evidence는 없다.",
+          "textEn": "Established: The 1908 Tunguska event was a massive atmospheric explosion whose forest-damage pattern, witness reports, and seismic/atmospheric effects strongly fit a cosmic-body airburst.\n\nNot established: Exact composition, size, entry trajectory, and burst altitude remain model-dependent, and no evidence requires alien, Tesla, or antimatter explanations."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: The 1908 Tunguska event was a massive atmospheric explosion whose forest-damage pattern, witness reports, and seismic/atmospheric effects strongly fit a cosmic-body airburst.\n\nNot established: Exact composition, size, entry trajectory, and burst altitude remain model-dependent, and no evidence requires alien, Tesla, or antimatter explanations.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "trees-02",
+        "object-03",
+        "myths-04",
+        "planetary-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TUNG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1908 Tunguska event는 Siberian forest에 광범위한 blast damage를 만든 atmospheric explosion이었다.",
+      "statementEn": "The 1908 Tunguska event was an atmospheric explosion that caused widespread blast damage in Siberian forest.",
+      "sourceRefs": [
+        "TUNG_NASA"
+      ]
+    },
+    {
+      "claimId": "TUNG-C2",
+      "status": "SUPPORTED",
+      "statementKo": "cosmic body airburst가 crater absence와 forest damage를 가장 잘 설명한다.",
+      "statementEn": "A cosmic-body airburst strongly explains both the lack of a crater and the forest-damage pattern.",
+      "sourceRefs": [
+        "TUNG_NASA"
+      ]
+    },
+    {
+      "claimId": "TUNG-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "impactor exact composition·size·trajectory는 model-dependent하며 extraordinary theories는 입증되지 않았다.",
+      "statementEn": "The exact composition, size, and trajectory remain model-dependent, and extraordinary theories are not established.",
+      "sourceRefs": [
+        "TUNG_NASA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "TUNG_NASA",
+      "title": "115 Years Ago: The Tunguska Asteroid Impact Event",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/",
+      "sourceType": "NASA_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "tung-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "incoming bolide → atmospheric fragmentation → airburst → radial shock/tree fall.",
+      "captionEn": "Incoming bolide → atmospheric fragmentation → airburst → radial shock/tree fall.",
+      "altKo": "incoming bolide → atmospheric fragmentation → airburst → radial shock/tree fall.",
+      "altEn": "Incoming bolide → atmospheric fragmentation → airburst → radial shock/tree fall.",
+      "sourceRefs": [
+        "TUNG_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tunguska__v01__ko.png",
+          "sha256": "377e9110efea24da3a838b09e8ddd83291af5c5e0e980107ecdf8809bb459103",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tunguska__v01__en.png",
+          "sha256": "94046755e2c1e9467c8e031bbf311cb88bda52f506c573a680aedad3b19be3b0",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "tung-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "airburst evidence와 exact impactor properties·extraordinary theories를 분리.",
+      "captionEn": "Separate airburst evidence from exact impactor properties and extraordinary theories.",
+      "altKo": "airburst evidence와 exact impactor properties·extraordinary theories를 분리.",
+      "altEn": "Separate airburst evidence from exact impactor properties and extraordinary theories.",
+      "sourceRefs": [
+        "TUNG_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tunguska__v02__ko.png",
+          "sha256": "bd8a1155c7027eb207d64f03db1b47867f586ab5715da31c110c93e818c5036f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tunguska__v02__en.png",
+          "sha256": "96447c2e94a1d435930207bdf8826ae6193a2a268dd29281d9232a527d1466de",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "regions": [
+      "Tunguska, Siberia"
+    ],
+    "dateRange": {
+      "start": "1908-06-30",
+      "end": "present",
+      "precision": "event through modern modeling"
+    },
+    "organizations": [
+      "NASA"
+    ],
+    "resolution": "COSMIC_AIRBURST_STRONGLY_SUPPORTED_EXACT_IMPACTOR_PROPERTIES_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1997,
+    "enBodyWords": 223,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

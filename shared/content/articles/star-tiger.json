@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "star-tiger",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Star Tiger 실종",
+    "canonicalTitleEn": "Star Tiger Disappearance",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "공식 조사조차 ‘가능성 어느 것도 probability에 못 미쳤다’고 한 항공실종",
+      "hook": "Star Tiger는 후대 Bermuda Triangle 전설보다 official accident report 자체가 더 놀랍다. wreckage가 없어서 조사위원회는 여러 가능성을 검토하고도 원인을 probability 수준까지 좁히지 못했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1948년 Azores에서 Bermuda로 향한 Tudor IV는 마지막 radio contact 뒤 흔적 없이 사라졌다",
+          "headingEn": "In 1948 a Tudor IV Vanished Between the Azores and Bermuda After Its Last Radio Contact",
+          "textKo": "Ministry of Civil Aviation의 official Court report에 따르면 Star Tiger는 1948년 1월 29일 Santa Maria, Azores에서 Bermuda로 출발했고 crew 6명과 passengers 25명을 태우고 있었다. aircraft는 route 동안 radio contact를 유지했고 Bermuda approaching phase에서 마지막 bearing을 받은 뒤 더 이상 응답하지 않았다. extensive search에도 wreckage나 survivors가 발견되지 않았다.",
+          "textEn": "The official Court report states that Star Tiger left Santa Maria in the Azores for Bermuda on January 29, 1948, carrying six crew and 25 passengers, maintained radio contact, then disappeared after its final bearing exchange."
+        },
+        {
+          "blockId": "weather-02",
+          "type": "BACKGROUND",
+          "headingKo": "강한 headwind와 낮은 cruising altitude가 operational margin을 줄였다",
+          "headingEn": "Strong Headwinds and Low Cruising Altitude Reduced Operational Margin",
+          "textKo": "flight는 unfavorable winds를 피하고 fuel management를 위해 low altitude를 이용했다. report는 weather, navigation, fuel, mechanical failure, human factors 등 여러 possibilities를 검토했다. low altitude는 ditching or recovery margin을 줄일 수 있지만 그것만으로 사고원인을 확정할 수는 없다. 같은 route에서 앞서 간 BSAA aircraft가 안전하게 Bermuda에 도착했다는 사실도 단순한 ‘폭풍 하나’ 설명을 어렵게 한다.",
+          "textEn": "The flight operated low in strong headwinds, reducing margin. The inquiry considered weather, navigation, fuel, mechanical failure, and human factors, but none could be demonstrated as the cause."
+        },
+        {
+          "blockId": "radio-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "마지막 교신은 routine에 가까웠고 immediate distress call은 남지 않았다",
+          "headingEn": "The Final Radio Exchanges Were Not a Clear Distress Call",
+          "textKo": "Star Tiger의 radio operator는 Bermuda에 bearing을 요청했고 corrected bearing을 받아 acknowledge한 뒤 연락이 끊겼다. sudden disappearance 때문에 catastrophic failure, navigation error, sea impact 등 다양한 scenario가 검토됐지만 decisive transmission이 없었다. distress message가 없다는 사실은 사고가 매우 급작스러웠을 가능성과 양립하지만, 그 자체로 specific failure를 식별하지는 않는다.",
+          "textEn": "The radio operator requested and acknowledged a bearing from Bermuda, after which contact ceased. The lack of a distress transmission is compatible with a sudden event but does not identify a specific failure."
+        },
+        {
+          "blockId": "court-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Court는 possibilities조차 probability 수준에 이르지 못했다고 결론냈다",
+          "headingEn": "The Court Concluded That None of the Suggested Possibilities Reached the Level of Probability",
+          "textKo": "official report의 가장 중요한 부분은 investigation이 단순히 ‘원인불명’이라고 끝난 것이 아니라, available evidence가 너무 부족해 제시된 possibilities 중 어느 것도 probability 수준에 도달하지 못했다고 명시한 점이다. wreckage가 없으면 구조파괴, fuel state, control configuration, impact pattern을 검사할 수 없다. 그래서 Star Tiger는 official inquiry가 스스로 unsolved mystery라고 표현한 드문 aviation case가 됐다.",
+          "textEn": "The Court stated that in the absence of reliable evidence it could only suggest possibilities, none reaching even the level of probability. Without wreckage, structural, fuel, control, and impact evidence could not be tested."
+        },
+        {
+          "blockId": "triangle-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Bermuda Triangle legend는 후대의 geographic frame이지 사고원인을 추가로 입증하는 evidence가 아니다",
+          "headingEn": "The Bermuda Triangle Label Is a Later Geographic Frame, Not Additional Causal Evidence",
+          "textKo": "Star Tiger와 다음해 Star Ariel loss가 Bermuda Triangle story에 자주 결합됐지만, official inquiries는 navigation, weather, mechanical/human possibilities와 missing wreckage를 다뤘다. 두 사건이 같은 region·operator와 연결된다는 사실만으로 common paranormal cause를 확정할 수 없다. ‘설명되지 않았다’와 ‘초자연적으로 설명됐다’는 서로 반대되는 문장이다.",
+          "textEn": "Star Tiger and the later Star Ariel loss became attached to Bermuda Triangle lore, but sharing a region or operator does not establish one paranormal cause. 'Unexplained' does not mean 'explained by the paranormal.'"
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Star Tiger는 1948년 Azores–Bermuda leg에서 31명과 함께 실종됐고 verified wreckage는 발견되지 않았다. official Court investigation은 다양한 possibilities를 검토했지만 reliable evidence 부족으로 어느 것도 probability 수준에 이르지 못했다고 결론냈다.\n\n확인되지 않음: exact failure mechanism, crash location, Bermuda Triangle의 별도 초자연 원인은 확정되지 않았다.",
+          "textEn": "Established: Star Tiger disappeared in 1948 on the Azores–Bermuda leg with 31 people aboard, and no verified wreckage was found. The official Court examined many possibilities but concluded that none reached the level of probability.\n\nNot established: The exact failure mechanism, crash location, or any separate paranormal Bermuda Triangle cause is established."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Star Tiger는 1948년 Azores–Bermuda leg에서 31명과 함께 실종됐고 verified wreckage는 발견되지 않았다. official Court investigation은 다양한 possibilities를 검토했지만 reliable evidence 부족으로 어느 것도 probability 수준에 이르지 못했다고 결론냈다.\n\n확인되지 않음: exact failure mechanism, crash location, Bermuda Triangle의 별도 초자연 원인은 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "weather-02",
+        "radio-03",
+        "court-04",
+        "triangle-05"
+      ]
+    },
+    "en": {
+      "headline": "The Airliner Disappearance Whose Official Inquiry Said No Possibility Even Reached Probability",
+      "hook": "Star Tiger is more striking in its official accident report than in later Bermuda Triangle lore: without wreckage, investigators could not raise any proposed cause to the level of probability.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1948년 Azores에서 Bermuda로 향한 Tudor IV는 마지막 radio contact 뒤 흔적 없이 사라졌다",
+          "headingEn": "In 1948 a Tudor IV Vanished Between the Azores and Bermuda After Its Last Radio Contact",
+          "textKo": "Ministry of Civil Aviation의 official Court report에 따르면 Star Tiger는 1948년 1월 29일 Santa Maria, Azores에서 Bermuda로 출발했고 crew 6명과 passengers 25명을 태우고 있었다. aircraft는 route 동안 radio contact를 유지했고 Bermuda approaching phase에서 마지막 bearing을 받은 뒤 더 이상 응답하지 않았다. extensive search에도 wreckage나 survivors가 발견되지 않았다.",
+          "textEn": "The official Court report states that Star Tiger left Santa Maria in the Azores for Bermuda on January 29, 1948, carrying six crew and 25 passengers, maintained radio contact, then disappeared after its final bearing exchange."
+        },
+        {
+          "blockId": "weather-02",
+          "type": "BACKGROUND",
+          "headingKo": "강한 headwind와 낮은 cruising altitude가 operational margin을 줄였다",
+          "headingEn": "Strong Headwinds and Low Cruising Altitude Reduced Operational Margin",
+          "textKo": "flight는 unfavorable winds를 피하고 fuel management를 위해 low altitude를 이용했다. report는 weather, navigation, fuel, mechanical failure, human factors 등 여러 possibilities를 검토했다. low altitude는 ditching or recovery margin을 줄일 수 있지만 그것만으로 사고원인을 확정할 수는 없다. 같은 route에서 앞서 간 BSAA aircraft가 안전하게 Bermuda에 도착했다는 사실도 단순한 ‘폭풍 하나’ 설명을 어렵게 한다.",
+          "textEn": "The flight operated low in strong headwinds, reducing margin. The inquiry considered weather, navigation, fuel, mechanical failure, and human factors, but none could be demonstrated as the cause."
+        },
+        {
+          "blockId": "radio-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "마지막 교신은 routine에 가까웠고 immediate distress call은 남지 않았다",
+          "headingEn": "The Final Radio Exchanges Were Not a Clear Distress Call",
+          "textKo": "Star Tiger의 radio operator는 Bermuda에 bearing을 요청했고 corrected bearing을 받아 acknowledge한 뒤 연락이 끊겼다. sudden disappearance 때문에 catastrophic failure, navigation error, sea impact 등 다양한 scenario가 검토됐지만 decisive transmission이 없었다. distress message가 없다는 사실은 사고가 매우 급작스러웠을 가능성과 양립하지만, 그 자체로 specific failure를 식별하지는 않는다.",
+          "textEn": "The radio operator requested and acknowledged a bearing from Bermuda, after which contact ceased. The lack of a distress transmission is compatible with a sudden event but does not identify a specific failure."
+        },
+        {
+          "blockId": "court-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Court는 possibilities조차 probability 수준에 이르지 못했다고 결론냈다",
+          "headingEn": "The Court Concluded That None of the Suggested Possibilities Reached the Level of Probability",
+          "textKo": "official report의 가장 중요한 부분은 investigation이 단순히 ‘원인불명’이라고 끝난 것이 아니라, available evidence가 너무 부족해 제시된 possibilities 중 어느 것도 probability 수준에 도달하지 못했다고 명시한 점이다. wreckage가 없으면 구조파괴, fuel state, control configuration, impact pattern을 검사할 수 없다. 그래서 Star Tiger는 official inquiry가 스스로 unsolved mystery라고 표현한 드문 aviation case가 됐다.",
+          "textEn": "The Court stated that in the absence of reliable evidence it could only suggest possibilities, none reaching even the level of probability. Without wreckage, structural, fuel, control, and impact evidence could not be tested."
+        },
+        {
+          "blockId": "triangle-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Bermuda Triangle legend는 후대의 geographic frame이지 사고원인을 추가로 입증하는 evidence가 아니다",
+          "headingEn": "The Bermuda Triangle Label Is a Later Geographic Frame, Not Additional Causal Evidence",
+          "textKo": "Star Tiger와 다음해 Star Ariel loss가 Bermuda Triangle story에 자주 결합됐지만, official inquiries는 navigation, weather, mechanical/human possibilities와 missing wreckage를 다뤘다. 두 사건이 같은 region·operator와 연결된다는 사실만으로 common paranormal cause를 확정할 수 없다. ‘설명되지 않았다’와 ‘초자연적으로 설명됐다’는 서로 반대되는 문장이다.",
+          "textEn": "Star Tiger and the later Star Ariel loss became attached to Bermuda Triangle lore, but sharing a region or operator does not establish one paranormal cause. 'Unexplained' does not mean 'explained by the paranormal.'"
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Star Tiger는 1948년 Azores–Bermuda leg에서 31명과 함께 실종됐고 verified wreckage는 발견되지 않았다. official Court investigation은 다양한 possibilities를 검토했지만 reliable evidence 부족으로 어느 것도 probability 수준에 이르지 못했다고 결론냈다.\n\n확인되지 않음: exact failure mechanism, crash location, Bermuda Triangle의 별도 초자연 원인은 확정되지 않았다.",
+          "textEn": "Established: Star Tiger disappeared in 1948 on the Azores–Bermuda leg with 31 people aboard, and no verified wreckage was found. The official Court examined many possibilities but concluded that none reached the level of probability.\n\nNot established: The exact failure mechanism, crash location, or any separate paranormal Bermuda Triangle cause is established."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Star Tiger disappeared in 1948 on the Azores–Bermuda leg with 31 people aboard, and no verified wreckage was found. The official Court examined many possibilities but concluded that none reached the level of probability.\n\nNot established: The exact failure mechanism, crash location, or any separate paranormal Bermuda Triangle cause is established.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "weather-02",
+        "radio-03",
+        "court-04",
+        "triangle-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "UK_REPORT",
+      "title": "Report of the Court investigation of accident on the Tudor IV Aircraft 'Star Tiger' G-AHNP",
+      "publisher": "UK Ministry of Civil Aviation / University of Edinburgh repository",
+      "url": "https://era.ed.ac.uk/bitstream/handle/1842/5363/A6%20CMD%207517%20Report.pdf?sequence=1",
+      "sourceType": "OFFICIAL_ACCIDENT_REPORT"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "ST-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Star Tiger는 1948년 Azores–Bermuda leg에서 31명과 함께 실종됐다.",
+      "statementEn": "Star Tiger disappeared in 1948 on the Azores–Bermuda leg with 31 people aboard.",
+      "sourceRefs": [
+        "UK_REPORT"
+      ]
+    },
+    {
+      "claimId": "ST-C2",
+      "status": "CONFIRMED",
+      "statementKo": "official Court는 제시된 possibilities 중 어느 것도 probability 수준에 도달하지 못했다고 결론냈다.",
+      "statementEn": "The official Court concluded that none of the suggested possibilities reached the level of probability.",
+      "sourceRefs": [
+        "UK_REPORT"
+      ]
+    },
+    {
+      "claimId": "ST-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact failure mechanism과 crash location은 확정되지 않았다.",
+      "statementEn": "The exact failure mechanism and crash location are not established.",
+      "sourceRefs": [
+        "UK_REPORT"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "st-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Santa Maria departure → Atlantic radio contact → final Bermuda bearing → silence → search → inquiry.",
+      "captionEn": "Santa Maria departure → Atlantic radio contact → final Bermuda bearing → silence → search → inquiry.",
+      "altKo": "Santa Maria departure → Atlantic radio contact → final Bermuda bearing → silence → search → inquiry.",
+      "altEn": "Santa Maria departure → Atlantic radio contact → final Bermuda bearing → silence → search → inquiry.",
+      "sourceRefs": [
+        "UK_REPORT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "star-tiger__v01__ko.png",
+          "sha256": "483dcd0284b3d1eb526111e01ca05340d10719ad6e74d5a20f542dcdf527c648",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "star-tiger__v01__en.png",
+          "sha256": "aaa2eeab2df5c746265bb65a14a99212c6e10a98631ad28a504c307a9fba7892",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "st-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "known route/radio facts와 competing causes, Bermuda Triangle claim을 분리.",
+      "captionEn": "Separate known route/radio facts, competing causes, and Bermuda Triangle claims.",
+      "altKo": "known route/radio facts와 competing causes, Bermuda Triangle claim을 분리.",
+      "altEn": "Separate known route/radio facts, competing causes, and Bermuda Triangle claims.",
+      "sourceRefs": [
+        "UK_REPORT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "star-tiger__v02__ko.png",
+          "sha256": "5673c6dc1c9f5ffecbfe4fdc422a93706f3a146c50a0f1e397cda8b7f748648e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "star-tiger__v02__en.png",
+          "sha256": "e53dcf2d29f8e6de7edf1b88bba49a6b852ffde1c316d7f2065e7830b3d03813",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Crime / Disappearance",
+      "Paranormal / Haunting / Folklore"
+    ],
+    "regions": [
+      "North Atlantic / Bermuda approaches"
+    ],
+    "organizations": [
+      "British South American Airways",
+      "UK Ministry of Civil Aviation"
+    ],
+    "dateRange": {
+      "start": "1948-01-29",
+      "end": "1948-01-30",
+      "precision": "last flight"
+    },
+    "resolution": "AIRCRAFT_LOST_OFFICIAL_CAUSE_UNDETERMINED_NO_WRECKAGE"
+  },
+  "quality": {
+    "koBodyChars": 1817,
+    "enBodyWords": 218,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH27_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-sunshine",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "프로젝트 선샤인",
+    "canonicalTitleEn": "Project Sunshine",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "낙진을 연구하기 위해 전 세계 인체조직을 모은 프로젝트는 어디서 과학과 윤리가 갈라졌나",
+      "hook": "Project Sunshine은 실제 fallout study였다. 가장 중요한 미스터리는 존재여부가 아니라, 인체조직을 얻는 과정에서 consent와 disclosure가 어디까지 지켜졌는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "핵실험 낙진이 사람 뼈에 얼마나 쌓이는지 알아보기 위해 전 세계 인체조직이 수집됐다",
+          "headingEn": "Human Tissue Was Collected Worldwide to Measure Fallout Strontium-90 in Bone",
+          "textKo": "1995년 U.S. GAO review는 Project Sunshine을 nuclear-weapons fallout에서 나온 Strontium-90이 human body에 얼마나 축적되는지 파악하기 위한 worldwide tissue-analysis study로 정리한다. bone samples, fetuses, whole skeletons가 여러 지역의 medical scientists를 통해 수집됐다. 프로그램의 실재와 목적은 official review로 확인된다. 핵심 윤리문제는 이런 scientific objective와 tissue acquisition 과정에서 informed consent와 disclosure가 어떻게 처리됐는가다.",
+          "textEn": "A 1995 U.S. GAO review describes Project Sunshine as a worldwide human-tissue study designed to measure strontium-90 uptake from nuclear-weapons fallout. Bone samples, fetuses, and whole skeletons were collected through medical networks."
+        },
+        {
+          "blockId": "why-02",
+          "type": "BACKGROUND",
+          "headingKo": "Strontium-90은 calcium과 비슷하게 행동해 bone에 축적될 수 있었다",
+          "headingEn": "Strontium-90 Can Follow Calcium Pathways and Accumulate in Bone",
+          "textKo": "atmospheric nuclear tests가 늘면서 fission product인 Sr-90이 food chain을 통해 human bone과 teeth에 들어갈 수 있다는 public-health concern이 커졌다. 특히 growing children은 bone turnover가 높아 중요한 research population이었다. Project Sunshine의 scientific rationale는 fallout distribution과 potential hazard를 정량화하려는 것이었다. 이 목적 자체와 human-material procurement의 ethical adequacy는 분리해서 평가해야 한다.",
+          "textEn": "As atmospheric nuclear testing expanded, researchers worried that strontium-90 could move through food chains and accumulate in bone. The scientific rationale was to quantify fallout uptake and potential hazard; that rationale is separate from the ethics of acquiring human material."
+        },
+        {
+          "blockId": "samples-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "GAO는 약 9,000 bone samples와 수백 fetal samples를 확인했다",
+          "headingEn": "GAO Documented About 9,000 Bone Samples and Hundreds of Fetal Samples",
+          "textKo": "GAO fact sheet는 Project Sunshine에서 약 9,000 human bone samples가 procured됐고 1954~1959년 584 whole fetuses도 수집됐다고 정리한다. 이 숫자는 program scale을 보여주지만 모든 sample이 동일한 consent process와 provenance를 가졌다는 뜻은 아니다. 국가와 병원, 당시 local practice에 따라 acquisition circumstance가 달랐을 수 있어 aggregate count와 individual consent history를 동일시하면 안 된다.",
+          "textEn": "The GAO fact sheet reports about 9,000 human bone samples and 584 whole fetuses collected between 1954 and 1959. Program-scale counts do not establish identical consent or provenance circumstances for every sample."
+        },
+        {
+          "blockId": "consent-04",
+          "type": "TURNING_POINT",
+          "headingKo": "official review는 informed-consent policy가 명확히 기록되지 않았고 일부 deception 가능성도 지적했다",
+          "headingEn": "The Official Review Found Consent Policies Poorly Documented and Raised the Possibility of Deception",
+          "textKo": "GAO는 1957·1960 reports에 informed-consent policies가 구체적으로 명시되지 않았다고 적었다. 더 나아가 DOE correspondence에 따르면 일부 medical scientists가 sample 목적을 natural radium study라고 믿도록 misleading information을 받았을 가능성도 지적했다. 이것은 모든 acquisition이 동일한 방식으로 기만됐다는 뜻은 아니지만, research-governance와 consent transparency의 중대한 문제를 보여준다.",
+          "textEn": "GAO found that informed-consent procedures were not specifically stated in key reports and noted DOE correspondence suggesting some medical scientists may have been misled about the true purpose of the samples. That does not prove identical deception in every acquisition, but it establishes a serious governance concern."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "이 프로젝트는 ‘비밀이었나’보다 human-subject protection이 어디까지 작동했나를 묻게 한다",
+          "headingEn": "The Case Is More About Human-Subject Protection Than Whether the Program Existed",
+          "textKo": "Project Sunshine은 Cold War radiation research의 실제 program이다. 따라서 콘텐츠의 중심은 음모론처럼 존재여부를 추측하는 게 아니라, 확인된 study가 어떤 public-health question을 풀려 했고 그 과정에서 human remains와 tissue를 어떤 규칙으로 얻었는지 검토하는 데 있다. 후대 transparency와 research ethics 기준으로 볼 때 program-level science와 participant/family rights 사이의 충돌이 핵심이다.",
+          "textEn": "Project Sunshine was a real Cold War radiation-research program. The central issue is how a legitimate public-health question intersected with rules for acquiring human remains and tissue, not whether the project existed."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Sunshine은 nuclear fallout Sr-90의 human uptake를 연구한 실제 program이며 GAO는 약 9,000 bone samples와 수백 fetal samples를 문서화했다. consent procedures는 key reports에서 명확히 기재되지 않았고 일부 procurement deception 가능성이 official review에 기록됐다.\n\n확인되지 않음: 모든 sample이 동일한 consent violation 또는 동일한 deception 과정으로 취득됐다고 aggregate record만으로 단정할 수는 없다.",
+          "textEn": "Established: Project Sunshine was a real program studying human uptake of fallout strontium-90; GAO documented about 9,000 bone samples and hundreds of fetal samples, with consent procedures poorly documented and possible deception noted in agency correspondence.\n\nNot established: Aggregate records do not show that every sample was obtained through the same consent violation or identical deception."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project Sunshine은 nuclear fallout Sr-90의 human uptake를 연구한 실제 program이며 GAO는 약 9,000 bone samples와 수백 fetal samples를 문서화했다. consent procedures는 key reports에서 명확히 기재되지 않았고 일부 procurement deception 가능성이 official review에 기록됐다.\n\n확인되지 않음: 모든 sample이 동일한 consent violation 또는 동일한 deception 과정으로 취득됐다고 aggregate record만으로 단정할 수는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "why-02",
+        "samples-03",
+        "consent-04",
+        "legacy-05"
+      ]
+    },
+    "en": {
+      "headline": "Where Did Science and Ethics Diverge in a Project That Collected Human Tissue to Study Fallout?",
+      "hook": "Project Sunshine was a real fallout study. The central issue is not whether it existed, but how consent and disclosure were handled when human tissue was acquired.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "핵실험 낙진이 사람 뼈에 얼마나 쌓이는지 알아보기 위해 전 세계 인체조직이 수집됐다",
+          "headingEn": "Human Tissue Was Collected Worldwide to Measure Fallout Strontium-90 in Bone",
+          "textKo": "1995년 U.S. GAO review는 Project Sunshine을 nuclear-weapons fallout에서 나온 Strontium-90이 human body에 얼마나 축적되는지 파악하기 위한 worldwide tissue-analysis study로 정리한다. bone samples, fetuses, whole skeletons가 여러 지역의 medical scientists를 통해 수집됐다. 프로그램의 실재와 목적은 official review로 확인된다. 핵심 윤리문제는 이런 scientific objective와 tissue acquisition 과정에서 informed consent와 disclosure가 어떻게 처리됐는가다.",
+          "textEn": "A 1995 U.S. GAO review describes Project Sunshine as a worldwide human-tissue study designed to measure strontium-90 uptake from nuclear-weapons fallout. Bone samples, fetuses, and whole skeletons were collected through medical networks."
+        },
+        {
+          "blockId": "why-02",
+          "type": "BACKGROUND",
+          "headingKo": "Strontium-90은 calcium과 비슷하게 행동해 bone에 축적될 수 있었다",
+          "headingEn": "Strontium-90 Can Follow Calcium Pathways and Accumulate in Bone",
+          "textKo": "atmospheric nuclear tests가 늘면서 fission product인 Sr-90이 food chain을 통해 human bone과 teeth에 들어갈 수 있다는 public-health concern이 커졌다. 특히 growing children은 bone turnover가 높아 중요한 research population이었다. Project Sunshine의 scientific rationale는 fallout distribution과 potential hazard를 정량화하려는 것이었다. 이 목적 자체와 human-material procurement의 ethical adequacy는 분리해서 평가해야 한다.",
+          "textEn": "As atmospheric nuclear testing expanded, researchers worried that strontium-90 could move through food chains and accumulate in bone. The scientific rationale was to quantify fallout uptake and potential hazard; that rationale is separate from the ethics of acquiring human material."
+        },
+        {
+          "blockId": "samples-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "GAO는 약 9,000 bone samples와 수백 fetal samples를 확인했다",
+          "headingEn": "GAO Documented About 9,000 Bone Samples and Hundreds of Fetal Samples",
+          "textKo": "GAO fact sheet는 Project Sunshine에서 약 9,000 human bone samples가 procured됐고 1954~1959년 584 whole fetuses도 수집됐다고 정리한다. 이 숫자는 program scale을 보여주지만 모든 sample이 동일한 consent process와 provenance를 가졌다는 뜻은 아니다. 국가와 병원, 당시 local practice에 따라 acquisition circumstance가 달랐을 수 있어 aggregate count와 individual consent history를 동일시하면 안 된다.",
+          "textEn": "The GAO fact sheet reports about 9,000 human bone samples and 584 whole fetuses collected between 1954 and 1959. Program-scale counts do not establish identical consent or provenance circumstances for every sample."
+        },
+        {
+          "blockId": "consent-04",
+          "type": "TURNING_POINT",
+          "headingKo": "official review는 informed-consent policy가 명확히 기록되지 않았고 일부 deception 가능성도 지적했다",
+          "headingEn": "The Official Review Found Consent Policies Poorly Documented and Raised the Possibility of Deception",
+          "textKo": "GAO는 1957·1960 reports에 informed-consent policies가 구체적으로 명시되지 않았다고 적었다. 더 나아가 DOE correspondence에 따르면 일부 medical scientists가 sample 목적을 natural radium study라고 믿도록 misleading information을 받았을 가능성도 지적했다. 이것은 모든 acquisition이 동일한 방식으로 기만됐다는 뜻은 아니지만, research-governance와 consent transparency의 중대한 문제를 보여준다.",
+          "textEn": "GAO found that informed-consent procedures were not specifically stated in key reports and noted DOE correspondence suggesting some medical scientists may have been misled about the true purpose of the samples. That does not prove identical deception in every acquisition, but it establishes a serious governance concern."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "이 프로젝트는 ‘비밀이었나’보다 human-subject protection이 어디까지 작동했나를 묻게 한다",
+          "headingEn": "The Case Is More About Human-Subject Protection Than Whether the Program Existed",
+          "textKo": "Project Sunshine은 Cold War radiation research의 실제 program이다. 따라서 콘텐츠의 중심은 음모론처럼 존재여부를 추측하는 게 아니라, 확인된 study가 어떤 public-health question을 풀려 했고 그 과정에서 human remains와 tissue를 어떤 규칙으로 얻었는지 검토하는 데 있다. 후대 transparency와 research ethics 기준으로 볼 때 program-level science와 participant/family rights 사이의 충돌이 핵심이다.",
+          "textEn": "Project Sunshine was a real Cold War radiation-research program. The central issue is how a legitimate public-health question intersected with rules for acquiring human remains and tissue, not whether the project existed."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Sunshine은 nuclear fallout Sr-90의 human uptake를 연구한 실제 program이며 GAO는 약 9,000 bone samples와 수백 fetal samples를 문서화했다. consent procedures는 key reports에서 명확히 기재되지 않았고 일부 procurement deception 가능성이 official review에 기록됐다.\n\n확인되지 않음: 모든 sample이 동일한 consent violation 또는 동일한 deception 과정으로 취득됐다고 aggregate record만으로 단정할 수는 없다.",
+          "textEn": "Established: Project Sunshine was a real program studying human uptake of fallout strontium-90; GAO documented about 9,000 bone samples and hundreds of fetal samples, with consent procedures poorly documented and possible deception noted in agency correspondence.\n\nNot established: Aggregate records do not show that every sample was obtained through the same consent violation or identical deception."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project Sunshine was a real program studying human uptake of fallout strontium-90; GAO documented about 9,000 bone samples and hundreds of fetal samples, with consent procedures poorly documented and possible deception noted in agency correspondence.\n\nNot established: Aggregate records do not show that every sample was obtained through the same consent violation or identical deception.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "why-02",
+        "samples-03",
+        "consent-04",
+        "legacy-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SUN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project Sunshine은 worldwide human-tissue sampling으로 fallout Sr-90을 연구한 실제 program이다.",
+      "statementEn": "Project Sunshine was a real worldwide human-tissue study of fallout strontium-90.",
+      "sourceRefs": [
+        "SUN_GAO"
+      ]
+    },
+    {
+      "claimId": "SUN-C2",
+      "status": "CONFIRMED",
+      "statementKo": "GAO는 약 9,000 bone samples와 584 whole fetuses를 포함한 sampling을 기록했다.",
+      "statementEn": "GAO documented about 9,000 bone samples, including 584 whole fetuses collected from 1954 to 1959.",
+      "sourceRefs": [
+        "SUN_GAO"
+      ]
+    },
+    {
+      "claimId": "SUN-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 sample이 동일한 consent/deception 방식으로 확보됐다는 것은 aggregate record만으로 확정되지 않는다.",
+      "statementEn": "Aggregate records do not establish that every sample was obtained through the same consent or deception process.",
+      "sourceRefs": [
+        "SUN_GAO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SUN_GAO",
+      "title": "Department of Energy: Information on DOE’s Human Tissue Analysis Work",
+      "publisher": "U.S. Government Accountability Office",
+      "url": "https://www.gao.gov/assets/rced-95-109fs.pdf",
+      "sourceType": "US_GOVERNMENT_REVIEW"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sun-v01",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "nuclear fallout → Sr-90 food chain → tissue sampling → laboratory measurement → risk assessment.",
+      "captionEn": "Nuclear fallout → Sr-90 food chain → tissue sampling → laboratory measurement → risk assessment.",
+      "altKo": "nuclear fallout → Sr-90 food chain → tissue sampling → laboratory measurement → risk assessment.",
+      "altEn": "Nuclear fallout → Sr-90 food chain → tissue sampling → laboratory measurement → risk assessment.",
+      "sourceRefs": [
+        "SUN_GAO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-sunshine__v01__ko.png",
+          "sha256": "3836ecc69ffd6a7a212feb267616d437d11b9ac7674c7046199507fa4672b97f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-sunshine__v01__en.png",
+          "sha256": "87024e85a8dbbf2247386d50d7940fa61821ea691c2b7394bfe44d7e4a88975a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sun-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "scientific objective·sample scale·consent uncertainty를 분리.",
+      "captionEn": "Separate scientific objective, sample scale, and consent uncertainty.",
+      "altKo": "scientific objective·sample scale·consent uncertainty를 분리.",
+      "altEn": "Separate scientific objective, sample scale, and consent uncertainty.",
+      "sourceRefs": [
+        "SUN_GAO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-sunshine__v02__ko.png",
+          "sha256": "f372b05a6aabdc0bd1357414f928d545066d859c892d5f6006ac44e962af9d35",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-sunshine__v02__en.png",
+          "sha256": "fade8726ab36e273b66f796cd4f0633d46ce4bde85dbccc84612267a47813e04",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy"
+    ],
+    "countries": [
+      "United States",
+      "Worldwide sampling"
+    ],
+    "organizations": [
+      "Atomic Energy Commission",
+      "Department of Energy"
+    ],
+    "dateRange": {
+      "start": "1950s",
+      "end": "1960s",
+      "precision": "Project Sunshine study era"
+    },
+    "resolution": "PROGRAM_AND_SAMPLING_DOCUMENTED_CONSENT_DETAILS_CASE_SPECIFIC"
+  },
+  "quality": {
+    "koBodyChars": 1978,
+    "enBodyWords": 242,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

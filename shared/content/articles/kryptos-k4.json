@@ -1,0 +1,325 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "kryptos-k4",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Kryptos K4",
+    "canonicalTitleEn": "Kryptos K4",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘답’은 archive에서 확인됐는데 왜 K4는 아직도 완전히 풀렸다고 말하기 어렵나",
+      "hook": "2025년 이후 Kryptos K4의 status는 바뀌었다. creator archive에서 plaintext가 확인됐지만, 공개적으로 재현 가능한 cryptanalytic method와는 다른 문제다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "CIA 본부 조각의 마지막 97자는 수십 년간 공개적으로 풀리지 않았다",
+          "headingEn": "The Final 97 Characters of CIA's Kryptos Resisted Public Solution for Decades",
+          "textKo": "CIA Headquarters courtyard의 James Sanborn 작품 Kryptos는 1990년 설치된 copper sculpture로, encrypted text 네 구간을 포함한다. K1~K3는 1990년대에 해독됐지만 마지막 97-character K4는 오랫동안 공개 cryptanalysis의 미해결 문제로 남았다. CIA의 public page도 전통적으로 K4가 아직 broken되지 않았다고 설명해왔다. 이 사건의 핵심은 ‘plaintext를 누가 알고 있나’와 ‘공개적으로 재현 가능한 해독법이 있나’를 구분하는 데 있다.",
+          "textEn": "James Sanborn's Kryptos sculpture at CIA Headquarters contains four encrypted sections. K1 through K3 were deciphered in the 1990s, while the final 97-character K4 remained publicly unsolved for decades."
+        },
+        {
+          "blockId": "clues-02",
+          "type": "BACKGROUND",
+          "headingKo": "Sanborn은 BERLIN·CLOCK·NORTHEAST 같은 partial clues를 공개해왔다",
+          "headingEn": "Sanborn Released Partial Clues Such as BERLIN, CLOCK, and NORTHEAST",
+          "textKo": "K4 전체 plaintext는 공개하지 않은 채 Sanborn은 특정 positions가 BERLIN, CLOCK, NORTHEAST와 연결된다는 clues를 여러 시기에 제공했다. 이런 clue는 solution space를 줄이지만 key와 transform rule을 자동으로 제공하지 않는다. 많은 solver가 Vigenère, transposition, custom alphabet 등 다양한 method를 시험했지만 하나의 public reproducible solve로 수렴하지 못했다.",
+          "textEn": "Sanborn released partial clues linking positions in K4 to words including BERLIN, CLOCK, and NORTHEAST. These constrain the search without revealing the full key or transformation method."
+        },
+        {
+          "blockId": "archive-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2025년 Smithsonian archive 자료에서 K4 plaintext가 사적으로 확인됐다는 새로운 전환점이 생겼다",
+          "headingEn": "A 2025 Smithsonian Archive Discovery Changed What 'Unsolved' Means",
+          "textKo": "Smithsonian institutional reporting은 2025년 Sanborn archival material에서 K4 plaintext가 확인되는 중요한 development가 있었다고 설명한다. 이건 누군가 ciphertext만 보고 공개 algorithm으로 K4를 crack했다는 뜻이 아니다. creator archive가 answer를 보존하고 있었고 그 자료가 발견됐다는 의미다. 따라서 2026년 현재 ‘plaintext unknown to anyone’이라는 과거표현은 더 이상 정확하지 않지만 ‘public cryptanalytic solution completed’라고 말하는 것도 정확하지 않다.",
+          "textEn": "Smithsonian institutional reporting describes a 2025 archival discovery in Sanborn materials that revealed the K4 plaintext privately. This is not the same as a public cryptanalytic break derived from ciphertext alone."
+        },
+        {
+          "blockId": "auction-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Sanborn의 archive와 coding material이 경매로 넘어가며 ‘답’과 ‘방법’의 접근권한이 달라졌다",
+          "headingEn": "Sanborn's Archive Sale Split Access to the Answer From Public Access to the Method",
+          "textKo": "RR Auction은 2025년 Sanborn의 Kryptos archive가 K4 plaintext와 coding system을 포함한 collection으로 판매됐다고 기록한다. 하지만 buyer ownership와 public disclosure는 별개다. cipher community가 independently verify할 수 있는 full method가 공개되지 않았다면 historical plaintext provenance와 cryptanalytic reproducibility는 서로 다른 상태다. 바로 이 distinction 때문에 K4는 이전과 다른 방식으로 여전히 ‘미해결’이라고 말할 수 있다.",
+          "textEn": "RR Auction records that Sanborn's Kryptos archive, including K4 plaintext and coding-system material, was sold in 2025. Ownership of creator records is not the same as public disclosure or independent cryptanalytic reproducibility."
+        },
+        {
+          "blockId": "status-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘정답이 발견됐다’와 ‘암호가 풀렸다’는 같은 문장이 아니다",
+          "headingEn": "Finding the Answer and Solving the Cipher Are Not the Same Claim",
+          "textKo": "creator's archive에서 plaintext를 확인하면 what was intended라는 historical question에는 강한 답을 준다. 그러나 how the ciphertext transforms into that plaintext를 independent solver가 재현하지 못한다면 cryptanalytic problem은 별개로 남는다. Kryptos K4는 이 두 의미가 갈라진 드문 사례다. 현재 status를 한 단어로 ‘solved’ 또는 ‘unsolved’라고만 쓰면 최신 상황을 오히려 왜곡한다.",
+          "textEn": "A creator archive can answer what plaintext was intended while leaving open how the ciphertext transforms into that plaintext. Kryptos K4 now sits in that unusual split state."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Kryptos K4는 CIA 본부 조각의 마지막 97-character section이며 decades 동안 공개적으로 해독되지 않았다. 2025년 Sanborn archive discovery와 auction material은 plaintext/coding records가 creator archive에 존재했음을 보여준다.\n\n확인되지 않음: public community가 ciphertext만으로 independently reproducible한 full cryptanalytic solution을 확립했다고 말할 수는 없다. archive plaintext와 public solve를 구분해야 한다.",
+          "textEn": "Established: Kryptos K4 is the final 97-character section of the CIA sculpture and resisted public solution for decades. 2025 archive and auction records show that creator-held plaintext/coding material existed.\n\nNot established: A full independently reproducible public cryptanalytic solution derived from the ciphertext alone has not been established."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "clues-02",
+        "archive-03",
+        "auction-04",
+        "status-05"
+      ],
+      "factBoundary": {
+        "established": "확인됨: Kryptos K4는 CIA 본부 조각의 마지막 97-character section이며 decades 동안 공개적으로 해독되지 않았다. 2025년 Sanborn archive discovery와 auction material은 plaintext/coding records가 creator archive에 존재했음을 보여준다.\n\n확인되지 않음: public community가 ciphertext만으로 independently reproducible한 full cryptanalytic solution을 확립했다고 말할 수는 없다. archive plaintext와 public solve를 구분해야 한다.",
+        "notEstablished": "See final fact boundary."
+      }
+    },
+    "en": {
+      "headline": "If the Plaintext Was Found in an Archive, Why Isn't K4 Simply 'Solved'?",
+      "hook": "After 2025, K4 occupies a strange state: creator-held plaintext became known through archives, while a public reproducible cryptanalytic solution remained a separate question.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "CIA 본부 조각의 마지막 97자는 수십 년간 공개적으로 풀리지 않았다",
+          "headingEn": "The Final 97 Characters of CIA's Kryptos Resisted Public Solution for Decades",
+          "textKo": "CIA Headquarters courtyard의 James Sanborn 작품 Kryptos는 1990년 설치된 copper sculpture로, encrypted text 네 구간을 포함한다. K1~K3는 1990년대에 해독됐지만 마지막 97-character K4는 오랫동안 공개 cryptanalysis의 미해결 문제로 남았다. CIA의 public page도 전통적으로 K4가 아직 broken되지 않았다고 설명해왔다. 이 사건의 핵심은 ‘plaintext를 누가 알고 있나’와 ‘공개적으로 재현 가능한 해독법이 있나’를 구분하는 데 있다.",
+          "textEn": "James Sanborn's Kryptos sculpture at CIA Headquarters contains four encrypted sections. K1 through K3 were deciphered in the 1990s, while the final 97-character K4 remained publicly unsolved for decades."
+        },
+        {
+          "blockId": "clues-02",
+          "type": "BACKGROUND",
+          "headingKo": "Sanborn은 BERLIN·CLOCK·NORTHEAST 같은 partial clues를 공개해왔다",
+          "headingEn": "Sanborn Released Partial Clues Such as BERLIN, CLOCK, and NORTHEAST",
+          "textKo": "K4 전체 plaintext는 공개하지 않은 채 Sanborn은 특정 positions가 BERLIN, CLOCK, NORTHEAST와 연결된다는 clues를 여러 시기에 제공했다. 이런 clue는 solution space를 줄이지만 key와 transform rule을 자동으로 제공하지 않는다. 많은 solver가 Vigenère, transposition, custom alphabet 등 다양한 method를 시험했지만 하나의 public reproducible solve로 수렴하지 못했다.",
+          "textEn": "Sanborn released partial clues linking positions in K4 to words including BERLIN, CLOCK, and NORTHEAST. These constrain the search without revealing the full key or transformation method."
+        },
+        {
+          "blockId": "archive-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2025년 Smithsonian archive 자료에서 K4 plaintext가 사적으로 확인됐다는 새로운 전환점이 생겼다",
+          "headingEn": "A 2025 Smithsonian Archive Discovery Changed What 'Unsolved' Means",
+          "textKo": "Smithsonian institutional reporting은 2025년 Sanborn archival material에서 K4 plaintext가 확인되는 중요한 development가 있었다고 설명한다. 이건 누군가 ciphertext만 보고 공개 algorithm으로 K4를 crack했다는 뜻이 아니다. creator archive가 answer를 보존하고 있었고 그 자료가 발견됐다는 의미다. 따라서 2026년 현재 ‘plaintext unknown to anyone’이라는 과거표현은 더 이상 정확하지 않지만 ‘public cryptanalytic solution completed’라고 말하는 것도 정확하지 않다.",
+          "textEn": "Smithsonian institutional reporting describes a 2025 archival discovery in Sanborn materials that revealed the K4 plaintext privately. This is not the same as a public cryptanalytic break derived from ciphertext alone."
+        },
+        {
+          "blockId": "auction-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Sanborn의 archive와 coding material이 경매로 넘어가며 ‘답’과 ‘방법’의 접근권한이 달라졌다",
+          "headingEn": "Sanborn's Archive Sale Split Access to the Answer From Public Access to the Method",
+          "textKo": "RR Auction은 2025년 Sanborn의 Kryptos archive가 K4 plaintext와 coding system을 포함한 collection으로 판매됐다고 기록한다. 하지만 buyer ownership와 public disclosure는 별개다. cipher community가 independently verify할 수 있는 full method가 공개되지 않았다면 historical plaintext provenance와 cryptanalytic reproducibility는 서로 다른 상태다. 바로 이 distinction 때문에 K4는 이전과 다른 방식으로 여전히 ‘미해결’이라고 말할 수 있다.",
+          "textEn": "RR Auction records that Sanborn's Kryptos archive, including K4 plaintext and coding-system material, was sold in 2025. Ownership of creator records is not the same as public disclosure or independent cryptanalytic reproducibility."
+        },
+        {
+          "blockId": "status-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘정답이 발견됐다’와 ‘암호가 풀렸다’는 같은 문장이 아니다",
+          "headingEn": "Finding the Answer and Solving the Cipher Are Not the Same Claim",
+          "textKo": "creator's archive에서 plaintext를 확인하면 what was intended라는 historical question에는 강한 답을 준다. 그러나 how the ciphertext transforms into that plaintext를 independent solver가 재현하지 못한다면 cryptanalytic problem은 별개로 남는다. Kryptos K4는 이 두 의미가 갈라진 드문 사례다. 현재 status를 한 단어로 ‘solved’ 또는 ‘unsolved’라고만 쓰면 최신 상황을 오히려 왜곡한다.",
+          "textEn": "A creator archive can answer what plaintext was intended while leaving open how the ciphertext transforms into that plaintext. Kryptos K4 now sits in that unusual split state."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Kryptos K4는 CIA 본부 조각의 마지막 97-character section이며 decades 동안 공개적으로 해독되지 않았다. 2025년 Sanborn archive discovery와 auction material은 plaintext/coding records가 creator archive에 존재했음을 보여준다.\n\n확인되지 않음: public community가 ciphertext만으로 independently reproducible한 full cryptanalytic solution을 확립했다고 말할 수는 없다. archive plaintext와 public solve를 구분해야 한다.",
+          "textEn": "Established: Kryptos K4 is the final 97-character section of the CIA sculpture and resisted public solution for decades. 2025 archive and auction records show that creator-held plaintext/coding material existed.\n\nNot established: A full independently reproducible public cryptanalytic solution derived from the ciphertext alone has not been established."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "clues-02",
+        "archive-03",
+        "auction-04",
+        "status-05"
+      ],
+      "factBoundary": {
+        "established": "Established: Kryptos K4 is the final 97-character section of the CIA sculpture and resisted public solution for decades. 2025 archive and auction records show that creator-held plaintext/coding material existed.\n\nNot established: A full independently reproducible public cryptanalytic solution derived from the ciphertext alone has not been established.",
+        "notEstablished": "See final fact boundary."
+      }
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "KRYPTOS_CIA",
+      "title": "Kryptos Sculpture",
+      "publisher": "Central Intelligence Agency",
+      "url": "https://www.cia.gov/legacy/headquarters/kryptos-sculpture",
+      "sourceType": "CIA_OFFICIAL"
+    },
+    {
+      "sourceId": "KRYPTOS_SMITH2026",
+      "title": "Smithsonian Archives Help Unlock Mysteries",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.smithsonianmag.com/blogs/office-of-the-secretary-of-the-smithsonian/2026/02/17/smithsonian-archives-help-unlock-mysteries-connect-americans-history/",
+      "sourceType": "INSTITUTIONAL_ARCHIVAL_REPORTING"
+    },
+    {
+      "sourceId": "KRYPTOS_AUCTION",
+      "title": "The Complete Secrets of Kryptos: Jim Sanborn's Private Archive",
+      "publisher": "RR Auction",
+      "url": "https://www.rrauction.com/auctions/lot-detail/350761607302001-the-complete-secrets-of-kryptos-jim-sanborns-private-archive/",
+      "sourceType": "AUCTION_PRIMARY_DESCRIPTION"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "KRY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "K4는 Kryptos의 마지막 97-character section이며 오랫동안 공개적으로 미해독 상태였다.",
+      "statementEn": "K4 is the final 97-character section of Kryptos and remained publicly unsolved for decades.",
+      "sourceRefs": [
+        "KRYPTOS_CIA"
+      ]
+    },
+    {
+      "claimId": "KRY-C2",
+      "status": "CONFIRMED",
+      "statementKo": "2025 creator archive에서 K4 plaintext 관련 material이 확인됐다.",
+      "statementEn": "K4 plaintext-related material was identified in creator archival records in 2025.",
+      "sourceRefs": [
+        "KRYPTOS_SMITH2026",
+        "KRYPTOS_AUCTION"
+      ]
+    },
+    {
+      "claimId": "KRY-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "ciphertext만으로 independent public full solve가 확립됐다고 말할 수는 없다.",
+      "statementEn": "A full independently reproducible public solve derived solely from the ciphertext is not established.",
+      "sourceRefs": [
+        "KRYPTOS_CIA",
+        "KRYPTOS_SMITH2026",
+        "KRYPTOS_AUCTION"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "kry-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1990 installation → K1-K3 solved → K4 clues → 2025 archive plaintext discovery → public method gap.",
+      "captionEn": "1990 installation → K1-K3 solved → K4 clues → 2025 archive plaintext discovery → public-method gap.",
+      "altKo": "1990 installation → K1-K3 solved → K4 clues → 2025 archive plaintext discovery → public method gap.",
+      "altEn": "1990 installation → K1-K3 solved → K4 clues → 2025 archive plaintext discovery → public-method gap.",
+      "sourceRefs": [
+        "KRYPTOS_CIA",
+        "KRYPTOS_SMITH2026",
+        "KRYPTOS_AUCTION"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "kryptos-k4__v01__ko.png",
+          "sha256": "58f6356784d9b5ac2b092e015498c57c3a42bc9585f8fb00d3c71294c547e6d6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "kryptos-k4__v01__en.png",
+          "sha256": "675b8aaa8deaf758f511375db9f01f82b9963e928b77914bc3754e9c270f6949",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "kry-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "plaintext known via archive와 public cryptanalytic solve를 분리.",
+      "captionEn": "Separate archive-known plaintext from a public cryptanalytic solve.",
+      "altKo": "plaintext known via archive와 public cryptanalytic solve를 분리.",
+      "altEn": "Separate archive-known plaintext from a public cryptanalytic solve.",
+      "sourceRefs": [
+        "KRYPTOS_CIA",
+        "KRYPTOS_SMITH2026",
+        "KRYPTOS_AUCTION"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "kryptos-k4__v02__ko.png",
+          "sha256": "c6f6046d0ecd5c14f58895f717ee8630607aa5669d81c1e8778eb44694ed6df7",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "kryptos-k4__v02__en.png",
+          "sha256": "fc4ff1ed6f2b6e3c32edf2bea561454940a5648255da20d9eb76105516f60be4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "CIA Headquarters, Langley"
+    ],
+    "people": [
+      {
+        "name": "Jim Sanborn",
+        "role": "artist"
+      }
+    ],
+    "organizations": [
+      "CIA",
+      "Smithsonian"
+    ],
+    "resolution": "PLAINTEXT_ARCHIVALLY_IDENTIFIED_PUBLIC_REPRODUCIBLE_CRYPTOANALYTIC_METHOD_NOT_ESTABLISHED"
+  },
+  "quality": {
+    "koBodyChars": 1935,
+    "enBodyWords": 195,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

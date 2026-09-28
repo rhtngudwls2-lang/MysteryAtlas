@@ -1,0 +1,295 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "morning-glory-cloud",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "모닝 글로리 구름",
+    "canonicalTitleEn": "Morning Glory Cloud",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "수백 km짜리 구름벽은 왜 같은 계절에 같은 바다 위를 달릴까",
+      "hook": "Morning Glory는 설명되지 않은 괴현상이 아니다. 하지만 sea breeze와 inversion이 만들어내는 거대한 atmospheric wave가 왜 이 지역에서 그렇게 규칙적으로 나타나는지는 지형·계절조건의 정교한 조합을 보여준다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "수백 km 길이의 구름벽이 매년 비슷한 계절·지역에 나타난다",
+          "headingEn": "A Cloud Wall Hundreds of Kilometres Long Returns to the Same Region and Season",
+          "textKo": "Australia Bureau of Meteorology는 Morning Glory를 Gulf of Carpentaria와 northwest Queensland에서 특히 spring에 반복적으로 관측되는 roll cloud로 설명한다. 길이는 수백 km, 때로는 1000 km에 이를 수 있고 여러 개의 parallel roll이 연속해서 나타나기도 한다. 장관 때문에 초자연적 현상처럼 보이지만, regular seasonality와 regional geography가 있다는 점이 오히려 atmospheric mechanism을 추적할 수 있게 한다.",
+          "textEn": "Australia's Bureau of Meteorology describes Morning Glory as a roll cloud that occurs especially around the Gulf of Carpentaria in spring, sometimes extending hundreds of kilometres and appearing in multiple parallel rolls."
+        },
+        {
+          "blockId": "breeze-02",
+          "type": "BACKGROUND",
+          "headingKo": "Cape York 양쪽의 sea breeze가 충돌하며 대기파동을 만든다",
+          "headingEn": "Sea Breezes on Both Sides of Cape York Help Generate the Atmospheric Wave",
+          "textKo": "낮 동안 Cape York Peninsula 양쪽 해안에서 sea breeze가 내륙으로 들어오고 서로 만난다. 밤이 되면 육지가 식으면서 dense air가 내려가고 Gulf 위에는 inversion layer가 형성될 수 있다. 이때 peninsula에서 밀려나온 air가 inversion 아래로 파고들며 atmospheric gravity wave 같은 disturbance를 만든다. cloud는 이 wave의 visible part다.",
+          "textEn": "Sea breezes from opposite sides of Cape York can collide, while nighttime cooling and an inversion over the Gulf allow a propagating atmospheric wave to form."
+        },
+        {
+          "blockId": "cloud-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "wave 앞쪽에서는 수증기가 응결하고 뒤쪽에서는 다시 증발한다",
+          "headingEn": "Cloud Forms at the Rising Edge and Evaporates Behind It",
+          "textKo": "BOM 설명에 따르면 wave leading edge에서 moist air가 상승해 냉각·응결하면서 긴 cloud band가 형성되고, 뒤쪽 descending air에서는 cloud가 다시 증발한다. 그래서 전체 cloud가 고정된 물질덩어리처럼 이동한다기보다 wave와 함께 계속 생성·소멸하는 구조다. 이 mechanism은 roll cloud가 왜 매끈한 원통형·banded appearance를 보이는지 설명한다.",
+          "textEn": "At the leading edge of the wave, moist air rises, cools, and condenses; behind it, descending air causes the cloud to evaporate. The visible roll is continuously forming and dissipating with the wave."
+        },
+        {
+          "blockId": "rare-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "mechanism을 안다고 매일 정확히 예측할 수 있는 것은 아니다",
+          "headingEn": "Knowing the Mechanism Does Not Make Every Event Precisely Predictable",
+          "textKo": "Morning Glory type roll cloud는 다른 지역에서도 가능하지만 Burketown 주변처럼 비교적 regular하게 관측되는 곳은 드물다. sea-breeze timing, inversion strength, moisture, synoptic background가 함께 맞아야 하기 때문이다. 그래서 general mechanism은 설명돼도 individual event의 exact timing, number of rolls, length를 완벽하게 예측하는 문제는 여전히 operational meteorology의 영역이다.",
+          "textEn": "Roll clouds can occur elsewhere, but the Gulf region is unusual for their relative regularity. Sea-breeze timing, inversion strength, moisture, and broader weather must all align, so exact event prediction remains difficult."
+        },
+        {
+          "blockId": "risk-05",
+          "type": "AFTERMATH",
+          "headingKo": "아름다운 구름이지만 aviation에서는 wind shear와 pressure jump를 동반할 수 있다",
+          "headingEn": "The Spectacle Can Still Carry Aviation Hazards",
+          "textKo": "BOM aviation material은 Morning Glory passage가 sudden wind squall, wind shear, sharp surface-pressure jump와 동반될 수 있다고 설명한다. 즉 현상을 ‘설명된 구름’으로 분류한다고 위험이 사라지는 것은 아니다. atmospheric wave의 구조를 이해하는 것은 사진의 미스터리를 푸는 동시에 flight planning과 local forecasting에도 실용적 의미가 있다.",
+          "textEn": "BOM aviation material notes that Morning Glory passage can involve a sudden squall, wind shear, and a sharp pressure jump. Explaining the phenomenon does not remove its operational hazards."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Morning Glory는 Gulf of Carpentaria에서 spring에 비교적 regular하게 나타나는 roll-cloud/atmospheric-wave phenomenon이며 sea-breeze interaction, nocturnal cooling, inversion과 관련된다.\n\n확인되지 않음: 모든 individual Morning Glory event의 exact timing·length·number of rolls를 하나의 simple forecast rule로 완벽히 예측할 수 있는 것은 아니다.",
+          "textEn": "Established: Morning Glory is a roll-cloud atmospheric-wave phenomenon occurring relatively regularly around the Gulf of Carpentaria in spring, associated with sea-breeze interaction, nighttime cooling and an inversion.\n\nNot established: One simple rule does not perfectly predict the exact timing, length, and number of rolls in every event."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "breeze-02",
+        "cloud-03",
+        "rare-04",
+        "risk-05"
+      ]
+    },
+    "en": {
+      "headline": "Why Does a Cloud Wall Hundreds of Kilometres Long Return to the Same Gulf Each Spring?",
+      "hook": "Morning Glory is not an unexplained anomaly; it is a striking atmospheric wave whose regular appearance reveals a precise interaction of geography, sea breezes, and inversion layers.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "수백 km 길이의 구름벽이 매년 비슷한 계절·지역에 나타난다",
+          "headingEn": "A Cloud Wall Hundreds of Kilometres Long Returns to the Same Region and Season",
+          "textKo": "Australia Bureau of Meteorology는 Morning Glory를 Gulf of Carpentaria와 northwest Queensland에서 특히 spring에 반복적으로 관측되는 roll cloud로 설명한다. 길이는 수백 km, 때로는 1000 km에 이를 수 있고 여러 개의 parallel roll이 연속해서 나타나기도 한다. 장관 때문에 초자연적 현상처럼 보이지만, regular seasonality와 regional geography가 있다는 점이 오히려 atmospheric mechanism을 추적할 수 있게 한다.",
+          "textEn": "Australia's Bureau of Meteorology describes Morning Glory as a roll cloud that occurs especially around the Gulf of Carpentaria in spring, sometimes extending hundreds of kilometres and appearing in multiple parallel rolls."
+        },
+        {
+          "blockId": "breeze-02",
+          "type": "BACKGROUND",
+          "headingKo": "Cape York 양쪽의 sea breeze가 충돌하며 대기파동을 만든다",
+          "headingEn": "Sea Breezes on Both Sides of Cape York Help Generate the Atmospheric Wave",
+          "textKo": "낮 동안 Cape York Peninsula 양쪽 해안에서 sea breeze가 내륙으로 들어오고 서로 만난다. 밤이 되면 육지가 식으면서 dense air가 내려가고 Gulf 위에는 inversion layer가 형성될 수 있다. 이때 peninsula에서 밀려나온 air가 inversion 아래로 파고들며 atmospheric gravity wave 같은 disturbance를 만든다. cloud는 이 wave의 visible part다.",
+          "textEn": "Sea breezes from opposite sides of Cape York can collide, while nighttime cooling and an inversion over the Gulf allow a propagating atmospheric wave to form."
+        },
+        {
+          "blockId": "cloud-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "wave 앞쪽에서는 수증기가 응결하고 뒤쪽에서는 다시 증발한다",
+          "headingEn": "Cloud Forms at the Rising Edge and Evaporates Behind It",
+          "textKo": "BOM 설명에 따르면 wave leading edge에서 moist air가 상승해 냉각·응결하면서 긴 cloud band가 형성되고, 뒤쪽 descending air에서는 cloud가 다시 증발한다. 그래서 전체 cloud가 고정된 물질덩어리처럼 이동한다기보다 wave와 함께 계속 생성·소멸하는 구조다. 이 mechanism은 roll cloud가 왜 매끈한 원통형·banded appearance를 보이는지 설명한다.",
+          "textEn": "At the leading edge of the wave, moist air rises, cools, and condenses; behind it, descending air causes the cloud to evaporate. The visible roll is continuously forming and dissipating with the wave."
+        },
+        {
+          "blockId": "rare-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "mechanism을 안다고 매일 정확히 예측할 수 있는 것은 아니다",
+          "headingEn": "Knowing the Mechanism Does Not Make Every Event Precisely Predictable",
+          "textKo": "Morning Glory type roll cloud는 다른 지역에서도 가능하지만 Burketown 주변처럼 비교적 regular하게 관측되는 곳은 드물다. sea-breeze timing, inversion strength, moisture, synoptic background가 함께 맞아야 하기 때문이다. 그래서 general mechanism은 설명돼도 individual event의 exact timing, number of rolls, length를 완벽하게 예측하는 문제는 여전히 operational meteorology의 영역이다.",
+          "textEn": "Roll clouds can occur elsewhere, but the Gulf region is unusual for their relative regularity. Sea-breeze timing, inversion strength, moisture, and broader weather must all align, so exact event prediction remains difficult."
+        },
+        {
+          "blockId": "risk-05",
+          "type": "AFTERMATH",
+          "headingKo": "아름다운 구름이지만 aviation에서는 wind shear와 pressure jump를 동반할 수 있다",
+          "headingEn": "The Spectacle Can Still Carry Aviation Hazards",
+          "textKo": "BOM aviation material은 Morning Glory passage가 sudden wind squall, wind shear, sharp surface-pressure jump와 동반될 수 있다고 설명한다. 즉 현상을 ‘설명된 구름’으로 분류한다고 위험이 사라지는 것은 아니다. atmospheric wave의 구조를 이해하는 것은 사진의 미스터리를 푸는 동시에 flight planning과 local forecasting에도 실용적 의미가 있다.",
+          "textEn": "BOM aviation material notes that Morning Glory passage can involve a sudden squall, wind shear, and a sharp pressure jump. Explaining the phenomenon does not remove its operational hazards."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Morning Glory는 Gulf of Carpentaria에서 spring에 비교적 regular하게 나타나는 roll-cloud/atmospheric-wave phenomenon이며 sea-breeze interaction, nocturnal cooling, inversion과 관련된다.\n\n확인되지 않음: 모든 individual Morning Glory event의 exact timing·length·number of rolls를 하나의 simple forecast rule로 완벽히 예측할 수 있는 것은 아니다.",
+          "textEn": "Established: Morning Glory is a roll-cloud atmospheric-wave phenomenon occurring relatively regularly around the Gulf of Carpentaria in spring, associated with sea-breeze interaction, nighttime cooling and an inversion.\n\nNot established: One simple rule does not perfectly predict the exact timing, length, and number of rolls in every event."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "breeze-02",
+        "cloud-03",
+        "rare-04",
+        "risk-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "BOM_MORNING",
+      "title": "What's the science behind these spectacular weather photos?",
+      "publisher": "Australian Bureau of Meteorology",
+      "url": "https://media.bom.gov.au/social/blog/2272/whats-the-science-behind-these-spectacular-weather-photos/",
+      "sourceType": "GOVERNMENT_METEOROLOGY"
+    },
+    {
+      "sourceId": "BOM_TROPICS",
+      "title": "Flying the Tropics — Morning Glory Cloud",
+      "publisher": "Australian Bureau of Meteorology",
+      "url": "https://www.bom.gov.au/aviation/data/education/flying-tropics.pdf",
+      "sourceType": "GOVERNMENT_AVIATION_METEOROLOGY"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "MG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Morning Glory는 Gulf of Carpentaria에서 spring에 비교적 regular하게 나타나는 roll cloud다.",
+      "statementEn": "Morning Glory is a roll cloud that appears relatively regularly around the Gulf of Carpentaria in spring.",
+      "sourceRefs": [
+        "BOM_MORNING",
+        "BOM_TROPICS"
+      ]
+    },
+    {
+      "claimId": "MG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "sea-breeze interaction과 inversion이 wave/cloud formation의 핵심요소다.",
+      "statementEn": "Sea-breeze interaction and an inversion are central to wave/cloud formation.",
+      "sourceRefs": [
+        "BOM_MORNING",
+        "BOM_TROPICS"
+      ]
+    },
+    {
+      "claimId": "MG-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "every event의 exact form과 timing을 단일 rule로 완벽예측할 수는 없다.",
+      "statementEn": "A single rule does not perfectly predict every event's exact form and timing.",
+      "sourceRefs": [
+        "BOM_MORNING"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "mg-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Cape York sea breezes → nocturnal inversion → atmospheric wave → roll cloud.",
+      "captionEn": "Cape York sea breezes → nocturnal inversion → atmospheric wave → roll cloud.",
+      "altKo": "Cape York sea breezes → nocturnal inversion → atmospheric wave → roll cloud.",
+      "altEn": "Cape York sea breezes → nocturnal inversion → atmospheric wave → roll cloud.",
+      "sourceRefs": [
+        "BOM_MORNING",
+        "BOM_TROPICS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "morning-glory-cloud__v01__ko.png",
+          "sha256": "dbe38e62c6fc3d4e6d5c1d0ee53415d0f2424f9c58c7a841d7b7d42e7f6ba9bd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "morning-glory-cloud__v01__en.png",
+          "sha256": "6367e60b7db66f90687624c4adc764a1bfe206187902284e87882026790ea75b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mg-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "general mechanism explained / exact individual-event forecast limited.",
+      "captionEn": "General mechanism explained / exact event forecast limited.",
+      "altKo": "general mechanism explained / exact individual-event forecast limited.",
+      "altEn": "General mechanism explained / exact event forecast limited.",
+      "sourceRefs": [
+        "BOM_MORNING",
+        "BOM_TROPICS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "morning-glory-cloud__v02__ko.png",
+          "sha256": "eec1eaa023f1555c76ce965fa310aa070fa5f2d7fd0b0e1cebb7817108608a79",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "morning-glory-cloud__v02__en.png",
+          "sha256": "850b0cc45e40f8d69786946e9feca707de42a58aa8a5a061d73a0ec45471dfe5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "Gulf of Carpentaria",
+      "Queensland"
+    ],
+    "resolution": "PHENOMENON_AND_GENERAL_MECHANISM_ESTABLISHED_EVENT_SCALE_FORECAST_LIMITED"
+  },
+  "quality": {
+    "koBodyChars": 1663,
+    "enBodyWords": 199,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH25_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

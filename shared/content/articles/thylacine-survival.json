@@ -1,0 +1,326 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "thylacine-survival",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "태즈메이니아 타이거 생존설",
+    "canonicalTitleEn": "Thylacine Survival Claims",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "마지막 known 개체가 죽은 뒤에도 목격담은 왜 90년 가까이 끝나지 않았나",
+      "hook": "Thylacine은 실제로 존재했던 종이고 decline history도 잘 기록돼 있다. 남은 미스터리는 sighting report가 아니라 1936 이후 살아 있는 population을 입증할 hard evidence가 있는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "마지막 known captive thylacine은 1936년 Hobart Zoo에서 죽었다",
+          "headingEn": "The Last Known Captive Thylacine Died at Hobart Zoo in 1936",
+          "textKo": "Tasmania Parks & Wildlife Service는 1933년 Florentine Valley에서 포획돼 Hobart Zoo로 간 개체가 1936년 9월 7일 죽었고, 이것이 마지막 known thylacine 기록이라고 설명한다. 당시 species는 같은 해 보호종으로 지정됐지만 이미 극도로 희귀해진 상태였다. 이 documented endpoint는 중요하다. 그 뒤의 이야기는 specimen·captivity record가 아니라 survival claim과 search evidence의 영역으로 넘어간다.",
+          "textEn": "Tasmania Parks & Wildlife Service says a thylacine captured in the Florentine Valley in 1933 and sent to Hobart Zoo died on September 7, 1936, becoming the last known thylacine record."
+        },
+        {
+          "blockId": "decline-02",
+          "type": "BACKGROUND",
+          "headingKo": "European settlement 이후 persecution·bounty·habitat pressure가 급격한 decline에 기여했다",
+          "headingEn": "Persecution, Bounties, and Habitat Pressure Drove a Severe Decline",
+          "textKo": "thylacine은 European settlement 초기 Tasmania에 널리 분포했지만 livestock conflict로 집중적인 persecution을 받았다. bounty system과 trapping, habitat change, rare population dynamics가 decline에 작용했다. 마지막 captive death가 갑자기 하나의 healthy population 전체를 지운 것이 아니라 decades of decline 끝에 documented record가 끊어진 것이다. 이 historical context는 ‘왜 마지막 확인 뒤 바로 다시 못 찾았나’를 이해하는 데 중요하다.",
+          "textEn": "Thylacines were once widespread in Tasmania but suffered sustained persecution, bounty hunting, trapping and habitat pressure. The 1936 captive death came at the end of a long decline, not the sudden disappearance of a healthy large population."
+        },
+        {
+          "blockId": "sightings-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1936 이후 수백 건의 sighting report가 있었지만 모두 inconclusive로 남았다",
+          "headingEn": "Hundreds of Sightings Were Reported After 1936, but All Remained Inconclusive",
+          "textKo": "Tasmania NRE는 1936 이후 hundreds of reported sightings가 있었고 일부는 study에서 relatively good sightings로 평가됐다고 설명한다. 그럼에도 어느 sighting도 live animal, body, DNA, clear diagnostic image 같은 conclusive evidence로 이어지지 않았다. 심지어 mainland Australia에서도 비슷한 quality의 reports가 나온다는 점은 eyewitness quality와 species confirmation이 다르다는 것을 보여준다.",
+          "textEn": "Tasmania's NRE notes hundreds of reported sightings after 1936, some judged relatively good, yet all remained inconclusive. No sighting produced the kind of physical evidence needed to confirm a surviving population."
+        },
+        {
+          "blockId": "searches-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "공식·민간 search가 반복됐지만 continued existence를 입증하지 못했다",
+          "headingEn": "Repeated Official and Private Searches Failed to Confirm Continued Existence",
+          "textKo": "1937부터 camera searches와 targeted field searches가 여러 차례 이어졌고 1980s에도 Parks and Wildlife officers가 automatic cameras를 사용했다. NRE의 summary는 이런 search들이 continued existence를 입증할 evidence를 찾지 못했다고 정리한다. search failure가 logical proof of absolute extinction은 아니지만, decades of negative searches는 ‘큰 viable population이 숨어 있다’는 hypothesis에는 계속 부담을 준다.",
+          "textEn": "Targeted searches continued from the 1930s onward, including camera surveys by Parks and Wildlife officers. These searches failed to produce evidence confirming continued existence. Search failure is not mathematical proof of extinction, but it weighs against a large hidden population."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "1986년 extinct로 선언된 뒤에도 sightings가 계속되는 이유는 ‘가능성’과 ‘증거’가 다르기 때문이다",
+          "headingEn": "Sightings Continue After the 1986 Extinction Declaration Because Possibility and Evidence Are Different",
+          "textKo": "Tasmania Parks & Wildlife Service는 species가 1986년 extinct로 declared됐다고 기록하며, 동시에 sighting reports가 계속된다고 설명한다. 작은 number의 survivors가 이론적으로 남았을 가능성을 완전히 배제하는 것과, 지금 살아 있는 population을 evidence로 확인하는 것은 다르다. 현재는 hard evidence 부재 때문에 official status가 extinct 쪽에 있다. 설령 few individuals가 late survival했더라도 long-term viable population을 유지할 genetic diversity와 breeding evidence는 또 다른 문제다.",
+          "textEn": "Tasmania Parks & Wildlife records the species as declared extinct in 1986 while noting continuing sighting reports. The possibility that a few animals survived longer is different from evidence of a currently viable population."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 마지막 known captive thylacine은 1936년 9월 7일 Hobart Zoo에서 죽었고 species는 1986년 extinct로 선언됐다. 이후 hundreds of sightings와 multiple searches가 있었지만 conclusive live evidence는 확보되지 않았다.\n\n확인되지 않음: 현재 Tasmania 또는 mainland Australia에 surviving thylacine population이 존재한다는 verified evidence는 없다. eyewitness report만으로 species survival을 확정할 수 없다.",
+          "textEn": "Established: The last known captive thylacine died at Hobart Zoo on September 7, 1936, and the species was declared extinct in 1986. Hundreds of sightings and multiple searches followed without conclusive live evidence.\n\nNot established: There is no verified evidence of a surviving thylacine population in Tasmania or mainland Australia."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 마지막 known captive thylacine은 1936년 9월 7일 Hobart Zoo에서 죽었고 species는 1986년 extinct로 선언됐다. 이후 hundreds of sightings와 multiple searches가 있었지만 conclusive live evidence는 확보되지 않았다.\n\n확인되지 않음: 현재 Tasmania 또는 mainland Australia에 surviving thylacine population이 존재한다는 verified evidence는 없다. eyewitness report만으로 species survival을 확정할 수 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "decline-02",
+        "sightings-03",
+        "searches-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "Why Have Thylacine Sightings Continued for Nearly 90 Years After the Last Known Animal Died?",
+      "hook": "The thylacine was a real species with a well-documented decline. The unresolved question is whether any hard evidence establishes survival after the last known animal died.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "마지막 known captive thylacine은 1936년 Hobart Zoo에서 죽었다",
+          "headingEn": "The Last Known Captive Thylacine Died at Hobart Zoo in 1936",
+          "textKo": "Tasmania Parks & Wildlife Service는 1933년 Florentine Valley에서 포획돼 Hobart Zoo로 간 개체가 1936년 9월 7일 죽었고, 이것이 마지막 known thylacine 기록이라고 설명한다. 당시 species는 같은 해 보호종으로 지정됐지만 이미 극도로 희귀해진 상태였다. 이 documented endpoint는 중요하다. 그 뒤의 이야기는 specimen·captivity record가 아니라 survival claim과 search evidence의 영역으로 넘어간다.",
+          "textEn": "Tasmania Parks & Wildlife Service says a thylacine captured in the Florentine Valley in 1933 and sent to Hobart Zoo died on September 7, 1936, becoming the last known thylacine record."
+        },
+        {
+          "blockId": "decline-02",
+          "type": "BACKGROUND",
+          "headingKo": "European settlement 이후 persecution·bounty·habitat pressure가 급격한 decline에 기여했다",
+          "headingEn": "Persecution, Bounties, and Habitat Pressure Drove a Severe Decline",
+          "textKo": "thylacine은 European settlement 초기 Tasmania에 널리 분포했지만 livestock conflict로 집중적인 persecution을 받았다. bounty system과 trapping, habitat change, rare population dynamics가 decline에 작용했다. 마지막 captive death가 갑자기 하나의 healthy population 전체를 지운 것이 아니라 decades of decline 끝에 documented record가 끊어진 것이다. 이 historical context는 ‘왜 마지막 확인 뒤 바로 다시 못 찾았나’를 이해하는 데 중요하다.",
+          "textEn": "Thylacines were once widespread in Tasmania but suffered sustained persecution, bounty hunting, trapping and habitat pressure. The 1936 captive death came at the end of a long decline, not the sudden disappearance of a healthy large population."
+        },
+        {
+          "blockId": "sightings-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1936 이후 수백 건의 sighting report가 있었지만 모두 inconclusive로 남았다",
+          "headingEn": "Hundreds of Sightings Were Reported After 1936, but All Remained Inconclusive",
+          "textKo": "Tasmania NRE는 1936 이후 hundreds of reported sightings가 있었고 일부는 study에서 relatively good sightings로 평가됐다고 설명한다. 그럼에도 어느 sighting도 live animal, body, DNA, clear diagnostic image 같은 conclusive evidence로 이어지지 않았다. 심지어 mainland Australia에서도 비슷한 quality의 reports가 나온다는 점은 eyewitness quality와 species confirmation이 다르다는 것을 보여준다.",
+          "textEn": "Tasmania's NRE notes hundreds of reported sightings after 1936, some judged relatively good, yet all remained inconclusive. No sighting produced the kind of physical evidence needed to confirm a surviving population."
+        },
+        {
+          "blockId": "searches-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "공식·민간 search가 반복됐지만 continued existence를 입증하지 못했다",
+          "headingEn": "Repeated Official and Private Searches Failed to Confirm Continued Existence",
+          "textKo": "1937부터 camera searches와 targeted field searches가 여러 차례 이어졌고 1980s에도 Parks and Wildlife officers가 automatic cameras를 사용했다. NRE의 summary는 이런 search들이 continued existence를 입증할 evidence를 찾지 못했다고 정리한다. search failure가 logical proof of absolute extinction은 아니지만, decades of negative searches는 ‘큰 viable population이 숨어 있다’는 hypothesis에는 계속 부담을 준다.",
+          "textEn": "Targeted searches continued from the 1930s onward, including camera surveys by Parks and Wildlife officers. These searches failed to produce evidence confirming continued existence. Search failure is not mathematical proof of extinction, but it weighs against a large hidden population."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "1986년 extinct로 선언된 뒤에도 sightings가 계속되는 이유는 ‘가능성’과 ‘증거’가 다르기 때문이다",
+          "headingEn": "Sightings Continue After the 1986 Extinction Declaration Because Possibility and Evidence Are Different",
+          "textKo": "Tasmania Parks & Wildlife Service는 species가 1986년 extinct로 declared됐다고 기록하며, 동시에 sighting reports가 계속된다고 설명한다. 작은 number의 survivors가 이론적으로 남았을 가능성을 완전히 배제하는 것과, 지금 살아 있는 population을 evidence로 확인하는 것은 다르다. 현재는 hard evidence 부재 때문에 official status가 extinct 쪽에 있다. 설령 few individuals가 late survival했더라도 long-term viable population을 유지할 genetic diversity와 breeding evidence는 또 다른 문제다.",
+          "textEn": "Tasmania Parks & Wildlife records the species as declared extinct in 1986 while noting continuing sighting reports. The possibility that a few animals survived longer is different from evidence of a currently viable population."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 마지막 known captive thylacine은 1936년 9월 7일 Hobart Zoo에서 죽었고 species는 1986년 extinct로 선언됐다. 이후 hundreds of sightings와 multiple searches가 있었지만 conclusive live evidence는 확보되지 않았다.\n\n확인되지 않음: 현재 Tasmania 또는 mainland Australia에 surviving thylacine population이 존재한다는 verified evidence는 없다. eyewitness report만으로 species survival을 확정할 수 없다.",
+          "textEn": "Established: The last known captive thylacine died at Hobart Zoo on September 7, 1936, and the species was declared extinct in 1986. Hundreds of sightings and multiple searches followed without conclusive live evidence.\n\nNot established: There is no verified evidence of a surviving thylacine population in Tasmania or mainland Australia."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: The last known captive thylacine died at Hobart Zoo on September 7, 1936, and the species was declared extinct in 1986. Hundreds of sightings and multiple searches followed without conclusive live evidence.\n\nNot established: There is no verified evidence of a surviving thylacine population in Tasmania or mainland Australia.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "decline-02",
+        "sightings-03",
+        "searches-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "TAS_PWS",
+      "title": "Tasmanian tiger",
+      "publisher": "Parks & Wildlife Service Tasmania",
+      "url": "https://parks.tas.gov.au/discovery-and-learning/wildlife/tasmanian-tiger",
+      "sourceType": "STATE_GOVERNMENT_WILDLIFE"
+    },
+    {
+      "sourceId": "TAS_NRE",
+      "title": "Tasmanian Tiger",
+      "publisher": "Department of Natural Resources and Environment Tasmania",
+      "url": "https://nre.tas.gov.au/wildlife-management/fauna-of-tasmania/mammals/carnivorous-marsupials-and-bandicoots/tasmanian-tiger",
+      "sourceType": "STATE_GOVERNMENT_WILDLIFE"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "THY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "마지막 known captive thylacine은 1936-09-07 Hobart Zoo에서 죽었다.",
+      "statementEn": "The last known captive thylacine died at Hobart Zoo on September 7, 1936.",
+      "sourceRefs": [
+        "TAS_PWS",
+        "TAS_NRE"
+      ]
+    },
+    {
+      "claimId": "THY-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1936 이후 hundreds of sightings와 multiple searches가 있었지만 conclusive evidence는 나오지 않았다.",
+      "statementEn": "Hundreds of sightings and multiple searches occurred after 1936 without conclusive evidence.",
+      "sourceRefs": [
+        "TAS_PWS",
+        "TAS_NRE"
+      ]
+    },
+    {
+      "claimId": "THY-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 surviving population이 존재한다는 verified evidence는 없다.",
+      "statementEn": "There is no verified evidence of a currently surviving population.",
+      "sourceRefs": [
+        "TAS_PWS",
+        "TAS_NRE"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "thy-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "decline → 1936 last known captive death → searches/sightings → 1986 extinct declaration → current status.",
+      "captionEn": "Decline → 1936 last known captive death → searches/sightings → 1986 extinction declaration → current status.",
+      "altKo": "decline → 1936 last known captive death → searches/sightings → 1986 extinct declaration → current status.",
+      "altEn": "Decline → 1936 last known captive death → searches/sightings → 1986 extinction declaration → current status.",
+      "sourceRefs": [
+        "TAS_PWS",
+        "TAS_NRE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "thylacine-survival__v01__ko.png",
+          "sha256": "0e110571f56deb6c41cd070647c0269a7507ca3d4847bcbb6973ffb85f8fc668",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "thylacine-survival__v01__en.png",
+          "sha256": "165a53564be7ecf713b8904cc2c0d556326955409d28fb3524de9e4438c010ba",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "thy-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "historical species / sightings / unsuccessful searches / surviving population claim을 분리.",
+      "captionEn": "Separate historical species, sightings, unsuccessful searches, and surviving-population claim.",
+      "altKo": "historical species / sightings / unsuccessful searches / surviving population claim을 분리.",
+      "altEn": "Separate historical species, sightings, unsuccessful searches, and surviving-population claim.",
+      "sourceRefs": [
+        "TAS_PWS",
+        "TAS_NRE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "thylacine-survival__v02__ko.png",
+          "sha256": "346b8326260dda47523946a43db285343e9a40a50e3640ee43f7b6d744b1f0d9",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "thylacine-survival__v02__en.png",
+          "sha256": "975e7ee9424d5f816b0c7d29e2c1090accb98407e2cb0c0908a25f1c10ac9456",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Extinction / Conservation"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "Tasmania"
+    ],
+    "organizations": [
+      "Parks & Wildlife Service Tasmania",
+      "NRE Tasmania"
+    ],
+    "dateRange": {
+      "start": "1936",
+      "end": "present",
+      "precision": "last known captive through current sightings"
+    },
+    "resolution": "SPECIES_HISTORICALLY_CONFIRMED_CURRENT_SURVIVAL_NOT_ESTABLISHED"
+  },
+  "quality": {
+    "koBodyChars": 2021,
+    "enBodyWords": 221,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

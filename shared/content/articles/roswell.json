@@ -1,0 +1,330 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "roswell",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로즈웰 사건",
+    "canonicalTitleEn": "Roswell Incident",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘비행접시’ 발표 하루 뒤 설명은 왜 바뀌었고, Project MOGUL은 무엇을 설명하나",
+      "hook": "Roswell의 가장 강한 사실은 초기 발표 혼선과 실제 classified program이 동시에 존재했다는 점이다. 그 사실들이 곧 외계기체를 뜻하는지는 별도의 증거문제다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1947년 Roswell의 첫 공식 발표는 ‘flying disc’라는 표현을 실제로 썼다",
+          "headingEn": "In 1947 the First Roswell Press Release Really Used the Phrase 'Flying Disc'",
+          "textKo": "Roswell 사건이 오래 살아남은 가장 큰 이유 중 하나는 초기 발표 자체가 극적으로 바뀌었다는 점이다. 1947년 Roswell Army Air Field는 ranch 부근에서 회수한 잔해를 ‘flying disc’와 연결하는 보도문을 냈고, 곧이어 상급 지휘계통은 weather balloon 계열 설명으로 정정했다. 이 혼선은 실제 역사기록의 일부다. 따라서 후대 전설을 모두 ‘처음부터 만들어낸 이야기’라고 하는 것도 부정확하고, 반대로 첫 표현만으로 외계기체 회수를 확정하는 것도 증거단계를 건너뛴다.",
+          "textEn": "One reason Roswell endured is the dramatic shift in the initial official messaging. Roswell Army Air Field issued a press statement referring to a recovered 'flying disc,' followed shortly by a higher-level explanation involving a balloon. That messaging reversal is part of the historical record, but it does not by itself establish an extraterrestrial craft."
+        },
+        {
+          "blockId": "mogul-02",
+          "type": "TURNING_POINT",
+          "headingKo": "1990년대 Air Force 재조사는 recovered debris를 Project MOGUL과 연결했다",
+          "headingEn": "The Air Force Reinvestigation Linked the Recovered Debris to Project MOGUL",
+          "textKo": "U.S. Air Force의 Roswell Report는 1947년에 회수된 material이 당시 고고도 balloon-borne research effort인 Project MOGUL과 관련됐다는 결론을 제시했다. MOGUL은 Soviet nuclear activity를 탐지하기 위한 classified acoustic-surveillance program의 일부였다. 당시 program 목적이 공개되지 않았기 때문에 일반적인 weather balloon이라는 짧은 설명이 실제 mission context를 충분히 보여주지 못했다는 점이 후대 의심을 키운 배경이 됐다. Mystery Atlas에서는 Roswell을 top-level CASE로 두고 Project MOGUL은 이 사건의 explanation dossier로 연결해야 한다.",
+          "textEn": "The U.S. Air Force Roswell Report concluded that the recovered material came from a balloon-borne research effort associated with Project MOGUL, a classified program aimed at detecting Soviet nuclear activity. Because the mission context was secret, the short public balloon explanation did not reveal the full purpose of the equipment."
+        },
+        {
+          "blockId": "records-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "공식 재조사는 debris claim과 후대 alien-body story를 같은 증거층으로 다루지 않았다",
+          "headingEn": "Official Reinvestigation Treated the Debris Claim and Later Alien-Body Stories as Different Evidence Layers",
+          "textKo": "1994년 Air Force record search의 중심은 1947 debris와 government record였고, 뒤이어 ‘alien bodies’를 봤다는 후대 증언은 별도의 검토대상이 됐다. 수십 년 뒤 등장한 body recovery narratives는 1947 contemporaneous debris record와 같은 provenance를 갖지 않는다. Air Force는 후대 body stories 중 일부를 military anthropomorphic dummy tests, accident memories, time-compressed recollections와 연결해 설명하려 했다. 이런 설명이 모든 개인기억을 수학적으로 증명하는 것은 아니지만, 최소한 ‘1947년에 외계인 시체가 공식 회수됐다’는 주장에는 contemporaneous documentary support가 부족하다.",
+          "textEn": "The 1994 Air Force review focused on 1947 debris and government records, while later alien-body stories formed a separate evidentiary layer. Decades-later body-recovery narratives do not share the provenance of the contemporary debris record. Later Air Force work explored links to anthropomorphic dummy tests, accidents, and compressed memories."
+        },
+        {
+          "blockId": "secrecy-04",
+          "type": "BACKGROUND",
+          "headingKo": "실제 기밀프로그램의 존재가 왜 더 큰 음모서사를 만들었는지 이해할 수 있다",
+          "headingEn": "A Real Classified Program Helps Explain Why the Larger Conspiracy Narrative Grew",
+          "textKo": "Roswell에는 실제 secrecy가 있었다. 그러나 ‘기밀이었다’는 사실과 ‘외계기체를 숨겼다’는 주장은 동일하지 않다. classified MOGUL context가 당시 public explanation을 단순화했고, decades later declassification이 뒤늦게 더 복잡한 배경을 보여주면서 불신이 강화됐다. 이런 구조에서는 genuine secrecy가 unsupported claim의 빈칸을 채우는 재료가 되기 쉽다. evidence-based account는 secret program의 실재를 인정하면서도 그 program이 무엇을 숨겼는지에 대한 별도증거를 요구해야 한다.",
+          "textEn": "Roswell did involve real secrecy, but 'classified' is not synonymous with 'alien craft.' MOGUL's secrecy simplified the public explanation and later declassification revealed a more complicated background, creating fertile ground for distrust. An evidence-based account must acknowledge genuine secrecy while separately testing what that secrecy actually concealed."
+        },
+        {
+          "blockId": "status-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Project MOGUL 설명이 강하다고 모든 후대 witness memory가 하나씩 완전히 해명된 것은 아니다",
+          "headingEn": "A Strong MOGUL Explanation Does Not Mean Every Later Witness Memory Has Been Individually Resolved",
+          "textKo": "official record는 recovered material에 대해 MOGUL이라는 구체적 historical explanation을 제공한다. 하지만 Roswell folklore은 수십 년 동안 서로 다른 witnesses, locations, bodies, crash sites, military actions를 추가하며 커졌다. 각 후대 claim의 provenance와 chronology는 별도로 검토해야 한다. ‘공식설이 있으니 모든 witness가 거짓말했다’는 결론도 증거를 넘고, ‘설명되지 않은 기억이 하나라도 있으니 alien crash다’라는 결론도 마찬가지다.",
+          "textEn": "Official records provide a concrete historical explanation for the recovered material, but Roswell folklore accumulated many later claims involving different witnesses, sites, bodies, and military actions. Each later claim has its own provenance and chronology. A strong MOGUL explanation does not prove every witness lied, and one unresolved memory does not prove an alien crash."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1947 Roswell Army Air Field는 ‘flying disc’ 표현을 사용한 초기 발표 뒤 balloon explanation으로 정정했다. U.S. Air Force의 후대 조사에서는 recovered debris의 공식 설명을 Project MOGUL balloon-borne research와 연결했다.\n\n확인되지 않음: extraterrestrial vehicle 또는 alien bodies가 1947 Roswell에서 회수됐다는 contemporaneous verified evidence는 공개기록에서 확립되지 않았다. 후대 witness claims는 claim별 provenance 검토가 필요하다.",
+          "textEn": "Established: Roswell Army Air Field initially used the phrase 'flying disc' before the explanation shifted to a balloon. Later U.S. Air Force investigation linked the recovered debris to Project MOGUL balloon-borne research.\n\nNot established: Public records do not establish contemporaneous verified evidence that an extraterrestrial vehicle or alien bodies were recovered at Roswell in 1947."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1947 Roswell Army Air Field는 ‘flying disc’ 표현을 사용한 초기 발표 뒤 balloon explanation으로 정정했다. U.S. Air Force의 후대 조사에서는 recovered debris의 공식 설명을 Project MOGUL balloon-borne research와 연결했다.\n\n확인되지 않음: extraterrestrial vehicle 또는 alien bodies가 1947 Roswell에서 회수됐다는 contemporaneous verified evidence는 공개기록에서 확립되지 않았다. 후대 witness claims는 claim별 provenance 검토가 필요하다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mogul-02",
+        "records-03",
+        "secrecy-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "Why Did the 'Flying Disc' Announcement Change—and What Does Project MOGUL Actually Explain?",
+      "hook": "Roswell combines a genuine messaging reversal with a genuinely classified program. Whether those facts imply an alien craft is a separate evidentiary question.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1947년 Roswell의 첫 공식 발표는 ‘flying disc’라는 표현을 실제로 썼다",
+          "headingEn": "In 1947 the First Roswell Press Release Really Used the Phrase 'Flying Disc'",
+          "textKo": "Roswell 사건이 오래 살아남은 가장 큰 이유 중 하나는 초기 발표 자체가 극적으로 바뀌었다는 점이다. 1947년 Roswell Army Air Field는 ranch 부근에서 회수한 잔해를 ‘flying disc’와 연결하는 보도문을 냈고, 곧이어 상급 지휘계통은 weather balloon 계열 설명으로 정정했다. 이 혼선은 실제 역사기록의 일부다. 따라서 후대 전설을 모두 ‘처음부터 만들어낸 이야기’라고 하는 것도 부정확하고, 반대로 첫 표현만으로 외계기체 회수를 확정하는 것도 증거단계를 건너뛴다.",
+          "textEn": "One reason Roswell endured is the dramatic shift in the initial official messaging. Roswell Army Air Field issued a press statement referring to a recovered 'flying disc,' followed shortly by a higher-level explanation involving a balloon. That messaging reversal is part of the historical record, but it does not by itself establish an extraterrestrial craft."
+        },
+        {
+          "blockId": "mogul-02",
+          "type": "TURNING_POINT",
+          "headingKo": "1990년대 Air Force 재조사는 recovered debris를 Project MOGUL과 연결했다",
+          "headingEn": "The Air Force Reinvestigation Linked the Recovered Debris to Project MOGUL",
+          "textKo": "U.S. Air Force의 Roswell Report는 1947년에 회수된 material이 당시 고고도 balloon-borne research effort인 Project MOGUL과 관련됐다는 결론을 제시했다. MOGUL은 Soviet nuclear activity를 탐지하기 위한 classified acoustic-surveillance program의 일부였다. 당시 program 목적이 공개되지 않았기 때문에 일반적인 weather balloon이라는 짧은 설명이 실제 mission context를 충분히 보여주지 못했다는 점이 후대 의심을 키운 배경이 됐다. Mystery Atlas에서는 Roswell을 top-level CASE로 두고 Project MOGUL은 이 사건의 explanation dossier로 연결해야 한다.",
+          "textEn": "The U.S. Air Force Roswell Report concluded that the recovered material came from a balloon-borne research effort associated with Project MOGUL, a classified program aimed at detecting Soviet nuclear activity. Because the mission context was secret, the short public balloon explanation did not reveal the full purpose of the equipment."
+        },
+        {
+          "blockId": "records-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "공식 재조사는 debris claim과 후대 alien-body story를 같은 증거층으로 다루지 않았다",
+          "headingEn": "Official Reinvestigation Treated the Debris Claim and Later Alien-Body Stories as Different Evidence Layers",
+          "textKo": "1994년 Air Force record search의 중심은 1947 debris와 government record였고, 뒤이어 ‘alien bodies’를 봤다는 후대 증언은 별도의 검토대상이 됐다. 수십 년 뒤 등장한 body recovery narratives는 1947 contemporaneous debris record와 같은 provenance를 갖지 않는다. Air Force는 후대 body stories 중 일부를 military anthropomorphic dummy tests, accident memories, time-compressed recollections와 연결해 설명하려 했다. 이런 설명이 모든 개인기억을 수학적으로 증명하는 것은 아니지만, 최소한 ‘1947년에 외계인 시체가 공식 회수됐다’는 주장에는 contemporaneous documentary support가 부족하다.",
+          "textEn": "The 1994 Air Force review focused on 1947 debris and government records, while later alien-body stories formed a separate evidentiary layer. Decades-later body-recovery narratives do not share the provenance of the contemporary debris record. Later Air Force work explored links to anthropomorphic dummy tests, accidents, and compressed memories."
+        },
+        {
+          "blockId": "secrecy-04",
+          "type": "BACKGROUND",
+          "headingKo": "실제 기밀프로그램의 존재가 왜 더 큰 음모서사를 만들었는지 이해할 수 있다",
+          "headingEn": "A Real Classified Program Helps Explain Why the Larger Conspiracy Narrative Grew",
+          "textKo": "Roswell에는 실제 secrecy가 있었다. 그러나 ‘기밀이었다’는 사실과 ‘외계기체를 숨겼다’는 주장은 동일하지 않다. classified MOGUL context가 당시 public explanation을 단순화했고, decades later declassification이 뒤늦게 더 복잡한 배경을 보여주면서 불신이 강화됐다. 이런 구조에서는 genuine secrecy가 unsupported claim의 빈칸을 채우는 재료가 되기 쉽다. evidence-based account는 secret program의 실재를 인정하면서도 그 program이 무엇을 숨겼는지에 대한 별도증거를 요구해야 한다.",
+          "textEn": "Roswell did involve real secrecy, but 'classified' is not synonymous with 'alien craft.' MOGUL's secrecy simplified the public explanation and later declassification revealed a more complicated background, creating fertile ground for distrust. An evidence-based account must acknowledge genuine secrecy while separately testing what that secrecy actually concealed."
+        },
+        {
+          "blockId": "status-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Project MOGUL 설명이 강하다고 모든 후대 witness memory가 하나씩 완전히 해명된 것은 아니다",
+          "headingEn": "A Strong MOGUL Explanation Does Not Mean Every Later Witness Memory Has Been Individually Resolved",
+          "textKo": "official record는 recovered material에 대해 MOGUL이라는 구체적 historical explanation을 제공한다. 하지만 Roswell folklore은 수십 년 동안 서로 다른 witnesses, locations, bodies, crash sites, military actions를 추가하며 커졌다. 각 후대 claim의 provenance와 chronology는 별도로 검토해야 한다. ‘공식설이 있으니 모든 witness가 거짓말했다’는 결론도 증거를 넘고, ‘설명되지 않은 기억이 하나라도 있으니 alien crash다’라는 결론도 마찬가지다.",
+          "textEn": "Official records provide a concrete historical explanation for the recovered material, but Roswell folklore accumulated many later claims involving different witnesses, sites, bodies, and military actions. Each later claim has its own provenance and chronology. A strong MOGUL explanation does not prove every witness lied, and one unresolved memory does not prove an alien crash."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1947 Roswell Army Air Field는 ‘flying disc’ 표현을 사용한 초기 발표 뒤 balloon explanation으로 정정했다. U.S. Air Force의 후대 조사에서는 recovered debris의 공식 설명을 Project MOGUL balloon-borne research와 연결했다.\n\n확인되지 않음: extraterrestrial vehicle 또는 alien bodies가 1947 Roswell에서 회수됐다는 contemporaneous verified evidence는 공개기록에서 확립되지 않았다. 후대 witness claims는 claim별 provenance 검토가 필요하다.",
+          "textEn": "Established: Roswell Army Air Field initially used the phrase 'flying disc' before the explanation shifted to a balloon. Later U.S. Air Force investigation linked the recovered debris to Project MOGUL balloon-borne research.\n\nNot established: Public records do not establish contemporaneous verified evidence that an extraterrestrial vehicle or alien bodies were recovered at Roswell in 1947."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Roswell Army Air Field initially used the phrase 'flying disc' before the explanation shifted to a balloon. Later U.S. Air Force investigation linked the recovered debris to Project MOGUL balloon-borne research.\n\nNot established: Public records do not establish contemporaneous verified evidence that an extraterrestrial vehicle or alien bodies were recovered at Roswell in 1947.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mogul-02",
+        "records-03",
+        "secrecy-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "AF_ROSWELL",
+      "title": "The Roswell Report",
+      "publisher": "U.S. Air Force",
+      "url": "https://www.af.mil/The-Roswell-Report/",
+      "sourceType": "US_AIR_FORCE"
+    },
+    {
+      "sourceId": "NARA_UFO_RECORDS",
+      "title": "UAP / UFO Records",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/research/topics/uaps",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "ROS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1947 RAAF는 초기 ‘flying disc’ 발표 뒤 balloon explanation으로 정정했다.",
+      "statementEn": "Roswell Army Air Field initially announced a recovered 'flying disc' before the explanation changed to a balloon.",
+      "sourceRefs": [
+        "AF_ROSWELL",
+        "NARA_UFO_RECORDS"
+      ]
+    },
+    {
+      "claimId": "ROS-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Air Force 후대조사는 recovered debris를 Project MOGUL과 연결했다.",
+      "statementEn": "Later Air Force investigation linked the recovered debris to Project MOGUL.",
+      "sourceRefs": [
+        "AF_ROSWELL"
+      ]
+    },
+    {
+      "claimId": "ROS-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1947 extraterrestrial craft/alien-body recovery는 public record로 확립되지 않았다.",
+      "statementEn": "A 1947 recovery of an extraterrestrial craft or alien bodies is not established by the public record.",
+      "sourceRefs": [
+        "AF_ROSWELL",
+        "NARA_UFO_RECORDS"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ros-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "debris 발견 → flying-disc press release → balloon correction → MOGUL context → later reinvestigation.",
+      "captionEn": "Debris found → flying-disc press release → balloon correction → MOGUL context → later reinvestigation.",
+      "altKo": "debris 발견 → flying-disc press release → balloon correction → MOGUL context → later reinvestigation.",
+      "altEn": "Debris found → flying-disc press release → balloon correction → MOGUL context → later reinvestigation.",
+      "sourceRefs": [
+        "AF_ROSWELL",
+        "NARA_UFO_RECORDS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roswell__v01__ko.png",
+          "sha256": "40eebfb888ae6df182a55688abfbf1a5b405e9b11053e7a32f79e48a866b873e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roswell__v01__en.png",
+          "sha256": "55f93e9a1c3068165860dd644599b6a24ea5c64709be7fb6aa65e0372b3afbff",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ros-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1947 debris record / MOGUL explanation / later alien-body claims를 분리.",
+      "captionEn": "Separate 1947 debris records, the MOGUL explanation, and later alien-body claims.",
+      "altKo": "1947 debris record / MOGUL explanation / later alien-body claims를 분리.",
+      "altEn": "Separate 1947 debris records, the MOGUL explanation, and later alien-body claims.",
+      "sourceRefs": [
+        "AF_ROSWELL",
+        "NARA_UFO_RECORDS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roswell__v02__ko.png",
+          "sha256": "bd8f2eb5a3092189c4f48f00a5925f518923746d8d183b0437c93fd26be85c28",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roswell__v02__en.png",
+          "sha256": "07916fe68b104f2c2d18bd0d41ba894fd504f88a2cd335e115d8e8708c18503a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "secondaryGenres": [
+      "UFO / UAP / Aerial Anomaly",
+      "Intelligence / Secret Program / Conspiracy"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New Mexico"
+    ],
+    "places": [
+      {
+        "name": "Roswell, New Mexico",
+        "role": "incident region"
+      }
+    ],
+    "organizations": [
+      "U.S. Air Force",
+      "U.S. National Archives"
+    ],
+    "resolution": "DEBRIS_OFFICIALLY_LINKED_TO_PROJECT_MOGUL_EXTRATERRESTRIAL_RECOVERY_NOT_ESTABLISHED",
+    "relatedCases": [
+      "project-mogul"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 2194,
+    "enBodyWords": 312,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH26_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

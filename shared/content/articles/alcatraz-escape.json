@@ -1,0 +1,301 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "alcatraz-escape",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "알카트라즈 탈옥",
+    "canonicalTitleEn": "Alcatraz Escape",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "감옥에서는 분명 빠져나갔다—그렇다면 살아서 Bay를 건넜나",
+      "hook": "Alcatraz 사건은 탈옥했나가 미스터리가 아니다. 남은 것은 세 명이 차가운 Bay를 건너 장기적으로 살아남았는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1962년 세 수감자는 dummy head를 침대에 남기고 실제로 cell block을 빠져나갔다",
+          "headingEn": "In 1962 Three Prisoners Left Dummy Heads in Their Beds and Really Escaped the Cell Block",
+          "textKo": "FBI는 Frank Morris와 John·Clarence Anglin이 1962년 6월 Alcatraz cells의 환기구 주변을 넓히고 service corridor로 빠져나가 roof와 shoreline까지 이동했다고 기록한다. 침대에는 plaster·paint·human hair로 만든 dummy heads가 놓여 있었다. 따라서 이 사건의 첫 단계, 즉 감옥 내부를 탈출했는가는 미스터리가 아니다. 핵심은 이후 San Francisco Bay를 건너 살아남았는가다.",
+          "textEn": "The FBI records that Frank Morris and John and Clarence Anglin widened openings around cell vents, entered a service corridor, and reached the roof and shoreline. Dummy heads were left in their beds. The unresolved question begins after they left the prison."
+        },
+        {
+          "blockId": "raft-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "raincoat로 만든 raft와 flotation gear 준비흔적이 남았다",
+          "headingEn": "Evidence Shows They Prepared a Raft and Flotation Gear From Raincoats",
+          "textKo": "수사기록에는 modified raincoats, paddles, escape tools와 관련된 physical evidence가 포함된다. 이 자료는 세 사람이 water escape를 사전에 준비했음을 강하게 지지한다. 그러나 준비흔적이 있다고 실제 crossing이 성공했다는 뜻은 아니다. 계획했다, 섬을 떠났다, 본토에 살아서 도착했다는 세 단계는 분리해야 한다.",
+          "textEn": "Physical evidence included modified raincoats, paddles and escape tools, strongly supporting a planned water escape. Preparation does not prove a successful crossing or long-term survival."
+        },
+        {
+          "blockId": "bay-03",
+          "type": "BACKGROUND",
+          "headingKo": "차가운 물과 조류는 위험했지만 생존불가능을 증명하지는 않는다",
+          "headingEn": "Cold Water and Currents Were Dangerous but Do Not Prove Death",
+          "textKo": "San Francisco Bay의 water temperature와 currents는 탈옥자에게 치명적인 위험요소였다. FBI는 tide와 drift possibility를 고려했고 body가 확인되지 않은 점도 검토했다. 하지만 매우 위험했다와 반드시 익사했다는 다른 claim이다. 반대로 시신이 없다는 사실만으로 survival을 증명할 수도 없다. 사건의 불확실성은 이 양쪽 한계 사이에 있다.",
+          "textEn": "The bay’s cold water and currents were dangerous, and investigators considered tide and drift. But dangerous is not the same as certain death, while the absence of bodies is not proof of survival."
+        },
+        {
+          "blockId": "leads-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대 사진·편지·sighting claim은 많지만 결정적 identity proof는 없다",
+          "headingEn": "Later Photos, Letters and Sightings Have Not Produced Conclusive Identity Proof",
+          "textKo": "수십 년 동안 South America photo, family letter, witness sighting 등 여러 survival story가 등장했다. 그러나 provenance와 facial identification, chain of custody가 충분하지 않아 어느 것도 final proof가 되지 못했다. FBI는 1979년 active investigation을 U.S. Marshals Service에 넘겼지만 세 사람의 final fate를 확정하지 못했다.",
+          "textEn": "Claims involving South American photographs, family letters and sightings appeared over decades, but provenance and identity verification remained insufficient. The FBI transferred responsibility to the U.S. Marshals Service in 1979 without establishing the men’s final fate."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "탈옥 성공과 생존 성공을 분리해야 정확해진다",
+          "headingEn": "The Case Requires Separating Escaped Prison From Survived the Bay",
+          "textKo": "cell block 탈출, shoreline 도달, raft 준비는 비교적 강한 evidence가 있다. 하지만 landing point, 이후 이동, 장기 생존에는 같은 수준의 evidence가 없다. 따라서 Alcatraz 탈옥 성공이라는 표현은 prison perimeter를 벗어났다는 의미로는 맞지만 생존까지 포함하면 결론이 과해진다. 사건의 매력은 이 두 success criterion 사이의 빈칸에 있다.",
+          "textEn": "Evidence for escaping the cell block, reaching the shoreline and preparing flotation is comparatively strong. Evidence for landing, later movement and long-term survival is not."
+        },
+        {
+          "blockId": "verification-055",
+          "type": "BACKGROUND",
+          "headingKo": "결정적 빈칸은 shoreline 이후를 이어주는 독립증거가 없다는 점이다",
+          "headingEn": "The Critical Gap Is the Lack of Independent Evidence Connecting the Shoreline to Later Survival",
+          "textKo": "탈옥 당일 남겨진 physical evidence는 prison 내부와 shoreline까지 비교적 촘촘하지만, 그 다음 단계부터 evidence chain이 급격히 약해진다. 실제 상륙흔적, 검증된 신분변경 기록, 확실한 재등장자료가 없기 때문에 후대의 photo나 family story는 강한 연결고리가 되지 못한다. 바로 이 단절 때문에 탈옥 성공과 생존 성공을 같은 결론으로 합칠 수 없다.",
+          "textEn": "Physical evidence is comparatively dense from the cells to the shoreline, but the chain weakens sharply afterward. Without verified landing evidence or confirmed later appearances, later stories cannot bridge the gap."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Morris와 Anglin 형제는 1962년 Alcatraz cells를 탈출했고 dummy heads와 raincoat-based escape preparation 등 물리증거가 남았다.\n\n확인되지 않음: 세 명이 Bay를 건너 살아남았는지, 어디에 상륙했는지, 이후 identity와 생활은 확정되지 않았다.",
+          "textEn": "Established: Morris and the Anglin brothers escaped their Alcatraz cells in 1962, leaving physical evidence including dummy heads and raincoat-based preparation.\n\nNot established: Whether they survived the bay crossing, where they landed, and what happened afterward remain unresolved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "raft-02",
+        "bay-03",
+        "leads-04",
+        "status-05",
+        "verification-055"
+      ]
+    },
+    "en": {
+      "headline": "They Definitely Escaped the Prison—Did They Survive the Bay?",
+      "hook": "The prison escape itself is well supported. The unresolved question is whether the three men survived the bay and what happened afterward.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1962년 세 수감자는 dummy head를 침대에 남기고 실제로 cell block을 빠져나갔다",
+          "headingEn": "In 1962 Three Prisoners Left Dummy Heads in Their Beds and Really Escaped the Cell Block",
+          "textKo": "FBI는 Frank Morris와 John·Clarence Anglin이 1962년 6월 Alcatraz cells의 환기구 주변을 넓히고 service corridor로 빠져나가 roof와 shoreline까지 이동했다고 기록한다. 침대에는 plaster·paint·human hair로 만든 dummy heads가 놓여 있었다. 따라서 이 사건의 첫 단계, 즉 감옥 내부를 탈출했는가는 미스터리가 아니다. 핵심은 이후 San Francisco Bay를 건너 살아남았는가다.",
+          "textEn": "The FBI records that Frank Morris and John and Clarence Anglin widened openings around cell vents, entered a service corridor, and reached the roof and shoreline. Dummy heads were left in their beds. The unresolved question begins after they left the prison."
+        },
+        {
+          "blockId": "raft-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "raincoat로 만든 raft와 flotation gear 준비흔적이 남았다",
+          "headingEn": "Evidence Shows They Prepared a Raft and Flotation Gear From Raincoats",
+          "textKo": "수사기록에는 modified raincoats, paddles, escape tools와 관련된 physical evidence가 포함된다. 이 자료는 세 사람이 water escape를 사전에 준비했음을 강하게 지지한다. 그러나 준비흔적이 있다고 실제 crossing이 성공했다는 뜻은 아니다. 계획했다, 섬을 떠났다, 본토에 살아서 도착했다는 세 단계는 분리해야 한다.",
+          "textEn": "Physical evidence included modified raincoats, paddles and escape tools, strongly supporting a planned water escape. Preparation does not prove a successful crossing or long-term survival."
+        },
+        {
+          "blockId": "bay-03",
+          "type": "BACKGROUND",
+          "headingKo": "차가운 물과 조류는 위험했지만 생존불가능을 증명하지는 않는다",
+          "headingEn": "Cold Water and Currents Were Dangerous but Do Not Prove Death",
+          "textKo": "San Francisco Bay의 water temperature와 currents는 탈옥자에게 치명적인 위험요소였다. FBI는 tide와 drift possibility를 고려했고 body가 확인되지 않은 점도 검토했다. 하지만 매우 위험했다와 반드시 익사했다는 다른 claim이다. 반대로 시신이 없다는 사실만으로 survival을 증명할 수도 없다. 사건의 불확실성은 이 양쪽 한계 사이에 있다.",
+          "textEn": "The bay’s cold water and currents were dangerous, and investigators considered tide and drift. But dangerous is not the same as certain death, while the absence of bodies is not proof of survival."
+        },
+        {
+          "blockId": "leads-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대 사진·편지·sighting claim은 많지만 결정적 identity proof는 없다",
+          "headingEn": "Later Photos, Letters and Sightings Have Not Produced Conclusive Identity Proof",
+          "textKo": "수십 년 동안 South America photo, family letter, witness sighting 등 여러 survival story가 등장했다. 그러나 provenance와 facial identification, chain of custody가 충분하지 않아 어느 것도 final proof가 되지 못했다. FBI는 1979년 active investigation을 U.S. Marshals Service에 넘겼지만 세 사람의 final fate를 확정하지 못했다.",
+          "textEn": "Claims involving South American photographs, family letters and sightings appeared over decades, but provenance and identity verification remained insufficient. The FBI transferred responsibility to the U.S. Marshals Service in 1979 without establishing the men’s final fate."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "탈옥 성공과 생존 성공을 분리해야 정확해진다",
+          "headingEn": "The Case Requires Separating Escaped Prison From Survived the Bay",
+          "textKo": "cell block 탈출, shoreline 도달, raft 준비는 비교적 강한 evidence가 있다. 하지만 landing point, 이후 이동, 장기 생존에는 같은 수준의 evidence가 없다. 따라서 Alcatraz 탈옥 성공이라는 표현은 prison perimeter를 벗어났다는 의미로는 맞지만 생존까지 포함하면 결론이 과해진다. 사건의 매력은 이 두 success criterion 사이의 빈칸에 있다.",
+          "textEn": "Evidence for escaping the cell block, reaching the shoreline and preparing flotation is comparatively strong. Evidence for landing, later movement and long-term survival is not."
+        },
+        {
+          "blockId": "verification-055",
+          "type": "BACKGROUND",
+          "headingKo": "결정적 빈칸은 shoreline 이후를 이어주는 독립증거가 없다는 점이다",
+          "headingEn": "The Critical Gap Is the Lack of Independent Evidence Connecting the Shoreline to Later Survival",
+          "textKo": "탈옥 당일 남겨진 physical evidence는 prison 내부와 shoreline까지 비교적 촘촘하지만, 그 다음 단계부터 evidence chain이 급격히 약해진다. 실제 상륙흔적, 검증된 신분변경 기록, 확실한 재등장자료가 없기 때문에 후대의 photo나 family story는 강한 연결고리가 되지 못한다. 바로 이 단절 때문에 탈옥 성공과 생존 성공을 같은 결론으로 합칠 수 없다.",
+          "textEn": "Physical evidence is comparatively dense from the cells to the shoreline, but the chain weakens sharply afterward. Without verified landing evidence or confirmed later appearances, later stories cannot bridge the gap."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Morris와 Anglin 형제는 1962년 Alcatraz cells를 탈출했고 dummy heads와 raincoat-based escape preparation 등 물리증거가 남았다.\n\n확인되지 않음: 세 명이 Bay를 건너 살아남았는지, 어디에 상륙했는지, 이후 identity와 생활은 확정되지 않았다.",
+          "textEn": "Established: Morris and the Anglin brothers escaped their Alcatraz cells in 1962, leaving physical evidence including dummy heads and raincoat-based preparation.\n\nNot established: Whether they survived the bay crossing, where they landed, and what happened afterward remain unresolved."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "raft-02",
+        "bay-03",
+        "leads-04",
+        "status-05",
+        "verification-055"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "ALC_FBI",
+      "title": "Alcatraz Escape",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/cases-and-criminals/alcatraz-escape",
+      "sourceType": "FBI_OFFICIAL_HISTORY"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "ALC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "세 명은 1962년 Alcatraz cells를 실제 탈출했다.",
+      "statementEn": "The three men genuinely escaped their Alcatraz cells in 1962.",
+      "sourceRefs": [
+        "ALC_FBI"
+      ]
+    },
+    {
+      "claimId": "ALC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "dummy heads와 raincoat-based preparations가 확인됐다.",
+      "statementEn": "Dummy heads and raincoat-based preparations were documented.",
+      "sourceRefs": [
+        "ALC_FBI"
+      ]
+    },
+    {
+      "claimId": "ALC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Bay crossing survival과 final fate는 확정되지 않았다.",
+      "statementEn": "Survival of the bay crossing and final fate remain unresolved.",
+      "sourceRefs": [
+        "ALC_FBI"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "alc-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "cell escape → roof → shoreline → water escape → fate unresolved.",
+      "captionEn": "Cell escape → roof → shoreline → water escape → fate unresolved.",
+      "altKo": "cell escape → roof → shoreline → water escape → fate unresolved.",
+      "altEn": "Cell escape → roof → shoreline → water escape → fate unresolved.",
+      "sourceRefs": [
+        "ALC_FBI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "alcatraz-escape__v01__ko.png",
+          "sha256": "872a5b3bc1f350f099ae738bb8531cdfcab66fa379091885de15f4606cf319d7",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "alcatraz-escape__v01__en.png",
+          "sha256": "180440cad5c8ba9c8fc86b8bbb388e72a9b267921d6962cda3157cfd3c903ad6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "alc-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "escape confirmed / water crossing attempted / long-term survival unresolved.",
+      "captionEn": "Confirmed escape / attempted water crossing / unresolved survival.",
+      "altKo": "escape confirmed / water crossing attempted / long-term survival unresolved.",
+      "altEn": "Confirmed escape / attempted water crossing / unresolved survival.",
+      "sourceRefs": [
+        "ALC_FBI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "alcatraz-escape__v02__ko.png",
+          "sha256": "7279bbb9c09523002a83da7e52e90bd8c6e13abcee1738080fa69cb967813024",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "alcatraz-escape__v02__en.png",
+          "sha256": "b91a6991a91b85c7e78035a2a9d4a7b3366d58796864864a938ad53d96175ef9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "San Francisco Bay"
+    ],
+    "resolution": "PRISON_ESCAPE_CONFIRMED_SURVIVAL_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1608,
+    "enBodyWords": 231,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

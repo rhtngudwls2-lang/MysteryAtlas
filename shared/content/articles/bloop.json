@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "bloop",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Bloop",
+    "canonicalTitleEn": "The Bloop",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "태평양의 초저주파 소리는 정말 “바다괴물”이었나—NOAA가 icequake로 좁힌 과정",
+      "hook": "Bloop의 흥미로운 점은 괴물설이 아니라 reference data가 늘면서 unknown signal이 solved natural event로 바뀐 과정이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1997년 태평양 hydrophone들이 수천 km 떨어져 같은 강력한 저주파 소리를 잡았다",
+          "headingEn": "In 1997 Pacific Hydrophones Thousands of Kilometres Apart Recorded the Same Powerful Low-Frequency Sound",
+          "textKo": "1997년 NOAA Pacific Marine Environmental Laboratory 연구자들은 underwater volcanic activity를 감시하던 hydrophone network에서 매우 크고 독특한 low-frequency sound를 여러 차례 기록했다. 센서들이 2,000 miles 이상 떨어져 있었는데도 signal이 포착될 정도로 강했고 “Bloop”이라는 별명이 붙었다. 당시 source를 즉시 식별하지 못해 submarine, whale, giant animal 같은 speculative explanations가 빠르게 퍼졌다.",
+          "textEn": "In 1997 NOAA PMEL hydrophones more than 2,000 miles apart recorded a powerful unusual low-frequency ocean sound that became known as the Bloop."
+        },
+        {
+          "blockId": "scale-02",
+          "type": "BACKGROUND",
+          "headingKo": "“아주 멀리서 들렸다”는 사실이 곧 giant animal을 의미하지는 않는다",
+          "headingEn": "Being Detectable at Great Distance Does Not Imply a Giant Animal",
+          "textKo": "underwater sound는 atmosphere보다 훨씬 멀리 전달될 수 있고 frequency, ocean layers, source geometry에 따라 propagation range가 커진다. 초기 대중서사는 signal amplitude를 enormous biological body size로 바로 연결했지만, source level과 animal size 사이에 그런 단순변환은 없다. 특히 ice fracture 같은 geophysical source도 vast energy를 ocean acoustics로 전달할 수 있다.",
+          "textEn": "Sound propagates efficiently underwater, and geophysical events such as ice fracture can radiate enormous acoustic energy. Long detection range cannot be converted directly into animal body size."
+        },
+        {
+          "blockId": "antarctica-03",
+          "type": "TURNING_POINT",
+          "headingKo": "남극 근처 hydrophone 자료가 쌓이면서 같은 acoustic family가 icequake에서 반복됐다",
+          "headingEn": "More Antarctic Data Revealed the Same Acoustic Family in Icequakes",
+          "textKo": "NOAA 연구자들은 hydrophone deployments를 Antarctica 쪽으로 확대하면서 glaciers와 iceberg cracking이 만드는 다양한 sounds를 비교할 수 있게 됐다. 2005년까지 Bloop characteristic이 large icequake, 특히 iceberg가 glacier에서 crack·break away할 때 발생하는 sound와 일치한다고 판단했다. 미스터리가 풀린 핵심은 한 signal을 더 오래 분석한 것보다 comparison library가 커진 데 있었다.",
+          "textEn": "As NOAA expanded hydrophone work nearer Antarctica, researchers accumulated a comparison library of glacier and iceberg sounds. By 2005 they concluded that the Bloop matched a large icequake associated with ice cracking and calving."
+        },
+        {
+          "blockId": "monster-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "NOAA의 icequake explanation은 “바다괴물 가능성이 낮다”보다 더 강한 positive match다",
+          "headingEn": "The Icequake Explanation Is a Positive Acoustic Match, Not Merely “No Evidence for a Sea Monster”",
+          "textKo": "Bloop story는 흔히 “정체를 몰라 괴물설이 있었는데 그냥 얼음일 수도 있다” 정도로 축약된다. NOAA의 현재 설명은 더 구체적이다. later Antarctic recordings에서 Bloop와 유사한 acoustic signature를 만드는 icequake source를 확인했고, source region도 southern ocean과 양립한다. 따라서 unexplained status를 그대로 유지하는 것보다 solved natural-sound case로 분류하는 것이 evidence에 맞다.",
+          "textEn": "NOAA’s conclusion is stronger than merely saying a sea monster lacks evidence: later Antarctic recordings provided comparable acoustic signatures from icequakes, consistent with the source region."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "Bloop은 “미확인 신호”가 comparison data로 어떻게 solved case가 되는지 보여준다",
+          "headingEn": "The Bloop Shows How an Unidentified Signal Can Become Solved as Reference Data Improve",
+          "textKo": "처음에는 database에 비교할 natural analogue가 부족했다. 이후 monitoring network와 Antarctic acoustic data가 늘자 source class가 보였다. 이 과정은 unexplained가 extraordinary를 의미하지 않는다는 좋은 예다. ocean은 여전히 미탐사영역이 많지만, 그 사실 자체가 every unknown sound를 unknown animal evidence로 바꾸지는 않는다.",
+          "textEn": "At first, researchers lacked a sufficient library of comparable natural sounds. Expanded monitoring revealed the source class. The case is a clear example of “unexplained” changing as reference data improve."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Bloop은 1997년 NOAA hydrophone network가 기록한 real underwater acoustic signal이며 NOAA는 later Antarctic comparison data를 바탕으로 large icequake/iceberg calving source로 설명한다.\n\n확인되지 않음: giant unknown sea animal이 Bloop source였다는 evidence는 없다. 초기 source uncertainty를 현재도 unresolved로 유지할 근거도 약하다.",
+          "textEn": "Established: The Bloop was a real underwater acoustic signal recorded by NOAA in 1997, and NOAA now explains it as a large icequake/iceberg-calving source based on later Antarctic comparisons.\n\nNot established: There is no evidence that a giant unknown sea animal produced the Bloop."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "scale-02",
+        "antarctica-03",
+        "monster-04",
+        "legacy-05"
+      ]
+    },
+    "en": {
+      "headline": "Was the Bloop a Sea Monster? How NOAA Narrowed It to an Icequake",
+      "hook": "The interesting part of the Bloop is not the monster theory, but how a growing reference library turned an unknown signal into a solved natural event.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1997년 태평양 hydrophone들이 수천 km 떨어져 같은 강력한 저주파 소리를 잡았다",
+          "headingEn": "In 1997 Pacific Hydrophones Thousands of Kilometres Apart Recorded the Same Powerful Low-Frequency Sound",
+          "textKo": "1997년 NOAA Pacific Marine Environmental Laboratory 연구자들은 underwater volcanic activity를 감시하던 hydrophone network에서 매우 크고 독특한 low-frequency sound를 여러 차례 기록했다. 센서들이 2,000 miles 이상 떨어져 있었는데도 signal이 포착될 정도로 강했고 “Bloop”이라는 별명이 붙었다. 당시 source를 즉시 식별하지 못해 submarine, whale, giant animal 같은 speculative explanations가 빠르게 퍼졌다.",
+          "textEn": "In 1997 NOAA PMEL hydrophones more than 2,000 miles apart recorded a powerful unusual low-frequency ocean sound that became known as the Bloop."
+        },
+        {
+          "blockId": "scale-02",
+          "type": "BACKGROUND",
+          "headingKo": "“아주 멀리서 들렸다”는 사실이 곧 giant animal을 의미하지는 않는다",
+          "headingEn": "Being Detectable at Great Distance Does Not Imply a Giant Animal",
+          "textKo": "underwater sound는 atmosphere보다 훨씬 멀리 전달될 수 있고 frequency, ocean layers, source geometry에 따라 propagation range가 커진다. 초기 대중서사는 signal amplitude를 enormous biological body size로 바로 연결했지만, source level과 animal size 사이에 그런 단순변환은 없다. 특히 ice fracture 같은 geophysical source도 vast energy를 ocean acoustics로 전달할 수 있다.",
+          "textEn": "Sound propagates efficiently underwater, and geophysical events such as ice fracture can radiate enormous acoustic energy. Long detection range cannot be converted directly into animal body size."
+        },
+        {
+          "blockId": "antarctica-03",
+          "type": "TURNING_POINT",
+          "headingKo": "남극 근처 hydrophone 자료가 쌓이면서 같은 acoustic family가 icequake에서 반복됐다",
+          "headingEn": "More Antarctic Data Revealed the Same Acoustic Family in Icequakes",
+          "textKo": "NOAA 연구자들은 hydrophone deployments를 Antarctica 쪽으로 확대하면서 glaciers와 iceberg cracking이 만드는 다양한 sounds를 비교할 수 있게 됐다. 2005년까지 Bloop characteristic이 large icequake, 특히 iceberg가 glacier에서 crack·break away할 때 발생하는 sound와 일치한다고 판단했다. 미스터리가 풀린 핵심은 한 signal을 더 오래 분석한 것보다 comparison library가 커진 데 있었다.",
+          "textEn": "As NOAA expanded hydrophone work nearer Antarctica, researchers accumulated a comparison library of glacier and iceberg sounds. By 2005 they concluded that the Bloop matched a large icequake associated with ice cracking and calving."
+        },
+        {
+          "blockId": "monster-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "NOAA의 icequake explanation은 “바다괴물 가능성이 낮다”보다 더 강한 positive match다",
+          "headingEn": "The Icequake Explanation Is a Positive Acoustic Match, Not Merely “No Evidence for a Sea Monster”",
+          "textKo": "Bloop story는 흔히 “정체를 몰라 괴물설이 있었는데 그냥 얼음일 수도 있다” 정도로 축약된다. NOAA의 현재 설명은 더 구체적이다. later Antarctic recordings에서 Bloop와 유사한 acoustic signature를 만드는 icequake source를 확인했고, source region도 southern ocean과 양립한다. 따라서 unexplained status를 그대로 유지하는 것보다 solved natural-sound case로 분류하는 것이 evidence에 맞다.",
+          "textEn": "NOAA’s conclusion is stronger than merely saying a sea monster lacks evidence: later Antarctic recordings provided comparable acoustic signatures from icequakes, consistent with the source region."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "Bloop은 “미확인 신호”가 comparison data로 어떻게 solved case가 되는지 보여준다",
+          "headingEn": "The Bloop Shows How an Unidentified Signal Can Become Solved as Reference Data Improve",
+          "textKo": "처음에는 database에 비교할 natural analogue가 부족했다. 이후 monitoring network와 Antarctic acoustic data가 늘자 source class가 보였다. 이 과정은 unexplained가 extraordinary를 의미하지 않는다는 좋은 예다. ocean은 여전히 미탐사영역이 많지만, 그 사실 자체가 every unknown sound를 unknown animal evidence로 바꾸지는 않는다.",
+          "textEn": "At first, researchers lacked a sufficient library of comparable natural sounds. Expanded monitoring revealed the source class. The case is a clear example of “unexplained” changing as reference data improve."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Bloop은 1997년 NOAA hydrophone network가 기록한 real underwater acoustic signal이며 NOAA는 later Antarctic comparison data를 바탕으로 large icequake/iceberg calving source로 설명한다.\n\n확인되지 않음: giant unknown sea animal이 Bloop source였다는 evidence는 없다. 초기 source uncertainty를 현재도 unresolved로 유지할 근거도 약하다.",
+          "textEn": "Established: The Bloop was a real underwater acoustic signal recorded by NOAA in 1997, and NOAA now explains it as a large icequake/iceberg-calving source based on later Antarctic comparisons.\n\nNot established: There is no evidence that a giant unknown sea animal produced the Bloop."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "scale-02",
+        "antarctica-03",
+        "monster-04",
+        "legacy-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "BLOOP_NOAA",
+      "title": "What is the bloop?",
+      "publisher": "NOAA Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/bloop.html",
+      "sourceType": "NOAA_OFFICIAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "BLOOP-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1997년 NOAA hydrophone network는 powerful low-frequency Bloop signal을 기록했다.",
+      "statementEn": "NOAA hydrophones recorded the powerful low-frequency Bloop signal in 1997.",
+      "sourceRefs": [
+        "BLOOP_NOAA"
+      ]
+    },
+    {
+      "claimId": "BLOOP-C2",
+      "status": "CONFIRMED",
+      "statementKo": "NOAA는 later comparison data를 바탕으로 source를 Antarctic icequake로 설명한다.",
+      "statementEn": "NOAA attributes the source to an Antarctic icequake based on later comparison data.",
+      "sourceRefs": [
+        "BLOOP_NOAA"
+      ]
+    },
+    {
+      "claimId": "BLOOP-C3",
+      "status": "REFUTED",
+      "statementKo": "giant unknown sea animal이 source였다는 evidence는 없다.",
+      "statementEn": "There is no evidence that a giant unknown sea animal produced the signal.",
+      "sourceRefs": [
+        "BLOOP_NOAA"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bloop-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "hydrophone network → unknown signal → Antarctic comparison → icequake match.",
+      "captionEn": "Hydrophone network → unknown signal → Antarctic comparison → icequake match.",
+      "altKo": "hydrophone network → unknown signal → Antarctic comparison → icequake match.",
+      "altEn": "Hydrophone network → unknown signal → Antarctic comparison → icequake match.",
+      "sourceRefs": [
+        "BLOOP_NOAA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bloop__v01__ko.png",
+          "sha256": "7856b85e083d6503aadb574a2a6c4a1e5408cb65ca5a09c639ff0aae91ddff94",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bloop__v01__en.png",
+          "sha256": "1fc389e44c18842a333d2112ece168ada2290f2afcd835df9641947767e0ea72",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bloop-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "real signal·icequake match·sea-monster speculation을 분리.",
+      "captionEn": "Separate real signal, icequake match, and sea-monster speculation.",
+      "altKo": "real signal·icequake match·sea-monster speculation을 분리.",
+      "altEn": "Separate real signal, icequake match, and sea-monster speculation.",
+      "sourceRefs": [
+        "BLOOP_NOAA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bloop__v02__ko.png",
+          "sha256": "19e9e89b5ca772c5e454a14602f1b606e5740b08aa1b9797baa9a0e5e4ab25cf",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bloop__v02__en.png",
+          "sha256": "5c52ca5ed22d72a1f73a40a0110f95e761f0baa7f32af412dd297bbba8df81e3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "regions": [
+      "South Pacific / Antarctica"
+    ],
+    "organizations": [
+      "NOAA"
+    ],
+    "dateRange": {
+      "start": "1997",
+      "end": "2005",
+      "precision": "detection through source identification"
+    },
+    "resolution": "SIGNAL_REAL_SOURCE_IDENTIFIED_AS_ICEQUAKE"
+  },
+  "quality": {
+    "koBodyChars": 1742,
+    "enBodyWords": 186,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

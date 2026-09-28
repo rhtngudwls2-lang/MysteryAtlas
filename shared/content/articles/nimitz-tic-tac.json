@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "nimitz-tic-tac",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "니미츠 틱택 사건",
+    "canonicalTitleEn": "2004 Nimitz Tic Tac UAP",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사건도 영상도 진짜라면 왜 물체의 정체는 아직 말할 수 없나",
+      "hook": "Nimitz의 핵심은 fabricated story가 아니라는 점이다. 하지만 authentic incident와 object identity 사이에는 range·sensor data·physical attribution이 아직 비어 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2004년 Nimitz 훈련 중 Navy pilots는 흰색 Tic Tac 형상 물체를 봤다고 공식증언했다",
+          "headingEn": "During the 2004 Nimitz Workup, Navy Pilots Reported a White Tic Tac Object",
+          "textKo": "retired Navy Commander David Fravor는 2023년 U.S. House hearing에서 2004년 USS Nimitz workup 중 F/A-18F flight가 USS Princeton control 아래 real-world tasking을 받았고, 네 명의 aircrew가 white Tic-Tac-shaped object를 관찰했다고 공식증언했다. 이 testimony가 존재한다는 사실은 확인된다. 하지만 증언에서 묘사된 object의 material·range·propulsion을 그대로 물리적 측정값으로 바꾸면 안 된다.",
+          "textEn": "Retired Navy Commander David Fravor testified before the U.S. House in 2023 that during a 2004 USS Nimitz workup, four aircrew observed a white Tic-Tac-shaped object after tasking from USS Princeton."
+        },
+        {
+          "blockId": "video-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "DoD가 공개한 2004 Navy video는 genuine military footage다",
+          "headingEn": "The 2004 Navy Video Released by DoD Is Authentic Military Footage",
+          "textKo": "2020년 Department of Defense는 three historical Navy videos의 공식 release를 승인하면서 one video가 November 2004 recording이라고 확인했다. DoD는 당시 observed aerial phenomena를 unidentified로 표현했다. 영상 authenticity는 강한 evidence지만 authentic video가 곧 exotic craft identification을 의미하지 않는다. 영상이 진짜인가와 대상이 무엇인가는 완전히 다른 질문이다.",
+          "textEn": "In 2020 the Department of Defense officially released three historical Navy videos and identified one as recorded in November 2004. DoD described the observed phenomena as unidentified."
+        },
+        {
+          "blockId": "radar-03",
+          "type": "BACKGROUND",
+          "headingKo": "Princeton radar 관련 testimony가 있지만 full raw sensor dataset은 공개자료와 구분해야 한다",
+          "headingEn": "Princeton Radar Accounts Exist in Testimony, but Full Raw Sensor Data Are a Different Layer",
+          "textKo": "Fravor는 controller에게서 preceding weeks의 unusual tracks에 대해 들었다고 증언했다. 이런 multi-sensor context는 사건의 중요도를 높이지만 public analysis에서 full raw Aegis track data, calibration state, exact track continuity가 모두 공개된 것은 아니다. testimony, summarized sensor information, raw calibrated data를 한 단계로 취급하면 performance claim이 과장될 수 있다.",
+          "textEn": "Fravor testified that controllers told him unusual tracks had been observed in preceding weeks. That multi-sensor context matters, but complete raw Aegis tracks and calibration data are not all public."
+        },
+        {
+          "blockId": "performance-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "apparent acceleration과 speed를 정량확정하려면 range·geometry가 필요하다",
+          "headingEn": "Quantifying Apparent Acceleration Requires Range and Geometry",
+          "textKo": "pilot visual report는 unusual movement를 강조하지만 exact speed·acceleration·size를 계산하려면 reliable range, angular change, time, platform geometry가 필요하다. object가 갑자기 사라진 것처럼 보였다는 testimony와 physics-breaking acceleration이 instrument로 측정됐다는 claim은 같은 것이 아니다. 공개 evidence의 한계는 바로 여기서 중요해진다.",
+          "textEn": "Pilot reports emphasize unusual motion, but exact speed, acceleration and size require reliable range, angular change, time and platform geometry."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "가장 안전한 현재 status는 실제 incident + authentic video + identity unresolved다",
+          "headingEn": "The Safest Current Status Is Real Incident, Authentic Video, Identity Unresolved",
+          "textKo": "DoD release와 congressional testimony를 함께 보면 사건이 fabricated internet story라고 보기는 어렵다. 반대로 public record만으로 object를 extraterrestrial, secret U.S. platform, foreign system 중 하나로 확정할 수도 없다. unresolved라는 status를 유지하는 것은 회피가 아니라 available evidence가 허용하는 가장 정확한 결론이다. authentic incident와 exotic explanation 사이에는 여전히 큰 증거간격이 있다.",
+          "textEn": "DoD release and congressional testimony show that the incident is not merely an internet fabrication. But the public record does not establish an extraterrestrial, secret U.S., or foreign identity."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2004 Nimitz incident에 대한 Fravor의 official congressional testimony와 authentic Navy video가 존재하며 DoD는 phenomenon을 unidentified로 분류했다.\n\n확인되지 않음: object의 exact identity, material, propulsion, measured maximum performance, extraterrestrial origin은 public evidence로 확정되지 않았다.",
+          "textEn": "Established: Official congressional testimony from Fravor and authentic 2004 Navy video exist, and DoD characterized the phenomenon as unidentified.\n\nNot established: The object’s exact identity, material, propulsion, measured maximum performance, or extraterrestrial origin are not established by public evidence."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "video-02",
+        "radar-03",
+        "performance-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "If the Incident and Video Are Real, Why Is the Object Still Unidentified?",
+      "hook": "The Nimitz case is not simply a fabricated story. But authentic incident records do not automatically reveal the object’s physical identity.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2004년 Nimitz 훈련 중 Navy pilots는 흰색 Tic Tac 형상 물체를 봤다고 공식증언했다",
+          "headingEn": "During the 2004 Nimitz Workup, Navy Pilots Reported a White Tic Tac Object",
+          "textKo": "retired Navy Commander David Fravor는 2023년 U.S. House hearing에서 2004년 USS Nimitz workup 중 F/A-18F flight가 USS Princeton control 아래 real-world tasking을 받았고, 네 명의 aircrew가 white Tic-Tac-shaped object를 관찰했다고 공식증언했다. 이 testimony가 존재한다는 사실은 확인된다. 하지만 증언에서 묘사된 object의 material·range·propulsion을 그대로 물리적 측정값으로 바꾸면 안 된다.",
+          "textEn": "Retired Navy Commander David Fravor testified before the U.S. House in 2023 that during a 2004 USS Nimitz workup, four aircrew observed a white Tic-Tac-shaped object after tasking from USS Princeton."
+        },
+        {
+          "blockId": "video-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "DoD가 공개한 2004 Navy video는 genuine military footage다",
+          "headingEn": "The 2004 Navy Video Released by DoD Is Authentic Military Footage",
+          "textKo": "2020년 Department of Defense는 three historical Navy videos의 공식 release를 승인하면서 one video가 November 2004 recording이라고 확인했다. DoD는 당시 observed aerial phenomena를 unidentified로 표현했다. 영상 authenticity는 강한 evidence지만 authentic video가 곧 exotic craft identification을 의미하지 않는다. 영상이 진짜인가와 대상이 무엇인가는 완전히 다른 질문이다.",
+          "textEn": "In 2020 the Department of Defense officially released three historical Navy videos and identified one as recorded in November 2004. DoD described the observed phenomena as unidentified."
+        },
+        {
+          "blockId": "radar-03",
+          "type": "BACKGROUND",
+          "headingKo": "Princeton radar 관련 testimony가 있지만 full raw sensor dataset은 공개자료와 구분해야 한다",
+          "headingEn": "Princeton Radar Accounts Exist in Testimony, but Full Raw Sensor Data Are a Different Layer",
+          "textKo": "Fravor는 controller에게서 preceding weeks의 unusual tracks에 대해 들었다고 증언했다. 이런 multi-sensor context는 사건의 중요도를 높이지만 public analysis에서 full raw Aegis track data, calibration state, exact track continuity가 모두 공개된 것은 아니다. testimony, summarized sensor information, raw calibrated data를 한 단계로 취급하면 performance claim이 과장될 수 있다.",
+          "textEn": "Fravor testified that controllers told him unusual tracks had been observed in preceding weeks. That multi-sensor context matters, but complete raw Aegis tracks and calibration data are not all public."
+        },
+        {
+          "blockId": "performance-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "apparent acceleration과 speed를 정량확정하려면 range·geometry가 필요하다",
+          "headingEn": "Quantifying Apparent Acceleration Requires Range and Geometry",
+          "textKo": "pilot visual report는 unusual movement를 강조하지만 exact speed·acceleration·size를 계산하려면 reliable range, angular change, time, platform geometry가 필요하다. object가 갑자기 사라진 것처럼 보였다는 testimony와 physics-breaking acceleration이 instrument로 측정됐다는 claim은 같은 것이 아니다. 공개 evidence의 한계는 바로 여기서 중요해진다.",
+          "textEn": "Pilot reports emphasize unusual motion, but exact speed, acceleration and size require reliable range, angular change, time and platform geometry."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "가장 안전한 현재 status는 실제 incident + authentic video + identity unresolved다",
+          "headingEn": "The Safest Current Status Is Real Incident, Authentic Video, Identity Unresolved",
+          "textKo": "DoD release와 congressional testimony를 함께 보면 사건이 fabricated internet story라고 보기는 어렵다. 반대로 public record만으로 object를 extraterrestrial, secret U.S. platform, foreign system 중 하나로 확정할 수도 없다. unresolved라는 status를 유지하는 것은 회피가 아니라 available evidence가 허용하는 가장 정확한 결론이다. authentic incident와 exotic explanation 사이에는 여전히 큰 증거간격이 있다.",
+          "textEn": "DoD release and congressional testimony show that the incident is not merely an internet fabrication. But the public record does not establish an extraterrestrial, secret U.S., or foreign identity."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2004 Nimitz incident에 대한 Fravor의 official congressional testimony와 authentic Navy video가 존재하며 DoD는 phenomenon을 unidentified로 분류했다.\n\n확인되지 않음: object의 exact identity, material, propulsion, measured maximum performance, extraterrestrial origin은 public evidence로 확정되지 않았다.",
+          "textEn": "Established: Official congressional testimony from Fravor and authentic 2004 Navy video exist, and DoD characterized the phenomenon as unidentified.\n\nNot established: The object’s exact identity, material, propulsion, measured maximum performance, or extraterrestrial origin are not established by public evidence."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "video-02",
+        "radar-03",
+        "performance-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "TIC_DOD",
+      "title": "Statement by the Department of Defense on the Release of Historical Navy Videos",
+      "publisher": "U.S. Department of Defense",
+      "url": "https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "sourceType": "DOD_OFFICIAL"
+    },
+    {
+      "sourceId": "TIC_FRAVOR",
+      "title": "David Fravor Statement for the House Oversight Committee",
+      "publisher": "U.S. House of Representatives / Congress.gov",
+      "url": "https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-FravorD-20230726.pdf",
+      "sourceType": "CONGRESSIONAL_TESTIMONY"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "TIC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Fravor는 2004 incident를 Congress에 공식증언했다.",
+      "statementEn": "Fravor gave official congressional testimony about the 2004 incident.",
+      "sourceRefs": [
+        "TIC_FRAVOR"
+      ]
+    },
+    {
+      "claimId": "TIC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "DoD는 November 2004 Navy video의 authenticity를 확인하고 공개했다.",
+      "statementEn": "DoD authenticated and released a November 2004 Navy video.",
+      "sourceRefs": [
+        "TIC_DOD"
+      ]
+    },
+    {
+      "claimId": "TIC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "object identity·propulsion·extraterrestrial origin은 public evidence로 확정되지 않았다.",
+      "statementEn": "Object identity, propulsion and extraterrestrial origin are not established by public evidence.",
+      "sourceRefs": [
+        "TIC_DOD",
+        "TIC_FRAVOR"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "tic-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Princeton tasking → pilot encounter → Navy video → DoD release → testimony.",
+      "captionEn": "Princeton tasking → pilot encounter → Navy video → DoD release → testimony.",
+      "altKo": "Princeton tasking → pilot encounter → Navy video → DoD release → testimony.",
+      "altEn": "Princeton tasking → pilot encounter → Navy video → DoD release → testimony.",
+      "sourceRefs": [
+        "TIC_FRAVOR",
+        "TIC_DOD"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nimitz-tic-tac__v01__ko.png",
+          "sha256": "60393eeb999ab4eec2dff76e8ddd55c4cda45d9a2d620eac7040c567ff4a73fc",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nimitz-tic-tac__v01__en.png",
+          "sha256": "e8068e8f3fa97a348a423e28f6bb5041086c2b06a30a22201ed5310f02d30d08",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "tic-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "incident/video authenticity와 object identity/performance claim을 분리.",
+      "captionEn": "Separate incident/video authenticity from object identity and performance claims.",
+      "altKo": "incident/video authenticity와 object identity/performance claim을 분리.",
+      "altEn": "Separate incident/video authenticity from object identity and performance claims.",
+      "sourceRefs": [
+        "TIC_FRAVOR",
+        "TIC_DOD"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nimitz-tic-tac__v02__ko.png",
+          "sha256": "2a4159b555c471c81f3e0d9a5a9e5d6dd1f96bd9a8de73ea0012a754c6ed5113",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nimitz-tic-tac__v02__en.png",
+          "sha256": "7909ca42aa4f880b92ac62facd16d6162961a427da17949930fb8959a12dd564",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "UFO / UAP / Aerial Anomaly",
+    "regions": [
+      "Southern California offshore"
+    ],
+    "resolution": "INCIDENT_AND_VIDEO_AUTHENTIC_OBJECT_IDENTITY_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 1799,
+    "enBodyWords": 178,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH24_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

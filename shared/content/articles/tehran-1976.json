@@ -1,0 +1,321 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "tehran-1976",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "테헤란 1976 사건",
+    "canonicalTitleEn": "Tehran 1976 UAP Incident",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "전투기 계기 이상은 하늘의 물체와 실제로 연결됐나",
+      "hook": "군 출격과 계기이상 보고는 실제 문서에 남아 있다. 남은 문제는 같은 시간에 일어났다는 사실이 object와 전자장애 사이의 causal mechanism까지 증명하는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1976년 새벽 테헤란의 시민신고 뒤 F-4 두 대가 실제로 출격했다",
+          "headingEn": "In 1976 Two Iranian F-4s Were Scrambled After Civilian Reports Over Tehran",
+          "textKo": "1976년 9월 19일 새벽 Tehran의 Shemiran 지역에서 여러 시민이 밝고 이상한 물체를 봤다고 신고했다. 미국 정보기관에 전달된 declassified wire message는 Iranian Air Force가 상황을 확인하기 위해 F-4 fighter를 출격시켰다고 기록한다. 이 문서와 출격 자체는 확인 가능한 evidence다. 그러나 당시 보고서가 존재한다는 사실은 보고된 물체의 물리적 정체를 자동으로 알려주지 않는다. 사건의 첫 단계는 genuine military response, 두 번째 단계는 그 response가 무엇을 향했는가다.",
+          "textEn": "On September 19, 1976, civilians in Tehran reported a bright unusual object and the Iranian Air Force scrambled F-4 fighters. A declassified U.S. intelligence wire documents the response. The report is genuine; the physical identity of the reported object remains a separate question."
+        },
+        {
+          "blockId": "intercept-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "첫 F-4는 접근 중 통신·계기 문제를 보고하고 intercept를 중단했다",
+          "headingEn": "The First F-4 Reported Instrument and Communications Problems During the Intercept",
+          "textKo": "declassified message는 첫 F-4가 약 25 nautical miles까지 접근했을 때 instrumentation과 UHF/intercom communication을 잃었다고 기록한다. 조종사가 turn away하자 systems가 정상으로 돌아왔다고 보고됐다. 이 sequence는 사건의 핵심기록 중 하나지만, 전자장애의 원인이 object였다는 causal link가 계측으로 독립확정된 것은 아니다. 동일시점에 platform-specific fault, interference, reporting error 같은 competing possibilities도 원칙적으로 남는다.",
+          "textEn": "The declassified message says the first F-4 lost instrumentation and UHF/intercom communications as it approached, and that the systems returned after it broke off. The temporal sequence is documented, but causation by the object was not independently instrumented."
+        },
+        {
+          "blockId": "second-03",
+          "type": "TURNING_POINT",
+          "headingKo": "두 번째 F-4는 작은 발광체와 weapons-system failure를 보고했다",
+          "headingEn": "The Second F-4 Reported a Smaller Luminous Object and a Weapons-System Failure",
+          "textKo": "보고서는 두 번째 F-4가 larger luminous object를 추적했고, smaller object가 빠르게 접근하자 AIM-9 missile을 준비하는 과정에서 weapons control과 communications가 일시적으로 작동하지 않았다고 적는다. 이 내용은 후대 UFO literature에서 가장 극적으로 인용되는 부분이다. 하지만 보고된 visual behavior와 정확한 distance·speed·material properties를 현대 sensor dataset처럼 재구성할 raw data는 공개기록에 제한적이다. testimony-like operational report와 calibrated telemetry를 구분해야 한다.",
+          "textEn": "The report says the second F-4 tracked a larger luminous object and experienced weapons-control and communications failure while reacting to a smaller object. These operational reports are important, but they are not equivalent to a complete calibrated telemetry dataset."
+        },
+        {
+          "blockId": "quality-04",
+          "type": "BACKGROUND",
+          "headingKo": "당시 분석자는 사건보고의 정보가치가 높다고 평가했지만 ‘외계’라고 판정하지 않았다",
+          "headingEn": "Contemporary Analysts Considered the Report Valuable Without Declaring It Extraterrestrial",
+          "textKo": "문서는 multiple witnesses, pilot observations, radar/aircraft context 등 때문에 report의 information value를 높게 본 흔적을 남긴다. 이는 사건을 단순한 single-witness anecdote보다 무겁게 만든다. 그렇다고 intelligence value가 extraterrestrial attribution과 같은 것은 아니다. unidentified라는 상태는 available observations로 object identity를 닫지 못했다는 뜻이며, secret technology·astronomical misidentification·sensor issues 등 다른 hypothesis를 자동제거하지 않는다.",
+          "textEn": "The combination of witnesses and military response gave the report significant intelligence value, but intelligence value is not the same as an extraterrestrial determination. Unidentified means the available observations did not close the identity question."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "사건의 강점은 후대 전설보다 당시 작성된 정부문서가 남아 있다는 점이다",
+          "headingEn": "The Case Is Strongest Where Contemporary Government Records Survive",
+          "textKo": "Tehran 1976은 수십 년 뒤 만들어진 구전만으로 알려진 사건이 아니다. 당시 operational report가 declassified archive에 남아 있어 time, response, reported malfunctions를 확인할 수 있다. 그래서 더더욱 기록이 말하는 범위와 후대 interpretation을 분리해야 한다. authentic document가 있다는 사실을 exotic-craft proof로 확장하지 않고, 반대로 object identity를 모른다는 이유로 report 자체를 무가치하게 만들지도 않는 것이 정확하다.",
+          "textEn": "Tehran 1976 is supported by contemporary declassified reporting rather than only later retellings. That makes it especially important to separate what the record states from later interpretations."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1976년 9월 Tehran에서 시민신고 뒤 Iranian Air Force F-4들이 출격했고, declassified U.S. government reporting에는 조종사 목격과 일시적 instrumentation/communications problems가 기록돼 있다.\n\n확인되지 않음: 물체의 exact identity, 전자장애와 물체 사이의 causal mechanism, exotic propulsion 또는 extraterrestrial origin은 공개 evidence로 확정되지 않았다.",
+          "textEn": "Established: Iranian F-4s were scrambled after civilian reports over Tehran in September 1976, and declassified U.S. reporting records pilot observations and temporary instrumentation/communications problems.\n\nNot established: The object’s exact identity, the causal mechanism behind the malfunctions, exotic propulsion, or extraterrestrial origin are not established by the public evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1976년 9월 Tehran에서 시민신고 뒤 Iranian Air Force F-4들이 출격했고, declassified U.S. government reporting에는 조종사 목격과 일시적 instrumentation/communications problems가 기록돼 있다.\n\n확인되지 않음: 물체의 exact identity, 전자장애와 물체 사이의 causal mechanism, exotic propulsion 또는 extraterrestrial origin은 공개 evidence로 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "intercept-02",
+        "second-03",
+        "quality-04",
+        "legacy-05"
+      ]
+    },
+    "en": {
+      "headline": "Were the Fighter Malfunctions Actually Caused by the Object?",
+      "hook": "The scramble and reported malfunctions are documented. The unresolved issue is whether temporal coincidence proves a causal mechanism between the object and the aircraft systems.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1976년 새벽 테헤란의 시민신고 뒤 F-4 두 대가 실제로 출격했다",
+          "headingEn": "In 1976 Two Iranian F-4s Were Scrambled After Civilian Reports Over Tehran",
+          "textKo": "1976년 9월 19일 새벽 Tehran의 Shemiran 지역에서 여러 시민이 밝고 이상한 물체를 봤다고 신고했다. 미국 정보기관에 전달된 declassified wire message는 Iranian Air Force가 상황을 확인하기 위해 F-4 fighter를 출격시켰다고 기록한다. 이 문서와 출격 자체는 확인 가능한 evidence다. 그러나 당시 보고서가 존재한다는 사실은 보고된 물체의 물리적 정체를 자동으로 알려주지 않는다. 사건의 첫 단계는 genuine military response, 두 번째 단계는 그 response가 무엇을 향했는가다.",
+          "textEn": "On September 19, 1976, civilians in Tehran reported a bright unusual object and the Iranian Air Force scrambled F-4 fighters. A declassified U.S. intelligence wire documents the response. The report is genuine; the physical identity of the reported object remains a separate question."
+        },
+        {
+          "blockId": "intercept-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "첫 F-4는 접근 중 통신·계기 문제를 보고하고 intercept를 중단했다",
+          "headingEn": "The First F-4 Reported Instrument and Communications Problems During the Intercept",
+          "textKo": "declassified message는 첫 F-4가 약 25 nautical miles까지 접근했을 때 instrumentation과 UHF/intercom communication을 잃었다고 기록한다. 조종사가 turn away하자 systems가 정상으로 돌아왔다고 보고됐다. 이 sequence는 사건의 핵심기록 중 하나지만, 전자장애의 원인이 object였다는 causal link가 계측으로 독립확정된 것은 아니다. 동일시점에 platform-specific fault, interference, reporting error 같은 competing possibilities도 원칙적으로 남는다.",
+          "textEn": "The declassified message says the first F-4 lost instrumentation and UHF/intercom communications as it approached, and that the systems returned after it broke off. The temporal sequence is documented, but causation by the object was not independently instrumented."
+        },
+        {
+          "blockId": "second-03",
+          "type": "TURNING_POINT",
+          "headingKo": "두 번째 F-4는 작은 발광체와 weapons-system failure를 보고했다",
+          "headingEn": "The Second F-4 Reported a Smaller Luminous Object and a Weapons-System Failure",
+          "textKo": "보고서는 두 번째 F-4가 larger luminous object를 추적했고, smaller object가 빠르게 접근하자 AIM-9 missile을 준비하는 과정에서 weapons control과 communications가 일시적으로 작동하지 않았다고 적는다. 이 내용은 후대 UFO literature에서 가장 극적으로 인용되는 부분이다. 하지만 보고된 visual behavior와 정확한 distance·speed·material properties를 현대 sensor dataset처럼 재구성할 raw data는 공개기록에 제한적이다. testimony-like operational report와 calibrated telemetry를 구분해야 한다.",
+          "textEn": "The report says the second F-4 tracked a larger luminous object and experienced weapons-control and communications failure while reacting to a smaller object. These operational reports are important, but they are not equivalent to a complete calibrated telemetry dataset."
+        },
+        {
+          "blockId": "quality-04",
+          "type": "BACKGROUND",
+          "headingKo": "당시 분석자는 사건보고의 정보가치가 높다고 평가했지만 ‘외계’라고 판정하지 않았다",
+          "headingEn": "Contemporary Analysts Considered the Report Valuable Without Declaring It Extraterrestrial",
+          "textKo": "문서는 multiple witnesses, pilot observations, radar/aircraft context 등 때문에 report의 information value를 높게 본 흔적을 남긴다. 이는 사건을 단순한 single-witness anecdote보다 무겁게 만든다. 그렇다고 intelligence value가 extraterrestrial attribution과 같은 것은 아니다. unidentified라는 상태는 available observations로 object identity를 닫지 못했다는 뜻이며, secret technology·astronomical misidentification·sensor issues 등 다른 hypothesis를 자동제거하지 않는다.",
+          "textEn": "The combination of witnesses and military response gave the report significant intelligence value, but intelligence value is not the same as an extraterrestrial determination. Unidentified means the available observations did not close the identity question."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "사건의 강점은 후대 전설보다 당시 작성된 정부문서가 남아 있다는 점이다",
+          "headingEn": "The Case Is Strongest Where Contemporary Government Records Survive",
+          "textKo": "Tehran 1976은 수십 년 뒤 만들어진 구전만으로 알려진 사건이 아니다. 당시 operational report가 declassified archive에 남아 있어 time, response, reported malfunctions를 확인할 수 있다. 그래서 더더욱 기록이 말하는 범위와 후대 interpretation을 분리해야 한다. authentic document가 있다는 사실을 exotic-craft proof로 확장하지 않고, 반대로 object identity를 모른다는 이유로 report 자체를 무가치하게 만들지도 않는 것이 정확하다.",
+          "textEn": "Tehran 1976 is supported by contemporary declassified reporting rather than only later retellings. That makes it especially important to separate what the record states from later interpretations."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1976년 9월 Tehran에서 시민신고 뒤 Iranian Air Force F-4들이 출격했고, declassified U.S. government reporting에는 조종사 목격과 일시적 instrumentation/communications problems가 기록돼 있다.\n\n확인되지 않음: 물체의 exact identity, 전자장애와 물체 사이의 causal mechanism, exotic propulsion 또는 extraterrestrial origin은 공개 evidence로 확정되지 않았다.",
+          "textEn": "Established: Iranian F-4s were scrambled after civilian reports over Tehran in September 1976, and declassified U.S. reporting records pilot observations and temporary instrumentation/communications problems.\n\nNot established: The object’s exact identity, the causal mechanism behind the malfunctions, exotic propulsion, or extraterrestrial origin are not established by the public evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Iranian F-4s were scrambled after civilian reports over Tehran in September 1976, and declassified U.S. reporting records pilot observations and temporary instrumentation/communications problems.\n\nNot established: The object’s exact identity, the causal mechanism behind the malfunctions, exotic propulsion, or extraterrestrial origin are not established by the public evidence.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "intercept-02",
+        "second-03",
+        "quality-04",
+        "legacy-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TEH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1976-09-19 Tehran 시민신고 뒤 Iranian Air Force F-4가 출격했다.",
+      "statementEn": "Iranian Air Force F-4s were scrambled after civilian reports over Tehran on September 19, 1976.",
+      "sourceRefs": [
+        "TEHRAN_NSA"
+      ]
+    },
+    {
+      "claimId": "TEH-C2",
+      "status": "CONFIRMED",
+      "statementKo": "declassified report는 접근과 함께 일시적 instrumentation/communications problems를 기록한다.",
+      "statementEn": "The declassified report records temporary instrumentation and communications problems during the intercepts.",
+      "sourceRefs": [
+        "TEHRAN_NSA"
+      ]
+    },
+    {
+      "claimId": "TEH-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "object identity와 malfunctions의 exotic cause는 확정되지 않았다.",
+      "statementEn": "The object’s identity and any exotic cause of the malfunctions remain unestablished.",
+      "sourceRefs": [
+        "TEHRAN_NSA",
+        "TEHRAN_CIA_ARCHIVE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "TEHRAN_NSA",
+      "title": "Verbatim Wire Message — UFO in Iran, 19 September 1976",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf",
+      "sourceType": "US_GOVERNMENT_DECLASSIFIED"
+    },
+    {
+      "sourceId": "TEHRAN_CIA_ARCHIVE",
+      "title": "CIA Reading Room material referencing Tehran UFO incident records",
+      "publisher": "Central Intelligence Agency Reading Room",
+      "url": "https://www.cia.gov/readingroom/",
+      "sourceType": "US_GOVERNMENT_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "teh-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "citizen reports → first F-4 → second F-4 → reported malfunctions → declassified report.",
+      "captionEn": "Citizen reports → first F-4 → second F-4 → reported malfunctions → declassified report.",
+      "altKo": "citizen reports → first F-4 → second F-4 → reported malfunctions → declassified report.",
+      "altEn": "Citizen reports → first F-4 → second F-4 → reported malfunctions → declassified report.",
+      "sourceRefs": [
+        "TEHRAN_NSA",
+        "TEHRAN_CIA_ARCHIVE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tehran-1976__v01__ko.png",
+          "sha256": "b138aa8f0cd1e208f094a1a46d991e5b4f32ce8b3f84956c4822a995979f727b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tehran-1976__v01__en.png",
+          "sha256": "4967b7e47bdc57784cc2ddecf01321e406bb5db3fb1e0ff73a0bf109702622ac",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "teh-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "official report와 object identity·causation 미확정을 분리.",
+      "captionEn": "Separate the official report from unresolved object identity and causation.",
+      "altKo": "official report와 object identity·causation 미확정을 분리.",
+      "altEn": "Separate the official report from unresolved object identity and causation.",
+      "sourceRefs": [
+        "TEHRAN_NSA",
+        "TEHRAN_CIA_ARCHIVE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tehran-1976__v02__ko.png",
+          "sha256": "ae7b83a7ab2bc4d45e94c6e38790de4262a7a5bbcbf75614f7eb72d36ddffe45",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tehran-1976__v02__en.png",
+          "sha256": "c7cde3b859268ba9a64445442081a592d52b31e49f790c7c5bb582b5e01d1bb1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "UFO / UAP / Aerial Anomaly",
+    "countries": [
+      "Iran"
+    ],
+    "regions": [
+      "Tehran"
+    ],
+    "organizations": [
+      "Iranian Air Force",
+      "U.S. intelligence community"
+    ],
+    "dateRange": {
+      "start": "1976-09-19",
+      "end": "1976-09-19",
+      "precision": "incident date"
+    },
+    "resolution": "MILITARY_RESPONSE_AND_REPORTS_CONFIRMED_OBJECT_IDENTITY_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 2022,
+    "enBodyWords": 234,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

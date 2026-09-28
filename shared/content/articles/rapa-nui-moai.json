@@ -1,0 +1,316 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "rapa-nui-moai",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "라파누이 모아이",
+    "canonicalTitleEn": "Rapa Nui Moai",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "수십 톤 석상은 누가 만들었나보다 어떻게 사회 전체가 움직였나가 더 큰 질문이다",
+      "hook": "quarry와 tools는 제작자를 숨기지 않는다. 남은 미스터리는 monument가 quarry를 떠나 ahu에 서기까지 필요한 logistics와 장기간 social meaning이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "라파누이에는 약 900개의 moai와 300개가 넘는 ceremonial platforms가 남아 있다",
+          "headingEn": "Rapa Nui Preserves About 900 Moai and More Than 300 Ceremonial Platforms",
+          "textKo": "UNESCO는 Rapa Nui National Park가 Polynesian-origin society의 monumental sculpture와 architecture를 보존하며, island에 약 900개의 moai와 300개가 넘는 ahu가 있다고 설명한다. 많은 statue는 Rano Raraku의 volcanic tuff에서 basalt picks로 carving됐고 일부는 quarry에서 unfinished 상태로 남아 제작과정을 보여준다. 따라서 ‘누가 만들었는가’는 미스터리가 아니다. 더 어려운 질문은 수십 톤 stone을 어떻게 이동·세웠고 사회가 왜 이 monument system을 유지했는가다.",
+          "textEn": "UNESCO describes roughly 900 moai and more than 300 ceremonial platforms across Rapa Nui. Many statues were carved from volcanic tuff at Rano Raraku using basalt picks, and unfinished examples preserve evidence of manufacture."
+        },
+        {
+          "blockId": "ancestors-02",
+          "type": "BACKGROUND",
+          "headingKo": "moai는 고립된 장식물이 아니라 ahu·burial·settlement landscape의 일부였다",
+          "headingEn": "Moai Were Part of Ahu, Burial, and Settlement Landscapes",
+          "textKo": "UNESCO documentation은 moai가 ahu라는 ceremonial platform과 연결되고 ancestral representation으로 이해된다고 설명한다. 여러 statue는 바다를 바라보기보다 inland settlement 쪽을 향했다. 이 spatial relation은 moai를 ‘정체불명의 거대석상’으로만 보는 해석을 약화한다. monument는 community territory, ancestors, burial practice와 결합된 landscape의 일부였다.",
+          "textEn": "UNESCO documentation places the moai within ahu ceremonial platforms, burial contexts, community territories, and ancestor traditions. Many statues faced inland settlements rather than the ocean."
+        },
+        {
+          "blockId": "transport-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "quarry와 이동중 statue는 운반이 실제 공정의 일부였음을 보여준다",
+          "headingEn": "Quarries and Statues in Transit Show That Transport Was an Organized Production Stage",
+          "textKo": "Rano Raraku에는 carving 중인 statue뿐 아니라 quarry에서 final destination으로 옮겨지는 과정에 있었던 moai가 남아 있다. archaeology는 road network와 abandoned statues를 통해 transport stage를 연구한다. modern experiments는 rope coordination으로 upright statue를 ‘걷게’ 움직이는 방식이 physically possible함을 보여주지만, 하나의 experiment가 모든 moai의 exact historical route와 technique를 증명하는 것은 아니다.",
+          "textEn": "Rano Raraku preserves statues in different production stages, including examples apparently being moved toward final destinations. Modern experiments demonstrate that coordinated rope methods can move upright replicas, but one experiment does not prove the exact historical method for every moai."
+        },
+        {
+          "blockId": "collapse-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘moai 때문에 숲을 모두 베어 사회가 즉시 붕괴했다’는 단순서사는 현재보다 강하게 말한 해석이다",
+          "headingEn": "The Simple “Moai Caused Ecocide and Immediate Collapse” Story Is Too Strong",
+          "textKo": "Rapa Nui history에는 resource depletion, landscape change, internal conflict, European contact, disease and slave raiding처럼 서로 다른 시기와 process가 겹친다. UNESCO도 ecological crisis와 external intrusion을 함께 언급한다. statue transport에 wood가 얼마나 필요했는지에 대한 model도 하나가 아니다. 그래서 ‘석상을 옮기느라 나무를 베어 문명이 스스로 멸망했다’는 single-cause narrative는 archaeological and historical complexity를 과도하게 줄인다.",
+          "textEn": "Rapa Nui history includes resource depletion, landscape change, conflict, European contact, disease, and slave raiding across different periods. UNESCO itself notes both ecological crisis and outside intrusion, making a single-cause “ecocide by statue transport” story too simple."
+        },
+        {
+          "blockId": "meaning-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘외계인이 만들었나’가 아니라 monument logistics와 social meaning의 세부에 남아 있다",
+          "headingEn": "The Remaining Questions Concern Monument Logistics and Social Meaning, Not Alien Builders",
+          "textKo": "moai가 local Rapa Nui society의 작품이라는 archaeological context는 강하다. carving quarry, tools, platforms, roads, unfinished statues가 production chain을 직접 보여준다. 남은 빈칸은 각 시대의 labor organization, exact transport practice, political competition과 ritual change가 어떻게 연결됐는가다. 이 미스터리는 고대인의 능력을 부정하는 이야기가 아니라, 제한된 island resources 속에서 장기간 거대한 monument tradition을 운영한 사회를 복원하는 문제다.",
+          "textEn": "The archaeological context strongly identifies moai as the work of Rapa Nui society. Quarries, tools, roads, platforms, and unfinished statues document the production chain. The remaining questions concern labor organization, exact transport practice, and social change."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Rapa Nui society는 수백 개의 moai와 ahu를 제작했고 Rano Raraku quarry·tools·unfinished statues가 production process를 보여준다. moai는 ancestral/ceremonial landscape와 강하게 연결된다.\n\n확인되지 않음: 모든 statue가 정확히 같은 transport technique으로 이동됐는지, monument-building과 ecological/social change의 exact causal chain을 하나로 확정할 수는 없다. 외계·초문명 제작설을 요구하는 evidence도 없다.",
+          "textEn": "Established: Rapa Nui society produced hundreds of moai and ahu, and quarries, tools, unfinished statues, and ceremonial contexts document the production system.\n\nNot established: One exact transport technique for every statue or one simple causal chain for later ecological/social change is not established, and no extraterrestrial builder hypothesis is required."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Rapa Nui society는 수백 개의 moai와 ahu를 제작했고 Rano Raraku quarry·tools·unfinished statues가 production process를 보여준다. moai는 ancestral/ceremonial landscape와 강하게 연결된다.\n\n확인되지 않음: 모든 statue가 정확히 같은 transport technique으로 이동됐는지, monument-building과 ecological/social change의 exact causal chain을 하나로 확정할 수는 없다. 외계·초문명 제작설을 요구하는 evidence도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ancestors-02",
+        "transport-03",
+        "collapse-04",
+        "meaning-05"
+      ]
+    },
+    "en": {
+      "headline": "The Bigger Question Is Not Who Built the Moai, but How an Island Society Organized Their Movement",
+      "hook": "The quarries and tools do not hide the builders. The deeper mystery is the logistics and social meaning required to move monuments from quarry to ahu.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "라파누이에는 약 900개의 moai와 300개가 넘는 ceremonial platforms가 남아 있다",
+          "headingEn": "Rapa Nui Preserves About 900 Moai and More Than 300 Ceremonial Platforms",
+          "textKo": "UNESCO는 Rapa Nui National Park가 Polynesian-origin society의 monumental sculpture와 architecture를 보존하며, island에 약 900개의 moai와 300개가 넘는 ahu가 있다고 설명한다. 많은 statue는 Rano Raraku의 volcanic tuff에서 basalt picks로 carving됐고 일부는 quarry에서 unfinished 상태로 남아 제작과정을 보여준다. 따라서 ‘누가 만들었는가’는 미스터리가 아니다. 더 어려운 질문은 수십 톤 stone을 어떻게 이동·세웠고 사회가 왜 이 monument system을 유지했는가다.",
+          "textEn": "UNESCO describes roughly 900 moai and more than 300 ceremonial platforms across Rapa Nui. Many statues were carved from volcanic tuff at Rano Raraku using basalt picks, and unfinished examples preserve evidence of manufacture."
+        },
+        {
+          "blockId": "ancestors-02",
+          "type": "BACKGROUND",
+          "headingKo": "moai는 고립된 장식물이 아니라 ahu·burial·settlement landscape의 일부였다",
+          "headingEn": "Moai Were Part of Ahu, Burial, and Settlement Landscapes",
+          "textKo": "UNESCO documentation은 moai가 ahu라는 ceremonial platform과 연결되고 ancestral representation으로 이해된다고 설명한다. 여러 statue는 바다를 바라보기보다 inland settlement 쪽을 향했다. 이 spatial relation은 moai를 ‘정체불명의 거대석상’으로만 보는 해석을 약화한다. monument는 community territory, ancestors, burial practice와 결합된 landscape의 일부였다.",
+          "textEn": "UNESCO documentation places the moai within ahu ceremonial platforms, burial contexts, community territories, and ancestor traditions. Many statues faced inland settlements rather than the ocean."
+        },
+        {
+          "blockId": "transport-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "quarry와 이동중 statue는 운반이 실제 공정의 일부였음을 보여준다",
+          "headingEn": "Quarries and Statues in Transit Show That Transport Was an Organized Production Stage",
+          "textKo": "Rano Raraku에는 carving 중인 statue뿐 아니라 quarry에서 final destination으로 옮겨지는 과정에 있었던 moai가 남아 있다. archaeology는 road network와 abandoned statues를 통해 transport stage를 연구한다. modern experiments는 rope coordination으로 upright statue를 ‘걷게’ 움직이는 방식이 physically possible함을 보여주지만, 하나의 experiment가 모든 moai의 exact historical route와 technique를 증명하는 것은 아니다.",
+          "textEn": "Rano Raraku preserves statues in different production stages, including examples apparently being moved toward final destinations. Modern experiments demonstrate that coordinated rope methods can move upright replicas, but one experiment does not prove the exact historical method for every moai."
+        },
+        {
+          "blockId": "collapse-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘moai 때문에 숲을 모두 베어 사회가 즉시 붕괴했다’는 단순서사는 현재보다 강하게 말한 해석이다",
+          "headingEn": "The Simple “Moai Caused Ecocide and Immediate Collapse” Story Is Too Strong",
+          "textKo": "Rapa Nui history에는 resource depletion, landscape change, internal conflict, European contact, disease and slave raiding처럼 서로 다른 시기와 process가 겹친다. UNESCO도 ecological crisis와 external intrusion을 함께 언급한다. statue transport에 wood가 얼마나 필요했는지에 대한 model도 하나가 아니다. 그래서 ‘석상을 옮기느라 나무를 베어 문명이 스스로 멸망했다’는 single-cause narrative는 archaeological and historical complexity를 과도하게 줄인다.",
+          "textEn": "Rapa Nui history includes resource depletion, landscape change, conflict, European contact, disease, and slave raiding across different periods. UNESCO itself notes both ecological crisis and outside intrusion, making a single-cause “ecocide by statue transport” story too simple."
+        },
+        {
+          "blockId": "meaning-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘외계인이 만들었나’가 아니라 monument logistics와 social meaning의 세부에 남아 있다",
+          "headingEn": "The Remaining Questions Concern Monument Logistics and Social Meaning, Not Alien Builders",
+          "textKo": "moai가 local Rapa Nui society의 작품이라는 archaeological context는 강하다. carving quarry, tools, platforms, roads, unfinished statues가 production chain을 직접 보여준다. 남은 빈칸은 각 시대의 labor organization, exact transport practice, political competition과 ritual change가 어떻게 연결됐는가다. 이 미스터리는 고대인의 능력을 부정하는 이야기가 아니라, 제한된 island resources 속에서 장기간 거대한 monument tradition을 운영한 사회를 복원하는 문제다.",
+          "textEn": "The archaeological context strongly identifies moai as the work of Rapa Nui society. Quarries, tools, roads, platforms, and unfinished statues document the production chain. The remaining questions concern labor organization, exact transport practice, and social change."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Rapa Nui society는 수백 개의 moai와 ahu를 제작했고 Rano Raraku quarry·tools·unfinished statues가 production process를 보여준다. moai는 ancestral/ceremonial landscape와 강하게 연결된다.\n\n확인되지 않음: 모든 statue가 정확히 같은 transport technique으로 이동됐는지, monument-building과 ecological/social change의 exact causal chain을 하나로 확정할 수는 없다. 외계·초문명 제작설을 요구하는 evidence도 없다.",
+          "textEn": "Established: Rapa Nui society produced hundreds of moai and ahu, and quarries, tools, unfinished statues, and ceremonial contexts document the production system.\n\nNot established: One exact transport technique for every statue or one simple causal chain for later ecological/social change is not established, and no extraterrestrial builder hypothesis is required."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Rapa Nui society produced hundreds of moai and ahu, and quarries, tools, unfinished statues, and ceremonial contexts document the production system.\n\nNot established: One exact transport technique for every statue or one simple causal chain for later ecological/social change is not established, and no extraterrestrial builder hypothesis is required.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ancestors-02",
+        "transport-03",
+        "collapse-04",
+        "meaning-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "RAPA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Rapa Nui에는 약 900 moai와 300개 이상 ceremonial platforms가 남아 있다.",
+      "statementEn": "Rapa Nui preserves roughly 900 moai and more than 300 ceremonial platforms.",
+      "sourceRefs": [
+        "RAPA_UNESCO"
+      ]
+    },
+    {
+      "claimId": "RAPA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Rano Raraku quarry와 unfinished statues는 carving/transport production chain을 보여준다.",
+      "statementEn": "Rano Raraku quarry and unfinished statues document the carving and transport production chain.",
+      "sourceRefs": [
+        "RAPA_UNESCO",
+        "RAPA_ICOMOS"
+      ]
+    },
+    {
+      "claimId": "RAPA-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 moai에 적용된 하나의 exact transport method와 single-cause collapse model은 확정되지 않았다.",
+      "statementEn": "No single exact transport method for every moai or single-cause collapse model is established.",
+      "sourceRefs": [
+        "RAPA_UNESCO",
+        "RAPA_ICOMOS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "RAPA_UNESCO",
+      "title": "Rapa Nui National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/715",
+      "sourceType": "UNESCO_OFFICIAL"
+    },
+    {
+      "sourceId": "RAPA_ICOMOS",
+      "title": "Rapa Nui National Park Advisory Body Evaluation",
+      "publisher": "ICOMOS / UNESCO",
+      "url": "https://whc.unesco.org/archive/advisory_body_evaluation/715.pdf",
+      "sourceType": "ICOMOS_EVALUATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "rapa-v01",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Rano Raraku quarry → carving → transport road → ahu erection의 production chain.",
+      "captionEn": "Rano Raraku quarry → carving → transport road → ahu erection production chain.",
+      "altKo": "Rano Raraku quarry → carving → transport road → ahu erection의 production chain.",
+      "altEn": "Rano Raraku quarry → carving → transport road → ahu erection production chain.",
+      "sourceRefs": [
+        "RAPA_UNESCO",
+        "RAPA_ICOMOS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "rapa-nui-moai__v01__ko.png",
+          "sha256": "7ac19e4c9c36514e6cf89fc27bec171f7cc8faecb87084a0326d43df44542519",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "rapa-nui-moai__v01__en.png",
+          "sha256": "309b2f454c0975b3dc40baca8a6b7e3745884bc1f0ea51a9f29dd53e7a220894",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "rapa-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "local production evidence와 exact transport/collapse model 미확정을 분리.",
+      "captionEn": "Separate strong local-production evidence from unresolved exact transport and collapse models.",
+      "altKo": "local production evidence와 exact transport/collapse model 미확정을 분리.",
+      "altEn": "Separate strong local-production evidence from unresolved exact transport and collapse models.",
+      "sourceRefs": [
+        "RAPA_UNESCO",
+        "RAPA_ICOMOS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "rapa-nui-moai__v02__ko.png",
+          "sha256": "2fbc32f70846fb3ca8f4d6150d36f7f06ef18ed6a52a22e1c3588ee23598da08",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "rapa-nui-moai__v02__en.png",
+          "sha256": "4c970dfc1425aec3aa5b36872488eeca21e772d6f39cd439cd0d91f6efe23bcd",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "countries": [
+      "Chile / Rapa Nui"
+    ],
+    "regions": [
+      "Easter Island / Rapa Nui"
+    ],
+    "organizations": [
+      "UNESCO"
+    ],
+    "resolution": "LOCAL_PRODUCTION_CONFIRMED_EXACT_TRANSPORT_AND_SOCIAL_CAUSATION_PARTLY_UNRESOLVED"
+  },
+  "quality": {
+    "koBodyChars": 2029,
+    "enBodyWords": 223,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH30_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

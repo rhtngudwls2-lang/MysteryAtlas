@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "min-min-lights",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "민민 라이트",
+    "canonicalTitleEn": "Min Min Lights",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사막의 ‘따라오는 빛’은 어떻게 horizon 너머의 불빛일 수 있나",
+      "hook": "Min Min lights의 강한 과학적 설명은 Fata Morgana다. 중요한 건 ‘모든 목격이 같은 lamp였다’가 아니라 temperature inversion이 distant light를 가까운 moving object처럼 보이게 할 수 있다는 점이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "호주 outback의 멀리 떠다니는 빛은 실제 목격전통이지만 하나의 ‘물체’로 확인된 적은 없다",
+          "headingEn": "Australia's Wandering Outback Lights Are a Real Sighting Tradition, Not a Confirmed Single Object",
+          "textKo": "Min Min lights는 Queensland와 Australian outback에서 오래 보고된 distant luminous phenomenon이다. witness들은 밤에 isolated light가 따라오거나 접근하고, 방향·색·brightness가 변하는 것처럼 보였다고 말한다. ABC는 Indigenous and settler traditions를 포함한 long cultural history와 modern sightings를 소개한다. 그러나 반복되는 이름 하나가 모든 report가 동일한 physical source에서 왔음을 의미하지는 않는다.",
+          "textEn": "Min Min lights are a long-running Australian outback sighting tradition involving isolated distant lights that can appear to approach, recede, or move. The shared name does not establish one physical source behind every report."
+        },
+        {
+          "blockId": "mirage-02",
+          "type": "TURNING_POINT",
+          "headingKo": "2003년 Pettigrew는 temperature inversion의 Fata Morgana로 많은 특징을 재현했다",
+          "headingEn": "In 2003 Pettigrew Reproduced Many Features With a Temperature-Inversion Fata Morgana Model",
+          "textKo": "peer-reviewed 2003 paper에서 John Pettigrew는 direct observations와 Western Queensland field demonstration을 바탕으로 inverted mirage/Fata Morgana explanation을 제시했다. temperature inversion이 air refractive-index gradient를 만들면 horizon 너머의 natural 또는 man-made light가 long distance로 refract돼 apparent floating light처럼 보일 수 있다. 특히 주변 reference landmark가 거의 없는 night environment에서는 distance perception도 크게 왜곡된다.",
+          "textEn": "A 2003 peer-reviewed paper by John Pettigrew used direct observations and a field demonstration to support an inverted-mirage or Fata Morgana explanation. Temperature inversions can refract distant natural or artificial lights over the horizon."
+        },
+        {
+          "blockId": "distance-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "source가 실제보다 훨씬 가까워 보이면 ‘따라오는 빛’ 같은 행동도 생길 수 있다",
+          "headingEn": "A Faraway Source Appearing Nearby Can Produce the Impression of a Light Following You",
+          "textKo": "isolated light는 distance cue가 거의 없기 때문에 observer가 자신의 움직임을 source motion으로 오해하기 쉽다. refracted light가 horizon 아래 실제 source에서 오면 apparent position과 intensity가 air layers 변화에 따라 달라질 수 있다. 이 optical model은 hovering, retreating, following, color/intensity variation 같은 많은 Min Min properties를 하나의 conventional physics framework로 설명할 수 있다.",
+          "textEn": "An isolated light lacks distance cues, so observer movement can be misread as source movement. Refraction from a source beyond the horizon can shift apparent position and intensity as atmospheric layers change."
+        },
+        {
+          "blockId": "sources-04",
+          "type": "BACKGROUND",
+          "headingKo": "light source는 car headlights만이 아니라 natural·man-made 모두 가능하다",
+          "headingEn": "The Light Source Need Not Be Only Car Headlights",
+          "textKo": "Pettigrew paper는 both natural and man-made light sources가 mirage system에 들어갈 수 있다고 설명한다. 그래서 ‘모든 Min Min은 자동차 불빛’처럼 하나의 source를 고정하는 것도 너무 단순하다. 핵심 mechanism은 source 자체보다 inversion layer가 distant light path를 굴절시키는 데 있다. region과 시대에 따라 camp light, vehicle, star/planet near horizon 등 source candidate가 달라질 수 있다.",
+          "textEn": "Pettigrew notes that both natural and artificial light sources can participate in the optical effect. The mechanism is atmospheric refraction, not one mandatory source such as a car headlight."
+        },
+        {
+          "blockId": "limits-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Fata Morgana model이 강하다고 every historical report의 source를 retroactively 특정할 수는 없다",
+          "headingEn": "A Strong Fata Morgana Model Cannot Retroactively Identify Every Historical Light Source",
+          "textKo": "2003 field work는 many strange properties가 inversion/refraction으로 explicable하다는 strong demonstration을 제공한다. 하지만 과거의 individual sighting은 당시 temperature profile, source location, observer track가 기록되지 않은 경우가 많다. 따라서 mechanism family가 잘 설명돼도 특정 1920년 목격의 source가 무엇이었는지를 자동확정할 수는 없다. general explanation과 case-specific attribution을 분리해야 한다.",
+          "textEn": "The 2003 work strongly demonstrates that many reported properties are explainable by inversion and refraction, but historical sightings often lack the atmospheric and source data needed for case-specific attribution."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Min Min lights는 Australia outback의 장기 sighting tradition이며, 2003 peer-reviewed field study는 temperature-inversion Fata Morgana가 many reported properties를 재현·설명할 수 있음을 보여줬다.\n\n확인되지 않음: 모든 historical Min Min report의 exact source를 하나씩 특정한 것은 아니다. ‘미확인 light report가 존재한다’는 사실이 초자연적 entity를 입증하지 않는다.",
+          "textEn": "Established: Min Min lights are a long-running Australian outback sighting tradition, and a 2003 peer-reviewed field study showed that temperature-inversion Fata Morgana effects can explain many reported properties.\n\nNot established: The exact source of every historical Min Min report has not been individually identified, and unexplained light reports do not establish a paranormal entity."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Min Min lights는 Australia outback의 장기 sighting tradition이며, 2003 peer-reviewed field study는 temperature-inversion Fata Morgana가 many reported properties를 재현·설명할 수 있음을 보여줬다.\n\n확인되지 않음: 모든 historical Min Min report의 exact source를 하나씩 특정한 것은 아니다. ‘미확인 light report가 존재한다’는 사실이 초자연적 entity를 입증하지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mirage-02",
+        "distance-03",
+        "sources-04",
+        "limits-05"
+      ]
+    },
+    "en": {
+      "headline": "How Can a 'Following Light' in the Outback Actually Come From Beyond the Horizon?",
+      "hook": "A strong scientific explanation for Min Min lights is the Fata Morgana: temperature inversions can make distant lights beyond the horizon appear nearby and mobile.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "호주 outback의 멀리 떠다니는 빛은 실제 목격전통이지만 하나의 ‘물체’로 확인된 적은 없다",
+          "headingEn": "Australia's Wandering Outback Lights Are a Real Sighting Tradition, Not a Confirmed Single Object",
+          "textKo": "Min Min lights는 Queensland와 Australian outback에서 오래 보고된 distant luminous phenomenon이다. witness들은 밤에 isolated light가 따라오거나 접근하고, 방향·색·brightness가 변하는 것처럼 보였다고 말한다. ABC는 Indigenous and settler traditions를 포함한 long cultural history와 modern sightings를 소개한다. 그러나 반복되는 이름 하나가 모든 report가 동일한 physical source에서 왔음을 의미하지는 않는다.",
+          "textEn": "Min Min lights are a long-running Australian outback sighting tradition involving isolated distant lights that can appear to approach, recede, or move. The shared name does not establish one physical source behind every report."
+        },
+        {
+          "blockId": "mirage-02",
+          "type": "TURNING_POINT",
+          "headingKo": "2003년 Pettigrew는 temperature inversion의 Fata Morgana로 많은 특징을 재현했다",
+          "headingEn": "In 2003 Pettigrew Reproduced Many Features With a Temperature-Inversion Fata Morgana Model",
+          "textKo": "peer-reviewed 2003 paper에서 John Pettigrew는 direct observations와 Western Queensland field demonstration을 바탕으로 inverted mirage/Fata Morgana explanation을 제시했다. temperature inversion이 air refractive-index gradient를 만들면 horizon 너머의 natural 또는 man-made light가 long distance로 refract돼 apparent floating light처럼 보일 수 있다. 특히 주변 reference landmark가 거의 없는 night environment에서는 distance perception도 크게 왜곡된다.",
+          "textEn": "A 2003 peer-reviewed paper by John Pettigrew used direct observations and a field demonstration to support an inverted-mirage or Fata Morgana explanation. Temperature inversions can refract distant natural or artificial lights over the horizon."
+        },
+        {
+          "blockId": "distance-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "source가 실제보다 훨씬 가까워 보이면 ‘따라오는 빛’ 같은 행동도 생길 수 있다",
+          "headingEn": "A Faraway Source Appearing Nearby Can Produce the Impression of a Light Following You",
+          "textKo": "isolated light는 distance cue가 거의 없기 때문에 observer가 자신의 움직임을 source motion으로 오해하기 쉽다. refracted light가 horizon 아래 실제 source에서 오면 apparent position과 intensity가 air layers 변화에 따라 달라질 수 있다. 이 optical model은 hovering, retreating, following, color/intensity variation 같은 많은 Min Min properties를 하나의 conventional physics framework로 설명할 수 있다.",
+          "textEn": "An isolated light lacks distance cues, so observer movement can be misread as source movement. Refraction from a source beyond the horizon can shift apparent position and intensity as atmospheric layers change."
+        },
+        {
+          "blockId": "sources-04",
+          "type": "BACKGROUND",
+          "headingKo": "light source는 car headlights만이 아니라 natural·man-made 모두 가능하다",
+          "headingEn": "The Light Source Need Not Be Only Car Headlights",
+          "textKo": "Pettigrew paper는 both natural and man-made light sources가 mirage system에 들어갈 수 있다고 설명한다. 그래서 ‘모든 Min Min은 자동차 불빛’처럼 하나의 source를 고정하는 것도 너무 단순하다. 핵심 mechanism은 source 자체보다 inversion layer가 distant light path를 굴절시키는 데 있다. region과 시대에 따라 camp light, vehicle, star/planet near horizon 등 source candidate가 달라질 수 있다.",
+          "textEn": "Pettigrew notes that both natural and artificial light sources can participate in the optical effect. The mechanism is atmospheric refraction, not one mandatory source such as a car headlight."
+        },
+        {
+          "blockId": "limits-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Fata Morgana model이 강하다고 every historical report의 source를 retroactively 특정할 수는 없다",
+          "headingEn": "A Strong Fata Morgana Model Cannot Retroactively Identify Every Historical Light Source",
+          "textKo": "2003 field work는 many strange properties가 inversion/refraction으로 explicable하다는 strong demonstration을 제공한다. 하지만 과거의 individual sighting은 당시 temperature profile, source location, observer track가 기록되지 않은 경우가 많다. 따라서 mechanism family가 잘 설명돼도 특정 1920년 목격의 source가 무엇이었는지를 자동확정할 수는 없다. general explanation과 case-specific attribution을 분리해야 한다.",
+          "textEn": "The 2003 work strongly demonstrates that many reported properties are explainable by inversion and refraction, but historical sightings often lack the atmospheric and source data needed for case-specific attribution."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Min Min lights는 Australia outback의 장기 sighting tradition이며, 2003 peer-reviewed field study는 temperature-inversion Fata Morgana가 many reported properties를 재현·설명할 수 있음을 보여줬다.\n\n확인되지 않음: 모든 historical Min Min report의 exact source를 하나씩 특정한 것은 아니다. ‘미확인 light report가 존재한다’는 사실이 초자연적 entity를 입증하지 않는다.",
+          "textEn": "Established: Min Min lights are a long-running Australian outback sighting tradition, and a 2003 peer-reviewed field study showed that temperature-inversion Fata Morgana effects can explain many reported properties.\n\nNot established: The exact source of every historical Min Min report has not been individually identified, and unexplained light reports do not establish a paranormal entity."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Min Min lights are a long-running Australian outback sighting tradition, and a 2003 peer-reviewed field study showed that temperature-inversion Fata Morgana effects can explain many reported properties.\n\nNot established: The exact source of every historical Min Min report has not been individually identified, and unexplained light reports do not establish a paranormal entity.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "mirage-02",
+        "distance-03",
+        "sources-04",
+        "limits-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "MINMIN_ABC",
+      "title": "Min Min lights seen in the outback",
+      "publisher": "ABC News",
+      "url": "https://www.abc.net.au/news/2018-09-30/min-min-lights-seen-in-outback/10317058",
+      "sourceType": "NEWS_CONTEXT"
+    },
+    {
+      "sourceId": "MINMIN_PETTIGREW_2003",
+      "title": "The Min Min light and the Fata Morgana: An optical account of a mysterious Australian phenomenon",
+      "publisher": "Clinical & Experimental Optometry / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12643807/",
+      "sourceType": "PEER_REVIEWED_JOURNAL"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "MIN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Min Min lights는 Australian outback에서 오랫동안 보고된 luminous phenomenon이다.",
+      "statementEn": "Min Min lights are a long-running Australian outback luminous-sighting phenomenon.",
+      "sourceRefs": [
+        "MINMIN_ABC",
+        "MINMIN_PETTIGREW_2003"
+      ]
+    },
+    {
+      "claimId": "MIN-C2",
+      "status": "SUPPORTED",
+      "statementKo": "temperature-inversion Fata Morgana는 many reported properties를 field demonstration으로 설명한다.",
+      "statementEn": "A temperature-inversion Fata Morgana model explains many reported properties and was supported by field demonstration.",
+      "sourceRefs": [
+        "MINMIN_PETTIGREW_2003"
+      ]
+    },
+    {
+      "claimId": "MIN-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "every historical report의 exact source가 case-by-case 확정된 것은 아니다.",
+      "statementEn": "The exact source of every historical report has not been established case by case.",
+      "sourceRefs": [
+        "MINMIN_PETTIGREW_2003"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "min-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "distant light below horizon → temperature inversion → refracted ray path → apparent floating light.",
+      "captionEn": "Distant light below horizon → temperature inversion → refracted ray path → apparent floating light.",
+      "altKo": "distant light below horizon → temperature inversion → refracted ray path → apparent floating light.",
+      "altEn": "Distant light below horizon → temperature inversion → refracted ray path → apparent floating light.",
+      "sourceRefs": [
+        "MINMIN_ABC",
+        "MINMIN_PETTIGREW_2003"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "min-min-lights__v01__ko.png",
+          "sha256": "11c6ac2741fc391679e6aec8d7fa2fb60923000e491e6d20f61bca2c7d0ca3ef",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "min-min-lights__v01__en.png",
+          "sha256": "dad46fdd58cc0ba0361d67e6a11bf9f5ee01d6f899cf4edb53bc9b8f89dec381",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "min-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "sighting tradition / field-demonstrated optical mechanism / case-specific attribution limits.",
+      "captionEn": "Sighting tradition / field-demonstrated optical mechanism / case-specific attribution limits.",
+      "altKo": "sighting tradition / field-demonstrated optical mechanism / case-specific attribution limits.",
+      "altEn": "Sighting tradition / field-demonstrated optical mechanism / case-specific attribution limits.",
+      "sourceRefs": [
+        "MINMIN_ABC",
+        "MINMIN_PETTIGREW_2003"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "min-min-lights__v02__ko.png",
+          "sha256": "3f64375644326ee5ffb48dccc397b75b803d48339d8f4cabd4af20ae1f65ea0c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "min-min-lights__v02__en.png",
+          "sha256": "4cf697af174830d92f4722a856df8789ccfea659bbe6194bbf8a04ffd4b1b39d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Paranormal / Haunting / Folklore"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "Queensland / outback"
+    ],
+    "resolution": "SIGHTINGS_REAL_OPTICAL_MECHANISM_STRONGLY_SUPPORTED_CASE_SPECIFIC_SOURCES_VARIABLE"
+  },
+  "quality": {
+    "koBodyChars": 1995,
+    "enBodyWords": 212,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH28",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH28_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

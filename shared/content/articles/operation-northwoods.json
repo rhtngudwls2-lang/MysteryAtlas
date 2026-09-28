@@ -1,0 +1,286 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-northwoods",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오퍼레이션 노스우즈",
+    "canonicalTitleEn": "Operation Northwoods",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "충격적인 문서는 진짜다—그렇다면 어디까지가 제안이고 어디부터 실행이 아닌가",
+      "hook": "Northwoods는 “정부가 이런 계획을 생각했을 리 없다”는 사례가 아니다. 실제 proposal이었다. 그래서 더 중요한 건 authentic document와 실제 실행 사이의 경계를 지키는 것이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1962년 Joint Chiefs 문서는 Cuba 개입 명분을 만들기 위한 staged pretext들을 실제로 제안했다",
+          "headingEn": "A 1962 Joint Chiefs Memorandum Really Proposed Manufactured Pretexts for Intervention in Cuba",
+          "textKo": "1962년 3월 13일 Chairman, Joint Chiefs of Staff가 Secretary of Defense에게 보낸 “Justification for U.S. Military Intervention in Cuba” memorandum은 Northwoods라는 이름으로 알려졌다. declassified document에는 Guantanamo 공격 연출, “Remember the Maine”식 incident, civilian-airliner shootdown을 가장하는 scenario 등 intervention pretext를 만들어낼 아이디어가 포함됐다. 이것은 후대 rumor가 아니라 실제 작성·보존된 top-secret planning document다.",
+          "textEn": "A March 13, 1962 memorandum from the Chairman of the Joint Chiefs of Staff to the Secretary of Defense proposed manufactured pretexts for U.S. military intervention in Cuba, including staged incidents. The document is authentic and declassified."
+        },
+        {
+          "blockId": "proposal-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "문서의 핵심은 “검토된 아이디어”와 “실행된 작전”을 구분하는 데 있다",
+          "headingEn": "The Central Distinction Is Between a Proposed Plan and an Executed Operation",
+          "textKo": "Northwoods documents는 충격적인 pretext concepts를 실제로 적고 있지만, proposal이 승인돼 staged attacks가 실행됐다는 것은 별도 claim이다. historical record에서 plan, recommendation, authorization, operational execution은 서로 다른 단계다. Northwoods는 전자가 강하게 확인되는 rare case이기 때문에 오히려 “정부가 이런 아이디어를 실제 실행했다”는 후대 확장주장을 자동으로 붙이면 document가 말하는 정확한 범위를 흐리게 된다.",
+          "textEn": "The document confirms that extraordinary pretext concepts were proposed. Proposal, authorization, and operational execution are different historical stages, and the document does not by itself show that the staged attacks were carried out."
+        },
+        {
+          "blockId": "context-03",
+          "type": "BACKGROUND",
+          "headingKo": "Bay of Pigs 실패 이후 Cuba를 둘러싼 covert pressure가 강화된 맥락에서 작성됐다",
+          "headingEn": "The Proposal Emerged From the Post–Bay of Pigs Climate of Escalating Pressure on Cuba",
+          "textKo": "Bay of Pigs 실패 뒤 U.S. policy community에서는 Castro government를 압박·전복하려는 Operation Mongoose 등 다양한 covert option이 검토됐다. Northwoods memorandum은 이 broader escalation context 안에서 군사개입을 정당화할 public pretext를 어떻게 만들 수 있을지를 다뤘다. 문서를 당시 전략환경에서 읽으면 “어떤 정책목표가 이런 extreme proposal을 가능하게 했나”를 이해할 수 있지만, context가 proposal의 윤리성을 정당화하는 것은 아니다.",
+          "textEn": "After the Bay of Pigs, U.S. policy toward Cuba included covert pressure and Operation Mongoose. Northwoods emerged from that escalatory context, but historical context does not erase the ethical significance of the proposals."
+        },
+        {
+          "blockId": "rejection-04",
+          "type": "TURNING_POINT",
+          "headingKo": "계획은 정책으로 채택되지 않았고 실제 Northwoods attacks도 실행되지 않았다",
+          "headingEn": "The Proposal Was Not Adopted as Policy and the Northwoods Attacks Were Not Carried Out",
+          "textKo": "Northwoods proposal은 civilian leadership의 approval을 받지 못했고 document에 묘사된 staged incidents가 program으로 실행됐다는 record는 없다. 이 점은 사건을 다룰 때 필수 boundary다. “미군 지도부가 이런 proposal을 작성했다”는 사실은 이미 충분히 중요하다. 그것을 더 dramatic하게 만들려고 “그래서 실제 공격을 벌였다”고 확장할 필요도, 근거도 없다.",
+          "textEn": "The proposal was not adopted as policy, and the staged incidents described in the memorandum were not carried out as a Northwoods program. The documented proposal is significant without converting it into an executed operation."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "기밀해제 뒤 Northwoods는 conspiracy research에서 “문서가 실제인지 먼저 확인하라”는 기준점이 됐다",
+          "headingEn": "After Declassification, Northwoods Became a Benchmark for Distinguishing Real Documents From Expanded Conspiracy Claims",
+          "textKo": "Northwoods가 강력한 사례인 이유는 official chain, date, recipient, text가 남아 있기 때문이다. 실제 government misconduct 또는 extreme planning을 조사할 때 이런 provenance가 핵심이다. 동시에 authentic document를 발견했다고 이후의 unrelated false-flag claim까지 자동으로 사실이 되는 것은 아니다. 하나의 확인된 case를 다른 시대 사건에 일반화하는 순간 새로운 evidence가 필요하다.",
+          "textEn": "Northwoods is powerful because the document has clear provenance, date, authorship, and recipients. But one authentic planning document does not automatically validate unrelated false-flag claims in other contexts."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1962년 Joint Chiefs memorandum은 Cuba 개입 명분을 위한 staged incidents와 deception scenarios를 실제로 제안했다. document는 declassified되어 공개돼 있다.\n\n확인되지 않음: Northwoods proposal이 승인돼 문서의 staged attacks가 실제 실행됐다는 evidence는 없다. 다른 사건의 false-flag claim을 이 문서 하나로 입증할 수도 없다.",
+          "textEn": "Established: A 1962 Joint Chiefs memorandum genuinely proposed staged incidents and deception scenarios as possible pretexts for intervention in Cuba, and the document is declassified.\n\nNot established: There is no evidence that the Northwoods staged attacks were approved and executed, nor does this document prove unrelated false-flag claims."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "proposal-02",
+        "context-03",
+        "rejection-04",
+        "legacy-05"
+      ]
+    },
+    "en": {
+      "headline": "The Shocking Document Is Real—But Where Does Proposal End and Execution Begin?",
+      "hook": "Northwoods is an authentic proposal. That makes it even more important to preserve the boundary between documented planning and actual execution.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1962년 Joint Chiefs 문서는 Cuba 개입 명분을 만들기 위한 staged pretext들을 실제로 제안했다",
+          "headingEn": "A 1962 Joint Chiefs Memorandum Really Proposed Manufactured Pretexts for Intervention in Cuba",
+          "textKo": "1962년 3월 13일 Chairman, Joint Chiefs of Staff가 Secretary of Defense에게 보낸 “Justification for U.S. Military Intervention in Cuba” memorandum은 Northwoods라는 이름으로 알려졌다. declassified document에는 Guantanamo 공격 연출, “Remember the Maine”식 incident, civilian-airliner shootdown을 가장하는 scenario 등 intervention pretext를 만들어낼 아이디어가 포함됐다. 이것은 후대 rumor가 아니라 실제 작성·보존된 top-secret planning document다.",
+          "textEn": "A March 13, 1962 memorandum from the Chairman of the Joint Chiefs of Staff to the Secretary of Defense proposed manufactured pretexts for U.S. military intervention in Cuba, including staged incidents. The document is authentic and declassified."
+        },
+        {
+          "blockId": "proposal-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "문서의 핵심은 “검토된 아이디어”와 “실행된 작전”을 구분하는 데 있다",
+          "headingEn": "The Central Distinction Is Between a Proposed Plan and an Executed Operation",
+          "textKo": "Northwoods documents는 충격적인 pretext concepts를 실제로 적고 있지만, proposal이 승인돼 staged attacks가 실행됐다는 것은 별도 claim이다. historical record에서 plan, recommendation, authorization, operational execution은 서로 다른 단계다. Northwoods는 전자가 강하게 확인되는 rare case이기 때문에 오히려 “정부가 이런 아이디어를 실제 실행했다”는 후대 확장주장을 자동으로 붙이면 document가 말하는 정확한 범위를 흐리게 된다.",
+          "textEn": "The document confirms that extraordinary pretext concepts were proposed. Proposal, authorization, and operational execution are different historical stages, and the document does not by itself show that the staged attacks were carried out."
+        },
+        {
+          "blockId": "context-03",
+          "type": "BACKGROUND",
+          "headingKo": "Bay of Pigs 실패 이후 Cuba를 둘러싼 covert pressure가 강화된 맥락에서 작성됐다",
+          "headingEn": "The Proposal Emerged From the Post–Bay of Pigs Climate of Escalating Pressure on Cuba",
+          "textKo": "Bay of Pigs 실패 뒤 U.S. policy community에서는 Castro government를 압박·전복하려는 Operation Mongoose 등 다양한 covert option이 검토됐다. Northwoods memorandum은 이 broader escalation context 안에서 군사개입을 정당화할 public pretext를 어떻게 만들 수 있을지를 다뤘다. 문서를 당시 전략환경에서 읽으면 “어떤 정책목표가 이런 extreme proposal을 가능하게 했나”를 이해할 수 있지만, context가 proposal의 윤리성을 정당화하는 것은 아니다.",
+          "textEn": "After the Bay of Pigs, U.S. policy toward Cuba included covert pressure and Operation Mongoose. Northwoods emerged from that escalatory context, but historical context does not erase the ethical significance of the proposals."
+        },
+        {
+          "blockId": "rejection-04",
+          "type": "TURNING_POINT",
+          "headingKo": "계획은 정책으로 채택되지 않았고 실제 Northwoods attacks도 실행되지 않았다",
+          "headingEn": "The Proposal Was Not Adopted as Policy and the Northwoods Attacks Were Not Carried Out",
+          "textKo": "Northwoods proposal은 civilian leadership의 approval을 받지 못했고 document에 묘사된 staged incidents가 program으로 실행됐다는 record는 없다. 이 점은 사건을 다룰 때 필수 boundary다. “미군 지도부가 이런 proposal을 작성했다”는 사실은 이미 충분히 중요하다. 그것을 더 dramatic하게 만들려고 “그래서 실제 공격을 벌였다”고 확장할 필요도, 근거도 없다.",
+          "textEn": "The proposal was not adopted as policy, and the staged incidents described in the memorandum were not carried out as a Northwoods program. The documented proposal is significant without converting it into an executed operation."
+        },
+        {
+          "blockId": "legacy-05",
+          "type": "AFTERMATH",
+          "headingKo": "기밀해제 뒤 Northwoods는 conspiracy research에서 “문서가 실제인지 먼저 확인하라”는 기준점이 됐다",
+          "headingEn": "After Declassification, Northwoods Became a Benchmark for Distinguishing Real Documents From Expanded Conspiracy Claims",
+          "textKo": "Northwoods가 강력한 사례인 이유는 official chain, date, recipient, text가 남아 있기 때문이다. 실제 government misconduct 또는 extreme planning을 조사할 때 이런 provenance가 핵심이다. 동시에 authentic document를 발견했다고 이후의 unrelated false-flag claim까지 자동으로 사실이 되는 것은 아니다. 하나의 확인된 case를 다른 시대 사건에 일반화하는 순간 새로운 evidence가 필요하다.",
+          "textEn": "Northwoods is powerful because the document has clear provenance, date, authorship, and recipients. But one authentic planning document does not automatically validate unrelated false-flag claims in other contexts."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1962년 Joint Chiefs memorandum은 Cuba 개입 명분을 위한 staged incidents와 deception scenarios를 실제로 제안했다. document는 declassified되어 공개돼 있다.\n\n확인되지 않음: Northwoods proposal이 승인돼 문서의 staged attacks가 실제 실행됐다는 evidence는 없다. 다른 사건의 false-flag claim을 이 문서 하나로 입증할 수도 없다.",
+          "textEn": "Established: A 1962 Joint Chiefs memorandum genuinely proposed staged incidents and deception scenarios as possible pretexts for intervention in Cuba, and the document is declassified.\n\nNot established: There is no evidence that the Northwoods staged attacks were approved and executed, nor does this document prove unrelated false-flag claims."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "proposal-02",
+        "context-03",
+        "rejection-04",
+        "legacy-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "NORTHWOODS_NSA",
+      "title": "Justification for US Military Intervention in Cuba, 13 March 1962",
+      "publisher": "National Security Archive, George Washington University",
+      "url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
+      "sourceType": "PRIMARY_DOCUMENT_ARCHIVE"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "NORTH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1962 Joint Chiefs memorandum은 manufactured pretexts와 staged incidents를 실제 제안했다.",
+      "statementEn": "The 1962 Joint Chiefs memorandum genuinely proposed manufactured pretexts and staged incidents.",
+      "sourceRefs": [
+        "NORTHWOODS_NSA"
+      ]
+    },
+    {
+      "claimId": "NORTH-C2",
+      "status": "CONFIRMED",
+      "statementKo": "문서는 authentic declassified planning record다.",
+      "statementEn": "The document is an authentic declassified planning record.",
+      "sourceRefs": [
+        "NORTHWOODS_NSA"
+      ]
+    },
+    {
+      "claimId": "NORTH-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Northwoods staged incidents가 승인·실행됐다는 evidence는 없다.",
+      "statementEn": "There is no evidence that the Northwoods staged incidents were approved and executed.",
+      "sourceRefs": [
+        "NORTHWOODS_NSA"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "north-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Bay of Pigs → Mongoose context → Mar 1962 memorandum → rejection/non-execution → declassification.",
+      "captionEn": "Bay of Pigs → Mongoose context → March 1962 memorandum → non-execution → declassification.",
+      "altKo": "Bay of Pigs → Mongoose context → Mar 1962 memorandum → rejection/non-execution → declassification.",
+      "altEn": "Bay of Pigs → Mongoose context → March 1962 memorandum → non-execution → declassification.",
+      "sourceRefs": [
+        "NORTHWOODS_NSA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-northwoods__v01__ko.png",
+          "sha256": "52c10d726c24b50911e0b1fa778555ca5f04209c4ce869693a8553552191d785",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-northwoods__v01__en.png",
+          "sha256": "89611dd7e784c0f5cdbe495ae1ff63e2fbdc01d93e9ca5043cfccaa78d8aadd4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "north-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "authentic proposal과 executed operation을 분리.",
+      "captionEn": "Separate authentic proposal from executed operation.",
+      "altKo": "authentic proposal과 executed operation을 분리.",
+      "altEn": "Separate authentic proposal from executed operation.",
+      "sourceRefs": [
+        "NORTHWOODS_NSA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-northwoods__v02__ko.png",
+          "sha256": "db9d6ef18436d9bf85be6a1c398f62a61d5f32c0b4fac0d57747eef5cf746950",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-northwoods__v02__en.png",
+          "sha256": "606da9ed5080ca0dd66c309d74354b261076d302085a823df7fe57ec55b9b460",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "countries": [
+      "United States",
+      "Cuba"
+    ],
+    "dateRange": {
+      "start": "1962-03-13",
+      "end": "1962",
+      "precision": "proposal period"
+    },
+    "resolution": "PROPOSAL_AUTHENTIC_EXECUTION_NOT_ESTABLISHED"
+  },
+  "quality": {
+    "koBodyChars": 1811,
+    "enBodyWords": 216,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

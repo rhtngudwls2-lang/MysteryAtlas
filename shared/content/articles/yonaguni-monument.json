@@ -1,0 +1,283 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "yonaguni-monument",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "요나구니 해저 지형",
+    "canonicalTitleEn": "Yonaguni Submarine Formation",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "계단처럼 보이는 해저 암반은 자연 지형일까, 인간이 손댄 구조물일까",
+      "hook": "형태는 실제다. 미스터리는 “계단처럼 보인다”는 시각적 인상이 archaeological construction evidence까지 이어지는가에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "요나구니 앞바다의 계단형 암반은 실제지만 “유적”이라는 이름은 해석이다",
+          "headingEn": "The Stepped Seafloor Formation Is Real, but Calling It a Monument Is an Interpretation",
+          "textKo": "Japan Yonaguni Island 남쪽 바다에는 수평면, 직선형 edge, terrace처럼 보이는 큰 sandstone formation이 있다. 잠수조사로 형태 자체는 반복확인됐지만, 이것이 인간이 만든 architecture인지 자연절리와 erosion이 만든 지형인지가 논쟁의 핵심이다. 구조가 인공적으로 보인다는 인상과 archaeological construction evidence는 같은 것이 아니다. 해저라는 환경과 제한된 excavation context 때문에 visible geometry만으로 human workmanship를 확정하기 어렵다.",
+          "textEn": "South of Yonaguni Island lies a large sandstone formation with flat surfaces, straight-looking edges, and terraces. The geometry is real, but whether it is human-made architecture or naturally jointed and eroded rock remains disputed."
+        },
+        {
+          "blockId": "geology-02",
+          "type": "BACKGROUND",
+          "headingKo": "sandstone bedding과 joints는 직각·평면 같은 형태를 자연적으로 만들 수 있다",
+          "headingEn": "Sandstone Bedding and Joints Can Naturally Produce Flat and Angular Forms",
+          "textKo": "layered sandstone과 tectonic joints는 erosion될 때 broad steps, vertical faces, sharp-looking corners를 만들 수 있다. 따라서 인간이 직선을 만들었다는 직관만으로 artificial origin을 정할 수 없다. 자연지형설은 “우연히 모든 게 계단처럼 생겼다”는 단순주장이 아니라 local geology가 이런 fracture pattern을 만들 수 있다는 설명이다. 반대로 natural process가 가능하다는 사실만으로 human modification이 전혀 없었다고 자동확정되는 것도 아니다.",
+          "textEn": "Layered sandstone and tectonic joints can weather into broad steps, vertical faces, and angular edges. That provides a natural mechanism for the appearance without automatically excluding later human modification."
+        },
+        {
+          "blockId": "artificial-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "인공구조설은 stair-like geometry와 possible marks를 archaeological design으로 읽는다",
+          "headingEn": "The Artificial-Structure Hypothesis Reads the Geometry as Archaeological Design",
+          "textKo": "Masaaki Kimura 등은 formation을 submerged human-made or heavily modified site로 해석하며, last-glacial sea-level history와 Ryukyu paleogeography를 연결해왔다. 이 hypothesis의 강점은 unusual geometry를 하나의 organized plan으로 설명한다는 점이다. 하지만 archaeology에서 human-made status를 강하게 세우려면 artifact assemblage, tool marks, occupation layer, datable construction context처럼 geometry 밖의 independent evidence가 필요하다.",
+          "textEn": "Masaaki Kimura and others have argued that the formation is human-made or heavily modified, linking it to Ryukyu paleogeography and postglacial sea-level change. Strong archaeological attribution, however, requires independent evidence beyond geometry."
+        },
+        {
+          "blockId": "dating-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "현재 수심에서 “언제 잠겼나”와 “언제 만들었나”는 서로 다른 dating 문제다",
+          "headingEn": "When the Site Submerged and When Humans Might Have Modified It Are Different Dating Questions",
+          "textKo": "sea-level rise와 crustal movement는 formation이 과거 더 얕거나 exposed됐을 가능성을 논의하게 한다. 그러나 paleoshoreline reconstruction이 곧 construction date를 제공하지 않는다. 특정 시기 육지였다는 사실과 그 시기에 사람들이 구조물을 만들었다는 evidence는 별도다. 그래서 “1만 년 전 유적” 같은 단정은 geology-based exposure window와 archaeological occupation evidence를 혼합할 위험이 있다.",
+          "textEn": "Sea-level and crustal history can constrain when the formation may have been shallower or exposed, but an exposure window is not a construction date. Geological dating and archaeological occupation evidence are separate."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "현재 가장 정확한 status는 “real formation, human origin disputed”다",
+          "headingEn": "The Most Accurate Status Is “Real Formation, Human Origin Disputed”",
+          "textKo": "Yonaguni는 fake photograph나 invented place가 아니다. large submarine formation은 실제 존재한다. 하지만 geometry를 natural geology로 충분히 설명할 수 있다는 견해와 human modification을 주장하는 연구가 병존한다. 따라서 Mystery Atlas에서는 “잃어버린 문명 유적”을 확정하지 않고, 어떤 evidence가 natural origin과 artificial origin을 각각 지지하는지 분리해 보여주는 것이 적절하다.",
+          "textEn": "Yonaguni is a real submarine formation, not a fabricated image. The disputed point is human origin. The evidence is best presented by separating geological explanations from claims of artificial modification."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Yonaguni 앞바다에는 계단·terrace처럼 보이는 large sandstone formation이 실제 존재하며 regional geology와 postglacial sea-level history는 연구돼 있다.\n\n확인되지 않음: formation 전체가 인간이 설계·건설한 monument라는 archaeological consensus는 없다. exact construction date, builders, function도 확정되지 않았다.",
+          "textEn": "Established: A large stepped-looking sandstone formation exists off Yonaguni, and its regional geology and postglacial setting have been studied.\n\nNot established: There is no archaeological consensus that the entire formation was designed and built by humans; builders, date, and function remain unconfirmed."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "geology-02",
+        "artificial-03",
+        "dating-04",
+        "status-05"
+      ]
+    },
+    "en": {
+      "headline": "Is Yonaguni a Natural Rock Formation or a Human-Modified Structure?",
+      "hook": "The formation is real. The mystery is whether its striking geometry amounts to archaeological construction evidence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "요나구니 앞바다의 계단형 암반은 실제지만 “유적”이라는 이름은 해석이다",
+          "headingEn": "The Stepped Seafloor Formation Is Real, but Calling It a Monument Is an Interpretation",
+          "textKo": "Japan Yonaguni Island 남쪽 바다에는 수평면, 직선형 edge, terrace처럼 보이는 큰 sandstone formation이 있다. 잠수조사로 형태 자체는 반복확인됐지만, 이것이 인간이 만든 architecture인지 자연절리와 erosion이 만든 지형인지가 논쟁의 핵심이다. 구조가 인공적으로 보인다는 인상과 archaeological construction evidence는 같은 것이 아니다. 해저라는 환경과 제한된 excavation context 때문에 visible geometry만으로 human workmanship를 확정하기 어렵다.",
+          "textEn": "South of Yonaguni Island lies a large sandstone formation with flat surfaces, straight-looking edges, and terraces. The geometry is real, but whether it is human-made architecture or naturally jointed and eroded rock remains disputed."
+        },
+        {
+          "blockId": "geology-02",
+          "type": "BACKGROUND",
+          "headingKo": "sandstone bedding과 joints는 직각·평면 같은 형태를 자연적으로 만들 수 있다",
+          "headingEn": "Sandstone Bedding and Joints Can Naturally Produce Flat and Angular Forms",
+          "textKo": "layered sandstone과 tectonic joints는 erosion될 때 broad steps, vertical faces, sharp-looking corners를 만들 수 있다. 따라서 인간이 직선을 만들었다는 직관만으로 artificial origin을 정할 수 없다. 자연지형설은 “우연히 모든 게 계단처럼 생겼다”는 단순주장이 아니라 local geology가 이런 fracture pattern을 만들 수 있다는 설명이다. 반대로 natural process가 가능하다는 사실만으로 human modification이 전혀 없었다고 자동확정되는 것도 아니다.",
+          "textEn": "Layered sandstone and tectonic joints can weather into broad steps, vertical faces, and angular edges. That provides a natural mechanism for the appearance without automatically excluding later human modification."
+        },
+        {
+          "blockId": "artificial-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "인공구조설은 stair-like geometry와 possible marks를 archaeological design으로 읽는다",
+          "headingEn": "The Artificial-Structure Hypothesis Reads the Geometry as Archaeological Design",
+          "textKo": "Masaaki Kimura 등은 formation을 submerged human-made or heavily modified site로 해석하며, last-glacial sea-level history와 Ryukyu paleogeography를 연결해왔다. 이 hypothesis의 강점은 unusual geometry를 하나의 organized plan으로 설명한다는 점이다. 하지만 archaeology에서 human-made status를 강하게 세우려면 artifact assemblage, tool marks, occupation layer, datable construction context처럼 geometry 밖의 independent evidence가 필요하다.",
+          "textEn": "Masaaki Kimura and others have argued that the formation is human-made or heavily modified, linking it to Ryukyu paleogeography and postglacial sea-level change. Strong archaeological attribution, however, requires independent evidence beyond geometry."
+        },
+        {
+          "blockId": "dating-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "현재 수심에서 “언제 잠겼나”와 “언제 만들었나”는 서로 다른 dating 문제다",
+          "headingEn": "When the Site Submerged and When Humans Might Have Modified It Are Different Dating Questions",
+          "textKo": "sea-level rise와 crustal movement는 formation이 과거 더 얕거나 exposed됐을 가능성을 논의하게 한다. 그러나 paleoshoreline reconstruction이 곧 construction date를 제공하지 않는다. 특정 시기 육지였다는 사실과 그 시기에 사람들이 구조물을 만들었다는 evidence는 별도다. 그래서 “1만 년 전 유적” 같은 단정은 geology-based exposure window와 archaeological occupation evidence를 혼합할 위험이 있다.",
+          "textEn": "Sea-level and crustal history can constrain when the formation may have been shallower or exposed, but an exposure window is not a construction date. Geological dating and archaeological occupation evidence are separate."
+        },
+        {
+          "blockId": "status-05",
+          "type": "AFTERMATH",
+          "headingKo": "현재 가장 정확한 status는 “real formation, human origin disputed”다",
+          "headingEn": "The Most Accurate Status Is “Real Formation, Human Origin Disputed”",
+          "textKo": "Yonaguni는 fake photograph나 invented place가 아니다. large submarine formation은 실제 존재한다. 하지만 geometry를 natural geology로 충분히 설명할 수 있다는 견해와 human modification을 주장하는 연구가 병존한다. 따라서 Mystery Atlas에서는 “잃어버린 문명 유적”을 확정하지 않고, 어떤 evidence가 natural origin과 artificial origin을 각각 지지하는지 분리해 보여주는 것이 적절하다.",
+          "textEn": "Yonaguni is a real submarine formation, not a fabricated image. The disputed point is human origin. The evidence is best presented by separating geological explanations from claims of artificial modification."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Yonaguni 앞바다에는 계단·terrace처럼 보이는 large sandstone formation이 실제 존재하며 regional geology와 postglacial sea-level history는 연구돼 있다.\n\n확인되지 않음: formation 전체가 인간이 설계·건설한 monument라는 archaeological consensus는 없다. exact construction date, builders, function도 확정되지 않았다.",
+          "textEn": "Established: A large stepped-looking sandstone formation exists off Yonaguni, and its regional geology and postglacial setting have been studied.\n\nNot established: There is no archaeological consensus that the entire formation was designed and built by humans; builders, date, and function remain unconfirmed."
+        }
+      ],
+      "audioNarrationOrder": [
+        "scene-01",
+        "geology-02",
+        "artificial-03",
+        "dating-04",
+        "status-05"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "sourceId": "YONA_JSTAGE",
+      "title": "Paleogeography of Ryukyu Islands and submarine ruins off Yonaguni, Okinawa, southern Japan",
+      "publisher": "Journal of Fossil Research / J-STAGE",
+      "url": "https://www.jstage.jst.go.jp/article/kasekiken/36/2/36_33/_article/-char/en",
+      "sourceType": "SCHOLARLY_ARTICLE"
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "YONA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Yonaguni 앞바다 large stepped sandstone formation은 실제 존재한다.",
+      "statementEn": "A large stepped sandstone formation genuinely exists off Yonaguni.",
+      "sourceRefs": [
+        "YONA_JSTAGE"
+      ]
+    },
+    {
+      "claimId": "YONA-C2",
+      "status": "DISPUTED",
+      "statementKo": "formation을 human-made 또는 heavily modified archaeological site로 보는 해석은 논쟁 중이다.",
+      "statementEn": "The interpretation of the formation as human-made or heavily modified remains disputed.",
+      "sourceRefs": [
+        "YONA_JSTAGE"
+      ]
+    },
+    {
+      "claimId": "YONA-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "builders·construction date·function에 대한 archaeological consensus는 없다.",
+      "statementEn": "There is no archaeological consensus on builders, construction date, or function.",
+      "sourceRefs": [
+        "YONA_JSTAGE"
+      ]
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "yona-v01",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "natural joints/erosion vs human modification evidence paths.",
+      "captionEn": "Natural joints/erosion vs human-modification evidence paths.",
+      "altKo": "natural joints/erosion vs human modification evidence paths.",
+      "altEn": "Natural joints/erosion vs human-modification evidence paths.",
+      "sourceRefs": [
+        "YONA_JSTAGE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "yonaguni-monument__v01__ko.png",
+          "sha256": "91e773acca936473aa75e41f1da65c87eea78022dd27461d8c254932ffae8539",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "yonaguni-monument__v01__en.png",
+          "sha256": "31f20a9f9e187b7440e5739fb298c4f4661bc5a86a280e149cbe39cbfa388670",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "yona-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "real formation과 lost-civilization claim을 분리.",
+      "captionEn": "Separate the real formation from lost-civilization claims.",
+      "altKo": "real formation과 lost-civilization claim을 분리.",
+      "altEn": "Separate the real formation from lost-civilization claims.",
+      "sourceRefs": [
+        "YONA_JSTAGE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "yonaguni-monument__v02__ko.png",
+          "sha256": "566a4b66aa361828d4c1b52ef0e5378d70a49c9f3ab4c666dd4e9c9944eaabcb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "yonaguni-monument__v02__en.png",
+          "sha256": "6888564d52ba072713f4a3bcc07cfa505612762d75df6c4cbc34600994a89e47",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "countries": [
+      "Japan"
+    ],
+    "regions": [
+      "Yonaguni, Okinawa"
+    ],
+    "resolution": "FORMATION_REAL_HUMAN_ORIGIN_DISPUTED"
+  },
+  "quality": {
+    "koBodyChars": 1871,
+    "enBodyWords": 199,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "mediaPass": true
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH31_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
