@@ -80,6 +80,17 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
   const inlines = article.visuals.filter((v) => v !== hero);
   const story = copy.blocks.filter((block) => block.type !== "FACT_BOUNDARY" && block.type !== "AFTERMATH");
   const boundary = copy.blocks.filter((block) => block.type === "FACT_BOUNDARY");
+  const combinedBoundary = copy.factBoundary.notEstablished === "See final fact boundary.";
+  const boundaryParts = combinedBoundary
+    ? copy.factBoundary.established.split(`\n\n**${locale === "ko" ? "확인되지 않음" : "Not established"}:** `)
+    : [];
+  const establishedText = boundaryParts.length === 2
+    ? boundaryParts[0].replace(/^\*\*(?:확인됨|Established):\*\*\s*/, "")
+    : copy.factBoundary.established;
+  const notEstablishedText = boundaryParts.length === 2 ? boundaryParts[1] : copy.factBoundary.notEstablished;
+  const separateBoundary = boundary.filter((block) => !(
+    boundaryParts.length === 2 && (locale === "ko" ? block.textKo : block.textEn) === copy.factBoundary.established
+  ));
   const aftermath = copy.blocks.filter((block) => block.type === "AFTERMATH");
   const visualSlots = inlines.map((_, i) => Math.max(0, Math.min(story.length - 1, Math.floor((i + 1) * story.length / (inlines.length + 1)))));
   const country = article.metadata.countries.map((name) => countryLabel(name, locale)).join(", ") || (locale === "ko" ? "장소 미상" : "Place unknown");
@@ -112,8 +123,8 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
         </div>{article.claims.map((claim) => <ProductClaim key={claim.claimId} claim={claim} article={article} locale={locale}/>)}</section>
         <section id="fact-boundary" className="fact-boundary"><p className="section-number">03 / {locale === "ko" ? "확인된 범위" : "FACT BOUNDARY"}</p>
           <h2>{locale === "ko" ? "확인된 것과 남은 질문" : "What the record does and does not establish"}</h2>
-          <div className="fact-columns"><div><h3>{locale === "ko" ? "자료가 확인하는 것" : "What the record establishes"}</h3>{paragraphs(copy.factBoundary.established)}</div><div><h3>{locale === "ko" ? "자료만으로 확인할 수 없는 것" : "What the record does not establish"}</h3>{paragraphs(copy.factBoundary.notEstablished)}</div></div>
-          {boundary.map((block) => <div key={block.blockId} className="u2-fact-block"><StoryBlock block={block} locale={locale}/></div>)}
+          <div className="fact-columns"><div><h3>{locale === "ko" ? "자료가 확인하는 것" : "What the record establishes"}</h3>{paragraphs(establishedText)}</div><div><h3>{locale === "ko" ? "자료만으로 확인할 수 없는 것" : "What the record does not establish"}</h3>{paragraphs(notEstablishedText)}</div></div>
+          {separateBoundary.map((block) => <div key={block.blockId} className="u2-fact-block"><StoryBlock block={block} locale={locale}/></div>)}
         </section>
         {aftermath.length > 0 && <section className="narrative u2-aftermath"><p className="section-number">04 / {locale === "ko" ? "그 후" : "AFTERMATH"}</p>{aftermath.map((block) => <StoryBlock key={block.blockId} block={block} locale={locale}/>)}</section>}
         <section id="sources" className="sources-section"><p className="section-number">05 / {locale === "ko" ? "출처" : "SOURCES"}</p><h2>{locale === "ko" ? "자료와 출처" : "Source notes"}</h2>
