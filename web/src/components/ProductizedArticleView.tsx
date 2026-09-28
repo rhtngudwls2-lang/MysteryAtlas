@@ -66,7 +66,9 @@ function RelatedStories({ article, locale }: { article: ProductizedArticle; loca
   const known = new Set(cases.map((item) => item.slug));
   const supplied = (article.metadata.relatedCases ?? []).filter((slug) => known.has(slug));
   const discovery = productizedItems.filter((item) => item.genre === article.metadata.primaryGenre && item.canonicalId !== article.canonicalId).map((item) => item.canonicalId);
-  const slugs = [...new Set([...supplied, ...discovery])].slice(0, 3);
+  const topics = article.metadata.primaryGenre.split("/").map((topic) => topic.trim().toLowerCase());
+  const adjacent = productizedItems.filter((item) => item.canonicalId !== article.canonicalId && item.genre.split("/").some((topic) => topics.includes(topic.trim().toLowerCase()))).map((item) => item.canonicalId);
+  const slugs = [...new Set([...supplied, ...discovery, ...adjacent])].slice(0, 3);
   return <div className="rabbit-grid">{slugs.map((slug) => {
     const item = cases.find((candidate) => candidate.slug === slug);
     return item ? <Link key={slug} href={`/${locale}/cases/${slug}/`}><small>{locale === "ko" ? "같은 주제의 다른 기록" : "Another story in this topic"}</small><span>{item.subtitle[locale]}</span><strong>{item.displayTitle?.[locale] ?? item.title} →</strong></Link> : null;
