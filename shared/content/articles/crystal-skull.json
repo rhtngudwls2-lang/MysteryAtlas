@@ -1,0 +1,346 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "crystal-skull",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "크리스털 해골",
+    "canonicalTitleEn": "Crystal Skull",
+    "aliasesKo": [
+      "수정 해골"
+    ],
+    "aliasesEn": [
+      "Rock Crystal Skull"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_ARTIFACT",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "고대 유물처럼 보이는 수정 해골—현미경이 바꾼 이야기는 무엇인가",
+      "hook": "물체는 진짜다. 그러나 “고대 유물”이라는 이야기는 provenance와 가공흔 앞에서 무너진다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "고대의 얼굴처럼 보이지만 출토 기록은 없다",
+          "headingEn": "Ancient-Looking, but Without an Excavation Record",
+          "textKo": "대영박물관의 수정 해골은 실제로 존재하는 4.5kg짜리 rock crystal 조각이다. 그러나 박물관이 현재 강조하는 핵심은 “실재하는 물체”와 “고대 메소아메리카 유물”을 구분하는 일이다. 이 해골은 확실한 고고학 발굴 맥락에서 나온 것이 아니라 19세기 미술시장과 수집가의 손을 거쳐 박물관에 들어왔다. 따라서 첫 질문은 기묘한 외형이 아니라 provenance, 즉 어디서 언제 어떤 경로로 나왔는가다.",
+          "textEn": "The British Museum crystal skull is a real 4.5-kilogram carving made from rock crystal. The crucial distinction, however, is between the reality of the object and the claim that it is an ancient Mesoamerican artifact. It did not emerge from a documented archaeological excavation. Instead, it passed through the nineteenth-century art market and collectors before entering the museum. The first question is therefore provenance: where, when, and through whose hands did it actually travel?"
+        },
+        {
+          "blockId": "market-02",
+          "type": "BACKGROUND",
+          "headingKo": "19세기 시장 경로가 고대 유물 서사를 약하게 만든다",
+          "headingEn": "Its Nineteenth-Century Market History Weakens the Ancient-Artifact Story",
+          "textKo": "박물관 기록에는 이 해골이 1890년대 말 Tiffany를 통해 구입됐고 그 이전에도 여러 사람의 손을 거쳤다고 적혀 있다. 한때 “멕시코에서 왔다”는 설명이 붙었지만 그 주장을 입증할 excavation record나 동시대 고고학 문서가 없다. 고대 유물의 진위를 판단할 때 소유 이력의 빈칸은 결정적 약점이다. 흥미로운 이야기가 오래 반복됐다는 사실은 출토맥락을 대신하지 못한다. 19세기 후반 유럽과 미국의 고대유물 시장에서는 출토지보다 판매자의 설명이 provenance를 대신하는 경우가 많았고, 훗날 박물관 연구는 그런 주장과 실제 제작기술을 다시 대조하게 됐다. 이 해골의 경우에도 “멕시코산”이라는 오래된 라벨보다 확인 가능한 소유경로와 물질 분석이 더 높은 증거가치를 가진다.",
+          "textEn": "Museum records state that the skull was purchased through Tiffany in the late 1890s after passing through several hands. It was said to have come from Mexico, yet there is no documented excavation context or contemporary archaeological record that can anchor that story. For an object claimed to be ancient, a gap in provenance is a major weakness. Repetition of a compelling origin story cannot substitute for archaeological context. In the late nineteenth-century antiquities market, dealer descriptions could stand in for excavation provenance. Later museum research therefore has to compare those inherited claims with manufacturing evidence and traceable ownership. In this case, the old “Mexico” attribution carries less evidentiary weight than the documented market history and material analysis."
+        },
+        {
+          "blockId": "toolmarks-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현미경에서 보인 가공 흔적은 근대 도구와 더 잘 맞는다",
+          "headingEn": "Microscopic Tool Marks Fit Modern Lapidary Work Better",
+          "textKo": "대영박물관 연구실의 기술 검토는 이빨과 절개선 일부가 회전식 jeweller’s wheel 같은 근대 lapidary 도구로 가공됐을 가능성이 높다고 본다. 박물관은 이것이 아즈텍 석공이 이용할 수 있었던 기술과 잘 맞지 않는다고 설명한다. 중요한 점은 “완벽한 위조 연대가 밝혀졌다”가 아니라, 관찰 가능한 제작 흔적이 pre-Hispanic 제작설과 충돌한다는 것이다. 또한 박물관 설명은 조각의 형태가 일부 Aztec·Mixtec 표현과 닮았다는 점 자체를 부정하지 않는다. 문제는 양식 유사성이 제작시대를 결정하지 못한다는 것이다. 후대 제작자가 고대 양식을 모방할 수 있기 때문에, microscopic tool mark와 raw-material provenance가 스타일 비교보다 더 직접적인 시간 단서가 된다.",
+          "textEn": "Technical examination by the British Museum found that some incised lines, including details around the teeth, are more consistent with work by a rotating jeweller’s wheel or similar modern lapidary tools. The museum notes that such marks do not fit well with the techniques available to Aztec craftsmen. This does not yield a precise manufacturing date, but it does place observable manufacturing evidence in tension with the pre-Hispanic attribution. The museum does not deny that some stylistic features resemble accepted Aztec or Mixtec works. The problem is that stylistic resemblance cannot by itself date manufacture: later makers can imitate older forms. Microscopic tool marks and material provenance therefore provide more direct chronological evidence than appearance alone."
+        },
+        {
+          "blockId": "quartz-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "원석의 가능성까지 보면 고대 멕시코 제작설은 더 약해진다",
+          "headingEn": "The Likely Quartz Source Adds Another Problem",
+          "textKo": "박물관은 rock crystal 자체가 브라질 기원일 가능성이 높다고 본다. 메소아메리카에도 수정 원료는 있었지만, 브라질 원료가 실제라면 pre-Hispanic 시기의 남미-메소아메리카 교역을 입증하는 고고학 증거가 필요해진다. 현재 박물관 설명은 그런 교역 증거가 없고 브라질 수정의 본격적 채굴도 근대와 더 잘 맞는다고 정리한다. 원석 분석은 도구흔 분석과 독립적인 두 번째 경계선이다.",
+          "textEn": "The museum also considers a Brazilian origin for the rock crystal likely. Mesoamerica had access to crystal, but a Brazilian source would require evidence for a pre-Hispanic supply route from South America to explain the object as ancient Mexican work. The museum notes that such archaeological evidence is lacking and that exploitation of Brazilian sources fits later periods better. Material provenance therefore provides a second line of caution separate from tool-mark analysis."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "실재하는 물체가 신비한 능력의 증거가 되는 것은 아니다",
+          "headingEn": "A Real Object Is Not Evidence for Supernatural Powers",
+          "textKo": "수정 해골은 대중문화에서 고대 사제, 잃어버린 문명, 예언이나 초자연적 힘과 결합돼 왔다. 그러나 박물관 분석이 다루는 것은 물질, 제작기술, 소유이력이다. 그 범위에서 확인되는 것은 아름답고 정교한 수정 조각이라는 사실과 고대 메소아메리카 제작설을 지지하기 어렵다는 점이다. 초자연적 능력이나 고대 비밀지식 주장은 이 물체의 존재만으로 입증되지 않는다.",
+          "textEn": "Crystal skulls have accumulated stories about ancient priests, lost civilizations, prophecy, and supernatural powers. Museum analysis addresses a different layer: material, manufacturing technique, and provenance. Within that evidentiary layer, the skull is a striking and skillfully made object, but the ancient Mesoamerican attribution is difficult to sustain. Claims of paranormal properties or lost ancient knowledge are not demonstrated by the object’s existence."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 대영박물관 수정 해골은 실재하는 rock crystal 조각이며, 확실한 발굴 맥락이 없고 19세기 시장 경로를 거쳤다. 현미경 가공 흔적과 원료 provenance는 근대 제작 가능성을 강하게 지지한다.\n\n확인되지 않음: 고대 아즈텍·마야 유물이었다는 주장, 잃어버린 문명의 기술이라는 주장, 초자연적 능력은 입증되지 않았다.",
+          "textEn": "Established: The British Museum crystal skull is a real rock-crystal carving with no secure excavation context and a nineteenth-century market history. Microscopic manufacturing evidence and material provenance strongly favor a modern origin.\n\nNot established: Claims that it is an ancient Aztec or Maya artifact, technology from a lost civilization, or an object with supernatural powers are not established."
+        }
+      ],
+      "factBoundary": {
+        "established": "대영박물관 수정 해골은 실재하는 rock crystal 조각이며, 확실한 발굴 맥락이 없고 19세기 시장 경로를 거쳤다. 현미경 가공 흔적과 원료 provenance는 근대 제작 가능성을 강하게 지지한다.",
+        "notEstablished": "고대 아즈텍·마야 유물이었다는 주장, 잃어버린 문명의 기술이라는 주장, 초자연적 능력은 입증되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "market-02",
+        "toolmarks-03",
+        "quartz-04",
+        "myth-05"
+      ]
+    },
+    "en": {
+      "headline": "An Ancient-Looking Crystal Skull—What Did the Microscope Change?",
+      "hook": "The object is real. The ancient-artifact story weakens sharply when provenance and tool marks are examined.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "고대의 얼굴처럼 보이지만 출토 기록은 없다",
+          "headingEn": "Ancient-Looking, but Without an Excavation Record",
+          "textKo": "대영박물관의 수정 해골은 실제로 존재하는 4.5kg짜리 rock crystal 조각이다. 그러나 박물관이 현재 강조하는 핵심은 “실재하는 물체”와 “고대 메소아메리카 유물”을 구분하는 일이다. 이 해골은 확실한 고고학 발굴 맥락에서 나온 것이 아니라 19세기 미술시장과 수집가의 손을 거쳐 박물관에 들어왔다. 따라서 첫 질문은 기묘한 외형이 아니라 provenance, 즉 어디서 언제 어떤 경로로 나왔는가다.",
+          "textEn": "The British Museum crystal skull is a real 4.5-kilogram carving made from rock crystal. The crucial distinction, however, is between the reality of the object and the claim that it is an ancient Mesoamerican artifact. It did not emerge from a documented archaeological excavation. Instead, it passed through the nineteenth-century art market and collectors before entering the museum. The first question is therefore provenance: where, when, and through whose hands did it actually travel?"
+        },
+        {
+          "blockId": "market-02",
+          "type": "BACKGROUND",
+          "headingKo": "19세기 시장 경로가 고대 유물 서사를 약하게 만든다",
+          "headingEn": "Its Nineteenth-Century Market History Weakens the Ancient-Artifact Story",
+          "textKo": "박물관 기록에는 이 해골이 1890년대 말 Tiffany를 통해 구입됐고 그 이전에도 여러 사람의 손을 거쳤다고 적혀 있다. 한때 “멕시코에서 왔다”는 설명이 붙었지만 그 주장을 입증할 excavation record나 동시대 고고학 문서가 없다. 고대 유물의 진위를 판단할 때 소유 이력의 빈칸은 결정적 약점이다. 흥미로운 이야기가 오래 반복됐다는 사실은 출토맥락을 대신하지 못한다. 19세기 후반 유럽과 미국의 고대유물 시장에서는 출토지보다 판매자의 설명이 provenance를 대신하는 경우가 많았고, 훗날 박물관 연구는 그런 주장과 실제 제작기술을 다시 대조하게 됐다. 이 해골의 경우에도 “멕시코산”이라는 오래된 라벨보다 확인 가능한 소유경로와 물질 분석이 더 높은 증거가치를 가진다.",
+          "textEn": "Museum records state that the skull was purchased through Tiffany in the late 1890s after passing through several hands. It was said to have come from Mexico, yet there is no documented excavation context or contemporary archaeological record that can anchor that story. For an object claimed to be ancient, a gap in provenance is a major weakness. Repetition of a compelling origin story cannot substitute for archaeological context. In the late nineteenth-century antiquities market, dealer descriptions could stand in for excavation provenance. Later museum research therefore has to compare those inherited claims with manufacturing evidence and traceable ownership. In this case, the old “Mexico” attribution carries less evidentiary weight than the documented market history and material analysis."
+        },
+        {
+          "blockId": "toolmarks-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현미경에서 보인 가공 흔적은 근대 도구와 더 잘 맞는다",
+          "headingEn": "Microscopic Tool Marks Fit Modern Lapidary Work Better",
+          "textKo": "대영박물관 연구실의 기술 검토는 이빨과 절개선 일부가 회전식 jeweller’s wheel 같은 근대 lapidary 도구로 가공됐을 가능성이 높다고 본다. 박물관은 이것이 아즈텍 석공이 이용할 수 있었던 기술과 잘 맞지 않는다고 설명한다. 중요한 점은 “완벽한 위조 연대가 밝혀졌다”가 아니라, 관찰 가능한 제작 흔적이 pre-Hispanic 제작설과 충돌한다는 것이다. 또한 박물관 설명은 조각의 형태가 일부 Aztec·Mixtec 표현과 닮았다는 점 자체를 부정하지 않는다. 문제는 양식 유사성이 제작시대를 결정하지 못한다는 것이다. 후대 제작자가 고대 양식을 모방할 수 있기 때문에, microscopic tool mark와 raw-material provenance가 스타일 비교보다 더 직접적인 시간 단서가 된다.",
+          "textEn": "Technical examination by the British Museum found that some incised lines, including details around the teeth, are more consistent with work by a rotating jeweller’s wheel or similar modern lapidary tools. The museum notes that such marks do not fit well with the techniques available to Aztec craftsmen. This does not yield a precise manufacturing date, but it does place observable manufacturing evidence in tension with the pre-Hispanic attribution. The museum does not deny that some stylistic features resemble accepted Aztec or Mixtec works. The problem is that stylistic resemblance cannot by itself date manufacture: later makers can imitate older forms. Microscopic tool marks and material provenance therefore provide more direct chronological evidence than appearance alone."
+        },
+        {
+          "blockId": "quartz-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "원석의 가능성까지 보면 고대 멕시코 제작설은 더 약해진다",
+          "headingEn": "The Likely Quartz Source Adds Another Problem",
+          "textKo": "박물관은 rock crystal 자체가 브라질 기원일 가능성이 높다고 본다. 메소아메리카에도 수정 원료는 있었지만, 브라질 원료가 실제라면 pre-Hispanic 시기의 남미-메소아메리카 교역을 입증하는 고고학 증거가 필요해진다. 현재 박물관 설명은 그런 교역 증거가 없고 브라질 수정의 본격적 채굴도 근대와 더 잘 맞는다고 정리한다. 원석 분석은 도구흔 분석과 독립적인 두 번째 경계선이다.",
+          "textEn": "The museum also considers a Brazilian origin for the rock crystal likely. Mesoamerica had access to crystal, but a Brazilian source would require evidence for a pre-Hispanic supply route from South America to explain the object as ancient Mexican work. The museum notes that such archaeological evidence is lacking and that exploitation of Brazilian sources fits later periods better. Material provenance therefore provides a second line of caution separate from tool-mark analysis."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "실재하는 물체가 신비한 능력의 증거가 되는 것은 아니다",
+          "headingEn": "A Real Object Is Not Evidence for Supernatural Powers",
+          "textKo": "수정 해골은 대중문화에서 고대 사제, 잃어버린 문명, 예언이나 초자연적 힘과 결합돼 왔다. 그러나 박물관 분석이 다루는 것은 물질, 제작기술, 소유이력이다. 그 범위에서 확인되는 것은 아름답고 정교한 수정 조각이라는 사실과 고대 메소아메리카 제작설을 지지하기 어렵다는 점이다. 초자연적 능력이나 고대 비밀지식 주장은 이 물체의 존재만으로 입증되지 않는다.",
+          "textEn": "Crystal skulls have accumulated stories about ancient priests, lost civilizations, prophecy, and supernatural powers. Museum analysis addresses a different layer: material, manufacturing technique, and provenance. Within that evidentiary layer, the skull is a striking and skillfully made object, but the ancient Mesoamerican attribution is difficult to sustain. Claims of paranormal properties or lost ancient knowledge are not demonstrated by the object’s existence."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 대영박물관 수정 해골은 실재하는 rock crystal 조각이며, 확실한 발굴 맥락이 없고 19세기 시장 경로를 거쳤다. 현미경 가공 흔적과 원료 provenance는 근대 제작 가능성을 강하게 지지한다.\n\n확인되지 않음: 고대 아즈텍·마야 유물이었다는 주장, 잃어버린 문명의 기술이라는 주장, 초자연적 능력은 입증되지 않았다.",
+          "textEn": "Established: The British Museum crystal skull is a real rock-crystal carving with no secure excavation context and a nineteenth-century market history. Microscopic manufacturing evidence and material provenance strongly favor a modern origin.\n\nNot established: Claims that it is an ancient Aztec or Maya artifact, technology from a lost civilization, or an object with supernatural powers are not established."
+        }
+      ],
+      "factBoundary": {
+        "established": "The British Museum crystal skull is a real rock-crystal carving with no secure excavation context and a nineteenth-century market history. Microscopic manufacturing evidence and material provenance strongly favor a modern origin.",
+        "notEstablished": "Claims that it is an ancient Aztec or Maya artifact, technology from a lost civilization, or an object with supernatural powers are not established."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "market-02",
+        "toolmarks-03",
+        "quartz-04",
+        "myth-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "대영박물관의 수정 해골은 확실한 고고학 발굴 맥락이 없다.",
+      "statementEn": "The British Museum crystal skull lacks a secure archaeological excavation context.",
+      "sourceRefs": [
+        "BM_CRYSTAL_SKULL"
+      ]
+    },
+    {
+      "claimId": "CS-C2",
+      "status": "SUPPORTED",
+      "statementKo": "일부 가공흔은 회전식 보석 세공 도구와 더 잘 맞는다.",
+      "statementEn": "Some tool marks are more consistent with a rotating jeweller’s wheel or similar modern lapidary tools.",
+      "sourceRefs": [
+        "BM_CRYSTAL_SKULL"
+      ]
+    },
+    {
+      "claimId": "CS-C3",
+      "status": "SUPPORTED",
+      "statementKo": "수정 원료는 브라질 기원 가능성이 높다고 박물관은 설명한다.",
+      "statementEn": "The museum considers a Brazilian source for the quartz likely.",
+      "sourceRefs": [
+        "BM_CRYSTAL_SKULL"
+      ]
+    },
+    {
+      "claimId": "CS-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "고대 메소아메리카 제작 또는 초자연적 능력은 입증되지 않았다.",
+      "statementEn": "Ancient Mesoamerican manufacture or supernatural powers are not established.",
+      "sourceRefs": [
+        "BM_CRYSTAL_SKULL"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BM_CRYSTAL_SKULL",
+      "title": "The Crystal Skull — collection object Am1898,-.1",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/collection/object/E_Am1898-1",
+      "sourceType": "MUSEUM_COLLECTION_RESEARCH",
+      "scope": "provenance, tool marks, likely quartz source, attribution"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "crystal-skull-v01",
+      "role": "PROVENANCE_TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "19세기 시장 경로와 박물관 입수 과정을 출토맥락과 분리해 표시.",
+      "captionEn": "Timeline separating the nineteenth-century market history from any claimed excavation context.",
+      "sourceRefs": [
+        "BM_CRYSTAL_SKULL"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "crystal-skull-v01__ko.png",
+          "sha256": "6c4781cf0d0f2d62d6b025f4e8581c7be41c2263f7bb08d9bb5cc7f5d9d49b4f",
+          "width": 1600,
+          "height": 900,
+          "bytes": 55889
+        },
+        "en": {
+          "fileName": "crystal-skull-v01__en.png",
+          "sha256": "b69bc944420bb7fba8415891f6299c76ae61b25fe6000b4657d505bc9a81e918",
+          "width": 1600,
+          "height": 900,
+          "bytes": 56300
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "crystal-skull-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "실물·도구흔·원료 provenance와 고대유물·초자연 주장 사이의 경계.",
+      "captionEn": "Evidence boundary among the object, tool marks, material provenance, ancient-artifact claims, and paranormal claims.",
+      "sourceRefs": [
+        "BM_CRYSTAL_SKULL"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "crystal-skull-v02__ko.png",
+          "sha256": "cb0b971f99ae8510aa8a7d10b1ee4925e4dccba071754bbe97ef6699213f469d",
+          "width": 1600,
+          "height": 900,
+          "bytes": 67967
+        },
+        "en": {
+          "fileName": "crystal-skull-v02__en.png",
+          "sha256": "b70bf10a99c991d59528febd61dafc0786280c06e30674971c442256928f3853",
+          "width": 1600,
+          "height": 900,
+          "bytes": 67010
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Historical / Archaeology",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United Kingdom",
+      "Mexico"
+    ],
+    "regions": [
+      "British Museum / claimed Mexico provenance"
+    ],
+    "places": [
+      {
+        "name": "British Museum",
+        "role": "current collection"
+      }
+    ],
+    "people": [
+      {
+        "name": "Eugène Boban",
+        "role": "historical dealer/collector context"
+      }
+    ],
+    "organizations": [
+      "British Museum",
+      "Tiffany & Co."
+    ],
+    "dateRange": {
+      "start": "1881",
+      "end": "1898",
+      "precision": "documented modern market period before museum acquisition"
+    },
+    "era": "19th-century antiquities market",
+    "resolution": "OBJECT_REAL_ANCIENT_MESOAMERICAN_ATTRIBUTION_NOT_SUPPORTED",
+    "searchAliases": [
+      "crystal skull",
+      "British Museum skull",
+      "rock crystal skull"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1627,
+    "enBodyWords": 501,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

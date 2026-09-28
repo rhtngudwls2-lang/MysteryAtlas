@@ -1,0 +1,336 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "acoustic-kitty",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Acoustic Kitty",
+    "canonicalTitleEn": "Acoustic Kitty",
+    "aliasesKo": [
+      "어쿠스틱 키티"
+    ],
+    "aliasesEn": [
+      "Acoustikitty"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "CIA가 고양이를 도청장치로 만들려 했던 건 사실이다—그 유명한 결말은 사실일까",
+      "hook": "프로젝트는 실재했다. 장치는 작동했다. 실패의 핵심은 “고양이를 원하는 곳으로 보낼 수 없었다”는 훨씬 현실적인 문제였다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "고양이를 도청 플랫폼으로 만들려는 계획은 실제였다",
+          "headingEn": "The CIA Really Did Try to Turn a Cat Into a Listening Platform",
+          "textKo": "Acoustic Kitty는 인터넷 농담에서 시작된 이야기가 아니다. CIA의 2024년 공식 설명에 따르면 1964년부터 연구진은 공원 벤치 같은 야외에서 대화를 듣기 위해 고양이를 자연스럽게 접근시키는 아이디어를 시험했다. 한 고양이의 귀에는 마이크가, 피부 아래에는 작은 송신기가, 긴 털 사이에는 안테나가 배치됐다. 프로젝트의 출발점 자체는 실제 정보기관 연구였다. 당시 발상은 공원 벤치처럼 사람이 접근하면 눈에 띄는 장소에서, 주변에 있어도 자연스러운 동물을 센서 플랫폼으로 쓰자는 것이었다. “고양이를 훈련시켜 비밀요원처럼 임무를 수행시킨다”기보다, 인간이나 차량보다 덜 의심받는 생물에 초소형 전자장치를 결합하려는 tradecraft 실험에 가까웠다.",
+          "textEn": "Acoustic Kitty did not begin as an internet joke. According to the CIA’s 2024 official account, the Agency began exploring in 1964 whether a cat could approach outdoor conversations without attracting attention. A microphone was implanted in one ear, a small transmitter was placed under the skin, and an antenna was woven through the animal’s fur. The basic project was a real intelligence research effort. The scenario targeted places such as park benches where a human observer might attract attention while an ordinary animal would not. The concept was less about training a cat to behave like an intelligence officer than about combining miniature electronics with a naturally inconspicuous platform."
+        },
+        {
+          "blockId": "engineering-02",
+          "type": "BACKGROUND",
+          "headingKo": "문제는 전자장치보다 행동 통제였다",
+          "headingEn": "The Hard Part Was Behavior, Not Electronics",
+          "textKo": "CIA는 장치 자체가 작동했다고 설명한다. 하지만 고양이는 사람이 지정한 방향으로 움직이는 원격조종 플랫폼이 아니었다. 제한적 field test에서 동물은 원하는 표적 대신 자기 관심사대로 움직였다. 이 차이는 중요하다. “기술적으로 소리를 들을 수 있다”와 “정보작전에서 반복 가능하게 통제할 수 있다”는 전혀 다른 조건이기 때문이다. 이 실패는 센서 기술의 성공과 시스템 성공이 다르다는 점을 잘 보여준다. 현장 수집장치는 목표 근처에 안정적으로 머물고, 예측 가능한 시간 동안 전원을 유지하며, 유용한 신호를 송신해야 한다. 고양이의 자율적 움직임은 이 조건 가운데 가장 기본적인 “위치 제어”를 보장하지 못하게 했다.",
+          "textEn": "The CIA says the technology itself worked. The problem was that a cat is not a remotely controlled platform. During limited field tests, the animal went where it wanted rather than reliably approaching the intended target. That distinction matters: making a microphone and transmitter function is very different from producing a repeatable operational collection system. The failure shows why a working sensor is not the same as a working system. A field collection platform must remain near a target, operate for a predictable interval, and transmit useful signals. The cat’s autonomous behavior undermined the most basic requirement: reliable positioning."
+        },
+        {
+          "blockId": "operational-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1967년 프로그램은 운용 투입 없이 종료됐다",
+          "headingEn": "The Program Ended in 1967 Without Operational Deployment",
+          "textKo": "공식 설명상 Acoustic Kitty는 제한적 시험을 거쳤지만 실제 작전에 운용된 적은 없었고 1967년에 종료됐다. 이 프로그램은 냉전기의 기술 실험이 어디까지 확장될 수 있었는지를 보여주지만, 동시에 prototype과 operational capability를 구분해야 한다는 사례이기도 하다. 실제 연구였다는 사실이 성공적인 “스파이 고양이 부대”의 존재를 뜻하지 않는다.",
+          "textEn": "The CIA states that Acoustic Kitty underwent limited testing but was never used operationally and was terminated in 1967. The project illustrates how far Cold War technical experimentation could go, but also why prototypes must be separated from operational capability. A real research program is not evidence that an effective force of spy cats ever existed."
+        },
+        {
+          "blockId": "myth-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“첫 시험에서 택시에 치여 죽었다”는 유명한 결말은 CIA 설명과 다르다",
+          "headingEn": "The Famous Taxi-Death Ending Does Not Match the CIA Account",
+          "textKo": "가장 널리 퍼진 이야기는 첫 현장시험에서 고양이가 택시나 버스에 치여 죽었다는 것이다. CIA는 이 일화를 1979년 전직 관계자가 농담으로 한 말을 사실처럼 받아들인 결과라고 설명하며, 동물이 장치 삽입·제거 과정에서 해를 입지 않았다고 밝힌다. 다만 이 역시 기관의 후대 공식 설명이라는 출처 성격을 함께 표시해야 한다. 신화의 반복 빈도와 문서화 수준은 별개다.",
+          "textEn": "The most repeated ending says the cat was killed by a taxi or bus during its first field test. The CIA says that story grew from a joke made by a former official in 1979 and states that the animal was unharmed during implantation and removal of the devices. This is the Agency’s later official account, and should be presented as such. Repetition of a story is not the same as documentary support."
+        },
+        {
+          "blockId": "meaning-05",
+          "type": "AFTERMATH",
+          "headingKo": "기묘한 프로젝트의 핵심은 “실패한 기술”보다 정보수집의 제약이다",
+          "headingEn": "The Real Lesson Is About Collection Constraints",
+          "textKo": "Acoustic Kitty가 흥미로운 이유는 고양이라는 소재만이 아니다. 은밀한 감시기술은 센서 성능뿐 아니라 전원, 통신, 위치, 행동, 환경 변수를 모두 통제해야 한다. 이 프로젝트에서는 동물의 자율성이 가장 큰 운영 제약이 됐다. 성공하지 못한 실험은 정보기술사에서 “무엇이 가능했나”뿐 아니라 “무엇이 통제되지 않았나”를 보여주는 자료다.",
+          "textEn": "What makes Acoustic Kitty instructive is not simply the use of a cat. Covert collection systems must manage sensors, power, communications, position, behavior, and the surrounding environment. Here, animal autonomy became the decisive operational constraint. Failed experiments can reveal as much about intelligence technology as successful ones by showing what could not be made reliable."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: CIA는 1964년부터 고양이에 마이크·송신기·안테나를 결합하는 감시 연구를 진행했고 제한적 field test 후 1967년에 종료했다고 공식 설명한다. 실제 작전에는 투입되지 않았다.\n\n확인되지 않음: 첫 시험에서 택시에 치여 죽었다는 유명한 이야기는 CIA의 공식 설명과 맞지 않으며, 성공적인 실전 “스파이 고양이” 운용도 확인되지 않는다.",
+          "textEn": "Established: The CIA officially states that beginning in 1964 it tested a cat fitted with a microphone, transmitter, and antenna, conducted limited field tests, and ended the program in 1967. It was not used operationally.\n\nNot established: The famous story that the cat was killed by a taxi during its first field test does not match the CIA’s official account, and no successful operational spy-cat deployment is established."
+        }
+      ],
+      "factBoundary": {
+        "established": "CIA는 1964년부터 고양이에 마이크·송신기·안테나를 결합하는 감시 연구를 진행했고 제한적 field test 후 1967년에 종료했다고 공식 설명한다. 실제 작전에는 투입되지 않았다.",
+        "notEstablished": "첫 시험에서 택시에 치여 죽었다는 유명한 이야기는 CIA의 공식 설명과 맞지 않으며, 성공적인 실전 “스파이 고양이” 운용도 확인되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "engineering-02",
+        "operational-03",
+        "myth-04",
+        "meaning-05"
+      ]
+    },
+    "en": {
+      "headline": "The CIA Really Tried a Spy Cat—But Is the Famous Ending True?",
+      "hook": "The project was real and the electronics worked. The decisive failure was more mundane: the cat would not reliably go where handlers wanted.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "고양이를 도청 플랫폼으로 만들려는 계획은 실제였다",
+          "headingEn": "The CIA Really Did Try to Turn a Cat Into a Listening Platform",
+          "textKo": "Acoustic Kitty는 인터넷 농담에서 시작된 이야기가 아니다. CIA의 2024년 공식 설명에 따르면 1964년부터 연구진은 공원 벤치 같은 야외에서 대화를 듣기 위해 고양이를 자연스럽게 접근시키는 아이디어를 시험했다. 한 고양이의 귀에는 마이크가, 피부 아래에는 작은 송신기가, 긴 털 사이에는 안테나가 배치됐다. 프로젝트의 출발점 자체는 실제 정보기관 연구였다. 당시 발상은 공원 벤치처럼 사람이 접근하면 눈에 띄는 장소에서, 주변에 있어도 자연스러운 동물을 센서 플랫폼으로 쓰자는 것이었다. “고양이를 훈련시켜 비밀요원처럼 임무를 수행시킨다”기보다, 인간이나 차량보다 덜 의심받는 생물에 초소형 전자장치를 결합하려는 tradecraft 실험에 가까웠다.",
+          "textEn": "Acoustic Kitty did not begin as an internet joke. According to the CIA’s 2024 official account, the Agency began exploring in 1964 whether a cat could approach outdoor conversations without attracting attention. A microphone was implanted in one ear, a small transmitter was placed under the skin, and an antenna was woven through the animal’s fur. The basic project was a real intelligence research effort. The scenario targeted places such as park benches where a human observer might attract attention while an ordinary animal would not. The concept was less about training a cat to behave like an intelligence officer than about combining miniature electronics with a naturally inconspicuous platform."
+        },
+        {
+          "blockId": "engineering-02",
+          "type": "BACKGROUND",
+          "headingKo": "문제는 전자장치보다 행동 통제였다",
+          "headingEn": "The Hard Part Was Behavior, Not Electronics",
+          "textKo": "CIA는 장치 자체가 작동했다고 설명한다. 하지만 고양이는 사람이 지정한 방향으로 움직이는 원격조종 플랫폼이 아니었다. 제한적 field test에서 동물은 원하는 표적 대신 자기 관심사대로 움직였다. 이 차이는 중요하다. “기술적으로 소리를 들을 수 있다”와 “정보작전에서 반복 가능하게 통제할 수 있다”는 전혀 다른 조건이기 때문이다. 이 실패는 센서 기술의 성공과 시스템 성공이 다르다는 점을 잘 보여준다. 현장 수집장치는 목표 근처에 안정적으로 머물고, 예측 가능한 시간 동안 전원을 유지하며, 유용한 신호를 송신해야 한다. 고양이의 자율적 움직임은 이 조건 가운데 가장 기본적인 “위치 제어”를 보장하지 못하게 했다.",
+          "textEn": "The CIA says the technology itself worked. The problem was that a cat is not a remotely controlled platform. During limited field tests, the animal went where it wanted rather than reliably approaching the intended target. That distinction matters: making a microphone and transmitter function is very different from producing a repeatable operational collection system. The failure shows why a working sensor is not the same as a working system. A field collection platform must remain near a target, operate for a predictable interval, and transmit useful signals. The cat’s autonomous behavior undermined the most basic requirement: reliable positioning."
+        },
+        {
+          "blockId": "operational-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1967년 프로그램은 운용 투입 없이 종료됐다",
+          "headingEn": "The Program Ended in 1967 Without Operational Deployment",
+          "textKo": "공식 설명상 Acoustic Kitty는 제한적 시험을 거쳤지만 실제 작전에 운용된 적은 없었고 1967년에 종료됐다. 이 프로그램은 냉전기의 기술 실험이 어디까지 확장될 수 있었는지를 보여주지만, 동시에 prototype과 operational capability를 구분해야 한다는 사례이기도 하다. 실제 연구였다는 사실이 성공적인 “스파이 고양이 부대”의 존재를 뜻하지 않는다.",
+          "textEn": "The CIA states that Acoustic Kitty underwent limited testing but was never used operationally and was terminated in 1967. The project illustrates how far Cold War technical experimentation could go, but also why prototypes must be separated from operational capability. A real research program is not evidence that an effective force of spy cats ever existed."
+        },
+        {
+          "blockId": "myth-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“첫 시험에서 택시에 치여 죽었다”는 유명한 결말은 CIA 설명과 다르다",
+          "headingEn": "The Famous Taxi-Death Ending Does Not Match the CIA Account",
+          "textKo": "가장 널리 퍼진 이야기는 첫 현장시험에서 고양이가 택시나 버스에 치여 죽었다는 것이다. CIA는 이 일화를 1979년 전직 관계자가 농담으로 한 말을 사실처럼 받아들인 결과라고 설명하며, 동물이 장치 삽입·제거 과정에서 해를 입지 않았다고 밝힌다. 다만 이 역시 기관의 후대 공식 설명이라는 출처 성격을 함께 표시해야 한다. 신화의 반복 빈도와 문서화 수준은 별개다.",
+          "textEn": "The most repeated ending says the cat was killed by a taxi or bus during its first field test. The CIA says that story grew from a joke made by a former official in 1979 and states that the animal was unharmed during implantation and removal of the devices. This is the Agency’s later official account, and should be presented as such. Repetition of a story is not the same as documentary support."
+        },
+        {
+          "blockId": "meaning-05",
+          "type": "AFTERMATH",
+          "headingKo": "기묘한 프로젝트의 핵심은 “실패한 기술”보다 정보수집의 제약이다",
+          "headingEn": "The Real Lesson Is About Collection Constraints",
+          "textKo": "Acoustic Kitty가 흥미로운 이유는 고양이라는 소재만이 아니다. 은밀한 감시기술은 센서 성능뿐 아니라 전원, 통신, 위치, 행동, 환경 변수를 모두 통제해야 한다. 이 프로젝트에서는 동물의 자율성이 가장 큰 운영 제약이 됐다. 성공하지 못한 실험은 정보기술사에서 “무엇이 가능했나”뿐 아니라 “무엇이 통제되지 않았나”를 보여주는 자료다.",
+          "textEn": "What makes Acoustic Kitty instructive is not simply the use of a cat. Covert collection systems must manage sensors, power, communications, position, behavior, and the surrounding environment. Here, animal autonomy became the decisive operational constraint. Failed experiments can reveal as much about intelligence technology as successful ones by showing what could not be made reliable."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: CIA는 1964년부터 고양이에 마이크·송신기·안테나를 결합하는 감시 연구를 진행했고 제한적 field test 후 1967년에 종료했다고 공식 설명한다. 실제 작전에는 투입되지 않았다.\n\n확인되지 않음: 첫 시험에서 택시에 치여 죽었다는 유명한 이야기는 CIA의 공식 설명과 맞지 않으며, 성공적인 실전 “스파이 고양이” 운용도 확인되지 않는다.",
+          "textEn": "Established: The CIA officially states that beginning in 1964 it tested a cat fitted with a microphone, transmitter, and antenna, conducted limited field tests, and ended the program in 1967. It was not used operationally.\n\nNot established: The famous story that the cat was killed by a taxi during its first field test does not match the CIA’s official account, and no successful operational spy-cat deployment is established."
+        }
+      ],
+      "factBoundary": {
+        "established": "The CIA officially states that beginning in 1964 it tested a cat fitted with a microphone, transmitter, and antenna, conducted limited field tests, and ended the program in 1967. It was not used operationally.",
+        "notEstablished": "The famous story that the cat was killed by a taxi during its first field test does not match the CIA’s official account, and no successful operational spy-cat deployment is established."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "engineering-02",
+        "operational-03",
+        "myth-04",
+        "meaning-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "AK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "CIA는 1964년 Acoustic Kitty 연구를 시작했다.",
+      "statementEn": "The CIA says Acoustic Kitty research began in 1964.",
+      "sourceRefs": [
+        "CIA_ACOUSTIC_2024"
+      ]
+    },
+    {
+      "claimId": "AK-C2",
+      "status": "CONFIRMED",
+      "statementKo": "마이크·송신기·안테나가 고양이에 장착됐다.",
+      "statementEn": "A microphone, transmitter, and antenna were fitted to a cat.",
+      "sourceRefs": [
+        "CIA_ACOUSTIC_2024"
+      ]
+    },
+    {
+      "claimId": "AK-C3",
+      "status": "CONFIRMED",
+      "statementKo": "제한적 시험 뒤 1967년 종료됐고 실제 작전에 투입되지 않았다.",
+      "statementEn": "After limited tests, the program ended in 1967 without operational deployment.",
+      "sourceRefs": [
+        "CIA_ACOUSTIC_2024"
+      ]
+    },
+    {
+      "claimId": "AK-C4",
+      "status": "DISPUTED_MYTH",
+      "statementKo": "택시 사망 이야기는 CIA 공식 설명과 맞지 않는다.",
+      "statementEn": "The taxi-death story does not match the CIA’s official account.",
+      "sourceRefs": [
+        "CIA_ACOUSTIC_2024"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CIA_ACOUSTIC_2024",
+      "title": "Natural Spies: Animals in Espionage",
+      "publisher": "Central Intelligence Agency",
+      "url": "https://www.cia.gov/stories/story/natural-spies-animals-in-espionage/",
+      "sourceType": "US_GOVERNMENT_AGENCY_HISTORY",
+      "scope": "Acoustic Kitty chronology, device description, limited field testing, termination, taxi-death myth"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "acoustic-kitty-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_SCHEMATIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "귀의 마이크 → 피부 아래 송신기 → 털 사이 안테나의 개념 배치. 실제 수술 사진이 아닌 설명도.",
+      "captionEn": "Conceptual layout: ear microphone → subcutaneous transmitter → antenna through fur. Explanatory schematic, not surgical documentary evidence.",
+      "sourceRefs": [
+        "CIA_ACOUSTIC_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "representationLabel": "EXPLANATORY_SCHEMATIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "acoustic-kitty-v01__ko.png",
+          "sha256": "c93640d5809ef7e1f6554bcbf84656c0cee62ac04ba82bf448170b29f8ba0497",
+          "width": 1600,
+          "height": 900,
+          "bytes": 60967
+        },
+        "en": {
+          "fileName": "acoustic-kitty-v01__en.png",
+          "sha256": "6fa0d17623c393628cb71715778c9be79fb118d6e18d0d9770ac16ec91fc91a9",
+          "width": 1600,
+          "height": 900,
+          "bytes": 68908
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "acoustic-kitty-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "실제 연구·제한적 시험·1967 종료와 택시 사망 신화를 분리.",
+      "captionEn": "Separate the documented research, limited testing and 1967 termination from the taxi-death myth.",
+      "sourceRefs": [
+        "CIA_ACOUSTIC_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "acoustic-kitty-v02__ko.png",
+          "sha256": "b9745f9590812a04296f282216a19b3db028aebb00dd2f15688fd94925c80296",
+          "width": 1600,
+          "height": 900,
+          "bytes": 71152
+        },
+        "en": {
+          "fileName": "acoustic-kitty-v02__en.png",
+          "sha256": "a5c652f3b17a57432afe894c27a75fe44f7f245ada149dcc1dbb229c53ebd73e",
+          "width": 1600,
+          "height": 900,
+          "bytes": 66690
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Technology / Experimental Surveillance"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "CIA research context"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Central Intelligence Agency"
+    ],
+    "dateRange": {
+      "start": "1964",
+      "end": "1967",
+      "precision": "program period stated by CIA"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_DOCUMENTED_NOT_OPERATIONALLY_DEPLOYED_TAXI_MYTH_REJECTED_BY_CIA",
+    "searchAliases": [
+      "Acoustic Kitty",
+      "Acoustikitty",
+      "CIA spy cat"
+    ],
+    "relatedCases": [
+      "project-shamrock"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1532,
+    "enBodyWords": 461,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

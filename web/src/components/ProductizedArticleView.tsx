@@ -27,7 +27,7 @@ function ProductVisual({ article, visual, locale, hero = false }: { article: Pro
   const sources = article.sources.filter((source) => visual.sourceRefs.includes(source.sourceId));
   return <figure className={`case-image u2-visual${hero ? " u2-hero-visual" : ""}`} data-visual-role={visual.role}>
     <a href={src} target="_blank" rel="noreferrer" aria-label={locale === "ko" ? "이미지 크게 보기" : "Open larger image"}>
-      <Image src={src} alt={locale === "ko" ? visual.altKo : visual.altEn} width={variant.width} height={variant.height} sizes={hero ? "(max-width: 780px) 100vw, 960px" : "(max-width: 780px) 100vw, 740px"} priority={hero}/>
+      <Image src={src} alt={locale === "ko" ? visual.altKo || visual.captionKo : visual.altEn || visual.captionEn} width={variant.width} height={variant.height} sizes={hero ? "(max-width: 780px) 100vw, 960px" : "(max-width: 780px) 100vw, 740px"} priority={hero}/>
     </a>
     <figcaption><span className="image-type">{label}</span><span>{locale === "ko" ? visual.captionKo : visual.captionEn}</span>
       <details className="image-provenance"><summary>{locale === "ko" ? "도표 근거 자료" : "Graphic source notes"}</summary>

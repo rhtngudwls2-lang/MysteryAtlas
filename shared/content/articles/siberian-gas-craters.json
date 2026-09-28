@@ -1,0 +1,525 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "siberian-gas-craters",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "시베리아 영구동토 가스 분화구",
+    "canonicalTitleEn": "Siberian Permafrost Gas Craters",
+    "aliasesKo": [
+      "야말 가스 분화구",
+      "영구동토 폭발 분화구"
+    ],
+    "aliasesEn": [
+      "Yamal gas craters",
+      "permafrost explosion craters"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SCIENCE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "STANDARD_STORY retained from recovered scaffold; multiple peer-reviewed mechanism papers support 8 evidence-dense narrative blocks plus a fact boundary.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "야말의 거대한 구멍은 왜 폭발했나—영구동토 아래 가스압과 아직 미완성인 메커니즘",
+      "hook": "분화구는 실제 가스 폭발의 흔적이다. 다만 ‘메탄이 터졌다’ 이후의 세부 과정은 현장마다 여전히 연구 중이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "평평한 툰드라에 갑자기 생긴 거대한 구멍은 충돌구가 아니었다",
+          "headingEn": "A Giant Hole Appeared in Flat Tundra—and It Was Not an Impact Crater",
+          "textKo": "2014년 러시아 야말반도에서 수십 미터 규모의 깊고 가파른 분화구가 확인되자 운석충돌부터 지하 폭발까지 여러 설명이 제기됐다. 현장에는 분화구 둘레로 토사가 밖으로 튀어나간 parapet이 남아 있었고, 위성영상은 폭발 전 그 자리에 지표가 부풀어 오른 mound가 있었음을 보여줬다. 이후 야말·기단 지역에서 비슷한 gas-emission crater들이 추가로 보고되면서 현상은 단일 괴사건이 아니라 영구동토 내부의 압력축적과 급격한 방출을 이해해야 하는 지질학 문제로 바뀌었다.",
+          "textEn": "In 2014 a deep, steep-sided crater tens of meters across was documented on Russia's Yamal Peninsula. Explanations initially ranged from meteorite impact to underground explosion. Field evidence showed a rim of ejected material, while pre-event satellite imagery revealed a mound that had risen at the site before the crater formed. As similar gas-emission craters were identified across Yamal and Gydan, the phenomenon became less a one-off curiosity and more a geologic problem: how pressure accumulates within permafrost and is suddenly released."
+        },
+        {
+          "blockId": "permafrost-02",
+          "type": "BACKGROUND",
+          "headingKo": "영구동토는 단단한 얼음 한 장이 아니라 얼음·토양·미동결층·가스가 섞인 복잡한 구조다",
+          "headingEn": "Permafrost Is Not a Solid Slab but a Complex Mixture of Ice, Sediment, Unfrozen Layers, and Gas",
+          "textKo": "야말의 영구동토에는 두꺼운 ground ice와 얼어붙은 퇴적물, 소금기가 있어 영하에서도 얼지 않는 cryopeg, 과거 호수 아래에서 형성된 talik 같은 미동결층이 함께 존재할 수 있다. 이런 구조는 물과 가스가 이동하고 갇힐 수 있는 경로를 만든다. 지표에서 보이는 pingo-like mound는 내부 압력이 지층과 얼음을 위로 밀어올리는 징후가 될 수 있다. 따라서 분화구 형성은 ‘메탄 주머니 하나가 터졌다’는 한 문장보다, 열·수분·염분·얼음상태·가스 공급·차폐층 강도가 어떻게 결합했는지를 보는 문제다.",
+          "textEn": "Yamal permafrost can contain thick ground ice, frozen sediments, salty cryopegs that remain unfrozen below 0°C, and taliks inherited from former lakes. Those structures create pathways and traps for water and gas. A pingo-like surface mound can form when subsurface pressure deforms the overlying permafrost. Crater formation therefore involves more than a simple phrase such as 'a methane pocket exploded.' The relevant system includes heat, water, salinity, ice state, gas supply, and the mechanical strength of the frozen cap."
+        },
+        {
+          "blockId": "gas-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현장·위성·지구물리 자료는 가스압과 폭발 전 지표융기를 강하게 지지한다",
+          "headingEn": "Field, Satellite, and Geophysical Evidence Strongly Supports Gas Pressure and Pre-Explosion Uplift",
+          "textKo": "2021년 Geosciences 연구는 문헌에 알려진 gas-emission crater들을 위성자료로 추적하면서, 일부 분화구가 형성되기 전에 수 미터 높이의 pingo-like feature가 성장하는 패턴을 정리했다. 2017년 Seyakha 분화구에 대한 지구물리조사도 폭발 전 mound 위치와 내부 가스공간 형성의 흔적, 이후 지속적인 가스 방출을 보고했다. 이 자료들은 단순 지반침하보다 ‘압력이 지표를 들어올린 뒤 파괴했다’는 gas-dynamic 그림을 지지한다. 다만 모든 분화구가 동일한 내부 구조와 동일한 가스기원을 갖는다는 뜻은 아니다.",
+          "textEn": "A 2021 Geosciences study used satellite data to track known gas-emission craters and summarized a recurring pattern in which a pingo-like feature rose by several meters before some explosions. Geophysical work at the 2017 Seyakha crater also documented a pre-existing mound, evidence related to subsurface gas-chamber development, and continued gas emission afterward. These observations support a gas-dynamic picture in which pressure lifts the surface before rupture, rather than simple ground subsidence. They do not demonstrate that every crater has an identical internal structure or gas source."
+        },
+        {
+          "blockId": "models-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2018년 연구는 ‘얼어붙는 talik의 압력’만으로도 폭발이 가능하다는 모델을 제시했다",
+          "headingEn": "A 2018 Study Showed How Pressure From a Refreezing Talik Could Produce an Explosion",
+          "textKo": "Scientific Reports의 2018년 연구는 최초 야말 분화구를 과거 호수가 줄어든 뒤 talik이 다시 얼어붙는 과정으로 설명했다. 닫힌 미동결 공간이 바깥부터 얼면서 내부 물과 용존가스가 압축되고, cryogenic hydrostatic pressure가 상승해 위의 frozen cap 강도를 넘으면 폭발적 파괴가 일어날 수 있다는 모델이다. 이 연구에서는 이산화탄소가 풍부한 용존가스와 hydrate 상태까지 고려했다. 중요한 점은 이 메커니즘이 ‘지구온난화로 녹아서 생긴 구멍’ 같은 단순한 해석과 다르다는 것이다. 오히려 얼고 녹는 상태변화와 밀폐압력이 핵심 변수다.",
+          "textEn": "A 2018 Scientific Reports paper modeled the first Yamal crater as the result of a former lake talik refreezing after the lake shrank. As the enclosed unfrozen zone froze inward, water and dissolved gases could be compressed, raising cryogenic hydrostatic pressure until it exceeded the strength of the frozen cap. The model considered carbon-dioxide-rich dissolved gas and hydrate phases. This differs from a simple story in which 'warming melts a hole.' Phase change, confinement, and pressure are central to the proposed mechanism."
+        },
+        {
+          "blockId": "methane-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "다른 분화구에서는 메탄이 중심에 있고 가스의 기원도 하나로 고정되지 않는다",
+          "headingEn": "Other Craters Put Methane at Center Stage, and the Gas Source Is Not Necessarily Uniform",
+          "textKo": "Seyakha 분화구 연구에서는 폭발 뒤에도 주로 biogenic methane으로 해석된 가스 방출이 장기간 관찰됐다. 다른 연구들은 cryopeg나 얕은 퇴적층에서 만들어진 가스뿐 아니라 더 깊은 thermogenic gas가 단층을 따라 이동할 가능성도 검토한다. ‘야말 분화구 = 메탄 hydrate 하나의 원인’이라고 고정하면 서로 다른 현장자료를 놓치게 된다. 공통분모는 가스가 얼음이 많은 영구동토 아래 또는 내부에서 축적돼 압력을 만들고, 지표를 변형시킨 뒤 급격히 배출될 수 있다는 것이다. 세부적인 가스 조성과 공급경로는 개별 분화구마다 조사해야 한다.",
+          "textEn": "At the Seyakha crater, researchers observed prolonged post-explosion gas release interpreted as mainly biogenic methane. Other work considers not only gas generated in cryopegs or shallow sediments but also possible migration of deeper thermogenic gas along faults. Treating every Yamal crater as the product of one methane-hydrate mechanism would erase meaningful differences among sites. The common element is pressure from gas accumulating beneath or within ice-rich permafrost, deforming the surface and potentially escaping explosively. Gas composition and supply pathways still require site-by-site investigation."
+        },
+        {
+          "blockId": "osmosis-06",
+          "type": "TURNING_POINT",
+          "headingKo": "2024년에는 삼투압이 물을 cryopeg로 끌어들이는 새로운 압력펌프 모델이 제시됐다",
+          "headingEn": "In 2024, Researchers Proposed Osmosis as a New Pressure Pump Feeding the System",
+          "textKo": "2024년 Geophysical Research Letters 연구는 salty cryopeg가 만드는 삼투압 차이에 주목했다. 여름철 녹은 물이 아래쪽 salty lens로 이동하면서 압력을 키우고, 그 overpressure가 토양과 영구동토를 균열시킨 뒤 methane hydrate 분해와 메탄 방출을 촉진할 수 있다는 모델이다. 논문은 2014년 이후 확인된 분화구와 메탄 농도를 설명하려는 물리적 경로를 제시한다. 그러나 새 모델이 곧 모든 기존 가설을 폐기하거나 모든 분화구에 보편 적용된다는 뜻은 아니다. 현재는 서로 다른 현장과 물성조건을 설명하는 여러 메커니즘이 경쟁·보완되는 단계다.",
+          "textEn": "A 2024 Geophysical Research Letters paper focused on osmotic pressure associated with salty cryopegs. Meltwater can migrate downward toward a saline lens, raising pressure until overpressure fractures the surrounding material and may promote methane-hydrate decomposition and methane release. The study offers a physical pathway for linking surface meltwater, subsurface salinity, and explosive pressure. But a new model does not automatically replace every earlier hypothesis or apply universally to every crater. The field is still testing mechanisms that may compete or complement one another under different site conditions."
+        },
+        {
+          "blockId": "warming-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기후온난화는 중요한 배경이지만 ‘기온이 올라서 바로 폭발한다’는 직선 인과는 과도하다",
+          "headingEn": "Climate Warming Matters, but 'Warmer Air Directly Causes an Explosion' Is Too Simple",
+          "textKo": "북극의 빠른 온난화는 active layer 깊이, meltwater 공급, 영구동토 강도와 가스·hydrate 안정성에 영향을 줄 수 있다. 2021년 mapping 연구도 고위도 기후온난화가 영구동토 지형변화를 가속하는 배경을 강조한다. 그러나 폭발에는 충분한 가스 공급, 압력을 가둘 수 있는 지층, 물과 염분의 이동, 지표 mound의 성장 같은 지역조건이 함께 필요하다. 2024년 모델도 warming을 단독 원인이라기보다 압력시스템을 변화시키는 조건으로 다룬다. 따라서 온난화가 위험을 높일 가능성과 ‘정확히 몇 배 더 자주 폭발할 것인가’라는 정량 예측은 분리해야 한다.",
+          "textEn": "Rapid Arctic warming can affect active-layer depth, meltwater supply, permafrost strength, and gas or hydrate stability. The 2021 mapping study emphasizes climate warming as a background driver of permafrost landscape change. But an explosion also requires local conditions such as sufficient gas supply, confinement, fluid and salt transport, and often the growth of a surface mound. The 2024 model likewise treats warming as a condition that changes the pressure system rather than a one-step cause. The possibility that warming increases risk must therefore be separated from precise quantitative predictions of how often explosions will occur."
+        },
+        {
+          "blockId": "monitor-08",
+          "type": "AFTERMATH",
+          "headingKo": "분화구 연구의 실용적 목표는 ‘터진 뒤의 구멍’보다 터지기 전 mound를 찾는 것이다",
+          "headingEn": "The Practical Goal Is to Find the Mound Before the Crater Exists",
+          "textKo": "가스 분화구는 드물지만 에너지 인프라와 사람이 활동하는 야말·기단 지역에서는 위험평가 가치가 크다. 2021년 연구는 고해상도 위성영상과 지형고도 자료를 이용해 알려진 분화구뿐 아니라 새로운 crater-like feature를 탐지하는 방법을 시험했다. 핵심은 폭발 후의 큰 구멍보다 사전에 나타나는 pingo-like uplift, 지표변형, 수분·식생 변화 같은 전조후보를 찾아내는 것이다. 아직 ‘이 mound는 언제 반드시 폭발한다’는 확정 예측모델은 없지만, 반복 관측과 원격탐사는 드문 사건의 모집단을 늘리고 위험한 위치를 선별하는 가장 현실적인 방법이다. 같은 지역을 수년 단위로 반복 촬영하면 폭발 전 융기의 성장속도와 이후 crater-lake 전환도 추적할 수 있어, 단발 현장조사보다 과정 자체를 복원하는 데 유리하다.",
+          "textEn": "Gas-emission craters are rare, but they matter in Yamal and Gydan because people and energy infrastructure operate in the region. The 2021 mapping study tested satellite reflectance, elevation, and water-extent data to identify known craters and new crater-like features. The practical goal is not simply to catalogue holes after they appear, but to detect possible precursors such as pingo-like uplift, surface deformation, and changes in moisture or vegetation. There is not yet a deterministic model that can say exactly when a given mound will explode, but repeated remote sensing can enlarge the event sample and help prioritize hazardous sites. Repeated imaging over years can also measure pre-explosion uplift and the later transition from crater to lake, reconstructing a process that a single field visit cannot capture."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2014년 이후 야말·기단 지역에서 여러 gas-emission crater가 보고됐고, 일부는 폭발 전 pingo-like mound가 성장했으며 주변에 분출물이 남았다. 현장·위성·지구물리 연구는 영구동토 내부 또는 아래의 가스축적과 과압이 crater formation의 핵심이라는 점을 강하게 지지한다. 개별 연구는 refreezing talik, methane-rich gas, cryopeg, osmosis 같은 구체 메커니즘을 제시한다.\n\n확인되지 않음: 모든 분화구가 하나의 동일한 가스기원과 동일한 압력메커니즘으로 형성된다는 것은 입증되지 않았다. 기후온난화가 각 분화구의 발생확률을 정확히 얼마나 높이는지, 어떤 mound가 언제 폭발할지를 정밀하게 예측하는 단계에도 아직 도달하지 않았다.",
+          "textEn": "Established: Since 2014, multiple gas-emission craters have been reported in the Yamal-Gydan region. Some were preceded by growing pingo-like mounds and left ejected debris. Field, satellite, and geophysical studies strongly support gas accumulation and overpressure beneath or within permafrost as central to crater formation. Individual studies propose specific mechanisms involving refreezing taliks, methane-rich gas, cryopegs, or osmosis.\n\nNot established: It has not been demonstrated that every crater forms from the same gas source and the same pressure mechanism. Researchers also cannot yet quantify exactly how much warming changes the probability of each event or predict precisely when a particular mound will explode."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 2014년 이후 야말·기단 지역에서 여러 gas-emission crater가 보고됐고, 일부는 폭발 전 pingo-like mound가 성장했으며 주변에 분출물이 남았다. 현장·위성·지구물리 연구는 영구동토 내부 또는 아래의 가스축적과 과압이 crater formation의 핵심이라는 점을 강하게 지지한다. 개별 연구는 refreezing talik, methane-rich gas, cryopeg, osmosis 같은 구체 메커니즘을 제시한다.",
+        "notEstablished": "확인되지 않음: 모든 분화구가 하나의 동일한 가스기원과 동일한 압력메커니즘으로 형성된다는 것은 입증되지 않았다. 기후온난화가 각 분화구의 발생확률을 정확히 얼마나 높이는지, 어떤 mound가 언제 폭발할지를 정밀하게 예측하는 단계에도 아직 도달하지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "permafrost-02",
+        "gas-03",
+        "models-04",
+        "methane-05",
+        "osmosis-06",
+        "warming-07",
+        "monitor-08"
+      ]
+    },
+    "en": {
+      "headline": "Why Did Giant Craters Explode in Yamal? Gas Pressure Beneath Permafrost and an Unfinished Mechanism",
+      "hook": "The craters are real traces of explosive gas release. The detailed pathway after 'gas built up' remains site-dependent and actively studied.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "평평한 툰드라에 갑자기 생긴 거대한 구멍은 충돌구가 아니었다",
+          "headingEn": "A Giant Hole Appeared in Flat Tundra—and It Was Not an Impact Crater",
+          "textKo": "2014년 러시아 야말반도에서 수십 미터 규모의 깊고 가파른 분화구가 확인되자 운석충돌부터 지하 폭발까지 여러 설명이 제기됐다. 현장에는 분화구 둘레로 토사가 밖으로 튀어나간 parapet이 남아 있었고, 위성영상은 폭발 전 그 자리에 지표가 부풀어 오른 mound가 있었음을 보여줬다. 이후 야말·기단 지역에서 비슷한 gas-emission crater들이 추가로 보고되면서 현상은 단일 괴사건이 아니라 영구동토 내부의 압력축적과 급격한 방출을 이해해야 하는 지질학 문제로 바뀌었다.",
+          "textEn": "In 2014 a deep, steep-sided crater tens of meters across was documented on Russia's Yamal Peninsula. Explanations initially ranged from meteorite impact to underground explosion. Field evidence showed a rim of ejected material, while pre-event satellite imagery revealed a mound that had risen at the site before the crater formed. As similar gas-emission craters were identified across Yamal and Gydan, the phenomenon became less a one-off curiosity and more a geologic problem: how pressure accumulates within permafrost and is suddenly released."
+        },
+        {
+          "blockId": "permafrost-02",
+          "type": "BACKGROUND",
+          "headingKo": "영구동토는 단단한 얼음 한 장이 아니라 얼음·토양·미동결층·가스가 섞인 복잡한 구조다",
+          "headingEn": "Permafrost Is Not a Solid Slab but a Complex Mixture of Ice, Sediment, Unfrozen Layers, and Gas",
+          "textKo": "야말의 영구동토에는 두꺼운 ground ice와 얼어붙은 퇴적물, 소금기가 있어 영하에서도 얼지 않는 cryopeg, 과거 호수 아래에서 형성된 talik 같은 미동결층이 함께 존재할 수 있다. 이런 구조는 물과 가스가 이동하고 갇힐 수 있는 경로를 만든다. 지표에서 보이는 pingo-like mound는 내부 압력이 지층과 얼음을 위로 밀어올리는 징후가 될 수 있다. 따라서 분화구 형성은 ‘메탄 주머니 하나가 터졌다’는 한 문장보다, 열·수분·염분·얼음상태·가스 공급·차폐층 강도가 어떻게 결합했는지를 보는 문제다.",
+          "textEn": "Yamal permafrost can contain thick ground ice, frozen sediments, salty cryopegs that remain unfrozen below 0°C, and taliks inherited from former lakes. Those structures create pathways and traps for water and gas. A pingo-like surface mound can form when subsurface pressure deforms the overlying permafrost. Crater formation therefore involves more than a simple phrase such as 'a methane pocket exploded.' The relevant system includes heat, water, salinity, ice state, gas supply, and the mechanical strength of the frozen cap."
+        },
+        {
+          "blockId": "gas-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현장·위성·지구물리 자료는 가스압과 폭발 전 지표융기를 강하게 지지한다",
+          "headingEn": "Field, Satellite, and Geophysical Evidence Strongly Supports Gas Pressure and Pre-Explosion Uplift",
+          "textKo": "2021년 Geosciences 연구는 문헌에 알려진 gas-emission crater들을 위성자료로 추적하면서, 일부 분화구가 형성되기 전에 수 미터 높이의 pingo-like feature가 성장하는 패턴을 정리했다. 2017년 Seyakha 분화구에 대한 지구물리조사도 폭발 전 mound 위치와 내부 가스공간 형성의 흔적, 이후 지속적인 가스 방출을 보고했다. 이 자료들은 단순 지반침하보다 ‘압력이 지표를 들어올린 뒤 파괴했다’는 gas-dynamic 그림을 지지한다. 다만 모든 분화구가 동일한 내부 구조와 동일한 가스기원을 갖는다는 뜻은 아니다.",
+          "textEn": "A 2021 Geosciences study used satellite data to track known gas-emission craters and summarized a recurring pattern in which a pingo-like feature rose by several meters before some explosions. Geophysical work at the 2017 Seyakha crater also documented a pre-existing mound, evidence related to subsurface gas-chamber development, and continued gas emission afterward. These observations support a gas-dynamic picture in which pressure lifts the surface before rupture, rather than simple ground subsidence. They do not demonstrate that every crater has an identical internal structure or gas source."
+        },
+        {
+          "blockId": "models-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2018년 연구는 ‘얼어붙는 talik의 압력’만으로도 폭발이 가능하다는 모델을 제시했다",
+          "headingEn": "A 2018 Study Showed How Pressure From a Refreezing Talik Could Produce an Explosion",
+          "textKo": "Scientific Reports의 2018년 연구는 최초 야말 분화구를 과거 호수가 줄어든 뒤 talik이 다시 얼어붙는 과정으로 설명했다. 닫힌 미동결 공간이 바깥부터 얼면서 내부 물과 용존가스가 압축되고, cryogenic hydrostatic pressure가 상승해 위의 frozen cap 강도를 넘으면 폭발적 파괴가 일어날 수 있다는 모델이다. 이 연구에서는 이산화탄소가 풍부한 용존가스와 hydrate 상태까지 고려했다. 중요한 점은 이 메커니즘이 ‘지구온난화로 녹아서 생긴 구멍’ 같은 단순한 해석과 다르다는 것이다. 오히려 얼고 녹는 상태변화와 밀폐압력이 핵심 변수다.",
+          "textEn": "A 2018 Scientific Reports paper modeled the first Yamal crater as the result of a former lake talik refreezing after the lake shrank. As the enclosed unfrozen zone froze inward, water and dissolved gases could be compressed, raising cryogenic hydrostatic pressure until it exceeded the strength of the frozen cap. The model considered carbon-dioxide-rich dissolved gas and hydrate phases. This differs from a simple story in which 'warming melts a hole.' Phase change, confinement, and pressure are central to the proposed mechanism."
+        },
+        {
+          "blockId": "methane-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "다른 분화구에서는 메탄이 중심에 있고 가스의 기원도 하나로 고정되지 않는다",
+          "headingEn": "Other Craters Put Methane at Center Stage, and the Gas Source Is Not Necessarily Uniform",
+          "textKo": "Seyakha 분화구 연구에서는 폭발 뒤에도 주로 biogenic methane으로 해석된 가스 방출이 장기간 관찰됐다. 다른 연구들은 cryopeg나 얕은 퇴적층에서 만들어진 가스뿐 아니라 더 깊은 thermogenic gas가 단층을 따라 이동할 가능성도 검토한다. ‘야말 분화구 = 메탄 hydrate 하나의 원인’이라고 고정하면 서로 다른 현장자료를 놓치게 된다. 공통분모는 가스가 얼음이 많은 영구동토 아래 또는 내부에서 축적돼 압력을 만들고, 지표를 변형시킨 뒤 급격히 배출될 수 있다는 것이다. 세부적인 가스 조성과 공급경로는 개별 분화구마다 조사해야 한다.",
+          "textEn": "At the Seyakha crater, researchers observed prolonged post-explosion gas release interpreted as mainly biogenic methane. Other work considers not only gas generated in cryopegs or shallow sediments but also possible migration of deeper thermogenic gas along faults. Treating every Yamal crater as the product of one methane-hydrate mechanism would erase meaningful differences among sites. The common element is pressure from gas accumulating beneath or within ice-rich permafrost, deforming the surface and potentially escaping explosively. Gas composition and supply pathways still require site-by-site investigation."
+        },
+        {
+          "blockId": "osmosis-06",
+          "type": "TURNING_POINT",
+          "headingKo": "2024년에는 삼투압이 물을 cryopeg로 끌어들이는 새로운 압력펌프 모델이 제시됐다",
+          "headingEn": "In 2024, Researchers Proposed Osmosis as a New Pressure Pump Feeding the System",
+          "textKo": "2024년 Geophysical Research Letters 연구는 salty cryopeg가 만드는 삼투압 차이에 주목했다. 여름철 녹은 물이 아래쪽 salty lens로 이동하면서 압력을 키우고, 그 overpressure가 토양과 영구동토를 균열시킨 뒤 methane hydrate 분해와 메탄 방출을 촉진할 수 있다는 모델이다. 논문은 2014년 이후 확인된 분화구와 메탄 농도를 설명하려는 물리적 경로를 제시한다. 그러나 새 모델이 곧 모든 기존 가설을 폐기하거나 모든 분화구에 보편 적용된다는 뜻은 아니다. 현재는 서로 다른 현장과 물성조건을 설명하는 여러 메커니즘이 경쟁·보완되는 단계다.",
+          "textEn": "A 2024 Geophysical Research Letters paper focused on osmotic pressure associated with salty cryopegs. Meltwater can migrate downward toward a saline lens, raising pressure until overpressure fractures the surrounding material and may promote methane-hydrate decomposition and methane release. The study offers a physical pathway for linking surface meltwater, subsurface salinity, and explosive pressure. But a new model does not automatically replace every earlier hypothesis or apply universally to every crater. The field is still testing mechanisms that may compete or complement one another under different site conditions."
+        },
+        {
+          "blockId": "warming-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기후온난화는 중요한 배경이지만 ‘기온이 올라서 바로 폭발한다’는 직선 인과는 과도하다",
+          "headingEn": "Climate Warming Matters, but 'Warmer Air Directly Causes an Explosion' Is Too Simple",
+          "textKo": "북극의 빠른 온난화는 active layer 깊이, meltwater 공급, 영구동토 강도와 가스·hydrate 안정성에 영향을 줄 수 있다. 2021년 mapping 연구도 고위도 기후온난화가 영구동토 지형변화를 가속하는 배경을 강조한다. 그러나 폭발에는 충분한 가스 공급, 압력을 가둘 수 있는 지층, 물과 염분의 이동, 지표 mound의 성장 같은 지역조건이 함께 필요하다. 2024년 모델도 warming을 단독 원인이라기보다 압력시스템을 변화시키는 조건으로 다룬다. 따라서 온난화가 위험을 높일 가능성과 ‘정확히 몇 배 더 자주 폭발할 것인가’라는 정량 예측은 분리해야 한다.",
+          "textEn": "Rapid Arctic warming can affect active-layer depth, meltwater supply, permafrost strength, and gas or hydrate stability. The 2021 mapping study emphasizes climate warming as a background driver of permafrost landscape change. But an explosion also requires local conditions such as sufficient gas supply, confinement, fluid and salt transport, and often the growth of a surface mound. The 2024 model likewise treats warming as a condition that changes the pressure system rather than a one-step cause. The possibility that warming increases risk must therefore be separated from precise quantitative predictions of how often explosions will occur."
+        },
+        {
+          "blockId": "monitor-08",
+          "type": "AFTERMATH",
+          "headingKo": "분화구 연구의 실용적 목표는 ‘터진 뒤의 구멍’보다 터지기 전 mound를 찾는 것이다",
+          "headingEn": "The Practical Goal Is to Find the Mound Before the Crater Exists",
+          "textKo": "가스 분화구는 드물지만 에너지 인프라와 사람이 활동하는 야말·기단 지역에서는 위험평가 가치가 크다. 2021년 연구는 고해상도 위성영상과 지형고도 자료를 이용해 알려진 분화구뿐 아니라 새로운 crater-like feature를 탐지하는 방법을 시험했다. 핵심은 폭발 후의 큰 구멍보다 사전에 나타나는 pingo-like uplift, 지표변형, 수분·식생 변화 같은 전조후보를 찾아내는 것이다. 아직 ‘이 mound는 언제 반드시 폭발한다’는 확정 예측모델은 없지만, 반복 관측과 원격탐사는 드문 사건의 모집단을 늘리고 위험한 위치를 선별하는 가장 현실적인 방법이다. 같은 지역을 수년 단위로 반복 촬영하면 폭발 전 융기의 성장속도와 이후 crater-lake 전환도 추적할 수 있어, 단발 현장조사보다 과정 자체를 복원하는 데 유리하다.",
+          "textEn": "Gas-emission craters are rare, but they matter in Yamal and Gydan because people and energy infrastructure operate in the region. The 2021 mapping study tested satellite reflectance, elevation, and water-extent data to identify known craters and new crater-like features. The practical goal is not simply to catalogue holes after they appear, but to detect possible precursors such as pingo-like uplift, surface deformation, and changes in moisture or vegetation. There is not yet a deterministic model that can say exactly when a given mound will explode, but repeated remote sensing can enlarge the event sample and help prioritize hazardous sites. Repeated imaging over years can also measure pre-explosion uplift and the later transition from crater to lake, reconstructing a process that a single field visit cannot capture."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2014년 이후 야말·기단 지역에서 여러 gas-emission crater가 보고됐고, 일부는 폭발 전 pingo-like mound가 성장했으며 주변에 분출물이 남았다. 현장·위성·지구물리 연구는 영구동토 내부 또는 아래의 가스축적과 과압이 crater formation의 핵심이라는 점을 강하게 지지한다. 개별 연구는 refreezing talik, methane-rich gas, cryopeg, osmosis 같은 구체 메커니즘을 제시한다.\n\n확인되지 않음: 모든 분화구가 하나의 동일한 가스기원과 동일한 압력메커니즘으로 형성된다는 것은 입증되지 않았다. 기후온난화가 각 분화구의 발생확률을 정확히 얼마나 높이는지, 어떤 mound가 언제 폭발할지를 정밀하게 예측하는 단계에도 아직 도달하지 않았다.",
+          "textEn": "Established: Since 2014, multiple gas-emission craters have been reported in the Yamal-Gydan region. Some were preceded by growing pingo-like mounds and left ejected debris. Field, satellite, and geophysical studies strongly support gas accumulation and overpressure beneath or within permafrost as central to crater formation. Individual studies propose specific mechanisms involving refreezing taliks, methane-rich gas, cryopegs, or osmosis.\n\nNot established: It has not been demonstrated that every crater forms from the same gas source and the same pressure mechanism. Researchers also cannot yet quantify exactly how much warming changes the probability of each event or predict precisely when a particular mound will explode."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Since 2014, multiple gas-emission craters have been reported in the Yamal-Gydan region. Some were preceded by growing pingo-like mounds and left ejected debris. Field, satellite, and geophysical studies strongly support gas accumulation and overpressure beneath or within permafrost as central to crater formation. Individual studies propose specific mechanisms involving refreezing taliks, methane-rich gas, cryopegs, or osmosis.",
+        "notEstablished": "Not established: It has not been demonstrated that every crater forms from the same gas source and the same pressure mechanism. Researchers also cannot yet quantify exactly how much warming changes the probability of each event or predict precisely when a particular mound will explode."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "permafrost-02",
+        "gas-03",
+        "models-04",
+        "methane-05",
+        "osmosis-06",
+        "warming-07",
+        "monitor-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GEC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2014년 이후 야말·기단 지역에서 여러 gas-emission crater가 과학문헌에 보고됐다.",
+      "statementEn": "Multiple gas-emission craters have been reported in the Yamal-Gydan region since 2014.",
+      "sourceRefs": [
+        "GEC_MAP_2021",
+        "YAMAL_2018"
+      ]
+    },
+    {
+      "claimId": "GEC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "일부 분화구는 폭발 전 pingo-like mound의 성장이 위성·현장자료로 확인됐다.",
+      "statementEn": "Some craters were preceded by growth of pingo-like mounds documented by satellite or field data.",
+      "sourceRefs": [
+        "GEC_MAP_2021",
+        "SEYAKHA_2020"
+      ]
+    },
+    {
+      "claimId": "GEC-C3",
+      "status": "SUPPORTED",
+      "statementKo": "가스축적과 과압이 폭발적 crater formation의 핵심요인이라는 증거가 강하다.",
+      "statementEn": "Evidence strongly supports gas accumulation and overpressure as central factors in explosive crater formation.",
+      "sourceRefs": [
+        "GEC_MAP_2021",
+        "SEYAKHA_2020",
+        "YAMAL_2018"
+      ]
+    },
+    {
+      "claimId": "GEC-C4",
+      "status": "SUPPORTED",
+      "statementKo": "2024년 GRL 연구는 cryopeg와 meltwater 사이의 삼투압이 overpressure를 키울 수 있다는 모델을 제시했다.",
+      "statementEn": "A 2024 GRL study proposed that osmosis between meltwater and a cryopeg can build overpressure.",
+      "sourceRefs": [
+        "OSMOSIS_2024"
+      ]
+    },
+    {
+      "claimId": "GEC-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 야말·기단 분화구가 하나의 동일한 세부 메커니즘으로 형성된다는 것은 확정되지 않았다.",
+      "statementEn": "It is not established that every Yamal-Gydan crater forms through one identical detailed mechanism.",
+      "sourceRefs": [
+        "YAMAL_2018",
+        "SEYAKHA_2020",
+        "OSMOSIS_2024"
+      ]
+    },
+    {
+      "claimId": "GEC-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "기후온난화가 분화구 발생빈도를 정확히 얼마나 변화시키는지 정량적으로 확정되지 않았다.",
+      "statementEn": "The exact quantitative effect of climate warming on crater frequency is not established.",
+      "sourceRefs": [
+        "GEC_MAP_2021",
+        "OSMOSIS_2024"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "YAMAL_2018",
+      "title": "Cryovolcanism on the Earth: Origin of a Spectacular Crater in the Yamal Peninsula (Russia)",
+      "publisher": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-018-31858-9",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "2014 crater field context and refreezing-talik cryogenic-pressure model"
+    },
+    {
+      "sourceId": "GEC_MAP_2021",
+      "title": "Detecting and Mapping Gas Emission Craters on the Yamal and Gydan Peninsulas, Western Siberia",
+      "publisher": "Geosciences",
+      "url": "https://www.mdpi.com/2076-3263/11/1/21",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "satellite detection, mound precursors, methane overpressure and regional mapping"
+    },
+    {
+      "sourceId": "SEYAKHA_2020",
+      "title": "Complex of Geophysical Studies of the Seyakha Catastrophic Gas Blowout Crater on the Yamal Peninsula, Russian Arctic",
+      "publisher": "Geosciences",
+      "url": "https://www.mdpi.com/2076-3263/10/6/215",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "2017 Seyakha crater, geophysical structure and methane-rich gas emission"
+    },
+    {
+      "sourceId": "OSMOSIS_2024",
+      "title": "Osmosis Drives Explosions and Methane Release in Siberian Permafrost",
+      "publisher": "Geophysical Research Letters",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL108987",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "osmotic pumping, cryopeg pressure and methane-release mechanism"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "siberian-gas-craters-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_CROSS_SECTION",
+      "status": "CREATED",
+      "captionKo": "지표 mound → frozen cap → talik/cryopeg → gas/overpressure → rupture의 개념 단면도.",
+      "captionEn": "Concept cross-section: surface mound → frozen cap → talik/cryopeg → gas/overpressure → rupture.",
+      "sourceRefs": [
+        "YAMAL_2018",
+        "OSMOSIS_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "siberian-gas-craters-v01__ko.png",
+          "sha256": "866e976725f590096a109059834496feaf436f8886a417f1334bfd55b1ac6254",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "siberian-gas-craters-v01__en.png",
+          "sha256": "51f0fae563f048862807fdc598bea96f948299b0a6fbe41a68f5097df4b21cd3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "siberian-gas-craters-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "CREATED",
+      "captionKo": "2014 첫 대표 분화구 → 2017 Seyakha → 2020~21 위성 mapping → 2024 osmosis 모델.",
+      "captionEn": "2014 landmark crater → 2017 Seyakha → 2020–21 satellite mapping → 2024 osmosis model.",
+      "sourceRefs": [
+        "YAMAL_2018",
+        "SEYAKHA_2020",
+        "GEC_MAP_2021",
+        "OSMOSIS_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "siberian-gas-craters-v02__ko.png",
+          "sha256": "3a6ec6167a3d2135f0da91c17d58105a88f75a9407060c4d8d451f9584a7ddeb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "siberian-gas-craters-v02__en.png",
+          "sha256": "64eb12f87bdbedcd52e670c6a3215b684aafee53e7de55cebc398e54edfd6ff3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "siberian-gas-craters-v03",
+      "role": "MODEL_COMPARISON",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "refreezing talik / gas-dynamic methane / deep gas / osmosis 모델의 공통점과 차이를 비교.",
+      "captionEn": "Compare refreezing-talik, gas-dynamic methane, deeper-gas, and osmosis models.",
+      "sourceRefs": [
+        "YAMAL_2018",
+        "SEYAKHA_2020",
+        "OSMOSIS_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "siberian-gas-craters-v03__ko.png",
+          "sha256": "b5fe98d568079dd1e859947862f4bdca96a5af738d1146baa501ae7e2cf184cd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "siberian-gas-craters-v03__en.png",
+          "sha256": "2d48c45bdd9763403a0f0ffe4cb51117b32b13a2fcb20240ade81a36b2ad4011",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "siberian-gas-craters-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "확인된 가스과압·mound 증거와 아직 보편화되지 않은 세부 메커니즘·빈도예측을 구분.",
+      "captionEn": "Separate established gas-overpressure/mound evidence from unresolved universal mechanisms and frequency prediction.",
+      "sourceRefs": [
+        "GEC_MAP_2021",
+        "OSMOSIS_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "siberian-gas-craters-v04__ko.png",
+          "sha256": "0b80cdc0f96620b1d15df8697eed4c0bfaa2fe5c21997ce878470896f56d1dad",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "siberian-gas-craters-v04__en.png",
+          "sha256": "b28da92f3aa1c259b88c5ac5ecb7a766fec8b7c7e703a6ba270abc2c75f597ed",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Nature",
+    "secondaryGenres": [
+      "Permafrost / Geology",
+      "Climate / Cryosphere"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "regions": [
+      "Yamal Peninsula",
+      "Gydan Peninsula",
+      "Western Siberia"
+    ],
+    "places": [
+      {
+        "name": "Yamal Peninsula",
+        "role": "major gas-emission crater region"
+      },
+      {
+        "name": "Seyakha",
+        "role": "2017 gas blowout crater area"
+      }
+    ],
+    "people": [],
+    "organizations": [],
+    "dateRange": {
+      "start": "2014",
+      "end": "2024",
+      "precision": "modern discovery and mechanism-research period"
+    },
+    "era": "21st-century Arctic permafrost research",
+    "resolution": "GAS_OVERPRESSURE_STRONGLY_SUPPORTED_SITE_SPECIFIC_MECHANISMS_AND_FUTURE_FREQUENCY_NOT_FULLY_RESOLVED",
+    "searchAliases": [
+      "Yamal craters",
+      "Siberian gas craters",
+      "permafrost explosion craters",
+      "gas emission craters"
+    ],
+    "relatedCases": [
+      "siberian-methane-craters"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3001,
+    "enBodyWords": 822,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MysteryAtlas_ARTICLE_PRODUCTION_PROGRESS_2026-09-28_v4.5.json + durable batches20-31",
+  "sourcePack": "MysteryAtlas_MEDIA_READY144_PACK_2026-09-28_v1.0.zip + MysteryAtlas_MEDIA_READY149_PACK_2026-09-28_v1.0.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -68,6 +68,80 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "acoustic-kitty",
+      "title": {
+        "ko": "Acoustic Kitty",
+        "en": "Acoustic Kitty"
+      },
+      "headline": {
+        "ko": "CIA가 고양이를 도청장치로 만들려 했던 건 사실이다—그 유명한 결말은 사실일까",
+        "en": "The CIA Really Tried a Spy Cat—But Is the Famous Ending True?"
+      },
+      "hook": {
+        "ko": "프로젝트는 실재했다. 장치는 작동했다. 실패의 핵심은 “고양이를 원하는 곳으로 보낼 수 없었다”는 훨씬 현실적인 문제였다.",
+        "en": "The project was real and the electronics worked. The decisive failure was more mundane: the cat would not reliably go where handlers wanted."
+      },
+      "aliases": [
+        "어쿠스틱 키티",
+        "Acoustikitty",
+        "Acoustic Kitty",
+        "Acoustikitty",
+        "CIA spy cat"
+      ],
+      "genre": "Intelligence / Secret Program / Conspiracy",
+      "genres": [
+        "Technology / Experimental Surveillance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "CIA research context"
+      ],
+      "era": "Cold War",
+      "resolution": "PROGRAM_DOCUMENTED_NOT_OPERATIONALLY_DEPLOYED_TAXI_MYTH_REJECTED_BY_CIA",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1964",
+        "end": "1967",
+        "precision": "program period stated by CIA"
+      },
+      "related": [
+        "project-shamrock"
+      ],
+      "heroAssetId": "acoustic-kitty-v01",
+      "heroFile": {
+        "ko": "acoustic-kitty-v01__ko.png",
+        "en": "acoustic-kitty-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "귀의 마이크 → 피부 아래 송신기 → 털 사이 안테나의 개념 배치. 실제 수술 사진이 아닌 설명도.",
+        "en": "Conceptual layout: ear microphone → subcutaneous transmitter → antenna through fur. Explanatory schematic, not surgical documentary evidence."
+      },
+      "heroAlt": {
+        "ko": "귀의 마이크 → 피부 아래 송신기 → 털 사이 안테나의 개념 배치. 실제 수술 사진이 아닌 설명도.",
+        "en": "Conceptual layout: ear microphone → subcutaneous transmitter → antenna through fur. Explanatory schematic, not surgical documentary evidence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -232,6 +306,99 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Downgraded from pre-production DEEP_DOSSIER plan: current verified material supports a dense Standard Story; no padding added to reach 6,000 characters."
+      }
+    },
+    {
+      "canonicalId": "amelia-earhart",
+      "title": {
+        "ko": "아멜리아 에어하트 실종",
+        "en": "Amelia Earhart Disappearance"
+      },
+      "headline": {
+        "ko": "마지막 무전은 남아 있다—그런데 왜 비행기의 최종 위치는 아직 모를까",
+        "en": "The Last Radio Messages Survive—So Why Is the Aircraft’s Final Location Still Unknown?"
+      },
+      "hook": {
+        "ko": "마지막 몇 시간의 통신과 수색은 상당히 잘 기록돼 있다. 미스터리는 기록이 없어서가 아니라, 그 기록이 마지막 위치를 하나의 점으로 고정하지 못해서 남았다.",
+        "en": "The final hours and the search are unusually well documented. The mystery persists not because there are no records, but because they never fix one final location."
+      },
+      "aliases": [
+        "아멜리아 에어하트",
+        "Amelia Earhart disappearance",
+        "Amelia Earhart",
+        "Fred Noonan",
+        "Itasca",
+        "Howland Island"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Unsolved Disappearance",
+        "Historical Enigma"
+      ],
+      "countries": [
+        "Papua New Guinea",
+        "United States"
+      ],
+      "regions": [
+        "Central Pacific / Howland Island region"
+      ],
+      "era": "1930s aviation / modern archival reassessment",
+      "resolution": "AIRCRAFT_AND_CREW_MISSING_EXACT_LOCATION_UNRESOLVED",
+      "places": [
+        {
+          "name": "Lae",
+          "role": "departure"
+        },
+        {
+          "name": "Howland Island",
+          "role": "intended destination"
+        }
+      ],
+      "people": [
+        {
+          "name": "Amelia Earhart",
+          "role": "pilot"
+        },
+        {
+          "name": "Fred Noonan",
+          "role": "navigator"
+        }
+      ],
+      "dateRange": {
+        "start": "1937-07-02",
+        "end": "2026-01-09",
+        "precision": "final flight through latest cited NARA release"
+      },
+      "related": [],
+      "heroAssetId": "amelia-earhart-v01",
+      "heroFile": {
+        "ko": "amelia-earhart-v01__ko.png",
+        "en": "amelia-earhart-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Lae → Howland final leg와 Itasca 위치를 개념적으로 표시. 정확한 실종점은 표시하지 않음.",
+        "en": "Concept map of the Lae → Howland final leg and Itasca support position; no invented disappearance point."
+      },
+      "heroAlt": {
+        "ko": "Lae → Howland final leg와 Itasca 위치를 개념적으로 표시. 정확한 실종점은 표시하지 않음.",
+        "en": "Concept map of the Lae → Howland final leg and Itasca support position; no invented disappearance point."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "AVIATION_DISAPPEARANCE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -1395,6 +1562,98 @@
       }
     },
     {
+      "canonicalId": "cahokia-decline",
+      "title": {
+        "ko": "카호키아의 쇠퇴",
+        "en": "Decline of Cahokia"
+      },
+      "headline": {
+        "ko": "북미 최대급 선콜럼버스 도시는 왜 1200년 이후 힘을 잃었나",
+        "en": "Why Did One of North America's Greatest Pre-Columbian Cities Lose Its Center After 1200?"
+      },
+      "hook": {
+        "ko": "카호키아의 쇠퇴에는 홍수도, 가뭄도, 갈등도 보인다. 문제는 어느 하나가 아니라 이 압력들이 어떻게 겹쳤는가다.",
+        "en": "Floods, drought, and social tension all appear in Cahokia's decline. The harder question is how those pressures interacted."
+      },
+      "aliases": [
+        "카호키아",
+        "카호키아 마운즈",
+        "Cahokia Mounds",
+        "Cahokia decline",
+        "Cahokia",
+        "Cahokia Mounds",
+        "Cahokia decline",
+        "Mississippian Cahokia"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Paleoclimate / Environment",
+        "Urbanism / Migration"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Illinois",
+        "American Bottom"
+      ],
+      "era": "Mississippian period",
+      "resolution": "LONG_TERM_MULTICAUSAL_DECLINE_AND_DISPERSAL_SINGLE_CAUSE_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "Cahokia Mounds",
+          "role": "urban and ceremonial center"
+        },
+        {
+          "name": "Horseshoe Lake",
+          "role": "paleoenvironmental and population-proxy record"
+        },
+        {
+          "name": "Monks Mound",
+          "role": "major monumental earthwork"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1050",
+        "end": "1400",
+        "precision": "urban expansion through late decline/dispersal"
+      },
+      "related": [
+        "rapa-nui-moai"
+      ],
+      "heroAssetId": "cahokia-v01",
+      "heroFile": {
+        "ko": "cahokia-v01__ko.png",
+        "en": "cahokia-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "미시시피강·아메리칸 보텀·카호키아·Horseshoe Lake의 관계를 보여주는 위치도.",
+        "en": "Context map of the Mississippi River, American Bottom, Cahokia, and Horseshoe Lake."
+      },
+      "heroAlt": {
+        "ko": "미시시피강·아메리칸 보텀·카호키아·Horseshoe Lake의 관계를 보여주는 위치도.",
+        "en": "Context map of the Mississippi River, American Bottom, Cahokia, and Horseshoe Lake."
+      },
+      "readMinutes": {
+        "ko": 10,
+        "en": 10
+      },
+      "publication": {
+        "tier": "DEEP_DOSSIER",
+        "editorialFamily": "ARCHAEOLOGY_DOSSIER",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "DEEP_DOSSIER retained from recovered v1.8 scaffold; independent archaeology, flood, population-proxy and drought records support 16 evidence-dense blocks without padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "carroll-a-deering",
       "title": {
         "ko": "Carroll A. Deering 유령선",
@@ -2050,6 +2309,89 @@
       }
     },
     {
+      "canonicalId": "crystal-skull",
+      "title": {
+        "ko": "크리스털 해골",
+        "en": "Crystal Skull"
+      },
+      "headline": {
+        "ko": "고대 유물처럼 보이는 수정 해골—현미경이 바꾼 이야기는 무엇인가",
+        "en": "An Ancient-Looking Crystal Skull—What Did the Microscope Change?"
+      },
+      "hook": {
+        "ko": "물체는 진짜다. 그러나 “고대 유물”이라는 이야기는 provenance와 가공흔 앞에서 무너진다.",
+        "en": "The object is real. The ancient-artifact story weakens sharply when provenance and tool marks are examined."
+      },
+      "aliases": [
+        "수정 해골",
+        "Rock Crystal Skull",
+        "crystal skull",
+        "British Museum skull",
+        "rock crystal skull"
+      ],
+      "genre": "Historical / Archaeology",
+      "genres": [
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Mexico"
+      ],
+      "regions": [
+        "British Museum / claimed Mexico provenance"
+      ],
+      "era": "19th-century antiquities market",
+      "resolution": "OBJECT_REAL_ANCIENT_MESOAMERICAN_ATTRIBUTION_NOT_SUPPORTED",
+      "places": [
+        {
+          "name": "British Museum",
+          "role": "current collection"
+        }
+      ],
+      "people": [
+        {
+          "name": "Eugène Boban",
+          "role": "historical dealer/collector context"
+        }
+      ],
+      "dateRange": {
+        "start": "1881",
+        "end": "1898",
+        "precision": "documented modern market period before museum acquisition"
+      },
+      "related": [],
+      "heroAssetId": "crystal-skull-v01",
+      "heroFile": {
+        "ko": "crystal-skull-v01__ko.png",
+        "en": "crystal-skull-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "19세기 시장 경로와 박물관 입수 과정을 출토맥락과 분리해 표시.",
+        "en": "Timeline separating the nineteenth-century market history from any claimed excavation context."
+      },
+      "heroAlt": {
+        "ko": "19세기 시장 경로와 박물관 입수 과정을 출토맥락과 분리해 표시.",
+        "en": "Timeline separating the nineteenth-century market history from any claimed excavation context."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_ARTIFACT",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "dagapeyeff-cipher",
       "title": {
         "ko": "다가페예프 암호",
@@ -2678,6 +3020,95 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "fast-radio-bursts",
+      "title": {
+        "ko": "고속전파폭발",
+        "en": "Fast Radio Bursts"
+      },
+      "headline": {
+        "ko": "몇 밀리초짜리 전파폭발은 어디서 오는가—마그네타가 풀어낸 절반의 미스터리",
+        "en": "Where Do Millisecond Radio Bursts Come From? Magnetars Solved Half the Mystery"
+      },
+      "hook": {
+        "ko": "마그네타가 FRB를 만들 수 있다는 증거는 나왔다. 하지만 FRB 전체가 하나의 원천·하나의 메커니즘인지는 아직 닫히지 않았다.",
+        "en": "We now know magnetars can make FRB-like bursts. We do not yet know whether the entire FRB population shares one source class or one mechanism."
+      },
+      "aliases": [
+        "FRB",
+        "빠른 전파폭발",
+        "FRB",
+        "Lorimer burst",
+        "FRB",
+        "fast radio burst",
+        "Lorimer burst",
+        "FRB 121102",
+        "FRB 200428",
+        "SGR 1935+2154"
+      ],
+      "genre": "Science / Space",
+      "genres": [
+        "Radio Astronomy",
+        "Neutron Stars / Magnetars",
+        "Cosmology"
+      ],
+      "countries": [],
+      "regions": [
+        "Milky Way",
+        "Extragalactic"
+      ],
+      "era": "21st-century radio astronomy",
+      "resolution": "MAGNETAR_ORIGIN_DEMONSTRATED_FOR_AT_LEAST_SOME_FRBS_POPULATION_AND_DETAILED_EMISSION_MECHANISM_NOT_FULLY_RESOLVED",
+      "places": [
+        {
+          "name": "SGR 1935+2154",
+          "role": "Galactic magnetar source of FRB 200428"
+        },
+        {
+          "name": "FRB 121102 host region",
+          "role": "repeating extragalactic FRB source"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "2007",
+        "end": "2025",
+        "precision": "modern FRB discovery through latest listed CHIME public catalog"
+      },
+      "related": [
+        "bloop"
+      ],
+      "heroAssetId": "fast-radio-bursts-v01",
+      "heroFile": {
+        "ko": "fast-radio-bursts-v01__ko.png",
+        "en": "fast-radio-bursts-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "고주파가 먼저, 저주파가 늦게 도착하는 dispersion sweep 개념도와 DM 설명.",
+        "en": "Concept graphic of a dispersion sweep, with high frequencies arriving before low frequencies and an explanation of DM."
+      },
+      "heroAlt": {
+        "ko": "고주파가 먼저, 저주파가 늦게 도착하는 dispersion sweep 개념도와 DM 설명.",
+        "en": "Concept graphic of a dispersion sweep, with high frequencies arriving before low frequencies and an explanation of DM."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "SCIENCE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "STANDARD_STORY selected: discovery, repeating-source, magnetar, catalog and cosmological-probe evidence support a 9-block narrative without requiring speculative padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -5068,6 +5499,86 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "lake-nyos",
+      "title": {
+        "ko": "니오스 호수 가스 참사",
+        "en": "Lake Nyos Disaster"
+      },
+      "headline": {
+        "ko": "불도 연기도 없었다—호수에서 나온 보이지 않는 가스가 어떻게 1,700명 이상을 죽였나",
+        "en": "No Fire, No Smoke—How Did an Invisible Gas Cloud Kill More Than 1,700 People?"
+      },
+      "hook": {
+        "ko": "원인은 “독가스 공격”도 새 화산분화도 아니었다. 오랫동안 호수 깊은 곳에 녹아 있던 CO₂가 한꺼번에 빠져나왔다.",
+        "en": "It was neither a poison-gas attack nor a conventional volcanic eruption. CO₂ stored for years in deep lake water escaped catastrophically."
+      },
+      "aliases": [
+        "니오스 호수 참사",
+        "Lake Nyos 가스 참사",
+        "Lake Nyos gas disaster",
+        "Lake Nyos limnic eruption",
+        "Lake Nyos",
+        "Nyos gas disaster",
+        "limnic eruption"
+      ],
+      "genre": "Science / Nature",
+      "genres": [
+        "Geology / Volcanic Hazard",
+        "Disaster Science"
+      ],
+      "countries": [
+        "Cameroon"
+      ],
+      "regions": [
+        "Northwest Region"
+      ],
+      "era": "late 20th–21st century hazard science",
+      "resolution": "CO2_MECHANISM_ESTABLISHED_TRIGGER_PARTLY_UNCERTAIN_MITIGATION_IMPLEMENTED",
+      "places": [
+        {
+          "name": "Lake Nyos",
+          "role": "disaster site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1986-08-21",
+        "end": "2008",
+        "precision": "disaster through controlled-degassing monitoring literature"
+      },
+      "related": [],
+      "heroAssetId": "lake-nyos-v01",
+      "heroFile": {
+        "ko": "lake-nyos-v01__ko.png",
+        "en": "lake-nyos-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "magmatic CO₂ 공급 → 심층수 용해·축적 → 교란 → 감압·기포화 → 대량 방출.",
+        "en": "Magmatic CO₂ input → deep-water dissolution and accumulation → disturbance → decompression and bubbling → catastrophic release."
+      },
+      "heroAlt": {
+        "ko": "magmatic CO₂ 공급 → 심층수 용해·축적 → 교란 → 감압·기포화 → 대량 방출.",
+        "en": "Magmatic CO₂ input → deep-water dissolution and accumulation → disturbance → decompression and bubbling → catastrophic release."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "SCIENCE_DISASTER",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -7508,6 +8019,83 @@
       }
     },
     {
+      "canonicalId": "project-shamrock",
+      "title": {
+        "ko": "프로젝트 SHAMROCK",
+        "en": "Project SHAMROCK"
+      },
+      "headline": {
+        "ko": "국제전보 사본은 어떻게 30년 동안 비밀 정보수집 체계가 됐나",
+        "en": "How Did Copies of International Telegrams Become a Secret Intelligence Pipeline for Thirty Years?"
+      },
+      "hook": {
+        "ko": "SHAMROCK은 실재했다. 더 중요한 질문은 전시 검열이 어떻게 평시의 대량 통신수집 구조로 이어졌는가다.",
+        "en": "SHAMROCK was real. The deeper question is how wartime censorship became a peacetime system for large-scale communications collection."
+      },
+      "aliases": [
+        "샴록 프로젝트",
+        "NSA 샴록",
+        "Operation SHAMROCK",
+        "NSA SHAMROCK",
+        "Project SHAMROCK",
+        "Operation SHAMROCK",
+        "NSA SHAMROCK"
+      ],
+      "genre": "Intelligence / Secret Program / Conspiracy",
+      "genres": [
+        "Surveillance / Communications Intelligence",
+        "Civil Liberties / Oversight"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "United States / international cable networks"
+      ],
+      "era": "Cold War",
+      "resolution": "PROGRAM_DOCUMENTED_COLLECTION_AND_FILTERING_STRUCTURE_ESTABLISHED_TOTAL_HUMAN_READ_COUNT_AND_FULL_LEGAL_ADJUDICATION_NOT_ESTABLISHED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1945-08",
+        "end": "1975-05",
+        "precision": "documented SHAMROCK operating period"
+      },
+      "related": [
+        "project-minaret"
+      ],
+      "heroAssetId": "shamrock-v01",
+      "heroFile": {
+        "ko": "shamrock-v01__ko.png",
+        "en": "shamrock-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "전시 검열 → 1945 SHAMROCK 시작 → 1960년대 magnetic tape → 1975 종료·의회조사.",
+        "en": "Wartime censorship → 1945 SHAMROCK start → 1960s magnetic tape → 1975 termination and congressional investigation."
+      },
+      "heroAlt": {
+        "ko": "전시 검열 → 1945 SHAMROCK 시작 → 1960년대 magnetic tape → 1975 종료·의회조사.",
+        "en": "Wartime censorship → 1945 SHAMROCK start → 1960s magnetic tape → 1975 termination and congressional investigation."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "STANDARD_STORY selected: congressional and NSA records support a multi-layer operational history; legal conclusions are attributed rather than independently adjudicated.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "project-stargate",
       "title": {
         "ko": "프로젝트 스타게이트",
@@ -8566,6 +9154,95 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "siberian-gas-craters",
+      "title": {
+        "ko": "시베리아 영구동토 가스 분화구",
+        "en": "Siberian Permafrost Gas Craters"
+      },
+      "headline": {
+        "ko": "야말의 거대한 구멍은 왜 폭발했나—영구동토 아래 가스압과 아직 미완성인 메커니즘",
+        "en": "Why Did Giant Craters Explode in Yamal? Gas Pressure Beneath Permafrost and an Unfinished Mechanism"
+      },
+      "hook": {
+        "ko": "분화구는 실제 가스 폭발의 흔적이다. 다만 ‘메탄이 터졌다’ 이후의 세부 과정은 현장마다 여전히 연구 중이다.",
+        "en": "The craters are real traces of explosive gas release. The detailed pathway after 'gas built up' remains site-dependent and actively studied."
+      },
+      "aliases": [
+        "야말 가스 분화구",
+        "영구동토 폭발 분화구",
+        "Yamal gas craters",
+        "permafrost explosion craters",
+        "Yamal craters",
+        "Siberian gas craters",
+        "permafrost explosion craters",
+        "gas emission craters"
+      ],
+      "genre": "Science / Nature",
+      "genres": [
+        "Permafrost / Geology",
+        "Climate / Cryosphere"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "regions": [
+        "Yamal Peninsula",
+        "Gydan Peninsula",
+        "Western Siberia"
+      ],
+      "era": "21st-century Arctic permafrost research",
+      "resolution": "GAS_OVERPRESSURE_STRONGLY_SUPPORTED_SITE_SPECIFIC_MECHANISMS_AND_FUTURE_FREQUENCY_NOT_FULLY_RESOLVED",
+      "places": [
+        {
+          "name": "Yamal Peninsula",
+          "role": "major gas-emission crater region"
+        },
+        {
+          "name": "Seyakha",
+          "role": "2017 gas blowout crater area"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "2014",
+        "end": "2024",
+        "precision": "modern discovery and mechanism-research period"
+      },
+      "related": [
+        "siberian-methane-craters"
+      ],
+      "heroAssetId": "siberian-gas-craters-v01",
+      "heroFile": {
+        "ko": "siberian-gas-craters-v01__ko.png",
+        "en": "siberian-gas-craters-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "지표 mound → frozen cap → talik/cryopeg → gas/overpressure → rupture의 개념 단면도.",
+        "en": "Concept cross-section: surface mound → frozen cap → talik/cryopeg → gas/overpressure → rupture."
+      },
+      "heroAlt": {
+        "ko": "지표 mound → frozen cap → talik/cryopeg → gas/overpressure → rupture의 개념 단면도.",
+        "en": "Concept cross-section: surface mound → frozen cap → talik/cryopeg → gas/overpressure → rupture."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "SCIENCE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "STANDARD_STORY retained from recovered scaffold; multiple peer-reviewed mechanism papers support 8 evidence-dense narrative blocks plus a fact boundary.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9962,6 +10639,92 @@
       }
     },
     {
+      "canonicalId": "venus-phosphine",
+      "title": {
+        "ko": "금성 포스핀 논쟁",
+        "en": "Venus Phosphine Debate"
+      },
+      "headline": {
+        "ko": "금성에서 생명의 흔적을 봤다는 뉴스는 맞았을까—2026년에도 끝나지 않은 PH₃ 논쟁",
+        "en": "Did We See a Sign of Life on Venus? The PH₃ Debate Is Still Open in 2026"
+      },
+      "hook": {
+        "ko": "2020년 신호는 실제 과학논문에서 나왔다. 하지만 그 다음 6년은 “검출 자체”를 둘러싼 재분석과 non-detection의 역사였다.",
+        "en": "The 2020 signal came from real peer-reviewed work. The next six years became a dispute over whether the detection itself is robust before biology can even be discussed."
+      },
+      "aliases": [
+        "금성 포스핀",
+        "금성 PH3",
+        "Venus phosphine",
+        "PH3 on Venus",
+        "Venus phosphine",
+        "PH3 Venus",
+        "Greaves phosphine",
+        "SOFIA Venus"
+      ],
+      "genre": "Science / Space",
+      "genres": [
+        "Astrobiology",
+        "Planetary Atmospheres"
+      ],
+      "countries": [],
+      "regions": [
+        "Venus atmosphere"
+      ],
+      "era": "modern planetary science",
+      "resolution": "DETECTION_CONTESTED_LIFE_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "Venus",
+          "role": "planetary atmosphere"
+        }
+      ],
+      "people": [
+        {
+          "name": "Jane Greaves",
+          "role": "lead author of original detection report"
+        }
+      ],
+      "dateRange": {
+        "start": "2020-09-14",
+        "end": "2026-01-20",
+        "precision": "original publication through cited 2026 proceedings"
+      },
+      "related": [
+        "k2-18b-biosignature"
+      ],
+      "heroAssetId": "venus-phosphine-v01",
+      "heroFile": {
+        "ko": "venus-phosphine-v01__ko.png",
+        "en": "venus-phosphine-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "2020 detection report → 2021 independent reanalyses/reply → 2022 SOFIA limit → 2024 review → 2026 ongoing debate.",
+        "en": "2020 detection report → 2021 independent reanalyses/reply → 2022 SOFIA limit → 2024 review → 2026 ongoing debate."
+      },
+      "heroAlt": {
+        "ko": "2020 detection report → 2021 independent reanalyses/reply → 2022 SOFIA limit → 2024 review → 2026 ongoing debate.",
+        "en": "2020 detection report → 2021 independent reanalyses/reply → 2022 SOFIA limit → 2024 review → 2026 ongoing debate."
+      },
+      "readMinutes": {
+        "ko": 6,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "SCIENCE_DEBATE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "viking-sunstone",
       "title": {
         "ko": "바이킹의 태양석",
@@ -10114,6 +10877,92 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "COMPACT_FILE selected: verified material supports a dense unsolved-crime file; no padding added simply to reach 3,000 Korean characters."
+      }
+    },
+    {
+      "canonicalId": "washington-1952",
+      "title": {
+        "ko": "1952 워싱턴 D.C. UFO 소동",
+        "en": "1952 Washington, D.C. UFO Incidents"
+      },
+      "headline": {
+        "ko": "수도 상공의 레이더 표적은 무엇이었나—1952년 워싱턴 두 주말의 기록과 남은 경계",
+        "en": "What Were the Radar Targets Over Washington? The Two Weekends of 1952 and the Limits of the Evidence"
+      },
+      "hook": {
+        "ko": "레이더 블립과 요격 출동은 실제 기록이다. 그러나 ‘미확인’이라는 단어가 곧 외계 비행체를 뜻하는 것은 아니다.",
+        "en": "The radar returns and interceptor scrambles are documented. But 'unidentified' is not another word for 'extraterrestrial.'"
+      },
+      "aliases": [
+        "워싱턴 UFO 소동",
+        "1952 워싱턴 UFO",
+        "Washington UFO flap",
+        "Washington National UFO incident",
+        "Washington UFO flap",
+        "Washington National UFO 1952",
+        "1952 Washington flying saucers"
+      ],
+      "genre": "UFO / UAP / Aerial Anomaly",
+      "genres": [
+        "Cold War / Air Defense",
+        "Radar / Atmospheric Propagation"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Washington, D.C. metropolitan area"
+      ],
+      "era": "Early Cold War",
+      "resolution": "RADAR_INCIDENTS_DOCUMENTED_ANOMALOUS_PROPAGATION_LEADING_EXPLANATION_EXTRATERRESTRIAL_IDENTITY_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "Washington National Airport",
+          "role": "radar observation site"
+        },
+        {
+          "name": "Andrews Air Force Base",
+          "role": "radar / interceptor context"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1952-07-19",
+        "end": "1952-07-29",
+        "precision": "core Washington incident and public response"
+      },
+      "related": [
+        "area-51"
+      ],
+      "heroAssetId": "washington-1952-v01",
+      "heroFile": {
+        "ko": "washington-1952-v01__ko.png",
+        "en": "washington-1952-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "7월 19~20일 첫 레이더 보고 → 26~27일 재발 → 요격 출동 → 조사·공식 설명.",
+        "en": "July 19–20 radar reports → July 26–27 recurrence → interceptor scramble → investigation and official explanation."
+      },
+      "heroAlt": {
+        "ko": "7월 19~20일 첫 레이더 보고 → 26~27일 재발 → 요격 출동 → 조사·공식 설명.",
+        "en": "July 19–20 radar reports → July 26–27 recurrence → interceptor scramble → investigation and official explanation."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "UAP_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Tier selected to match source density; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {

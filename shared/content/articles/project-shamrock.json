@@ -1,0 +1,510 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-shamrock",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "프로젝트 SHAMROCK",
+    "canonicalTitleEn": "Project SHAMROCK",
+    "aliasesKo": [
+      "샴록 프로젝트",
+      "NSA 샴록"
+    ],
+    "aliasesEn": [
+      "Operation SHAMROCK",
+      "NSA SHAMROCK"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "STANDARD_STORY selected: congressional and NSA records support a multi-layer operational history; legal conclusions are attributed rather than independently adjudicated.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "국제전보 사본은 어떻게 30년 동안 비밀 정보수집 체계가 됐나",
+      "hook": "SHAMROCK은 실재했다. 더 중요한 질문은 전시 검열이 어떻게 평시의 대량 통신수집 구조로 이어졌는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "SHAMROCK은 도시전설이 아니라 장기간 운영된 실제 통신정보 프로그램이었다",
+          "headingEn": "SHAMROCK Was a Real Long-Running Communications-Intelligence Program, Not an Urban Legend",
+          "textKo": "Project SHAMROCK은 미국 정보기관이 국제 전보·케이블 traffic의 사본에 접근한 실제 프로그램이었다. 상원 Church Committee 자료는 프로그램의 핵심 기간을 1945년 8월부터 1975년 5월까지로 정리한다. RCA Global과 ITT World Communications는 국제 메시지 traffic의 광범위한 사본을 제공했고, Western Union International도 일정 기간 특정 해외 traffic을 제공했다. 이 프로그램을 둘러싼 미스터리는 ‘존재했는가’가 아니다. 공개된 기록은 존재와 운영을 확인한다. 더 어려운 질문은 전시 검열 관행이 평시 정보수집으로 어떻게 이어졌고, 방대한 원자료 가운데 무엇이 실제 분석대상으로 선별됐는지다.",
+          "textEn": "Project SHAMROCK was a real intelligence program through which U.S. agencies obtained copies of international telegram and cable traffic. Church Committee material places its core run from August 1945 to May 1975. RCA Global and ITT World Communications provided broad streams of international message traffic, while Western Union International supplied certain foreign traffic for part of the period. The mystery is not whether the program existed; the released record establishes that. The harder questions are how wartime censorship practices became peacetime intelligence collection and how the government selected information from a much larger stream of copied traffic."
+        },
+        {
+          "blockId": "wartime-02",
+          "type": "BACKGROUND",
+          "headingKo": "출발점은 두 차례 세계대전의 검열 관행이었다",
+          "headingEn": "Its Roots Lay in Wartime Censorship Practices",
+          "textKo": "NSA가 공개한 기관 역사자료는 SHAMROCK의 배경을 전시 검열에 둔다. 세계대전 동안 통신회사들은 국제 전보 사본을 정부에 제공하도록 요구받았고, 제2차 세계대전 종전 뒤 정보기관은 이 접근을 계속 유지하려 했다. 평시가 되자 법적 근거에 대한 불안도 커졌다. NSA 역사자료는 회사 관계자들이 1934년 Communications Act와의 충돌 가능성을 우려했고 법률상 보호를 원했다고 설명한다. 이 대목은 프로그램을 단순히 ‘전쟁 중 긴급조치가 그대로 남았다’고만 표현하기보다, 평시로 넘어가는 과정에서 합법성·권한·비밀유지 문제가 실제 내부 쟁점이었다는 점을 보여준다.",
+          "textEn": "Official NSA history traces SHAMROCK to wartime censorship. During the world wars, communications companies had been required to provide copies of international telegrams to the government. After World War II, intelligence agencies sought to preserve access to international cable traffic. Peacetime raised different legal concerns. NSA historical material records that company officials worried about possible conflict with communications law and sought legal protection. The transition is therefore more complicated than simply saying an emergency wartime measure continued unchanged: legality, authority, corporate cooperation, and secrecy became explicit internal issues."
+        },
+        {
+          "blockId": "companies-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "세 통신회사를 통해 원자료가 들어왔고 전달 형식은 기술 변화에 따라 바뀌었다",
+          "headingEn": "Traffic Arrived Through Three Companies, and the Delivery Technology Changed Over Time",
+          "textKo": "Church Committee 기록에 따르면 RCA Global과 ITT World Communications는 사실상 대부분의 국제 message traffic 사본을 NSA에 제공했고, Western Union International은 1945~1972년 특정 foreign traffic을 제공했다. 초기에는 microfilm이나 paper tape 형태의 사본이 들어왔고 사람이 분류했다. 1960년대 통신회사가 magnetic tape로 전환하면서 NSA도 복제 테이프를 받아 전자적으로 선별할 수 있게 됐다. 중요한 구분은 ‘회사에서 NSA로 넘어간 원자료의 규모’와 ‘분석관이 실제로 선택·검토한 메시지 수’가 같지 않다는 점이다. 두 숫자를 섞으면 프로그램의 범위를 정확히 이해하기 어렵다.",
+          "textEn": "Church Committee records state that RCA Global and ITT World Communications supplied copies covering virtually all of their international message traffic, while Western Union International supplied certain foreign traffic from 1945 until 1972. Early material arrived on microfilm or paper tape and was manually sorted. As companies moved to magnetic tape in the 1960s, NSA could copy the tapes and use electronic sorting. A crucial distinction follows: the volume of raw traffic made available to the agency was not the same as the number of messages analysts actually selected and reviewed. Conflating those figures obscures the program's real scale."
+        },
+        {
+          "blockId": "scale-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "말기에는 월 약 15만 건이 분석대상으로 선별됐지만 30년 전체의 ‘실제 읽은 수’는 남아 있지 않다",
+          "headingEn": "About 150,000 Messages a Month Were Selected Near the End, but No Total Exists for the Entire Thirty Years",
+          "textKo": "상원 자료가 인용한 NSA 추정에 따르면 SHAMROCK 말기의 2~3년 동안 분석관이 검토 대상으로 선별한 전보는 월 약 150,660건에 이르렀다. 이 수치는 프로그램이 소규모 표적수집을 넘어 매우 큰 규모의 통신선별 체계였음을 보여준다. 그러나 같은 자료는 30년 전체에 걸쳐 실제로 인간이 읽은 전보의 총수는 알 수 없다고 명시한다. 따라서 ‘수십 년 동안 모든 국제전보를 사람이 읽었다’고 표현하는 것도, 반대로 ‘몇몇 표적만 봤다’고 축소하는 것도 정확하지 않다. 원자료 접근, 기계적 선별, 인간 검토를 단계별로 분리해야 한다.",
+          "textEn": "Senate material citing NSA estimates says that during the final two or three years of SHAMROCK, analysts selected roughly 150,660 telegrams per month for review. That number demonstrates a collection and filtering system operating at very large scale. Yet the same record says the total number of telegrams actually read by people over the full thirty-year period is unavailable. It would therefore be inaccurate to say that every international telegram was personally read, just as it would be misleading to reduce the program to a handful of narrowly targeted messages. Raw access, machine or manual selection, and human review must be separated."
+        },
+        {
+          "blockId": "watchlists-05",
+          "type": "BACKGROUND",
+          "headingKo": "대량의 cable traffic과 특정 이름을 찾는 watch-list 체계는 같은 것이 아니지만 연결돼 있었다",
+          "headingEn": "Bulk Cable Access and Watch-List Targeting Were Different Layers, but They Intersected",
+          "textKo": "SHAMROCK은 통신 원자료를 제공하는 상류의 수집경로였고, MINARET 같은 watch-list 활동은 그 가운데 특정 이름·조직과 관련된 communications를 찾고 보고하는 하류의 선별체계와 연결됐다. Church Committee 자료는 magnetic tape와 전자선별이 가능해지면서 미국 시민이 포함된 watch list 관련 메시지도 골라낼 수 있었다고 설명한다. 그렇다고 SHAMROCK과 MINARET를 하나의 동일 프로그램으로 부르면 안 된다. 프로그램명과 기능은 구분돼 있었고, 역사적으로는 서로 다른 단계가 맞물린 구조로 보는 것이 정확하다.",
+          "textEn": "SHAMROCK functioned as an upstream source of communications traffic, while watch-list activity such as MINARET operated as a downstream mechanism for identifying and reporting communications associated with selected names or organizations. Church Committee material explains that magnetic-tape processing made it possible to select messages connected to watch-listed Americans. But SHAMROCK and MINARET should not be collapsed into one identical program. They had different names and functions; historically, it is more accurate to understand them as distinct layers that could intersect."
+        },
+        {
+          "blockId": "legal-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘불법이었다’는 한 문장보다 당시의 법적 논쟁이 무엇이었는지를 구분해야 한다",
+          "headingEn": "The Legal History Is Better Described by the Dispute Than by a One-Line Verdict",
+          "textKo": "Church Committee와 후속 의회자료는 SHAMROCK을 심각한 사생활·헌법 문제로 다뤘고, 참여 통신회사 내부에서도 법적 근거에 대한 우려가 있었다. 그러나 후속 상원 자료는 회사에 대한 고위급 보증이 통신법상 ‘lawful authority’ 요건을 충족했는지 여부가 사법부에서 최종 판단된 적은 없다고 설명한다. 따라서 이 기사에서는 의회 조사자들의 평가와 당시 관계자들의 법적 우려를 그대로 귀속해 설명하되, 별도의 법원판결 없이 ‘모든 행위가 법원에서 위헌·불법으로 확정됐다’고 단정하지 않는다. 이 구분이 정치적·법적 기록을 정확하게 다루는 핵심이다.",
+          "textEn": "The Church Committee and later congressional material treated SHAMROCK as raising serious privacy and constitutional issues, and participating companies themselves expressed concern about the legal basis for cooperation. Later Senate material also notes that whether high-level government assurances satisfied the relevant statutory concept of 'lawful authority' was never conclusively resolved by a judicial determination. This article therefore attributes constitutional and legal judgments to the congressional investigations and historical participants. It does not convert those assessments into a claim that every act in the program was separately adjudicated unlawful by a court."
+        },
+        {
+          "blockId": "exposure-07",
+          "type": "TURNING_POINT",
+          "headingKo": "1975년 의회조사로 프로그램의 구조가 공개되고 정보기관 감독 방식도 바뀌었다",
+          "headingEn": "Congressional Investigation in 1975 Exposed the Structure and Changed Oversight",
+          "textKo": "1975년 Church Committee 조사는 이전까지 대중에게 알려지지 않았던 SHAMROCK과 MINARET를 공개적으로 다뤘다. 상원 역사자료는 이 조사 과정에서 NSA를 포함한 여러 정보기관의 국내·국제 통신감시 관행이 집중 검토됐다고 설명한다. 프로그램 공개 자체는 정보기관 감독의 제도화 논의와 맞물렸고, 이후 상·하원 정보위원회와 외국정보감시법(FISA) 체계가 등장하는 더 큰 역사적 흐름의 일부가 됐다. 다만 FISA 같은 후속 제도를 ‘SHAMROCK 하나 때문에 생겼다’고 단순화하기보다는, 1970년대 여러 정보기관 활동에 대한 광범위한 조사와 개혁의 일부로 보는 것이 정확하다.",
+          "textEn": "The 1975 Church Committee investigation brought SHAMROCK and MINARET into public view as part of a broader inquiry into intelligence activities. Senate historical material describes the committee's examination of surveillance practices involving the NSA and other agencies. Disclosure fed into a larger institutional debate over intelligence oversight, followed by permanent congressional intelligence committees and, later, the Foreign Intelligence Surveillance Act framework. It would be too simple to say that FISA or the entire oversight system arose from SHAMROCK alone; the reforms emerged from a much broader set of investigations into intelligence practices in the 1970s."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "SHAMROCK의 핵심은 ‘비밀 프로그램’보다 수집과 선별의 경계를 어떻게 감독할 것인가에 있다",
+          "headingEn": "The Lasting Issue Is Not Secrecy Alone, but How Collection and Selection Are Governed",
+          "textKo": "SHAMROCK이 오늘날에도 중요한 이유는 통신기술이 달라졌어도 ‘대량의 원자료에 접근하는 것’과 ‘특정인의 통신을 실제 분석·배포하는 것’ 사이의 경계를 어떻게 정의할지라는 문제가 남아 있기 때문이다. 역사자료는 원자료 전달, 자동 또는 수동 선별, watch list, 분석관 검토, 다른 기관으로의 정보 전달이 서로 다른 단계였음을 보여준다. 당시의 기술을 현재 인터넷 감시와 그대로 동일시하는 것은 부정확하지만, 제도설계 관점에서는 수집범위·선별기준·감독권한을 분리해서 보는 훈련을 제공한다. Mystery Atlas에서의 결론도 찬반 평가가 아니라 이 구조를 증거에 따라 복원하는 데 있다.",
+          "textEn": "SHAMROCK remains historically important because communications technology has changed while the distinction between access to a large body of raw data and actual analysis or dissemination of a particular person's communication remains fundamental. The record shows different stages: raw delivery, automated or manual filtering, watch lists, analyst review, and dissemination to other agencies. It would be inaccurate to equate 1940s–1970s cable collection directly with modern internet surveillance, but institutionally the case shows why collection scope, selection criteria, and oversight authority need to be examined separately. The purpose here is to reconstruct that structure from evidence, not to supply a partisan verdict."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project SHAMROCK은 1945년 8월부터 1975년 5월까지 이어진 실제 NSA 관련 프로그램으로, 주요 국제 통신회사가 국제 전보 traffic의 광범위한 사본을 제공했다. 말기에는 NSA가 월 약 150,660건을 분석대상으로 선별했다는 추정이 상원 자료에 남아 있고, Church Committee는 SHAMROCK과 MINARET를 공개 조사했다. 참여 회사와 정부 내부에는 평시 법적 근거에 대한 우려와 논쟁도 기록돼 있다.\n\n확인되지 않음: 30년 동안 실제로 인간이 읽은 모든 전보의 총수는 알려져 있지 않다. SHAMROCK과 MINARET는 같은 프로그램이 아니며, 프로그램의 모든 행위가 개별 법원판결을 통해 하나씩 위법·위헌으로 확정됐다고 말할 수도 없다.",
+          "textEn": "Established: Project SHAMROCK was a real NSA-related program running from August 1945 to May 1975 in which major international communications companies supplied broad streams of international telegram traffic. Senate material records an NSA estimate of roughly 150,660 messages per month selected for review in the final years, and the Church Committee publicly investigated SHAMROCK and MINARET. Legal concerns about peacetime authority were documented within both companies and government.\n\nNot established: The total number of telegrams actually read by humans across the full thirty years is not known. SHAMROCK and MINARET were not the same program, and the record does not support saying that every action in SHAMROCK was individually adjudicated unlawful or unconstitutional by a court."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project SHAMROCK은 1945년 8월부터 1975년 5월까지 이어진 실제 NSA 관련 프로그램으로, 주요 국제 통신회사가 국제 전보 traffic의 광범위한 사본을 제공했다. 말기에는 NSA가 월 약 150,660건을 분석대상으로 선별했다는 추정이 상원 자료에 남아 있고, Church Committee는 SHAMROCK과 MINARET를 공개 조사했다. 참여 회사와 정부 내부에는 평시 법적 근거에 대한 우려와 논쟁도 기록돼 있다.",
+        "notEstablished": "확인되지 않음: 30년 동안 실제로 인간이 읽은 모든 전보의 총수는 알려져 있지 않다. SHAMROCK과 MINARET는 같은 프로그램이 아니며, 프로그램의 모든 행위가 개별 법원판결을 통해 하나씩 위법·위헌으로 확정됐다고 말할 수도 없다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "wartime-02",
+        "companies-03",
+        "scale-04",
+        "watchlists-05",
+        "legal-06",
+        "exposure-07",
+        "meaning-08"
+      ]
+    },
+    "en": {
+      "headline": "How Did Copies of International Telegrams Become a Secret Intelligence Pipeline for Thirty Years?",
+      "hook": "SHAMROCK was real. The deeper question is how wartime censorship became a peacetime system for large-scale communications collection.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "SHAMROCK은 도시전설이 아니라 장기간 운영된 실제 통신정보 프로그램이었다",
+          "headingEn": "SHAMROCK Was a Real Long-Running Communications-Intelligence Program, Not an Urban Legend",
+          "textKo": "Project SHAMROCK은 미국 정보기관이 국제 전보·케이블 traffic의 사본에 접근한 실제 프로그램이었다. 상원 Church Committee 자료는 프로그램의 핵심 기간을 1945년 8월부터 1975년 5월까지로 정리한다. RCA Global과 ITT World Communications는 국제 메시지 traffic의 광범위한 사본을 제공했고, Western Union International도 일정 기간 특정 해외 traffic을 제공했다. 이 프로그램을 둘러싼 미스터리는 ‘존재했는가’가 아니다. 공개된 기록은 존재와 운영을 확인한다. 더 어려운 질문은 전시 검열 관행이 평시 정보수집으로 어떻게 이어졌고, 방대한 원자료 가운데 무엇이 실제 분석대상으로 선별됐는지다.",
+          "textEn": "Project SHAMROCK was a real intelligence program through which U.S. agencies obtained copies of international telegram and cable traffic. Church Committee material places its core run from August 1945 to May 1975. RCA Global and ITT World Communications provided broad streams of international message traffic, while Western Union International supplied certain foreign traffic for part of the period. The mystery is not whether the program existed; the released record establishes that. The harder questions are how wartime censorship practices became peacetime intelligence collection and how the government selected information from a much larger stream of copied traffic."
+        },
+        {
+          "blockId": "wartime-02",
+          "type": "BACKGROUND",
+          "headingKo": "출발점은 두 차례 세계대전의 검열 관행이었다",
+          "headingEn": "Its Roots Lay in Wartime Censorship Practices",
+          "textKo": "NSA가 공개한 기관 역사자료는 SHAMROCK의 배경을 전시 검열에 둔다. 세계대전 동안 통신회사들은 국제 전보 사본을 정부에 제공하도록 요구받았고, 제2차 세계대전 종전 뒤 정보기관은 이 접근을 계속 유지하려 했다. 평시가 되자 법적 근거에 대한 불안도 커졌다. NSA 역사자료는 회사 관계자들이 1934년 Communications Act와의 충돌 가능성을 우려했고 법률상 보호를 원했다고 설명한다. 이 대목은 프로그램을 단순히 ‘전쟁 중 긴급조치가 그대로 남았다’고만 표현하기보다, 평시로 넘어가는 과정에서 합법성·권한·비밀유지 문제가 실제 내부 쟁점이었다는 점을 보여준다.",
+          "textEn": "Official NSA history traces SHAMROCK to wartime censorship. During the world wars, communications companies had been required to provide copies of international telegrams to the government. After World War II, intelligence agencies sought to preserve access to international cable traffic. Peacetime raised different legal concerns. NSA historical material records that company officials worried about possible conflict with communications law and sought legal protection. The transition is therefore more complicated than simply saying an emergency wartime measure continued unchanged: legality, authority, corporate cooperation, and secrecy became explicit internal issues."
+        },
+        {
+          "blockId": "companies-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "세 통신회사를 통해 원자료가 들어왔고 전달 형식은 기술 변화에 따라 바뀌었다",
+          "headingEn": "Traffic Arrived Through Three Companies, and the Delivery Technology Changed Over Time",
+          "textKo": "Church Committee 기록에 따르면 RCA Global과 ITT World Communications는 사실상 대부분의 국제 message traffic 사본을 NSA에 제공했고, Western Union International은 1945~1972년 특정 foreign traffic을 제공했다. 초기에는 microfilm이나 paper tape 형태의 사본이 들어왔고 사람이 분류했다. 1960년대 통신회사가 magnetic tape로 전환하면서 NSA도 복제 테이프를 받아 전자적으로 선별할 수 있게 됐다. 중요한 구분은 ‘회사에서 NSA로 넘어간 원자료의 규모’와 ‘분석관이 실제로 선택·검토한 메시지 수’가 같지 않다는 점이다. 두 숫자를 섞으면 프로그램의 범위를 정확히 이해하기 어렵다.",
+          "textEn": "Church Committee records state that RCA Global and ITT World Communications supplied copies covering virtually all of their international message traffic, while Western Union International supplied certain foreign traffic from 1945 until 1972. Early material arrived on microfilm or paper tape and was manually sorted. As companies moved to magnetic tape in the 1960s, NSA could copy the tapes and use electronic sorting. A crucial distinction follows: the volume of raw traffic made available to the agency was not the same as the number of messages analysts actually selected and reviewed. Conflating those figures obscures the program's real scale."
+        },
+        {
+          "blockId": "scale-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "말기에는 월 약 15만 건이 분석대상으로 선별됐지만 30년 전체의 ‘실제 읽은 수’는 남아 있지 않다",
+          "headingEn": "About 150,000 Messages a Month Were Selected Near the End, but No Total Exists for the Entire Thirty Years",
+          "textKo": "상원 자료가 인용한 NSA 추정에 따르면 SHAMROCK 말기의 2~3년 동안 분석관이 검토 대상으로 선별한 전보는 월 약 150,660건에 이르렀다. 이 수치는 프로그램이 소규모 표적수집을 넘어 매우 큰 규모의 통신선별 체계였음을 보여준다. 그러나 같은 자료는 30년 전체에 걸쳐 실제로 인간이 읽은 전보의 총수는 알 수 없다고 명시한다. 따라서 ‘수십 년 동안 모든 국제전보를 사람이 읽었다’고 표현하는 것도, 반대로 ‘몇몇 표적만 봤다’고 축소하는 것도 정확하지 않다. 원자료 접근, 기계적 선별, 인간 검토를 단계별로 분리해야 한다.",
+          "textEn": "Senate material citing NSA estimates says that during the final two or three years of SHAMROCK, analysts selected roughly 150,660 telegrams per month for review. That number demonstrates a collection and filtering system operating at very large scale. Yet the same record says the total number of telegrams actually read by people over the full thirty-year period is unavailable. It would therefore be inaccurate to say that every international telegram was personally read, just as it would be misleading to reduce the program to a handful of narrowly targeted messages. Raw access, machine or manual selection, and human review must be separated."
+        },
+        {
+          "blockId": "watchlists-05",
+          "type": "BACKGROUND",
+          "headingKo": "대량의 cable traffic과 특정 이름을 찾는 watch-list 체계는 같은 것이 아니지만 연결돼 있었다",
+          "headingEn": "Bulk Cable Access and Watch-List Targeting Were Different Layers, but They Intersected",
+          "textKo": "SHAMROCK은 통신 원자료를 제공하는 상류의 수집경로였고, MINARET 같은 watch-list 활동은 그 가운데 특정 이름·조직과 관련된 communications를 찾고 보고하는 하류의 선별체계와 연결됐다. Church Committee 자료는 magnetic tape와 전자선별이 가능해지면서 미국 시민이 포함된 watch list 관련 메시지도 골라낼 수 있었다고 설명한다. 그렇다고 SHAMROCK과 MINARET를 하나의 동일 프로그램으로 부르면 안 된다. 프로그램명과 기능은 구분돼 있었고, 역사적으로는 서로 다른 단계가 맞물린 구조로 보는 것이 정확하다.",
+          "textEn": "SHAMROCK functioned as an upstream source of communications traffic, while watch-list activity such as MINARET operated as a downstream mechanism for identifying and reporting communications associated with selected names or organizations. Church Committee material explains that magnetic-tape processing made it possible to select messages connected to watch-listed Americans. But SHAMROCK and MINARET should not be collapsed into one identical program. They had different names and functions; historically, it is more accurate to understand them as distinct layers that could intersect."
+        },
+        {
+          "blockId": "legal-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘불법이었다’는 한 문장보다 당시의 법적 논쟁이 무엇이었는지를 구분해야 한다",
+          "headingEn": "The Legal History Is Better Described by the Dispute Than by a One-Line Verdict",
+          "textKo": "Church Committee와 후속 의회자료는 SHAMROCK을 심각한 사생활·헌법 문제로 다뤘고, 참여 통신회사 내부에서도 법적 근거에 대한 우려가 있었다. 그러나 후속 상원 자료는 회사에 대한 고위급 보증이 통신법상 ‘lawful authority’ 요건을 충족했는지 여부가 사법부에서 최종 판단된 적은 없다고 설명한다. 따라서 이 기사에서는 의회 조사자들의 평가와 당시 관계자들의 법적 우려를 그대로 귀속해 설명하되, 별도의 법원판결 없이 ‘모든 행위가 법원에서 위헌·불법으로 확정됐다’고 단정하지 않는다. 이 구분이 정치적·법적 기록을 정확하게 다루는 핵심이다.",
+          "textEn": "The Church Committee and later congressional material treated SHAMROCK as raising serious privacy and constitutional issues, and participating companies themselves expressed concern about the legal basis for cooperation. Later Senate material also notes that whether high-level government assurances satisfied the relevant statutory concept of 'lawful authority' was never conclusively resolved by a judicial determination. This article therefore attributes constitutional and legal judgments to the congressional investigations and historical participants. It does not convert those assessments into a claim that every act in the program was separately adjudicated unlawful by a court."
+        },
+        {
+          "blockId": "exposure-07",
+          "type": "TURNING_POINT",
+          "headingKo": "1975년 의회조사로 프로그램의 구조가 공개되고 정보기관 감독 방식도 바뀌었다",
+          "headingEn": "Congressional Investigation in 1975 Exposed the Structure and Changed Oversight",
+          "textKo": "1975년 Church Committee 조사는 이전까지 대중에게 알려지지 않았던 SHAMROCK과 MINARET를 공개적으로 다뤘다. 상원 역사자료는 이 조사 과정에서 NSA를 포함한 여러 정보기관의 국내·국제 통신감시 관행이 집중 검토됐다고 설명한다. 프로그램 공개 자체는 정보기관 감독의 제도화 논의와 맞물렸고, 이후 상·하원 정보위원회와 외국정보감시법(FISA) 체계가 등장하는 더 큰 역사적 흐름의 일부가 됐다. 다만 FISA 같은 후속 제도를 ‘SHAMROCK 하나 때문에 생겼다’고 단순화하기보다는, 1970년대 여러 정보기관 활동에 대한 광범위한 조사와 개혁의 일부로 보는 것이 정확하다.",
+          "textEn": "The 1975 Church Committee investigation brought SHAMROCK and MINARET into public view as part of a broader inquiry into intelligence activities. Senate historical material describes the committee's examination of surveillance practices involving the NSA and other agencies. Disclosure fed into a larger institutional debate over intelligence oversight, followed by permanent congressional intelligence committees and, later, the Foreign Intelligence Surveillance Act framework. It would be too simple to say that FISA or the entire oversight system arose from SHAMROCK alone; the reforms emerged from a much broader set of investigations into intelligence practices in the 1970s."
+        },
+        {
+          "blockId": "meaning-08",
+          "type": "AFTERMATH",
+          "headingKo": "SHAMROCK의 핵심은 ‘비밀 프로그램’보다 수집과 선별의 경계를 어떻게 감독할 것인가에 있다",
+          "headingEn": "The Lasting Issue Is Not Secrecy Alone, but How Collection and Selection Are Governed",
+          "textKo": "SHAMROCK이 오늘날에도 중요한 이유는 통신기술이 달라졌어도 ‘대량의 원자료에 접근하는 것’과 ‘특정인의 통신을 실제 분석·배포하는 것’ 사이의 경계를 어떻게 정의할지라는 문제가 남아 있기 때문이다. 역사자료는 원자료 전달, 자동 또는 수동 선별, watch list, 분석관 검토, 다른 기관으로의 정보 전달이 서로 다른 단계였음을 보여준다. 당시의 기술을 현재 인터넷 감시와 그대로 동일시하는 것은 부정확하지만, 제도설계 관점에서는 수집범위·선별기준·감독권한을 분리해서 보는 훈련을 제공한다. Mystery Atlas에서의 결론도 찬반 평가가 아니라 이 구조를 증거에 따라 복원하는 데 있다.",
+          "textEn": "SHAMROCK remains historically important because communications technology has changed while the distinction between access to a large body of raw data and actual analysis or dissemination of a particular person's communication remains fundamental. The record shows different stages: raw delivery, automated or manual filtering, watch lists, analyst review, and dissemination to other agencies. It would be inaccurate to equate 1940s–1970s cable collection directly with modern internet surveillance, but institutionally the case shows why collection scope, selection criteria, and oversight authority need to be examined separately. The purpose here is to reconstruct that structure from evidence, not to supply a partisan verdict."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project SHAMROCK은 1945년 8월부터 1975년 5월까지 이어진 실제 NSA 관련 프로그램으로, 주요 국제 통신회사가 국제 전보 traffic의 광범위한 사본을 제공했다. 말기에는 NSA가 월 약 150,660건을 분석대상으로 선별했다는 추정이 상원 자료에 남아 있고, Church Committee는 SHAMROCK과 MINARET를 공개 조사했다. 참여 회사와 정부 내부에는 평시 법적 근거에 대한 우려와 논쟁도 기록돼 있다.\n\n확인되지 않음: 30년 동안 실제로 인간이 읽은 모든 전보의 총수는 알려져 있지 않다. SHAMROCK과 MINARET는 같은 프로그램이 아니며, 프로그램의 모든 행위가 개별 법원판결을 통해 하나씩 위법·위헌으로 확정됐다고 말할 수도 없다.",
+          "textEn": "Established: Project SHAMROCK was a real NSA-related program running from August 1945 to May 1975 in which major international communications companies supplied broad streams of international telegram traffic. Senate material records an NSA estimate of roughly 150,660 messages per month selected for review in the final years, and the Church Committee publicly investigated SHAMROCK and MINARET. Legal concerns about peacetime authority were documented within both companies and government.\n\nNot established: The total number of telegrams actually read by humans across the full thirty years is not known. SHAMROCK and MINARET were not the same program, and the record does not support saying that every action in SHAMROCK was individually adjudicated unlawful or unconstitutional by a court."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project SHAMROCK was a real NSA-related program running from August 1945 to May 1975 in which major international communications companies supplied broad streams of international telegram traffic. Senate material records an NSA estimate of roughly 150,660 messages per month selected for review in the final years, and the Church Committee publicly investigated SHAMROCK and MINARET. Legal concerns about peacetime authority were documented within both companies and government.",
+        "notEstablished": "Not established: The total number of telegrams actually read by humans across the full thirty years is not known. SHAMROCK and MINARET were not the same program, and the record does not support saying that every action in SHAMROCK was individually adjudicated unlawful or unconstitutional by a court."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "wartime-02",
+        "companies-03",
+        "scale-04",
+        "watchlists-05",
+        "legal-06",
+        "exposure-07",
+        "meaning-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SHA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "SHAMROCK은 1945년 8월부터 1975년 5월까지 운영된 실제 통신정보 프로그램이었다.",
+      "statementEn": "SHAMROCK was a real communications-intelligence program operating from August 1945 to May 1975.",
+      "sourceRefs": [
+        "CHURCH_SHAMROCK",
+        "NSA_INVESTIGATIONS"
+      ]
+    },
+    {
+      "claimId": "SHA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "RCA Global·ITT World Communications·Western Union International이 국제 traffic 사본 제공에 참여했다.",
+      "statementEn": "RCA Global, ITT World Communications, and Western Union International participated in supplying international traffic.",
+      "sourceRefs": [
+        "CHURCH_SHAMROCK"
+      ]
+    },
+    {
+      "claimId": "SHA-C3",
+      "status": "SUPPORTED",
+      "statementKo": "말기 2~3년 NSA 분석관이 월 약 150,660건을 검토대상으로 선별했다는 추정이 있다.",
+      "statementEn": "NSA estimated that analysts selected roughly 150,660 telegrams per month for review during the final two or three years.",
+      "sourceRefs": [
+        "CHURCH_SHAMROCK"
+      ]
+    },
+    {
+      "claimId": "SHA-C4",
+      "status": "CONFIRMED",
+      "statementKo": "Church Committee는 SHAMROCK과 MINARET를 공개적으로 조사·보고했다.",
+      "statementEn": "The Church Committee investigated and reported publicly on SHAMROCK and MINARET.",
+      "sourceRefs": [
+        "SENATE_CHURCH_HISTORY",
+        "CHURCH_SHAMROCK"
+      ]
+    },
+    {
+      "claimId": "SHA-C5",
+      "status": "SUPPORTED",
+      "statementKo": "참여 회사 관계자들은 평시 법적 근거에 우려를 표했고 법적 보호를 구했다.",
+      "statementEn": "Company officials expressed concern about peacetime legal authority and sought legal protection.",
+      "sourceRefs": [
+        "NSA_INVESTIGATIONS",
+        "SENATE_FISA_HISTORY"
+      ]
+    },
+    {
+      "claimId": "SHA-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "30년 동안 인간이 실제 읽은 모든 전보의 총수는 알려져 있지 않다.",
+      "statementEn": "The total number of telegrams actually read by humans over the full thirty years is not known.",
+      "sourceRefs": [
+        "CHURCH_SHAMROCK"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NSA_INVESTIGATIONS",
+      "title": "The Time of Investigations, Part 1",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/crypto-almanac-50th/time_of_investigations_part_1.pdf",
+      "sourceType": "US_GOVERNMENT_HISTORY",
+      "scope": "SHAMROCK wartime roots, cable-company cooperation, internal history and legal concerns"
+    },
+    {
+      "sourceId": "CHURCH_SHAMROCK",
+      "title": "Church Committee material on Project SHAMROCK",
+      "publisher": "U.S. Senate Select Committee on Intelligence archive",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/94intelligence_activities_V.pdf",
+      "sourceType": "US_CONGRESSIONAL_RECORD",
+      "scope": "companies, traffic handling, message scale, congressional findings"
+    },
+    {
+      "sourceId": "SENATE_CHURCH_HISTORY",
+      "title": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+      "publisher": "United States Senate Historical Office",
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm",
+      "sourceType": "US_SENATE_HISTORY",
+      "scope": "Church Committee history and identification of SHAMROCK/MINARET"
+    },
+    {
+      "sourceId": "SENATE_FISA_HISTORY",
+      "title": "Foreign Intelligence Surveillance Act of 1978 — historical materials",
+      "publisher": "U.S. Senate Select Committee on Intelligence archive",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/s1566.pdf",
+      "sourceType": "US_CONGRESSIONAL_RECORD",
+      "scope": "legal-authority debate and lack of conclusive judicial determination on company assurances"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "shamrock-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "CREATED",
+      "captionKo": "전시 검열 → 1945 SHAMROCK 시작 → 1960년대 magnetic tape → 1975 종료·의회조사.",
+      "captionEn": "Wartime censorship → 1945 SHAMROCK start → 1960s magnetic tape → 1975 termination and congressional investigation.",
+      "sourceRefs": [
+        "NSA_INVESTIGATIONS",
+        "CHURCH_SHAMROCK"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "shamrock-v01__ko.png",
+          "sha256": "45a2d0596d2d739d7540e936b211b2cbb403b58c1e381acd3838040c30477c9e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "shamrock-v01__en.png",
+          "sha256": "7cd3b13a806307c1ce5caf19db19d02cc642142d98db1b889b4a282c601437c5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "shamrock-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "CREATED",
+      "captionKo": "통신회사 원자료 → NSA 사본 → 선별 → watch-list 연계 → 분석·배포의 단계도.",
+      "captionEn": "Flow diagram: company traffic → NSA copies → filtering → watch-list intersection → analyst review/dissemination.",
+      "sourceRefs": [
+        "CHURCH_SHAMROCK"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "shamrock-v02__ko.png",
+          "sha256": "3af648e20ce32948be52a13b08869d0c365f9ec2a42fc9b793f63e891266feac",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "shamrock-v02__en.png",
+          "sha256": "dec6462e7cc311e2815308ae19887416add4921e1c9cbfaf5046177cee299096",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "shamrock-v03",
+      "role": "SCALE_CARD",
+      "kind": "PROJECT_ORIGINAL_DATA_CARD",
+      "status": "CREATED",
+      "captionKo": "‘원자료 제공량’과 ‘월 약 150,660건 선별’과 ‘실제 인간이 읽은 총수 미상’을 분리.",
+      "captionEn": "Separate raw traffic availability, roughly 150,660 monthly selections, and the unknown total actually read by humans.",
+      "sourceRefs": [
+        "CHURCH_SHAMROCK"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "shamrock-v03__ko.png",
+          "sha256": "f84702751a17d8b2f469790745490be76b0aae9968d803955fbcd74038acc7b9",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "shamrock-v03__en.png",
+          "sha256": "eb6af0d848bcdafbf8ccdc55ccaac99c676447fdd8b3e447c083b9b036f3b87d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "shamrock-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "문서로 확인된 운영사실 / 의회·회사 법적 우려 / 법원의 개별 최종판단 부재를 구분.",
+      "captionEn": "Separate documented operations, congressional/company legal concerns, and the absence of a case-by-case final court adjudication.",
+      "sourceRefs": [
+        "SENATE_FISA_HISTORY",
+        "SENATE_CHURCH_HISTORY"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "shamrock-v04__ko.png",
+          "sha256": "e54a978ac3f9e327c59dbe24827cecdd9223cb214b1e376f252e994124a46c31",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "shamrock-v04__en.png",
+          "sha256": "76a8031097161c0ce6666a1703120f171148ffa62004986ae33f6f06fa856260",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Surveillance / Communications Intelligence",
+      "Civil Liberties / Oversight"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "United States / international cable networks"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "National Security Agency",
+      "RCA Global",
+      "ITT World Communications",
+      "Western Union International",
+      "U.S. Senate Church Committee"
+    ],
+    "dateRange": {
+      "start": "1945-08",
+      "end": "1975-05",
+      "precision": "documented SHAMROCK operating period"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_DOCUMENTED_COLLECTION_AND_FILTERING_STRUCTURE_ESTABLISHED_TOTAL_HUMAN_READ_COUNT_AND_FULL_LEGAL_ADJUDICATION_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Project SHAMROCK",
+      "Operation SHAMROCK",
+      "NSA SHAMROCK"
+    ],
+    "relatedCases": [
+      "project-minaret"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3107,
+    "enBodyWords": 873,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

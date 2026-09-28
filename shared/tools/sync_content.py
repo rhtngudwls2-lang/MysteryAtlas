@@ -80,8 +80,13 @@ def validate(copy_web: bool) -> dict:
     issues: list[str] = []
     if not files or not visual_rows or len(visual_by_file) != len(visual_rows):
         issues.append(f'Invalid article / manifest count: {len(files)} articles, {len(visual_rows)} visual rows')
+    disk_images = {path.name for path in MEDIA.glob('*.png')}
+    for name in sorted(disk_images - set(visual_by_file)):
+        issues.append(f'Orphan image {name}')
+    paired_assets: dict[tuple[str, str], list[str]] = {}
     for row in visual_rows:
         name = row['fileName']
+        paired_assets.setdefault((row['caseId'], row['assetId']), []).append(row.get('locale', ''))
         path = MEDIA / name
         if not path.is_file():
             issues.append(f'Missing image {name}')
@@ -95,6 +100,9 @@ def validate(copy_web: bool) -> dict:
                 issues.append(f'Missing visual {field}: {name}')
         if row.get('rightsStatus') != 'PROJECT_ORIGINAL' or row.get('isDocumentaryEvidence'):
             issues.append(f'Unsupported visual rights/evidence status {name}')
+    for key, locales in paired_assets.items():
+        if sorted(locales) != ['en', 'ko']:
+            issues.append(f'Invalid KO/EN pair {key}')
 
     index = []
     seen = set()
@@ -134,6 +142,13 @@ def validate(copy_web: bool) -> dict:
         source_ids = {s.get('sourceId') for s in article.get('sources', [])}
         if not source_ids or len(source_ids) != len(article.get('sources', [])):
             issues.append(f'Duplicate or missing sources {key}')
+        article_assets = {image.get('assetId') for image in article.get('visuals', [])}
+        for row in visual_rows:
+            if row.get('caseId') == key and (
+                row.get('assetId') not in article_assets or not row.get('sourceRefs')
+                or not set(row['sourceRefs']).issubset(source_ids)
+            ):
+                issues.append(f'Orphan or broken visual sourceRefs {key}:{row.get("assetId")}')
         for source in article.get('sources', []):
             if not source.get('url') or not source.get('title') or not source.get('publisher'):
                 issues.append(f'Invalid source {key}:{source.get("sourceId")}')
@@ -143,7 +158,7 @@ def validate(copy_web: bool) -> dict:
             if not claim.get('sourceRefs') or not set(claim['sourceRefs']).issubset(source_ids):
                 issues.append(f'Invalid claim sources {key}:{claim.get("claimId")}')
         for image in article.get('visuals', []):
-            if any(not image.get(field) for field in ('assetId', 'role', 'captionKo', 'captionEn', 'altKo', 'altEn')) or image.get('rightsStatus') != 'PROJECT_ORIGINAL':
+            if any(not image.get(field) for field in ('assetId', 'role', 'captionKo', 'captionEn')) or image.get('rightsStatus') != 'PROJECT_ORIGINAL':
                 issues.append(f'Incomplete / unsupported visual {key}:{image.get("assetId")}')
             if not set(image.get('sourceRefs', [])).issubset(source_ids):
                 issues.append(f'Invalid image sources {key}:{image.get("assetId")}')
@@ -171,13 +186,16 @@ def validate(copy_web: bool) -> dict:
             'heroAssetId': hero['assetId'],
             'heroFile': {loc: hero['localizedFiles'][loc]['fileName'] for loc in ('ko', 'en')},
             'heroCaption': {loc: hero[f'caption{loc.capitalize()}'] for loc in ('ko', 'en')},
-            'heroAlt': {loc: hero[f'alt{loc.capitalize()}'] for loc in ('ko', 'en')},
+            'heroAlt': {loc: hero.get(f'alt{loc.capitalize()}') or hero[f'caption{loc.capitalize()}'] for loc in ('ko', 'en')},
             'readMinutes': {
                 'ko': max(1, (article['quality']['koBodyChars'] + 649) // 650),
                 'en': max(1, (article['quality']['enBodyWords'] + 199) // 200),
             },
             'publication': article['publication'],
         })
+    for case_id, asset_id in paired_assets:
+        if case_id not in seen:
+            issues.append(f'Orphan visual group {case_id}:{asset_id}')
     if issues:
         raise ValueError('Import validation failed:\n' + '\n'.join(issues[:80]))
     dump(CONTENT / 'index.json', {'schemaVersion': '1.0', 'sourcePack': manifest['sourcePack'], 'items': index})

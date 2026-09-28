@@ -1,0 +1,540 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "fast-radio-bursts",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "고속전파폭발",
+    "canonicalTitleEn": "Fast Radio Bursts",
+    "aliasesKo": [
+      "FRB",
+      "빠른 전파폭발"
+    ],
+    "aliasesEn": [
+      "FRB",
+      "Lorimer burst"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SCIENCE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "STANDARD_STORY selected: discovery, repeating-source, magnetar, catalog and cosmological-probe evidence support a 9-block narrative without requiring speculative padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "몇 밀리초짜리 전파폭발은 어디서 오는가—마그네타가 풀어낸 절반의 미스터리",
+      "hook": "마그네타가 FRB를 만들 수 있다는 증거는 나왔다. 하지만 FRB 전체가 하나의 원천·하나의 메커니즘인지는 아직 닫히지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "보관된 전파자료에서 5밀리초도 안 되는 강한 펄스 하나가 튀어나왔다",
+          "headingEn": "A Powerful Pulse Shorter Than Five Milliseconds Emerged From Archival Radio Data",
+          "textKo": "2007년 Lorimer 연구팀은 Parkes 망원경의 과거 펄서 탐사자료를 다시 분석하다 약 30 Jy에 이르는 매우 밝고 5밀리초보다 짧은 전파 펄스를 보고했다. 주파수가 낮을수록 도착이 늦어지는 강한 dispersion이 있었고, 당시 은하 내 자유전자 모델로는 관측된 지연을 모두 설명하기 어려웠다. 연구팀은 이 사건이 우리 은하 바깥에서 왔을 가능성이 높다고 해석했다. 이후 같은 종류의 천체현상이 반복 발견되면서 ‘fast radio burst’, FRB라는 독립 연구분야가 만들어졌다. 한 번의 이상 신호가 우주에서 매우 짧지만 엄청나게 밝은 전파폭발이 실제로 존재한다는 단서를 준 셈이다.",
+          "textEn": "In 2007, Lorimer and colleagues reported a remarkably bright radio pulse found while reanalyzing archival Parkes pulsar-survey data. The burst reached roughly 30 Jy, lasted less than five milliseconds, and showed strong frequency-dependent dispersion. Galactic free-electron models could not naturally account for the full delay, leading the authors to favor an extragalactic origin. Similar events were later found, creating the field now known as fast radio bursts, or FRBs. One anomalous archival signal became evidence that the universe produces extremely brief but extraordinarily luminous radio flashes."
+        },
+        {
+          "blockId": "dispersion-02",
+          "type": "BACKGROUND",
+          "headingKo": "전파의 도착시간 차이는 ‘잡음’이 아니라 신호가 지나온 전자기둥을 재는 자가 된다",
+          "headingEn": "The Frequency Delay Is Not Noise—It Measures the Electron Column Along the Path",
+          "textKo": "FRB의 낮은 주파수 성분은 높은 주파수 성분보다 늦게 도착한다. 차가운 플라스마에서 전파가 전파될 때 생기는 dispersion이며, 그 크기를 dispersion measure(DM)로 표현한다. DM에는 우리 은하, FRB가 속한 host galaxy, source 주변 물질, 그리고 은하간물질의 자유전자가 함께 기여한다. 그래서 FRB는 단순한 ‘미지의 폭발’이 아니라 우주에 퍼진 보이지 않는 물질을 재는 탐침이 된다. 하지만 DM 하나만으로 정확한 거리와 각 구간의 기여도를 완전히 분해할 수는 없다. host와 source 환경을 함께 모델링해야 우주론적 해석이 가능하다.",
+          "textEn": "Lower-frequency components of an FRB arrive later than higher-frequency ones because radio waves disperse while traveling through ionized plasma. The size of that delay is summarized by the dispersion measure, or DM. Contributions can come from the Milky Way, the burst's host galaxy, material near the source, and the intergalactic medium. FRBs are therefore not only mysterious explosions; they are also probes of otherwise difficult-to-measure ionized matter across the universe. But DM alone does not provide a perfectly decomposed distance measurement. Host-galaxy and local-source contributions must also be modeled."
+        },
+        {
+          "blockId": "repeaters-03",
+          "type": "TURNING_POINT",
+          "headingKo": "FRB 121102가 반복되면서 ‘한 번 터지고 사라지는 천체만 가능하다’는 가정이 무너졌다",
+          "headingEn": "FRB 121102 Repeated, Breaking the Assumption That Every Source Must Destroy Itself",
+          "textKo": "초기 FRB는 같은 위치에서 다시 잡히지 않아 초신성·중성자별 충돌처럼 한 번의 파괴적 사건이 원인일 수 있다는 추측이 강했다. 그러나 2016년 Nature 논문은 FRB 121102 방향에서 동일한 DM과 위치에 맞는 추가 burst 10개를 보고했다. source가 burst 뒤에도 살아남는다는 사실이 확인된 것이다. 이 발견은 FRB 전체가 하나의 cataclysmic population이라는 단순한 그림을 깨뜨렸다. 이후 반복원은 여러 개가 확인됐지만, 관측되지 않은 반복이 ‘진짜 단발’인지 단지 매우 낮은 반복률 또는 제한된 관측시간 때문인지 구분하는 문제는 여전히 남는다.",
+          "textEn": "Early FRBs were not seen again from the same positions, encouraging models involving destructive one-time events such as supernova-related catastrophes or compact-object mergers. In 2016, however, a Nature paper reported ten additional bursts from the direction of FRB 121102 with consistent position and dispersion measure. The source clearly survived its bursts. That discovery broke the simple picture in which every FRB source must be a one-time catastrophe. Many repeaters are now known, but an apparently non-repeating source may still repeat very rarely or outside limited observing windows, making true one-off populations difficult to establish."
+        },
+        {
+          "blockId": "magnetar-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2020년 우리 은하의 마그네타 SGR 1935+2154가 FRB급 전파폭발을 냈다",
+          "headingEn": "In 2020, the Galactic Magnetar SGR 1935+2154 Produced an FRB-Like Radio Burst",
+          "textKo": "2020년 4월 28일 전환점이 왔다. CHIME/FRB와 STARE2는 우리 은하의 마그네타 SGR 1935+2154 방향에서 매우 밝은 밀리초 전파폭발 FRB 200428을 잡았다. Nature에 실린 독립 결과들은 이 신호의 세기가 기존 은하계 마그네타 radio pulse보다 훨씬 컸고, 외부 은하에서 발생했다면 FRB로 분류될 수 있는 수준임을 보여줬다. 동시에 X-ray burst가 관측돼 같은 천체의 폭발활동과 전파신호가 연결됐다. 이것은 ‘마그네타가 FRB를 만들 수 있는가’라는 질문에 직접적인 관측 답을 제공했다.",
+          "textEn": "A major turning point arrived on April 28, 2020. CHIME/FRB and STARE2 detected an extremely bright millisecond radio event, FRB 200428, from the direction of the Galactic magnetar SGR 1935+2154. Independent Nature papers showed that the burst was vastly more energetic in radio than previously observed Galactic magnetar pulses and could look like an FRB if placed in a nearby external galaxy. An associated X-ray burst linked the radio event to explosive activity from the same object. This provided direct observational evidence that magnetars can produce FRB-like bursts."
+        },
+        {
+          "blockId": "notall-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘마그네타가 만들 수 있다’와 ‘모든 FRB는 같은 방식의 마그네타 폭발이다’는 다른 문장이다",
+          "headingEn": "'Magnetars Can Produce FRBs' Is Not the Same as 'Every FRB Uses One Magnetar Mechanism'",
+          "textKo": "FRB 200428 이후 마그네타는 FRB source의 가장 강력한 후보군 가운데 하나가 됐다. 그러나 CHIME 논문 자체도 SGR 1935+2154의 burst energy와 activity가 가장 밝고 활동적인 extragalactic FRB source들과 큰 차이를 보인다고 지적했다. 더 젊거나 더 강한 마그네타가 필요할 수 있고, source age·magnetic field·environment가 burst rate와 energy distribution을 바꿀 수 있다. 또한 같은 마그네타의 모든 X-ray flare가 FRB를 동반하지 않는다. 따라서 관측은 ‘가능성’을 넘어 실제 발생을 확인했지만, 전체 population의 세부 통일모형까지 확정한 것은 아니다.",
+          "textEn": "After FRB 200428, magnetars became one of the strongest source classes for FRBs. Yet the CHIME Nature paper itself emphasizes the large gap in energy and activity between SGR 1935+2154 and the brightest, most active extragalactic FRB sources. Younger or more energetic magnetars may be required, and source age, magnetic field, and environment may alter burst rates and energies. Nor does every X-ray flare from a magnetar produce an FRB. The observations move magnetars from speculation to demonstrated capability, but they do not establish one detailed universal model for the entire FRB population."
+        },
+        {
+          "blockId": "mechanisms-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "전파가 실제로 만들어지는 위치를 두고 마그네토스피어와 외부 충격파 모델이 경쟁한다",
+          "headingEn": "Magnetospheric and External-Shock Models Compete Over Where the Radio Emission Is Made",
+          "textKo": "source class가 마그네타라고 해도 coherent radio emission이 만들어지는 세부 물리는 별개의 문제다. 한 계열의 모델은 중성자별 가까운 magnetosphere에서 자기장 재결합과 plasma instability가 짧고 밝은 전파를 만든다고 본다. 다른 계열은 flare가 방출한 relativistic outflow가 주변 물질과 충돌해 shock를 만들고 synchrotron maser 같은 과정으로 radio burst가 나온다고 설명한다. FRB 200428의 radio-X-ray timing과 spectrum은 두 모델군을 시험하는 자료가 됐지만, 모든 source와 burst morphology를 하나의 세부 메커니즘으로 설명하는 합의는 아직 없다.",
+          "textEn": "Even if magnetars are a major source class, the detailed physics of coherent radio emission is a separate problem. One family of models places the emission close to the neutron star, where magnetic reconnection and plasma instabilities in the magnetosphere could create a short, bright radio pulse. Another invokes a relativistic outflow from a flare driving an external shock, with processes such as a synchrotron maser producing radio emission. The radio/X-ray timing and spectrum of FRB 200428 provide tests of these ideas, but there is still no single detailed mechanism accepted for every source and burst morphology."
+        },
+        {
+          "blockId": "catalogs-07",
+          "type": "BACKGROUND",
+          "headingKo": "CHIME의 대규모 카탈로그는 ‘희귀한 괴신호’를 통계학의 문제로 바꿨다",
+          "headingEn": "Large CHIME Catalogs Turned 'Rare Weird Signals' Into a Statistical Population",
+          "textKo": "하늘을 넓게 반복 관측하는 CHIME/FRB는 FRB 연구를 개별 사건 중심에서 population science로 옮겼다. 공개 포털에는 2021년 Catalog 1, 2023년 repeater catalog, 2024년 baseband catalog, 2025년 Catalog 2가 연결돼 있다. 수백·수천 개 수준으로 관측표본이 커지면 반복률, 폭, spectrum, scattering, polarization, host environment 같은 분포를 비교할 수 있다. 특히 반복원과 비반복원 후보가 정말 두 개의 물리 population인지, 하나의 연속분포에서 관측편향이 만든 구분인지 통계적으로 시험할 수 있다. 다만 카탈로그는 망원경 감도와 관측주파수, sky coverage라는 selection effect를 함께 가진다.",
+          "textEn": "The wide-field, repeated observing strategy of CHIME/FRB moved the field from isolated events toward population science. Its public portal links Catalog 1 from 2021, a repeater catalog from 2023, a baseband catalog from 2024, and Catalog 2 from 2025. Large samples allow researchers to compare repetition rates, widths, spectra, scattering, polarization, and host environments. They can test whether repeating and apparently non-repeating sources represent distinct physical populations or a continuum distorted by observing bias. But every catalog also carries selection effects from telescope sensitivity, observing frequency, cadence, and sky coverage."
+        },
+        {
+          "blockId": "cosmology-08",
+          "type": "AFTERMATH",
+          "headingKo": "원인을 찾는 동시에 FRB는 우주의 ‘잃어버린 보통물질’을 재는 도구가 됐다",
+          "headingEn": "While Their Engines Are Studied, FRBs Have Become Tools for Measuring the Universe",
+          "textKo": "FRB의 큰 DM은 source physics와 별개로 우주론적 정보를 담는다. host galaxy의 redshift를 알 수 있는 localized FRB가 늘면서, 관측된 dispersion 가운데 은하간공간의 자유전자가 기여하는 몫을 통계적으로 추정할 수 있다. 이는 빛을 내지 않아 직접 세기 어려운 baryonic matter의 분포를 추적하는 한 방법이다. polarization과 Faraday rotation은 source와 경로의 magnetic field 정보도 준다. 아이러니하게도 FRB는 ‘정체를 모르는 신호’에서 출발했지만, 그 정체를 완전히 해결하기 전에 이미 우주의 물질·자기장을 재는 측정도구로 쓰이고 있다.",
+          "textEn": "The large dispersion measures of FRBs carry cosmological information independent of the exact engine. As more bursts are localized to host galaxies with measured redshifts, researchers can statistically estimate how much of the observed dispersion comes from free electrons in intergalactic space. That offers a way to trace baryonic matter that is difficult to inventory directly. Polarization and Faraday rotation can also probe magnetic fields near the source and along the line of sight. Ironically, FRBs began as signals of unknown origin but became tools for measuring cosmic matter and magnetism before their emission physics was completely solved."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: FRB는 밀리초 규모의 매우 밝은 전파폭발이며 다수는 은하 밖 거리에서 온다. FRB 121102는 반복원임이 확인돼 모든 source가 한 번의 파괴적 사건일 수 없음을 보여줬다. 2020년 SGR 1935+2154의 FRB 200428은 우리 은하의 마그네타가 FRB급 radio burst를 실제로 만들 수 있음을 직접 보여줬다. CHIME은 대규모 공개 카탈로그를 통해 population 연구를 가능하게 했다.\n\n확인되지 않음: 모든 FRB가 동일한 종류의 마그네타에서 나오거나 하나의 동일한 coherent emission mechanism을 사용한다는 것은 입증되지 않았다. 현재 ‘비반복’으로 분류된 모든 source가 진짜로 절대 반복하지 않는다는 것도 관측기간의 한계 때문에 확정할 수 없다.",
+          "textEn": "Established: FRBs are extremely bright millisecond-scale radio bursts, many originating at extragalactic distances. FRB 121102 was shown to repeat, demonstrating that not every source can be a one-time destructive event. In 2020, FRB 200428 from Galactic magnetar SGR 1935+2154 directly showed that a magnetar can produce an FRB-like radio burst. Large public CHIME catalogs now support population studies.\n\nNot established: It has not been demonstrated that every FRB comes from the same type of magnetar or uses one identical coherent-emission mechanism. Nor can observers yet prove that every source currently labeled non-repeating will never repeat, because observing time and sensitivity are finite."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: FRB는 밀리초 규모의 매우 밝은 전파폭발이며 다수는 은하 밖 거리에서 온다. FRB 121102는 반복원임이 확인돼 모든 source가 한 번의 파괴적 사건일 수 없음을 보여줬다. 2020년 SGR 1935+2154의 FRB 200428은 우리 은하의 마그네타가 FRB급 radio burst를 실제로 만들 수 있음을 직접 보여줬다. CHIME은 대규모 공개 카탈로그를 통해 population 연구를 가능하게 했다.",
+        "notEstablished": "확인되지 않음: 모든 FRB가 동일한 종류의 마그네타에서 나오거나 하나의 동일한 coherent emission mechanism을 사용한다는 것은 입증되지 않았다. 현재 ‘비반복’으로 분류된 모든 source가 진짜로 절대 반복하지 않는다는 것도 관측기간의 한계 때문에 확정할 수 없다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "dispersion-02",
+        "repeaters-03",
+        "magnetar-04",
+        "notall-05",
+        "mechanisms-06",
+        "catalogs-07",
+        "cosmology-08"
+      ]
+    },
+    "en": {
+      "headline": "Where Do Millisecond Radio Bursts Come From? Magnetars Solved Half the Mystery",
+      "hook": "We now know magnetars can make FRB-like bursts. We do not yet know whether the entire FRB population shares one source class or one mechanism.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "보관된 전파자료에서 5밀리초도 안 되는 강한 펄스 하나가 튀어나왔다",
+          "headingEn": "A Powerful Pulse Shorter Than Five Milliseconds Emerged From Archival Radio Data",
+          "textKo": "2007년 Lorimer 연구팀은 Parkes 망원경의 과거 펄서 탐사자료를 다시 분석하다 약 30 Jy에 이르는 매우 밝고 5밀리초보다 짧은 전파 펄스를 보고했다. 주파수가 낮을수록 도착이 늦어지는 강한 dispersion이 있었고, 당시 은하 내 자유전자 모델로는 관측된 지연을 모두 설명하기 어려웠다. 연구팀은 이 사건이 우리 은하 바깥에서 왔을 가능성이 높다고 해석했다. 이후 같은 종류의 천체현상이 반복 발견되면서 ‘fast radio burst’, FRB라는 독립 연구분야가 만들어졌다. 한 번의 이상 신호가 우주에서 매우 짧지만 엄청나게 밝은 전파폭발이 실제로 존재한다는 단서를 준 셈이다.",
+          "textEn": "In 2007, Lorimer and colleagues reported a remarkably bright radio pulse found while reanalyzing archival Parkes pulsar-survey data. The burst reached roughly 30 Jy, lasted less than five milliseconds, and showed strong frequency-dependent dispersion. Galactic free-electron models could not naturally account for the full delay, leading the authors to favor an extragalactic origin. Similar events were later found, creating the field now known as fast radio bursts, or FRBs. One anomalous archival signal became evidence that the universe produces extremely brief but extraordinarily luminous radio flashes."
+        },
+        {
+          "blockId": "dispersion-02",
+          "type": "BACKGROUND",
+          "headingKo": "전파의 도착시간 차이는 ‘잡음’이 아니라 신호가 지나온 전자기둥을 재는 자가 된다",
+          "headingEn": "The Frequency Delay Is Not Noise—It Measures the Electron Column Along the Path",
+          "textKo": "FRB의 낮은 주파수 성분은 높은 주파수 성분보다 늦게 도착한다. 차가운 플라스마에서 전파가 전파될 때 생기는 dispersion이며, 그 크기를 dispersion measure(DM)로 표현한다. DM에는 우리 은하, FRB가 속한 host galaxy, source 주변 물질, 그리고 은하간물질의 자유전자가 함께 기여한다. 그래서 FRB는 단순한 ‘미지의 폭발’이 아니라 우주에 퍼진 보이지 않는 물질을 재는 탐침이 된다. 하지만 DM 하나만으로 정확한 거리와 각 구간의 기여도를 완전히 분해할 수는 없다. host와 source 환경을 함께 모델링해야 우주론적 해석이 가능하다.",
+          "textEn": "Lower-frequency components of an FRB arrive later than higher-frequency ones because radio waves disperse while traveling through ionized plasma. The size of that delay is summarized by the dispersion measure, or DM. Contributions can come from the Milky Way, the burst's host galaxy, material near the source, and the intergalactic medium. FRBs are therefore not only mysterious explosions; they are also probes of otherwise difficult-to-measure ionized matter across the universe. But DM alone does not provide a perfectly decomposed distance measurement. Host-galaxy and local-source contributions must also be modeled."
+        },
+        {
+          "blockId": "repeaters-03",
+          "type": "TURNING_POINT",
+          "headingKo": "FRB 121102가 반복되면서 ‘한 번 터지고 사라지는 천체만 가능하다’는 가정이 무너졌다",
+          "headingEn": "FRB 121102 Repeated, Breaking the Assumption That Every Source Must Destroy Itself",
+          "textKo": "초기 FRB는 같은 위치에서 다시 잡히지 않아 초신성·중성자별 충돌처럼 한 번의 파괴적 사건이 원인일 수 있다는 추측이 강했다. 그러나 2016년 Nature 논문은 FRB 121102 방향에서 동일한 DM과 위치에 맞는 추가 burst 10개를 보고했다. source가 burst 뒤에도 살아남는다는 사실이 확인된 것이다. 이 발견은 FRB 전체가 하나의 cataclysmic population이라는 단순한 그림을 깨뜨렸다. 이후 반복원은 여러 개가 확인됐지만, 관측되지 않은 반복이 ‘진짜 단발’인지 단지 매우 낮은 반복률 또는 제한된 관측시간 때문인지 구분하는 문제는 여전히 남는다.",
+          "textEn": "Early FRBs were not seen again from the same positions, encouraging models involving destructive one-time events such as supernova-related catastrophes or compact-object mergers. In 2016, however, a Nature paper reported ten additional bursts from the direction of FRB 121102 with consistent position and dispersion measure. The source clearly survived its bursts. That discovery broke the simple picture in which every FRB source must be a one-time catastrophe. Many repeaters are now known, but an apparently non-repeating source may still repeat very rarely or outside limited observing windows, making true one-off populations difficult to establish."
+        },
+        {
+          "blockId": "magnetar-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2020년 우리 은하의 마그네타 SGR 1935+2154가 FRB급 전파폭발을 냈다",
+          "headingEn": "In 2020, the Galactic Magnetar SGR 1935+2154 Produced an FRB-Like Radio Burst",
+          "textKo": "2020년 4월 28일 전환점이 왔다. CHIME/FRB와 STARE2는 우리 은하의 마그네타 SGR 1935+2154 방향에서 매우 밝은 밀리초 전파폭발 FRB 200428을 잡았다. Nature에 실린 독립 결과들은 이 신호의 세기가 기존 은하계 마그네타 radio pulse보다 훨씬 컸고, 외부 은하에서 발생했다면 FRB로 분류될 수 있는 수준임을 보여줬다. 동시에 X-ray burst가 관측돼 같은 천체의 폭발활동과 전파신호가 연결됐다. 이것은 ‘마그네타가 FRB를 만들 수 있는가’라는 질문에 직접적인 관측 답을 제공했다.",
+          "textEn": "A major turning point arrived on April 28, 2020. CHIME/FRB and STARE2 detected an extremely bright millisecond radio event, FRB 200428, from the direction of the Galactic magnetar SGR 1935+2154. Independent Nature papers showed that the burst was vastly more energetic in radio than previously observed Galactic magnetar pulses and could look like an FRB if placed in a nearby external galaxy. An associated X-ray burst linked the radio event to explosive activity from the same object. This provided direct observational evidence that magnetars can produce FRB-like bursts."
+        },
+        {
+          "blockId": "notall-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘마그네타가 만들 수 있다’와 ‘모든 FRB는 같은 방식의 마그네타 폭발이다’는 다른 문장이다",
+          "headingEn": "'Magnetars Can Produce FRBs' Is Not the Same as 'Every FRB Uses One Magnetar Mechanism'",
+          "textKo": "FRB 200428 이후 마그네타는 FRB source의 가장 강력한 후보군 가운데 하나가 됐다. 그러나 CHIME 논문 자체도 SGR 1935+2154의 burst energy와 activity가 가장 밝고 활동적인 extragalactic FRB source들과 큰 차이를 보인다고 지적했다. 더 젊거나 더 강한 마그네타가 필요할 수 있고, source age·magnetic field·environment가 burst rate와 energy distribution을 바꿀 수 있다. 또한 같은 마그네타의 모든 X-ray flare가 FRB를 동반하지 않는다. 따라서 관측은 ‘가능성’을 넘어 실제 발생을 확인했지만, 전체 population의 세부 통일모형까지 확정한 것은 아니다.",
+          "textEn": "After FRB 200428, magnetars became one of the strongest source classes for FRBs. Yet the CHIME Nature paper itself emphasizes the large gap in energy and activity between SGR 1935+2154 and the brightest, most active extragalactic FRB sources. Younger or more energetic magnetars may be required, and source age, magnetic field, and environment may alter burst rates and energies. Nor does every X-ray flare from a magnetar produce an FRB. The observations move magnetars from speculation to demonstrated capability, but they do not establish one detailed universal model for the entire FRB population."
+        },
+        {
+          "blockId": "mechanisms-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "전파가 실제로 만들어지는 위치를 두고 마그네토스피어와 외부 충격파 모델이 경쟁한다",
+          "headingEn": "Magnetospheric and External-Shock Models Compete Over Where the Radio Emission Is Made",
+          "textKo": "source class가 마그네타라고 해도 coherent radio emission이 만들어지는 세부 물리는 별개의 문제다. 한 계열의 모델은 중성자별 가까운 magnetosphere에서 자기장 재결합과 plasma instability가 짧고 밝은 전파를 만든다고 본다. 다른 계열은 flare가 방출한 relativistic outflow가 주변 물질과 충돌해 shock를 만들고 synchrotron maser 같은 과정으로 radio burst가 나온다고 설명한다. FRB 200428의 radio-X-ray timing과 spectrum은 두 모델군을 시험하는 자료가 됐지만, 모든 source와 burst morphology를 하나의 세부 메커니즘으로 설명하는 합의는 아직 없다.",
+          "textEn": "Even if magnetars are a major source class, the detailed physics of coherent radio emission is a separate problem. One family of models places the emission close to the neutron star, where magnetic reconnection and plasma instabilities in the magnetosphere could create a short, bright radio pulse. Another invokes a relativistic outflow from a flare driving an external shock, with processes such as a synchrotron maser producing radio emission. The radio/X-ray timing and spectrum of FRB 200428 provide tests of these ideas, but there is still no single detailed mechanism accepted for every source and burst morphology."
+        },
+        {
+          "blockId": "catalogs-07",
+          "type": "BACKGROUND",
+          "headingKo": "CHIME의 대규모 카탈로그는 ‘희귀한 괴신호’를 통계학의 문제로 바꿨다",
+          "headingEn": "Large CHIME Catalogs Turned 'Rare Weird Signals' Into a Statistical Population",
+          "textKo": "하늘을 넓게 반복 관측하는 CHIME/FRB는 FRB 연구를 개별 사건 중심에서 population science로 옮겼다. 공개 포털에는 2021년 Catalog 1, 2023년 repeater catalog, 2024년 baseband catalog, 2025년 Catalog 2가 연결돼 있다. 수백·수천 개 수준으로 관측표본이 커지면 반복률, 폭, spectrum, scattering, polarization, host environment 같은 분포를 비교할 수 있다. 특히 반복원과 비반복원 후보가 정말 두 개의 물리 population인지, 하나의 연속분포에서 관측편향이 만든 구분인지 통계적으로 시험할 수 있다. 다만 카탈로그는 망원경 감도와 관측주파수, sky coverage라는 selection effect를 함께 가진다.",
+          "textEn": "The wide-field, repeated observing strategy of CHIME/FRB moved the field from isolated events toward population science. Its public portal links Catalog 1 from 2021, a repeater catalog from 2023, a baseband catalog from 2024, and Catalog 2 from 2025. Large samples allow researchers to compare repetition rates, widths, spectra, scattering, polarization, and host environments. They can test whether repeating and apparently non-repeating sources represent distinct physical populations or a continuum distorted by observing bias. But every catalog also carries selection effects from telescope sensitivity, observing frequency, cadence, and sky coverage."
+        },
+        {
+          "blockId": "cosmology-08",
+          "type": "AFTERMATH",
+          "headingKo": "원인을 찾는 동시에 FRB는 우주의 ‘잃어버린 보통물질’을 재는 도구가 됐다",
+          "headingEn": "While Their Engines Are Studied, FRBs Have Become Tools for Measuring the Universe",
+          "textKo": "FRB의 큰 DM은 source physics와 별개로 우주론적 정보를 담는다. host galaxy의 redshift를 알 수 있는 localized FRB가 늘면서, 관측된 dispersion 가운데 은하간공간의 자유전자가 기여하는 몫을 통계적으로 추정할 수 있다. 이는 빛을 내지 않아 직접 세기 어려운 baryonic matter의 분포를 추적하는 한 방법이다. polarization과 Faraday rotation은 source와 경로의 magnetic field 정보도 준다. 아이러니하게도 FRB는 ‘정체를 모르는 신호’에서 출발했지만, 그 정체를 완전히 해결하기 전에 이미 우주의 물질·자기장을 재는 측정도구로 쓰이고 있다.",
+          "textEn": "The large dispersion measures of FRBs carry cosmological information independent of the exact engine. As more bursts are localized to host galaxies with measured redshifts, researchers can statistically estimate how much of the observed dispersion comes from free electrons in intergalactic space. That offers a way to trace baryonic matter that is difficult to inventory directly. Polarization and Faraday rotation can also probe magnetic fields near the source and along the line of sight. Ironically, FRBs began as signals of unknown origin but became tools for measuring cosmic matter and magnetism before their emission physics was completely solved."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: FRB는 밀리초 규모의 매우 밝은 전파폭발이며 다수는 은하 밖 거리에서 온다. FRB 121102는 반복원임이 확인돼 모든 source가 한 번의 파괴적 사건일 수 없음을 보여줬다. 2020년 SGR 1935+2154의 FRB 200428은 우리 은하의 마그네타가 FRB급 radio burst를 실제로 만들 수 있음을 직접 보여줬다. CHIME은 대규모 공개 카탈로그를 통해 population 연구를 가능하게 했다.\n\n확인되지 않음: 모든 FRB가 동일한 종류의 마그네타에서 나오거나 하나의 동일한 coherent emission mechanism을 사용한다는 것은 입증되지 않았다. 현재 ‘비반복’으로 분류된 모든 source가 진짜로 절대 반복하지 않는다는 것도 관측기간의 한계 때문에 확정할 수 없다.",
+          "textEn": "Established: FRBs are extremely bright millisecond-scale radio bursts, many originating at extragalactic distances. FRB 121102 was shown to repeat, demonstrating that not every source can be a one-time destructive event. In 2020, FRB 200428 from Galactic magnetar SGR 1935+2154 directly showed that a magnetar can produce an FRB-like radio burst. Large public CHIME catalogs now support population studies.\n\nNot established: It has not been demonstrated that every FRB comes from the same type of magnetar or uses one identical coherent-emission mechanism. Nor can observers yet prove that every source currently labeled non-repeating will never repeat, because observing time and sensitivity are finite."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: FRBs are extremely bright millisecond-scale radio bursts, many originating at extragalactic distances. FRB 121102 was shown to repeat, demonstrating that not every source can be a one-time destructive event. In 2020, FRB 200428 from Galactic magnetar SGR 1935+2154 directly showed that a magnetar can produce an FRB-like radio burst. Large public CHIME catalogs now support population studies.",
+        "notEstablished": "Not established: It has not been demonstrated that every FRB comes from the same type of magnetar or uses one identical coherent-emission mechanism. Nor can observers yet prove that every source currently labeled non-repeating will never repeat, because observing time and sensitivity are finite."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "dispersion-02",
+        "repeaters-03",
+        "magnetar-04",
+        "notall-05",
+        "mechanisms-06",
+        "catalogs-07",
+        "cosmology-08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "FRB-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2007년 Lorimer 연구는 30 Jy, 5 ms 미만의 분산된 전파 burst를 보고해 FRB 연구의 출발점이 됐다.",
+      "statementEn": "The 2007 Lorimer paper reported a dispersed ~30-Jy burst shorter than 5 ms, launching the modern FRB field.",
+      "sourceRefs": [
+        "LORIMER_2007"
+      ]
+    },
+    {
+      "claimId": "FRB-C2",
+      "status": "CONFIRMED",
+      "statementKo": "FRB 121102는 같은 위치·DM에서 반복 burst가 확인됐다.",
+      "statementEn": "FRB 121102 was confirmed to repeat from a consistent position and dispersion measure.",
+      "sourceRefs": [
+        "REPEATER_2016"
+      ]
+    },
+    {
+      "claimId": "FRB-C3",
+      "status": "CONFIRMED",
+      "statementKo": "2020년 SGR 1935+2154에서 FRB 200428이 검출돼 마그네타가 FRB급 burst를 만들 수 있음이 확인됐다.",
+      "statementEn": "FRB 200428 from SGR 1935+2154 showed directly that a magnetar can produce an FRB-like burst.",
+      "sourceRefs": [
+        "CHIME_MAGNETAR_2020",
+        "STARE2_2020",
+        "NASA_FRB_2020"
+      ]
+    },
+    {
+      "claimId": "FRB-C4",
+      "status": "CONFIRMED",
+      "statementKo": "CHIME/FRB는 2021~2025 여러 공개 카탈로그를 제공한다.",
+      "statementEn": "CHIME/FRB provides multiple public catalog datasets from 2021 through 2025.",
+      "sourceRefs": [
+        "CHIME_DATA"
+      ]
+    },
+    {
+      "claimId": "FRB-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 FRB가 하나의 동일한 세부 방출메커니즘을 사용한다는 것은 확정되지 않았다.",
+      "statementEn": "It is not established that all FRBs use one identical detailed emission mechanism.",
+      "sourceRefs": [
+        "CHIME_MAGNETAR_2020",
+        "REPEATER_2016"
+      ]
+    },
+    {
+      "claimId": "FRB-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 비반복으로 보이는 모든 FRB source가 실제로 영원히 반복하지 않는다는 것은 확정되지 않았다.",
+      "statementEn": "It is not established that every apparently non-repeating FRB source truly never repeats.",
+      "sourceRefs": [
+        "REPEATER_2016",
+        "CHIME_DATA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "LORIMER_2007",
+      "title": "A bright millisecond radio burst of extragalactic origin",
+      "publisher": "Science / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17901298/",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "2007 Lorimer burst discovery properties"
+    },
+    {
+      "sourceId": "REPEATER_2016",
+      "title": "A repeating fast radio burst",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/nature17168",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "FRB 121102 repeat detections and implications"
+    },
+    {
+      "sourceId": "CHIME_MAGNETAR_2020",
+      "title": "A bright millisecond-duration radio burst from a Galactic magnetar",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/s41586-020-2863-y",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "CHIME detection of FRB 200428 from SGR 1935+2154"
+    },
+    {
+      "sourceId": "STARE2_2020",
+      "title": "A fast radio burst associated with a Galactic magnetar",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/s41586-020-2872-x",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "independent STARE2 detection and magnetar association"
+    },
+    {
+      "sourceId": "NASA_FRB_2020",
+      "title": "NASA Missions Help Pinpoint the Source of a Unique X-ray, Radio Burst",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/nasa-missions-help-pinpoint-the-source-of-a-unique-x-ray-radio-burst/",
+      "sourceType": "US_GOVERNMENT_SCIENCE",
+      "scope": "multi-wavelength context for SGR 1935+2154"
+    },
+    {
+      "sourceId": "CHIME_DATA",
+      "title": "CHIME/FRB Public Data Portal",
+      "publisher": "CHIME/FRB Collaboration",
+      "url": "https://www.chime-frb.ca/",
+      "sourceType": "OBSERVATORY_DATA_PORTAL",
+      "scope": "2021 Catalog 1, 2023 Repeaters, 2024 Baseband Catalog 1, 2025 Catalog 2"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "fast-radio-bursts-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DATA_GRAPHIC",
+      "status": "CREATED",
+      "captionKo": "고주파가 먼저, 저주파가 늦게 도착하는 dispersion sweep 개념도와 DM 설명.",
+      "captionEn": "Concept graphic of a dispersion sweep, with high frequencies arriving before low frequencies and an explanation of DM.",
+      "sourceRefs": [
+        "LORIMER_2007"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fast-radio-bursts-v01__ko.png",
+          "sha256": "9a70a5a7c670b34f638aaa087ad6837ba1e4ba5edce566bbd973d10200fb3cd3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fast-radio-bursts-v01__en.png",
+          "sha256": "f1086d6e08e9376364ff9e329d2171dea25f30e7477c6ebb868385499f58c4b8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fast-radio-bursts-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "CREATED",
+      "captionKo": "2007 Lorimer burst → 2016 FRB 121102 반복 → 2020 FRB 200428 마그네타 → 2021~25 CHIME catalogs.",
+      "captionEn": "2007 Lorimer burst → 2016 FRB 121102 repetition → 2020 magnetar FRB 200428 → 2021–25 CHIME catalogs.",
+      "sourceRefs": [
+        "LORIMER_2007",
+        "REPEATER_2016",
+        "CHIME_MAGNETAR_2020",
+        "CHIME_DATA"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fast-radio-bursts-v02__ko.png",
+          "sha256": "9cef2e9ae3e4ccdaadb9e1defb322acd6b8a23b2fde3d8474176c3fb5c8691e3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fast-radio-bursts-v02__en.png",
+          "sha256": "4ff6a8ce61e29452dc129728283a666ab62dbac91a40e2f10cbf20ccaf049cdb",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fast-radio-bursts-v03",
+      "role": "MODEL_COMPARISON",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "마그네토스피어 방출과 외부 shock/synchrotron-maser 모델의 관측예측 비교.",
+      "captionEn": "Comparison of magnetospheric and external-shock/synchrotron-maser model predictions.",
+      "sourceRefs": [
+        "CHIME_MAGNETAR_2020",
+        "STARE2_2020"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fast-radio-bursts-v03__ko.png",
+          "sha256": "49c680a355da741e8dba2b1d69899bb6223ed50abca65aa5056f830cf05dc25e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fast-radio-bursts-v03__en.png",
+          "sha256": "750ca35f4aa24390f31bf32dc27d7104ae9b6d215807e985fbfe89576919da11",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fast-radio-bursts-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "확인된 마그네타 연결과 아직 열려 있는 전체 population·세부 방출기작을 분리.",
+      "captionEn": "Separate the demonstrated magnetar connection from unresolved population-wide origins and detailed emission physics.",
+      "sourceRefs": [
+        "CHIME_MAGNETAR_2020",
+        "REPEATER_2016"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fast-radio-bursts-v04__ko.png",
+          "sha256": "be721a31421c494ac5cc515efbb4d4b5d461578cb4861ea438815877823e0eda",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fast-radio-bursts-v04__en.png",
+          "sha256": "b5ab731a7a40072b9b0b9228469572b95e2661b4a7318e1a92f03045fb73980d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Space",
+    "secondaryGenres": [
+      "Radio Astronomy",
+      "Neutron Stars / Magnetars",
+      "Cosmology"
+    ],
+    "countries": [],
+    "regions": [
+      "Milky Way",
+      "Extragalactic"
+    ],
+    "places": [
+      {
+        "name": "SGR 1935+2154",
+        "role": "Galactic magnetar source of FRB 200428"
+      },
+      {
+        "name": "FRB 121102 host region",
+        "role": "repeating extragalactic FRB source"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "CHIME/FRB Collaboration",
+      "STARE2 Collaboration",
+      "NASA"
+    ],
+    "dateRange": {
+      "start": "2007",
+      "end": "2025",
+      "precision": "modern FRB discovery through latest listed CHIME public catalog"
+    },
+    "era": "21st-century radio astronomy",
+    "resolution": "MAGNETAR_ORIGIN_DEMONSTRATED_FOR_AT_LEAST_SOME_FRBS_POPULATION_AND_DETAILED_EMISSION_MECHANISM_NOT_FULLY_RESOLVED",
+    "searchAliases": [
+      "FRB",
+      "fast radio burst",
+      "Lorimer burst",
+      "FRB 121102",
+      "FRB 200428",
+      "SGR 1935+2154"
+    ],
+    "relatedCases": [
+      "bloop"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3242,
+    "enBodyWords": 843,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 4,
+    "sourceCount": 6,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

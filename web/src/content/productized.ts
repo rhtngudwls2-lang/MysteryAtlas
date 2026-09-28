@@ -10,7 +10,7 @@ export type ProductizedClaim = { claimId: string; status: string; statementKo: s
 export type ProductizedVisual = {
   assetId: string; role: string; assetKind: string; rightsStatus: string;
   isDocumentaryEvidence: boolean; isReconstruction: boolean;
-  captionKo: string; captionEn: string; altKo: string; altEn: string;
+  captionKo: string; captionEn: string; altKo?: string; altEn?: string;
   sourceRefs: string[]; localizedFiles: Record<Locale, { fileName: string; sha256: string; width: number; height: number }>;
 };
 export type ProductizedArticle = {

@@ -1,0 +1,498 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "amelia-earhart",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "아멜리아 에어하트 실종",
+    "canonicalTitleEn": "Amelia Earhart Disappearance",
+    "aliasesKo": [
+      "아멜리아 에어하트"
+    ],
+    "aliasesEn": [
+      "Amelia Earhart disappearance"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "AVIATION_DISAPPEARANCE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "마지막 무전은 남아 있다—그런데 왜 비행기의 최종 위치는 아직 모를까",
+      "hook": "마지막 몇 시간의 통신과 수색은 상당히 잘 기록돼 있다. 미스터리는 기록이 없어서가 아니라, 그 기록이 마지막 위치를 하나의 점으로 고정하지 못해서 남았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "마지막 구간은 작은 섬 하나를 찾아야 하는 2,500마일의 바다였다",
+          "headingEn": "The Final Leg Was a 2,500-Mile Search for a Tiny Island",
+          "textKo": "1937년 7월 2일 Amelia Earhart와 항법사 Fred Noonan은 Lockheed Electra를 타고 Lae에서 Howland Island로 출발했다. Smithsonian은 이 구간을 약 2,556마일의 비행으로 정리한다. Howland는 길이 약 2마일에 불과한 작은 섬이었고, 그 부근에는 미 Coast Guard cutter Itasca가 연료와 무선지원을 위해 대기하고 있었다. 긴 바다 위에서 마지막 목표물을 놓치면 대체 활주로가 사실상 없었다.",
+          "textEn": "On July 2, 1937, Amelia Earhart and navigator Fred Noonan departed Lae in their Lockheed Electra for Howland Island. The Smithsonian describes the leg as roughly 2,556 miles over the Pacific. Howland was only about two miles long, and the U.S. Coast Guard cutter Itasca waited offshore with fuel and radio support. Over such a long ocean leg, missing the tiny island left almost no practical alternate landing option."
+        },
+        {
+          "blockId": "radio-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Itasca는 Earhart의 신호를 들었지만 안정적인 양방향 교신은 만들지 못했다",
+          "headingEn": "Itasca Heard Earhart, but Reliable Two-Way Communication Never Formed",
+          "textKo": "National Archives가 공개한 Itasca radio log에는 Earhart의 호출부호 KHAQQ와 여러 수신 기록이 남아 있다. 신호는 접근하면서 강해졌고, Earhart는 저고도 비행, Howland까지의 거리, 연료 상황과 항법선에 관한 메시지를 보냈다. 그러나 Earhart가 Itasca의 응답을 확실히 들었다는 증거는 부족하다. 방향탐지와 주파수 운용도 기대처럼 맞물리지 않았다. 마지막 구간의 미스터리는 침묵이 아니라 “한쪽은 들었지만 연결되지 않은 통신”에 가깝다. Earhart의 송신은 주로 3105와 6210 kHz에서 이뤄졌는데, 당시 Itasca의 일부 direction-finding 장비는 이 운용방식과 제대로 맞지 않았다. NARA에 공개된 후대 요약문과 radio log는 신호를 “듣는 것”과 그 신호로 정확한 방위를 제공하는 것이 다른 문제였음을 보여준다. 상대가 메시지를 보내고 있어도 서로 같은 주파수·시간·방향탐지 절차를 맞추지 못하면 구조지원으로 이어지지 않는다.",
+          "textEn": "The Itasca radio log preserved by the National Archives records multiple transmissions from Earhart under the call sign KHAQQ. Signal strength increased as the aircraft approached the area, and messages referred to altitude, distance from Howland, fuel concerns, and a line of position. Yet there is little evidence that Earhart reliably heard Itasca’s replies. Direction-finding and frequency arrangements did not work together as intended. The mystery is therefore not simple silence, but incomplete one-way contact. Earhart transmitted primarily on 3105 and 6210 kHz, while parts of Itasca’s direction-finding arrangement were not well matched to the way those frequencies were being used. The archival log and later summaries illustrate the difference between merely hearing a signal and obtaining a usable bearing from it. Even when one side is transmitting, rescue support fails if frequency, timing, and direction-finding procedures do not align."
+        },
+        {
+          "blockId": "last-03",
+          "type": "TURNING_POINT",
+          "headingKo": "08:43, 마지막으로 기록된 메시지",
+          "headingEn": "8:43 a.m.: The Last Recorded Transmission",
+          "textKo": "National Archives의 radio log 설명은 약 08:43에 마지막 KHAQQ 통신이 수신됐다고 정리한다. 메시지에는 “line 157 337”을 따라 북쪽과 남쪽으로 움직이고 있다는 내용이 포함됐다. 이는 Noonan이 계산한 line of position을 따라 Howland를 찾으려 한 상황으로 해석돼 왔다. 중요한 점은 마지막 무선기록이 “외딴 섬을 찾고 있었고 통신은 완전하지 않았다”는 상황을 보여줄 뿐, 이후 정확히 어디로 갔는지는 알려주지 않는다는 것이다. 마지막 line-of-position 메시지는 특히 중요하지만 좌표 하나를 주는 메시지가 아니다. 천체항법에서 line of position은 관측 결과로 얻은 “이 선 어딘가에 있다”는 제약이다. 북쪽과 남쪽으로 달린다는 말은 그 선을 따라 Howland를 찾으려 했다는 해석과 맞지만, 어느 지점에서 연료가 떨어졌는지까지 결정하지 못한다. 기록이 정밀해 보여도 공간적 불확실성은 여전히 컸다.",
+          "textEn": "The National Archives describes the final KHAQQ transmission as received at about 8:43 a.m., including the statement that they were running north and south on a line of position. This has long been interpreted as an effort to search along Noonan’s calculated navigation line for Howland. The crucial limitation is that the final radio record shows a crew still trying to locate the island; it does not establish the aircraft’s subsequent position or fate. The final line-of-position message is important, but it is not a single coordinate. In celestial navigation, a line of position constrains the aircraft to somewhere along a line rather than one point. Running north and south fits a search along that line for Howland, but it does not reveal where fuel exhaustion or any later event occurred. Detailed radio records can coexist with large spatial uncertainty."
+        },
+        {
+          "blockId": "search-04",
+          "type": "AFTERMATH",
+          "headingKo": "실종 직후 해군과 Coast Guard는 대규모 수색을 벌였다",
+          "headingEn": "The Navy and Coast Guard Mounted a Major Search",
+          "textKo": "실종 뒤 미국 해군과 Coast Guard는 광범위한 해상·항공 수색을 실시했다. National Archives에는 Itasca의 search track, USS Colorado·Swan 등 함정의 deck log, 항공 수색 보고서와 전체 수색 chart가 남아 있다. “당시 아무도 제대로 찾지 않았다”는 설명은 이 기록과 맞지 않는다. 문제는 광대한 태평양에서 확정된 wreckage나 위치 단서를 찾지 못했다는 데 있다. 수색기록의 규모도 이 불확실성을 보여준다. NARA 목록에는 Itasca 자체의 항적뿐 아니라 USS Lexington 항공대, Colorado와 Swan의 항해기록, 여러 search chart가 포함돼 있다. 각각은 특정 날짜와 해역을 덮지만 태평양 전체를 빈틈없이 확인할 수는 없었다. 잔해가 작고 해류와 날씨가 변하는 해상수색에서는 “많이 찾았다”와 “모든 가능성을 제거했다”가 같은 뜻이 아니다.",
+          "textEn": "After contact was lost, the U.S. Navy and Coast Guard conducted an extensive air-and-sea search. The National Archives preserves Itasca search tracks, deck logs from ships including USS Colorado and USS Swan, search reports, and large charts showing areas covered. The claim that no serious search was conducted is inconsistent with this record. The problem is that no verified wreckage or location evidence was found across an enormous search area. The scale of the preserved search record also illustrates the uncertainty. NARA lists Itasca tracks, USS Lexington aircraft operations, logs from Colorado and Swan, and multiple search charts. Each covers particular dates and areas, but no search could inspect the entire Pacific without gaps. In an ocean search where wreckage may be small and conditions change, an extensive search is not the same as eliminating every possible location."
+        },
+        {
+          "blockId": "theories-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "추락설·Nikumaroro·일본 포로설은 증거 수준이 서로 다르다",
+          "headingEn": "Crash, Nikumaroro, and Capture Theories Do Not Have Equal Evidentiary Weight",
+          "textKo": "Earhart 실종 뒤 연료고갈 후 해상추락, Nikumaroro 착륙, 일본군 포로설 등 수많은 가설이 제기됐다. Smithsonian은 알려진 비행·무선기록을 바탕으로 Howland를 찾지 못해 연료가 소진되고 태평양에 ditch했을 가능성을 가장 전통적인 설명으로 제시한다. 그러나 기체나 유해가 확정 발견되지 않은 이상 exact crash point와 최종 과정은 직접 검증되지 않았다. 대체 가설도 각각 독립적인 물증과 provenance를 요구한다.",
+          "textEn": "Numerous theories followed the disappearance: fuel exhaustion and ocean ditching, landing at Nikumaroro, capture by Japan, and others. The Smithsonian presents failure to locate Howland followed by fuel exhaustion and ditching as the most straightforward explanation from the known flight record. But without a verified aircraft wreck or remains, the exact crash point and final sequence have not been directly demonstrated. Alternative theories likewise require independent physical evidence and provenance."
+        },
+        {
+          "blockId": "release-06",
+          "type": "BACKGROUND",
+          "headingKo": "2025~2026년 대규모 문서 공개는 기록을 늘렸지만 결론을 자동으로 바꾸진 않았다",
+          "headingEn": "The 2025–2026 Record Releases Expanded the Archive, Not the Certainty",
+          "textKo": "2025년 9월 추가 공개 지시 뒤 National Archives는 2025년 11~12월과 2026년 1월에 Earhart 관련 수천 쪽의 자료를 순차 공개했다. 여기에는 기존 정부기록, 정보기관·해군 자료, 구술자료와 과거 조사 관련 파일이 포함된다. 새 문서가 많다는 사실 자체는 특정 실종 가설을 입증하지 않는다. 기록 공개와 이론 검증은 별개의 단계이며, 문서의 작성시점·목적·1차성 여부를 따져야 한다. NARA 공개 목록만 보더라도 2025년 11월 14일 4,624쪽, 11월 25일 3,715쪽, 12월 17일 1,810쪽이 공개됐고 2026년 1월 9일에도 추가 파일이 게시됐다. 이 숫자는 기록 접근성의 확대를 보여주지만, 서로 다른 시대의 문서와 2차자료가 함께 포함될 수 있다. “새로 공개됐다”와 “새로운 1차증거가 발견됐다”는 동일한 문장이 아니다.",
+          "textEn": "After a September 2025 directive for additional disclosure, the National Archives released thousands of pages in batches during November and December 2025 and January 2026. The material includes government files, intelligence and naval records, oral-history material, and earlier investigative references. The existence of a large new archive does not itself prove any disappearance theory. Disclosure and evidentiary validation are separate steps, and each record must be evaluated for date, purpose, and provenance. NARA’s release index lists 4,624 pages on November 14, 2025, 3,715 pages on November 25, 1,810 pages on December 17, and additional files on January 9, 2026. Those numbers show a major expansion in public access, but the releases can include records from different periods and secondary material. “Newly released” is not synonymous with “newly discovered primary evidence.”"
+        },
+        {
+          "blockId": "legacy-07",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리가 너무 커져 비행사의 실제 업적을 가리기도 한다",
+          "headingEn": "The Mystery Can Overshadow the Aviator",
+          "textKo": "Earhart는 실종 전 이미 대서양 단독횡단, 장거리 기록, 여성 항공인 권리 확대 등으로 세계적 인물이 됐다. Smithsonian도 실종 이야기가 그녀의 실제 항공사적 유산을 가리는 경우가 있다고 지적한다. Mystery Atlas의 역할은 미스터리를 없애는 것이 아니라, 마지막 비행의 확인된 기록과 후대의 추정을 분리하는 것이다. 남는 공백이 크다고 해서 모든 설명이 같은 무게를 갖는 것은 아니다. 또한 사건을 후대의 단일 음모서사로만 읽으면 1937년 실제 항공기술과 항법·무선통신의 한계를 놓치게 된다. 기록을 시대의 기술조건과 함께 읽는 것이 마지막 비행을 과장 없이 이해하는 데 중요하다.",
+          "textEn": "Long before her disappearance, Earhart was already a major figure in aviation through record flights, a solo Atlantic crossing, and advocacy for women in flight. The Smithsonian notes that the disappearance can overshadow that real legacy. The purpose of a source-bounded account is not to erase the mystery, but to separate the documented final flight from later inference. A large unresolved gap does not give every theory equal evidentiary weight. Reading the disappearance only through later conspiracy narratives can obscure the real limits of 1937 navigation, radio communication, and aircraft endurance. The records make more sense when read within the technology of their time."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Earhart와 Noonan은 1937년 7월 2일 Lae에서 Howland로 향하다 무선교신 뒤 실종됐다. Itasca radio log와 대규모 해군·Coast Guard 수색 기록이 남아 있으며, 2025~2026년 추가 자료도 공개됐다.\n\n확인되지 않음: 항공기의 최종 위치, 정확한 추락·착륙 지점, 두 사람의 최후는 확정되지 않았다. 새 공개자료의 존재만으로 Nikumaroro·일본 포로설 등 특정 대체가설이 입증되는 것도 아니다.",
+          "textEn": "Established: Earhart and Noonan disappeared on July 2, 1937, while flying from Lae toward Howland Island. The Itasca radio log and extensive Navy and Coast Guard search records survive, and additional records were released in 2025–2026.\n\nNot established: The aircraft’s final location, exact crash or landing site, and the fate of Earhart and Noonan remain unconfirmed. The existence of newly released records does not by itself establish Nikumaroro, capture, or any other alternative theory."
+        }
+      ],
+      "factBoundary": {
+        "established": "Earhart와 Noonan은 1937년 7월 2일 Lae에서 Howland로 향하다 무선교신 뒤 실종됐다. Itasca radio log와 대규모 해군·Coast Guard 수색 기록이 남아 있으며, 2025~2026년 추가 자료도 공개됐다.",
+        "notEstablished": "항공기의 최종 위치, 정확한 추락·착륙 지점, 두 사람의 최후는 확정되지 않았다. 새 공개자료의 존재만으로 Nikumaroro·일본 포로설 등 특정 대체가설이 입증되는 것도 아니다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "radio-02",
+        "last-03",
+        "search-04",
+        "theories-05",
+        "release-06",
+        "legacy-07"
+      ]
+    },
+    "en": {
+      "headline": "The Last Radio Messages Survive—So Why Is the Aircraft’s Final Location Still Unknown?",
+      "hook": "The final hours and the search are unusually well documented. The mystery persists not because there are no records, but because they never fix one final location.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "마지막 구간은 작은 섬 하나를 찾아야 하는 2,500마일의 바다였다",
+          "headingEn": "The Final Leg Was a 2,500-Mile Search for a Tiny Island",
+          "textKo": "1937년 7월 2일 Amelia Earhart와 항법사 Fred Noonan은 Lockheed Electra를 타고 Lae에서 Howland Island로 출발했다. Smithsonian은 이 구간을 약 2,556마일의 비행으로 정리한다. Howland는 길이 약 2마일에 불과한 작은 섬이었고, 그 부근에는 미 Coast Guard cutter Itasca가 연료와 무선지원을 위해 대기하고 있었다. 긴 바다 위에서 마지막 목표물을 놓치면 대체 활주로가 사실상 없었다.",
+          "textEn": "On July 2, 1937, Amelia Earhart and navigator Fred Noonan departed Lae in their Lockheed Electra for Howland Island. The Smithsonian describes the leg as roughly 2,556 miles over the Pacific. Howland was only about two miles long, and the U.S. Coast Guard cutter Itasca waited offshore with fuel and radio support. Over such a long ocean leg, missing the tiny island left almost no practical alternate landing option."
+        },
+        {
+          "blockId": "radio-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Itasca는 Earhart의 신호를 들었지만 안정적인 양방향 교신은 만들지 못했다",
+          "headingEn": "Itasca Heard Earhart, but Reliable Two-Way Communication Never Formed",
+          "textKo": "National Archives가 공개한 Itasca radio log에는 Earhart의 호출부호 KHAQQ와 여러 수신 기록이 남아 있다. 신호는 접근하면서 강해졌고, Earhart는 저고도 비행, Howland까지의 거리, 연료 상황과 항법선에 관한 메시지를 보냈다. 그러나 Earhart가 Itasca의 응답을 확실히 들었다는 증거는 부족하다. 방향탐지와 주파수 운용도 기대처럼 맞물리지 않았다. 마지막 구간의 미스터리는 침묵이 아니라 “한쪽은 들었지만 연결되지 않은 통신”에 가깝다. Earhart의 송신은 주로 3105와 6210 kHz에서 이뤄졌는데, 당시 Itasca의 일부 direction-finding 장비는 이 운용방식과 제대로 맞지 않았다. NARA에 공개된 후대 요약문과 radio log는 신호를 “듣는 것”과 그 신호로 정확한 방위를 제공하는 것이 다른 문제였음을 보여준다. 상대가 메시지를 보내고 있어도 서로 같은 주파수·시간·방향탐지 절차를 맞추지 못하면 구조지원으로 이어지지 않는다.",
+          "textEn": "The Itasca radio log preserved by the National Archives records multiple transmissions from Earhart under the call sign KHAQQ. Signal strength increased as the aircraft approached the area, and messages referred to altitude, distance from Howland, fuel concerns, and a line of position. Yet there is little evidence that Earhart reliably heard Itasca’s replies. Direction-finding and frequency arrangements did not work together as intended. The mystery is therefore not simple silence, but incomplete one-way contact. Earhart transmitted primarily on 3105 and 6210 kHz, while parts of Itasca’s direction-finding arrangement were not well matched to the way those frequencies were being used. The archival log and later summaries illustrate the difference between merely hearing a signal and obtaining a usable bearing from it. Even when one side is transmitting, rescue support fails if frequency, timing, and direction-finding procedures do not align."
+        },
+        {
+          "blockId": "last-03",
+          "type": "TURNING_POINT",
+          "headingKo": "08:43, 마지막으로 기록된 메시지",
+          "headingEn": "8:43 a.m.: The Last Recorded Transmission",
+          "textKo": "National Archives의 radio log 설명은 약 08:43에 마지막 KHAQQ 통신이 수신됐다고 정리한다. 메시지에는 “line 157 337”을 따라 북쪽과 남쪽으로 움직이고 있다는 내용이 포함됐다. 이는 Noonan이 계산한 line of position을 따라 Howland를 찾으려 한 상황으로 해석돼 왔다. 중요한 점은 마지막 무선기록이 “외딴 섬을 찾고 있었고 통신은 완전하지 않았다”는 상황을 보여줄 뿐, 이후 정확히 어디로 갔는지는 알려주지 않는다는 것이다. 마지막 line-of-position 메시지는 특히 중요하지만 좌표 하나를 주는 메시지가 아니다. 천체항법에서 line of position은 관측 결과로 얻은 “이 선 어딘가에 있다”는 제약이다. 북쪽과 남쪽으로 달린다는 말은 그 선을 따라 Howland를 찾으려 했다는 해석과 맞지만, 어느 지점에서 연료가 떨어졌는지까지 결정하지 못한다. 기록이 정밀해 보여도 공간적 불확실성은 여전히 컸다.",
+          "textEn": "The National Archives describes the final KHAQQ transmission as received at about 8:43 a.m., including the statement that they were running north and south on a line of position. This has long been interpreted as an effort to search along Noonan’s calculated navigation line for Howland. The crucial limitation is that the final radio record shows a crew still trying to locate the island; it does not establish the aircraft’s subsequent position or fate. The final line-of-position message is important, but it is not a single coordinate. In celestial navigation, a line of position constrains the aircraft to somewhere along a line rather than one point. Running north and south fits a search along that line for Howland, but it does not reveal where fuel exhaustion or any later event occurred. Detailed radio records can coexist with large spatial uncertainty."
+        },
+        {
+          "blockId": "search-04",
+          "type": "AFTERMATH",
+          "headingKo": "실종 직후 해군과 Coast Guard는 대규모 수색을 벌였다",
+          "headingEn": "The Navy and Coast Guard Mounted a Major Search",
+          "textKo": "실종 뒤 미국 해군과 Coast Guard는 광범위한 해상·항공 수색을 실시했다. National Archives에는 Itasca의 search track, USS Colorado·Swan 등 함정의 deck log, 항공 수색 보고서와 전체 수색 chart가 남아 있다. “당시 아무도 제대로 찾지 않았다”는 설명은 이 기록과 맞지 않는다. 문제는 광대한 태평양에서 확정된 wreckage나 위치 단서를 찾지 못했다는 데 있다. 수색기록의 규모도 이 불확실성을 보여준다. NARA 목록에는 Itasca 자체의 항적뿐 아니라 USS Lexington 항공대, Colorado와 Swan의 항해기록, 여러 search chart가 포함돼 있다. 각각은 특정 날짜와 해역을 덮지만 태평양 전체를 빈틈없이 확인할 수는 없었다. 잔해가 작고 해류와 날씨가 변하는 해상수색에서는 “많이 찾았다”와 “모든 가능성을 제거했다”가 같은 뜻이 아니다.",
+          "textEn": "After contact was lost, the U.S. Navy and Coast Guard conducted an extensive air-and-sea search. The National Archives preserves Itasca search tracks, deck logs from ships including USS Colorado and USS Swan, search reports, and large charts showing areas covered. The claim that no serious search was conducted is inconsistent with this record. The problem is that no verified wreckage or location evidence was found across an enormous search area. The scale of the preserved search record also illustrates the uncertainty. NARA lists Itasca tracks, USS Lexington aircraft operations, logs from Colorado and Swan, and multiple search charts. Each covers particular dates and areas, but no search could inspect the entire Pacific without gaps. In an ocean search where wreckage may be small and conditions change, an extensive search is not the same as eliminating every possible location."
+        },
+        {
+          "blockId": "theories-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "추락설·Nikumaroro·일본 포로설은 증거 수준이 서로 다르다",
+          "headingEn": "Crash, Nikumaroro, and Capture Theories Do Not Have Equal Evidentiary Weight",
+          "textKo": "Earhart 실종 뒤 연료고갈 후 해상추락, Nikumaroro 착륙, 일본군 포로설 등 수많은 가설이 제기됐다. Smithsonian은 알려진 비행·무선기록을 바탕으로 Howland를 찾지 못해 연료가 소진되고 태평양에 ditch했을 가능성을 가장 전통적인 설명으로 제시한다. 그러나 기체나 유해가 확정 발견되지 않은 이상 exact crash point와 최종 과정은 직접 검증되지 않았다. 대체 가설도 각각 독립적인 물증과 provenance를 요구한다.",
+          "textEn": "Numerous theories followed the disappearance: fuel exhaustion and ocean ditching, landing at Nikumaroro, capture by Japan, and others. The Smithsonian presents failure to locate Howland followed by fuel exhaustion and ditching as the most straightforward explanation from the known flight record. But without a verified aircraft wreck or remains, the exact crash point and final sequence have not been directly demonstrated. Alternative theories likewise require independent physical evidence and provenance."
+        },
+        {
+          "blockId": "release-06",
+          "type": "BACKGROUND",
+          "headingKo": "2025~2026년 대규모 문서 공개는 기록을 늘렸지만 결론을 자동으로 바꾸진 않았다",
+          "headingEn": "The 2025–2026 Record Releases Expanded the Archive, Not the Certainty",
+          "textKo": "2025년 9월 추가 공개 지시 뒤 National Archives는 2025년 11~12월과 2026년 1월에 Earhart 관련 수천 쪽의 자료를 순차 공개했다. 여기에는 기존 정부기록, 정보기관·해군 자료, 구술자료와 과거 조사 관련 파일이 포함된다. 새 문서가 많다는 사실 자체는 특정 실종 가설을 입증하지 않는다. 기록 공개와 이론 검증은 별개의 단계이며, 문서의 작성시점·목적·1차성 여부를 따져야 한다. NARA 공개 목록만 보더라도 2025년 11월 14일 4,624쪽, 11월 25일 3,715쪽, 12월 17일 1,810쪽이 공개됐고 2026년 1월 9일에도 추가 파일이 게시됐다. 이 숫자는 기록 접근성의 확대를 보여주지만, 서로 다른 시대의 문서와 2차자료가 함께 포함될 수 있다. “새로 공개됐다”와 “새로운 1차증거가 발견됐다”는 동일한 문장이 아니다.",
+          "textEn": "After a September 2025 directive for additional disclosure, the National Archives released thousands of pages in batches during November and December 2025 and January 2026. The material includes government files, intelligence and naval records, oral-history material, and earlier investigative references. The existence of a large new archive does not itself prove any disappearance theory. Disclosure and evidentiary validation are separate steps, and each record must be evaluated for date, purpose, and provenance. NARA’s release index lists 4,624 pages on November 14, 2025, 3,715 pages on November 25, 1,810 pages on December 17, and additional files on January 9, 2026. Those numbers show a major expansion in public access, but the releases can include records from different periods and secondary material. “Newly released” is not synonymous with “newly discovered primary evidence.”"
+        },
+        {
+          "blockId": "legacy-07",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리가 너무 커져 비행사의 실제 업적을 가리기도 한다",
+          "headingEn": "The Mystery Can Overshadow the Aviator",
+          "textKo": "Earhart는 실종 전 이미 대서양 단독횡단, 장거리 기록, 여성 항공인 권리 확대 등으로 세계적 인물이 됐다. Smithsonian도 실종 이야기가 그녀의 실제 항공사적 유산을 가리는 경우가 있다고 지적한다. Mystery Atlas의 역할은 미스터리를 없애는 것이 아니라, 마지막 비행의 확인된 기록과 후대의 추정을 분리하는 것이다. 남는 공백이 크다고 해서 모든 설명이 같은 무게를 갖는 것은 아니다. 또한 사건을 후대의 단일 음모서사로만 읽으면 1937년 실제 항공기술과 항법·무선통신의 한계를 놓치게 된다. 기록을 시대의 기술조건과 함께 읽는 것이 마지막 비행을 과장 없이 이해하는 데 중요하다.",
+          "textEn": "Long before her disappearance, Earhart was already a major figure in aviation through record flights, a solo Atlantic crossing, and advocacy for women in flight. The Smithsonian notes that the disappearance can overshadow that real legacy. The purpose of a source-bounded account is not to erase the mystery, but to separate the documented final flight from later inference. A large unresolved gap does not give every theory equal evidentiary weight. Reading the disappearance only through later conspiracy narratives can obscure the real limits of 1937 navigation, radio communication, and aircraft endurance. The records make more sense when read within the technology of their time."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Earhart와 Noonan은 1937년 7월 2일 Lae에서 Howland로 향하다 무선교신 뒤 실종됐다. Itasca radio log와 대규모 해군·Coast Guard 수색 기록이 남아 있으며, 2025~2026년 추가 자료도 공개됐다.\n\n확인되지 않음: 항공기의 최종 위치, 정확한 추락·착륙 지점, 두 사람의 최후는 확정되지 않았다. 새 공개자료의 존재만으로 Nikumaroro·일본 포로설 등 특정 대체가설이 입증되는 것도 아니다.",
+          "textEn": "Established: Earhart and Noonan disappeared on July 2, 1937, while flying from Lae toward Howland Island. The Itasca radio log and extensive Navy and Coast Guard search records survive, and additional records were released in 2025–2026.\n\nNot established: The aircraft’s final location, exact crash or landing site, and the fate of Earhart and Noonan remain unconfirmed. The existence of newly released records does not by itself establish Nikumaroro, capture, or any other alternative theory."
+        }
+      ],
+      "factBoundary": {
+        "established": "Earhart and Noonan disappeared on July 2, 1937, while flying from Lae toward Howland Island. The Itasca radio log and extensive Navy and Coast Guard search records survive, and additional records were released in 2025–2026.",
+        "notEstablished": "The aircraft’s final location, exact crash or landing site, and the fate of Earhart and Noonan remain unconfirmed. The existence of newly released records does not by itself establish Nikumaroro, capture, or any other alternative theory."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "radio-02",
+        "last-03",
+        "search-04",
+        "theories-05",
+        "release-06",
+        "legacy-07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "AE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Earhart와 Noonan은 1937년 7월 2일 Lae에서 Howland로 향하다 실종됐다.",
+      "statementEn": "Earhart and Noonan disappeared on July 2, 1937, during the Lae-to-Howland leg.",
+      "sourceRefs": [
+        "NASM_EARHART",
+        "NARA_EARHART_LOG"
+      ]
+    },
+    {
+      "claimId": "AE-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Itasca는 Earhart의 여러 무선신호를 수신했고 08:43경 마지막 기록이 남아 있다.",
+      "statementEn": "Itasca received multiple Earhart transmissions, with the final recorded message at about 8:43 a.m.",
+      "sourceRefs": [
+        "NARA_EARHART_LOG"
+      ]
+    },
+    {
+      "claimId": "AE-C3",
+      "status": "CONFIRMED",
+      "statementKo": "해군과 Coast Guard는 광범위한 해상·항공 수색을 실시했다.",
+      "statementEn": "The Navy and Coast Guard conducted an extensive air-and-sea search.",
+      "sourceRefs": [
+        "NARA_EARHART_RECORDS"
+      ]
+    },
+    {
+      "claimId": "AE-C4",
+      "status": "CONFIRMED",
+      "statementKo": "NARA는 2025~2026년에 수천 쪽의 추가 관련 기록을 공개했다.",
+      "statementEn": "NARA released thousands of additional pages of Earhart-related records in 2025–2026.",
+      "sourceRefs": [
+        "NARA_EARHART_RELEASES"
+      ]
+    },
+    {
+      "claimId": "AE-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "최종 위치와 정확한 실종 원인은 확정되지 않았다.",
+      "statementEn": "The final location and exact cause of the disappearance are not established.",
+      "sourceRefs": [
+        "NARA_EARHART_RECORDS",
+        "NASM_EARHART"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NARA_EARHART_LOG",
+      "title": "Radio Log of the Last Communications of Amelia Earhart",
+      "publisher": "U.S. National Archives and Records Administration",
+      "url": "https://www.archives.gov/college-park/highlights/earhart-log",
+      "sourceType": "PRIMARY_ARCHIVAL_RECORD_GUIDE",
+      "scope": "Itasca radio log, last communication, search context"
+    },
+    {
+      "sourceId": "NARA_EARHART_RECORDS",
+      "title": "Records Relating to Amelia Earhart",
+      "publisher": "U.S. National Archives and Records Administration",
+      "url": "https://www.archives.gov/news/topics/earhart",
+      "sourceType": "ARCHIVAL_RECORD_GUIDE",
+      "scope": "Navy and Coast Guard search records, charts, logs, record groups"
+    },
+    {
+      "sourceId": "NARA_EARHART_RELEASES",
+      "title": "Records Related to Amelia Earhart",
+      "publisher": "U.S. National Archives and Records Administration",
+      "url": "https://www.archives.gov/research/ameliaearhart",
+      "sourceType": "OFFICIAL_RELEASE_INDEX",
+      "scope": "2025–2026 rolling releases and page counts"
+    },
+    {
+      "sourceId": "NASM_EARHART",
+      "title": "Amelia Earhart / Lockheed Vega and disappearance history",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "url": "https://airandspace.si.edu/collection-objects/amelia-earhart/nasm_A19500108000",
+      "sourceType": "NATIONAL_MUSEUM_HISTORY",
+      "scope": "world-flight route, Lae-Howland leg, communications context, mainstream reconstruction"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "amelia-earhart-v01",
+      "role": "CONTEXT_MAP",
+      "kind": "PROJECT_ORIGINAL_MAP",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "Lae → Howland final leg와 Itasca 위치를 개념적으로 표시. 정확한 실종점은 표시하지 않음.",
+      "captionEn": "Concept map of the Lae → Howland final leg and Itasca support position; no invented disappearance point.",
+      "sourceRefs": [
+        "NASM_EARHART",
+        "NARA_EARHART_LOG"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "representationLabel": "EXPLANATORY_SCHEMATIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "amelia-earhart-v01__ko.png",
+          "sha256": "6d63cfdb3a93daaf4b00727eaf8d0c54995a7e8da79c5285d6313d1e76e4980d",
+          "width": 1600,
+          "height": 900,
+          "bytes": 65359
+        },
+        "en": {
+          "fileName": "amelia-earhart-v01__en.png",
+          "sha256": "e30b9a48a415ce197faa86371050ee14b14759d24660264c3c27aa50a30ba98e",
+          "width": 1600,
+          "height": 900,
+          "bytes": 61416
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "amelia-earhart-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "Lae 출발 → 강해지는 무선신호 → 08:43 마지막 기록 → 수색 개시.",
+      "captionEn": "Lae departure → strengthening radio signals → 8:43 final record → search operations.",
+      "sourceRefs": [
+        "NARA_EARHART_LOG"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "amelia-earhart-v02__ko.png",
+          "sha256": "0087e833cdd3992622ccfc8d19168e4712b97d2496c9aff33637385b32f9f195",
+          "width": 1600,
+          "height": 900,
+          "bytes": 51693
+        },
+        "en": {
+          "fileName": "amelia-earhart-v02__en.png",
+          "sha256": "c922346527238d7ffb08c664b31dd0fa0db25b932d9b417c5db70d4537ad3f97",
+          "width": 1600,
+          "height": 900,
+          "bytes": 53082
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "amelia-earhart-v03",
+      "role": "SEARCH_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_MAP",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "NARA에 남은 함정·항공 수색기록의 범주를 보여주는 설명도.",
+      "captionEn": "Explanatory map of the categories of ship and aircraft search records preserved by NARA.",
+      "sourceRefs": [
+        "NARA_EARHART_RECORDS"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "representationLabel": "EXPLANATORY_SCHEMATIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "amelia-earhart-v03__ko.png",
+          "sha256": "a9f8ed0aacbf875b1801cb1ee8b6a8bc1c2aba6d57a3a8103be88b513419e2a4",
+          "width": 1600,
+          "height": 900,
+          "bytes": 62275
+        },
+        "en": {
+          "fileName": "amelia-earhart-v03__en.png",
+          "sha256": "07da3ffe832a9934e659be6ff460d800b666545b9059679e28305eb2ff230119",
+          "width": 1600,
+          "height": 900,
+          "bytes": 65990
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "amelia-earhart-v04",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 무선·수색 기록과 해상추락·Nikumaroro·포로설의 증거 경계를 분리.",
+      "captionEn": "Separate documented radio/search evidence from ditching, Nikumaroro, and capture hypotheses.",
+      "sourceRefs": [
+        "NARA_EARHART_LOG",
+        "NARA_EARHART_RECORDS",
+        "NASM_EARHART"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "amelia-earhart-v04__ko.png",
+          "sha256": "2180a43f9eed62defa73852a3a785c1e48f83dd6b0943b17709edc96320e38d6",
+          "width": 1600,
+          "height": 900,
+          "bytes": 69419
+        },
+        "en": {
+          "fileName": "amelia-earhart-v04__en.png",
+          "sha256": "c6dbbb3ee172ec649380a0bdb77fc78cf22de402e7a4b8e0327d67a39f5d6f0b",
+          "width": 1600,
+          "height": 900,
+          "bytes": 68723
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Disappearance",
+      "Historical Enigma"
+    ],
+    "countries": [
+      "Papua New Guinea",
+      "United States"
+    ],
+    "regions": [
+      "Central Pacific / Howland Island region"
+    ],
+    "places": [
+      {
+        "name": "Lae",
+        "role": "departure"
+      },
+      {
+        "name": "Howland Island",
+        "role": "intended destination"
+      }
+    ],
+    "people": [
+      {
+        "name": "Amelia Earhart",
+        "role": "pilot"
+      },
+      {
+        "name": "Fred Noonan",
+        "role": "navigator"
+      }
+    ],
+    "organizations": [
+      "U.S. Coast Guard",
+      "U.S. Navy",
+      "National Archives and Records Administration",
+      "Smithsonian National Air and Space Museum"
+    ],
+    "dateRange": {
+      "start": "1937-07-02",
+      "end": "2026-01-09",
+      "precision": "final flight through latest cited NARA release"
+    },
+    "era": "1930s aviation / modern archival reassessment",
+    "resolution": "AIRCRAFT_AND_CREW_MISSING_EXACT_LOCATION_UNRESOLVED",
+    "searchAliases": [
+      "Amelia Earhart",
+      "Fred Noonan",
+      "Itasca",
+      "Howland Island"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3023,
+    "enBodyWords": 874,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

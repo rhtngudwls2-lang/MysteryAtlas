@@ -1,0 +1,691 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "cahokia-decline",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "카호키아의 쇠퇴",
+    "canonicalTitleEn": "Decline of Cahokia",
+    "aliasesKo": [
+      "카호키아",
+      "카호키아 마운즈"
+    ],
+    "aliasesEn": [
+      "Cahokia Mounds",
+      "Cahokia decline"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "DEEP_DOSSIER",
+    "editorialFamily": "ARCHAEOLOGY_DOSSIER",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "DEEP_DOSSIER retained from recovered v1.8 scaffold; independent archaeology, flood, population-proxy and drought records support 16 evidence-dense blocks without padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "북미 최대급 선콜럼버스 도시는 왜 1200년 이후 힘을 잃었나",
+      "hook": "카호키아의 쇠퇴에는 홍수도, 가뭄도, 갈등도 보인다. 문제는 어느 하나가 아니라 이 압력들이 어떻게 겹쳤는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "천 년 전 미시시피 강 동쪽에 거대한 도시가 솟아올랐다",
+          "headingEn": "A Large City Rose East of the Mississippi a Thousand Years Ago",
+          "textKo": "오늘날 일리노이주 콜린스빌 인근의 카호키아 유적은 북미에서 가장 규모가 큰 선콜럼버스 도시 중심지 가운데 하나였다. 약 1050년을 전후해 인구와 건축이 빠르게 확대됐고, 거대한 토축인 Monks Mound를 중심으로 광장·주거지·목책·수십 개의 마운드가 복합적으로 배치됐다. NPS는 전성기 인구를 약 1만~2만 명으로 추정하며, 도시 영향권은 현대 세인트루이스 양쪽의 아메리칸 보텀까지 뻗었다고 설명한다. 카호키아의 미스터리는 ‘그들이 왜 사라졌나’보다 더 정확히는 ‘그렇게 빠르게 집중된 도시권이 왜 12세기 말부터 장기간 분산됐나’에 있다.",
+          "textEn": "Near present-day Collinsville, Illinois, Cahokia became one of the largest pre-Columbian urban centers north of Mexico. Around 1050 CE its population and monumental construction expanded rapidly. Monks Mound anchored a landscape of plazas, neighborhoods, palisades, and many smaller mounds. The National Park Service summarizes peak population estimates in the range of roughly 10,000 to 20,000, with Cahokia's wider influence extending across the American Bottom around modern St. Louis. The more precise mystery is not simply 'why did they disappear?' but why a rapidly concentrated urban system began a long process of dispersal after the late twelfth century."
+        },
+        {
+          "blockId": "boom-02",
+          "type": "BACKGROUND",
+          "headingKo": "카호키아의 성장은 자연스러운 마을 확대가 아니라 사회적 재편에 가까웠다",
+          "headingEn": "Cahokia's Rise Looked More Like Social Reorganization Than Simple Village Growth",
+          "textKo": "고고학자들은 11세기 중반 카호키아에서 나타난 인구집중과 의례·건축의 변화를 흔히 ‘Cahokia Big Bang’이라는 표현으로 설명한다. 이 말은 폭발적 사건 하나가 있었다는 뜻이 아니라, 비교적 짧은 기간에 정착 패턴과 공공건축, 의례, 농업생산, 권력관계가 함께 바뀌었다는 해석이다. 주변 지역에서 사람들이 들어왔고 옥수수 농업과 토착작물 재배가 대규모 인구를 떠받쳤다. 따라서 쇠퇴를 이해할 때도 단순히 ‘기후가 나빠져서 도시가 무너졌다’고 보면 부족하다. 성장 자체가 이미 인구·정치·종교·경제를 한 공간에 강하게 결합한 복합 시스템이었기 때문에, 이후의 스트레스 역시 여러 경로를 통해 동시에 작동할 수 있었다. 특히 1050년 이후 광장과 마운드, 주거구획이 함께 재편됐다는 점은 단순한 인구증가가 아니라 새로운 권력·의례 질서의 형성을 시사한다. 이처럼 빠른 집중은 성공의 조건인 동시에, 식량·노동·권위가 흔들릴 때 변화가 도시 전체로 퍼질 수 있는 구조적 취약성도 만들었다.",
+          "textEn": "Archaeologists often use the phrase 'Cahokia Big Bang' for the rapid demographic and social transformation around the mid-eleventh century. The phrase does not imply a single explosive event. It describes a comparatively fast reorganization of settlement, monumental construction, ritual life, agriculture, and political relations. People moved into the region, and maize plus indigenous crops supported a large population. That matters for the decline: a simple story that 'bad climate destroyed the city' is too narrow. Cahokia's growth had already tied population, authority, ritual, and food production into a complex system, so later stress could propagate through several channels at once. The simultaneous reorganization of plazas, mounds, and residential zones after 1050 suggests a new political-ritual order, not population growth alone. Rapid concentration could be both a strength and a structural vulnerability when food, labor, or authority came under stress."
+        },
+        {
+          "blockId": "peak-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "1050~1200년의 전성기 뒤 인구와 정치적 중심성이 함께 약해지기 시작했다",
+          "headingEn": "After the 1050–1200 Peak, Population and Political Centrality Began to Weaken",
+          "textKo": "NPS와 여러 고고학 연구가 공통으로 보여주는 시간축은 비교적 명확하다. 카호키아는 약 1050년 이후 급성장해 12세기에 가장 강한 중심성을 보였고, 1200년 전후부터 인구감소와 공간 재편이 나타난다. 이후 수세기 동안 점진적인 축소가 이어졌으며 14세기 무렵에는 중심 도시로서의 기능이 사실상 끝났다. 이 긴 시간축은 ‘하룻밤에 버려진 도시’라는 대중적 이미지를 수정한다. 어떤 재난이 한 번 발생해 모든 주민이 동시에 떠났다는 증거보다는, 세대에 걸친 이동과 재조직, 정치적 위상 변화가 누적된 그림에 가깝다.",
+          "textEn": "The broad chronology is relatively clear across National Park Service summaries and archaeological research. Cahokia expanded rapidly after about 1050, reached its strongest centrality in the twelfth century, and began showing demographic decline and spatial reorganization around 1200. Contraction continued over generations, and by the fourteenth century the site had largely ceased to function as a major urban center. This long chronology corrects the popular image of a city abandoned overnight. The evidence fits generations of migration, reorganization, and political change better than a single disaster that forced everyone out at once."
+        },
+        {
+          "blockId": "flood-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "퇴적물 기록은 오랫동안 드물던 대홍수가 다시 돌아온 시기를 가리킨다",
+          "headingEn": "Sediment Records Point to the Return of Large Floods After a Long Quiet Interval",
+          "textKo": "2015년 PNAS 연구는 미시시피 범람원 호수의 퇴적층에서 대규모 홍수 흔적을 추적했다. 연구진은 약 600년부터 1200년 사이에는 큰 홍수의 빈도가 낮았고, 카호키아가 성장한 시기가 이 상대적으로 안정적인 수문환경과 겹친다고 봤다. 반대로 1200년 무렵부터 대규모 홍수 흔적이 다시 나타났으며, 이 변화가 사회정치적 재편과 인구감소의 시작과 겹친다고 보고했다. 홍수는 주거지뿐 아니라 작물·저장시설·이동망·농경지를 동시에 흔들 수 있다. 그러나 ‘홍수가 있었으니 홍수가 카호키아를 끝냈다’고 단정할 수는 없다. 시간적 겹침은 중요한 단서지만 단일 인과관계를 자동으로 증명하지 않는다. PNAS 연구가 강조한 것은 홍수 한 번의 파괴력보다 수백 년간 낮았던 대홍수 빈도가 다시 높아졌다는 장기적 regime shift다. 주민 입장에서는 한 번의 침수뿐 아니라 농경지와 저장, 재건비용을 반복해서 고려해야 했을 가능성이 있다.",
+          "textEn": "A 2015 PNAS study traced large Mississippi floods in lake sediments from the floodplain. It found a long interval of reduced major-flood frequency from roughly 600 to 1200 CE, overlapping with Cahokia's rise. Large-flood deposits returned around the period when sociopolitical reorganization and population decline began. Flooding can disrupt housing, crops, storage, movement, and fields at the same time. But temporal overlap is not proof that 'a flood ended Cahokia.' The sediment record is an important line of evidence, not a complete single-cause explanation. The PNAS result is important not only because one flood occurred, but because a centuries-long low-flood regime appears to have shifted back toward larger events. Repeated rebuilding, crop loss, and storage risk could matter more than a single inundation."
+        },
+        {
+          "blockId": "drought-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 전환기에 여름 강수 감소와 농업 스트레스의 흔적도 나타난다",
+          "headingEn": "The Same Transition Also Shows Evidence of Reduced Summer Rainfall and Agricultural Stress",
+          "textKo": "2019년 PNAS 연구는 Horseshoe Lake의 퇴적물에 남은 분변성 스테롤을 인구 변화의 대리지표로 사용하고, 같은 코어의 수문·기후 지표와 비교했다. 결과는 약 1150년 무렵 인구감소가 시작되는 시기에 미시시피 홍수와 여름철 강수 감소가 함께 나타났음을 보여줬다. 연구진은 이 두 환경 스트레스가 농업과 식량체계에 부담을 줬을 가능성을 제시하면서도, 사회적 긴장과 정치·경제적 문제를 함께 고려해야 한다고 명시했다. 즉 홍수와 가뭄이 서로 반대처럼 보이지만 다른 계절·시간규모에서 동시에 시스템을 압박할 수 있었다는 점이 핵심이다. 같은 코어에서 인구대리와 기후대리가 함께 측정됐다는 점은 서로 다른 지역자료를 억지로 맞춘 것보다 강한 장점이다. 그럼에도 연대모델에는 오차가 있으므로 ‘특정 해의 가뭄 직후 특정 집단이 떠났다’는 수준의 미세한 인과까지 읽어낼 수는 없다.",
+          "textEn": "A 2019 PNAS study used fecal stanols in Horseshoe Lake sediments as a population proxy and compared them with hydrological and climate indicators from the same core. The study found that population decline around the mid-twelfth century coincided with both a Mississippi flood and reduced warm-season precipitation. The authors proposed that these environmental stresses could have burdened agriculture and food systems, while explicitly emphasizing social, political, and economic factors as well. Flood and drought need not be mutually exclusive explanations: at different seasons and timescales they could stress the same system. Measuring population and climate proxies in the same core is a methodological strength, but age models still have uncertainty. The record cannot identify a specific household moving immediately after a specific drought year."
+        },
+        {
+          "blockId": "palisade-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "목책과 사회적 긴장의 증거는 환경압력만으로 설명하기 어려운 층위를 보여준다",
+          "headingEn": "Palisades and Signs of Social Tension Add a Layer Climate Alone Cannot Explain",
+          "textKo": "카호키아 중심부에는 여러 차례 재건된 대형 목책이 있었다. 방어 목적, 공간 통제, 의례적 경계 등 정확한 기능에 대해서는 논의가 있지만, 거대한 노동력을 동원해 경계를 만든 사실은 후기 카호키아의 정치·사회적 환경이 단순하지 않았음을 보여준다. 일부 연구는 외부 충돌이나 내부 갈등 가능성을 언급하지만, 목책 자체만으로 전면전이 카호키아 붕괴의 단일 원인이었다고 확정할 수는 없다. 오히려 환경 스트레스가 식량·권력·인구 이동 문제를 악화시키고, 사회적 갈등이 다시 회복력을 낮추는 상호작용을 생각하는 편이 현재의 복합 증거에 더 잘 맞는다. 목책이 반복 재건됐다는 사실은 상당한 노동동원이 계속 가능했다는 의미이기도 하다. 따라서 목책은 단순히 ‘도시가 이미 붕괴했다’는 표식이 아니라, 긴장 속에서도 권력과 공동체가 자원을 동원하며 대응했던 흔적으로 읽을 수 있다.",
+          "textEn": "Cahokia's central precinct included large palisades rebuilt more than once. Their exact functions—defense, controlled space, ritual boundary, or a combination—remain debated, but mobilizing the labor to construct them shows that late Cahokian political and social life was not simple. Some interpretations point to external conflict or internal tension, yet the palisade alone cannot prove that warfare was the single cause of decline. A better fit to the evidence is interaction: environmental stress could aggravate food, authority, and migration problems, while social conflict could in turn reduce the system's ability to recover. Repeated rebuilding also implies that substantial labor mobilization remained possible. The palisade is therefore evidence of response under tension, not simply proof that the city had already collapsed."
+        },
+        {
+          "blockId": "resources-07",
+          "type": "HYPOTHESIS",
+          "headingKo": "목재·토양·농경 부담은 가능한 배경이지만 ‘생태자살’ 서사는 지나치게 단순하다",
+          "headingEn": "Resource and Agricultural Pressure May Have Mattered, but 'Ecological Suicide' Is Too Simple",
+          "textKo": "대도시를 유지하려면 주택과 연료, 목책용 목재, 농경지, 저장과 운송이 필요하다. 그래서 카호키아의 쇠퇴는 오랫동안 산림훼손이나 토양고갈 같은 자원 과잉사용으로 설명되기도 했다. 그러나 지역 환경은 균일하지 않았고 주민들은 농업·수렵·어로·채집을 섞어 사용했다. 특정 자원압력이 실제로 존재했더라도 그것이 곧 ‘사람들이 자연을 파괴해 스스로 도시를 멸망시켰다’는 도덕극을 입증하지 않는다. 자원 이용은 홍수·가뭄·인구밀도·정치적 재분배와 연결된 하나의 변수로 보는 것이 더 안전하다. 특히 대형 목책과 건물의 반복 건축은 목재수요를 크게 만들었지만, 주변 산림이 정확히 어느 속도로 고갈됐는지와 그 부담이 식량체계에 얼마나 직접 연결됐는지는 지역별 자료가 더 필요하다. 자원압력은 가능성의 층위에서 다뤄야 한다.",
+          "textEn": "A large city required timber for houses, fuel, and palisades, along with fields, storage, and transport. Cahokia's decline has therefore often been explained through deforestation, soil depletion, or other forms of resource overuse. But the regional environment was not uniform, and residents combined farming with hunting, fishing, and gathering. Even if specific resource pressures existed, they do not automatically prove a moralized story in which people simply destroyed nature and thereby destroyed their own city. Resource use is better treated as one variable interacting with floods, drought, population density, and political redistribution. Repeated construction implies large timber demand, yet the rate and local consequences of forest depletion are not known precisely enough to make resource exhaustion a stand-alone conclusion."
+        },
+        {
+          "blockId": "migration-08",
+          "type": "TURNING_POINT",
+          "headingKo": "‘사라짐’보다 중요한 것은 사람들이 다른 곳으로 이동하고 새로운 공동체를 만들었다는 점이다",
+          "headingEn": "What Matters More Than 'Disappearance' Is That People Moved and Reorganized Elsewhere",
+          "textKo": "카호키아의 인구가 줄었다고 해서 주민들이 갑자기 역사에서 사라진 것은 아니다. 고고학적 인구지표와 정착 패턴은 아메리칸 보텀의 중심집중이 약해지는 동시에 주변 지역으로 이동과 재배치가 진행됐음을 시사한다. 도시 중심이 해체되는 과정은 사람의 소멸과 같은 말이 아니다. 후대 원주민 사회와의 관계를 단순한 일직선 계보로 확정하기는 어렵지만, 미시시피 문화권의 사람과 전통은 광범위한 지역에서 계속됐다. ‘잃어버린 문명’이라는 표현은 흥미롭지만 실제 변화는 도시 네트워크의 분산과 정치적 재편에 더 가깝다. 최근 연구는 카호키아 이후 Horseshoe Lake 유역의 재점유와 이후 인구변화도 추적해, ‘한 번 비워진 뒤 영원히 빈 공간’이라는 그림을 수정한다. 특정 도시형태의 종료와 지역 자체의 인간역사가 끝났다는 주장을 구분해야 한다.",
+          "textEn": "Population decline at Cahokia does not mean its residents suddenly vanished from history. Archaeological population proxies and settlement patterns indicate weakening concentration in the American Bottom alongside movement and resettlement elsewhere. The dissolution of an urban center is not the disappearance of a people. Direct one-to-one genealogical links to later Indigenous nations are complex and should not be asserted casually, but Mississippian peoples and traditions continued across a broad region. The popular phrase 'lost civilization' obscures a process better described as dispersal of an urban network and political reorganization. Later work on post-Cahokia occupation around Horseshoe Lake also complicates the idea of a permanently empty landscape. The end of one urban form is not the end of human history in the region."
+        },
+        {
+          "blockId": "proxy-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "인구감소를 ‘세어본’ 것이 아니라 호수 퇴적물 속 인간활동 대리지표로 추적했다",
+          "headingEn": "Population Decline Was Tracked Through Proxies in Lake Sediment, Not by a Direct Census",
+          "textKo": "카호키아 연구에서 중요한 발전은 도시 인구를 단순한 유적 밀도만으로 추정하지 않고 주변 호수 퇴적물의 화학신호를 함께 사용한 것이다. 사람과 가축의 배설물에서 유래하는 fecal stanol은 유역 내 인간활동이 많을수록 퇴적물에 더 강하게 남을 수 있다. 2019년 연구는 이 지표를 같은 코어의 홍수퇴적층과 산소동위원소 기후지표와 직접 비교해, 인구대리 신호의 하락과 수문스트레스가 겹치는 시점을 좁혔다. 하지만 대리지표는 ‘정확히 몇 명이 살았다’를 직접 세는 센서가 아니다. 유역 범위, 배설물 유입경로, 퇴적환경, 연대모델의 불확실성이 있기 때문에 고고학적 주거·건축 자료와 함께 읽어야 한다. 여러 독립 자료가 같은 방향을 가리킬 때 해석의 신뢰도가 올라간다는 점이 이 연구의 핵심이다.",
+          "textEn": "A major advance in Cahokia research is the use of lake-sediment chemistry alongside conventional archaeological evidence rather than relying only on settlement density. Fecal stanols derived from human and animal waste can increase in sediments when activity in a watershed is high. The 2019 study compared this population proxy directly with flood deposits and oxygen-isotope climate indicators from the same sediment core, narrowing the timing between declining human activity and hydroclimatic stress. But a proxy is not a direct census. Watershed boundaries, transport pathways, depositional conditions, and age-model uncertainty all matter. The interpretation is strongest when chemical proxies and archaeological settlement evidence point in the same direction."
+        },
+        {
+          "blockId": "late-drought-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1200~1400년의 건조화는 쇠퇴 후반부가 왜 회복되지 않았는지를 설명하는 추가 단서다",
+          "headingEn": "Drying From 1200 to 1400 Helps Explain Why the Later Decline Did Not Reverse",
+          "textKo": "2021년 Scientific Reports 연구는 Horseshoe Lake의 1600년 산소동위원소 기록을 이용해 카호키아 인근의 장기 effective moisture 변화를 복원했다. 연구에서는 1000~1200년 무렵 비교적 습한 조건이 카호키아의 성장기와 겹친 반면, 1200년 이후에는 강수 대비 증발이 커지는 건조화가 나타나고 1350~1450년에는 특히 심한 가뭄이 이어졌다고 해석했다. 이 결과는 초기 인구감소 시점의 홍수·여름강수 문제와 별개로, 쇠퇴 후반 수세기 동안 농업 기반의 회복을 어렵게 했을 장기 기후배경을 제시한다. 다만 기후가 악화됐다는 사실이 정치적 결속이나 이주결정을 직접 결정했다는 뜻은 아니다. 같은 기후충격에도 사회조직과 이동가능성에 따라 대응은 달라질 수 있다.",
+          "textEn": "A 2021 Scientific Reports study used a 1,600-year oxygen-isotope record from Horseshoe Lake to reconstruct long-term effective moisture near Cahokia. It found relatively wet conditions around 1000–1200, overlapping with Cahokia's growth, followed by drying after 1200 and especially severe drought during the later fourteenth and fifteenth centuries. This adds a long-duration climate background that may help explain why the later stages of decline did not reverse, complementing evidence for floods and reduced summer rainfall near the onset of demographic change. But climate deterioration does not directly determine political cohesion or migration choices. Societies can respond differently to similar environmental shocks depending on institutions, mobility, and social organization."
+        },
+        {
+          "blockId": "landuse-095",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "토지이용 신호가 약해진 시점도 ‘도시 기능의 축소’가 실제였음을 보강한다",
+          "headingEn": "Declining Land-Use Signals Reinforce That Urban Activity Truly Contracted",
+          "textKo": "Horseshoe Lake 연구에서는 fecal stanol뿐 아니라 납 농도와 질소동위원소처럼 인간의 토지이용·침식과 연관될 수 있는 지화학 신호도 비교됐다. 일부 신호는 12세기 인간활동이 강할 때 높아졌다가 13~14세기 인구분산과 함께 배경수준으로 내려가는 경향을 보인다. 이런 자료는 ‘유적이 덜 보이는 것은 발굴편향 때문일 뿐’이라는 단순한 반론을 약화시키지만, 특정 지표 하나가 정치권력의 크기나 정확한 인구수를 직접 재는 것은 아니다. 중요한 것은 건축활동, 정착패턴, 호수퇴적물의 인간활동 proxy가 서로 다른 방식으로 도시집중이 실제로 줄어들었다는 그림을 보강한다는 점이다. 쇠퇴는 하나의 흔적이 아니라 여러 기록층의 동시 변화로 읽힌다.",
+          "textEn": "Research at Horseshoe Lake has compared fecal stanols with other geochemical signals, including lead and nitrogen-isotope changes that can reflect human land use and disturbance. Some of these signals rose during periods of intensive twelfth-century activity and later moved back toward background levels as population decentralized in the thirteenth and fourteenth centuries. Such evidence weakens a simple claim that the apparent decline is merely an excavation artifact, though no single chemical marker directly measures political power or an exact population count. The strength lies in convergence: construction, settlement patterns, and lake-sediment proxies independently reinforce a picture of genuinely reduced urban concentration."
+        },
+        {
+          "blockId": "causality-105",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "연대가 겹친다는 사실과 원인이 증명됐다는 말 사이에는 한 단계가 더 있다",
+          "headingEn": "Temporal Overlap Is Not the Same as Demonstrated Causation",
+          "textKo": "카호키아처럼 문헌기록이 없는 사회의 장기변화를 연구할 때 가장 큰 함정은 두 사건이 비슷한 시기에 일어났다는 이유만으로 직접 인과를 확정하는 것이다. 홍수층의 연대, 호수 동위원소의 연대, 마운드 건축과 주거지 점유연대는 모두 오차범위를 가진다. 환경스트레스가 인구감소에 선행했는지, 이미 진행 중인 정치·경제 변화에 추가 부담을 줬는지, 혹은 지역마다 다른 순서로 작동했는지를 세밀하게 구분해야 한다. 그래서 최신 연구들은 ‘기후가 카호키아를 멸망시켰다’보다 농업의 취약성, 재난의 반복, 정치적 재편, 이동이 서로 영향을 주었다는 모델을 선호한다. 불확실성을 남기는 것은 설명력이 부족해서가 아니라 자료의 시간해상도와 인과추론의 한계를 정직하게 반영하는 방식이다.",
+          "textEn": "The largest trap in studying long-term change in a society without written records is to turn chronological overlap directly into causation. Flood layers, lake-isotope records, mound construction, and residential occupation all carry dating uncertainty. Researchers must ask whether environmental stress preceded demographic decline, added pressure to political and economic changes already underway, or operated in different sequences across the region. This is why current studies generally favor interaction among agricultural vulnerability, repeated hazards, political reorganization, and mobility over the sentence 'climate destroyed Cahokia.' Preserving uncertainty is not a weakness; it reflects the time resolution of the evidence and the limits of causal inference."
+        },
+        {
+          "blockId": "singlecause-09",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "홍수 하나, 가뭄 하나, 전쟁 하나로 끝난 이야기가 아닌 이유",
+          "headingEn": "Why Flood, Drought, or War Alone Does Not Close the Case",
+          "textKo": "카호키아 쇠퇴를 둘러싼 거의 모든 유명 가설에는 실제 증거가 일부 있다. 큰 홍수의 귀환은 퇴적층에 남아 있고, 여름 강수 감소도 독립 지표에서 보이며, 목책과 정치적 변화는 사회적 긴장을 생각하게 한다. 문제는 각각의 단서를 ‘진짜 원인’으로 승격시키는 순간 나머지 증거를 설명하기 어려워진다는 데 있다. 2019년 연구가 강조하듯 환경 변화는 사회·정치·경제 조건과 함께 작동했을 가능성이 크다. 복합원인 모델은 모호함을 피하려는 타협이 아니라, 서로 다른 데이터가 실제로 다른 종류의 스트레스를 가리키기 때문에 필요한 해석이다. 실제로 홍수는 너무 많은 물, 가뭄은 너무 적은 물이라는 반대 방향의 위험이지만, 농업사회에는 둘 다 생산 변동성과 저장부담을 키울 수 있다. 정치적 갈등은 그런 변동성을 완충할 제도를 약화시키거나 반대로 재분배를 강화하는 계기가 될 수도 있다.",
+          "textEn": "Nearly every famous Cahokia-decline hypothesis has some real evidence behind it. Large floods reappear in sediment records, reduced summer rainfall appears in independent proxies, and palisades plus political change suggest social tension. The problem comes when one clue is promoted into the single 'true cause,' because the remaining evidence then becomes harder to explain. As the 2019 study emphasizes, environmental change likely operated alongside social, political, and economic conditions. A multi-causal model is not a retreat into vagueness; it is required because different datasets point to different forms of stress. Flood and drought are opposite hydrological extremes, but both can raise production variability and storage costs. Political organization can either buffer those shocks or amplify them."
+        },
+        {
+          "blockId": "tempo-10",
+          "type": "CHRONOLOGY",
+          "headingKo": "쇠퇴는 하나의 날짜가 아니라 12~14세기에 걸친 여러 단계의 과정이었다",
+          "headingEn": "Decline Was a Multi-Stage Process Across the Twelfth to Fourteenth Centuries",
+          "textKo": "고고학적 ‘쇠퇴’에는 서로 다른 시계가 있다. 어떤 구역은 일찍 비워지고 다른 구역은 더 오래 유지될 수 있으며, 인구감소와 의례 변화, 공공건축 중단, 지역권력 약화가 같은 해에 일어나지 않는다. 연구에 따라 카호키아 중심부와 주변 아메리칸 보텀의 최종 축소 시점도 세부적으로 다르게 잡힌다. 따라서 1200년을 경계로 ‘그날부터 멸망’했다고 그리는 것은 부정확하다. 더 나은 서사는 12세기 중후반의 스트레스 증가, 1200년 전후의 인구·정치 재편, 이후 장기적인 분산과 14세기 도시중심 기능 소멸을 연속선으로 놓는 것이다. 서로 다른 연구가 1350, 1400, 1450처럼 최종 depopulation 시점을 다르게 표현하는 것도 ‘틀린 연대’라기보다 측정대상과 Greater Cahokia의 범위를 어디까지 잡느냐가 다르기 때문이다. 기사에서는 하나의 단일 종료연도를 과도하게 고정하지 않는 편이 안전하다.",
+          "textEn": "Archaeological 'decline' runs on several clocks. One district can empty before another; demographic decline, ritual change, the end of public construction, and loss of regional power need not occur in the same year. Studies also differ in detail over when the Cahokia core and the wider American Bottom reached their final low points. Treating 1200 as a date when the city suddenly 'fell' is therefore inaccurate. A better narrative is a sequence: mounting stress in the later twelfth century, demographic and political reorganization around 1200, then long-term dispersal and the loss of Cahokia's urban-center role during the fourteenth century. Different studies cite final-depopulation dates such as 1350, 1400, or 1450 partly because they measure different precincts and define Greater Cahokia differently. A single absolute 'fall date' would be misleading."
+        },
+        {
+          "blockId": "legacy-11",
+          "type": "AFTERMATH",
+          "headingKo": "세계유산으로 남은 카호키아는 ‘실패한 도시’보다 복잡한 적응의 기록이다",
+          "headingEn": "As a World Heritage Site, Cahokia Is Better Read as a Record of Complex Adaptation Than a 'Failed City'",
+          "textKo": "UNESCO 세계유산인 카호키아 마운즈는 북미 원주민 사회가 대규모 인구와 공공건축, 장거리 교류를 조직할 수 있었음을 분명히 보여준다. 쇠퇴 연구의 의미도 ‘왜 원주민 도시가 실패했나’를 묻는 데 그치지 않는다. 강의 범람주기, 농업수분, 인구밀도, 정치권력, 이동성이 결합된 사회가 변화하는 환경 속에서 어떤 선택을 했는지를 보여주는 장기 사례다. 주민들이 다른 지역으로 이동한 사실까지 포함하면, 결말은 완전한 붕괴라기보다 특정 형태의 도시집중이 해체되고 다른 정착·정치 방식으로 전환된 과정으로 읽을 수 있다.",
+          "textEn": "Cahokia Mounds, a UNESCO World Heritage Site, demonstrates that Indigenous societies in North America organized large populations, monumental public works, and long-distance exchange. Research on its decline is therefore not simply a question of why an Indigenous city 'failed.' It is a long case study in how flood regimes, agricultural moisture, population density, political authority, and mobility interacted as conditions changed. Once migration is included, the ending looks less like total collapse and more like the dissolution of one form of urban concentration followed by other settlement and political arrangements."
+        },
+        {
+          "blockId": "boundary-12",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 카호키아는 약 1050년 이후 급성장한 대규모 미시시피 문화 도시 중심지였고, 12세기 말~13세기부터 인구와 중심성이 감소했다. 퇴적물·분변성 스테롤·기후 대리지표는 쇠퇴가 시작되는 전환기에 대규모 홍수의 귀환과 여름 강수 감소가 겹쳤음을 보여준다. 목책과 정착 재편 등 사회적 변화의 증거도 존재한다.\n\n확인되지 않음: 홍수, 가뭄, 자원고갈, 전쟁, 정치갈등 가운데 하나가 카호키아의 ‘단일 원인’이었다는 것은 입증되지 않았다. 모든 주민이 한 번의 재난으로 동시에 떠났다는 증거도 없다. 현재 증거는 여러 환경·사회 스트레스와 장기간의 이동·재조직이 결합된 설명을 가장 잘 지지한다.",
+          "textEn": "Established: Cahokia grew rapidly after about 1050 into a major Mississippian urban center, then lost population and regional centrality from the late twelfth and thirteenth centuries onward. Sediment, fecal-stanol, and climate-proxy records show that the onset of decline overlapped with renewed large flooding and reduced warm-season precipitation. Evidence of palisades and settlement reorganization also documents social change.\n\nNot established: No single factor—flood, drought, resource depletion, warfare, or political conflict—has been demonstrated as the sole cause of Cahokia's decline. There is no evidence that all residents left simultaneously after one catastrophe. The current evidence best supports interacting environmental and social stresses combined with long-term migration and reorganization."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 카호키아는 약 1050년 이후 급성장한 대규모 미시시피 문화 도시 중심지였고, 12세기 말~13세기부터 인구와 중심성이 감소했다. 퇴적물·분변성 스테롤·기후 대리지표는 쇠퇴가 시작되는 전환기에 대규모 홍수의 귀환과 여름 강수 감소가 겹쳤음을 보여준다. 목책과 정착 재편 등 사회적 변화의 증거도 존재한다.",
+        "notEstablished": "확인되지 않음: 홍수, 가뭄, 자원고갈, 전쟁, 정치갈등 가운데 하나가 카호키아의 ‘단일 원인’이었다는 것은 입증되지 않았다. 모든 주민이 한 번의 재난으로 동시에 떠났다는 증거도 없다. 현재 증거는 여러 환경·사회 스트레스와 장기간의 이동·재조직이 결합된 설명을 가장 잘 지지한다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "boom-02",
+        "peak-03",
+        "flood-04",
+        "drought-05",
+        "palisade-06",
+        "resources-07",
+        "migration-08",
+        "proxy-075",
+        "late-drought-085",
+        "landuse-095",
+        "causality-105",
+        "singlecause-09",
+        "tempo-10",
+        "legacy-11"
+      ]
+    },
+    "en": {
+      "headline": "Why Did One of North America's Greatest Pre-Columbian Cities Lose Its Center After 1200?",
+      "hook": "Floods, drought, and social tension all appear in Cahokia's decline. The harder question is how those pressures interacted.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "천 년 전 미시시피 강 동쪽에 거대한 도시가 솟아올랐다",
+          "headingEn": "A Large City Rose East of the Mississippi a Thousand Years Ago",
+          "textKo": "오늘날 일리노이주 콜린스빌 인근의 카호키아 유적은 북미에서 가장 규모가 큰 선콜럼버스 도시 중심지 가운데 하나였다. 약 1050년을 전후해 인구와 건축이 빠르게 확대됐고, 거대한 토축인 Monks Mound를 중심으로 광장·주거지·목책·수십 개의 마운드가 복합적으로 배치됐다. NPS는 전성기 인구를 약 1만~2만 명으로 추정하며, 도시 영향권은 현대 세인트루이스 양쪽의 아메리칸 보텀까지 뻗었다고 설명한다. 카호키아의 미스터리는 ‘그들이 왜 사라졌나’보다 더 정확히는 ‘그렇게 빠르게 집중된 도시권이 왜 12세기 말부터 장기간 분산됐나’에 있다.",
+          "textEn": "Near present-day Collinsville, Illinois, Cahokia became one of the largest pre-Columbian urban centers north of Mexico. Around 1050 CE its population and monumental construction expanded rapidly. Monks Mound anchored a landscape of plazas, neighborhoods, palisades, and many smaller mounds. The National Park Service summarizes peak population estimates in the range of roughly 10,000 to 20,000, with Cahokia's wider influence extending across the American Bottom around modern St. Louis. The more precise mystery is not simply 'why did they disappear?' but why a rapidly concentrated urban system began a long process of dispersal after the late twelfth century."
+        },
+        {
+          "blockId": "boom-02",
+          "type": "BACKGROUND",
+          "headingKo": "카호키아의 성장은 자연스러운 마을 확대가 아니라 사회적 재편에 가까웠다",
+          "headingEn": "Cahokia's Rise Looked More Like Social Reorganization Than Simple Village Growth",
+          "textKo": "고고학자들은 11세기 중반 카호키아에서 나타난 인구집중과 의례·건축의 변화를 흔히 ‘Cahokia Big Bang’이라는 표현으로 설명한다. 이 말은 폭발적 사건 하나가 있었다는 뜻이 아니라, 비교적 짧은 기간에 정착 패턴과 공공건축, 의례, 농업생산, 권력관계가 함께 바뀌었다는 해석이다. 주변 지역에서 사람들이 들어왔고 옥수수 농업과 토착작물 재배가 대규모 인구를 떠받쳤다. 따라서 쇠퇴를 이해할 때도 단순히 ‘기후가 나빠져서 도시가 무너졌다’고 보면 부족하다. 성장 자체가 이미 인구·정치·종교·경제를 한 공간에 강하게 결합한 복합 시스템이었기 때문에, 이후의 스트레스 역시 여러 경로를 통해 동시에 작동할 수 있었다. 특히 1050년 이후 광장과 마운드, 주거구획이 함께 재편됐다는 점은 단순한 인구증가가 아니라 새로운 권력·의례 질서의 형성을 시사한다. 이처럼 빠른 집중은 성공의 조건인 동시에, 식량·노동·권위가 흔들릴 때 변화가 도시 전체로 퍼질 수 있는 구조적 취약성도 만들었다.",
+          "textEn": "Archaeologists often use the phrase 'Cahokia Big Bang' for the rapid demographic and social transformation around the mid-eleventh century. The phrase does not imply a single explosive event. It describes a comparatively fast reorganization of settlement, monumental construction, ritual life, agriculture, and political relations. People moved into the region, and maize plus indigenous crops supported a large population. That matters for the decline: a simple story that 'bad climate destroyed the city' is too narrow. Cahokia's growth had already tied population, authority, ritual, and food production into a complex system, so later stress could propagate through several channels at once. The simultaneous reorganization of plazas, mounds, and residential zones after 1050 suggests a new political-ritual order, not population growth alone. Rapid concentration could be both a strength and a structural vulnerability when food, labor, or authority came under stress."
+        },
+        {
+          "blockId": "peak-03",
+          "type": "CHRONOLOGY",
+          "headingKo": "1050~1200년의 전성기 뒤 인구와 정치적 중심성이 함께 약해지기 시작했다",
+          "headingEn": "After the 1050–1200 Peak, Population and Political Centrality Began to Weaken",
+          "textKo": "NPS와 여러 고고학 연구가 공통으로 보여주는 시간축은 비교적 명확하다. 카호키아는 약 1050년 이후 급성장해 12세기에 가장 강한 중심성을 보였고, 1200년 전후부터 인구감소와 공간 재편이 나타난다. 이후 수세기 동안 점진적인 축소가 이어졌으며 14세기 무렵에는 중심 도시로서의 기능이 사실상 끝났다. 이 긴 시간축은 ‘하룻밤에 버려진 도시’라는 대중적 이미지를 수정한다. 어떤 재난이 한 번 발생해 모든 주민이 동시에 떠났다는 증거보다는, 세대에 걸친 이동과 재조직, 정치적 위상 변화가 누적된 그림에 가깝다.",
+          "textEn": "The broad chronology is relatively clear across National Park Service summaries and archaeological research. Cahokia expanded rapidly after about 1050, reached its strongest centrality in the twelfth century, and began showing demographic decline and spatial reorganization around 1200. Contraction continued over generations, and by the fourteenth century the site had largely ceased to function as a major urban center. This long chronology corrects the popular image of a city abandoned overnight. The evidence fits generations of migration, reorganization, and political change better than a single disaster that forced everyone out at once."
+        },
+        {
+          "blockId": "flood-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "퇴적물 기록은 오랫동안 드물던 대홍수가 다시 돌아온 시기를 가리킨다",
+          "headingEn": "Sediment Records Point to the Return of Large Floods After a Long Quiet Interval",
+          "textKo": "2015년 PNAS 연구는 미시시피 범람원 호수의 퇴적층에서 대규모 홍수 흔적을 추적했다. 연구진은 약 600년부터 1200년 사이에는 큰 홍수의 빈도가 낮았고, 카호키아가 성장한 시기가 이 상대적으로 안정적인 수문환경과 겹친다고 봤다. 반대로 1200년 무렵부터 대규모 홍수 흔적이 다시 나타났으며, 이 변화가 사회정치적 재편과 인구감소의 시작과 겹친다고 보고했다. 홍수는 주거지뿐 아니라 작물·저장시설·이동망·농경지를 동시에 흔들 수 있다. 그러나 ‘홍수가 있었으니 홍수가 카호키아를 끝냈다’고 단정할 수는 없다. 시간적 겹침은 중요한 단서지만 단일 인과관계를 자동으로 증명하지 않는다. PNAS 연구가 강조한 것은 홍수 한 번의 파괴력보다 수백 년간 낮았던 대홍수 빈도가 다시 높아졌다는 장기적 regime shift다. 주민 입장에서는 한 번의 침수뿐 아니라 농경지와 저장, 재건비용을 반복해서 고려해야 했을 가능성이 있다.",
+          "textEn": "A 2015 PNAS study traced large Mississippi floods in lake sediments from the floodplain. It found a long interval of reduced major-flood frequency from roughly 600 to 1200 CE, overlapping with Cahokia's rise. Large-flood deposits returned around the period when sociopolitical reorganization and population decline began. Flooding can disrupt housing, crops, storage, movement, and fields at the same time. But temporal overlap is not proof that 'a flood ended Cahokia.' The sediment record is an important line of evidence, not a complete single-cause explanation. The PNAS result is important not only because one flood occurred, but because a centuries-long low-flood regime appears to have shifted back toward larger events. Repeated rebuilding, crop loss, and storage risk could matter more than a single inundation."
+        },
+        {
+          "blockId": "drought-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 전환기에 여름 강수 감소와 농업 스트레스의 흔적도 나타난다",
+          "headingEn": "The Same Transition Also Shows Evidence of Reduced Summer Rainfall and Agricultural Stress",
+          "textKo": "2019년 PNAS 연구는 Horseshoe Lake의 퇴적물에 남은 분변성 스테롤을 인구 변화의 대리지표로 사용하고, 같은 코어의 수문·기후 지표와 비교했다. 결과는 약 1150년 무렵 인구감소가 시작되는 시기에 미시시피 홍수와 여름철 강수 감소가 함께 나타났음을 보여줬다. 연구진은 이 두 환경 스트레스가 농업과 식량체계에 부담을 줬을 가능성을 제시하면서도, 사회적 긴장과 정치·경제적 문제를 함께 고려해야 한다고 명시했다. 즉 홍수와 가뭄이 서로 반대처럼 보이지만 다른 계절·시간규모에서 동시에 시스템을 압박할 수 있었다는 점이 핵심이다. 같은 코어에서 인구대리와 기후대리가 함께 측정됐다는 점은 서로 다른 지역자료를 억지로 맞춘 것보다 강한 장점이다. 그럼에도 연대모델에는 오차가 있으므로 ‘특정 해의 가뭄 직후 특정 집단이 떠났다’는 수준의 미세한 인과까지 읽어낼 수는 없다.",
+          "textEn": "A 2019 PNAS study used fecal stanols in Horseshoe Lake sediments as a population proxy and compared them with hydrological and climate indicators from the same core. The study found that population decline around the mid-twelfth century coincided with both a Mississippi flood and reduced warm-season precipitation. The authors proposed that these environmental stresses could have burdened agriculture and food systems, while explicitly emphasizing social, political, and economic factors as well. Flood and drought need not be mutually exclusive explanations: at different seasons and timescales they could stress the same system. Measuring population and climate proxies in the same core is a methodological strength, but age models still have uncertainty. The record cannot identify a specific household moving immediately after a specific drought year."
+        },
+        {
+          "blockId": "palisade-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "목책과 사회적 긴장의 증거는 환경압력만으로 설명하기 어려운 층위를 보여준다",
+          "headingEn": "Palisades and Signs of Social Tension Add a Layer Climate Alone Cannot Explain",
+          "textKo": "카호키아 중심부에는 여러 차례 재건된 대형 목책이 있었다. 방어 목적, 공간 통제, 의례적 경계 등 정확한 기능에 대해서는 논의가 있지만, 거대한 노동력을 동원해 경계를 만든 사실은 후기 카호키아의 정치·사회적 환경이 단순하지 않았음을 보여준다. 일부 연구는 외부 충돌이나 내부 갈등 가능성을 언급하지만, 목책 자체만으로 전면전이 카호키아 붕괴의 단일 원인이었다고 확정할 수는 없다. 오히려 환경 스트레스가 식량·권력·인구 이동 문제를 악화시키고, 사회적 갈등이 다시 회복력을 낮추는 상호작용을 생각하는 편이 현재의 복합 증거에 더 잘 맞는다. 목책이 반복 재건됐다는 사실은 상당한 노동동원이 계속 가능했다는 의미이기도 하다. 따라서 목책은 단순히 ‘도시가 이미 붕괴했다’는 표식이 아니라, 긴장 속에서도 권력과 공동체가 자원을 동원하며 대응했던 흔적으로 읽을 수 있다.",
+          "textEn": "Cahokia's central precinct included large palisades rebuilt more than once. Their exact functions—defense, controlled space, ritual boundary, or a combination—remain debated, but mobilizing the labor to construct them shows that late Cahokian political and social life was not simple. Some interpretations point to external conflict or internal tension, yet the palisade alone cannot prove that warfare was the single cause of decline. A better fit to the evidence is interaction: environmental stress could aggravate food, authority, and migration problems, while social conflict could in turn reduce the system's ability to recover. Repeated rebuilding also implies that substantial labor mobilization remained possible. The palisade is therefore evidence of response under tension, not simply proof that the city had already collapsed."
+        },
+        {
+          "blockId": "resources-07",
+          "type": "HYPOTHESIS",
+          "headingKo": "목재·토양·농경 부담은 가능한 배경이지만 ‘생태자살’ 서사는 지나치게 단순하다",
+          "headingEn": "Resource and Agricultural Pressure May Have Mattered, but 'Ecological Suicide' Is Too Simple",
+          "textKo": "대도시를 유지하려면 주택과 연료, 목책용 목재, 농경지, 저장과 운송이 필요하다. 그래서 카호키아의 쇠퇴는 오랫동안 산림훼손이나 토양고갈 같은 자원 과잉사용으로 설명되기도 했다. 그러나 지역 환경은 균일하지 않았고 주민들은 농업·수렵·어로·채집을 섞어 사용했다. 특정 자원압력이 실제로 존재했더라도 그것이 곧 ‘사람들이 자연을 파괴해 스스로 도시를 멸망시켰다’는 도덕극을 입증하지 않는다. 자원 이용은 홍수·가뭄·인구밀도·정치적 재분배와 연결된 하나의 변수로 보는 것이 더 안전하다. 특히 대형 목책과 건물의 반복 건축은 목재수요를 크게 만들었지만, 주변 산림이 정확히 어느 속도로 고갈됐는지와 그 부담이 식량체계에 얼마나 직접 연결됐는지는 지역별 자료가 더 필요하다. 자원압력은 가능성의 층위에서 다뤄야 한다.",
+          "textEn": "A large city required timber for houses, fuel, and palisades, along with fields, storage, and transport. Cahokia's decline has therefore often been explained through deforestation, soil depletion, or other forms of resource overuse. But the regional environment was not uniform, and residents combined farming with hunting, fishing, and gathering. Even if specific resource pressures existed, they do not automatically prove a moralized story in which people simply destroyed nature and thereby destroyed their own city. Resource use is better treated as one variable interacting with floods, drought, population density, and political redistribution. Repeated construction implies large timber demand, yet the rate and local consequences of forest depletion are not known precisely enough to make resource exhaustion a stand-alone conclusion."
+        },
+        {
+          "blockId": "migration-08",
+          "type": "TURNING_POINT",
+          "headingKo": "‘사라짐’보다 중요한 것은 사람들이 다른 곳으로 이동하고 새로운 공동체를 만들었다는 점이다",
+          "headingEn": "What Matters More Than 'Disappearance' Is That People Moved and Reorganized Elsewhere",
+          "textKo": "카호키아의 인구가 줄었다고 해서 주민들이 갑자기 역사에서 사라진 것은 아니다. 고고학적 인구지표와 정착 패턴은 아메리칸 보텀의 중심집중이 약해지는 동시에 주변 지역으로 이동과 재배치가 진행됐음을 시사한다. 도시 중심이 해체되는 과정은 사람의 소멸과 같은 말이 아니다. 후대 원주민 사회와의 관계를 단순한 일직선 계보로 확정하기는 어렵지만, 미시시피 문화권의 사람과 전통은 광범위한 지역에서 계속됐다. ‘잃어버린 문명’이라는 표현은 흥미롭지만 실제 변화는 도시 네트워크의 분산과 정치적 재편에 더 가깝다. 최근 연구는 카호키아 이후 Horseshoe Lake 유역의 재점유와 이후 인구변화도 추적해, ‘한 번 비워진 뒤 영원히 빈 공간’이라는 그림을 수정한다. 특정 도시형태의 종료와 지역 자체의 인간역사가 끝났다는 주장을 구분해야 한다.",
+          "textEn": "Population decline at Cahokia does not mean its residents suddenly vanished from history. Archaeological population proxies and settlement patterns indicate weakening concentration in the American Bottom alongside movement and resettlement elsewhere. The dissolution of an urban center is not the disappearance of a people. Direct one-to-one genealogical links to later Indigenous nations are complex and should not be asserted casually, but Mississippian peoples and traditions continued across a broad region. The popular phrase 'lost civilization' obscures a process better described as dispersal of an urban network and political reorganization. Later work on post-Cahokia occupation around Horseshoe Lake also complicates the idea of a permanently empty landscape. The end of one urban form is not the end of human history in the region."
+        },
+        {
+          "blockId": "proxy-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "인구감소를 ‘세어본’ 것이 아니라 호수 퇴적물 속 인간활동 대리지표로 추적했다",
+          "headingEn": "Population Decline Was Tracked Through Proxies in Lake Sediment, Not by a Direct Census",
+          "textKo": "카호키아 연구에서 중요한 발전은 도시 인구를 단순한 유적 밀도만으로 추정하지 않고 주변 호수 퇴적물의 화학신호를 함께 사용한 것이다. 사람과 가축의 배설물에서 유래하는 fecal stanol은 유역 내 인간활동이 많을수록 퇴적물에 더 강하게 남을 수 있다. 2019년 연구는 이 지표를 같은 코어의 홍수퇴적층과 산소동위원소 기후지표와 직접 비교해, 인구대리 신호의 하락과 수문스트레스가 겹치는 시점을 좁혔다. 하지만 대리지표는 ‘정확히 몇 명이 살았다’를 직접 세는 센서가 아니다. 유역 범위, 배설물 유입경로, 퇴적환경, 연대모델의 불확실성이 있기 때문에 고고학적 주거·건축 자료와 함께 읽어야 한다. 여러 독립 자료가 같은 방향을 가리킬 때 해석의 신뢰도가 올라간다는 점이 이 연구의 핵심이다.",
+          "textEn": "A major advance in Cahokia research is the use of lake-sediment chemistry alongside conventional archaeological evidence rather than relying only on settlement density. Fecal stanols derived from human and animal waste can increase in sediments when activity in a watershed is high. The 2019 study compared this population proxy directly with flood deposits and oxygen-isotope climate indicators from the same sediment core, narrowing the timing between declining human activity and hydroclimatic stress. But a proxy is not a direct census. Watershed boundaries, transport pathways, depositional conditions, and age-model uncertainty all matter. The interpretation is strongest when chemical proxies and archaeological settlement evidence point in the same direction."
+        },
+        {
+          "blockId": "late-drought-085",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1200~1400년의 건조화는 쇠퇴 후반부가 왜 회복되지 않았는지를 설명하는 추가 단서다",
+          "headingEn": "Drying From 1200 to 1400 Helps Explain Why the Later Decline Did Not Reverse",
+          "textKo": "2021년 Scientific Reports 연구는 Horseshoe Lake의 1600년 산소동위원소 기록을 이용해 카호키아 인근의 장기 effective moisture 변화를 복원했다. 연구에서는 1000~1200년 무렵 비교적 습한 조건이 카호키아의 성장기와 겹친 반면, 1200년 이후에는 강수 대비 증발이 커지는 건조화가 나타나고 1350~1450년에는 특히 심한 가뭄이 이어졌다고 해석했다. 이 결과는 초기 인구감소 시점의 홍수·여름강수 문제와 별개로, 쇠퇴 후반 수세기 동안 농업 기반의 회복을 어렵게 했을 장기 기후배경을 제시한다. 다만 기후가 악화됐다는 사실이 정치적 결속이나 이주결정을 직접 결정했다는 뜻은 아니다. 같은 기후충격에도 사회조직과 이동가능성에 따라 대응은 달라질 수 있다.",
+          "textEn": "A 2021 Scientific Reports study used a 1,600-year oxygen-isotope record from Horseshoe Lake to reconstruct long-term effective moisture near Cahokia. It found relatively wet conditions around 1000–1200, overlapping with Cahokia's growth, followed by drying after 1200 and especially severe drought during the later fourteenth and fifteenth centuries. This adds a long-duration climate background that may help explain why the later stages of decline did not reverse, complementing evidence for floods and reduced summer rainfall near the onset of demographic change. But climate deterioration does not directly determine political cohesion or migration choices. Societies can respond differently to similar environmental shocks depending on institutions, mobility, and social organization."
+        },
+        {
+          "blockId": "landuse-095",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "토지이용 신호가 약해진 시점도 ‘도시 기능의 축소’가 실제였음을 보강한다",
+          "headingEn": "Declining Land-Use Signals Reinforce That Urban Activity Truly Contracted",
+          "textKo": "Horseshoe Lake 연구에서는 fecal stanol뿐 아니라 납 농도와 질소동위원소처럼 인간의 토지이용·침식과 연관될 수 있는 지화학 신호도 비교됐다. 일부 신호는 12세기 인간활동이 강할 때 높아졌다가 13~14세기 인구분산과 함께 배경수준으로 내려가는 경향을 보인다. 이런 자료는 ‘유적이 덜 보이는 것은 발굴편향 때문일 뿐’이라는 단순한 반론을 약화시키지만, 특정 지표 하나가 정치권력의 크기나 정확한 인구수를 직접 재는 것은 아니다. 중요한 것은 건축활동, 정착패턴, 호수퇴적물의 인간활동 proxy가 서로 다른 방식으로 도시집중이 실제로 줄어들었다는 그림을 보강한다는 점이다. 쇠퇴는 하나의 흔적이 아니라 여러 기록층의 동시 변화로 읽힌다.",
+          "textEn": "Research at Horseshoe Lake has compared fecal stanols with other geochemical signals, including lead and nitrogen-isotope changes that can reflect human land use and disturbance. Some of these signals rose during periods of intensive twelfth-century activity and later moved back toward background levels as population decentralized in the thirteenth and fourteenth centuries. Such evidence weakens a simple claim that the apparent decline is merely an excavation artifact, though no single chemical marker directly measures political power or an exact population count. The strength lies in convergence: construction, settlement patterns, and lake-sediment proxies independently reinforce a picture of genuinely reduced urban concentration."
+        },
+        {
+          "blockId": "causality-105",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "연대가 겹친다는 사실과 원인이 증명됐다는 말 사이에는 한 단계가 더 있다",
+          "headingEn": "Temporal Overlap Is Not the Same as Demonstrated Causation",
+          "textKo": "카호키아처럼 문헌기록이 없는 사회의 장기변화를 연구할 때 가장 큰 함정은 두 사건이 비슷한 시기에 일어났다는 이유만으로 직접 인과를 확정하는 것이다. 홍수층의 연대, 호수 동위원소의 연대, 마운드 건축과 주거지 점유연대는 모두 오차범위를 가진다. 환경스트레스가 인구감소에 선행했는지, 이미 진행 중인 정치·경제 변화에 추가 부담을 줬는지, 혹은 지역마다 다른 순서로 작동했는지를 세밀하게 구분해야 한다. 그래서 최신 연구들은 ‘기후가 카호키아를 멸망시켰다’보다 농업의 취약성, 재난의 반복, 정치적 재편, 이동이 서로 영향을 주었다는 모델을 선호한다. 불확실성을 남기는 것은 설명력이 부족해서가 아니라 자료의 시간해상도와 인과추론의 한계를 정직하게 반영하는 방식이다.",
+          "textEn": "The largest trap in studying long-term change in a society without written records is to turn chronological overlap directly into causation. Flood layers, lake-isotope records, mound construction, and residential occupation all carry dating uncertainty. Researchers must ask whether environmental stress preceded demographic decline, added pressure to political and economic changes already underway, or operated in different sequences across the region. This is why current studies generally favor interaction among agricultural vulnerability, repeated hazards, political reorganization, and mobility over the sentence 'climate destroyed Cahokia.' Preserving uncertainty is not a weakness; it reflects the time resolution of the evidence and the limits of causal inference."
+        },
+        {
+          "blockId": "singlecause-09",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "홍수 하나, 가뭄 하나, 전쟁 하나로 끝난 이야기가 아닌 이유",
+          "headingEn": "Why Flood, Drought, or War Alone Does Not Close the Case",
+          "textKo": "카호키아 쇠퇴를 둘러싼 거의 모든 유명 가설에는 실제 증거가 일부 있다. 큰 홍수의 귀환은 퇴적층에 남아 있고, 여름 강수 감소도 독립 지표에서 보이며, 목책과 정치적 변화는 사회적 긴장을 생각하게 한다. 문제는 각각의 단서를 ‘진짜 원인’으로 승격시키는 순간 나머지 증거를 설명하기 어려워진다는 데 있다. 2019년 연구가 강조하듯 환경 변화는 사회·정치·경제 조건과 함께 작동했을 가능성이 크다. 복합원인 모델은 모호함을 피하려는 타협이 아니라, 서로 다른 데이터가 실제로 다른 종류의 스트레스를 가리키기 때문에 필요한 해석이다. 실제로 홍수는 너무 많은 물, 가뭄은 너무 적은 물이라는 반대 방향의 위험이지만, 농업사회에는 둘 다 생산 변동성과 저장부담을 키울 수 있다. 정치적 갈등은 그런 변동성을 완충할 제도를 약화시키거나 반대로 재분배를 강화하는 계기가 될 수도 있다.",
+          "textEn": "Nearly every famous Cahokia-decline hypothesis has some real evidence behind it. Large floods reappear in sediment records, reduced summer rainfall appears in independent proxies, and palisades plus political change suggest social tension. The problem comes when one clue is promoted into the single 'true cause,' because the remaining evidence then becomes harder to explain. As the 2019 study emphasizes, environmental change likely operated alongside social, political, and economic conditions. A multi-causal model is not a retreat into vagueness; it is required because different datasets point to different forms of stress. Flood and drought are opposite hydrological extremes, but both can raise production variability and storage costs. Political organization can either buffer those shocks or amplify them."
+        },
+        {
+          "blockId": "tempo-10",
+          "type": "CHRONOLOGY",
+          "headingKo": "쇠퇴는 하나의 날짜가 아니라 12~14세기에 걸친 여러 단계의 과정이었다",
+          "headingEn": "Decline Was a Multi-Stage Process Across the Twelfth to Fourteenth Centuries",
+          "textKo": "고고학적 ‘쇠퇴’에는 서로 다른 시계가 있다. 어떤 구역은 일찍 비워지고 다른 구역은 더 오래 유지될 수 있으며, 인구감소와 의례 변화, 공공건축 중단, 지역권력 약화가 같은 해에 일어나지 않는다. 연구에 따라 카호키아 중심부와 주변 아메리칸 보텀의 최종 축소 시점도 세부적으로 다르게 잡힌다. 따라서 1200년을 경계로 ‘그날부터 멸망’했다고 그리는 것은 부정확하다. 더 나은 서사는 12세기 중후반의 스트레스 증가, 1200년 전후의 인구·정치 재편, 이후 장기적인 분산과 14세기 도시중심 기능 소멸을 연속선으로 놓는 것이다. 서로 다른 연구가 1350, 1400, 1450처럼 최종 depopulation 시점을 다르게 표현하는 것도 ‘틀린 연대’라기보다 측정대상과 Greater Cahokia의 범위를 어디까지 잡느냐가 다르기 때문이다. 기사에서는 하나의 단일 종료연도를 과도하게 고정하지 않는 편이 안전하다.",
+          "textEn": "Archaeological 'decline' runs on several clocks. One district can empty before another; demographic decline, ritual change, the end of public construction, and loss of regional power need not occur in the same year. Studies also differ in detail over when the Cahokia core and the wider American Bottom reached their final low points. Treating 1200 as a date when the city suddenly 'fell' is therefore inaccurate. A better narrative is a sequence: mounting stress in the later twelfth century, demographic and political reorganization around 1200, then long-term dispersal and the loss of Cahokia's urban-center role during the fourteenth century. Different studies cite final-depopulation dates such as 1350, 1400, or 1450 partly because they measure different precincts and define Greater Cahokia differently. A single absolute 'fall date' would be misleading."
+        },
+        {
+          "blockId": "legacy-11",
+          "type": "AFTERMATH",
+          "headingKo": "세계유산으로 남은 카호키아는 ‘실패한 도시’보다 복잡한 적응의 기록이다",
+          "headingEn": "As a World Heritage Site, Cahokia Is Better Read as a Record of Complex Adaptation Than a 'Failed City'",
+          "textKo": "UNESCO 세계유산인 카호키아 마운즈는 북미 원주민 사회가 대규모 인구와 공공건축, 장거리 교류를 조직할 수 있었음을 분명히 보여준다. 쇠퇴 연구의 의미도 ‘왜 원주민 도시가 실패했나’를 묻는 데 그치지 않는다. 강의 범람주기, 농업수분, 인구밀도, 정치권력, 이동성이 결합된 사회가 변화하는 환경 속에서 어떤 선택을 했는지를 보여주는 장기 사례다. 주민들이 다른 지역으로 이동한 사실까지 포함하면, 결말은 완전한 붕괴라기보다 특정 형태의 도시집중이 해체되고 다른 정착·정치 방식으로 전환된 과정으로 읽을 수 있다.",
+          "textEn": "Cahokia Mounds, a UNESCO World Heritage Site, demonstrates that Indigenous societies in North America organized large populations, monumental public works, and long-distance exchange. Research on its decline is therefore not simply a question of why an Indigenous city 'failed.' It is a long case study in how flood regimes, agricultural moisture, population density, political authority, and mobility interacted as conditions changed. Once migration is included, the ending looks less like total collapse and more like the dissolution of one form of urban concentration followed by other settlement and political arrangements."
+        },
+        {
+          "blockId": "boundary-12",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 카호키아는 약 1050년 이후 급성장한 대규모 미시시피 문화 도시 중심지였고, 12세기 말~13세기부터 인구와 중심성이 감소했다. 퇴적물·분변성 스테롤·기후 대리지표는 쇠퇴가 시작되는 전환기에 대규모 홍수의 귀환과 여름 강수 감소가 겹쳤음을 보여준다. 목책과 정착 재편 등 사회적 변화의 증거도 존재한다.\n\n확인되지 않음: 홍수, 가뭄, 자원고갈, 전쟁, 정치갈등 가운데 하나가 카호키아의 ‘단일 원인’이었다는 것은 입증되지 않았다. 모든 주민이 한 번의 재난으로 동시에 떠났다는 증거도 없다. 현재 증거는 여러 환경·사회 스트레스와 장기간의 이동·재조직이 결합된 설명을 가장 잘 지지한다.",
+          "textEn": "Established: Cahokia grew rapidly after about 1050 into a major Mississippian urban center, then lost population and regional centrality from the late twelfth and thirteenth centuries onward. Sediment, fecal-stanol, and climate-proxy records show that the onset of decline overlapped with renewed large flooding and reduced warm-season precipitation. Evidence of palisades and settlement reorganization also documents social change.\n\nNot established: No single factor—flood, drought, resource depletion, warfare, or political conflict—has been demonstrated as the sole cause of Cahokia's decline. There is no evidence that all residents left simultaneously after one catastrophe. The current evidence best supports interacting environmental and social stresses combined with long-term migration and reorganization."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Cahokia grew rapidly after about 1050 into a major Mississippian urban center, then lost population and regional centrality from the late twelfth and thirteenth centuries onward. Sediment, fecal-stanol, and climate-proxy records show that the onset of decline overlapped with renewed large flooding and reduced warm-season precipitation. Evidence of palisades and settlement reorganization also documents social change.",
+        "notEstablished": "Not established: No single factor—flood, drought, resource depletion, warfare, or political conflict—has been demonstrated as the sole cause of Cahokia's decline. There is no evidence that all residents left simultaneously after one catastrophe. The current evidence best supports interacting environmental and social stresses combined with long-term migration and reorganization."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "boom-02",
+        "peak-03",
+        "flood-04",
+        "drought-05",
+        "palisade-06",
+        "resources-07",
+        "migration-08",
+        "proxy-075",
+        "late-drought-085",
+        "landuse-095",
+        "causality-105",
+        "singlecause-09",
+        "tempo-10",
+        "legacy-11"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CAH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "카호키아는 약 1050년 이후 급성장했고 12세기에 북미 최대급 선콜럼버스 도시 중심지였다.",
+      "statementEn": "Cahokia expanded rapidly after about 1050 and became one of the largest pre-Columbian urban centers north of Mexico.",
+      "sourceRefs": [
+        "NPS_CAHOKIA",
+        "UNESCO_CAHOKIA"
+      ]
+    },
+    {
+      "claimId": "CAH-C2",
+      "status": "SUPPORTED",
+      "statementKo": "전성기 인구는 대략 1만~2만 명 범위로 자주 추정된다.",
+      "statementEn": "Peak population is commonly estimated in a range of roughly 10,000 to 20,000.",
+      "sourceRefs": [
+        "NPS_CAHOKIA"
+      ]
+    },
+    {
+      "claimId": "CAH-C3",
+      "status": "CONFIRMED",
+      "statementKo": "대규모 홍수의 귀환은 카호키아의 인구·사회정치적 쇠퇴 시기와 겹친다.",
+      "statementEn": "The return of major floods overlapped with Cahokia's demographic and sociopolitical decline.",
+      "sourceRefs": [
+        "PNAS_FLOOD_2015"
+      ]
+    },
+    {
+      "claimId": "CAH-C4",
+      "status": "SUPPORTED",
+      "statementKo": "약 1150년 전후의 홍수와 여름 강수 감소가 인구감소와 겹쳤다는 다중대리지표 연구가 있다.",
+      "statementEn": "Multi-proxy research finds that a flood and reduced warm-season precipitation around the mid-twelfth century coincided with population decline.",
+      "sourceRefs": [
+        "PNAS_STANOL_2019"
+      ]
+    },
+    {
+      "claimId": "CAH-C5",
+      "status": "CONFIRMED",
+      "statementKo": "카호키아의 도시 중심성은 13~14세기에 장기간 약화됐고 한 번의 하룻밤 재난으로 사라진 것으로 보이지 않는다.",
+      "statementEn": "Cahokia's urban centrality weakened over the thirteenth and fourteenth centuries rather than ending in a single overnight catastrophe.",
+      "sourceRefs": [
+        "NPS_CAHOKIA",
+        "PNAS_FLOOD_2015"
+      ]
+    },
+    {
+      "claimId": "CAH-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "홍수·가뭄·자원고갈·전쟁 가운데 하나가 유일한 붕괴 원인이었다는 것은 확정되지 않았다.",
+      "statementEn": "No single factor among flooding, drought, resource depletion, or warfare is established as the sole cause.",
+      "sourceRefs": [
+        "PNAS_STANOL_2019",
+        "PNAS_FLOOD_2015"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NPS_CAHOKIA",
+      "title": "Midwest Region's Only World Heritage Site and a Promise of More to Come",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/articles/midwest-region-s-only-world-heritage-site-and-a-promise-of-more-to-come.htm",
+      "sourceType": "US_GOVERNMENT_HISTORY",
+      "scope": "site chronology, scale, peak population and significance"
+    },
+    {
+      "sourceId": "UNESCO_CAHOKIA",
+      "title": "Cahokia Mounds State Historic Site",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/198",
+      "sourceType": "UNESCO_SITE_RECORD",
+      "scope": "World Heritage significance and site description"
+    },
+    {
+      "sourceId": "PNAS_FLOOD_2015",
+      "title": "Cahokia’s emergence and decline coincided with shifts of flood frequency on the Mississippi River",
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4443319/",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "flood frequency reconstruction and Cahokia chronology"
+    },
+    {
+      "sourceId": "PNAS_STANOL_2019",
+      "title": "Fecal stanols show simultaneous flooding and seasonal precipitation change correlate with Cahokia’s population decline",
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6431169/",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "population proxy, flooding, warm-season precipitation and multicausal interpretation"
+    },
+    {
+      "sourceId": "SCIREP_CAHOKIA_2021",
+      "title": "Hydroclimatic change and Cahokia population decline",
+      "publisher": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-021-92900-x",
+      "sourceType": "PEER_REVIEWED",
+      "scope": "later hydroclimatic context and decline"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cahokia-v01",
+      "role": "HERO_CONTEXT",
+      "kind": "PROJECT_ORIGINAL_MAP",
+      "status": "CREATED",
+      "captionKo": "미시시피강·아메리칸 보텀·카호키아·Horseshoe Lake의 관계를 보여주는 위치도.",
+      "captionEn": "Context map of the Mississippi River, American Bottom, Cahokia, and Horseshoe Lake.",
+      "sourceRefs": [
+        "NPS_CAHOKIA",
+        "PNAS_STANOL_2019"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cahokia-v01__ko.png",
+          "sha256": "98ef8e6518caa70074ae83061bb3593dd18a020c2d2569f640961e62494cec5d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cahokia-v01__en.png",
+          "sha256": "c9be6a76994fd0697fb39b8a538bc42d00a21098129e22611947cdbe93e352a5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cahokia-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "CREATED",
+      "captionKo": "약 1050 급성장 → 12세기 전성기 → 1150~1200 환경·인구 전환 → 13~14세기 장기 분산.",
+      "captionEn": "c.1050 expansion → twelfth-century peak → 1150–1200 environmental/demographic transition → thirteenth–fourteenth-century dispersal.",
+      "sourceRefs": [
+        "NPS_CAHOKIA",
+        "PNAS_FLOOD_2015"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cahokia-v02__ko.png",
+          "sha256": "e7e2a3e5ff224b09237469706d924024a48efb4df28fc5a20ceeb4e9308112be",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cahokia-v02__en.png",
+          "sha256": "fc80f702aa4766d4c8b44a002008209e5a8d957482d904bbdcf7f171c03b08f4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cahokia-v03",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "CREATED",
+      "captionKo": "홍수·여름강수 감소·농업·정치갈등·이동을 단일 원인이 아닌 상호작용망으로 표시.",
+      "captionEn": "Interaction diagram linking floods, reduced summer rainfall, agriculture, political tension, and migration without assigning a single cause.",
+      "sourceRefs": [
+        "PNAS_STANOL_2019"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cahokia-v03__ko.png",
+          "sha256": "b2f86225e021881519081a51c8b2030f88a7642e1bae2421513c0a4bfd16d4d5",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cahokia-v03__en.png",
+          "sha256": "3796c33a48a77604ce0fc6b519ab9dff0634334c15312ffe9c86a8a257948249",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cahokia-v04",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "퇴적층 홍수기록 / fecal stanol 인구대리 / 기후지표 / 고고학 정착증거의 서로 다른 증거층.",
+      "captionEn": "Separate evidence layers: flood sediments, fecal-stanol population proxy, climate indicators, and archaeological settlement evidence.",
+      "sourceRefs": [
+        "PNAS_FLOOD_2015",
+        "PNAS_STANOL_2019"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cahokia-v04__ko.png",
+          "sha256": "f0e16faa4f6a3eeee7b51cc051304126ccbc9e0cc700f923f4b0c7c39ebc0049",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cahokia-v04__en.png",
+          "sha256": "2f95d48abaf638d6dc64dce18a0b786863b510f7678636fac4c5eed962f113ba",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cahokia-v05",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "CREATED",
+      "captionKo": "‘한 번의 재난’ 서사와 장기 복합원인·이동 모델 비교.",
+      "captionEn": "Comparison of a single-catastrophe story with the evidence for long-term, multi-causal change and migration.",
+      "sourceRefs": [
+        "NPS_CAHOKIA",
+        "PNAS_STANOL_2019"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "cahokia-v05__ko.png",
+          "sha256": "eb6c08166380b98c3d9749987e443d763b4b9ec735e64d8b99290277ef8f8d25",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "cahokia-v05__en.png",
+          "sha256": "ccb411f19e0bd2d0791442ac2b184bbf13242bb463686ba92f31366dcd9f8040",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Paleoclimate / Environment",
+      "Urbanism / Migration"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Illinois",
+      "American Bottom"
+    ],
+    "places": [
+      {
+        "name": "Cahokia Mounds",
+        "role": "urban and ceremonial center"
+      },
+      {
+        "name": "Horseshoe Lake",
+        "role": "paleoenvironmental and population-proxy record"
+      },
+      {
+        "name": "Monks Mound",
+        "role": "major monumental earthwork"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. National Park Service",
+      "UNESCO World Heritage Centre"
+    ],
+    "dateRange": {
+      "start": "1050",
+      "end": "1400",
+      "precision": "urban expansion through late decline/dispersal"
+    },
+    "era": "Mississippian period",
+    "resolution": "LONG_TERM_MULTICAUSAL_DECLINE_AND_DISPERSAL_SINGLE_CAUSE_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Cahokia",
+      "Cahokia Mounds",
+      "Cahokia decline",
+      "Mississippian Cahokia"
+    ],
+    "relatedCases": [
+      "rapa-nui-moai"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 6284,
+    "enBodyWords": 1802,
+    "meaningfulBlockCount": 16,
+    "visualPlacementCount": 5,
+    "sourceCount": 5,
+    "claimCount": 6,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH32_MANIFEST_v1.0.json",
+    "assetGroups": 5,
+    "localizedFiles": 10,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

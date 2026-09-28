@@ -1,0 +1,481 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "lake-nyos",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "니오스 호수 가스 참사",
+    "canonicalTitleEn": "Lake Nyos Disaster",
+    "aliasesKo": [
+      "니오스 호수 참사",
+      "Lake Nyos 가스 참사"
+    ],
+    "aliasesEn": [
+      "Lake Nyos gas disaster",
+      "Lake Nyos limnic eruption"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SCIENCE_DISASTER",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "불도 연기도 없었다—호수에서 나온 보이지 않는 가스가 어떻게 1,700명 이상을 죽였나",
+      "hook": "원인은 “독가스 공격”도 새 화산분화도 아니었다. 오랫동안 호수 깊은 곳에 녹아 있던 CO₂가 한꺼번에 빠져나왔다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1986년 8월 21일, 폭발음보다 먼저 보이지 않는 기체가 계곡을 채웠다",
+          "headingEn": "On August 21, 1986, an Invisible Gas Cloud Filled the Valleys",
+          "textKo": "카메룬 북서부의 Lake Nyos에서 1986년 8월 21일 갑작스러운 가스 방출이 일어났다. USGS 현장조사팀은 최소 1,700명이 사망했고 다수의 가축이 질식했다고 보고했다. 사건은 화산 분화가 마을을 덮친 모습과 달랐다. 호수 자체에서 대량의 이산화탄소가 빠르게 빠져나와 공기보다 무거운 구름을 만들었고, 낮은 지형을 따라 흘러내리며 산소를 밀어냈다.",
+          "textEn": "On August 21, 1986, Lake Nyos in northwestern Cameroon released a massive volume of gas. The U.S. Geological Survey investigation reported at least about 1,700 deaths, along with large numbers of livestock, primarily from asphyxiation. This was not a conventional volcanic eruption sweeping through villages. Carbon dioxide escaped rapidly from the lake, formed a dense cloud heavier than air, and flowed into low-lying terrain where it displaced breathable oxygen."
+        },
+        {
+          "blockId": "reservoir-02",
+          "type": "BACKGROUND",
+          "headingKo": "호수 바닥에는 오랜 시간 CO₂가 축적되고 있었다",
+          "headingEn": "CO₂ Had Been Accumulating in the Deep Water for Years",
+          "textKo": "Lake Nyos는 젊은 maar crater에 자리한 깊은 호수다. USGS는 지하 깊은 곳의 magmatic source에서 나온 CO₂가 지하수와 호수 바닥 쪽으로 공급돼 deep water에 계속 녹아들었다고 설명했다. 깊은 수층은 표면과 쉽게 섞이지 않아 압력 아래 많은 CO₂를 저장할 수 있었다. 위험은 “호수 아래에 가스 주머니 하나가 있었다”기보다, 물 자체가 거대한 탄산음료 병처럼 과포화 상태로 변해갔다는 데 있었다. 물속 기체의 용해도는 압력이 높을수록 커지므로 200m 안팎의 깊은 수층은 많은 CO₂를 저장할 수 있었다. 표층은 계절과 날씨에 반응하지만 깊은 층은 density stratification 때문에 장기간 고립될 수 있다. 그래서 위험은 눈에 보이는 fumarole보다 수온·밀도·용존가스 농도의 수직구조 안에 숨어 있었다. 호수 전체가 평소에는 조용해 보여도 심층수의 화학상태는 전혀 다른 시스템으로 움직일 수 있었다.",
+          "textEn": "Lake Nyos occupies a young maar crater. USGS investigators concluded that carbon dioxide from a deep magmatic source migrated upward and accumulated dissolved in deep lake water. Because the lower layers mixed poorly with the surface, pressure allowed large amounts of gas to remain in solution. The hazard was not simply a single underground pocket; the deep water itself became a pressurized reservoir, often compared to an enormous carbonated bottle. Gas solubility increases with pressure, allowing deep water near roughly 200 meters to store large amounts of dissolved CO₂. The surface responds to weather and seasonal mixing, but density stratification can isolate the deepest layers for long periods. The hazard was therefore hidden in the vertical structure of temperature, density, and dissolved gas rather than in an obvious surface vent."
+        },
+        {
+          "blockId": "trigger-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "재난의 방아쇠는 여전히 별개의 질문이다",
+          "headingEn": "The Trigger Is a Separate Question",
+          "textKo": "1987년 USGS 최종보고서는 CO₂의 기원과 대량 방출을 강하게 지지했지만 “무엇이 첫 상승 흐름을 시작했는가”는 미정으로 남겼다. 수층 교란, landslide, 강한 바람이나 냉각 등 여러 trigger가 논의됐다. 최근 USGS 화산호수 개요는 큰 landslide가 방아쇠였을 가능성을 언급하지만, CO₂가 이미 위험한 수준으로 축적돼 있었다는 사실과 정확한 trigger의 확정 여부는 구분해야 한다. 일단 gas-rich deep water가 위로 이동하기 시작하면 압력이 낮아지면서 CO₂가 기포로 빠져나오고, 기포가 섞인 물의 밀도는 더 낮아져 더 빠르게 상승할 수 있다. 이런 positive feedback는 작은 초기 교란이 대규모 degassing으로 증폭되는 물리적 경로를 제공한다. 따라서 trigger와 runaway process를 구분해야 한다. 첫 밀어올림이 무엇이었든, 그 뒤의 급격한 기체 분리는 호수 내부의 과포화 상태가 가능하게 한 것이다.",
+          "textEn": "The 1987 USGS final report strongly established the CO₂ source and catastrophic lake release while leaving the precise initiating trigger unresolved. Disturbance of the water column, a landslide, strong weather effects, and other mechanisms have been discussed. A recent USGS overview notes that a large landslide was a probable trigger, but the pre-existing gas accumulation and the exact initiating event are different evidentiary questions. Once gas-rich deep water begins to rise, falling pressure allows CO₂ to exsolve as bubbles. The bubbly water becomes more buoyant and can rise faster, creating a positive feedback capable of amplifying an initial disturbance into runaway degassing. That is why the trigger and the self-accelerating release process should be treated as separate questions."
+        },
+        {
+          "blockId": "cloud-04",
+          "type": "MECHANISM",
+          "headingKo": "보이지 않는 CO₂가 왜 계곡에서 더 치명적이었나",
+          "headingEn": "Why a Colorless CO₂ Cloud Became Deadlier in Valleys",
+          "textKo": "CO₂는 공기보다 밀도가 높다. 대량으로 방출된 차가운 CO₂ 구름은 주변 공기와 섞이기 전 지표를 따라 흐르며 낮은 골짜기와 마을에 모일 수 있다. 사람과 동물은 산소가 부족한 공기를 들이마시면서 빠르게 의식을 잃었다. USGS는 많은 사망이 산소 치환과 높은 CO₂ 농도에 의한 asphyxiation으로 설명된다고 결론내렸다. 화염이나 독성 연기가 없어도 기체만으로 대규모 재난이 가능했던 이유다. 특히 CO₂는 색과 냄새가 거의 없어 사람이 위험을 시각적으로 감지하기 어렵다. 높은 농도에서는 호흡곤란을 느끼기 전에 판단력과 의식을 빠르게 잃을 수 있어 대피 자체가 늦어진다. 계곡 지형은 이런 특성을 더 악화시켜 같은 방출량이라도 평탄한 지형보다 국지적으로 훨씬 높은 농도를 만들 수 있다.",
+          "textEn": "Carbon dioxide is denser than ordinary air. A large, cool cloud can hug the ground and collect in valleys before it mixes sufficiently with the atmosphere. People and animals breathing that environment can lose consciousness rapidly as oxygen is displaced and CO₂ concentrations rise. USGS investigators concluded that asphyxiation explains the deaths. The disaster demonstrated that a gas release can be catastrophic even without flame, ash, or a visibly toxic plume. CO₂ is also difficult to recognize visually or by smell. At high concentrations, people can lose judgment and consciousness before they can effectively flee. Valley topography can concentrate the gas, making local exposure far more severe than the same release over open terrain."
+        },
+        {
+          "blockId": "aftermath-05",
+          "type": "AFTERMATH",
+          "headingKo": "재난 뒤에도 호수에는 다시 가스가 쌓였다",
+          "headingEn": "The Hazard Did Not End When the 1986 Cloud Dispersed",
+          "textKo": "사건 뒤 Lake Nyos 심층수에는 여전히 높은 농도의 CO₂가 남아 있었고 지하에서의 공급도 계속됐다. 1990년대 관측은 호수의 수층 구조와 가스 재충전을 추적했고, 위험을 낮추려면 물속 CO₂를 능동적으로 제거해야 한다는 결론으로 이어졌다. “한 번 폭발했으니 끝났다”는 가정은 맞지 않았다. 원인이 되는 가스 공급과 stratification이 계속되는 한 재축적 가능성이 있었기 때문이다. USGS 조사팀은 용존 CO₂뿐 아니라 호수 출구의 약한 자연댐도 별도 위험요인으로 지적했다. 댐이 파괴되면 홍수와 수위변화가 수층 안정성에 영향을 줄 가능성이 있었기 때문이다. 재난 대응은 “가스를 빼는 일” 하나로 끝나지 않았고, lake chemistry·dam stability·주변 마을의 대피계획을 함께 다루는 복합 위험관리 문제가 됐다.",
+          "textEn": "High concentrations of dissolved CO₂ remained after the 1986 event, and deep-source recharge continued. Monitoring through the following years tracked the rebuilding of the gas reservoir and changes in lake stratification. The key safety lesson was that one catastrophic release did not permanently remove the underlying mechanism. As long as gas entered the lake and dense deep water remained isolated, hazardous accumulation could recur. USGS investigators also identified the weak natural dam at the lake outlet as a separate hazard. A dam failure could produce flooding and abrupt changes in lake level, potentially affecting water-column stability. Risk reduction therefore involved more than gas removal: lake chemistry, dam stability, and protection of nearby communities all had to be considered."
+        },
+        {
+          "blockId": "degassing-06",
+          "type": "TURNING_POINT",
+          "headingKo": "2001년부터 시작된 controlled degassing은 위험을 실제로 낮췄다",
+          "headingEn": "Controlled Degassing Began to Reduce the Reservoir",
+          "textKo": "Lake Nyos에서는 2001년부터 깊은 물을 파이프로 끌어올려 압력 감소와 함께 CO₂를 안전하게 방출시키는 controlled degassing이 시작됐다. USGS가 정리한 후속 연구는 이 방식이 호수의 총 CO₂ 함량을 유의하게 낮췄다고 보고한다. 한 번 흐름이 시작되면 상승하는 물에서 가스가 빠져나오며 스스로 물을 끌어올리는 구조를 이용한다. 재난 이후 과학적 이해가 직접적인 위험저감 기술로 연결된 사례다. 파이프 방식의 장점은 외부 펌프로 깊은 물을 계속 끌어올리는 것이 아니라, 초기 유동이 형성된 뒤 CO₂ exsolution이 물을 위로 밀어 올리는 gas-lift 효과를 이용한다는 점이다. 그러나 CO₂의 자연 재충전은 계속되므로 “완치”가 아니라 지속적인 monitoring과 관리가 필요하다. 후속 연구가 gas inventory 감소를 추적한 이유도 위험이 시간에 따라 다시 변할 수 있기 때문이다.",
+          "textEn": "Controlled degassing began at Lake Nyos in 2001. Pipes draw deep water upward so that falling pressure allows dissolved gas to come out of solution in a controlled way; once established, the gas-lift effect helps drive continued flow. USGS summaries of the monitoring record show that this process significantly reduced the lake’s CO₂ inventory. It is a rare case in which understanding the mechanism of a disaster led directly to an engineered mitigation system. A key advantage of the pipe system is that it does not require continuous high-power pumping: once flow begins, CO₂ exsolution creates a gas-lift effect that helps drive deep water upward. But natural recharge continues, so degassing is not a one-time cure. Long-term monitoring remains necessary because the gas inventory can change again over time."
+        },
+        {
+          "blockId": "meaning-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“호수 폭발”이라는 표현이 화산 분화와 같은 뜻은 아니다",
+          "headingEn": "An “Exploding Lake” Is Not the Same as a New Volcanic Eruption",
+          "textKo": "Lake Nyos는 volcanic crater lake이고 CO₂의 근원도 magmatic system과 연결되지만, USGS 현장자료는 1986년 재난 때 직접적인 새 화산분화가 일어났다는 증거를 지지하지 않았다. 이 구분은 중요하다. 지질학적 화산 시스템이 장기간 가스를 공급할 수는 있지만, 재난 자체는 가스가 녹아 있던 lake water가 급격히 degas한 사건으로 이해된다. 이 사건이 “limnic eruption”이라는 별도 용어로 불리는 이유도 여기에 있다. 에너지원과 위험의 중심이 magma fragmentation이 아니라 gas-saturated water의 급격한 overturn·degassing이기 때문이다.",
+          "textEn": "Lake Nyos is a volcanic crater lake and the carbon dioxide is linked to a magmatic source, but USGS field evidence did not support a new volcanic eruption as the direct cause of the 1986 disaster. The distinction matters: a volcanic system can supply gas over long periods, while the catastrophe itself can result from rapid degassing of gas-rich lake water rather than erupting magma. This is why the event is often described as a limnic eruption: the dominant hazard was rapid overturn and degassing of gas-saturated water rather than fragmentation of erupting magma."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Lake Nyos의 1986년 재난은 심층수에 축적된 magmatic CO₂의 급격한 방출로 수많은 사람과 가축이 질식한 사건이다. 이후 controlled degassing은 호수의 CO₂ 저장량을 낮췄다.\n\n확인되지 않음: 최초 상승 흐름을 시작시킨 정확한 trigger는 단일 원인으로 완전히 확정되지 않았으며, 1986년 사건을 새로운 화산분화로 보는 해석은 USGS 현장증거와 맞지 않는다.",
+          "textEn": "Established: The 1986 Lake Nyos disaster was caused by a catastrophic release of magmatic CO₂ that had accumulated in deep lake water, asphyxiating people and livestock. Controlled degassing later reduced the lake’s gas inventory.\n\nNot established: The exact initiating trigger has not been fixed to one mechanism with complete certainty, and the event is not best described as a new volcanic eruption."
+        }
+      ],
+      "factBoundary": {
+        "established": "Lake Nyos의 1986년 재난은 심층수에 축적된 magmatic CO₂의 급격한 방출로 수많은 사람과 가축이 질식한 사건이다. 이후 controlled degassing은 호수의 CO₂ 저장량을 낮췄다.",
+        "notEstablished": "최초 상승 흐름을 시작시킨 정확한 trigger는 단일 원인으로 완전히 확정되지 않았으며, 1986년 사건을 새로운 화산분화로 보는 해석은 USGS 현장증거와 맞지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "reservoir-02",
+        "trigger-03",
+        "cloud-04",
+        "aftermath-05",
+        "degassing-06",
+        "meaning-07"
+      ]
+    },
+    "en": {
+      "headline": "No Fire, No Smoke—How Did an Invisible Gas Cloud Kill More Than 1,700 People?",
+      "hook": "It was neither a poison-gas attack nor a conventional volcanic eruption. CO₂ stored for years in deep lake water escaped catastrophically.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1986년 8월 21일, 폭발음보다 먼저 보이지 않는 기체가 계곡을 채웠다",
+          "headingEn": "On August 21, 1986, an Invisible Gas Cloud Filled the Valleys",
+          "textKo": "카메룬 북서부의 Lake Nyos에서 1986년 8월 21일 갑작스러운 가스 방출이 일어났다. USGS 현장조사팀은 최소 1,700명이 사망했고 다수의 가축이 질식했다고 보고했다. 사건은 화산 분화가 마을을 덮친 모습과 달랐다. 호수 자체에서 대량의 이산화탄소가 빠르게 빠져나와 공기보다 무거운 구름을 만들었고, 낮은 지형을 따라 흘러내리며 산소를 밀어냈다.",
+          "textEn": "On August 21, 1986, Lake Nyos in northwestern Cameroon released a massive volume of gas. The U.S. Geological Survey investigation reported at least about 1,700 deaths, along with large numbers of livestock, primarily from asphyxiation. This was not a conventional volcanic eruption sweeping through villages. Carbon dioxide escaped rapidly from the lake, formed a dense cloud heavier than air, and flowed into low-lying terrain where it displaced breathable oxygen."
+        },
+        {
+          "blockId": "reservoir-02",
+          "type": "BACKGROUND",
+          "headingKo": "호수 바닥에는 오랜 시간 CO₂가 축적되고 있었다",
+          "headingEn": "CO₂ Had Been Accumulating in the Deep Water for Years",
+          "textKo": "Lake Nyos는 젊은 maar crater에 자리한 깊은 호수다. USGS는 지하 깊은 곳의 magmatic source에서 나온 CO₂가 지하수와 호수 바닥 쪽으로 공급돼 deep water에 계속 녹아들었다고 설명했다. 깊은 수층은 표면과 쉽게 섞이지 않아 압력 아래 많은 CO₂를 저장할 수 있었다. 위험은 “호수 아래에 가스 주머니 하나가 있었다”기보다, 물 자체가 거대한 탄산음료 병처럼 과포화 상태로 변해갔다는 데 있었다. 물속 기체의 용해도는 압력이 높을수록 커지므로 200m 안팎의 깊은 수층은 많은 CO₂를 저장할 수 있었다. 표층은 계절과 날씨에 반응하지만 깊은 층은 density stratification 때문에 장기간 고립될 수 있다. 그래서 위험은 눈에 보이는 fumarole보다 수온·밀도·용존가스 농도의 수직구조 안에 숨어 있었다. 호수 전체가 평소에는 조용해 보여도 심층수의 화학상태는 전혀 다른 시스템으로 움직일 수 있었다.",
+          "textEn": "Lake Nyos occupies a young maar crater. USGS investigators concluded that carbon dioxide from a deep magmatic source migrated upward and accumulated dissolved in deep lake water. Because the lower layers mixed poorly with the surface, pressure allowed large amounts of gas to remain in solution. The hazard was not simply a single underground pocket; the deep water itself became a pressurized reservoir, often compared to an enormous carbonated bottle. Gas solubility increases with pressure, allowing deep water near roughly 200 meters to store large amounts of dissolved CO₂. The surface responds to weather and seasonal mixing, but density stratification can isolate the deepest layers for long periods. The hazard was therefore hidden in the vertical structure of temperature, density, and dissolved gas rather than in an obvious surface vent."
+        },
+        {
+          "blockId": "trigger-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "재난의 방아쇠는 여전히 별개의 질문이다",
+          "headingEn": "The Trigger Is a Separate Question",
+          "textKo": "1987년 USGS 최종보고서는 CO₂의 기원과 대량 방출을 강하게 지지했지만 “무엇이 첫 상승 흐름을 시작했는가”는 미정으로 남겼다. 수층 교란, landslide, 강한 바람이나 냉각 등 여러 trigger가 논의됐다. 최근 USGS 화산호수 개요는 큰 landslide가 방아쇠였을 가능성을 언급하지만, CO₂가 이미 위험한 수준으로 축적돼 있었다는 사실과 정확한 trigger의 확정 여부는 구분해야 한다. 일단 gas-rich deep water가 위로 이동하기 시작하면 압력이 낮아지면서 CO₂가 기포로 빠져나오고, 기포가 섞인 물의 밀도는 더 낮아져 더 빠르게 상승할 수 있다. 이런 positive feedback는 작은 초기 교란이 대규모 degassing으로 증폭되는 물리적 경로를 제공한다. 따라서 trigger와 runaway process를 구분해야 한다. 첫 밀어올림이 무엇이었든, 그 뒤의 급격한 기체 분리는 호수 내부의 과포화 상태가 가능하게 한 것이다.",
+          "textEn": "The 1987 USGS final report strongly established the CO₂ source and catastrophic lake release while leaving the precise initiating trigger unresolved. Disturbance of the water column, a landslide, strong weather effects, and other mechanisms have been discussed. A recent USGS overview notes that a large landslide was a probable trigger, but the pre-existing gas accumulation and the exact initiating event are different evidentiary questions. Once gas-rich deep water begins to rise, falling pressure allows CO₂ to exsolve as bubbles. The bubbly water becomes more buoyant and can rise faster, creating a positive feedback capable of amplifying an initial disturbance into runaway degassing. That is why the trigger and the self-accelerating release process should be treated as separate questions."
+        },
+        {
+          "blockId": "cloud-04",
+          "type": "MECHANISM",
+          "headingKo": "보이지 않는 CO₂가 왜 계곡에서 더 치명적이었나",
+          "headingEn": "Why a Colorless CO₂ Cloud Became Deadlier in Valleys",
+          "textKo": "CO₂는 공기보다 밀도가 높다. 대량으로 방출된 차가운 CO₂ 구름은 주변 공기와 섞이기 전 지표를 따라 흐르며 낮은 골짜기와 마을에 모일 수 있다. 사람과 동물은 산소가 부족한 공기를 들이마시면서 빠르게 의식을 잃었다. USGS는 많은 사망이 산소 치환과 높은 CO₂ 농도에 의한 asphyxiation으로 설명된다고 결론내렸다. 화염이나 독성 연기가 없어도 기체만으로 대규모 재난이 가능했던 이유다. 특히 CO₂는 색과 냄새가 거의 없어 사람이 위험을 시각적으로 감지하기 어렵다. 높은 농도에서는 호흡곤란을 느끼기 전에 판단력과 의식을 빠르게 잃을 수 있어 대피 자체가 늦어진다. 계곡 지형은 이런 특성을 더 악화시켜 같은 방출량이라도 평탄한 지형보다 국지적으로 훨씬 높은 농도를 만들 수 있다.",
+          "textEn": "Carbon dioxide is denser than ordinary air. A large, cool cloud can hug the ground and collect in valleys before it mixes sufficiently with the atmosphere. People and animals breathing that environment can lose consciousness rapidly as oxygen is displaced and CO₂ concentrations rise. USGS investigators concluded that asphyxiation explains the deaths. The disaster demonstrated that a gas release can be catastrophic even without flame, ash, or a visibly toxic plume. CO₂ is also difficult to recognize visually or by smell. At high concentrations, people can lose judgment and consciousness before they can effectively flee. Valley topography can concentrate the gas, making local exposure far more severe than the same release over open terrain."
+        },
+        {
+          "blockId": "aftermath-05",
+          "type": "AFTERMATH",
+          "headingKo": "재난 뒤에도 호수에는 다시 가스가 쌓였다",
+          "headingEn": "The Hazard Did Not End When the 1986 Cloud Dispersed",
+          "textKo": "사건 뒤 Lake Nyos 심층수에는 여전히 높은 농도의 CO₂가 남아 있었고 지하에서의 공급도 계속됐다. 1990년대 관측은 호수의 수층 구조와 가스 재충전을 추적했고, 위험을 낮추려면 물속 CO₂를 능동적으로 제거해야 한다는 결론으로 이어졌다. “한 번 폭발했으니 끝났다”는 가정은 맞지 않았다. 원인이 되는 가스 공급과 stratification이 계속되는 한 재축적 가능성이 있었기 때문이다. USGS 조사팀은 용존 CO₂뿐 아니라 호수 출구의 약한 자연댐도 별도 위험요인으로 지적했다. 댐이 파괴되면 홍수와 수위변화가 수층 안정성에 영향을 줄 가능성이 있었기 때문이다. 재난 대응은 “가스를 빼는 일” 하나로 끝나지 않았고, lake chemistry·dam stability·주변 마을의 대피계획을 함께 다루는 복합 위험관리 문제가 됐다.",
+          "textEn": "High concentrations of dissolved CO₂ remained after the 1986 event, and deep-source recharge continued. Monitoring through the following years tracked the rebuilding of the gas reservoir and changes in lake stratification. The key safety lesson was that one catastrophic release did not permanently remove the underlying mechanism. As long as gas entered the lake and dense deep water remained isolated, hazardous accumulation could recur. USGS investigators also identified the weak natural dam at the lake outlet as a separate hazard. A dam failure could produce flooding and abrupt changes in lake level, potentially affecting water-column stability. Risk reduction therefore involved more than gas removal: lake chemistry, dam stability, and protection of nearby communities all had to be considered."
+        },
+        {
+          "blockId": "degassing-06",
+          "type": "TURNING_POINT",
+          "headingKo": "2001년부터 시작된 controlled degassing은 위험을 실제로 낮췄다",
+          "headingEn": "Controlled Degassing Began to Reduce the Reservoir",
+          "textKo": "Lake Nyos에서는 2001년부터 깊은 물을 파이프로 끌어올려 압력 감소와 함께 CO₂를 안전하게 방출시키는 controlled degassing이 시작됐다. USGS가 정리한 후속 연구는 이 방식이 호수의 총 CO₂ 함량을 유의하게 낮췄다고 보고한다. 한 번 흐름이 시작되면 상승하는 물에서 가스가 빠져나오며 스스로 물을 끌어올리는 구조를 이용한다. 재난 이후 과학적 이해가 직접적인 위험저감 기술로 연결된 사례다. 파이프 방식의 장점은 외부 펌프로 깊은 물을 계속 끌어올리는 것이 아니라, 초기 유동이 형성된 뒤 CO₂ exsolution이 물을 위로 밀어 올리는 gas-lift 효과를 이용한다는 점이다. 그러나 CO₂의 자연 재충전은 계속되므로 “완치”가 아니라 지속적인 monitoring과 관리가 필요하다. 후속 연구가 gas inventory 감소를 추적한 이유도 위험이 시간에 따라 다시 변할 수 있기 때문이다.",
+          "textEn": "Controlled degassing began at Lake Nyos in 2001. Pipes draw deep water upward so that falling pressure allows dissolved gas to come out of solution in a controlled way; once established, the gas-lift effect helps drive continued flow. USGS summaries of the monitoring record show that this process significantly reduced the lake’s CO₂ inventory. It is a rare case in which understanding the mechanism of a disaster led directly to an engineered mitigation system. A key advantage of the pipe system is that it does not require continuous high-power pumping: once flow begins, CO₂ exsolution creates a gas-lift effect that helps drive deep water upward. But natural recharge continues, so degassing is not a one-time cure. Long-term monitoring remains necessary because the gas inventory can change again over time."
+        },
+        {
+          "blockId": "meaning-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“호수 폭발”이라는 표현이 화산 분화와 같은 뜻은 아니다",
+          "headingEn": "An “Exploding Lake” Is Not the Same as a New Volcanic Eruption",
+          "textKo": "Lake Nyos는 volcanic crater lake이고 CO₂의 근원도 magmatic system과 연결되지만, USGS 현장자료는 1986년 재난 때 직접적인 새 화산분화가 일어났다는 증거를 지지하지 않았다. 이 구분은 중요하다. 지질학적 화산 시스템이 장기간 가스를 공급할 수는 있지만, 재난 자체는 가스가 녹아 있던 lake water가 급격히 degas한 사건으로 이해된다. 이 사건이 “limnic eruption”이라는 별도 용어로 불리는 이유도 여기에 있다. 에너지원과 위험의 중심이 magma fragmentation이 아니라 gas-saturated water의 급격한 overturn·degassing이기 때문이다.",
+          "textEn": "Lake Nyos is a volcanic crater lake and the carbon dioxide is linked to a magmatic source, but USGS field evidence did not support a new volcanic eruption as the direct cause of the 1986 disaster. The distinction matters: a volcanic system can supply gas over long periods, while the catastrophe itself can result from rapid degassing of gas-rich lake water rather than erupting magma. This is why the event is often described as a limnic eruption: the dominant hazard was rapid overturn and degassing of gas-saturated water rather than fragmentation of erupting magma."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Lake Nyos의 1986년 재난은 심층수에 축적된 magmatic CO₂의 급격한 방출로 수많은 사람과 가축이 질식한 사건이다. 이후 controlled degassing은 호수의 CO₂ 저장량을 낮췄다.\n\n확인되지 않음: 최초 상승 흐름을 시작시킨 정확한 trigger는 단일 원인으로 완전히 확정되지 않았으며, 1986년 사건을 새로운 화산분화로 보는 해석은 USGS 현장증거와 맞지 않는다.",
+          "textEn": "Established: The 1986 Lake Nyos disaster was caused by a catastrophic release of magmatic CO₂ that had accumulated in deep lake water, asphyxiating people and livestock. Controlled degassing later reduced the lake’s gas inventory.\n\nNot established: The exact initiating trigger has not been fixed to one mechanism with complete certainty, and the event is not best described as a new volcanic eruption."
+        }
+      ],
+      "factBoundary": {
+        "established": "The 1986 Lake Nyos disaster was caused by a catastrophic release of magmatic CO₂ that had accumulated in deep lake water, asphyxiating people and livestock. Controlled degassing later reduced the lake’s gas inventory.",
+        "notEstablished": "The exact initiating trigger has not been fixed to one mechanism with complete certainty, and the event is not best described as a new volcanic eruption."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "reservoir-02",
+        "trigger-03",
+        "cloud-04",
+        "aftermath-05",
+        "degassing-06",
+        "meaning-07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "NYOS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1986년 Lake Nyos에서 대량 CO₂가 방출돼 최소 약 1,700명이 사망했다.",
+      "statementEn": "A massive CO₂ release from Lake Nyos in 1986 killed at least about 1,700 people.",
+      "sourceRefs": [
+        "USGS_NYOS_1987"
+      ]
+    },
+    {
+      "claimId": "NYOS-C2",
+      "status": "CONFIRMED",
+      "statementKo": "CO₂는 깊은 magmatic source에서 공급돼 심층수에 축적됐다.",
+      "statementEn": "CO₂ from a deep magmatic source accumulated in deep lake water.",
+      "sourceRefs": [
+        "USGS_NYOS_1987",
+        "USGS_NYOS_ORIGIN"
+      ]
+    },
+    {
+      "claimId": "NYOS-C3",
+      "status": "SUPPORTED",
+      "statementKo": "최근 USGS 개요는 큰 landslide를 유력 trigger로 언급한다.",
+      "statementEn": "A recent USGS overview describes a large landslide as a probable trigger.",
+      "sourceRefs": [
+        "USGS_VOLCANIC_LAKES_2024"
+      ]
+    },
+    {
+      "claimId": "NYOS-C4",
+      "status": "CONFIRMED",
+      "statementKo": "2001년 이후 controlled degassing은 Lake Nyos의 CO₂ 함량을 낮췄다.",
+      "statementEn": "Controlled degassing since 2001 reduced Lake Nyos CO₂ content.",
+      "sourceRefs": [
+        "USGS_NYOS_DEGASSING_2008"
+      ]
+    },
+    {
+      "claimId": "NYOS-C5",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 최초 trigger를 단일 원인으로 완전히 확정했다고 볼 수는 없다.",
+      "statementEn": "The exact initiating trigger is not completely fixed to a single mechanism.",
+      "sourceRefs": [
+        "USGS_NYOS_1987",
+        "USGS_VOLCANIC_LAKES_2024"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "USGS_NYOS_1987",
+      "title": "The 21 August 1986 Lake Nyos gas disaster, Cameroon; final report",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/publications/21-august-1986-lake-nyos-gas-disaster-cameroon-final-report-united-states-scientific",
+      "sourceType": "US_GOVERNMENT_SCIENTIFIC_REPORT",
+      "scope": "fatalities, CO2 source, asphyxiation, trigger uncertainty, mitigation recommendation"
+    },
+    {
+      "sourceId": "USGS_NYOS_ORIGIN",
+      "title": "Origin and age of the Lake Nyos maar, Cameroon",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/publications/origin-and-age-lake-nyos-maar-cameroon",
+      "sourceType": "PEER_REVIEWED_GEOLOGY_INDEX",
+      "scope": "maar age, magmatic CO2 context"
+    },
+    {
+      "sourceId": "USGS_NYOS_DEGASSING_2008",
+      "title": "Evolution of CO2 in Lakes Monoun and Nyos, Cameroon, before and during controlled degassing",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/publications/evolution-co2-lakes-monoun-and-nyos-cameroon-and-during-controlled-degassing",
+      "sourceType": "PEER_REVIEWED_MONITORING",
+      "scope": "controlled degassing chronology and declining CO2 inventory"
+    },
+    {
+      "sourceId": "USGS_VOLCANIC_LAKES_2024",
+      "title": "Streams, springs, and volcanic lakes for volcano monitoring",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/publications/streams-springs-and-volcanic-lakes-volcano-monitoring",
+      "sourceType": "USGS_REVIEW",
+      "scope": "modern hazard context and probable landslide trigger"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "lake-nyos-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "magmatic CO₂ 공급 → 심층수 용해·축적 → 교란 → 감압·기포화 → 대량 방출.",
+      "captionEn": "Magmatic CO₂ input → deep-water dissolution and accumulation → disturbance → decompression and bubbling → catastrophic release.",
+      "sourceRefs": [
+        "USGS_NYOS_1987"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "representationLabel": "EXPLANATORY_SCHEMATIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lake-nyos-v01__ko.png",
+          "sha256": "a5210458e2051e6cfc71f5eec797c67eab1b2c750bbe455b711b97de6cd9982b",
+          "width": 1600,
+          "height": 900,
+          "bytes": 69165
+        },
+        "en": {
+          "fileName": "lake-nyos-v01__en.png",
+          "sha256": "fcfb17e010510e0266a94240e34024e5db1d32a522f27307273f6f94efa5b564",
+          "width": 1600,
+          "height": 900,
+          "bytes": 64523
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lake-nyos-v02",
+      "role": "TOPOGRAPHY_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "공기보다 무거운 CO₂가 지표와 계곡을 따라 흐르는 개념도.",
+      "captionEn": "Concept diagram of dense CO₂ flowing along ground and into valleys.",
+      "sourceRefs": [
+        "USGS_NYOS_1987"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": true,
+      "representationLabel": "EXPLANATORY_SCHEMATIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lake-nyos-v02__ko.png",
+          "sha256": "46dc7be12f5f26fa8be0d4ffbf52f747c057ea9102b652e55fa722b7acd4797b",
+          "width": 1600,
+          "height": 900,
+          "bytes": 57917
+        },
+        "en": {
+          "fileName": "lake-nyos-v02__en.png",
+          "sha256": "9e83208f89fce8178c561e9b012f43a5bb7bf1a8148149bc700ba70e5b671f61",
+          "width": 1600,
+          "height": 900,
+          "bytes": 60429
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lake-nyos-v03",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1986 재난 → 반복 관측 → 2001 controlled degassing → CO₂ 감소.",
+      "captionEn": "1986 disaster → monitoring → controlled degassing from 2001 → declining CO₂ inventory.",
+      "sourceRefs": [
+        "USGS_NYOS_1987",
+        "USGS_NYOS_DEGASSING_2008"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lake-nyos-v03__ko.png",
+          "sha256": "fccf763dae15ace998054c816993bd00aed8858ea30fc086a1d3205ede68b2e1",
+          "width": 1600,
+          "height": 900,
+          "bytes": 52922
+        },
+        "en": {
+          "fileName": "lake-nyos-v03__en.png",
+          "sha256": "8110f40de45afdd081caa27ad82fa90961feb9c0b86ddc497eed2ed9a3c2c965",
+          "width": 1600,
+          "height": 900,
+          "bytes": 57918
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lake-nyos-v04",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확정된 CO₂ 메커니즘과 정확한 trigger 불확실성을 분리.",
+      "captionEn": "Separate the established CO₂ mechanism from uncertainty over the exact trigger.",
+      "sourceRefs": [
+        "USGS_NYOS_1987",
+        "USGS_VOLCANIC_LAKES_2024"
+      ],
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "representationLabel": "PROJECT_ORIGINAL_INFOGRAPHIC_NOT_DOCUMENTARY_EVIDENCE",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lake-nyos-v04__ko.png",
+          "sha256": "f6b7243ba95eef9b2549f96cd227f5cb173b51c036fac05cf79a28d4832fed4a",
+          "width": 1600,
+          "height": 900,
+          "bytes": 70584
+        },
+        "en": {
+          "fileName": "lake-nyos-v04__en.png",
+          "sha256": "07ef0cab1460a334461758a6f095762a0fc9839dece06405a0966943404080da",
+          "width": 1600,
+          "height": 900,
+          "bytes": 69121
+        }
+      },
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Nature",
+    "secondaryGenres": [
+      "Geology / Volcanic Hazard",
+      "Disaster Science"
+    ],
+    "countries": [
+      "Cameroon"
+    ],
+    "regions": [
+      "Northwest Region"
+    ],
+    "places": [
+      {
+        "name": "Lake Nyos",
+        "role": "disaster site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Geological Survey"
+    ],
+    "dateRange": {
+      "start": "1986-08-21",
+      "end": "2008",
+      "precision": "disaster through controlled-degassing monitoring literature"
+    },
+    "era": "late 20th–21st century hazard science",
+    "resolution": "CO2_MECHANISM_ESTABLISHED_TRIGGER_PARTLY_UNCERTAIN_MITIGATION_IMPLEMENTED",
+    "searchAliases": [
+      "Lake Nyos",
+      "Nyos gas disaster",
+      "limnic eruption"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 3035,
+    "enBodyWords": 836,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 5,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH33_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
