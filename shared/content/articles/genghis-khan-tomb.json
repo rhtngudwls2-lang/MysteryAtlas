@@ -1,0 +1,421 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "genghis-khan-tomb",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "칭기즈 칸의 무덤",
+    "canonicalTitleEn": "Tomb of Genghis Khan",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "후보 산맥은 있는데 왜 800년 동안 무덤 하나를 확정하지 못했나",
+      "hook": "Burkhan Khaldun은 칭기즈 칸 전승과 깊이 연결된다. 그러나 sacred landscape를 아는 것과 묘실을 찾는 것은 다르다. 미스터리는 후보지역이 없는 게 아니라 고고학적 확정이 없는 데 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "장례 전승은 강한데 무덤 자체는 발견되지 않았다",
+          "headingEn": "The Burial Tradition Is Strong, but No Tomb Has Been Found",
+          "textKo": "칭기즈 칸은 1227년 사망했지만 그의 실제 매장지는 확정되지 않았다. UNESCO는 Great Burkhan Khaldun과 주변 Khentii sacred landscape를 칭기즈 칸의 생애, 숭배전통, 출생·매장지로 믿어지는 장소와 강하게 연결한다. **문화적·종교적 연결은 확실하지만 특정 묘실의 고고학적 발견과는 다른 종류의 증거**다.",
+          "textEn": "Genghis Khan died in 1227, yet his actual burial place has never been confirmed. UNESCO strongly associates Great Burkhan Khaldun and the surrounding Khentii sacred landscape with traditions of his life, worship, birth, and believed burial. Cultural and religious association is powerful evidence of memory, but it is not an archaeological discovery of a specific tomb."
+        },
+        {
+          "blockId": "sacred-02",
+          "type": "BACKGROUND",
+          "headingKo": "Burkhan Khaldun은 무덤 후보 이전부터 성스러운 산악경관이었다",
+          "headingEn": "Burkhan Khaldun Was a Sacred Landscape, Not Merely a Tomb Candidate",
+          "textKo": "UNESCO 설명은 이 산악지역의 sacred mountain worship가 매우 오래됐고 칭기즈 칸 시대 이후에도 제례와 금기가 이어졌다고 정리한다. 접근이 쉽지 않은 고산·삼림지대와 살아 있는 의례전통은 장소 보존에 기여했다. **'무덤을 숨기기 위해 아무도 못 들어갔다'는 단순 전설보다 sacred-landscape tradition 자체가 더 잘 문서화돼 있다.**",
+          "textEn": "UNESCO describes an old tradition of sacred mountain worship that continued through and after Genghis Khan's era. Remote mountain terrain, forest, ritual practice, and restrictions all contributed to preservation. The documented sacred-landscape tradition is stronger than simplified legends of a single forbidden burial zone."
+        },
+        {
+          "blockId": "search-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "탐색기술이 발전해도 ‘어디를 파야 하는가’라는 증거문제는 남는다",
+          "headingEn": "Better Survey Technology Does Not Solve the Evidentiary Problem of Where to Dig",
+          "textKo": "위성사진, 지형분석, remote sensing, 현장조사 같은 방법이 무덤탐색에 동원돼 왔다. 그러나 광대한 Khentii 산악권에서 anomaly를 찾았다고 곧바로 royal tomb로 식별할 수는 없다. **고고학적 구조·연대·burial context가 함께 맞아야 하며, 신성지에 대한 문화적 민감성도 조사방식에 제약을 준다.**",
+          "textEn": "Satellite imagery, terrain analysis, remote sensing, and field survey have all been discussed or used in searches. Yet finding an anomaly across the immense Khentii landscape does not make it a royal tomb. Archaeological structure, dating, and burial context must converge, while cultural sensitivity to sacred places constrains investigation."
+        },
+        {
+          "blockId": "legends-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "장례행렬을 모두 죽였다거나 강을 돌렸다는 전설은 공식 위치증거가 아니다",
+          "headingEn": "Legends of Murdered Mourners or Diverted Rivers Are Not Location Evidence",
+          "textKo": "칭기즈 칸의 burial에는 장례행렬 비밀유지, 목격자 제거, 말로 땅을 다졌다는 등 극적인 설화가 붙는다. 이런 이야기는 장소가 알려지지 않았다는 사실을 설명하는 문화서사로 흥미롭지만 **특정 valley·mound·underground chamber의 위치를 입증하는 직접 고고학자료로 쓸 수는 없다.**",
+          "textEn": "Stories about the burial include secrecy, murdered witnesses, trampled ground, and other dramatic elements. They are culturally important attempts to explain why the grave remained hidden, but they are not direct archaeological evidence locating a particular valley, mound, or chamber."
+        },
+        {
+          "blockId": "why-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리의 핵심은 '후보지역'과 '확정무덤' 사이의 거대한 간격이다",
+          "headingEn": "The Core Mystery Is the Gap Between a Plausible Region and a Confirmed Grave",
+          "textKo": "Burkhan Khaldun·Khentii가 전승상 핵심지역이라는 점과 실제 tomb chamber를 특정하는 것은 다른 해상도의 문제다. **현재 가장 정확한 표현은 '문화적 후보권역은 강하지만 archaeological confirmation은 없다'이다.**",
+          "textEn": "Burkhan Khaldun and Khentii are powerful traditional focal regions, but that is a different level of claim from identifying an actual burial chamber. The most accurate status is strong cultural association without archaeological confirmation."
+        },
+        {
+          "blockId": "preservation-055",
+          "type": "BACKGROUND",
+          "headingKo": "무덤 미발견은 '기술부족'보다 보호·규모·증거기준의 문제이기도 하다",
+          "headingEn": "The Unfound Tomb Reflects Protection, Scale, and Evidentiary Standards as Much as Technology",
+          "textKo": "Khentii의 광대한 산악지형은 survey 자체가 어렵고 sacred landscape는 무제한 발굴대상이 아니다. remote sensing이 suspicious feature를 찾더라도 문화유산 보호와 archaeological verification 절차가 필요하다. **따라서 '위성기술 시대인데 왜 못 찾나'라는 질문은 탐색면적·보호원칙·확정기준을 함께 봐야 한다.**",
+          "textEn": "The immense Khentii terrain is difficult to survey, and a sacred landscape is not an unrestricted excavation zone. Even a suspicious remote-sensing feature would require culturally sensitive archaeological verification. Modern technology does not eliminate problems of scale, protection, and proof."
+        },
+        {
+          "blockId": "absence-058",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "무덤이 안 보인다고 '없다'거나 '이미 도굴됐다'고 정할 수도 없다",
+          "headingEn": "Absence of a Found Tomb Does Not Establish That It Never Existed or Was Already Looted",
+          "textKo": "현재의 negative evidence는 '확정무덤이 발견되지 않았다'는 상태를 말한다. 그것만으로 burial이 없었다, 위치가 완전히 다른 대륙이다, 이미 옛날에 도굴됐다 같은 서로 다른 가설을 선택할 수는 없다. **발견부재는 hypothesis space를 넓게 남길 뿐 하나를 증명하지 않는다.**",
+          "textEn": "The current negative evidence means no confirmed tomb has been found. It cannot by itself choose among claims that no burial existed, the grave lies elsewhere, or it was looted long ago. Non-discovery leaves hypotheses open rather than proving one."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Great Burkhan Khaldun과 주변 sacred landscape는 칭기즈 칸의 생애·숭배·출생·매장 전승과 강하게 연결되며 UNESCO World Heritage로 인정된다.\n\n**확인되지 않음:** 칭기즈 칸의 실제 tomb chamber, 정확한 좌표, burial goods는 고고학적으로 확인되지 않았다. 전설적 장례비밀화 이야기도 특정 위치의 직접증거는 아니다.",
+          "textEn": "**Established:** Great Burkhan Khaldun and its surrounding sacred landscape are strongly tied to traditions of Genghis Khan's life, worship, birth, and believed burial, and the landscape is UNESCO World Heritage.\n\n**Not established:** No actual tomb chamber, exact coordinates, or burial goods of Genghis Khan have been archaeologically confirmed. Burial-secrecy legends are not direct location evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Great Burkhan Khaldun과 주변 sacred landscape는 칭기즈 칸의 생애·숭배·출생·매장 전승과 강하게 연결되며 UNESCO World Heritage로 인정된다.\n\n**확인되지 않음:** 칭기즈 칸의 실제 tomb chamber, 정확한 좌표, burial goods는 고고학적으로 확인되지 않았다. 전설적 장례비밀화 이야기도 특정 위치의 직접증거는 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "sacred-02",
+        "search-03",
+        "legends-04",
+        "why-05",
+        "preservation-055",
+        "absence-058"
+      ]
+    },
+    "en": {
+      "headline": "Why Do We Have a Strong Candidate Landscape but No Confirmed Tomb After 800 Years?",
+      "hook": "Burkhan Khaldun is deeply tied to Genghis Khan tradition. The mystery is not a lack of candidate landscape, but the absence of archaeological confirmation of an actual tomb chamber.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "장례 전승은 강한데 무덤 자체는 발견되지 않았다",
+          "headingEn": "The Burial Tradition Is Strong, but No Tomb Has Been Found",
+          "textKo": "칭기즈 칸은 1227년 사망했지만 그의 실제 매장지는 확정되지 않았다. UNESCO는 Great Burkhan Khaldun과 주변 Khentii sacred landscape를 칭기즈 칸의 생애, 숭배전통, 출생·매장지로 믿어지는 장소와 강하게 연결한다. **문화적·종교적 연결은 확실하지만 특정 묘실의 고고학적 발견과는 다른 종류의 증거**다.",
+          "textEn": "Genghis Khan died in 1227, yet his actual burial place has never been confirmed. UNESCO strongly associates Great Burkhan Khaldun and the surrounding Khentii sacred landscape with traditions of his life, worship, birth, and believed burial. Cultural and religious association is powerful evidence of memory, but it is not an archaeological discovery of a specific tomb."
+        },
+        {
+          "blockId": "sacred-02",
+          "type": "BACKGROUND",
+          "headingKo": "Burkhan Khaldun은 무덤 후보 이전부터 성스러운 산악경관이었다",
+          "headingEn": "Burkhan Khaldun Was a Sacred Landscape, Not Merely a Tomb Candidate",
+          "textKo": "UNESCO 설명은 이 산악지역의 sacred mountain worship가 매우 오래됐고 칭기즈 칸 시대 이후에도 제례와 금기가 이어졌다고 정리한다. 접근이 쉽지 않은 고산·삼림지대와 살아 있는 의례전통은 장소 보존에 기여했다. **'무덤을 숨기기 위해 아무도 못 들어갔다'는 단순 전설보다 sacred-landscape tradition 자체가 더 잘 문서화돼 있다.**",
+          "textEn": "UNESCO describes an old tradition of sacred mountain worship that continued through and after Genghis Khan's era. Remote mountain terrain, forest, ritual practice, and restrictions all contributed to preservation. The documented sacred-landscape tradition is stronger than simplified legends of a single forbidden burial zone."
+        },
+        {
+          "blockId": "search-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "탐색기술이 발전해도 ‘어디를 파야 하는가’라는 증거문제는 남는다",
+          "headingEn": "Better Survey Technology Does Not Solve the Evidentiary Problem of Where to Dig",
+          "textKo": "위성사진, 지형분석, remote sensing, 현장조사 같은 방법이 무덤탐색에 동원돼 왔다. 그러나 광대한 Khentii 산악권에서 anomaly를 찾았다고 곧바로 royal tomb로 식별할 수는 없다. **고고학적 구조·연대·burial context가 함께 맞아야 하며, 신성지에 대한 문화적 민감성도 조사방식에 제약을 준다.**",
+          "textEn": "Satellite imagery, terrain analysis, remote sensing, and field survey have all been discussed or used in searches. Yet finding an anomaly across the immense Khentii landscape does not make it a royal tomb. Archaeological structure, dating, and burial context must converge, while cultural sensitivity to sacred places constrains investigation."
+        },
+        {
+          "blockId": "legends-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "장례행렬을 모두 죽였다거나 강을 돌렸다는 전설은 공식 위치증거가 아니다",
+          "headingEn": "Legends of Murdered Mourners or Diverted Rivers Are Not Location Evidence",
+          "textKo": "칭기즈 칸의 burial에는 장례행렬 비밀유지, 목격자 제거, 말로 땅을 다졌다는 등 극적인 설화가 붙는다. 이런 이야기는 장소가 알려지지 않았다는 사실을 설명하는 문화서사로 흥미롭지만 **특정 valley·mound·underground chamber의 위치를 입증하는 직접 고고학자료로 쓸 수는 없다.**",
+          "textEn": "Stories about the burial include secrecy, murdered witnesses, trampled ground, and other dramatic elements. They are culturally important attempts to explain why the grave remained hidden, but they are not direct archaeological evidence locating a particular valley, mound, or chamber."
+        },
+        {
+          "blockId": "why-05",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리의 핵심은 '후보지역'과 '확정무덤' 사이의 거대한 간격이다",
+          "headingEn": "The Core Mystery Is the Gap Between a Plausible Region and a Confirmed Grave",
+          "textKo": "Burkhan Khaldun·Khentii가 전승상 핵심지역이라는 점과 실제 tomb chamber를 특정하는 것은 다른 해상도의 문제다. **현재 가장 정확한 표현은 '문화적 후보권역은 강하지만 archaeological confirmation은 없다'이다.**",
+          "textEn": "Burkhan Khaldun and Khentii are powerful traditional focal regions, but that is a different level of claim from identifying an actual burial chamber. The most accurate status is strong cultural association without archaeological confirmation."
+        },
+        {
+          "blockId": "preservation-055",
+          "type": "BACKGROUND",
+          "headingKo": "무덤 미발견은 '기술부족'보다 보호·규모·증거기준의 문제이기도 하다",
+          "headingEn": "The Unfound Tomb Reflects Protection, Scale, and Evidentiary Standards as Much as Technology",
+          "textKo": "Khentii의 광대한 산악지형은 survey 자체가 어렵고 sacred landscape는 무제한 발굴대상이 아니다. remote sensing이 suspicious feature를 찾더라도 문화유산 보호와 archaeological verification 절차가 필요하다. **따라서 '위성기술 시대인데 왜 못 찾나'라는 질문은 탐색면적·보호원칙·확정기준을 함께 봐야 한다.**",
+          "textEn": "The immense Khentii terrain is difficult to survey, and a sacred landscape is not an unrestricted excavation zone. Even a suspicious remote-sensing feature would require culturally sensitive archaeological verification. Modern technology does not eliminate problems of scale, protection, and proof."
+        },
+        {
+          "blockId": "absence-058",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "무덤이 안 보인다고 '없다'거나 '이미 도굴됐다'고 정할 수도 없다",
+          "headingEn": "Absence of a Found Tomb Does Not Establish That It Never Existed or Was Already Looted",
+          "textKo": "현재의 negative evidence는 '확정무덤이 발견되지 않았다'는 상태를 말한다. 그것만으로 burial이 없었다, 위치가 완전히 다른 대륙이다, 이미 옛날에 도굴됐다 같은 서로 다른 가설을 선택할 수는 없다. **발견부재는 hypothesis space를 넓게 남길 뿐 하나를 증명하지 않는다.**",
+          "textEn": "The current negative evidence means no confirmed tomb has been found. It cannot by itself choose among claims that no burial existed, the grave lies elsewhere, or it was looted long ago. Non-discovery leaves hypotheses open rather than proving one."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Great Burkhan Khaldun과 주변 sacred landscape는 칭기즈 칸의 생애·숭배·출생·매장 전승과 강하게 연결되며 UNESCO World Heritage로 인정된다.\n\n**확인되지 않음:** 칭기즈 칸의 실제 tomb chamber, 정확한 좌표, burial goods는 고고학적으로 확인되지 않았다. 전설적 장례비밀화 이야기도 특정 위치의 직접증거는 아니다.",
+          "textEn": "**Established:** Great Burkhan Khaldun and its surrounding sacred landscape are strongly tied to traditions of Genghis Khan's life, worship, birth, and believed burial, and the landscape is UNESCO World Heritage.\n\n**Not established:** No actual tomb chamber, exact coordinates, or burial goods of Genghis Khan have been archaeologically confirmed. Burial-secrecy legends are not direct location evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Great Burkhan Khaldun and its surrounding sacred landscape are strongly tied to traditions of Genghis Khan's life, worship, birth, and believed burial, and the landscape is UNESCO World Heritage.\n\n**Not established:** No actual tomb chamber, exact coordinates, or burial goods of Genghis Khan have been archaeologically confirmed. Burial-secrecy legends are not direct location evidence.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "sacred-02",
+        "search-03",
+        "legends-04",
+        "why-05",
+        "preservation-055",
+        "absence-058"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Burkhan Khaldun/Khentii sacred landscape는 칭기즈 칸 전승과 강하게 연결된다.",
+      "statementEn": "The Burkhan Khaldun/Khentii sacred landscape is strongly connected with Genghis Khan traditions.",
+      "sourceRefs": [
+        "GK_UNESCO"
+      ]
+    },
+    {
+      "claimId": "GK-C2",
+      "status": "CONFIRMED",
+      "statementKo": "UNESCO는 이곳을 그의 출생·매장지로 믿어지는 sacred landscape로 설명한다.",
+      "statementEn": "UNESCO describes the landscape as traditionally believed to be connected with his birth and burial.",
+      "sourceRefs": [
+        "GK_UNESCO"
+      ]
+    },
+    {
+      "claimId": "GK-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 tomb chamber의 archaeological confirmation은 없다.",
+      "statementEn": "No specific tomb chamber has archaeological confirmation.",
+      "sourceRefs": [
+        "GK_UNESCO",
+        "GK_NATGEO"
+      ]
+    },
+    {
+      "claimId": "GK-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "후대 장례비밀화 전설은 특정 위치를 입증하지 않는다.",
+      "statementEn": "Later burial-secrecy legends do not establish a specific location.",
+      "sourceRefs": [
+        "GK_NATGEO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GK_UNESCO",
+      "title": "Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1440",
+      "sourceType": "UNESCO_WORLD_HERITAGE"
+    },
+    {
+      "sourceId": "GK_NATGEO",
+      "title": "Where is Genghis Khan's tomb?",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/article/genghis-khan-tomb-location",
+      "sourceType": "SCIENCE_HISTORY_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gk-v01",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Mongolia Khentii/Burkhan Khaldun의 문화적 후보권역과 '정확한 무덤 위치 미확정'을 구분.",
+      "captionEn": "Map of Khentii/Burkhan Khaldun as a cultural candidate region while exact tomb location remains unknown.",
+      "altKo": "Mongolia Khentii/Burkhan Khaldun의 문화적 후보권역과 '정확한 무덤 위치 미확정'을 구분.",
+      "altEn": "Map of Khentii/Burkhan Khaldun as a cultural candidate region while exact tomb location remains unknown.",
+      "sourceRefs": [
+        "GK_UNESCO",
+        "GK_NATGEO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "genghis-khan-tomb__v01__ko.png",
+          "sha256": "0f6c823990efb23f2e0a541bc8b794da6b9d72398f714957ff0b3df96d0a711e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "genghis-khan-tomb__v01__en.png",
+          "sha256": "07a95d5bfabd4b9bf9974cd014f7d73a4048984e1db276bfdae2755ec0c66045",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "gk-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "sacred tradition / believed burial region / confirmed tomb chamber의 증거단계를 분리.",
+      "captionEn": "Separate sacred tradition, believed burial region, and confirmed tomb chamber.",
+      "altKo": "sacred tradition / believed burial region / confirmed tomb chamber의 증거단계를 분리.",
+      "altEn": "Separate sacred tradition, believed burial region, and confirmed tomb chamber.",
+      "sourceRefs": [
+        "GK_UNESCO",
+        "GK_NATGEO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "genghis-khan-tomb__v02__ko.png",
+          "sha256": "5858609a1084f3f0871002e0f73c80bc1ac2e054fcde28053cdd3535786d0562",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "genghis-khan-tomb__v02__en.png",
+          "sha256": "3a48554f478a312f9ce6506946256f1d64046d097dd64f835cab084765b8b632",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "gk-v03",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "tradition → UNESCO landscape → survey anomaly → archaeological confirmation에 필요한 단계.",
+      "captionEn": "Tradition → UNESCO landscape → survey anomaly → steps required for archaeological confirmation.",
+      "altKo": "tradition → UNESCO landscape → survey anomaly → archaeological confirmation에 필요한 단계.",
+      "altEn": "Tradition → UNESCO landscape → survey anomaly → steps required for archaeological confirmation.",
+      "sourceRefs": [
+        "GK_UNESCO",
+        "GK_NATGEO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "genghis-khan-tomb__v03__ko.png",
+          "sha256": "7a41dce7ff63728b6c6689d6da68b7e420281935836cae94dfbf3f5f32e892e0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "genghis-khan-tomb__v03__en.png",
+          "sha256": "6e6c57c9d077151f3d5e14845327f507391fa56f8ea46a0cd468851c24b29dd2",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Mongolia"
+    ],
+    "regions": [
+      "Khentii / Great Burkhan Khaldun"
+    ],
+    "places": [
+      {
+        "name": "Great Burkhan Khaldun",
+        "role": "sacred landscape / believed burial region"
+      }
+    ],
+    "people": [
+      {
+        "name": "Genghis Khan",
+        "role": "burial subject"
+      }
+    ],
+    "organizations": [
+      "UNESCO"
+    ],
+    "dateRange": {
+      "start": "1227",
+      "end": "present",
+      "precision": "death through modern search"
+    },
+    "era": "Mongol Empire / modern archaeology",
+    "resolution": "SACRED_REGION_TRADITION_STRONG_EXACT_TOMB_UNCONFIRMED",
+    "searchAliases": [
+      "Genghis Khan tomb",
+      "Great Burkhan Khaldun"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1526,
+    "enBodyWords": 358,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

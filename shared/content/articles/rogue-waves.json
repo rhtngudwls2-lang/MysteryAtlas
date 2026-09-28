@@ -1,0 +1,361 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "rogue-waves",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로그 웨이브",
+    "canonicalTitleEn": "Rogue Waves",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "선원들의 '벽 같은 파도'는 어떻게 전설에서 실제 해양물리로 바뀌었나",
+      "hook": "rogue wave는 실제다. 하지만 실재를 인정했다고 미스터리가 끝난 건 아니다. 여러 물리경로가 extreme crest를 만들고, 정확한 개별예측은 여전히 어렵다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "선원들이 말하던 '벽 같은 파도'는 한때 과장으로 취급됐지만 실제 현상이다",
+          "headingEn": "Sailors' 'Walls of Water' Were Once Dismissed but Are Now Recognized as Real",
+          "textKo": "NOAA는 rogue wave 또는 extreme storm wave를 주변파보다 두 배 이상 높고 예상치 못하게 나타나는 매우 큰 파도로 설명한다. 오랫동안 sailor tale로 취급됐지만 지난 수십 년의 instrument observation은 이런 extreme event가 실제임을 확립했다. **전설이었던 것은 '파도 자체의 존재'가 아니라 얼마나 자주·어떻게 생기는지에 대한 이해였다.**",
+          "textEn": "NOAA defines rogue or extreme storm waves as unusually large waves, often more than twice the size of surrounding waves, appearing unexpectedly. Once dismissed as sailor tales, instrument observations over recent decades established that such extreme events are real. The mystery shifted from existence to formation and predictability."
+        },
+        {
+          "blockId": "interference-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "여러 swell이 순간적으로 위상을 맞추면 constructive interference가 거대한 crest를 만든다",
+          "headingEn": "Constructive Interference Can Temporarily Stack Multiple Swells Into a Giant Crest",
+          "textKo": "NOAA는 서로 다른 speed·direction의 swell이 겹치면서 crest와 trough가 순간적으로 정렬될 때 wave energy가 강화될 수 있다고 설명한다. 이 constructive interference는 매우 큰 wave를 만들었다가 짧은 시간 뒤 사라지게 할 수 있다. **평균해상상태가 moderate해도 local combination은 극단적일 수 있다.**",
+          "textEn": "NOAA explains that swells moving at different speeds and directions can overlap so that crests and troughs briefly align, reinforcing wave energy through constructive interference. A towering wave can therefore emerge and disappear even when the broader sea state is less extreme."
+        },
+        {
+          "blockId": "currents-03",
+          "type": "BACKGROUND",
+          "headingKo": "강한 current가 파도진행을 방해하면 에너지가 좁은 공간에 집중될 수 있다",
+          "headingEn": "Opposing Currents Can Focus Wave Energy Into a Smaller Region",
+          "textKo": "Gulf Stream·Agulhas 같은 current를 wave가 거슬러 진행할 때 wavelength와 propagation이 변해 wave energy가 집중될 수 있다. NOAA는 이런 current-wave interaction을 longer-lived rogue wave의 known cause 가운데 하나로 든다. **rogue wave는 하나의 단일 mechanism이 아니라 여러 nonlinear·focusing condition의 결과군이다.**",
+          "textEn": "When waves travel against strong currents such as the Gulf Stream or Agulhas, their wavelength and propagation can change and wave energy can focus into a smaller area. NOAA identifies current-wave interaction as one known route to longer-lived rogue events. Rogue waves are a class of extreme outcomes, not one single mechanism."
+        },
+        {
+          "blockId": "prediction-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "현상이 실제라고 해서 언제 어디서 올지 정확히 예측할 수 있는 것은 아니다",
+          "headingEn": "Recognizing Rogue Waves as Real Does Not Make Them Precisely Predictable",
+          "textKo": "NOAA는 rogue waves가 unpredictable하고 direction도 prevailing wind/wave와 다르게 나타날 수 있다고 설명한다. statistical model과 forecast research는 발전했지만 개별 ship 앞에서 다음 순간 rogue crest가 나타날지를 정확히 맞추는 문제는 어렵다. **existence proof와 operational forecast capability는 다른 단계다.**",
+          "textEn": "NOAA emphasizes that rogue waves are unpredictable and can arrive from directions unlike the prevailing wind or wave field. Statistical models and forecasting research are improving, but predicting the exact next extreme crest in front of a ship remains difficult. Existence and operational predictability are different achievements."
+        },
+        {
+          "blockId": "engineering-045",
+          "type": "AFTERMATH",
+          "headingKo": "실재가 인정되자 ship design·offshore engineering에서도 extreme load가 더 중요해졌다",
+          "headingEn": "Recognition of Rogue Waves Changed How Engineers Think About Extreme Loads",
+          "textKo": "rogue wave가 folklore가 아니라 measurement 대상이 되면서 ship·offshore structure는 average sea state뿐 아니라 rare extreme crest의 load도 고려해야 한다. **미스터리의 해결이 곧 위험의 제거를 뜻하지는 않는다. 현상을 인정하면 오히려 design problem이 더 현실적으로 된다.**",
+          "textEn": "Once rogue waves became a measured phenomenon, ship and offshore design had to treat rare extreme crests as engineering loads rather than folklore. Solving the existence question does not remove the hazard; it makes the design problem more realistic."
+        },
+        {
+          "blockId": "measurement-048",
+          "type": "BACKGROUND",
+          "headingKo": "satellite·buoy·platform record가 늘면서 '희귀한 일화'를 통계문제로 바꿀 수 있게 됐다",
+          "headingEn": "More Instrument Records Turned Rare Anecdotes Into a Statistical Problem",
+          "textKo": "modern buoy, platform, ship, satellite observation이 늘면서 extreme crest의 height와 surrounding sea state를 함께 비교할 수 있게 됐다. **이 변화가 rogue wave를 sailor story가 아니라 probability distribution의 extreme tail로 다루게 만든 핵심이다.**",
+          "textEn": "Modern buoy, platform, ship, and satellite observations increasingly allow extreme crest height to be compared with the surrounding sea state. That shift turned rogue waves from sailor stories into a problem in the extreme tail of wave statistics."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** rogue waves는 실제 extreme ocean wave이며 주변파보다 두 배 이상 큰 event가 관측된다. constructive interference와 opposing-current focusing 등 known physical mechanism이 있다.\n\n**확인되지 않음:** 모든 rogue wave를 하나의 mechanism으로 설명할 수는 없고, 개별 extreme wave의 정확한 시간·위치를 안정적으로 예측하는 능력도 완성되지 않았다.",
+          "textEn": "**Established:** Rogue waves are real extreme ocean waves, with events more than twice the surrounding wave height observed. Constructive interference and opposing-current focusing are among known physical mechanisms.\n\n**Not established:** No single mechanism explains every rogue wave, and reliable exact prediction of each event's time and location remains incomplete."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** rogue waves는 실제 extreme ocean wave이며 주변파보다 두 배 이상 큰 event가 관측된다. constructive interference와 opposing-current focusing 등 known physical mechanism이 있다.\n\n**확인되지 않음:** 모든 rogue wave를 하나의 mechanism으로 설명할 수는 없고, 개별 extreme wave의 정확한 시간·위치를 안정적으로 예측하는 능력도 완성되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "interference-02",
+        "currents-03",
+        "prediction-04",
+        "engineering-045",
+        "measurement-048"
+      ]
+    },
+    "en": {
+      "headline": "How Did Sailors' 'Walls of Water' Move From Legend to Measured Ocean Physics?",
+      "hook": "Rogue waves are real. That did not end the mystery: several physical routes can create extreme crests, and exact event-by-event prediction remains difficult.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "선원들이 말하던 '벽 같은 파도'는 한때 과장으로 취급됐지만 실제 현상이다",
+          "headingEn": "Sailors' 'Walls of Water' Were Once Dismissed but Are Now Recognized as Real",
+          "textKo": "NOAA는 rogue wave 또는 extreme storm wave를 주변파보다 두 배 이상 높고 예상치 못하게 나타나는 매우 큰 파도로 설명한다. 오랫동안 sailor tale로 취급됐지만 지난 수십 년의 instrument observation은 이런 extreme event가 실제임을 확립했다. **전설이었던 것은 '파도 자체의 존재'가 아니라 얼마나 자주·어떻게 생기는지에 대한 이해였다.**",
+          "textEn": "NOAA defines rogue or extreme storm waves as unusually large waves, often more than twice the size of surrounding waves, appearing unexpectedly. Once dismissed as sailor tales, instrument observations over recent decades established that such extreme events are real. The mystery shifted from existence to formation and predictability."
+        },
+        {
+          "blockId": "interference-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "여러 swell이 순간적으로 위상을 맞추면 constructive interference가 거대한 crest를 만든다",
+          "headingEn": "Constructive Interference Can Temporarily Stack Multiple Swells Into a Giant Crest",
+          "textKo": "NOAA는 서로 다른 speed·direction의 swell이 겹치면서 crest와 trough가 순간적으로 정렬될 때 wave energy가 강화될 수 있다고 설명한다. 이 constructive interference는 매우 큰 wave를 만들었다가 짧은 시간 뒤 사라지게 할 수 있다. **평균해상상태가 moderate해도 local combination은 극단적일 수 있다.**",
+          "textEn": "NOAA explains that swells moving at different speeds and directions can overlap so that crests and troughs briefly align, reinforcing wave energy through constructive interference. A towering wave can therefore emerge and disappear even when the broader sea state is less extreme."
+        },
+        {
+          "blockId": "currents-03",
+          "type": "BACKGROUND",
+          "headingKo": "강한 current가 파도진행을 방해하면 에너지가 좁은 공간에 집중될 수 있다",
+          "headingEn": "Opposing Currents Can Focus Wave Energy Into a Smaller Region",
+          "textKo": "Gulf Stream·Agulhas 같은 current를 wave가 거슬러 진행할 때 wavelength와 propagation이 변해 wave energy가 집중될 수 있다. NOAA는 이런 current-wave interaction을 longer-lived rogue wave의 known cause 가운데 하나로 든다. **rogue wave는 하나의 단일 mechanism이 아니라 여러 nonlinear·focusing condition의 결과군이다.**",
+          "textEn": "When waves travel against strong currents such as the Gulf Stream or Agulhas, their wavelength and propagation can change and wave energy can focus into a smaller area. NOAA identifies current-wave interaction as one known route to longer-lived rogue events. Rogue waves are a class of extreme outcomes, not one single mechanism."
+        },
+        {
+          "blockId": "prediction-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "현상이 실제라고 해서 언제 어디서 올지 정확히 예측할 수 있는 것은 아니다",
+          "headingEn": "Recognizing Rogue Waves as Real Does Not Make Them Precisely Predictable",
+          "textKo": "NOAA는 rogue waves가 unpredictable하고 direction도 prevailing wind/wave와 다르게 나타날 수 있다고 설명한다. statistical model과 forecast research는 발전했지만 개별 ship 앞에서 다음 순간 rogue crest가 나타날지를 정확히 맞추는 문제는 어렵다. **existence proof와 operational forecast capability는 다른 단계다.**",
+          "textEn": "NOAA emphasizes that rogue waves are unpredictable and can arrive from directions unlike the prevailing wind or wave field. Statistical models and forecasting research are improving, but predicting the exact next extreme crest in front of a ship remains difficult. Existence and operational predictability are different achievements."
+        },
+        {
+          "blockId": "engineering-045",
+          "type": "AFTERMATH",
+          "headingKo": "실재가 인정되자 ship design·offshore engineering에서도 extreme load가 더 중요해졌다",
+          "headingEn": "Recognition of Rogue Waves Changed How Engineers Think About Extreme Loads",
+          "textKo": "rogue wave가 folklore가 아니라 measurement 대상이 되면서 ship·offshore structure는 average sea state뿐 아니라 rare extreme crest의 load도 고려해야 한다. **미스터리의 해결이 곧 위험의 제거를 뜻하지는 않는다. 현상을 인정하면 오히려 design problem이 더 현실적으로 된다.**",
+          "textEn": "Once rogue waves became a measured phenomenon, ship and offshore design had to treat rare extreme crests as engineering loads rather than folklore. Solving the existence question does not remove the hazard; it makes the design problem more realistic."
+        },
+        {
+          "blockId": "measurement-048",
+          "type": "BACKGROUND",
+          "headingKo": "satellite·buoy·platform record가 늘면서 '희귀한 일화'를 통계문제로 바꿀 수 있게 됐다",
+          "headingEn": "More Instrument Records Turned Rare Anecdotes Into a Statistical Problem",
+          "textKo": "modern buoy, platform, ship, satellite observation이 늘면서 extreme crest의 height와 surrounding sea state를 함께 비교할 수 있게 됐다. **이 변화가 rogue wave를 sailor story가 아니라 probability distribution의 extreme tail로 다루게 만든 핵심이다.**",
+          "textEn": "Modern buoy, platform, ship, and satellite observations increasingly allow extreme crest height to be compared with the surrounding sea state. That shift turned rogue waves from sailor stories into a problem in the extreme tail of wave statistics."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** rogue waves는 실제 extreme ocean wave이며 주변파보다 두 배 이상 큰 event가 관측된다. constructive interference와 opposing-current focusing 등 known physical mechanism이 있다.\n\n**확인되지 않음:** 모든 rogue wave를 하나의 mechanism으로 설명할 수는 없고, 개별 extreme wave의 정확한 시간·위치를 안정적으로 예측하는 능력도 완성되지 않았다.",
+          "textEn": "**Established:** Rogue waves are real extreme ocean waves, with events more than twice the surrounding wave height observed. Constructive interference and opposing-current focusing are among known physical mechanisms.\n\n**Not established:** No single mechanism explains every rogue wave, and reliable exact prediction of each event's time and location remains incomplete."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Rogue waves are real extreme ocean waves, with events more than twice the surrounding wave height observed. Constructive interference and opposing-current focusing are among known physical mechanisms.\n\n**Not established:** No single mechanism explains every rogue wave, and reliable exact prediction of each event's time and location remains incomplete.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "interference-02",
+        "currents-03",
+        "prediction-04",
+        "engineering-045",
+        "measurement-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ROG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "rogue waves는 실제 extreme waves이며 주변파보다 두 배 이상 큰 경우가 있다.",
+      "statementEn": "Rogue waves are real extreme waves and can exceed twice the height of surrounding waves.",
+      "sourceRefs": [
+        "ROG_NOAA_FACT",
+        "ROG_NOAA_WAVES"
+      ]
+    },
+    {
+      "claimId": "ROG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "constructive interference와 current focusing은 알려진 생성 mechanism이다.",
+      "statementEn": "Constructive interference and current focusing are known formation mechanisms.",
+      "sourceRefs": [
+        "ROG_NOAA_FACT"
+      ]
+    },
+    {
+      "claimId": "ROG-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 rogue wave가 하나의 mechanism으로 생기지는 않는다.",
+      "statementEn": "No single mechanism is established for every rogue wave.",
+      "sourceRefs": [
+        "ROG_NOAA_FACT"
+      ]
+    },
+    {
+      "claimId": "ROG-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "개별 rogue wave의 exact time/location을 신뢰성 있게 예측하는 능력은 완성되지 않았다.",
+      "statementEn": "Reliable exact prediction of individual rogue-wave time and location remains incomplete.",
+      "sourceRefs": [
+        "ROG_NOAA_FACT",
+        "ROG_NOAA_WAVES"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "ROG_NOAA_FACT",
+      "title": "What is a rogue wave?",
+      "publisher": "NOAA Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/roguewaves.html?os=f%2F",
+      "sourceType": "NOAA_OFFICIAL"
+    },
+    {
+      "sourceId": "ROG_NOAA_WAVES",
+      "title": "Waves — Rogue Waves",
+      "publisher": "NOAA JetStream",
+      "url": "https://prod-01-alb-www-noaa.woc.noaa.gov/jetstream/ocean/waves",
+      "sourceType": "NOAA_EDUCATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "rog-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "ordinary swells → constructive interference / opposing current → rogue crest 형성.",
+      "captionEn": "Ordinary swells → constructive interference / opposing current → rogue crest.",
+      "altKo": "ordinary swells → constructive interference / opposing current → rogue crest 형성.",
+      "altEn": "Ordinary swells → constructive interference / opposing current → rogue crest.",
+      "sourceRefs": [
+        "ROG_NOAA_FACT",
+        "ROG_NOAA_WAVES"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "rogue-waves__v01__ko.png",
+          "sha256": "41f92d1b53e60e23c98129798179a7f5c59c9a1b3cba4b5ccb0d60e622f09ddd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "rogue-waves__v01__en.png",
+          "sha256": "deb9de8997a7a5023a84673ac775715bad6c6aeffe9622d5a9e72638af1fc55a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "rog-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "existence confirmed / mechanisms multiple / exact prediction incomplete를 분리.",
+      "captionEn": "Separate confirmed existence, multiple mechanisms, and incomplete exact prediction.",
+      "altKo": "existence confirmed / mechanisms multiple / exact prediction incomplete를 분리.",
+      "altEn": "Separate confirmed existence, multiple mechanisms, and incomplete exact prediction.",
+      "sourceRefs": [
+        "ROG_NOAA_FACT",
+        "ROG_NOAA_WAVES"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "rogue-waves__v02__ko.png",
+          "sha256": "34b9abd99f557d0de96ebe4133056e60c24bc20dcbcae14993a09580abf4e877",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "rogue-waves__v02__en.png",
+          "sha256": "505a150fe7b7bdc19e27455860c042d7072e367ff9344bc87c897e284e1d3959",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Maritime / Aviation",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [],
+    "regions": [
+      "Global ocean"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "NOAA"
+    ],
+    "dateRange": {
+      "start": "historical sailor reports",
+      "end": "present",
+      "precision": "folklore through modern measurement"
+    },
+    "era": "Modern oceanography",
+    "resolution": "PHENOMENON_CONFIRMED_MULTIPLE_MECHANISMS_PREDICTION_LIMITED",
+    "searchAliases": [
+      "rogue waves",
+      "freak waves",
+      "extreme storm waves"
+    ],
+    "relatedCases": [
+      "seneca-guns"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1634,
+    "enBodyWords": 315,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

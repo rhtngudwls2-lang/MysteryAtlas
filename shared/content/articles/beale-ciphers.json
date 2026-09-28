@@ -1,0 +1,359 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "beale-ciphers",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "빌 암호문",
+    "canonicalTitleEn": "Beale Ciphers",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "두 번째 암호는 읽히는데 왜 보물 위치는 140년 넘게 남아 있을까",
+      "hook": "Beale Papers의 세 숫자암호와 1885 pamphlet은 실제로 남아 있다. 그러나 Cipher 2의 전통적 해독과 실제 보물의 존재, 1번·3번의 plaintext는 서로 다른 문제다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "보물지도처럼 읽히는 세 숫자암호는 실제 1885년 pamphlet에 남아 있다",
+          "headingEn": "Three Numerical Ciphers Really Do Appear in the 1885 Beale Papers",
+          "textKo": "Beale Ciphers는 Virginia 어딘가에 금·은·보석이 묻혔다는 이야기와 함께 전해진 세 개의 숫자암호다. NSA는 1885년 발행된 Beale Papers pamphlet과 후대 분석자료를 historical release로 보존한다. **따라서 암호문 자체와 보물서사의 출판역사는 실제다. 하지만 출판된 이야기가 곧 실제 매장보물을 증명하는 것은 아니다.**",
+          "textEn": "The Beale Ciphers are three numerical cryptograms published with a story of buried gold, silver, and jewels somewhere in Virginia. The NSA preserves the 1885 Beale Papers pamphlet and later analytical material as a historical release. The ciphers and publication history are real; the story does not by itself prove a real treasure cache."
+        },
+        {
+          "blockId": "cipher2-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "두 번째 암호는 독립선언문을 key text로 쓰는 해독이 전통적으로 받아들여진다",
+          "headingEn": "Cipher No. 2 Is Traditionally Read With the Declaration of Independence as the Key",
+          "textKo": "Beale Papers의 전통적 설명에서 두 번째 cryptogram은 U.S. Declaration of Independence를 key text로 사용해 보물의 내용과 매장상황을 설명하는 plaintext가 나온다. NSA의 Beale historical material도 이 해독전통을 보존한다. **그러나 '2번이 읽힌다'는 사실이 1번·3번의 key를 자동으로 제공하지는 않는다.**",
+          "textEn": "In the traditional Beale Papers account, Cipher No. 2 is decoded using the U.S. Declaration of Independence as a key text, producing a plaintext about the treasure and its deposit. NSA historical material preserves that decoding tradition. A readable No. 2 does not automatically reveal the keys to Nos. 1 and 3."
+        },
+        {
+          "blockId": "unsolved-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1번과 3번이 남으면서 ‘암호문’과 ‘역사적 실재’ 문제가 뒤엉켰다",
+          "headingEn": "Ciphers 1 and 3 Leave Cryptanalysis and Historical Authenticity Entangled",
+          "textKo": "전승에 따르면 Cipher 1은 treasure location, Cipher 3은 소유자·상속자 정보를 담는다고 하지만 합의된 plaintext는 없다. 이 때문에 solver는 cryptographic problem만이 아니라 pamphlet narrative 자체가 genuine nineteenth-century event인지도 함께 의심해왔다. **암호가 안 풀린다는 사실은 보물이 있다는 증거도, 보물이 없다는 증거도 아니다.**",
+          "textEn": "Tradition assigns Cipher 1 to the treasure location and Cipher 3 to the owners or heirs, but no accepted plaintext exists for either. Solvers therefore confront two separate questions: whether the cryptograms can be solved and whether the narrative behind the pamphlet is historically authentic. Unsolved ciphertext proves neither treasure nor hoax."
+        },
+        {
+          "blockId": "analysis-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "수많은 해독 시도가 있었다고 정답이 하나로 좁혀진 것은 아니다",
+          "headingEn": "Many Proposed Solutions Have Not Produced a Reproducible Consensus",
+          "textKo": "NSA가 관련 분석자료까지 보존하는 이유는 이 사건이 오랫동안 cryptanalytic curiosity였기 때문이다. 하지만 후보 key·book cipher·통계패턴을 다양하게 적용하면 짧고 구조가 불확실한 숫자열에서 그럴듯한 결과를 만들 여지가 크다. **강한 해독이라면 동일 rule을 독립적으로 재현하고 예외를 최소화해야 한다.**",
+          "textEn": "The NSA preserves analytical material because the Beale story became a long-running cryptanalytic curiosity. But numerous candidate books, keys, and statistical approaches can produce suggestive patterns from numerical sequences. A strong solution must be reproducible under the same rules and minimize ad hoc exceptions."
+        },
+        {
+          "blockId": "treasure-05",
+          "type": "AFTERMATH",
+          "headingKo": "오늘까지 남은 미스터리는 ‘암호’만이 아니라 pamphlet의 provenance다",
+          "headingEn": "The Remaining Mystery Is the Pamphlet's Provenance as Much as the Ciphers",
+          "textKo": "Beale Papers가 실제 Thomas Beale의 사건을 전한 것인지, 19세기 후반의 literary hoax인지에 대한 논쟁은 cipher status와 분리해서 봐야 한다. **보물의 존재·Beale의 실재·나머지 암호의 plaintext는 서로 다른 claim이며 하나를 확정해도 나머지가 자동으로 따라오지 않는다.**",
+          "textEn": "Whether the Beale Papers preserve a real Thomas Beale episode or a nineteenth-century literary construction is distinct from the cryptanalytic status of the ciphers. Treasure existence, Beale's historicity, and the plaintexts of the remaining ciphers are separate claims."
+        },
+        {
+          "blockId": "method-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "보물이 실제라면 암호해독 외의 역사증거도 함께 기대된다",
+          "headingEn": "A Real Treasure Story Would Also Need Historical Evidence Beyond Cryptanalysis",
+          "textKo": "cryptogram을 해독하는 일과 pamphlet 속 treasure history를 입증하는 일은 별개다. 실제 매장·운송·인물관계를 주장하려면 독립적인 재산기록·인물기록·현장증거 같은 자료가 함께 맞아야 한다. **cipher가 흥미롭다는 사실만으로 story provenance의 빈칸이 사라지지는 않는다.**",
+          "textEn": "Decoding a cryptogram is separate from proving the treasure narrative. A real deposit, shipment, and group of owners would ideally converge with independent property records, personal records, or physical site evidence. Cryptographic interest does not erase provenance gaps."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1885 Beale Papers pamphlet과 세 numerical cryptogram은 실제 존재하며 NSA가 historical material과 분석자료를 보존한다. Cipher No.2는 Declaration of Independence를 key text로 읽는 전통적 해독이 있다.\n\n**확인되지 않음:** 실제 Beale treasure의 존재, Cipher 1·3의 합의된 plaintext, pamphlet narrative의 모든 역사적 세부는 확정되지 않았다.",
+          "textEn": "**Established:** The 1885 Beale Papers pamphlet and its three numerical cryptograms exist, and NSA preserves historical and analytical material. Cipher No. 2 has a traditional decoding based on the Declaration of Independence.\n\n**Not established:** The actual existence of the Beale treasure, consensus plaintexts for Ciphers 1 and 3, and the historical authenticity of every part of the pamphlet narrative remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1885 Beale Papers pamphlet과 세 numerical cryptogram은 실제 존재하며 NSA가 historical material과 분석자료를 보존한다. Cipher No.2는 Declaration of Independence를 key text로 읽는 전통적 해독이 있다.\n\n**확인되지 않음:** 실제 Beale treasure의 존재, Cipher 1·3의 합의된 plaintext, pamphlet narrative의 모든 역사적 세부는 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "cipher2-02",
+        "unsolved-03",
+        "analysis-04",
+        "treasure-05",
+        "method-055"
+      ]
+    },
+    "en": {
+      "headline": "Cipher No.2 Can Be Read—So Why Are the Treasure and the Other Ciphers Still Unresolved?",
+      "hook": "The 1885 pamphlet and three ciphers are real, but Cipher 2's traditional decoding, the existence of a treasure, and the plaintexts of Ciphers 1 and 3 are separate questions.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "보물지도처럼 읽히는 세 숫자암호는 실제 1885년 pamphlet에 남아 있다",
+          "headingEn": "Three Numerical Ciphers Really Do Appear in the 1885 Beale Papers",
+          "textKo": "Beale Ciphers는 Virginia 어딘가에 금·은·보석이 묻혔다는 이야기와 함께 전해진 세 개의 숫자암호다. NSA는 1885년 발행된 Beale Papers pamphlet과 후대 분석자료를 historical release로 보존한다. **따라서 암호문 자체와 보물서사의 출판역사는 실제다. 하지만 출판된 이야기가 곧 실제 매장보물을 증명하는 것은 아니다.**",
+          "textEn": "The Beale Ciphers are three numerical cryptograms published with a story of buried gold, silver, and jewels somewhere in Virginia. The NSA preserves the 1885 Beale Papers pamphlet and later analytical material as a historical release. The ciphers and publication history are real; the story does not by itself prove a real treasure cache."
+        },
+        {
+          "blockId": "cipher2-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "두 번째 암호는 독립선언문을 key text로 쓰는 해독이 전통적으로 받아들여진다",
+          "headingEn": "Cipher No. 2 Is Traditionally Read With the Declaration of Independence as the Key",
+          "textKo": "Beale Papers의 전통적 설명에서 두 번째 cryptogram은 U.S. Declaration of Independence를 key text로 사용해 보물의 내용과 매장상황을 설명하는 plaintext가 나온다. NSA의 Beale historical material도 이 해독전통을 보존한다. **그러나 '2번이 읽힌다'는 사실이 1번·3번의 key를 자동으로 제공하지는 않는다.**",
+          "textEn": "In the traditional Beale Papers account, Cipher No. 2 is decoded using the U.S. Declaration of Independence as a key text, producing a plaintext about the treasure and its deposit. NSA historical material preserves that decoding tradition. A readable No. 2 does not automatically reveal the keys to Nos. 1 and 3."
+        },
+        {
+          "blockId": "unsolved-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1번과 3번이 남으면서 ‘암호문’과 ‘역사적 실재’ 문제가 뒤엉켰다",
+          "headingEn": "Ciphers 1 and 3 Leave Cryptanalysis and Historical Authenticity Entangled",
+          "textKo": "전승에 따르면 Cipher 1은 treasure location, Cipher 3은 소유자·상속자 정보를 담는다고 하지만 합의된 plaintext는 없다. 이 때문에 solver는 cryptographic problem만이 아니라 pamphlet narrative 자체가 genuine nineteenth-century event인지도 함께 의심해왔다. **암호가 안 풀린다는 사실은 보물이 있다는 증거도, 보물이 없다는 증거도 아니다.**",
+          "textEn": "Tradition assigns Cipher 1 to the treasure location and Cipher 3 to the owners or heirs, but no accepted plaintext exists for either. Solvers therefore confront two separate questions: whether the cryptograms can be solved and whether the narrative behind the pamphlet is historically authentic. Unsolved ciphertext proves neither treasure nor hoax."
+        },
+        {
+          "blockId": "analysis-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "수많은 해독 시도가 있었다고 정답이 하나로 좁혀진 것은 아니다",
+          "headingEn": "Many Proposed Solutions Have Not Produced a Reproducible Consensus",
+          "textKo": "NSA가 관련 분석자료까지 보존하는 이유는 이 사건이 오랫동안 cryptanalytic curiosity였기 때문이다. 하지만 후보 key·book cipher·통계패턴을 다양하게 적용하면 짧고 구조가 불확실한 숫자열에서 그럴듯한 결과를 만들 여지가 크다. **강한 해독이라면 동일 rule을 독립적으로 재현하고 예외를 최소화해야 한다.**",
+          "textEn": "The NSA preserves analytical material because the Beale story became a long-running cryptanalytic curiosity. But numerous candidate books, keys, and statistical approaches can produce suggestive patterns from numerical sequences. A strong solution must be reproducible under the same rules and minimize ad hoc exceptions."
+        },
+        {
+          "blockId": "treasure-05",
+          "type": "AFTERMATH",
+          "headingKo": "오늘까지 남은 미스터리는 ‘암호’만이 아니라 pamphlet의 provenance다",
+          "headingEn": "The Remaining Mystery Is the Pamphlet's Provenance as Much as the Ciphers",
+          "textKo": "Beale Papers가 실제 Thomas Beale의 사건을 전한 것인지, 19세기 후반의 literary hoax인지에 대한 논쟁은 cipher status와 분리해서 봐야 한다. **보물의 존재·Beale의 실재·나머지 암호의 plaintext는 서로 다른 claim이며 하나를 확정해도 나머지가 자동으로 따라오지 않는다.**",
+          "textEn": "Whether the Beale Papers preserve a real Thomas Beale episode or a nineteenth-century literary construction is distinct from the cryptanalytic status of the ciphers. Treasure existence, Beale's historicity, and the plaintexts of the remaining ciphers are separate claims."
+        },
+        {
+          "blockId": "method-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "보물이 실제라면 암호해독 외의 역사증거도 함께 기대된다",
+          "headingEn": "A Real Treasure Story Would Also Need Historical Evidence Beyond Cryptanalysis",
+          "textKo": "cryptogram을 해독하는 일과 pamphlet 속 treasure history를 입증하는 일은 별개다. 실제 매장·운송·인물관계를 주장하려면 독립적인 재산기록·인물기록·현장증거 같은 자료가 함께 맞아야 한다. **cipher가 흥미롭다는 사실만으로 story provenance의 빈칸이 사라지지는 않는다.**",
+          "textEn": "Decoding a cryptogram is separate from proving the treasure narrative. A real deposit, shipment, and group of owners would ideally converge with independent property records, personal records, or physical site evidence. Cryptographic interest does not erase provenance gaps."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1885 Beale Papers pamphlet과 세 numerical cryptogram은 실제 존재하며 NSA가 historical material과 분석자료를 보존한다. Cipher No.2는 Declaration of Independence를 key text로 읽는 전통적 해독이 있다.\n\n**확인되지 않음:** 실제 Beale treasure의 존재, Cipher 1·3의 합의된 plaintext, pamphlet narrative의 모든 역사적 세부는 확정되지 않았다.",
+          "textEn": "**Established:** The 1885 Beale Papers pamphlet and its three numerical cryptograms exist, and NSA preserves historical and analytical material. Cipher No. 2 has a traditional decoding based on the Declaration of Independence.\n\n**Not established:** The actual existence of the Beale treasure, consensus plaintexts for Ciphers 1 and 3, and the historical authenticity of every part of the pamphlet narrative remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The 1885 Beale Papers pamphlet and its three numerical cryptograms exist, and NSA preserves historical and analytical material. Cipher No. 2 has a traditional decoding based on the Declaration of Independence.\n\n**Not established:** The actual existence of the Beale treasure, consensus plaintexts for Ciphers 1 and 3, and the historical authenticity of every part of the pamphlet narrative remain unresolved.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "cipher2-02",
+        "unsolved-03",
+        "analysis-04",
+        "treasure-05",
+        "method-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BEALE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1885 Beale Papers와 세 cryptogram은 실제 보존자료다.",
+      "statementEn": "The 1885 Beale Papers and three cryptograms are genuine surviving documents.",
+      "sourceRefs": [
+        "BEALE_NSA"
+      ]
+    },
+    {
+      "claimId": "BEALE-C2",
+      "status": "SUPPORTED",
+      "statementKo": "Cipher No.2는 Declaration of Independence를 key로 읽는 전통적 해독이 있다.",
+      "statementEn": "Cipher No.2 has a traditional decoding using the Declaration of Independence as key text.",
+      "sourceRefs": [
+        "BEALE_NSA",
+        "BEALE_ANALYSIS"
+      ]
+    },
+    {
+      "claimId": "BEALE-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Cipher 1·3의 합의된 plaintext는 없다.",
+      "statementEn": "No consensus plaintext exists for Ciphers 1 and 3.",
+      "sourceRefs": [
+        "BEALE_NSA",
+        "BEALE_ANALYSIS"
+      ]
+    },
+    {
+      "claimId": "BEALE-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Beale treasure의 실제 존재와 pamphlet narrative 전체의 역사적 진위는 확정되지 않았다.",
+      "statementEn": "The treasure's existence and the full historical authenticity of the pamphlet narrative remain unestablished.",
+      "sourceRefs": [
+        "BEALE_NSA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BEALE_NSA",
+      "title": "Beale Papers Historical Release",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Beale-Papers/",
+      "sourceType": "NSA_OFFICIAL_ARCHIVE"
+    },
+    {
+      "sourceId": "BEALE_ANALYSIS",
+      "title": "Beale Papers Analysis Material",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002763571/",
+      "sourceType": "NSA_ANALYTICAL_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "beale-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "세 cryptogram과 전통적 Cipher 2 key-text 구조.",
+      "captionEn": "Three cryptograms and the traditional Cipher 2 key-text structure.",
+      "altKo": "세 cryptogram과 전통적 Cipher 2 key-text 구조.",
+      "altEn": "Three cryptograms and the traditional Cipher 2 key-text structure.",
+      "sourceRefs": [
+        "BEALE_NSA",
+        "BEALE_ANALYSIS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beale-ciphers__v01__ko.png",
+          "sha256": "67ad72f30e24bec86f34497c59c3a0c1c6b978dac36ab733735ec91b82e41983",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beale-ciphers__v01__en.png",
+          "sha256": "2b7746d054401197bcc220ed890b5aa04eb843ef4b3307e845d51c927f5348c0",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "beale-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "문서존재·Cipher2 해독전통·보물실재·Cipher1/3 미해독을 분리.",
+      "captionEn": "Separate document existence, Cipher 2 tradition, treasure claim, and unsolved Ciphers 1/3.",
+      "altKo": "문서존재·Cipher2 해독전통·보물실재·Cipher1/3 미해독을 분리.",
+      "altEn": "Separate document existence, Cipher 2 tradition, treasure claim, and unsolved Ciphers 1/3.",
+      "sourceRefs": [
+        "BEALE_NSA",
+        "BEALE_ANALYSIS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "beale-ciphers__v02__ko.png",
+          "sha256": "05f6be7bd16f02df457b823e4bce16594b95385212b5905ac7a89ef54d42239e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "beale-ciphers__v02__en.png",
+          "sha256": "687016c0ecac1c7f3427064723f390a864c5bc8c43038c9213e5613fb078f8f4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Virginia"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "NSA"
+    ],
+    "dateRange": {
+      "start": "1885",
+      "end": "present",
+      "precision": "pamphlet publication through modern analysis"
+    },
+    "era": "19th-century publication / modern cryptanalysis",
+    "resolution": "DOCUMENTS_EXIST_PARTIAL_TRADITIONAL_DECODING_TREASURE_AND_REMAINING_CIPHERS_UNRESOLVED",
+    "searchAliases": [
+      "Beale Ciphers",
+      "Beale Papers"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1509,
+    "enBodyWords": 340,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

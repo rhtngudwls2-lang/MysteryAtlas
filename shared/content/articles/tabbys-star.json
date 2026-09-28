@@ -1,0 +1,367 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "tabbys-star",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "태비의 별",
+    "canonicalTitleEn": "Tabby's Star / KIC 8462852",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "외계 구조물까지 거론됐던 별—왜 지금은 먼지가 훨씬 강한 설명인가",
+      "hook": "Tabby's Star의 이상한 dimming은 진짜였다. 하지만 multiwavelength observation은 opaque megastructure와 맞지 않는 색 의존성을 보여줬다. 미스터리는 사라진 게 아니라 '외계구조물인가'에서 '먼지가 어디서 왔나'로 바뀌었다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "Kepler가 본 20%급 불규칙 dimming은 정말 비정상적이었다",
+          "headingEn": "Kepler Really Did See Extraordinary, Irregular Dimming",
+          "textKo": "KIC 8462852, Tabby's Star는 Kepler data에서 ordinary planet transit로 설명하기 어려운 irregular dip을 보여 유명해졌다. NASA/JPL은 일부 dimming이 수일 동안 약 20%에 달했다고 정리한다. **별이 이상하게 어두워진다는 관측 자체는 실제이며, 그래서 여러 가설이 진지하게 검토됐다.**",
+          "textEn": "KIC 8462852, Tabby's Star, became famous because Kepler recorded irregular dips unlike ordinary planetary transits; NASA/JPL notes some decreases reached roughly 20 percent over days. The unusual dimming itself is real, which is why a broad range of explanations was considered."
+        },
+        {
+          "blockId": "alien-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘외계 megastructure’는 관측이 아니라 가설 중 하나였다",
+          "headingEn": "The Alien Megastructure Was a Hypothesis, Not an Observation",
+          "textKo": "극단적인 dimming 때문에 거대한 인공구조물이 starlight를 가린다는 speculation이 대중적으로 크게 확산됐다. 그러나 telescope가 본 것은 구조물이 아니라 brightness time series다. **관측된 양은 '밝기감소'이고, megastructure는 그 원인을 설명하려는 여러 model 중 하나였을 뿐이다.**",
+          "textEn": "The extreme dimming helped popularize speculation that a giant artificial structure might block the star. But telescopes observed a brightness time series, not a structure. 'Brightness decreased' is an observation; a megastructure is one proposed explanation among many."
+        },
+        {
+          "blockId": "color-03",
+          "type": "TURNING_POINT",
+          "headingKo": "파장별 dimming이 달랐다는 사실이 opaque megastructure를 약화했다",
+          "headingEn": "Chromatic Dimming Weakened the Opaque-Megastructure Idea",
+          "textKo": "NASA/JPL은 Spitzer·Swift·AstroLAB IRIS 자료에서 longer infrared wavelength보다 shorter ultraviolet/visible wavelength에서 dimming이 더 강한 reddening pattern을 보고했다. 작은 dust particle은 이런 wavelength dependence를 만들지만 완전히 opaque한 큰 구조물은 거의 achromatic dimming을 만들 것으로 기대된다. **이 결과는 dust explanation을 훨씬 강하게 만들었다.**",
+          "textEn": "NASA/JPL reports that follow-up observations with Spitzer, Swift, and AstroLAB IRIS found stronger dimming at shorter wavelengths than in the infrared. Fine dust naturally produces this wavelength dependence, whereas a large opaque structure should dim wavelengths more evenly. The chromatic pattern strongly favored dust."
+        },
+        {
+          "blockId": "dust-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘먼지’가 강한 설명이라고 먼지의 정확한 source까지 해결된 것은 아니다",
+          "headingEn": "Dust Is Favored, but the Exact Dust Source Is Still a Separate Question",
+          "textKo": "dust model은 chromatic behavior를 잘 설명하지만 그 dust가 circumstellar disk, comet fragments, collision debris 등 어떤 source에서 계속 공급되는지는 더 복잡하다. 2015년 JPL 자료는 comet swarm을 검토했고 2017년 자료는 uneven dust ring 같은 model을 제시했다. **'alien megastructure 필요 없음'과 '정확한 astrophysical source 완전해결'은 같은 결론이 아니다.**",
+          "textEn": "Dust explains the chromatic behavior well, but identifying the exact source of that dust—circumstellar material, comet fragments, or collision debris—is a separate problem. JPL discussed comet swarms in 2015 and uneven dust configurations in later work. 'No need for an alien megastructure' is not the same as fully solving every astrophysical detail."
+        },
+        {
+          "blockId": "lesson-045",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건의 가장 좋은 교훈은 '이상함'과 '외계' 사이에 얼마나 많은 검증단계가 있는지다",
+          "headingEn": "The Best Lesson Is How Many Steps Separate 'Weird' From 'Alien'",
+          "textKo": "Tabby's Star는 정말 이상했기 때문에 alien hypothesis가 대중적으로 주목받았다. 그러나 이후 색·파장정보가 들어오자 explanation space가 크게 좁아졌다. **과학에서 extraordinary appearance는 질문을 넓히지만, 추가측정은 그 질문을 다시 좁힌다.**",
+          "textEn": "Tabby's Star was genuinely strange enough to motivate broad speculation. Once wavelength-dependent data arrived, the explanation space narrowed sharply. Extraordinary appearance broadens questions; additional measurements narrow them."
+        },
+        {
+          "blockId": "timescale-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "단기 dip과 장기 dimming을 하나의 단순원인으로 묶기 어려울 수도 있다",
+          "headingEn": "Short Dips and Long-Term Dimming May Not Require One Simple Cause",
+          "textKo": "Tabby's Star는 days-scale deep dip뿐 아니라 더 긴 timescale brightness change도 논의돼 왔다. 같은 dust family가 두 현상을 모두 만들 수 있는지, 여러 dust population이 필요한지는 연구마다 다르다. **dust가 강한 설명이라는 것과 단일 simple dust cloud로 모든 light curve를 설명한다는 것은 같은 말이 아니다.**",
+          "textEn": "Tabby's Star shows both short deep dips and longer-term brightness changes. Whether one dust population explains all timescales or multiple components are needed remains a research question. 'Dust favored' does not mean one simple cloud explains every feature."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Tabby's Star의 irregular deep dimming은 실제 Kepler observation이다. 후속 multiwavelength observation은 shorter wavelength에서 더 강한 chromatic dimming을 보여 fine dust explanation과 잘 맞는다.\n\n**확인되지 않음:** alien megastructure를 요구하는 증거는 없다. 반대로 dust의 정확한 공급원과 장기 brightness variation의 모든 세부도 하나의 최종모델로 완전히 닫힌 것은 아니다.",
+          "textEn": "**Established:** Tabby's Star showed real deep irregular dimming in Kepler data. Follow-up multiwavelength observations found stronger dimming at shorter wavelengths, consistent with fine dust.\n\n**Not established:** There is no evidence requiring an alien megastructure. The exact source of the dust and every detail of the star's long-term variability are also not fully resolved by one final model."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Tabby's Star의 irregular deep dimming은 실제 Kepler observation이다. 후속 multiwavelength observation은 shorter wavelength에서 더 강한 chromatic dimming을 보여 fine dust explanation과 잘 맞는다.\n\n**확인되지 않음:** alien megastructure를 요구하는 증거는 없다. 반대로 dust의 정확한 공급원과 장기 brightness variation의 모든 세부도 하나의 최종모델로 완전히 닫힌 것은 아니다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "alien-02",
+        "color-03",
+        "dust-04",
+        "lesson-045",
+        "timescale-048"
+      ]
+    },
+    "en": {
+      "headline": "The Star That Inspired Alien Megastructure Speculation—Why Dust Won the Evidence Test",
+      "hook": "Tabby's Star really did dim strangely. But multiwavelength data showed color dependence inconsistent with an opaque megastructure. The mystery shifted from 'alien structure?' to 'what is supplying the dust?'",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "Kepler가 본 20%급 불규칙 dimming은 정말 비정상적이었다",
+          "headingEn": "Kepler Really Did See Extraordinary, Irregular Dimming",
+          "textKo": "KIC 8462852, Tabby's Star는 Kepler data에서 ordinary planet transit로 설명하기 어려운 irregular dip을 보여 유명해졌다. NASA/JPL은 일부 dimming이 수일 동안 약 20%에 달했다고 정리한다. **별이 이상하게 어두워진다는 관측 자체는 실제이며, 그래서 여러 가설이 진지하게 검토됐다.**",
+          "textEn": "KIC 8462852, Tabby's Star, became famous because Kepler recorded irregular dips unlike ordinary planetary transits; NASA/JPL notes some decreases reached roughly 20 percent over days. The unusual dimming itself is real, which is why a broad range of explanations was considered."
+        },
+        {
+          "blockId": "alien-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘외계 megastructure’는 관측이 아니라 가설 중 하나였다",
+          "headingEn": "The Alien Megastructure Was a Hypothesis, Not an Observation",
+          "textKo": "극단적인 dimming 때문에 거대한 인공구조물이 starlight를 가린다는 speculation이 대중적으로 크게 확산됐다. 그러나 telescope가 본 것은 구조물이 아니라 brightness time series다. **관측된 양은 '밝기감소'이고, megastructure는 그 원인을 설명하려는 여러 model 중 하나였을 뿐이다.**",
+          "textEn": "The extreme dimming helped popularize speculation that a giant artificial structure might block the star. But telescopes observed a brightness time series, not a structure. 'Brightness decreased' is an observation; a megastructure is one proposed explanation among many."
+        },
+        {
+          "blockId": "color-03",
+          "type": "TURNING_POINT",
+          "headingKo": "파장별 dimming이 달랐다는 사실이 opaque megastructure를 약화했다",
+          "headingEn": "Chromatic Dimming Weakened the Opaque-Megastructure Idea",
+          "textKo": "NASA/JPL은 Spitzer·Swift·AstroLAB IRIS 자료에서 longer infrared wavelength보다 shorter ultraviolet/visible wavelength에서 dimming이 더 강한 reddening pattern을 보고했다. 작은 dust particle은 이런 wavelength dependence를 만들지만 완전히 opaque한 큰 구조물은 거의 achromatic dimming을 만들 것으로 기대된다. **이 결과는 dust explanation을 훨씬 강하게 만들었다.**",
+          "textEn": "NASA/JPL reports that follow-up observations with Spitzer, Swift, and AstroLAB IRIS found stronger dimming at shorter wavelengths than in the infrared. Fine dust naturally produces this wavelength dependence, whereas a large opaque structure should dim wavelengths more evenly. The chromatic pattern strongly favored dust."
+        },
+        {
+          "blockId": "dust-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘먼지’가 강한 설명이라고 먼지의 정확한 source까지 해결된 것은 아니다",
+          "headingEn": "Dust Is Favored, but the Exact Dust Source Is Still a Separate Question",
+          "textKo": "dust model은 chromatic behavior를 잘 설명하지만 그 dust가 circumstellar disk, comet fragments, collision debris 등 어떤 source에서 계속 공급되는지는 더 복잡하다. 2015년 JPL 자료는 comet swarm을 검토했고 2017년 자료는 uneven dust ring 같은 model을 제시했다. **'alien megastructure 필요 없음'과 '정확한 astrophysical source 완전해결'은 같은 결론이 아니다.**",
+          "textEn": "Dust explains the chromatic behavior well, but identifying the exact source of that dust—circumstellar material, comet fragments, or collision debris—is a separate problem. JPL discussed comet swarms in 2015 and uneven dust configurations in later work. 'No need for an alien megastructure' is not the same as fully solving every astrophysical detail."
+        },
+        {
+          "blockId": "lesson-045",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건의 가장 좋은 교훈은 '이상함'과 '외계' 사이에 얼마나 많은 검증단계가 있는지다",
+          "headingEn": "The Best Lesson Is How Many Steps Separate 'Weird' From 'Alien'",
+          "textKo": "Tabby's Star는 정말 이상했기 때문에 alien hypothesis가 대중적으로 주목받았다. 그러나 이후 색·파장정보가 들어오자 explanation space가 크게 좁아졌다. **과학에서 extraordinary appearance는 질문을 넓히지만, 추가측정은 그 질문을 다시 좁힌다.**",
+          "textEn": "Tabby's Star was genuinely strange enough to motivate broad speculation. Once wavelength-dependent data arrived, the explanation space narrowed sharply. Extraordinary appearance broadens questions; additional measurements narrow them."
+        },
+        {
+          "blockId": "timescale-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "단기 dip과 장기 dimming을 하나의 단순원인으로 묶기 어려울 수도 있다",
+          "headingEn": "Short Dips and Long-Term Dimming May Not Require One Simple Cause",
+          "textKo": "Tabby's Star는 days-scale deep dip뿐 아니라 더 긴 timescale brightness change도 논의돼 왔다. 같은 dust family가 두 현상을 모두 만들 수 있는지, 여러 dust population이 필요한지는 연구마다 다르다. **dust가 강한 설명이라는 것과 단일 simple dust cloud로 모든 light curve를 설명한다는 것은 같은 말이 아니다.**",
+          "textEn": "Tabby's Star shows both short deep dips and longer-term brightness changes. Whether one dust population explains all timescales or multiple components are needed remains a research question. 'Dust favored' does not mean one simple cloud explains every feature."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Tabby's Star의 irregular deep dimming은 실제 Kepler observation이다. 후속 multiwavelength observation은 shorter wavelength에서 더 강한 chromatic dimming을 보여 fine dust explanation과 잘 맞는다.\n\n**확인되지 않음:** alien megastructure를 요구하는 증거는 없다. 반대로 dust의 정확한 공급원과 장기 brightness variation의 모든 세부도 하나의 최종모델로 완전히 닫힌 것은 아니다.",
+          "textEn": "**Established:** Tabby's Star showed real deep irregular dimming in Kepler data. Follow-up multiwavelength observations found stronger dimming at shorter wavelengths, consistent with fine dust.\n\n**Not established:** There is no evidence requiring an alien megastructure. The exact source of the dust and every detail of the star's long-term variability are also not fully resolved by one final model."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Tabby's Star showed real deep irregular dimming in Kepler data. Follow-up multiwavelength observations found stronger dimming at shorter wavelengths, consistent with fine dust.\n\n**Not established:** There is no evidence requiring an alien megastructure. The exact source of the dust and every detail of the star's long-term variability are also not fully resolved by one final model.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "alien-02",
+        "color-03",
+        "dust-04",
+        "lesson-045",
+        "timescale-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TAB-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Kepler는 KIC 8462852에서 최대 약 20% 수준의 irregular dimming을 관측했다.",
+      "statementEn": "Kepler observed irregular dimming in KIC 8462852 reaching roughly 20 percent.",
+      "sourceRefs": [
+        "TAB_JPL2017"
+      ]
+    },
+    {
+      "claimId": "TAB-C2",
+      "status": "CONFIRMED",
+      "statementKo": "후속관측은 shorter wavelength에서 dimming이 더 강한 chromatic pattern을 보였다.",
+      "statementEn": "Follow-up observations found stronger dimming at shorter wavelengths.",
+      "sourceRefs": [
+        "TAB_JPL2017"
+      ]
+    },
+    {
+      "claimId": "TAB-C3",
+      "status": "SUPPORTED",
+      "statementKo": "chromatic dimming은 fine dust explanation을 opaque megastructure보다 강하게 지지한다.",
+      "statementEn": "The chromatic dimming strongly favors fine dust over an opaque megastructure.",
+      "sourceRefs": [
+        "TAB_JPL2017"
+      ]
+    },
+    {
+      "claimId": "TAB-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "dust의 정확한 source와 장기변동의 모든 세부는 완전히 확정되지 않았다.",
+      "statementEn": "The exact source of the dust and all details of long-term variability remain unresolved.",
+      "sourceRefs": [
+        "TAB_JPL2017",
+        "TAB_JPL2015"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "TAB_JPL2017",
+      "title": "Mysterious Dimming of Tabby's Star May Be Caused by Dust",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/mysterious-dimming-of-tabbys-star-may-be-caused-by-dust/",
+      "sourceType": "NASA_JPL_RESEARCH_SUMMARY"
+    },
+    {
+      "sourceId": "TAB_JPL2015",
+      "title": "Swarm of Comets — Tabby's Star context",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/images/pia20053-swarm-of-comets-artists-concept/",
+      "sourceType": "NASA_JPL_RESEARCH_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "tab-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Kepler irregular dip → multiwavelength test → chromatic dimming → dust favored 흐름.",
+      "captionEn": "Kepler irregular dips → multiwavelength test → chromatic dimming → dust favored.",
+      "altKo": "Kepler irregular dip → multiwavelength test → chromatic dimming → dust favored 흐름.",
+      "altEn": "Kepler irregular dips → multiwavelength test → chromatic dimming → dust favored.",
+      "sourceRefs": [
+        "TAB_JPL2017",
+        "TAB_JPL2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tabbys-star__v01__ko.png",
+          "sha256": "32eec11eb5e5e49a0f3b4436b7ad29d04a35e17ce208c01358a36f6c42ede051",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tabbys-star__v01__en.png",
+          "sha256": "aee5ba4807dbec866c84c49de8202cf67a79fe7518f85c26c5e369c0a37fa110",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "tab-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실제 dimming·dust evidence·alien megastructure speculation을 분리.",
+      "captionEn": "Separate observed dimming, dust evidence, and alien-megastructure speculation.",
+      "altKo": "실제 dimming·dust evidence·alien megastructure speculation을 분리.",
+      "altEn": "Separate observed dimming, dust evidence, and alien-megastructure speculation.",
+      "sourceRefs": [
+        "TAB_JPL2017",
+        "TAB_JPL2015"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tabbys-star__v02__ko.png",
+          "sha256": "745f2b91b246e83bd462af5a2708781d544ff990e68a75e60955e8645976cd35",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tabbys-star__v02__en.png",
+          "sha256": "1d9226131b0aa568b57f2c5beb223c4877c7e4c44140f65ff4e9f56049a4cc62",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "Cygnus / KIC 8462852"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Tabetha Boyajian",
+        "role": "astronomer associated with star's study"
+      }
+    ],
+    "organizations": [
+      "NASA",
+      "Kepler",
+      "Spitzer",
+      "Swift",
+      "JPL"
+    ],
+    "dateRange": {
+      "start": "Kepler era",
+      "end": "present",
+      "precision": "modern observation and follow-up"
+    },
+    "era": "Modern astrophysics",
+    "resolution": "DIMMING_CONFIRMED_DUST_STRONGLY_FAVORED_EXACT_SOURCE_PARTLY_UNRESOLVED",
+    "searchAliases": [
+      "Tabby's Star",
+      "Boyajian's Star",
+      "KIC 8462852"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1685,
+    "enBodyWords": 301,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH15",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH15_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

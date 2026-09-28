@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "lycurgus-cup",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "리쿠르고스 컵",
+    "canonicalTitleEn": "Lycurgus Cup",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "로마인은 정말 '나노기술'을 알고 있었나—색변화 원리와 의도는 다른 문제다",
+      "hook": "리쿠르고스 컵의 green/red 변색은 실제 물리로 설명된다. 남는 미스터리는 입자효과가 아니라 로마 장인이 이 microstructure를 얼마나 의도적으로 재현했는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "같은 유리컵이 앞에서는 녹색, 뒤에서 빛을 비추면 붉게 보인다",
+          "headingEn": "The Same Glass Cup Appears Green in One Lighting and Red in Another",
+          "textKo": "British Museum의 4세기 Late Roman Lycurgus Cup은 dichroic glass의 대표작이다. reflected light에서는 opaque green, transmitted light에서는 translucent red로 달라진다. **색이 변한다는 현상 자체는 초자연적 미스터리가 아니라 material microstructure가 만드는 광학효과다.**",
+          "textEn": "The fourth-century Late Roman Lycurgus Cup in the British Museum is a famous example of dichroic glass. In reflected light it appears opaque green; with light transmitted through it, it appears translucent red. The color shift is an optical material effect, not a supernatural mystery."
+        },
+        {
+          "blockId": "particles-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "유리 속 극미량 금·은 입자가 wavelength별 빛과 다르게 상호작용한다",
+          "headingEn": "Tiny Gold and Silver Particles Interact Differently With Different Wavelengths",
+          "textKo": "British Museum guide와 materials literature는 glass 안의 tiny amounts of gold and silver가 dichroism을 만든다고 설명한다. 나노규모 금속입자의 size·distribution은 light scattering/absorption을 바꿔 illumination geometry에 따라 색이 달라지게 한다. **'로마 나노기술'이라는 표현은 결과 microstructure를 가리키지만 현대식 nanoscience theory를 장인이 알고 있었다는 뜻은 아니다.**",
+          "textEn": "British Museum material and related research explain the dichroism through tiny amounts of gold and silver dispersed in the glass. Nanoscale metal particles change light scattering and absorption so the observed color depends on illumination geometry. Calling this 'Roman nanotechnology' describes the microstructure, not proof that Roman makers understood modern nanoscience theory."
+        },
+        {
+          "blockId": "craft-03",
+          "type": "BACKGROUND",
+          "headingKo": "컵 자체는 고도의 Roman cage-cup craftsmanship을 보여준다",
+          "headingEn": "The Vessel Also Demonstrates Extremely Skilled Late Roman Cage-Cup Craftsmanship",
+          "textKo": "Object record는 cup을 4th-century Late Roman drinking-cup으로 분류하고 outer relief cage가 King Lycurgus death scene을 표현한다고 설명한다. **광학효과만 신기한 것이 아니라 fragile glass를 절삭·조형한 기술도 매우 높은 수준이었다.**",
+          "textEn": "The British Museum object record classifies the cup as a fourth-century Late Roman drinking vessel with an openwork cage depicting the death of King Lycurgus. Its significance is not only optical: carving and shaping the fragile cage glass also required exceptional craftsmanship."
+        },
+        {
+          "blockId": "intent-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "가장 큰 역사질문은 금·은 microstructure를 얼마나 의도적으로 제어했는가다",
+          "headingEn": "The Historical Question Is How Deliberately Makers Controlled the Microstructure",
+          "textKo": "Cup의 dichroism이 material physics로 설명된다고 해서 Roman artisan이 particle size·surface plasmon 같은 modern concept을 이해했다고 결론낼 수 없다. 반대로 이런 효과가 순전히 accident였다고 단정하기도 어렵다. **반복적 recipe 경험과 modern theoretical understanding은 서로 다른 knowledge level이다.**",
+          "textEn": "Explaining the dichroism with materials physics does not show that Roman artisans understood modern concepts such as particle size distributions or plasmonic behavior. Conversely, it is difficult to prove the effect was purely accidental. Empirical recipe control and theoretical understanding are different kinds of knowledge."
+        },
+        {
+          "blockId": "later-05",
+          "type": "AFTERMATH",
+          "headingKo": "silver-gilt rim·foot 같은 후대 addition도 원래 Roman object와 구분해야 한다",
+          "headingEn": "Later Silver-Gilt Additions Must Be Separated From the Original Roman Glass",
+          "textKo": "British Museum record는 silver-gilt rim과 foot가 cup의 later history에 속하며 foot는 20세기 conservation 과정에서도 분리·재결합됐다고 기록한다. **현재 보이는 object의 모든 부품을 4세기 제작상태 그대로라고 생각하면 provenance를 단순화하게 된다.**",
+          "textEn": "The British Museum record notes later history for the silver-gilt rim and foot, including conservation-related separation and reassembly of the foot. Not every visible component should be treated as an unchanged part of the fourth-century manufacturing state."
+        },
+        {
+          "blockId": "replication-055",
+          "type": "BACKGROUND",
+          "headingKo": "현대 연구가 메커니즘을 재현할 수 있다는 것과 고대 recipe를 완전히 복원했다는 것은 다르다",
+          "headingEn": "Modern Replication of the Physics Is Not a Complete Reconstruction of the Ancient Recipe",
+          "textKo": "오늘의 materials science는 gold/silver nanoparticle이 dichroism을 만드는 원리를 설명할 수 있지만, 4세기 workshop의 exact furnace condition·mixing sequence·quality control은 문헌으로 완전복원되지 않는다. **메커니즘 이해와 historical manufacturing reconstruction은 서로 다른 해상도의 지식이다.**",
+          "textEn": "Modern materials science can explain how gold/silver particles generate dichroism, but the exact furnace conditions, mixing sequence, and quality control of a fourth-century workshop are not completely reconstructed. Physical mechanism and historical recipe are different levels of knowledge."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Lycurgus Cup은 4세기 Late Roman dichroic glass이며 tiny amounts of gold/silver가 illumination에 따른 green/red color change의 물리적 원인으로 설명된다. cup의 cage-glass craftsmanship도 실제 고대제작기술이다.\n\n**확인되지 않음:** Roman maker가 오늘날 nanoscience 수준의 mechanism을 이론적으로 이해했다는 것은 입증되지 않는다. optical effect를 어느 수준까지 의도적으로 reproducibly controlled했는지도 역사자료만으로 완전히 확정되지 않는다.",
+          "textEn": "**Established:** The Lycurgus Cup is a fourth-century Late Roman dichroic glass object, and tiny amounts of gold and silver explain its green/red color change under different illumination. Its cage-glass craftsmanship is genuinely ancient.\n\n**Not established:** Roman makers are not shown to have understood the mechanism in modern nanoscience terms, and the exact degree of deliberate reproducible control over the optical microstructure remains uncertain."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Lycurgus Cup은 4세기 Late Roman dichroic glass이며 tiny amounts of gold/silver가 illumination에 따른 green/red color change의 물리적 원인으로 설명된다. cup의 cage-glass craftsmanship도 실제 고대제작기술이다.\n\n**확인되지 않음:** Roman maker가 오늘날 nanoscience 수준의 mechanism을 이론적으로 이해했다는 것은 입증되지 않는다. optical effect를 어느 수준까지 의도적으로 reproducibly controlled했는지도 역사자료만으로 완전히 확정되지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "particles-02",
+        "craft-03",
+        "intent-04",
+        "later-05",
+        "replication-055"
+      ]
+    },
+    "en": {
+      "headline": "Did the Romans Really Know 'Nanotechnology'? The Color Mechanism and the Makers' Intent Are Different Questions",
+      "hook": "The Lycurgus Cup's green/red color shift is physically explained. The remaining question is not the optics, but how deliberately Roman craftspeople controlled the microstructure.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "같은 유리컵이 앞에서는 녹색, 뒤에서 빛을 비추면 붉게 보인다",
+          "headingEn": "The Same Glass Cup Appears Green in One Lighting and Red in Another",
+          "textKo": "British Museum의 4세기 Late Roman Lycurgus Cup은 dichroic glass의 대표작이다. reflected light에서는 opaque green, transmitted light에서는 translucent red로 달라진다. **색이 변한다는 현상 자체는 초자연적 미스터리가 아니라 material microstructure가 만드는 광학효과다.**",
+          "textEn": "The fourth-century Late Roman Lycurgus Cup in the British Museum is a famous example of dichroic glass. In reflected light it appears opaque green; with light transmitted through it, it appears translucent red. The color shift is an optical material effect, not a supernatural mystery."
+        },
+        {
+          "blockId": "particles-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "유리 속 극미량 금·은 입자가 wavelength별 빛과 다르게 상호작용한다",
+          "headingEn": "Tiny Gold and Silver Particles Interact Differently With Different Wavelengths",
+          "textKo": "British Museum guide와 materials literature는 glass 안의 tiny amounts of gold and silver가 dichroism을 만든다고 설명한다. 나노규모 금속입자의 size·distribution은 light scattering/absorption을 바꿔 illumination geometry에 따라 색이 달라지게 한다. **'로마 나노기술'이라는 표현은 결과 microstructure를 가리키지만 현대식 nanoscience theory를 장인이 알고 있었다는 뜻은 아니다.**",
+          "textEn": "British Museum material and related research explain the dichroism through tiny amounts of gold and silver dispersed in the glass. Nanoscale metal particles change light scattering and absorption so the observed color depends on illumination geometry. Calling this 'Roman nanotechnology' describes the microstructure, not proof that Roman makers understood modern nanoscience theory."
+        },
+        {
+          "blockId": "craft-03",
+          "type": "BACKGROUND",
+          "headingKo": "컵 자체는 고도의 Roman cage-cup craftsmanship을 보여준다",
+          "headingEn": "The Vessel Also Demonstrates Extremely Skilled Late Roman Cage-Cup Craftsmanship",
+          "textKo": "Object record는 cup을 4th-century Late Roman drinking-cup으로 분류하고 outer relief cage가 King Lycurgus death scene을 표현한다고 설명한다. **광학효과만 신기한 것이 아니라 fragile glass를 절삭·조형한 기술도 매우 높은 수준이었다.**",
+          "textEn": "The British Museum object record classifies the cup as a fourth-century Late Roman drinking vessel with an openwork cage depicting the death of King Lycurgus. Its significance is not only optical: carving and shaping the fragile cage glass also required exceptional craftsmanship."
+        },
+        {
+          "blockId": "intent-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "가장 큰 역사질문은 금·은 microstructure를 얼마나 의도적으로 제어했는가다",
+          "headingEn": "The Historical Question Is How Deliberately Makers Controlled the Microstructure",
+          "textKo": "Cup의 dichroism이 material physics로 설명된다고 해서 Roman artisan이 particle size·surface plasmon 같은 modern concept을 이해했다고 결론낼 수 없다. 반대로 이런 효과가 순전히 accident였다고 단정하기도 어렵다. **반복적 recipe 경험과 modern theoretical understanding은 서로 다른 knowledge level이다.**",
+          "textEn": "Explaining the dichroism with materials physics does not show that Roman artisans understood modern concepts such as particle size distributions or plasmonic behavior. Conversely, it is difficult to prove the effect was purely accidental. Empirical recipe control and theoretical understanding are different kinds of knowledge."
+        },
+        {
+          "blockId": "later-05",
+          "type": "AFTERMATH",
+          "headingKo": "silver-gilt rim·foot 같은 후대 addition도 원래 Roman object와 구분해야 한다",
+          "headingEn": "Later Silver-Gilt Additions Must Be Separated From the Original Roman Glass",
+          "textKo": "British Museum record는 silver-gilt rim과 foot가 cup의 later history에 속하며 foot는 20세기 conservation 과정에서도 분리·재결합됐다고 기록한다. **현재 보이는 object의 모든 부품을 4세기 제작상태 그대로라고 생각하면 provenance를 단순화하게 된다.**",
+          "textEn": "The British Museum record notes later history for the silver-gilt rim and foot, including conservation-related separation and reassembly of the foot. Not every visible component should be treated as an unchanged part of the fourth-century manufacturing state."
+        },
+        {
+          "blockId": "replication-055",
+          "type": "BACKGROUND",
+          "headingKo": "현대 연구가 메커니즘을 재현할 수 있다는 것과 고대 recipe를 완전히 복원했다는 것은 다르다",
+          "headingEn": "Modern Replication of the Physics Is Not a Complete Reconstruction of the Ancient Recipe",
+          "textKo": "오늘의 materials science는 gold/silver nanoparticle이 dichroism을 만드는 원리를 설명할 수 있지만, 4세기 workshop의 exact furnace condition·mixing sequence·quality control은 문헌으로 완전복원되지 않는다. **메커니즘 이해와 historical manufacturing reconstruction은 서로 다른 해상도의 지식이다.**",
+          "textEn": "Modern materials science can explain how gold/silver particles generate dichroism, but the exact furnace conditions, mixing sequence, and quality control of a fourth-century workshop are not completely reconstructed. Physical mechanism and historical recipe are different levels of knowledge."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Lycurgus Cup은 4세기 Late Roman dichroic glass이며 tiny amounts of gold/silver가 illumination에 따른 green/red color change의 물리적 원인으로 설명된다. cup의 cage-glass craftsmanship도 실제 고대제작기술이다.\n\n**확인되지 않음:** Roman maker가 오늘날 nanoscience 수준의 mechanism을 이론적으로 이해했다는 것은 입증되지 않는다. optical effect를 어느 수준까지 의도적으로 reproducibly controlled했는지도 역사자료만으로 완전히 확정되지 않는다.",
+          "textEn": "**Established:** The Lycurgus Cup is a fourth-century Late Roman dichroic glass object, and tiny amounts of gold and silver explain its green/red color change under different illumination. Its cage-glass craftsmanship is genuinely ancient.\n\n**Not established:** Roman makers are not shown to have understood the mechanism in modern nanoscience terms, and the exact degree of deliberate reproducible control over the optical microstructure remains uncertain."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The Lycurgus Cup is a fourth-century Late Roman dichroic glass object, and tiny amounts of gold and silver explain its green/red color change under different illumination. Its cage-glass craftsmanship is genuinely ancient.\n\n**Not established:** Roman makers are not shown to have understood the mechanism in modern nanoscience terms, and the exact degree of deliberate reproducible control over the optical microstructure remains uncertain.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "particles-02",
+        "craft-03",
+        "intent-04",
+        "later-05",
+        "replication-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LYC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Lycurgus Cup은 4세기 Late Roman dichroic glass다.",
+      "statementEn": "The Lycurgus Cup is a fourth-century Late Roman dichroic glass vessel.",
+      "sourceRefs": [
+        "LYC_BM_OBJECT",
+        "LYC_BM_GUIDE"
+      ]
+    },
+    {
+      "claimId": "LYC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "tiny amounts of gold/silver가 green/red color change의 물리적 원인이다.",
+      "statementEn": "Tiny amounts of gold and silver produce the green/red dichroic color effect.",
+      "sourceRefs": [
+        "LYC_BM_GUIDE",
+        "LYC_BM_OBJECT"
+      ]
+    },
+    {
+      "claimId": "LYC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Roman makers가 modern nanoscience mechanism을 이해했다는 것은 입증되지 않았다.",
+      "statementEn": "It is not established that Roman makers understood the mechanism in modern nanoscience terms.",
+      "sourceRefs": [
+        "LYC_BM_OBJECT",
+        "LYC_BM_GUIDE"
+      ]
+    },
+    {
+      "claimId": "LYC-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "optical microstructure를 어느 수준까지 의도적으로 제어했는지는 완전히 확정되지 않는다.",
+      "statementEn": "The exact degree of deliberate control over the optical microstructure remains uncertain.",
+      "sourceRefs": [
+        "LYC_BM_OBJECT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "LYC_BM_OBJECT",
+      "title": "The Lycurgus Cup",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/collection/object/H_1958-1202-1",
+      "sourceType": "MUSEUM_PRIMARY_OBJECT"
+    },
+    {
+      "sourceId": "LYC_BM_GUIDE",
+      "title": "Room 41 Guide — The Lycurgus Cup",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/sites/default/files/2021-05/large_print_guide_room_41.pdf",
+      "sourceType": "MUSEUM_CURATORIAL_GUIDE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "lyc-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "reflected light→green / transmitted light→red dichroism과 metal-particle mechanism.",
+      "captionEn": "Reflected light→green / transmitted light→red dichroism and metal-particle mechanism.",
+      "altKo": "reflected light→green / transmitted light→red dichroism과 metal-particle mechanism.",
+      "altEn": "Reflected light→green / transmitted light→red dichroism and metal-particle mechanism.",
+      "sourceRefs": [
+        "LYC_BM_OBJECT",
+        "LYC_BM_GUIDE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lycurgus-cup__v01__ko.png",
+          "sha256": "67287675a6a6412656452a56c9f0ad9c6aec763f3d8fecdcc4c2c34508b7c684",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lycurgus-cup__v01__en.png",
+          "sha256": "8540bc71da906a04588695baeac7b164a65c0b6fdc45c5cfb2485e4ed8ae039e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "lyc-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "physical mechanism 확정과 artisan intention/modern understanding 미확정을 분리.",
+      "captionEn": "Separate established physical mechanism from uncertain artisan intent and theoretical understanding.",
+      "altKo": "physical mechanism 확정과 artisan intention/modern understanding 미확정을 분리.",
+      "altEn": "Separate established physical mechanism from uncertain artisan intent and theoretical understanding.",
+      "sourceRefs": [
+        "LYC_BM_OBJECT",
+        "LYC_BM_GUIDE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lycurgus-cup__v02__ko.png",
+          "sha256": "f00e0a9e43ab19a282b680f8964d7567dff7be2647002341e314ca1fb7e3c350",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lycurgus-cup__v02__en.png",
+          "sha256": "e617bcfaf777ca3aa11694e3bc0f4ea139e3de48574063d2a6598c7ae1cb27b6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Lost Invention",
+    "secondaryGenres": [
+      "Ancient History / Archaeology",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "Roman Empire"
+    ],
+    "regions": [
+      "Late Roman world"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "British Museum"
+    ],
+    "dateRange": {
+      "start": "4th century CE",
+      "end": "present",
+      "precision": "ancient production and modern materials study"
+    },
+    "era": "Late Roman",
+    "resolution": "OPTICAL_MECHANISM_EXPLAINED_ARTISAN_INTENT_PARTLY_UNRESOLVED",
+    "searchAliases": [
+      "Lycurgus Cup",
+      "Roman dichroic glass"
+    ],
+    "relatedCases": [
+      "roman-concrete"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1701,
+    "enBodyWords": 324,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

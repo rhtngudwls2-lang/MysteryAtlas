@@ -1,0 +1,398 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "great-attractor",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "그레이트 어트랙터",
+    "canonicalTitleEn": "Great Attractor",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "우리 은하가 끌려가는 ‘보이지 않는 거대괴물’은 실제 무엇인가",
+      "hook": "Great Attractor는 한 개의 괴물천체도 우주의 중심도 아니다. 은하의 peculiar motion이 드러낸 대규모 질량분포 문제이며, Milky Way의 dust 뒤에 가려진 Norma·Hydra-Centaurus와 더 먼 Shapley 구조까지 함께 봐야 한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우리 은하도 우주팽창을 그대로 따라가는 게 아니라 한쪽으로 ‘흐른다’",
+          "headingEn": "The Milky Way Does Not Simply Follow Cosmic Expansion—it Has a Peculiar Motion",
+          "textKo": "우주는 전체적으로 팽창하지만 은하들은 주변 질량분포의 중력 때문에 추가적인 peculiar velocity를 가진다. 1980년대 관측은 Local Group과 주변 은하들이 Centaurus 방향으로 집단적으로 움직이는 흐름을 보여줬고, 그 원인이 될 거대한 질량집중을 ‘Great Attractor’라고 불렀다. **이것은 우주의 중심이나 한 개의 거대괴물이 아니라, 우리 주변 대규모 질량분포가 만드는 중력흐름 문제**다.",
+          "textEn": "The universe expands overall, but galaxies also have peculiar velocities caused by the gravity of nearby large-scale structure. In the 1980s, observations showed coherent motion of the Local Group and surrounding galaxies toward Centaurus, motivating the name 'Great Attractor' for the mass concentration driving part of that flow. It is not the center of the universe or one gigantic object, but a problem of large-scale gravitational flow."
+        },
+        {
+          "blockId": "hidden-02",
+          "type": "BACKGROUND",
+          "headingKo": "처음엔 잘 안 보였던 이유는 우리 은하 자체가 가렸기 때문이다",
+          "headingEn": "The Milky Way’s Own Dust Hid the Region",
+          "textKo": "NASA는 Great Attractor 방향이 Milky Way plane 뒤쪽의 ‘Zone of Avoidance’와 겹쳐 optical 관측이 어려웠다고 설명한다. 별과 먼지가 뒤쪽 은하를 가리고 밝은 전경별이 시야를 복잡하게 만든다. 적외선·radio·X-ray 관측이 발전하면서 이 가려진 지역의 galaxy cluster가 더 잘 드러났다. **‘보이지 않는 질량’이라는 인상 중 일부는 실제로 우리 은하의 먼지장벽 때문이었다.**",
+          "textEn": "NASA explains that the Great Attractor lies behind the Milky Way's plane, in the traditional 'Zone of Avoidance,' where foreground stars and dust obscure background galaxies. Infrared, radio and X-ray observations gradually revealed more of the hidden structures. Part of the original 'invisible mass' impression arose because our own Galaxy blocked the view."
+        },
+        {
+          "blockId": "norma-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Norma Cluster는 Great Attractor 방향의 실제 거대질량 구조다",
+          "headingEn": "The Norma Cluster Is a Real Massive Structure in the Great Attractor Region",
+          "textKo": "NASA Hubble 자료는 Abell 3627, 즉 Norma Cluster를 우리 은하에서 약 2억2천만 광년 떨어진 매우 질량 큰 galaxy cluster로 설명하고, 이 지역의 중력이 local Universe의 운동에 중요한 역할을 한다고 정리한다. 1991년 mass-density reconstruction 연구도 Hydra-Centaurus 방향에 깊은 potential well을 복원했다. **Great Attractor는 단순한 계산상의 유령이 아니라 실제 대규모 질량구조와 연결된다.**",
+          "textEn": "NASA Hubble material describes Abell 3627, the Norma Cluster, about 220 million light-years away and extremely massive, as a major structure in the Great Attractor region. Earlier mass-density reconstructions also found a deep potential well in the Hydra-Centaurus direction. The Great Attractor is therefore tied to real large-scale matter concentrations, not merely a mathematical ghost."
+        },
+        {
+          "blockId": "shapley-04",
+          "type": "TURNING_POINT",
+          "headingKo": "하지만 ‘하나의 Great Attractor가 전부 끌어당긴다’는 그림은 너무 단순했다",
+          "headingEn": "Later Surveys Made the One-Attractor Picture Too Simple",
+          "textKo": "후속 redshift survey와 peculiar-velocity 연구는 더 먼 Shapley Supercluster 같은 구조도 local flow에 기여할 수 있음을 보여줬다. ESO는 Shapley를 500 million light-years 안쪽의 가장 큰 matter concentration 중 하나로 설명하며 Great Attractor에 필요한 질량의 상당부분을 설명할 후보로 논의했다. 다른 연구는 기여량을 더 작게 보기도 한다. **현재 그림은 ‘한 점의 괴물’보다 여러 supercluster·filament가 만든 복합 중력장에 가깝다.**",
+          "textEn": "Later redshift and peculiar-velocity surveys showed that more distant structures such as the Shapley Supercluster may also contribute to local flows. ESO has described Shapley as one of the largest matter concentrations within about 500 million light-years and discussed it as a significant contributor, while other dynamical models assign it a smaller share. The modern picture is closer to a complex gravitational landscape of superclusters and filaments than one monster point mass."
+        },
+        {
+          "blockId": "center-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Great Attractor는 ‘우주의 중심’이 아니다",
+          "headingEn": "The Great Attractor Is Not the Center of the Universe",
+          "textKo": "NASA의 Ask an Astrophysicist 설명은 현대우주론에서 우주의 한 중심점을 정의하지 않는다고 강조한다. Great Attractor는 local region의 peculiar motion을 설명하는 구조이지 우주팽창 전체가 향하는 종착점이 아니다. **Milky Way가 그 방향으로 추가속도를 가진다는 사실과 모든 은하가 그곳을 향한다는 주장은 완전히 다르다.**",
+          "textEn": "NASA's Ask an Astrophysicist material emphasizes that modern cosmology does not define one special center of the universe. The Great Attractor concerns peculiar motion in our local region, not a destination toward which all cosmic expansion flows. The Milky Way having an additional velocity component in that direction is very different from every galaxy moving toward one center."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Local Group 주변 은하들의 peculiar motion은 Centaurus/Hydra-Centaurus 방향의 실제 대규모 질량분포와 연결되며 Norma Cluster 같은 구조가 그 지역에 존재한다. Milky Way plane의 dust 때문에 과거 optical 관측이 어려웠고 다파장관측이 구조를 더 드러냈다.\n\n**확인되지 않음:** Great Attractor가 하나의 단일 초거대 천체이거나 우주의 중심이라는 것은 아니다. local flow 전체를 하나의 cluster만으로 설명할 수 있다는 단순모형도 후속관측으로 약화됐고, Shapley 등 더 큰-scale 구조의 정확한 기여비율은 모델에 따라 달라진다.",
+          "textEn": "**Established:** Peculiar motion around the Local Group is linked to real large-scale mass concentrations in the Centaurus/Hydra-Centaurus direction, including the massive Norma Cluster. Dust in the Milky Way plane made early optical observation difficult, and multiwavelength surveys revealed more structure.\n\n**Not established:** The Great Attractor is not one single super-object or the center of the universe. Simple models in which one cluster explains the entire flow have been weakened, and the exact contribution of more distant structures such as Shapley remains model-dependent."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Local Group 주변 은하들의 peculiar motion은 Centaurus/Hydra-Centaurus 방향의 실제 대규모 질량분포와 연결되며 Norma Cluster 같은 구조가 그 지역에 존재한다. Milky Way plane의 dust 때문에 과거 optical 관측이 어려웠고 다파장관측이 구조를 더 드러냈다.\n\n**확인되지 않음:** Great Attractor가 하나의 단일 초거대 천체이거나 우주의 중심이라는 것은 아니다. local flow 전체를 하나의 cluster만으로 설명할 수 있다는 단순모형도 후속관측으로 약화됐고, Shapley 등 더 큰-scale 구조의 정확한 기여비율은 모델에 따라 달라진다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "hidden-02",
+        "norma-03",
+        "shapley-04",
+        "center-05"
+      ]
+    },
+    "en": {
+      "headline": "What Is the “Invisible Giant” Pulling on Our Local Group?",
+      "hook": "The Great Attractor is neither one monster object nor the center of the universe. It is a large-scale gravitational-flow problem revealed by galaxy peculiar motions, involving structures hidden behind the Milky Way and possibly more distant superclusters.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우리 은하도 우주팽창을 그대로 따라가는 게 아니라 한쪽으로 ‘흐른다’",
+          "headingEn": "The Milky Way Does Not Simply Follow Cosmic Expansion—it Has a Peculiar Motion",
+          "textKo": "우주는 전체적으로 팽창하지만 은하들은 주변 질량분포의 중력 때문에 추가적인 peculiar velocity를 가진다. 1980년대 관측은 Local Group과 주변 은하들이 Centaurus 방향으로 집단적으로 움직이는 흐름을 보여줬고, 그 원인이 될 거대한 질량집중을 ‘Great Attractor’라고 불렀다. **이것은 우주의 중심이나 한 개의 거대괴물이 아니라, 우리 주변 대규모 질량분포가 만드는 중력흐름 문제**다.",
+          "textEn": "The universe expands overall, but galaxies also have peculiar velocities caused by the gravity of nearby large-scale structure. In the 1980s, observations showed coherent motion of the Local Group and surrounding galaxies toward Centaurus, motivating the name 'Great Attractor' for the mass concentration driving part of that flow. It is not the center of the universe or one gigantic object, but a problem of large-scale gravitational flow."
+        },
+        {
+          "blockId": "hidden-02",
+          "type": "BACKGROUND",
+          "headingKo": "처음엔 잘 안 보였던 이유는 우리 은하 자체가 가렸기 때문이다",
+          "headingEn": "The Milky Way’s Own Dust Hid the Region",
+          "textKo": "NASA는 Great Attractor 방향이 Milky Way plane 뒤쪽의 ‘Zone of Avoidance’와 겹쳐 optical 관측이 어려웠다고 설명한다. 별과 먼지가 뒤쪽 은하를 가리고 밝은 전경별이 시야를 복잡하게 만든다. 적외선·radio·X-ray 관측이 발전하면서 이 가려진 지역의 galaxy cluster가 더 잘 드러났다. **‘보이지 않는 질량’이라는 인상 중 일부는 실제로 우리 은하의 먼지장벽 때문이었다.**",
+          "textEn": "NASA explains that the Great Attractor lies behind the Milky Way's plane, in the traditional 'Zone of Avoidance,' where foreground stars and dust obscure background galaxies. Infrared, radio and X-ray observations gradually revealed more of the hidden structures. Part of the original 'invisible mass' impression arose because our own Galaxy blocked the view."
+        },
+        {
+          "blockId": "norma-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Norma Cluster는 Great Attractor 방향의 실제 거대질량 구조다",
+          "headingEn": "The Norma Cluster Is a Real Massive Structure in the Great Attractor Region",
+          "textKo": "NASA Hubble 자료는 Abell 3627, 즉 Norma Cluster를 우리 은하에서 약 2억2천만 광년 떨어진 매우 질량 큰 galaxy cluster로 설명하고, 이 지역의 중력이 local Universe의 운동에 중요한 역할을 한다고 정리한다. 1991년 mass-density reconstruction 연구도 Hydra-Centaurus 방향에 깊은 potential well을 복원했다. **Great Attractor는 단순한 계산상의 유령이 아니라 실제 대규모 질량구조와 연결된다.**",
+          "textEn": "NASA Hubble material describes Abell 3627, the Norma Cluster, about 220 million light-years away and extremely massive, as a major structure in the Great Attractor region. Earlier mass-density reconstructions also found a deep potential well in the Hydra-Centaurus direction. The Great Attractor is therefore tied to real large-scale matter concentrations, not merely a mathematical ghost."
+        },
+        {
+          "blockId": "shapley-04",
+          "type": "TURNING_POINT",
+          "headingKo": "하지만 ‘하나의 Great Attractor가 전부 끌어당긴다’는 그림은 너무 단순했다",
+          "headingEn": "Later Surveys Made the One-Attractor Picture Too Simple",
+          "textKo": "후속 redshift survey와 peculiar-velocity 연구는 더 먼 Shapley Supercluster 같은 구조도 local flow에 기여할 수 있음을 보여줬다. ESO는 Shapley를 500 million light-years 안쪽의 가장 큰 matter concentration 중 하나로 설명하며 Great Attractor에 필요한 질량의 상당부분을 설명할 후보로 논의했다. 다른 연구는 기여량을 더 작게 보기도 한다. **현재 그림은 ‘한 점의 괴물’보다 여러 supercluster·filament가 만든 복합 중력장에 가깝다.**",
+          "textEn": "Later redshift and peculiar-velocity surveys showed that more distant structures such as the Shapley Supercluster may also contribute to local flows. ESO has described Shapley as one of the largest matter concentrations within about 500 million light-years and discussed it as a significant contributor, while other dynamical models assign it a smaller share. The modern picture is closer to a complex gravitational landscape of superclusters and filaments than one monster point mass."
+        },
+        {
+          "blockId": "center-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Great Attractor는 ‘우주의 중심’이 아니다",
+          "headingEn": "The Great Attractor Is Not the Center of the Universe",
+          "textKo": "NASA의 Ask an Astrophysicist 설명은 현대우주론에서 우주의 한 중심점을 정의하지 않는다고 강조한다. Great Attractor는 local region의 peculiar motion을 설명하는 구조이지 우주팽창 전체가 향하는 종착점이 아니다. **Milky Way가 그 방향으로 추가속도를 가진다는 사실과 모든 은하가 그곳을 향한다는 주장은 완전히 다르다.**",
+          "textEn": "NASA's Ask an Astrophysicist material emphasizes that modern cosmology does not define one special center of the universe. The Great Attractor concerns peculiar motion in our local region, not a destination toward which all cosmic expansion flows. The Milky Way having an additional velocity component in that direction is very different from every galaxy moving toward one center."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Local Group 주변 은하들의 peculiar motion은 Centaurus/Hydra-Centaurus 방향의 실제 대규모 질량분포와 연결되며 Norma Cluster 같은 구조가 그 지역에 존재한다. Milky Way plane의 dust 때문에 과거 optical 관측이 어려웠고 다파장관측이 구조를 더 드러냈다.\n\n**확인되지 않음:** Great Attractor가 하나의 단일 초거대 천체이거나 우주의 중심이라는 것은 아니다. local flow 전체를 하나의 cluster만으로 설명할 수 있다는 단순모형도 후속관측으로 약화됐고, Shapley 등 더 큰-scale 구조의 정확한 기여비율은 모델에 따라 달라진다.",
+          "textEn": "**Established:** Peculiar motion around the Local Group is linked to real large-scale mass concentrations in the Centaurus/Hydra-Centaurus direction, including the massive Norma Cluster. Dust in the Milky Way plane made early optical observation difficult, and multiwavelength surveys revealed more structure.\n\n**Not established:** The Great Attractor is not one single super-object or the center of the universe. Simple models in which one cluster explains the entire flow have been weakened, and the exact contribution of more distant structures such as Shapley remains model-dependent."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Peculiar motion around the Local Group is linked to real large-scale mass concentrations in the Centaurus/Hydra-Centaurus direction, including the massive Norma Cluster. Dust in the Milky Way plane made early optical observation difficult, and multiwavelength surveys revealed more structure.\n\n**Not established:** The Great Attractor is not one single super-object or the center of the universe. Simple models in which one cluster explains the entire flow have been weakened, and the exact contribution of more distant structures such as Shapley remains model-dependent.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "hidden-02",
+        "norma-03",
+        "shapley-04",
+        "center-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Local Group는 Centaurus 방향으로 우주팽창 외의 peculiar motion을 보인다.",
+      "statementEn": "The Local Group shows a peculiar motion component toward the Centaurus region in addition to cosmic expansion.",
+      "sourceRefs": [
+        "GA_NTRS1991",
+        "GA_ESO2006"
+      ]
+    },
+    {
+      "claimId": "GA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Norma Cluster/Abell 3627는 Great Attractor 방향의 실제 거대질량 cluster다.",
+      "statementEn": "The Norma Cluster/Abell 3627 is a real massive cluster in the Great Attractor region.",
+      "sourceRefs": [
+        "GA_NASA2013",
+        "GA_NASA_QA"
+      ]
+    },
+    {
+      "claimId": "GA-C3",
+      "status": "SUPPORTED",
+      "statementKo": "Shapley Supercluster 등 더 먼 구조도 local velocity field에 기여할 수 있다.",
+      "statementEn": "More distant structures such as the Shapley Supercluster may also contribute to the local velocity field.",
+      "sourceRefs": [
+        "GA_ESO2006"
+      ]
+    },
+    {
+      "claimId": "GA-C4",
+      "status": "REFUTED",
+      "statementKo": "Great Attractor가 우주의 중심 또는 모든 은하를 끌어당기는 단일 물체라는 설명은 부정확하다.",
+      "statementEn": "It is inaccurate to describe the Great Attractor as the center of the universe or a single object pulling all galaxies.",
+      "sourceRefs": [
+        "GA_NASA_QA",
+        "GA_NASA2013"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GA_NASA2013",
+      "title": "Hubble Focuses on 'the Great Attractor'",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-focuses-on-the-great-attractor/",
+      "sourceType": "NASA_SCIENCE"
+    },
+    {
+      "sourceId": "GA_NASA_QA",
+      "title": "What is the Great Attractor?",
+      "publisher": "NASA Goddard Imagine the Universe",
+      "url": "https://imagine.gsfc.nasa.gov/ask_astro/cosmology.html",
+      "sourceType": "NASA_EDUCATIONAL_SCIENCE"
+    },
+    {
+      "sourceId": "GA_NTRS1991",
+      "title": "Potential, velocity, and density fields from redshift-distance samples",
+      "publisher": "NASA Technical Reports Server",
+      "url": "https://ntrs.nasa.gov/citations/19910031880",
+      "sourceType": "SCIENTIFIC_POTENTIAL_FLOW_RECONSTRUCTION"
+    },
+    {
+      "sourceId": "GA_ESO2006",
+      "title": "The Great Attractor and the Shapley Supercluster",
+      "publisher": "ESO The Messenger 124",
+      "url": "https://www.eso.org/sci/publications/messenger/archive/no.124-jun06/messenger-no124.pdf",
+      "sourceType": "OBSERVATORY_RESEARCH_REVIEW"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ga-v01",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Local Group → Hydra-Centaurus/Norma → Shapley 방향의 대규모 구조 개념도.",
+      "captionEn": "Original large-scale map: Local Group → Hydra-Centaurus/Norma → Shapley direction.",
+      "altKo": "Local Group → Hydra-Centaurus/Norma → Shapley 방향의 대규모 구조 개념도.",
+      "altEn": "Original large-scale map: Local Group → Hydra-Centaurus/Norma → Shapley direction.",
+      "sourceRefs": [
+        "GA_NTRS1991",
+        "GA_ESO2006",
+        "GA_NASA2013",
+        "GA_NASA_QA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "great-attractor__v01__ko.png",
+          "sha256": "159b50426f04fd944145b7af59a252589c01676d6d577359cb4609368722a3e4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "great-attractor__v01__en.png",
+          "sha256": "cd3f8658e632b1d3ce0642285d5ab620d51a2d5503aa3bbf65462c4024692291",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ga-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "우주팽창 속도와 local peculiar velocity를 벡터로 분리한 개념도.",
+      "captionEn": "Concept diagram separating cosmic expansion from local peculiar velocity.",
+      "altKo": "우주팽창 속도와 local peculiar velocity를 벡터로 분리한 개념도.",
+      "altEn": "Concept diagram separating cosmic expansion from local peculiar velocity.",
+      "sourceRefs": [
+        "GA_NTRS1991",
+        "GA_ESO2006",
+        "GA_NASA2013",
+        "GA_NASA_QA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "great-attractor__v02__ko.png",
+          "sha256": "d96a50230b9e17aa73dd574fa60091301571b3452f59ac3fa993f06272c3c698",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "great-attractor__v02__en.png",
+          "sha256": "8d7f8e214dd3decba24522b1ef8ad5f3138526e42b398a000d4319e347b31fcb",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ga-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실제 질량집중·Zone of Avoidance·‘우주의 중심’ 오해를 분리.",
+      "captionEn": "Evidence card separating real mass concentrations, Zone of Avoidance, and the 'center of universe' misconception.",
+      "altKo": "실제 질량집중·Zone of Avoidance·‘우주의 중심’ 오해를 분리.",
+      "altEn": "Evidence card separating real mass concentrations, Zone of Avoidance, and the 'center of universe' misconception.",
+      "sourceRefs": [
+        "GA_NTRS1991",
+        "GA_ESO2006",
+        "GA_NASA2013",
+        "GA_NASA_QA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "great-attractor__v03__ko.png",
+          "sha256": "adf4d9bab56092f60fcf73676de8c377f1bc071f59ecee17007810e9dcfa40c1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "great-attractor__v03__en.png",
+          "sha256": "2c63f79dafa916534b1612e2055b475cb559ebfea108af825f9ec7e3a8673621",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "Hydra-Centaurus / Norma / Shapley large-scale structure"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "NASA",
+      "ESO"
+    ],
+    "dateRange": {
+      "start": "1980s",
+      "end": "present",
+      "precision": "modern peculiar-velocity surveys"
+    },
+    "era": "Modern cosmology",
+    "resolution": "LARGE_SCALE_MASS_FLOW_ESTABLISHED_SINGLE_OBJECT_CENTER_MODEL_REFUTED",
+    "searchAliases": [
+      "Great Attractor",
+      "Norma Cluster",
+      "Hydra Centaurus flow"
+    ],
+    "relatedCases": [
+      "hubble-tension"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1666,
+    "enBodyWords": 388,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

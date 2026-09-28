@@ -1,0 +1,364 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "aaro-modern-uap",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "AARO와 현대 UAP 조사",
+    "canonicalTitleEn": "AARO and Modern UAP Investigation",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "'미확인'을 외계로 읽지 않는 법—AARO가 실제로 하는 일",
+      "hook": "현대 UAP 분석의 핵심은 미확인을 결론이 아니라 상태값으로 다루는 데 있다. 데이터가 늘면 ordinary source로 해결되기도 하고, 충분하지 않으면 unresolved로 남는다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "현대 UAP 조사의 핵심은 '미확인'을 임시 상태값으로 다루는 데 있다",
+          "headingEn": "Modern UAP Analysis Treats 'Unidentified' as a Temporary Data State",
+          "textKo": "미 국방부 All-domain Anomaly Resolution Office(AARO)는 UAP reports를 수집·분석하고 의회보고서, case-resolution material, reporting trends를 공개한다. **AARO 체계에서 unresolved는 '외계'라는 분류가 아니라 available data로 충분한 attribution을 못 했다는 상태**다.",
+          "textEn": "The U.S. Department of Defense's All-domain Anomaly Resolution Office collects and analyzes UAP reports and publishes congressional reports, case-resolution material, and reporting trends. In AARO's framework, unresolved is not an 'extraterrestrial' category; it means the available data were insufficient for confident attribution."
+        },
+        {
+          "blockId": "resolved-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "데이터가 충분해지면 balloons·aircraft·birds·sensor effects로 해결되는 사례가 있다",
+          "headingEn": "Better Data Resolve Some Cases as Balloons, Aircraft, Birds, or Sensor Effects",
+          "textKo": "AARO public case material은 additional imagery, geolocation, flight data, sensor geometry가 확보되면 ordinary object 또는 imaging effect로 좁혀지는 사례를 제공한다. **해결은 '처음부터 목격자가 틀렸다'가 아니라, 나중에 더 많은 데이터가 들어오면서 classification이 바뀐 결과일 수 있다.**",
+          "textEn": "AARO's public case material shows that additional imagery, geolocation, flight data, or sensor geometry can resolve reports as ordinary objects or imaging effects. Resolution does not necessarily mean the observer was careless; it may mean later data changed the classification."
+        },
+        {
+          "blockId": "trends-03",
+          "type": "BACKGROUND",
+          "headingKo": "보고통계는 '정체의 비율'보다 sensor·지역·reporting bias까지 함께 읽어야 한다",
+          "headingEn": "Reporting Statistics Reflect Sensors, Geography, and Reporting Practice as Well as Objects",
+          "textKo": "AARO trend page는 report distribution을 visualization하지만, raw count는 underlying object population의 직접 census가 아니다. 특정 military training area, sensor availability, reporting rule 변화가 count에 영향을 줄 수 있다. **많이 보고된 곳이 곧 'UAP가 더 많이 존재하는 곳'이라는 단순해석은 피해야 한다.**",
+          "textEn": "AARO trend visualizations summarize report distributions, but raw counts are not a direct census of object populations. Military operating areas, sensor availability, and reporting rules can influence where reports accumulate. More reports in one region do not automatically mean more anomalous objects exist there."
+        },
+        {
+          "blockId": "unresolved-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "미해결 사례가 남는다는 사실도 두 방향으로 과장되기 쉽다",
+          "headingEn": "Unresolved Cases Are Easy to Overinterpret in Opposite Directions",
+          "textKo": "한쪽에서는 unresolved를 exotic craft proof처럼 사용하고, 다른 쪽에서는 data 부족을 이유로 사건 전체를 무가치하다고 본다. AARO식 evidence handling은 둘 다 피한다. **미해결은 '원인을 모른다'는 정보이며, 바로 그 불확실성의 크기와 데이터결손을 기록하는 것이 분석결과다.**",
+          "textEn": "One side may treat unresolved cases as proof of exotic craft; another may dismiss them because data are incomplete. An evidence-focused approach avoids both. 'Unresolved' is itself information: the cause is not established, and the size of that uncertainty and the data gaps should be documented."
+        },
+        {
+          "blockId": "quality-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 UAP report라도 data quality에 따라 결론가능성이 크게 달라진다",
+          "headingEn": "UAP Reports Differ Dramatically in Evidentiary Quality",
+          "textKo": "single eyewitness report와 multi-sensor track, calibrated imagery, exact platform geometry는 같은 'UAP report'라도 정보량이 다르다. AARO resolution work에서 중요한 것은 report 숫자보다 어떤 sensor와 metadata가 남았는지다. **분류정확도는 미스터리의 크기보다 데이터의 질에 더 직접적으로 좌우된다.**",
+          "textEn": "A single eyewitness account and a multi-sensor track with calibrated imagery and known platform geometry are both 'UAP reports' but carry very different information. Resolution depends heavily on sensor quality and metadata, not simply on how mysterious the event sounds."
+        },
+        {
+          "blockId": "audit-048",
+          "type": "AFTERMATH",
+          "headingKo": "좋은 UAP 체계의 목표는 미스터리를 늘리는 게 아니라 unresolved를 줄이는 것이다",
+          "headingEn": "A Good UAP System Should Reduce the Unresolved Pool, Not Maximize Mystery",
+          "textKo": "AARO reporting system의 실용적 목적은 report를 보존하고 가능한 경우 attribution을 높이며 반복 sensor artifact나 common object를 분리하는 데 있다. **unresolved count를 prestige처럼 다루면 분석목표가 뒤집힌다. 데이터가 좋아질수록 일부 사건은 평범해지고 일부만 더 강한 질문으로 남아야 정상이다.**",
+          "textEn": "The practical goal of a UAP reporting system is to preserve reports, improve attribution when possible, and separate recurring sensor artifacts or common objects. Treating unresolved counts as prestige reverses the analytic goal; better data should make some cases ordinary and leave a smaller set of stronger questions."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** AARO는 UAP reports를 실제 수집·분석하고 reports/trends/resolution material을 공개한다. 일부 cases는 additional data로 ordinary objects·sensor effects 등에 attribution된다.\n\n**확인되지 않음:** unresolved status는 extraterrestrial origin 판정이 아니다. 반대로 모든 unresolved case가 ordinary explanation으로 이미 해결됐다고 말할 수도 없다.",
+          "textEn": "**Established:** AARO genuinely collects and analyzes UAP reports and publishes reports, trends, and resolution material. Some cases become attributable to ordinary objects or sensor effects when additional data are available.\n\n**Not established:** Unresolved status is not a determination of extraterrestrial origin. Conversely, it is also incorrect to claim that every unresolved case has already been explained."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** AARO는 UAP reports를 실제 수집·분석하고 reports/trends/resolution material을 공개한다. 일부 cases는 additional data로 ordinary objects·sensor effects 등에 attribution된다.\n\n**확인되지 않음:** unresolved status는 extraterrestrial origin 판정이 아니다. 반대로 모든 unresolved case가 ordinary explanation으로 이미 해결됐다고 말할 수도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "resolved-02",
+        "trends-03",
+        "unresolved-04",
+        "quality-045",
+        "audit-048"
+      ]
+    },
+    "en": {
+      "headline": "How AARO Treats 'Unidentified' Without Turning It Into 'Extraterrestrial'",
+      "hook": "Modern UAP analysis treats 'unidentified' as a data state, not a conclusion. More data can resolve a case as ordinary; insufficient data can leave it unresolved.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "현대 UAP 조사의 핵심은 '미확인'을 임시 상태값으로 다루는 데 있다",
+          "headingEn": "Modern UAP Analysis Treats 'Unidentified' as a Temporary Data State",
+          "textKo": "미 국방부 All-domain Anomaly Resolution Office(AARO)는 UAP reports를 수집·분석하고 의회보고서, case-resolution material, reporting trends를 공개한다. **AARO 체계에서 unresolved는 '외계'라는 분류가 아니라 available data로 충분한 attribution을 못 했다는 상태**다.",
+          "textEn": "The U.S. Department of Defense's All-domain Anomaly Resolution Office collects and analyzes UAP reports and publishes congressional reports, case-resolution material, and reporting trends. In AARO's framework, unresolved is not an 'extraterrestrial' category; it means the available data were insufficient for confident attribution."
+        },
+        {
+          "blockId": "resolved-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "데이터가 충분해지면 balloons·aircraft·birds·sensor effects로 해결되는 사례가 있다",
+          "headingEn": "Better Data Resolve Some Cases as Balloons, Aircraft, Birds, or Sensor Effects",
+          "textKo": "AARO public case material은 additional imagery, geolocation, flight data, sensor geometry가 확보되면 ordinary object 또는 imaging effect로 좁혀지는 사례를 제공한다. **해결은 '처음부터 목격자가 틀렸다'가 아니라, 나중에 더 많은 데이터가 들어오면서 classification이 바뀐 결과일 수 있다.**",
+          "textEn": "AARO's public case material shows that additional imagery, geolocation, flight data, or sensor geometry can resolve reports as ordinary objects or imaging effects. Resolution does not necessarily mean the observer was careless; it may mean later data changed the classification."
+        },
+        {
+          "blockId": "trends-03",
+          "type": "BACKGROUND",
+          "headingKo": "보고통계는 '정체의 비율'보다 sensor·지역·reporting bias까지 함께 읽어야 한다",
+          "headingEn": "Reporting Statistics Reflect Sensors, Geography, and Reporting Practice as Well as Objects",
+          "textKo": "AARO trend page는 report distribution을 visualization하지만, raw count는 underlying object population의 직접 census가 아니다. 특정 military training area, sensor availability, reporting rule 변화가 count에 영향을 줄 수 있다. **많이 보고된 곳이 곧 'UAP가 더 많이 존재하는 곳'이라는 단순해석은 피해야 한다.**",
+          "textEn": "AARO trend visualizations summarize report distributions, but raw counts are not a direct census of object populations. Military operating areas, sensor availability, and reporting rules can influence where reports accumulate. More reports in one region do not automatically mean more anomalous objects exist there."
+        },
+        {
+          "blockId": "unresolved-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "미해결 사례가 남는다는 사실도 두 방향으로 과장되기 쉽다",
+          "headingEn": "Unresolved Cases Are Easy to Overinterpret in Opposite Directions",
+          "textKo": "한쪽에서는 unresolved를 exotic craft proof처럼 사용하고, 다른 쪽에서는 data 부족을 이유로 사건 전체를 무가치하다고 본다. AARO식 evidence handling은 둘 다 피한다. **미해결은 '원인을 모른다'는 정보이며, 바로 그 불확실성의 크기와 데이터결손을 기록하는 것이 분석결과다.**",
+          "textEn": "One side may treat unresolved cases as proof of exotic craft; another may dismiss them because data are incomplete. An evidence-focused approach avoids both. 'Unresolved' is itself information: the cause is not established, and the size of that uncertainty and the data gaps should be documented."
+        },
+        {
+          "blockId": "quality-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 UAP report라도 data quality에 따라 결론가능성이 크게 달라진다",
+          "headingEn": "UAP Reports Differ Dramatically in Evidentiary Quality",
+          "textKo": "single eyewitness report와 multi-sensor track, calibrated imagery, exact platform geometry는 같은 'UAP report'라도 정보량이 다르다. AARO resolution work에서 중요한 것은 report 숫자보다 어떤 sensor와 metadata가 남았는지다. **분류정확도는 미스터리의 크기보다 데이터의 질에 더 직접적으로 좌우된다.**",
+          "textEn": "A single eyewitness account and a multi-sensor track with calibrated imagery and known platform geometry are both 'UAP reports' but carry very different information. Resolution depends heavily on sensor quality and metadata, not simply on how mysterious the event sounds."
+        },
+        {
+          "blockId": "audit-048",
+          "type": "AFTERMATH",
+          "headingKo": "좋은 UAP 체계의 목표는 미스터리를 늘리는 게 아니라 unresolved를 줄이는 것이다",
+          "headingEn": "A Good UAP System Should Reduce the Unresolved Pool, Not Maximize Mystery",
+          "textKo": "AARO reporting system의 실용적 목적은 report를 보존하고 가능한 경우 attribution을 높이며 반복 sensor artifact나 common object를 분리하는 데 있다. **unresolved count를 prestige처럼 다루면 분석목표가 뒤집힌다. 데이터가 좋아질수록 일부 사건은 평범해지고 일부만 더 강한 질문으로 남아야 정상이다.**",
+          "textEn": "The practical goal of a UAP reporting system is to preserve reports, improve attribution when possible, and separate recurring sensor artifacts or common objects. Treating unresolved counts as prestige reverses the analytic goal; better data should make some cases ordinary and leave a smaller set of stronger questions."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** AARO는 UAP reports를 실제 수집·분석하고 reports/trends/resolution material을 공개한다. 일부 cases는 additional data로 ordinary objects·sensor effects 등에 attribution된다.\n\n**확인되지 않음:** unresolved status는 extraterrestrial origin 판정이 아니다. 반대로 모든 unresolved case가 ordinary explanation으로 이미 해결됐다고 말할 수도 없다.",
+          "textEn": "**Established:** AARO genuinely collects and analyzes UAP reports and publishes reports, trends, and resolution material. Some cases become attributable to ordinary objects or sensor effects when additional data are available.\n\n**Not established:** Unresolved status is not a determination of extraterrestrial origin. Conversely, it is also incorrect to claim that every unresolved case has already been explained."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** AARO genuinely collects and analyzes UAP reports and publishes reports, trends, and resolution material. Some cases become attributable to ordinary objects or sensor effects when additional data are available.\n\n**Not established:** Unresolved status is not a determination of extraterrestrial origin. Conversely, it is also incorrect to claim that every unresolved case has already been explained.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "resolved-02",
+        "trends-03",
+        "unresolved-04",
+        "quality-045",
+        "audit-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "AARO-C1",
+      "status": "CONFIRMED",
+      "statementKo": "AARO는 현대 UAP reports를 수집·분석하고 공식자료를 공개한다.",
+      "statementEn": "AARO collects and analyzes modern UAP reports and publishes official material.",
+      "sourceRefs": [
+        "AARO_REPORTS",
+        "AARO_TRENDS"
+      ]
+    },
+    {
+      "claimId": "AARO-C2",
+      "status": "CONFIRMED",
+      "statementKo": "일부 case는 추가데이터로 ordinary object·sensor effect로 해결된다.",
+      "statementEn": "Some cases are resolved as ordinary objects or sensor effects with additional data.",
+      "sourceRefs": [
+        "AARO_REPORTS"
+      ]
+    },
+    {
+      "claimId": "AARO-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "unresolved 분류 자체는 extraterrestrial origin을 의미하지 않는다.",
+      "statementEn": "An unresolved classification does not itself indicate extraterrestrial origin.",
+      "sourceRefs": [
+        "AARO_REPORTS",
+        "AARO_TRENDS"
+      ]
+    },
+    {
+      "claimId": "AARO-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "report count만으로 underlying anomalous-object population을 직접 추정할 수 없다.",
+      "statementEn": "Raw report counts do not directly measure an underlying anomalous-object population.",
+      "sourceRefs": [
+        "AARO_TRENDS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "AARO_REPORTS",
+      "title": "Congressional & Press Products",
+      "publisher": "All-domain Anomaly Resolution Office",
+      "url": "https://www.aaro.mil/Congressional-Press-Products/",
+      "sourceType": "DOD_OFFICIAL"
+    },
+    {
+      "sourceId": "AARO_TRENDS",
+      "title": "UAP Reporting Trends",
+      "publisher": "All-domain Anomaly Resolution Office",
+      "url": "https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/",
+      "sourceType": "DOD_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "aaro-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "report → data quality → analysis → resolved/unresolved classification 흐름.",
+      "captionEn": "Report → data quality → analysis → resolved/unresolved classification.",
+      "altKo": "report → data quality → analysis → resolved/unresolved classification 흐름.",
+      "altEn": "Report → data quality → analysis → resolved/unresolved classification.",
+      "sourceRefs": [
+        "AARO_REPORTS",
+        "AARO_TRENDS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "aaro-modern-uap__v01__ko.png",
+          "sha256": "d3b95f5284aa008b9de4ed1313926d382aaa0bd58200412d51953a60e2b07bff",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "aaro-modern-uap__v01__en.png",
+          "sha256": "ad037e7b4ca931cc52d4e4f8847e1151a3f3ee9e2e85132d3742ab002dd7e982",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "aaro-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "unresolved / extraterrestrial / ordinary attribution / insufficient data를 분리.",
+      "captionEn": "Separate unresolved, extraterrestrial, ordinary attribution, and insufficient-data states.",
+      "altKo": "unresolved / extraterrestrial / ordinary attribution / insufficient data를 분리.",
+      "altEn": "Separate unresolved, extraterrestrial, ordinary attribution, and insufficient-data states.",
+      "sourceRefs": [
+        "AARO_REPORTS",
+        "AARO_TRENDS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "aaro-modern-uap__v02__ko.png",
+          "sha256": "7646d7ec12913230adba9d190955b7b369e317d15d6c23a2fc6ebbb993cda989",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "aaro-modern-uap__v02__en.png",
+          "sha256": "e8addf4bac45c7adeae5e91ed20aa63cfb7690aad84e21cfadc62e6b73ca4501",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "UFO / UAP / Aerial Anomaly",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "U.S. Department of Defense reporting domain"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "AARO",
+      "U.S. Department of Defense"
+    ],
+    "dateRange": {
+      "start": "2022",
+      "end": "present",
+      "precision": "modern AARO era"
+    },
+    "era": "Contemporary UAP investigation",
+    "resolution": "PROCESS_AND_CASE_RESOLUTION_SYSTEM_ESTABLISHED_UNRESOLVED_NOT_ET_CLASSIFICATION",
+    "searchAliases": [
+      "AARO",
+      "modern UAP investigation",
+      "UAP reporting trends"
+    ],
+    "relatedCases": [
+      "gimbal",
+      "gofast"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1602,
+    "enBodyWords": 317,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

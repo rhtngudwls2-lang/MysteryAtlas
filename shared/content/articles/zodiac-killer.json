@@ -1,0 +1,435 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "zodiac-killer",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "조디악 킬러",
+    "canonicalTitleEn": "Zodiac Killer",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "암호는 풀렸는데 왜 범인의 이름은 끝내 풀리지 않았나",
+      "hook": "Zodiac은 살인 뒤 편지와 암호로 자신의 정체성을 만들었다. 수사기관은 공개되지 않은 사건세부와 필적·암호를 분석했지만, 메시지를 읽는 일과 사람의 이름을 확정하는 일은 끝내 같은 문제가 아니었다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "살인사건과 암호편지는 하나의 ‘정체성’을 만들었다",
+          "headingEn": "Murders and Ciphers Created a Killer’s Public Identity",
+          "textKo": "1968~1969년 북부 캘리포니아에서 연속 공격이 발생한 뒤, 여러 신문사에 자신을 ‘Zodiac’이라고 부르는 발신자의 편지가 도착했다. FBI Vault에는 1969년 7월 말 세 신문사로 나뉘어 보내진 암호와 편지, 이후 분석문서가 남아 있다. **사건의 미스터리는 살인과 암호가 따로가 아니라, 편지 발신자가 자신을 하나의 연속된 범인으로 구축하면서 시작됐다.**",
+          "textEn": "After a series of attacks in Northern California in 1968–1969, newspapers received letters from a writer who called himself 'Zodiac.' The FBI Vault preserves the late-July 1969 letters and divided cipher material sent to three newspapers, along with subsequent analysis. The mystery emerged from the combination of violent crimes and a correspondent deliberately constructing one public criminal identity."
+        },
+        {
+          "blockId": "details-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수사기관이 편지를 심각하게 본 이유는 공개되지 않은 사건정보였다",
+          "headingEn": "Investigators Took the Letters Seriously Because They Contained Non-Public Crime Details",
+          "textKo": "1974년 FBI 문서는 경찰이 Zodiac 편지를 실제 사건과 연결한 이유 가운데 하나로, 일부 편지에 일반 대중이 알지 못한 살인 세부가 들어 있었다고 기록한다. 이런 정보는 단순 장난편지와 실제 범행연계 편지를 구분하는 중요한 기준이었다. 그러나 **특정 편지가 사건정보를 알고 있었다는 사실이 발신자의 실명까지 자동으로 알려주지는 않는다.**",
+          "textEn": "A 1974 FBI document explains that police linked Zodiac correspondence to the murders partly because some letters contained crime details not known to the general public. Such information is important for separating random hoaxes from correspondence plausibly connected to the offender. It still does not identify the writer by name."
+        },
+        {
+          "blockId": "cipher-03",
+          "type": "TURNING_POINT",
+          "headingKo": "첫 408자 암호는 며칠 만에 민간인이 풀었다",
+          "headingEn": "The First 408-Symbol Cipher Was Solved by Civilians Within Days",
+          "textKo": "1969년 8월 FBI 기록은 Donald Harden과 아내 Bettye가 신문에 실린 408-symbol cipher를 해독했다고 주장한 사실을 수사기관이 검토한 과정을 남긴다. 이 암호는 범인의 정체를 직접 드러내지 않았지만, 살인에 대한 자기서사와 위협을 담은 메시지를 제공했다. **암호를 풀 수 있었다는 사실과 살인범의 이름을 알아냈다는 것은 달랐다.**",
+          "textEn": "An August 1969 FBI record documents examination of the solution produced by Donald Harden and his wife Bettye for the 408-symbol cipher published in newspapers. The cipher yielded a violent self-narrative rather than the offender’s real identity. Solving a cipher and identifying the killer were therefore separate achievements."
+        },
+        {
+          "blockId": "handwriting-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "필적검사는 용의자를 ‘확정’하기보다 배제·비교도구였다",
+          "headingEn": "Handwriting Analysis Was a Comparative Tool, Not an Automatic Identification",
+          "textKo": "FBI Vault 자료에는 용의자들의 필적을 Zodiac letters와 비교한 검사결과가 다수 남아 있다. 어떤 경우에는 비교특성이 부족해 작성여부를 결정하지 못했다는 결론도 나온다. 이 자료는 필적감정이 TV 수사물처럼 ‘동일인 100%’ 버튼이 아니라는 점을 보여준다. **유사성·불충분·배제라는 여러 결과가 있을 수 있고, 독립적 물증과 함께 봐야 한다.**",
+          "textEn": "The FBI Vault contains numerous comparisons between suspects’ handwriting and Zodiac correspondence. In some examinations, analysts explicitly concluded that the available comparable characteristics were insufficient to determine authorship. This shows handwriting analysis as a comparative and sometimes exclusionary tool, not an automatic identity machine."
+        },
+        {
+          "blockId": "scope-05",
+          "type": "BACKGROUND",
+          "headingKo": "‘Zodiac 피해자’ 숫자도 주장과 경찰귀속을 구분해야 한다",
+          "headingEn": "Even the Victim Count Requires Separating Claims From Attribution",
+          "textKo": "FBI 자료에는 Zodiac가 더 많은 살인을 주장한 기록이 있지만, 수사기관이 귀속한 사건범위는 더 제한적이었다. 1974년 문서도 경찰당국이 여러 건을 Zodiac에 귀속하면서 발신자가 추가범죄를 주장했다고 따로 정리한다. **범인의 자기주장은 피해자수의 확정치가 아니다.** Mystery Atlas는 ‘claim count’와 ‘investigatively attributed cases’를 같은 숫자로 합치지 않는다.",
+          "textEn": "FBI records show that Zodiac claimed more killings than investigators confidently attributed to him. A 1974 document separately discusses cases police associated with Zodiac and additional crimes he claimed. A killer’s self-reported victim count is not the same thing as a confirmed investigative total."
+        },
+        {
+          "blockId": "suspects-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "유명 용의자가 많았다는 사실이 해결을 의미하지 않는다",
+          "headingEn": "A Long List of Famous Suspects Is Not a Solution",
+          "textKo": "사건은 수십 년 동안 여러 용의자와 연결돼 왔지만, FBI Vault 문서의 핵심상태는 identity unresolved다. 필적, 지문, 통신, 범행기회 같은 단서가 특정 후보를 한때 강하게 보이게 해도 전체 증거를 통과해야 한다. **대중문화에서 가장 유명한 용의자와 법적으로·과학적으로 확정된 범인은 같은 개념이 아니다.**",
+          "textEn": "Over decades, many suspects have been proposed, but the core evidentiary status remains unresolved. Handwriting, fingerprints, communications and opportunity can make a candidate appear compelling, yet the full evidentiary record must converge. The most famous suspect in popular culture is not equivalent to a legally or scientifically established killer."
+        },
+        {
+          "blockId": "meaning-07",
+          "type": "AFTERMATH",
+          "headingKo": "암호가 풀려도 정체가 안 풀린 사건",
+          "headingEn": "A Case Where Solving Messages Did Not Solve the Identity",
+          "textKo": "Zodiac 사건의 독특함은 암호와 편지가 풍부해 범인의 목소리처럼 보이는 자료가 많이 남았는데도 신원이 닫히지 않았다는 데 있다. 408 cipher 같은 메시지는 해독됐고 수사기관은 범죄세부·필적·우편경로를 수십 년 분석했다. **정보가 많다는 것과 결정적 식별정보가 있다는 것은 다르다.** 이 사건은 그 차이를 가장 극적으로 보여준다.",
+          "textEn": "The Zodiac case is unusual because it left a rich archive of apparent offender communication without producing a settled identity. Ciphers such as the 408 were solved, and investigators examined crime details, handwriting and mail for years. Abundant information is not the same thing as decisive identification."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1968~1969년 북부 캘리포니아의 여러 살인·공격과 Zodiac 서명 편지가 수사기록상 연결됐고, 일부 편지는 일반에 공개되지 않은 사건세부를 포함했다. 1969년 408-symbol cipher는 Donald·Bettye Harden 해독안으로 빠르게 읽혔다. FBI는 이후 필적·문서·암호 관련 분석을 장기간 수행했다.\n\n**확인되지 않음:** Zodiac의 실명은 확정되지 않았다. 모든 추가 자칭 피해가 실제 Zodiac 범행으로 입증된 것도 아니다. 유명 용의자 한 명을 최종범인으로 단정할 근거도 현재 자료에 없다.",
+          "textEn": "**Established:** Investigators linked multiple Northern California attacks in 1968–1969 with Zodiac-signed correspondence, some of which contained non-public crime details. The 408-symbol cipher was quickly read using the solution produced by Donald and Bettye Harden, and the FBI later conducted extensive handwriting, document and cryptographic analysis.\n\n**Not established:** Zodiac’s real identity remains unresolved. Not every additional self-claimed victim has been proven to be a Zodiac crime, and no famous suspect is established as the final offender by the record used here."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1968~1969년 북부 캘리포니아의 여러 살인·공격과 Zodiac 서명 편지가 수사기록상 연결됐고, 일부 편지는 일반에 공개되지 않은 사건세부를 포함했다. 1969년 408-symbol cipher는 Donald·Bettye Harden 해독안으로 빠르게 읽혔다. FBI는 이후 필적·문서·암호 관련 분석을 장기간 수행했다.\n\n**확인되지 않음:** Zodiac의 실명은 확정되지 않았다. 모든 추가 자칭 피해가 실제 Zodiac 범행으로 입증된 것도 아니다. 유명 용의자 한 명을 최종범인으로 단정할 근거도 현재 자료에 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "details-02",
+        "cipher-03",
+        "handwriting-04",
+        "scope-05",
+        "suspects-06",
+        "meaning-07"
+      ]
+    },
+    "en": {
+      "headline": "The Ciphers Spoke—So Why Didn’t They Reveal the Zodiac Killer?",
+      "hook": "Zodiac built a public identity through murders, letters and ciphers. Investigators could analyze hidden crime details, handwriting and code—but reading messages and identifying a person turned out to be very different problems.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "살인사건과 암호편지는 하나의 ‘정체성’을 만들었다",
+          "headingEn": "Murders and Ciphers Created a Killer’s Public Identity",
+          "textKo": "1968~1969년 북부 캘리포니아에서 연속 공격이 발생한 뒤, 여러 신문사에 자신을 ‘Zodiac’이라고 부르는 발신자의 편지가 도착했다. FBI Vault에는 1969년 7월 말 세 신문사로 나뉘어 보내진 암호와 편지, 이후 분석문서가 남아 있다. **사건의 미스터리는 살인과 암호가 따로가 아니라, 편지 발신자가 자신을 하나의 연속된 범인으로 구축하면서 시작됐다.**",
+          "textEn": "After a series of attacks in Northern California in 1968–1969, newspapers received letters from a writer who called himself 'Zodiac.' The FBI Vault preserves the late-July 1969 letters and divided cipher material sent to three newspapers, along with subsequent analysis. The mystery emerged from the combination of violent crimes and a correspondent deliberately constructing one public criminal identity."
+        },
+        {
+          "blockId": "details-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수사기관이 편지를 심각하게 본 이유는 공개되지 않은 사건정보였다",
+          "headingEn": "Investigators Took the Letters Seriously Because They Contained Non-Public Crime Details",
+          "textKo": "1974년 FBI 문서는 경찰이 Zodiac 편지를 실제 사건과 연결한 이유 가운데 하나로, 일부 편지에 일반 대중이 알지 못한 살인 세부가 들어 있었다고 기록한다. 이런 정보는 단순 장난편지와 실제 범행연계 편지를 구분하는 중요한 기준이었다. 그러나 **특정 편지가 사건정보를 알고 있었다는 사실이 발신자의 실명까지 자동으로 알려주지는 않는다.**",
+          "textEn": "A 1974 FBI document explains that police linked Zodiac correspondence to the murders partly because some letters contained crime details not known to the general public. Such information is important for separating random hoaxes from correspondence plausibly connected to the offender. It still does not identify the writer by name."
+        },
+        {
+          "blockId": "cipher-03",
+          "type": "TURNING_POINT",
+          "headingKo": "첫 408자 암호는 며칠 만에 민간인이 풀었다",
+          "headingEn": "The First 408-Symbol Cipher Was Solved by Civilians Within Days",
+          "textKo": "1969년 8월 FBI 기록은 Donald Harden과 아내 Bettye가 신문에 실린 408-symbol cipher를 해독했다고 주장한 사실을 수사기관이 검토한 과정을 남긴다. 이 암호는 범인의 정체를 직접 드러내지 않았지만, 살인에 대한 자기서사와 위협을 담은 메시지를 제공했다. **암호를 풀 수 있었다는 사실과 살인범의 이름을 알아냈다는 것은 달랐다.**",
+          "textEn": "An August 1969 FBI record documents examination of the solution produced by Donald Harden and his wife Bettye for the 408-symbol cipher published in newspapers. The cipher yielded a violent self-narrative rather than the offender’s real identity. Solving a cipher and identifying the killer were therefore separate achievements."
+        },
+        {
+          "blockId": "handwriting-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "필적검사는 용의자를 ‘확정’하기보다 배제·비교도구였다",
+          "headingEn": "Handwriting Analysis Was a Comparative Tool, Not an Automatic Identification",
+          "textKo": "FBI Vault 자료에는 용의자들의 필적을 Zodiac letters와 비교한 검사결과가 다수 남아 있다. 어떤 경우에는 비교특성이 부족해 작성여부를 결정하지 못했다는 결론도 나온다. 이 자료는 필적감정이 TV 수사물처럼 ‘동일인 100%’ 버튼이 아니라는 점을 보여준다. **유사성·불충분·배제라는 여러 결과가 있을 수 있고, 독립적 물증과 함께 봐야 한다.**",
+          "textEn": "The FBI Vault contains numerous comparisons between suspects’ handwriting and Zodiac correspondence. In some examinations, analysts explicitly concluded that the available comparable characteristics were insufficient to determine authorship. This shows handwriting analysis as a comparative and sometimes exclusionary tool, not an automatic identity machine."
+        },
+        {
+          "blockId": "scope-05",
+          "type": "BACKGROUND",
+          "headingKo": "‘Zodiac 피해자’ 숫자도 주장과 경찰귀속을 구분해야 한다",
+          "headingEn": "Even the Victim Count Requires Separating Claims From Attribution",
+          "textKo": "FBI 자료에는 Zodiac가 더 많은 살인을 주장한 기록이 있지만, 수사기관이 귀속한 사건범위는 더 제한적이었다. 1974년 문서도 경찰당국이 여러 건을 Zodiac에 귀속하면서 발신자가 추가범죄를 주장했다고 따로 정리한다. **범인의 자기주장은 피해자수의 확정치가 아니다.** Mystery Atlas는 ‘claim count’와 ‘investigatively attributed cases’를 같은 숫자로 합치지 않는다.",
+          "textEn": "FBI records show that Zodiac claimed more killings than investigators confidently attributed to him. A 1974 document separately discusses cases police associated with Zodiac and additional crimes he claimed. A killer’s self-reported victim count is not the same thing as a confirmed investigative total."
+        },
+        {
+          "blockId": "suspects-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "유명 용의자가 많았다는 사실이 해결을 의미하지 않는다",
+          "headingEn": "A Long List of Famous Suspects Is Not a Solution",
+          "textKo": "사건은 수십 년 동안 여러 용의자와 연결돼 왔지만, FBI Vault 문서의 핵심상태는 identity unresolved다. 필적, 지문, 통신, 범행기회 같은 단서가 특정 후보를 한때 강하게 보이게 해도 전체 증거를 통과해야 한다. **대중문화에서 가장 유명한 용의자와 법적으로·과학적으로 확정된 범인은 같은 개념이 아니다.**",
+          "textEn": "Over decades, many suspects have been proposed, but the core evidentiary status remains unresolved. Handwriting, fingerprints, communications and opportunity can make a candidate appear compelling, yet the full evidentiary record must converge. The most famous suspect in popular culture is not equivalent to a legally or scientifically established killer."
+        },
+        {
+          "blockId": "meaning-07",
+          "type": "AFTERMATH",
+          "headingKo": "암호가 풀려도 정체가 안 풀린 사건",
+          "headingEn": "A Case Where Solving Messages Did Not Solve the Identity",
+          "textKo": "Zodiac 사건의 독특함은 암호와 편지가 풍부해 범인의 목소리처럼 보이는 자료가 많이 남았는데도 신원이 닫히지 않았다는 데 있다. 408 cipher 같은 메시지는 해독됐고 수사기관은 범죄세부·필적·우편경로를 수십 년 분석했다. **정보가 많다는 것과 결정적 식별정보가 있다는 것은 다르다.** 이 사건은 그 차이를 가장 극적으로 보여준다.",
+          "textEn": "The Zodiac case is unusual because it left a rich archive of apparent offender communication without producing a settled identity. Ciphers such as the 408 were solved, and investigators examined crime details, handwriting and mail for years. Abundant information is not the same thing as decisive identification."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1968~1969년 북부 캘리포니아의 여러 살인·공격과 Zodiac 서명 편지가 수사기록상 연결됐고, 일부 편지는 일반에 공개되지 않은 사건세부를 포함했다. 1969년 408-symbol cipher는 Donald·Bettye Harden 해독안으로 빠르게 읽혔다. FBI는 이후 필적·문서·암호 관련 분석을 장기간 수행했다.\n\n**확인되지 않음:** Zodiac의 실명은 확정되지 않았다. 모든 추가 자칭 피해가 실제 Zodiac 범행으로 입증된 것도 아니다. 유명 용의자 한 명을 최종범인으로 단정할 근거도 현재 자료에 없다.",
+          "textEn": "**Established:** Investigators linked multiple Northern California attacks in 1968–1969 with Zodiac-signed correspondence, some of which contained non-public crime details. The 408-symbol cipher was quickly read using the solution produced by Donald and Bettye Harden, and the FBI later conducted extensive handwriting, document and cryptographic analysis.\n\n**Not established:** Zodiac’s real identity remains unresolved. Not every additional self-claimed victim has been proven to be a Zodiac crime, and no famous suspect is established as the final offender by the record used here."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Investigators linked multiple Northern California attacks in 1968–1969 with Zodiac-signed correspondence, some of which contained non-public crime details. The 408-symbol cipher was quickly read using the solution produced by Donald and Bettye Harden, and the FBI later conducted extensive handwriting, document and cryptographic analysis.\n\n**Not established:** Zodiac’s real identity remains unresolved. Not every additional self-claimed victim has been proven to be a Zodiac crime, and no famous suspect is established as the final offender by the record used here.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "details-02",
+        "cipher-03",
+        "handwriting-04",
+        "scope-05",
+        "suspects-06",
+        "meaning-07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ZOD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1969년 Zodiac 편지·암호가 여러 북부 캘리포니아 신문에 발송됐다.",
+      "statementEn": "Zodiac letters and cipher material were mailed to multiple Northern California newspapers in 1969.",
+      "sourceRefs": [
+        "ZOD_1969",
+        "ZOD_VAULT"
+      ]
+    },
+    {
+      "claimId": "ZOD-C2",
+      "status": "SUPPORTED",
+      "statementKo": "일부 편지에는 일반공개되지 않은 범죄세부가 포함돼 경찰이 사건연계를 강하게 봤다.",
+      "statementEn": "Some correspondence contained non-public crime details, strongly supporting investigative linkage.",
+      "sourceRefs": [
+        "ZOD_1974"
+      ]
+    },
+    {
+      "claimId": "ZOD-C3",
+      "status": "CONFIRMED",
+      "statementKo": "408-symbol cipher는 Donald·Bettye Harden의 해독안으로 1969년 빠르게 읽혔다.",
+      "statementEn": "The 408-symbol cipher was quickly read in 1969 using the Harden solution.",
+      "sourceRefs": [
+        "ZOD_1969"
+      ]
+    },
+    {
+      "claimId": "ZOD-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Zodiac의 실명과 모든 자칭 추가범죄는 확정되지 않았다.",
+      "statementEn": "Zodiac’s real identity and all additional self-claimed crimes remain unestablished.",
+      "sourceRefs": [
+        "ZOD_VAULT",
+        "ZOD_1974"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "ZOD_VAULT",
+      "title": "The Zodiac Killer — FBI Vault collection",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://vault.fbi.gov/The%20Zodiac%20Killer",
+      "sourceType": "FBI_PRIMARY_ARCHIVE"
+    },
+    {
+      "sourceId": "ZOD_1969",
+      "title": "Sacramento Airtel re Zodiac ciphers, August 1969",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://vault.fbi.gov/The%20Zodiac%20Killer/The%20Zodiac%20Killer%20Part%2001/",
+      "sourceType": "FBI_PRIMARY_RECORD"
+    },
+    {
+      "sourceId": "ZOD_1974",
+      "title": "FBI Zodiac case correspondence, 1974",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://vault.fbi.gov/The%20Zodiac%20Killer/The%20Zodiac%20Killer%20Part%2004/",
+      "sourceType": "FBI_PRIMARY_RECORD"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "zod-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1968~69 공격 → 1969 세 신문사 암호 → 408 해독 → 장기 미해결 신원.",
+      "captionEn": "Timeline: 1968–69 attacks → 1969 newspaper ciphers → 408 solution → unresolved identity.",
+      "altKo": "1968~69 공격 → 1969 세 신문사 암호 → 408 해독 → 장기 미해결 신원.",
+      "altEn": "Timeline: 1968–69 attacks → 1969 newspaper ciphers → 408 solution → unresolved identity.",
+      "sourceRefs": [
+        "ZOD_1969",
+        "ZOD_VAULT",
+        "ZOD_1974"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "zodiac-killer__v01__ko.png",
+          "sha256": "9e0787701395e19e9046cd5ec6a95f6da3b3bde18871e6a05b37378a3fa74fa2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "zodiac-killer__v01__en.png",
+          "sha256": "a6806d26118a79968ad90f73f6dd3df6c70e2611f82b577cdfe8e8f8f6d1e014",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "zod-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "범인의 자기주장·경찰귀속 사건·실명확정 실패를 구분.",
+      "captionEn": "Evidence card separating self-claimed crimes, investigator-attributed cases and unresolved identity.",
+      "altKo": "범인의 자기주장·경찰귀속 사건·실명확정 실패를 구분.",
+      "altEn": "Evidence card separating self-claimed crimes, investigator-attributed cases and unresolved identity.",
+      "sourceRefs": [
+        "ZOD_1969",
+        "ZOD_VAULT",
+        "ZOD_1974"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "zodiac-killer__v02__ko.png",
+          "sha256": "fd26f8e4e98088047d9f43d268a9601de7b8d044ed273e66e2a02e86f17d2196",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "zodiac-killer__v02__en.png",
+          "sha256": "b09652d3b66ce6c273cc875e972751334b09130c71b7423ee082abc6bd78c766",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "zod-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "편지·암호·비공개 사건정보·필적비교가 수사에서 맡은 역할.",
+      "captionEn": "Original diagram showing roles of letters, ciphers, non-public crime details and handwriting comparison.",
+      "altKo": "편지·암호·비공개 사건정보·필적비교가 수사에서 맡은 역할.",
+      "altEn": "Original diagram showing roles of letters, ciphers, non-public crime details and handwriting comparison.",
+      "sourceRefs": [
+        "ZOD_1969",
+        "ZOD_VAULT",
+        "ZOD_1974"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "zodiac-killer__v03__ko.png",
+          "sha256": "8775bdaba430a23978f720c58250f1747e5448c57079fa97eafbc24a666c3cd7",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "zodiac-killer__v03__en.png",
+          "sha256": "891e22502ac0d842350d235cccbc2bd4d29af4323a2c3c500c3e5da3f78c772c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "secondaryGenres": [
+      "Codes / Manuscripts / Undeciphered Texts"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Northern California"
+    ],
+    "places": [
+      {
+        "name": "Vallejo",
+        "role": "attack/letter context"
+      },
+      {
+        "name": "San Francisco",
+        "role": "newspaper correspondence context"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "FBI",
+      "local California police agencies"
+    ],
+    "dateRange": {
+      "start": "1968-12-20",
+      "end": "1970s",
+      "precision": "core attributed period and correspondence"
+    },
+    "era": "Late 20th century",
+    "resolution": "OFFENDER_IDENTITY_UNRESOLVED",
+    "searchAliases": [
+      "Zodiac Killer",
+      "Zodiac cipher",
+      "Zodiac letters"
+    ],
+    "relatedCases": [
+      "zodiac-z13-z32"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1737,
+    "enBodyWords": 422,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

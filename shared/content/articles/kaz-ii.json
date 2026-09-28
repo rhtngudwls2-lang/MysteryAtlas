@@ -1,0 +1,386 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "kaz-ii",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Kaz II 유령요트",
+    "canonicalTitleEn": "Kaz II",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "엔진은 돌고 커피도 남았는데 세 사람만 사라진 요트—coroner는 무엇을 재구성했나",
+      "hook": "Kaz II는 “모든 게 멀쩡한데 사람이 증발한 배”로 유명해졌다. 하지만 video, boom, fishing gear, weather를 연결한 coronial reconstruction은 accidental cascade를 가장 유력한 설명으로 만들었다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "2007년 요트는 엔진이 돌고 일상물건이 남은 채 발견됐지만 세 사람은 없었다",
+          "headingEn": "The Yacht Was Found Running With Ordinary Belongings Aboard—but No Crew",
+          "textKo": "Kaz II는 2007년 4월 Airlie Beach를 출항한 ocean-going catamaran으로 Derek Batten, Peter Tunstead, James Tunstead 세 사람이 타고 있었다. Queensland Coroner는 며칠 뒤 vessel이 unoccupied 상태로 drifting 발견됐고 세 사람은 돌아오지 않았다고 기록한다. 커피컵, clothing, fishing gear 같은 일상흔적 때문에 ghost-yacht 이미지가 강해졌지만, coroner finding은 physical evidence를 바탕으로 accident sequence를 재구성했다.",
+          "textEn": "Kaz II left Airlie Beach in April 2007 with Derek Batten, Peter Tunstead and James Tunstead aboard. It was later found drifting and unoccupied, with ordinary belongings still aboard. The eerie scene fed a ghost-yacht image, but the Queensland coroner reconstructed an accidental sequence from the physical evidence."
+        },
+        {
+          "blockId": "video",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "선내 video는 disappearance 직전 세 사람이 정상적으로 활동한 모습을 남겼다",
+          "headingEn": "Onboard Video Preserved the Last Normal Activity",
+          "textKo": "inquest에서는 crew가 disappearance morning에 촬영한 video가 검토됐다. land masses와 vessel behavior가 last-known chronology를 좁히는 데 쓰였고, footage에는 당시까지 명백한 범죄상황이 보이지 않았다. 이 기록은 mystery narrative보다 실제 timeline reconstruction에 더 중요했다.",
+          "textEn": "The inquest examined onboard footage recorded on the morning of the disappearance. Landmarks and vessel behavior helped narrow the timeline, and the footage did not show an obvious criminal crisis at that point."
+        },
+        {
+          "blockId": "coroner",
+          "type": "TURNING_POINT",
+          "headingKo": "coroner는 세 사람이 George Point 부근에서 연쇄적으로 물에 빠졌다는 scenario를 가장 유력하게 봤다",
+          "headingEn": "The Coroner Favored a Cascading Man-Overboard Accident",
+          "textKo": "2008년 coroner Michael Barnes는 한 사람이 fishing lure 문제를 해결하다 물에 빠지고 다른 사람이 rescue를 시도했으며, skipper는 swinging boom 등에 의해 바다에 떨어졌을 가능성을 가장 plausible하게 보았다. life jacket 없이 물에 빠진 뒤 windy/choppy condition에서 moving vessel로 되돌아가기 매우 어려웠다는 판단이었다.",
+          "textEn": "In 2008 Coroner Michael Barnes favored a scenario in which one man fell overboard while dealing with fishing gear, another attempted a rescue, and the skipper was then knocked or fell overboard, leaving all three in the water without life jackets."
+        },
+        {
+          "blockId": "limits",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "coroner reconstruction은 강한 공식결론이지만 매 순간을 직접 본 witness는 없다",
+          "headingEn": "The Official Reconstruction Is Strong but Not Eyewitness-Proven",
+          "textKo": "finding은 foul play evidence가 없고 valuables가 남아 robbery motive도 약하다고 판단했다. 그러나 coroner도 exact sequence에 대해 완전히 definitive할 수 없음을 인정했다. bodies가 발견되지 않았고 direct eyewitness가 없으므로 accident reconstruction은 best-supported scenario이지 frame-by-frame certainty는 아니다.",
+          "textEn": "The finding found no evidence of foul play and valuable items remained aboard, weakening robbery theories. Yet the coroner acknowledged that the exact sequence could not be completely definitive because no direct eyewitness or bodies were recovered."
+        },
+        {
+          "blockId": "lesson",
+          "type": "AFTERMATH",
+          "headingKo": "ghost ship처럼 보여도 vessel state를 읽으면 plausible mechanism이 좁혀진다",
+          "headingEn": "A Ghost-Ship Appearance Can Still Yield a Plausible Physical Sequence",
+          "textKo": "엔진, sail, fishing gear, boom, weather, video, sightings를 따로 보면 이상한 단서처럼 보이지만 한 chronology에 배치하면 accidental cascade가 설명력을 얻는다. 이 사건은 “사람이 사라졌다”라는 결과보다 last-known mechanics를 reconstruct하는 게 얼마나 중요한지 보여준다.",
+          "textEn": "Engine state, sails, fishing gear, boom, weather, video, and sightings become more informative when placed in one chronology, allowing a plausible accidental cascade to emerge."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Kaz II는 2007년 세 사람 없이 drifting 발견됐고 2008 Queensland coronial inquest는 세 사람이 accidental man-overboard sequence 뒤 익사했을 가능성을 가장 높게 판단했다. foul play evidence는 확인되지 않았다.\n\n**확인되지 않음:** exact second-by-second sequence와 각 사람이 물에 빠진 정확한 순서는 직접 목격으로 확정되지 않았다.",
+          "textEn": "**Established:** Kaz II was found drifting without its three occupants, and the 2008 Queensland inquest found a cascading accidental man-overboard scenario leading to drowning the most likely explanation, with no evidence of foul play.\n\n**Not established:** The exact second-by-second sequence and precise order in which each man entered the water were not directly witnessed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Kaz II는 2007년 세 사람 없이 drifting 발견됐고 2008 Queensland coronial inquest는 세 사람이 accidental man-overboard sequence 뒤 익사했을 가능성을 가장 높게 판단했다. foul play evidence는 확인되지 않았다.\n\n**확인되지 않음:** exact second-by-second sequence와 각 사람이 물에 빠진 정확한 순서는 직접 목격으로 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "video",
+        "coroner",
+        "limits",
+        "lesson"
+      ]
+    },
+    "en": {
+      "headline": "The Yacht Was Running and Belongings Remained—What Did the Coroner Reconstruct?",
+      "hook": "Kaz II became famous as a yacht whose people seemed to vanish, but onboard evidence and the coronial reconstruction strongly favored an accidental cascade.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "2007년 요트는 엔진이 돌고 일상물건이 남은 채 발견됐지만 세 사람은 없었다",
+          "headingEn": "The Yacht Was Found Running With Ordinary Belongings Aboard—but No Crew",
+          "textKo": "Kaz II는 2007년 4월 Airlie Beach를 출항한 ocean-going catamaran으로 Derek Batten, Peter Tunstead, James Tunstead 세 사람이 타고 있었다. Queensland Coroner는 며칠 뒤 vessel이 unoccupied 상태로 drifting 발견됐고 세 사람은 돌아오지 않았다고 기록한다. 커피컵, clothing, fishing gear 같은 일상흔적 때문에 ghost-yacht 이미지가 강해졌지만, coroner finding은 physical evidence를 바탕으로 accident sequence를 재구성했다.",
+          "textEn": "Kaz II left Airlie Beach in April 2007 with Derek Batten, Peter Tunstead and James Tunstead aboard. It was later found drifting and unoccupied, with ordinary belongings still aboard. The eerie scene fed a ghost-yacht image, but the Queensland coroner reconstructed an accidental sequence from the physical evidence."
+        },
+        {
+          "blockId": "video",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "선내 video는 disappearance 직전 세 사람이 정상적으로 활동한 모습을 남겼다",
+          "headingEn": "Onboard Video Preserved the Last Normal Activity",
+          "textKo": "inquest에서는 crew가 disappearance morning에 촬영한 video가 검토됐다. land masses와 vessel behavior가 last-known chronology를 좁히는 데 쓰였고, footage에는 당시까지 명백한 범죄상황이 보이지 않았다. 이 기록은 mystery narrative보다 실제 timeline reconstruction에 더 중요했다.",
+          "textEn": "The inquest examined onboard footage recorded on the morning of the disappearance. Landmarks and vessel behavior helped narrow the timeline, and the footage did not show an obvious criminal crisis at that point."
+        },
+        {
+          "blockId": "coroner",
+          "type": "TURNING_POINT",
+          "headingKo": "coroner는 세 사람이 George Point 부근에서 연쇄적으로 물에 빠졌다는 scenario를 가장 유력하게 봤다",
+          "headingEn": "The Coroner Favored a Cascading Man-Overboard Accident",
+          "textKo": "2008년 coroner Michael Barnes는 한 사람이 fishing lure 문제를 해결하다 물에 빠지고 다른 사람이 rescue를 시도했으며, skipper는 swinging boom 등에 의해 바다에 떨어졌을 가능성을 가장 plausible하게 보았다. life jacket 없이 물에 빠진 뒤 windy/choppy condition에서 moving vessel로 되돌아가기 매우 어려웠다는 판단이었다.",
+          "textEn": "In 2008 Coroner Michael Barnes favored a scenario in which one man fell overboard while dealing with fishing gear, another attempted a rescue, and the skipper was then knocked or fell overboard, leaving all three in the water without life jackets."
+        },
+        {
+          "blockId": "limits",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "coroner reconstruction은 강한 공식결론이지만 매 순간을 직접 본 witness는 없다",
+          "headingEn": "The Official Reconstruction Is Strong but Not Eyewitness-Proven",
+          "textKo": "finding은 foul play evidence가 없고 valuables가 남아 robbery motive도 약하다고 판단했다. 그러나 coroner도 exact sequence에 대해 완전히 definitive할 수 없음을 인정했다. bodies가 발견되지 않았고 direct eyewitness가 없으므로 accident reconstruction은 best-supported scenario이지 frame-by-frame certainty는 아니다.",
+          "textEn": "The finding found no evidence of foul play and valuable items remained aboard, weakening robbery theories. Yet the coroner acknowledged that the exact sequence could not be completely definitive because no direct eyewitness or bodies were recovered."
+        },
+        {
+          "blockId": "lesson",
+          "type": "AFTERMATH",
+          "headingKo": "ghost ship처럼 보여도 vessel state를 읽으면 plausible mechanism이 좁혀진다",
+          "headingEn": "A Ghost-Ship Appearance Can Still Yield a Plausible Physical Sequence",
+          "textKo": "엔진, sail, fishing gear, boom, weather, video, sightings를 따로 보면 이상한 단서처럼 보이지만 한 chronology에 배치하면 accidental cascade가 설명력을 얻는다. 이 사건은 “사람이 사라졌다”라는 결과보다 last-known mechanics를 reconstruct하는 게 얼마나 중요한지 보여준다.",
+          "textEn": "Engine state, sails, fishing gear, boom, weather, video, and sightings become more informative when placed in one chronology, allowing a plausible accidental cascade to emerge."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Kaz II는 2007년 세 사람 없이 drifting 발견됐고 2008 Queensland coronial inquest는 세 사람이 accidental man-overboard sequence 뒤 익사했을 가능성을 가장 높게 판단했다. foul play evidence는 확인되지 않았다.\n\n**확인되지 않음:** exact second-by-second sequence와 각 사람이 물에 빠진 정확한 순서는 직접 목격으로 확정되지 않았다.",
+          "textEn": "**Established:** Kaz II was found drifting without its three occupants, and the 2008 Queensland inquest found a cascading accidental man-overboard scenario leading to drowning the most likely explanation, with no evidence of foul play.\n\n**Not established:** The exact second-by-second sequence and precise order in which each man entered the water were not directly witnessed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Kaz II was found drifting without its three occupants, and the 2008 Queensland inquest found a cascading accidental man-overboard scenario leading to drowning the most likely explanation, with no evidence of foul play.\n\n**Not established:** The exact second-by-second sequence and precise order in which each man entered the water were not directly witnessed.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "video",
+        "coroner",
+        "limits",
+        "lesson"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "KAZ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Kaz II는 2007년 세 crew 없이 drifting 발견됐다.",
+      "statementEn": "Kaz II was found drifting in 2007 with all three occupants missing.",
+      "sourceRefs": [
+        "KAZ_CORONER"
+      ]
+    },
+    {
+      "claimId": "KAZ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "coroner는 accidental man-overboard cascade와 drowning을 가장 유력하게 판단했다.",
+      "statementEn": "The coroner favored a cascading man-overboard accident leading to drowning.",
+      "sourceRefs": [
+        "KAZ_CORONER",
+        "KAZ_ABC"
+      ]
+    },
+    {
+      "claimId": "KAZ-C3",
+      "status": "CONFIRMED",
+      "statementKo": "foul play 또는 third-party involvement evidence가 확인되지 않았다.",
+      "statementEn": "No evidence of foul play or third-party involvement was established.",
+      "sourceRefs": [
+        "KAZ_CORONER"
+      ]
+    },
+    {
+      "claimId": "KAZ-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact sequence는 직접 목격으로 확정되지 않았다.",
+      "statementEn": "The exact sequence was not directly witnessed.",
+      "sourceRefs": [
+        "KAZ_CORONER"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "KAZ_CORONER",
+      "title": "Coronial findings — Batten, Tunstead and Tunstead",
+      "publisher": "Queensland Courts, Office of the State Coroner",
+      "url": "https://www.courts.qld.gov.au/__data/assets/pdf_file/0009/86733/cif-tunstead-p-tunstead-j-batten-d-20080808.pdf",
+      "sourceType": "GOVERNMENT_CORONER_FINDING"
+    },
+    {
+      "sourceId": "KAZ_ABC",
+      "title": "Missing catamaran trio likely drowned: coroner",
+      "publisher": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/2008-08-08/missing-catamaran-trio-likely-drowned-coroner/469364",
+      "sourceType": "PUBLIC_BROADCASTER_REPORT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "kaz-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Airlie Beach 출항 → onboard video → probable overboard cascade → yacht 발견 → 2008 inquest.",
+      "captionEn": "Airlie Beach departure → onboard video → probable overboard cascade → yacht found → 2008 inquest.",
+      "altKo": "Airlie Beach 출항 → onboard video → probable overboard cascade → yacht 발견 → 2008 inquest.",
+      "altEn": "Airlie Beach departure → onboard video → probable overboard cascade → yacht found → 2008 inquest.",
+      "sourceRefs": [
+        "KAZ_CORONER",
+        "KAZ_ABC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "kaz-ii__v01__ko.png",
+          "sha256": "6f4ed51564be6f2d011b4a93836f4415ce9f2eb0f4c9ba88dedeb2e719bda78e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "kaz-ii__v01__en.png",
+          "sha256": "35dd68e24b601cb9b1e3945cade53127c9e11fd2e3992107249c5f0cab0adb16",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "kaz-v02",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "accidental cascade와 foul-play/abandonment theories의 evidence 비교.",
+      "captionEn": "Compare accidental cascade with foul-play and voluntary-abandonment theories.",
+      "altKo": "accidental cascade와 foul-play/abandonment theories의 evidence 비교.",
+      "altEn": "Compare accidental cascade with foul-play and voluntary-abandonment theories.",
+      "sourceRefs": [
+        "KAZ_CORONER",
+        "KAZ_ABC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "kaz-ii__v02__ko.png",
+          "sha256": "737dbacb8bb344e764a83e7e2fb54f0c2312f68af8cd478d24b3a80ac28db296",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "kaz-ii__v02__en.png",
+          "sha256": "833ebb68bdca8bdc5af2318515fa6f17cdf2eb8285919cdec4a0a19f7cae9496",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "kaz-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "coroner best-supported reconstruction과 exact sequence uncertainty를 분리.",
+      "captionEn": "Separate the coroner’s best-supported reconstruction from uncertainty about the exact sequence.",
+      "altKo": "coroner best-supported reconstruction과 exact sequence uncertainty를 분리.",
+      "altEn": "Separate the coroner’s best-supported reconstruction from uncertainty about the exact sequence.",
+      "sourceRefs": [
+        "KAZ_CORONER",
+        "KAZ_ABC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "kaz-ii__v03__ko.png",
+          "sha256": "a0c2a13daa32f2c3bf155ae478f8d83c27e4fb4ef0997aba83714b69a4ec91ef",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "kaz-ii__v03__en.png",
+          "sha256": "dbd6fb199760379873baf21e5af4ac7f5c7f1bc83f1360140a30bc4d5ba93e0f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "regions": [
+      "Queensland coast"
+    ],
+    "places": [
+      {
+        "name": "Airlie Beach",
+        "role": "departure"
+      },
+      {
+        "name": "George Point",
+        "role": "probable accident vicinity"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Queensland Coroners Court"
+    ],
+    "dateRange": {
+      "start": "2007-04-15",
+      "end": "2008-08-08",
+      "precision": "voyage through inquest"
+    },
+    "era": "Modern maritime",
+    "resolution": "CORONER_ACCIDENTAL_DROWNING_SCENARIO_STRONGLY_SUPPORTED_EXACT_SEQUENCE_NOT_DIRECTLY_OBSERVED",
+    "searchAliases": [
+      "Kaz II ghost yacht",
+      "Kaz 2"
+    ],
+    "relatedCases": [
+      "mv-joyita",
+      "carroll-a-deering"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1501,
+    "enBodyWords": 238,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

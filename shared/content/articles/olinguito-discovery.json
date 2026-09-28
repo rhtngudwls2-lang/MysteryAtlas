@@ -1,0 +1,389 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "olinguito-discovery",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "올링기토 발견",
+    "canonicalTitleEn": "Olinguito Discovery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "100년 넘게 박물관 서랍에 있던 '새 종'은 어떻게 2013년에야 보였나",
+      "hook": "올링기토는 정글에서 갑자기 튀어나온 미지동물이 아니었다. specimen은 오래 있었지만 잘못 분류됐고, skull·teeth·DNA·fieldwork를 다시 합치자 하나의 species가 드러났다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "새 동물은 정글에서 처음 나타난 게 아니라 박물관 서랍에 100년 넘게 있었다",
+          "headingEn": "The 'New' Animal Had Been Sitting in Museum Drawers for More Than a Century",
+          "textKo": "2013년 Smithsonian team은 Bassaricyon neblina, olinguito를 새 species로 기술했다. 놀라운 점은 animal 자체가 사람에게 처음 나타난 것이 아니라 museum specimen이 이미 20세기 초부터 여러 collection에 있었고, 적어도 한 living individual은 1960~70년대 U.S. zoo에서 다른 species로 잘못 전시됐다는 사실이다. **미스터리는 '숨어 있던 동물'보다 '잘못 분류된 동물'이었다.**",
+          "textEn": "In 2013 a Smithsonian-led team formally described Bassaricyon neblina, the olinguito, as a new species. The surprising part was not that the animal suddenly appeared: museum specimens had existed since the early twentieth century, and at least one living individual had been exhibited in U.S. zoos in the 1960s and 1970s under the wrong identification. The mystery was misclassification as much as concealment."
+        },
+        {
+          "blockId": "museum-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "skull·teeth·fur·DNA를 다시 비교하자 기존 olingo와 반복적으로 달랐다",
+          "headingEn": "Skulls, Teeth, Fur, and DNA Consistently Separated It From Known Olingos",
+          "textKo": "Smithsonian은 comprehensive olingo revision 과정에서 specimen skull과 teeth가 더 작고 형태가 다르며, coat가 더 dense하고 colored하다는 점을 확인했다고 설명한다. 연구팀은 museum specimen, DNA, historic field data를 결합해 하나의 separate lineage라는 evidence를 구축했다. **한 장의 특이사진이 아니라 여러 independent trait가 같은 결론으로 모였다.**",
+          "textEn": "Smithsonian explains that a comprehensive revision of olingos revealed consistently smaller and differently shaped skulls and teeth, along with denser and differently colored fur. Museum specimens, DNA, and historical field data converged on a distinct lineage. The case was built from multiple independent traits, not one unusual photograph."
+        },
+        {
+          "blockId": "field-03",
+          "type": "TURNING_POINT",
+          "headingKo": "museum inference 뒤 field expedition이 wild population을 직접 확인했다",
+          "headingEn": "Fieldwork Then Confirmed Living Populations in the Wild",
+          "textKo": "old specimen의 location data를 이용해 Ecuador·Colombia northern Andes cloud forest를 추적한 field team은 living olinguito를 직접 찾고 behavior·habitat를 기록했다. Smithsonian은 5,000~9,000 feet 고도 cloud forest, nocturnal·arboreal behavior, fruit-heavy diet를 설명한다. **museum taxonomy가 실제 야생동물과 연결되면서 species case가 닫혔다.**",
+          "textEn": "Using locality data from old specimens, field teams searched cloud forests in the northern Andes of Ecuador and Colombia and documented living olinguitos, their behavior, and habitat. Smithsonian describes a nocturnal, arboreal animal inhabiting cloud forest at roughly 5,000–9,000 feet and feeding mainly on fruit. Museum taxonomy was confirmed in the living world."
+        },
+        {
+          "blockId": "lesson-04",
+          "type": "AFTERMATH",
+          "headingKo": "발견은 '미지동물은 오지에만 있다'는 직관을 뒤집었다",
+          "headingEn": "The Discovery Changed the Idea of Where Unknown Species Can Hide",
+          "textKo": "Olinguito는 remote forest에도 살았지만 science에서 놓친 이유에는 collection mislabeling과 taxonomy history가 컸다. Smithsonian은 연구팀이 world olingo specimen의 95% 이상을 검토했다고 설명한다. **새 species 발견은 expedition만이 아니라 archive·museum drawer·DNA reanalysis에서 나올 수 있다.**",
+          "textEn": "Olinguitos do inhabit remote cloud forest, but their long scientific invisibility also reflected collection misidentification and taxonomic history. Smithsonian says the team reviewed more than 95 percent of the world's olingo museum specimens. New species can be discovered in archives, drawers, and DNA datasets as well as expeditions."
+        },
+        {
+          "blockId": "taxonomy-045",
+          "type": "BACKGROUND",
+          "headingKo": "새 종 발견은 '처음 본 동물'보다 species boundary를 다시 그리는 작업일 때가 많다",
+          "headingEn": "A New Species Can Be a New Boundary, Not a First-Ever Sighting",
+          "textKo": "taxonomy에서 discovery는 완전히 처음 본 organism을 뜻하지 않을 수 있다. 기존 collection 안에서 여러 specimen을 다시 비교해 하나의 distinct evolutionary lineage를 분리하는 것도 새 species 기술이다. **Olinguito는 '사람에게 새 동물'보다 'science가 뒤늦게 올바르게 구분한 동물'이라는 표현이 정확하다.**",
+          "textEn": "In taxonomy, discovery does not always mean the first human sighting. Re-examining museum specimens and recognizing a distinct evolutionary lineage can constitute a new species description. Olinguito was new to scientific classification more than new to humanity."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Olinguito(Bassaricyon neblina)는 2013년 formal scientific description이 발표된 실제 new species다. skull·teeth·fur·DNA·museum specimens·field observation이 독립적으로 converged했고 Ecuador·Colombia cloud forest의 living population이 확인됐다.\n\n**확인되지 않음:** 이 사례가 모든 cryptid claim의 실재가능성을 같은 수준으로 높여주는 것은 아니다. Olinguito는 검증가능한 specimen·DNA·field population으로 species status가 확립된 경우다.",
+          "textEn": "**Established:** Olinguito (Bassaricyon neblina) is a real species formally described in 2013, supported by skull, tooth, fur, DNA, museum-specimen, and field evidence, with living populations documented in Ecuadorian and Colombian cloud forests.\n\n**Not established:** This discovery does not raise every cryptid claim to the same evidentiary level. Olinguito status rests on testable specimens, DNA, and field populations."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Olinguito(Bassaricyon neblina)는 2013년 formal scientific description이 발표된 실제 new species다. skull·teeth·fur·DNA·museum specimens·field observation이 독립적으로 converged했고 Ecuador·Colombia cloud forest의 living population이 확인됐다.\n\n**확인되지 않음:** 이 사례가 모든 cryptid claim의 실재가능성을 같은 수준으로 높여주는 것은 아니다. Olinguito는 검증가능한 specimen·DNA·field population으로 species status가 확립된 경우다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "museum-02",
+        "field-03",
+        "lesson-04",
+        "taxonomy-045"
+      ]
+    },
+    "en": {
+      "headline": "How Did a 'New Species' Sit in Museum Drawers for a Century Before 2013?",
+      "hook": "The olinguito did not suddenly appear from nowhere. Specimens had existed for decades under misclassification; skulls, teeth, DNA, and fieldwork finally revealed a distinct species.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "새 동물은 정글에서 처음 나타난 게 아니라 박물관 서랍에 100년 넘게 있었다",
+          "headingEn": "The 'New' Animal Had Been Sitting in Museum Drawers for More Than a Century",
+          "textKo": "2013년 Smithsonian team은 Bassaricyon neblina, olinguito를 새 species로 기술했다. 놀라운 점은 animal 자체가 사람에게 처음 나타난 것이 아니라 museum specimen이 이미 20세기 초부터 여러 collection에 있었고, 적어도 한 living individual은 1960~70년대 U.S. zoo에서 다른 species로 잘못 전시됐다는 사실이다. **미스터리는 '숨어 있던 동물'보다 '잘못 분류된 동물'이었다.**",
+          "textEn": "In 2013 a Smithsonian-led team formally described Bassaricyon neblina, the olinguito, as a new species. The surprising part was not that the animal suddenly appeared: museum specimens had existed since the early twentieth century, and at least one living individual had been exhibited in U.S. zoos in the 1960s and 1970s under the wrong identification. The mystery was misclassification as much as concealment."
+        },
+        {
+          "blockId": "museum-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "skull·teeth·fur·DNA를 다시 비교하자 기존 olingo와 반복적으로 달랐다",
+          "headingEn": "Skulls, Teeth, Fur, and DNA Consistently Separated It From Known Olingos",
+          "textKo": "Smithsonian은 comprehensive olingo revision 과정에서 specimen skull과 teeth가 더 작고 형태가 다르며, coat가 더 dense하고 colored하다는 점을 확인했다고 설명한다. 연구팀은 museum specimen, DNA, historic field data를 결합해 하나의 separate lineage라는 evidence를 구축했다. **한 장의 특이사진이 아니라 여러 independent trait가 같은 결론으로 모였다.**",
+          "textEn": "Smithsonian explains that a comprehensive revision of olingos revealed consistently smaller and differently shaped skulls and teeth, along with denser and differently colored fur. Museum specimens, DNA, and historical field data converged on a distinct lineage. The case was built from multiple independent traits, not one unusual photograph."
+        },
+        {
+          "blockId": "field-03",
+          "type": "TURNING_POINT",
+          "headingKo": "museum inference 뒤 field expedition이 wild population을 직접 확인했다",
+          "headingEn": "Fieldwork Then Confirmed Living Populations in the Wild",
+          "textKo": "old specimen의 location data를 이용해 Ecuador·Colombia northern Andes cloud forest를 추적한 field team은 living olinguito를 직접 찾고 behavior·habitat를 기록했다. Smithsonian은 5,000~9,000 feet 고도 cloud forest, nocturnal·arboreal behavior, fruit-heavy diet를 설명한다. **museum taxonomy가 실제 야생동물과 연결되면서 species case가 닫혔다.**",
+          "textEn": "Using locality data from old specimens, field teams searched cloud forests in the northern Andes of Ecuador and Colombia and documented living olinguitos, their behavior, and habitat. Smithsonian describes a nocturnal, arboreal animal inhabiting cloud forest at roughly 5,000–9,000 feet and feeding mainly on fruit. Museum taxonomy was confirmed in the living world."
+        },
+        {
+          "blockId": "lesson-04",
+          "type": "AFTERMATH",
+          "headingKo": "발견은 '미지동물은 오지에만 있다'는 직관을 뒤집었다",
+          "headingEn": "The Discovery Changed the Idea of Where Unknown Species Can Hide",
+          "textKo": "Olinguito는 remote forest에도 살았지만 science에서 놓친 이유에는 collection mislabeling과 taxonomy history가 컸다. Smithsonian은 연구팀이 world olingo specimen의 95% 이상을 검토했다고 설명한다. **새 species 발견은 expedition만이 아니라 archive·museum drawer·DNA reanalysis에서 나올 수 있다.**",
+          "textEn": "Olinguitos do inhabit remote cloud forest, but their long scientific invisibility also reflected collection misidentification and taxonomic history. Smithsonian says the team reviewed more than 95 percent of the world's olingo museum specimens. New species can be discovered in archives, drawers, and DNA datasets as well as expeditions."
+        },
+        {
+          "blockId": "taxonomy-045",
+          "type": "BACKGROUND",
+          "headingKo": "새 종 발견은 '처음 본 동물'보다 species boundary를 다시 그리는 작업일 때가 많다",
+          "headingEn": "A New Species Can Be a New Boundary, Not a First-Ever Sighting",
+          "textKo": "taxonomy에서 discovery는 완전히 처음 본 organism을 뜻하지 않을 수 있다. 기존 collection 안에서 여러 specimen을 다시 비교해 하나의 distinct evolutionary lineage를 분리하는 것도 새 species 기술이다. **Olinguito는 '사람에게 새 동물'보다 'science가 뒤늦게 올바르게 구분한 동물'이라는 표현이 정확하다.**",
+          "textEn": "In taxonomy, discovery does not always mean the first human sighting. Re-examining museum specimens and recognizing a distinct evolutionary lineage can constitute a new species description. Olinguito was new to scientific classification more than new to humanity."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Olinguito(Bassaricyon neblina)는 2013년 formal scientific description이 발표된 실제 new species다. skull·teeth·fur·DNA·museum specimens·field observation이 독립적으로 converged했고 Ecuador·Colombia cloud forest의 living population이 확인됐다.\n\n**확인되지 않음:** 이 사례가 모든 cryptid claim의 실재가능성을 같은 수준으로 높여주는 것은 아니다. Olinguito는 검증가능한 specimen·DNA·field population으로 species status가 확립된 경우다.",
+          "textEn": "**Established:** Olinguito (Bassaricyon neblina) is a real species formally described in 2013, supported by skull, tooth, fur, DNA, museum-specimen, and field evidence, with living populations documented in Ecuadorian and Colombian cloud forests.\n\n**Not established:** This discovery does not raise every cryptid claim to the same evidentiary level. Olinguito status rests on testable specimens, DNA, and field populations."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Olinguito (Bassaricyon neblina) is a real species formally described in 2013, supported by skull, tooth, fur, DNA, museum-specimen, and field evidence, with living populations documented in Ecuadorian and Colombian cloud forests.\n\n**Not established:** This discovery does not raise every cryptid claim to the same evidentiary level. Olinguito status rests on testable specimens, DNA, and field populations.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "museum-02",
+        "field-03",
+        "lesson-04",
+        "taxonomy-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "OLI-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Bassaricyon neblina는 2013년 새 species로 formal description됐다.",
+      "statementEn": "Bassaricyon neblina was formally described as a new species in 2013.",
+      "sourceRefs": [
+        "OLI_SMITH2013",
+        "OLI_FACT"
+      ]
+    },
+    {
+      "claimId": "OLI-C2",
+      "status": "CONFIRMED",
+      "statementKo": "museum specimen은 100년 넘게 잘못분류된 채 존재했고 zoo living animal도 오동정 사례가 있었다.",
+      "statementEn": "Museum specimens had existed for more than a century under misclassification, and at least one living zoo animal was misidentified.",
+      "sourceRefs": [
+        "OLI_SMITH2013"
+      ]
+    },
+    {
+      "claimId": "OLI-C3",
+      "status": "CONFIRMED",
+      "statementKo": "DNA·morphology·field observation이 separate species 결론을 함께 지지했다.",
+      "statementEn": "DNA, morphology, and field observations converged on a distinct species.",
+      "sourceRefs": [
+        "OLI_SMITH2013"
+      ]
+    },
+    {
+      "claimId": "OLI-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Olinguito discovery가 모든 cryptid claim을 자동으로 지지하지는 않는다.",
+      "statementEn": "The olinguito discovery does not automatically validate other cryptid claims.",
+      "sourceRefs": [
+        "OLI_SMITH2013",
+        "OLI_FACT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "OLI_SMITH2013",
+      "title": "Smithsonian Scientists Discover New Species of Carnivore",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/newsdesk/releases/smithsonian-scientists-discover-new-species-carnivore",
+      "sourceType": "SMITHSONIAN_OFFICIAL"
+    },
+    {
+      "sourceId": "OLI_FACT",
+      "title": "Olinguito Fact Sheet",
+      "publisher": "Smithsonian Institution",
+      "url": "https://www.si.edu/newsdesk/factsheets/olinguito-0",
+      "sourceType": "SMITHSONIAN_FACTSHEET"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "oli-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "20세기초 specimen → zoo misidentification → museum revision/DNA → fieldwork → 2013 formal description.",
+      "captionEn": "Early specimens → zoo misidentification → museum/DNA revision → fieldwork → 2013 description.",
+      "altKo": "20세기초 specimen → zoo misidentification → museum revision/DNA → fieldwork → 2013 formal description.",
+      "altEn": "Early specimens → zoo misidentification → museum/DNA revision → fieldwork → 2013 description.",
+      "sourceRefs": [
+        "OLI_SMITH2013",
+        "OLI_FACT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "olinguito-discovery__v01__ko.png",
+          "sha256": "27c4cbf7d74604079bbff5fd4000cf300d8fb6ecaa2010fac0cb118d309ab3cf",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "olinguito-discovery__v01__en.png",
+          "sha256": "f75155a0dbaa145c40d7e28b12649a23fde6d218b0341360bdfe0265b423b2e6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "oli-v02",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "skull·teeth·fur·DNA·field observation이 species identification으로 converging하는 구조.",
+      "captionEn": "How skull, teeth, fur, DNA, and field observations converge on species identification.",
+      "altKo": "skull·teeth·fur·DNA·field observation이 species identification으로 converging하는 구조.",
+      "altEn": "How skull, teeth, fur, DNA, and field observations converge on species identification.",
+      "sourceRefs": [
+        "OLI_SMITH2013",
+        "OLI_FACT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "olinguito-discovery__v02__ko.png",
+          "sha256": "141dd578e1e121a7fd3067963fefcca31a8cbff51909f4fdee4c0fdae067f744",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "olinguito-discovery__v02__en.png",
+          "sha256": "e58a91e3e4dee06c540799f8bf92b0f933ac1d680157e56f2a6f44df1b702116",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "oli-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "new-to-science / new-to-humanity / cryptid analogy를 분리.",
+      "captionEn": "Separate new-to-science, new-to-humanity, and cryptid analogies.",
+      "altKo": "new-to-science / new-to-humanity / cryptid analogy를 분리.",
+      "altEn": "Separate new-to-science, new-to-humanity, and cryptid analogies.",
+      "sourceRefs": [
+        "OLI_SMITH2013",
+        "OLI_FACT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "olinguito-discovery__v03__ko.png",
+          "sha256": "bf4442a350a822fb9974aa19b5422410566152d64fa579acc156e546f75a2eb5",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "olinguito-discovery__v03__en.png",
+          "sha256": "7ad9e535882bb6b37732309eb47eee4b0ae27f1c3d0b386210710bc35b896d30",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Discovery / Taxonomy",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "Ecuador",
+      "Colombia"
+    ],
+    "regions": [
+      "Northern Andes cloud forests"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Kristofer Helgen",
+        "role": "Smithsonian research lead"
+      },
+      {
+        "name": "Roland Kays",
+        "role": "field research collaborator"
+      }
+    ],
+    "organizations": [
+      "Smithsonian National Museum of Natural History"
+    ],
+    "dateRange": {
+      "start": "early 20th century specimens",
+      "end": "2013",
+      "precision": "misclassified specimens through formal description"
+    },
+    "era": "Modern zoology",
+    "resolution": "NEW_SPECIES_CONFIRMED_MISCLASSIFICATION_EXPLAINED",
+    "searchAliases": [
+      "olinguito",
+      "Bassaricyon neblina"
+    ],
+    "relatedCases": [
+      "coelacanth-rediscovery"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1669,
+    "enBodyWords": 310,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

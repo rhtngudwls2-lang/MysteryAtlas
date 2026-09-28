@@ -1,0 +1,374 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "coelacanth-rediscovery",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "실러캔스 재발견",
+    "canonicalTitleEn": "Coelacanth Rediscovery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘6,500만 년 전에 멸종했다던 물고기’는 어떻게 1938년에 다시 나타났나",
+      "hook": "1938년 표본 하나는 고생물학의 상식을 뒤집었다. 하지만 진짜 교훈은 ‘모든 멸종생물이 숨어 있다’가 아니라, 깊은 바다의 표본편향과 ‘living fossil’이라는 표현을 얼마나 조심해 써야 하는가에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1938년 어시장 같은 트롤 어획물 속에서 ‘멸종한 물고기’가 나왔다",
+          "headingEn": "In 1938, a Fish Thought Gone for Tens of Millions of Years Appeared in a Trawl Catch",
+          "textKo": "1938년 남아프리카 East London에서 박물관 큐레이터 Marjorie Courtenay-Latimer는 어선의 어획물에서 낯선 푸른 물고기를 발견했다. 이후 J.L.B. Smith가 살아 있는 coelacanth 계통으로 확인했고 Latimeria chalumnae라는 이름이 붙었다. Smithsonian은 당시 coelacanth가 약 6,500만 년 전 이후 사라진 것으로 여겨졌다고 정리한다. **‘화석으로만 알던 계통이 살아 있었다’는 핵심사건은 실제 표본에서 출발한다.**",
+          "textEn": "In 1938, East London Museum curator Marjorie Courtenay-Latimer noticed an unusual blue fish in a trawler’s catch off South Africa. J.L.B. Smith later identified it as a living coelacanth lineage, named Latimeria chalumnae. Smithsonian notes that coelacanths were then believed to have vanished around 65 million years earlier. The dramatic rediscovery begins with a real specimen."
+        },
+        {
+          "blockId": "not-same-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘공룡시대와 똑같은 물고기’라는 표현은 너무 단순하다",
+          "headingEn": "A “Living Fossil” Is Not an Animal Frozen Unchanged in Time",
+          "textKo": "Coelacanth 계통의 화석은 약 4억 년 전 Devonian까지 올라가지만 오늘날 Latimeria가 옛 화석종과 완전히 같은 종이라는 뜻은 아니다. Smithsonian은 과거 coelacanth 그룹이 약 90종 규모로 훨씬 다양했고, 현재 살아 있는 것은 별도 Latimeria 계통의 두 알려진 종이라고 설명한다. **오래된 계통이 살아남았다는 것과 수천만 년 동안 진화하지 않았다는 것은 다른 주장**이다.",
+          "textEn": "Coelacanth fossils extend back to the Devonian, roughly 420 million years ago, but living Latimeria is not identical to every ancient fossil species. Smithsonian describes a historically diverse group with around ninety valid fossil species, while only two living Latimeria species are known today. Survival of an ancient lineage does not mean evolutionary stasis for hundreds of millions of years."
+        },
+        {
+          "blockId": "distribution-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "재발견 뒤에는 Comoros와 인도네시아에서 실제 개체군이 확인됐다",
+          "headingEn": "After the Rediscovery, Living Populations Were Documented in the Comoros and Indonesia",
+          "textKo": "1938년 표본 이후 Comoros Islands에서 지속적으로 살아 있는 coelacanth가 확인됐고, 1990년대 후반에는 인도네시아 Sulawesi에서도 별도 살아 있는 종이 확인됐다. Smithsonian은 오늘날 두 known living species를 인정한다. **1938년 한 마리가 우연한 ‘마지막 생존자’가 아니라, 사람 눈에 거의 띄지 않는 깊은 바다 생태계에 실제 번식계통이 남아 있었던 것**이다.",
+          "textEn": "After the 1938 specimen, living coelacanths were repeatedly documented around the Comoros Islands, and in the late 1990s a distinct living species was identified in Indonesian waters near Sulawesi. Smithsonian recognizes two living species today. The 1938 fish was not simply one miraculous final survivor; viable lineages persisted in deep-water habitats rarely encountered by people."
+        },
+        {
+          "blockId": "lesson-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "실러캔스 재발견이 ‘모든 멸종생물도 숨어 있을 수 있다’는 증거는 아니다",
+          "headingEn": "Coelacanth Rediscovery Does Not Prove That Any Extinct Giant Could Still Be Hiding",
+          "textKo": "실러캔스는 cryptid·미확인생물 논쟁에서 자주 ‘과학도 틀렸다’는 사례로 호출된다. 실제로 이 발견은 탐사되지 않은 서식지에서 알려지지 않은 생존계통이 발견될 수 있음을 보여준다. 그러나 coelacanth는 중간 크기의 심해어이고, 발견 뒤 사체·표본·영상·번식집단이 반복확인됐다. **한 재발견이 megalodon이나 다른 거대동물의 현대생존을 자동으로 지지하지는 않는다. 각 종이 남겨야 할 증거량이 다르다.**",
+          "textEn": "Coelacanths are often invoked in cryptid arguments as proof that science can miss surviving lineages. The rediscovery does show that poorly sampled habitats can hide real animals. But coelacanths are deep-water fish, and after discovery they produced repeated specimens, observations and populations. One rediscovery does not automatically support survival of megalodon or other large extinct animals; expected evidence differs by species."
+        },
+        {
+          "blockId": "ecology-045",
+          "type": "BACKGROUND",
+          "headingKo": "사람 눈에 잘 띄지 않았던 이유는 실제 서식깊이와 행동에서도 보인다",
+          "headingEn": "Its Habitat Helps Explain Why the Lineage Avoided Detection",
+          "textKo": "현대 Latimeria는 주로 깊은 ‘twilight zone’ 수심의 가파른 암벽·동굴 주변에서 낮을 보내고 밤에 먹이를 찾아 움직인다. Smithsonian은 Comoros 개체들이 해저 lava cave에 모이는 행동을 설명한다. 이런 생태는 상업어업·얕은 연안관찰에서 쉽게 놓칠 수 있는 조건이다. **재발견은 ‘과학이 화석만 보고 무시했다’보다 사람이 거의 샘플링하지 않던 서식지에 살아 있었던 사례로 보는 편이 정확하다.**",
+          "textEn": "Living Latimeria typically occupy deep twilight-zone waters near steep rocky slopes and caves, resting by day and moving out to feed at night. Smithsonian describes Comoran animals clustering in submarine lava caves. Such ecology helps explain how a real lineage could remain poorly sampled by ordinary shallow-water observation and fishing."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1938년 South Africa 인근에서 살아 있는 Latimeria chalumnae 표본이 발견돼 coelacanth 계통의 현대생존이 확인됐다. 이후 Comoros·동아프리카와 인도네시아에서 살아 있는 개체·개체군이 확인됐고 현재 두 living species가 알려져 있다.\n\n**확인되지 않음:** 현대 coelacanth가 고대 화석종과 완전히 동일해 ‘진화하지 않은 물고기’라는 표현은 부정확하다. 실러캔스 재발견이 다른 모든 멸종종의 현대생존 가능성을 같은 수준으로 지지하는 것도 아니다.",
+          "textEn": "**Established:** A living Latimeria chalumnae specimen was discovered off South Africa in 1938, confirming modern survival of the coelacanth lineage. Living populations were later documented around the Comoros/east African region and Indonesia, and two living species are recognized today.\n\n**Not established:** Modern coelacanths are not literally unchanged copies of ancient fossil species. Their rediscovery also does not give equal support to modern-survival claims for every other extinct animal."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1938년 South Africa 인근에서 살아 있는 Latimeria chalumnae 표본이 발견돼 coelacanth 계통의 현대생존이 확인됐다. 이후 Comoros·동아프리카와 인도네시아에서 살아 있는 개체·개체군이 확인됐고 현재 두 living species가 알려져 있다.\n\n**확인되지 않음:** 현대 coelacanth가 고대 화석종과 완전히 동일해 ‘진화하지 않은 물고기’라는 표현은 부정확하다. 실러캔스 재발견이 다른 모든 멸종종의 현대생존 가능성을 같은 수준으로 지지하는 것도 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "not-same-02",
+        "distribution-03",
+        "lesson-04",
+        "ecology-045"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Fish Thought Extinct for 65 Million Years Turn Up Alive in 1938?",
+      "hook": "One specimen in 1938 overturned assumptions about a lineage thought long gone. The lesson is not that every extinct animal may still hide, but that sampling gaps—and the phrase 'living fossil'—need careful interpretation.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1938년 어시장 같은 트롤 어획물 속에서 ‘멸종한 물고기’가 나왔다",
+          "headingEn": "In 1938, a Fish Thought Gone for Tens of Millions of Years Appeared in a Trawl Catch",
+          "textKo": "1938년 남아프리카 East London에서 박물관 큐레이터 Marjorie Courtenay-Latimer는 어선의 어획물에서 낯선 푸른 물고기를 발견했다. 이후 J.L.B. Smith가 살아 있는 coelacanth 계통으로 확인했고 Latimeria chalumnae라는 이름이 붙었다. Smithsonian은 당시 coelacanth가 약 6,500만 년 전 이후 사라진 것으로 여겨졌다고 정리한다. **‘화석으로만 알던 계통이 살아 있었다’는 핵심사건은 실제 표본에서 출발한다.**",
+          "textEn": "In 1938, East London Museum curator Marjorie Courtenay-Latimer noticed an unusual blue fish in a trawler’s catch off South Africa. J.L.B. Smith later identified it as a living coelacanth lineage, named Latimeria chalumnae. Smithsonian notes that coelacanths were then believed to have vanished around 65 million years earlier. The dramatic rediscovery begins with a real specimen."
+        },
+        {
+          "blockId": "not-same-02",
+          "type": "BACKGROUND",
+          "headingKo": "‘공룡시대와 똑같은 물고기’라는 표현은 너무 단순하다",
+          "headingEn": "A “Living Fossil” Is Not an Animal Frozen Unchanged in Time",
+          "textKo": "Coelacanth 계통의 화석은 약 4억 년 전 Devonian까지 올라가지만 오늘날 Latimeria가 옛 화석종과 완전히 같은 종이라는 뜻은 아니다. Smithsonian은 과거 coelacanth 그룹이 약 90종 규모로 훨씬 다양했고, 현재 살아 있는 것은 별도 Latimeria 계통의 두 알려진 종이라고 설명한다. **오래된 계통이 살아남았다는 것과 수천만 년 동안 진화하지 않았다는 것은 다른 주장**이다.",
+          "textEn": "Coelacanth fossils extend back to the Devonian, roughly 420 million years ago, but living Latimeria is not identical to every ancient fossil species. Smithsonian describes a historically diverse group with around ninety valid fossil species, while only two living Latimeria species are known today. Survival of an ancient lineage does not mean evolutionary stasis for hundreds of millions of years."
+        },
+        {
+          "blockId": "distribution-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "재발견 뒤에는 Comoros와 인도네시아에서 실제 개체군이 확인됐다",
+          "headingEn": "After the Rediscovery, Living Populations Were Documented in the Comoros and Indonesia",
+          "textKo": "1938년 표본 이후 Comoros Islands에서 지속적으로 살아 있는 coelacanth가 확인됐고, 1990년대 후반에는 인도네시아 Sulawesi에서도 별도 살아 있는 종이 확인됐다. Smithsonian은 오늘날 두 known living species를 인정한다. **1938년 한 마리가 우연한 ‘마지막 생존자’가 아니라, 사람 눈에 거의 띄지 않는 깊은 바다 생태계에 실제 번식계통이 남아 있었던 것**이다.",
+          "textEn": "After the 1938 specimen, living coelacanths were repeatedly documented around the Comoros Islands, and in the late 1990s a distinct living species was identified in Indonesian waters near Sulawesi. Smithsonian recognizes two living species today. The 1938 fish was not simply one miraculous final survivor; viable lineages persisted in deep-water habitats rarely encountered by people."
+        },
+        {
+          "blockId": "lesson-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "실러캔스 재발견이 ‘모든 멸종생물도 숨어 있을 수 있다’는 증거는 아니다",
+          "headingEn": "Coelacanth Rediscovery Does Not Prove That Any Extinct Giant Could Still Be Hiding",
+          "textKo": "실러캔스는 cryptid·미확인생물 논쟁에서 자주 ‘과학도 틀렸다’는 사례로 호출된다. 실제로 이 발견은 탐사되지 않은 서식지에서 알려지지 않은 생존계통이 발견될 수 있음을 보여준다. 그러나 coelacanth는 중간 크기의 심해어이고, 발견 뒤 사체·표본·영상·번식집단이 반복확인됐다. **한 재발견이 megalodon이나 다른 거대동물의 현대생존을 자동으로 지지하지는 않는다. 각 종이 남겨야 할 증거량이 다르다.**",
+          "textEn": "Coelacanths are often invoked in cryptid arguments as proof that science can miss surviving lineages. The rediscovery does show that poorly sampled habitats can hide real animals. But coelacanths are deep-water fish, and after discovery they produced repeated specimens, observations and populations. One rediscovery does not automatically support survival of megalodon or other large extinct animals; expected evidence differs by species."
+        },
+        {
+          "blockId": "ecology-045",
+          "type": "BACKGROUND",
+          "headingKo": "사람 눈에 잘 띄지 않았던 이유는 실제 서식깊이와 행동에서도 보인다",
+          "headingEn": "Its Habitat Helps Explain Why the Lineage Avoided Detection",
+          "textKo": "현대 Latimeria는 주로 깊은 ‘twilight zone’ 수심의 가파른 암벽·동굴 주변에서 낮을 보내고 밤에 먹이를 찾아 움직인다. Smithsonian은 Comoros 개체들이 해저 lava cave에 모이는 행동을 설명한다. 이런 생태는 상업어업·얕은 연안관찰에서 쉽게 놓칠 수 있는 조건이다. **재발견은 ‘과학이 화석만 보고 무시했다’보다 사람이 거의 샘플링하지 않던 서식지에 살아 있었던 사례로 보는 편이 정확하다.**",
+          "textEn": "Living Latimeria typically occupy deep twilight-zone waters near steep rocky slopes and caves, resting by day and moving out to feed at night. Smithsonian describes Comoran animals clustering in submarine lava caves. Such ecology helps explain how a real lineage could remain poorly sampled by ordinary shallow-water observation and fishing."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1938년 South Africa 인근에서 살아 있는 Latimeria chalumnae 표본이 발견돼 coelacanth 계통의 현대생존이 확인됐다. 이후 Comoros·동아프리카와 인도네시아에서 살아 있는 개체·개체군이 확인됐고 현재 두 living species가 알려져 있다.\n\n**확인되지 않음:** 현대 coelacanth가 고대 화석종과 완전히 동일해 ‘진화하지 않은 물고기’라는 표현은 부정확하다. 실러캔스 재발견이 다른 모든 멸종종의 현대생존 가능성을 같은 수준으로 지지하는 것도 아니다.",
+          "textEn": "**Established:** A living Latimeria chalumnae specimen was discovered off South Africa in 1938, confirming modern survival of the coelacanth lineage. Living populations were later documented around the Comoros/east African region and Indonesia, and two living species are recognized today.\n\n**Not established:** Modern coelacanths are not literally unchanged copies of ancient fossil species. Their rediscovery also does not give equal support to modern-survival claims for every other extinct animal."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** A living Latimeria chalumnae specimen was discovered off South Africa in 1938, confirming modern survival of the coelacanth lineage. Living populations were later documented around the Comoros/east African region and Indonesia, and two living species are recognized today.\n\n**Not established:** Modern coelacanths are not literally unchanged copies of ancient fossil species. Their rediscovery also does not give equal support to modern-survival claims for every other extinct animal.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "not-same-02",
+        "distribution-03",
+        "lesson-04",
+        "ecology-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "COE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1938년 South Africa 인근에서 살아 있는 coelacanth가 재발견됐다.",
+      "statementEn": "A living coelacanth was rediscovered off South Africa in 1938.",
+      "sourceRefs": [
+        "COE_SMITH",
+        "COE_ELM"
+      ]
+    },
+    {
+      "claimId": "COE-C2",
+      "status": "CONFIRMED",
+      "statementKo": "현재 두 living Latimeria species가 알려져 있다.",
+      "statementEn": "Two living Latimeria species are known today.",
+      "sourceRefs": [
+        "COE_SMITH"
+      ]
+    },
+    {
+      "claimId": "COE-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "실러캔스가 수천만 년 동안 전혀 진화하지 않았다는 표현은 정확하지 않다.",
+      "statementEn": "It is not accurate to say living coelacanths remained completely unchanged for tens of millions of years.",
+      "sourceRefs": [
+        "COE_SMITH"
+      ]
+    },
+    {
+      "claimId": "COE-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "실러캔스 재발견이 다른 모든 멸종거대동물의 현대생존을 지지하지는 않는다.",
+      "statementEn": "Coelacanth rediscovery does not establish modern survival of other extinct giant animals.",
+      "sourceRefs": [
+        "COE_SMITH"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "COE_SMITH",
+      "title": "Coelacanth",
+      "publisher": "Smithsonian Ocean / National Museum of Natural History",
+      "url": "https://ocean.si.edu/ocean-life/fish/coelacanth",
+      "sourceType": "NATIONAL_MUSEUM_SCIENCE"
+    },
+    {
+      "sourceId": "COE_ELM",
+      "title": "East London Museum — coelacanth rediscovery",
+      "publisher": "East London Museum",
+      "url": "https://elmuseum.za.org/about-us/",
+      "sourceType": "DISCOVERY_CUSTODIAN_MUSEUM"
+    },
+    {
+      "sourceId": "COE_SIA",
+      "title": "Coelacanth Fish, NMNH",
+      "publisher": "Smithsonian Institution Archives",
+      "url": "https://www.si.edu/object/siris_arc_402414",
+      "sourceType": "MUSEUM_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "coe-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "화석계통 → 1938 South Africa 재발견 → Comoros 확인 → 1990년대 Indonesia 별도종.",
+      "captionEn": "Fossil lineage → 1938 South Africa rediscovery → Comoros populations → 1990s Indonesian species.",
+      "altKo": "화석계통 → 1938 South Africa 재발견 → Comoros 확인 → 1990년대 Indonesia 별도종.",
+      "altEn": "Fossil lineage → 1938 South Africa rediscovery → Comoros populations → 1990s Indonesian species.",
+      "sourceRefs": [
+        "COE_SMITH",
+        "COE_ELM"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "coelacanth-rediscovery__v01__ko.png",
+          "sha256": "bb2b236823c21671c6fecbd5c301918730d125605d1283b4179970760289d90f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "coelacanth-rediscovery__v01__en.png",
+          "sha256": "07ee695e76b456610bab21cb84cb4a6b895fad32a91013593d7501380123bd77",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "coe-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘living fossil’이 뜻하는 것과 뜻하지 않는 것을 구분.",
+      "captionEn": "Evidence card explaining what 'living fossil' does and does not mean.",
+      "altKo": "‘living fossil’이 뜻하는 것과 뜻하지 않는 것을 구분.",
+      "altEn": "Evidence card explaining what 'living fossil' does and does not mean.",
+      "sourceRefs": [
+        "COE_SMITH",
+        "COE_ELM"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "coelacanth-rediscovery__v02__ko.png",
+          "sha256": "3702b5016f78a74efb6680257f21b75aa3cad9bad06e150cd7e04f6521097e26",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "coelacanth-rediscovery__v02__en.png",
+          "sha256": "70ef2f896c965f9671e54142e7e13d2f954643df41e2c5ed92b5d1b3b95edd9b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "South Africa",
+      "Comoros",
+      "Indonesia"
+    ],
+    "regions": [
+      "Western Indian Ocean / Sulawesi"
+    ],
+    "places": [
+      {
+        "name": "East London, South Africa",
+        "role": "1938 discovery context"
+      },
+      {
+        "name": "Comoros Islands",
+        "role": "living population region"
+      },
+      {
+        "name": "Sulawesi",
+        "role": "Indonesian living species region"
+      }
+    ],
+    "people": [
+      {
+        "name": "Marjorie Courtenay-Latimer",
+        "role": "1938 discoverer"
+      },
+      {
+        "name": "J. L. B. Smith",
+        "role": "taxonomic identification"
+      }
+    ],
+    "organizations": [
+      "East London Museum",
+      "Smithsonian Institution"
+    ],
+    "dateRange": {
+      "start": "1938",
+      "end": "present",
+      "precision": "modern rediscovery and living-species research"
+    },
+    "era": "Modern zoology",
+    "resolution": "REDISCOVERY_CONFIRMED_LINEAGE_SURVIVES",
+    "searchAliases": [
+      "coelacanth rediscovery",
+      "Latimeria chalumnae",
+      "living fossil fish"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1521,
+    "enBodyWords": 353,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

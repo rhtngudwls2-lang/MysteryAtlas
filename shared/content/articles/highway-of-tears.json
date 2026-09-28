@@ -1,0 +1,380 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "highway-of-tears",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Highway of Tears / Project E-PANA",
+    "canonicalTitleEn": "Highway of Tears / Project E-PANA",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "18건을 묶어 수사했다고 해서 한 명의 연쇄살인범 사건이 되는 것은 아니다",
+      "hook": "E-PANA는 실제 RCMP 프로젝트지만 하나의 사건이 아니다. 일부는 해결됐고 일부는 남았다. 가장 중요한 경계는 '같은 corridor의 문제'와 '같은 offender'를 혼동하지 않는 것이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "하나의 사건이 아니라 여러 여성 실종·살해사건을 묶어 재검토한 프로젝트다",
+          "headingEn": "This Is Not One Case but a Project Reviewing Multiple Missing-and-Murdered-Women Investigations",
+          "textKo": "RCMP는 2005년 Project E-PANA를 만들어 British Columbia 주요 highway와 연관된 여성 실종·살해사건을 재검토했다. 2007년까지 project scope는 18건으로 확대됐고 13건 homicide, 5건 missing-person investigation으로 분류됐다. **'Highway of Tears'는 하나의 동일범 사건명이 아니라 서로 다른 case들을 묶어 수사한 틀**이다.",
+          "textEn": "The RCMP created Project E-PANA in 2005 to review cases of missing and murdered women associated with major highways in British Columbia. By 2007 the scope had expanded to 18 cases: 13 homicides and five missing-person investigations. 'Highway of Tears' is therefore not a single proven-offender case but a framework spanning multiple investigations."
+        },
+        {
+          "blockId": "geography-02",
+          "type": "BACKGROUND",
+          "headingKo": "긴 highway corridor와 sparse transportation environment가 vulnerability context를 만든다",
+          "headingEn": "A Long Highway Corridor and Sparse Transportation Environment Create Vulnerability",
+          "textKo": "Northern British Columbia의 장거리 highway, 작은 communities, limited public transportation, hitchhiking exposure는 cases를 이해하는 important context다. RCMP national initiatives는 Indigenous women and girls에 대한 violence 문제와 community safety를 더 넓은 구조적 맥락에서 다룬다. **그러나 vulnerability context가 특정 사건의 offender identity를 직접 알려주지는 않는다.**",
+          "textEn": "Long-distance highways, small communities, limited public transportation, and hitchhiking exposure in northern British Columbia form an important vulnerability context. RCMP national initiatives also address violence against Indigenous women and girls as a broader structural and community-safety issue. Context does not itself identify an offender in a specific case."
+        },
+        {
+          "blockId": "cases-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "일부 사건은 해결됐고 일부는 남았다—그래서 동일범 가설은 자동결론이 아니다",
+          "headingEn": "Some Cases Were Solved and Others Remain Open, So a Single-Offender Theory Is Not Automatic",
+          "textKo": "Project E-PANA에 포함된 일부 individual case는 후대 DNA·수사로 해결됐지만 다른 case는 unresolved로 남았다. **각 사건의 date, location, victim circumstance, forensic evidence가 다르기 때문에 project inclusion을 동일한 offender의 증거로 읽으면 안 된다.**",
+          "textEn": "Some individual E-PANA cases were later solved through investigation or DNA evidence while others remain unresolved. Dates, locations, victim circumstances, and forensic records differ, so inclusion in one project must not be treated as proof of one common offender."
+        },
+        {
+          "blockId": "indigenous-04",
+          "type": "AFTERMATH",
+          "headingKo": "사건군은 Missing and Murdered Indigenous Women and Girls 문제와도 겹친다",
+          "headingEn": "The Case Group Overlaps With the Broader Missing and Murdered Indigenous Women and Girls Crisis",
+          "textKo": "피해자 중 Indigenous women이 포함돼 있고 RCMP는 national scan에서 Indigenous women and girls에 대한 violence response, policing partnership, prevention initiatives를 다룬다. **개별 criminal mystery와 systemic safety issue를 둘 다 봐야 하지만, 한쪽으로 다른 쪽을 지우면 안 된다.**",
+          "textEn": "Indigenous women are among the victims, and RCMP national material addresses broader responses to violence against Indigenous women and girls, policing partnerships, and prevention. The individual criminal mysteries and the systemic safety issue both matter and should not be collapsed into each other."
+        },
+        {
+          "blockId": "serial-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "'한 명의 연쇄살인범'이라는 대중적 단순화는 공식결론이 아니다",
+          "headingEn": "The Popular 'One Serial Killer' Simplification Is Not the Official Conclusion",
+          "textKo": "18건을 하나의 project로 묶었다는 사실 때문에 single serial killer narrative가 쉽게 만들어진다. 그러나 RCMP 공식기록은 각 case를 별도 investigation으로 관리하며 일부는 서로 다른 offender가 확인된 경우도 있다. **project-level pattern recognition과 offender-level linkage는 다른 증거수준이다.**",
+          "textEn": "Grouping 18 cases in one project naturally encourages a single-serial-killer narrative. But RCMP records treat the cases as individual investigations, and some solved cases involve different offenders. Project-level pattern recognition is not the same as offender-level linkage."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** RCMP Project E-PANA는 18건의 highway-associated women missing/homicide cases를 재검토했고, 일부 individual cases는 해결됐으며 일부는 unresolved다. Indigenous women and girls에 대한 broader violence/safety issue와도 중요한 접점이 있다.\n\n**확인되지 않음:** 18건 모두가 한 명의 동일한 serial offender에게 연결된다는 공식결론은 없다. 각 unresolved case의 offender identity도 별도증거 없이는 확정할 수 없다.",
+          "textEn": "**Established:** RCMP Project E-PANA reviewed 18 highway-associated missing/homicide cases involving women. Some individual cases have been solved while others remain unresolved, and the case group intersects with broader violence and safety issues affecting Indigenous women and girls.\n\n**Not established:** There is no official conclusion that all 18 cases were committed by one serial offender, and offender identity in unresolved cases cannot be established without case-specific evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** RCMP Project E-PANA는 18건의 highway-associated women missing/homicide cases를 재검토했고, 일부 individual cases는 해결됐으며 일부는 unresolved다. Indigenous women and girls에 대한 broader violence/safety issue와도 중요한 접점이 있다.\n\n**확인되지 않음:** 18건 모두가 한 명의 동일한 serial offender에게 연결된다는 공식결론은 없다. 각 unresolved case의 offender identity도 별도증거 없이는 확정할 수 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "geography-02",
+        "cases-03",
+        "indigenous-04",
+        "serial-05"
+      ]
+    },
+    "en": {
+      "headline": "Eighteen Cases in One Project Do Not Automatically Mean One Serial Killer",
+      "hook": "E-PANA is a real RCMP project, but it is not one crime. Some cases are solved, some unresolved. The critical boundary is between a shared corridor problem and a shared offender.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "하나의 사건이 아니라 여러 여성 실종·살해사건을 묶어 재검토한 프로젝트다",
+          "headingEn": "This Is Not One Case but a Project Reviewing Multiple Missing-and-Murdered-Women Investigations",
+          "textKo": "RCMP는 2005년 Project E-PANA를 만들어 British Columbia 주요 highway와 연관된 여성 실종·살해사건을 재검토했다. 2007년까지 project scope는 18건으로 확대됐고 13건 homicide, 5건 missing-person investigation으로 분류됐다. **'Highway of Tears'는 하나의 동일범 사건명이 아니라 서로 다른 case들을 묶어 수사한 틀**이다.",
+          "textEn": "The RCMP created Project E-PANA in 2005 to review cases of missing and murdered women associated with major highways in British Columbia. By 2007 the scope had expanded to 18 cases: 13 homicides and five missing-person investigations. 'Highway of Tears' is therefore not a single proven-offender case but a framework spanning multiple investigations."
+        },
+        {
+          "blockId": "geography-02",
+          "type": "BACKGROUND",
+          "headingKo": "긴 highway corridor와 sparse transportation environment가 vulnerability context를 만든다",
+          "headingEn": "A Long Highway Corridor and Sparse Transportation Environment Create Vulnerability",
+          "textKo": "Northern British Columbia의 장거리 highway, 작은 communities, limited public transportation, hitchhiking exposure는 cases를 이해하는 important context다. RCMP national initiatives는 Indigenous women and girls에 대한 violence 문제와 community safety를 더 넓은 구조적 맥락에서 다룬다. **그러나 vulnerability context가 특정 사건의 offender identity를 직접 알려주지는 않는다.**",
+          "textEn": "Long-distance highways, small communities, limited public transportation, and hitchhiking exposure in northern British Columbia form an important vulnerability context. RCMP national initiatives also address violence against Indigenous women and girls as a broader structural and community-safety issue. Context does not itself identify an offender in a specific case."
+        },
+        {
+          "blockId": "cases-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "일부 사건은 해결됐고 일부는 남았다—그래서 동일범 가설은 자동결론이 아니다",
+          "headingEn": "Some Cases Were Solved and Others Remain Open, So a Single-Offender Theory Is Not Automatic",
+          "textKo": "Project E-PANA에 포함된 일부 individual case는 후대 DNA·수사로 해결됐지만 다른 case는 unresolved로 남았다. **각 사건의 date, location, victim circumstance, forensic evidence가 다르기 때문에 project inclusion을 동일한 offender의 증거로 읽으면 안 된다.**",
+          "textEn": "Some individual E-PANA cases were later solved through investigation or DNA evidence while others remain unresolved. Dates, locations, victim circumstances, and forensic records differ, so inclusion in one project must not be treated as proof of one common offender."
+        },
+        {
+          "blockId": "indigenous-04",
+          "type": "AFTERMATH",
+          "headingKo": "사건군은 Missing and Murdered Indigenous Women and Girls 문제와도 겹친다",
+          "headingEn": "The Case Group Overlaps With the Broader Missing and Murdered Indigenous Women and Girls Crisis",
+          "textKo": "피해자 중 Indigenous women이 포함돼 있고 RCMP는 national scan에서 Indigenous women and girls에 대한 violence response, policing partnership, prevention initiatives를 다룬다. **개별 criminal mystery와 systemic safety issue를 둘 다 봐야 하지만, 한쪽으로 다른 쪽을 지우면 안 된다.**",
+          "textEn": "Indigenous women are among the victims, and RCMP national material addresses broader responses to violence against Indigenous women and girls, policing partnerships, and prevention. The individual criminal mysteries and the systemic safety issue both matter and should not be collapsed into each other."
+        },
+        {
+          "blockId": "serial-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "'한 명의 연쇄살인범'이라는 대중적 단순화는 공식결론이 아니다",
+          "headingEn": "The Popular 'One Serial Killer' Simplification Is Not the Official Conclusion",
+          "textKo": "18건을 하나의 project로 묶었다는 사실 때문에 single serial killer narrative가 쉽게 만들어진다. 그러나 RCMP 공식기록은 각 case를 별도 investigation으로 관리하며 일부는 서로 다른 offender가 확인된 경우도 있다. **project-level pattern recognition과 offender-level linkage는 다른 증거수준이다.**",
+          "textEn": "Grouping 18 cases in one project naturally encourages a single-serial-killer narrative. But RCMP records treat the cases as individual investigations, and some solved cases involve different offenders. Project-level pattern recognition is not the same as offender-level linkage."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** RCMP Project E-PANA는 18건의 highway-associated women missing/homicide cases를 재검토했고, 일부 individual cases는 해결됐으며 일부는 unresolved다. Indigenous women and girls에 대한 broader violence/safety issue와도 중요한 접점이 있다.\n\n**확인되지 않음:** 18건 모두가 한 명의 동일한 serial offender에게 연결된다는 공식결론은 없다. 각 unresolved case의 offender identity도 별도증거 없이는 확정할 수 없다.",
+          "textEn": "**Established:** RCMP Project E-PANA reviewed 18 highway-associated missing/homicide cases involving women. Some individual cases have been solved while others remain unresolved, and the case group intersects with broader violence and safety issues affecting Indigenous women and girls.\n\n**Not established:** There is no official conclusion that all 18 cases were committed by one serial offender, and offender identity in unresolved cases cannot be established without case-specific evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** RCMP Project E-PANA reviewed 18 highway-associated missing/homicide cases involving women. Some individual cases have been solved while others remain unresolved, and the case group intersects with broader violence and safety issues affecting Indigenous women and girls.\n\n**Not established:** There is no official conclusion that all 18 cases were committed by one serial offender, and offender identity in unresolved cases cannot be established without case-specific evidence.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "geography-02",
+        "cases-03",
+        "indigenous-04",
+        "serial-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HOT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project E-PANA는 2005 시작됐고 2007년 18건(13 homicide, 5 missing)으로 확대됐다.",
+      "statementEn": "Project E-PANA began in 2005 and by 2007 covered 18 cases: 13 homicides and five missing-person investigations.",
+      "sourceRefs": [
+        "HOT_RCMP_EPANA"
+      ]
+    },
+    {
+      "claimId": "HOT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "일부 individual case는 해결됐고 다른 case는 unresolved다.",
+      "statementEn": "Some individual cases have been solved while others remain unresolved.",
+      "sourceRefs": [
+        "HOT_RCMP_EPANA"
+      ]
+    },
+    {
+      "claimId": "HOT-C3",
+      "status": "CONFIRMED",
+      "statementKo": "broader MMIWG safety/violence context는 RCMP national initiatives의 공식대상이다.",
+      "statementEn": "The broader safety and violence context affecting Indigenous women and girls is addressed in official RCMP initiatives.",
+      "sourceRefs": [
+        "HOT_RCMP_SCAN"
+      ]
+    },
+    {
+      "claimId": "HOT-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "18건 모두가 단일 serial offender에게 연결된다는 공식결론은 없다.",
+      "statementEn": "There is no official conclusion linking all 18 cases to a single serial offender.",
+      "sourceRefs": [
+        "HOT_RCMP_EPANA",
+        "HOT_RCMP_SCAN"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HOT_RCMP_EPANA",
+      "title": "Project E-PANA",
+      "publisher": "Royal Canadian Mounted Police",
+      "url": "https://rcmp.ca/en/bc/news/2012/09/project-e-pana",
+      "sourceType": "RCMP_OFFICIAL"
+    },
+    {
+      "sourceId": "HOT_RCMP_SCAN",
+      "title": "Working Together to End Violence Against Indigenous Women and Girls",
+      "publisher": "Royal Canadian Mounted Police",
+      "url": "https://rcmp.ca/en/corporate-information/publications-and-manuals/working-together-end-violence-against-indigenous-women-and-girls-national-scan-rcmp-initiatives-may",
+      "sourceType": "RCMP_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "hot-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "2005 E-PANA 시작 → 2007 18-case scope → 일부 해결 / 일부 unresolved.",
+      "captionEn": "2005 E-PANA start → 2007 18-case scope → some solved / some unresolved.",
+      "altKo": "2005 E-PANA 시작 → 2007 18-case scope → 일부 해결 / 일부 unresolved.",
+      "altEn": "2005 E-PANA start → 2007 18-case scope → some solved / some unresolved.",
+      "sourceRefs": [
+        "HOT_RCMP_EPANA",
+        "HOT_RCMP_SCAN"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "highway-of-tears__v01__ko.png",
+          "sha256": "63334d549bcd451c111f0547203d14fbb15c28084d7a5eb9bbea471be2628d68",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "highway-of-tears__v01__en.png",
+          "sha256": "a789c286f02a3d7f3aa2f8212ac747a5c0cb7889bf0e471d561ed101b5e25fa8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hot-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "project grouping과 single-offender linkage를 분리.",
+      "captionEn": "Separate project grouping from single-offender linkage.",
+      "altKo": "project grouping과 single-offender linkage를 분리.",
+      "altEn": "Separate project grouping from single-offender linkage.",
+      "sourceRefs": [
+        "HOT_RCMP_EPANA",
+        "HOT_RCMP_SCAN"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "highway-of-tears__v02__ko.png",
+          "sha256": "cfea84880099295e7a01d279550f49cf685dbe89d9b7e265d3541045e8c7ab4f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "highway-of-tears__v02__en.png",
+          "sha256": "2b7d250adbd9ffffc9816ec17835bc34e2cd741322824ae51613ae41436a5e3d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hot-v03",
+      "role": "RELATIONSHIP_MAP",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "individual cases / highway vulnerability / Indigenous safety context를 층별로 표시.",
+      "captionEn": "Layer individual cases, highway vulnerability, and Indigenous safety context.",
+      "altKo": "individual cases / highway vulnerability / Indigenous safety context를 층별로 표시.",
+      "altEn": "Layer individual cases, highway vulnerability, and Indigenous safety context.",
+      "sourceRefs": [
+        "HOT_RCMP_EPANA",
+        "HOT_RCMP_SCAN"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "highway-of-tears__v03__ko.png",
+          "sha256": "11350f202a9dbe32e94b1fdcdadde7857e567f9f6352fba25ec0199789002546",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "highway-of-tears__v03__en.png",
+          "sha256": "c056a44f2b8821ed73d0022d17f15992c1c6013828d9f58c6fe738d83b57d536",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "regions": [
+      "British Columbia"
+    ],
+    "places": [
+      {
+        "name": "Northern British Columbia highways",
+        "role": "case corridor"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Royal Canadian Mounted Police"
+    ],
+    "dateRange": {
+      "start": "historical cases",
+      "end": "present",
+      "precision": "cases reviewed under E-PANA"
+    },
+    "era": "Modern criminal investigation",
+    "resolution": "MULTIPLE_CASE_PROJECT_SOME_SOLVED_SOME_UNRESOLVED_NO_SINGLE_OFFENDER_CONCLUSION",
+    "searchAliases": [
+      "Highway of Tears",
+      "Project E-PANA"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1553,
+    "enBodyWords": 287,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

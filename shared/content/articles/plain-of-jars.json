@@ -1,0 +1,401 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "plain-of-jars",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "라오스 항아리 평원",
+    "canonicalTitleEn": "Plain of Jars",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "항아리의 용도보다 더 큰 미스터리—누가 이 거대한 장례경관을 만들었나",
+      "hook": "장례용이라는 증거는 생각보다 강하다. 2,100개가 넘는 석제 jar 주변에 burial·grave goods·quarry가 함께 있다. 남은 빈칸은 그 문화를 만든 사람들의 identity와 사회구조다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2,100개가 넘는 거대 석제 항아리는 실제로 장례문화와 연결된다",
+          "headingEn": "More Than 2,100 Giant Stone Jars Are Strongly Linked to Mortuary Practice",
+          "textKo": "UNESCO는 Laos Xiengkhuang의 15개 구성지역에 2,100개가 넘는 megalithic stone jar가 있으며 약 500 BCE~500 CE의 Iron Age mortuary tradition과 연결된다고 설명한다. jar 주변에는 stone disc, secondary burial, grave marker, quarry, grave good가 함께 발견된다. **따라서 ‘무슨 용도인지 전혀 모른다’는 대중이미지는 과장이다. 장례맥락은 강하다.**",
+          "textEn": "UNESCO describes more than 2,100 megalithic stone jars across 15 components in Xiengkhuang, Laos, linked to an Iron Age mortuary tradition roughly 500 BCE–500 CE. Stone discs, secondary burials, grave markers, quarries, and grave goods occur with them. The popular claim that their purpose is completely unknown is therefore overstated; the mortuary context is strong."
+        },
+        {
+          "blockId": "technology-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1~3m 규모의 돌을 채석·가공·운반하려면 상당한 조직력이 필요했다",
+          "headingEn": "Quarrying and Moving One-to-Three-Metre Stone Jars Required Major Organization",
+          "textKo": "UNESCO/ICOMOS는 jar가 주로 sandstone이지만 granite·limestone·conglomerate 등 다양한 stone type으로 만들어졌고 1~3m 높이에 이른다고 기록한다. quarry와 manufacturing site도 확인됐다. **제작자 사회는 거대 stone을 선택·가공·운반할 기술과 집단노동을 조직할 능력이 있었다.**",
+          "textEn": "UNESCO and ICOMOS describe jars one to three metres tall, made mainly from sandstone but also granite, limestone, conglomerate, and other stone. Quarries and manufacturing sites survive. The builders clearly had the technological and social capacity to quarry, shape, and move large stones."
+        },
+        {
+          "blockId": "people-03",
+          "type": "BACKGROUND",
+          "headingKo": "미스터리는 ‘용도’보다 이 문화를 만든 사람들이 누구였는가 쪽에 더 남아 있다",
+          "headingEn": "The Larger Mystery Is Who Built the Tradition and How Their Society Worked",
+          "textKo": "UNESCO는 이 jar tradition을 남긴 Iron Age civilisation에 대해 relatively little is known이라고 평가한다. inscriptions나 장문의 역사기록이 없기 때문에 language·political structure·identity를 직접 복원하기 어렵다. **고고학은 funerary practice를 강하게 보이지만 사람들의 이름과 사회조직은 훨씬 덜 알려져 있다.**",
+          "textEn": "UNESCO notes that relatively little is known about the Iron Age civilization that created the jars. Without inscriptions or long historical records, language, political structure, and identity are difficult to reconstruct directly. Archaeology strongly supports mortuary use while leaving the people themselves much less well understood."
+        },
+        {
+          "blockId": "routes-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "jar site 분포는 고대 이동·교류경로와 연결됐을 가능성이 있다",
+          "headingEn": "The Jar-Site Distribution May Reflect Ancient Movement and Exchange Routes",
+          "textKo": "UNESCO는 Xiengkhuang이 Iron Age Southeast Asia의 두 큰 cultural system 사이 역사적 crossroads였고 jar site distribution이 overland routes와 연관됐을 가능성을 언급한다. 이는 trade·ritual movement·social hierarchy를 함께 생각하게 한다. **하지만 정확한 route와 각 site의 역할까지 하나로 확정된 것은 아니다.**",
+          "textEn": "UNESCO notes that Xiengkhuang lay at a crossroads between major Iron Age cultural systems and that jar-site distribution may relate to overland routes. This supports questions about trade, ritual movement, and hierarchy, but the exact route network and function of every site are not uniquely established."
+        },
+        {
+          "blockId": "discs-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "stone disc와 burial evidence가 ‘저장용 항아리’ 단순설을 약화한다",
+          "headingEn": "Stone Discs and Burials Weaken Simple Storage-Vessel Explanations",
+          "textKo": "jar 주변 stone disc가 lid 또는 grave marker였을 가능성과 secondary burial·grave good의 반복은 ordinary storage landscape보다 mortuary landscape 해석을 훨씬 강하게 만든다. **다만 모든 jar가 정확히 같은 단계·방식으로 사용됐다고 단정할 수는 없다.**",
+          "textEn": "Stone discs, secondary burials, and grave goods make a mortuary landscape interpretation much stronger than a simple storage-vessel explanation. That still does not mean every jar was used in exactly the same stage or manner."
+        },
+        {
+          "blockId": "transport-048",
+          "type": "BACKGROUND",
+          "headingKo": "운반방법은 기술가능성은 분명해도 정확한 route·도구는 남아 있지 않다",
+          "headingEn": "Transport Was Clearly Achievable, but the Exact Routes and Tools Are Not Recorded",
+          "textKo": "quarry가 확인됐다는 사실은 jar가 자연암석 그대로 있던 것이 아니라 채석·가공·운반됐음을 보여준다. 그러나 sled, roller, rope, road 같은 구체적 transport method를 직접 기록한 문헌은 없다. **'어떻게 가능했나'와 '정확히 어떤 방법을 썼나'를 구분해야 한다.**",
+          "textEn": "Known quarries show that the jars were intentionally extracted, shaped, and transported, but no surviving written record identifies the exact sleds, rollers, ropes, or route systems used. Feasibility and exact method are separate questions."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Plain of Jars는 2,100개가 넘는 megalithic jar와 secondary burial·grave goods·quarry 등으로 구성된 Iron Age mortuary landscape다. 대략 500 BCE~500 CE가 핵심시기이며 제작·운반에 상당한 기술과 조직이 필요했다.\n\n**확인되지 않음:** 제작집단의 정확한 정체·언어·정치사회구조와 각 jar의 개별사용법은 제한적으로만 알려져 있다. 모든 site의 기능·이동경로도 하나로 확정되지 않았다.",
+          "textEn": "**Established:** The Plain of Jars is an Iron Age mortuary landscape containing more than 2,100 megalithic jars, secondary burials, grave goods, quarries, and related features, principally dating roughly 500 BCE–500 CE. Their production and transport required significant skill and organization.\n\n**Not established:** The exact identity, language, political structure, and individual use of every jar remain only partly understood, and no single route/function model explains all sites."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Plain of Jars는 2,100개가 넘는 megalithic jar와 secondary burial·grave goods·quarry 등으로 구성된 Iron Age mortuary landscape다. 대략 500 BCE~500 CE가 핵심시기이며 제작·운반에 상당한 기술과 조직이 필요했다.\n\n**확인되지 않음:** 제작집단의 정확한 정체·언어·정치사회구조와 각 jar의 개별사용법은 제한적으로만 알려져 있다. 모든 site의 기능·이동경로도 하나로 확정되지 않았다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "technology-02",
+        "people-03",
+        "routes-04",
+        "discs-045",
+        "transport-048"
+      ]
+    },
+    "en": {
+      "headline": "The Bigger Mystery Isn't What the Jars Were For—It's Who Built the Landscape",
+      "hook": "The funerary evidence is stronger than popular mystery stories suggest: burials, grave goods, and quarries surround more than 2,100 jars. The deeper gap is the identity and social organization of the people who built the landscape.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2,100개가 넘는 거대 석제 항아리는 실제로 장례문화와 연결된다",
+          "headingEn": "More Than 2,100 Giant Stone Jars Are Strongly Linked to Mortuary Practice",
+          "textKo": "UNESCO는 Laos Xiengkhuang의 15개 구성지역에 2,100개가 넘는 megalithic stone jar가 있으며 약 500 BCE~500 CE의 Iron Age mortuary tradition과 연결된다고 설명한다. jar 주변에는 stone disc, secondary burial, grave marker, quarry, grave good가 함께 발견된다. **따라서 ‘무슨 용도인지 전혀 모른다’는 대중이미지는 과장이다. 장례맥락은 강하다.**",
+          "textEn": "UNESCO describes more than 2,100 megalithic stone jars across 15 components in Xiengkhuang, Laos, linked to an Iron Age mortuary tradition roughly 500 BCE–500 CE. Stone discs, secondary burials, grave markers, quarries, and grave goods occur with them. The popular claim that their purpose is completely unknown is therefore overstated; the mortuary context is strong."
+        },
+        {
+          "blockId": "technology-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1~3m 규모의 돌을 채석·가공·운반하려면 상당한 조직력이 필요했다",
+          "headingEn": "Quarrying and Moving One-to-Three-Metre Stone Jars Required Major Organization",
+          "textKo": "UNESCO/ICOMOS는 jar가 주로 sandstone이지만 granite·limestone·conglomerate 등 다양한 stone type으로 만들어졌고 1~3m 높이에 이른다고 기록한다. quarry와 manufacturing site도 확인됐다. **제작자 사회는 거대 stone을 선택·가공·운반할 기술과 집단노동을 조직할 능력이 있었다.**",
+          "textEn": "UNESCO and ICOMOS describe jars one to three metres tall, made mainly from sandstone but also granite, limestone, conglomerate, and other stone. Quarries and manufacturing sites survive. The builders clearly had the technological and social capacity to quarry, shape, and move large stones."
+        },
+        {
+          "blockId": "people-03",
+          "type": "BACKGROUND",
+          "headingKo": "미스터리는 ‘용도’보다 이 문화를 만든 사람들이 누구였는가 쪽에 더 남아 있다",
+          "headingEn": "The Larger Mystery Is Who Built the Tradition and How Their Society Worked",
+          "textKo": "UNESCO는 이 jar tradition을 남긴 Iron Age civilisation에 대해 relatively little is known이라고 평가한다. inscriptions나 장문의 역사기록이 없기 때문에 language·political structure·identity를 직접 복원하기 어렵다. **고고학은 funerary practice를 강하게 보이지만 사람들의 이름과 사회조직은 훨씬 덜 알려져 있다.**",
+          "textEn": "UNESCO notes that relatively little is known about the Iron Age civilization that created the jars. Without inscriptions or long historical records, language, political structure, and identity are difficult to reconstruct directly. Archaeology strongly supports mortuary use while leaving the people themselves much less well understood."
+        },
+        {
+          "blockId": "routes-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "jar site 분포는 고대 이동·교류경로와 연결됐을 가능성이 있다",
+          "headingEn": "The Jar-Site Distribution May Reflect Ancient Movement and Exchange Routes",
+          "textKo": "UNESCO는 Xiengkhuang이 Iron Age Southeast Asia의 두 큰 cultural system 사이 역사적 crossroads였고 jar site distribution이 overland routes와 연관됐을 가능성을 언급한다. 이는 trade·ritual movement·social hierarchy를 함께 생각하게 한다. **하지만 정확한 route와 각 site의 역할까지 하나로 확정된 것은 아니다.**",
+          "textEn": "UNESCO notes that Xiengkhuang lay at a crossroads between major Iron Age cultural systems and that jar-site distribution may relate to overland routes. This supports questions about trade, ritual movement, and hierarchy, but the exact route network and function of every site are not uniquely established."
+        },
+        {
+          "blockId": "discs-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "stone disc와 burial evidence가 ‘저장용 항아리’ 단순설을 약화한다",
+          "headingEn": "Stone Discs and Burials Weaken Simple Storage-Vessel Explanations",
+          "textKo": "jar 주변 stone disc가 lid 또는 grave marker였을 가능성과 secondary burial·grave good의 반복은 ordinary storage landscape보다 mortuary landscape 해석을 훨씬 강하게 만든다. **다만 모든 jar가 정확히 같은 단계·방식으로 사용됐다고 단정할 수는 없다.**",
+          "textEn": "Stone discs, secondary burials, and grave goods make a mortuary landscape interpretation much stronger than a simple storage-vessel explanation. That still does not mean every jar was used in exactly the same stage or manner."
+        },
+        {
+          "blockId": "transport-048",
+          "type": "BACKGROUND",
+          "headingKo": "운반방법은 기술가능성은 분명해도 정확한 route·도구는 남아 있지 않다",
+          "headingEn": "Transport Was Clearly Achievable, but the Exact Routes and Tools Are Not Recorded",
+          "textKo": "quarry가 확인됐다는 사실은 jar가 자연암석 그대로 있던 것이 아니라 채석·가공·운반됐음을 보여준다. 그러나 sled, roller, rope, road 같은 구체적 transport method를 직접 기록한 문헌은 없다. **'어떻게 가능했나'와 '정확히 어떤 방법을 썼나'를 구분해야 한다.**",
+          "textEn": "Known quarries show that the jars were intentionally extracted, shaped, and transported, but no surviving written record identifies the exact sleds, rollers, ropes, or route systems used. Feasibility and exact method are separate questions."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Plain of Jars는 2,100개가 넘는 megalithic jar와 secondary burial·grave goods·quarry 등으로 구성된 Iron Age mortuary landscape다. 대략 500 BCE~500 CE가 핵심시기이며 제작·운반에 상당한 기술과 조직이 필요했다.\n\n**확인되지 않음:** 제작집단의 정확한 정체·언어·정치사회구조와 각 jar의 개별사용법은 제한적으로만 알려져 있다. 모든 site의 기능·이동경로도 하나로 확정되지 않았다.",
+          "textEn": "**Established:** The Plain of Jars is an Iron Age mortuary landscape containing more than 2,100 megalithic jars, secondary burials, grave goods, quarries, and related features, principally dating roughly 500 BCE–500 CE. Their production and transport required significant skill and organization.\n\n**Not established:** The exact identity, language, political structure, and individual use of every jar remain only partly understood, and no single route/function model explains all sites."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The Plain of Jars is an Iron Age mortuary landscape containing more than 2,100 megalithic jars, secondary burials, grave goods, quarries, and related features, principally dating roughly 500 BCE–500 CE. Their production and transport required significant skill and organization.\n\n**Not established:** The exact identity, language, political structure, and individual use of every jar remain only partly understood, and no single route/function model explains all sites.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "technology-02",
+        "people-03",
+        "routes-04",
+        "discs-045",
+        "transport-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "POJ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "15개 component에 2,100개 이상 jar가 있고 mortuary practice와 강하게 연결된다.",
+      "statementEn": "More than 2,100 jars across 15 components are strongly linked to mortuary practice.",
+      "sourceRefs": [
+        "POJ_UNESCO",
+        "POJ_ICOMOS"
+      ]
+    },
+    {
+      "claimId": "POJ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "핵심 chronology는 약 500 BCE~500 CE다.",
+      "statementEn": "The principal chronology is roughly 500 BCE–500 CE.",
+      "sourceRefs": [
+        "POJ_UNESCO",
+        "POJ_ICOMOS"
+      ]
+    },
+    {
+      "claimId": "POJ-C3",
+      "status": "SUPPORTED",
+      "statementKo": "jar distribution은 overland route와 연결됐을 가능성이 있다.",
+      "statementEn": "Jar distribution may relate to ancient overland routes.",
+      "sourceRefs": [
+        "POJ_UNESCO"
+      ]
+    },
+    {
+      "claimId": "POJ-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "제작집단의 정확한 identity·사회구조와 각 jar의 사용법은 완전히 알려지지 않았다.",
+      "statementEn": "The builders' exact identity, social organization, and the use of every individual jar are not fully known.",
+      "sourceRefs": [
+        "POJ_UNESCO",
+        "POJ_ICOMOS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "POJ_UNESCO",
+      "title": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1587",
+      "sourceType": "UNESCO_OFFICIAL"
+    },
+    {
+      "sourceId": "POJ_ICOMOS",
+      "title": "Megalithic Jar Sites in Xiengkhuang — ICOMOS evaluation",
+      "publisher": "UNESCO/ICOMOS",
+      "url": "https://whc.unesco.org/document/176157",
+      "sourceType": "UNESCO_ICOMOS_EVALUATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "poj-v01",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Xiengkhuang plateau와 15 component mortuary landscape 개념도.",
+      "captionEn": "Original map of the Xiengkhuang plateau and the 15-component mortuary landscape.",
+      "altKo": "Xiengkhuang plateau와 15 component mortuary landscape 개념도.",
+      "altEn": "Original map of the Xiengkhuang plateau and the 15-component mortuary landscape.",
+      "sourceRefs": [
+        "POJ_UNESCO",
+        "POJ_ICOMOS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "plain-of-jars__v01__ko.png",
+          "sha256": "5378015a594cbb129c72e3f1b025fa093e386d6e5b63997d50be79968752c339",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "plain-of-jars__v01__en.png",
+          "sha256": "74fbcf015212ccf9ae467233e9969c48a71dbfa9ab7cbd7c050c8df4892d04a8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "poj-v02",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "quarry → jar manufacture → transport → mortuary site → burial evidence 흐름.",
+      "captionEn": "Quarry → jar manufacture → transport → mortuary site → burial evidence.",
+      "altKo": "quarry → jar manufacture → transport → mortuary site → burial evidence 흐름.",
+      "altEn": "Quarry → jar manufacture → transport → mortuary site → burial evidence.",
+      "sourceRefs": [
+        "POJ_UNESCO",
+        "POJ_ICOMOS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "plain-of-jars__v02__ko.png",
+          "sha256": "e2a8a0dd1a2e276c0858e33060fd132f8ea7713dd75c874ecd763fe967928a08",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "plain-of-jars__v02__en.png",
+          "sha256": "ec42218f9fdf172b4c47c0a3977af65f04390a1aaf1e19bfe97b510a52c50a6b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "poj-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "funerary context 확정과 builder identity·개별사용법 미확정을 분리.",
+      "captionEn": "Separate strong funerary context from unresolved builder identity and individual jar use.",
+      "altKo": "funerary context 확정과 builder identity·개별사용법 미확정을 분리.",
+      "altEn": "Separate strong funerary context from unresolved builder identity and individual jar use.",
+      "sourceRefs": [
+        "POJ_UNESCO",
+        "POJ_ICOMOS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "plain-of-jars__v03__ko.png",
+          "sha256": "ef4b3293689f84c1bf444b13e7fe5dfc5b9408b3eccb31163c9ef45053755af1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "plain-of-jars__v03__en.png",
+          "sha256": "7b5d1ae6fd5331fa2c112ec21ca4571542df80e8b5cafd1e45d30dec438a2a4f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Laos"
+    ],
+    "regions": [
+      "Xiengkhuang Plateau"
+    ],
+    "places": [
+      {
+        "name": "Plain of Jars",
+        "role": "serial archaeological landscape"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "UNESCO",
+      "ICOMOS"
+    ],
+    "dateRange": {
+      "start": "c.500 BCE",
+      "end": "c.500 CE",
+      "precision": "principal mortuary tradition; some activity may extend later"
+    },
+    "era": "Iron Age Southeast Asia",
+    "resolution": "MORTUARY_CONTEXT_ESTABLISHED_BUILDERS_AND_SOCIAL_STRUCTURE_PARTLY_UNRESOLVED",
+    "searchAliases": [
+      "Plain of Jars",
+      "Megalithic Jar Sites Xiengkhuang"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1583,
+    "enBodyWords": 330,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH15",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH15_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

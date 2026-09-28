@@ -1,0 +1,422 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "black-dahlia",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "블랙 달리아 사건",
+    "canonicalTitleEn": "Black Dahlia Murder",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "피해자의 이름은 56분 만에 밝혀졌는데 범인의 이름은 왜 끝내 남지 않았나",
+      "hook": "Black Dahlia 사건은 ‘신원미상 피해자’ 사건이 아니다. FBI는 Elizabeth Short의 신원을 빠르게 확인했다. 미스터리는 그 다음부터다. 수많은 지문·편지·용의자 조사가 있었지만 범인의 이름은 공식적으로 닫히지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "시신은 1947년 1월 15일 발견됐고 신원은 놀랄 만큼 빨리 밝혀졌다",
+          "headingEn": "The Body Was Found on January 15, 1947—and Identified Remarkably Quickly",
+          "textKo": "1947년 1월 15일 Los Angeles의 한 주택가에서 젊은 여성의 시신이 발견됐다. LAPD가 수사를 주도했고 FBI는 흐릿한 지문 전송본을 받아 56분 만에 피해자를 22세 Elizabeth Short로 확인했다고 기록한다. **신원확인은 매우 빨랐지만 범인의 신원확인은 정반대였다. 사건은 수십 년이 지나도 해결되지 않았다.**",
+          "textEn": "On January 15, 1947, the body of a young woman was found in a Los Angeles neighborhood. LAPD led the investigation, while the FBI received blurred fingerprint images and identified the victim as 22-year-old Elizabeth Short within 56 minutes. Identification of the victim was remarkably fast; identification of the killer never followed."
+        },
+        {
+          "blockId": "fingerprints-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "FBI가 신원을 확인할 수 있었던 이유는 기존 지문기록이었다",
+          "headingEn": "Existing Fingerprint Records Made the Victim Identification Possible",
+          "textKo": "FBI 자료에 따르면 Short의 지문은 이미 두 차례 연방기록에 들어 있었다. 1943년 Camp Cooke 취업지원과 같은 해 Santa Barbara 경찰의 underage drinking 체포가 배경이었다. 이 기록 덕분에 피해자의 이름과 mug shot이 빠르게 확인됐다. **이 사건은 범죄수사에서 ‘피해자를 누구인지 아는 것’과 ‘누가 살해했는지 아는 것’이 전혀 다른 정보문제라는 점을 보여준다.**",
+          "textEn": "FBI history states that Short's fingerprints were already in federal files from a 1943 Camp Cooke employment application and a later Santa Barbara arrest for underage drinking. Those records made rapid identification possible. The case illustrates how identifying a victim and identifying a killer are very different evidentiary problems."
+        },
+        {
+          "blockId": "letters-03",
+          "type": "TURNING_POINT",
+          "headingKo": "범인으로 추정되는 편지가 수사에 들어왔지만 지문은 연결되지 않았다",
+          "headingEn": "A Suspected Killer Letter Produced Fingerprints—but No Match",
+          "textKo": "FBI는 당국에 보내진 익명편지에서 지문을 찾아 대조했지만 당시 FBI 파일과 일치하지 않았다고 기록한다. 편지가 실제 범인의 것인지 여부도 사건의 일부 논쟁으로 남았다. **편지에 지문이 있다는 사실은 단서였지만, database match가 없으면 그 지문은 곧바로 이름이 되지 않았다.**",
+          "textEn": "The FBI examined fingerprints found on an anonymous letter that may have come from the killer, but they did not match prints in Bureau files. Whether every attributed letter genuinely came from the murderer also became part of the evidentiary problem. A fingerprint can be a clue without becoming an identity."
+        },
+        {
+          "blockId": "suspects-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대의 유명 용의자 목록은 공식 해결과 다르다",
+          "headingEn": "Later Famous Suspects Are Not the Same as an Officially Solved Case",
+          "textKo": "수십 년 동안 여러 인물이 책·다큐멘터리·가족 주장 등을 통해 용의자로 제시됐다. 그러나 FBI의 현재 공식설명은 murderer has never been found라는 상태를 유지한다. **후대의 특정 용의자 이야기가 설득력 있어 보이더라도, 공식기록상 확정범인으로 승격된 것은 아니다.**",
+          "textEn": "Over the decades, numerous suspects have been proposed through books, documentaries, and family claims. Yet the FBI's current historical account still states that the murderer has never been found. A compelling later theory is not the same as an officially established perpetrator."
+        },
+        {
+          "blockId": "media-045",
+          "type": "AFTERMATH",
+          "headingKo": "미제사건일수록 후대 서사가 공식수사기록보다 더 커지기 쉽다",
+          "headingEn": "In an Unsolved Case, Later Narratives Can Grow Larger Than the Official Record",
+          "textKo": "Black Dahlia 사건은 강한 이미지와 Hollywood 배경 때문에 수많은 책·다큐멘터리·개인고백·가족설이 생산됐다. 하지만 이런 후대서사는 수사기관의 contemporaneous evidence와 같은 층이 아니다. **Mystery Atlas에서는 ‘당시 수사기관이 확인한 사실’, ‘후대에 제기된 용의자 주장’, ‘대중문화가 만든 서사’를 분리해 읽어야 한다.**",
+          "textEn": "The Black Dahlia case generated countless books, documentaries, confessions, and family theories, amplified by its Hollywood setting. Those later narratives are not the same evidentiary layer as contemporaneous investigative records. A careful account separates official findings, later suspect claims, and popular-culture storytelling."
+        },
+        {
+          "blockId": "forensics-048",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1947년 수사의 한계는 오늘날 기준과도 달랐다",
+          "headingEn": "The 1947 Investigation Operated Under Very Different Forensic Limits",
+          "textKo": "당시 수사는 지문·인터뷰·records check·문서비교에 크게 의존했고, 오늘날의 DNA profiling·digital records·통합 database는 존재하지 않았다. 그렇다고 수사가 단순했다는 뜻은 아니다. FBI와 LAPD는 당시 가능한 범위에서 전국단위 확인을 수행했다. **남아 있는 미해결 상태는 ‘아무것도 조사하지 않았다’보다, 많은 단서가 개인신원으로 수렴하지 못한 결과에 가깝다.**",
+          "textEn": "The 1947 investigation depended heavily on fingerprints, interviews, records checks, and document comparison; modern DNA profiling, digital records, and integrated databases did not exist. Investigators still pursued nationwide leads. The unresolved status reflects failure of available clues to converge on one identity, not absence of investigation."
+        },
+        {
+          "blockId": "identity-049",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘유명한 사건’이 ‘증거가 많은 사건’이라는 뜻도 아니다",
+          "headingEn": "A Famous Case Is Not Necessarily an Evidentially Rich Case",
+          "textKo": "Black Dahlia는 미국 범죄사에서 가장 유명한 미제사건 가운데 하나지만, 명성의 상당부분은 선정적 보도와 후대 대중문화에서 커졌다. **사건이 유명해질수록 검증되지 않은 이야기도 더 많이 붙기 때문에, 남아 있는 공식수사기록과 후대 서사를 분리하는 작업이 오히려 더 중요하다.**",
+          "textEn": "The Black Dahlia became one of the most famous American unsolved murders, but much of that fame grew through sensational reporting and later popular culture. The more famous a case becomes, the more important it is to separate surviving investigative evidence from later narrative accretion."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 피해자는 Elizabeth Short였고 FBI 지문기록으로 빠르게 신원이 확인됐다. LAPD가 수사를 주도했고 FBI는 전국적인 records check·interview·지문대조를 지원했다. 익명편지 지문도 조사됐지만 일치항목은 나오지 않았다.\n\n**확인되지 않음:** 살인범의 실명은 공식적으로 확정되지 않았다. 후대에 반복해서 지목된 특정 인물도 현재 공식기록에서 최종범인으로 인정되지 않는다.",
+          "textEn": "**Established:** The victim was Elizabeth Short, rapidly identified through FBI fingerprint records. LAPD led the case and the FBI supported records checks, interviews, and fingerprint comparisons. Prints from an anonymous letter were examined but did not match Bureau files.\n\n**Not established:** The killer's identity has never been officially established. Later popular suspects have not been accepted in the official record as the final perpetrator."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 피해자는 Elizabeth Short였고 FBI 지문기록으로 빠르게 신원이 확인됐다. LAPD가 수사를 주도했고 FBI는 전국적인 records check·interview·지문대조를 지원했다. 익명편지 지문도 조사됐지만 일치항목은 나오지 않았다.\n\n**확인되지 않음:** 살인범의 실명은 공식적으로 확정되지 않았다. 후대에 반복해서 지목된 특정 인물도 현재 공식기록에서 최종범인으로 인정되지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "fingerprints-02",
+        "letters-03",
+        "suspects-04",
+        "media-045",
+        "forensics-048",
+        "identity-049"
+      ]
+    },
+    "en": {
+      "headline": "The Victim Was Identified in 56 Minutes—Why Was the Killer Never Named?",
+      "hook": "The Black Dahlia case was not a mystery of the victim's identity. The FBI identified Elizabeth Short quickly. The mystery is what happened afterward: fingerprints, letters, and suspects never converged on an established killer.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "시신은 1947년 1월 15일 발견됐고 신원은 놀랄 만큼 빨리 밝혀졌다",
+          "headingEn": "The Body Was Found on January 15, 1947—and Identified Remarkably Quickly",
+          "textKo": "1947년 1월 15일 Los Angeles의 한 주택가에서 젊은 여성의 시신이 발견됐다. LAPD가 수사를 주도했고 FBI는 흐릿한 지문 전송본을 받아 56분 만에 피해자를 22세 Elizabeth Short로 확인했다고 기록한다. **신원확인은 매우 빨랐지만 범인의 신원확인은 정반대였다. 사건은 수십 년이 지나도 해결되지 않았다.**",
+          "textEn": "On January 15, 1947, the body of a young woman was found in a Los Angeles neighborhood. LAPD led the investigation, while the FBI received blurred fingerprint images and identified the victim as 22-year-old Elizabeth Short within 56 minutes. Identification of the victim was remarkably fast; identification of the killer never followed."
+        },
+        {
+          "blockId": "fingerprints-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "FBI가 신원을 확인할 수 있었던 이유는 기존 지문기록이었다",
+          "headingEn": "Existing Fingerprint Records Made the Victim Identification Possible",
+          "textKo": "FBI 자료에 따르면 Short의 지문은 이미 두 차례 연방기록에 들어 있었다. 1943년 Camp Cooke 취업지원과 같은 해 Santa Barbara 경찰의 underage drinking 체포가 배경이었다. 이 기록 덕분에 피해자의 이름과 mug shot이 빠르게 확인됐다. **이 사건은 범죄수사에서 ‘피해자를 누구인지 아는 것’과 ‘누가 살해했는지 아는 것’이 전혀 다른 정보문제라는 점을 보여준다.**",
+          "textEn": "FBI history states that Short's fingerprints were already in federal files from a 1943 Camp Cooke employment application and a later Santa Barbara arrest for underage drinking. Those records made rapid identification possible. The case illustrates how identifying a victim and identifying a killer are very different evidentiary problems."
+        },
+        {
+          "blockId": "letters-03",
+          "type": "TURNING_POINT",
+          "headingKo": "범인으로 추정되는 편지가 수사에 들어왔지만 지문은 연결되지 않았다",
+          "headingEn": "A Suspected Killer Letter Produced Fingerprints—but No Match",
+          "textKo": "FBI는 당국에 보내진 익명편지에서 지문을 찾아 대조했지만 당시 FBI 파일과 일치하지 않았다고 기록한다. 편지가 실제 범인의 것인지 여부도 사건의 일부 논쟁으로 남았다. **편지에 지문이 있다는 사실은 단서였지만, database match가 없으면 그 지문은 곧바로 이름이 되지 않았다.**",
+          "textEn": "The FBI examined fingerprints found on an anonymous letter that may have come from the killer, but they did not match prints in Bureau files. Whether every attributed letter genuinely came from the murderer also became part of the evidentiary problem. A fingerprint can be a clue without becoming an identity."
+        },
+        {
+          "blockId": "suspects-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대의 유명 용의자 목록은 공식 해결과 다르다",
+          "headingEn": "Later Famous Suspects Are Not the Same as an Officially Solved Case",
+          "textKo": "수십 년 동안 여러 인물이 책·다큐멘터리·가족 주장 등을 통해 용의자로 제시됐다. 그러나 FBI의 현재 공식설명은 murderer has never been found라는 상태를 유지한다. **후대의 특정 용의자 이야기가 설득력 있어 보이더라도, 공식기록상 확정범인으로 승격된 것은 아니다.**",
+          "textEn": "Over the decades, numerous suspects have been proposed through books, documentaries, and family claims. Yet the FBI's current historical account still states that the murderer has never been found. A compelling later theory is not the same as an officially established perpetrator."
+        },
+        {
+          "blockId": "media-045",
+          "type": "AFTERMATH",
+          "headingKo": "미제사건일수록 후대 서사가 공식수사기록보다 더 커지기 쉽다",
+          "headingEn": "In an Unsolved Case, Later Narratives Can Grow Larger Than the Official Record",
+          "textKo": "Black Dahlia 사건은 강한 이미지와 Hollywood 배경 때문에 수많은 책·다큐멘터리·개인고백·가족설이 생산됐다. 하지만 이런 후대서사는 수사기관의 contemporaneous evidence와 같은 층이 아니다. **Mystery Atlas에서는 ‘당시 수사기관이 확인한 사실’, ‘후대에 제기된 용의자 주장’, ‘대중문화가 만든 서사’를 분리해 읽어야 한다.**",
+          "textEn": "The Black Dahlia case generated countless books, documentaries, confessions, and family theories, amplified by its Hollywood setting. Those later narratives are not the same evidentiary layer as contemporaneous investigative records. A careful account separates official findings, later suspect claims, and popular-culture storytelling."
+        },
+        {
+          "blockId": "forensics-048",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1947년 수사의 한계는 오늘날 기준과도 달랐다",
+          "headingEn": "The 1947 Investigation Operated Under Very Different Forensic Limits",
+          "textKo": "당시 수사는 지문·인터뷰·records check·문서비교에 크게 의존했고, 오늘날의 DNA profiling·digital records·통합 database는 존재하지 않았다. 그렇다고 수사가 단순했다는 뜻은 아니다. FBI와 LAPD는 당시 가능한 범위에서 전국단위 확인을 수행했다. **남아 있는 미해결 상태는 ‘아무것도 조사하지 않았다’보다, 많은 단서가 개인신원으로 수렴하지 못한 결과에 가깝다.**",
+          "textEn": "The 1947 investigation depended heavily on fingerprints, interviews, records checks, and document comparison; modern DNA profiling, digital records, and integrated databases did not exist. Investigators still pursued nationwide leads. The unresolved status reflects failure of available clues to converge on one identity, not absence of investigation."
+        },
+        {
+          "blockId": "identity-049",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘유명한 사건’이 ‘증거가 많은 사건’이라는 뜻도 아니다",
+          "headingEn": "A Famous Case Is Not Necessarily an Evidentially Rich Case",
+          "textKo": "Black Dahlia는 미국 범죄사에서 가장 유명한 미제사건 가운데 하나지만, 명성의 상당부분은 선정적 보도와 후대 대중문화에서 커졌다. **사건이 유명해질수록 검증되지 않은 이야기도 더 많이 붙기 때문에, 남아 있는 공식수사기록과 후대 서사를 분리하는 작업이 오히려 더 중요하다.**",
+          "textEn": "The Black Dahlia became one of the most famous American unsolved murders, but much of that fame grew through sensational reporting and later popular culture. The more famous a case becomes, the more important it is to separate surviving investigative evidence from later narrative accretion."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 피해자는 Elizabeth Short였고 FBI 지문기록으로 빠르게 신원이 확인됐다. LAPD가 수사를 주도했고 FBI는 전국적인 records check·interview·지문대조를 지원했다. 익명편지 지문도 조사됐지만 일치항목은 나오지 않았다.\n\n**확인되지 않음:** 살인범의 실명은 공식적으로 확정되지 않았다. 후대에 반복해서 지목된 특정 인물도 현재 공식기록에서 최종범인으로 인정되지 않는다.",
+          "textEn": "**Established:** The victim was Elizabeth Short, rapidly identified through FBI fingerprint records. LAPD led the case and the FBI supported records checks, interviews, and fingerprint comparisons. Prints from an anonymous letter were examined but did not match Bureau files.\n\n**Not established:** The killer's identity has never been officially established. Later popular suspects have not been accepted in the official record as the final perpetrator."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The victim was Elizabeth Short, rapidly identified through FBI fingerprint records. LAPD led the case and the FBI supported records checks, interviews, and fingerprint comparisons. Prints from an anonymous letter were examined but did not match Bureau files.\n\n**Not established:** The killer's identity has never been officially established. Later popular suspects have not been accepted in the official record as the final perpetrator.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "fingerprints-02",
+        "letters-03",
+        "suspects-04",
+        "media-045",
+        "forensics-048",
+        "identity-049"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "FBI는 지문자료를 통해 Elizabeth Short를 약 56분 만에 확인했다.",
+      "statementEn": "The FBI identified Elizabeth Short from fingerprint material in about 56 minutes.",
+      "sourceRefs": [
+        "BD_FBI"
+      ]
+    },
+    {
+      "claimId": "BD-C2",
+      "status": "CONFIRMED",
+      "statementKo": "FBI는 용의자 기록조사와 익명편지 지문대조를 지원했다.",
+      "statementEn": "The FBI supported suspect checks and compared fingerprints from an anonymous letter.",
+      "sourceRefs": [
+        "BD_FBI",
+        "BD_VAULT"
+      ]
+    },
+    {
+      "claimId": "BD-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "익명편지가 실제 범인의 것인지 모든 경우 확정된 것은 아니다.",
+      "statementEn": "Not every attributed anonymous letter is established as having come from the killer.",
+      "sourceRefs": [
+        "BD_FBI"
+      ]
+    },
+    {
+      "claimId": "BD-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "살인범의 실명은 공식적으로 확정되지 않았다.",
+      "statementEn": "The killer's identity remains officially unresolved.",
+      "sourceRefs": [
+        "BD_FBI"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BD_FBI",
+      "title": "Black Dahlia",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/cases-and-criminals/black-dahlia",
+      "sourceType": "FBI_OFFICIAL_HISTORY"
+    },
+    {
+      "sourceId": "BD_VAULT",
+      "title": "Black Dahlia (E. Short) FBI Vault",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://vault.fbi.gov/Black%20Dahlia%20%28E%20Short%29",
+      "sourceType": "FBI_PRIMARY_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bd-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1947 발견 → 지문 신원확인 → 전국 수사 → 익명편지 지문대조 → 미해결.",
+      "captionEn": "1947 discovery → fingerprint identification → nationwide investigation → letter-print comparison → unresolved.",
+      "altKo": "1947 발견 → 지문 신원확인 → 전국 수사 → 익명편지 지문대조 → 미해결.",
+      "altEn": "1947 discovery → fingerprint identification → nationwide investigation → letter-print comparison → unresolved.",
+      "sourceRefs": [
+        "BD_FBI",
+        "BD_VAULT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "black-dahlia__v01__ko.png",
+          "sha256": "783ef096fd36c1092ff8f9a2944d07a43f9b16a9714ac5d590d086f29b8e0715",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "black-dahlia__v01__en.png",
+          "sha256": "a81c4421891227f7b286b531236b14e2f9552d76e12c8febbb576c7e236bd911",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bd-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "피해자 신원확정과 범인 신원미확정의 증거차이를 분리.",
+      "captionEn": "Evidence card separating victim identification from unresolved offender identity.",
+      "altKo": "피해자 신원확정과 범인 신원미확정의 증거차이를 분리.",
+      "altEn": "Evidence card separating victim identification from unresolved offender identity.",
+      "sourceRefs": [
+        "BD_FBI",
+        "BD_VAULT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "black-dahlia__v02__ko.png",
+          "sha256": "cfc54dfa7a38ad51e06c407974f712cb6c0051ec7a4f1106382b4d29793b9dcb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "black-dahlia__v02__en.png",
+          "sha256": "a3f7d783d4d1ddb3d180cb83bd3d397bc97ebc92c0acf2168218e9d720ad1583",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bd-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "LAPD 수사와 FBI 지문·records 지원의 역할분담.",
+      "captionEn": "Diagram showing LAPD lead investigation and FBI fingerprint/records support.",
+      "altKo": "LAPD 수사와 FBI 지문·records 지원의 역할분담.",
+      "altEn": "Diagram showing LAPD lead investigation and FBI fingerprint/records support.",
+      "sourceRefs": [
+        "BD_FBI",
+        "BD_VAULT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "black-dahlia__v03__ko.png",
+          "sha256": "6f15abc080a59eca741fdd193c8c637eb52194324f13dfec4cf74affb965b2bb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "black-dahlia__v03__en.png",
+          "sha256": "45f83308903e8ec5a3fe4243fb08a1f005b8179ed140403aba8f85f161ec0fd1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Los Angeles, California"
+    ],
+    "places": [
+      {
+        "name": "Los Angeles",
+        "role": "body discovery and investigation"
+      }
+    ],
+    "people": [
+      {
+        "name": "Elizabeth Short",
+        "role": "victim"
+      }
+    ],
+    "organizations": [
+      "LAPD",
+      "FBI"
+    ],
+    "dateRange": {
+      "start": "1947-01-15",
+      "end": "present",
+      "precision": "discovery through unresolved status"
+    },
+    "era": "Mid-20th century",
+    "resolution": "VICTIM_IDENTIFIED_KILLER_UNRESOLVED",
+    "searchAliases": [
+      "Black Dahlia",
+      "Elizabeth Short murder"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1587,
+    "enBodyWords": 391,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

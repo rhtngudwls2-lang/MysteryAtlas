@@ -1,0 +1,354 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "mars-oxygen",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "화성 산소 계절변화",
+    "canonicalTitleEn": "Mars Oxygen Mystery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "화성의 산소는 왜 계절마다 예상보다 이상하게 늘었다 줄까",
+      "hook": "Curiosity가 본 oxygen anomaly는 진짜다. 하지만 “산소=생명”으로 뛰어갈 단계가 아니다. known chemistry에 빠진 source·sink를 찾는 게 핵심이다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "Curiosity가 여러 화성년에 걸쳐 대기를 재자 산소가 예상보다 이상하게 움직였다",
+          "headingEn": "Curiosity Found Oxygen Behaving Unexpectedly Across Multiple Martian Years",
+          "textKo": "Curiosity SAM은 Gale Crater near-surface atmosphere를 여러 Martian years 동안 반복측정했다. NASA는 nitrogen과 argon은 seasonal pressure 변화와 예상대로 움직였지만 oxygen은 spring/summer에 예상보다 증가하고 autumn에 감소하는 pattern을 보였다고 설명한다. anomalous seasonal variation 자체는 실제 measurement다.",
+          "textEn": "Curiosity SAM repeatedly measured the Gale Crater atmosphere and found oxygen rising and falling more strongly than expected, unlike nitrogen and argon. The anomaly itself is measured."
+        },
+        {
+          "blockId": "chemistry",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "known atmospheric chemistry만으로 source와 sink를 닫지 못했다",
+          "headingEn": "Known Atmospheric Chemistry Did Not Close the Oxygen Budget",
+          "textKo": "Mars seasonal CO2 cycle은 total pressure를 크게 바꾸고 다른 gases의 relative concentration도 움직인다. 그런데 observed oxygen pattern은 simple dilution만으로 충분히 설명되지 않았다. 그래서 soil/mineral chemistry를 포함한 extra source와 sink 가능성이 검토됐다.",
+          "textEn": "Mars seasonal CO2 cycles alter total pressure, but the oxygen pattern was not explained well enough by simple dilution, motivating investigation of additional soil or mineral sources and sinks."
+        },
+        {
+          "blockId": "repeat",
+          "type": "BACKGROUND",
+          "headingKo": "같은 계절에 매년 똑같은 양이 나온 것도 아니었다",
+          "headingEn": "The Amplitude Did Not Repeat Exactly Each Martian Year",
+          "textKo": "oxygen increase/decrease는 seasonal tendency를 보이면서도 year-to-year amount가 동일하지 않았다. 이는 단순 equilibrium reaction보다 time-varying reservoir 또는 surface process가 필요할 수 있음을 암시한다.",
+          "textEn": "The seasonal tendency did not repeat with exactly the same amplitude each year, suggesting a time-varying reservoir or surface process may be involved."
+        },
+        {
+          "blockId": "biology",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "산소가 이상하다고 생명활동이 입증되는 것은 아니다",
+          "headingEn": "Unexpected Oxygen Does Not Establish Biology",
+          "textKo": "Earth에서는 oxygen이 biology와 강하게 연결되지만 Mars에서는 photochemistry, perchlorates, soil minerals, radiation-driven reactions 같은 abiotic pathway도 고려해야 한다. NASA 연구진도 biological explanation을 입증하는 evidence를 제시하지 않는다. “설명되지 않음”은 “생명체가 만들었다”의 동의어가 아니다.",
+          "textEn": "On Earth oxygen is strongly associated with biology, but Mars requires abiotic pathways to be considered. NASA does not present evidence establishing a biological explanation; unexplained is not synonymous with life."
+        },
+        {
+          "blockId": "methane",
+          "type": "AFTERMATH",
+          "headingKo": "methane mystery와 닮았지만 둘을 하나의 biological source로 묶을 수는 없다",
+          "headingEn": "The Pattern Echoes the Methane Mystery Without Proving One Biological Source",
+          "textKo": "Curiosity는 methane variation도 관측했고 oxygen pattern과 함께 surface-atmosphere chemistry가 복잡함을 보여준다. 그러나 temporal correlation이 biological source를 일관되게 지지한다고 확정되지 않았다. 두 anomaly를 “생명 signal 두 개”로 합치는 것은 evidence를 넘는다.",
+          "textEn": "Curiosity has also measured methane variability, but the two anomalies do not establish one biological source. Treating them as two confirmed life signals goes beyond the evidence."
+        },
+        {
+          "blockId": "instrument-055",
+          "type": "BACKGROUND",
+          "headingKo": "이상현상이 장비오류인지 확인하는 것도 source 찾기만큼 중요했다",
+          "headingEn": "Instrument Behavior Had to Be Checked Alongside Chemical Sources",
+          "textKo": "대기 anomaly를 해석할 때는 실제 Mars chemistry뿐 아니라 instrument calibration, sampling sequence, contamination possibility를 함께 확인해야 한다. SAM team이 여러 Martian year의 반복측정을 비교한 이유도 일회성 reading이 아니라 persistent pattern인지 확인하기 위해서다. 반복관측이 anomaly의 신뢰도를 높였지만, 그 자체가 원인을 알려주는 것은 아니다.",
+          "textEn": "Interpreting an atmospheric anomaly requires checking calibration, sampling sequence, and contamination as well as Mars chemistry. Repeated measurements across Martian years strengthen confidence that the pattern is real without identifying its cause."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Curiosity SAM은 Gale Crater에서 oxygen의 비정상 seasonal variation을 측정했다. known atmospheric chemistry만으로 production/removal mechanism이 완전히 설명되지 않아 surface chemistry source·sink가 연구되고 있다.\n\n**확인되지 않음:** exact chemical mechanism은 확정되지 않았고 biological origin을 입증하는 evidence도 없다.",
+          "textEn": "**Established:** Curiosity SAM measured anomalous seasonal oxygen variation in Gale Crater, and known atmospheric chemistry has not fully explained the source/sink mechanism.\n\n**Not established:** The exact chemical mechanism remains unresolved, and there is no evidence establishing a biological origin."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Curiosity SAM은 Gale Crater에서 oxygen의 비정상 seasonal variation을 측정했다. known atmospheric chemistry만으로 production/removal mechanism이 완전히 설명되지 않아 surface chemistry source·sink가 연구되고 있다.\n\n**확인되지 않음:** exact chemical mechanism은 확정되지 않았고 biological origin을 입증하는 evidence도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "chemistry",
+        "repeat",
+        "biology",
+        "methane",
+        "instrument-055"
+      ]
+    },
+    "en": {
+      "headline": "Why Does Mars Oxygen Rise and Fall More Strangely Than Expected?",
+      "hook": "Curiosity’s oxygen anomaly is real, but “oxygen equals life” is not the conclusion. The current mystery is a missing chemical source-and-sink process.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "Curiosity가 여러 화성년에 걸쳐 대기를 재자 산소가 예상보다 이상하게 움직였다",
+          "headingEn": "Curiosity Found Oxygen Behaving Unexpectedly Across Multiple Martian Years",
+          "textKo": "Curiosity SAM은 Gale Crater near-surface atmosphere를 여러 Martian years 동안 반복측정했다. NASA는 nitrogen과 argon은 seasonal pressure 변화와 예상대로 움직였지만 oxygen은 spring/summer에 예상보다 증가하고 autumn에 감소하는 pattern을 보였다고 설명한다. anomalous seasonal variation 자체는 실제 measurement다.",
+          "textEn": "Curiosity SAM repeatedly measured the Gale Crater atmosphere and found oxygen rising and falling more strongly than expected, unlike nitrogen and argon. The anomaly itself is measured."
+        },
+        {
+          "blockId": "chemistry",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "known atmospheric chemistry만으로 source와 sink를 닫지 못했다",
+          "headingEn": "Known Atmospheric Chemistry Did Not Close the Oxygen Budget",
+          "textKo": "Mars seasonal CO2 cycle은 total pressure를 크게 바꾸고 다른 gases의 relative concentration도 움직인다. 그런데 observed oxygen pattern은 simple dilution만으로 충분히 설명되지 않았다. 그래서 soil/mineral chemistry를 포함한 extra source와 sink 가능성이 검토됐다.",
+          "textEn": "Mars seasonal CO2 cycles alter total pressure, but the oxygen pattern was not explained well enough by simple dilution, motivating investigation of additional soil or mineral sources and sinks."
+        },
+        {
+          "blockId": "repeat",
+          "type": "BACKGROUND",
+          "headingKo": "같은 계절에 매년 똑같은 양이 나온 것도 아니었다",
+          "headingEn": "The Amplitude Did Not Repeat Exactly Each Martian Year",
+          "textKo": "oxygen increase/decrease는 seasonal tendency를 보이면서도 year-to-year amount가 동일하지 않았다. 이는 단순 equilibrium reaction보다 time-varying reservoir 또는 surface process가 필요할 수 있음을 암시한다.",
+          "textEn": "The seasonal tendency did not repeat with exactly the same amplitude each year, suggesting a time-varying reservoir or surface process may be involved."
+        },
+        {
+          "blockId": "biology",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "산소가 이상하다고 생명활동이 입증되는 것은 아니다",
+          "headingEn": "Unexpected Oxygen Does Not Establish Biology",
+          "textKo": "Earth에서는 oxygen이 biology와 강하게 연결되지만 Mars에서는 photochemistry, perchlorates, soil minerals, radiation-driven reactions 같은 abiotic pathway도 고려해야 한다. NASA 연구진도 biological explanation을 입증하는 evidence를 제시하지 않는다. “설명되지 않음”은 “생명체가 만들었다”의 동의어가 아니다.",
+          "textEn": "On Earth oxygen is strongly associated with biology, but Mars requires abiotic pathways to be considered. NASA does not present evidence establishing a biological explanation; unexplained is not synonymous with life."
+        },
+        {
+          "blockId": "methane",
+          "type": "AFTERMATH",
+          "headingKo": "methane mystery와 닮았지만 둘을 하나의 biological source로 묶을 수는 없다",
+          "headingEn": "The Pattern Echoes the Methane Mystery Without Proving One Biological Source",
+          "textKo": "Curiosity는 methane variation도 관측했고 oxygen pattern과 함께 surface-atmosphere chemistry가 복잡함을 보여준다. 그러나 temporal correlation이 biological source를 일관되게 지지한다고 확정되지 않았다. 두 anomaly를 “생명 signal 두 개”로 합치는 것은 evidence를 넘는다.",
+          "textEn": "Curiosity has also measured methane variability, but the two anomalies do not establish one biological source. Treating them as two confirmed life signals goes beyond the evidence."
+        },
+        {
+          "blockId": "instrument-055",
+          "type": "BACKGROUND",
+          "headingKo": "이상현상이 장비오류인지 확인하는 것도 source 찾기만큼 중요했다",
+          "headingEn": "Instrument Behavior Had to Be Checked Alongside Chemical Sources",
+          "textKo": "대기 anomaly를 해석할 때는 실제 Mars chemistry뿐 아니라 instrument calibration, sampling sequence, contamination possibility를 함께 확인해야 한다. SAM team이 여러 Martian year의 반복측정을 비교한 이유도 일회성 reading이 아니라 persistent pattern인지 확인하기 위해서다. 반복관측이 anomaly의 신뢰도를 높였지만, 그 자체가 원인을 알려주는 것은 아니다.",
+          "textEn": "Interpreting an atmospheric anomaly requires checking calibration, sampling sequence, and contamination as well as Mars chemistry. Repeated measurements across Martian years strengthen confidence that the pattern is real without identifying its cause."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Curiosity SAM은 Gale Crater에서 oxygen의 비정상 seasonal variation을 측정했다. known atmospheric chemistry만으로 production/removal mechanism이 완전히 설명되지 않아 surface chemistry source·sink가 연구되고 있다.\n\n**확인되지 않음:** exact chemical mechanism은 확정되지 않았고 biological origin을 입증하는 evidence도 없다.",
+          "textEn": "**Established:** Curiosity SAM measured anomalous seasonal oxygen variation in Gale Crater, and known atmospheric chemistry has not fully explained the source/sink mechanism.\n\n**Not established:** The exact chemical mechanism remains unresolved, and there is no evidence establishing a biological origin."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Curiosity SAM measured anomalous seasonal oxygen variation in Gale Crater, and known atmospheric chemistry has not fully explained the source/sink mechanism.\n\n**Not established:** The exact chemical mechanism remains unresolved, and there is no evidence establishing a biological origin.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "chemistry",
+        "repeat",
+        "biology",
+        "methane",
+        "instrument-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MARS-O2-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Curiosity SAM은 Gale Crater에서 multi-year oxygen seasonal variation을 측정했다.",
+      "statementEn": "Curiosity SAM measured multi-year seasonal oxygen variation in Gale Crater.",
+      "sourceRefs": [
+        "MARS_O2_NASA"
+      ]
+    },
+    {
+      "claimId": "MARS-O2-C2",
+      "status": "CONFIRMED",
+      "statementKo": "oxygen은 N2/Ar보다 예상 pressure cycle에서 벗어난 seasonal behavior를 보였다.",
+      "statementEn": "Oxygen departed from expected seasonal behavior seen in nitrogen and argon.",
+      "sourceRefs": [
+        "MARS_O2_NASA"
+      ]
+    },
+    {
+      "claimId": "MARS-O2-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "exact source/sink mechanism은 확정되지 않았다.",
+      "statementEn": "The exact source-and-sink mechanism is not established.",
+      "sourceRefs": [
+        "MARS_O2_NASA"
+      ]
+    },
+    {
+      "claimId": "MARS-O2-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "biological origin을 입증하는 evidence는 없다.",
+      "statementEn": "No evidence establishes a biological origin.",
+      "sourceRefs": [
+        "MARS_O2_NASA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MARS_O2_NASA",
+      "title": "With Mars Methane Mystery Unsolved, Curiosity Serves Scientists a New One: Oxygen",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/missions/with-mars-methane-mystery-unsolved-curiosity-serves-scientists-a-new-one-oxygen/",
+      "sourceType": "NASA_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "mo2-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "CO2 seasonal pressure cycle와 N2/Ar expected behavior 대비 O2 anomaly.",
+      "captionEn": "CO2 seasonal pressure cycle, expected N2/Ar behavior, and anomalous O2 response.",
+      "altKo": "CO2 seasonal pressure cycle와 N2/Ar expected behavior 대비 O2 anomaly.",
+      "altEn": "CO2 seasonal pressure cycle, expected N2/Ar behavior, and anomalous O2 response.",
+      "sourceRefs": [
+        "MARS_O2_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mars-oxygen__v01__ko.png",
+          "sha256": "2cf238217b3675844e6226af0a6dfaa56a1be15f1bf793922e8410f57bb284ea",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mars-oxygen__v01__en.png",
+          "sha256": "c2fbbec04ae939735db76fc993776c8454afb8929e8081a3ff9a5ae1546c7126",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mo2-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "measured anomaly / chemical source-sink hypotheses / biological claim을 분리.",
+      "captionEn": "Separate measured anomaly, chemical source-sink hypotheses, and biological claims.",
+      "altKo": "measured anomaly / chemical source-sink hypotheses / biological claim을 분리.",
+      "altEn": "Separate measured anomaly, chemical source-sink hypotheses, and biological claims.",
+      "sourceRefs": [
+        "MARS_O2_NASA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mars-oxygen__v02__ko.png",
+          "sha256": "1d28d8beed36f541eee03c6464356645c0cb5b6d562d0832029beed9940e655a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mars-oxygen__v02__en.png",
+          "sha256": "7631b81bea66252f4041df841c2b6b39fcaf2dd67b28d0ece1c31d74857e0fce",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "Mars / Gale Crater"
+    ],
+    "places": [
+      {
+        "name": "Gale Crater",
+        "role": "Curiosity measurement site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "NASA",
+      "Curiosity",
+      "SAM"
+    ],
+    "dateRange": {
+      "start": "Curiosity mission",
+      "end": "present",
+      "precision": "multi-Martian-year atmospheric observations"
+    },
+    "era": "Modern planetary science",
+    "resolution": "OXYGEN_ANOMALY_MEASURED_MECHANISM_UNRESOLVED_BIOLOGY_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Mars oxygen mystery",
+      "Curiosity oxygen"
+    ],
+    "relatedCases": [
+      "mars-methane"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1621,
+    "enBodyWords": 209,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH19",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "viking-sunstone",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "바이킹의 태양석",
+    "canonicalTitleEn": "Viking Sunstone",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "흐린 북대서양에서 ‘태양석’으로 방향을 찾았다는 이야기는 어디까지 사실일까",
+      "hook": "복굴절 calcite로 하늘의 편광을 읽어 숨은 태양을 찾는 방법은 실험실에서 작동한다. 하지만 ‘작동 가능한 기술’과 ‘바이킹이 실제로 널리 사용한 기술’ 사이에는 아직 역사증거의 간격이 남아 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "흐린 하늘에서도 ‘태양이 어디 있는지’ 찾을 수 있었나",
+          "headingEn": "Could a Crystal Reveal the Sun Behind Clouds?",
+          "textKo": "북대서양 항해에서 태양은 중요한 방향기준이지만 구름·안개가 끼면 보이지 않는다. 아이슬란드 사가의 ‘sunstone’ 언급과 복굴절 광물 Iceland spar는 이 빈틈을 연결하는 유명한 가설을 만들었다. 2011년 실험연구는 calcite 결정으로 흐린 하늘의 편광패턴을 읽어 태양방향을 추정할 물리적 가능성을 보여줬다. **‘가능하다’는 실험결과와 ‘바이킹이 실제로 널리 사용했다’는 역사증거는 구분해야 한다.**",
+          "textEn": "The Sun is a powerful directional reference in North Atlantic navigation, but clouds and fog can hide it. References to a 'sunstone' in Icelandic saga tradition and the birefringence of Iceland spar inspired a famous hypothesis. Experiments reported in 2011 showed that calcite could exploit sky polarization to estimate the Sun’s direction under cloudy conditions. Demonstrating physical feasibility is different from proving widespread Viking use."
+        },
+        {
+          "blockId": "physics-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "핵심은 복굴절과 편광이다",
+          "headingEn": "The Key Physics Is Birefringence and Polarized Skylight",
+          "textKo": "Iceland spar는 빛을 두 갈래로 나누는 복굴절 결정이다. 하늘빛은 태양 위치에 따라 편광패턴을 가지며, 결정을 회전시키면서 두 상의 밝기 관계를 비교하면 숨은 태양방향을 추정할 수 있다. Nature Materials의 해설은 Ropars 연구가 이 방법의 정확도를 실험적으로 지지했다고 정리한다. **마법의 돌이 아니라 하늘빛의 편광을 읽는 광학도구라는 그림**이다.",
+          "textEn": "Iceland spar is a birefringent crystal that splits incoming light into two rays. Skylight carries a polarization pattern related to the Sun’s position; by rotating the crystal and comparing the two images, an observer can estimate where the hidden Sun lies. Nature Materials summarized Ropars and colleagues’ experiments as strong support for this physical method. The 'sunstone' is therefore a potential optical instrument, not a magical object."
+        },
+        {
+          "blockId": "history-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "사가의 sunstone과 실제 바이킹 항해장비를 바로 동일시할 수는 없다",
+          "headingEn": "A Saga Sunstone Is Not Automatically a Viking Navigational Instrument",
+          "textKo": "사가에 sunstone이 등장한다는 사실은 문화적 출발점이지만, 실제 바이킹 시대 선박에서 같은 목적의 calcite 도구가 직접 출토된 사례는 제한적이다. Nature의 2011 해설도 가설에 물리적 근거가 강해졌다고 평가하면서 ‘hypothesis’로 다룬다. **문헌 속 물체, 가능한 광물, 실험적으로 가능한 기술이 서로 맞는다고 해서 실제 항해 관행까지 자동으로 입증되는 것은 아니다.**",
+          "textEn": "Saga references to a sunstone provide a cultural starting point, but direct archaeological evidence of calcite navigational tools from Viking-age ships is limited. Nature's 2011 commentary treated the idea as a strengthened hypothesis rather than settled history. Literary object, plausible mineral and experimentally possible technique can align without proving routine navigational practice."
+        },
+        {
+          "blockId": "shipwreck-04",
+          "type": "BACKGROUND",
+          "headingKo": "후대 난파선의 결정체는 ‘항해용 편광도구’ 가능성을 다시 자극했다",
+          "headingEn": "A Crystal From a Later Shipwreck Revived the Navigation Hypothesis",
+          "textKo": "Channel Islands의 Alderney Elizabethan wreck에서 calcite 결정이 발견됐다는 사실은 후대 유럽항해에서도 이런 광물이 배에 있었을 가능성을 보여준다. 그러나 이 난파선은 Viking Age가 아니라 훨씬 뒤 시대다. **후대 선박의 결정체는 기술의 가능성과 연속성 질문을 강화하지만, 바이킹 사용의 직접 고고학증거로 소급할 수는 없다.**",
+          "textEn": "A calcite crystal recovered from an Elizabethan wreck near Alderney showed that such material could be present aboard later European ships. But this wreck is centuries later than the Viking Age. The find can motivate questions about practical use and continuity, but it cannot be projected backward as direct archaeological proof of Viking navigation."
+        },
+        {
+          "blockId": "limits-045",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "좋은 실험이 역사사용을 증명하지는 않는다",
+          "headingEn": "A Successful Experiment Is Not the Same as Historical Proof",
+          "textKo": "sunstone 연구의 핵심 매력은 현대실험에서 실제로 방향추정이 가능하다는 점이다. 그러나 실험은 ‘이 기술이 가능했다’를 보여주고, 고고학은 ‘그 시대 사람들이 실제로 사용했다’를 보여줘야 한다. 현재 둘 사이에는 gap이 남아 있다. **가능성·문헌힌트·후대 결정체 발견이 서로 보강해도, Viking Age 선박에서 항해용 sunstone 세트가 직접 발견된 수준의 증거는 아니다.**",
+          "textEn": "The strongest appeal of the sunstone hypothesis is that modern experiments can actually estimate the hidden Sun. But experiment establishes feasibility; archaeology must establish historical use. A gap remains between the two. Feasibility, literary hints and later shipboard crystals can reinforce one another without equalling a Viking-age navigational kit recovered in context."
+        },
+        {
+          "blockId": "navigation-048",
+          "type": "AFTERMATH",
+          "headingKo": "태양석 하나만으로 대양항해를 설명할 필요도 없다",
+          "headingEn": "A Sunstone Would Have Been One Aid Among Several, Not a Complete Navigation System",
+          "textKo": "바이킹 항해는 해안지형·바람·파도·새·태양·별 같은 여러 단서를 조합했을 가능성이 높다. sunstone 가설이 맞더라도 그것이 나침반을 완전히 대체한 ‘단 하나의 비밀장치’였다고 볼 필요는 없다. **편광결정은 흐린 날 방향오차를 줄이는 보조수단이었을 가능성이 더 현실적이며, 실제 사용여부는 여전히 고고학자료가 더 필요하다.**",
+          "textEn": "Viking navigation likely combined coastline, wind, waves, birds, Sun and stars. Even if the sunstone hypothesis is correct, the crystal need not have been a single secret device replacing every other navigational cue. It is more plausibly framed as a potential aid under overcast conditions, with actual historical use still requiring stronger archaeological evidence."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** calcite/Iceland spar의 복굴절과 하늘 편광을 이용해 구름 뒤 태양방향을 추정하는 방법은 실험적으로 물리적 가능성이 지지된다. saga 전통에는 sunstone 언급이 존재한다.\n\n**확인되지 않음:** 바이킹 항해자들이 이 calcite 도구를 북대서양 항해에서 실제로 표준장비처럼 널리 사용했다는 직접 고고학 증거는 충분하지 않다. 후대 난파선의 calcite도 바이킹 사용을 직접 증명하지 않는다.",
+          "textEn": "**Established:** Experiments support the physical feasibility of using birefringent calcite/Iceland spar and sky polarization to estimate the Sun’s direction under cloud. Saga tradition contains references to a sunstone.\n\n**Not established:** Direct archaeological evidence is insufficient to show that Viking navigators routinely used calcite sunstones as standard North Atlantic equipment. Calcite from a later shipwreck does not directly prove Viking use."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** calcite/Iceland spar의 복굴절과 하늘 편광을 이용해 구름 뒤 태양방향을 추정하는 방법은 실험적으로 물리적 가능성이 지지된다. saga 전통에는 sunstone 언급이 존재한다.\n\n**확인되지 않음:** 바이킹 항해자들이 이 calcite 도구를 북대서양 항해에서 실제로 표준장비처럼 널리 사용했다는 직접 고고학 증거는 충분하지 않다. 후대 난파선의 calcite도 바이킹 사용을 직접 증명하지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "physics-02",
+        "history-03",
+        "shipwreck-04",
+        "limits-045",
+        "navigation-048"
+      ]
+    },
+    "en": {
+      "headline": "Could Viking “Sunstones” Really Find the Sun Through Clouds?",
+      "hook": "Experiments show that birefringent calcite can use sky polarization to estimate a hidden Sun. The historical gap is whether Vikings actually used the method routinely.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "흐린 하늘에서도 ‘태양이 어디 있는지’ 찾을 수 있었나",
+          "headingEn": "Could a Crystal Reveal the Sun Behind Clouds?",
+          "textKo": "북대서양 항해에서 태양은 중요한 방향기준이지만 구름·안개가 끼면 보이지 않는다. 아이슬란드 사가의 ‘sunstone’ 언급과 복굴절 광물 Iceland spar는 이 빈틈을 연결하는 유명한 가설을 만들었다. 2011년 실험연구는 calcite 결정으로 흐린 하늘의 편광패턴을 읽어 태양방향을 추정할 물리적 가능성을 보여줬다. **‘가능하다’는 실험결과와 ‘바이킹이 실제로 널리 사용했다’는 역사증거는 구분해야 한다.**",
+          "textEn": "The Sun is a powerful directional reference in North Atlantic navigation, but clouds and fog can hide it. References to a 'sunstone' in Icelandic saga tradition and the birefringence of Iceland spar inspired a famous hypothesis. Experiments reported in 2011 showed that calcite could exploit sky polarization to estimate the Sun’s direction under cloudy conditions. Demonstrating physical feasibility is different from proving widespread Viking use."
+        },
+        {
+          "blockId": "physics-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "핵심은 복굴절과 편광이다",
+          "headingEn": "The Key Physics Is Birefringence and Polarized Skylight",
+          "textKo": "Iceland spar는 빛을 두 갈래로 나누는 복굴절 결정이다. 하늘빛은 태양 위치에 따라 편광패턴을 가지며, 결정을 회전시키면서 두 상의 밝기 관계를 비교하면 숨은 태양방향을 추정할 수 있다. Nature Materials의 해설은 Ropars 연구가 이 방법의 정확도를 실험적으로 지지했다고 정리한다. **마법의 돌이 아니라 하늘빛의 편광을 읽는 광학도구라는 그림**이다.",
+          "textEn": "Iceland spar is a birefringent crystal that splits incoming light into two rays. Skylight carries a polarization pattern related to the Sun’s position; by rotating the crystal and comparing the two images, an observer can estimate where the hidden Sun lies. Nature Materials summarized Ropars and colleagues’ experiments as strong support for this physical method. The 'sunstone' is therefore a potential optical instrument, not a magical object."
+        },
+        {
+          "blockId": "history-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "사가의 sunstone과 실제 바이킹 항해장비를 바로 동일시할 수는 없다",
+          "headingEn": "A Saga Sunstone Is Not Automatically a Viking Navigational Instrument",
+          "textKo": "사가에 sunstone이 등장한다는 사실은 문화적 출발점이지만, 실제 바이킹 시대 선박에서 같은 목적의 calcite 도구가 직접 출토된 사례는 제한적이다. Nature의 2011 해설도 가설에 물리적 근거가 강해졌다고 평가하면서 ‘hypothesis’로 다룬다. **문헌 속 물체, 가능한 광물, 실험적으로 가능한 기술이 서로 맞는다고 해서 실제 항해 관행까지 자동으로 입증되는 것은 아니다.**",
+          "textEn": "Saga references to a sunstone provide a cultural starting point, but direct archaeological evidence of calcite navigational tools from Viking-age ships is limited. Nature's 2011 commentary treated the idea as a strengthened hypothesis rather than settled history. Literary object, plausible mineral and experimentally possible technique can align without proving routine navigational practice."
+        },
+        {
+          "blockId": "shipwreck-04",
+          "type": "BACKGROUND",
+          "headingKo": "후대 난파선의 결정체는 ‘항해용 편광도구’ 가능성을 다시 자극했다",
+          "headingEn": "A Crystal From a Later Shipwreck Revived the Navigation Hypothesis",
+          "textKo": "Channel Islands의 Alderney Elizabethan wreck에서 calcite 결정이 발견됐다는 사실은 후대 유럽항해에서도 이런 광물이 배에 있었을 가능성을 보여준다. 그러나 이 난파선은 Viking Age가 아니라 훨씬 뒤 시대다. **후대 선박의 결정체는 기술의 가능성과 연속성 질문을 강화하지만, 바이킹 사용의 직접 고고학증거로 소급할 수는 없다.**",
+          "textEn": "A calcite crystal recovered from an Elizabethan wreck near Alderney showed that such material could be present aboard later European ships. But this wreck is centuries later than the Viking Age. The find can motivate questions about practical use and continuity, but it cannot be projected backward as direct archaeological proof of Viking navigation."
+        },
+        {
+          "blockId": "limits-045",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "좋은 실험이 역사사용을 증명하지는 않는다",
+          "headingEn": "A Successful Experiment Is Not the Same as Historical Proof",
+          "textKo": "sunstone 연구의 핵심 매력은 현대실험에서 실제로 방향추정이 가능하다는 점이다. 그러나 실험은 ‘이 기술이 가능했다’를 보여주고, 고고학은 ‘그 시대 사람들이 실제로 사용했다’를 보여줘야 한다. 현재 둘 사이에는 gap이 남아 있다. **가능성·문헌힌트·후대 결정체 발견이 서로 보강해도, Viking Age 선박에서 항해용 sunstone 세트가 직접 발견된 수준의 증거는 아니다.**",
+          "textEn": "The strongest appeal of the sunstone hypothesis is that modern experiments can actually estimate the hidden Sun. But experiment establishes feasibility; archaeology must establish historical use. A gap remains between the two. Feasibility, literary hints and later shipboard crystals can reinforce one another without equalling a Viking-age navigational kit recovered in context."
+        },
+        {
+          "blockId": "navigation-048",
+          "type": "AFTERMATH",
+          "headingKo": "태양석 하나만으로 대양항해를 설명할 필요도 없다",
+          "headingEn": "A Sunstone Would Have Been One Aid Among Several, Not a Complete Navigation System",
+          "textKo": "바이킹 항해는 해안지형·바람·파도·새·태양·별 같은 여러 단서를 조합했을 가능성이 높다. sunstone 가설이 맞더라도 그것이 나침반을 완전히 대체한 ‘단 하나의 비밀장치’였다고 볼 필요는 없다. **편광결정은 흐린 날 방향오차를 줄이는 보조수단이었을 가능성이 더 현실적이며, 실제 사용여부는 여전히 고고학자료가 더 필요하다.**",
+          "textEn": "Viking navigation likely combined coastline, wind, waves, birds, Sun and stars. Even if the sunstone hypothesis is correct, the crystal need not have been a single secret device replacing every other navigational cue. It is more plausibly framed as a potential aid under overcast conditions, with actual historical use still requiring stronger archaeological evidence."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** calcite/Iceland spar의 복굴절과 하늘 편광을 이용해 구름 뒤 태양방향을 추정하는 방법은 실험적으로 물리적 가능성이 지지된다. saga 전통에는 sunstone 언급이 존재한다.\n\n**확인되지 않음:** 바이킹 항해자들이 이 calcite 도구를 북대서양 항해에서 실제로 표준장비처럼 널리 사용했다는 직접 고고학 증거는 충분하지 않다. 후대 난파선의 calcite도 바이킹 사용을 직접 증명하지 않는다.",
+          "textEn": "**Established:** Experiments support the physical feasibility of using birefringent calcite/Iceland spar and sky polarization to estimate the Sun’s direction under cloud. Saga tradition contains references to a sunstone.\n\n**Not established:** Direct archaeological evidence is insufficient to show that Viking navigators routinely used calcite sunstones as standard North Atlantic equipment. Calcite from a later shipwreck does not directly prove Viking use."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Experiments support the physical feasibility of using birefringent calcite/Iceland spar and sky polarization to estimate the Sun’s direction under cloud. Saga tradition contains references to a sunstone.\n\n**Not established:** Direct archaeological evidence is insufficient to show that Viking navigators routinely used calcite sunstones as standard North Atlantic equipment. Calcite from a later shipwreck does not directly prove Viking use.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "physics-02",
+        "history-03",
+        "shipwreck-04",
+        "limits-045",
+        "navigation-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "VIK-C1",
+      "status": "SUPPORTED",
+      "statementKo": "Iceland spar/calcite는 편광 하늘빛을 이용해 구름 뒤 태양방향을 찾는 데 물리적으로 사용할 수 있다.",
+      "statementEn": "Iceland spar/calcite can physically be used with polarized skylight to estimate the Sun’s direction behind cloud.",
+      "sourceRefs": [
+        "VIK_ROPARS",
+        "VIK_NATURE2011"
+      ]
+    },
+    {
+      "claimId": "VIK-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "바이킹이 이 기술을 실제 표준항해법으로 널리 사용했다는 직접고고학 증거는 확립되지 않았다.",
+      "statementEn": "Direct archaeological evidence does not establish widespread routine Viking use of this method.",
+      "sourceRefs": [
+        "VIK_NATURE2011"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "VIK_NATURE2011",
+      "title": "A light compass?",
+      "publisher": "Nature Materials / Philip Ball",
+      "url": "https://www.nature.com/articles/nmat3188",
+      "sourceType": "PEER_REVIEWED_COMMENTARY"
+    },
+    {
+      "sourceId": "VIK_ROPARS",
+      "title": "A depolarizer as a possible precise sunstone for Viking navigation by polarized skylight",
+      "publisher": "Proceedings of the Royal Society A / Ropars et al. 2011",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2011.0369",
+      "sourceType": "PEER_REVIEWED_PRIMARY_EXPERIMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "vik-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "편광 하늘빛 → calcite 복굴절 → 밝기균형 → 숨은 태양방향 추정 과정.",
+      "captionEn": "Polarized skylight → calcite birefringence → image balance → hidden-Sun direction.",
+      "altKo": "편광 하늘빛 → calcite 복굴절 → 밝기균형 → 숨은 태양방향 추정 과정.",
+      "altEn": "Polarized skylight → calcite birefringence → image balance → hidden-Sun direction.",
+      "sourceRefs": [
+        "VIK_ROPARS",
+        "VIK_NATURE2011"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "viking-sunstone__v01__ko.png",
+          "sha256": "9fa7af0b9aaf9c5d195b3a7d6fda85457788fc960ec4635d1249d9550f731959",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "viking-sunstone__v01__en.png",
+          "sha256": "38429781c741355d55041abcddcaa26fcd942ef8e476ed6ea0aa52a86e68b539",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "vik-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실험가능성·문헌 sunstone·실제 바이킹 사용증거를 분리.",
+      "captionEn": "Separating experimental feasibility, saga sunstone references and evidence for actual Viking use.",
+      "altKo": "실험가능성·문헌 sunstone·실제 바이킹 사용증거를 분리.",
+      "altEn": "Separating experimental feasibility, saga sunstone references and evidence for actual Viking use.",
+      "sourceRefs": [
+        "VIK_ROPARS",
+        "VIK_NATURE2011"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "viking-sunstone__v02__ko.png",
+          "sha256": "cb185ad0f74a248c5d0a6571d1e3e27fc3ba825b4e2d8a3018ed44121aa840a9",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "viking-sunstone__v02__en.png",
+          "sha256": "cf7955af953600d1d44d267e2f5548146b0aca5b3817ac883d23bc1f7fbff0cd",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "secondaryGenres": [
+      "Technology / Lost Invention"
+    ],
+    "countries": [
+      "Iceland / Nordic world"
+    ],
+    "regions": [
+      "North Atlantic"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [],
+    "dateRange": {
+      "start": "Viking Age",
+      "end": "2011",
+      "precision": "historical hypothesis tested in modern experiments"
+    },
+    "era": "Viking Age / modern experimental archaeology",
+    "resolution": "PHYSICAL_METHOD_PLAUSIBLE_HISTORICAL_ROUTINE_USE_UNPROVEN",
+    "searchAliases": [
+      "Viking sunstone",
+      "Iceland spar navigation",
+      "sunstone navigation"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1528,
+    "enBodyWords": 405,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

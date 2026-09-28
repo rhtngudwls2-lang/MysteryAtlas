@@ -1,0 +1,402 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-stargate",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "프로젝트 스타게이트",
+    "canonicalTitleEn": "Project STARGATE / GRILL FLAME",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "CIA가 진짜 ‘원격투시’를 연구했다—그렇다면 효과도 진짜였나",
+      "hook": "프로그램의 존재는 음모론이 아니다. 공개문서에는 실제 세션·그림·평가가 남아 있다. 하지만 archive에는 잘 맞은 사례와 완전히 실패한 사례가 함께 있고, 1995년 실무판정은 '실제 연구했다'와 '쓸 만했다'가 다른 질문임을 보여준다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "미국 정보기관은 실제로 remote viewing을 연구했다",
+          "headingEn": "U.S. Intelligence Really Did Fund and Use Remote-Viewing Research",
+          "textKo": "Cold War 동안 CIA·DIA·Army 관련 프로그램은 remote viewing—멀리 떨어진 target을 정신적으로 묘사한다는 주장—을 실제 연구·operational tasking 대상으로 다뤘다. CIA Reading Room에는 GRILL FLAME·CENTER LANE·STARGATE 관련 session report와 drawing, evaluation document가 대량 공개돼 있다. **프로그램의 실재는 문서로 확인된다.**",
+          "textEn": "During the Cold War, CIA-, DIA-, and Army-related programs treated 'remote viewing'—the claimed ability to mentally describe distant targets—as an actual research and operational tasking subject. The CIA Reading Room contains numerous GRILL FLAME, CENTER LANE, and STARGATE session reports, drawings, and evaluations. The programs themselves are documented."
+        },
+        {
+          "blockId": "sessions-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "세션기록에는 잘 맞은 사례와 전혀 맞지 않은 사례가 함께 남아 있다",
+          "headingEn": "The Session Archive Contains Both Apparent Hits and Clear Misses",
+          "textKo": "예를 들어 CIA 공개 Session XCI report는 viewer description이 target geography와 잘 correlate했다고 내부평가하지만, Session LIII report는 absolutely no target correlation이라고 적는다. **archive에 성공사례가 있다는 사실만 뽑거나 실패사례만 뽑으면 전체 성능을 왜곡할 수 있다. systematic evaluation이 필요한 이유다.**",
+          "textEn": "For example, declassified Session XCI says the viewer's impressions correlated well with target geography, while Session LIII states there was 'absolutely no target correlation.' Selecting only apparent successes or only failures would distort the archive; systematic evaluation is essential."
+        },
+        {
+          "blockId": "evaluation-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1995년 외부평가는 operational value를 핵심질문으로 삼았다",
+          "headingEn": "The 1995 External Evaluation Focused on Operational Value",
+          "textKo": "CIA가 의뢰한 1995년 evaluation은 program의 research와 operational tasking을 검토했다. 공개된 자료는 1994~95년 들어 tasking organization이 제공정보의 accuracy·value를 numerical method로 평가하도록 했음을 보여준다. **초자연적 메커니즘이 가능한지보다 정보기관이 반복해서 쓸 만큼 정확하고 유용했는지가 실무판정의 핵심이었다.**",
+          "textEn": "The CIA-sponsored 1995 evaluation examined both research and operational tasking. Declassified material shows that by 1994–95 tasking organizations were numerically evaluating the accuracy and value of remote-viewing inputs. For an intelligence program, repeatable operational usefulness mattered more than whether a paranormal mechanism sounded possible."
+        },
+        {
+          "blockId": "termination-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "프로그램이 존재했다는 사실이 능력이 입증됐다는 뜻은 아니다",
+          "headingEn": "A Real Program Does Not Mean the Claimed Ability Was Proven",
+          "textKo": "1995년 internal presentation draft는 marginal current value와 budget을 이유로 in-house RV capability 종료를 권고하는 방향을 적고 있다. 외부평가에서도 operational intelligence tool로 지속하기 충분한 실용성을 입증하지 못했다는 결론이 핵심이 됐다. **정부가 연구했다는 사실과 연구대상이 과학적으로 확립됐다는 주장은 완전히 별개다.**",
+          "textEn": "A 1995 declassified presentation draft discusses terminating in-house remote-viewing capability in light of marginal current value and budget. The broader evaluation did not establish sufficient consistent operational usefulness to justify continuation as an intelligence tool. Government research does not equal scientific validation of the claimed ability."
+        },
+        {
+          "blockId": "method-045",
+          "type": "BACKGROUND",
+          "headingKo": "remote viewing 평가는 '한 번 맞았다'보다 baseline·blind protocol·반복성이 중요하다",
+          "headingEn": "Remote Viewing Requires Baselines, Blinding, and Repeatability—Not One Striking Hit",
+          "textKo": "session 하나가 target과 비슷해 보이는 것만으로 능력을 판정하면 confirmation bias를 피하기 어렵다. 그래서 STARGATE 평가의 핵심은 blind protocol, target pool, scoring, repeated tasking, operational user feedback였다. **개별 anecdote보다 aggregate performance가 intelligence utility 판정에 더 중요하다.**",
+          "textEn": "A single apparently impressive session is vulnerable to confirmation bias. Evaluation therefore depends on blinding, target pools, scoring, repeated tasking, and user feedback; aggregate performance matters more than one anecdote."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 미국 정보기관·군은 remote viewing을 수년간 실제 연구·tasking했고 session report와 evaluation document가 대량 존재한다. 공개기록에는 apparent hit와 clear miss가 모두 있다.\n\n**확인되지 않음:** 프로그램의 존재가 remote viewing의 초자연적 mechanism 또는 일관된 operational effectiveness를 입증하지 않는다. 1995년 평가·종료과정은 지속적 intelligence utility가 충분히 확립되지 않았음을 보여준다.",
+          "textEn": "**Established:** U.S. intelligence and military organizations genuinely researched and tasked remote viewing for years, leaving extensive session and evaluation records containing both apparent hits and clear misses.\n\n**Not established:** The program's existence does not establish a paranormal mechanism or consistent operational effectiveness. The 1995 evaluation and termination process show that sufficient intelligence utility was not demonstrated for continuation."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 미국 정보기관·군은 remote viewing을 수년간 실제 연구·tasking했고 session report와 evaluation document가 대량 존재한다. 공개기록에는 apparent hit와 clear miss가 모두 있다.\n\n**확인되지 않음:** 프로그램의 존재가 remote viewing의 초자연적 mechanism 또는 일관된 operational effectiveness를 입증하지 않는다. 1995년 평가·종료과정은 지속적 intelligence utility가 충분히 확립되지 않았음을 보여준다.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "sessions-02",
+        "evaluation-03",
+        "termination-04",
+        "method-045"
+      ]
+    },
+    "en": {
+      "headline": "The CIA Really Studied Remote Viewing—But Did It Actually Work Reliably?",
+      "hook": "The program is not a conspiracy theory: declassified sessions, drawings, and evaluations are real. But the archive contains both apparent hits and complete misses, and the 1995 review shows why 'researched' and 'operationally useful' are different questions.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "미국 정보기관은 실제로 remote viewing을 연구했다",
+          "headingEn": "U.S. Intelligence Really Did Fund and Use Remote-Viewing Research",
+          "textKo": "Cold War 동안 CIA·DIA·Army 관련 프로그램은 remote viewing—멀리 떨어진 target을 정신적으로 묘사한다는 주장—을 실제 연구·operational tasking 대상으로 다뤘다. CIA Reading Room에는 GRILL FLAME·CENTER LANE·STARGATE 관련 session report와 drawing, evaluation document가 대량 공개돼 있다. **프로그램의 실재는 문서로 확인된다.**",
+          "textEn": "During the Cold War, CIA-, DIA-, and Army-related programs treated 'remote viewing'—the claimed ability to mentally describe distant targets—as an actual research and operational tasking subject. The CIA Reading Room contains numerous GRILL FLAME, CENTER LANE, and STARGATE session reports, drawings, and evaluations. The programs themselves are documented."
+        },
+        {
+          "blockId": "sessions-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "세션기록에는 잘 맞은 사례와 전혀 맞지 않은 사례가 함께 남아 있다",
+          "headingEn": "The Session Archive Contains Both Apparent Hits and Clear Misses",
+          "textKo": "예를 들어 CIA 공개 Session XCI report는 viewer description이 target geography와 잘 correlate했다고 내부평가하지만, Session LIII report는 absolutely no target correlation이라고 적는다. **archive에 성공사례가 있다는 사실만 뽑거나 실패사례만 뽑으면 전체 성능을 왜곡할 수 있다. systematic evaluation이 필요한 이유다.**",
+          "textEn": "For example, declassified Session XCI says the viewer's impressions correlated well with target geography, while Session LIII states there was 'absolutely no target correlation.' Selecting only apparent successes or only failures would distort the archive; systematic evaluation is essential."
+        },
+        {
+          "blockId": "evaluation-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1995년 외부평가는 operational value를 핵심질문으로 삼았다",
+          "headingEn": "The 1995 External Evaluation Focused on Operational Value",
+          "textKo": "CIA가 의뢰한 1995년 evaluation은 program의 research와 operational tasking을 검토했다. 공개된 자료는 1994~95년 들어 tasking organization이 제공정보의 accuracy·value를 numerical method로 평가하도록 했음을 보여준다. **초자연적 메커니즘이 가능한지보다 정보기관이 반복해서 쓸 만큼 정확하고 유용했는지가 실무판정의 핵심이었다.**",
+          "textEn": "The CIA-sponsored 1995 evaluation examined both research and operational tasking. Declassified material shows that by 1994–95 tasking organizations were numerically evaluating the accuracy and value of remote-viewing inputs. For an intelligence program, repeatable operational usefulness mattered more than whether a paranormal mechanism sounded possible."
+        },
+        {
+          "blockId": "termination-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "프로그램이 존재했다는 사실이 능력이 입증됐다는 뜻은 아니다",
+          "headingEn": "A Real Program Does Not Mean the Claimed Ability Was Proven",
+          "textKo": "1995년 internal presentation draft는 marginal current value와 budget을 이유로 in-house RV capability 종료를 권고하는 방향을 적고 있다. 외부평가에서도 operational intelligence tool로 지속하기 충분한 실용성을 입증하지 못했다는 결론이 핵심이 됐다. **정부가 연구했다는 사실과 연구대상이 과학적으로 확립됐다는 주장은 완전히 별개다.**",
+          "textEn": "A 1995 declassified presentation draft discusses terminating in-house remote-viewing capability in light of marginal current value and budget. The broader evaluation did not establish sufficient consistent operational usefulness to justify continuation as an intelligence tool. Government research does not equal scientific validation of the claimed ability."
+        },
+        {
+          "blockId": "method-045",
+          "type": "BACKGROUND",
+          "headingKo": "remote viewing 평가는 '한 번 맞았다'보다 baseline·blind protocol·반복성이 중요하다",
+          "headingEn": "Remote Viewing Requires Baselines, Blinding, and Repeatability—Not One Striking Hit",
+          "textKo": "session 하나가 target과 비슷해 보이는 것만으로 능력을 판정하면 confirmation bias를 피하기 어렵다. 그래서 STARGATE 평가의 핵심은 blind protocol, target pool, scoring, repeated tasking, operational user feedback였다. **개별 anecdote보다 aggregate performance가 intelligence utility 판정에 더 중요하다.**",
+          "textEn": "A single apparently impressive session is vulnerable to confirmation bias. Evaluation therefore depends on blinding, target pools, scoring, repeated tasking, and user feedback; aggregate performance matters more than one anecdote."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 미국 정보기관·군은 remote viewing을 수년간 실제 연구·tasking했고 session report와 evaluation document가 대량 존재한다. 공개기록에는 apparent hit와 clear miss가 모두 있다.\n\n**확인되지 않음:** 프로그램의 존재가 remote viewing의 초자연적 mechanism 또는 일관된 operational effectiveness를 입증하지 않는다. 1995년 평가·종료과정은 지속적 intelligence utility가 충분히 확립되지 않았음을 보여준다.",
+          "textEn": "**Established:** U.S. intelligence and military organizations genuinely researched and tasked remote viewing for years, leaving extensive session and evaluation records containing both apparent hits and clear misses.\n\n**Not established:** The program's existence does not establish a paranormal mechanism or consistent operational effectiveness. The 1995 evaluation and termination process show that sufficient intelligence utility was not demonstrated for continuation."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** U.S. intelligence and military organizations genuinely researched and tasked remote viewing for years, leaving extensive session and evaluation records containing both apparent hits and clear misses.\n\n**Not established:** The program's existence does not establish a paranormal mechanism or consistent operational effectiveness. The 1995 evaluation and termination process show that sufficient intelligence utility was not demonstrated for continuation.",
+        "notEstablished": "See final fact-boundary block."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "sessions-02",
+        "evaluation-03",
+        "termination-04",
+        "method-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "미국 정보기관·군은 remote viewing을 실제 연구·operational tasking 대상으로 다뤘다.",
+      "statementEn": "U.S. intelligence and military organizations genuinely researched and tasked remote viewing.",
+      "sourceRefs": [
+        "SG_OVERVIEW",
+        "SG_EVAL"
+      ]
+    },
+    {
+      "claimId": "SG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "공개 session archive에는 apparent hit와 clear miss가 모두 있다.",
+      "statementEn": "The declassified session archive contains both apparent hits and clear misses.",
+      "sourceRefs": [
+        "SG_XCI",
+        "SG_LIII"
+      ]
+    },
+    {
+      "claimId": "SG-C3",
+      "status": "SUPPORTED",
+      "statementKo": "1995년 종료논의는 marginal operational value를 중요한 이유로 다뤘다.",
+      "statementEn": "The 1995 termination discussion treated marginal operational value as an important reason.",
+      "sourceRefs": [
+        "SG_OVERVIEW",
+        "SG_EVAL"
+      ]
+    },
+    {
+      "claimId": "SG-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "remote viewing의 초자연적 mechanism과 일관된 operational effectiveness는 확립되지 않았다.",
+      "statementEn": "A paranormal mechanism and consistent operational effectiveness for remote viewing were not established.",
+      "sourceRefs": [
+        "SG_OVERVIEW",
+        "SG_EVAL"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SG_OVERVIEW",
+      "title": "Draft Presentation on Star Gate Program",
+      "publisher": "CIA Reading Room",
+      "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200190029-6",
+      "sourceType": "CIA_DECLASSIFIED"
+    },
+    {
+      "sourceId": "SG_EVAL",
+      "title": "Star Gate Operational Evaluation Material",
+      "publisher": "CIA Reading Room",
+      "url": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200300002-2.pdf",
+      "sourceType": "CIA_DECLASSIFIED_EVALUATION"
+    },
+    {
+      "sourceId": "SG_XCI",
+      "title": "Summary Remote Viewing Session XCI",
+      "publisher": "CIA Reading Room",
+      "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r000900970001-7",
+      "sourceType": "CIA_DECLASSIFIED_SESSION"
+    },
+    {
+      "sourceId": "SG_LIII",
+      "title": "Summary Remote Viewing Session LIII",
+      "publisher": "CIA Reading Room",
+      "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r000900390001-1",
+      "sourceType": "CIA_DECLASSIFIED_SESSION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sg-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "GRILL FLAME/CENTER LANE/STARGATE 계보 → operational evaluation → 1995 종료.",
+      "captionEn": "GRILL FLAME/CENTER LANE/STARGATE lineage → operational evaluation → 1995 termination.",
+      "altKo": "GRILL FLAME/CENTER LANE/STARGATE 계보 → operational evaluation → 1995 종료.",
+      "altEn": "GRILL FLAME/CENTER LANE/STARGATE lineage → operational evaluation → 1995 termination.",
+      "sourceRefs": [
+        "SG_OVERVIEW",
+        "SG_EVAL",
+        "SG_XCI",
+        "SG_LIII"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-stargate__v01__ko.png",
+          "sha256": "ae808a0600121a738bf6dc94347757997dce527772cf6017bb3c52b0a9f5520e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-stargate__v01__en.png",
+          "sha256": "fbee2e7ac5794bbe8346227e55a6d760569f0992e02631549458ab32ef8425e8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sg-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "프로그램 실재·개별 hit/miss·일관된 operational value를 구분.",
+      "captionEn": "Separate program existence, individual hits/misses, and consistent operational value.",
+      "altKo": "프로그램 실재·개별 hit/miss·일관된 operational value를 구분.",
+      "altEn": "Separate program existence, individual hits/misses, and consistent operational value.",
+      "sourceRefs": [
+        "SG_OVERVIEW",
+        "SG_EVAL",
+        "SG_XCI",
+        "SG_LIII"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-stargate__v02__ko.png",
+          "sha256": "c92bd8ac5b6fe96f1dfde4dd873a63ad841f11ee2ba033b06f68d9160ca4c638",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-stargate__v02__en.png",
+          "sha256": "d6aea2fd3336955158889f91d026c286322690007c40d964ec69abf4fc239f70",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sg-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "session tasking → viewer response → target comparison → user evaluation 흐름.",
+      "captionEn": "Session tasking → viewer response → target comparison → user evaluation.",
+      "altKo": "session tasking → viewer response → target comparison → user evaluation 흐름.",
+      "altEn": "Session tasking → viewer response → target comparison → user evaluation.",
+      "sourceRefs": [
+        "SG_OVERVIEW",
+        "SG_EVAL",
+        "SG_XCI",
+        "SG_LIII"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-stargate__v03__ko.png",
+          "sha256": "8376f5c9a83d6fdda7d3894e5091488fc1545bbb1271b20cd4993bbab2c8cf4d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-stargate__v03__en.png",
+          "sha256": "f1592a9285c537b3fad2be85d5c3f1ed54fc6de1e524c7b9ee35d2c12ecf8e58",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Medicine / Psychology / Human Experiment",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "U.S. intelligence community"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "CIA",
+      "DIA",
+      "U.S. Army"
+    ],
+    "dateRange": {
+      "start": "1970s",
+      "end": "1995",
+      "precision": "program lineage through termination/evaluation"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_CONFIRMED_PARANORMAL_MECHANISM_AND_RELIABLE_OPERATIONAL_VALUE_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Project Stargate",
+      "GRILL FLAME",
+      "remote viewing CIA"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1523,
+    "enBodyWords": 269,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 4,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH15",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH15_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

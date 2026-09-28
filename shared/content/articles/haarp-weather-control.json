@@ -1,0 +1,369 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "haarp-weather-control",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "HAARP 날씨조작설",
+    "canonicalTitleEn": "HAARP Weather-Control Theory",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "시설은 진짜다—그런데 전리층 연구가 왜 날씨조작 능력의 증거가 아닌가",
+      "hook": "HAARP는 존재한다. 바로 그래서 오해가 강하다. 실제 military-origin research facility와 ionospheric experiment를 인정해도 그 사실은 weather-control capability까지 이어지지 않는다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "HAARP는 실제 시설이다—하지만 연구대상은 날씨가 아니라 전리층이다",
+          "headingEn": "HAARP Is Real, but Its Research Target Is the Ionosphere",
+          "textKo": "HAARP는 Alaska Gakona에 있는 실제 research facility다. University of Alaska Fairbanks는 고출력 HF transmitter로 ionosphere의 작은 영역을 자극하고 반응을 측정해 upper-atmosphere physics와 radio propagation을 연구한다고 설명한다. 시설의 실재와 weather-control capability는 서로 다른 주장이다. 실제 장비와 과거 military funding이 있다는 사실만으로 hurricane, earthquake, jet stream control까지 따라오지는 않는다.",
+          "textEn": "HAARP is a real research facility in Gakona, Alaska. UAF explains that its high-power HF transmitter stimulates a small region of the ionosphere to study upper-atmosphere physics and radio propagation. Facility existence and weather-control capability are different claims."
+        },
+        {
+          "blockId": "layers",
+          "type": "BACKGROUND",
+          "headingKo": "전리층과 지표날씨가 일어나는 troposphere는 같은 층이 아니다",
+          "headingEn": "The Ionosphere Is Not the Troposphere",
+          "textKo": "HAARP가 대상으로 하는 ionosphere는 지표 weather가 만들어지는 troposphere보다 훨씬 높다. 대기라는 한 단어 아래 서로 다른 altitude, density, physics를 합치면 오해가 생긴다. official FAQ도 weather-control claim을 지지하지 않는다.",
+          "textEn": "HAARP targets the ionosphere, far above the troposphere where ordinary surface weather develops. Treating all atmospheric layers as one physical system creates the misconception."
+        },
+        {
+          "blockId": "energy",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "강력한 transmitter와 storm system energy scale은 다른 문제다",
+          "headingEn": "A Powerful Transmitter and a Weather System Are Very Different Energy Problems",
+          "textKo": "HAARP는 research facility 기준으로 강한 transmitter array를 쓰지만 focused RF experiment와 대규모 atmospheric circulation을 바꾸는 것은 서로 다른 energy scale과 coupling problem이다. “수 MW급”처럼 큰 숫자를 제시하는 것만으로 weather control을 입증할 수 없다.",
+          "textEn": "HAARP is powerful by research-transmitter standards, but focused RF experiments and large atmospheric circulation operate on very different energy and coupling scales."
+        },
+        {
+          "blockId": "ownership",
+          "type": "TURNING_POINT",
+          "headingKo": "2015년 이후 운영주체도 UAF로 넘어갔다",
+          "headingEn": "UAF Took Over the Facility in 2015",
+          "textKo": "시설은 과거 U.S. Air Force와 Navy 관리 아래 있었지만 2015년 University of Alaska Fairbanks로 이전돼 university research facility로 운영된다. 과거 military management는 역사적 사실이지만 현재 모든 experiment를 secret weapon test라고 보는 근거는 아니다.",
+          "textEn": "The facility was transferred from U.S. Air Force/Navy management to the University of Alaska Fairbanks in 2015. Historical military management is not evidence that all current experiments are secret weapon tests."
+        },
+        {
+          "blockId": "why",
+          "type": "AFTERMATH",
+          "headingKo": "실제 비밀스러워 보이는 기술시설과 과장된 능력이 섞이기 쉬운 사례다",
+          "headingEn": "Real Exotic-Looking Technology Makes Exaggerated Capability Easy to Imagine",
+          "textKo": "거대한 antenna field, invisible ionospheric effect, military origin은 직관적으로 dramatic하다. 하지만 facility existence, research purpose, physical interaction을 하나씩 분리하면 “실제 장비가 있다”에서 “날씨를 조종한다”까지 건너뛰는 추가주장이 보인다.",
+          "textEn": "A vast antenna field, invisible ionospheric effects and military origins are dramatic, but separating facility existence, research purpose and physical interaction exposes the unsupported leap to weather control."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "실험효과의 공간·시간범위도 weather-control 주장과 맞지 않는다",
+          "headingEn": "The Scale and Duration of the Experiment Also Differ From Weather-Control Claims",
+          "textKo": "HAARP experiment는 특정 주파수와 beam을 이용해 ionosphere의 제한된 영역에 짧은 시간 controlled perturbation을 만들고 diagnostic instruments로 반응을 측정한다. 이 효과는 global atmosphere 전체를 장시간 재편하는 방식과 다르다. 연구가능한 perturbation이 존재한다는 사실과 대규모 기상시스템을 원하는 방향으로 조종한다는 능력 사이에는 공간·시간·에너지 규모의 큰 차이가 있다.",
+          "textEn": "HAARP experiments create controlled, limited perturbations in portions of the ionosphere for measurement. That is very different in scale, duration, coupling, and energy from steering large weather systems in the lower atmosphere."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** HAARP는 실제 ionospheric research facility이며 high-power HF transmission으로 upper-atmosphere response를 연구한다. 2015년 UAF로 이전됐다.\n\n**확인되지 않음:** official facility 설명과 관련 물리는 HAARP가 weather, hurricane, earthquake를 조종할 수 있다는 주장을 지지하지 않는다.",
+          "textEn": "**Established:** HAARP is a real ionospheric research facility using high-power HF transmission and was transferred to UAF in 2015.\n\n**Not established:** Official facility information and relevant physics do not support claims that HAARP can control weather, hurricanes or earthquakes."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** HAARP는 실제 ionospheric research facility이며 high-power HF transmission으로 upper-atmosphere response를 연구한다. 2015년 UAF로 이전됐다.\n\n**확인되지 않음:** official facility 설명과 관련 물리는 HAARP가 weather, hurricane, earthquake를 조종할 수 있다는 주장을 지지하지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "layers",
+        "energy",
+        "ownership",
+        "why",
+        "limits-055"
+      ]
+    },
+    "en": {
+      "headline": "The Facility Is Real—Why Does Ionospheric Research Not Prove Weather Control?",
+      "hook": "HAARP exists, which is why the theory feels persuasive. But acknowledging a real military-origin ionospheric facility does not establish weather-control capability.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "HAARP는 실제 시설이다—하지만 연구대상은 날씨가 아니라 전리층이다",
+          "headingEn": "HAARP Is Real, but Its Research Target Is the Ionosphere",
+          "textKo": "HAARP는 Alaska Gakona에 있는 실제 research facility다. University of Alaska Fairbanks는 고출력 HF transmitter로 ionosphere의 작은 영역을 자극하고 반응을 측정해 upper-atmosphere physics와 radio propagation을 연구한다고 설명한다. 시설의 실재와 weather-control capability는 서로 다른 주장이다. 실제 장비와 과거 military funding이 있다는 사실만으로 hurricane, earthquake, jet stream control까지 따라오지는 않는다.",
+          "textEn": "HAARP is a real research facility in Gakona, Alaska. UAF explains that its high-power HF transmitter stimulates a small region of the ionosphere to study upper-atmosphere physics and radio propagation. Facility existence and weather-control capability are different claims."
+        },
+        {
+          "blockId": "layers",
+          "type": "BACKGROUND",
+          "headingKo": "전리층과 지표날씨가 일어나는 troposphere는 같은 층이 아니다",
+          "headingEn": "The Ionosphere Is Not the Troposphere",
+          "textKo": "HAARP가 대상으로 하는 ionosphere는 지표 weather가 만들어지는 troposphere보다 훨씬 높다. 대기라는 한 단어 아래 서로 다른 altitude, density, physics를 합치면 오해가 생긴다. official FAQ도 weather-control claim을 지지하지 않는다.",
+          "textEn": "HAARP targets the ionosphere, far above the troposphere where ordinary surface weather develops. Treating all atmospheric layers as one physical system creates the misconception."
+        },
+        {
+          "blockId": "energy",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "강력한 transmitter와 storm system energy scale은 다른 문제다",
+          "headingEn": "A Powerful Transmitter and a Weather System Are Very Different Energy Problems",
+          "textKo": "HAARP는 research facility 기준으로 강한 transmitter array를 쓰지만 focused RF experiment와 대규모 atmospheric circulation을 바꾸는 것은 서로 다른 energy scale과 coupling problem이다. “수 MW급”처럼 큰 숫자를 제시하는 것만으로 weather control을 입증할 수 없다.",
+          "textEn": "HAARP is powerful by research-transmitter standards, but focused RF experiments and large atmospheric circulation operate on very different energy and coupling scales."
+        },
+        {
+          "blockId": "ownership",
+          "type": "TURNING_POINT",
+          "headingKo": "2015년 이후 운영주체도 UAF로 넘어갔다",
+          "headingEn": "UAF Took Over the Facility in 2015",
+          "textKo": "시설은 과거 U.S. Air Force와 Navy 관리 아래 있었지만 2015년 University of Alaska Fairbanks로 이전돼 university research facility로 운영된다. 과거 military management는 역사적 사실이지만 현재 모든 experiment를 secret weapon test라고 보는 근거는 아니다.",
+          "textEn": "The facility was transferred from U.S. Air Force/Navy management to the University of Alaska Fairbanks in 2015. Historical military management is not evidence that all current experiments are secret weapon tests."
+        },
+        {
+          "blockId": "why",
+          "type": "AFTERMATH",
+          "headingKo": "실제 비밀스러워 보이는 기술시설과 과장된 능력이 섞이기 쉬운 사례다",
+          "headingEn": "Real Exotic-Looking Technology Makes Exaggerated Capability Easy to Imagine",
+          "textKo": "거대한 antenna field, invisible ionospheric effect, military origin은 직관적으로 dramatic하다. 하지만 facility existence, research purpose, physical interaction을 하나씩 분리하면 “실제 장비가 있다”에서 “날씨를 조종한다”까지 건너뛰는 추가주장이 보인다.",
+          "textEn": "A vast antenna field, invisible ionospheric effects and military origins are dramatic, but separating facility existence, research purpose and physical interaction exposes the unsupported leap to weather control."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "실험효과의 공간·시간범위도 weather-control 주장과 맞지 않는다",
+          "headingEn": "The Scale and Duration of the Experiment Also Differ From Weather-Control Claims",
+          "textKo": "HAARP experiment는 특정 주파수와 beam을 이용해 ionosphere의 제한된 영역에 짧은 시간 controlled perturbation을 만들고 diagnostic instruments로 반응을 측정한다. 이 효과는 global atmosphere 전체를 장시간 재편하는 방식과 다르다. 연구가능한 perturbation이 존재한다는 사실과 대규모 기상시스템을 원하는 방향으로 조종한다는 능력 사이에는 공간·시간·에너지 규모의 큰 차이가 있다.",
+          "textEn": "HAARP experiments create controlled, limited perturbations in portions of the ionosphere for measurement. That is very different in scale, duration, coupling, and energy from steering large weather systems in the lower atmosphere."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** HAARP는 실제 ionospheric research facility이며 high-power HF transmission으로 upper-atmosphere response를 연구한다. 2015년 UAF로 이전됐다.\n\n**확인되지 않음:** official facility 설명과 관련 물리는 HAARP가 weather, hurricane, earthquake를 조종할 수 있다는 주장을 지지하지 않는다.",
+          "textEn": "**Established:** HAARP is a real ionospheric research facility using high-power HF transmission and was transferred to UAF in 2015.\n\n**Not established:** Official facility information and relevant physics do not support claims that HAARP can control weather, hurricanes or earthquakes."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** HAARP is a real ionospheric research facility using high-power HF transmission and was transferred to UAF in 2015.\n\n**Not established:** Official facility information and relevant physics do not support claims that HAARP can control weather, hurricanes or earthquakes.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "layers",
+        "energy",
+        "ownership",
+        "why",
+        "limits-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HAARP-C1",
+      "status": "CONFIRMED",
+      "statementKo": "HAARP는 실제 ionospheric research facility다.",
+      "statementEn": "HAARP is a real ionospheric research facility.",
+      "sourceRefs": [
+        "HAARP_FAQ",
+        "HAARP_HOME"
+      ]
+    },
+    {
+      "claimId": "HAARP-C2",
+      "status": "CONFIRMED",
+      "statementKo": "시설은 2015년 UAF로 이전됐다.",
+      "statementEn": "The facility was transferred to UAF in 2015.",
+      "sourceRefs": [
+        "HAARP_FAQ",
+        "HAARP_HOME"
+      ]
+    },
+    {
+      "claimId": "HAARP-C3",
+      "status": "CONFIRMED",
+      "statementKo": "연구대상은 HF radio와 ionosphere response다.",
+      "statementEn": "Its research concerns HF radio interaction with the ionosphere.",
+      "sourceRefs": [
+        "HAARP_FAQ"
+      ]
+    },
+    {
+      "claimId": "HAARP-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "weather·hurricane·earthquake control capability는 공식자료로 지지되지 않는다.",
+      "statementEn": "Weather, hurricane or earthquake control capability is not supported by official material.",
+      "sourceRefs": [
+        "HAARP_FAQ"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HAARP_FAQ",
+      "title": "HAARP FAQ",
+      "publisher": "University of Alaska Fairbanks / HAARP",
+      "url": "https://haarp.gi.alaska.edu/faq",
+      "sourceType": "UNIVERSITY_FACILITY_OFFICIAL"
+    },
+    {
+      "sourceId": "HAARP_HOME",
+      "title": "HAARP Facility",
+      "publisher": "University of Alaska Fairbanks / HAARP",
+      "url": "https://haarp.gi.alaska.edu/",
+      "sourceType": "UNIVERSITY_FACILITY_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "haarp-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "troposphere(weather)와 ionosphere(HAARP research)의 altitude/physics 차이.",
+      "captionEn": "Difference between tropospheric weather and HAARP ionospheric research.",
+      "altKo": "troposphere(weather)와 ionosphere(HAARP research)의 altitude/physics 차이.",
+      "altEn": "Difference between tropospheric weather and HAARP ionospheric research.",
+      "sourceRefs": [
+        "HAARP_FAQ",
+        "HAARP_HOME"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "haarp-weather-control__v01__ko.png",
+          "sha256": "e6289b36943a7f17d200f975a5f90c331f4767dee10f94f01aa78cd9729f905c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "haarp-weather-control__v01__en.png",
+          "sha256": "f6152c57a608823cd3c3f767a2d3eb71bcd7d13f88912a2973a67574d1ce498c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "haarp-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실제 facility·military history·ionosphere experiment와 weather-control claim을 분리.",
+      "captionEn": "Separate real facility, military history, ionospheric experiments and weather-control claims.",
+      "altKo": "실제 facility·military history·ionosphere experiment와 weather-control claim을 분리.",
+      "altEn": "Separate real facility, military history, ionospheric experiments and weather-control claims.",
+      "sourceRefs": [
+        "HAARP_FAQ",
+        "HAARP_HOME"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "haarp-weather-control__v02__ko.png",
+          "sha256": "4c9036c5f351b74a62ff3b4f2a47442fa714e7addbc633816f3407ecb1560be2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "haarp-weather-control__v02__en.png",
+          "sha256": "806424952225623bf3c5ecaa0da54b8dbb9dcfab0a045a75ab0328f9d5857298",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Alaska"
+    ],
+    "places": [
+      {
+        "name": "Gakona, Alaska",
+        "role": "facility location"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "University of Alaska Fairbanks",
+      "U.S. Air Force",
+      "U.S. Navy"
+    ],
+    "dateRange": {
+      "start": "1990s",
+      "end": "present",
+      "precision": "facility program through university era"
+    },
+    "era": "Modern geophysics",
+    "resolution": "FACILITY_CONFIRMED_WEATHER_CONTROL_NOT_SUPPORTED",
+    "searchAliases": [
+      "HAARP weather control",
+      "HAARP conspiracy"
+    ],
+    "relatedCases": [
+      "operation-popeye",
+      "chemtrail"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1607,
+    "enBodyWords": 216,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH19",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "steve-skyglow",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "STEVE 하늘빛",
+    "canonicalTitleEn": "STEVE Skyglow",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "보라색 리본처럼 나타나는 STEVE는 왜 오로라와 닮았지만 같은 현상은 아닐까",
+      "hook": "STEVE는 citizen science가 발견해낸 실제 upper-atmosphere phenomenon이다. 이름을 붙이는 데서 끝난 게 아니라 satellite data와 ground observation을 함께 보면서 normal aurora와 다른 physics를 드러냈다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "오로라처럼 보이지만 같은 현상은 아니다",
+          "headingEn": "It Looks Aurora-Like but Is Not a Normal Aurora",
+          "textKo": "STEVE는 밤하늘에 길고 얇은 보라색 ribbon처럼 나타나는 subauroral light phenomenon이다. NASA는 citizen scientists가 사진과 관측을 모으고 Aurorasaurus 연구자들과 연결하면서 현대과학의 독립 연구대상이 됐다고 설명한다. 이름은 Strong Thermal Emission Velocity Enhancement의 backronym이다. 중요한 점은 “새로운 오로라 이름”이 아니라 typical aurora와 다른 위치·형태·입자환경을 가진 phenomenon으로 분리됐다는 것이다.",
+          "textEn": "STEVE is a thin purple subauroral ribbon that became a distinct scientific target through citizen-science observations and Aurorasaurus. NASA emphasizes that it is not simply a normal aurora under a new name."
+        },
+        {
+          "blockId": "citizen",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "발견의 핵심은 전문위성보다 시민사진과 동시관측의 결합이었다",
+          "headingEn": "Citizen Observations and Satellite Data Had to Meet",
+          "textKo": "2015~2016년 amateur observers가 여러 sightings를 공유했고, 2016년에는 ground camera와 ESA Swarm satellite가 같은 event를 포착하면서 plasma properties를 비교할 수 있었다. citizen report만으로 physics가 확정된 것은 아니고, satellite와 ground data가 같은 시공간 event를 함께 본 것이 evidence quality를 끌어올렸다.",
+          "textEn": "From 2015 to 2016 citizen observers reported many events; a key advance came when ground cameras and an ESA Swarm satellite captured the same event, allowing physical conditions to be compared."
+        },
+        {
+          "blockId": "notaurora",
+          "type": "TURNING_POINT",
+          "headingKo": "보라색 ribbon은 typical particle-precipitation aurora와 다른 process를 가리킨다",
+          "headingEn": "The Purple Ribbon Points to a Different Process From Typical Aurora",
+          "textKo": "NASA 자료는 STEVE가 normal aurora보다 낮은 latitude에 나타나고, 전형적인 auroral particle precipitation과 동일한 구조가 아니라고 설명한다. east-west ion flow와 강한 heating이 관련되며, green picket-fence feature는 또 별도의 emission behavior를 보일 수 있다. 그래서 STEVE라는 하나의 이름 아래 purple ribbon과 green structure를 기계적으로 하나의 mechanism으로 단순화하지 않는다.",
+          "textEn": "NASA describes STEVE at lower latitudes than typical aurora, associated with strong east-west ion flow and heating. The green picket-fence feature may involve distinct emission behavior, so the whole display should not be reduced to one simple auroral mechanism."
+        },
+        {
+          "blockId": "history",
+          "type": "BACKGROUND",
+          "headingKo": "현상은 2010년대에 처음 생긴 게 아니라 오래전에도 관측됐다",
+          "headingEn": "The Phenomenon Predates Its Modern Name",
+          "textKo": "NASA의 2020 historical work는 auroral pioneer Carl Størmer의 early-20th-century 기록에서 STEVE와 비슷한 high-altitude detached arcs를 찾아냈다. 즉 phenomenon이 2016년에 갑자기 생긴 것이 아니라, modern network와 citizen-science taxonomy가 과거 관측을 새 범주로 묶어낸 것이다.",
+          "textEn": "NASA historical work found early-twentieth-century descriptions resembling STEVE, showing that the phenomenon predated its modern name and classification."
+        },
+        {
+          "blockId": "limits",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "이름이 붙었다고 origin physics가 완전히 끝난 것은 아니다",
+          "headingEn": "Naming the Phenomenon Did Not Finish the Physics",
+          "textKo": "STEVE의 broad characteristics는 알려졌지만 exact emission mechanism, purple ribbon과 picket fence의 관계, event-to-event variability는 계속 연구대상이다. “mysterious”라는 단어가 외계나 초자연을 뜻하는 게 아니라 upper-atmosphere coupling에서 아직 model을 다듬는 부분이 남았다는 의미다.",
+          "textEn": "Its broad properties are known, but detailed emission physics, the relation between the purple ribbon and picket fence, and event variability remain active research topics."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** STEVE는 실제 subauroral optical phenomenon이며 citizen science와 satellite/ground observations로 연구되고 있다. normal aurora와 동일한 phenomenon은 아니고 lower-latitude ionospheric flow·heating과 연결된다.\n\n**확인되지 않음:** 모든 STEVE emission detail과 purple/green component의 exact mechanism이 완전히 해결된 것은 아니다.",
+          "textEn": "**Established:** STEVE is a real subauroral optical phenomenon studied with citizen science, satellite, and ground observations. It is not simply a normal aurora and is associated with lower-latitude ionospheric flow and heating.\n\n**Not established:** Every emission detail and the exact relation of the purple and green components are not fully resolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** STEVE는 실제 subauroral optical phenomenon이며 citizen science와 satellite/ground observations로 연구되고 있다. normal aurora와 동일한 phenomenon은 아니고 lower-latitude ionospheric flow·heating과 연결된다.\n\n**확인되지 않음:** 모든 STEVE emission detail과 purple/green component의 exact mechanism이 완전히 해결된 것은 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "citizen",
+        "notaurora",
+        "history",
+        "limits"
+      ]
+    },
+    "en": {
+      "headline": "Why Does STEVE Look Like an Aurora While Being Physically Different?",
+      "hook": "STEVE is a real upper-atmosphere phenomenon elevated by citizen science. Combining satellite and ground observations showed that it is not simply a normal aurora.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "오로라처럼 보이지만 같은 현상은 아니다",
+          "headingEn": "It Looks Aurora-Like but Is Not a Normal Aurora",
+          "textKo": "STEVE는 밤하늘에 길고 얇은 보라색 ribbon처럼 나타나는 subauroral light phenomenon이다. NASA는 citizen scientists가 사진과 관측을 모으고 Aurorasaurus 연구자들과 연결하면서 현대과학의 독립 연구대상이 됐다고 설명한다. 이름은 Strong Thermal Emission Velocity Enhancement의 backronym이다. 중요한 점은 “새로운 오로라 이름”이 아니라 typical aurora와 다른 위치·형태·입자환경을 가진 phenomenon으로 분리됐다는 것이다.",
+          "textEn": "STEVE is a thin purple subauroral ribbon that became a distinct scientific target through citizen-science observations and Aurorasaurus. NASA emphasizes that it is not simply a normal aurora under a new name."
+        },
+        {
+          "blockId": "citizen",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "발견의 핵심은 전문위성보다 시민사진과 동시관측의 결합이었다",
+          "headingEn": "Citizen Observations and Satellite Data Had to Meet",
+          "textKo": "2015~2016년 amateur observers가 여러 sightings를 공유했고, 2016년에는 ground camera와 ESA Swarm satellite가 같은 event를 포착하면서 plasma properties를 비교할 수 있었다. citizen report만으로 physics가 확정된 것은 아니고, satellite와 ground data가 같은 시공간 event를 함께 본 것이 evidence quality를 끌어올렸다.",
+          "textEn": "From 2015 to 2016 citizen observers reported many events; a key advance came when ground cameras and an ESA Swarm satellite captured the same event, allowing physical conditions to be compared."
+        },
+        {
+          "blockId": "notaurora",
+          "type": "TURNING_POINT",
+          "headingKo": "보라색 ribbon은 typical particle-precipitation aurora와 다른 process를 가리킨다",
+          "headingEn": "The Purple Ribbon Points to a Different Process From Typical Aurora",
+          "textKo": "NASA 자료는 STEVE가 normal aurora보다 낮은 latitude에 나타나고, 전형적인 auroral particle precipitation과 동일한 구조가 아니라고 설명한다. east-west ion flow와 강한 heating이 관련되며, green picket-fence feature는 또 별도의 emission behavior를 보일 수 있다. 그래서 STEVE라는 하나의 이름 아래 purple ribbon과 green structure를 기계적으로 하나의 mechanism으로 단순화하지 않는다.",
+          "textEn": "NASA describes STEVE at lower latitudes than typical aurora, associated with strong east-west ion flow and heating. The green picket-fence feature may involve distinct emission behavior, so the whole display should not be reduced to one simple auroral mechanism."
+        },
+        {
+          "blockId": "history",
+          "type": "BACKGROUND",
+          "headingKo": "현상은 2010년대에 처음 생긴 게 아니라 오래전에도 관측됐다",
+          "headingEn": "The Phenomenon Predates Its Modern Name",
+          "textKo": "NASA의 2020 historical work는 auroral pioneer Carl Størmer의 early-20th-century 기록에서 STEVE와 비슷한 high-altitude detached arcs를 찾아냈다. 즉 phenomenon이 2016년에 갑자기 생긴 것이 아니라, modern network와 citizen-science taxonomy가 과거 관측을 새 범주로 묶어낸 것이다.",
+          "textEn": "NASA historical work found early-twentieth-century descriptions resembling STEVE, showing that the phenomenon predated its modern name and classification."
+        },
+        {
+          "blockId": "limits",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "이름이 붙었다고 origin physics가 완전히 끝난 것은 아니다",
+          "headingEn": "Naming the Phenomenon Did Not Finish the Physics",
+          "textKo": "STEVE의 broad characteristics는 알려졌지만 exact emission mechanism, purple ribbon과 picket fence의 관계, event-to-event variability는 계속 연구대상이다. “mysterious”라는 단어가 외계나 초자연을 뜻하는 게 아니라 upper-atmosphere coupling에서 아직 model을 다듬는 부분이 남았다는 의미다.",
+          "textEn": "Its broad properties are known, but detailed emission physics, the relation between the purple ribbon and picket fence, and event variability remain active research topics."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** STEVE는 실제 subauroral optical phenomenon이며 citizen science와 satellite/ground observations로 연구되고 있다. normal aurora와 동일한 phenomenon은 아니고 lower-latitude ionospheric flow·heating과 연결된다.\n\n**확인되지 않음:** 모든 STEVE emission detail과 purple/green component의 exact mechanism이 완전히 해결된 것은 아니다.",
+          "textEn": "**Established:** STEVE is a real subauroral optical phenomenon studied with citizen science, satellite, and ground observations. It is not simply a normal aurora and is associated with lower-latitude ionospheric flow and heating.\n\n**Not established:** Every emission detail and the exact relation of the purple and green components are not fully resolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** STEVE is a real subauroral optical phenomenon studied with citizen science, satellite, and ground observations. It is not simply a normal aurora and is associated with lower-latitude ionospheric flow and heating.\n\n**Not established:** Every emission detail and the exact relation of the purple and green components are not fully resolved.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "citizen",
+        "notaurora",
+        "history",
+        "limits"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "STEVE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "STEVE는 실제 subauroral optical phenomenon이다.",
+      "statementEn": "STEVE is a real subauroral optical phenomenon.",
+      "sourceRefs": [
+        "STEVE_NASA_HISTORY",
+        "STEVE_NASA_DISC"
+      ]
+    },
+    {
+      "claimId": "STEVE-C2",
+      "status": "CONFIRMED",
+      "statementKo": "citizen observations와 satellite/ground 동시관측이 modern scientific characterization에 기여했다.",
+      "statementEn": "Citizen observations and coordinated satellite/ground data contributed to modern characterization.",
+      "sourceRefs": [
+        "STEVE_NASA_DISC"
+      ]
+    },
+    {
+      "claimId": "STEVE-C3",
+      "status": "CONFIRMED",
+      "statementKo": "STEVE는 normal aurora와 동일한 phenomenon이 아니다.",
+      "statementEn": "STEVE is not simply a normal aurora.",
+      "sourceRefs": [
+        "STEVE_NASA_DISC"
+      ]
+    },
+    {
+      "claimId": "STEVE-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 emission mechanism 세부가 완전히 해결된 것은 아니다.",
+      "statementEn": "Not every detail of the emission mechanism is fully resolved.",
+      "sourceRefs": [
+        "STEVE_NASA_HISTORY",
+        "STEVE_NASA_DISC"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "STEVE_NASA_HISTORY",
+      "title": "A Short History of STEVE",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/science-research/earth-science/short-history-of-steve/",
+      "sourceType": "NASA_SCIENCE"
+    },
+    {
+      "sourceId": "STEVE_NASA_DISC",
+      "title": "Mystery of Purple Lights in Sky Solved With Help From Citizen Scientists",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/science-research/heliophysics/mystery-of-purple-lights-in-sky-solved-with-help-from-citizen-scientists/",
+      "sourceType": "NASA_HELIOPHYSICS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "steve-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "normal aurora와 STEVE의 latitude·particle/heating 차이.",
+      "captionEn": "Differences in latitude and particle/heating processes between normal aurora and STEVE.",
+      "altKo": "normal aurora와 STEVE의 latitude·particle/heating 차이.",
+      "altEn": "Differences in latitude and particle/heating processes between normal aurora and STEVE.",
+      "sourceRefs": [
+        "STEVE_NASA_HISTORY",
+        "STEVE_NASA_DISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "steve-skyglow__v01__ko.png",
+          "sha256": "b160b0276de4503157c459c0542c7317af96ecfe58a639bdb90ea4a26f90f072",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "steve-skyglow__v01__en.png",
+          "sha256": "d870663b99447fb9ffd67d33e792bce221fe6dbc01db505b4a150067ddb3ef4a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "steve-v02",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "early Størmer records → citizen reports → Swarm/ground coincidence → modern STEVE research.",
+      "captionEn": "Early Størmer records → citizen reports → Swarm/ground coincidence → modern STEVE research.",
+      "altKo": "early Størmer records → citizen reports → Swarm/ground coincidence → modern STEVE research.",
+      "altEn": "Early Størmer records → citizen reports → Swarm/ground coincidence → modern STEVE research.",
+      "sourceRefs": [
+        "STEVE_NASA_HISTORY",
+        "STEVE_NASA_DISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "steve-skyglow__v02__ko.png",
+          "sha256": "ce61db57fa0f69cccd04b92d812997e166633b401c4ed98a451d72958b0f0cf8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "steve-skyglow__v02__en.png",
+          "sha256": "b1383dad338ac6b7af78e96766d92f343127e2637110e037e8e80c97b10c4c00",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Discovery / Citizen Science"
+    ],
+    "countries": [
+      "Canada / global high latitudes"
+    ],
+    "regions": [
+      "Subauroral region"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "NASA",
+      "Aurorasaurus",
+      "ESA Swarm"
+    ],
+    "dateRange": {
+      "start": "historical observations",
+      "end": "present",
+      "precision": "modern classification from 2010s"
+    },
+    "era": "Modern heliophysics",
+    "resolution": "PHENOMENON_CONFIRMED_DETAILED_EMISSION_PHYSICS_ACTIVE_RESEARCH",
+    "searchAliases": [
+      "STEVE skyglow",
+      "Strong Thermal Emission Velocity Enhancement"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1587,
+    "enBodyWords": 196,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

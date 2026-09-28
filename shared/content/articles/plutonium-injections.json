@@ -1,0 +1,398 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "plutonium-injections",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "인체 플루토늄 주입 실험",
+    "canonicalTitleEn": "Human Plutonium Injection Experiments",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "18명에게 실제 플루토늄을 주입했다—공식기록이 말하는 것과 말하지 않는 것",
+      "hook": "실험의 존재는 더 이상 의혹이 아니다. DOE/ACHRE 기록은 18명을 확인한다. 다만 프로그램 전체 사실과 각 환자의 dose·경과·장기결과는 같은 해상도의 정보가 아니다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1945~1947년 환자 18명에게 플루토늄이 주입됐다",
+          "headingEn": "Between 1945 and 1947, Eighteen Patients Were Injected With Plutonium",
+          "textKo": "U.S. Department of Energy가 보존하는 ACHRE 기록은 여러 미국 병원에서 18명의 환자가 plutonium injection experiment 대상이 됐음을 확인한다. 목적은 plutonium이 체내 어디에 남고 어떻게 배출되는지 측정해 worker·military exposure assessment용 biokinetic data를 얻는 것이었다. 프로그램의 실재는 공식기록으로 확인된다.",
+          "textEn": "DOE/ACHRE records confirm that 18 patients at several U.S. hospitals received plutonium injections between 1945 and 1947 to study retention and excretion for exposure assessment."
+        },
+        {
+          "blockId": "wartime",
+          "type": "BACKGROUND",
+          "headingKo": "Manhattan Project 시대에는 plutonium 인체자료 자체가 거의 없었다",
+          "headingEn": "Human Plutonium Data Were Scarce in the Manhattan Project Era",
+          "textKo": "새로운 radioactive material을 대규모로 생산하면서 occupational exposure risk를 평가해야 했지만 human data가 부족했다. 이 scientific gap은 experiment rationale의 배경이지만 rationale과 participant protection의 적절성은 별도 문제다.",
+          "textEn": "Plutonium production created a need for exposure estimates while human retention/excretion data were scarce. That explains the research rationale, not the adequacy of participant protection."
+        },
+        {
+          "blockId": "ethics",
+          "type": "TURNING_POINT",
+          "headingKo": "후대 ACHRE 조사는 무엇을 알았나보다 어떻게 사람에게 했나를 다시 물었다",
+          "headingEn": "ACHRE Reframed the Question Around Human-Subject Ethics",
+          "textKo": "1990년대 ACHRE는 Cold War human radiation research를 조사하며 disclosure, consent, institutional responsibility를 재구성했다. 비밀과 국가안보 배경은 역사적 explanation이지 ethical exemption은 아니다.",
+          "textEn": "In the 1990s ACHRE reviewed Cold War human-radiation research, reconstructing disclosure, consent and institutional responsibility. National-security context explains history but does not erase ethical questions."
+        },
+        {
+          "blockId": "individual",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "18명이라는 aggregate number가 각 환자의 exact story는 아니다",
+          "headingEn": "The Aggregate Number Eighteen Is Not Every Patient’s Exact Story",
+          "textKo": "환자들은 서로 다른 hospitals와 clinical conditions에 있었고 dose, timing, follow-up은 case-specific record를 확인해야 한다. 공식 summary는 experiment universe를 확정하지만 모든 환자의 exact dose와 long-term outcome을 하나로 통일하지 않는다.",
+          "textEn": "Patients had different hospitals and clinical circumstances; dose, timing and follow-up require case-specific records. Program totals do not define identical individual outcomes."
+        },
+        {
+          "blockId": "legacy",
+          "type": "AFTERMATH",
+          "headingKo": "공개 이후 human-subject protection 역사의 핵심사례가 됐다",
+          "headingEn": "After Disclosure It Became a Major Human-Subject Ethics Case",
+          "textKo": "ACHRE investigation은 radiation experiments의 범위와 federal responsibility를 공개적으로 정리하며 research ethics, records access, remedies debate에 영향을 줬다. 미스터리가 “실제로 했나”에서 “누가 무엇을 알고 어떤 보호를 제공했나”로 이동한 사례다.",
+          "textEn": "ACHRE documented the scope and federal responsibility, shifting the question from whether experiments happened to what participants were told and how they were protected."
+        },
+        {
+          "blockId": "consent-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대 윤리평가에서는 당시의 disclosure와 consent가 핵심쟁점이 됐다",
+          "headingEn": "Later Ethical Review Focused Heavily on Disclosure and Consent",
+          "textKo": "ACHRE의 중요한 질문은 단지 radiation dose가 얼마였는지가 아니라 피험자가 research nature와 risk를 무엇까지 들었고, 치료라고 이해했는지, 선택권을 실질적으로 가졌는지였다. 당시의 문서와 관행을 현재 기준으로 단순 치환할 수는 없지만, 국가안보나 연구필요성만으로 informed participation 문제를 지울 수도 없다. 따라서 역사평가는 scientific objective와 human-subject protection을 분리해 검토한다.",
+          "textEn": "ACHRE examined not only radiation dose but what subjects were told about research purpose and risk, what they believed was treatment, and whether meaningful choice existed. Scientific rationale and human-subject protection must be evaluated separately."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1945~1947년 여러 미국 병원에서 18명의 환자가 plutonium injection experiment 대상이 됐고 retention/excretion 연구목적은 DOE/ACHRE 기록에 남아 있다.\n\n**확인되지 않음:** aggregate summary만으로 각 환자의 exact dose, clinical course, disclosure/consent detail, long-term health outcome을 모두 동일하게 확정할 수는 없다.",
+          "textEn": "**Established:** Between 1945 and 1947, 18 patients received plutonium injections for retention/excretion research, documented in DOE/ACHRE records.\n\n**Not established:** Aggregate summaries do not establish every patient's exact dose, clinical course, consent details or long-term health outcome."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1945~1947년 여러 미국 병원에서 18명의 환자가 plutonium injection experiment 대상이 됐고 retention/excretion 연구목적은 DOE/ACHRE 기록에 남아 있다.\n\n**확인되지 않음:** aggregate summary만으로 각 환자의 exact dose, clinical course, disclosure/consent detail, long-term health outcome을 모두 동일하게 확정할 수는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "wartime",
+        "ethics",
+        "individual",
+        "legacy",
+        "consent-055"
+      ]
+    },
+    "en": {
+      "headline": "Eighteen Patients Were Actually Injected With Plutonium—What Do the Official Records Establish?",
+      "hook": "The experiments are documented, but program-level facts and each patient’s dose, course and long-term outcome are different levels of evidence.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1945~1947년 환자 18명에게 플루토늄이 주입됐다",
+          "headingEn": "Between 1945 and 1947, Eighteen Patients Were Injected With Plutonium",
+          "textKo": "U.S. Department of Energy가 보존하는 ACHRE 기록은 여러 미국 병원에서 18명의 환자가 plutonium injection experiment 대상이 됐음을 확인한다. 목적은 plutonium이 체내 어디에 남고 어떻게 배출되는지 측정해 worker·military exposure assessment용 biokinetic data를 얻는 것이었다. 프로그램의 실재는 공식기록으로 확인된다.",
+          "textEn": "DOE/ACHRE records confirm that 18 patients at several U.S. hospitals received plutonium injections between 1945 and 1947 to study retention and excretion for exposure assessment."
+        },
+        {
+          "blockId": "wartime",
+          "type": "BACKGROUND",
+          "headingKo": "Manhattan Project 시대에는 plutonium 인체자료 자체가 거의 없었다",
+          "headingEn": "Human Plutonium Data Were Scarce in the Manhattan Project Era",
+          "textKo": "새로운 radioactive material을 대규모로 생산하면서 occupational exposure risk를 평가해야 했지만 human data가 부족했다. 이 scientific gap은 experiment rationale의 배경이지만 rationale과 participant protection의 적절성은 별도 문제다.",
+          "textEn": "Plutonium production created a need for exposure estimates while human retention/excretion data were scarce. That explains the research rationale, not the adequacy of participant protection."
+        },
+        {
+          "blockId": "ethics",
+          "type": "TURNING_POINT",
+          "headingKo": "후대 ACHRE 조사는 무엇을 알았나보다 어떻게 사람에게 했나를 다시 물었다",
+          "headingEn": "ACHRE Reframed the Question Around Human-Subject Ethics",
+          "textKo": "1990년대 ACHRE는 Cold War human radiation research를 조사하며 disclosure, consent, institutional responsibility를 재구성했다. 비밀과 국가안보 배경은 역사적 explanation이지 ethical exemption은 아니다.",
+          "textEn": "In the 1990s ACHRE reviewed Cold War human-radiation research, reconstructing disclosure, consent and institutional responsibility. National-security context explains history but does not erase ethical questions."
+        },
+        {
+          "blockId": "individual",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "18명이라는 aggregate number가 각 환자의 exact story는 아니다",
+          "headingEn": "The Aggregate Number Eighteen Is Not Every Patient’s Exact Story",
+          "textKo": "환자들은 서로 다른 hospitals와 clinical conditions에 있었고 dose, timing, follow-up은 case-specific record를 확인해야 한다. 공식 summary는 experiment universe를 확정하지만 모든 환자의 exact dose와 long-term outcome을 하나로 통일하지 않는다.",
+          "textEn": "Patients had different hospitals and clinical circumstances; dose, timing and follow-up require case-specific records. Program totals do not define identical individual outcomes."
+        },
+        {
+          "blockId": "legacy",
+          "type": "AFTERMATH",
+          "headingKo": "공개 이후 human-subject protection 역사의 핵심사례가 됐다",
+          "headingEn": "After Disclosure It Became a Major Human-Subject Ethics Case",
+          "textKo": "ACHRE investigation은 radiation experiments의 범위와 federal responsibility를 공개적으로 정리하며 research ethics, records access, remedies debate에 영향을 줬다. 미스터리가 “실제로 했나”에서 “누가 무엇을 알고 어떤 보호를 제공했나”로 이동한 사례다.",
+          "textEn": "ACHRE documented the scope and federal responsibility, shifting the question from whether experiments happened to what participants were told and how they were protected."
+        },
+        {
+          "blockId": "consent-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대 윤리평가에서는 당시의 disclosure와 consent가 핵심쟁점이 됐다",
+          "headingEn": "Later Ethical Review Focused Heavily on Disclosure and Consent",
+          "textKo": "ACHRE의 중요한 질문은 단지 radiation dose가 얼마였는지가 아니라 피험자가 research nature와 risk를 무엇까지 들었고, 치료라고 이해했는지, 선택권을 실질적으로 가졌는지였다. 당시의 문서와 관행을 현재 기준으로 단순 치환할 수는 없지만, 국가안보나 연구필요성만으로 informed participation 문제를 지울 수도 없다. 따라서 역사평가는 scientific objective와 human-subject protection을 분리해 검토한다.",
+          "textEn": "ACHRE examined not only radiation dose but what subjects were told about research purpose and risk, what they believed was treatment, and whether meaningful choice existed. Scientific rationale and human-subject protection must be evaluated separately."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1945~1947년 여러 미국 병원에서 18명의 환자가 plutonium injection experiment 대상이 됐고 retention/excretion 연구목적은 DOE/ACHRE 기록에 남아 있다.\n\n**확인되지 않음:** aggregate summary만으로 각 환자의 exact dose, clinical course, disclosure/consent detail, long-term health outcome을 모두 동일하게 확정할 수는 없다.",
+          "textEn": "**Established:** Between 1945 and 1947, 18 patients received plutonium injections for retention/excretion research, documented in DOE/ACHRE records.\n\n**Not established:** Aggregate summaries do not establish every patient's exact dose, clinical course, consent details or long-term health outcome."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Between 1945 and 1947, 18 patients received plutonium injections for retention/excretion research, documented in DOE/ACHRE records.\n\n**Not established:** Aggregate summaries do not establish every patient's exact dose, clinical course, consent details or long-term health outcome.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "wartime",
+        "ethics",
+        "individual",
+        "legacy",
+        "consent-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PLU-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1945~1947년 18명에게 plutonium injection experiment가 수행됐다.",
+      "statementEn": "Plutonium injection experiments were conducted on 18 patients between 1945 and 1947.",
+      "sourceRefs": [
+        "PLU_ACHRE",
+        "PLU_OHRE"
+      ]
+    },
+    {
+      "claimId": "PLU-C2",
+      "status": "CONFIRMED",
+      "statementKo": "연구목적은 plutonium retention/excretion data 확보였다.",
+      "statementEn": "The research sought plutonium retention and excretion data.",
+      "sourceRefs": [
+        "PLU_ACHRE"
+      ]
+    },
+    {
+      "claimId": "PLU-C3",
+      "status": "CONFIRMED",
+      "statementKo": "ACHRE는 후대 federal review에서 ethics와 responsibility를 조사했다.",
+      "statementEn": "ACHRE later examined the experiments ethics and federal responsibility.",
+      "sourceRefs": [
+        "PLU_ACHRE",
+        "PLU_OHRE"
+      ]
+    },
+    {
+      "claimId": "PLU-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "aggregate summary는 각 환자의 exact dose와 outcome을 동일하게 확정하지 않는다.",
+      "statementEn": "Aggregate summaries do not establish identical exact dose and outcome data for every patient.",
+      "sourceRefs": [
+        "PLU_ACHRE",
+        "PLU_OHRE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PLU_ACHRE",
+      "title": "Advisory Committee on Human Radiation Experiments — Executive Summary",
+      "publisher": "U.S. Department of Energy / ACHRE",
+      "url": "https://ehss.energy.gov/ohre//roadmap/whitehouse/exesum.pdf",
+      "sourceType": "US_GOVERNMENT_REVIEW"
+    },
+    {
+      "sourceId": "PLU_OHRE",
+      "title": "Office of Human Radiation Experiments",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://ehss.energy.gov/ohre/index.html",
+      "sourceType": "US_GOVERNMENT_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "plu-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1945~47 injections → retention/excretion data → disclosure → ACHRE review.",
+      "captionEn": "1945–47 injections → retention/excretion data → disclosure → ACHRE review.",
+      "altKo": "1945~47 injections → retention/excretion data → disclosure → ACHRE review.",
+      "altEn": "1945–47 injections → retention/excretion data → disclosure → ACHRE review.",
+      "sourceRefs": [
+        "PLU_ACHRE",
+        "PLU_OHRE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "plutonium-injections__v01__ko.png",
+          "sha256": "f507d74478fdc20ce2a526f0541fc2b0aed8a326d08210f68ee4501ab07a07c4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "plutonium-injections__v01__en.png",
+          "sha256": "18d93e43113c03ddffcdeed56063f76005ce394a1512983481a34036401fe032",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "plu-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "experiment existence/purpose와 patient-specific dose/outcome을 분리.",
+      "captionEn": "Separate experiment existence/purpose from patient-specific dose and outcome.",
+      "altKo": "experiment existence/purpose와 patient-specific dose/outcome을 분리.",
+      "altEn": "Separate experiment existence/purpose from patient-specific dose and outcome.",
+      "sourceRefs": [
+        "PLU_ACHRE",
+        "PLU_OHRE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "plutonium-injections__v02__ko.png",
+          "sha256": "0b363f79539cf08281b06ffa0df38d8ed99fb16d57bdd94ce88df1bdf6409e5f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "plutonium-injections__v02__en.png",
+          "sha256": "fa4cccb1f8062d962543b590badd941f1eef8f68e62d33f021c3e5f8178798bc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "plu-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "wartime exposure question → human experiment → federal records → retrospective ethics review.",
+      "captionEn": "Wartime exposure question → human experiment → federal records → retrospective ethics review.",
+      "altKo": "wartime exposure question → human experiment → federal records → retrospective ethics review.",
+      "altEn": "Wartime exposure question → human experiment → federal records → retrospective ethics review.",
+      "sourceRefs": [
+        "PLU_ACHRE",
+        "PLU_OHRE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "plutonium-injections__v03__ko.png",
+          "sha256": "521c436fce8f88c99f689cbfec1038e874cae6f449f883462def627656031f36",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "plutonium-injections__v03__en.png",
+          "sha256": "c2d312f92539b147de5680baf8325149ebe2cd687062ad1a0f5086f8872b2c45",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Multiple U.S. hospitals"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "U.S. Department of Energy",
+      "ACHRE"
+    ],
+    "dateRange": {
+      "start": "1945",
+      "end": "1947",
+      "precision": "injection experiment period"
+    },
+    "era": "Manhattan Project / early Cold War",
+    "resolution": "EXPERIMENTS_DOCUMENTED_PATIENT_DETAILS_CASE_SPECIFIC",
+    "searchAliases": [
+      "plutonium injection experiments",
+      "human radiation experiments"
+    ],
+    "relatedCases": [
+      "edgewood-aberdeen",
+      "tuskegee-study"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1506,
+    "enBodyWords": 197,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH19",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

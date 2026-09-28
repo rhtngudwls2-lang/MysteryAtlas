@@ -1,0 +1,375 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "mj12",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "MJ-12 / Majestic 12",
+    "canonicalTitleEn": "MJ-12 / Majestic 12",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "아카이브에 문서는 있는데 왜 ‘MJ-12 실재’ 증거가 되지 못했나",
+      "hook": "MJ-12 논쟁은 ‘문서가 있느냐’에서는 끝나지 않는다. NARA는 문제의 memo를 실제로 보관하지만, numbering·marking·작성자 위치·관련기록 부재 같은 provenance anomaly 때문에 그 내용이 정부조직의 실재를 입증하지 못한다고 정리했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "문서는 실제로 NARA 폴더에서 발견됐지만 그게 MJ-12 조직의 실재를 증명하진 않았다",
+          "headingEn": "A Document Was Found in a National Archives Folder—But That Did Not Prove MJ-12 Existed",
+          "textKo": "MJ-12 논쟁의 중심에는 Robert Cutler가 General Nathan Twining에게 보낸 것처럼 보이는 1954년 7월 14일 memo가 있다. National Archives는 이 문서가 실제 자신들의 custody에서 발견됐음을 기록한다. 그러나 **아카이브에 종이 한 장이 있다는 사실과 그 종이의 내용·작성경위가 진짜라는 것은 별개**다.",
+          "textEn": "The MJ-12 controversy centers on a memorandum dated July 14, 1954, appearing to be from Robert Cutler to General Nathan Twining. The National Archives confirms that this document was found in its custody. But the presence of a sheet of paper in an archive is not the same as authentication of its content or origin."
+        },
+        {
+          "blockId": "problems-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "NARA는 문서 자체에서 여러 행정상 이상점을 확인했다",
+          "headingEn": "NARA Found Multiple Administrative Problems With the Document",
+          "textKo": "NARA reference report는 해당 series가 Top Secret register number로 filing돼야 하는데 이 문서에는 그런 번호가 없고, 같은 folder에 MJ-12 관련 다른 문서가 없다고 정리한다. 당시 NSC에서 쓰지 않던 'Top Secret Restricted Information' marking 문제도 지적됐다. **이런 provenance anomaly는 문서의 신뢰성을 약화하지만 NARA는 단순히 ‘위조확정’이라는 한 문장으로 끝내지 않고 기록문맥을 설명한다.**",
+          "textEn": "NARA's reference report notes that the series was filed by Top Secret register number but this memo lacked such a number, and no other MJ-12 material was found in the folder. It also highlights a 'Top Secret Restricted Information' marking not used by the NSC in that era. These provenance anomalies weaken the document's credibility."
+        },
+        {
+          "blockId": "search-03",
+          "type": "TURNING_POINT",
+          "headingKo": "관련 공식기관을 광범위하게 검색했지만 추가 MJ-12 기록이 나오지 않았다",
+          "headingEn": "Extensive Searches Found No Supporting Official Record Trail",
+          "textKo": "National Archives는 Secretary of Defense, Joint Chiefs, Air Force Headquarters, Truman·Eisenhower libraries, NSC records 등에서 MJ-12·Majestic·UFO 관련 index를 검색했지만 Cutler/Twining memo 외에 조직존재를 뒷받침하는 자료를 찾지 못했다고 보고한다. **비밀조직이 없었다는 논리적 절대증명은 아니지만, 주장된 수준의 Presidential-level committee에 기대할 행정흔적이 보이지 않는다는 강한 반증**이다.",
+          "textEn": "The National Archives searched records of the Secretary of Defense, Joint Chiefs, Air Force Headquarters, Truman and Eisenhower libraries, and NSC files for MJ-12, Majestic, UFO and related terms. No supporting record trail for the alleged organization was found beyond the problematic memo. This is not a logical proof of nonexistence, but it is strong counterevidence for a supposed presidential-level committee."
+        },
+        {
+          "blockId": "cutler-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "문서 날짜에 Cutler는 해외출장 중이었다",
+          "headingEn": "Cutler Was Abroad on the Date He Supposedly Issued the Memo",
+          "textKo": "NARA는 Eisenhower papers를 통해 Cutler가 1954년 7월 3~15일 Europe·North Africa 군사시설을 방문 중이었음을 확인했고, 부재 중 NSC administrative matters를 두 subordinate에게 맡겼다고 기록한다. **문서를 절대불가능하다고 단정하는 단일증거는 아니지만, author attribution과 normal administrative practice에 추가문제를 만든다.**",
+          "textEn": "NARA found in Eisenhower presidential papers that Cutler was visiting military installations in Europe and North Africa from July 3 to 15, 1954, and had delegated NSC administrative matters during his absence. This is not by itself a mathematical proof of impossibility, but it adds a major problem for the claimed authorship and normal administrative process."
+        },
+        {
+          "blockId": "archive-045",
+          "type": "BACKGROUND",
+          "headingKo": "아카이브는 보관장소이지 자동진품감정서가 아니다",
+          "headingEn": "An Archive Is a Custodian, Not an Automatic Certificate of Authenticity",
+          "textKo": "NARA는 seal이 붙은 certified copy를 만들 때도 reproduction이 custody의 문서를 충실히 복사했다는 뜻이지, 문서내용이나 작성자 주장을 인증하는 것은 아니라고 명시한다. **이 원칙 때문에 ‘NARA에서 나왔다’는 말만으로 alleged secret program을 사실화할 수 없다.** provenance와 surrounding record series가 함께 맞아야 한다.",
+          "textEn": "NARA explicitly notes that certification attests that a reproduction is a true copy of a document in its custody; it does not authenticate the information or claims contained in the document. 'Found at NARA' is therefore not enough to establish the alleged secret program."
+        },
+        {
+          "blockId": "meeting-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "주장된 meeting도 contemporaneous schedule에서 뒷받침되지 않았다",
+          "headingEn": "The Alleged Briefing Also Lacks Support in Contemporary Scheduling Records",
+          "textKo": "Eisenhower Library의 appointment books와 NSC meeting minutes 검색에서는 1954년 7월 16일 MJ-12 briefing을 뒷받침하는 entry가 확인되지 않았다고 NARA가 기록한다. **문서 하나의 문구와 실제 행정일정·기록체계가 맞지 않을 때는 후자를 포함한 전체 provenance를 봐야 한다.**",
+          "textEn": "NARA reports that searches of Eisenhower appointment books and NSC meeting minutes did not produce an entry supporting an MJ-12 briefing on July 16, 1954. When one memo conflicts with the broader administrative record, the entire provenance chain matters."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** MJ-12라고 주장된 Cutler/Twining memo는 NARA custody에서 발견됐고 NARA는 광범위한 reference investigation을 수행했다. 조사에서는 file numbering, classification marking, 관련문서 부재, Cutler 출장 등 여러 anomaly가 확인됐다.\n\n**확인되지 않음:** MJ-12라는 실제 미국정부 비밀위원회가 존재했다는 뒷받침 공식기록은 NARA 검색에서 발견되지 않았다. archive custody는 문서내용의 진위인증을 의미하지 않는다.",
+          "textEn": "**Established:** The alleged MJ-12 Cutler/Twining memo was found in NARA custody and investigated extensively. NARA documented anomalies involving file numbering, classification markings, lack of related records, and Cutler's travel.\n\n**Not established:** NARA found no supporting official record trail establishing a real U.S. government committee called MJ-12. Archival custody does not authenticate the claims written on a document."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** MJ-12라고 주장된 Cutler/Twining memo는 NARA custody에서 발견됐고 NARA는 광범위한 reference investigation을 수행했다. 조사에서는 file numbering, classification marking, 관련문서 부재, Cutler 출장 등 여러 anomaly가 확인됐다.\n\n**확인되지 않음:** MJ-12라는 실제 미국정부 비밀위원회가 존재했다는 뒷받침 공식기록은 NARA 검색에서 발견되지 않았다. archive custody는 문서내용의 진위인증을 의미하지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "problems-02",
+        "search-03",
+        "cutler-04",
+        "archive-045",
+        "meeting-048"
+      ]
+    },
+    "en": {
+      "headline": "If the MJ-12 Memo Exists in the Archives, Why Doesn't It Prove MJ-12 Existed?",
+      "hook": "The MJ-12 debate does not end with whether a document exists. NARA holds the memo, but documented provenance anomalies and the absence of supporting records prevent it from establishing the claimed secret committee.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "문서는 실제로 NARA 폴더에서 발견됐지만 그게 MJ-12 조직의 실재를 증명하진 않았다",
+          "headingEn": "A Document Was Found in a National Archives Folder—But That Did Not Prove MJ-12 Existed",
+          "textKo": "MJ-12 논쟁의 중심에는 Robert Cutler가 General Nathan Twining에게 보낸 것처럼 보이는 1954년 7월 14일 memo가 있다. National Archives는 이 문서가 실제 자신들의 custody에서 발견됐음을 기록한다. 그러나 **아카이브에 종이 한 장이 있다는 사실과 그 종이의 내용·작성경위가 진짜라는 것은 별개**다.",
+          "textEn": "The MJ-12 controversy centers on a memorandum dated July 14, 1954, appearing to be from Robert Cutler to General Nathan Twining. The National Archives confirms that this document was found in its custody. But the presence of a sheet of paper in an archive is not the same as authentication of its content or origin."
+        },
+        {
+          "blockId": "problems-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "NARA는 문서 자체에서 여러 행정상 이상점을 확인했다",
+          "headingEn": "NARA Found Multiple Administrative Problems With the Document",
+          "textKo": "NARA reference report는 해당 series가 Top Secret register number로 filing돼야 하는데 이 문서에는 그런 번호가 없고, 같은 folder에 MJ-12 관련 다른 문서가 없다고 정리한다. 당시 NSC에서 쓰지 않던 'Top Secret Restricted Information' marking 문제도 지적됐다. **이런 provenance anomaly는 문서의 신뢰성을 약화하지만 NARA는 단순히 ‘위조확정’이라는 한 문장으로 끝내지 않고 기록문맥을 설명한다.**",
+          "textEn": "NARA's reference report notes that the series was filed by Top Secret register number but this memo lacked such a number, and no other MJ-12 material was found in the folder. It also highlights a 'Top Secret Restricted Information' marking not used by the NSC in that era. These provenance anomalies weaken the document's credibility."
+        },
+        {
+          "blockId": "search-03",
+          "type": "TURNING_POINT",
+          "headingKo": "관련 공식기관을 광범위하게 검색했지만 추가 MJ-12 기록이 나오지 않았다",
+          "headingEn": "Extensive Searches Found No Supporting Official Record Trail",
+          "textKo": "National Archives는 Secretary of Defense, Joint Chiefs, Air Force Headquarters, Truman·Eisenhower libraries, NSC records 등에서 MJ-12·Majestic·UFO 관련 index를 검색했지만 Cutler/Twining memo 외에 조직존재를 뒷받침하는 자료를 찾지 못했다고 보고한다. **비밀조직이 없었다는 논리적 절대증명은 아니지만, 주장된 수준의 Presidential-level committee에 기대할 행정흔적이 보이지 않는다는 강한 반증**이다.",
+          "textEn": "The National Archives searched records of the Secretary of Defense, Joint Chiefs, Air Force Headquarters, Truman and Eisenhower libraries, and NSC files for MJ-12, Majestic, UFO and related terms. No supporting record trail for the alleged organization was found beyond the problematic memo. This is not a logical proof of nonexistence, but it is strong counterevidence for a supposed presidential-level committee."
+        },
+        {
+          "blockId": "cutler-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "문서 날짜에 Cutler는 해외출장 중이었다",
+          "headingEn": "Cutler Was Abroad on the Date He Supposedly Issued the Memo",
+          "textKo": "NARA는 Eisenhower papers를 통해 Cutler가 1954년 7월 3~15일 Europe·North Africa 군사시설을 방문 중이었음을 확인했고, 부재 중 NSC administrative matters를 두 subordinate에게 맡겼다고 기록한다. **문서를 절대불가능하다고 단정하는 단일증거는 아니지만, author attribution과 normal administrative practice에 추가문제를 만든다.**",
+          "textEn": "NARA found in Eisenhower presidential papers that Cutler was visiting military installations in Europe and North Africa from July 3 to 15, 1954, and had delegated NSC administrative matters during his absence. This is not by itself a mathematical proof of impossibility, but it adds a major problem for the claimed authorship and normal administrative process."
+        },
+        {
+          "blockId": "archive-045",
+          "type": "BACKGROUND",
+          "headingKo": "아카이브는 보관장소이지 자동진품감정서가 아니다",
+          "headingEn": "An Archive Is a Custodian, Not an Automatic Certificate of Authenticity",
+          "textKo": "NARA는 seal이 붙은 certified copy를 만들 때도 reproduction이 custody의 문서를 충실히 복사했다는 뜻이지, 문서내용이나 작성자 주장을 인증하는 것은 아니라고 명시한다. **이 원칙 때문에 ‘NARA에서 나왔다’는 말만으로 alleged secret program을 사실화할 수 없다.** provenance와 surrounding record series가 함께 맞아야 한다.",
+          "textEn": "NARA explicitly notes that certification attests that a reproduction is a true copy of a document in its custody; it does not authenticate the information or claims contained in the document. 'Found at NARA' is therefore not enough to establish the alleged secret program."
+        },
+        {
+          "blockId": "meeting-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "주장된 meeting도 contemporaneous schedule에서 뒷받침되지 않았다",
+          "headingEn": "The Alleged Briefing Also Lacks Support in Contemporary Scheduling Records",
+          "textKo": "Eisenhower Library의 appointment books와 NSC meeting minutes 검색에서는 1954년 7월 16일 MJ-12 briefing을 뒷받침하는 entry가 확인되지 않았다고 NARA가 기록한다. **문서 하나의 문구와 실제 행정일정·기록체계가 맞지 않을 때는 후자를 포함한 전체 provenance를 봐야 한다.**",
+          "textEn": "NARA reports that searches of Eisenhower appointment books and NSC meeting minutes did not produce an entry supporting an MJ-12 briefing on July 16, 1954. When one memo conflicts with the broader administrative record, the entire provenance chain matters."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** MJ-12라고 주장된 Cutler/Twining memo는 NARA custody에서 발견됐고 NARA는 광범위한 reference investigation을 수행했다. 조사에서는 file numbering, classification marking, 관련문서 부재, Cutler 출장 등 여러 anomaly가 확인됐다.\n\n**확인되지 않음:** MJ-12라는 실제 미국정부 비밀위원회가 존재했다는 뒷받침 공식기록은 NARA 검색에서 발견되지 않았다. archive custody는 문서내용의 진위인증을 의미하지 않는다.",
+          "textEn": "**Established:** The alleged MJ-12 Cutler/Twining memo was found in NARA custody and investigated extensively. NARA documented anomalies involving file numbering, classification markings, lack of related records, and Cutler's travel.\n\n**Not established:** NARA found no supporting official record trail establishing a real U.S. government committee called MJ-12. Archival custody does not authenticate the claims written on a document."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The alleged MJ-12 Cutler/Twining memo was found in NARA custody and investigated extensively. NARA documented anomalies involving file numbering, classification markings, lack of related records, and Cutler's travel.\n\n**Not established:** NARA found no supporting official record trail establishing a real U.S. government committee called MJ-12. Archival custody does not authenticate the claims written on a document.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "problems-02",
+        "search-03",
+        "cutler-04",
+        "archive-045",
+        "meeting-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MJ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Cutler/Twining MJ-12 memo는 NARA custody에서 발견됐다.",
+      "statementEn": "The alleged Cutler/Twining MJ-12 memo was found in NARA custody.",
+      "sourceRefs": [
+        "MJ_NARA",
+        "MJ_REPORT"
+      ]
+    },
+    {
+      "claimId": "MJ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "NARA는 file numbering·classification marking·related-record absence 등 provenance anomaly를 기록했다.",
+      "statementEn": "NARA documented provenance anomalies involving file numbering, classification markings, and missing related records.",
+      "sourceRefs": [
+        "MJ_NARA",
+        "MJ_REPORT"
+      ]
+    },
+    {
+      "claimId": "MJ-C3",
+      "status": "CONFIRMED",
+      "statementKo": "광범위한 공식기록 검색에서 MJ-12 조직을 뒷받침하는 추가기록을 찾지 못했다.",
+      "statementEn": "Extensive official-record searches found no additional documentation supporting an MJ-12 organization.",
+      "sourceRefs": [
+        "MJ_NARA"
+      ]
+    },
+    {
+      "claimId": "MJ-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "실제 미국정부 비밀위원회 MJ-12의 존재는 공식기록으로 확립되지 않았다.",
+      "statementEn": "The existence of a real U.S. government committee called MJ-12 is not established by official records.",
+      "sourceRefs": [
+        "MJ_NARA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MJ_NARA",
+      "title": "Project BLUE BOOK — Majestic 12 or 'MJ-12' Reference Report",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/research/military/air-force/ufos",
+      "sourceType": "NARA_OFFICIAL_REFERENCE_REPORT"
+    },
+    {
+      "sourceId": "MJ_REPORT",
+      "title": "National Archives Reference Report on MJ-12, July 22 1987",
+      "publisher": "National Archives / Reagan Library copy",
+      "url": "https://reaganlibrary.archives.gov/public/2021-06/40-654-209237726-004-008-2021.pdf",
+      "sourceType": "NARA_PRIMARY_REFERENCE_MEMO"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "mj-v01",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "문서 발견 → NARA custody → 행정 anomaly → 관련기록 search negative 흐름.",
+      "captionEn": "Document found → NARA custody → provenance anomalies → negative supporting-record searches.",
+      "altKo": "문서 발견 → NARA custody → 행정 anomaly → 관련기록 search negative 흐름.",
+      "altEn": "Document found → NARA custody → provenance anomalies → negative supporting-record searches.",
+      "sourceRefs": [
+        "MJ_NARA",
+        "MJ_REPORT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mj12__v01__ko.png",
+          "sha256": "994f73cdb1720a60ab89c03c2a500a5f8c5910521a5602adef4e803a050180ff",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mj12__v01__en.png",
+          "sha256": "ef5cea500bcc1918bda3e30fc592ba52ac53935afa969cfb07f1f4e958ebbaf3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mj-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘문서가 존재함’과 ‘문서내용/조직이 진짜임’을 분리.",
+      "captionEn": "Evidence card separating document existence from authenticity of its claims and organization.",
+      "altKo": "‘문서가 존재함’과 ‘문서내용/조직이 진짜임’을 분리.",
+      "altEn": "Evidence card separating document existence from authenticity of its claims and organization.",
+      "sourceRefs": [
+        "MJ_NARA",
+        "MJ_REPORT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mj12__v02__ko.png",
+          "sha256": "688ef4cf578e04ed23825e4204d0d200fca07907bda77b6160e55f840c7f33c3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mj12__v02__en.png",
+          "sha256": "392e2f392408599dc49149ab18f9f8e78e2a2a606112d322e71993afa2daddf5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy",
+      "UFO / UAP / Aerial Anomaly"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Washington, D.C."
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Robert Cutler",
+        "role": "purported memo author"
+      },
+      {
+        "name": "Nathan Twining",
+        "role": "purported recipient"
+      }
+    ],
+    "organizations": [
+      "National Archives",
+      "National Security Council",
+      "U.S. Air Force"
+    ],
+    "dateRange": {
+      "start": "1954-07",
+      "end": "1987",
+      "precision": "purported memo and NARA investigation"
+    },
+    "era": "Cold War / later archival investigation",
+    "resolution": "DOCUMENT_EXISTS_ORGANIZATION_NOT_CORROBORATED",
+    "searchAliases": [
+      "MJ-12",
+      "Majestic 12",
+      "Majestic Twelve"
+    ],
+    "relatedCases": [
+      "roswell",
+      "project-blue-book"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1774,
+    "enBodyWords": 369,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH14",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH14_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

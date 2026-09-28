@@ -1,0 +1,450 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "uss-conestoga",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "USS Conestoga 실종과 발견",
+    "canonicalTitleEn": "USS Conestoga Disappearance and Discovery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "95년 동안 태평양으로 사라진 줄 알았던 배는 왜 샌프란시스코 바로 앞에 있었나",
+      "hook": "Conestoga의 미스터리는 wreck가 없어서 커졌다. NOAA가 sonar·ROV·archive를 결합하자 이야기는 뒤집혔다. 배는 먼 바다까지 간 게 아니라 출항 직후 Farallon 근처에서 가라앉았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "95년 동안 ‘태평양으로 사라진 배’였는데 실제로는 출항 하루도 못 가라앉았다",
+          "headingEn": "For 95 Years It Was Thought Lost Far at Sea—But It Sank Just Outside San Francisco",
+          "textKo": "USS Conestoga는 1921년 3월 25일 Mare Island를 떠나 Pearl Harbor를 거쳐 American Samoa로 향하다 56명과 함께 실종됐다. 당시 search는 멕시코·Hawaii 방향까지 확대됐고 배는 6월 30일 전원과 함께 lost로 선언됐다. 2016년 NOAA·U.S. Navy는 wreck identification을 발표하며 **실제 침몰위치가 Southeast Farallon Island에서 약 3 miles 떨어진 곳이었다고 밝혔다.**",
+          "textEn": "USS Conestoga left Mare Island on March 25, 1921, bound for American Samoa via Pearl Harbor and vanished with 56 sailors. The original search ranged far toward Mexico and Hawaii, and the vessel was declared lost on June 30. In 2016 NOAA and the U.S. Navy announced the wreck identification: Conestoga had sunk only about three miles from Southeast Farallon Island."
+        },
+        {
+          "blockId": "search-02",
+          "type": "BACKGROUND",
+          "headingKo": "초기 수색은 drifting lifeboat와 예상항로 때문에 엉뚱한 바다를 봤다",
+          "headingEn": "A Drifting Lifeboat and Route Assumptions Pulled the Search Far From the Actual Wreck",
+          "textKo": "당시 한 steamship이 Mexico offshore에서 'C'가 적힌 lifeboat를 발견했고 Navy는 Conestoga가 이미 Pacific으로 진출했을 것이라는 예상으로 광범위한 search를 벌였다. 하지만 NOAA가 확인한 wreck는 Golden Gate를 거의 벗어나지 못한 위치였다. **초기 가정 하나가 search geography 전체를 잘못된 방향으로 밀 수 있음을 보여주는 사례**다.",
+          "textEn": "A steamship found a lifeboat marked 'C' off Mexico, and the Navy assumed Conestoga had already progressed into the Pacific, driving a vast search far from San Francisco. NOAA's wreck identification showed the tug had barely made it beyond the Golden Gate. One early assumption can redirect an entire search geography."
+        },
+        {
+          "blockId": "discovery-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2014년 sonar target과 ROV 조사가 95년 미스터리를 바꿨다",
+          "headingEn": "A 2014 Sonar Target and ROV Survey Reopened the Case",
+          "textKo": "NOAA Maritime Heritage Program은 Greater Farallones sanctuary에서 미확인 wreck target을 조사했고, 2014년 ROV dive로 170-foot steel-hulled steam tug의 특징을 기록했다. 역사자료·기체규격·wreck features를 대조한 뒤 2015년 identification을 확정하고 2016년 공개했다. **해결은 새 목격담이 아니라 archaeology, sonar, ROV, archive cross-check의 결합에서 나왔다.**",
+          "textEn": "NOAA's Maritime Heritage Program investigated an unidentified wreck target in Greater Farallones National Marine Sanctuary. ROV dives in 2014 documented a 170-foot steel-hulled steam tug. Comparing wreck features with historical records led to identification in 2015 and public announcement in 2016. The solution came from sonar, archaeology, ROV survey, and archival cross-checking."
+        },
+        {
+          "blockId": "cause-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "wreck는 위치를 해결했지만 사고순간의 모든 세부를 녹음해주지는 않는다",
+          "headingEn": "Finding the Wreck Solved the Location, Not Every Second of the Sinking",
+          "textKo": "NOAA 분석은 3월 25일 gale과 rough seas, tow winch wire 상태를 근거로 towing problem 후 Southeast Farallon Island의 lee를 향하려 했을 가능성을 제시한다. 배는 아마 3월 26일 침몰했을 것으로 본다. **이 시나리오는 wreck·weather·equipment evidence에 맞는 강한 reconstruction이지만, surviving log나 witness가 없는 만큼 모든 세부가 직접기록된 것은 아니다.**",
+          "textEn": "NOAA's reconstruction uses gale conditions, rough seas, and the state of the towing winch to suggest the tug encountered towing trouble and tried to reach the lee of Southeast Farallon Island, likely sinking on March 26. This is a strong evidence-based reconstruction, but without a surviving log or witness not every detail is directly recorded."
+        },
+        {
+          "blockId": "identification-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "wreck identification은 한 특징이 아니라 여러 독립특징의 조합이었다",
+          "headingEn": "The Wreck Identification Relied on Multiple Independent Features",
+          "textKo": "NOAA team은 hull size, steam-tug layout, machinery, gun mount, historical construction details와 지역 wreck records를 함께 비교했다. **선박고고학에서 '닮아 보인다'는 시각인상보다 치수·구조·기계배치·역사기록이 동시에 맞는지가 identity 판단의 핵심**이다.",
+          "textEn": "NOAA compared hull dimensions, steam-tug layout, machinery, gun mounting, construction details, and regional wreck records. Shipwreck identification depends on multiple independent features converging, not simply visual resemblance."
+        },
+        {
+          "blockId": "closure-048",
+          "type": "AFTERMATH",
+          "headingKo": "해결된 것은 ‘어디 있었나’이고 사람들의 마지막 순간은 여전히 reconstruction이다",
+          "headingEn": "The Discovery Solved 'Where,' While the Final Human Moments Remain Reconstructed",
+          "textKo": "wreck 발견은 가족과 해군에 95년 만의 위치적 closure를 제공했지만, 승무원이 실제로 어떤 명령을 내렸고 언제 tow를 잃었는지는 직접기록이 없다. **미스터리가 해결됐다는 표현도 무엇이 해결됐는지 세분해야 한다. 위치와 ship identity는 해결됐고, accident sequence의 세부는 추론이다.**",
+          "textEn": "The wreck gave families and the Navy geographic closure after 95 years, but no record captures the crew's final commands or exact moment of failure. The mystery was solved in location and identity; details of the accident sequence remain reconstruction."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** USS Conestoga는 1921년 3월 25일 출항 후 56명과 함께 실종됐고, NOAA는 2014 조사·2015 identification을 거쳐 wreck가 Southeast Farallon Island 인근에 있음을 확인했다. 2016년 NOAA·Navy가 공식 발표했다.\n\n**확인되지 않음:** 정확한 침몰과정의 매 순간은 직접증언으로 남지 않았다. gale·tow problem·attempted shelter 시나리오는 wreck와 역사자료에 기반한 reconstruction이다.",
+          "textEn": "**Established:** USS Conestoga disappeared after departing on March 25, 1921, with 56 aboard. NOAA surveyed the wreck in 2014, identified it in 2015, and NOAA/U.S. Navy publicly announced the discovery in 2016 near Southeast Farallon Island.\n\n**Not established:** Every moment of the sinking is not directly documented. The gale, tow-problem, and attempted-shelter scenario is an evidence-based reconstruction from the wreck and historical record."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** USS Conestoga는 1921년 3월 25일 출항 후 56명과 함께 실종됐고, NOAA는 2014 조사·2015 identification을 거쳐 wreck가 Southeast Farallon Island 인근에 있음을 확인했다. 2016년 NOAA·Navy가 공식 발표했다.\n\n**확인되지 않음:** 정확한 침몰과정의 매 순간은 직접증언으로 남지 않았다. gale·tow problem·attempted shelter 시나리오는 wreck와 역사자료에 기반한 reconstruction이다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "search-02",
+        "discovery-03",
+        "cause-04",
+        "identification-045",
+        "closure-048"
+      ]
+    },
+    "en": {
+      "headline": "Why Was a Ship Thought Lost Across the Pacific Found Just Outside San Francisco?",
+      "hook": "The Conestoga mystery grew because there was no wreck. Sonar, ROV archaeology, and archives reversed the story: the tug had not crossed the Pacific at all—it sank near the Farallons soon after departure.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "95년 동안 ‘태평양으로 사라진 배’였는데 실제로는 출항 하루도 못 가라앉았다",
+          "headingEn": "For 95 Years It Was Thought Lost Far at Sea—But It Sank Just Outside San Francisco",
+          "textKo": "USS Conestoga는 1921년 3월 25일 Mare Island를 떠나 Pearl Harbor를 거쳐 American Samoa로 향하다 56명과 함께 실종됐다. 당시 search는 멕시코·Hawaii 방향까지 확대됐고 배는 6월 30일 전원과 함께 lost로 선언됐다. 2016년 NOAA·U.S. Navy는 wreck identification을 발표하며 **실제 침몰위치가 Southeast Farallon Island에서 약 3 miles 떨어진 곳이었다고 밝혔다.**",
+          "textEn": "USS Conestoga left Mare Island on March 25, 1921, bound for American Samoa via Pearl Harbor and vanished with 56 sailors. The original search ranged far toward Mexico and Hawaii, and the vessel was declared lost on June 30. In 2016 NOAA and the U.S. Navy announced the wreck identification: Conestoga had sunk only about three miles from Southeast Farallon Island."
+        },
+        {
+          "blockId": "search-02",
+          "type": "BACKGROUND",
+          "headingKo": "초기 수색은 drifting lifeboat와 예상항로 때문에 엉뚱한 바다를 봤다",
+          "headingEn": "A Drifting Lifeboat and Route Assumptions Pulled the Search Far From the Actual Wreck",
+          "textKo": "당시 한 steamship이 Mexico offshore에서 'C'가 적힌 lifeboat를 발견했고 Navy는 Conestoga가 이미 Pacific으로 진출했을 것이라는 예상으로 광범위한 search를 벌였다. 하지만 NOAA가 확인한 wreck는 Golden Gate를 거의 벗어나지 못한 위치였다. **초기 가정 하나가 search geography 전체를 잘못된 방향으로 밀 수 있음을 보여주는 사례**다.",
+          "textEn": "A steamship found a lifeboat marked 'C' off Mexico, and the Navy assumed Conestoga had already progressed into the Pacific, driving a vast search far from San Francisco. NOAA's wreck identification showed the tug had barely made it beyond the Golden Gate. One early assumption can redirect an entire search geography."
+        },
+        {
+          "blockId": "discovery-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2014년 sonar target과 ROV 조사가 95년 미스터리를 바꿨다",
+          "headingEn": "A 2014 Sonar Target and ROV Survey Reopened the Case",
+          "textKo": "NOAA Maritime Heritage Program은 Greater Farallones sanctuary에서 미확인 wreck target을 조사했고, 2014년 ROV dive로 170-foot steel-hulled steam tug의 특징을 기록했다. 역사자료·기체규격·wreck features를 대조한 뒤 2015년 identification을 확정하고 2016년 공개했다. **해결은 새 목격담이 아니라 archaeology, sonar, ROV, archive cross-check의 결합에서 나왔다.**",
+          "textEn": "NOAA's Maritime Heritage Program investigated an unidentified wreck target in Greater Farallones National Marine Sanctuary. ROV dives in 2014 documented a 170-foot steel-hulled steam tug. Comparing wreck features with historical records led to identification in 2015 and public announcement in 2016. The solution came from sonar, archaeology, ROV survey, and archival cross-checking."
+        },
+        {
+          "blockId": "cause-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "wreck는 위치를 해결했지만 사고순간의 모든 세부를 녹음해주지는 않는다",
+          "headingEn": "Finding the Wreck Solved the Location, Not Every Second of the Sinking",
+          "textKo": "NOAA 분석은 3월 25일 gale과 rough seas, tow winch wire 상태를 근거로 towing problem 후 Southeast Farallon Island의 lee를 향하려 했을 가능성을 제시한다. 배는 아마 3월 26일 침몰했을 것으로 본다. **이 시나리오는 wreck·weather·equipment evidence에 맞는 강한 reconstruction이지만, surviving log나 witness가 없는 만큼 모든 세부가 직접기록된 것은 아니다.**",
+          "textEn": "NOAA's reconstruction uses gale conditions, rough seas, and the state of the towing winch to suggest the tug encountered towing trouble and tried to reach the lee of Southeast Farallon Island, likely sinking on March 26. This is a strong evidence-based reconstruction, but without a surviving log or witness not every detail is directly recorded."
+        },
+        {
+          "blockId": "identification-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "wreck identification은 한 특징이 아니라 여러 독립특징의 조합이었다",
+          "headingEn": "The Wreck Identification Relied on Multiple Independent Features",
+          "textKo": "NOAA team은 hull size, steam-tug layout, machinery, gun mount, historical construction details와 지역 wreck records를 함께 비교했다. **선박고고학에서 '닮아 보인다'는 시각인상보다 치수·구조·기계배치·역사기록이 동시에 맞는지가 identity 판단의 핵심**이다.",
+          "textEn": "NOAA compared hull dimensions, steam-tug layout, machinery, gun mounting, construction details, and regional wreck records. Shipwreck identification depends on multiple independent features converging, not simply visual resemblance."
+        },
+        {
+          "blockId": "closure-048",
+          "type": "AFTERMATH",
+          "headingKo": "해결된 것은 ‘어디 있었나’이고 사람들의 마지막 순간은 여전히 reconstruction이다",
+          "headingEn": "The Discovery Solved 'Where,' While the Final Human Moments Remain Reconstructed",
+          "textKo": "wreck 발견은 가족과 해군에 95년 만의 위치적 closure를 제공했지만, 승무원이 실제로 어떤 명령을 내렸고 언제 tow를 잃었는지는 직접기록이 없다. **미스터리가 해결됐다는 표현도 무엇이 해결됐는지 세분해야 한다. 위치와 ship identity는 해결됐고, accident sequence의 세부는 추론이다.**",
+          "textEn": "The wreck gave families and the Navy geographic closure after 95 years, but no record captures the crew's final commands or exact moment of failure. The mystery was solved in location and identity; details of the accident sequence remain reconstruction."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** USS Conestoga는 1921년 3월 25일 출항 후 56명과 함께 실종됐고, NOAA는 2014 조사·2015 identification을 거쳐 wreck가 Southeast Farallon Island 인근에 있음을 확인했다. 2016년 NOAA·Navy가 공식 발표했다.\n\n**확인되지 않음:** 정확한 침몰과정의 매 순간은 직접증언으로 남지 않았다. gale·tow problem·attempted shelter 시나리오는 wreck와 역사자료에 기반한 reconstruction이다.",
+          "textEn": "**Established:** USS Conestoga disappeared after departing on March 25, 1921, with 56 aboard. NOAA surveyed the wreck in 2014, identified it in 2015, and NOAA/U.S. Navy publicly announced the discovery in 2016 near Southeast Farallon Island.\n\n**Not established:** Every moment of the sinking is not directly documented. The gale, tow-problem, and attempted-shelter scenario is an evidence-based reconstruction from the wreck and historical record."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** USS Conestoga disappeared after departing on March 25, 1921, with 56 aboard. NOAA surveyed the wreck in 2014, identified it in 2015, and NOAA/U.S. Navy publicly announced the discovery in 2016 near Southeast Farallon Island.\n\n**Not established:** Every moment of the sinking is not directly documented. The gale, tow-problem, and attempted-shelter scenario is an evidence-based reconstruction from the wreck and historical record.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "search-02",
+        "discovery-03",
+        "cause-04",
+        "identification-045",
+        "closure-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CON-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Conestoga는 1921-03-25 출항 후 56명과 함께 실종됐다.",
+      "statementEn": "Conestoga disappeared after departing on March 25, 1921, with 56 aboard.",
+      "sourceRefs": [
+        "CON_NOAA"
+      ]
+    },
+    {
+      "claimId": "CON-C2",
+      "status": "CONFIRMED",
+      "statementKo": "NOAA wreck 조사와 historical cross-check으로 위치가 Southeast Farallon Island 인근임이 확인됐다.",
+      "statementEn": "NOAA wreck investigation and historical cross-checking identified the vessel near Southeast Farallon Island.",
+      "sourceRefs": [
+        "CON_DISCOVERY",
+        "CON_PRESS"
+      ]
+    },
+    {
+      "claimId": "CON-C3",
+      "status": "SUPPORTED",
+      "statementKo": "gale·tow trouble 후 shelter를 시도하다 침몰했을 가능성이 NOAA reconstruction으로 제시됐다.",
+      "statementEn": "NOAA reconstruction supports a scenario involving gale conditions, towing trouble, and an attempted move toward shelter.",
+      "sourceRefs": [
+        "CON_DISCOVERY"
+      ]
+    },
+    {
+      "claimId": "CON-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "침몰과정의 모든 세부는 직접 기록되지 않았다.",
+      "statementEn": "Not every detail of the sinking is directly recorded.",
+      "sourceRefs": [
+        "CON_DISCOVERY"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CON_NOAA",
+      "title": "USS Conestoga (AT 54)",
+      "publisher": "NOAA Office of National Marine Sanctuaries",
+      "url": "https://sanctuaries.noaa.gov/conestoga/",
+      "sourceType": "NOAA_OFFICIAL"
+    },
+    {
+      "sourceId": "CON_DISCOVERY",
+      "title": "Solving a Century-Old Riddle: Discovering the Wreck of the USS Conestoga",
+      "publisher": "NOAA Office of National Marine Sanctuaries",
+      "url": "https://sanctuaries.noaa.gov/news/mar16/conestoga.html",
+      "sourceType": "NOAA_MARITIME_ARCHAEOLOGY"
+    },
+    {
+      "sourceId": "CON_PRESS",
+      "title": "NOAA solves disappearance mystery of USS Conestoga",
+      "publisher": "NOAA Office of National Marine Sanctuaries",
+      "url": "https://sanctuaries.noaa.gov/news/press/2016/noaa-discovers-wreck-of-uss-conestoga.html",
+      "sourceType": "NOAA_OFFICIAL_ANNOUNCEMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "con-v01",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Mare Island → Golden Gate → Southeast Farallon wreck 위치와 원래 예정항로 비교.",
+      "captionEn": "Original map comparing actual wreck near Southeast Farallon with intended Mare Island–Pearl Harbor route.",
+      "altKo": "Mare Island → Golden Gate → Southeast Farallon wreck 위치와 원래 예정항로 비교.",
+      "altEn": "Original map comparing actual wreck near Southeast Farallon with intended Mare Island–Pearl Harbor route.",
+      "sourceRefs": [
+        "CON_NOAA",
+        "CON_DISCOVERY",
+        "CON_PRESS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-conestoga__v01__ko.png",
+          "sha256": "fc04276dcebac394f35ddaad740c2a6d15a3bbee1020e784abcd618346cf1e34",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-conestoga__v01__en.png",
+          "sha256": "2bbbb03326a73c048cf957fcca152ef39c890f9360acc0218a2757e7a0d29f32",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "con-v02",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1921 실종 → 대규모 search → 2014 ROV 조사 → 2015 identify → 2016 공식발표.",
+      "captionEn": "1921 disappearance → search → 2014 ROV survey → 2015 identification → 2016 announcement.",
+      "altKo": "1921 실종 → 대규모 search → 2014 ROV 조사 → 2015 identify → 2016 공식발표.",
+      "altEn": "1921 disappearance → search → 2014 ROV survey → 2015 identification → 2016 announcement.",
+      "sourceRefs": [
+        "CON_NOAA",
+        "CON_DISCOVERY",
+        "CON_PRESS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-conestoga__v02__ko.png",
+          "sha256": "443e75784cd7c0238de11f96d27fdc818f1b504245d24dd1af33c12ecf15f23f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-conestoga__v02__en.png",
+          "sha256": "b9b15159b2f2ce20673d270a820feb4161df1fb3597ec0c11032db31e271f9c1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "con-v03",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "sonar target → ROV wreck features → historical plans/photos → identification 흐름.",
+      "captionEn": "Sonar target → ROV wreck features → historical plans/photos → identification.",
+      "altKo": "sonar target → ROV wreck features → historical plans/photos → identification 흐름.",
+      "altEn": "Sonar target → ROV wreck features → historical plans/photos → identification.",
+      "sourceRefs": [
+        "CON_NOAA",
+        "CON_DISCOVERY",
+        "CON_PRESS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-conestoga__v03__ko.png",
+          "sha256": "f39a1ce314ec5ea30dd22bd4800a7d08c4de6b6a451e3382679d9f2412e66344",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-conestoga__v03__en.png",
+          "sha256": "3637d4afb9025b4ce3651826def67ba4546a2e3526aa1a54818260de2f3c1d44",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "con-v04",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "확정된 wreck 위치와 NOAA가 재구성한 accident scenario를 분리.",
+      "captionEn": "Evidence card separating confirmed wreck location from reconstructed accident scenario.",
+      "altKo": "확정된 wreck 위치와 NOAA가 재구성한 accident scenario를 분리.",
+      "altEn": "Evidence card separating confirmed wreck location from reconstructed accident scenario.",
+      "sourceRefs": [
+        "CON_NOAA",
+        "CON_DISCOVERY",
+        "CON_PRESS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-conestoga__v04__ko.png",
+          "sha256": "87aab304964f80b949644037bd4966b5acf26a45a63defc19e3d528b7d52809a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-conestoga__v04__en.png",
+          "sha256": "29d195ec2f1a35a38b5cd0ab1d0ae4c2e2c3547a77e9be4b9a519cd604f4c864",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "San Francisco / Farallon Islands"
+    ],
+    "places": [
+      {
+        "name": "Mare Island",
+        "role": "departure"
+      },
+      {
+        "name": "Southeast Farallon Island",
+        "role": "wreck location"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Navy",
+      "NOAA Office of National Marine Sanctuaries"
+    ],
+    "dateRange": {
+      "start": "1921-03-25",
+      "end": "2016-03-23",
+      "precision": "disappearance through public identification"
+    },
+    "era": "20th-century maritime / modern archaeology",
+    "resolution": "WRECK_IDENTIFIED_LOCATION_SOLVED_SINKING_DETAILS_RECONSTRUCTED",
+    "searchAliases": [
+      "USS Conestoga",
+      "AT-54"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1733,
+    "enBodyWords": 352,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH14",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH14_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

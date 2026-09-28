@@ -1,0 +1,404 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "edgewood-aberdeen",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Edgewood / Aberdeen 실험",
+    "canonicalTitleEn": "Edgewood/Aberdeen Experiments",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "7,000명·250종 화학물질—숫자는 확실하지만 개인별 피해는 왜 따로 봐야 하나",
+      "hook": "프로그램의 존재와 대규모 실험은 공식자료로 확인된다. 하지만 'Edgewood 참가자'라는 한 단어가 각 군인의 substance·dose·health outcome까지 동일하게 만들어주지는 않는다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "약 7,000명의 군인이 250종이 넘는 화학물질 관련 실험에 참여했다",
+          "headingEn": "About 7,000 Service Members Took Part in Experiments Involving More Than 250 Chemicals",
+          "textKo": "U.S. Department of Veterans Affairs는 Maryland Edgewood Arsenal에서 1955~1975년 U.S. Army Chemical Corps가 classified medical research를 수행했고, 약 7,000명의 군인이 250종이 넘는 chemical substance 관련 실험에 참여했다고 정리한다. **프로그램의 실재와 규모는 공식자료로 확인된다.**",
+          "textEn": "The U.S. Department of Veterans Affairs states that the Army Chemical Corps conducted classified medical research at Edgewood Arsenal, Maryland, from 1955 to 1975, involving about 7,000 service members and more than 250 chemical substances. The existence and broad scale of the program are documented."
+        },
+        {
+          "blockId": "agents-02",
+          "type": "BACKGROUND",
+          "headingKo": "연구대상은 incapacitating agents부터 nerve-agent 관련 물질까지 매우 넓었다",
+          "headingEn": "The Research Covered a Wide Range of Incapacitating and Chemical-Warfare Agents",
+          "textKo": "VA exposure material은 participant가 다양한 chemical/biological-agent research와 protection testing에 참여했다고 설명한다. substance와 dose, protocol, purpose는 experiment마다 달랐다. **따라서 'Edgewood 참가자'라는 하나의 label만으로 모든 군인의 exposure와 health outcome을 동일하게 말하면 안 된다.**",
+          "textEn": "VA exposure material describes a wide range of chemical-agent research and protective testing, with substances, doses, protocols, and purposes varying across experiments. 'Edgewood participant' is therefore not one uniform exposure category."
+        },
+        {
+          "blockId": "consent-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "프로그램의 윤리문제와 개별 참가자의 정확한 경험은 구분해야 한다",
+          "headingEn": "Program-Level Ethical Questions and Individual Exposure Histories Need Separation",
+          "textKo": "classified context, military hierarchy, informed-consent practice, 후대 veterans claims 때문에 프로그램은 중대한 윤리·법적 논쟁의 대상이 됐다. 그러나 source-bounded summary만으로 특정 개인이 어떤 substance·dose를 받았고 어떤 장기질환이 그 노출 때문에 생겼는지 확정할 수는 없다. **aggregate history와 individual causation은 다른 증거문제다.**",
+          "textEn": "The classified setting, military hierarchy, consent practices, and later veterans' claims made the program a major ethical and legal controversy. But aggregate program records do not establish which exact substance and dose every individual received or prove a specific long-term illness was caused by a particular exposure."
+        },
+        {
+          "blockId": "records-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "VA가 현재 exposure-health care 정보를 운영한다는 사실은 후속관리의 필요성을 보여준다",
+          "headingEn": "VA's Ongoing Exposure Guidance Reflects the Need for Long-Term Follow-Up",
+          "textKo": "VA는 Edgewood/Aberdeen veterans를 위한 exposure information과 health-care guidance를 운영하고 War Related Illness and Injury Study Center 자료도 제공한다. **이는 프로그램이 역사문서에만 남은 게 아니라 참가자별 record 확인과 medical assessment가 지금도 중요하다는 뜻**이다.",
+          "textEn": "VA maintains exposure information and health-care guidance for Edgewood/Aberdeen veterans, including material from the War Related Illness and Injury Study Center. The program remains relevant to individual record review and medical assessment, not merely to historical documentation."
+        },
+        {
+          "blockId": "numbers-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "7,000명·250종이라는 숫자가 각 참가자의 실제 노출표는 아니다",
+          "headingEn": "The 7,000-Person and 250-Chemical Totals Are Not Individual Exposure Charts",
+          "textKo": "프로그램 규모의 숫자는 전체 연구 universe를 설명한다. 그러나 한 참가자가 250종 모두에 노출됐다는 뜻도 아니고, 모든 participant가 같은 experimental arm에 있었던 것도 아니다. **headline-level total과 case-level exposure를 혼동하지 않는 것이 중요하다.**",
+          "textEn": "Program-wide totals describe the research universe. They do not mean each participant encountered all 250 substances or that all service members were assigned to identical protocols. Headline totals must not be confused with case-level exposure histories."
+        },
+        {
+          "blockId": "documentation-055",
+          "type": "AFTERMATH",
+          "headingKo": "후대 공개와 veteran records가 프로그램의 실제 규모를 재구성하는 핵심이 됐다",
+          "headingEn": "Later Disclosure and Veteran Records Became Central to Reconstructing the Program",
+          "textKo": "classified program은 종료 뒤 declassification·VA outreach·medical record review를 통해 참가자 경험이 부분적으로 재구성됐다. **비밀프로그램의 역사에서는 당시 공식문서가 존재했다는 것과 개인이 자신의 exposure history를 실제로 확인할 수 있었는지가 다른 문제**다.",
+          "textEn": "After the classified program ended, declassification, VA outreach, and medical-record review helped reconstruct participant histories. In secret-program history, the existence of official files and an individual's ability to recover a usable exposure record are separate issues."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1955~1975년 Edgewood Arsenal에서 U.S. Army Chemical Corps의 classified medical research가 수행됐고 약 7,000명의 군인이 250종 이상 chemical substance 관련 experiment에 참여했다.\n\n**확인되지 않음:** 이 aggregate record만으로 특정 참가자의 exact substance, dose, consent circumstances, individual outcome, long-term causal health effect를 모두 확정할 수는 없다.",
+          "textEn": "**Established:** From 1955 to 1975 the U.S. Army Chemical Corps conducted classified medical research at Edgewood Arsenal involving about 7,000 service members and more than 250 chemical substances.\n\n**Not established:** Aggregate records alone do not establish every participant's exact substance, dose, consent circumstances, individual outcome, or long-term causal health effect."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1955~1975년 Edgewood Arsenal에서 U.S. Army Chemical Corps의 classified medical research가 수행됐고 약 7,000명의 군인이 250종 이상 chemical substance 관련 experiment에 참여했다.\n\n**확인되지 않음:** 이 aggregate record만으로 특정 참가자의 exact substance, dose, consent circumstances, individual outcome, long-term causal health effect를 모두 확정할 수는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "agents-02",
+        "consent-03",
+        "records-04",
+        "numbers-05",
+        "documentation-055"
+      ]
+    },
+    "en": {
+      "headline": "7,000 People and 250+ Chemicals—Why Program Scale and Individual Harm Are Different Evidence Questions",
+      "hook": "The program and its scale are documented. But the label 'Edgewood participant' does not make every person's substance, dose, protocol, or health outcome identical.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "약 7,000명의 군인이 250종이 넘는 화학물질 관련 실험에 참여했다",
+          "headingEn": "About 7,000 Service Members Took Part in Experiments Involving More Than 250 Chemicals",
+          "textKo": "U.S. Department of Veterans Affairs는 Maryland Edgewood Arsenal에서 1955~1975년 U.S. Army Chemical Corps가 classified medical research를 수행했고, 약 7,000명의 군인이 250종이 넘는 chemical substance 관련 실험에 참여했다고 정리한다. **프로그램의 실재와 규모는 공식자료로 확인된다.**",
+          "textEn": "The U.S. Department of Veterans Affairs states that the Army Chemical Corps conducted classified medical research at Edgewood Arsenal, Maryland, from 1955 to 1975, involving about 7,000 service members and more than 250 chemical substances. The existence and broad scale of the program are documented."
+        },
+        {
+          "blockId": "agents-02",
+          "type": "BACKGROUND",
+          "headingKo": "연구대상은 incapacitating agents부터 nerve-agent 관련 물질까지 매우 넓었다",
+          "headingEn": "The Research Covered a Wide Range of Incapacitating and Chemical-Warfare Agents",
+          "textKo": "VA exposure material은 participant가 다양한 chemical/biological-agent research와 protection testing에 참여했다고 설명한다. substance와 dose, protocol, purpose는 experiment마다 달랐다. **따라서 'Edgewood 참가자'라는 하나의 label만으로 모든 군인의 exposure와 health outcome을 동일하게 말하면 안 된다.**",
+          "textEn": "VA exposure material describes a wide range of chemical-agent research and protective testing, with substances, doses, protocols, and purposes varying across experiments. 'Edgewood participant' is therefore not one uniform exposure category."
+        },
+        {
+          "blockId": "consent-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "프로그램의 윤리문제와 개별 참가자의 정확한 경험은 구분해야 한다",
+          "headingEn": "Program-Level Ethical Questions and Individual Exposure Histories Need Separation",
+          "textKo": "classified context, military hierarchy, informed-consent practice, 후대 veterans claims 때문에 프로그램은 중대한 윤리·법적 논쟁의 대상이 됐다. 그러나 source-bounded summary만으로 특정 개인이 어떤 substance·dose를 받았고 어떤 장기질환이 그 노출 때문에 생겼는지 확정할 수는 없다. **aggregate history와 individual causation은 다른 증거문제다.**",
+          "textEn": "The classified setting, military hierarchy, consent practices, and later veterans' claims made the program a major ethical and legal controversy. But aggregate program records do not establish which exact substance and dose every individual received or prove a specific long-term illness was caused by a particular exposure."
+        },
+        {
+          "blockId": "records-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "VA가 현재 exposure-health care 정보를 운영한다는 사실은 후속관리의 필요성을 보여준다",
+          "headingEn": "VA's Ongoing Exposure Guidance Reflects the Need for Long-Term Follow-Up",
+          "textKo": "VA는 Edgewood/Aberdeen veterans를 위한 exposure information과 health-care guidance를 운영하고 War Related Illness and Injury Study Center 자료도 제공한다. **이는 프로그램이 역사문서에만 남은 게 아니라 참가자별 record 확인과 medical assessment가 지금도 중요하다는 뜻**이다.",
+          "textEn": "VA maintains exposure information and health-care guidance for Edgewood/Aberdeen veterans, including material from the War Related Illness and Injury Study Center. The program remains relevant to individual record review and medical assessment, not merely to historical documentation."
+        },
+        {
+          "blockId": "numbers-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "7,000명·250종이라는 숫자가 각 참가자의 실제 노출표는 아니다",
+          "headingEn": "The 7,000-Person and 250-Chemical Totals Are Not Individual Exposure Charts",
+          "textKo": "프로그램 규모의 숫자는 전체 연구 universe를 설명한다. 그러나 한 참가자가 250종 모두에 노출됐다는 뜻도 아니고, 모든 participant가 같은 experimental arm에 있었던 것도 아니다. **headline-level total과 case-level exposure를 혼동하지 않는 것이 중요하다.**",
+          "textEn": "Program-wide totals describe the research universe. They do not mean each participant encountered all 250 substances or that all service members were assigned to identical protocols. Headline totals must not be confused with case-level exposure histories."
+        },
+        {
+          "blockId": "documentation-055",
+          "type": "AFTERMATH",
+          "headingKo": "후대 공개와 veteran records가 프로그램의 실제 규모를 재구성하는 핵심이 됐다",
+          "headingEn": "Later Disclosure and Veteran Records Became Central to Reconstructing the Program",
+          "textKo": "classified program은 종료 뒤 declassification·VA outreach·medical record review를 통해 참가자 경험이 부분적으로 재구성됐다. **비밀프로그램의 역사에서는 당시 공식문서가 존재했다는 것과 개인이 자신의 exposure history를 실제로 확인할 수 있었는지가 다른 문제**다.",
+          "textEn": "After the classified program ended, declassification, VA outreach, and medical-record review helped reconstruct participant histories. In secret-program history, the existence of official files and an individual's ability to recover a usable exposure record are separate issues."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1955~1975년 Edgewood Arsenal에서 U.S. Army Chemical Corps의 classified medical research가 수행됐고 약 7,000명의 군인이 250종 이상 chemical substance 관련 experiment에 참여했다.\n\n**확인되지 않음:** 이 aggregate record만으로 특정 참가자의 exact substance, dose, consent circumstances, individual outcome, long-term causal health effect를 모두 확정할 수는 없다.",
+          "textEn": "**Established:** From 1955 to 1975 the U.S. Army Chemical Corps conducted classified medical research at Edgewood Arsenal involving about 7,000 service members and more than 250 chemical substances.\n\n**Not established:** Aggregate records alone do not establish every participant's exact substance, dose, consent circumstances, individual outcome, or long-term causal health effect."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** From 1955 to 1975 the U.S. Army Chemical Corps conducted classified medical research at Edgewood Arsenal involving about 7,000 service members and more than 250 chemical substances.\n\n**Not established:** Aggregate records alone do not establish every participant's exact substance, dose, consent circumstances, individual outcome, or long-term causal health effect.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "agents-02",
+        "consent-03",
+        "records-04",
+        "numbers-05",
+        "documentation-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "EDGE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1955~1975 Edgewood Arsenal에서 classified Army medical research가 진행됐다.",
+      "statementEn": "Classified Army medical research was conducted at Edgewood Arsenal from 1955 to 1975.",
+      "sourceRefs": [
+        "EDGE_VA",
+        "EDGE_WRIISC"
+      ]
+    },
+    {
+      "claimId": "EDGE-C2",
+      "status": "CONFIRMED",
+      "statementKo": "약 7,000명이 250종 이상 chemical substances 관련 experiment에 참여했다.",
+      "statementEn": "About 7,000 service members took part in experiments involving more than 250 chemical substances.",
+      "sourceRefs": [
+        "EDGE_VA"
+      ]
+    },
+    {
+      "claimId": "EDGE-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 참가자가 동일 exposure·dose·protocol을 경험한 것은 아니다.",
+      "statementEn": "Participants did not all share one identical exposure, dose, or protocol.",
+      "sourceRefs": [
+        "EDGE_VA",
+        "EDGE_WRIISC"
+      ]
+    },
+    {
+      "claimId": "EDGE-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "aggregate history만으로 개인별 장기질환의 causal attribution을 확정할 수 없다.",
+      "statementEn": "Aggregate program history cannot by itself establish causal attribution for an individual's long-term illness.",
+      "sourceRefs": [
+        "EDGE_VA",
+        "EDGE_WRIISC"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "EDGE_VA",
+      "title": "Edgewood/Aberdeen Experiments",
+      "publisher": "U.S. Department of Veterans Affairs",
+      "url": "https://www.publichealth.va.gov/exposures/edgewood-aberdeen/index.asp",
+      "sourceType": "VA_OFFICIAL"
+    },
+    {
+      "sourceId": "EDGE_WRIISC",
+      "title": "Edgewood-Aberdeen Experiments",
+      "publisher": "VA War Related Illness and Injury Study Center",
+      "url": "https://www.warrelatedillness.va.gov/education/exposures/edgewood-aberdeen.asp",
+      "sourceType": "VA_CLINICAL_GUIDANCE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "edge-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1955 시작 → classified experiments → 1975 종료 → veteran exposure review/health guidance.",
+      "captionEn": "1955 start → classified experiments → 1975 end → veteran exposure review and health guidance.",
+      "altKo": "1955 시작 → classified experiments → 1975 종료 → veteran exposure review/health guidance.",
+      "altEn": "1955 start → classified experiments → 1975 end → veteran exposure review and health guidance.",
+      "sourceRefs": [
+        "EDGE_VA",
+        "EDGE_WRIISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "edgewood-aberdeen__v01__ko.png",
+          "sha256": "bff69f2fe826fc9084e397e41ae06e691db8697ce9d1a431ad9fb2c40df7bd2e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "edgewood-aberdeen__v01__en.png",
+          "sha256": "3831e8d7d224dec3b0c120e400a271762a90e26ff7474a240810bbe62b67fa96",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "edge-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "program-scale facts와 individual exposure/health causation을 분리.",
+      "captionEn": "Separate program-scale facts from individual exposure and health causation.",
+      "altKo": "program-scale facts와 individual exposure/health causation을 분리.",
+      "altEn": "Separate program-scale facts from individual exposure and health causation.",
+      "sourceRefs": [
+        "EDGE_VA",
+        "EDGE_WRIISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "edgewood-aberdeen__v02__ko.png",
+          "sha256": "f8eb4fe220526eb56b036df3e57ce29248c6534a3aae3c07228dc122578f9ed1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "edgewood-aberdeen__v02__en.png",
+          "sha256": "0022f4f73056a3138630f4cab0319037fe423bb3872192f34b56c703e404b256",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "edge-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "participant record → substance/dose → protocol → medical assessment의 개인별 증거흐름.",
+      "captionEn": "Participant record → substance/dose → protocol → individual medical assessment.",
+      "altKo": "participant record → substance/dose → protocol → medical assessment의 개인별 증거흐름.",
+      "altEn": "Participant record → substance/dose → protocol → individual medical assessment.",
+      "sourceRefs": [
+        "EDGE_VA",
+        "EDGE_WRIISC"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "edgewood-aberdeen__v03__ko.png",
+          "sha256": "37e74681a74b5ca9240019651137b4e0b6c2befc12f01e21a77002bb740424db",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "edgewood-aberdeen__v03__en.png",
+          "sha256": "e79f4b7272a59f3cb99df4072d94c457cd9e294db4596ac0661b48eef07cc14b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Maryland"
+    ],
+    "places": [
+      {
+        "name": "Edgewood Arsenal",
+        "role": "experimental site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Army Chemical Corps",
+      "U.S. Department of Veterans Affairs"
+    ],
+    "dateRange": {
+      "start": "1955",
+      "end": "1975",
+      "precision": "classified experiment period"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_AND_SCALE_DOCUMENTED_INDIVIDUAL_CAUSATION_CASE_SPECIFIC",
+    "searchAliases": [
+      "Edgewood Arsenal experiments",
+      "Aberdeen experiments"
+    ],
+    "relatedCases": [
+      "tuskegee-study",
+      "plutonium-injections"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1645,
+    "enBodyWords": 287,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

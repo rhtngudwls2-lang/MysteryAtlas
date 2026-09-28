@@ -1,0 +1,476 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "nazca-lines",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "나스카 라인",
+    "canonicalTitleEn": "Nazca Lines",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "누가 만들었는지는 알지만, 왜 천 년 가까이 사막에 거대한 선을 반복했을까",
+      "hook": "제작법은 의외로 단순하다. 표면자갈을 걷어내 밝은 지층을 드러냈다. 미스터리는 ‘고대에 어떻게 만들었나’보다 왜 수백 년 동안 같은 경관을 의례·상징·천문과 연결해 반복 사용했는가에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "사막 바닥의 돌을 걷어냈을 뿐인데 수백 미터짜리 그림이 남았다",
+          "headingEn": "Removing a Thin Layer of Desert Gravel Created Figures Hundreds of Metres Across",
+          "textKo": "페루 남부 Nasca·Palpa의 평원에는 동물·식물·환상적 형상과 수킬로미터 직선이 겹쳐 있다. UNESCO는 이 문화경관이 약 500 BCE~500 CE 사이 집중적으로 만들어졌으며, 암갈색 표면자갈을 걷어내 더 밝은 지층을 드러내는 단순한 기술로 선과 면을 만들었다고 설명한다. **놀라운 것은 제작방법이 미스터리해서가 아니라, 단순한 방법으로 거대한 규모와 높은 정밀도를 반복했다는 점**이다.",
+          "textEn": "Across the plains of Nasca and Palpa in southern Peru, animal, plant and fantastic figures overlap with straight lines stretching for kilometres. UNESCO dates the main tradition broadly to 500 BCE–500 CE and describes a straightforward construction method: darker surface gravel was removed to expose lighter ground beneath. The mystery is not that the technique is unknowable, but how such simple means were used repeatedly at extraordinary scale and precision."
+        },
+        {
+          "blockId": "chronology-02",
+          "type": "BACKGROUND",
+          "headingKo": "한 시기에 한 집단이 만든 단일 프로젝트가 아니었다",
+          "headingEn": "It Was Not One Project Made by One Group at One Time",
+          "textKo": "UNESCO의 평가자료는 geoglyph 전통을 Formative·Paracas·Nasca 단계로 나누며, 특히 Nasca phase가 다수를 차지한다고 본다. 일부 형상은 서로 겹치고, 서로 다른 시기의 선이 같은 평원에 공존한다. 이 사실은 ‘누군가 한 번에 완성한 거대한 설계도’라는 이미지를 약화한다. **약 천 년 가까운 시간 동안 여러 세대가 같은 사막을 반복해 사용한 장기 문화활동**에 가깝다.",
+          "textEn": "UNESCO assessments divide the geoglyph tradition into chronological phases including Formative, Paracas and Nasca periods, with the Nasca phase accounting for much of the corpus. Lines overlap and different generations of markings coexist. This weakens the image of one giant master plan created at once; the landscape was repeatedly used across many generations."
+        },
+        {
+          "blockId": "ritual-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "최근 해석은 ‘하늘에서만 보라고 만든 그림’보다 의례경관에 무게를 둔다",
+          "headingEn": "Modern Interpretation Emphasizes Ritual Landscape More Than “Pictures Only for the Sky”",
+          "textKo": "UNESCO의 비교·등재자료는 Nasca geoglyphs를 종교·사회적 의미가 강한 상징경관으로 해석한다. 일부 긴 선과 ‘tracks’는 많은 사람이 이동할 수 있는 폭과 형태를 갖고 있어 의례적 보행경로로 이해되기도 한다. 이런 해석은 geoglyph를 단순한 천문관측표 또는 항공에서만 읽을 수 있는 그림으로 보던 대중상상과 다르다. **지상에서 실제로 걸어 사용한 공간일 가능성이 중요하게 검토된다.**",
+          "textEn": "UNESCO comparative and nomination material interprets the geoglyphs as a strongly symbolic ritual and social landscape. Some broad 'tracks' and long lines could have accommodated people moving through them, supporting interpretations as ceremonial pathways. This differs from popular images of the lines as diagrams meant only for viewing from the sky."
+        },
+        {
+          "blockId": "astronomy-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "천문 기능 가설은 남아 있지만 모든 선을 하나의 천문달력로 설명하지는 못한다",
+          "headingEn": "Astronomical Functions Remain Plausible, but Not as One Universal Calendar",
+          "textKo": "UNESCO 설명에는 ritual astronomical functions 가능성이 함께 언급된다. 특정 선·방향이 태양이나 천체주기와 연관될 수 있다는 연구는 오래 이어졌다. 그러나 수천 개 선과 도형의 방향이 너무 다양하고 여러 시대가 겹친다. **일부 천문적 의미 가능성과 ‘전체 Nazca Lines가 하나의 거대한 천문장치다’라는 강한 주장은 구분해야 한다.**",
+          "textEn": "UNESCO descriptions still mention possible ritual-astronomical functions, and researchers have long tested alignments with solar or celestial cycles. Yet thousands of lines have many orientations and belong to different phases. A possible astronomical role for some features is different from the claim that the entire landscape is one giant astronomical instrument."
+        },
+        {
+          "blockId": "aliens-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "외계 비행장 가설은 제작흔적과 문화맥락을 설명하지 못한다",
+          "headingEn": "The Alien-Airstrip Idea Does Not Explain the Archaeological Context",
+          "textKo": "Nazca Lines는 넓고 곧은 형상 때문에 ‘외계 비행장’이라는 대중설과 자주 연결됐다. 그러나 UNESCO가 정리한 제작기법은 얕은 표면자갈 제거로 충분하고, 인근 정착지·Cahuachi 같은 의례중심지·동시대 예술양식과 문화적으로 연결된다. **거대한 규모가 기술적 불가능성을 뜻하지 않으며, 외계 개입을 요구하는 물리적·고고학적 증거도 없다.**",
+          "textEn": "Because some Nazca forms are broad and straight, popular culture has often attached 'alien airstrip' stories to them. Yet UNESCO's documented construction method requires only shallow removal of surface gravel, and the geoglyph tradition fits nearby settlements, ceremonial centres such as Cahuachi, and contemporary art. Scale does not imply technical impossibility, and there is no archaeological evidence requiring extraterrestrial involvement."
+        },
+        {
+          "blockId": "preservation-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2천 년 넘게 남은 이유도 사막환경이 설명한다",
+          "headingEn": "The Desert Environment Helps Explain Their Extraordinary Survival",
+          "textKo": "Nasca 평원은 극도로 건조하고 강우가 매우 적으며, El Niño 때를 제외하면 표면교란이 작다. UNESCO는 이런 초건조 기후가 밝은 지층과 어두운 자갈의 대비를 장기간 보존하는 데 결정적이었다고 설명한다. 따라서 ‘고대에 불가능할 만큼 정교해 지금까지 남았다’는 것보다 **만드는 법과 보존되는 환경이 함께 맞아떨어진 결과**로 이해하는 편이 자료와 맞는다.",
+          "textEn": "The Nasca plains are extremely arid, with little rainfall and limited surface disturbance outside events such as ENSO. UNESCO identifies this environment as central to preserving the contrast between exposed lighter ground and darker surface gravel. Their survival is therefore not mysterious preservation technology, but the interaction of simple construction and unusually favourable desert conditions."
+        },
+        {
+          "blockId": "meaning-07",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘누가 만들었나’보다 ‘왜 이 경관을 천 년간 반복했나’에 가깝다",
+          "headingEn": "The Better Mystery Is Why the Landscape Was Reused for Centuries",
+          "textKo": "현재 고고학은 Nasca·Paracas 계열 사회가 geoglyphs를 만들었다는 큰 틀을 지지한다. 남는 질문은 제작자의 정체보다 기능과 사회적 의미다. 왜 특정 동물·기하학·직선을 골랐는지, 어떤 의례에서 누가 걸었는지, 물·농경·천문·권력과 어떻게 연결됐는지는 하나의 답으로 닫히지 않는다. **‘기원 불명’이 아니라 ‘의미의 조합이 아직 열린 문화경관’이 더 정확한 미스터리다.**",
+          "textEn": "Archaeology strongly places the geoglyph tradition within Paracas and Nasca societies. The more durable questions concern function and social meaning: why particular animals, geometric forms and lines were chosen, who walked them, and how ritual, water, agriculture, astronomy and authority interacted. The mystery is less 'unknown builders' than an incompletely understood cultural landscape."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Nasca·Palpa geoglyphs는 고대 남부 페루 사회가 수백 년에 걸쳐 표면자갈을 제거해 만든 문화경관이다. 형상·직선·기하도형·track이 공존하고 Paracas/Nasca 단계와 연결된다. UNESCO는 강한 의례·상징 기능을 인정하며 일부 천문관련 가능성도 언급한다.\n\n**확인되지 않음:** 모든 선을 설명하는 하나의 단일목적은 확정되지 않는다. 전체가 거대한 천문달력·외계 비행장·항공에서만 볼 수 있는 메시지였다는 주장은 입증되지 않는다.",
+          "textEn": "**Established:** The Nasca and Palpa geoglyphs were created by ancient south-Peruvian societies over centuries by removing surface gravel. Representational figures, straight lines, geometric forms and tracks coexist and relate to Paracas/Nasca cultural phases. UNESCO recognizes strong ritual-symbolic significance and possible astronomical elements.\n\n**Not established:** No single purpose explains every line. Claims that the whole system was one giant astronomical calendar, extraterrestrial runway, or message intended only for aerial viewing are not established."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Nasca·Palpa geoglyphs는 고대 남부 페루 사회가 수백 년에 걸쳐 표면자갈을 제거해 만든 문화경관이다. 형상·직선·기하도형·track이 공존하고 Paracas/Nasca 단계와 연결된다. UNESCO는 강한 의례·상징 기능을 인정하며 일부 천문관련 가능성도 언급한다.\n\n**확인되지 않음:** 모든 선을 설명하는 하나의 단일목적은 확정되지 않는다. 전체가 거대한 천문달력·외계 비행장·항공에서만 볼 수 있는 메시지였다는 주장은 입증되지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "chronology-02",
+        "ritual-03",
+        "astronomy-04",
+        "aliens-05",
+        "preservation-06",
+        "meaning-07"
+      ]
+    },
+    "en": {
+      "headline": "We Know Who Made the Nazca Lines—But Why Did Generations Keep Reworking the Desert?",
+      "hook": "The construction method is surprisingly simple: remove dark surface gravel and reveal lighter ground. The deeper mystery is why generations repeatedly used the same landscape for ritual, symbolism and perhaps astronomy.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "사막 바닥의 돌을 걷어냈을 뿐인데 수백 미터짜리 그림이 남았다",
+          "headingEn": "Removing a Thin Layer of Desert Gravel Created Figures Hundreds of Metres Across",
+          "textKo": "페루 남부 Nasca·Palpa의 평원에는 동물·식물·환상적 형상과 수킬로미터 직선이 겹쳐 있다. UNESCO는 이 문화경관이 약 500 BCE~500 CE 사이 집중적으로 만들어졌으며, 암갈색 표면자갈을 걷어내 더 밝은 지층을 드러내는 단순한 기술로 선과 면을 만들었다고 설명한다. **놀라운 것은 제작방법이 미스터리해서가 아니라, 단순한 방법으로 거대한 규모와 높은 정밀도를 반복했다는 점**이다.",
+          "textEn": "Across the plains of Nasca and Palpa in southern Peru, animal, plant and fantastic figures overlap with straight lines stretching for kilometres. UNESCO dates the main tradition broadly to 500 BCE–500 CE and describes a straightforward construction method: darker surface gravel was removed to expose lighter ground beneath. The mystery is not that the technique is unknowable, but how such simple means were used repeatedly at extraordinary scale and precision."
+        },
+        {
+          "blockId": "chronology-02",
+          "type": "BACKGROUND",
+          "headingKo": "한 시기에 한 집단이 만든 단일 프로젝트가 아니었다",
+          "headingEn": "It Was Not One Project Made by One Group at One Time",
+          "textKo": "UNESCO의 평가자료는 geoglyph 전통을 Formative·Paracas·Nasca 단계로 나누며, 특히 Nasca phase가 다수를 차지한다고 본다. 일부 형상은 서로 겹치고, 서로 다른 시기의 선이 같은 평원에 공존한다. 이 사실은 ‘누군가 한 번에 완성한 거대한 설계도’라는 이미지를 약화한다. **약 천 년 가까운 시간 동안 여러 세대가 같은 사막을 반복해 사용한 장기 문화활동**에 가깝다.",
+          "textEn": "UNESCO assessments divide the geoglyph tradition into chronological phases including Formative, Paracas and Nasca periods, with the Nasca phase accounting for much of the corpus. Lines overlap and different generations of markings coexist. This weakens the image of one giant master plan created at once; the landscape was repeatedly used across many generations."
+        },
+        {
+          "blockId": "ritual-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "최근 해석은 ‘하늘에서만 보라고 만든 그림’보다 의례경관에 무게를 둔다",
+          "headingEn": "Modern Interpretation Emphasizes Ritual Landscape More Than “Pictures Only for the Sky”",
+          "textKo": "UNESCO의 비교·등재자료는 Nasca geoglyphs를 종교·사회적 의미가 강한 상징경관으로 해석한다. 일부 긴 선과 ‘tracks’는 많은 사람이 이동할 수 있는 폭과 형태를 갖고 있어 의례적 보행경로로 이해되기도 한다. 이런 해석은 geoglyph를 단순한 천문관측표 또는 항공에서만 읽을 수 있는 그림으로 보던 대중상상과 다르다. **지상에서 실제로 걸어 사용한 공간일 가능성이 중요하게 검토된다.**",
+          "textEn": "UNESCO comparative and nomination material interprets the geoglyphs as a strongly symbolic ritual and social landscape. Some broad 'tracks' and long lines could have accommodated people moving through them, supporting interpretations as ceremonial pathways. This differs from popular images of the lines as diagrams meant only for viewing from the sky."
+        },
+        {
+          "blockId": "astronomy-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "천문 기능 가설은 남아 있지만 모든 선을 하나의 천문달력로 설명하지는 못한다",
+          "headingEn": "Astronomical Functions Remain Plausible, but Not as One Universal Calendar",
+          "textKo": "UNESCO 설명에는 ritual astronomical functions 가능성이 함께 언급된다. 특정 선·방향이 태양이나 천체주기와 연관될 수 있다는 연구는 오래 이어졌다. 그러나 수천 개 선과 도형의 방향이 너무 다양하고 여러 시대가 겹친다. **일부 천문적 의미 가능성과 ‘전체 Nazca Lines가 하나의 거대한 천문장치다’라는 강한 주장은 구분해야 한다.**",
+          "textEn": "UNESCO descriptions still mention possible ritual-astronomical functions, and researchers have long tested alignments with solar or celestial cycles. Yet thousands of lines have many orientations and belong to different phases. A possible astronomical role for some features is different from the claim that the entire landscape is one giant astronomical instrument."
+        },
+        {
+          "blockId": "aliens-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "외계 비행장 가설은 제작흔적과 문화맥락을 설명하지 못한다",
+          "headingEn": "The Alien-Airstrip Idea Does Not Explain the Archaeological Context",
+          "textKo": "Nazca Lines는 넓고 곧은 형상 때문에 ‘외계 비행장’이라는 대중설과 자주 연결됐다. 그러나 UNESCO가 정리한 제작기법은 얕은 표면자갈 제거로 충분하고, 인근 정착지·Cahuachi 같은 의례중심지·동시대 예술양식과 문화적으로 연결된다. **거대한 규모가 기술적 불가능성을 뜻하지 않으며, 외계 개입을 요구하는 물리적·고고학적 증거도 없다.**",
+          "textEn": "Because some Nazca forms are broad and straight, popular culture has often attached 'alien airstrip' stories to them. Yet UNESCO's documented construction method requires only shallow removal of surface gravel, and the geoglyph tradition fits nearby settlements, ceremonial centres such as Cahuachi, and contemporary art. Scale does not imply technical impossibility, and there is no archaeological evidence requiring extraterrestrial involvement."
+        },
+        {
+          "blockId": "preservation-06",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2천 년 넘게 남은 이유도 사막환경이 설명한다",
+          "headingEn": "The Desert Environment Helps Explain Their Extraordinary Survival",
+          "textKo": "Nasca 평원은 극도로 건조하고 강우가 매우 적으며, El Niño 때를 제외하면 표면교란이 작다. UNESCO는 이런 초건조 기후가 밝은 지층과 어두운 자갈의 대비를 장기간 보존하는 데 결정적이었다고 설명한다. 따라서 ‘고대에 불가능할 만큼 정교해 지금까지 남았다’는 것보다 **만드는 법과 보존되는 환경이 함께 맞아떨어진 결과**로 이해하는 편이 자료와 맞는다.",
+          "textEn": "The Nasca plains are extremely arid, with little rainfall and limited surface disturbance outside events such as ENSO. UNESCO identifies this environment as central to preserving the contrast between exposed lighter ground and darker surface gravel. Their survival is therefore not mysterious preservation technology, but the interaction of simple construction and unusually favourable desert conditions."
+        },
+        {
+          "blockId": "meaning-07",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 ‘누가 만들었나’보다 ‘왜 이 경관을 천 년간 반복했나’에 가깝다",
+          "headingEn": "The Better Mystery Is Why the Landscape Was Reused for Centuries",
+          "textKo": "현재 고고학은 Nasca·Paracas 계열 사회가 geoglyphs를 만들었다는 큰 틀을 지지한다. 남는 질문은 제작자의 정체보다 기능과 사회적 의미다. 왜 특정 동물·기하학·직선을 골랐는지, 어떤 의례에서 누가 걸었는지, 물·농경·천문·권력과 어떻게 연결됐는지는 하나의 답으로 닫히지 않는다. **‘기원 불명’이 아니라 ‘의미의 조합이 아직 열린 문화경관’이 더 정확한 미스터리다.**",
+          "textEn": "Archaeology strongly places the geoglyph tradition within Paracas and Nasca societies. The more durable questions concern function and social meaning: why particular animals, geometric forms and lines were chosen, who walked them, and how ritual, water, agriculture, astronomy and authority interacted. The mystery is less 'unknown builders' than an incompletely understood cultural landscape."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Nasca·Palpa geoglyphs는 고대 남부 페루 사회가 수백 년에 걸쳐 표면자갈을 제거해 만든 문화경관이다. 형상·직선·기하도형·track이 공존하고 Paracas/Nasca 단계와 연결된다. UNESCO는 강한 의례·상징 기능을 인정하며 일부 천문관련 가능성도 언급한다.\n\n**확인되지 않음:** 모든 선을 설명하는 하나의 단일목적은 확정되지 않는다. 전체가 거대한 천문달력·외계 비행장·항공에서만 볼 수 있는 메시지였다는 주장은 입증되지 않는다.",
+          "textEn": "**Established:** The Nasca and Palpa geoglyphs were created by ancient south-Peruvian societies over centuries by removing surface gravel. Representational figures, straight lines, geometric forms and tracks coexist and relate to Paracas/Nasca cultural phases. UNESCO recognizes strong ritual-symbolic significance and possible astronomical elements.\n\n**Not established:** No single purpose explains every line. Claims that the whole system was one giant astronomical calendar, extraterrestrial runway, or message intended only for aerial viewing are not established."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The Nasca and Palpa geoglyphs were created by ancient south-Peruvian societies over centuries by removing surface gravel. Representational figures, straight lines, geometric forms and tracks coexist and relate to Paracas/Nasca cultural phases. UNESCO recognizes strong ritual-symbolic significance and possible astronomical elements.\n\n**Not established:** No single purpose explains every line. Claims that the whole system was one giant astronomical calendar, extraterrestrial runway, or message intended only for aerial viewing are not established.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "chronology-02",
+        "ritual-03",
+        "astronomy-04",
+        "aliens-05",
+        "preservation-06",
+        "meaning-07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "NAZ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "주요 geoglyph 전통은 약 500 BCE~500 CE 사이 Paracas/Nasca 단계와 연결된다.",
+      "statementEn": "The principal geoglyph tradition is associated with Paracas/Nasca phases around 500 BCE–500 CE.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS"
+      ]
+    },
+    {
+      "claimId": "NAZ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "암갈색 표면자갈을 제거해 밝은 지층을 드러내는 방식이 핵심 제작기법이었다.",
+      "statementEn": "Removing darker surface gravel to expose lighter ground was a principal construction technique.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS"
+      ]
+    },
+    {
+      "claimId": "NAZ-C3",
+      "status": "SUPPORTED",
+      "statementKo": "의례적 경관·보행로 해석이 현대 공식 설명에서 중요하게 다뤄진다.",
+      "statementEn": "Ritual-landscape and pathway interpretations are prominent in modern official descriptions.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_COMPARE"
+      ]
+    },
+    {
+      "claimId": "NAZ-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 선이 하나의 천문달력 또는 외계 비행장이라는 주장은 확립되지 않는다.",
+      "statementEn": "The entire system is not established as one astronomical calendar or extraterrestrial airfield.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NAZ_UNESCO",
+      "title": "Lines and Geoglyphs of Nasca and Palpa",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/700/",
+      "sourceType": "OFFICIAL_WORLD_HERITAGE_SYNTHESIS"
+    },
+    {
+      "sourceId": "NAZ_ICOMOS",
+      "title": "Advisory Body Evaluation — Nasca No.700",
+      "publisher": "UNESCO/ICOMOS",
+      "url": "https://whc.unesco.org/document/154050",
+      "sourceType": "OFFICIAL_ARCHAEOLOGICAL_EVALUATION"
+    },
+    {
+      "sourceId": "NAZ_COMPARE",
+      "title": "Comparative analysis mentioning ritual pathways",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/document/192681",
+      "sourceType": "OFFICIAL_COMPARATIVE_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "naz-v01",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Paracas/Nasca 단계, 표면자갈 제거, 거대 geoglyph, 장기보존의 관계.",
+      "captionEn": "Original explainer linking Paracas/Nasca phases, gravel removal, large geoglyphs and preservation.",
+      "altKo": "Paracas/Nasca 단계, 표면자갈 제거, 거대 geoglyph, 장기보존의 관계.",
+      "altEn": "Original explainer linking Paracas/Nasca phases, gravel removal, large geoglyphs and preservation.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS",
+        "NAZ_COMPARE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nazca-lines__v01__ko.png",
+          "sha256": "67ea4bbd59acf8a2bd910c625812d8fa442d9fa3d2b129188300315c3624be7e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nazca-lines__v01__en.png",
+          "sha256": "b4c369ee11cf9df57de562141f687e9135d4387ad544c66805bfdf0820cb620d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "naz-v02",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Formative/Paracas/Nasca 단계와 장기 제작전통 타임라인.",
+      "captionEn": "Timeline of Formative, Paracas and Nasca phases in the long geoglyph tradition.",
+      "altKo": "Formative/Paracas/Nasca 단계와 장기 제작전통 타임라인.",
+      "altEn": "Timeline of Formative, Paracas and Nasca phases in the long geoglyph tradition.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS",
+        "NAZ_COMPARE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nazca-lines__v02__ko.png",
+          "sha256": "6b5a4e1747848ca033f5888ae46b5e92f4ba85b4655b38769dbd4c6ace70d1f3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nazca-lines__v02__en.png",
+          "sha256": "fa9800f30679c5a32dce09f4e4dd6d4caadc1ac74303dabb76805555c13c31d3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "naz-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "의례·보행로·천문 가능성·외계설을 증거강도별로 분리.",
+      "captionEn": "Evidence card separating ritual/pathway, astronomical possibilities and unsupported alien claims.",
+      "altKo": "의례·보행로·천문 가능성·외계설을 증거강도별로 분리.",
+      "altEn": "Evidence card separating ritual/pathway, astronomical possibilities and unsupported alien claims.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS",
+        "NAZ_COMPARE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nazca-lines__v03__ko.png",
+          "sha256": "7c1210312374efc747e6373f3a2a950023abf65b1bc2ebd4bf2a3020e8dd0a04",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nazca-lines__v03__en.png",
+          "sha256": "e8413e719af8f1078b5e29f877f49f5c2825de0f39fde2391b6d4dab5b78ecf8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "naz-v04",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Peru 남부 Nasca·Palpa 문화경관 위치도.",
+      "captionEn": "Original map locating the Nasca and Palpa cultural landscape in southern Peru.",
+      "altKo": "Peru 남부 Nasca·Palpa 문화경관 위치도.",
+      "altEn": "Original map locating the Nasca and Palpa cultural landscape in southern Peru.",
+      "sourceRefs": [
+        "NAZ_UNESCO",
+        "NAZ_ICOMOS",
+        "NAZ_COMPARE"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nazca-lines__v04__ko.png",
+          "sha256": "1a78b658dd6dfebc6afd87073bc227a38d8656346addc167246f88224e556fd4",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nazca-lines__v04__en.png",
+          "sha256": "07a77b964bd79a7133610f65ecaf585a7c960f151e8cdd4277a8c3cdc8b1ec6b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Ancient History / Archaeology",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Peru"
+    ],
+    "regions": [
+      "Ica / Nasca / Palpa"
+    ],
+    "places": [
+      {
+        "name": "Nasca and Palpa pampas",
+        "role": "geoglyph landscape"
+      },
+      {
+        "name": "Cahuachi",
+        "role": "nearby ceremonial centre"
+      }
+    ],
+    "people": [
+      {
+        "name": "María Reiche",
+        "role": "long-term modern researcher"
+      }
+    ],
+    "organizations": [
+      "UNESCO",
+      "Peruvian Ministry of Culture"
+    ],
+    "dateRange": {
+      "start": "c.500 BCE",
+      "end": "c.500 CE",
+      "precision": "principal geoglyph tradition"
+    },
+    "era": "Pre-Columbian Andes",
+    "resolution": "BUILDERS_AND_METHOD_ESTABLISHED_FUNCTION_MULTI_CAUSAL_AND_PARTLY_UNRESOLVED",
+    "searchAliases": [
+      "Nazca Lines",
+      "Nasca Lines",
+      "Nasca geoglyphs"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1781,
+    "enBodyWords": 467,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

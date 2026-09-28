@@ -1,0 +1,370 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "flight-19",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Flight 19",
+    "canonicalTitleEn": "Flight 19",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "다섯 대는 왜 방향을 잃었고, 수색기 사고까지 왜 한 미스터리로 묶였나",
+      "hook": "Flight 19은 단순한 “증발” 이야기가 아니다. radio record에는 위치혼란과 연료제약이 남아 있다. 더 중요한 건 수색 Mariner까지 동일한 미해결 사건으로 묶지 않는 것이다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1945년 12월 5일, 다섯 대의 Avenger가 훈련비행 중 방향을 잃었다",
+          "headingEn": "December 5, 1945: Five Avengers Became Disoriented During Training",
+          "textKo": "Flight 19는 Fort Lauderdale에서 출발한 TBM Avenger 다섯 대의 navigation training mission이었다. 미 해군 역사자료에는 비행 중 위치혼란과 compass·navigation 관련 무선통신, 연료부족 우려가 이어진 뒤 14명과 aircraft 다섯 대가 돌아오지 않았다고 기록돼 있다. 실종 자체와 통신혼란은 실제 기록이며, 정확한 final wreck location은 확인되지 않았다. 이 사건을 단순히 “비행기들이 갑자기 증발했다”라고 요약하면 contemporaneous radio record에서 가장 중요한 navigation failure의 진행과정을 놓치게 된다.",
+          "textEn": "Flight 19 was a five-aircraft TBM Avenger navigation-training mission from Fort Lauderdale. U.S. Navy historical records preserve radio traffic showing position confusion, navigation and compass concerns, and dwindling fuel before all five aircraft and 14 men failed to return. The disappearance is documented, but the final wreck locations remain unknown."
+        },
+        {
+          "blockId": "nav",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "무선기록은 초자연적 소실보다 position awareness 붕괴를 보여준다",
+          "headingEn": "The Radio Record Shows a Collapse in Position Awareness",
+          "textKo": "flight leader와 다른 pilots는 자신들이 어디 있는지 서로 다른 추정을 했고 mainland를 찾으려는 heading 판단도 흔들렸다. weather·visibility·compass concern이 겹친 상태에서 잘못된 position assumption은 이후 선택을 계속 악화시킬 수 있다. 중요한 것은 이 과정이 “원인불명 한 순간”이 아니라 시간에 따라 누적되는 navigation problem으로 기록돼 있다는 점이다.",
+          "textEn": "The crews held conflicting position estimates and became increasingly uncertain about the correct heading back to land. Weather, visibility and compass concerns could compound one wrong position assumption into later navigation errors."
+        },
+        {
+          "blockId": "fuel",
+          "type": "BACKGROUND",
+          "headingKo": "연료제약은 작은 위치오판을 회복불가능한 문제로 만든다",
+          "headingEn": "Fuel Limits Turn Small Errors Into Irrecoverable Problems",
+          "textKo": "훈련기의 endurance는 무한하지 않았다. offshore에서 방향을 확신하지 못한 채 시간이 지나면 search space는 넓어지고 return option은 줄어든다. wreck가 없기 때문에 각 aircraft가 정확히 언제 ditching 또는 crash했는지는 알 수 없지만, radio traffic의 fuel concern은 사건을 이해하는 핵심 물리조건이다.",
+          "textEn": "Aircraft endurance was finite. As uncertainty persisted offshore, the search area grew while options for returning to land narrowed. Without wreckage, the exact ditching or crash moments remain unknown, but fuel limitation was central."
+        },
+        {
+          "blockId": "mariner",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "수색 PBM Mariner까지 똑같은 미스터리로 묶으면 기록을 왜곡한다",
+          "headingEn": "The Search PBM Mariner Belongs to a Different Evidentiary Category",
+          "textKo": "Flight 19를 찾으러 출동한 PBM Mariner도 loss됐지만 Naval History는 radar·목격정보를 토대로 inflight fire 또는 explosion이 가장 유력하다고 본다. Mariner 계열은 fuel-vapor fire 위험으로도 알려져 있었다. 따라서 Avenger 다섯 대의 미확인 최종위치와 Mariner 사고를 같은 “Bermuda Triangle disappearance”로 묶는 것은 적절하지 않다.",
+          "textEn": "A PBM Mariner sent to search for Flight 19 was also lost, but Naval History points to an in-flight fire or explosion as the leading explanation. The Avengers and the Mariner should not be collapsed into one identical mystery."
+        },
+        {
+          "blockId": "legend",
+          "type": "AFTERMATH",
+          "headingKo": "후대 Bermuda Triangle 서사는 서로 다른 불확실성을 하나의 전설로 묶었다",
+          "headingEn": "Later Bermuda Triangle Lore Combined Different Uncertainties",
+          "textKo": "Flight 19은 Bermuda Triangle 이야기의 대표사례가 됐지만 contemporary military record의 중심은 navigation confusion, weather, fuel, search였다. 후대 geographic label은 기억하기 쉬운 narrative를 만들었지만 사고메커니즘을 새로 입증하는 evidence는 아니다. 사건의 흥미는 오히려 radio record가 많은데도 final wreck가 없다는 점에 있다.",
+          "textEn": "Flight 19 became central to Bermuda Triangle lore, but the contemporary record focuses on navigation confusion, weather, fuel and search operations. The later geographic label added narrative, not new causal evidence."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1945년 12월 5일 다섯 TBM Avenger와 14명이 훈련비행 중 navigation confusion과 fuel concern 뒤 실종됐다. 수색 PBM Mariner는 별도 fire/explosion accident가 유력하다.\n\n**확인되지 않음:** 다섯 Avenger의 exact crash/ditching locations와 crew의 최후는 확인되지 않았다. Bermuda Triangle이라는 후대 label이 별도 초자연원인을 입증하지 않는다.",
+          "textEn": "**Established:** Five TBM Avengers and 14 men disappeared on December 5, 1945 after navigation confusion and fuel concerns. The search PBM Mariner is better explained as a separate probable fire/explosion accident.\n\n**Not established:** Exact wreck locations and final crew moments remain unknown; Bermuda Triangle lore does not establish a paranormal cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1945년 12월 5일 다섯 TBM Avenger와 14명이 훈련비행 중 navigation confusion과 fuel concern 뒤 실종됐다. 수색 PBM Mariner는 별도 fire/explosion accident가 유력하다.\n\n**확인되지 않음:** 다섯 Avenger의 exact crash/ditching locations와 crew의 최후는 확인되지 않았다. Bermuda Triangle이라는 후대 label이 별도 초자연원인을 입증하지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "nav",
+        "fuel",
+        "mariner",
+        "legend"
+      ]
+    },
+    "en": {
+      "headline": "Why Did Five Avengers Lose Their Bearings—and Why Was the Search-Plane Accident Folded Into the Same Mystery?",
+      "hook": "Flight 19 is not a story of aircraft simply vanishing. The radio record preserves navigation confusion and fuel limits—and the lost search Mariner belongs to a different evidentiary category.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "1945년 12월 5일, 다섯 대의 Avenger가 훈련비행 중 방향을 잃었다",
+          "headingEn": "December 5, 1945: Five Avengers Became Disoriented During Training",
+          "textKo": "Flight 19는 Fort Lauderdale에서 출발한 TBM Avenger 다섯 대의 navigation training mission이었다. 미 해군 역사자료에는 비행 중 위치혼란과 compass·navigation 관련 무선통신, 연료부족 우려가 이어진 뒤 14명과 aircraft 다섯 대가 돌아오지 않았다고 기록돼 있다. 실종 자체와 통신혼란은 실제 기록이며, 정확한 final wreck location은 확인되지 않았다. 이 사건을 단순히 “비행기들이 갑자기 증발했다”라고 요약하면 contemporaneous radio record에서 가장 중요한 navigation failure의 진행과정을 놓치게 된다.",
+          "textEn": "Flight 19 was a five-aircraft TBM Avenger navigation-training mission from Fort Lauderdale. U.S. Navy historical records preserve radio traffic showing position confusion, navigation and compass concerns, and dwindling fuel before all five aircraft and 14 men failed to return. The disappearance is documented, but the final wreck locations remain unknown."
+        },
+        {
+          "blockId": "nav",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "무선기록은 초자연적 소실보다 position awareness 붕괴를 보여준다",
+          "headingEn": "The Radio Record Shows a Collapse in Position Awareness",
+          "textKo": "flight leader와 다른 pilots는 자신들이 어디 있는지 서로 다른 추정을 했고 mainland를 찾으려는 heading 판단도 흔들렸다. weather·visibility·compass concern이 겹친 상태에서 잘못된 position assumption은 이후 선택을 계속 악화시킬 수 있다. 중요한 것은 이 과정이 “원인불명 한 순간”이 아니라 시간에 따라 누적되는 navigation problem으로 기록돼 있다는 점이다.",
+          "textEn": "The crews held conflicting position estimates and became increasingly uncertain about the correct heading back to land. Weather, visibility and compass concerns could compound one wrong position assumption into later navigation errors."
+        },
+        {
+          "blockId": "fuel",
+          "type": "BACKGROUND",
+          "headingKo": "연료제약은 작은 위치오판을 회복불가능한 문제로 만든다",
+          "headingEn": "Fuel Limits Turn Small Errors Into Irrecoverable Problems",
+          "textKo": "훈련기의 endurance는 무한하지 않았다. offshore에서 방향을 확신하지 못한 채 시간이 지나면 search space는 넓어지고 return option은 줄어든다. wreck가 없기 때문에 각 aircraft가 정확히 언제 ditching 또는 crash했는지는 알 수 없지만, radio traffic의 fuel concern은 사건을 이해하는 핵심 물리조건이다.",
+          "textEn": "Aircraft endurance was finite. As uncertainty persisted offshore, the search area grew while options for returning to land narrowed. Without wreckage, the exact ditching or crash moments remain unknown, but fuel limitation was central."
+        },
+        {
+          "blockId": "mariner",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "수색 PBM Mariner까지 똑같은 미스터리로 묶으면 기록을 왜곡한다",
+          "headingEn": "The Search PBM Mariner Belongs to a Different Evidentiary Category",
+          "textKo": "Flight 19를 찾으러 출동한 PBM Mariner도 loss됐지만 Naval History는 radar·목격정보를 토대로 inflight fire 또는 explosion이 가장 유력하다고 본다. Mariner 계열은 fuel-vapor fire 위험으로도 알려져 있었다. 따라서 Avenger 다섯 대의 미확인 최종위치와 Mariner 사고를 같은 “Bermuda Triangle disappearance”로 묶는 것은 적절하지 않다.",
+          "textEn": "A PBM Mariner sent to search for Flight 19 was also lost, but Naval History points to an in-flight fire or explosion as the leading explanation. The Avengers and the Mariner should not be collapsed into one identical mystery."
+        },
+        {
+          "blockId": "legend",
+          "type": "AFTERMATH",
+          "headingKo": "후대 Bermuda Triangle 서사는 서로 다른 불확실성을 하나의 전설로 묶었다",
+          "headingEn": "Later Bermuda Triangle Lore Combined Different Uncertainties",
+          "textKo": "Flight 19은 Bermuda Triangle 이야기의 대표사례가 됐지만 contemporary military record의 중심은 navigation confusion, weather, fuel, search였다. 후대 geographic label은 기억하기 쉬운 narrative를 만들었지만 사고메커니즘을 새로 입증하는 evidence는 아니다. 사건의 흥미는 오히려 radio record가 많은데도 final wreck가 없다는 점에 있다.",
+          "textEn": "Flight 19 became central to Bermuda Triangle lore, but the contemporary record focuses on navigation confusion, weather, fuel and search operations. The later geographic label added narrative, not new causal evidence."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1945년 12월 5일 다섯 TBM Avenger와 14명이 훈련비행 중 navigation confusion과 fuel concern 뒤 실종됐다. 수색 PBM Mariner는 별도 fire/explosion accident가 유력하다.\n\n**확인되지 않음:** 다섯 Avenger의 exact crash/ditching locations와 crew의 최후는 확인되지 않았다. Bermuda Triangle이라는 후대 label이 별도 초자연원인을 입증하지 않는다.",
+          "textEn": "**Established:** Five TBM Avengers and 14 men disappeared on December 5, 1945 after navigation confusion and fuel concerns. The search PBM Mariner is better explained as a separate probable fire/explosion accident.\n\n**Not established:** Exact wreck locations and final crew moments remain unknown; Bermuda Triangle lore does not establish a paranormal cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Five TBM Avengers and 14 men disappeared on December 5, 1945 after navigation confusion and fuel concerns. The search PBM Mariner is better explained as a separate probable fire/explosion accident.\n\n**Not established:** Exact wreck locations and final crew moments remain unknown; Bermuda Triangle lore does not establish a paranormal cause.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "nav",
+        "fuel",
+        "mariner",
+        "legend"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "F19-C1",
+      "status": "CONFIRMED",
+      "statementKo": "다섯 Avenger와 14명이 1945-12-05 훈련비행에서 실종됐다.",
+      "statementEn": "Five Avengers and 14 men disappeared on a December 5, 1945 training flight.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ]
+    },
+    {
+      "claimId": "F19-C2",
+      "status": "CONFIRMED",
+      "statementKo": "radio record에는 navigation confusion과 fuel concern이 나타난다.",
+      "statementEn": "The radio record documents navigation confusion and fuel concern.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ]
+    },
+    {
+      "claimId": "F19-C3",
+      "status": "SUPPORTED",
+      "statementKo": "수색 PBM Mariner는 in-flight fire/explosion이 가장 유력하다.",
+      "statementEn": "An in-flight fire/explosion is the leading explanation for the search PBM Mariner.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ]
+    },
+    {
+      "claimId": "F19-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "다섯 Avenger의 exact wreck locations는 확인되지 않았다.",
+      "statementEn": "The exact wreck locations of the five Avengers remain unconfirmed.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "F19_NAVY",
+      "title": "U.S. Naval History H-057-4",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html",
+      "sourceType": "US_NAVY_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "f19-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "훈련 출발 → position confusion → fuel concern → Avenger 실종 → Mariner probable fire/explosion.",
+      "captionEn": "Training departure → position confusion → fuel concern → Avenger loss → Mariner probable fire/explosion.",
+      "altKo": "훈련 출발 → position confusion → fuel concern → Avenger 실종 → Mariner probable fire/explosion.",
+      "altEn": "Training departure → position confusion → fuel concern → Avenger loss → Mariner probable fire/explosion.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flight-19__v01__ko.png",
+          "sha256": "289c4cc0d5ad12ac93bfe5a230e3c51e96daccce4180fa470366b0f308b4017f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flight-19__v01__en.png",
+          "sha256": "e010e6c6d3f3adaee07758265b9a1078d302c2dcc8684fe961400bb0b78bc419",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "f19-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "wrong position assumption이 heading 선택과 fuel endurance를 악화시키는 구조.",
+      "captionEn": "How a wrong position assumption compounds heading choices and fuel endurance.",
+      "altKo": "wrong position assumption이 heading 선택과 fuel endurance를 악화시키는 구조.",
+      "altEn": "How a wrong position assumption compounds heading choices and fuel endurance.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flight-19__v02__ko.png",
+          "sha256": "71cf649f9df9a932921178786a547bee9e95f47d07a57687d7d21e5ed718b6f8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flight-19__v02__en.png",
+          "sha256": "df55db922851a22f3aef6117563386dcc1a17af11b9c53f0f88b7870ed8fcf5f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "f19-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Avenger unresolved location과 PBM probable accident를 분리.",
+      "captionEn": "Separate unresolved Avenger locations from the PBM probable accident.",
+      "altKo": "Avenger unresolved location과 PBM probable accident를 분리.",
+      "altEn": "Separate unresolved Avenger locations from the PBM probable accident.",
+      "sourceRefs": [
+        "F19_NAVY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "flight-19__v03__ko.png",
+          "sha256": "301a509fa8462e5623312ba7c382d1bb688e74de39c9672aee2a1e11ac98a77f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "flight-19__v03__en.png",
+          "sha256": "8709c6d1d1a17cfaefecbdbb867a22edc18a853ddcfa39be7ac55bea95cee9ee",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Florida / Western Atlantic"
+    ],
+    "places": [
+      {
+        "name": "Fort Lauderdale",
+        "role": "departure"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Navy"
+    ],
+    "dateRange": {
+      "start": "1945-12-05",
+      "end": "1945-12-05",
+      "precision": "incident date"
+    },
+    "era": "World War II aftermath",
+    "resolution": "AVENGER_WRECK_LOCATIONS_UNRESOLVED_NAVIGATION_FAILURE_DOCUMENTED",
+    "searchAliases": [
+      "Flight 19",
+      "Bermuda Triangle Flight 19"
+    ],
+    "relatedCases": [
+      "bermuda-triangle"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1586,
+    "enBodyWords": 239,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH19",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

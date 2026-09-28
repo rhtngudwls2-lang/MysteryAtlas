@@ -1,0 +1,394 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "mv-joyita",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "MV Joyita 유령선",
+    "canonicalTitleEn": "MV Joyita",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "가라앉지도 않은 배에서 25명은 왜 모두 사라졌나",
+      "hook": "Joyita는 wreck가 아니라 떠 있는 채 발견됐다. 그래서 미스터리는 배가 왜 사라졌나가 아니라 사람들이 왜 모두 ship을 떠났고 어디로 갔는가에 집중된다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "실종 닷새 뒤 배는 떠 있었지만 25명은 모두 사라져 있었다",
+          "headingEn": "Five Days After Vanishing, the Vessel Was Still Afloat—but All 25 People Were Gone",
+          "textKo": "MV Joyita는 1955년 Samoa에서 Tokelau로 향하던 중 연락이 끊겼다가 닷새 뒤 heavily listing·partly flooded 상태로 발견됐다. National Library of New Zealand archival record는 crew·passenger 25명이 사라졌고 vessel은 상당한 reserve buoyancy를 유지한 채 발견됐다는 사건기록을 보존한다. **'배가 가라앉아 모두 사라졌다'는 단순그림과 실제 발견상태가 맞지 않는다.**",
+          "textEn": "MV Joyita disappeared in 1955 while sailing from Samoa to Tokelau and was found five days later heavily listing and partly flooded. New Zealand archival records preserve the central puzzle: all 25 passengers and crew were gone while the vessel retained substantial reserve buoyancy. A simple 'ship sank with everyone aboard' story does not fit the recovered vessel."
+        },
+        {
+          "blockId": "damage-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "radio·pump·hull·cargo 문제는 발견됐지만 하나의 failure chain으로 확정되진 않았다",
+          "headingEn": "Radio, Pump, Hull, and Cargo Problems Were Found Without One Proven Failure Chain",
+          "textKo": "후대 조사기록은 radio equipment, pump capability, hull condition, shifted cargo, flooding과 list를 검토했다. 이런 요소들은 emergency perception을 설명할 수 있지만 **어떤 문제부터 시작해 누가 언제 abandon-ship 결정을 내렸는지 직접 기록이 없다.**",
+          "textEn": "Investigators examined radio equipment, pump capability, hull condition, shifted cargo, flooding, and the vessel's list. These factors can explain why an emergency may have seemed serious, but no record identifies which problem began first or when the decision to abandon ship was made."
+        },
+        {
+          "blockId": "buoyancy-03",
+          "type": "TURNING_POINT",
+          "headingKo": "Joyita는 cork-lined holds와 구조 때문에 쉽게 가라앉지 않는 배였다",
+          "headingEn": "Joyita's Construction Meant It Retained Buoyancy Even When Badly Flooded",
+          "textKo": "사건이 유명해진 중요한 이유는 발견 당시 배가 심하게 손상됐어도 떠 있었다는 점이다. reserve buoyancy가 큰 vessel을 왜 25명이 모두 버렸는지가 핵심질문이 된다. **그러나 crew가 당시 실제로 배가 얼마나 오래 버틸지 알았는지, darkness·weather·communication failure 속에서 무엇을 판단했는지는 알 수 없다.**",
+          "textEn": "One reason the case became famous is that the badly damaged vessel remained afloat. That makes the decision of all 25 people to leave central to the mystery. Yet we do not know what the crew believed about the ship's survival time amid darkness, weather, flooding, and communications problems."
+        },
+        {
+          "blockId": "lifeboats-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "lifeboat abandonment은 plausible하지만 그 뒤의 행방은 증거가 끊긴다",
+          "headingEn": "Lifeboat Abandonment Is Plausible, but the Evidence Ends There",
+          "textKo": "사람들이 lifeboat·raft로 ship을 떠났다는 scenario는 physical state와 잘 맞는 가설 가운데 하나다. 하지만 survivor, body, decisive log가 없어 이후 drift·capsize·rescue attempt를 구분할 수 없다. **배의 미스터리와 사람들의 최후는 같은 증거량을 갖지 않는다.**",
+          "textEn": "An abandonment by lifeboat or raft is one scenario compatible with the vessel's physical state. But without survivors, bodies, or a decisive log, later drift, capsize, or attempted rescue cannot be distinguished. The ship's condition is better documented than the people's final fate."
+        },
+        {
+          "blockId": "legends-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "piracy·mutiny·crime theory는 가능성 목록이지 확인된 결론이 아니다",
+          "headingEn": "Piracy, Mutiny, and Crime Theories Remain Possibilities, Not Established Conclusions",
+          "textKo": "cargo와 missing people 때문에 piracy·mutiny·criminal intervention theories가 반복됐지만 공식 archive summary는 어느 하나를 확정하지 않는다. **dramatic explanation을 선택하기보다 vessel evidence가 실제로 말하는 범위를 보존하는 게 중요하다.**",
+          "textEn": "The cargo and missing people generated recurring theories of piracy, mutiny, and criminal intervention, but the archival record does not establish one of them as the answer. Preserving what the vessel evidence actually supports is more reliable than selecting the most dramatic scenario."
+        },
+        {
+          "blockId": "decision-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "배가 결국 떠 있었다고 당시 abandon 결정이 비합리적이었다고 단정할 수는 없다",
+          "headingEn": "The Ship Remaining Afloat Does Not Prove Abandonment Was Irrational in the Moment",
+          "textKo": "사후에 vessel이 떠 있었음을 아는 것과 당시 crew가 flooding·list·radio failure·weather를 보며 판단한 것은 다르다. emergency decision은 불완전한 정보와 시간압박 속에서 이뤄진다. **결과를 알고 과거결정을 평가하는 hindsight bias를 피해야 한다.**",
+          "textEn": "Knowing afterward that the vessel stayed afloat is different from what the crew knew while facing flooding, list, communication failure, and weather. Emergency decisions are made under incomplete information and time pressure; hindsight should not be mistaken for evidence."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** MV Joyita는 1955년 실종됐다가 heavily listing·partly flooded 상태로 발견됐고 25명의 passenger·crew는 없었다. vessel의 physical condition과 equipment/cargo problems는 조사됐다.\n\n**확인되지 않음:** 사람들이 정확히 언제·왜 ship을 떠났는지, 이후 어떤 lifeboat fate를 겪었는지, piracy·mutiny·accident 중 어떤 scenario가 맞는지는 확정되지 않았다.",
+          "textEn": "**Established:** MV Joyita disappeared in 1955 and was later found heavily listing and partly flooded, with all 25 passengers and crew missing. The vessel's physical condition and equipment/cargo problems were investigated.\n\n**Not established:** Exactly when and why the people left, what happened after abandonment, and whether piracy, mutiny, accident, or another scenario best explains the loss remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** MV Joyita는 1955년 실종됐다가 heavily listing·partly flooded 상태로 발견됐고 25명의 passenger·crew는 없었다. vessel의 physical condition과 equipment/cargo problems는 조사됐다.\n\n**확인되지 않음:** 사람들이 정확히 언제·왜 ship을 떠났는지, 이후 어떤 lifeboat fate를 겪었는지, piracy·mutiny·accident 중 어떤 scenario가 맞는지는 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "damage-02",
+        "buoyancy-03",
+        "lifeboats-04",
+        "legends-05",
+        "decision-055"
+      ]
+    },
+    "en": {
+      "headline": "Why Did 25 People Vanish From a Ship That Did Not Sink?",
+      "hook": "Joyita was recovered afloat, not as a wreck. The mystery is therefore not simply why the ship disappeared, but why everyone left and what happened afterward.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "실종 닷새 뒤 배는 떠 있었지만 25명은 모두 사라져 있었다",
+          "headingEn": "Five Days After Vanishing, the Vessel Was Still Afloat—but All 25 People Were Gone",
+          "textKo": "MV Joyita는 1955년 Samoa에서 Tokelau로 향하던 중 연락이 끊겼다가 닷새 뒤 heavily listing·partly flooded 상태로 발견됐다. National Library of New Zealand archival record는 crew·passenger 25명이 사라졌고 vessel은 상당한 reserve buoyancy를 유지한 채 발견됐다는 사건기록을 보존한다. **'배가 가라앉아 모두 사라졌다'는 단순그림과 실제 발견상태가 맞지 않는다.**",
+          "textEn": "MV Joyita disappeared in 1955 while sailing from Samoa to Tokelau and was found five days later heavily listing and partly flooded. New Zealand archival records preserve the central puzzle: all 25 passengers and crew were gone while the vessel retained substantial reserve buoyancy. A simple 'ship sank with everyone aboard' story does not fit the recovered vessel."
+        },
+        {
+          "blockId": "damage-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "radio·pump·hull·cargo 문제는 발견됐지만 하나의 failure chain으로 확정되진 않았다",
+          "headingEn": "Radio, Pump, Hull, and Cargo Problems Were Found Without One Proven Failure Chain",
+          "textKo": "후대 조사기록은 radio equipment, pump capability, hull condition, shifted cargo, flooding과 list를 검토했다. 이런 요소들은 emergency perception을 설명할 수 있지만 **어떤 문제부터 시작해 누가 언제 abandon-ship 결정을 내렸는지 직접 기록이 없다.**",
+          "textEn": "Investigators examined radio equipment, pump capability, hull condition, shifted cargo, flooding, and the vessel's list. These factors can explain why an emergency may have seemed serious, but no record identifies which problem began first or when the decision to abandon ship was made."
+        },
+        {
+          "blockId": "buoyancy-03",
+          "type": "TURNING_POINT",
+          "headingKo": "Joyita는 cork-lined holds와 구조 때문에 쉽게 가라앉지 않는 배였다",
+          "headingEn": "Joyita's Construction Meant It Retained Buoyancy Even When Badly Flooded",
+          "textKo": "사건이 유명해진 중요한 이유는 발견 당시 배가 심하게 손상됐어도 떠 있었다는 점이다. reserve buoyancy가 큰 vessel을 왜 25명이 모두 버렸는지가 핵심질문이 된다. **그러나 crew가 당시 실제로 배가 얼마나 오래 버틸지 알았는지, darkness·weather·communication failure 속에서 무엇을 판단했는지는 알 수 없다.**",
+          "textEn": "One reason the case became famous is that the badly damaged vessel remained afloat. That makes the decision of all 25 people to leave central to the mystery. Yet we do not know what the crew believed about the ship's survival time amid darkness, weather, flooding, and communications problems."
+        },
+        {
+          "blockId": "lifeboats-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "lifeboat abandonment은 plausible하지만 그 뒤의 행방은 증거가 끊긴다",
+          "headingEn": "Lifeboat Abandonment Is Plausible, but the Evidence Ends There",
+          "textKo": "사람들이 lifeboat·raft로 ship을 떠났다는 scenario는 physical state와 잘 맞는 가설 가운데 하나다. 하지만 survivor, body, decisive log가 없어 이후 drift·capsize·rescue attempt를 구분할 수 없다. **배의 미스터리와 사람들의 최후는 같은 증거량을 갖지 않는다.**",
+          "textEn": "An abandonment by lifeboat or raft is one scenario compatible with the vessel's physical state. But without survivors, bodies, or a decisive log, later drift, capsize, or attempted rescue cannot be distinguished. The ship's condition is better documented than the people's final fate."
+        },
+        {
+          "blockId": "legends-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "piracy·mutiny·crime theory는 가능성 목록이지 확인된 결론이 아니다",
+          "headingEn": "Piracy, Mutiny, and Crime Theories Remain Possibilities, Not Established Conclusions",
+          "textKo": "cargo와 missing people 때문에 piracy·mutiny·criminal intervention theories가 반복됐지만 공식 archive summary는 어느 하나를 확정하지 않는다. **dramatic explanation을 선택하기보다 vessel evidence가 실제로 말하는 범위를 보존하는 게 중요하다.**",
+          "textEn": "The cargo and missing people generated recurring theories of piracy, mutiny, and criminal intervention, but the archival record does not establish one of them as the answer. Preserving what the vessel evidence actually supports is more reliable than selecting the most dramatic scenario."
+        },
+        {
+          "blockId": "decision-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "배가 결국 떠 있었다고 당시 abandon 결정이 비합리적이었다고 단정할 수는 없다",
+          "headingEn": "The Ship Remaining Afloat Does Not Prove Abandonment Was Irrational in the Moment",
+          "textKo": "사후에 vessel이 떠 있었음을 아는 것과 당시 crew가 flooding·list·radio failure·weather를 보며 판단한 것은 다르다. emergency decision은 불완전한 정보와 시간압박 속에서 이뤄진다. **결과를 알고 과거결정을 평가하는 hindsight bias를 피해야 한다.**",
+          "textEn": "Knowing afterward that the vessel stayed afloat is different from what the crew knew while facing flooding, list, communication failure, and weather. Emergency decisions are made under incomplete information and time pressure; hindsight should not be mistaken for evidence."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** MV Joyita는 1955년 실종됐다가 heavily listing·partly flooded 상태로 발견됐고 25명의 passenger·crew는 없었다. vessel의 physical condition과 equipment/cargo problems는 조사됐다.\n\n**확인되지 않음:** 사람들이 정확히 언제·왜 ship을 떠났는지, 이후 어떤 lifeboat fate를 겪었는지, piracy·mutiny·accident 중 어떤 scenario가 맞는지는 확정되지 않았다.",
+          "textEn": "**Established:** MV Joyita disappeared in 1955 and was later found heavily listing and partly flooded, with all 25 passengers and crew missing. The vessel's physical condition and equipment/cargo problems were investigated.\n\n**Not established:** Exactly when and why the people left, what happened after abandonment, and whether piracy, mutiny, accident, or another scenario best explains the loss remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** MV Joyita disappeared in 1955 and was later found heavily listing and partly flooded, with all 25 passengers and crew missing. The vessel's physical condition and equipment/cargo problems were investigated.\n\n**Not established:** Exactly when and why the people left, what happened after abandonment, and whether piracy, mutiny, accident, or another scenario best explains the loss remain unresolved.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "damage-02",
+        "buoyancy-03",
+        "lifeboats-04",
+        "legends-05",
+        "decision-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "JOY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Joyita는 1955년 실종 후 닷새 뒤 damaged but afloat 상태로 발견됐고 25명은 사라졌다.",
+      "statementEn": "Joyita was found damaged but afloat five days after disappearing in 1955, with all 25 people missing.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ]
+    },
+    {
+      "claimId": "JOY-C2",
+      "status": "CONFIRMED",
+      "statementKo": "radio/pump/hull/cargo 상태는 investigation 대상이었다.",
+      "statementEn": "Radio, pump, hull, and cargo conditions were investigated.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ]
+    },
+    {
+      "claimId": "JOY-C3",
+      "status": "SUPPORTED",
+      "statementKo": "lifeboat abandonment은 vessel state와 양립하는 주요 scenario다.",
+      "statementEn": "Abandonment by lifeboat is a major scenario compatible with the vessel's state.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ]
+    },
+    {
+      "claimId": "JOY-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "25명의 최종행방과 exact abandonment cause는 확정되지 않았다.",
+      "statementEn": "The final fate of the 25 people and exact cause of abandonment remain unestablished.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "JOY_NZ",
+      "title": "Joyita loss archival record",
+      "publisher": "National Library of New Zealand",
+      "url": "https://natlib.govt.nz/records/36514473",
+      "sourceType": "NATIONAL_LIBRARY_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "joy-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Samoa 출항 → 실종 → 5일 뒤 발견 → vessel investigation → 25명 fate unresolved.",
+      "captionEn": "Samoa departure → disappearance → found five days later → vessel investigation → fate of 25 unresolved.",
+      "altKo": "Samoa 출항 → 실종 → 5일 뒤 발견 → vessel investigation → 25명 fate unresolved.",
+      "altEn": "Samoa departure → disappearance → found five days later → vessel investigation → fate of 25 unresolved.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mv-joyita__v01__ko.png",
+          "sha256": "7a9a1a2a4dba89d15a88c44ec43c595734c1a8215386fc96828a0f705f67e185",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mv-joyita__v01__en.png",
+          "sha256": "29d1ae851965a63f017cb6f71461bd56710d5d1490a5658ca7ad6a82a92bd084",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "joy-v02",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "flooding/equipment failure, abandonment, crime theories와 각 evidence gap 비교.",
+      "captionEn": "Compare flooding/equipment failure, abandonment, and crime theories with their evidence gaps.",
+      "altKo": "flooding/equipment failure, abandonment, crime theories와 각 evidence gap 비교.",
+      "altEn": "Compare flooding/equipment failure, abandonment, and crime theories with their evidence gaps.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mv-joyita__v02__ko.png",
+          "sha256": "30e3d0867e276d7f52da95f0f9ee1af706d3366d7260a508c624511d5139587d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mv-joyita__v02__en.png",
+          "sha256": "d503d372c6ac2b6784a629bc2f1e0702ea31c192e621e33d7fb30b626da4e458",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "joy-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "ship physical state는 알려짐 / people final fate는 미확정이라는 비대칭을 표시.",
+      "captionEn": "Show the asymmetry: ship condition known, people's final fate unresolved.",
+      "altKo": "ship physical state는 알려짐 / people final fate는 미확정이라는 비대칭을 표시.",
+      "altEn": "Show the asymmetry: ship condition known, people's final fate unresolved.",
+      "sourceRefs": [
+        "JOY_NZ"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mv-joyita__v03__ko.png",
+          "sha256": "229bdfa3e8eca3a92f95ae4016e4d62c512886a74a35c2a8d480da7837aad314",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mv-joyita__v03__en.png",
+          "sha256": "86fd53e158c07041d8332dc2bb299b8cf3947d46d0189169e1727bb0653c65e9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Crime / Disappearance"
+    ],
+    "countries": [
+      "Samoa",
+      "New Zealand / Pacific context"
+    ],
+    "regions": [
+      "South Pacific"
+    ],
+    "places": [
+      {
+        "name": "Apia, Samoa",
+        "role": "departure"
+      },
+      {
+        "name": "Tokelau",
+        "role": "intended destination"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "National Library of New Zealand"
+    ],
+    "dateRange": {
+      "start": "1955",
+      "end": "1955",
+      "precision": "voyage and recovery"
+    },
+    "era": "Mid-20th-century maritime",
+    "resolution": "VESSEL_RECOVERED_CREW_PASSENGER_FATE_UNRESOLVED",
+    "searchAliases": [
+      "MV Joyita",
+      "Joyita ghost ship"
+    ],
+    "relatedCases": [
+      "carroll-a-deering"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1500,
+    "enBodyWords": 334,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "tuskegee-study",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Tuskegee 미치료 매독 연구",
+    "canonicalTitleEn": "USPHS Untreated Syphilis Study at Tuskegee",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "실제 비극은 ‘고의 감염’이 아니라 40년간의 기만과 치료미제공이었다",
+      "hook": "Tuskegee는 인터넷에서 종종 ‘정부가 흑인 남성에게 매독을 주입한 실험’으로 요약된다. CDC 기록이 보여주는 실제 사건은 다르지만 결코 덜 심각하지 않다. 참가자는 속았고 동의하지 않았으며 penicillin 시대에도 치료받지 못했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1932년 시작된 연구는 치료가 가능해진 뒤에도 40년 가까이 계속됐다",
+          "headingEn": "A Study Begun in 1932 Continued Long After Effective Treatment Became Available",
+          "textKo": "1932년 U.S. Public Health Service와 Tuskegee Institute는 Alabama Macon County의 Black men을 대상으로 untreated syphilis의 자연경과를 관찰하는 연구를 시작했다. CDC는 초기 참가자가 600명—syphilis group 399명, control 201명—이었다고 기록한다. **문제는 연구가 질병을 관찰한 것 자체보다 informed consent 없이 진행됐고, 효과적인 치료가 가능해진 뒤에도 참가자에게 제공되지 않았다는 데 있다.**",
+          "textEn": "In 1932, the U.S. Public Health Service and Tuskegee Institute began a study in Macon County, Alabama, to observe the natural history of untreated syphilis among Black men. CDC records 600 initial participants—399 with syphilis and 201 controls. The central ethical failure was not simply observation, but lack of informed consent and withholding effective treatment after it became available."
+        },
+        {
+          "blockId": "badblood-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "참가자들은 ‘bad blood’ 치료를 받는다고 들었다",
+          "headingEn": "Participants Were Told They Were Being Treated for “Bad Blood”",
+          "textKo": "CDC timeline은 researchers가 참가자들에게 syphilis study의 실제목적을 설명하지 않고 ‘bad blood’를 치료한다고 말했다고 정리한다. 참가자들은 무료검진·식사·burial insurance 등을 받았지만 informed consent는 수집되지 않았다. **benefit를 제공했다는 사실은 deception과 동의부재를 상쇄하지 않는다.**",
+          "textEn": "CDC's timeline states that participants were told they were being treated for 'bad blood' rather than being fully informed about the study's actual purpose. They received medical exams, meals, and burial insurance, but informed consent was not obtained. Providing benefits did not remedy deception or the lack of consent."
+        },
+        {
+          "blockId": "penicillin-03",
+          "type": "TURNING_POINT",
+          "headingKo": "penicillin이 표준치료가 된 뒤에도 참가자는 치료받지 못했다",
+          "headingEn": "Penicillin Became Standard Treatment, but Participants Were Not Offered It",
+          "textKo": "CDC는 1943년 무렵 penicillin이 syphilis의 치료선택으로 자리잡기 시작했고 이후 널리 이용 가능해졌지만 study participants에게 제공되지 않았다고 명시한다. 이 지점에서 연구는 ‘당시 치료법이 없던 시대의 관찰’로만 설명할 수 없게 된다. **이후 수십 년 동안 효과적인 치료를 의도적으로 제공하지 않은 것이 연구의 가장 중대한 윤리문제 가운데 하나다.**",
+          "textEn": "CDC states that penicillin became the treatment of choice for syphilis by the 1940s and became widely available, yet study participants were not offered treatment. From that point, the study cannot be explained merely as observation during an era without effective therapy. Withholding treatment became one of its most serious ethical failures."
+        },
+        {
+          "blockId": "infection-myth-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "연구자들이 참가자에게 syphilis를 주입했다는 설명은 공식기록과 다르다",
+          "headingEn": "The Men Were Not Deliberately Infected for the Study",
+          "textKo": "Tuskegee 연구는 실제로 심각한 비동의·기만·치료미제공 사례지만, CDC는 399명의 syphilitic group 참가자가 이미 late-latent syphilis를 가진 상태로 모집됐고 연구자가 의도적으로 감염시킨 것은 아니라고 명시한다. **실제 윤리범죄를 정확히 말하기 위해서도 ‘고의감염’이라는 잘못된 설명을 섞지 않는 것이 중요하다.**",
+          "textEn": "The Tuskegee study involved severe failures of consent, deception, and treatment, but CDC states that the 399 men in the syphilitic group were recruited because they already had late-latent syphilis; researchers did not deliberately infect them for the study. Accuracy matters even when describing a genuinely unethical program."
+        },
+        {
+          "blockId": "end-05",
+          "type": "AFTERMATH",
+          "headingKo": "1972년 공개보도 뒤 연구는 중단됐고 연구윤리 제도변화로 이어졌다",
+          "headingEn": "Exposure in 1972 Ended the Study and Helped Transform Research Ethics",
+          "textKo": "1972년 언론보도 뒤 federal advisory panel이 연구를 검토했고 ethical unjustified라고 판단해 종료를 권고했다. 연구는 그해 공식종료됐고 1974년 class-action settlement, 이후 survivors와 가족을 위한 health benefit program이 이어졌다. CDC는 이 사건이 표준 연구관행에 drastic changes를 가져온 사례라고 평가한다.",
+          "textEn": "After press reporting in 1972, a federal advisory panel reviewed the study, judged it ethically unjustified, and recommended termination. The study ended that year, followed by a 1974 class-action settlement and continuing health benefits for survivors and families. CDC describes the case as producing major changes in research practice."
+        },
+        {
+          "blockId": "legacy-055",
+          "type": "AFTERMATH",
+          "headingKo": "사건의 후유증은 연구윤리 규정뿐 아니라 의료불신의 역사에도 남았다",
+          "headingEn": "The Legacy Extends Beyond Research Rules Into Medical Trust",
+          "textKo": "Tuskegee 사건은 이후 human-subject protection과 informed consent 제도변화의 대표 사례가 됐지만, Black communities의 의료·공중보건 불신을 이해할 때도 반복해서 언급된다. **역사적 피해를 정확히 서술하는 일은 단순 사실교정이 아니라 왜 신뢰가 무너졌는지 이해하는 데도 필요하다.**",
+          "textEn": "Tuskegee became a landmark case in reforms for human-subject protection and informed consent, and it remains central to discussions of medical distrust in Black communities. Accurate historical description matters not only for correcting myths but also for understanding how trust was damaged."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1932~1972년 USPHS Untreated Syphilis Study at Tuskegee는 600명의 Black men을 대상으로 진행됐고 informed consent 없이 deception이 사용됐다. penicillin이 이용가능해진 뒤에도 syphilis group 참가자에게 치료가 제공되지 않았다.\n\n**확인되지 않음:** 참가자들이 연구를 위해 의도적으로 syphilis에 감염됐다는 설명은 CDC 공식기록과 다르다. 실제 문제는 기존 감염을 가진 참가자에 대한 동의부재·기만·치료미제공이었다.",
+          "textEn": "**Established:** The 1932–1972 USPHS Untreated Syphilis Study at Tuskegee involved 600 Black men, used deception, and did not obtain informed consent. Participants in the syphilitic group were not offered penicillin after effective treatment became available.\n\n**Not established:** CDC records do not support the claim that researchers deliberately infected the men with syphilis for the study. The documented abuses were lack of consent, deception, and withholding treatment from men who were already infected."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 1932~1972년 USPHS Untreated Syphilis Study at Tuskegee는 600명의 Black men을 대상으로 진행됐고 informed consent 없이 deception이 사용됐다. penicillin이 이용가능해진 뒤에도 syphilis group 참가자에게 치료가 제공되지 않았다.\n\n**확인되지 않음:** 참가자들이 연구를 위해 의도적으로 syphilis에 감염됐다는 설명은 CDC 공식기록과 다르다. 실제 문제는 기존 감염을 가진 참가자에 대한 동의부재·기만·치료미제공이었다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "badblood-02",
+        "penicillin-03",
+        "infection-myth-04",
+        "end-05",
+        "legacy-055"
+      ]
+    },
+    "en": {
+      "headline": "The Real Abuse Was Not Deliberate Infection, but Forty Years of Deception and Withheld Treatment",
+      "hook": "Tuskegee is often misremembered as a study in which the government deliberately infected Black men. CDC records show a different—and still profoundly unethical—story: deception, no informed consent, and treatment withheld even after penicillin became available.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1932년 시작된 연구는 치료가 가능해진 뒤에도 40년 가까이 계속됐다",
+          "headingEn": "A Study Begun in 1932 Continued Long After Effective Treatment Became Available",
+          "textKo": "1932년 U.S. Public Health Service와 Tuskegee Institute는 Alabama Macon County의 Black men을 대상으로 untreated syphilis의 자연경과를 관찰하는 연구를 시작했다. CDC는 초기 참가자가 600명—syphilis group 399명, control 201명—이었다고 기록한다. **문제는 연구가 질병을 관찰한 것 자체보다 informed consent 없이 진행됐고, 효과적인 치료가 가능해진 뒤에도 참가자에게 제공되지 않았다는 데 있다.**",
+          "textEn": "In 1932, the U.S. Public Health Service and Tuskegee Institute began a study in Macon County, Alabama, to observe the natural history of untreated syphilis among Black men. CDC records 600 initial participants—399 with syphilis and 201 controls. The central ethical failure was not simply observation, but lack of informed consent and withholding effective treatment after it became available."
+        },
+        {
+          "blockId": "badblood-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "참가자들은 ‘bad blood’ 치료를 받는다고 들었다",
+          "headingEn": "Participants Were Told They Were Being Treated for “Bad Blood”",
+          "textKo": "CDC timeline은 researchers가 참가자들에게 syphilis study의 실제목적을 설명하지 않고 ‘bad blood’를 치료한다고 말했다고 정리한다. 참가자들은 무료검진·식사·burial insurance 등을 받았지만 informed consent는 수집되지 않았다. **benefit를 제공했다는 사실은 deception과 동의부재를 상쇄하지 않는다.**",
+          "textEn": "CDC's timeline states that participants were told they were being treated for 'bad blood' rather than being fully informed about the study's actual purpose. They received medical exams, meals, and burial insurance, but informed consent was not obtained. Providing benefits did not remedy deception or the lack of consent."
+        },
+        {
+          "blockId": "penicillin-03",
+          "type": "TURNING_POINT",
+          "headingKo": "penicillin이 표준치료가 된 뒤에도 참가자는 치료받지 못했다",
+          "headingEn": "Penicillin Became Standard Treatment, but Participants Were Not Offered It",
+          "textKo": "CDC는 1943년 무렵 penicillin이 syphilis의 치료선택으로 자리잡기 시작했고 이후 널리 이용 가능해졌지만 study participants에게 제공되지 않았다고 명시한다. 이 지점에서 연구는 ‘당시 치료법이 없던 시대의 관찰’로만 설명할 수 없게 된다. **이후 수십 년 동안 효과적인 치료를 의도적으로 제공하지 않은 것이 연구의 가장 중대한 윤리문제 가운데 하나다.**",
+          "textEn": "CDC states that penicillin became the treatment of choice for syphilis by the 1940s and became widely available, yet study participants were not offered treatment. From that point, the study cannot be explained merely as observation during an era without effective therapy. Withholding treatment became one of its most serious ethical failures."
+        },
+        {
+          "blockId": "infection-myth-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "연구자들이 참가자에게 syphilis를 주입했다는 설명은 공식기록과 다르다",
+          "headingEn": "The Men Were Not Deliberately Infected for the Study",
+          "textKo": "Tuskegee 연구는 실제로 심각한 비동의·기만·치료미제공 사례지만, CDC는 399명의 syphilitic group 참가자가 이미 late-latent syphilis를 가진 상태로 모집됐고 연구자가 의도적으로 감염시킨 것은 아니라고 명시한다. **실제 윤리범죄를 정확히 말하기 위해서도 ‘고의감염’이라는 잘못된 설명을 섞지 않는 것이 중요하다.**",
+          "textEn": "The Tuskegee study involved severe failures of consent, deception, and treatment, but CDC states that the 399 men in the syphilitic group were recruited because they already had late-latent syphilis; researchers did not deliberately infect them for the study. Accuracy matters even when describing a genuinely unethical program."
+        },
+        {
+          "blockId": "end-05",
+          "type": "AFTERMATH",
+          "headingKo": "1972년 공개보도 뒤 연구는 중단됐고 연구윤리 제도변화로 이어졌다",
+          "headingEn": "Exposure in 1972 Ended the Study and Helped Transform Research Ethics",
+          "textKo": "1972년 언론보도 뒤 federal advisory panel이 연구를 검토했고 ethical unjustified라고 판단해 종료를 권고했다. 연구는 그해 공식종료됐고 1974년 class-action settlement, 이후 survivors와 가족을 위한 health benefit program이 이어졌다. CDC는 이 사건이 표준 연구관행에 drastic changes를 가져온 사례라고 평가한다.",
+          "textEn": "After press reporting in 1972, a federal advisory panel reviewed the study, judged it ethically unjustified, and recommended termination. The study ended that year, followed by a 1974 class-action settlement and continuing health benefits for survivors and families. CDC describes the case as producing major changes in research practice."
+        },
+        {
+          "blockId": "legacy-055",
+          "type": "AFTERMATH",
+          "headingKo": "사건의 후유증은 연구윤리 규정뿐 아니라 의료불신의 역사에도 남았다",
+          "headingEn": "The Legacy Extends Beyond Research Rules Into Medical Trust",
+          "textKo": "Tuskegee 사건은 이후 human-subject protection과 informed consent 제도변화의 대표 사례가 됐지만, Black communities의 의료·공중보건 불신을 이해할 때도 반복해서 언급된다. **역사적 피해를 정확히 서술하는 일은 단순 사실교정이 아니라 왜 신뢰가 무너졌는지 이해하는 데도 필요하다.**",
+          "textEn": "Tuskegee became a landmark case in reforms for human-subject protection and informed consent, and it remains central to discussions of medical distrust in Black communities. Accurate historical description matters not only for correcting myths but also for understanding how trust was damaged."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 1932~1972년 USPHS Untreated Syphilis Study at Tuskegee는 600명의 Black men을 대상으로 진행됐고 informed consent 없이 deception이 사용됐다. penicillin이 이용가능해진 뒤에도 syphilis group 참가자에게 치료가 제공되지 않았다.\n\n**확인되지 않음:** 참가자들이 연구를 위해 의도적으로 syphilis에 감염됐다는 설명은 CDC 공식기록과 다르다. 실제 문제는 기존 감염을 가진 참가자에 대한 동의부재·기만·치료미제공이었다.",
+          "textEn": "**Established:** The 1932–1972 USPHS Untreated Syphilis Study at Tuskegee involved 600 Black men, used deception, and did not obtain informed consent. Participants in the syphilitic group were not offered penicillin after effective treatment became available.\n\n**Not established:** CDC records do not support the claim that researchers deliberately infected the men with syphilis for the study. The documented abuses were lack of consent, deception, and withholding treatment from men who were already infected."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The 1932–1972 USPHS Untreated Syphilis Study at Tuskegee involved 600 Black men, used deception, and did not obtain informed consent. Participants in the syphilitic group were not offered penicillin after effective treatment became available.\n\n**Not established:** CDC records do not support the claim that researchers deliberately infected the men with syphilis for the study. The documented abuses were lack of consent, deception, and withholding treatment from men who were already infected.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "badblood-02",
+        "penicillin-03",
+        "infection-myth-04",
+        "end-05",
+        "legacy-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TU-C1",
+      "status": "CONFIRMED",
+      "statementKo": "연구는 1932~1972년 600명의 Black men을 대상으로 진행됐고 399명이 syphilis, 201명이 control이었다.",
+      "statementEn": "The study ran from 1932 to 1972 with 600 Black men: 399 with syphilis and 201 controls.",
+      "sourceRefs": [
+        "TU_CDC_ABOUT",
+        "TU_CDC_TIMELINE"
+      ]
+    },
+    {
+      "claimId": "TU-C2",
+      "status": "CONFIRMED",
+      "statementKo": "informed consent는 수집되지 않았고 참가자들은 'bad blood' 치료를 받는다고 들었다.",
+      "statementEn": "Informed consent was not obtained and participants were told they were being treated for 'bad blood.'",
+      "sourceRefs": [
+        "TU_CDC_TIMELINE",
+        "TU_STACKS"
+      ]
+    },
+    {
+      "claimId": "TU-C3",
+      "status": "CONFIRMED",
+      "statementKo": "penicillin이 표준치료로 이용가능해진 뒤에도 참가자에게 제공되지 않았다.",
+      "statementEn": "Penicillin was not offered to participants after it became the standard effective treatment.",
+      "sourceRefs": [
+        "TU_CDC_TIMELINE",
+        "TU_CDC_ABOUT"
+      ]
+    },
+    {
+      "claimId": "TU-C4",
+      "status": "REFUTED",
+      "statementKo": "연구자가 참가자에게 syphilis를 의도적으로 감염시켰다는 주장은 CDC 기록과 다르다.",
+      "statementEn": "The claim that researchers deliberately infected participants with syphilis is contradicted by CDC's historical account.",
+      "sourceRefs": [
+        "TU_CDC_ABOUT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "TU_CDC_ABOUT",
+      "title": "About The Untreated Syphilis Study at Tuskegee",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/tuskegee/about/",
+      "sourceType": "CDC_OFFICIAL_HISTORY"
+    },
+    {
+      "sourceId": "TU_CDC_TIMELINE",
+      "title": "The Untreated Syphilis Study at Tuskegee Timeline",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://cdc.gov/tuskegee/about/timeline.html",
+      "sourceType": "CDC_OFFICIAL_TIMELINE"
+    },
+    {
+      "sourceId": "TU_STACKS",
+      "title": "U.S. Public Health Service Syphilis Study Timeline",
+      "publisher": "CDC Stacks",
+      "url": "https://stacks.cdc.gov/view/cdc/126007",
+      "sourceType": "CDC_ARCHIVAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "tu-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1932 시작 → 1940s penicillin 표준치료 → 치료미제공 지속 → 1972 공개·종료 → 1974 settlement.",
+      "captionEn": "1932 start → 1940s penicillin standard → treatment withheld → 1972 exposure/end → 1974 settlement.",
+      "altKo": "1932 시작 → 1940s penicillin 표준치료 → 치료미제공 지속 → 1972 공개·종료 → 1974 settlement.",
+      "altEn": "1932 start → 1940s penicillin standard → treatment withheld → 1972 exposure/end → 1974 settlement.",
+      "sourceRefs": [
+        "TU_CDC_ABOUT",
+        "TU_CDC_TIMELINE",
+        "TU_STACKS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tuskegee-study__v01__ko.png",
+          "sha256": "6d68dc9d1d51fff165b8c4d30810e2b205d77a46392aa0144cb2f5d9c8bc0836",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tuskegee-study__v01__en.png",
+          "sha256": "fa047b4f15693f60358976a4c128c19b5212b821f0fee757347fd30efaee9c7a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "tu-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실제 윤리위반과 '의도적 감염'이라는 잘못된 서술을 구분.",
+      "captionEn": "Evidence card separating documented ethical abuses from the false deliberate-infection claim.",
+      "altKo": "실제 윤리위반과 '의도적 감염'이라는 잘못된 서술을 구분.",
+      "altEn": "Evidence card separating documented ethical abuses from the false deliberate-infection claim.",
+      "sourceRefs": [
+        "TU_CDC_ABOUT",
+        "TU_CDC_TIMELINE",
+        "TU_STACKS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tuskegee-study__v02__ko.png",
+          "sha256": "fc9965109171e3274e53d4807daf9689eebd44b7c063ad122ac55e28e8e762e8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tuskegee-study__v02__en.png",
+          "sha256": "c5cd50e558b8277241b84f063e02d831b30b4ad61a63121622a3f98181317bbe",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "tu-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "informed consent 부재·deception·treatment withholding을 세 축으로 정리.",
+      "captionEn": "Diagram of the three documented ethical failures: no informed consent, deception, and treatment withholding.",
+      "altKo": "informed consent 부재·deception·treatment withholding을 세 축으로 정리.",
+      "altEn": "Diagram of the three documented ethical failures: no informed consent, deception, and treatment withholding.",
+      "sourceRefs": [
+        "TU_CDC_ABOUT",
+        "TU_CDC_TIMELINE",
+        "TU_STACKS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "tuskegee-study__v03__ko.png",
+          "sha256": "fd0c0f4256f31c5877b6de1f1f4c908e51c1951a5521d89a61696cd22dbd3b6a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "tuskegee-study__v03__en.png",
+          "sha256": "feb1d9bc4c264864951ef6a5551c4a6bef28fbf6fc9dc5cfc81489328d96a333",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Macon County, Alabama"
+    ],
+    "places": [
+      {
+        "name": "Tuskegee, Alabama",
+        "role": "study region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Public Health Service",
+      "Tuskegee Institute",
+      "CDC"
+    ],
+    "dateRange": {
+      "start": "1932",
+      "end": "1972",
+      "precision": "study period"
+    },
+    "era": "20th-century medical research",
+    "resolution": "PROGRAM_AND_ETHICAL_ABUSES_DOCUMENTED",
+    "searchAliases": [
+      "Tuskegee Syphilis Study",
+      "USPHS Untreated Syphilis Study"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1632,
+    "enBodyWords": 374,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

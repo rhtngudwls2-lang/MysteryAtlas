@@ -1,0 +1,338 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "pioneer-anomaly",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "파이오니어 이상",
+    "canonicalTitleEn": "Pioneer Anomaly",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "새 중력법칙처럼 보였던 힘은 왜 우주선 자체의 열로 끝났나",
+      "hook": "Pioneer anomaly는 가짜 측정이 아니었다. 이상한 deceleration은 실제였지만, 오래된 telemetry를 복원하자 RTG와 electronics의 열이 남긴 recoil이 정확히 보이기 시작했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "Pioneer 10·11은 계산보다 아주 조금 느리게 멀어졌다",
+          "headingEn": "Pioneer 10 and 11 Were Receding Ever So Slightly More Slowly Than Expected",
+          "textKo": "1980년대부터 NASA navigators는 Pioneer 10·11 tracking data에서 태양방향의 작은 unexplained deceleration을 봤다. JPL은 1998년경 anomaly가 약 0.9 nanometers per second squared 수준으로 논의됐다고 설명한다. **효과는 작았지만 오래 지속돼 new physics 가능성까지 진지하게 검토됐다.**",
+          "textEn": "From the 1980s onward, NASA navigators noticed a small unexplained sunward deceleration in tracking data from Pioneer 10 and 11. JPL describes the anomaly as about 0.9 nanometers per second squared. Tiny as it was, its persistence motivated serious discussion of new physics."
+        },
+        {
+          "blockId": "archive-02",
+          "type": "TURNING_POINT",
+          "headingKo": "해답은 새 우주선이 아니라 낡은 punch card·magnetic tape에서 나왔다",
+          "headingEn": "The Solution Came From Old Punch Cards and Magnetic Tapes, Not a New Spacecraft",
+          "textKo": "2004년 이후 Slava Turyshev team은 decades-old Doppler data와 telemetry를 전국 archive에서 복구했다. JPL basement와 NASA center의 magnetic tapes, digitized navigation files, vintage tape machine까지 동원됐다. **미스터리 해결의 핵심은 observation을 더 하는 것이 아니라 과거 spacecraft 상태를 충분히 재구성하는 data archaeology였다.**",
+          "textEn": "Starting in 2004, Slava Turyshev and colleagues recovered decades-old Doppler and telemetry records from archives across NASA. Magnetic tapes, digitized navigation files, and even vintage tape-reading equipment were used. The key was data archaeology: reconstructing the spacecraft's thermal state in the past."
+        },
+        {
+          "blockId": "heat-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "전기장비와 plutonium power source에서 나온 비대칭 열복사가 미세한 recoil을 만들었다",
+          "headingEn": "Anisotropic Heat Radiation Produced a Tiny Recoil Force",
+          "textKo": "Pioneer spacecraft는 electrical systems와 radioisotope thermoelectric generators에서 heat를 방출한다. 열 photon이 모든 방향으로 완전히 대칭적으로 나가지 않으면 momentum recoil이 생긴다. recovered telemetry와 thermal model은 이 recoil이 observed anomalous acceleration과 맞는 수준임을 보여줬다. **'보이지 않는 새 힘'이 아니라 spacecraft 자신의 열이었다.**",
+          "textEn": "Pioneer spacecraft emitted heat from electrical systems and radioisotope thermoelectric generators. If thermal photons are not radiated perfectly symmetrically, their momentum produces a recoil force. Recovered telemetry and thermal models matched this recoil to the observed anomalous acceleration. The missing force came from the spacecraft's own heat."
+        },
+        {
+          "blockId": "physics-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "anomaly가 실제였다고 new gravity가 실제였던 것은 아니다",
+          "headingEn": "A Real Anomaly Did Not Mean a New Law of Gravity Was Real",
+          "textKo": "tracking residual 자체는 실제 measurement issue였다. 하지만 unexplained residual과 new fundamental physics는 다른 단계다. **standard engineering effect를 충분히 model하지 못하면 ordinary physics도 exotic signal처럼 보일 수 있다는 사례**가 됐다.",
+          "textEn": "The tracking residual was real, but an unexplained residual and a new fundamental force are different claims. The case became a textbook example of how an incompletely modeled engineering effect can imitate exotic physics."
+        },
+        {
+          "blockId": "lesson-045",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 anomaly 연구에서 'instrument model'을 끝까지 의심해야 하는 이유가 됐다",
+          "headingEn": "The Case Became a Lesson in Exhausting Instrument and Spacecraft Models Before New Physics",
+          "textKo": "Pioneer anomaly는 new physics를 검토한 연구가 잘못이었다는 이야기가 아니다. 오히려 anomaly가 충분히 오래 지속됐기 때문에 spacecraft engineering을 더 정밀하게 복원할 동기가 생겼다. **extraordinary hypothesis를 시험하되 ordinary systematics를 끝까지 계산하는 과정 자체가 science의 강점**이다.",
+          "textEn": "The Pioneer anomaly does not show that considering new physics was foolish. Its persistence justified deeper investigation, which eventually reconstructed the spacecraft engineering well enough to explain the effect. Testing extraordinary ideas while exhausting ordinary systematics is a strength of the scientific process."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Pioneer 10·11 tracking에는 실제 small anomalous deceleration이 있었고, recovered telemetry와 detailed thermal modeling은 anisotropic thermal recoil로 이를 설명했다. JPL은 2012년 결과를 mystery resolution으로 발표했다.\n\n**확인되지 않음:** Pioneer anomaly는 현재 new gravity 또는 relativity failure의 evidence로 남아 있지 않다. unexplained force를 요구하는 별도 현상은 필요하지 않다.",
+          "textEn": "**Established:** Pioneer 10 and 11 tracking contained a real small anomalous deceleration, and recovered telemetry plus detailed thermal modeling explained it through anisotropic thermal recoil. JPL presented the 2012 result as resolution of the mystery.\n\n**Not established:** The Pioneer anomaly is no longer evidence requiring new gravity or a failure of relativity; no separate unexplained force is needed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Pioneer 10·11 tracking에는 실제 small anomalous deceleration이 있었고, recovered telemetry와 detailed thermal modeling은 anisotropic thermal recoil로 이를 설명했다. JPL은 2012년 결과를 mystery resolution으로 발표했다.\n\n**확인되지 않음:** Pioneer anomaly는 현재 new gravity 또는 relativity failure의 evidence로 남아 있지 않다. unexplained force를 요구하는 별도 현상은 필요하지 않다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "archive-02",
+        "heat-03",
+        "physics-04",
+        "lesson-045"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Force That Looked Like New Physics Turn Out to Be the Spacecraft's Own Heat?",
+      "hook": "The Pioneer anomaly was not fake data. The deceleration was real; recovering old telemetry revealed that thermal recoil from the spacecraft itself accounted for it.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "Pioneer 10·11은 계산보다 아주 조금 느리게 멀어졌다",
+          "headingEn": "Pioneer 10 and 11 Were Receding Ever So Slightly More Slowly Than Expected",
+          "textKo": "1980년대부터 NASA navigators는 Pioneer 10·11 tracking data에서 태양방향의 작은 unexplained deceleration을 봤다. JPL은 1998년경 anomaly가 약 0.9 nanometers per second squared 수준으로 논의됐다고 설명한다. **효과는 작았지만 오래 지속돼 new physics 가능성까지 진지하게 검토됐다.**",
+          "textEn": "From the 1980s onward, NASA navigators noticed a small unexplained sunward deceleration in tracking data from Pioneer 10 and 11. JPL describes the anomaly as about 0.9 nanometers per second squared. Tiny as it was, its persistence motivated serious discussion of new physics."
+        },
+        {
+          "blockId": "archive-02",
+          "type": "TURNING_POINT",
+          "headingKo": "해답은 새 우주선이 아니라 낡은 punch card·magnetic tape에서 나왔다",
+          "headingEn": "The Solution Came From Old Punch Cards and Magnetic Tapes, Not a New Spacecraft",
+          "textKo": "2004년 이후 Slava Turyshev team은 decades-old Doppler data와 telemetry를 전국 archive에서 복구했다. JPL basement와 NASA center의 magnetic tapes, digitized navigation files, vintage tape machine까지 동원됐다. **미스터리 해결의 핵심은 observation을 더 하는 것이 아니라 과거 spacecraft 상태를 충분히 재구성하는 data archaeology였다.**",
+          "textEn": "Starting in 2004, Slava Turyshev and colleagues recovered decades-old Doppler and telemetry records from archives across NASA. Magnetic tapes, digitized navigation files, and even vintage tape-reading equipment were used. The key was data archaeology: reconstructing the spacecraft's thermal state in the past."
+        },
+        {
+          "blockId": "heat-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "전기장비와 plutonium power source에서 나온 비대칭 열복사가 미세한 recoil을 만들었다",
+          "headingEn": "Anisotropic Heat Radiation Produced a Tiny Recoil Force",
+          "textKo": "Pioneer spacecraft는 electrical systems와 radioisotope thermoelectric generators에서 heat를 방출한다. 열 photon이 모든 방향으로 완전히 대칭적으로 나가지 않으면 momentum recoil이 생긴다. recovered telemetry와 thermal model은 이 recoil이 observed anomalous acceleration과 맞는 수준임을 보여줬다. **'보이지 않는 새 힘'이 아니라 spacecraft 자신의 열이었다.**",
+          "textEn": "Pioneer spacecraft emitted heat from electrical systems and radioisotope thermoelectric generators. If thermal photons are not radiated perfectly symmetrically, their momentum produces a recoil force. Recovered telemetry and thermal models matched this recoil to the observed anomalous acceleration. The missing force came from the spacecraft's own heat."
+        },
+        {
+          "blockId": "physics-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "anomaly가 실제였다고 new gravity가 실제였던 것은 아니다",
+          "headingEn": "A Real Anomaly Did Not Mean a New Law of Gravity Was Real",
+          "textKo": "tracking residual 자체는 실제 measurement issue였다. 하지만 unexplained residual과 new fundamental physics는 다른 단계다. **standard engineering effect를 충분히 model하지 못하면 ordinary physics도 exotic signal처럼 보일 수 있다는 사례**가 됐다.",
+          "textEn": "The tracking residual was real, but an unexplained residual and a new fundamental force are different claims. The case became a textbook example of how an incompletely modeled engineering effect can imitate exotic physics."
+        },
+        {
+          "blockId": "lesson-045",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건은 anomaly 연구에서 'instrument model'을 끝까지 의심해야 하는 이유가 됐다",
+          "headingEn": "The Case Became a Lesson in Exhausting Instrument and Spacecraft Models Before New Physics",
+          "textKo": "Pioneer anomaly는 new physics를 검토한 연구가 잘못이었다는 이야기가 아니다. 오히려 anomaly가 충분히 오래 지속됐기 때문에 spacecraft engineering을 더 정밀하게 복원할 동기가 생겼다. **extraordinary hypothesis를 시험하되 ordinary systematics를 끝까지 계산하는 과정 자체가 science의 강점**이다.",
+          "textEn": "The Pioneer anomaly does not show that considering new physics was foolish. Its persistence justified deeper investigation, which eventually reconstructed the spacecraft engineering well enough to explain the effect. Testing extraordinary ideas while exhausting ordinary systematics is a strength of the scientific process."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Pioneer 10·11 tracking에는 실제 small anomalous deceleration이 있었고, recovered telemetry와 detailed thermal modeling은 anisotropic thermal recoil로 이를 설명했다. JPL은 2012년 결과를 mystery resolution으로 발표했다.\n\n**확인되지 않음:** Pioneer anomaly는 현재 new gravity 또는 relativity failure의 evidence로 남아 있지 않다. unexplained force를 요구하는 별도 현상은 필요하지 않다.",
+          "textEn": "**Established:** Pioneer 10 and 11 tracking contained a real small anomalous deceleration, and recovered telemetry plus detailed thermal modeling explained it through anisotropic thermal recoil. JPL presented the 2012 result as resolution of the mystery.\n\n**Not established:** The Pioneer anomaly is no longer evidence requiring new gravity or a failure of relativity; no separate unexplained force is needed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Pioneer 10 and 11 tracking contained a real small anomalous deceleration, and recovered telemetry plus detailed thermal modeling explained it through anisotropic thermal recoil. JPL presented the 2012 result as resolution of the mystery.\n\n**Not established:** The Pioneer anomaly is no longer evidence requiring new gravity or a failure of relativity; no separate unexplained force is needed.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "archive-02",
+        "heat-03",
+        "physics-04",
+        "lesson-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PIO-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Pioneer 10·11 tracking에는 small sunward anomalous acceleration이 실제 있었다.",
+      "statementEn": "Pioneer 10 and 11 tracking showed a real small sunward anomalous acceleration.",
+      "sourceRefs": [
+        "PIO_JPL2012"
+      ]
+    },
+    {
+      "claimId": "PIO-C2",
+      "status": "CONFIRMED",
+      "statementKo": "decades-old Doppler/telemetry data recovery가 thermal model 검증에 핵심이었다.",
+      "statementEn": "Recovery of decades-old Doppler and telemetry data was central to validating the thermal model.",
+      "sourceRefs": [
+        "PIO_JPL2012"
+      ]
+    },
+    {
+      "claimId": "PIO-C3",
+      "status": "CONFIRMED",
+      "statementKo": "anisotropic thermal radiation은 observed anomaly를 설명한다.",
+      "statementEn": "Anisotropic thermal radiation accounts for the observed anomaly.",
+      "sourceRefs": [
+        "PIO_JPL2012"
+      ]
+    },
+    {
+      "claimId": "PIO-C4",
+      "status": "REFUTED",
+      "statementKo": "현재 anomaly는 new gravitational physics가 필요하다는 증거로 남아 있지 않다.",
+      "statementEn": "The anomaly no longer stands as evidence requiring new gravitational physics.",
+      "sourceRefs": [
+        "PIO_JPL2012"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PIO_JPL2012",
+      "title": "Study Finds Heat is Source of 'Pioneer Anomaly'",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/study-finds-heat-is-source-of-pioneer-anomaly/",
+      "sourceType": "NASA_JPL_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "pio-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly.",
+      "captionEn": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly.",
+      "altKo": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly.",
+      "altEn": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly.",
+      "sourceRefs": [
+        "PIO_JPL2012"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "pioneer-anomaly__v01__ko.png",
+          "sha256": "7799d3e46758bd73df8bef2250d40bd86602c84c3f8614207973efdcdd144579",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "pioneer-anomaly__v01__en.png",
+          "sha256": "e48249e5f4237c1856a7e56129795670fad6b9e0cda15ddc891b1a23b95ad0a9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "pio-v02",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1980s residual → 1998 anomaly discussion → 2004 data recovery → 2012 thermal resolution.",
+      "captionEn": "1980s residual → 1998 anomaly discussion → 2004 data recovery → 2012 thermal resolution.",
+      "altKo": "1980s residual → 1998 anomaly discussion → 2004 data recovery → 2012 thermal resolution.",
+      "altEn": "1980s residual → 1998 anomaly discussion → 2004 data recovery → 2012 thermal resolution.",
+      "sourceRefs": [
+        "PIO_JPL2012"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "pioneer-anomaly__v02__ko.png",
+          "sha256": "8ff6659fa0f3fb96af116ddcb440562b1414f01ceac5bd4676de2d445e19ee42",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "pioneer-anomaly__v02__en.png",
+          "sha256": "0a62914f744cfe8f7ed26e9f6825f34b7969f0dc5027b268743153cdd862b5ab",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth",
+      "Technology / Lost Invention"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Deep space"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Slava Turyshev",
+        "role": "JPL research lead"
+      }
+    ],
+    "organizations": [
+      "NASA",
+      "Jet Propulsion Laboratory"
+    ],
+    "dateRange": {
+      "start": "1980s",
+      "end": "2012",
+      "precision": "anomaly recognition through resolution"
+    },
+    "era": "Deep-space navigation",
+    "resolution": "MEASURED_ANOMALY_EXPLAINED_BY_THERMAL_RECOIL",
+    "searchAliases": [
+      "Pioneer anomaly",
+      "Pioneer 10 anomaly",
+      "Pioneer 11 anomaly"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1529,
+    "enBodyWords": 268,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

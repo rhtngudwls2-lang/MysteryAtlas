@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "rongorongo",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "롱고롱고",
+    "canonicalTitleEn": "Rongorongo",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "실물 목판은 남았는데 왜 라파누이의 글을 아무도 읽지 못할까",
+      "hook": "기호는 실제로 남아 있고 반복패턴도 있다. 하지만 corpus는 작고 bilingual text가 없으며 읽기 전승까지 끊겼다. 이 미스터리는 ‘가짜 문자’가 아니라 진짜 자료가 너무 적은 해독문제다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "20여 점 남은 목판에 반복기호가 있지만 읽는 사람은 없다",
+          "headingEn": "A Few Surviving Wooden Tablets Carry Repeating Signs No One Can Securely Read",
+          "textKo": "Rapa Nui의 rongorongo는 사람·동물·도구처럼 보이는 작은 기호가 나무판과 장신구에 새겨진 체계다. British Museum 소장품처럼 실제 원본이 남아 있고, 반복기호와 배열도 관찰된다. 그러나 오늘날 합의된 완전해독은 없다. **실물이 존재한다는 것과 그 실물에 어떤 언어·문장이 적혔는지 안다는 것은 다른 문제**다.",
+          "textEn": "Rongorongo from Rapa Nui consists of small carved signs—some resembling people, animals or objects—on wooden tablets and other objects. Original artefacts survive in museums, including the British Museum, and repeated signs and ordering can be studied. Yet there is no generally accepted full decipherment. Having the objects is not the same as knowing what language or text they encode."
+        },
+        {
+          "blockId": "corpus-02",
+          "type": "BACKGROUND",
+          "headingKo": "가장 큰 장벽은 corpus가 너무 작다는 것",
+          "headingEn": "The Surviving Corpus Is Extremely Small",
+          "textKo": "최근 학술논의는 surviving corpus를 대략 12,000 signs 규모로 보며, 이는 많은 고대문자 해독에 비해 매우 작다. 긴 서사문이 풍부하게 남아 있는 것도 아니고 bilingual text도 없다. 어떤 sign sequence가 이름인지, 노래인지, 족보인지, 의례문인지 기준문장이 없다. **짧고 적은 자료에서 문법·어휘를 동시에 복원해야 하는 구조적 한계**가 있다.",
+          "textEn": "Recent scholarship often describes the surviving corpus as roughly twelve thousand signs—small compared with many successfully deciphered writing systems. There are no abundant long texts and no secure bilingual inscription. Researchers lack an answer key showing which sequences are names, chants, genealogies or ritual formulas. Grammar and vocabulary must be inferred from a very small corpus."
+        },
+        {
+          "blockId": "direction-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "읽기방향조차 목판을 돌려가며 따라가야 하는 독특한 체계다",
+          "headingEn": "Its Reading Direction Is Unusual and Adds Another Layer of Complexity",
+          "textKo": "Rongorongo tablets는 흔히 reverse boustrophedon 형태로 설명된다. 한 줄을 읽은 뒤 목판을 180도 돌려 다음 줄을 이어가는 방식으로 해석되는 사례가 많다. 이런 layout은 sign sequence를 비교할 때 tablet orientation을 함께 관리해야 함을 뜻한다. **기호를 베껴 적는 단계부터 방향을 잘못 잡으면 반복구조·문장경계 분석이 흔들린다.**",
+          "textEn": "Rongorongo tablets are commonly described with a reverse-boustrophedon layout: after reading one line, the object is rotated 180 degrees for the next. This makes orientation part of transcription itself. A mistaken orientation can disrupt sequence comparison and proposed text boundaries before decipherment even begins."
+        },
+        {
+          "blockId": "loss-04",
+          "type": "TURNING_POINT",
+          "headingKo": "전승이 끊긴 뒤 수집된 것이 치명적 문제였다",
+          "headingEn": "The Tradition Was Collected After Knowledge of Reading Had Collapsed",
+          "textKo": "Rongorongo가 외부인에게 본격적으로 기록된 것은 Rapa Nui 사회가 19세기 노예약탈·질병·사회붕괴를 겪은 뒤였다. 학술문헌은 사용법과 내용에 대한 신뢰할 전승이 거의 남지 않은 점을 해독장벽으로 든다. **문자사용자가 살아 있는 동안 체계적으로 채록하지 못한 탓에, 기호뿐 아니라 ‘이걸 어떻게 읽었는가’라는 메타정보까지 사라졌다.**",
+          "textEn": "Rongorongo was systematically collected and described only after Rapa Nui society had undergone devastating nineteenth-century slave raids, disease and social disruption. Scholarship identifies the collapse of reliable reading traditions as a major obstacle. What disappeared was not only texts but also the meta-knowledge of how the system was read and used."
+        },
+        {
+          "blockId": "corpus-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "중복텍스트가 조금 있어도 ‘정답문장’은 아니다",
+          "headingEn": "Duplicate Passages Help Structure Analysis but Do Not Supply a Translation Key",
+          "textKo": "일부 rongorongo text에는 서로 닮은 sequence와 반복구문이 있어 sign order와 문서관계를 연구하는 데 도움이 된다. 그러나 같은 문장을 여러 판에서 찾는 것은 의미를 알려주는 bilingual key와 다르다. **반복은 ‘이 부분들이 관계있다’는 구조증거를 강화할 뿐, 그 기호열이 무엇을 말하는지는 별도 문제로 남는다.**",
+          "textEn": "Some rongorongo texts contain repeated or closely related sequences, which helps scholars compare sign order and textual relationships. But finding the same passage on more than one object is not equivalent to a bilingual key. Repetition strengthens structural analysis without revealing what the passage means."
+        },
+        {
+          "blockId": "chronology-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기원연대 자체도 해독과 별개로 조심스럽다",
+          "headingEn": "The Script’s Chronology Is Another Question That Must Be Kept Separate",
+          "textKo": "Rongorongo가 유럽접촉 이전에 독립적으로 성립했는지, 접촉 이후 문자개념의 영향을 받아 발전했는지를 둘러싼 논쟁도 있다. 목재 자체의 연대와 글자가 실제 새겨진 시점이 항상 같지는 않기 때문에 carbon dating만으로 해결하기 어렵다. **기원연대 논쟁과 sign 의미 해독은 서로 다른 문제이며, 하나가 불확실하다고 다른 쪽을 임의로 채워서는 안 된다.**",
+          "textEn": "There is also debate over whether rongorongo developed independently before European contact or was influenced by knowledge of writing after contact. Dating the wood does not necessarily date the moment the signs were carved. Chronology and decipherment are separate problems; uncertainty in one should not be used to invent certainty in the other."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Rapa Nui의 실제 rongorongo 목판·기호자료가 여러 박물관에 남아 있고, 반복기호와 독특한 읽기배열을 연구할 수 있다. surviving corpus는 작고 bilingual text가 없으며 전승단절이 심하다.\n\n**확인되지 않음:** rongorongo가 정확히 어떤 언어정보를 어떤 방식으로 encode했는지, 각 sign의 음가·의미가 무엇인지에 대해 일반합의된 완전해독은 없다. 특정 연구자의 ‘해독 성공’ 주장을 확정된 번역으로 취급할 수 없다.",
+          "textEn": "**Established:** Genuine rongorongo tablets and inscriptions from Rapa Nui survive in museum collections, allowing study of repeated signs and unusual layout. The corpus is small, lacks a bilingual key, and the reading tradition was severely disrupted.\n\n**Not established:** There is no generally accepted full decipherment identifying how rongorongo encoded language or assigning secure sound/meaning values to the signs. Individual claims of successful decipherment are not established translations."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Rapa Nui의 실제 rongorongo 목판·기호자료가 여러 박물관에 남아 있고, 반복기호와 독특한 읽기배열을 연구할 수 있다. surviving corpus는 작고 bilingual text가 없으며 전승단절이 심하다.\n\n**확인되지 않음:** rongorongo가 정확히 어떤 언어정보를 어떤 방식으로 encode했는지, 각 sign의 음가·의미가 무엇인지에 대해 일반합의된 완전해독은 없다. 특정 연구자의 ‘해독 성공’ 주장을 확정된 번역으로 취급할 수 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "corpus-02",
+        "direction-03",
+        "loss-04",
+        "corpus-045",
+        "chronology-048"
+      ]
+    },
+    "en": {
+      "headline": "Why Can’t Anyone Read Rapa Nui’s Surviving Rongorongo Tablets?",
+      "hook": "The inscriptions are real and patterned, but the corpus is tiny, no bilingual key survives, and the reading tradition collapsed. This is a genuine decipherment problem created by missing context.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "20여 점 남은 목판에 반복기호가 있지만 읽는 사람은 없다",
+          "headingEn": "A Few Surviving Wooden Tablets Carry Repeating Signs No One Can Securely Read",
+          "textKo": "Rapa Nui의 rongorongo는 사람·동물·도구처럼 보이는 작은 기호가 나무판과 장신구에 새겨진 체계다. British Museum 소장품처럼 실제 원본이 남아 있고, 반복기호와 배열도 관찰된다. 그러나 오늘날 합의된 완전해독은 없다. **실물이 존재한다는 것과 그 실물에 어떤 언어·문장이 적혔는지 안다는 것은 다른 문제**다.",
+          "textEn": "Rongorongo from Rapa Nui consists of small carved signs—some resembling people, animals or objects—on wooden tablets and other objects. Original artefacts survive in museums, including the British Museum, and repeated signs and ordering can be studied. Yet there is no generally accepted full decipherment. Having the objects is not the same as knowing what language or text they encode."
+        },
+        {
+          "blockId": "corpus-02",
+          "type": "BACKGROUND",
+          "headingKo": "가장 큰 장벽은 corpus가 너무 작다는 것",
+          "headingEn": "The Surviving Corpus Is Extremely Small",
+          "textKo": "최근 학술논의는 surviving corpus를 대략 12,000 signs 규모로 보며, 이는 많은 고대문자 해독에 비해 매우 작다. 긴 서사문이 풍부하게 남아 있는 것도 아니고 bilingual text도 없다. 어떤 sign sequence가 이름인지, 노래인지, 족보인지, 의례문인지 기준문장이 없다. **짧고 적은 자료에서 문법·어휘를 동시에 복원해야 하는 구조적 한계**가 있다.",
+          "textEn": "Recent scholarship often describes the surviving corpus as roughly twelve thousand signs—small compared with many successfully deciphered writing systems. There are no abundant long texts and no secure bilingual inscription. Researchers lack an answer key showing which sequences are names, chants, genealogies or ritual formulas. Grammar and vocabulary must be inferred from a very small corpus."
+        },
+        {
+          "blockId": "direction-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "읽기방향조차 목판을 돌려가며 따라가야 하는 독특한 체계다",
+          "headingEn": "Its Reading Direction Is Unusual and Adds Another Layer of Complexity",
+          "textKo": "Rongorongo tablets는 흔히 reverse boustrophedon 형태로 설명된다. 한 줄을 읽은 뒤 목판을 180도 돌려 다음 줄을 이어가는 방식으로 해석되는 사례가 많다. 이런 layout은 sign sequence를 비교할 때 tablet orientation을 함께 관리해야 함을 뜻한다. **기호를 베껴 적는 단계부터 방향을 잘못 잡으면 반복구조·문장경계 분석이 흔들린다.**",
+          "textEn": "Rongorongo tablets are commonly described with a reverse-boustrophedon layout: after reading one line, the object is rotated 180 degrees for the next. This makes orientation part of transcription itself. A mistaken orientation can disrupt sequence comparison and proposed text boundaries before decipherment even begins."
+        },
+        {
+          "blockId": "loss-04",
+          "type": "TURNING_POINT",
+          "headingKo": "전승이 끊긴 뒤 수집된 것이 치명적 문제였다",
+          "headingEn": "The Tradition Was Collected After Knowledge of Reading Had Collapsed",
+          "textKo": "Rongorongo가 외부인에게 본격적으로 기록된 것은 Rapa Nui 사회가 19세기 노예약탈·질병·사회붕괴를 겪은 뒤였다. 학술문헌은 사용법과 내용에 대한 신뢰할 전승이 거의 남지 않은 점을 해독장벽으로 든다. **문자사용자가 살아 있는 동안 체계적으로 채록하지 못한 탓에, 기호뿐 아니라 ‘이걸 어떻게 읽었는가’라는 메타정보까지 사라졌다.**",
+          "textEn": "Rongorongo was systematically collected and described only after Rapa Nui society had undergone devastating nineteenth-century slave raids, disease and social disruption. Scholarship identifies the collapse of reliable reading traditions as a major obstacle. What disappeared was not only texts but also the meta-knowledge of how the system was read and used."
+        },
+        {
+          "blockId": "corpus-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "중복텍스트가 조금 있어도 ‘정답문장’은 아니다",
+          "headingEn": "Duplicate Passages Help Structure Analysis but Do Not Supply a Translation Key",
+          "textKo": "일부 rongorongo text에는 서로 닮은 sequence와 반복구문이 있어 sign order와 문서관계를 연구하는 데 도움이 된다. 그러나 같은 문장을 여러 판에서 찾는 것은 의미를 알려주는 bilingual key와 다르다. **반복은 ‘이 부분들이 관계있다’는 구조증거를 강화할 뿐, 그 기호열이 무엇을 말하는지는 별도 문제로 남는다.**",
+          "textEn": "Some rongorongo texts contain repeated or closely related sequences, which helps scholars compare sign order and textual relationships. But finding the same passage on more than one object is not equivalent to a bilingual key. Repetition strengthens structural analysis without revealing what the passage means."
+        },
+        {
+          "blockId": "chronology-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기원연대 자체도 해독과 별개로 조심스럽다",
+          "headingEn": "The Script’s Chronology Is Another Question That Must Be Kept Separate",
+          "textKo": "Rongorongo가 유럽접촉 이전에 독립적으로 성립했는지, 접촉 이후 문자개념의 영향을 받아 발전했는지를 둘러싼 논쟁도 있다. 목재 자체의 연대와 글자가 실제 새겨진 시점이 항상 같지는 않기 때문에 carbon dating만으로 해결하기 어렵다. **기원연대 논쟁과 sign 의미 해독은 서로 다른 문제이며, 하나가 불확실하다고 다른 쪽을 임의로 채워서는 안 된다.**",
+          "textEn": "There is also debate over whether rongorongo developed independently before European contact or was influenced by knowledge of writing after contact. Dating the wood does not necessarily date the moment the signs were carved. Chronology and decipherment are separate problems; uncertainty in one should not be used to invent certainty in the other."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Rapa Nui의 실제 rongorongo 목판·기호자료가 여러 박물관에 남아 있고, 반복기호와 독특한 읽기배열을 연구할 수 있다. surviving corpus는 작고 bilingual text가 없으며 전승단절이 심하다.\n\n**확인되지 않음:** rongorongo가 정확히 어떤 언어정보를 어떤 방식으로 encode했는지, 각 sign의 음가·의미가 무엇인지에 대해 일반합의된 완전해독은 없다. 특정 연구자의 ‘해독 성공’ 주장을 확정된 번역으로 취급할 수 없다.",
+          "textEn": "**Established:** Genuine rongorongo tablets and inscriptions from Rapa Nui survive in museum collections, allowing study of repeated signs and unusual layout. The corpus is small, lacks a bilingual key, and the reading tradition was severely disrupted.\n\n**Not established:** There is no generally accepted full decipherment identifying how rongorongo encoded language or assigning secure sound/meaning values to the signs. Individual claims of successful decipherment are not established translations."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Genuine rongorongo tablets and inscriptions from Rapa Nui survive in museum collections, allowing study of repeated signs and unusual layout. The corpus is small, lacks a bilingual key, and the reading tradition was severely disrupted.\n\n**Not established:** There is no generally accepted full decipherment identifying how rongorongo encoded language or assigning secure sound/meaning values to the signs. Individual claims of successful decipherment are not established translations.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "corpus-02",
+        "direction-03",
+        "loss-04",
+        "corpus-045",
+        "chronology-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "RON-C1",
+      "status": "CONFIRMED",
+      "statementKo": "실제 rongorongo inscription이 남은 목판·물품이 박물관에 존재한다.",
+      "statementEn": "Authentic objects bearing rongorongo inscriptions survive in museum collections.",
+      "sourceRefs": [
+        "RON_BM"
+      ]
+    },
+    {
+      "claimId": "RON-C2",
+      "status": "CONFIRMED",
+      "statementKo": "surviving corpus가 작고 bilingual text가 없다는 점은 해독의 핵심장벽이다.",
+      "statementEn": "The small surviving corpus and absence of a bilingual text are central barriers to decipherment.",
+      "sourceRefs": [
+        "RON_JSTOR"
+      ]
+    },
+    {
+      "claimId": "RON-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 일반합의된 완전해독은 없다.",
+      "statementEn": "No full decipherment currently has general scholarly acceptance.",
+      "sourceRefs": [
+        "RON_BM",
+        "RON_JSTOR"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "RON_BM",
+      "title": "Rongorongo tablet — British Museum Oc1903,-.150",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1903-150",
+      "sourceType": "PRIMARY_OBJECT_CATALOGUE"
+    },
+    {
+      "sourceId": "RON_JSTOR",
+      "title": "Change and Resilience in Rapa Nui and the Pacific — Rongorongo research chapters",
+      "publisher": "JSTOR / academic edited volume",
+      "url": "https://www.jstor.org/stable/jj.38164301",
+      "sourceType": "ACADEMIC_RESEARCH_SYNTHESIS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ron-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "reverse boustrophedon 방식으로 목판을 돌려 읽는 개념도.",
+      "captionEn": "Original diagram explaining reverse-boustrophedon reading by rotating the tablet.",
+      "altKo": "reverse boustrophedon 방식으로 목판을 돌려 읽는 개념도.",
+      "altEn": "Original diagram explaining reverse-boustrophedon reading by rotating the tablet.",
+      "sourceRefs": [
+        "RON_BM",
+        "RON_JSTOR"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "rongorongo__v01__ko.png",
+          "sha256": "99eb79d7eaf8da4c23aa0174b032d2ee83cf989d42ec1ef51ea00f0f48d31fcd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "rongorongo__v01__en.png",
+          "sha256": "f703d2218c97a902d7b40fc86ce3164dfcb70d4aa683b9cc403d1be0574cfc0a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ron-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실물·반복구조·소량 corpus와 아직 미확정인 의미·언어를 구분.",
+      "captionEn": "Evidence card separating surviving objects/patterns from unresolved language and meaning.",
+      "altKo": "실물·반복구조·소량 corpus와 아직 미확정인 의미·언어를 구분.",
+      "altEn": "Evidence card separating surviving objects/patterns from unresolved language and meaning.",
+      "sourceRefs": [
+        "RON_BM",
+        "RON_JSTOR"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "rongorongo__v02__ko.png",
+          "sha256": "e4eba4c99888950989e24c7c04538e4bdbfdc16ef8f6c34b5d2d1b24275c2477",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "rongorongo__v02__en.png",
+          "sha256": "cb5fb289e42ff925aba87ce691ab35aeb0c4a7e658550963c3e50c9f76565c8e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Ancient History / Archaeology"
+    ],
+    "countries": [
+      "Chile / Rapa Nui"
+    ],
+    "regions": [
+      "Rapa Nui"
+    ],
+    "places": [
+      {
+        "name": "Rapa Nui",
+        "role": "origin of inscriptions"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "British Museum"
+    ],
+    "dateRange": {
+      "start": "pre-19th century",
+      "end": "present research",
+      "precision": "traditional inscriptions; chronology debated"
+    },
+    "era": "Rapa Nui history / modern epigraphy",
+    "resolution": "AUTHENTIC_SCRIPT_OBJECTS_SURVIVE_DECIPHERMENT_UNRESOLVED",
+    "searchAliases": [
+      "Rongorongo",
+      "Rapa Nui script",
+      "Easter Island script"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1503,
+    "enBodyWords": 379,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH11_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

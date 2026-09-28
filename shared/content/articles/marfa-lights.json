@@ -1,0 +1,365 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "marfa-lights",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "마파 라이트",
+    "canonicalTitleEn": "Marfa Lights",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "텍사스 사막의 불빛—차량등으로 설명된 것과 아직 말할 수 없는 것을 나누면",
+      "hook": "마파의 빛을 둘러싼 논쟁은 '전부 미지현상'과 '전부 차량등' 사이에 있다. 현대 관측은 false positive를 많이 설명하지만 모든 historical report를 소급해 하나의 원인으로 닫지는 못한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "텍사스 사막의 불빛은 실제로 보인다—문제는 '같은 불빛'인지다",
+          "headingEn": "Lights Really Are Seen Near Marfa—the Question Is Whether They Are All the Same Phenomenon",
+          "textKo": "Marfa, Texas 인근에서는 밤에 멀리 이동하거나 갈라지는 듯한 light report가 오랫동안 전해졌다. 현대 관측에서도 distant headlights, mirage-like refraction, atmospheric continuum source가 비슷한 인상을 만들 수 있음이 확인됐다. **'Marfa에서 이상한 빛을 봤다'는 보고와 '하나의 미지 광원이 반복된다'는 결론은 분리해야 한다.**",
+          "textEn": "Reports of distant moving or splitting lights near Marfa, Texas, have circulated for generations. Modern field observations show that distant headlights, refraction, and other atmospheric light sources can create similar appearances. 'A strange light was seen near Marfa' is different from proving one recurring unknown source."
+        },
+        {
+          "blockId": "headlights-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현대 관측에서 차량등은 중요한 false positive로 반복된다",
+          "headingEn": "Vehicle Headlights Are a Major Modern False Positive",
+          "textKo": "APS meeting material은 Marfa region에서 highway headlights가 멀리서 unusual light처럼 보일 수 있으며 spectroscopic distance method로 일부 source를 도로교통과 대응시킬 수 있음을 보여준다. **빛이 지평선 가까이 있고 대기층을 통과할수록 실제 source 위치와 apparent motion이 직관과 달라질 수 있다.**",
+          "textEn": "APS meeting material shows that highway headlights around Marfa can appear unusual at distance, and spectroscopic distance methods can identify some sources consistent with road traffic. Near the horizon, long atmospheric paths can make apparent location and motion misleading."
+        },
+        {
+          "blockId": "notall-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "차량등이 있다고 모든 역사적 목격이 차량등으로 끝나는 것도 아니다",
+          "headingEn": "Explaining Many Modern Lights Does Not Retroactively Explain Every Historical Report",
+          "textKo": "APS 자료 자체도 headlights와 mirages가 관측현장에 존재하지만 phenomenon of interest와 구분가능하다고 다루거나, 특정 campaign에서는 'true Marfa light' 기준을 모두 충족하는 event를 포착하지 못했다고 보고한다. **따라서 현대 false positive를 확인한 것과 모든 historical report를 하나의 highway explanation으로 환원하는 것은 다르다.**",
+          "textEn": "APS material itself notes that headlights and mirages are present at the observation site and can sometimes be distinguished from the phenomenon of interest; another observing campaign reported no event satisfying all criteria for a 'true' Marfa light. Modern false positives do not automatically explain every historical report."
+        },
+        {
+          "blockId": "methods-04",
+          "type": "BACKGROUND",
+          "headingKo": "미스터리를 줄이는 방법은 색·거리·동시위치 기록이다",
+          "headingEn": "Spectra, Distance, and Simultaneous Location Data Are More Useful Than Anecdotes",
+          "textKo": "분광기·CCD·GIS distance를 함께 쓰면 light spectrum과 실제 source distance를 비교할 수 있다. 이는 '불빛이 이상했다'는 묘사를 vehicle lamp, atmospheric source, 다른 source와 객관적으로 비교하게 한다. **Marfa Lights는 folklore이지만 동시에 measurement design이 무엇을 바꾸는지 보여주는 field-science 사례다.**",
+          "textEn": "Combining spectroscopy, CCD imaging, and GIS distance information allows observers to compare a light's spectrum and actual source distance with vehicle lamps or other atmospheric sources. The case shows how measurement design can transform a folklore report into a testable field-science problem."
+        },
+        {
+          "blockId": "classification-045",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "관측자가 '진짜 Marfa Light' 기준을 먼저 정하지 않으면 분류가 흔들린다",
+          "headingEn": "Classification Depends on Defining What Counts as a 'True Marfa Light'",
+          "textKo": "field study에서 중요한 문제는 어떤 light를 phenomenon of interest로 분류하고 어떤 light를 headlights·mirage로 제외할지다. 기준이 사후적으로 바뀌면 unexplained count도 따라 바뀐다. **관측프로토콜과 exclusion rule을 먼저 정하는 것이 legend를 measurement problem으로 바꾸는 핵심이다.**",
+          "textEn": "Field studies must define in advance which lights count as the phenomenon of interest and which are excluded as headlights or mirages. If criteria move after observation, the unexplained count moves too. Predefined protocols turn legend into a measurement problem."
+        },
+        {
+          "blockId": "history-048",
+          "type": "BACKGROUND",
+          "headingKo": "전설의 장기성 자체도 검증과 분리해야 한다",
+          "headingEn": "The Age of the Legend Is Separate From the Physics of Any One Light",
+          "textKo": "Marfa Lights 전승은 19세기말까지 거슬러 올라간다고 반복되지만, 오래된 anecdote는 modern instrument record와 동일한 증거강도를 갖지 않는다. **역사가 길다는 사실은 phenomenon identity를 보장하지 않고, 오늘 측정한 headlight false positive가 과거 모든 이야기의 원인을 자동으로 결정하지도 않는다.**",
+          "textEn": "Marfa-light stories are often traced to the late nineteenth century, but old anecdotes are not equivalent to modern instrument records. A long tradition does not guarantee one phenomenon, and today's headlight false positives do not automatically determine the cause of every older report."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Marfa 인근에서는 실제 light report와 현대 관측이 존재한다. highway headlights·refraction·mirage 같은 ordinary source가 적어도 일부 현대 sightings와 false positive를 설명한다.\n\n**확인되지 않음:** 모든 historical Marfa Lights가 하나의 단일원인으로 설명됐다고 할 수는 없다. 반대로 차량등과 구분된 독립적 미지 광원 하나가 과학적으로 확립된 것도 아니다.",
+          "textEn": "**Established:** Real light reports and modern observations exist near Marfa. Highway headlights, refraction, and mirage-like effects explain at least some modern sightings and false positives.\n\n**Not established:** No single explanation has been shown to cover every historical report, and no independent unknown light source has been scientifically established as one recurring phenomenon."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Marfa 인근에서는 실제 light report와 현대 관측이 존재한다. highway headlights·refraction·mirage 같은 ordinary source가 적어도 일부 현대 sightings와 false positive를 설명한다.\n\n**확인되지 않음:** 모든 historical Marfa Lights가 하나의 단일원인으로 설명됐다고 할 수는 없다. 반대로 차량등과 구분된 독립적 미지 광원 하나가 과학적으로 확립된 것도 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "headlights-02",
+        "notall-03",
+        "methods-04",
+        "classification-045",
+        "history-048"
+      ]
+    },
+    "en": {
+      "headline": "The Marfa Lights: What Headlights Explain—and What They Don't Prove",
+      "hook": "The Marfa debate sits between 'all mysterious' and 'all headlights.' Modern observations explain many false positives without retrospectively solving every historical report.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "텍사스 사막의 불빛은 실제로 보인다—문제는 '같은 불빛'인지다",
+          "headingEn": "Lights Really Are Seen Near Marfa—the Question Is Whether They Are All the Same Phenomenon",
+          "textKo": "Marfa, Texas 인근에서는 밤에 멀리 이동하거나 갈라지는 듯한 light report가 오랫동안 전해졌다. 현대 관측에서도 distant headlights, mirage-like refraction, atmospheric continuum source가 비슷한 인상을 만들 수 있음이 확인됐다. **'Marfa에서 이상한 빛을 봤다'는 보고와 '하나의 미지 광원이 반복된다'는 결론은 분리해야 한다.**",
+          "textEn": "Reports of distant moving or splitting lights near Marfa, Texas, have circulated for generations. Modern field observations show that distant headlights, refraction, and other atmospheric light sources can create similar appearances. 'A strange light was seen near Marfa' is different from proving one recurring unknown source."
+        },
+        {
+          "blockId": "headlights-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "현대 관측에서 차량등은 중요한 false positive로 반복된다",
+          "headingEn": "Vehicle Headlights Are a Major Modern False Positive",
+          "textKo": "APS meeting material은 Marfa region에서 highway headlights가 멀리서 unusual light처럼 보일 수 있으며 spectroscopic distance method로 일부 source를 도로교통과 대응시킬 수 있음을 보여준다. **빛이 지평선 가까이 있고 대기층을 통과할수록 실제 source 위치와 apparent motion이 직관과 달라질 수 있다.**",
+          "textEn": "APS meeting material shows that highway headlights around Marfa can appear unusual at distance, and spectroscopic distance methods can identify some sources consistent with road traffic. Near the horizon, long atmospheric paths can make apparent location and motion misleading."
+        },
+        {
+          "blockId": "notall-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "차량등이 있다고 모든 역사적 목격이 차량등으로 끝나는 것도 아니다",
+          "headingEn": "Explaining Many Modern Lights Does Not Retroactively Explain Every Historical Report",
+          "textKo": "APS 자료 자체도 headlights와 mirages가 관측현장에 존재하지만 phenomenon of interest와 구분가능하다고 다루거나, 특정 campaign에서는 'true Marfa light' 기준을 모두 충족하는 event를 포착하지 못했다고 보고한다. **따라서 현대 false positive를 확인한 것과 모든 historical report를 하나의 highway explanation으로 환원하는 것은 다르다.**",
+          "textEn": "APS material itself notes that headlights and mirages are present at the observation site and can sometimes be distinguished from the phenomenon of interest; another observing campaign reported no event satisfying all criteria for a 'true' Marfa light. Modern false positives do not automatically explain every historical report."
+        },
+        {
+          "blockId": "methods-04",
+          "type": "BACKGROUND",
+          "headingKo": "미스터리를 줄이는 방법은 색·거리·동시위치 기록이다",
+          "headingEn": "Spectra, Distance, and Simultaneous Location Data Are More Useful Than Anecdotes",
+          "textKo": "분광기·CCD·GIS distance를 함께 쓰면 light spectrum과 실제 source distance를 비교할 수 있다. 이는 '불빛이 이상했다'는 묘사를 vehicle lamp, atmospheric source, 다른 source와 객관적으로 비교하게 한다. **Marfa Lights는 folklore이지만 동시에 measurement design이 무엇을 바꾸는지 보여주는 field-science 사례다.**",
+          "textEn": "Combining spectroscopy, CCD imaging, and GIS distance information allows observers to compare a light's spectrum and actual source distance with vehicle lamps or other atmospheric sources. The case shows how measurement design can transform a folklore report into a testable field-science problem."
+        },
+        {
+          "blockId": "classification-045",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "관측자가 '진짜 Marfa Light' 기준을 먼저 정하지 않으면 분류가 흔들린다",
+          "headingEn": "Classification Depends on Defining What Counts as a 'True Marfa Light'",
+          "textKo": "field study에서 중요한 문제는 어떤 light를 phenomenon of interest로 분류하고 어떤 light를 headlights·mirage로 제외할지다. 기준이 사후적으로 바뀌면 unexplained count도 따라 바뀐다. **관측프로토콜과 exclusion rule을 먼저 정하는 것이 legend를 measurement problem으로 바꾸는 핵심이다.**",
+          "textEn": "Field studies must define in advance which lights count as the phenomenon of interest and which are excluded as headlights or mirages. If criteria move after observation, the unexplained count moves too. Predefined protocols turn legend into a measurement problem."
+        },
+        {
+          "blockId": "history-048",
+          "type": "BACKGROUND",
+          "headingKo": "전설의 장기성 자체도 검증과 분리해야 한다",
+          "headingEn": "The Age of the Legend Is Separate From the Physics of Any One Light",
+          "textKo": "Marfa Lights 전승은 19세기말까지 거슬러 올라간다고 반복되지만, 오래된 anecdote는 modern instrument record와 동일한 증거강도를 갖지 않는다. **역사가 길다는 사실은 phenomenon identity를 보장하지 않고, 오늘 측정한 headlight false positive가 과거 모든 이야기의 원인을 자동으로 결정하지도 않는다.**",
+          "textEn": "Marfa-light stories are often traced to the late nineteenth century, but old anecdotes are not equivalent to modern instrument records. A long tradition does not guarantee one phenomenon, and today's headlight false positives do not automatically determine the cause of every older report."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Marfa 인근에서는 실제 light report와 현대 관측이 존재한다. highway headlights·refraction·mirage 같은 ordinary source가 적어도 일부 현대 sightings와 false positive를 설명한다.\n\n**확인되지 않음:** 모든 historical Marfa Lights가 하나의 단일원인으로 설명됐다고 할 수는 없다. 반대로 차량등과 구분된 독립적 미지 광원 하나가 과학적으로 확립된 것도 아니다.",
+          "textEn": "**Established:** Real light reports and modern observations exist near Marfa. Highway headlights, refraction, and mirage-like effects explain at least some modern sightings and false positives.\n\n**Not established:** No single explanation has been shown to cover every historical report, and no independent unknown light source has been scientifically established as one recurring phenomenon."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Real light reports and modern observations exist near Marfa. Highway headlights, refraction, and mirage-like effects explain at least some modern sightings and false positives.\n\n**Not established:** No single explanation has been shown to cover every historical report, and no independent unknown light source has been scientifically established as one recurring phenomenon.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "headlights-02",
+        "notall-03",
+        "methods-04",
+        "classification-045",
+        "history-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MARFA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Marfa region에서 headlights·mirage 등 ordinary optical source가 실제 관측된다.",
+      "statementEn": "Headlights and mirage-like optical sources are genuinely observed in the Marfa region.",
+      "sourceRefs": [
+        "MARFA_APS2006",
+        "MARFA_APS2008"
+      ]
+    },
+    {
+      "claimId": "MARFA-C2",
+      "status": "SUPPORTED",
+      "statementKo": "spectroscopy와 GIS distance는 일부 apparent mystery lights를 vehicle source와 연결할 수 있다.",
+      "statementEn": "Spectroscopy and GIS distance methods can link some apparent mystery lights to vehicle sources.",
+      "sourceRefs": [
+        "MARFA_APS2008"
+      ]
+    },
+    {
+      "claimId": "MARFA-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 역사적 Marfa light report가 차량등 하나로 소급설명됐다는 것은 아니다.",
+      "statementEn": "Not every historical Marfa-light report has been retrospectively explained as headlights.",
+      "sourceRefs": [
+        "MARFA_APS2006",
+        "MARFA_APS2008"
+      ]
+    },
+    {
+      "claimId": "MARFA-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "하나의 독립적 unknown source가 반복된다는 것도 과학적으로 확립되지 않았다.",
+      "statementEn": "A single recurring unknown source has not been scientifically established.",
+      "sourceRefs": [
+        "MARFA_APS2006"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MARFA_APS2006",
+      "title": "What Marfa Lights Probably Aren't",
+      "publisher": "American Physical Society Texas Section",
+      "url": "https://meetings-archive.aps.org/tss/2006/aps1/1/",
+      "sourceType": "APS_CONFERENCE_RESEARCH"
+    },
+    {
+      "sourceId": "MARFA_APS2008",
+      "title": "Spectroscopic Distance Measurements of Atmospheric Continuum Light Sources",
+      "publisher": "American Physical Society",
+      "url": "https://meetings-archive.aps.org/ts4cf/2008/b1/6/",
+      "sourceType": "APS_CONFERENCE_RESEARCH"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "marfa-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "차량등·대기굴절·거리오판이 mystery light처럼 보이는 과정.",
+      "captionEn": "How headlights, atmospheric refraction, and distance error can create mystery-light appearances.",
+      "altKo": "차량등·대기굴절·거리오판이 mystery light처럼 보이는 과정.",
+      "altEn": "How headlights, atmospheric refraction, and distance error can create mystery-light appearances.",
+      "sourceRefs": [
+        "MARFA_APS2006",
+        "MARFA_APS2008"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "marfa-lights__v01__ko.png",
+          "sha256": "4f6fd688123277e12ee3b239632ba3292a25fbd1897f697452e5b4c3038389e6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "marfa-lights__v01__en.png",
+          "sha256": "2221900cb98527e732bacc1e79e68081952743c7be64d7615c788f9cc8f86597",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "marfa-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실제 sightings / ordinary false positives / universal explanation / unknown-source claim을 분리.",
+      "captionEn": "Separate genuine sightings, ordinary false positives, universal explanations, and unknown-source claims.",
+      "altKo": "실제 sightings / ordinary false positives / universal explanation / unknown-source claim을 분리.",
+      "altEn": "Separate genuine sightings, ordinary false positives, universal explanations, and unknown-source claims.",
+      "sourceRefs": [
+        "MARFA_APS2006",
+        "MARFA_APS2008"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "marfa-lights__v02__ko.png",
+          "sha256": "98fa2ecd4271ae2a125d7461d6df796e41de7e4abbef68c771afff4047f8c03f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "marfa-lights__v02__en.png",
+          "sha256": "ffebd2c541f561dfa38b34d4b829f88df5667e6320a6cff6d075396cc455c5c7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Paranormal / Haunting / Folklore",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "West Texas"
+    ],
+    "places": [
+      {
+        "name": "Marfa, Texas",
+        "role": "observation area"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "American Physical Society"
+    ],
+    "dateRange": {
+      "start": "historical reports",
+      "end": "present",
+      "precision": "folklore through modern field observations"
+    },
+    "era": "Historical folklore / modern optics",
+    "resolution": "LIGHT_REPORTS_REAL_MANY_FALSE_POSITIVES_EXPLAINED_SINGLE_UNKNOWN_SOURCE_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Marfa Lights",
+      "Marfa mystery lights"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1631,
+    "enBodyWords": 310,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

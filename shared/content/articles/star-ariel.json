@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "star-ariel",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Star Ariel 실종",
+    "canonicalTitleEn": "Star Ariel Disappearance",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "맑은 날 버뮤다를 떠난 여객기는 왜 잔해 하나 남기지 않았나",
+      "hook": "Star Ariel은 20명을 태우고 Bermuda에서 Jamaica로 향하다 사라졌다. 수색은 컸고 의회보고도 즉시 이뤄졌지만, 잔해가 없다는 사실 때문에 기술적 원인도 직접검증하지 못했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1949년 1월 17일, 버뮤다를 떠난 여객기는 정상비행처럼 시작했다",
+          "headingEn": "January 17, 1949: Star Ariel Left Bermuda on What Appeared to Be a Routine Flight",
+          "textKo": "British South American Airways의 Tudor IVB G-AGRE Star Ariel은 Bermuda에서 Kingston, Jamaica로 향하다 실종됐다. 영국 의회 Hansard에 따르면 13명의 승객과 7명의 승무원이 탑승했고, 1월 19일 정부는 생존가능성이 거의 없다고 보고했다. **사건의 핵심은 출발 직후 대형 사고징후가 공식적으로 알려진 상태가 아니었다는 점과, 이후 항공기가 흔적 없이 사라졌다는 사실의 대비**다.",
+          "textEn": "British South American Airways Tudor IVB G-AGRE Star Ariel disappeared while flying from Bermuda to Kingston, Jamaica. Hansard records 13 passengers and seven crew aboard, and by January 19 the British government stated that survival was considered highly unlikely. The puzzle lies in the contrast between an apparently routine departure and the aircraft's total disappearance."
+        },
+        {
+          "blockId": "search-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "영미 합동 air-sea rescue가 투입됐지만 확실한 잔해를 찾지 못했다",
+          "headingEn": "A Large Anglo-American Air-Sea Search Found No Confirmed Wreckage",
+          "textKo": "Hansard는 영국의 full air-sea rescue service와 미국당국의 전면협력이 수색에 투입됐다고 기록한다. 검색범위는 Bermuda–Jamaica 항로 주변 광범위한 해역을 포함했다. 그러나 aircraft, lifeboat, 확실한 wreckage가 발견되지 않았다. **잔해가 없다는 사실은 원인을 더 신비하게 만드는 동시에, 어떤 기계고장·폭발·연료·항법 가설도 직접 검증하기 어렵게 만들었다.**",
+          "textEn": "Hansard records deployment of the full British air-sea rescue service with extensive U.S. cooperation. The search covered the Bermuda–Jamaica route region, but no confirmed aircraft wreckage or lifeboat was recovered. The absence of debris both deepened the mystery and prevented direct testing of mechanical, structural, fuel, or navigation hypotheses."
+        },
+        {
+          "blockId": "fleet-03",
+          "type": "TURNING_POINT",
+          "headingKo": "사고 뒤 Tudor IV 운항 자체가 중단됐다",
+          "headingEn": "The Loss Prompted Suspension of Tudor IV Operations",
+          "textKo": "1949년 1월 19일 Lord Pakenham은 BSAA가 각 Tudor IV aircraft에 대한 special investigation을 진행하는 동안 Tudor IV를 운항중지하기로 했다고 의회에 보고했다. 이는 당국이 사건을 단순 실종통계로 넘기지 않았음을 보여준다. **하지만 fleet suspension은 원인을 알고 있었다는 뜻이 아니라, 원인을 모르는 상태에서 precaution을 취했다는 뜻**이다.",
+          "textEn": "On January 19, 1949, Lord Pakenham told Parliament that BSAA had suspended Tudor IV operations pending special investigation of each aircraft. This shows the loss was treated seriously at fleet level. But suspension was a precaution taken because the cause was unknown, not evidence that investigators already knew the technical cause."
+        },
+        {
+          "blockId": "bermuda-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "버뮤다 삼각지대 전설과 결합됐지만 전설이 사고원인을 제공하지는 않는다",
+          "headingEn": "Later Bermuda Triangle Lore Added a Label, Not a Cause",
+          "textKo": "Star Ariel은 이후 Bermuda Triangle 전설에서 반복적으로 인용됐다. 그러나 영국 정부의 동시대 기록은 air-sea rescue와 accident investigation을 다룰 뿐 초자연 원인을 제시하지 않는다. **사건이 나중에 전설적 지역범주에 포함됐다는 사실과 실제 사고메커니즘이 초자연적이었다는 주장은 별개다.**",
+          "textEn": "Star Ariel later became a recurring case in Bermuda Triangle lore. Contemporary British government records, however, concern air-sea rescue and accident investigation and do not establish a paranormal cause. Inclusion in a later legendary category is not evidence for the actual accident mechanism."
+        },
+        {
+          "blockId": "limits-045",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "잔해가 없을 때 ‘좋은 날씨’조차 원인배제 도구로는 제한적이다",
+          "headingEn": "Even 'Good Weather' Has Limited Explanatory Power Without Wreckage",
+          "textKo": "Star Ariel은 Star Tiger보다 기상조건이 양호했던 사례로 자주 비교되지만, 날씨가 좋았다는 사실만으로 구조고장·화재·연료·항법·무선 문제를 제거할 수는 없다. **잔해와 recorder가 없는 1949년 사고에서는 가능한 원인의 일부만 간접적으로 좁힐 수 있을 뿐, 직접검증 가능한 evidence chain이 크게 비어 있다.**",
+          "textEn": "Star Ariel is often contrasted with Star Tiger because weather was considered more favorable, but good weather alone cannot exclude structural failure, fire, fuel, navigation, or radio problems. Without wreckage or recorders, the evidentiary chain remained severely incomplete."
+        },
+        {
+          "blockId": "comparison-048",
+          "type": "BACKGROUND",
+          "headingKo": "Star Tiger와 같은 항공사·Tudor 계열이라는 점이 후대 전설을 더 키웠다",
+          "headingEn": "Its Link to Star Tiger Helped Create a Larger Bermuda Narrative",
+          "textKo": "Star Ariel보다 1년 전 같은 BSAA의 Star Tiger도 대서양에서 실종됐다. 두 사건이 같은 항공사·Tudor 계열·Bermuda 인근이라는 점은 후대 Bermuda Triangle 서사에 강하게 결합됐다. 그러나 **두 비행기의 기상·항로·상황이 다르기 때문에 하나의 공통 초자연원인으로 묶는 것은 공식자료가 허용하는 범위를 넘는다.**",
+          "textEn": "A year earlier, BSAA's Star Tiger had also disappeared over the Atlantic. The shared airline, Tudor family, and Bermuda context made the pair central to later Bermuda Triangle storytelling. But the flights occurred under different weather and operational circumstances, so a single paranormal cause is not established."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Star Ariel은 1949년 1월 17일 Bermuda에서 Kingston으로 향하다 20명을 태운 채 실종됐다. 영국·미국의 대규모 air-sea search가 진행됐고 Tudor IV 운항은 특별점검 동안 중단됐다.\n\n**확인되지 않음:** 사고지점·잔해·직접 기술원인은 확정되지 않았다. 후대 Bermuda Triangle 전설이 실종원인을 설명하는 증거도 아니다.",
+          "textEn": "**Established:** Star Ariel disappeared on January 17, 1949, en route from Bermuda to Kingston with 20 people aboard. A major British-American air-sea search followed, and Tudor IV operations were suspended pending special inspection.\n\n**Not established:** The crash site, wreckage, and direct technical cause remain unconfirmed. Later Bermuda Triangle lore does not establish the mechanism of disappearance."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Star Ariel은 1949년 1월 17일 Bermuda에서 Kingston으로 향하다 20명을 태운 채 실종됐다. 영국·미국의 대규모 air-sea search가 진행됐고 Tudor IV 운항은 특별점검 동안 중단됐다.\n\n**확인되지 않음:** 사고지점·잔해·직접 기술원인은 확정되지 않았다. 후대 Bermuda Triangle 전설이 실종원인을 설명하는 증거도 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "search-02",
+        "fleet-03",
+        "bermuda-04",
+        "limits-045",
+        "comparison-048"
+      ]
+    },
+    "en": {
+      "headline": "Why Did a Passenger Aircraft Vanish After Leaving Bermuda With No Confirmed Wreckage?",
+      "hook": "Star Ariel vanished with 20 people aboard between Bermuda and Jamaica. The search was large and official scrutiny immediate, but the absence of wreckage prevented investigators from directly testing the technical cause.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1949년 1월 17일, 버뮤다를 떠난 여객기는 정상비행처럼 시작했다",
+          "headingEn": "January 17, 1949: Star Ariel Left Bermuda on What Appeared to Be a Routine Flight",
+          "textKo": "British South American Airways의 Tudor IVB G-AGRE Star Ariel은 Bermuda에서 Kingston, Jamaica로 향하다 실종됐다. 영국 의회 Hansard에 따르면 13명의 승객과 7명의 승무원이 탑승했고, 1월 19일 정부는 생존가능성이 거의 없다고 보고했다. **사건의 핵심은 출발 직후 대형 사고징후가 공식적으로 알려진 상태가 아니었다는 점과, 이후 항공기가 흔적 없이 사라졌다는 사실의 대비**다.",
+          "textEn": "British South American Airways Tudor IVB G-AGRE Star Ariel disappeared while flying from Bermuda to Kingston, Jamaica. Hansard records 13 passengers and seven crew aboard, and by January 19 the British government stated that survival was considered highly unlikely. The puzzle lies in the contrast between an apparently routine departure and the aircraft's total disappearance."
+        },
+        {
+          "blockId": "search-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "영미 합동 air-sea rescue가 투입됐지만 확실한 잔해를 찾지 못했다",
+          "headingEn": "A Large Anglo-American Air-Sea Search Found No Confirmed Wreckage",
+          "textKo": "Hansard는 영국의 full air-sea rescue service와 미국당국의 전면협력이 수색에 투입됐다고 기록한다. 검색범위는 Bermuda–Jamaica 항로 주변 광범위한 해역을 포함했다. 그러나 aircraft, lifeboat, 확실한 wreckage가 발견되지 않았다. **잔해가 없다는 사실은 원인을 더 신비하게 만드는 동시에, 어떤 기계고장·폭발·연료·항법 가설도 직접 검증하기 어렵게 만들었다.**",
+          "textEn": "Hansard records deployment of the full British air-sea rescue service with extensive U.S. cooperation. The search covered the Bermuda–Jamaica route region, but no confirmed aircraft wreckage or lifeboat was recovered. The absence of debris both deepened the mystery and prevented direct testing of mechanical, structural, fuel, or navigation hypotheses."
+        },
+        {
+          "blockId": "fleet-03",
+          "type": "TURNING_POINT",
+          "headingKo": "사고 뒤 Tudor IV 운항 자체가 중단됐다",
+          "headingEn": "The Loss Prompted Suspension of Tudor IV Operations",
+          "textKo": "1949년 1월 19일 Lord Pakenham은 BSAA가 각 Tudor IV aircraft에 대한 special investigation을 진행하는 동안 Tudor IV를 운항중지하기로 했다고 의회에 보고했다. 이는 당국이 사건을 단순 실종통계로 넘기지 않았음을 보여준다. **하지만 fleet suspension은 원인을 알고 있었다는 뜻이 아니라, 원인을 모르는 상태에서 precaution을 취했다는 뜻**이다.",
+          "textEn": "On January 19, 1949, Lord Pakenham told Parliament that BSAA had suspended Tudor IV operations pending special investigation of each aircraft. This shows the loss was treated seriously at fleet level. But suspension was a precaution taken because the cause was unknown, not evidence that investigators already knew the technical cause."
+        },
+        {
+          "blockId": "bermuda-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "버뮤다 삼각지대 전설과 결합됐지만 전설이 사고원인을 제공하지는 않는다",
+          "headingEn": "Later Bermuda Triangle Lore Added a Label, Not a Cause",
+          "textKo": "Star Ariel은 이후 Bermuda Triangle 전설에서 반복적으로 인용됐다. 그러나 영국 정부의 동시대 기록은 air-sea rescue와 accident investigation을 다룰 뿐 초자연 원인을 제시하지 않는다. **사건이 나중에 전설적 지역범주에 포함됐다는 사실과 실제 사고메커니즘이 초자연적이었다는 주장은 별개다.**",
+          "textEn": "Star Ariel later became a recurring case in Bermuda Triangle lore. Contemporary British government records, however, concern air-sea rescue and accident investigation and do not establish a paranormal cause. Inclusion in a later legendary category is not evidence for the actual accident mechanism."
+        },
+        {
+          "blockId": "limits-045",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "잔해가 없을 때 ‘좋은 날씨’조차 원인배제 도구로는 제한적이다",
+          "headingEn": "Even 'Good Weather' Has Limited Explanatory Power Without Wreckage",
+          "textKo": "Star Ariel은 Star Tiger보다 기상조건이 양호했던 사례로 자주 비교되지만, 날씨가 좋았다는 사실만으로 구조고장·화재·연료·항법·무선 문제를 제거할 수는 없다. **잔해와 recorder가 없는 1949년 사고에서는 가능한 원인의 일부만 간접적으로 좁힐 수 있을 뿐, 직접검증 가능한 evidence chain이 크게 비어 있다.**",
+          "textEn": "Star Ariel is often contrasted with Star Tiger because weather was considered more favorable, but good weather alone cannot exclude structural failure, fire, fuel, navigation, or radio problems. Without wreckage or recorders, the evidentiary chain remained severely incomplete."
+        },
+        {
+          "blockId": "comparison-048",
+          "type": "BACKGROUND",
+          "headingKo": "Star Tiger와 같은 항공사·Tudor 계열이라는 점이 후대 전설을 더 키웠다",
+          "headingEn": "Its Link to Star Tiger Helped Create a Larger Bermuda Narrative",
+          "textKo": "Star Ariel보다 1년 전 같은 BSAA의 Star Tiger도 대서양에서 실종됐다. 두 사건이 같은 항공사·Tudor 계열·Bermuda 인근이라는 점은 후대 Bermuda Triangle 서사에 강하게 결합됐다. 그러나 **두 비행기의 기상·항로·상황이 다르기 때문에 하나의 공통 초자연원인으로 묶는 것은 공식자료가 허용하는 범위를 넘는다.**",
+          "textEn": "A year earlier, BSAA's Star Tiger had also disappeared over the Atlantic. The shared airline, Tudor family, and Bermuda context made the pair central to later Bermuda Triangle storytelling. But the flights occurred under different weather and operational circumstances, so a single paranormal cause is not established."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Star Ariel은 1949년 1월 17일 Bermuda에서 Kingston으로 향하다 20명을 태운 채 실종됐다. 영국·미국의 대규모 air-sea search가 진행됐고 Tudor IV 운항은 특별점검 동안 중단됐다.\n\n**확인되지 않음:** 사고지점·잔해·직접 기술원인은 확정되지 않았다. 후대 Bermuda Triangle 전설이 실종원인을 설명하는 증거도 아니다.",
+          "textEn": "**Established:** Star Ariel disappeared on January 17, 1949, en route from Bermuda to Kingston with 20 people aboard. A major British-American air-sea search followed, and Tudor IV operations were suspended pending special inspection.\n\n**Not established:** The crash site, wreckage, and direct technical cause remain unconfirmed. Later Bermuda Triangle lore does not establish the mechanism of disappearance."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Star Ariel disappeared on January 17, 1949, en route from Bermuda to Kingston with 20 people aboard. A major British-American air-sea search followed, and Tudor IV operations were suspended pending special inspection.\n\n**Not established:** The crash site, wreckage, and direct technical cause remain unconfirmed. Later Bermuda Triangle lore does not establish the mechanism of disappearance.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "search-02",
+        "fleet-03",
+        "bermuda-04",
+        "limits-045",
+        "comparison-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Star Ariel은 1949-01-17 Bermuda–Kingston 비행 중 13 passengers와 7 crew를 태운 채 실종됐다.",
+      "statementEn": "Star Ariel disappeared on January 17, 1949, flying Bermuda–Kingston with 13 passengers and seven crew.",
+      "sourceRefs": [
+        "SA_HANSARD_L",
+        "SA_HANSARD_C"
+      ]
+    },
+    {
+      "claimId": "SA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "영미 합동 full air-sea rescue가 진행됐다.",
+      "statementEn": "A full air-sea rescue operation with U.S. cooperation was undertaken.",
+      "sourceRefs": [
+        "SA_HANSARD_L",
+        "SA_HANSARD_C"
+      ]
+    },
+    {
+      "claimId": "SA-C3",
+      "status": "CONFIRMED",
+      "statementKo": "BSAA는 사건 직후 Tudor IV 운항을 special investigation 동안 중단했다.",
+      "statementEn": "BSAA suspended Tudor IV operations pending special investigation after the loss.",
+      "sourceRefs": [
+        "SA_HANSARD_L"
+      ]
+    },
+    {
+      "claimId": "SA-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 사고위치와 기술원인은 확정되지 않았다.",
+      "statementEn": "The exact accident location and technical cause remain unestablished.",
+      "sourceRefs": [
+        "SA_HANSARD_L",
+        "SA_HANSARD_C"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SA_HANSARD_L",
+      "title": "Loss Of The 'Star Ariel'",
+      "publisher": "UK Parliament Hansard, House of Lords",
+      "url": "https://hansard.parliament.uk/Lords/1949-01-19/debates/9fe20cfb-1414-4bb9-b343-d704aad50979/LossOfTheStarAriel",
+      "sourceType": "PARLIAMENTARY_PRIMARY"
+    },
+    {
+      "sourceId": "SA_HANSARD_C",
+      "title": "Missing BSAA Aircraft",
+      "publisher": "UK Parliament Hansard, House of Commons",
+      "url": "https://hansard.parliament.uk/Commons/1949-01-19/debates/fb67ce88-2200-4647-8eb2-8171e6c1e9f7/MissingBsaaAircraft",
+      "sourceType": "PARLIAMENTARY_PRIMARY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sa-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1월17일 출발·실종 → 대규모 search → 1월19일 의회보고·Tudor IV 운항중지.",
+      "captionEn": "Jan 17 departure/disappearance → major search → Jan 19 Parliament report and Tudor IV suspension.",
+      "altKo": "1월17일 출발·실종 → 대규모 search → 1월19일 의회보고·Tudor IV 운항중지.",
+      "altEn": "Jan 17 departure/disappearance → major search → Jan 19 Parliament report and Tudor IV suspension.",
+      "sourceRefs": [
+        "SA_HANSARD_L",
+        "SA_HANSARD_C"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "star-ariel__v01__ko.png",
+          "sha256": "ff76214ce483eb56a22fda866f821ac26e2bfd2e82e06494cb2c8e0e00b5e9d6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "star-ariel__v01__en.png",
+          "sha256": "a5539d0519e3f1de1a4de159786bb7623c0cb5c6a638cc7e1b16f56a359f1219",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sa-v02",
+      "role": "LOCATION_MAP",
+      "assetKind": "PROJECT_ORIGINAL_MAP",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Bermuda → Kingston 예정항로와 광범위 수색해역 개념도.",
+      "captionEn": "Original map of the planned Bermuda–Kingston route and broad search region.",
+      "altKo": "Bermuda → Kingston 예정항로와 광범위 수색해역 개념도.",
+      "altEn": "Original map of the planned Bermuda–Kingston route and broad search region.",
+      "sourceRefs": [
+        "SA_HANSARD_L",
+        "SA_HANSARD_C"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "star-ariel__v02__ko.png",
+          "sha256": "7098c79f480883db06a3d353469f523c782da3f510ef5290d2e9305865ec084f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "star-ariel__v02__en.png",
+          "sha256": "a1499399a32ddcde60d4a314f810ef2afd2118460a1344bfb95e83f57fc6209b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sa-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "공식 실종·수색기록과 Bermuda Triangle 후대전설을 분리.",
+      "captionEn": "Evidence card separating official disappearance/search records from later Bermuda Triangle lore.",
+      "altKo": "공식 실종·수색기록과 Bermuda Triangle 후대전설을 분리.",
+      "altEn": "Evidence card separating official disappearance/search records from later Bermuda Triangle lore.",
+      "sourceRefs": [
+        "SA_HANSARD_L",
+        "SA_HANSARD_C"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "star-ariel__v03__ko.png",
+          "sha256": "307835f5b2b8646ed989e698431b4da9efdb14cff51a0653e330a7633266e886",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "star-ariel__v03__en.png",
+          "sha256": "b60dbb228b72bea1b5b5fe9dedec88cd30e791d6315bf9ae1efa79790e8a024c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Crime / Disappearance"
+    ],
+    "countries": [
+      "United Kingdom",
+      "Bermuda",
+      "Jamaica"
+    ],
+    "regions": [
+      "Western Atlantic / Caribbean"
+    ],
+    "places": [
+      {
+        "name": "Bermuda",
+        "role": "departure"
+      },
+      {
+        "name": "Kingston, Jamaica",
+        "role": "destination"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "British South American Airways",
+      "UK Ministry of Civil Aviation",
+      "U.S. air-sea rescue authorities"
+    ],
+    "dateRange": {
+      "start": "1949-01-17",
+      "end": "1949-01",
+      "precision": "disappearance and immediate search"
+    },
+    "era": "Postwar civil aviation",
+    "resolution": "AIRCRAFT_AND_CREW_MISSING_CAUSE_UNRESOLVED",
+    "searchAliases": [
+      "Star Ariel",
+      "BSAA Star Ariel",
+      "G-AGRE"
+    ],
+    "relatedCases": [
+      "bermuda-triangle",
+      "star-tiger"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1529,
+    "enBodyWords": 341,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

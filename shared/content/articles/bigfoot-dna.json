@@ -1,0 +1,367 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "bigfoot-dna",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "빅풋 털 DNA 검증",
+    "canonicalTitleEn": "Bigfoot Hair DNA Tests",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "빅풋 털이라고 가져온 표본을 DNA로 돌렸더니 무엇이 나왔나",
+      "hook": "2014년 systematic survey는 ‘빅풋을 믿느냐’가 아니라 제출된 털을 검사했다. 북미 Bigfoot 표본은 미확인 영장류가 아니었다. 그렇다고 이 결과 하나가 존재부재 전체를 절대판정하는 것도 아니다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘빅풋 털’이라고 제출된 표본을 실제 DNA로 검사하면 무엇이 나올까",
+          "headingEn": "What Happens When Alleged Bigfoot Hair Is Actually DNA-Tested?",
+          "textKo": "2014년 Proceedings of the Royal Society B 연구는 Bigfoot·Yeti·Almasty 같은 anomalous primate의 털이라고 주장된 표본을 공개모집해 체계적으로 DNA 분석했다. 57개 제출물 중 선별된 37개를 유전분석 대상으로 삼았고 30개에서 mitochondrial 12S sequence를 얻었다. **이 연구의 가치는 목격담을 논쟁하는 대신 실제 제출물질을 같은 방법으로 검사했다는 데 있다.**",
+          "textEn": "A 2014 Proceedings of the Royal Society B study solicited hairs claimed to come from Bigfoot, Yeti, Almasty and other anomalous primates. Of 57 submissions, 37 were selected for genetic analysis and 30 yielded mitochondrial 12S sequences. Its strength was methodological: rather than debating eyewitness stories, it tested submitted physical material under one protocol."
+        },
+        {
+          "blockId": "result-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "북미 Bigfoot 표본에서 미확인 영장류 DNA는 나오지 않았다",
+          "headingEn": "The North American Bigfoot Samples Did Not Yield Unknown-Primate DNA",
+          "textKo": "sequence가 확보된 표본은 대부분 bear, horse, cow, raccoon, deer, canine 등 알려진 현대동물과 일치했다. 북미 Bigfoot/Sasquatch와 연결된 털에서도 인증된 unknown primate sequence는 확인되지 않았다. **‘이 털은 빅풋 것이다’라는 물증주장은 제출표본 수준에서는 지지되지 않았다.**",
+          "textEn": "The sequenced samples matched known living mammals including bears, horses, cattle, raccoons, deer and canids. Hairs associated with North American Bigfoot/Sasquatch did not produce authenticated unknown-primate sequences. At the level of the submitted physical evidence, the claim that these hairs came from Bigfoot was not supported."
+        },
+        {
+          "blockId": "limit-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "표본이 전부 알려진 동물이었다고 ‘빅풋 부재’를 논리적으로 증명한 것은 아니다",
+          "headingEn": "Known-Animal Results Do Not Logically Prove Bigfoot Cannot Exist",
+          "textKo": "연구자들은 결과가 anomalous primate의 부재를 절대증명한다고 주장하지 않았다. 검사한 것은 제출된 hair sample이고, 존재가설 전체가 아니다. **‘현재 검증한 물증이 주장을 지지하지 않았다’와 ‘존재할 수 없다’는 결론은 다른 수준**이다. 이 구분이 cryptid evidence를 다룰 때 가장 중요하다.",
+          "textEn": "The authors did not claim that the results logically prove anomalous primates cannot exist. They tested submitted hair samples, not every possible existence claim. 'The tested physical evidence did not support the claim' is a different conclusion from 'the animal cannot exist.'"
+        },
+        {
+          "blockId": "yeti-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Himalayan 두 표본의 ‘고대 북극곰’ 해석도 후속논쟁이 있었다",
+          "headingEn": "The Two Himalayan Bear Samples Also Generated a Follow-Up Dispute",
+          "textKo": "2014년 논문은 Himalayan 두 hair sample이 Pleistocene polar-bear sequence와 높은 affinity를 보인다고 보고했지만 후속 comment는 해당 짧은 sequence가 현대 polar bear와도 일치해 고대 hybrid 해석을 지지하지 않는다고 비판했다. **이 논쟁은 Bigfoot 결과와 별개이며, 짧은 mtDNA fragment에서 계통을 과도하게 세분하지 말아야 한다는 교훈**을 준다.",
+          "textEn": "The 2014 paper reported two Himalayan hairs with close affinity to a Pleistocene polar-bear sequence, but a later comment argued the short sequence also matched modern polar bear and did not support the stronger ancient-hybrid interpretation. That debate is separate from the Bigfoot result and illustrates limits of over-interpreting short mitochondrial fragments."
+        },
+        {
+          "blockId": "sampling-045",
+          "type": "BACKGROUND",
+          "headingKo": "표본선정 자체가 결과의 범위를 결정한다",
+          "headingEn": "The Sample Set Defines What the Study Can Conclude",
+          "textKo": "2014년 연구는 전 세계 cryptid 주장 전체를 무작위표본으로 조사한 것이 아니라 museum·private collection에서 제출된 hair를 선별했다. 따라서 결과는 ‘이 제출물질이 무엇이었나’에 직접 답한다. **표본이 대표성을 갖는지와 종의 존재여부는 다른 질문이며, 과학적 결론은 실제 sampling frame을 넘지 않아야 한다.**",
+          "textEn": "The 2014 study did not randomly sample every cryptid claim on Earth; it analysed submitted hairs from museum and private collections. Its strongest conclusion is therefore about what those submitted materials were. Representativeness and species existence are separate questions."
+        },
+        {
+          "blockId": "evidence-048",
+          "type": "AFTERMATH",
+          "headingKo": "그래서 좋은 cryptid evidence는 반복가능한 chain of custody가 필요하다",
+          "headingEn": "Strong Cryptid Evidence Requires Reproducible Chain of Custody",
+          "textKo": "털 하나가 흥미로운 이유는 DNA를 얻을 수 있기 때문이지만, 발견위치·채집방법·오염통제·보관이 함께 기록돼야 해석력이 올라간다. **미확인동물 연구에서 중요한 것은 ‘이상한 털’ 자체보다 independent lab이 같은 sample provenance를 검증하고 같은 sequence를 재현할 수 있는가다.**",
+          "textEn": "Hair is potentially useful because it can yield DNA, but evidentiary strength rises only when location, collection method, contamination control, storage, and chain of custody are documented. Reproducibility matters more than how unusual a sample looks."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 2014년 systematic survey에서 sequence를 얻은 30개 anomalous-primate hair sample은 알려진 포유류와 일치했고 북미 Bigfoot 관련 표본에서 unknown primate DNA는 확인되지 않았다.\n\n**확인되지 않음:** 이 표본검사만으로 Bigfoot이 존재하지 않는다고 절대증명한 것은 아니다. Himalayan 두 표본의 더 강한 고대 polar-bear 해석도 후속논쟁을 거쳤다.",
+          "textEn": "**Established:** In the 2014 systematic survey, all 30 sequenced anomalous-primate hair samples matched known mammals; North American Bigfoot-associated samples did not yield unknown-primate DNA.\n\n**Not established:** The sample test does not logically prove Bigfoot cannot exist, and the stronger ancient-polar-bear interpretation of two Himalayan hairs was challenged in follow-up work."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 2014년 systematic survey에서 sequence를 얻은 30개 anomalous-primate hair sample은 알려진 포유류와 일치했고 북미 Bigfoot 관련 표본에서 unknown primate DNA는 확인되지 않았다.\n\n**확인되지 않음:** 이 표본검사만으로 Bigfoot이 존재하지 않는다고 절대증명한 것은 아니다. Himalayan 두 표본의 더 강한 고대 polar-bear 해석도 후속논쟁을 거쳤다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "result-02",
+        "limit-03",
+        "yeti-04",
+        "sampling-045",
+        "evidence-048"
+      ]
+    },
+    "en": {
+      "headline": "What Did DNA Testing Actually Find in Alleged Bigfoot Hair?",
+      "hook": "A 2014 systematic survey tested submitted hairs rather than beliefs. North American Bigfoot samples were not unknown primates—but that result is not an absolute proof about existence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "‘빅풋 털’이라고 제출된 표본을 실제 DNA로 검사하면 무엇이 나올까",
+          "headingEn": "What Happens When Alleged Bigfoot Hair Is Actually DNA-Tested?",
+          "textKo": "2014년 Proceedings of the Royal Society B 연구는 Bigfoot·Yeti·Almasty 같은 anomalous primate의 털이라고 주장된 표본을 공개모집해 체계적으로 DNA 분석했다. 57개 제출물 중 선별된 37개를 유전분석 대상으로 삼았고 30개에서 mitochondrial 12S sequence를 얻었다. **이 연구의 가치는 목격담을 논쟁하는 대신 실제 제출물질을 같은 방법으로 검사했다는 데 있다.**",
+          "textEn": "A 2014 Proceedings of the Royal Society B study solicited hairs claimed to come from Bigfoot, Yeti, Almasty and other anomalous primates. Of 57 submissions, 37 were selected for genetic analysis and 30 yielded mitochondrial 12S sequences. Its strength was methodological: rather than debating eyewitness stories, it tested submitted physical material under one protocol."
+        },
+        {
+          "blockId": "result-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "북미 Bigfoot 표본에서 미확인 영장류 DNA는 나오지 않았다",
+          "headingEn": "The North American Bigfoot Samples Did Not Yield Unknown-Primate DNA",
+          "textKo": "sequence가 확보된 표본은 대부분 bear, horse, cow, raccoon, deer, canine 등 알려진 현대동물과 일치했다. 북미 Bigfoot/Sasquatch와 연결된 털에서도 인증된 unknown primate sequence는 확인되지 않았다. **‘이 털은 빅풋 것이다’라는 물증주장은 제출표본 수준에서는 지지되지 않았다.**",
+          "textEn": "The sequenced samples matched known living mammals including bears, horses, cattle, raccoons, deer and canids. Hairs associated with North American Bigfoot/Sasquatch did not produce authenticated unknown-primate sequences. At the level of the submitted physical evidence, the claim that these hairs came from Bigfoot was not supported."
+        },
+        {
+          "blockId": "limit-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "표본이 전부 알려진 동물이었다고 ‘빅풋 부재’를 논리적으로 증명한 것은 아니다",
+          "headingEn": "Known-Animal Results Do Not Logically Prove Bigfoot Cannot Exist",
+          "textKo": "연구자들은 결과가 anomalous primate의 부재를 절대증명한다고 주장하지 않았다. 검사한 것은 제출된 hair sample이고, 존재가설 전체가 아니다. **‘현재 검증한 물증이 주장을 지지하지 않았다’와 ‘존재할 수 없다’는 결론은 다른 수준**이다. 이 구분이 cryptid evidence를 다룰 때 가장 중요하다.",
+          "textEn": "The authors did not claim that the results logically prove anomalous primates cannot exist. They tested submitted hair samples, not every possible existence claim. 'The tested physical evidence did not support the claim' is a different conclusion from 'the animal cannot exist.'"
+        },
+        {
+          "blockId": "yeti-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Himalayan 두 표본의 ‘고대 북극곰’ 해석도 후속논쟁이 있었다",
+          "headingEn": "The Two Himalayan Bear Samples Also Generated a Follow-Up Dispute",
+          "textKo": "2014년 논문은 Himalayan 두 hair sample이 Pleistocene polar-bear sequence와 높은 affinity를 보인다고 보고했지만 후속 comment는 해당 짧은 sequence가 현대 polar bear와도 일치해 고대 hybrid 해석을 지지하지 않는다고 비판했다. **이 논쟁은 Bigfoot 결과와 별개이며, 짧은 mtDNA fragment에서 계통을 과도하게 세분하지 말아야 한다는 교훈**을 준다.",
+          "textEn": "The 2014 paper reported two Himalayan hairs with close affinity to a Pleistocene polar-bear sequence, but a later comment argued the short sequence also matched modern polar bear and did not support the stronger ancient-hybrid interpretation. That debate is separate from the Bigfoot result and illustrates limits of over-interpreting short mitochondrial fragments."
+        },
+        {
+          "blockId": "sampling-045",
+          "type": "BACKGROUND",
+          "headingKo": "표본선정 자체가 결과의 범위를 결정한다",
+          "headingEn": "The Sample Set Defines What the Study Can Conclude",
+          "textKo": "2014년 연구는 전 세계 cryptid 주장 전체를 무작위표본으로 조사한 것이 아니라 museum·private collection에서 제출된 hair를 선별했다. 따라서 결과는 ‘이 제출물질이 무엇이었나’에 직접 답한다. **표본이 대표성을 갖는지와 종의 존재여부는 다른 질문이며, 과학적 결론은 실제 sampling frame을 넘지 않아야 한다.**",
+          "textEn": "The 2014 study did not randomly sample every cryptid claim on Earth; it analysed submitted hairs from museum and private collections. Its strongest conclusion is therefore about what those submitted materials were. Representativeness and species existence are separate questions."
+        },
+        {
+          "blockId": "evidence-048",
+          "type": "AFTERMATH",
+          "headingKo": "그래서 좋은 cryptid evidence는 반복가능한 chain of custody가 필요하다",
+          "headingEn": "Strong Cryptid Evidence Requires Reproducible Chain of Custody",
+          "textKo": "털 하나가 흥미로운 이유는 DNA를 얻을 수 있기 때문이지만, 발견위치·채집방법·오염통제·보관이 함께 기록돼야 해석력이 올라간다. **미확인동물 연구에서 중요한 것은 ‘이상한 털’ 자체보다 independent lab이 같은 sample provenance를 검증하고 같은 sequence를 재현할 수 있는가다.**",
+          "textEn": "Hair is potentially useful because it can yield DNA, but evidentiary strength rises only when location, collection method, contamination control, storage, and chain of custody are documented. Reproducibility matters more than how unusual a sample looks."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 2014년 systematic survey에서 sequence를 얻은 30개 anomalous-primate hair sample은 알려진 포유류와 일치했고 북미 Bigfoot 관련 표본에서 unknown primate DNA는 확인되지 않았다.\n\n**확인되지 않음:** 이 표본검사만으로 Bigfoot이 존재하지 않는다고 절대증명한 것은 아니다. Himalayan 두 표본의 더 강한 고대 polar-bear 해석도 후속논쟁을 거쳤다.",
+          "textEn": "**Established:** In the 2014 systematic survey, all 30 sequenced anomalous-primate hair samples matched known mammals; North American Bigfoot-associated samples did not yield unknown-primate DNA.\n\n**Not established:** The sample test does not logically prove Bigfoot cannot exist, and the stronger ancient-polar-bear interpretation of two Himalayan hairs was challenged in follow-up work."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** In the 2014 systematic survey, all 30 sequenced anomalous-primate hair samples matched known mammals; North American Bigfoot-associated samples did not yield unknown-primate DNA.\n\n**Not established:** The sample test does not logically prove Bigfoot cannot exist, and the stronger ancient-polar-bear interpretation of two Himalayan hairs was challenged in follow-up work.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "result-02",
+        "limit-03",
+        "yeti-04",
+        "sampling-045",
+        "evidence-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BF-C1",
+      "status": "CONFIRMED",
+      "statementKo": "30개 hair sample에서 mtDNA sequence가 확보됐고 모두 알려진 포유류와 일치했다.",
+      "statementEn": "Thirty hair samples yielded mtDNA sequences and all matched known mammals.",
+      "sourceRefs": [
+        "BF_SYKES"
+      ]
+    },
+    {
+      "claimId": "BF-C2",
+      "status": "CONFIRMED",
+      "statementKo": "북미 Bigfoot 관련 표본에서 authenticated unknown-primate DNA는 확인되지 않았다.",
+      "statementEn": "No authenticated unknown-primate DNA was found in the North American Bigfoot-associated samples.",
+      "sourceRefs": [
+        "BF_SYKES"
+      ]
+    },
+    {
+      "claimId": "BF-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "이 결과가 Bigfoot 부재를 절대증명하지는 않는다.",
+      "statementEn": "These results do not logically prove Bigfoot does not exist.",
+      "sourceRefs": [
+        "BF_SYKES"
+      ]
+    },
+    {
+      "claimId": "BF-C4",
+      "status": "DISPUTED",
+      "statementKo": "Himalayan 두 표본을 고대 polar-bear 계통으로 강하게 해석한 부분은 후속논쟁이 있었다.",
+      "statementEn": "The stronger ancient-polar-bear interpretation of two Himalayan samples was disputed in follow-up work.",
+      "sourceRefs": [
+        "BF_SYKES",
+        "BF_COMMENT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BF_SYKES",
+      "title": "Genetic analysis of hair samples attributed to yeti, bigfoot and other anomalous primates",
+      "publisher": "Proceedings of the Royal Society B / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4100498/",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    },
+    {
+      "sourceId": "BF_COMMENT",
+      "title": "Himalayan 'yeti' DNA: polar bear or DNA degradation?",
+      "publisher": "Proceedings of the Royal Society B / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4298200/",
+      "sourceType": "PEER_REVIEWED_COMMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bf-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "57 submissions → 37 selected → 30 sequences → known mammals로 이어지는 분석흐름.",
+      "captionEn": "57 submissions → 37 selected → 30 sequences → known mammals.",
+      "altKo": "57 submissions → 37 selected → 30 sequences → known mammals로 이어지는 분석흐름.",
+      "altEn": "57 submissions → 37 selected → 30 sequences → known mammals.",
+      "sourceRefs": [
+        "BF_SYKES",
+        "BF_COMMENT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bigfoot-dna__v01__ko.png",
+          "sha256": "bac6f73ea61be68c4f4839ab3c02edd617dce8c5ed773ce8650a8758f12258ac",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bigfoot-dna__v01__en.png",
+          "sha256": "fc271a4ef386c1fb8a9d558a82a938bc3fd80f13e3ab6c3b8fb4d58d85488c81",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bf-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘제출 털 미지영장류 아님’과 ‘Bigfoot 부재 절대증명’ 사이의 경계.",
+      "captionEn": "Evidence boundary between failed hair claims and absolute nonexistence claims.",
+      "altKo": "‘제출 털 미지영장류 아님’과 ‘Bigfoot 부재 절대증명’ 사이의 경계.",
+      "altEn": "Evidence boundary between failed hair claims and absolute nonexistence claims.",
+      "sourceRefs": [
+        "BF_SYKES",
+        "BF_COMMENT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bigfoot-dna__v02__ko.png",
+          "sha256": "aa86429bef6ee6d3fd4a98d91c52ae537994ce264cd1b4523acba49a141b8a9f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bigfoot-dna__v02__en.png",
+          "sha256": "8a6eaad6b671af25d95d399306894265a1cb9f4daa84441ded75d15f4904b715",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [
+      "United States",
+      "Canada"
+    ],
+    "regions": [
+      "North America"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Bryan Sykes",
+        "role": "2014 study lead"
+      }
+    ],
+    "organizations": [
+      "University of Oxford",
+      "Royal Society"
+    ],
+    "dateRange": {
+      "start": "2012",
+      "end": "2015",
+      "precision": "sample collection and follow-up debate"
+    },
+    "era": "Modern genetics",
+    "resolution": "TESTED_HAIR_EVIDENCE_KNOWN_MAMMALS_EXISTENCE_CLAIM_NOT_ABSOLUTELY_DISPROVED",
+    "searchAliases": [
+      "Bigfoot DNA",
+      "Sasquatch hair DNA"
+    ],
+    "relatedCases": [
+      "yeti-dna"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1512,
+    "enBodyWords": 320,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH14",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH14_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "copper-scroll",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "구리 두루마리",
+    "canonicalTitleEn": "Copper Scroll",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "60곳 넘는 보물 위치를 적어놨는데 왜 보물은 아직 증거가 되지 못했나",
+      "hook": "구리 두루마리와 treasure-list 형식은 실제다. 남은 문제는 고대 지명을 현실지형으로 바꾸고, 목록이 실제 valuables를 가리켰는지 그리고 이미 사라졌는지를 검증하는 것이다.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "Dead Sea Scrolls 가운데 종이가 아니라 구리에 보물목록이 새겨져 있다",
+          "headingEn": "A Dead Sea Scroll Engraved on Copper Reads Like a Treasure Inventory",
+          "textKo": "Copper Scroll은 Qumran Cave 3에서 발견된 독특한 Dead Sea Scroll이다. Israel Museum은 다른 scrolls와 달리 metal sheet에 새겨졌고 60곳이 넘는 treasure location과 금·은·귀중품 저장처처럼 읽히는 목록을 담고 있다고 설명한다. artifact와 discovery context, inventory-like text는 실제지만 treasure survival은 별도 주장이다.",
+          "textEn": "The Copper Scroll is an unusual Dead Sea Scroll from Qumran Cave 3, engraved on metal and listing more than sixty locations associated with valuables. The artifact and list are real; surviving treasure is a separate claim."
+        },
+        {
+          "blockId": "metal",
+          "type": "BACKGROUND",
+          "headingKo": "구리라는 medium 때문에 보존·개봉·판독 자체가 별도 archaeology problem이었다",
+          "headingEn": "The Copper Medium Made Preservation and Reading an Archaeological Problem",
+          "textKo": "부식된 metal scroll은 parchment처럼 펼칠 수 없어 conservation과 sectioning이 필요했다. 물리적 artifact를 손상하지 않고 text를 읽는 작업 자체가 interpretation의 전제조건이었다.",
+          "textEn": "The corroded metal scroll could not simply be unrolled like parchment; conservation and sectioning were needed before the text could be read."
+        },
+        {
+          "blockId": "inventory",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "문장은 symbolic text보다 location·quantity inventory처럼 보인다",
+          "headingEn": "The Text Reads Like Locations and Quantities",
+          "textKo": "Israel Museum summary는 60곳 이상을 열거하며 treasure location과 amount를 반복한다고 설명한다. 이 형식은 real inventory hypothesis를 강하게 만들지만 “목록처럼 보인다”와 “각 지명이 오늘 지도에서 식별된다”는 다른 claim이다.",
+          "textEn": "The text repeatedly lists locations and quantities, strongly motivating an inventory interpretation. But reading like an inventory is not the same as mapping every place name to modern geography."
+        },
+        {
+          "blockId": "treasure",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "보물을 못 찾았다고 목록이 허구였다고도, 목록이 있으니 남아 있다고도 할 수 없다",
+          "headingEn": "Failure to Find Treasure Proves Neither Fiction Nor Survival",
+          "textKo": "ancient place names, measurements, landscape change 때문에 위치가 ambiguous하고, valuables가 실제였다 해도 오래전에 회수·이동됐을 수 있다. 반대로 symbolic or literary function도 완전히 배제되지 않는다. artifact authenticity와 treasure survival은 다른 문제다.",
+          "textEn": "Ancient place names and landscape change make locations ambiguous, and real valuables could have been removed long ago. Artifact authenticity and treasure survival are separate questions."
+        },
+        {
+          "blockId": "owner",
+          "type": "HYPOTHESIS",
+          "headingKo": "Temple treasury인지 community property인지도 text만으로 닫히지 않는다",
+          "headingEn": "Temple Treasury or Community Property Remains Unresolved",
+          "textKo": "huge quantities 때문에 Jerusalem Temple treasury, Qumran community valuables, wartime emergency cache 같은 hypotheses가 제시됐다. 누가 목록을 만들었고 언제 숨겼는지에 대한 independent provenance가 부족해 owner narrative는 확정되지 않는다.",
+          "textEn": "Large quantities inspired Temple-treasury, community-property and emergency-cache hypotheses, but ownership remains unresolved without independent provenance."
+        },
+        {
+          "blockId": "mapping-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "고대 위치표현은 현대 지도좌표처럼 하나씩 찍히지 않는다",
+          "headingEn": "Ancient Location Descriptions Do Not Map Like Modern Coordinates",
+          "textKo": "Copper Scroll의 장소표현은 거리·방향·지형지물·건축구조를 당대인이 알아볼 수 있다는 전제에서 쓰였을 가능성이 있다. 그러나 2천 년 가까운 시간 동안 지명은 사라지고 도로와 수로·건축물·토지이용도 바뀌었다. 번역이 맞더라도 오늘날 동일한 landmark를 찾는 단계에서 ambiguity가 생긴다. 그래서 “문장을 읽었다”와 “현장에서 한 점을 찾았다” 사이에는 별도의 archaeological reconstruction이 필요하다.",
+          "textEn": "Ancient place descriptions likely assumed local knowledge of landmarks, distances, directions, and structures. After nearly two millennia, names and landscapes changed, so even a good translation does not automatically yield a unique modern coordinate."
+        },
+        {
+          "blockId": "provenance-058",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "목록의 진짜 목적을 정하려면 작성자·시대 맥락도 더 필요하다",
+          "headingEn": "Determining the List’s Purpose Requires More Provenance",
+          "textKo": "구리판에 새긴 비용과 effort는 text를 오래 보존하려는 의도를 시사할 수 있지만, 그것만으로 실제 회수용 treasure ledger라고 확정할 수는 없다. 작성자와 institutional context를 독립적으로 특정할 자료가 부족하기 때문에 기능 해석에는 여전히 여지가 남는다.",
+          "textEn": "The effort of engraving copper may suggest an intention to preserve the text, but that alone does not prove it was a practical treasure-recovery ledger. Missing authorial and institutional provenance leaves room in functional interpretation."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Copper Scroll은 Qumran Cave 3에서 발견된 실제 metal inscription이며 60곳 넘는 treasure/valuable locations를 열거하는 형식이다.\n\n**확인되지 않음:** 보물이 실제 존재했는지, locations가 현실지형 어디인지, valuables가 이미 회수됐는지, 정확한 owner가 누구인지는 확정되지 않았다.",
+          "textEn": "**Established:** The Copper Scroll is a genuine metal inscription from Qumran Cave 3 listing more than sixty treasure/valuable locations.\n\n**Not established:** Whether the treasure existed, where locations map today, whether valuables were already removed, and who owned them remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Copper Scroll은 Qumran Cave 3에서 발견된 실제 metal inscription이며 60곳 넘는 treasure/valuable locations를 열거하는 형식이다.\n\n**확인되지 않음:** 보물이 실제 존재했는지, locations가 현실지형 어디인지, valuables가 이미 회수됐는지, 정확한 owner가 누구인지는 확정되지 않았다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "metal",
+        "inventory",
+        "treasure",
+        "owner",
+        "mapping-055",
+        "provenance-058"
+      ]
+    },
+    "en": {
+      "headline": "A Scroll Lists More Than 60 Treasure Locations—Why Does That Not Prove the Treasure Is Still There?",
+      "hook": "The Copper Scroll and its treasure-list format are real. The unresolved step is mapping ancient descriptions to geography and establishing whether valuables existed—and survived.",
+      "blocks": [
+        {
+          "blockId": "scene",
+          "type": "SCENE",
+          "headingKo": "Dead Sea Scrolls 가운데 종이가 아니라 구리에 보물목록이 새겨져 있다",
+          "headingEn": "A Dead Sea Scroll Engraved on Copper Reads Like a Treasure Inventory",
+          "textKo": "Copper Scroll은 Qumran Cave 3에서 발견된 독특한 Dead Sea Scroll이다. Israel Museum은 다른 scrolls와 달리 metal sheet에 새겨졌고 60곳이 넘는 treasure location과 금·은·귀중품 저장처처럼 읽히는 목록을 담고 있다고 설명한다. artifact와 discovery context, inventory-like text는 실제지만 treasure survival은 별도 주장이다.",
+          "textEn": "The Copper Scroll is an unusual Dead Sea Scroll from Qumran Cave 3, engraved on metal and listing more than sixty locations associated with valuables. The artifact and list are real; surviving treasure is a separate claim."
+        },
+        {
+          "blockId": "metal",
+          "type": "BACKGROUND",
+          "headingKo": "구리라는 medium 때문에 보존·개봉·판독 자체가 별도 archaeology problem이었다",
+          "headingEn": "The Copper Medium Made Preservation and Reading an Archaeological Problem",
+          "textKo": "부식된 metal scroll은 parchment처럼 펼칠 수 없어 conservation과 sectioning이 필요했다. 물리적 artifact를 손상하지 않고 text를 읽는 작업 자체가 interpretation의 전제조건이었다.",
+          "textEn": "The corroded metal scroll could not simply be unrolled like parchment; conservation and sectioning were needed before the text could be read."
+        },
+        {
+          "blockId": "inventory",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "문장은 symbolic text보다 location·quantity inventory처럼 보인다",
+          "headingEn": "The Text Reads Like Locations and Quantities",
+          "textKo": "Israel Museum summary는 60곳 이상을 열거하며 treasure location과 amount를 반복한다고 설명한다. 이 형식은 real inventory hypothesis를 강하게 만들지만 “목록처럼 보인다”와 “각 지명이 오늘 지도에서 식별된다”는 다른 claim이다.",
+          "textEn": "The text repeatedly lists locations and quantities, strongly motivating an inventory interpretation. But reading like an inventory is not the same as mapping every place name to modern geography."
+        },
+        {
+          "blockId": "treasure",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "보물을 못 찾았다고 목록이 허구였다고도, 목록이 있으니 남아 있다고도 할 수 없다",
+          "headingEn": "Failure to Find Treasure Proves Neither Fiction Nor Survival",
+          "textKo": "ancient place names, measurements, landscape change 때문에 위치가 ambiguous하고, valuables가 실제였다 해도 오래전에 회수·이동됐을 수 있다. 반대로 symbolic or literary function도 완전히 배제되지 않는다. artifact authenticity와 treasure survival은 다른 문제다.",
+          "textEn": "Ancient place names and landscape change make locations ambiguous, and real valuables could have been removed long ago. Artifact authenticity and treasure survival are separate questions."
+        },
+        {
+          "blockId": "owner",
+          "type": "HYPOTHESIS",
+          "headingKo": "Temple treasury인지 community property인지도 text만으로 닫히지 않는다",
+          "headingEn": "Temple Treasury or Community Property Remains Unresolved",
+          "textKo": "huge quantities 때문에 Jerusalem Temple treasury, Qumran community valuables, wartime emergency cache 같은 hypotheses가 제시됐다. 누가 목록을 만들었고 언제 숨겼는지에 대한 independent provenance가 부족해 owner narrative는 확정되지 않는다.",
+          "textEn": "Large quantities inspired Temple-treasury, community-property and emergency-cache hypotheses, but ownership remains unresolved without independent provenance."
+        },
+        {
+          "blockId": "mapping-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "고대 위치표현은 현대 지도좌표처럼 하나씩 찍히지 않는다",
+          "headingEn": "Ancient Location Descriptions Do Not Map Like Modern Coordinates",
+          "textKo": "Copper Scroll의 장소표현은 거리·방향·지형지물·건축구조를 당대인이 알아볼 수 있다는 전제에서 쓰였을 가능성이 있다. 그러나 2천 년 가까운 시간 동안 지명은 사라지고 도로와 수로·건축물·토지이용도 바뀌었다. 번역이 맞더라도 오늘날 동일한 landmark를 찾는 단계에서 ambiguity가 생긴다. 그래서 “문장을 읽었다”와 “현장에서 한 점을 찾았다” 사이에는 별도의 archaeological reconstruction이 필요하다.",
+          "textEn": "Ancient place descriptions likely assumed local knowledge of landmarks, distances, directions, and structures. After nearly two millennia, names and landscapes changed, so even a good translation does not automatically yield a unique modern coordinate."
+        },
+        {
+          "blockId": "provenance-058",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "목록의 진짜 목적을 정하려면 작성자·시대 맥락도 더 필요하다",
+          "headingEn": "Determining the List’s Purpose Requires More Provenance",
+          "textKo": "구리판에 새긴 비용과 effort는 text를 오래 보존하려는 의도를 시사할 수 있지만, 그것만으로 실제 회수용 treasure ledger라고 확정할 수는 없다. 작성자와 institutional context를 독립적으로 특정할 자료가 부족하기 때문에 기능 해석에는 여전히 여지가 남는다.",
+          "textEn": "The effort of engraving copper may suggest an intention to preserve the text, but that alone does not prove it was a practical treasure-recovery ledger. Missing authorial and institutional provenance leaves room in functional interpretation."
+        },
+        {
+          "blockId": "boundary",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Copper Scroll은 Qumran Cave 3에서 발견된 실제 metal inscription이며 60곳 넘는 treasure/valuable locations를 열거하는 형식이다.\n\n**확인되지 않음:** 보물이 실제 존재했는지, locations가 현실지형 어디인지, valuables가 이미 회수됐는지, 정확한 owner가 누구인지는 확정되지 않았다.",
+          "textEn": "**Established:** The Copper Scroll is a genuine metal inscription from Qumran Cave 3 listing more than sixty treasure/valuable locations.\n\n**Not established:** Whether the treasure existed, where locations map today, whether valuables were already removed, and who owned them remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The Copper Scroll is a genuine metal inscription from Qumran Cave 3 listing more than sixty treasure/valuable locations.\n\n**Not established:** Whether the treasure existed, where locations map today, whether valuables were already removed, and who owned them remain unresolved.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene",
+        "metal",
+        "inventory",
+        "treasure",
+        "owner",
+        "mapping-055",
+        "provenance-058"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "COP-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Copper Scroll은 Qumran Cave 3 발견 metal inscription이다.",
+      "statementEn": "The Copper Scroll is a metal inscription discovered in Qumran Cave 3.",
+      "sourceRefs": [
+        "COP_IMJ",
+        "COP_IAA"
+      ]
+    },
+    {
+      "claimId": "COP-C2",
+      "status": "CONFIRMED",
+      "statementKo": "text는 60곳이 넘는 valuable locations를 열거한다.",
+      "statementEn": "The text lists more than sixty locations associated with valuables.",
+      "sourceRefs": [
+        "COP_IMJ"
+      ]
+    },
+    {
+      "claimId": "COP-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "실제 treasure의 생존과 exact location은 확정되지 않았다.",
+      "statementEn": "The survival and exact locations of any real treasure are not established.",
+      "sourceRefs": [
+        "COP_IMJ",
+        "COP_IAA"
+      ]
+    },
+    {
+      "claimId": "COP-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Temple treasury 등 ownership hypotheses는 확정되지 않았다.",
+      "statementEn": "Ownership hypotheses such as Temple treasury origin remain unconfirmed.",
+      "sourceRefs": [
+        "COP_IMJ"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "COP_IMJ",
+      "title": "Secrets — Copper Scroll",
+      "publisher": "Israel Museum",
+      "url": "https://www.imj.org.il/en/exhibitions/secrets",
+      "sourceType": "NATIONAL_MUSEUM"
+    },
+    {
+      "sourceId": "COP_IAA",
+      "title": "Dead Sea Scrolls Discovery Sites",
+      "publisher": "Israel Antiquities Authority",
+      "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-sites?locale=he_IL",
+      "sourceType": "ANTIQUITIES_AUTHORITY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cop-v01",
+      "role": "PROVENANCE_CHAIN",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory.",
+      "captionEn": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory.",
+      "altKo": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory.",
+      "altEn": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory.",
+      "sourceRefs": [
+        "COP_IMJ",
+        "COP_IAA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "copper-scroll__v01__ko.png",
+          "sha256": "3581816ad72442dfd36a83163d0ec808b4e5dfc5b369627ff4e0d9171cfff601",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "copper-scroll__v01__en.png",
+          "sha256": "112fafe8b509ef6bf68448b7174dcf89223e0fc1d2bf30c86bb4e313fab4dce0",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cop-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "artifact/list 확정과 treasure survival/location/ownership 미확정을 분리.",
+      "captionEn": "Separate confirmed artifact/list from unresolved treasure survival, location and ownership.",
+      "altKo": "artifact/list 확정과 treasure survival/location/ownership 미확정을 분리.",
+      "altEn": "Separate confirmed artifact/list from unresolved treasure survival, location and ownership.",
+      "sourceRefs": [
+        "COP_IMJ",
+        "COP_IAA"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "copper-scroll__v02__ko.png",
+          "sha256": "492b3d63fde3581e48563ee04936700b7d5c189a3c955717f1f819615c4adf77",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "copper-scroll__v02__en.png",
+          "sha256": "8af6fa9a04e19e4d6a1e1fb87901bc477bacc7772c9f0cef8e795c6f0a0649b7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Ancient History / Archaeology",
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "Ancient Judea context"
+    ],
+    "regions": [
+      "Qumran"
+    ],
+    "places": [
+      {
+        "name": "Qumran Cave 3",
+        "role": "discovery site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Israel Museum",
+      "Israel Antiquities Authority"
+    ],
+    "dateRange": {
+      "start": "Second Temple period context",
+      "end": "modern research",
+      "precision": "ancient inscription / modern archaeology"
+    },
+    "era": "Dead Sea Scrolls",
+    "resolution": "ARTIFACT_LIST_CONFIRMED_TREASURE_UNRESOLVED",
+    "searchAliases": [
+      "Copper Scroll",
+      "3Q15"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1581,
+    "enBodyWords": 239,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH19",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

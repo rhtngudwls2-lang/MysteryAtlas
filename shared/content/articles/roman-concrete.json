@@ -1,0 +1,390 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "roman-concrete",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로마 콘크리트의 내구성",
+    "canonicalTitleEn": "Roman Concrete Durability",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "2천 년 버틴 콘크리트의 흰 덩어리는 왜 ‘결함’이 아니었나",
+      "hook": "lime clast는 오랫동안 불완전혼합의 흔적으로 보였다. 2023년 연구는 quicklime hot mixing으로 생긴 이 조각이 균열 속에서 calcium을 풀어 self-healing에 기여할 수 있음을 보여줬다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2천 년 버틴 콘크리트의 흰 덩어리는 결함이 아니라 기능일 수 있었다",
+          "headingEn": "White Lumps Once Dismissed as Flaws May Have Helped Roman Concrete Heal Itself",
+          "textKo": "고대 Roman concrete에는 lime clast라 불리는 흰 조각이 흔히 보인다. 오랫동안 불완전혼합이나 낮은 품질의 흔적으로 해석되기도 했지만 2023년 MIT·Harvard·유럽 연구팀은 이 조각이 quicklime을 이용한 hot mixing 과정에서 생겼고, 이후 crack-healing의 reactive calcium reservoir가 될 수 있다고 제시했다. **‘결함’처럼 보이던 미세구조가 내구성 메커니즘 일부였을 가능성이 강해진 것**이다.",
+          "textEn": "Ancient Roman concrete commonly contains white lime clasts. These were often interpreted as signs of poor mixing, but a 2023 MIT-led study argued that they formed through hot mixing with quicklime and could later act as reactive calcium reservoirs for crack filling. A feature once viewed as a flaw may have been part of the durability mechanism."
+        },
+        {
+          "blockId": "hotmix-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "quicklime을 쓰는 hot mixing은 재료 내부에 반응성 calcium을 남긴다",
+          "headingEn": "Hot Mixing With Quicklime Retains Highly Reactive Calcium Sources",
+          "textKo": "Science Advances 연구는 Privernum 고대 콘크리트의 multiscale chemical mapping에서 lime clast의 고온형성 흔적을 분석했다. quicklime을 다른 건조성분과 먼저 섞고 물을 넣으면 높은 온도가 발생하고, 빠른 반응과정에서 독특한 brittle nanoparticulate lime clast가 남는다. **이 과정은 단순히 ‘화산재를 썼다’는 설명보다 제조순서와 열반응 자체가 내구성에 중요했음을 보여준다.**",
+          "textEn": "The Science Advances study used multiscale chemical mapping of ancient concrete from Privernum to identify signatures consistent with high-temperature formation of lime clasts. Mixing quicklime with dry ingredients before adding water produces heat and leaves brittle, nanoparticulate calcium-rich clasts. Durability therefore depends not only on volcanic ash, but also on manufacturing sequence and reaction conditions."
+        },
+        {
+          "blockId": "healing-03",
+          "type": "TURNING_POINT",
+          "headingKo": "균열이 lime clast를 만나면 calcium-rich solution이 나와 틈을 메운다",
+          "headingEn": "Cracks Can Activate the Lime Clasts and Refill Themselves",
+          "textKo": "연구진은 작은 균열이 high-surface-area lime clast를 지나갈 때 물과 반응해 calcium-rich solution을 만들고, 이후 calcium carbonate가 재결정돼 crack을 빠르게 채울 수 있다고 제안했다. 현대 복제혼합물 실험에서도 lime clast-containing samples의 crack sealing potential을 확인했다. **즉 ‘self-healing’은 마법이 아니라 균열·물·반응성 calcium의 순차반응으로 설명된다.**",
+          "textEn": "The researchers proposed that cracks preferentially travel through high-surface-area lime clasts. With water present, the clasts create a calcium-rich solution that can recrystallize as calcium carbonate and fill the crack. Modern replica mixtures containing lime clasts also demonstrated crack-sealing potential. The proposed self-healing mechanism is a material reaction sequence, not a mysterious property."
+        },
+        {
+          "blockId": "limits-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모든 Roman concrete가 같은 비법 하나로 2천 년 버틴 것은 아니다",
+          "headingEn": "There Is No Single Universal Roman Concrete Recipe",
+          "textKo": "Roman concrete는 건축물·지역·시대에 따라 volcanic ash, aggregate, lime source와 제조법이 달랐다. MIT 연구는 hot mixing/lime clast mechanism이 중요한 하나의 내구성경로임을 강하게 지지하지만, **Pantheon·harbor concrete·aqueduct mortar 등 모든 Roman construction을 동일한 recipe 하나로 설명한다고 주장하지 않는다.** 해수반응과 pozzolanic mineral growth 같은 다른 메커니즘도 맥락에 따라 중요하다.",
+          "textEn": "Roman concrete varied by structure, place, era, volcanic ash, aggregate, lime source, and manufacturing method. The MIT work strongly supports hot mixing and lime-clast self-healing as one important durability pathway, but it does not reduce every Roman structure—from the Pantheon to seawalls and aqueducts—to one identical recipe. Other pozzolanic and marine reactions matter in other contexts."
+        },
+        {
+          "blockId": "context-045",
+          "type": "BACKGROUND",
+          "headingKo": "‘현대 콘크리트보다 무조건 우수했다’고 단순화해도 안 된다",
+          "headingEn": "Roman Concrete Was Not Simply Better Than All Modern Concrete",
+          "textKo": "Roman concrete의 장수는 설계하중·보강철근 부재·환경·시공기법·재료조성이 현대구조와 다르다는 점까지 함께 봐야 한다. 현대 reinforced concrete는 전혀 다른 성능목표와 규격을 가진다. **고대 재료의 특정 내구메커니즘을 배우는 것과 ‘고대기술이 현대보다 전부 뛰어났다’고 말하는 것은 다른 주장**이다.",
+          "textEn": "Roman concrete and modern reinforced concrete operate under different design loads, reinforcement systems, environments, standards, and material goals. Learning from a specific ancient durability mechanism is not the same as claiming ancient concrete was universally superior to modern concrete."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 2023년 Science Advances 연구는 ancient Roman concrete의 lime clast에 quicklime 기반 hot mixing의 화학·미세구조 흔적을 확인하고, modern replica에서 crack-sealing/self-healing potential을 실험했다.\n\n**확인되지 않음:** lime clast 하나만이 모든 Roman concrete의 2천 년 내구성을 설명하는 유일한 비밀은 아니다. 모든 고대구조물이 동일한 배합·제조법을 썼다고 볼 수도 없다.",
+          "textEn": "**Established:** A 2023 Science Advances study found chemical and microstructural evidence consistent with quicklime-based hot mixing in Roman concrete and experimentally demonstrated crack-sealing potential in modern replica mixtures.\n\n**Not established:** Lime clasts are not established as the single universal secret behind every durable Roman structure, and not all Roman concretes used one identical recipe or manufacturing process."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** 2023년 Science Advances 연구는 ancient Roman concrete의 lime clast에 quicklime 기반 hot mixing의 화학·미세구조 흔적을 확인하고, modern replica에서 crack-sealing/self-healing potential을 실험했다.\n\n**확인되지 않음:** lime clast 하나만이 모든 Roman concrete의 2천 년 내구성을 설명하는 유일한 비밀은 아니다. 모든 고대구조물이 동일한 배합·제조법을 썼다고 볼 수도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "hotmix-02",
+        "healing-03",
+        "limits-04",
+        "context-045"
+      ]
+    },
+    "en": {
+      "headline": "Why Were the White Lumps in 2,000-Year-Old Roman Concrete Not Just Defects?",
+      "hook": "Lime clasts were long dismissed as signs of poor mixing. A 2023 study showed they can arise from hot mixing with quicklime and may release calcium that helps seal cracks.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2천 년 버틴 콘크리트의 흰 덩어리는 결함이 아니라 기능일 수 있었다",
+          "headingEn": "White Lumps Once Dismissed as Flaws May Have Helped Roman Concrete Heal Itself",
+          "textKo": "고대 Roman concrete에는 lime clast라 불리는 흰 조각이 흔히 보인다. 오랫동안 불완전혼합이나 낮은 품질의 흔적으로 해석되기도 했지만 2023년 MIT·Harvard·유럽 연구팀은 이 조각이 quicklime을 이용한 hot mixing 과정에서 생겼고, 이후 crack-healing의 reactive calcium reservoir가 될 수 있다고 제시했다. **‘결함’처럼 보이던 미세구조가 내구성 메커니즘 일부였을 가능성이 강해진 것**이다.",
+          "textEn": "Ancient Roman concrete commonly contains white lime clasts. These were often interpreted as signs of poor mixing, but a 2023 MIT-led study argued that they formed through hot mixing with quicklime and could later act as reactive calcium reservoirs for crack filling. A feature once viewed as a flaw may have been part of the durability mechanism."
+        },
+        {
+          "blockId": "hotmix-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "quicklime을 쓰는 hot mixing은 재료 내부에 반응성 calcium을 남긴다",
+          "headingEn": "Hot Mixing With Quicklime Retains Highly Reactive Calcium Sources",
+          "textKo": "Science Advances 연구는 Privernum 고대 콘크리트의 multiscale chemical mapping에서 lime clast의 고온형성 흔적을 분석했다. quicklime을 다른 건조성분과 먼저 섞고 물을 넣으면 높은 온도가 발생하고, 빠른 반응과정에서 독특한 brittle nanoparticulate lime clast가 남는다. **이 과정은 단순히 ‘화산재를 썼다’는 설명보다 제조순서와 열반응 자체가 내구성에 중요했음을 보여준다.**",
+          "textEn": "The Science Advances study used multiscale chemical mapping of ancient concrete from Privernum to identify signatures consistent with high-temperature formation of lime clasts. Mixing quicklime with dry ingredients before adding water produces heat and leaves brittle, nanoparticulate calcium-rich clasts. Durability therefore depends not only on volcanic ash, but also on manufacturing sequence and reaction conditions."
+        },
+        {
+          "blockId": "healing-03",
+          "type": "TURNING_POINT",
+          "headingKo": "균열이 lime clast를 만나면 calcium-rich solution이 나와 틈을 메운다",
+          "headingEn": "Cracks Can Activate the Lime Clasts and Refill Themselves",
+          "textKo": "연구진은 작은 균열이 high-surface-area lime clast를 지나갈 때 물과 반응해 calcium-rich solution을 만들고, 이후 calcium carbonate가 재결정돼 crack을 빠르게 채울 수 있다고 제안했다. 현대 복제혼합물 실험에서도 lime clast-containing samples의 crack sealing potential을 확인했다. **즉 ‘self-healing’은 마법이 아니라 균열·물·반응성 calcium의 순차반응으로 설명된다.**",
+          "textEn": "The researchers proposed that cracks preferentially travel through high-surface-area lime clasts. With water present, the clasts create a calcium-rich solution that can recrystallize as calcium carbonate and fill the crack. Modern replica mixtures containing lime clasts also demonstrated crack-sealing potential. The proposed self-healing mechanism is a material reaction sequence, not a mysterious property."
+        },
+        {
+          "blockId": "limits-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모든 Roman concrete가 같은 비법 하나로 2천 년 버틴 것은 아니다",
+          "headingEn": "There Is No Single Universal Roman Concrete Recipe",
+          "textKo": "Roman concrete는 건축물·지역·시대에 따라 volcanic ash, aggregate, lime source와 제조법이 달랐다. MIT 연구는 hot mixing/lime clast mechanism이 중요한 하나의 내구성경로임을 강하게 지지하지만, **Pantheon·harbor concrete·aqueduct mortar 등 모든 Roman construction을 동일한 recipe 하나로 설명한다고 주장하지 않는다.** 해수반응과 pozzolanic mineral growth 같은 다른 메커니즘도 맥락에 따라 중요하다.",
+          "textEn": "Roman concrete varied by structure, place, era, volcanic ash, aggregate, lime source, and manufacturing method. The MIT work strongly supports hot mixing and lime-clast self-healing as one important durability pathway, but it does not reduce every Roman structure—from the Pantheon to seawalls and aqueducts—to one identical recipe. Other pozzolanic and marine reactions matter in other contexts."
+        },
+        {
+          "blockId": "context-045",
+          "type": "BACKGROUND",
+          "headingKo": "‘현대 콘크리트보다 무조건 우수했다’고 단순화해도 안 된다",
+          "headingEn": "Roman Concrete Was Not Simply Better Than All Modern Concrete",
+          "textKo": "Roman concrete의 장수는 설계하중·보강철근 부재·환경·시공기법·재료조성이 현대구조와 다르다는 점까지 함께 봐야 한다. 현대 reinforced concrete는 전혀 다른 성능목표와 규격을 가진다. **고대 재료의 특정 내구메커니즘을 배우는 것과 ‘고대기술이 현대보다 전부 뛰어났다’고 말하는 것은 다른 주장**이다.",
+          "textEn": "Roman concrete and modern reinforced concrete operate under different design loads, reinforcement systems, environments, standards, and material goals. Learning from a specific ancient durability mechanism is not the same as claiming ancient concrete was universally superior to modern concrete."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** 2023년 Science Advances 연구는 ancient Roman concrete의 lime clast에 quicklime 기반 hot mixing의 화학·미세구조 흔적을 확인하고, modern replica에서 crack-sealing/self-healing potential을 실험했다.\n\n**확인되지 않음:** lime clast 하나만이 모든 Roman concrete의 2천 년 내구성을 설명하는 유일한 비밀은 아니다. 모든 고대구조물이 동일한 배합·제조법을 썼다고 볼 수도 없다.",
+          "textEn": "**Established:** A 2023 Science Advances study found chemical and microstructural evidence consistent with quicklime-based hot mixing in Roman concrete and experimentally demonstrated crack-sealing potential in modern replica mixtures.\n\n**Not established:** Lime clasts are not established as the single universal secret behind every durable Roman structure, and not all Roman concretes used one identical recipe or manufacturing process."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** A 2023 Science Advances study found chemical and microstructural evidence consistent with quicklime-based hot mixing in Roman concrete and experimentally demonstrated crack-sealing potential in modern replica mixtures.\n\n**Not established:** Lime clasts are not established as the single universal secret behind every durable Roman structure, and not all Roman concretes used one identical recipe or manufacturing process.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "hotmix-02",
+        "healing-03",
+        "limits-04",
+        "context-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "RC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Roman concrete lime clast에서 quicklime hot-mixing에 부합하는 고온형성 미세구조가 보고됐다.",
+      "statementEn": "Roman concrete lime clasts show microstructural evidence consistent with quicklime-based hot mixing.",
+      "sourceRefs": [
+        "RC_PAPER",
+        "RC_MITNEWS"
+      ]
+    },
+    {
+      "claimId": "RC-C2",
+      "status": "SUPPORTED",
+      "statementKo": "lime clast는 물과 반응해 calcium carbonate 재결정으로 crack filling에 기여할 수 있다.",
+      "statementEn": "Lime clasts can contribute to crack filling through calcium-rich reactions and calcium carbonate recrystallization.",
+      "sourceRefs": [
+        "RC_PAPER",
+        "RC_MITNEWS"
+      ]
+    },
+    {
+      "claimId": "RC-C3",
+      "status": "CONFIRMED",
+      "statementKo": "연구팀은 modern replica mixture에서 crack-sealing potential을 시험했다.",
+      "statementEn": "The team tested crack-sealing potential in modern replica mixtures.",
+      "sourceRefs": [
+        "RC_PAPER"
+      ]
+    },
+    {
+      "claimId": "RC-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "lime clast mechanism 하나가 모든 Roman concrete 내구성의 유일한 원인은 아니다.",
+      "statementEn": "The lime-clast mechanism is not established as the sole cause of durability in all Roman concrete.",
+      "sourceRefs": [
+        "RC_PAPER",
+        "RC_MITNEWS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "RC_MITNEWS",
+      "title": "Riddle solved: Why was Roman concrete so durable?",
+      "publisher": "MIT News",
+      "url": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106",
+      "sourceType": "MIT_RESEARCH_SUMMARY"
+    },
+    {
+      "sourceId": "RC_PAPER",
+      "title": "Hot mixing: Mechanistic insights into the durability of ancient Roman concrete",
+      "publisher": "Science Advances / MIT DSpace",
+      "url": "https://dspace.mit.edu/entities/publication/d114c164-bdc9-4faf-8cd2-bb5075acfc0e",
+      "sourceType": "PEER_REVIEWED_PRIMARY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "rc-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "quicklime hot mixing → lime clast 형성 → crack → calcium solution → 재결정·봉합 과정.",
+      "captionEn": "Quicklime hot mixing → lime clast → crack → calcium solution → recrystallization and sealing.",
+      "altKo": "quicklime hot mixing → lime clast 형성 → crack → calcium solution → 재결정·봉합 과정.",
+      "altEn": "Quicklime hot mixing → lime clast → crack → calcium solution → recrystallization and sealing.",
+      "sourceRefs": [
+        "RC_PAPER",
+        "RC_MITNEWS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roman-concrete__v01__ko.png",
+          "sha256": "3562361302da73506786d62f7c4a8cade728c4255d2ddc6107507b91705e3d7c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roman-concrete__v01__en.png",
+          "sha256": "3c1a19c02828afe49df1e51bb1f035cebeee7f58d38fd7246c5f93ea75b6b3e4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "rc-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘흰 덩어리=결함’ 해석과 self-healing calcium reservoir 증거 비교.",
+      "captionEn": "Evidence card comparing 'lime clasts as defects' with evidence for a self-healing calcium reservoir.",
+      "altKo": "‘흰 덩어리=결함’ 해석과 self-healing calcium reservoir 증거 비교.",
+      "altEn": "Evidence card comparing 'lime clasts as defects' with evidence for a self-healing calcium reservoir.",
+      "sourceRefs": [
+        "RC_PAPER",
+        "RC_MITNEWS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roman-concrete__v02__ko.png",
+          "sha256": "aa3aa3bc981dfe8d5368cda686e6e09460be38ee1c0109ff1ee5210135707e29",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roman-concrete__v02__en.png",
+          "sha256": "e23f8e8dee8c4d83b543039ec3ec612fbe2c71479b8505d082beb8f1f607a156",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "rc-v03",
+      "role": "SOURCE_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "고대 sample 분석과 modern replica experiment의 증거역할을 구분.",
+      "captionEn": "Diagram separating evidence from ancient-sample analysis and modern replica experiments.",
+      "altKo": "고대 sample 분석과 modern replica experiment의 증거역할을 구분.",
+      "altEn": "Diagram separating evidence from ancient-sample analysis and modern replica experiments.",
+      "sourceRefs": [
+        "RC_PAPER",
+        "RC_MITNEWS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roman-concrete__v03__ko.png",
+          "sha256": "07ef4e0e98b7f9f0daadc12c05286d8d48da0446639d51ad4643600aba64435e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roman-concrete__v03__en.png",
+          "sha256": "0f64b851f765b3e9d1d8bc5ffcfe2a0fb78a15cdbe2790a984de4a9f035eab57",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Lost Invention",
+    "secondaryGenres": [
+      "Ancient History / Archaeology",
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "regions": [
+      "Roman world / Privernum"
+    ],
+    "places": [
+      {
+        "name": "Privernum",
+        "role": "sample context"
+      }
+    ],
+    "people": [
+      {
+        "name": "Admir Masic",
+        "role": "research lead"
+      }
+    ],
+    "organizations": [
+      "MIT",
+      "Harvard University"
+    ],
+    "dateRange": {
+      "start": "Roman antiquity",
+      "end": "2023",
+      "precision": "ancient material / modern mechanism study"
+    },
+    "era": "Roman antiquity / modern materials science",
+    "resolution": "HOT_MIXING_AND_SELF_HEALING_MECHANISM_SUPPORTED_NOT_UNIVERSAL_SINGLE_RECIPE",
+    "searchAliases": [
+      "Roman concrete",
+      "Roman concrete durability",
+      "lime clasts"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1570,
+    "enBodyWords": 319,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "htlingual",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "HTLINGUAL 우편개봉 프로그램",
+    "canonicalTitleEn": "HTLINGUAL Mail-Opening Program",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "CIA는 정말 미국인의 우편을 몰래 열었나—그리고 왜 21년이나 지속됐나",
+      "hook": "이 사건은 존재여부가 미스터리가 아니다. CIA 자체 역사와 Church Committee 기록은 수백만 통의 우편 감시와 21만5천 통 이상의 개봉을 확인한다. 남는 질문은 어떻게 외국방첩 프로그램이 국내 우편비밀 침해로 확대됐는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "CIA는 정말 미국인의 우편을 몰래 열어봤다",
+          "headingEn": "The CIA Really Did Secretly Open Mail",
+          "textKo": "HTLINGUAL은 음모론이 아니라 문서로 확인된 CIA mail-opening program이다. CIA의 2024년 역사연구는 New York City에서 1952~1973년 Soviet Union 관련 우편을 대상으로 운영됐고, 약 270만 통의 envelope 정보를 수집하고 21만5천 통 이상을 실제 개봉했다고 정리한다. **‘정보기관이 우편을 몰래 열었다’는 핵심주장은 공식기관 자체 기록으로 확인된다.**",
+          "textEn": "HTLINGUAL is not a conspiracy theory but a documented CIA mail-opening program. A 2024 CIA historical study describes operations in New York City from 1952 to 1973 focused on mail to and from the Soviet Union, covering about 2.7 million letters and opening more than 215,000. The core claim—that an intelligence agency secretly opened mail—is confirmed by the agency's own records."
+        },
+        {
+          "blockId": "scope-02",
+          "type": "BACKGROUND",
+          "headingKo": "처음에는 우편봉투 정보수집에서 실제 개봉으로 확대됐다",
+          "headingEn": "The Program Expanded From Mail Covers Into Systematic Opening",
+          "textKo": "CIA 연구에 따르면 초기는 Soviet mail의 외부정보를 추적하는 성격이었지만 1955~1956년 James Angleton의 CI Staff가 관여하면서 범위가 커졌다. 모든 Soviet mail을 review하고 일부 편지를 실제로 열어보는 체계가 승인됐다. FBI는 1958년 프로그램을 알게 되고 정보요청을 하기 시작했으며, 1961년에는 New York에 mail-opening 전용시설까지 운영됐다.",
+          "textEn": "According to the CIA study, the program began with surveillance of Soviet mail and expanded in the mid-1950s as James Angleton's Counterintelligence Staff assumed a larger role. Procedures were approved to review mail to and from the Soviet Union and physically open a subset. The FBI learned of the program in 1958 and began receiving information; by 1961 a New York facility was dedicated to mail opening."
+        },
+        {
+          "blockId": "domestic-03",
+          "type": "TURNING_POINT",
+          "headingKo": "외국정보수집이라는 이름 아래 미국 시민·단체의 편지도 포함됐다",
+          "headingEn": "U.S. Citizens and Organizations Became Part of the Collection",
+          "textKo": "1975년 Church Committee 청문회는 Harvard University, Ford Foundation, Martin Luther King Jr., 국회의원 등 미국내 개인·단체의 우편이 CIA mail-opening program에서 다뤄졌음을 공개적으로 문제삼았다. 위원회 기록은 이를 illegal activity라고 직접 표현했다. **외국방첩 목적이라는 명분과 미국내 우편비밀 침해 사이의 경계가 프로그램의 핵심 논란**이었다.",
+          "textEn": "In 1975, Church Committee hearings publicly challenged the opening of mail involving U.S. citizens and organizations, naming institutions and public figures among the intercepted correspondence. The hearing record explicitly described CIA mail opening as illegal activity. The central controversy was the boundary between foreign counterintelligence objectives and domestic mail/privacy protections."
+        },
+        {
+          "blockId": "value-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "내부평가조차 ‘정치적 위험에 비해 가치가 충분했나’를 의심했다",
+          "headingEn": "Even Internal Reviews Questioned Whether the Intelligence Value Justified the Risk",
+          "textKo": "CIA의 2024년 역사연구는 HTLINGUAL이 Soviet secret writing·검열방식과 일부 counterintelligence lead를 제공했다고 평가하는 한편, 1960년대 내부검토들은 노력과 ‘flap potential’에 비해 정보가치가 충분하지 않다고 판단했다고 정리한다. Angleton은 가치를 강하게 옹호했지만 조직 내부 합의가 아니었다. **실제 정보가 일부 나왔다는 사실과 프로그램 전체가 정당화됐다는 평가는 별개**였다.",
+          "textEn": "The CIA's 2024 historical review says HTLINGUAL produced some useful information about Soviet secret writing, censorship, and counterintelligence leads, while internal reviews in the 1960s concluded that the intelligence return did not justify the effort and political 'flap potential.' Angleton strongly defended the operation, but that was not a universal internal judgment."
+        },
+        {
+          "blockId": "end-05",
+          "type": "AFTERMATH",
+          "headingKo": "1973년 종료, 1975년 공개조사, 이후 감독체계 변화로 이어졌다",
+          "headingEn": "Termination in 1973 Was Followed by Public Investigation and Oversight Reform",
+          "textKo": "James Schlesinger는 1973년 HTLINGUAL을 종료했다. CIA 역사자료는 operations chief William Colby가 substantial political risk가 수집기여보다 크다고 판단한 점을 전한다. 1975년 Church Committee는 mail-opening을 포함한 정보기관 남용을 공개조사했고, 이후 상설 Senate intelligence oversight와 FISA 같은 감독제도 강화가 이어졌다. **HTLINGUAL의 미스터리는 ‘존재했나’가 아니라, 비밀프로그램이 어떻게 오래 지속될 수 있었나에 있다.**",
+          "textEn": "James Schlesinger terminated HTLINGUAL in 1973, with CIA history citing William Colby's judgment that the substantial political risk was not justified by its intelligence contribution. The 1975 Church Committee publicly investigated mail opening and other intelligence abuses, and later reforms strengthened permanent congressional oversight and surveillance law. The mystery is no longer whether HTLINGUAL existed, but how it persisted for so long."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** CIA HTLINGUAL은 1952~1973년 운영된 New York mail-cover/mail-opening program이며, 공식 CIA 역사자료는 약 270만 통을 cover하고 21만5천 통 이상을 개봉했다고 기록한다. FBI도 프로그램을 인지·활용했다. 1975 Church Committee는 CIA mail opening을 불법행위로 공개조사했다.\n\n**확인되지 않음:** 프로그램이 연 모든 편지의 개별내용·대상·효과를 현재 자료만으로 완전히 재구성할 수는 없다. 실제 일부 counterintelligence 가치가 있었다는 사실도 프로그램의 법적·정치적 정당성을 자동으로 입증하지 않는다.",
+          "textEn": "**Established:** HTLINGUAL was a CIA mail-cover/mail-opening program operated in New York from 1952 to 1973. CIA historical records say it covered about 2.7 million letters and opened more than 215,000, with the FBI also receiving information. The 1975 Church Committee publicly investigated CIA mail opening as illegal activity.\n\n**Not established:** The contents, targets, and effects of every opened letter cannot be fully reconstructed from the available record. Some counterintelligence value does not itself establish legal or political justification for the program."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** CIA HTLINGUAL은 1952~1973년 운영된 New York mail-cover/mail-opening program이며, 공식 CIA 역사자료는 약 270만 통을 cover하고 21만5천 통 이상을 개봉했다고 기록한다. FBI도 프로그램을 인지·활용했다. 1975 Church Committee는 CIA mail opening을 불법행위로 공개조사했다.\n\n**확인되지 않음:** 프로그램이 연 모든 편지의 개별내용·대상·효과를 현재 자료만으로 완전히 재구성할 수는 없다. 실제 일부 counterintelligence 가치가 있었다는 사실도 프로그램의 법적·정치적 정당성을 자동으로 입증하지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "scope-02",
+        "domestic-03",
+        "value-04",
+        "end-05"
+      ]
+    },
+    "en": {
+      "headline": "Did the CIA Really Open Americans’ Mail—and How Did the Program Last 21 Years?",
+      "hook": "The existence of HTLINGUAL is not in doubt. CIA and Church Committee records document millions of monitored letters and more than 215,000 openings. The deeper question is how a foreign-counterintelligence program expanded into domestic mail intrusion.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "CIA는 정말 미국인의 우편을 몰래 열어봤다",
+          "headingEn": "The CIA Really Did Secretly Open Mail",
+          "textKo": "HTLINGUAL은 음모론이 아니라 문서로 확인된 CIA mail-opening program이다. CIA의 2024년 역사연구는 New York City에서 1952~1973년 Soviet Union 관련 우편을 대상으로 운영됐고, 약 270만 통의 envelope 정보를 수집하고 21만5천 통 이상을 실제 개봉했다고 정리한다. **‘정보기관이 우편을 몰래 열었다’는 핵심주장은 공식기관 자체 기록으로 확인된다.**",
+          "textEn": "HTLINGUAL is not a conspiracy theory but a documented CIA mail-opening program. A 2024 CIA historical study describes operations in New York City from 1952 to 1973 focused on mail to and from the Soviet Union, covering about 2.7 million letters and opening more than 215,000. The core claim—that an intelligence agency secretly opened mail—is confirmed by the agency's own records."
+        },
+        {
+          "blockId": "scope-02",
+          "type": "BACKGROUND",
+          "headingKo": "처음에는 우편봉투 정보수집에서 실제 개봉으로 확대됐다",
+          "headingEn": "The Program Expanded From Mail Covers Into Systematic Opening",
+          "textKo": "CIA 연구에 따르면 초기는 Soviet mail의 외부정보를 추적하는 성격이었지만 1955~1956년 James Angleton의 CI Staff가 관여하면서 범위가 커졌다. 모든 Soviet mail을 review하고 일부 편지를 실제로 열어보는 체계가 승인됐다. FBI는 1958년 프로그램을 알게 되고 정보요청을 하기 시작했으며, 1961년에는 New York에 mail-opening 전용시설까지 운영됐다.",
+          "textEn": "According to the CIA study, the program began with surveillance of Soviet mail and expanded in the mid-1950s as James Angleton's Counterintelligence Staff assumed a larger role. Procedures were approved to review mail to and from the Soviet Union and physically open a subset. The FBI learned of the program in 1958 and began receiving information; by 1961 a New York facility was dedicated to mail opening."
+        },
+        {
+          "blockId": "domestic-03",
+          "type": "TURNING_POINT",
+          "headingKo": "외국정보수집이라는 이름 아래 미국 시민·단체의 편지도 포함됐다",
+          "headingEn": "U.S. Citizens and Organizations Became Part of the Collection",
+          "textKo": "1975년 Church Committee 청문회는 Harvard University, Ford Foundation, Martin Luther King Jr., 국회의원 등 미국내 개인·단체의 우편이 CIA mail-opening program에서 다뤄졌음을 공개적으로 문제삼았다. 위원회 기록은 이를 illegal activity라고 직접 표현했다. **외국방첩 목적이라는 명분과 미국내 우편비밀 침해 사이의 경계가 프로그램의 핵심 논란**이었다.",
+          "textEn": "In 1975, Church Committee hearings publicly challenged the opening of mail involving U.S. citizens and organizations, naming institutions and public figures among the intercepted correspondence. The hearing record explicitly described CIA mail opening as illegal activity. The central controversy was the boundary between foreign counterintelligence objectives and domestic mail/privacy protections."
+        },
+        {
+          "blockId": "value-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "내부평가조차 ‘정치적 위험에 비해 가치가 충분했나’를 의심했다",
+          "headingEn": "Even Internal Reviews Questioned Whether the Intelligence Value Justified the Risk",
+          "textKo": "CIA의 2024년 역사연구는 HTLINGUAL이 Soviet secret writing·검열방식과 일부 counterintelligence lead를 제공했다고 평가하는 한편, 1960년대 내부검토들은 노력과 ‘flap potential’에 비해 정보가치가 충분하지 않다고 판단했다고 정리한다. Angleton은 가치를 강하게 옹호했지만 조직 내부 합의가 아니었다. **실제 정보가 일부 나왔다는 사실과 프로그램 전체가 정당화됐다는 평가는 별개**였다.",
+          "textEn": "The CIA's 2024 historical review says HTLINGUAL produced some useful information about Soviet secret writing, censorship, and counterintelligence leads, while internal reviews in the 1960s concluded that the intelligence return did not justify the effort and political 'flap potential.' Angleton strongly defended the operation, but that was not a universal internal judgment."
+        },
+        {
+          "blockId": "end-05",
+          "type": "AFTERMATH",
+          "headingKo": "1973년 종료, 1975년 공개조사, 이후 감독체계 변화로 이어졌다",
+          "headingEn": "Termination in 1973 Was Followed by Public Investigation and Oversight Reform",
+          "textKo": "James Schlesinger는 1973년 HTLINGUAL을 종료했다. CIA 역사자료는 operations chief William Colby가 substantial political risk가 수집기여보다 크다고 판단한 점을 전한다. 1975년 Church Committee는 mail-opening을 포함한 정보기관 남용을 공개조사했고, 이후 상설 Senate intelligence oversight와 FISA 같은 감독제도 강화가 이어졌다. **HTLINGUAL의 미스터리는 ‘존재했나’가 아니라, 비밀프로그램이 어떻게 오래 지속될 수 있었나에 있다.**",
+          "textEn": "James Schlesinger terminated HTLINGUAL in 1973, with CIA history citing William Colby's judgment that the substantial political risk was not justified by its intelligence contribution. The 1975 Church Committee publicly investigated mail opening and other intelligence abuses, and later reforms strengthened permanent congressional oversight and surveillance law. The mystery is no longer whether HTLINGUAL existed, but how it persisted for so long."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** CIA HTLINGUAL은 1952~1973년 운영된 New York mail-cover/mail-opening program이며, 공식 CIA 역사자료는 약 270만 통을 cover하고 21만5천 통 이상을 개봉했다고 기록한다. FBI도 프로그램을 인지·활용했다. 1975 Church Committee는 CIA mail opening을 불법행위로 공개조사했다.\n\n**확인되지 않음:** 프로그램이 연 모든 편지의 개별내용·대상·효과를 현재 자료만으로 완전히 재구성할 수는 없다. 실제 일부 counterintelligence 가치가 있었다는 사실도 프로그램의 법적·정치적 정당성을 자동으로 입증하지 않는다.",
+          "textEn": "**Established:** HTLINGUAL was a CIA mail-cover/mail-opening program operated in New York from 1952 to 1973. CIA historical records say it covered about 2.7 million letters and opened more than 215,000, with the FBI also receiving information. The 1975 Church Committee publicly investigated CIA mail opening as illegal activity.\n\n**Not established:** The contents, targets, and effects of every opened letter cannot be fully reconstructed from the available record. Some counterintelligence value does not itself establish legal or political justification for the program."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** HTLINGUAL was a CIA mail-cover/mail-opening program operated in New York from 1952 to 1973. CIA historical records say it covered about 2.7 million letters and opened more than 215,000, with the FBI also receiving information. The 1975 Church Committee publicly investigated CIA mail opening as illegal activity.\n\n**Not established:** The contents, targets, and effects of every opened letter cannot be fully reconstructed from the available record. Some counterintelligence value does not itself establish legal or political justification for the program.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "scope-02",
+        "domestic-03",
+        "value-04",
+        "end-05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "HTLINGUAL은 1952~1973년 CIA가 New York에서 운영한 Soviet mail cover/opening program이었다.",
+      "statementEn": "HTLINGUAL was a CIA Soviet-mail cover/opening program operated in New York from 1952 to 1973.",
+      "sourceRefs": [
+        "HT_CIA2024"
+      ]
+    },
+    {
+      "claimId": "HT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "CIA 공식역사는 약 270만 통을 cover하고 21만5천 통 이상을 개봉했다고 기록한다.",
+      "statementEn": "CIA official history records about 2.7 million letters covered and more than 215,000 opened.",
+      "sourceRefs": [
+        "HT_CIA2024"
+      ]
+    },
+    {
+      "claimId": "HT-C3",
+      "status": "CONFIRMED",
+      "statementKo": "Church Committee는 CIA mail opening을 illegal activity로 공개조사했다.",
+      "statementEn": "The Church Committee publicly investigated CIA mail opening as illegal activity.",
+      "sourceRefs": [
+        "HT_CHURCH",
+        "HT_EXHIBITS"
+      ]
+    },
+    {
+      "claimId": "HT-C4",
+      "status": "SUPPORTED",
+      "statementKo": "내부평가에서는 일부 counterintelligence 가치가 있었지만 정치적 위험 대비 가치가 부족하다는 판단도 있었다.",
+      "statementEn": "Internal reviews found some counterintelligence value but also judged the return insufficient relative to political risk.",
+      "sourceRefs": [
+        "HT_CIA2024"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HT_CIA2024",
+      "title": "Evolution of Surveillance Policy — HTLINGUAL section",
+      "publisher": "CIA Center for the Study of Intelligence, Studies in Intelligence 68 No.2 (2024)",
+      "url": "https://www.cia.gov/resources/csi/static/816c50f96c2cd729e67820e8f349ac88/UNCLASSIFIED-Studies-68-2-June-2024-1.pdf",
+      "sourceType": "CIA_OFFICIAL_HISTORY"
+    },
+    {
+      "sourceId": "HT_CHURCH",
+      "title": "Intelligence Activities Senate Hearing, September 24 1975",
+      "publisher": "U.S. Senate Select Committee (Church Committee)",
+      "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94intelligence-activities-ii.pdf",
+      "sourceType": "US_SENATE_PRIMARY_HEARING"
+    },
+    {
+      "sourceId": "HT_EXHIBITS",
+      "title": "Church Committee HTLINGUAL exhibits",
+      "publisher": "U.S. Senate Select Committee",
+      "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94intelligence-activities-iv.pdf",
+      "sourceType": "US_SENATE_PRIMARY_EXHIBITS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ht-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "1952 시작 → 1955~56 확대 → 1958 FBI 인지 → 1961 전용시설 → 1973 종료 → 1975 공개조사.",
+      "captionEn": "1952 start → 1955–56 expansion → FBI awareness 1958 → dedicated facility 1961 → 1973 termination → 1975 hearings.",
+      "altKo": "1952 시작 → 1955~56 확대 → 1958 FBI 인지 → 1961 전용시설 → 1973 종료 → 1975 공개조사.",
+      "altEn": "1952 start → 1955–56 expansion → FBI awareness 1958 → dedicated facility 1961 → 1973 termination → 1975 hearings.",
+      "sourceRefs": [
+        "HT_CIA2024",
+        "HT_CHURCH",
+        "HT_EXHIBITS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "htlingual__v01__ko.png",
+          "sha256": "1a1b2c3cb4ff07255e239ded051d8d0e88b95d132bfb7fd84a3f214ecacee65d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "htlingual__v01__en.png",
+          "sha256": "f448dee161fa5a1c36a2e29521f242ae2e9b348d2fa94771ca20b0b2793caa36",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ht-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "mail cover·선별·개봉·복사·정보공유 흐름을 설명한 원본 도표.",
+      "captionEn": "Original diagram of mail cover, selection, opening, copying and intelligence-sharing flow.",
+      "altKo": "mail cover·선별·개봉·복사·정보공유 흐름을 설명한 원본 도표.",
+      "altEn": "Original diagram of mail cover, selection, opening, copying and intelligence-sharing flow.",
+      "sourceRefs": [
+        "HT_CIA2024",
+        "HT_CHURCH",
+        "HT_EXHIBITS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "htlingual__v02__ko.png",
+          "sha256": "f8e9da62ec462e70d56477111beb853d65440b5b4da73217233cd254e144e4d6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "htlingual__v02__en.png",
+          "sha256": "1e439bba93a64896dee465495ad77485768acf970903d548f4b7312029b500b5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "ht-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "실제 정보가치·국내우편 개봉·법적감독 실패를 각각 구분.",
+      "captionEn": "Evidence card separating intelligence yield, domestic mail opening and oversight/legal failure.",
+      "altKo": "실제 정보가치·국내우편 개봉·법적감독 실패를 각각 구분.",
+      "altEn": "Evidence card separating intelligence yield, domestic mail opening and oversight/legal failure.",
+      "sourceRefs": [
+        "HT_CIA2024",
+        "HT_CHURCH",
+        "HT_EXHIBITS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "htlingual__v03__ko.png",
+          "sha256": "deb329d71b8c7d216c72398f06505789d6cdbcdc416e7c57b3ab7314e28e6674",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "htlingual__v03__en.png",
+          "sha256": "6554c4d7d553d9258fa3bed62fde3a11a4177da16f7d86cbfe51f181b7a6456b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New York City"
+    ],
+    "places": [
+      {
+        "name": "New York City",
+        "role": "primary mail-intercept location"
+      }
+    ],
+    "people": [
+      {
+        "name": "James Angleton",
+        "role": "CIA CI Staff chief"
+      },
+      {
+        "name": "Richard Helms",
+        "role": "CIA operations leadership"
+      },
+      {
+        "name": "James Schlesinger",
+        "role": "DCI who terminated program"
+      }
+    ],
+    "organizations": [
+      "CIA",
+      "FBI",
+      "U.S. Senate Church Committee"
+    ],
+    "dateRange": {
+      "start": "1952",
+      "end": "1975",
+      "precision": "operation through public investigation"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_CONFIRMED_SCALE_DOCUMENTED_OVERSIGHT_ABUSE_ESTABLISHED",
+    "searchAliases": [
+      "HTLINGUAL",
+      "CIA mail opening",
+      "CIA Soviet mail program"
+    ],
+    "relatedCases": [
+      "project-shamrock",
+      "project-minaret"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1642,
+    "enBodyWords": 382,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

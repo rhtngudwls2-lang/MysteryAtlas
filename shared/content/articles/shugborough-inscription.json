@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "shugborough-inscription",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "셔그버러 비문",
+    "canonicalTitleEn": "Shugborough Inscription",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "10글자짜리 암호가 왜 250년 넘게 해답보다 가설을 더 많이 만들었나",
+      "hook": "Shugborough inscription은 실제다. 문제는 너무 짧다는 것이다. external key가 없는 10글자는 많은 문장을 수용할 수 있어, 그럴듯한 해답을 만드는 것보다 오답을 제거하는 게 훨씬 어렵다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "18세기 기념물 아래 10글자가 남았고 250년 넘게 정답은 없다",
+          "headingEn": "Ten Letters Under an Eighteenth-Century Monument Have No Confirmed Reading",
+          "textKo": "Staffordshire Shugborough의 Shepherd's Monument 아래에는 `D. O U O S V A V V M.`이라는 짧은 inscription이 실제로 존재한다. National Trust heritage record는 monument와 inscription을 보존하면서 오랫동안 definitive interpretation이 없었다는 맥락을 제공한다. **문자열의 존재는 확실하지만 짧다는 사실이 오히려 해독을 어렵게 한다.**",
+          "textEn": "Beneath the Shepherd's Monument at Shugborough in Staffordshire is the real inscription `D. O U O S V A V V M.`. National Trust heritage records preserve the monument and its cryptic lettering, while no definitive interpretation has achieved consensus. The string is real; its shortness makes it harder, not easier, to prove one solution."
+        },
+        {
+          "blockId": "context-02",
+          "type": "BACKGROUND",
+          "headingKo": "문자는 Poussin-inspired relief 아래 architectural context 안에 있다",
+          "headingEn": "The Letters Sit Within a Deliberately Designed Monument Context",
+          "textKo": "Shepherd's Monument는 Nicolas Poussin의 `Et in Arcadia ego` 계열 imagery를 바탕으로 한 relief와 architectural framing을 포함한다. **따라서 글자를 단독 puzzle처럼만 읽기보다 monument patronage, memorial language, classical references와 함께 볼 필요가 있다.**",
+          "textEn": "The Shepherd's Monument incorporates a relief inspired by Nicolas Poussin's `Et in Arcadia ego` imagery within an architectural setting. The letters should therefore be considered alongside patronage, memorial language, and classical references rather than as an isolated puzzle."
+        },
+        {
+          "blockId": "dm-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "양끝 D·M을 Roman funerary abbreviation으로 보는 해석은 가능하지만 확정이 아니다",
+          "headingEn": "Reading D and M as a Roman Funerary Abbreviation Is Plausible, Not Proven",
+          "textKo": "일부 해석은 D와 M을 `Dis Manibus` 같은 Roman funerary abbreviation으로 보고 가운데 여덟 글자를 initialism으로 읽으려 한다. 다른 해석은 family dedication, religious phrase, private mnemonic을 제안한다. **짧은 initial sequence는 너무 많은 phrase를 수용해 candidate sentence 하나가 그럴듯하다는 것만으로는 검증력이 낮다.**",
+          "textEn": "Some interpretations treat the outer D and M as a Roman funerary abbreviation such as `Dis Manibus`, then read the inner letters as an initialism. Others propose family dedications, religious phrases, or private mnemonics. A short initial sequence can accommodate too many plausible phrases for plausibility alone to validate one."
+        },
+        {
+          "blockId": "grail-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Holy Grail·Templar 보물설은 inscription 존재보다 훨씬 큰 추가주장이다",
+          "headingEn": "Holy Grail and Templar Theories Add Claims Far Beyond the Inscription",
+          "textKo": "Shugborough code는 Holy Grail, Templars, secret societies와 자주 연결된다. 하지만 heritage record가 확립하는 것은 monument와 inscription의 역사적 실재다. **보물이나 비밀결사의 연결은 별도 독립증거가 필요하며, 해독이 안 됐다는 사실이 그 가설을 지지하지 않는다.**",
+          "textEn": "The Shugborough code is frequently linked to the Holy Grail, Templars, or secret societies. Heritage records establish the monument and inscription, not those additional narratives. Treasure or secret-society claims require independent evidence; undecipherment does not support them."
+        },
+        {
+          "blockId": "method-05",
+          "type": "AFTERMATH",
+          "headingKo": "10글자 암호의 문제는 '정답 생성'이 아니라 '오답 제거'다",
+          "headingEn": "With Ten Letters, the Hard Part Is Rejecting Wrong Answers",
+          "textKo": "short initialism은 다양한 언어·quote·names를 끼워 넣을 수 있어 solution space가 매우 넓다. **원래 작성자의 external key, contemporaneous explanation, repeated encoding rule이 없는 한 하나의 phrase를 결정적으로 선택하기 어렵다.**",
+          "textEn": "A short initialism can be fitted to many languages, quotations, names, and phrases. Without an external key from the creator, a contemporary explanation, or repeated encoding rules, selecting one phrase decisively is difficult."
+        },
+        {
+          "blockId": "provenance-055",
+          "type": "BACKGROUND",
+          "headingKo": "정답을 고르려면 글자 밖의 contemporaneous provenance가 필요하다",
+          "headingEn": "Choosing One Reading Requires Contemporary Provenance Outside the Letters",
+          "textKo": "monument commission record, patron correspondence, family papers처럼 inscription 제작시점의 external source가 발견돼 동일 phrase나 coding habit을 보여준다면 candidate solution을 크게 줄일 수 있다. **현재처럼 key가 없을 때는 문자열 내부만으로 원래 의도를 역추론하는 데 근본적 한계가 있다.**",
+          "textEn": "Contemporary commission records, patron correspondence, or family papers could narrow solutions if they revealed the same phrase or coding habit. Without such an external key, the ten-letter string alone cannot reliably recover the creator's intent."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Shepherd's Monument 아래 cryptic inscription과 그 역사적 monument context는 실제 존재한다. D/M funerary interpretation 등 여러 hypotheses가 제시됐다.\n\n**확인되지 않음:** 원래 intended plaintext와 writer's exact intention은 확정되지 않았다. Holy Grail·Templar·buried treasure connection도 inscription 자체로 입증되지 않는다.",
+          "textEn": "**Established:** The cryptic inscription beneath the Shepherd's Monument and its historical monument context are real. Multiple hypotheses, including funerary readings of D/M, have been proposed.\n\n**Not established:** The intended plaintext and creator's exact intent remain unknown. Holy Grail, Templar, or buried-treasure connections are not established by the inscription itself."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Shepherd's Monument 아래 cryptic inscription과 그 역사적 monument context는 실제 존재한다. D/M funerary interpretation 등 여러 hypotheses가 제시됐다.\n\n**확인되지 않음:** 원래 intended plaintext와 writer's exact intention은 확정되지 않았다. Holy Grail·Templar·buried treasure connection도 inscription 자체로 입증되지 않는다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "context-02",
+        "dm-03",
+        "grail-04",
+        "method-05",
+        "provenance-055"
+      ]
+    },
+    "en": {
+      "headline": "Why Have Ten Letters Produced More Theories Than Answers for 250 Years?",
+      "hook": "The Shugborough inscription is real. Its problem is brevity: ten letters without an external key can fit many plausible phrases, so rejecting wrong answers is harder than inventing new ones.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "18세기 기념물 아래 10글자가 남았고 250년 넘게 정답은 없다",
+          "headingEn": "Ten Letters Under an Eighteenth-Century Monument Have No Confirmed Reading",
+          "textKo": "Staffordshire Shugborough의 Shepherd's Monument 아래에는 `D. O U O S V A V V M.`이라는 짧은 inscription이 실제로 존재한다. National Trust heritage record는 monument와 inscription을 보존하면서 오랫동안 definitive interpretation이 없었다는 맥락을 제공한다. **문자열의 존재는 확실하지만 짧다는 사실이 오히려 해독을 어렵게 한다.**",
+          "textEn": "Beneath the Shepherd's Monument at Shugborough in Staffordshire is the real inscription `D. O U O S V A V V M.`. National Trust heritage records preserve the monument and its cryptic lettering, while no definitive interpretation has achieved consensus. The string is real; its shortness makes it harder, not easier, to prove one solution."
+        },
+        {
+          "blockId": "context-02",
+          "type": "BACKGROUND",
+          "headingKo": "문자는 Poussin-inspired relief 아래 architectural context 안에 있다",
+          "headingEn": "The Letters Sit Within a Deliberately Designed Monument Context",
+          "textKo": "Shepherd's Monument는 Nicolas Poussin의 `Et in Arcadia ego` 계열 imagery를 바탕으로 한 relief와 architectural framing을 포함한다. **따라서 글자를 단독 puzzle처럼만 읽기보다 monument patronage, memorial language, classical references와 함께 볼 필요가 있다.**",
+          "textEn": "The Shepherd's Monument incorporates a relief inspired by Nicolas Poussin's `Et in Arcadia ego` imagery within an architectural setting. The letters should therefore be considered alongside patronage, memorial language, and classical references rather than as an isolated puzzle."
+        },
+        {
+          "blockId": "dm-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "양끝 D·M을 Roman funerary abbreviation으로 보는 해석은 가능하지만 확정이 아니다",
+          "headingEn": "Reading D and M as a Roman Funerary Abbreviation Is Plausible, Not Proven",
+          "textKo": "일부 해석은 D와 M을 `Dis Manibus` 같은 Roman funerary abbreviation으로 보고 가운데 여덟 글자를 initialism으로 읽으려 한다. 다른 해석은 family dedication, religious phrase, private mnemonic을 제안한다. **짧은 initial sequence는 너무 많은 phrase를 수용해 candidate sentence 하나가 그럴듯하다는 것만으로는 검증력이 낮다.**",
+          "textEn": "Some interpretations treat the outer D and M as a Roman funerary abbreviation such as `Dis Manibus`, then read the inner letters as an initialism. Others propose family dedications, religious phrases, or private mnemonics. A short initial sequence can accommodate too many plausible phrases for plausibility alone to validate one."
+        },
+        {
+          "blockId": "grail-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "Holy Grail·Templar 보물설은 inscription 존재보다 훨씬 큰 추가주장이다",
+          "headingEn": "Holy Grail and Templar Theories Add Claims Far Beyond the Inscription",
+          "textKo": "Shugborough code는 Holy Grail, Templars, secret societies와 자주 연결된다. 하지만 heritage record가 확립하는 것은 monument와 inscription의 역사적 실재다. **보물이나 비밀결사의 연결은 별도 독립증거가 필요하며, 해독이 안 됐다는 사실이 그 가설을 지지하지 않는다.**",
+          "textEn": "The Shugborough code is frequently linked to the Holy Grail, Templars, or secret societies. Heritage records establish the monument and inscription, not those additional narratives. Treasure or secret-society claims require independent evidence; undecipherment does not support them."
+        },
+        {
+          "blockId": "method-05",
+          "type": "AFTERMATH",
+          "headingKo": "10글자 암호의 문제는 '정답 생성'이 아니라 '오답 제거'다",
+          "headingEn": "With Ten Letters, the Hard Part Is Rejecting Wrong Answers",
+          "textKo": "short initialism은 다양한 언어·quote·names를 끼워 넣을 수 있어 solution space가 매우 넓다. **원래 작성자의 external key, contemporaneous explanation, repeated encoding rule이 없는 한 하나의 phrase를 결정적으로 선택하기 어렵다.**",
+          "textEn": "A short initialism can be fitted to many languages, quotations, names, and phrases. Without an external key from the creator, a contemporary explanation, or repeated encoding rules, selecting one phrase decisively is difficult."
+        },
+        {
+          "blockId": "provenance-055",
+          "type": "BACKGROUND",
+          "headingKo": "정답을 고르려면 글자 밖의 contemporaneous provenance가 필요하다",
+          "headingEn": "Choosing One Reading Requires Contemporary Provenance Outside the Letters",
+          "textKo": "monument commission record, patron correspondence, family papers처럼 inscription 제작시점의 external source가 발견돼 동일 phrase나 coding habit을 보여준다면 candidate solution을 크게 줄일 수 있다. **현재처럼 key가 없을 때는 문자열 내부만으로 원래 의도를 역추론하는 데 근본적 한계가 있다.**",
+          "textEn": "Contemporary commission records, patron correspondence, or family papers could narrow solutions if they revealed the same phrase or coding habit. Without such an external key, the ten-letter string alone cannot reliably recover the creator's intent."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Shepherd's Monument 아래 cryptic inscription과 그 역사적 monument context는 실제 존재한다. D/M funerary interpretation 등 여러 hypotheses가 제시됐다.\n\n**확인되지 않음:** 원래 intended plaintext와 writer's exact intention은 확정되지 않았다. Holy Grail·Templar·buried treasure connection도 inscription 자체로 입증되지 않는다.",
+          "textEn": "**Established:** The cryptic inscription beneath the Shepherd's Monument and its historical monument context are real. Multiple hypotheses, including funerary readings of D/M, have been proposed.\n\n**Not established:** The intended plaintext and creator's exact intent remain unknown. Holy Grail, Templar, or buried-treasure connections are not established by the inscription itself."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** The cryptic inscription beneath the Shepherd's Monument and its historical monument context are real. Multiple hypotheses, including funerary readings of D/M, have been proposed.\n\n**Not established:** The intended plaintext and creator's exact intent remain unknown. Holy Grail, Templar, or buried-treasure connections are not established by the inscription itself.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "context-02",
+        "dm-03",
+        "grail-04",
+        "method-05",
+        "provenance-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SHUG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "D. O U O S V A V V M. inscription과 Shepherd's Monument는 실제 역사유산이다.",
+      "statementEn": "The D. O U O S V A V V M. inscription and Shepherd's Monument are real heritage features.",
+      "sourceRefs": [
+        "SHUG_NT"
+      ]
+    },
+    {
+      "claimId": "SHUG-C2",
+      "status": "SUPPORTED",
+      "statementKo": "D/M funerary abbreviation 등 여러 역사·언어 가설이 가능하다.",
+      "statementEn": "Multiple historical and linguistic hypotheses, including funerary readings of D/M, are plausible.",
+      "sourceRefs": [
+        "SHUG_NT"
+      ]
+    },
+    {
+      "claimId": "SHUG-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "definitive plaintext는 확정되지 않았다.",
+      "statementEn": "No definitive plaintext has been established.",
+      "sourceRefs": [
+        "SHUG_NT"
+      ]
+    },
+    {
+      "claimId": "SHUG-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Holy Grail·Templar·treasure 연결은 inscription만으로 입증되지 않는다.",
+      "statementEn": "Holy Grail, Templar, and treasure connections are not established by the inscription alone.",
+      "sourceRefs": [
+        "SHUG_NT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SHUG_NT",
+      "title": "Shepherd's Monument Heritage Record",
+      "publisher": "National Trust Heritage Records",
+      "url": "https://heritagerecords.nationaltrust.org.uk/HBSMR/MonRecord.aspx?skin=printerfriendly&uid=MNA181338",
+      "sourceType": "NATIONAL_HERITAGE_RECORD"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "shug-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "10-letter initialism의 solution freedom과 external-key 부재를 설명.",
+      "captionEn": "Why a ten-letter initialism allows large solution freedom without an external key.",
+      "altKo": "10-letter initialism의 solution freedom과 external-key 부재를 설명.",
+      "altEn": "Why a ten-letter initialism allows large solution freedom without an external key.",
+      "sourceRefs": [
+        "SHUG_NT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "shugborough-inscription__v01__ko.png",
+          "sha256": "ac866ed905061ebf1ea2ecf85e718fbd033881b92c9948dd70a16fabeb99bc9f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "shugborough-inscription__v01__en.png",
+          "sha256": "3c68e60760a348fef8ba10139a28898a4ce1f717cc5a424735d1e039c97b2ac1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "shug-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "monument/inscription 실재와 plaintext·Grail/Templar 가설을 분리.",
+      "captionEn": "Separate monument/inscription reality from plaintext and Grail/Templar theories.",
+      "altKo": "monument/inscription 실재와 plaintext·Grail/Templar 가설을 분리.",
+      "altEn": "Separate monument/inscription reality from plaintext and Grail/Templar theories.",
+      "sourceRefs": [
+        "SHUG_NT"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "shugborough-inscription__v02__ko.png",
+          "sha256": "e209f83b72a5da59e0745a48a779768a605208ea145201834e58528536e020b3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "shugborough-inscription__v02__en.png",
+          "sha256": "6de9006854534d36037737dd7921a622fd662f32596f8156a919f012de1b72ff",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "Historical Enigma / Lost Place / Identity"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "Staffordshire, England"
+    ],
+    "places": [
+      {
+        "name": "Shugborough Estate",
+        "role": "monument site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "National Trust"
+    ],
+    "dateRange": {
+      "start": "18th century",
+      "end": "present",
+      "precision": "monument construction through modern interpretation"
+    },
+    "era": "Georgian Britain",
+    "resolution": "INSCRIPTION_CONFIRMED_PLAINTEXT_UNRESOLVED",
+    "searchAliases": [
+      "Shugborough Inscription",
+      "OUOSVAVV"
+    ],
+    "relatedCases": []
+  },
+  "quality": {
+    "koBodyChars": 1609,
+    "enBodyWords": 298,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH18_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

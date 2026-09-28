@@ -1,0 +1,361 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "seneca-guns",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "세네카 건스",
+    "canonicalTitleEn": "Seneca Guns",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "대포도 지진도 없는데 ‘쾅’—이 미스터리한 소리는 하나의 현상일까",
+      "hook": "같은 ‘쾅’ 소리는 shallow earthquake, sonic boom, 폭발, 파도, 유성 등 전혀 다른 원인에서 나올 수 있다. USGS 자료를 보면 미스터리는 한 원인을 찾는 것보다 서로 다른 boom을 같은 이름으로 묶었는지부터 따져야 한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "대포가 없는데 해안과 호숫가에서 ‘쾅’ 소리가 난다",
+          "headingEn": "People Hear Cannon-Like Booms Where No Cannon Is Firing",
+          "textKo": "미국 동부 해안과 New York Finger Lakes 일대에서는 수백 년 동안 원인을 알 수 없는 저주파 boom 보고가 반복됐다. ‘Seneca Guns’라는 이름은 Seneca Lake 주변 소리에서 널리 쓰이지만 North Carolina·South Carolina·Virginia 해안의 비슷한 소리에도 적용된다. USGS는 많은 boom이 인간활동으로 설명되지만 일부 보고는 미해결로 남는다고 정리한다.",
+          "textEn": "For centuries, people along the U.S. East Coast and around New York's Finger Lakes have reported unexplained cannon-like booms. The name 'Seneca Guns' is commonly associated with Seneca Lake but is also applied to similar sounds along the coasts of North Carolina, South Carolina, and Virginia. USGS notes that many booms have ordinary human causes while some reports remain unexplained."
+        },
+        {
+          "blockId": "earthquake-02",
+          "type": "HYPOTHESIS",
+          "headingKo": "작고 얕은 지진은 실제로 ‘폭발음’을 만들 수 있다",
+          "headingEn": "Small Shallow Earthquakes Can Produce Audible Booms",
+          "textKo": "USGS는 West Coast 관측과 지진음 연구를 바탕으로 작은 shallow earthquake의 고주파 진동이 지표 가까운 사람에게 boom·rumble로 들릴 수 있다고 설명한다. 1886 Charleston earthquake와 이후 aftershock에서도 loud detonation 보고가 남았다. **지진이 boom을 만들 수 있다는 것은 확립된 메커니즘이지만, 모든 Seneca Guns 보고가 지진이라는 뜻은 아니다.**",
+          "textEn": "USGS explains, based on earthquake-sound research and West Coast observations, that high-frequency vibrations from small shallow earthquakes can become audible as booms or rumbles near the source. The 1886 Charleston earthquake and aftershocks produced documented detonation-like sounds. Earthquakes can create booms, but that does not identify every Seneca Guns report as seismic."
+        },
+        {
+          "blockId": "manycauses-03",
+          "type": "BACKGROUND",
+          "headingKo": "대기·바다·유성·초음속 비행까지 후보가 너무 많다",
+          "headingEn": "Atmosphere, Waves, Meteors, Sonic Booms, and Explosions Can Produce Similar Sounds",
+          "textKo": "USGS는 lightning, storm/tsunami waves, meteors, sand dunes 같은 자연원인과 sonic boom, explosion, construction 같은 인간원인을 함께 열거한다. 즉 ‘같은 소리’가 서로 다른 source에서 만들어질 수 있다. **Seneca Guns는 하나의 현상명이라기보다 원인이 다른 여러 boom 보고에 붙는 역사적 라벨일 가능성**이 크다.",
+          "textEn": "USGS lists lightning, storm or tsunami waves, meteors, and sand dunes among natural causes, alongside sonic booms, explosions, and construction. Similar sounds can therefore arise from very different sources. 'Seneca Guns' may function more as a historical label for multiple classes of booms than one single phenomenon."
+        },
+        {
+          "blockId": "northcarolina-04",
+          "type": "TURNING_POINT",
+          "headingKo": "North Carolina 연구에서는 큰 지진연결이 잡히지 않았다",
+          "headingEn": "A North Carolina Investigation Did Not Find a Clear Seismic Match",
+          "textKo": "USGS의 North Carolina boom 연구소개는 modern seismic network와 infrasound를 활용한 조사에서 보고된 boom과 뚜렷한 significant seismic activity가 연결되지 않아, 해당 사례들은 atmospheric source 가능성이 더 높다고 본다. **이 결과는 ‘Seneca Guns는 지진’이라는 단일해법을 약화하지만, 정확한 atmospheric mechanism을 하나로 확정하지도 않는다.**",
+          "textEn": "USGS's account of a North Carolina investigation describes use of seismic networks and acoustic infrasound. No significant seismic activity clearly matched the reported booms, making an atmospheric source more plausible for those episodes. The result weakens a universal earthquake explanation without identifying one definitive atmospheric mechanism."
+        },
+        {
+          "blockId": "measurement-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "다음 boom이 날 때 동시에 여러 센서가 잡아야 원인이 좁혀진다",
+          "headingEn": "The Best Way Forward Is Simultaneous Seismic and Acoustic Measurement",
+          "textKo": "USGS가 seismic network와 infrasound를 함께 쓰는 이유는 source 위치와 매질을 구분하기 위해서다. 지면진동과 공기압신호가 같은 시간·위치에서 잡히는지 비교하면 지진·대기·인공폭발 가능성을 좁힐 수 있다. **미스터리를 푸는 핵심은 더 많은 전설이 아니라 동시계측이다.**",
+          "textEn": "USGS uses seismic networks together with infrasound because comparing ground motion and atmospheric pressure signals can narrow source location and mechanism. Simultaneous measurement, rather than more anecdotes, is the key to resolving future events."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Seneca Guns라는 이름으로 불리는 unexplained boom 보고는 New York Finger Lakes와 미국 East Coast 여러 지역에 오래 존재한다. shallow earthquake·sonic boom·폭발·storm waves·meteors 등 여러 source가 비슷한 소리를 만들 수 있다. 일부 지역 boom은 작은 지진과 연결될 수 있다.\n\n**확인되지 않음:** 모든 Seneca Guns가 하나의 공통원인에서 나온다는 것은 입증되지 않았다. North Carolina 연구에서도 exact source는 미확정으로 남았고, 해당 사례는 큰 seismic source보다 atmospheric source 가능성이 더 높게 평가됐다.",
+          "textEn": "**Established:** Reports called Seneca Guns have a long history around the Finger Lakes and along parts of the U.S. East Coast. Small shallow earthquakes, sonic booms, explosions, storm waves, meteors and other sources can produce similar sounds, and some booms can be seismic.\n\n**Not established:** A single common cause has not been demonstrated for all Seneca Guns reports. In the North Carolina investigation, the exact source remained unresolved and an atmospheric origin was considered more likely than significant seismic activity."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Seneca Guns라는 이름으로 불리는 unexplained boom 보고는 New York Finger Lakes와 미국 East Coast 여러 지역에 오래 존재한다. shallow earthquake·sonic boom·폭발·storm waves·meteors 등 여러 source가 비슷한 소리를 만들 수 있다. 일부 지역 boom은 작은 지진과 연결될 수 있다.\n\n**확인되지 않음:** 모든 Seneca Guns가 하나의 공통원인에서 나온다는 것은 입증되지 않았다. North Carolina 연구에서도 exact source는 미확정으로 남았고, 해당 사례는 큰 seismic source보다 atmospheric source 가능성이 더 높게 평가됐다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "earthquake-02",
+        "manycauses-03",
+        "northcarolina-04",
+        "measurement-045"
+      ]
+    },
+    "en": {
+      "headline": "No Cannon, No Obvious Quake—Are the Seneca Guns Even One Phenomenon?",
+      "hook": "The same cannon-like boom can come from shallow earthquakes, sonic booms, explosions, waves or meteors. USGS evidence suggests the first question may be whether very different events have been grouped under one name.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "대포가 없는데 해안과 호숫가에서 ‘쾅’ 소리가 난다",
+          "headingEn": "People Hear Cannon-Like Booms Where No Cannon Is Firing",
+          "textKo": "미국 동부 해안과 New York Finger Lakes 일대에서는 수백 년 동안 원인을 알 수 없는 저주파 boom 보고가 반복됐다. ‘Seneca Guns’라는 이름은 Seneca Lake 주변 소리에서 널리 쓰이지만 North Carolina·South Carolina·Virginia 해안의 비슷한 소리에도 적용된다. USGS는 많은 boom이 인간활동으로 설명되지만 일부 보고는 미해결로 남는다고 정리한다.",
+          "textEn": "For centuries, people along the U.S. East Coast and around New York's Finger Lakes have reported unexplained cannon-like booms. The name 'Seneca Guns' is commonly associated with Seneca Lake but is also applied to similar sounds along the coasts of North Carolina, South Carolina, and Virginia. USGS notes that many booms have ordinary human causes while some reports remain unexplained."
+        },
+        {
+          "blockId": "earthquake-02",
+          "type": "HYPOTHESIS",
+          "headingKo": "작고 얕은 지진은 실제로 ‘폭발음’을 만들 수 있다",
+          "headingEn": "Small Shallow Earthquakes Can Produce Audible Booms",
+          "textKo": "USGS는 West Coast 관측과 지진음 연구를 바탕으로 작은 shallow earthquake의 고주파 진동이 지표 가까운 사람에게 boom·rumble로 들릴 수 있다고 설명한다. 1886 Charleston earthquake와 이후 aftershock에서도 loud detonation 보고가 남았다. **지진이 boom을 만들 수 있다는 것은 확립된 메커니즘이지만, 모든 Seneca Guns 보고가 지진이라는 뜻은 아니다.**",
+          "textEn": "USGS explains, based on earthquake-sound research and West Coast observations, that high-frequency vibrations from small shallow earthquakes can become audible as booms or rumbles near the source. The 1886 Charleston earthquake and aftershocks produced documented detonation-like sounds. Earthquakes can create booms, but that does not identify every Seneca Guns report as seismic."
+        },
+        {
+          "blockId": "manycauses-03",
+          "type": "BACKGROUND",
+          "headingKo": "대기·바다·유성·초음속 비행까지 후보가 너무 많다",
+          "headingEn": "Atmosphere, Waves, Meteors, Sonic Booms, and Explosions Can Produce Similar Sounds",
+          "textKo": "USGS는 lightning, storm/tsunami waves, meteors, sand dunes 같은 자연원인과 sonic boom, explosion, construction 같은 인간원인을 함께 열거한다. 즉 ‘같은 소리’가 서로 다른 source에서 만들어질 수 있다. **Seneca Guns는 하나의 현상명이라기보다 원인이 다른 여러 boom 보고에 붙는 역사적 라벨일 가능성**이 크다.",
+          "textEn": "USGS lists lightning, storm or tsunami waves, meteors, and sand dunes among natural causes, alongside sonic booms, explosions, and construction. Similar sounds can therefore arise from very different sources. 'Seneca Guns' may function more as a historical label for multiple classes of booms than one single phenomenon."
+        },
+        {
+          "blockId": "northcarolina-04",
+          "type": "TURNING_POINT",
+          "headingKo": "North Carolina 연구에서는 큰 지진연결이 잡히지 않았다",
+          "headingEn": "A North Carolina Investigation Did Not Find a Clear Seismic Match",
+          "textKo": "USGS의 North Carolina boom 연구소개는 modern seismic network와 infrasound를 활용한 조사에서 보고된 boom과 뚜렷한 significant seismic activity가 연결되지 않아, 해당 사례들은 atmospheric source 가능성이 더 높다고 본다. **이 결과는 ‘Seneca Guns는 지진’이라는 단일해법을 약화하지만, 정확한 atmospheric mechanism을 하나로 확정하지도 않는다.**",
+          "textEn": "USGS's account of a North Carolina investigation describes use of seismic networks and acoustic infrasound. No significant seismic activity clearly matched the reported booms, making an atmospheric source more plausible for those episodes. The result weakens a universal earthquake explanation without identifying one definitive atmospheric mechanism."
+        },
+        {
+          "blockId": "measurement-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "다음 boom이 날 때 동시에 여러 센서가 잡아야 원인이 좁혀진다",
+          "headingEn": "The Best Way Forward Is Simultaneous Seismic and Acoustic Measurement",
+          "textKo": "USGS가 seismic network와 infrasound를 함께 쓰는 이유는 source 위치와 매질을 구분하기 위해서다. 지면진동과 공기압신호가 같은 시간·위치에서 잡히는지 비교하면 지진·대기·인공폭발 가능성을 좁힐 수 있다. **미스터리를 푸는 핵심은 더 많은 전설이 아니라 동시계측이다.**",
+          "textEn": "USGS uses seismic networks together with infrasound because comparing ground motion and atmospheric pressure signals can narrow source location and mechanism. Simultaneous measurement, rather than more anecdotes, is the key to resolving future events."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Seneca Guns라는 이름으로 불리는 unexplained boom 보고는 New York Finger Lakes와 미국 East Coast 여러 지역에 오래 존재한다. shallow earthquake·sonic boom·폭발·storm waves·meteors 등 여러 source가 비슷한 소리를 만들 수 있다. 일부 지역 boom은 작은 지진과 연결될 수 있다.\n\n**확인되지 않음:** 모든 Seneca Guns가 하나의 공통원인에서 나온다는 것은 입증되지 않았다. North Carolina 연구에서도 exact source는 미확정으로 남았고, 해당 사례는 큰 seismic source보다 atmospheric source 가능성이 더 높게 평가됐다.",
+          "textEn": "**Established:** Reports called Seneca Guns have a long history around the Finger Lakes and along parts of the U.S. East Coast. Small shallow earthquakes, sonic booms, explosions, storm waves, meteors and other sources can produce similar sounds, and some booms can be seismic.\n\n**Not established:** A single common cause has not been demonstrated for all Seneca Guns reports. In the North Carolina investigation, the exact source remained unresolved and an atmospheric origin was considered more likely than significant seismic activity."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Reports called Seneca Guns have a long history around the Finger Lakes and along parts of the U.S. East Coast. Small shallow earthquakes, sonic booms, explosions, storm waves, meteors and other sources can produce similar sounds, and some booms can be seismic.\n\n**Not established:** A single common cause has not been demonstrated for all Seneca Guns reports. In the North Carolina investigation, the exact source remained unresolved and an atmospheric origin was considered more likely than significant seismic activity.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "earthquake-02",
+        "manycauses-03",
+        "northcarolina-04",
+        "measurement-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SEN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Seneca Guns라는 unexplained boom 보고는 Finger Lakes와 미국 East Coast에 장기간 존재한다.",
+      "statementEn": "Reports called Seneca Guns have a long history around the Finger Lakes and the U.S. East Coast.",
+      "sourceRefs": [
+        "SEN_USGS"
+      ]
+    },
+    {
+      "claimId": "SEN-C2",
+      "status": "CONFIRMED",
+      "statementKo": "small shallow earthquake는 실제 audible boom을 만들 수 있다.",
+      "statementEn": "Small shallow earthquakes can produce audible booming sounds.",
+      "sourceRefs": [
+        "SEN_USGS",
+        "SEN_USGS_FAQ"
+      ]
+    },
+    {
+      "claimId": "SEN-C3",
+      "status": "SUPPORTED",
+      "statementKo": "North Carolina 조사에서는 significant seismic activity가 연결되지 않아 atmospheric origin이 더 가능성 있게 평가됐다.",
+      "statementEn": "A North Carolina investigation found no clear significant seismic match and considered an atmospheric origin more likely.",
+      "sourceRefs": [
+        "SEN_USGS_STUDY"
+      ]
+    },
+    {
+      "claimId": "SEN-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 Seneca Guns를 설명하는 하나의 단일원인은 확립되지 않았다.",
+      "statementEn": "No single cause has been established for all Seneca Guns reports.",
+      "sourceRefs": [
+        "SEN_USGS",
+        "SEN_USGS_STUDY"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SEN_USGS",
+      "title": "Earthquake Booms, Seneca Guns, and Other Sounds",
+      "publisher": "U.S. Geological Survey Earthquake Hazards Program",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/earthquake-booms-seneca-guns-and-other-sounds",
+      "sourceType": "USGS_OFFICIAL"
+    },
+    {
+      "sourceId": "SEN_USGS_STUDY",
+      "title": "Science or Superstition? — Rumblings in North Carolina",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/news/featured-story/science-or-superstition",
+      "sourceType": "USGS_RESEARCH_CONTEXT"
+    },
+    {
+      "sourceId": "SEN_USGS_FAQ",
+      "title": "What are those booms I sometimes hear before or during an earthquake?",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/faqs/what-are-those-booms-i-sometimes-hear-or-during-earthquake",
+      "sourceType": "USGS_SCIENCE_FAQ"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sen-v01",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "지진·대기·파도·유성·sonic boom·폭발 등 가능한 boom source 비교.",
+      "captionEn": "Comparison of possible boom sources: seismic, atmospheric, waves, meteors, sonic booms, explosions.",
+      "altKo": "지진·대기·파도·유성·sonic boom·폭발 등 가능한 boom source 비교.",
+      "altEn": "Comparison of possible boom sources: seismic, atmospheric, waves, meteors, sonic booms, explosions.",
+      "sourceRefs": [
+        "SEN_USGS",
+        "SEN_USGS_FAQ",
+        "SEN_USGS_STUDY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "seneca-guns__v01__ko.png",
+          "sha256": "3a90670c67d3d12787d3715d3add2fa0f9d0c8a08921b02acc4bf2a2aab68733",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "seneca-guns__v01__en.png",
+          "sha256": "386a6368174e5f775a4ce00c0dc55f5aa4b6f4892d6ac58fa35caac10aabb63d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sen-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "‘일부 지진음 가능’과 ‘모든 Seneca Guns 단일원인’ 주장을 분리.",
+      "captionEn": "Evidence card separating possible earthquake booms from a universal Seneca Guns explanation.",
+      "altKo": "‘일부 지진음 가능’과 ‘모든 Seneca Guns 단일원인’ 주장을 분리.",
+      "altEn": "Evidence card separating possible earthquake booms from a universal Seneca Guns explanation.",
+      "sourceRefs": [
+        "SEN_USGS",
+        "SEN_USGS_FAQ",
+        "SEN_USGS_STUDY"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "seneca-guns__v02__ko.png",
+          "sha256": "3f2fc2f91d38eeff72593776f2305b9b3d3be5cda5bff97c6f4e205c0b055d01",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "seneca-guns__v02__en.png",
+          "sha256": "a255018f152a018b1f0a06f344b2d713783b19dc03fef10acc760e8f4d681396",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Paranormal / Haunting / Folklore"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Finger Lakes / U.S. East Coast"
+    ],
+    "places": [
+      {
+        "name": "Seneca Lake",
+        "role": "name origin/context"
+      },
+      {
+        "name": "coastal North Carolina",
+        "role": "modern investigation region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Geological Survey"
+    ],
+    "dateRange": {
+      "start": "historical",
+      "end": "present",
+      "precision": "centuries of reports"
+    },
+    "era": "Historical reports / modern geophysics",
+    "resolution": "MULTIPLE_PLAUSIBLE_SOURCES_NO_SINGLE_CAUSE",
+    "searchAliases": [
+      "Seneca Guns",
+      "mystery booms",
+      "Carolina booms"
+    ],
+    "relatedCases": [
+      "earthquake-lights"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1516,
+    "enBodyWords": 321,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

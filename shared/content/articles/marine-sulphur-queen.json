@@ -1,0 +1,387 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "marine-sulphur-queen",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Marine Sulphur Queen 실종",
+    "canonicalTitleEn": "Marine Sulphur Queen",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "BLACK_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "위험요소는 수십 개였는데 왜 정확한 침몰원인은 끝내 하나로 못 좁혔나",
+      "hook": "Marine Sulphur Queen은 단순히 흔적 없이 사라진 배가 아니다. debris와 마지막 radio, USCG 조사로 많은 위험요소는 보인다. 하지만 main wreck가 없어서 어느 failure가 실제 마지막 연쇄를 시작했는지는 남았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "용융 황 1만5천 톤을 싣고 출항한 개조 탱커는 39명과 함께 사라졌다",
+          "headingEn": "A Converted Tanker Carrying 15,000+ Tons of Molten Sulfur Vanished With 39 Crew",
+          "textKo": "Marine Sulphur Queen은 molten sulfur carrier로 개조된 T2 tanker였다. US Coast Guard investigation은 1963년 2월 2일 Beaumont, Texas를 떠나 Norfolk로 향했고 39명의 crew가 승선했다고 기록한다. 2월 4일 새벽 personal radio message가 마지막 known contact가 됐다. **이후 ship 자체는 다시 확인되지 않았다.**",
+          "textEn": "Marine Sulphur Queen was a converted T2 tanker carrying molten sulfur. The U.S. Coast Guard investigation records departure from Beaumont, Texas, on February 2, 1963, bound for Norfolk with 39 crew. A personal radio message early on February 4 became the last known contact. The ship itself was never recovered."
+        },
+        {
+          "blockId": "weather-02",
+          "type": "BACKGROUND",
+          "headingKo": "마지막 항로에는 high winds와 rough seas가 있었다",
+          "headingEn": "The Last Known Route Included High Winds and Rough Seas",
+          "textKo": "USCG report는 2월 3~4일 Gulf of Mexico와 Straits of Florida 접근구간에서 northerly winds 약 25~46 knots, seas 약 16 ft의 rough condition을 기록한다. **악천후는 중요한 context지만 '따라서 파도 때문에 침몰'이라는 단일원인을 바로 확정하는 증거는 아니다.**",
+          "textEn": "The Coast Guard report describes northerly winds around 25–46 knots and seas around 16 feet along the ship's route on February 3–4. Rough weather is an important context, but it does not by itself prove that waves alone caused the loss."
+        },
+        {
+          "blockId": "debris-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "debris는 실제 loss area를 좁혔지만 wreck는 찾지 못했다",
+          "headingEn": "Recovered Debris Narrowed the Loss Area but Did Not Reveal the Wreck",
+          "textKo": "수색에서는 Marine Sulphur Queen에서 나온 것으로 identified된 scattered debris가 발견됐다. Coast Guard는 이를 마지막 radio contact와 함께 보면 ship이 2월 4일 Straits of Florida 접근 또는 vicinity에서 foundered했을 가능성이 높다고 결론냈다. **그러나 main wreck가 없으므로 내부에서 어떤 failure sequence가 일어났는지 직접 볼 수는 없었다.**",
+          "textEn": "Searchers recovered scattered debris identified as coming from Marine Sulphur Queen. Combined with the last radio contact, the Coast Guard concluded that the ship probably foundered on February 4 near the approach to the Straits of Florida. Without the main wreck, however, the internal failure sequence could not be directly examined."
+        },
+        {
+          "blockId": "vulnerabilities-04",
+          "type": "TURNING_POINT",
+          "headingKo": "조사는 선체·cargo system·화재·폭발 관련 중대한 취약점을 여럿 지적했다",
+          "headingEn": "The Investigation Identified Multiple Serious Structural and Cargo-System Vulnerabilities",
+          "textKo": "USCG proceedings는 converted hull, cargo tanks와 surrounding voids, ventilation, molten sulfur carriage, fire/explosion risk, prior heavy-weather damage 등 여러 safety concern을 검토했다. **여러 위험요소가 동시에 존재한다는 사실은 '원인 후보가 많다'는 뜻이지 특정 one mechanism이 입증됐다는 뜻은 아니다.**",
+          "textEn": "The Coast Guard proceedings examined the converted hull, cargo tanks and surrounding voids, ventilation, molten-sulfur carriage, fire/explosion risk, and prior heavy-weather damage. Multiple serious vulnerabilities mean several plausible causal paths existed; they do not establish one specific mechanism."
+        },
+        {
+          "blockId": "conversion-045",
+          "type": "BACKGROUND",
+          "headingKo": "원래 T2 tanker를 molten-sulfur carrier로 바꾼 구조 자체가 조사 핵심이었다",
+          "headingEn": "The T2 Tanker's Conversion Into a Molten-Sulfur Carrier Was Central to the Investigation",
+          "textKo": "Marine Sulphur Queen은 처음부터 sulfur carrier로 설계된 ship이 아니라 기존 tanker를 특수 cargo service에 맞게 개조한 vessel이었다. 그래서 Board는 original hull과 new cargo arrangement가 rough sea에서 어떻게 상호작용했는지 집중적으로 검토했다. **conversion history는 사고원인의 단일답이 아니라 vulnerability context다.**",
+          "textEn": "Marine Sulphur Queen was not originally designed as a molten-sulfur carrier; it was a converted tanker. The Board therefore examined how the original hull and new cargo arrangement interacted under heavy-sea loading. Conversion history is vulnerability context, not a single proven cause."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Marine Sulphur Queen은 1963년 39명과 함께 실종됐고, 마지막 radio contact와 confirmed debris로 보아 2월 4일 Florida Straits 접근부근에서 lost한 것으로 USCG가 판단했다. 조사에서는 구조·cargo·fire/explosion 관련 여러 위험요소가 문서화됐다.\n\n**확인되지 않음:** ship wreck가 발견되지 않아 정확한 initiating failure와 sinking sequence는 확정되지 않았다. 특정 explosion 또는 structural failure 하나를 최종원인으로 단정할 직접증거는 없다.",
+          "textEn": "**Established:** Marine Sulphur Queen disappeared in 1963 with 39 crew. Based on last contact and confirmed debris, the Coast Guard concluded it was lost on February 4 near the approaches to the Straits of Florida. Multiple structural, cargo-system, and fire/explosion vulnerabilities were documented.\n\n**Not established:** The wreck was never found, so the initiating failure and exact sinking sequence remain unproven. No single explosion or structural failure is established as the definitive cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Marine Sulphur Queen은 1963년 39명과 함께 실종됐고, 마지막 radio contact와 confirmed debris로 보아 2월 4일 Florida Straits 접근부근에서 lost한 것으로 USCG가 판단했다. 조사에서는 구조·cargo·fire/explosion 관련 여러 위험요소가 문서화됐다.\n\n**확인되지 않음:** ship wreck가 발견되지 않아 정확한 initiating failure와 sinking sequence는 확정되지 않았다. 특정 explosion 또는 structural failure 하나를 최종원인으로 단정할 직접증거는 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "weather-02",
+        "debris-03",
+        "vulnerabilities-04",
+        "conversion-045"
+      ]
+    },
+    "en": {
+      "headline": "Dozens of Risk Factors Were Documented—Why Was the Exact Sinking Cause Never Proven?",
+      "hook": "Marine Sulphur Queen was not a totally evidence-free disappearance: debris, last radio contact, weather, and Coast Guard investigation reveal many risks. What remains missing is the wreck evidence needed to prove which failure actually triggered the final chain.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "용융 황 1만5천 톤을 싣고 출항한 개조 탱커는 39명과 함께 사라졌다",
+          "headingEn": "A Converted Tanker Carrying 15,000+ Tons of Molten Sulfur Vanished With 39 Crew",
+          "textKo": "Marine Sulphur Queen은 molten sulfur carrier로 개조된 T2 tanker였다. US Coast Guard investigation은 1963년 2월 2일 Beaumont, Texas를 떠나 Norfolk로 향했고 39명의 crew가 승선했다고 기록한다. 2월 4일 새벽 personal radio message가 마지막 known contact가 됐다. **이후 ship 자체는 다시 확인되지 않았다.**",
+          "textEn": "Marine Sulphur Queen was a converted T2 tanker carrying molten sulfur. The U.S. Coast Guard investigation records departure from Beaumont, Texas, on February 2, 1963, bound for Norfolk with 39 crew. A personal radio message early on February 4 became the last known contact. The ship itself was never recovered."
+        },
+        {
+          "blockId": "weather-02",
+          "type": "BACKGROUND",
+          "headingKo": "마지막 항로에는 high winds와 rough seas가 있었다",
+          "headingEn": "The Last Known Route Included High Winds and Rough Seas",
+          "textKo": "USCG report는 2월 3~4일 Gulf of Mexico와 Straits of Florida 접근구간에서 northerly winds 약 25~46 knots, seas 약 16 ft의 rough condition을 기록한다. **악천후는 중요한 context지만 '따라서 파도 때문에 침몰'이라는 단일원인을 바로 확정하는 증거는 아니다.**",
+          "textEn": "The Coast Guard report describes northerly winds around 25–46 knots and seas around 16 feet along the ship's route on February 3–4. Rough weather is an important context, but it does not by itself prove that waves alone caused the loss."
+        },
+        {
+          "blockId": "debris-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "debris는 실제 loss area를 좁혔지만 wreck는 찾지 못했다",
+          "headingEn": "Recovered Debris Narrowed the Loss Area but Did Not Reveal the Wreck",
+          "textKo": "수색에서는 Marine Sulphur Queen에서 나온 것으로 identified된 scattered debris가 발견됐다. Coast Guard는 이를 마지막 radio contact와 함께 보면 ship이 2월 4일 Straits of Florida 접근 또는 vicinity에서 foundered했을 가능성이 높다고 결론냈다. **그러나 main wreck가 없으므로 내부에서 어떤 failure sequence가 일어났는지 직접 볼 수는 없었다.**",
+          "textEn": "Searchers recovered scattered debris identified as coming from Marine Sulphur Queen. Combined with the last radio contact, the Coast Guard concluded that the ship probably foundered on February 4 near the approach to the Straits of Florida. Without the main wreck, however, the internal failure sequence could not be directly examined."
+        },
+        {
+          "blockId": "vulnerabilities-04",
+          "type": "TURNING_POINT",
+          "headingKo": "조사는 선체·cargo system·화재·폭발 관련 중대한 취약점을 여럿 지적했다",
+          "headingEn": "The Investigation Identified Multiple Serious Structural and Cargo-System Vulnerabilities",
+          "textKo": "USCG proceedings는 converted hull, cargo tanks와 surrounding voids, ventilation, molten sulfur carriage, fire/explosion risk, prior heavy-weather damage 등 여러 safety concern을 검토했다. **여러 위험요소가 동시에 존재한다는 사실은 '원인 후보가 많다'는 뜻이지 특정 one mechanism이 입증됐다는 뜻은 아니다.**",
+          "textEn": "The Coast Guard proceedings examined the converted hull, cargo tanks and surrounding voids, ventilation, molten-sulfur carriage, fire/explosion risk, and prior heavy-weather damage. Multiple serious vulnerabilities mean several plausible causal paths existed; they do not establish one specific mechanism."
+        },
+        {
+          "blockId": "conversion-045",
+          "type": "BACKGROUND",
+          "headingKo": "원래 T2 tanker를 molten-sulfur carrier로 바꾼 구조 자체가 조사 핵심이었다",
+          "headingEn": "The T2 Tanker's Conversion Into a Molten-Sulfur Carrier Was Central to the Investigation",
+          "textKo": "Marine Sulphur Queen은 처음부터 sulfur carrier로 설계된 ship이 아니라 기존 tanker를 특수 cargo service에 맞게 개조한 vessel이었다. 그래서 Board는 original hull과 new cargo arrangement가 rough sea에서 어떻게 상호작용했는지 집중적으로 검토했다. **conversion history는 사고원인의 단일답이 아니라 vulnerability context다.**",
+          "textEn": "Marine Sulphur Queen was not originally designed as a molten-sulfur carrier; it was a converted tanker. The Board therefore examined how the original hull and new cargo arrangement interacted under heavy-sea loading. Conversion history is vulnerability context, not a single proven cause."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Marine Sulphur Queen은 1963년 39명과 함께 실종됐고, 마지막 radio contact와 confirmed debris로 보아 2월 4일 Florida Straits 접근부근에서 lost한 것으로 USCG가 판단했다. 조사에서는 구조·cargo·fire/explosion 관련 여러 위험요소가 문서화됐다.\n\n**확인되지 않음:** ship wreck가 발견되지 않아 정확한 initiating failure와 sinking sequence는 확정되지 않았다. 특정 explosion 또는 structural failure 하나를 최종원인으로 단정할 직접증거는 없다.",
+          "textEn": "**Established:** Marine Sulphur Queen disappeared in 1963 with 39 crew. Based on last contact and confirmed debris, the Coast Guard concluded it was lost on February 4 near the approaches to the Straits of Florida. Multiple structural, cargo-system, and fire/explosion vulnerabilities were documented.\n\n**Not established:** The wreck was never found, so the initiating failure and exact sinking sequence remain unproven. No single explosion or structural failure is established as the definitive cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Marine Sulphur Queen disappeared in 1963 with 39 crew. Based on last contact and confirmed debris, the Coast Guard concluded it was lost on February 4 near the approaches to the Straits of Florida. Multiple structural, cargo-system, and fire/explosion vulnerabilities were documented.\n\n**Not established:** The wreck was never found, so the initiating failure and exact sinking sequence remain unproven. No single explosion or structural failure is established as the definitive cause.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "weather-02",
+        "debris-03",
+        "vulnerabilities-04",
+        "conversion-045"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MSQ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Marine Sulphur Queen은 1963년 39명의 crew와 함께 실종됐다.",
+      "statementEn": "Marine Sulphur Queen disappeared in 1963 with 39 crew.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT"
+      ]
+    },
+    {
+      "claimId": "MSQ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "마지막 contact·debris는 2월4일 Florida Straits 접근 부근 loss와 부합한다.",
+      "statementEn": "Last contact and debris are consistent with loss near the Straits of Florida on February 4.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT",
+        "MSQ_USCG_PROCEEDINGS"
+      ]
+    },
+    {
+      "claimId": "MSQ-C3",
+      "status": "CONFIRMED",
+      "statementKo": "USCG investigation은 여러 structural/cargo/fire vulnerabilities를 기록했다.",
+      "statementEn": "The Coast Guard investigation documented multiple structural, cargo, and fire/explosion vulnerabilities.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT",
+        "MSQ_USCG_PROCEEDINGS"
+      ]
+    },
+    {
+      "claimId": "MSQ-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 initiating failure와 sinking sequence는 확정되지 않았다.",
+      "statementEn": "The exact initiating failure and sinking sequence remain unestablished.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MSQ_USCG_REPORT",
+      "title": "Marine Sulphur Queen Board of Investigation",
+      "publisher": "U.S. Coast Guard",
+      "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/INV/docs/boards/marsulqueen.pdf",
+      "sourceType": "USCG_PRIMARY_INVESTIGATION"
+    },
+    {
+      "sourceId": "MSQ_USCG_PROCEEDINGS",
+      "title": "Proceedings of the Merchant Marine Council, July 1964",
+      "publisher": "U.S. Coast Guard",
+      "url": "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/Proceedings%20Magazine/Archive/1964/Vol21_No7_Jul1964.pdf?ver=V8OB6lNazkA_D8hE-jphCA%3D%3D",
+      "sourceType": "USCG_OFFICIAL_PROCEEDINGS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "msq-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "2/2 출항 → 2/4 마지막 radio → overdue → air/sea search → debris → 원인미확정.",
+      "captionEn": "Feb 2 departure → Feb 4 last radio → overdue → search → debris → cause unresolved.",
+      "altKo": "2/2 출항 → 2/4 마지막 radio → overdue → air/sea search → debris → 원인미확정.",
+      "altEn": "Feb 2 departure → Feb 4 last radio → overdue → search → debris → cause unresolved.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT",
+        "MSQ_USCG_PROCEEDINGS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "marine-sulphur-queen__v01__ko.png",
+          "sha256": "367d698610bdaa0d4474c325b0bf575234fc13203c680020819221fc8b9801a3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "marine-sulphur-queen__v01__en.png",
+          "sha256": "9a237407ccb4809e0dbe7714a1f3703401f3234f0e18ffd8f0a691ddcd2923bf",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "msq-v02",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "rough sea·structural vulnerability·cargo/fire risk를 competing causal paths로 비교.",
+      "captionEn": "Compare rough seas, structural vulnerability, and cargo/fire risk as competing causal paths.",
+      "altKo": "rough sea·structural vulnerability·cargo/fire risk를 competing causal paths로 비교.",
+      "altEn": "Compare rough seas, structural vulnerability, and cargo/fire risk as competing causal paths.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT",
+        "MSQ_USCG_PROCEEDINGS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "marine-sulphur-queen__v02__ko.png",
+          "sha256": "85bd657a104d1d30d15fe77fa62b7f3a5d3878d6be23e69a3f80e5972f3fc7be",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "marine-sulphur-queen__v02__en.png",
+          "sha256": "d319b532905b68a73a946a4eefb43903a37ff274a4c756c861d48d2ce3661634",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "msq-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "loss area 추정과 exact sinking mechanism 미확정을 분리.",
+      "captionEn": "Separate probable loss area from unresolved exact sinking mechanism.",
+      "altKo": "loss area 추정과 exact sinking mechanism 미확정을 분리.",
+      "altEn": "Separate probable loss area from unresolved exact sinking mechanism.",
+      "sourceRefs": [
+        "MSQ_USCG_REPORT",
+        "MSQ_USCG_PROCEEDINGS"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "marine-sulphur-queen__v03__ko.png",
+          "sha256": "beb56db38ae938283cfbf204da50745bf57559305679fafb3994ed4d9908d4c1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "marine-sulphur-queen__v03__en.png",
+          "sha256": "07831d9421276e27a3cae9faf233d671a2ed47056dfb1ab103b0392587aef8dc",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Crime / Disappearance"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Gulf of Mexico / Straits of Florida"
+    ],
+    "places": [
+      {
+        "name": "Beaumont, Texas",
+        "role": "departure"
+      },
+      {
+        "name": "Straits of Florida",
+        "role": "probable loss region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Coast Guard"
+    ],
+    "dateRange": {
+      "start": "1963-02-02",
+      "end": "1963-02",
+      "precision": "voyage and search"
+    },
+    "era": "20th-century maritime",
+    "resolution": "VESSEL_AND_CREW_LOST_RISK_FACTORS_DOCUMENTED_EXACT_CAUSE_UNRESOLVED",
+    "searchAliases": [
+      "Marine Sulphur Queen",
+      "SS Marine Sulphur Queen"
+    ],
+    "relatedCases": [
+      "bermuda-triangle"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1541,
+    "enBodyWords": 299,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH16_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

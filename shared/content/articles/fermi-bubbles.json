@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "fermi-bubbles",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "페르미 버블",
+    "canonicalTitleEn": "Fermi Bubbles",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ],
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "우리 은하 중심에서 무엇이 5만 광년짜리 감마선 거품을 밀어냈나",
+      "hook": "거품의 존재는 더 이상 미스터리가 아니다. Fermi가 실제로 봤다. 남은 미스터리는 무엇이 은하 중심에서 그만한 에너지를 방출했고, 언제 어떤 입자를 가속했는가다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우리 은하 중심 위아래로 5만 광년짜리 감마선 ‘거품’이 숨어 있었다",
+          "headingEn": "Two Gamma-Ray Lobes Stretching 50,000 Light-Years Were Hiding in Plain Sight",
+          "textKo": "2010년 Fermi Gamma-ray Space Telescope 데이터 분석에서 Milky Way 중심 위아래로 대칭적인 두 거대구조가 발견됐다. NASA는 각 lobe가 약 25,000 light-years 뻗고 전체가 약 50,000 light-years 규모라고 설명한다. **이 구조는 육안으로 보이는 가스풍선이 아니라 고에너지 gamma-ray emission의 형태로 드러난 거대한 Galactic 구조**다.",
+          "textEn": "In 2010, analysis of Fermi Gamma-ray Space Telescope data revealed two enormous roughly symmetric structures above and below the Milky Way's center. NASA describes each lobe as extending about 25,000 light-years, for a total structure around 50,000 light-years tall. These are not visible gas balloons; they are enormous Galactic structures traced through high-energy gamma-ray emission."
+        },
+        {
+          "blockId": "discovery-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "처음에는 diffuse background 속에 묻혀 있어 data processing이 필요했다",
+          "headingEn": "The Bubbles Emerged Only After Careful Removal of Diffuse Background Emission",
+          "textKo": "NASA 자료는 Fermi all-sky map 자체에서 bubbles가 즉시 눈에 띄지 않았고, Galactic diffuse emission model을 빼는 분석 뒤 경계가 선명해졌다고 설명한다. 이 때문에 discovery는 ‘망원경으로 큰 풍선을 직접 본 것’보다 **복잡한 gamma-ray sky에서 예상배경을 모델링하고 남은 구조를 인식한 데이터분석 발견**에 가깝다.",
+          "textEn": "NASA explains that the bubbles were not immediately obvious in the raw Fermi all-sky map. Their sharp-edged structure emerged after models of expected diffuse Galactic gamma-ray emission were subtracted. The discovery was therefore a data-analysis result: identifying a coherent residual structure within a complex gamma-ray sky."
+        },
+        {
+          "blockId": "origin-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "가장 큰 질문은 ‘무엇이 은하 중심에서 이 정도 에너지를 밀어냈나’다",
+          "headingEn": "The Central Question Is What Released So Much Energy From the Galactic Center",
+          "textKo": "NASA는 초기부터 two main origin families를 제시했다. 하나는 Milky Way 중심 supermassive black hole Sagittarius A*의 과거 강한 accretion/outburst이고, 다른 하나는 집중적인 star formation과 supernova-driven wind다. 두 과정이 함께 작용했을 가능성도 열려 있다. **거품의 존재는 확실하지만 생성사건은 하나로 확정되지 않았다.**",
+          "textEn": "NASA has long highlighted two main families of origin models: a past strong accretion/outburst phase from the central supermassive black hole Sagittarius A*, or intense star formation and supernova-driven winds. Combined scenarios are also possible. The bubbles are firmly observed, but the event that created them has not been uniquely identified."
+        },
+        {
+          "blockId": "particles-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "감마선이 보인다고 입자종류와 age가 자동으로 정해지는 것은 아니다",
+          "headingEn": "Gamma Rays Do Not Uniquely Determine the Particle Population or Age",
+          "textKo": "NASA 초기설명은 high-energy electrons가 낮은에너지 photon과 inverse Compton scattering을 일으켜 gamma rays를 만들 가능성을 강조했지만, proton-driven hadronic models도 연구돼 왔다. formation age 역시 모델가정에 따라 달라진다. **같은 gamma-ray morphology가 여러 particle population과 outflow history에서 나올 수 있어 origin inference는 model-dependent다.**",
+          "textEn": "NASA's early explanations emphasized high-energy electrons producing gamma rays through inverse Compton scattering, while hadronic scenarios involving high-energy protons have also been studied. Estimated ages likewise depend on model assumptions. Similar gamma-ray morphology can arise from different particle populations and outflow histories."
+        },
+        {
+          "blockId": "energy-045",
+          "type": "BACKGROUND",
+          "headingKo": "‘거품’이라는 이름은 형태를 설명할 뿐 실제 비눗방울 같은 경계막을 뜻하지 않는다",
+          "headingEn": "The Word 'Bubble' Describes Morphology, Not a Soap-Like Physical Membrane",
+          "textKo": "Fermi Bubbles는 gamma-ray sky에서 sharp edge를 가진 lobe처럼 보이기 때문에 붙은 이름이다. 실제로는 고에너지입자·자기장·가스·복사과정이 얽힌 광대한 Galactic volume이다. **명칭을 물리적 껍질 하나로 문자 그대로 읽으면 구조와 방출메커니즘을 과도하게 단순화하게 된다.**",
+          "textEn": "The name Fermi Bubbles describes their lobe-like morphology and sharp gamma-ray edges. Physically they are vast Galactic volumes involving energetic particles, fields, gas, and radiation processes—not literal soap-like bubbles with a simple membrane."
+        },
+        {
+          "blockId": "context-048",
+          "type": "AFTERMATH",
+          "headingKo": "이 구조는 우리 은하 중심의 과거활동을 읽는 ‘화석기록’처럼 사용된다",
+          "headingEn": "The Bubbles Act Like a Fossil Record of Past Galactic-Center Activity",
+          "textKo": "오늘의 Sagittarius A*는 비교적 조용하지만, Fermi Bubbles는 은하 중심이 과거에 훨씬 더 energetic했을 가능성을 연구하게 만든다. 구조의 크기·edge·spectrum을 이용하면 과거 outflow의 에너지와 시간규모를 역추정할 수 있다. **정확한 사건은 미정이지만, bubbles가 Milky Way의 과거활동을 추적하는 핵심 관측창이라는 점은 분명하다.**",
+          "textEn": "Sagittarius A* is relatively quiet today, but the Fermi Bubbles provide a way to infer much stronger past activity in the Galactic center. Their size, edges, and spectra constrain the energy and timescale of past outflows. The exact event remains uncertain, but the bubbles are a major observational record of Galactic-center history."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Fermi data는 Galactic center 위아래로 총 약 50,000 light-years 규모의 두 gamma-ray lobe를 보여준다. 2010년 발견 이후 이 구조는 반복관측·분석되는 확립된 Milky Way feature다.\n\n**확인되지 않음:** 정확한 생성사건·age·particle acceleration history는 하나로 확정되지 않았다. Sagittarius A* outburst 또는 starburst/supernova wind가 유력한 model family지만 단일 최종원인으로 확정된 것은 아니다.",
+          "textEn": "**Established:** Fermi data reveal two gamma-ray lobes extending a combined roughly 50,000 light-years above and below the Galactic center. Since their 2010 discovery, the Fermi Bubbles have been an established Milky Way structure.\n\n**Not established:** The exact generating event, age, and particle-acceleration history are not uniquely determined. Past Sagittarius A* activity and starburst/supernova winds are leading model families, not one confirmed final cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Fermi data는 Galactic center 위아래로 총 약 50,000 light-years 규모의 두 gamma-ray lobe를 보여준다. 2010년 발견 이후 이 구조는 반복관측·분석되는 확립된 Milky Way feature다.\n\n**확인되지 않음:** 정확한 생성사건·age·particle acceleration history는 하나로 확정되지 않았다. Sagittarius A* outburst 또는 starburst/supernova wind가 유력한 model family지만 단일 최종원인으로 확정된 것은 아니다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "discovery-02",
+        "origin-03",
+        "particles-04",
+        "energy-045",
+        "context-048"
+      ]
+    },
+    "en": {
+      "headline": "What Blew 50,000-Light-Year Gamma-Ray Bubbles Out of the Milky Way?",
+      "hook": "The bubbles themselves are no longer a mystery—they are real Fermi structures. The unresolved question is what released enough energy from the Galactic center, when it happened, and which particles carried the energy.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "우리 은하 중심 위아래로 5만 광년짜리 감마선 ‘거품’이 숨어 있었다",
+          "headingEn": "Two Gamma-Ray Lobes Stretching 50,000 Light-Years Were Hiding in Plain Sight",
+          "textKo": "2010년 Fermi Gamma-ray Space Telescope 데이터 분석에서 Milky Way 중심 위아래로 대칭적인 두 거대구조가 발견됐다. NASA는 각 lobe가 약 25,000 light-years 뻗고 전체가 약 50,000 light-years 규모라고 설명한다. **이 구조는 육안으로 보이는 가스풍선이 아니라 고에너지 gamma-ray emission의 형태로 드러난 거대한 Galactic 구조**다.",
+          "textEn": "In 2010, analysis of Fermi Gamma-ray Space Telescope data revealed two enormous roughly symmetric structures above and below the Milky Way's center. NASA describes each lobe as extending about 25,000 light-years, for a total structure around 50,000 light-years tall. These are not visible gas balloons; they are enormous Galactic structures traced through high-energy gamma-ray emission."
+        },
+        {
+          "blockId": "discovery-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "처음에는 diffuse background 속에 묻혀 있어 data processing이 필요했다",
+          "headingEn": "The Bubbles Emerged Only After Careful Removal of Diffuse Background Emission",
+          "textKo": "NASA 자료는 Fermi all-sky map 자체에서 bubbles가 즉시 눈에 띄지 않았고, Galactic diffuse emission model을 빼는 분석 뒤 경계가 선명해졌다고 설명한다. 이 때문에 discovery는 ‘망원경으로 큰 풍선을 직접 본 것’보다 **복잡한 gamma-ray sky에서 예상배경을 모델링하고 남은 구조를 인식한 데이터분석 발견**에 가깝다.",
+          "textEn": "NASA explains that the bubbles were not immediately obvious in the raw Fermi all-sky map. Their sharp-edged structure emerged after models of expected diffuse Galactic gamma-ray emission were subtracted. The discovery was therefore a data-analysis result: identifying a coherent residual structure within a complex gamma-ray sky."
+        },
+        {
+          "blockId": "origin-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "가장 큰 질문은 ‘무엇이 은하 중심에서 이 정도 에너지를 밀어냈나’다",
+          "headingEn": "The Central Question Is What Released So Much Energy From the Galactic Center",
+          "textKo": "NASA는 초기부터 two main origin families를 제시했다. 하나는 Milky Way 중심 supermassive black hole Sagittarius A*의 과거 강한 accretion/outburst이고, 다른 하나는 집중적인 star formation과 supernova-driven wind다. 두 과정이 함께 작용했을 가능성도 열려 있다. **거품의 존재는 확실하지만 생성사건은 하나로 확정되지 않았다.**",
+          "textEn": "NASA has long highlighted two main families of origin models: a past strong accretion/outburst phase from the central supermassive black hole Sagittarius A*, or intense star formation and supernova-driven winds. Combined scenarios are also possible. The bubbles are firmly observed, but the event that created them has not been uniquely identified."
+        },
+        {
+          "blockId": "particles-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "감마선이 보인다고 입자종류와 age가 자동으로 정해지는 것은 아니다",
+          "headingEn": "Gamma Rays Do Not Uniquely Determine the Particle Population or Age",
+          "textKo": "NASA 초기설명은 high-energy electrons가 낮은에너지 photon과 inverse Compton scattering을 일으켜 gamma rays를 만들 가능성을 강조했지만, proton-driven hadronic models도 연구돼 왔다. formation age 역시 모델가정에 따라 달라진다. **같은 gamma-ray morphology가 여러 particle population과 outflow history에서 나올 수 있어 origin inference는 model-dependent다.**",
+          "textEn": "NASA's early explanations emphasized high-energy electrons producing gamma rays through inverse Compton scattering, while hadronic scenarios involving high-energy protons have also been studied. Estimated ages likewise depend on model assumptions. Similar gamma-ray morphology can arise from different particle populations and outflow histories."
+        },
+        {
+          "blockId": "energy-045",
+          "type": "BACKGROUND",
+          "headingKo": "‘거품’이라는 이름은 형태를 설명할 뿐 실제 비눗방울 같은 경계막을 뜻하지 않는다",
+          "headingEn": "The Word 'Bubble' Describes Morphology, Not a Soap-Like Physical Membrane",
+          "textKo": "Fermi Bubbles는 gamma-ray sky에서 sharp edge를 가진 lobe처럼 보이기 때문에 붙은 이름이다. 실제로는 고에너지입자·자기장·가스·복사과정이 얽힌 광대한 Galactic volume이다. **명칭을 물리적 껍질 하나로 문자 그대로 읽으면 구조와 방출메커니즘을 과도하게 단순화하게 된다.**",
+          "textEn": "The name Fermi Bubbles describes their lobe-like morphology and sharp gamma-ray edges. Physically they are vast Galactic volumes involving energetic particles, fields, gas, and radiation processes—not literal soap-like bubbles with a simple membrane."
+        },
+        {
+          "blockId": "context-048",
+          "type": "AFTERMATH",
+          "headingKo": "이 구조는 우리 은하 중심의 과거활동을 읽는 ‘화석기록’처럼 사용된다",
+          "headingEn": "The Bubbles Act Like a Fossil Record of Past Galactic-Center Activity",
+          "textKo": "오늘의 Sagittarius A*는 비교적 조용하지만, Fermi Bubbles는 은하 중심이 과거에 훨씬 더 energetic했을 가능성을 연구하게 만든다. 구조의 크기·edge·spectrum을 이용하면 과거 outflow의 에너지와 시간규모를 역추정할 수 있다. **정확한 사건은 미정이지만, bubbles가 Milky Way의 과거활동을 추적하는 핵심 관측창이라는 점은 분명하다.**",
+          "textEn": "Sagittarius A* is relatively quiet today, but the Fermi Bubbles provide a way to infer much stronger past activity in the Galactic center. Their size, edges, and spectra constrain the energy and timescale of past outflows. The exact event remains uncertain, but the bubbles are a major observational record of Galactic-center history."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Fermi data는 Galactic center 위아래로 총 약 50,000 light-years 규모의 두 gamma-ray lobe를 보여준다. 2010년 발견 이후 이 구조는 반복관측·분석되는 확립된 Milky Way feature다.\n\n**확인되지 않음:** 정확한 생성사건·age·particle acceleration history는 하나로 확정되지 않았다. Sagittarius A* outburst 또는 starburst/supernova wind가 유력한 model family지만 단일 최종원인으로 확정된 것은 아니다.",
+          "textEn": "**Established:** Fermi data reveal two gamma-ray lobes extending a combined roughly 50,000 light-years above and below the Galactic center. Since their 2010 discovery, the Fermi Bubbles have been an established Milky Way structure.\n\n**Not established:** The exact generating event, age, and particle-acceleration history are not uniquely determined. Past Sagittarius A* activity and starburst/supernova winds are leading model families, not one confirmed final cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Fermi data reveal two gamma-ray lobes extending a combined roughly 50,000 light-years above and below the Galactic center. Since their 2010 discovery, the Fermi Bubbles have been an established Milky Way structure.\n\n**Not established:** The exact generating event, age, and particle-acceleration history are not uniquely determined. Past Sagittarius A* activity and starburst/supernova winds are leading model families, not one confirmed final cause.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "discovery-02",
+        "origin-03",
+        "particles-04",
+        "energy-045",
+        "context-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "FB-C1",
+      "status": "CONFIRMED",
+      "statementKo": "두 Fermi Bubble은 Galactic center 위아래로 각각 약 25,000 light-years 뻗는다.",
+      "statementEn": "The two Fermi Bubbles extend roughly 25,000 light-years above and below the Galactic center.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_SVS"
+      ]
+    },
+    {
+      "claimId": "FB-C2",
+      "status": "CONFIRMED",
+      "statementKo": "이 구조는 2010년 Fermi gamma-ray data 분석에서 발견됐다.",
+      "statementEn": "The structures were discovered in 2010 through analysis of Fermi gamma-ray data.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_FERMI"
+      ]
+    },
+    {
+      "claimId": "FB-C3",
+      "status": "SUPPORTED",
+      "statementKo": "Sagittarius A* 과거 outburst와 intense star formation은 주요 origin model이다.",
+      "statementEn": "Past Sagittarius A* outbursts and intense star formation are major origin models.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_FERMI"
+      ]
+    },
+    {
+      "claimId": "FB-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 origin event·age·particle history는 하나로 확정되지 않았다.",
+      "statementEn": "The exact origin event, age, and particle history remain unestablished.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_SVS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "FB_NASA2010",
+      "title": "NASA's Fermi Telescope Finds Giant Structure in our Galaxy",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/universe/nasas-fermi-telescope-finds-giant-structure-in-our-galaxy/",
+      "sourceType": "NASA_DISCOVERY"
+    },
+    {
+      "sourceId": "FB_SVS",
+      "title": "Fermi discovers giant gamma-ray bubbles in the Milky Way",
+      "publisher": "NASA Goddard Scientific Visualization Studio",
+      "url": "https://svs.gsfc.nasa.gov/10688",
+      "sourceType": "NASA_SCIENCE_VISUALIZATION"
+    },
+    {
+      "sourceId": "FB_FERMI",
+      "title": "Fermi Bubbles",
+      "publisher": "NASA Fermi Science Support Center",
+      "url": "https://fermi.gsfc.nasa.gov/science/constellations/pages/bubbles.html",
+      "sourceType": "NASA_MISSION_SCIENCE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "fb-v01",
+      "role": "HERO_CONTEXT",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Milky Way plane 중심 위아래로 두 gamma-ray bubble이 뻗는 구조도.",
+      "captionEn": "Original diagram of the two gamma-ray lobes above and below the Milky Way plane.",
+      "altKo": "Milky Way plane 중심 위아래로 두 gamma-ray bubble이 뻗는 구조도.",
+      "altEn": "Original diagram of the two gamma-ray lobes above and below the Milky Way plane.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_SVS",
+        "FB_FERMI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fermi-bubbles__v01__ko.png",
+          "sha256": "7dded40af198eeb5eb8ea9288a86f616ee88a9fbd4e3e500ffc654375e9e996f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fermi-bubbles__v01__en.png",
+          "sha256": "6cbe836e8206008f0db6721aeff54856648fd133fae2231ca3a357a3f0641b00",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fb-v02",
+      "role": "HYPOTHESIS_COMPARISON",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "Sagittarius A* outburst vs starburst/supernova wind origin model 비교.",
+      "captionEn": "Comparison of Sagittarius A* outburst and starburst/supernova-wind origin models.",
+      "altKo": "Sagittarius A* outburst vs starburst/supernova wind origin model 비교.",
+      "altEn": "Comparison of Sagittarius A* outburst and starburst/supernova-wind origin models.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_SVS",
+        "FB_FERMI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fermi-bubbles__v02__ko.png",
+          "sha256": "e098e0b56a00c9e4c66f939ba7d3b6bdee9c7f15fe61cc64b8023b9cd709ddb8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fermi-bubbles__v02__en.png",
+          "sha256": "147a0b8fda2ef3dfadf792d1e4fa19cbcd55122d600aa8c949e869dee2d35016",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fb-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "관측으로 확정된 morphology와 모델의존 origin·age·particle history를 분리.",
+      "captionEn": "Evidence card separating observed morphology from model-dependent origin, age, and particle history.",
+      "altKo": "관측으로 확정된 morphology와 모델의존 origin·age·particle history를 분리.",
+      "altEn": "Evidence card separating observed morphology from model-dependent origin, age, and particle history.",
+      "sourceRefs": [
+        "FB_NASA2010",
+        "FB_SVS",
+        "FB_FERMI"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fermi-bubbles__v03__ko.png",
+          "sha256": "9999e49389fc1da9cf26dffdec615fe2a2767608d2851366716c296bee08120b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fermi-bubbles__v03__en.png",
+          "sha256": "bea49ee6298b90b7184e27a490d1484f5f4b8cbf51b373e201763a627e623612",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Space / Astronomy",
+    "secondaryGenres": [
+      "Strange Science / Natural Anomaly"
+    ],
+    "countries": [],
+    "regions": [
+      "Milky Way Galactic center"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Doug Finkbeiner",
+        "role": "researcher who recognized structure"
+      }
+    ],
+    "organizations": [
+      "NASA",
+      "Fermi Gamma-ray Space Telescope"
+    ],
+    "dateRange": {
+      "start": "2010",
+      "end": "present",
+      "precision": "discovery through ongoing modeling"
+    },
+    "era": "Modern high-energy astrophysics",
+    "resolution": "STRUCTURE_CONFIRMED_ORIGIN_AND_AGE_MODEL_DEPENDENT",
+    "searchAliases": [
+      "Fermi Bubbles",
+      "gamma ray bubbles Milky Way"
+    ],
+    "relatedCases": [
+      "great-attractor"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1697,
+    "enBodyWords": 348,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH13_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

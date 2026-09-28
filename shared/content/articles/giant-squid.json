@@ -1,0 +1,376 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "giant-squid",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "대왕오징어",
+    "canonicalTitleEn": "Giant Squid",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "실재는 증명됐는데 왜 대왕오징어는 여전히 '미스터리 동물'처럼 느껴질까",
+      "hook": "대왕오징어는 존재논쟁이 끝난 동물이다. 하지만 수백 미터 아래 심해 때문에 직접관찰이 늦었고, population·behavior 자료는 아직 드물다. 미스터리는 존재에서 생태로 이동했다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "대왕오징어는 전설의 괴수가 아니라 실제 동물이다—하지만 직접 본 사람은 매우 적었다",
+          "headingEn": "The Giant Squid Is a Real Animal—Yet Direct Observation Was Extremely Rare",
+          "textKo": "Architeuthis giant squid는 오랫동안 carcass, stranded specimen, sperm whale stomach remains로 알려졌지만 살아 있는 자연상태 관측은 거의 없었다. Smithsonian은 scientifically recorded total length가 거의 43 feet(약 13m)에 이르는 specimen을 설명한다. **실재는 오래전에 확립됐지만 behavior와 deep-sea life는 훨씬 늦게 보이기 시작했다.**",
+          "textEn": "Architeuthis giant squid were long known from carcasses, stranded specimens, and remains found in sperm whales, while direct observation of living animals was extremely rare. Smithsonian notes scientifically recorded total lengths near 43 feet (13 meters). Existence was established long before behavior in the deep sea became visible."
+        },
+        {
+          "blockId": "size-02",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "선원전설의 극단적 크기는 preserved specimen data보다 훨씬 커질 수 있다",
+          "headingEn": "Legendary Sizes Can Grow Far Beyond Measured Specimens",
+          "textKo": "Smithsonian은 squid가 해변에 떠오를 때 water로 bloated되거나 arms/tentacles가 늘어나 total length estimate가 왜곡될 수 있다고 설명한다. 그래서 mantle length 같은 metric이 더 안정적이다. **'giant squid가 실재한다'와 '모든 kraken급 size report가 사실이다'는 같은 문장이 아니다.**",
+          "textEn": "Smithsonian explains that stranded squid can be water-bloated and their arms or tentacles can stretch, distorting total-length estimates. Mantle length is therefore a more stable measure. 'Giant squid exist' is not equivalent to validating every kraken-scale size report."
+        },
+        {
+          "blockId": "live-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2006년 live recording, 2012년 natural habitat 영상이 관찰격차를 크게 줄였다",
+          "headingEn": "Live Footage in 2006 and Natural-Habitat Video in 2012 Closed a Major Observation Gap",
+          "textKo": "Smithsonian은 2006년 Japanese team이 bait에 걸린 live giant squid를 surface에서 video로 기록했고, 2012년에는 연구진이 deep-sea natural habitat에서 living giant squid를 처음 촬영했다고 정리한다. **'시체와 흔적만 알던 동물'에서 실제 수중행동을 볼 수 있는 동물로 바뀐 전환점**이었다.",
+          "textEn": "Smithsonian records that a Japanese team filmed a living giant squid at the surface in 2006 after it took bait, and that in 2012 researchers obtained the first footage of a living giant squid in its natural deep-sea habitat. This changed the animal from one known mostly by remains into one observed behaving underwater."
+        },
+        {
+          "blockId": "ecology-04",
+          "type": "BACKGROUND",
+          "headingKo": "500~1,000m 심해생활이 관찰난이도를 설명한다",
+          "headingEn": "Deep-Water Habitat Explains Why Direct Observation Is So Difficult",
+          "textKo": "Smithsonian material은 giant squid가 roughly 500~1,000m depth의 dark cold water에 사는 것으로 설명한다. 이런 habitat은 camera deployment와 long-duration search를 어렵게 하고, encounter probability를 낮춘다. **'거대한데 왜 못 봤나'라는 직관은 ocean volume과 depth를 과소평가한다.**",
+          "textEn": "Smithsonian material places giant squid mainly in dark cold water roughly 500–1,000 meters deep. Such habitat makes camera deployment expensive and encounters rare. The intuition that a large animal should be easy to see underestimates ocean volume and depth."
+        },
+        {
+          "blockId": "population-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "species 존재가 확인돼도 개체수·수명·번식행동은 여전히 자료가 적다",
+          "headingEn": "Confirmed Existence Does Not Mean Population and Behavior Are Well Known",
+          "textKo": "living footage가 늘었지만 giant squid의 population size, exact distribution, mating behavior, many ecological details는 직접자료가 제한적이다. **미스터리가 '존재하나?'에서 '어떻게 사나?'로 이동한 사례**다.",
+          "textEn": "Even with more live footage, direct data on population size, exact distribution, mating behavior, and many ecological details remain limited. This is a case where the mystery shifted from 'does it exist?' to 'how does it live?'"
+        },
+        {
+          "blockId": "predator-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "sperm whale의 위내용물과 sucker scar는 live filming 전에도 강한 생태증거였다",
+          "headingEn": "Sperm-Whale Stomach Contents and Sucker Scars Were Strong Ecological Evidence Before Live Video",
+          "textKo": "living footage가 없던 시절에도 sperm whale stomach에서 giant squid remains가 발견되고, whale skin에 large circular sucker scar가 남는다는 관찰이 predator-prey interaction을 뒷받침했다. **직접영상이 없다고 모든 지식이 anecdote였던 것은 아니다. specimen과 indirect ecological evidence가 이미 상당부분을 쌓고 있었다.**",
+          "textEn": "Even before live footage, giant-squid remains in sperm-whale stomachs and large circular sucker scars on whales supported predator-prey interaction. The absence of direct video did not mean all knowledge was anecdotal; specimens and indirect ecological evidence had already built a substantial record."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** giant squid Architeuthis는 확실히 실재하며 scientifically recorded specimen은 약 13m total length에 이른다. 2006년 live footage와 2012년 natural-habitat video가 존재한다.\n\n**확인되지 않음:** 모든 역사적 kraken tale의 extreme size·공격행동이 사실이라는 것은 아니다. population size와 deep-sea behavior의 많은 세부도 아직 직접관찰이 제한적이다.",
+          "textEn": "**Established:** Giant squid Architeuthis unquestionably exist, with scientifically recorded specimens approaching 13 meters total length. Live footage exists from 2006, and natural-habitat video from 2012.\n\n**Not established:** Extreme sizes and aggressive behavior in every historical kraken story are not validated, and many details of population size and deep-sea behavior remain poorly observed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** giant squid Architeuthis는 확실히 실재하며 scientifically recorded specimen은 약 13m total length에 이른다. 2006년 live footage와 2012년 natural-habitat video가 존재한다.\n\n**확인되지 않음:** 모든 역사적 kraken tale의 extreme size·공격행동이 사실이라는 것은 아니다. population size와 deep-sea behavior의 많은 세부도 아직 직접관찰이 제한적이다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "size-02",
+        "live-03",
+        "ecology-04",
+        "population-05",
+        "predator-055"
+      ]
+    },
+    "en": {
+      "headline": "If Giant Squid Are Proven Real, Why Do They Still Feel Like Mystery Animals?",
+      "hook": "The existence question is over. What remains mysterious is ecology: deep habitat delayed direct observation, and population and behavior data are still sparse.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "대왕오징어는 전설의 괴수가 아니라 실제 동물이다—하지만 직접 본 사람은 매우 적었다",
+          "headingEn": "The Giant Squid Is a Real Animal—Yet Direct Observation Was Extremely Rare",
+          "textKo": "Architeuthis giant squid는 오랫동안 carcass, stranded specimen, sperm whale stomach remains로 알려졌지만 살아 있는 자연상태 관측은 거의 없었다. Smithsonian은 scientifically recorded total length가 거의 43 feet(약 13m)에 이르는 specimen을 설명한다. **실재는 오래전에 확립됐지만 behavior와 deep-sea life는 훨씬 늦게 보이기 시작했다.**",
+          "textEn": "Architeuthis giant squid were long known from carcasses, stranded specimens, and remains found in sperm whales, while direct observation of living animals was extremely rare. Smithsonian notes scientifically recorded total lengths near 43 feet (13 meters). Existence was established long before behavior in the deep sea became visible."
+        },
+        {
+          "blockId": "size-02",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "선원전설의 극단적 크기는 preserved specimen data보다 훨씬 커질 수 있다",
+          "headingEn": "Legendary Sizes Can Grow Far Beyond Measured Specimens",
+          "textKo": "Smithsonian은 squid가 해변에 떠오를 때 water로 bloated되거나 arms/tentacles가 늘어나 total length estimate가 왜곡될 수 있다고 설명한다. 그래서 mantle length 같은 metric이 더 안정적이다. **'giant squid가 실재한다'와 '모든 kraken급 size report가 사실이다'는 같은 문장이 아니다.**",
+          "textEn": "Smithsonian explains that stranded squid can be water-bloated and their arms or tentacles can stretch, distorting total-length estimates. Mantle length is therefore a more stable measure. 'Giant squid exist' is not equivalent to validating every kraken-scale size report."
+        },
+        {
+          "blockId": "live-03",
+          "type": "TURNING_POINT",
+          "headingKo": "2006년 live recording, 2012년 natural habitat 영상이 관찰격차를 크게 줄였다",
+          "headingEn": "Live Footage in 2006 and Natural-Habitat Video in 2012 Closed a Major Observation Gap",
+          "textKo": "Smithsonian은 2006년 Japanese team이 bait에 걸린 live giant squid를 surface에서 video로 기록했고, 2012년에는 연구진이 deep-sea natural habitat에서 living giant squid를 처음 촬영했다고 정리한다. **'시체와 흔적만 알던 동물'에서 실제 수중행동을 볼 수 있는 동물로 바뀐 전환점**이었다.",
+          "textEn": "Smithsonian records that a Japanese team filmed a living giant squid at the surface in 2006 after it took bait, and that in 2012 researchers obtained the first footage of a living giant squid in its natural deep-sea habitat. This changed the animal from one known mostly by remains into one observed behaving underwater."
+        },
+        {
+          "blockId": "ecology-04",
+          "type": "BACKGROUND",
+          "headingKo": "500~1,000m 심해생활이 관찰난이도를 설명한다",
+          "headingEn": "Deep-Water Habitat Explains Why Direct Observation Is So Difficult",
+          "textKo": "Smithsonian material은 giant squid가 roughly 500~1,000m depth의 dark cold water에 사는 것으로 설명한다. 이런 habitat은 camera deployment와 long-duration search를 어렵게 하고, encounter probability를 낮춘다. **'거대한데 왜 못 봤나'라는 직관은 ocean volume과 depth를 과소평가한다.**",
+          "textEn": "Smithsonian material places giant squid mainly in dark cold water roughly 500–1,000 meters deep. Such habitat makes camera deployment expensive and encounters rare. The intuition that a large animal should be easy to see underestimates ocean volume and depth."
+        },
+        {
+          "blockId": "population-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "species 존재가 확인돼도 개체수·수명·번식행동은 여전히 자료가 적다",
+          "headingEn": "Confirmed Existence Does Not Mean Population and Behavior Are Well Known",
+          "textKo": "living footage가 늘었지만 giant squid의 population size, exact distribution, mating behavior, many ecological details는 직접자료가 제한적이다. **미스터리가 '존재하나?'에서 '어떻게 사나?'로 이동한 사례**다.",
+          "textEn": "Even with more live footage, direct data on population size, exact distribution, mating behavior, and many ecological details remain limited. This is a case where the mystery shifted from 'does it exist?' to 'how does it live?'"
+        },
+        {
+          "blockId": "predator-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "sperm whale의 위내용물과 sucker scar는 live filming 전에도 강한 생태증거였다",
+          "headingEn": "Sperm-Whale Stomach Contents and Sucker Scars Were Strong Ecological Evidence Before Live Video",
+          "textKo": "living footage가 없던 시절에도 sperm whale stomach에서 giant squid remains가 발견되고, whale skin에 large circular sucker scar가 남는다는 관찰이 predator-prey interaction을 뒷받침했다. **직접영상이 없다고 모든 지식이 anecdote였던 것은 아니다. specimen과 indirect ecological evidence가 이미 상당부분을 쌓고 있었다.**",
+          "textEn": "Even before live footage, giant-squid remains in sperm-whale stomachs and large circular sucker scars on whales supported predator-prey interaction. The absence of direct video did not mean all knowledge was anecdotal; specimens and indirect ecological evidence had already built a substantial record."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** giant squid Architeuthis는 확실히 실재하며 scientifically recorded specimen은 약 13m total length에 이른다. 2006년 live footage와 2012년 natural-habitat video가 존재한다.\n\n**확인되지 않음:** 모든 역사적 kraken tale의 extreme size·공격행동이 사실이라는 것은 아니다. population size와 deep-sea behavior의 많은 세부도 아직 직접관찰이 제한적이다.",
+          "textEn": "**Established:** Giant squid Architeuthis unquestionably exist, with scientifically recorded specimens approaching 13 meters total length. Live footage exists from 2006, and natural-habitat video from 2012.\n\n**Not established:** Extreme sizes and aggressive behavior in every historical kraken story are not validated, and many details of population size and deep-sea behavior remain poorly observed."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Giant squid Architeuthis unquestionably exist, with scientifically recorded specimens approaching 13 meters total length. Live footage exists from 2006, and natural-habitat video from 2012.\n\n**Not established:** Extreme sizes and aggressive behavior in every historical kraken story are not validated, and many details of population size and deep-sea behavior remain poorly observed.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "size-02",
+        "live-03",
+        "ecology-04",
+        "population-05",
+        "predator-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SQ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "giant squid는 실제 species이며 scientifically recorded specimen은 약 13m까지 알려져 있다.",
+      "statementEn": "Giant squid are real, with scientifically recorded specimens approaching 13 meters.",
+      "sourceRefs": [
+        "SQ_SMITH",
+        "SQ_NMNH"
+      ]
+    },
+    {
+      "claimId": "SQ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "2006 live footage와 2012 natural-habitat filming이 존재한다.",
+      "statementEn": "Live footage exists from 2006 and natural-habitat filming from 2012.",
+      "sourceRefs": [
+        "SQ_SMITH",
+        "SQ_VIDEO"
+      ]
+    },
+    {
+      "claimId": "SQ-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 kraken legend의 extreme size와 공격행동은 입증되지 않는다.",
+      "statementEn": "Extreme size and aggressive behavior in every kraken legend are not established.",
+      "sourceRefs": [
+        "SQ_SMITH"
+      ]
+    },
+    {
+      "claimId": "SQ-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "population size와 behavior ecology의 많은 세부는 직접자료가 제한적이다.",
+      "statementEn": "Many details of population size and behavioral ecology remain poorly constrained by direct observation.",
+      "sourceRefs": [
+        "SQ_SMITH",
+        "SQ_NMNH"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SQ_SMITH",
+      "title": "Giant Squid",
+      "publisher": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/invertebrates/giant-squid",
+      "sourceType": "SMITHSONIAN_SCIENCE"
+    },
+    {
+      "sourceId": "SQ_NMNH",
+      "title": "The Giant Squid",
+      "publisher": "Smithsonian National Museum of Natural History",
+      "url": "https://naturalhistory.si.edu/explore/giant-squid",
+      "sourceType": "SMITHSONIAN_MUSEUM"
+    },
+    {
+      "sourceId": "SQ_VIDEO",
+      "title": "Caught on Video: Giant Squid",
+      "publisher": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/invertebrates/caught-video-giant-squid",
+      "sourceType": "SMITHSONIAN_RESEARCH_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sq-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research.",
+      "captionEn": "Carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research.",
+      "altKo": "carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research.",
+      "altEn": "Carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research.",
+      "sourceRefs": [
+        "SQ_SMITH",
+        "SQ_NMNH",
+        "SQ_VIDEO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "giant-squid__v01__ko.png",
+          "sha256": "8a2cc3fabecbd72649d4d76716efde63c32b0284d390287f7d1c70e2865368c0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "giant-squid__v01__en.png",
+          "sha256": "07006d60fae559889d5c99a1f2dcd2ca2a80a860b90928b325f00877ba63026a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sq-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "species 실재·measured size·legendary size·behavior knowledge를 분리.",
+      "captionEn": "Separate species reality, measured size, legendary size, and behavioral knowledge.",
+      "altKo": "species 실재·measured size·legendary size·behavior knowledge를 분리.",
+      "altEn": "Separate species reality, measured size, legendary size, and behavioral knowledge.",
+      "sourceRefs": [
+        "SQ_SMITH",
+        "SQ_NMNH",
+        "SQ_VIDEO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "giant-squid__v02__ko.png",
+          "sha256": "0f9023f01ce552d3819f8d28d39884338c57d4c35e252b1c60f9d435e9030842",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "giant-squid__v02__en.png",
+          "sha256": "785d97d3d9bc531e6ee79776fd196caed7d4fe8eb7b65ee996a16b9445eca603",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Cryptid / Disputed Animal",
+    "secondaryGenres": [
+      "Discovery / Taxonomy",
+      "Explained Mystery / Debunked Myth"
+    ],
+    "countries": [],
+    "regions": [
+      "Deep ocean"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Clyde Roper",
+        "role": "Smithsonian giant-squid researcher"
+      }
+    ],
+    "organizations": [
+      "Smithsonian Institution"
+    ],
+    "dateRange": {
+      "start": "historical specimens",
+      "end": "present",
+      "precision": "specimen record through modern live observation"
+    },
+    "era": "Modern marine biology",
+    "resolution": "SPECIES_CONFIRMED_DEEP_SEA_ECOLOGY_PARTLY_UNRESOLVED",
+    "searchAliases": [
+      "giant squid",
+      "Architeuthis",
+      "kraken"
+    ],
+    "relatedCases": [
+      "coelacanth-rediscovery"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1628,
+    "enBodyWords": 312,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH17_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

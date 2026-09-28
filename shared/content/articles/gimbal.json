@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "gimbal",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Gimbal UAP 영상",
+    "canonicalTitleEn": "Gimbal UAP Video",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "영상은 진짜고 사건은 미해결이다—그 사이에 우리가 실제로 아는 것은 무엇일까",
+      "hook": "Gimbal은 조작영상이 아니다. DoD가 실제 Navy 영상으로 확인했고 AARO는 지금도 unresolved로 분류한다. 하지만 ‘진짜 영상’과 ‘외계기체’ 사이에는 거리·크기·속도·정체를 채워야 하는 큰 증거공간이 남아 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2015년 Navy 센서영상은 실제다—하지만 그 말이 ‘외계기체’라는 뜻은 아니다",
+          "headingEn": "The 2015 Navy Video Is Authentic—That Does Not Make the Object Extraterrestrial",
+          "textKo": "2020년 미국 국방부는 이미 유출돼 돌던 세 개의 Navy UAP 영상을 공식 공개했고, 그중 2015년 촬영영상 하나가 ‘Gimbal’이다. DoD는 해당 영상이 실제 Navy 영상이며 관측된 aerial phenomena를 당시 ‘unidentified’로 분류한다고 밝혔다. **영상의 진위가 확인됐다는 사실과 화면 속 대상의 정체가 확인됐다는 사실은 반대 방향의 문제**다.",
+          "textEn": "In 2020, the U.S. Department of Defense formally released three Navy UAP videos that had already circulated publicly, including the 2015 clip known as 'Gimbal.' DoD confirmed the videos were authentic Navy recordings and described the observed phenomena as 'unidentified.' Authenticity of the recording and identification of the object are separate questions."
+        },
+        {
+          "blockId": "official-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "AARO 공식 페이지에서도 Gimbal은 여전히 ‘Unresolved Case’로 분류된다",
+          "headingEn": "AARO Still Lists Gimbal as an Unresolved Case",
+          "textKo": "AARO의 official UAP imagery 페이지는 Gimbal을 ‘NAVAIR - FOIA: Unresolved Case: Gimbal Video’로 제공한다. 즉 현재 공식 공개상태는 ‘해결된 외계기체’도 ‘해결된 오인’도 아니다. **unresolved는 데이터가 없다는 뜻이 아니라, 공개·분석된 자료만으로 충분한 attribution을 확정하지 못했다는 상태값**이다.",
+          "textEn": "AARO's official UAP imagery page lists Gimbal as 'NAVAIR - FOIA: Unresolved Case: Gimbal Video.' The public official status is therefore neither 'confirmed extraterrestrial craft' nor 'resolved misidentification.' Unresolved means the available analysed information has not produced a sufficient attribution."
+        },
+        {
+          "blockId": "video-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "영상 하나는 거리·크기·속도·형상을 독립적으로 다 주지 않는다",
+          "headingEn": "One Sensor Clip Does Not Independently Give Range, Size, Speed, and Shape",
+          "textKo": "IR 영상의 밝은 형태는 센서광학, 추적모드, contrast, glare의 영향을 받을 수 있고, 물체의 실제 거리·크기를 모르면 apparent motion을 실제속도로 바로 바꿀 수 없다. Gimbal은 조종사 음성과 rotation처럼 보이는 움직임 때문에 유명해졌지만, **화면 인상만으로 초상적 maneuver·재료·추진방식을 확정할 수는 없다.**",
+          "textEn": "Infrared imagery can be affected by sensor optics, tracking mode, contrast, and glare, while unknown range and physical size limit conversion of apparent motion into real speed. Gimbal became famous for crew audio and apparent rotation, but the visual impression alone cannot establish exotic manoeuvres, materials, or propulsion."
+        },
+        {
+          "blockId": "identity-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘미확인’은 ‘외계’의 동의어가 아니다",
+          "headingEn": "“Unidentified” Is Not Synonymous With “Extraterrestrial”",
+          "textKo": "AARO의 다른 공식 UAP 사례를 보면 충분한 추가영상·flight data·geolocation이 있을 때 balloon, birds, commercial aircraft 등으로 해결되는 사례도 있고, 데이터가 부족해 unresolved로 남는 사례도 있다. 이 맥락은 Gimbal status를 읽는 데 중요하다. **분류가 미확인이라는 사실은 정체가 외계라고 좁혀졌다는 뜻이 아니라, 현재 공개근거가 특정 설명까지 못 갔다는 뜻**이다.",
+          "textEn": "AARO's broader official case set shows that some UAP reports become balloons, birds, or commercial aircraft when additional video, flight data, or geolocation become available, while others remain unresolved because attribution is insufficient. That context matters for Gimbal: 'unidentified' means no adequate attribution has been reached, not that the hypothesis space has narrowed to extraterrestrial origin."
+        },
+        {
+          "blockId": "data-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "해결을 위해 필요한 것은 더 많은 같은 영상이 아니라 다른 종류의 데이터다",
+          "headingEn": "Resolution Requires Different Data, Not Just More of the Same Clip",
+          "textKo": "정체를 좁히려면 센서 metadata, 정확한 platform geometry, range, radar track, atmospheric conditions, 다른 각도의 영상 같은 정보가 필요하다. 같은 짧은 IR clip을 반복재생해도 누락된 거리가 생기지 않는다. **UAP 분석에서 ‘영상이 선명하다’와 ‘물리상태를 충분히 측정했다’는 서로 다른 기준**이다.",
+          "textEn": "Narrowing the identity requires sensor metadata, platform geometry, range, radar tracks, atmospheric conditions, and ideally another viewpoint. Replaying the same short infrared clip cannot recover missing distance information. Visual clarity and sufficient physical measurement are different standards."
+        },
+        {
+          "blockId": "status-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "공식 ‘unresolved’는 영구 미스터리 판정도 아니다",
+          "headingEn": "Official “Unresolved” Is Also Not a Permanent Verdict",
+          "textKo": "AARO의 다른 사례는 추가영상·항공자료·지리정보가 들어오면서 나중에 balloon·birds·commercial aircraft로 바뀌기도 한다. 따라서 현재 Gimbal의 unresolved 표시는 사건이 영원히 설명불가라는 뜻도 아니다. **상태값은 현재 정보수준을 나타내며, 새로운 자료가 들어오면 바뀔 수 있다.**",
+          "textEn": "Other AARO cases have changed status when additional footage, flight data, or geolocation became available. Gimbal's unresolved label is therefore not a permanent declaration of inexplicability; it reflects the current information state and could change with better data."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Gimbal은 2015년 U.S. Navy F/A-18 계열 플랫폼에서 촬영된 실제 군 센서영상이며 DoD가 2020년 공개를 승인했다. AARO 공식 imagery 페이지는 현재 이를 unresolved case로 제공한다.\n\n**확인되지 않음:** 영상 속 물체의 정확한 정체·거리·크기·추진방식은 공식적으로 확정되지 않았다. ‘unresolved’ 상태가 외계기체 또는 초상적 기술을 의미한다는 근거도 없다.",
+          "textEn": "**Established:** Gimbal is an authentic 2015 U.S. Navy sensor recording formally released by DoD in 2020, and AARO currently presents it as an unresolved case.\n\n**Not established:** The object's exact identity, range, size, or propulsion has not been officially established. An unresolved status does not itself imply extraterrestrial origin or exotic technology."
+        }
+      ],
+      "factBoundary": {
+        "established": "**확인됨:** Gimbal은 2015년 U.S. Navy F/A-18 계열 플랫폼에서 촬영된 실제 군 센서영상이며 DoD가 2020년 공개를 승인했다. AARO 공식 imagery 페이지는 현재 이를 unresolved case로 제공한다.\n\n**확인되지 않음:** 영상 속 물체의 정확한 정체·거리·크기·추진방식은 공식적으로 확정되지 않았다. ‘unresolved’ 상태가 외계기체 또는 초상적 기술을 의미한다는 근거도 없다.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "official-02",
+        "video-03",
+        "identity-04",
+        "data-045",
+        "status-048"
+      ]
+    },
+    "en": {
+      "headline": "The Video Is Real and the Case Is Unresolved—What Do We Actually Know in Between?",
+      "hook": "Gimbal is not a fake video. DoD authenticated it as Navy footage and AARO still lists it unresolved. But a large evidentiary gap remains between 'real recording' and 'extraterrestrial craft.'",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2015년 Navy 센서영상은 실제다—하지만 그 말이 ‘외계기체’라는 뜻은 아니다",
+          "headingEn": "The 2015 Navy Video Is Authentic—That Does Not Make the Object Extraterrestrial",
+          "textKo": "2020년 미국 국방부는 이미 유출돼 돌던 세 개의 Navy UAP 영상을 공식 공개했고, 그중 2015년 촬영영상 하나가 ‘Gimbal’이다. DoD는 해당 영상이 실제 Navy 영상이며 관측된 aerial phenomena를 당시 ‘unidentified’로 분류한다고 밝혔다. **영상의 진위가 확인됐다는 사실과 화면 속 대상의 정체가 확인됐다는 사실은 반대 방향의 문제**다.",
+          "textEn": "In 2020, the U.S. Department of Defense formally released three Navy UAP videos that had already circulated publicly, including the 2015 clip known as 'Gimbal.' DoD confirmed the videos were authentic Navy recordings and described the observed phenomena as 'unidentified.' Authenticity of the recording and identification of the object are separate questions."
+        },
+        {
+          "blockId": "official-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "AARO 공식 페이지에서도 Gimbal은 여전히 ‘Unresolved Case’로 분류된다",
+          "headingEn": "AARO Still Lists Gimbal as an Unresolved Case",
+          "textKo": "AARO의 official UAP imagery 페이지는 Gimbal을 ‘NAVAIR - FOIA: Unresolved Case: Gimbal Video’로 제공한다. 즉 현재 공식 공개상태는 ‘해결된 외계기체’도 ‘해결된 오인’도 아니다. **unresolved는 데이터가 없다는 뜻이 아니라, 공개·분석된 자료만으로 충분한 attribution을 확정하지 못했다는 상태값**이다.",
+          "textEn": "AARO's official UAP imagery page lists Gimbal as 'NAVAIR - FOIA: Unresolved Case: Gimbal Video.' The public official status is therefore neither 'confirmed extraterrestrial craft' nor 'resolved misidentification.' Unresolved means the available analysed information has not produced a sufficient attribution."
+        },
+        {
+          "blockId": "video-03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "영상 하나는 거리·크기·속도·형상을 독립적으로 다 주지 않는다",
+          "headingEn": "One Sensor Clip Does Not Independently Give Range, Size, Speed, and Shape",
+          "textKo": "IR 영상의 밝은 형태는 센서광학, 추적모드, contrast, glare의 영향을 받을 수 있고, 물체의 실제 거리·크기를 모르면 apparent motion을 실제속도로 바로 바꿀 수 없다. Gimbal은 조종사 음성과 rotation처럼 보이는 움직임 때문에 유명해졌지만, **화면 인상만으로 초상적 maneuver·재료·추진방식을 확정할 수는 없다.**",
+          "textEn": "Infrared imagery can be affected by sensor optics, tracking mode, contrast, and glare, while unknown range and physical size limit conversion of apparent motion into real speed. Gimbal became famous for crew audio and apparent rotation, but the visual impression alone cannot establish exotic manoeuvres, materials, or propulsion."
+        },
+        {
+          "blockId": "identity-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘미확인’은 ‘외계’의 동의어가 아니다",
+          "headingEn": "“Unidentified” Is Not Synonymous With “Extraterrestrial”",
+          "textKo": "AARO의 다른 공식 UAP 사례를 보면 충분한 추가영상·flight data·geolocation이 있을 때 balloon, birds, commercial aircraft 등으로 해결되는 사례도 있고, 데이터가 부족해 unresolved로 남는 사례도 있다. 이 맥락은 Gimbal status를 읽는 데 중요하다. **분류가 미확인이라는 사실은 정체가 외계라고 좁혀졌다는 뜻이 아니라, 현재 공개근거가 특정 설명까지 못 갔다는 뜻**이다.",
+          "textEn": "AARO's broader official case set shows that some UAP reports become balloons, birds, or commercial aircraft when additional video, flight data, or geolocation become available, while others remain unresolved because attribution is insufficient. That context matters for Gimbal: 'unidentified' means no adequate attribution has been reached, not that the hypothesis space has narrowed to extraterrestrial origin."
+        },
+        {
+          "blockId": "data-045",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "해결을 위해 필요한 것은 더 많은 같은 영상이 아니라 다른 종류의 데이터다",
+          "headingEn": "Resolution Requires Different Data, Not Just More of the Same Clip",
+          "textKo": "정체를 좁히려면 센서 metadata, 정확한 platform geometry, range, radar track, atmospheric conditions, 다른 각도의 영상 같은 정보가 필요하다. 같은 짧은 IR clip을 반복재생해도 누락된 거리가 생기지 않는다. **UAP 분석에서 ‘영상이 선명하다’와 ‘물리상태를 충분히 측정했다’는 서로 다른 기준**이다.",
+          "textEn": "Narrowing the identity requires sensor metadata, platform geometry, range, radar tracks, atmospheric conditions, and ideally another viewpoint. Replaying the same short infrared clip cannot recover missing distance information. Visual clarity and sufficient physical measurement are different standards."
+        },
+        {
+          "blockId": "status-048",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "공식 ‘unresolved’는 영구 미스터리 판정도 아니다",
+          "headingEn": "Official “Unresolved” Is Also Not a Permanent Verdict",
+          "textKo": "AARO의 다른 사례는 추가영상·항공자료·지리정보가 들어오면서 나중에 balloon·birds·commercial aircraft로 바뀌기도 한다. 따라서 현재 Gimbal의 unresolved 표시는 사건이 영원히 설명불가라는 뜻도 아니다. **상태값은 현재 정보수준을 나타내며, 새로운 자료가 들어오면 바뀔 수 있다.**",
+          "textEn": "Other AARO cases have changed status when additional footage, flight data, or geolocation became available. Gimbal's unresolved label is therefore not a permanent declaration of inexplicability; it reflects the current information state and could change with better data."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "**확인됨:** Gimbal은 2015년 U.S. Navy F/A-18 계열 플랫폼에서 촬영된 실제 군 센서영상이며 DoD가 2020년 공개를 승인했다. AARO 공식 imagery 페이지는 현재 이를 unresolved case로 제공한다.\n\n**확인되지 않음:** 영상 속 물체의 정확한 정체·거리·크기·추진방식은 공식적으로 확정되지 않았다. ‘unresolved’ 상태가 외계기체 또는 초상적 기술을 의미한다는 근거도 없다.",
+          "textEn": "**Established:** Gimbal is an authentic 2015 U.S. Navy sensor recording formally released by DoD in 2020, and AARO currently presents it as an unresolved case.\n\n**Not established:** The object's exact identity, range, size, or propulsion has not been officially established. An unresolved status does not itself imply extraterrestrial origin or exotic technology."
+        }
+      ],
+      "factBoundary": {
+        "established": "**Established:** Gimbal is an authentic 2015 U.S. Navy sensor recording formally released by DoD in 2020, and AARO currently presents it as an unresolved case.\n\n**Not established:** The object's exact identity, range, size, or propulsion has not been officially established. An unresolved status does not itself imply extraterrestrial origin or exotic technology.",
+        "notEstablished": "See final fact boundary."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "official-02",
+        "video-03",
+        "identity-04",
+        "data-045",
+        "status-048"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GIM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Gimbal은 실제 2015 Navy 영상이며 DoD가 2020년 공식 공개했다.",
+      "statementEn": "Gimbal is an authentic 2015 Navy video officially released by DoD in 2020.",
+      "sourceRefs": [
+        "GIM_DOD2020"
+      ]
+    },
+    {
+      "claimId": "GIM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "AARO는 현재 Gimbal을 unresolved case로 공식페이지에 제공한다.",
+      "statementEn": "AARO currently presents Gimbal as an unresolved case on its official imagery page.",
+      "sourceRefs": [
+        "GIM_AARO"
+      ]
+    },
+    {
+      "claimId": "GIM-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "물체의 정확한 정체·거리·크기·추진방식은 공식적으로 확정되지 않았다.",
+      "statementEn": "The object's exact identity, range, size, and propulsion are not officially established.",
+      "sourceRefs": [
+        "GIM_AARO",
+        "GIM_DOD2020"
+      ]
+    },
+    {
+      "claimId": "GIM-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "unresolved 분류가 외계기체를 의미하지는 않는다.",
+      "statementEn": "An unresolved classification does not establish extraterrestrial origin.",
+      "sourceRefs": [
+        "GIM_AARO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GIM_DOD2020",
+      "title": "Statement by the Department of Defense on the Release of Historical Navy Videos",
+      "publisher": "U.S. Department of Defense",
+      "url": "https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "sourceType": "DOD_OFFICIAL_RELEASE"
+    },
+    {
+      "sourceId": "GIM_AARO",
+      "title": "Official UAP Imagery — Gimbal Video",
+      "publisher": "All-domain Anomaly Resolution Office",
+      "url": "https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/",
+      "sourceType": "AARO_OFFICIAL_CURRENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gim-v01",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "영상 진위 확인·unresolved status·외계기체 주장 사이의 증거단계를 분리.",
+      "captionEn": "Evidence card separating video authenticity, unresolved status, and extraterrestrial claims.",
+      "altKo": "영상 진위 확인·unresolved status·외계기체 주장 사이의 증거단계를 분리.",
+      "altEn": "Evidence card separating video authenticity, unresolved status, and extraterrestrial claims.",
+      "sourceRefs": [
+        "GIM_DOD2020",
+        "GIM_AARO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "gimbal__v01__ko.png",
+          "sha256": "6ec9728abe8becb2d63f9f0ebb9758708974cc192825d47cd0bb3331814af7fa",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "gimbal__v01__en.png",
+          "sha256": "ed650f5feda3cdd1583cb507c8794d3921db28c85a69571f3b05e57cc9c15272",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "gim-v02",
+      "role": "MECHANISM_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "captionKo": "영상에서 직접 보이는 것과 거리·크기·속도·추진방식처럼 추가자료가 필요한 값을 구분.",
+      "captionEn": "Diagram separating what the video directly shows from range, size, speed, and propulsion requiring additional data.",
+      "altKo": "영상에서 직접 보이는 것과 거리·크기·속도·추진방식처럼 추가자료가 필요한 값을 구분.",
+      "altEn": "Diagram separating what the video directly shows from range, size, speed, and propulsion requiring additional data.",
+      "sourceRefs": [
+        "GIM_DOD2020",
+        "GIM_AARO"
+      ],
+      "localizedFiles": {
+        "ko": {
+          "fileName": "gimbal__v02__ko.png",
+          "sha256": "c3876c9b1634745de6a6eedc57b59a716b3fd4cfe1a055b523848652f3a448a6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "gimbal__v02__en.png",
+          "sha256": "37075c82544e63201f4c38901289a3c95c5b39e205d362ce4d950cddb8a91d20",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "applicationState": "RIGHTS_QA_PASS",
+      "androidPath": null,
+      "webPath": null,
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "UFO / UAP / Aerial Anomaly",
+    "secondaryGenres": [
+      "Intelligence / Secret Program / Conspiracy"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "U.S. Navy operating area"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "U.S. Department of Defense",
+      "U.S. Navy",
+      "AARO"
+    ],
+    "dateRange": {
+      "start": "2015-01",
+      "end": "present",
+      "precision": "recording and official-publication period"
+    },
+    "era": "Contemporary UAP investigation",
+    "resolution": "VIDEO_AUTHENTIC_CASE_UNRESOLVED_OBJECT_IDENTITY_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Gimbal UAP",
+      "Navy Gimbal video",
+      "UAP Gimbal"
+    ],
+    "relatedCases": [
+      "gofast",
+      "nimitz-tic-tac"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1509,
+    "enBodyWords": 324,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH12_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
