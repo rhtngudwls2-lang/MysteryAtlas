@@ -1,7 +1,80 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MysteryAtlas_MEDIA_READY42_PACK_2026-09-27_v1.0.zip",
+  "sourcePack": "MysteryAtlas_MEDIA_READY92_PACK_2026-09-28_v1.0.zip",
   "items": [
+    {
+      "canonicalId": "aaro-modern-uap",
+      "title": {
+        "ko": "AARO와 현대 UAP 조사",
+        "en": "AARO and Modern UAP Investigation"
+      },
+      "headline": {
+        "ko": "'미확인'을 외계로 읽지 않는 법—AARO가 실제로 하는 일",
+        "en": "How AARO Treats 'Unidentified' Without Turning It Into 'Extraterrestrial'"
+      },
+      "hook": {
+        "ko": "현대 UAP 분석의 핵심은 미확인을 결론이 아니라 상태값으로 다루는 데 있다. 데이터가 늘면 ordinary source로 해결되기도 하고, 충분하지 않으면 unresolved로 남는다.",
+        "en": "Modern UAP analysis treats 'unidentified' as a data state, not a conclusion. More data can resolve a case as ordinary; insufficient data can leave it unresolved."
+      },
+      "aliases": [
+        "AARO",
+        "modern UAP investigation",
+        "UAP reporting trends"
+      ],
+      "genre": "UFO / UAP / Aerial Anomaly",
+      "genres": [
+        "Intelligence / Secret Program / Conspiracy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "U.S. Department of Defense reporting domain"
+      ],
+      "era": "Contemporary UAP investigation",
+      "resolution": "PROCESS_AND_CASE_RESOLUTION_SYSTEM_ESTABLISHED_UNRESOLVED_NOT_ET_CLASSIFICATION",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "2022",
+        "end": "present",
+        "precision": "modern AARO era"
+      },
+      "related": [
+        "gimbal",
+        "gofast"
+      ],
+      "heroAssetId": "aaro-v01",
+      "heroFile": {
+        "ko": "aaro-modern-uap__v01__ko.png",
+        "en": "aaro-modern-uap__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "report → data quality → analysis → resolved/unresolved classification 흐름.",
+        "en": "Report → data quality → analysis → resolved/unresolved classification."
+      },
+      "heroAlt": {
+        "ko": "report → data quality → analysis → resolved/unresolved classification 흐름.",
+        "en": "Report → data quality → analysis → resolved/unresolved classification."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
     {
       "canonicalId": "alh84001-meteorite-life-claim",
       "title": {
@@ -274,6 +347,75 @@
       }
     },
     {
+      "canonicalId": "beale-ciphers",
+      "title": {
+        "ko": "빌 암호문",
+        "en": "Beale Ciphers"
+      },
+      "headline": {
+        "ko": "두 번째 암호는 읽히는데 왜 보물 위치는 140년 넘게 남아 있을까",
+        "en": "Cipher No.2 Can Be Read—So Why Are the Treasure and the Other Ciphers Still Unresolved?"
+      },
+      "hook": {
+        "ko": "Beale Papers의 세 숫자암호와 1885 pamphlet은 실제로 남아 있다. 그러나 Cipher 2의 전통적 해독과 실제 보물의 존재, 1번·3번의 plaintext는 서로 다른 문제다.",
+        "en": "The 1885 pamphlet and three ciphers are real, but Cipher 2's traditional decoding, the existence of a treasure, and the plaintexts of Ciphers 1 and 3 are separate questions."
+      },
+      "aliases": [
+        "Beale Ciphers",
+        "Beale Papers"
+      ],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Virginia"
+      ],
+      "era": "19th-century publication / modern cryptanalysis",
+      "resolution": "DOCUMENTS_EXIST_PARTIAL_TRADITIONAL_DECODING_TREASURE_AND_REMAINING_CIPHERS_UNRESOLVED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1885",
+        "end": "present",
+        "precision": "pamphlet publication through modern analysis"
+      },
+      "related": [],
+      "heroAssetId": "beale-v01",
+      "heroFile": {
+        "ko": "beale-ciphers__v01__ko.png",
+        "en": "beale-ciphers__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "세 cryptogram과 전통적 Cipher 2 key-text 구조.",
+        "en": "Three cryptograms and the traditional Cipher 2 key-text structure."
+      },
+      "heroAlt": {
+        "ko": "세 cryptogram과 전통적 Cipher 2 key-text 구조.",
+        "en": "Three cryptograms and the traditional Cipher 2 key-text structure."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "beast-gevaudan",
       "title": {
         "ko": "제보당의 야수 사냥 기록",
@@ -435,6 +577,245 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Compact selected because the regional myth can be explained cleanly in ~2k KO chars; famous incidents belong in linked individual dossiers rather than padding this article."
+      }
+    },
+    {
+      "canonicalId": "bigfoot-dna",
+      "title": {
+        "ko": "빅풋 털 DNA 검증",
+        "en": "Bigfoot Hair DNA Tests"
+      },
+      "headline": {
+        "ko": "빅풋 털이라고 가져온 표본을 DNA로 돌렸더니 무엇이 나왔나",
+        "en": "What Did DNA Testing Actually Find in Alleged Bigfoot Hair?"
+      },
+      "hook": {
+        "ko": "2014년 systematic survey는 ‘빅풋을 믿느냐’가 아니라 제출된 털을 검사했다. 북미 Bigfoot 표본은 미확인 영장류가 아니었다. 그렇다고 이 결과 하나가 존재부재 전체를 절대판정하는 것도 아니다.",
+        "en": "A 2014 systematic survey tested submitted hairs rather than beliefs. North American Bigfoot samples were not unknown primates—but that result is not an absolute proof about existence."
+      },
+      "aliases": [
+        "Bigfoot DNA",
+        "Sasquatch hair DNA"
+      ],
+      "genre": "Cryptid / Disputed Animal",
+      "genres": [
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "era": "Modern genetics",
+      "resolution": "TESTED_HAIR_EVIDENCE_KNOWN_MAMMALS_EXISTENCE_CLAIM_NOT_ABSOLUTELY_DISPROVED",
+      "places": [],
+      "people": [
+        {
+          "name": "Bryan Sykes",
+          "role": "2014 study lead"
+        }
+      ],
+      "dateRange": {
+        "start": "2012",
+        "end": "2015",
+        "precision": "sample collection and follow-up debate"
+      },
+      "related": [
+        "yeti-dna"
+      ],
+      "heroAssetId": "bf-v01",
+      "heroFile": {
+        "ko": "bigfoot-dna__v01__ko.png",
+        "en": "bigfoot-dna__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "57 submissions → 37 selected → 30 sequences → known mammals로 이어지는 분석흐름.",
+        "en": "57 submissions → 37 selected → 30 sequences → known mammals."
+      },
+      "heroAlt": {
+        "ko": "57 submissions → 37 selected → 30 sequences → known mammals로 이어지는 분석흐름.",
+        "en": "57 submissions → 37 selected → 30 sequences → known mammals."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "black-dahlia",
+      "title": {
+        "ko": "블랙 달리아 사건",
+        "en": "Black Dahlia Murder"
+      },
+      "headline": {
+        "ko": "피해자의 이름은 56분 만에 밝혀졌는데 범인의 이름은 왜 끝내 남지 않았나",
+        "en": "The Victim Was Identified in 56 Minutes—Why Was the Killer Never Named?"
+      },
+      "hook": {
+        "ko": "Black Dahlia 사건은 ‘신원미상 피해자’ 사건이 아니다. FBI는 Elizabeth Short의 신원을 빠르게 확인했다. 미스터리는 그 다음부터다. 수많은 지문·편지·용의자 조사가 있었지만 범인의 이름은 공식적으로 닫히지 않았다.",
+        "en": "The Black Dahlia case was not a mystery of the victim's identity. The FBI identified Elizabeth Short quickly. The mystery is what happened afterward: fingerprints, letters, and suspects never converged on an established killer."
+      },
+      "aliases": [
+        "Black Dahlia",
+        "Elizabeth Short murder"
+      ],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Los Angeles, California"
+      ],
+      "era": "Mid-20th century",
+      "resolution": "VICTIM_IDENTIFIED_KILLER_UNRESOLVED",
+      "places": [
+        {
+          "name": "Los Angeles",
+          "role": "body discovery and investigation"
+        }
+      ],
+      "people": [
+        {
+          "name": "Elizabeth Short",
+          "role": "victim"
+        }
+      ],
+      "dateRange": {
+        "start": "1947-01-15",
+        "end": "present",
+        "precision": "discovery through unresolved status"
+      },
+      "related": [],
+      "heroAssetId": "bd-v01",
+      "heroFile": {
+        "ko": "black-dahlia__v01__ko.png",
+        "en": "black-dahlia__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1947 발견 → 지문 신원확인 → 전국 수사 → 익명편지 지문대조 → 미해결.",
+        "en": "1947 discovery → fingerprint identification → nationwide investigation → letter-print comparison → unresolved."
+      },
+      "heroAlt": {
+        "ko": "1947 발견 → 지문 신원확인 → 전국 수사 → 익명편지 지문대조 → 미해결.",
+        "en": "1947 discovery → fingerprint identification → nationwide investigation → letter-print comparison → unresolved."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "blood-falls",
+      "title": {
+        "ko": "블러드 폴스",
+        "en": "Blood Falls"
+      },
+      "headline": {
+        "ko": "남극 빙하에서 “피”가 흐르는 이유는 풀렸다 — 그런데 물길의 역사는 아직 끝나지 않았다",
+        "en": "Why “Blood” Flows From an Antarctic Glacier Is Largely Solved—But the Brine’s History Is Not"
+      },
+      "hook": {
+        "ko": "붉은 색은 피가 아니라 철이 풍부한 고염도 brine이 산소와 만나 만든 산화물이다. 남은 흥미는 영하의 빙하 속 물길이 어떻게 유지되고, 그 안의 생태계가 얼마나 오래 고립됐는가에 있다.",
+        "en": "The red color is not blood: iron-rich hypersaline brine oxidizes when it reaches air. The more interesting questions concern how liquid pathways persist inside a cold glacier and how long the brine ecosystem has been isolated."
+      },
+      "aliases": [
+        "Blood Falls",
+        "블러드 폴스",
+        "Taylor Glacier red falls",
+        "Blood Falls",
+        "블러드 폴스",
+        "Taylor Glacier red falls",
+        "Blood Falls",
+        "블러드 폴스",
+        "Taylor Glacier red falls"
+      ],
+      "genre": "Nature / Science",
+      "genres": [
+        "Glaciology",
+        "Microbial Ecology"
+      ],
+      "countries": [
+        "Antarctica"
+      ],
+      "regions": [
+        "McMurdo Dry Valleys"
+      ],
+      "era": "Modern Antarctic research",
+      "resolution": "MECHANISM_RESOLVED_SYSTEM_DETAILS_OPEN",
+      "places": [
+        "Taylor Glacier",
+        "Blood Falls",
+        "Lake Bonney"
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "geologic past",
+        "end": "2026 research",
+        "precision": "scientific"
+      },
+      "related": [
+        "lake-vostok"
+      ],
+      "heroAssetId": "blood-falls-mechanism-v01",
+      "heroFile": {
+        "ko": "blood-falls__mechanism-v01__ko.png",
+        "en": "blood-falls__mechanism-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides.",
+        "en": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides."
+      },
+      "heroAlt": {
+        "ko": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides.",
+        "en": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SCIENCE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -676,6 +1057,155 @@
       }
     },
     {
+      "canonicalId": "chemtrail",
+      "title": {
+        "ko": "켐트레일 음모론",
+        "en": "Chemtrail Conspiracy Claim"
+      },
+      "headline": {
+        "ko": "하늘에 오래 남는 선은 왜 생기고, 어디서 ‘비밀살포’ 이야기가 갈라질까",
+        "en": "Why Do Aircraft Trails Persist—and Where Does the Secret-Spraying Claim Depart From the Evidence?"
+      },
+      "hook": {
+        "ko": "오래 남고 격자처럼 퍼지는 contrail은 실제로 설명해야 할 현상이다. FAA·EPA 자료를 따라가면 그 설명은 상층 습도·얼음결정·항로·바람으로 이어지고, 실제 항공살포와 비밀 유해물질설은 별도 질문으로 분리된다.",
+        "en": "Persistent, grid-like contrails are real phenomena worth explaining. FAA and EPA data trace them to upper-air humidity, ice crystals, routes and winds, while real aerial dispersal and covert harmful-spraying claims remain separate questions."
+      },
+      "aliases": [
+        "chemtrail",
+        "contrail conspiracy",
+        "persistent contrail"
+      ],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [],
+      "regions": [
+        "Global aviation"
+      ],
+      "era": "Modern aviation",
+      "resolution": "CONTRAIL_PHYSICS_ESTABLISHED_COVERT_HARMFUL_SPRAYING_NOT_SUPPORTED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "jet age",
+        "end": "present",
+        "precision": "modern aviation phenomenon"
+      },
+      "related": [
+        "operation-popeye",
+        "haarp-weather-control"
+      ],
+      "heroAssetId": "chem-v01",
+      "heroFile": {
+        "ko": "chemtrail__v01__ko.png",
+        "en": "chemtrail__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "뜨거운 배기 → 차갑고 습한 공기 → 얼음결정 → persistent contrail 형성과정.",
+        "en": "Hot exhaust → cold humid air → ice crystals → persistent contrail formation."
+      },
+      "heroAlt": {
+        "ko": "뜨거운 배기 → 차갑고 습한 공기 → 얼음결정 → persistent contrail 형성과정.",
+        "en": "Hot exhaust → cold humid air → ice crystals → persistent contrail formation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "chicago-tylenol-murders",
+      "title": {
+        "ko": "시카고 타이레놀 살인사건",
+        "en": "Chicago Tylenol Murders"
+      },
+      "headline": {
+        "ko": "7명이 같은 약으로 죽었는데 왜 범인은 끝내 기소되지 않았나",
+        "en": "Seven People Died From the Same Product—Why Was No Murderer Ever Charged?"
+      },
+      "hook": {
+        "ko": "Tylenol murders는 독극물과 피해자, 유통제품까지 모두 확인된 사건이다. 하지만 그 많은 evidence가 '누가 cyanide를 넣었는가'에 수렴하지 않았다. 가장 유명한 용의자 James Lewis도 murder가 아니라 extortion으로 유죄였다.",
+        "en": "The Tylenol murders had known victims, poison, and products—but the evidence never converged on who inserted the cyanide. The most famous suspect, James Lewis, was convicted of extortion, not murder."
+      },
+      "aliases": [
+        "Chicago Tylenol murders",
+        "Tylenol cyanide murders"
+      ],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Chicago, Illinois"
+      ],
+      "era": "Late 20th century",
+      "resolution": "POISONING_CONFIRMED_EXTORTION_CONVICTION_MURDERER_UNRESOLVED",
+      "places": [
+        {
+          "name": "Chicago metropolitan area",
+          "role": "victim locations"
+        }
+      ],
+      "people": [
+        {
+          "name": "James Lewis",
+          "role": "extortion convict / prominent suspect"
+        }
+      ],
+      "dateRange": {
+        "start": "1982-09-29",
+        "end": "present",
+        "precision": "murders and unresolved status"
+      },
+      "related": [],
+      "heroAssetId": "ty-v01",
+      "heroFile": {
+        "ko": "chicago-tylenol-murders__v01__ko.png",
+        "en": "chicago-tylenol-murders__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "9/29~30 사망 → recall/investigation → Lewis extortion → 1983 anti-tampering law.",
+        "en": "Sept 29–30 deaths → recall/investigation → Lewis extortion → 1983 anti-tampering law."
+      },
+      "heroAlt": {
+        "ko": "9/29~30 사망 → recall/investigation → Lewis extortion → 1983 anti-tampering law.",
+        "en": "Sept 29–30 deaths → recall/investigation → Lewis extortion → 1983 anti-tampering law."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
       "canonicalId": "chupacabra-mange",
       "title": {
         "ko": "추파카브라와 옴 걸린 코요테",
@@ -739,6 +1269,176 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "coelacanth-rediscovery",
+      "title": {
+        "ko": "실러캔스 재발견",
+        "en": "Coelacanth Rediscovery"
+      },
+      "headline": {
+        "ko": "‘6,500만 년 전에 멸종했다던 물고기’는 어떻게 1938년에 다시 나타났나",
+        "en": "How Did a Fish Thought Extinct for 65 Million Years Turn Up Alive in 1938?"
+      },
+      "hook": {
+        "ko": "1938년 표본 하나는 고생물학의 상식을 뒤집었다. 하지만 진짜 교훈은 ‘모든 멸종생물이 숨어 있다’가 아니라, 깊은 바다의 표본편향과 ‘living fossil’이라는 표현을 얼마나 조심해 써야 하는가에 있다.",
+        "en": "One specimen in 1938 overturned assumptions about a lineage thought long gone. The lesson is not that every extinct animal may still hide, but that sampling gaps—and the phrase 'living fossil'—need careful interpretation."
+      },
+      "aliases": [
+        "coelacanth rediscovery",
+        "Latimeria chalumnae",
+        "living fossil fish"
+      ],
+      "genre": "Cryptid / Disputed Animal",
+      "genres": [
+        "Explained Mystery / Debunked Myth",
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [
+        "South Africa",
+        "Comoros",
+        "Indonesia"
+      ],
+      "regions": [
+        "Western Indian Ocean / Sulawesi"
+      ],
+      "era": "Modern zoology",
+      "resolution": "REDISCOVERY_CONFIRMED_LINEAGE_SURVIVES",
+      "places": [
+        {
+          "name": "East London, South Africa",
+          "role": "1938 discovery context"
+        },
+        {
+          "name": "Comoros Islands",
+          "role": "living population region"
+        },
+        {
+          "name": "Sulawesi",
+          "role": "Indonesian living species region"
+        }
+      ],
+      "people": [
+        {
+          "name": "Marjorie Courtenay-Latimer",
+          "role": "1938 discoverer"
+        },
+        {
+          "name": "J. L. B. Smith",
+          "role": "taxonomic identification"
+        }
+      ],
+      "dateRange": {
+        "start": "1938",
+        "end": "present",
+        "precision": "modern rediscovery and living-species research"
+      },
+      "related": [],
+      "heroAssetId": "coe-v01",
+      "heroFile": {
+        "ko": "coelacanth-rediscovery__v01__ko.png",
+        "en": "coelacanth-rediscovery__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "화석계통 → 1938 South Africa 재발견 → Comoros 확인 → 1990년대 Indonesia 별도종.",
+        "en": "Fossil lineage → 1938 South Africa rediscovery → Comoros populations → 1990s Indonesian species."
+      },
+      "heroAlt": {
+        "ko": "화석계통 → 1938 South Africa 재발견 → Comoros 확인 → 1990년대 Indonesia 별도종.",
+        "en": "Fossil lineage → 1938 South Africa rediscovery → Comoros populations → 1990s Indonesian species."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
+      "canonicalId": "copper-scroll",
+      "title": {
+        "ko": "구리 두루마리",
+        "en": "Copper Scroll"
+      },
+      "headline": {
+        "ko": "60곳 넘는 보물 위치를 적어놨는데 왜 보물은 아직 증거가 되지 못했나",
+        "en": "A Scroll Lists More Than 60 Treasure Locations—Why Does That Not Prove the Treasure Is Still There?"
+      },
+      "hook": {
+        "ko": "구리 두루마리와 treasure-list 형식은 실제다. 남은 문제는 고대 지명을 현실지형으로 바꾸고, 목록이 실제 valuables를 가리켰는지 그리고 이미 사라졌는지를 검증하는 것이다.",
+        "en": "The Copper Scroll and its treasure-list format are real. The unresolved step is mapping ancient descriptions to geography and establishing whether valuables existed—and survived."
+      },
+      "aliases": [
+        "Copper Scroll",
+        "3Q15"
+      ],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [
+        "Ancient History / Archaeology",
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "Ancient Judea context"
+      ],
+      "regions": [
+        "Qumran"
+      ],
+      "era": "Dead Sea Scrolls",
+      "resolution": "ARTIFACT_LIST_CONFIRMED_TREASURE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Qumran Cave 3",
+          "role": "discovery site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "Second Temple period context",
+        "end": "modern research",
+        "precision": "ancient inscription / modern archaeology"
+      },
+      "related": [],
+      "heroAssetId": "cop-v01",
+      "heroFile": {
+        "ko": "copper-scroll__v01__ko.png",
+        "en": "copper-scroll__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory.",
+        "en": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory."
+      },
+      "heroAlt": {
+        "ko": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory.",
+        "en": "Cave 3 discovery → corroded copper → conservation/reading → 60+ location inventory."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -990,6 +1690,302 @@
       }
     },
     {
+      "canonicalId": "earthquake-lights",
+      "title": {
+        "ko": "지진광",
+        "en": "Earthquake Lights"
+      },
+      "headline": {
+        "ko": "지진 때 보이는 섬광은 정말 땅이 만든 빛일까",
+        "en": "Are Strange Flashes During Earthquakes Really Produced by the Earth?"
+      },
+      "hook": {
+        "ko": "지진광 보고는 실제로 존재하지만 한 현상으로 묶기 어렵다. 일부는 전력망 arcing으로 설명되고, 일부에는 암석전하 같은 물리모델이 제안된다. 핵심은 영상 하나를 보고 원인을 미리 정하지 않는 것이다.",
+        "en": "Earthquake-light reports are real, but they may not all be the same phenomenon. Some are power-grid arcing; others have proposed rock-stress mechanisms. The key is not to assign one cause from a flash alone."
+      },
+      "aliases": [
+        "earthquake lights",
+        "EQL"
+      ],
+      "genre": "Strange Science / Natural Anomaly",
+      "genres": [
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [],
+      "regions": [
+        "Global"
+      ],
+      "era": "Modern geophysics",
+      "resolution": "REPORTS_EXIST_MECHANISM_DISPUTED_PREDICTION_NOT_ESTABLISHED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "historical",
+        "end": "present",
+        "precision": "historical reports and modern geophysics"
+      },
+      "related": [
+        "seneca-guns"
+      ],
+      "heroAssetId": "eql-v01",
+      "heroFile": {
+        "ko": "earthquake-lights__v01__ko.png",
+        "en": "earthquake-lights__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "전력망 arcing·stress charge·fault heating 등 빛 source 가설 비교.",
+        "en": "Comparison of grid arcing, stress-charge, and fault-heating light sources."
+      },
+      "heroAlt": {
+        "ko": "전력망 arcing·stress charge·fault heating 등 빛 source 가설 비교.",
+        "en": "Comparison of grid arcing, stress-charge, and fault-heating light sources."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "edgewood-aberdeen",
+      "title": {
+        "ko": "Edgewood / Aberdeen 실험",
+        "en": "Edgewood/Aberdeen Experiments"
+      },
+      "headline": {
+        "ko": "7,000명·250종 화학물질—숫자는 확실하지만 개인별 피해는 왜 따로 봐야 하나",
+        "en": "7,000 People and 250+ Chemicals—Why Program Scale and Individual Harm Are Different Evidence Questions"
+      },
+      "hook": {
+        "ko": "프로그램의 존재와 대규모 실험은 공식자료로 확인된다. 하지만 'Edgewood 참가자'라는 한 단어가 각 군인의 substance·dose·health outcome까지 동일하게 만들어주지는 않는다.",
+        "en": "The program and its scale are documented. But the label 'Edgewood participant' does not make every person's substance, dose, protocol, or health outcome identical."
+      },
+      "aliases": [
+        "Edgewood Arsenal experiments",
+        "Aberdeen experiments"
+      ],
+      "genre": "Medicine / Psychology / Human Experiment",
+      "genres": [
+        "Intelligence / Secret Program / Conspiracy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Maryland"
+      ],
+      "era": "Cold War",
+      "resolution": "PROGRAM_AND_SCALE_DOCUMENTED_INDIVIDUAL_CAUSATION_CASE_SPECIFIC",
+      "places": [
+        {
+          "name": "Edgewood Arsenal",
+          "role": "experimental site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1955",
+        "end": "1975",
+        "precision": "classified experiment period"
+      },
+      "related": [
+        "tuskegee-study",
+        "plutonium-injections"
+      ],
+      "heroAssetId": "edge-v01",
+      "heroFile": {
+        "ko": "edgewood-aberdeen__v01__ko.png",
+        "en": "edgewood-aberdeen__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1955 시작 → classified experiments → 1975 종료 → veteran exposure review/health guidance.",
+        "en": "1955 start → classified experiments → 1975 end → veteran exposure review and health guidance."
+      },
+      "heroAlt": {
+        "ko": "1955 시작 → classified experiments → 1975 종료 → veteran exposure review/health guidance.",
+        "en": "1955 start → classified experiments → 1975 end → veteran exposure review and health guidance."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "fermi-bubbles",
+      "title": {
+        "ko": "페르미 버블",
+        "en": "Fermi Bubbles"
+      },
+      "headline": {
+        "ko": "우리 은하 중심에서 무엇이 5만 광년짜리 감마선 거품을 밀어냈나",
+        "en": "What Blew 50,000-Light-Year Gamma-Ray Bubbles Out of the Milky Way?"
+      },
+      "hook": {
+        "ko": "거품의 존재는 더 이상 미스터리가 아니다. Fermi가 실제로 봤다. 남은 미스터리는 무엇이 은하 중심에서 그만한 에너지를 방출했고, 언제 어떤 입자를 가속했는가다.",
+        "en": "The bubbles themselves are no longer a mystery—they are real Fermi structures. The unresolved question is what released enough energy from the Galactic center, when it happened, and which particles carried the energy."
+      },
+      "aliases": [
+        "Fermi Bubbles",
+        "gamma ray bubbles Milky Way"
+      ],
+      "genre": "Space / Astronomy",
+      "genres": [
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [],
+      "regions": [
+        "Milky Way Galactic center"
+      ],
+      "era": "Modern high-energy astrophysics",
+      "resolution": "STRUCTURE_CONFIRMED_ORIGIN_AND_AGE_MODEL_DEPENDENT",
+      "places": [],
+      "people": [
+        {
+          "name": "Doug Finkbeiner",
+          "role": "researcher who recognized structure"
+        }
+      ],
+      "dateRange": {
+        "start": "2010",
+        "end": "present",
+        "precision": "discovery through ongoing modeling"
+      },
+      "related": [
+        "great-attractor"
+      ],
+      "heroAssetId": "fb-v01",
+      "heroFile": {
+        "ko": "fermi-bubbles__v01__ko.png",
+        "en": "fermi-bubbles__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Milky Way plane 중심 위아래로 두 gamma-ray bubble이 뻗는 구조도.",
+        "en": "Original diagram of the two gamma-ray lobes above and below the Milky Way plane."
+      },
+      "heroAlt": {
+        "ko": "Milky Way plane 중심 위아래로 두 gamma-ray bubble이 뻗는 구조도.",
+        "en": "Original diagram of the two gamma-ray lobes above and below the Milky Way plane."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "flight-19",
+      "title": {
+        "ko": "Flight 19",
+        "en": "Flight 19"
+      },
+      "headline": {
+        "ko": "다섯 대는 왜 방향을 잃었고, 수색기 사고까지 왜 한 미스터리로 묶였나",
+        "en": "Why Did Five Avengers Lose Their Bearings—and Why Was the Search-Plane Accident Folded Into the Same Mystery?"
+      },
+      "hook": {
+        "ko": "Flight 19은 단순한 “증발” 이야기가 아니다. radio record에는 위치혼란과 연료제약이 남아 있다. 더 중요한 건 수색 Mariner까지 동일한 미해결 사건으로 묶지 않는 것이다.",
+        "en": "Flight 19 is not a story of aircraft simply vanishing. The radio record preserves navigation confusion and fuel limits—and the lost search Mariner belongs to a different evidentiary category."
+      },
+      "aliases": [
+        "Flight 19",
+        "Bermuda Triangle Flight 19"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Florida / Western Atlantic"
+      ],
+      "era": "World War II aftermath",
+      "resolution": "AVENGER_WRECK_LOCATIONS_UNRESOLVED_NAVIGATION_FAILURE_DOCUMENTED",
+      "places": [
+        {
+          "name": "Fort Lauderdale",
+          "role": "departure"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1945-12-05",
+        "end": "1945-12-05",
+        "precision": "incident date"
+      },
+      "related": [
+        "bermuda-triangle"
+      ],
+      "heroAssetId": "f19-v01",
+      "heroFile": {
+        "ko": "flight-19__v01__ko.png",
+        "en": "flight-19__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "훈련 출발 → position confusion → fuel concern → Avenger 실종 → Mariner probable fire/explosion.",
+        "en": "Training departure → position confusion → fuel concern → Avenger loss → Mariner probable fire/explosion."
+      },
+      "heroAlt": {
+        "ko": "훈련 출발 → position confusion → fuel concern → Avenger 실종 → Mariner probable fire/explosion.",
+        "en": "Training departure → position confusion → fuel concern → Avenger loss → Mariner probable fire/explosion."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "fox-sisters-spiritualism",
       "title": {
         "ko": "폭스 자매와 영혼 두드림의 시작",
@@ -1090,6 +2086,307 @@
       }
     },
     {
+      "canonicalId": "gardner-museum-heist",
+      "title": {
+        "ko": "가드너 미술관 도난사건",
+        "en": "Isabella Stewart Gardner Museum Theft"
+      },
+      "headline": {
+        "ko": "범행은 81분 동안 기록됐는데 왜 13점의 작품은 36년째 돌아오지 않았나",
+        "en": "The Heist Took 81 Minutes—Why Are 13 Masterpieces Still Missing Decades Later?"
+      },
+      "hook": {
+        "ko": "Gardner heist는 범행방식도 도난목록도 잘 알려져 있다. 그런데 사람과 작품의 provenance는 끝내 끊겼다. 시간이 지나면서 '누가 훔쳤나'와 '지금 누가 갖고 있나'는 서로 다른 미스터리가 됐다.",
+        "en": "The Gardner heist is unusually clear about how the crime happened and what vanished. What broke was the provenance after the theft: who stole it and who holds it now became different mysteries."
+      },
+      "aliases": [
+        "Gardner Museum heist",
+        "Isabella Stewart Gardner Museum theft"
+      ],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Boston, Massachusetts"
+      ],
+      "era": "Contemporary art crime",
+      "resolution": "THEFT_CONFIRMED_ART_AND_CULPRIT_UNRESOLVED",
+      "places": [
+        {
+          "name": "Isabella Stewart Gardner Museum",
+          "role": "crime scene"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1990-03-18",
+        "end": "present",
+        "precision": "heist through ongoing recovery investigation"
+      },
+      "related": [],
+      "heroAssetId": "gard-v01",
+      "heroFile": {
+        "ko": "gardner-museum-heist__v01__ko.png",
+        "en": "gardner-museum-heist__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "경찰 위장 진입 → guard 제압 → 81분 theft → 13 works 분산 → 장기회수수사.",
+        "en": "Police disguise → guards subdued → 81-minute theft → 13 works dispersed → long recovery investigation."
+      },
+      "heroAlt": {
+        "ko": "경찰 위장 진입 → guard 제압 → 81분 theft → 13 works 분산 → 장기회수수사.",
+        "en": "Police disguise → guards subdued → 81-minute theft → 13 works dispersed → long recovery investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "genghis-khan-tomb",
+      "title": {
+        "ko": "칭기즈 칸의 무덤",
+        "en": "Tomb of Genghis Khan"
+      },
+      "headline": {
+        "ko": "후보 산맥은 있는데 왜 800년 동안 무덤 하나를 확정하지 못했나",
+        "en": "Why Do We Have a Strong Candidate Landscape but No Confirmed Tomb After 800 Years?"
+      },
+      "hook": {
+        "ko": "Burkhan Khaldun은 칭기즈 칸 전승과 깊이 연결된다. 그러나 sacred landscape를 아는 것과 묘실을 찾는 것은 다르다. 미스터리는 후보지역이 없는 게 아니라 고고학적 확정이 없는 데 있다.",
+        "en": "Burkhan Khaldun is deeply tied to Genghis Khan tradition. The mystery is not a lack of candidate landscape, but the absence of archaeological confirmation of an actual tomb chamber."
+      },
+      "aliases": [
+        "Genghis Khan tomb",
+        "Great Burkhan Khaldun"
+      ],
+      "genre": "Ancient History / Archaeology",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "Mongolia"
+      ],
+      "regions": [
+        "Khentii / Great Burkhan Khaldun"
+      ],
+      "era": "Mongol Empire / modern archaeology",
+      "resolution": "SACRED_REGION_TRADITION_STRONG_EXACT_TOMB_UNCONFIRMED",
+      "places": [
+        {
+          "name": "Great Burkhan Khaldun",
+          "role": "sacred landscape / believed burial region"
+        }
+      ],
+      "people": [
+        {
+          "name": "Genghis Khan",
+          "role": "burial subject"
+        }
+      ],
+      "dateRange": {
+        "start": "1227",
+        "end": "present",
+        "precision": "death through modern search"
+      },
+      "related": [],
+      "heroAssetId": "gk-v01",
+      "heroFile": {
+        "ko": "genghis-khan-tomb__v01__ko.png",
+        "en": "genghis-khan-tomb__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Mongolia Khentii/Burkhan Khaldun의 문화적 후보권역과 '정확한 무덤 위치 미확정'을 구분.",
+        "en": "Map of Khentii/Burkhan Khaldun as a cultural candidate region while exact tomb location remains unknown."
+      },
+      "heroAlt": {
+        "ko": "Mongolia Khentii/Burkhan Khaldun의 문화적 후보권역과 '정확한 무덤 위치 미확정'을 구분.",
+        "en": "Map of Khentii/Burkhan Khaldun as a cultural candidate region while exact tomb location remains unknown."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "giant-squid",
+      "title": {
+        "ko": "대왕오징어",
+        "en": "Giant Squid"
+      },
+      "headline": {
+        "ko": "실재는 증명됐는데 왜 대왕오징어는 여전히 '미스터리 동물'처럼 느껴질까",
+        "en": "If Giant Squid Are Proven Real, Why Do They Still Feel Like Mystery Animals?"
+      },
+      "hook": {
+        "ko": "대왕오징어는 존재논쟁이 끝난 동물이다. 하지만 수백 미터 아래 심해 때문에 직접관찰이 늦었고, population·behavior 자료는 아직 드물다. 미스터리는 존재에서 생태로 이동했다.",
+        "en": "The existence question is over. What remains mysterious is ecology: deep habitat delayed direct observation, and population and behavior data are still sparse."
+      },
+      "aliases": [
+        "giant squid",
+        "Architeuthis",
+        "kraken"
+      ],
+      "genre": "Cryptid / Disputed Animal",
+      "genres": [
+        "Discovery / Taxonomy",
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [],
+      "regions": [
+        "Deep ocean"
+      ],
+      "era": "Modern marine biology",
+      "resolution": "SPECIES_CONFIRMED_DEEP_SEA_ECOLOGY_PARTLY_UNRESOLVED",
+      "places": [],
+      "people": [
+        {
+          "name": "Clyde Roper",
+          "role": "Smithsonian giant-squid researcher"
+        }
+      ],
+      "dateRange": {
+        "start": "historical specimens",
+        "end": "present",
+        "precision": "specimen record through modern live observation"
+      },
+      "related": [
+        "coelacanth-rediscovery"
+      ],
+      "heroAssetId": "sq-v01",
+      "heroFile": {
+        "ko": "giant-squid__v01__ko.png",
+        "en": "giant-squid__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research.",
+        "en": "Carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research."
+      },
+      "heroAlt": {
+        "ko": "carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research.",
+        "en": "Carcass evidence → 2006 live surface video → 2012 natural-habitat video → modern ecology research."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "gimbal",
+      "title": {
+        "ko": "Gimbal UAP 영상",
+        "en": "Gimbal UAP Video"
+      },
+      "headline": {
+        "ko": "영상은 진짜고 사건은 미해결이다—그 사이에 우리가 실제로 아는 것은 무엇일까",
+        "en": "The Video Is Real and the Case Is Unresolved—What Do We Actually Know in Between?"
+      },
+      "hook": {
+        "ko": "Gimbal은 조작영상이 아니다. DoD가 실제 Navy 영상으로 확인했고 AARO는 지금도 unresolved로 분류한다. 하지만 ‘진짜 영상’과 ‘외계기체’ 사이에는 거리·크기·속도·정체를 채워야 하는 큰 증거공간이 남아 있다.",
+        "en": "Gimbal is not a fake video. DoD authenticated it as Navy footage and AARO still lists it unresolved. But a large evidentiary gap remains between 'real recording' and 'extraterrestrial craft.'"
+      },
+      "aliases": [
+        "Gimbal UAP",
+        "Navy Gimbal video",
+        "UAP Gimbal"
+      ],
+      "genre": "UFO / UAP / Aerial Anomaly",
+      "genres": [
+        "Intelligence / Secret Program / Conspiracy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "U.S. Navy operating area"
+      ],
+      "era": "Contemporary UAP investigation",
+      "resolution": "VIDEO_AUTHENTIC_CASE_UNRESOLVED_OBJECT_IDENTITY_NOT_ESTABLISHED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "2015-01",
+        "end": "present",
+        "precision": "recording and official-publication period"
+      },
+      "related": [
+        "gofast",
+        "nimitz-tic-tac"
+      ],
+      "heroAssetId": "gim-v01",
+      "heroFile": {
+        "ko": "gimbal__v01__ko.png",
+        "en": "gimbal__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "영상 진위 확인·unresolved status·외계기체 주장 사이의 증거단계를 분리.",
+        "en": "Evidence card separating video authenticity, unresolved status, and extraterrestrial claims."
+      },
+      "heroAlt": {
+        "ko": "영상 진위 확인·unresolved status·외계기체 주장 사이의 증거단계를 분리.",
+        "en": "Evidence card separating video authenticity, unresolved status, and extraterrestrial claims."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "gloucester-sea-serpent-1817",
       "title": {
         "ko": "1817년 글로스터 바다뱀 보도",
@@ -1162,6 +2459,75 @@
       "publication": {
         "tier": "COMPACT_FILE",
         "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "great-attractor",
+      "title": {
+        "ko": "그레이트 어트랙터",
+        "en": "Great Attractor"
+      },
+      "headline": {
+        "ko": "우리 은하가 끌려가는 ‘보이지 않는 거대괴물’은 실제 무엇인가",
+        "en": "What Is the “Invisible Giant” Pulling on Our Local Group?"
+      },
+      "hook": {
+        "ko": "Great Attractor는 한 개의 괴물천체도 우주의 중심도 아니다. 은하의 peculiar motion이 드러낸 대규모 질량분포 문제이며, Milky Way의 dust 뒤에 가려진 Norma·Hydra-Centaurus와 더 먼 Shapley 구조까지 함께 봐야 한다.",
+        "en": "The Great Attractor is neither one monster object nor the center of the universe. It is a large-scale gravitational-flow problem revealed by galaxy peculiar motions, involving structures hidden behind the Milky Way and possibly more distant superclusters."
+      },
+      "aliases": [
+        "Great Attractor",
+        "Norma Cluster",
+        "Hydra Centaurus flow"
+      ],
+      "genre": "Space / Astronomy",
+      "genres": [
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [],
+      "regions": [
+        "Hydra-Centaurus / Norma / Shapley large-scale structure"
+      ],
+      "era": "Modern cosmology",
+      "resolution": "LARGE_SCALE_MASS_FLOW_ESTABLISHED_SINGLE_OBJECT_CENTER_MODEL_REFUTED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1980s",
+        "end": "present",
+        "precision": "modern peculiar-velocity surveys"
+      },
+      "related": [
+        "hubble-tension"
+      ],
+      "heroAssetId": "ga-v01",
+      "heroFile": {
+        "ko": "great-attractor__v01__ko.png",
+        "en": "great-attractor__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Local Group → Hydra-Centaurus/Norma → Shapley 방향의 대규모 구조 개념도.",
+        "en": "Original large-scale map: Local Group → Hydra-Centaurus/Norma → Shapley direction."
+      },
+      "heroAlt": {
+        "ko": "Local Group → Hydra-Centaurus/Norma → Shapley 방향의 대규모 구조 개념도.",
+        "en": "Original large-scale map: Local Group → Hydra-Centaurus/Norma → Shapley direction."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
@@ -1261,6 +2627,88 @@
       }
     },
     {
+      "canonicalId": "green-run",
+      "title": {
+        "ko": "그린 런",
+        "en": "The Green Run"
+      },
+      "headline": {
+        "ko": "1949년 Hanford는 왜 방사성 요오드를 일부러 공기 중에 내보냈나",
+        "en": "Why Did Hanford Deliberately Release Radioactive Iodine in 1949?"
+      },
+      "hook": {
+        "ko": "Green Run은 음모론이 아니라 문서가 남은 비밀 군사 실험이다. 그러나 “실험이 실제였다”와 “특정 질병이 이 한 번의 방출 때문에 생겼다”는 서로 다른 수준의 주장이다.",
+        "en": "The Green Run was a documented secret military experiment, not a rumor. But establishing the release is different from attributing a particular person’s later illness to this single event."
+      },
+      "aliases": [
+        "Green Run",
+        "Hanford Green Run",
+        "그린 런",
+        "Green Run",
+        "Hanford Green Run",
+        "그린 런",
+        "Green Run",
+        "Hanford Green Run",
+        "그린 런"
+      ],
+      "genre": "Declassified Programs / Intelligence",
+      "genres": [
+        "Nuclear History",
+        "Public Health"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Washington"
+      ],
+      "era": "Early Cold War",
+      "resolution": "DOCUMENTED_EVENT_WITH_QUANTITATIVE_UNCERTAINTY",
+      "places": [
+        "Hanford Site",
+        "T Plant"
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1949-12-02",
+        "end": "1949-12-03",
+        "precision": "documented experiment window"
+      },
+      "related": [
+        "plutonium-injections"
+      ],
+      "heroAssetId": "green-run-release-v01",
+      "heroFile": {
+        "ko": "green-run__release-v01__ko.png",
+        "en": "green-run__release-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "짧은 cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring.",
+        "en": "short cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring."
+      },
+      "heroAlt": {
+        "ko": "짧은 cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring.",
+        "en": "short cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DECLASSIFIED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "greenbrier-ghost-shue",
       "title": {
         "ko": "그린브라이어 유령 증언과 살인 재판",
@@ -1345,6 +2793,158 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "haarp-weather-control",
+      "title": {
+        "ko": "HAARP 날씨조작설",
+        "en": "HAARP Weather-Control Theory"
+      },
+      "headline": {
+        "ko": "시설은 진짜다—그런데 전리층 연구가 왜 날씨조작 능력의 증거가 아닌가",
+        "en": "The Facility Is Real—Why Does Ionospheric Research Not Prove Weather Control?"
+      },
+      "hook": {
+        "ko": "HAARP는 존재한다. 바로 그래서 오해가 강하다. 실제 military-origin research facility와 ionospheric experiment를 인정해도 그 사실은 weather-control capability까지 이어지지 않는다.",
+        "en": "HAARP exists, which is why the theory feels persuasive. But acknowledging a real military-origin ionospheric facility does not establish weather-control capability."
+      },
+      "aliases": [
+        "HAARP weather control",
+        "HAARP conspiracy"
+      ],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [
+        "Intelligence / Secret Program / Conspiracy",
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Alaska"
+      ],
+      "era": "Modern geophysics",
+      "resolution": "FACILITY_CONFIRMED_WEATHER_CONTROL_NOT_SUPPORTED",
+      "places": [
+        {
+          "name": "Gakona, Alaska",
+          "role": "facility location"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1990s",
+        "end": "present",
+        "precision": "facility program through university era"
+      },
+      "related": [
+        "operation-popeye",
+        "chemtrail"
+      ],
+      "heroAssetId": "haarp-v01",
+      "heroFile": {
+        "ko": "haarp-weather-control__v01__ko.png",
+        "en": "haarp-weather-control__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "troposphere(weather)와 ionosphere(HAARP research)의 altitude/physics 차이.",
+        "en": "Difference between tropospheric weather and HAARP ionospheric research."
+      },
+      "heroAlt": {
+        "ko": "troposphere(weather)와 ionosphere(HAARP research)의 altitude/physics 차이.",
+        "en": "Difference between tropospheric weather and HAARP ionospheric research."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "highway-of-tears",
+      "title": {
+        "ko": "Highway of Tears / Project E-PANA",
+        "en": "Highway of Tears / Project E-PANA"
+      },
+      "headline": {
+        "ko": "18건을 묶어 수사했다고 해서 한 명의 연쇄살인범 사건이 되는 것은 아니다",
+        "en": "Eighteen Cases in One Project Do Not Automatically Mean One Serial Killer"
+      },
+      "hook": {
+        "ko": "E-PANA는 실제 RCMP 프로젝트지만 하나의 사건이 아니다. 일부는 해결됐고 일부는 남았다. 가장 중요한 경계는 '같은 corridor의 문제'와 '같은 offender'를 혼동하지 않는 것이다.",
+        "en": "E-PANA is a real RCMP project, but it is not one crime. Some cases are solved, some unresolved. The critical boundary is between a shared corridor problem and a shared offender."
+      },
+      "aliases": [
+        "Highway of Tears",
+        "Project E-PANA"
+      ],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "regions": [
+        "British Columbia"
+      ],
+      "era": "Modern criminal investigation",
+      "resolution": "MULTIPLE_CASE_PROJECT_SOME_SOLVED_SOME_UNRESOLVED_NO_SINGLE_OFFENDER_CONCLUSION",
+      "places": [
+        {
+          "name": "Northern British Columbia highways",
+          "role": "case corridor"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "historical cases",
+        "end": "present",
+        "precision": "cases reviewed under E-PANA"
+      },
+      "related": [],
+      "heroAssetId": "hot-v01",
+      "heroFile": {
+        "ko": "highway-of-tears__v01__ko.png",
+        "en": "highway-of-tears__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "2005 E-PANA 시작 → 2007 18-case scope → 일부 해결 / 일부 unresolved.",
+        "en": "2005 E-PANA start → 2007 18-case scope → some solved / some unresolved."
+      },
+      "heroAlt": {
+        "ko": "2005 E-PANA 시작 → 2007 18-case scope → 일부 해결 / 일부 unresolved.",
+        "en": "2005 E-PANA start → 2007 18-case scope → some solved / some unresolved."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -1448,6 +3048,97 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "htlingual",
+      "title": {
+        "ko": "HTLINGUAL 우편개봉 프로그램",
+        "en": "HTLINGUAL Mail-Opening Program"
+      },
+      "headline": {
+        "ko": "CIA는 정말 미국인의 우편을 몰래 열었나—그리고 왜 21년이나 지속됐나",
+        "en": "Did the CIA Really Open Americans’ Mail—and How Did the Program Last 21 Years?"
+      },
+      "hook": {
+        "ko": "이 사건은 존재여부가 미스터리가 아니다. CIA 자체 역사와 Church Committee 기록은 수백만 통의 우편 감시와 21만5천 통 이상의 개봉을 확인한다. 남는 질문은 어떻게 외국방첩 프로그램이 국내 우편비밀 침해로 확대됐는가다.",
+        "en": "The existence of HTLINGUAL is not in doubt. CIA and Church Committee records document millions of monitored letters and more than 215,000 openings. The deeper question is how a foreign-counterintelligence program expanded into domestic mail intrusion."
+      },
+      "aliases": [
+        "HTLINGUAL",
+        "CIA mail opening",
+        "CIA Soviet mail program"
+      ],
+      "genre": "Intelligence / Secret Program / Conspiracy",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "New York City"
+      ],
+      "era": "Cold War",
+      "resolution": "PROGRAM_CONFIRMED_SCALE_DOCUMENTED_OVERSIGHT_ABUSE_ESTABLISHED",
+      "places": [
+        {
+          "name": "New York City",
+          "role": "primary mail-intercept location"
+        }
+      ],
+      "people": [
+        {
+          "name": "James Angleton",
+          "role": "CIA CI Staff chief"
+        },
+        {
+          "name": "Richard Helms",
+          "role": "CIA operations leadership"
+        },
+        {
+          "name": "James Schlesinger",
+          "role": "DCI who terminated program"
+        }
+      ],
+      "dateRange": {
+        "start": "1952",
+        "end": "1975",
+        "precision": "operation through public investigation"
+      },
+      "related": [
+        "project-shamrock",
+        "project-minaret"
+      ],
+      "heroAssetId": "ht-v01",
+      "heroFile": {
+        "ko": "htlingual__v01__ko.png",
+        "en": "htlingual__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1952 시작 → 1955~56 확대 → 1958 FBI 인지 → 1961 전용시설 → 1973 종료 → 1975 공개조사.",
+        "en": "1952 start → 1955–56 expansion → FBI awareness 1958 → dedicated facility 1961 → 1973 termination → 1975 hearings."
+      },
+      "heroAlt": {
+        "ko": "1952 시작 → 1955~56 확대 → 1958 FBI 인지 → 1961 전용시설 → 1973 종료 → 1975 공개조사.",
+        "en": "1952 start → 1955–56 expansion → FBI awareness 1958 → dedicated facility 1961 → 1973 termination → 1975 hearings."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
       }
     },
     {
@@ -1945,6 +3636,388 @@
       }
     },
     {
+      "canonicalId": "lycurgus-cup",
+      "title": {
+        "ko": "리쿠르고스 컵",
+        "en": "Lycurgus Cup"
+      },
+      "headline": {
+        "ko": "로마인은 정말 '나노기술'을 알고 있었나—색변화 원리와 의도는 다른 문제다",
+        "en": "Did the Romans Really Know 'Nanotechnology'? The Color Mechanism and the Makers' Intent Are Different Questions"
+      },
+      "hook": {
+        "ko": "리쿠르고스 컵의 green/red 변색은 실제 물리로 설명된다. 남는 미스터리는 입자효과가 아니라 로마 장인이 이 microstructure를 얼마나 의도적으로 재현했는가다.",
+        "en": "The Lycurgus Cup's green/red color shift is physically explained. The remaining question is not the optics, but how deliberately Roman craftspeople controlled the microstructure."
+      },
+      "aliases": [
+        "Lycurgus Cup",
+        "Roman dichroic glass"
+      ],
+      "genre": "Technology / Lost Invention",
+      "genres": [
+        "Ancient History / Archaeology",
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [
+        "Roman Empire"
+      ],
+      "regions": [
+        "Late Roman world"
+      ],
+      "era": "Late Roman",
+      "resolution": "OPTICAL_MECHANISM_EXPLAINED_ARTISAN_INTENT_PARTLY_UNRESOLVED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "4th century CE",
+        "end": "present",
+        "precision": "ancient production and modern materials study"
+      },
+      "related": [
+        "roman-concrete"
+      ],
+      "heroAssetId": "lyc-v01",
+      "heroFile": {
+        "ko": "lycurgus-cup__v01__ko.png",
+        "en": "lycurgus-cup__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "reflected light→green / transmitted light→red dichroism과 metal-particle mechanism.",
+        "en": "Reflected light→green / transmitted light→red dichroism and metal-particle mechanism."
+      },
+      "heroAlt": {
+        "ko": "reflected light→green / transmitted light→red dichroism과 metal-particle mechanism.",
+        "en": "Reflected light→green / transmitted light→red dichroism and metal-particle mechanism."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "marfa-lights",
+      "title": {
+        "ko": "마파 라이트",
+        "en": "Marfa Lights"
+      },
+      "headline": {
+        "ko": "텍사스 사막의 불빛—차량등으로 설명된 것과 아직 말할 수 없는 것을 나누면",
+        "en": "The Marfa Lights: What Headlights Explain—and What They Don't Prove"
+      },
+      "hook": {
+        "ko": "마파의 빛을 둘러싼 논쟁은 '전부 미지현상'과 '전부 차량등' 사이에 있다. 현대 관측은 false positive를 많이 설명하지만 모든 historical report를 소급해 하나의 원인으로 닫지는 못한다.",
+        "en": "The Marfa debate sits between 'all mysterious' and 'all headlights.' Modern observations explain many false positives without retrospectively solving every historical report."
+      },
+      "aliases": [
+        "Marfa Lights",
+        "Marfa mystery lights"
+      ],
+      "genre": "Strange Science / Natural Anomaly",
+      "genres": [
+        "Paranormal / Haunting / Folklore",
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "West Texas"
+      ],
+      "era": "Historical folklore / modern optics",
+      "resolution": "LIGHT_REPORTS_REAL_MANY_FALSE_POSITIVES_EXPLAINED_SINGLE_UNKNOWN_SOURCE_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "Marfa, Texas",
+          "role": "observation area"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "historical reports",
+        "end": "present",
+        "precision": "folklore through modern field observations"
+      },
+      "related": [],
+      "heroAssetId": "marfa-v01",
+      "heroFile": {
+        "ko": "marfa-lights__v01__ko.png",
+        "en": "marfa-lights__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "차량등·대기굴절·거리오판이 mystery light처럼 보이는 과정.",
+        "en": "How headlights, atmospheric refraction, and distance error can create mystery-light appearances."
+      },
+      "heroAlt": {
+        "ko": "차량등·대기굴절·거리오판이 mystery light처럼 보이는 과정.",
+        "en": "How headlights, atmospheric refraction, and distance error can create mystery-light appearances."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "marine-sulphur-queen",
+      "title": {
+        "ko": "Marine Sulphur Queen 실종",
+        "en": "Marine Sulphur Queen"
+      },
+      "headline": {
+        "ko": "위험요소는 수십 개였는데 왜 정확한 침몰원인은 끝내 하나로 못 좁혔나",
+        "en": "Dozens of Risk Factors Were Documented—Why Was the Exact Sinking Cause Never Proven?"
+      },
+      "hook": {
+        "ko": "Marine Sulphur Queen은 단순히 흔적 없이 사라진 배가 아니다. debris와 마지막 radio, USCG 조사로 많은 위험요소는 보인다. 하지만 main wreck가 없어서 어느 failure가 실제 마지막 연쇄를 시작했는지는 남았다.",
+        "en": "Marine Sulphur Queen was not a totally evidence-free disappearance: debris, last radio contact, weather, and Coast Guard investigation reveal many risks. What remains missing is the wreck evidence needed to prove which failure actually triggered the final chain."
+      },
+      "aliases": [
+        "Marine Sulphur Queen",
+        "SS Marine Sulphur Queen"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Unsolved Crime / Disappearance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Gulf of Mexico / Straits of Florida"
+      ],
+      "era": "20th-century maritime",
+      "resolution": "VESSEL_AND_CREW_LOST_RISK_FACTORS_DOCUMENTED_EXACT_CAUSE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Beaumont, Texas",
+          "role": "departure"
+        },
+        {
+          "name": "Straits of Florida",
+          "role": "probable loss region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1963-02-02",
+        "end": "1963-02",
+        "precision": "voyage and search"
+      },
+      "related": [
+        "bermuda-triangle"
+      ],
+      "heroAssetId": "msq-v01",
+      "heroFile": {
+        "ko": "marine-sulphur-queen__v01__ko.png",
+        "en": "marine-sulphur-queen__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "2/2 출항 → 2/4 마지막 radio → overdue → air/sea search → debris → 원인미확정.",
+        "en": "Feb 2 departure → Feb 4 last radio → overdue → search → debris → cause unresolved."
+      },
+      "heroAlt": {
+        "ko": "2/2 출항 → 2/4 마지막 radio → overdue → air/sea search → debris → 원인미확정.",
+        "en": "Feb 2 departure → Feb 4 last radio → overdue → search → debris → cause unresolved."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mars-methane",
+      "title": {
+        "ko": "화성 메탄 미스터리",
+        "en": "Mars Methane Mystery"
+      },
+      "headline": {
+        "ko": "Curiosity는 메탄을 맡는데 궤도선은 못 본다 — 화성의 두 관측이 왜 충돌하나",
+        "en": "Curiosity Smells Methane, an Orbiter Does Not—Why Do Mars Observations Disagree?"
+      },
+      "hook": {
+        "ko": "Gale Crater의 Curiosity는 반복적으로 메탄 변화를 측정했지만 ESA의 Trace Gas Orbiter는 전지구 대기에서 같은 신호를 찾지 못했다. 관측은 실제 데이터지만, 메탄의 공급원과 빠른 소멸 메커니즘은 아직 닫히지 않았다.",
+        "en": "Curiosity has repeatedly measured methane variability near the surface in Gale Crater, while ESA’s Trace Gas Orbiter has not found the same signal in the broader atmosphere. The observations are real data; the source and rapid loss mechanism remain open."
+      },
+      "aliases": [
+        "Mars methane",
+        "화성 메탄",
+        "Curiosity methane",
+        "Mars methane",
+        "화성 메탄",
+        "Curiosity methane",
+        "Mars methane",
+        "화성 메탄",
+        "Curiosity methane"
+      ],
+      "genre": "Space / Astronomy",
+      "genres": [
+        "Planetary Science",
+        "Atmospheric Chemistry"
+      ],
+      "countries": [
+        "Mars"
+      ],
+      "regions": [
+        "Gale Crater"
+      ],
+      "era": "Curiosity / Trace Gas Orbiter era",
+      "resolution": "OBSERVATION_CONFIRMED_SOURCE_UNRESOLVED",
+      "places": [
+        "Gale Crater"
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "2012",
+        "end": "2026-09",
+        "precision": "mission era"
+      },
+      "related": [
+        "mars-oxygen"
+      ],
+      "heroAssetId": "mars-methane-contrast-v01",
+      "heroFile": {
+        "ko": "mars-methane__contrast-v01__ko.png",
+        "en": "mars-methane__contrast-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal.",
+        "en": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal."
+      },
+      "heroAlt": {
+        "ko": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal.",
+        "en": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SPACE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mars-oxygen",
+      "title": {
+        "ko": "화성 산소 계절변화",
+        "en": "Mars Oxygen Mystery"
+      },
+      "headline": {
+        "ko": "화성의 산소는 왜 계절마다 예상보다 이상하게 늘었다 줄까",
+        "en": "Why Does Mars Oxygen Rise and Fall More Strangely Than Expected?"
+      },
+      "hook": {
+        "ko": "Curiosity가 본 oxygen anomaly는 진짜다. 하지만 “산소=생명”으로 뛰어갈 단계가 아니다. known chemistry에 빠진 source·sink를 찾는 게 핵심이다.",
+        "en": "Curiosity’s oxygen anomaly is real, but “oxygen equals life” is not the conclusion. The current mystery is a missing chemical source-and-sink process."
+      },
+      "aliases": [
+        "Mars oxygen mystery",
+        "Curiosity oxygen"
+      ],
+      "genre": "Space / Astronomy",
+      "genres": [
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [],
+      "regions": [
+        "Mars / Gale Crater"
+      ],
+      "era": "Modern planetary science",
+      "resolution": "OXYGEN_ANOMALY_MEASURED_MECHANISM_UNRESOLVED_BIOLOGY_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "Gale Crater",
+          "role": "Curiosity measurement site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "Curiosity mission",
+        "end": "present",
+        "precision": "multi-Martian-year atmospheric observations"
+      },
+      "related": [
+        "mars-methane"
+      ],
+      "heroAssetId": "mo2-v01",
+      "heroFile": {
+        "ko": "mars-oxygen__v01__ko.png",
+        "en": "mars-oxygen__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "CO2 seasonal pressure cycle와 N2/Ar expected behavior 대비 O2 anomaly.",
+        "en": "CO2 seasonal pressure cycle, expected N2/Ar behavior, and anomalous O2 response."
+      },
+      "heroAlt": {
+        "ko": "CO2 seasonal pressure cycle와 N2/Ar expected behavior 대비 O2 anomaly.",
+        "en": "CO2 seasonal pressure cycle, expected N2/Ar behavior, and anomalous O2 response."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "mary-toft-rabbits",
       "title": {
         "ko": "메리 토프트의 토끼 출산 사기",
@@ -2108,6 +4181,89 @@
           "WEB_NOT_APPLIED",
           "RUNTIME_QA_NOT_RUN"
         ]
+      }
+    },
+    {
+      "canonicalId": "mj12",
+      "title": {
+        "ko": "MJ-12 / Majestic 12",
+        "en": "MJ-12 / Majestic 12"
+      },
+      "headline": {
+        "ko": "아카이브에 문서는 있는데 왜 ‘MJ-12 실재’ 증거가 되지 못했나",
+        "en": "If the MJ-12 Memo Exists in the Archives, Why Doesn't It Prove MJ-12 Existed?"
+      },
+      "hook": {
+        "ko": "MJ-12 논쟁은 ‘문서가 있느냐’에서는 끝나지 않는다. NARA는 문제의 memo를 실제로 보관하지만, numbering·marking·작성자 위치·관련기록 부재 같은 provenance anomaly 때문에 그 내용이 정부조직의 실재를 입증하지 못한다고 정리했다.",
+        "en": "The MJ-12 debate does not end with whether a document exists. NARA holds the memo, but documented provenance anomalies and the absence of supporting records prevent it from establishing the claimed secret committee."
+      },
+      "aliases": [
+        "MJ-12",
+        "Majestic 12",
+        "Majestic Twelve"
+      ],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [
+        "Intelligence / Secret Program / Conspiracy",
+        "UFO / UAP / Aerial Anomaly"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Washington, D.C."
+      ],
+      "era": "Cold War / later archival investigation",
+      "resolution": "DOCUMENT_EXISTS_ORGANIZATION_NOT_CORROBORATED",
+      "places": [],
+      "people": [
+        {
+          "name": "Robert Cutler",
+          "role": "purported memo author"
+        },
+        {
+          "name": "Nathan Twining",
+          "role": "purported recipient"
+        }
+      ],
+      "dateRange": {
+        "start": "1954-07",
+        "end": "1987",
+        "precision": "purported memo and NARA investigation"
+      },
+      "related": [
+        "roswell",
+        "project-blue-book"
+      ],
+      "heroAssetId": "mj-v01",
+      "heroFile": {
+        "ko": "mj12__v01__ko.png",
+        "en": "mj12__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "문서 발견 → NARA custody → 행정 anomaly → 관련기록 search negative 흐름.",
+        "en": "Document found → NARA custody → provenance anomalies → negative supporting-record searches."
+      },
+      "heroAlt": {
+        "ko": "문서 발견 → NARA custody → 행정 anomaly → 관련기록 search negative 흐름.",
+        "en": "Document found → NARA custody → provenance anomalies → negative supporting-record searches."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
       }
     },
     {
@@ -2371,6 +4527,87 @@
       }
     },
     {
+      "canonicalId": "mv-joyita",
+      "title": {
+        "ko": "MV Joyita 유령선",
+        "en": "MV Joyita"
+      },
+      "headline": {
+        "ko": "가라앉지도 않은 배에서 25명은 왜 모두 사라졌나",
+        "en": "Why Did 25 People Vanish From a Ship That Did Not Sink?"
+      },
+      "hook": {
+        "ko": "Joyita는 wreck가 아니라 떠 있는 채 발견됐다. 그래서 미스터리는 배가 왜 사라졌나가 아니라 사람들이 왜 모두 ship을 떠났고 어디로 갔는가에 집중된다.",
+        "en": "Joyita was recovered afloat, not as a wreck. The mystery is therefore not simply why the ship disappeared, but why everyone left and what happened afterward."
+      },
+      "aliases": [
+        "MV Joyita",
+        "Joyita ghost ship"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Unsolved Crime / Disappearance"
+      ],
+      "countries": [
+        "Samoa",
+        "New Zealand / Pacific context"
+      ],
+      "regions": [
+        "South Pacific"
+      ],
+      "era": "Mid-20th-century maritime",
+      "resolution": "VESSEL_RECOVERED_CREW_PASSENGER_FATE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Apia, Samoa",
+          "role": "departure"
+        },
+        {
+          "name": "Tokelau",
+          "role": "intended destination"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1955",
+        "end": "1955",
+        "precision": "voyage and recovery"
+      },
+      "related": [
+        "carroll-a-deering"
+      ],
+      "heroAssetId": "joy-v01",
+      "heroFile": {
+        "ko": "mv-joyita__v01__ko.png",
+        "en": "mv-joyita__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Samoa 출항 → 실종 → 5일 뒤 발견 → vessel investigation → 25명 fate unresolved.",
+        "en": "Samoa departure → disappearance → found five days later → vessel investigation → fate of 25 unresolved."
+      },
+      "heroAlt": {
+        "ko": "Samoa 출항 → 실종 → 5일 뒤 발견 → vessel investigation → 25명 fate unresolved.",
+        "en": "Samoa departure → disappearance → found five days later → vessel investigation → fate of 25 unresolved."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "napoleon-death-medical-records",
       "title": {
         "ko": "나폴레옹 사망 원인과 비소설",
@@ -2444,6 +4681,172 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "nazca-lines",
+      "title": {
+        "ko": "나스카 라인",
+        "en": "Nazca Lines"
+      },
+      "headline": {
+        "ko": "누가 만들었는지는 알지만, 왜 천 년 가까이 사막에 거대한 선을 반복했을까",
+        "en": "We Know Who Made the Nazca Lines—But Why Did Generations Keep Reworking the Desert?"
+      },
+      "hook": {
+        "ko": "제작법은 의외로 단순하다. 표면자갈을 걷어내 밝은 지층을 드러냈다. 미스터리는 ‘고대에 어떻게 만들었나’보다 왜 수백 년 동안 같은 경관을 의례·상징·천문과 연결해 반복 사용했는가에 있다.",
+        "en": "The construction method is surprisingly simple: remove dark surface gravel and reveal lighter ground. The deeper mystery is why generations repeatedly used the same landscape for ritual, symbolism and perhaps astronomy."
+      },
+      "aliases": [
+        "Nazca Lines",
+        "Nasca Lines",
+        "Nasca geoglyphs"
+      ],
+      "genre": "Ancient History / Archaeology",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "Peru"
+      ],
+      "regions": [
+        "Ica / Nasca / Palpa"
+      ],
+      "era": "Pre-Columbian Andes",
+      "resolution": "BUILDERS_AND_METHOD_ESTABLISHED_FUNCTION_MULTI_CAUSAL_AND_PARTLY_UNRESOLVED",
+      "places": [
+        {
+          "name": "Nasca and Palpa pampas",
+          "role": "geoglyph landscape"
+        },
+        {
+          "name": "Cahuachi",
+          "role": "nearby ceremonial centre"
+        }
+      ],
+      "people": [
+        {
+          "name": "María Reiche",
+          "role": "long-term modern researcher"
+        }
+      ],
+      "dateRange": {
+        "start": "c.500 BCE",
+        "end": "c.500 CE",
+        "precision": "principal geoglyph tradition"
+      },
+      "related": [],
+      "heroAssetId": "naz-v01",
+      "heroFile": {
+        "ko": "nazca-lines__v01__ko.png",
+        "en": "nazca-lines__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Paracas/Nasca 단계, 표면자갈 제거, 거대 geoglyph, 장기보존의 관계.",
+        "en": "Original explainer linking Paracas/Nasca phases, gravel removal, large geoglyphs and preservation."
+      },
+      "heroAlt": {
+        "ko": "Paracas/Nasca 단계, 표면자갈 제거, 거대 geoglyph, 장기보존의 관계.",
+        "en": "Original explainer linking Paracas/Nasca phases, gravel removal, large geoglyphs and preservation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
+      "canonicalId": "olinguito-discovery",
+      "title": {
+        "ko": "올링기토 발견",
+        "en": "Olinguito Discovery"
+      },
+      "headline": {
+        "ko": "100년 넘게 박물관 서랍에 있던 '새 종'은 어떻게 2013년에야 보였나",
+        "en": "How Did a 'New Species' Sit in Museum Drawers for a Century Before 2013?"
+      },
+      "hook": {
+        "ko": "올링기토는 정글에서 갑자기 튀어나온 미지동물이 아니었다. specimen은 오래 있었지만 잘못 분류됐고, skull·teeth·DNA·fieldwork를 다시 합치자 하나의 species가 드러났다.",
+        "en": "The olinguito did not suddenly appear from nowhere. Specimens had existed for decades under misclassification; skulls, teeth, DNA, and fieldwork finally revealed a distinct species."
+      },
+      "aliases": [
+        "olinguito",
+        "Bassaricyon neblina"
+      ],
+      "genre": "Cryptid / Disputed Animal",
+      "genres": [
+        "Discovery / Taxonomy",
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [
+        "Ecuador",
+        "Colombia"
+      ],
+      "regions": [
+        "Northern Andes cloud forests"
+      ],
+      "era": "Modern zoology",
+      "resolution": "NEW_SPECIES_CONFIRMED_MISCLASSIFICATION_EXPLAINED",
+      "places": [],
+      "people": [
+        {
+          "name": "Kristofer Helgen",
+          "role": "Smithsonian research lead"
+        },
+        {
+          "name": "Roland Kays",
+          "role": "field research collaborator"
+        }
+      ],
+      "dateRange": {
+        "start": "early 20th century specimens",
+        "end": "2013",
+        "precision": "misclassified specimens through formal description"
+      },
+      "related": [
+        "coelacanth-rediscovery"
+      ],
+      "heroAssetId": "oli-v01",
+      "heroFile": {
+        "ko": "olinguito-discovery__v01__ko.png",
+        "en": "olinguito-discovery__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "20세기초 specimen → zoo misidentification → museum revision/DNA → fieldwork → 2013 formal description.",
+        "en": "Early specimens → zoo misidentification → museum/DNA revision → fieldwork → 2013 description."
+      },
+      "heroAlt": {
+        "ko": "20세기초 specimen → zoo misidentification → museum revision/DNA → fieldwork → 2013 formal description.",
+        "en": "Early specimens → zoo misidentification → museum/DNA revision → fieldwork → 2013 description."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -2623,6 +5026,228 @@
       }
     },
     {
+      "canonicalId": "pioneer-anomaly",
+      "title": {
+        "ko": "파이오니어 이상",
+        "en": "Pioneer Anomaly"
+      },
+      "headline": {
+        "ko": "새 중력법칙처럼 보였던 힘은 왜 우주선 자체의 열로 끝났나",
+        "en": "How Did a Force That Looked Like New Physics Turn Out to Be the Spacecraft's Own Heat?"
+      },
+      "hook": {
+        "ko": "Pioneer anomaly는 가짜 측정이 아니었다. 이상한 deceleration은 실제였지만, 오래된 telemetry를 복원하자 RTG와 electronics의 열이 남긴 recoil이 정확히 보이기 시작했다.",
+        "en": "The Pioneer anomaly was not fake data. The deceleration was real; recovering old telemetry revealed that thermal recoil from the spacecraft itself accounted for it."
+      },
+      "aliases": [
+        "Pioneer anomaly",
+        "Pioneer 10 anomaly",
+        "Pioneer 11 anomaly"
+      ],
+      "genre": "Space / Astronomy",
+      "genres": [
+        "Explained Mystery / Debunked Myth",
+        "Technology / Lost Invention"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Deep space"
+      ],
+      "era": "Deep-space navigation",
+      "resolution": "MEASURED_ANOMALY_EXPLAINED_BY_THERMAL_RECOIL",
+      "places": [],
+      "people": [
+        {
+          "name": "Slava Turyshev",
+          "role": "JPL research lead"
+        }
+      ],
+      "dateRange": {
+        "start": "1980s",
+        "end": "2012",
+        "precision": "anomaly recognition through resolution"
+      },
+      "related": [],
+      "heroAssetId": "pio-v01",
+      "heroFile": {
+        "ko": "pioneer-anomaly__v01__ko.png",
+        "en": "pioneer-anomaly__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly.",
+        "en": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly."
+      },
+      "heroAlt": {
+        "ko": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly.",
+        "en": "RTG/electronics heat → anisotropic photons → recoil → apparent sunward anomaly."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "plain-of-jars",
+      "title": {
+        "ko": "라오스 항아리 평원",
+        "en": "Plain of Jars"
+      },
+      "headline": {
+        "ko": "항아리의 용도보다 더 큰 미스터리—누가 이 거대한 장례경관을 만들었나",
+        "en": "The Bigger Mystery Isn't What the Jars Were For—It's Who Built the Landscape"
+      },
+      "hook": {
+        "ko": "장례용이라는 증거는 생각보다 강하다. 2,100개가 넘는 석제 jar 주변에 burial·grave goods·quarry가 함께 있다. 남은 빈칸은 그 문화를 만든 사람들의 identity와 사회구조다.",
+        "en": "The funerary evidence is stronger than popular mystery stories suggest: burials, grave goods, and quarries surround more than 2,100 jars. The deeper gap is the identity and social organization of the people who built the landscape."
+      },
+      "aliases": [
+        "Plain of Jars",
+        "Megalithic Jar Sites Xiengkhuang"
+      ],
+      "genre": "Ancient History / Archaeology",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "Laos"
+      ],
+      "regions": [
+        "Xiengkhuang Plateau"
+      ],
+      "era": "Iron Age Southeast Asia",
+      "resolution": "MORTUARY_CONTEXT_ESTABLISHED_BUILDERS_AND_SOCIAL_STRUCTURE_PARTLY_UNRESOLVED",
+      "places": [
+        {
+          "name": "Plain of Jars",
+          "role": "serial archaeological landscape"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "c.500 BCE",
+        "end": "c.500 CE",
+        "precision": "principal mortuary tradition; some activity may extend later"
+      },
+      "related": [],
+      "heroAssetId": "poj-v01",
+      "heroFile": {
+        "ko": "plain-of-jars__v01__ko.png",
+        "en": "plain-of-jars__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Xiengkhuang plateau와 15 component mortuary landscape 개념도.",
+        "en": "Original map of the Xiengkhuang plateau and the 15-component mortuary landscape."
+      },
+      "heroAlt": {
+        "ko": "Xiengkhuang plateau와 15 component mortuary landscape 개념도.",
+        "en": "Original map of the Xiengkhuang plateau and the 15-component mortuary landscape."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "plutonium-injections",
+      "title": {
+        "ko": "인체 플루토늄 주입 실험",
+        "en": "Human Plutonium Injection Experiments"
+      },
+      "headline": {
+        "ko": "18명에게 실제 플루토늄을 주입했다—공식기록이 말하는 것과 말하지 않는 것",
+        "en": "Eighteen Patients Were Actually Injected With Plutonium—What Do the Official Records Establish?"
+      },
+      "hook": {
+        "ko": "실험의 존재는 더 이상 의혹이 아니다. DOE/ACHRE 기록은 18명을 확인한다. 다만 프로그램 전체 사실과 각 환자의 dose·경과·장기결과는 같은 해상도의 정보가 아니다.",
+        "en": "The experiments are documented, but program-level facts and each patient’s dose, course and long-term outcome are different levels of evidence."
+      },
+      "aliases": [
+        "plutonium injection experiments",
+        "human radiation experiments"
+      ],
+      "genre": "Medicine / Psychology / Human Experiment",
+      "genres": [
+        "Intelligence / Secret Program / Conspiracy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Multiple U.S. hospitals"
+      ],
+      "era": "Manhattan Project / early Cold War",
+      "resolution": "EXPERIMENTS_DOCUMENTED_PATIENT_DETAILS_CASE_SPECIFIC",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1945",
+        "end": "1947",
+        "precision": "injection experiment period"
+      },
+      "related": [
+        "edgewood-aberdeen",
+        "tuskegee-study"
+      ],
+      "heroAssetId": "plu-v01",
+      "heroFile": {
+        "ko": "plutonium-injections__v01__ko.png",
+        "en": "plutonium-injections__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1945~47 injections → retention/excretion data → disclosure → ACHRE review.",
+        "en": "1945–47 injections → retention/excretion data → disclosure → ACHRE review."
+      },
+      "heroAlt": {
+        "ko": "1945~47 injections → retention/excretion data → disclosure → ACHRE review.",
+        "en": "1945–47 injections → retention/excretion data → disclosure → ACHRE review."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 1
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "princes-in-the-tower",
       "title": {
         "ko": "런던탑 두 왕자의 행방",
@@ -2715,6 +5340,77 @@
       }
     },
     {
+      "canonicalId": "project-stargate",
+      "title": {
+        "ko": "프로젝트 스타게이트",
+        "en": "Project STARGATE / GRILL FLAME"
+      },
+      "headline": {
+        "ko": "CIA가 진짜 ‘원격투시’를 연구했다—그렇다면 효과도 진짜였나",
+        "en": "The CIA Really Studied Remote Viewing—But Did It Actually Work Reliably?"
+      },
+      "hook": {
+        "ko": "프로그램의 존재는 음모론이 아니다. 공개문서에는 실제 세션·그림·평가가 남아 있다. 하지만 archive에는 잘 맞은 사례와 완전히 실패한 사례가 함께 있고, 1995년 실무판정은 '실제 연구했다'와 '쓸 만했다'가 다른 질문임을 보여준다.",
+        "en": "The program is not a conspiracy theory: declassified sessions, drawings, and evaluations are real. But the archive contains both apparent hits and complete misses, and the 1995 review shows why 'researched' and 'operationally useful' are different questions."
+      },
+      "aliases": [
+        "Project Stargate",
+        "GRILL FLAME",
+        "remote viewing CIA"
+      ],
+      "genre": "Intelligence / Secret Program / Conspiracy",
+      "genres": [
+        "Medicine / Psychology / Human Experiment",
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "U.S. intelligence community"
+      ],
+      "era": "Cold War",
+      "resolution": "PROGRAM_CONFIRMED_PARANORMAL_MECHANISM_AND_RELIABLE_OPERATIONAL_VALUE_NOT_ESTABLISHED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1970s",
+        "end": "1995",
+        "precision": "program lineage through termination/evaluation"
+      },
+      "related": [],
+      "heroAssetId": "sg-v01",
+      "heroFile": {
+        "ko": "project-stargate__v01__ko.png",
+        "en": "project-stargate__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "GRILL FLAME/CENTER LANE/STARGATE 계보 → operational evaluation → 1995 종료.",
+        "en": "GRILL FLAME/CENTER LANE/STARGATE lineage → operational evaluation → 1995 termination."
+      },
+      "heroAlt": {
+        "ko": "GRILL FLAME/CENTER LANE/STARGATE 계보 → operational evaluation → 1995 종료.",
+        "en": "GRILL FLAME/CENTER LANE/STARGATE lineage → operational evaluation → 1995 termination."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
       "canonicalId": "richard-iii-greyfriars",
       "title": {
         "ko": "주차장 아래 리처드 3세 유골",
@@ -2792,6 +5488,158 @@
           "WEB_NOT_APPLIED",
           "RUNTIME_QA_NOT_RUN"
         ]
+      }
+    },
+    {
+      "canonicalId": "rogue-waves",
+      "title": {
+        "ko": "로그 웨이브",
+        "en": "Rogue Waves"
+      },
+      "headline": {
+        "ko": "선원들의 '벽 같은 파도'는 어떻게 전설에서 실제 해양물리로 바뀌었나",
+        "en": "How Did Sailors' 'Walls of Water' Move From Legend to Measured Ocean Physics?"
+      },
+      "hook": {
+        "ko": "rogue wave는 실제다. 하지만 실재를 인정했다고 미스터리가 끝난 건 아니다. 여러 물리경로가 extreme crest를 만들고, 정확한 개별예측은 여전히 어렵다.",
+        "en": "Rogue waves are real. That did not end the mystery: several physical routes can create extreme crests, and exact event-by-event prediction remains difficult."
+      },
+      "aliases": [
+        "rogue waves",
+        "freak waves",
+        "extreme storm waves"
+      ],
+      "genre": "Strange Science / Natural Anomaly",
+      "genres": [
+        "Maritime / Aviation",
+        "Explained Mystery / Debunked Myth"
+      ],
+      "countries": [],
+      "regions": [
+        "Global ocean"
+      ],
+      "era": "Modern oceanography",
+      "resolution": "PHENOMENON_CONFIRMED_MULTIPLE_MECHANISMS_PREDICTION_LIMITED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "historical sailor reports",
+        "end": "present",
+        "precision": "folklore through modern measurement"
+      },
+      "related": [
+        "seneca-guns"
+      ],
+      "heroAssetId": "rog-v01",
+      "heroFile": {
+        "ko": "rogue-waves__v01__ko.png",
+        "en": "rogue-waves__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "ordinary swells → constructive interference / opposing current → rogue crest 형성.",
+        "en": "Ordinary swells → constructive interference / opposing current → rogue crest."
+      },
+      "heroAlt": {
+        "ko": "ordinary swells → constructive interference / opposing current → rogue crest 형성.",
+        "en": "Ordinary swells → constructive interference / opposing current → rogue crest."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "roman-concrete",
+      "title": {
+        "ko": "로마 콘크리트의 내구성",
+        "en": "Roman Concrete Durability"
+      },
+      "headline": {
+        "ko": "2천 년 버틴 콘크리트의 흰 덩어리는 왜 ‘결함’이 아니었나",
+        "en": "Why Were the White Lumps in 2,000-Year-Old Roman Concrete Not Just Defects?"
+      },
+      "hook": {
+        "ko": "lime clast는 오랫동안 불완전혼합의 흔적으로 보였다. 2023년 연구는 quicklime hot mixing으로 생긴 이 조각이 균열 속에서 calcium을 풀어 self-healing에 기여할 수 있음을 보여줬다.",
+        "en": "Lime clasts were long dismissed as signs of poor mixing. A 2023 study showed they can arise from hot mixing with quicklime and may release calcium that helps seal cracks."
+      },
+      "aliases": [
+        "Roman concrete",
+        "Roman concrete durability",
+        "lime clasts"
+      ],
+      "genre": "Technology / Lost Invention",
+      "genres": [
+        "Ancient History / Archaeology",
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "regions": [
+        "Roman world / Privernum"
+      ],
+      "era": "Roman antiquity / modern materials science",
+      "resolution": "HOT_MIXING_AND_SELF_HEALING_MECHANISM_SUPPORTED_NOT_UNIVERSAL_SINGLE_RECIPE",
+      "places": [
+        {
+          "name": "Privernum",
+          "role": "sample context"
+        }
+      ],
+      "people": [
+        {
+          "name": "Admir Masic",
+          "role": "research lead"
+        }
+      ],
+      "dateRange": {
+        "start": "Roman antiquity",
+        "end": "2023",
+        "precision": "ancient material / modern mechanism study"
+      },
+      "related": [],
+      "heroAssetId": "rc-v01",
+      "heroFile": {
+        "ko": "roman-concrete__v01__ko.png",
+        "en": "roman-concrete__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "quicklime hot mixing → lime clast 형성 → crack → calcium solution → 재결정·봉합 과정.",
+        "en": "Quicklime hot mixing → lime clast → crack → calcium solution → recrystallization and sealing."
+      },
+      "heroAlt": {
+        "ko": "quicklime hot mixing → lime clast 형성 → crack → calcium solution → 재결정·봉합 과정.",
+        "en": "Quicklime hot mixing → lime clast → crack → calcium solution → recrystallization and sealing."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
       }
     },
     {
@@ -2896,6 +5744,81 @@
       }
     },
     {
+      "canonicalId": "rongorongo",
+      "title": {
+        "ko": "롱고롱고",
+        "en": "Rongorongo"
+      },
+      "headline": {
+        "ko": "실물 목판은 남았는데 왜 라파누이의 글을 아무도 읽지 못할까",
+        "en": "Why Can’t Anyone Read Rapa Nui’s Surviving Rongorongo Tablets?"
+      },
+      "hook": {
+        "ko": "기호는 실제로 남아 있고 반복패턴도 있다. 하지만 corpus는 작고 bilingual text가 없으며 읽기 전승까지 끊겼다. 이 미스터리는 ‘가짜 문자’가 아니라 진짜 자료가 너무 적은 해독문제다.",
+        "en": "The inscriptions are real and patterned, but the corpus is tiny, no bilingual key survives, and the reading tradition collapsed. This is a genuine decipherment problem created by missing context."
+      },
+      "aliases": [
+        "Rongorongo",
+        "Rapa Nui script",
+        "Easter Island script"
+      ],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [
+        "Ancient History / Archaeology"
+      ],
+      "countries": [
+        "Chile / Rapa Nui"
+      ],
+      "regions": [
+        "Rapa Nui"
+      ],
+      "era": "Rapa Nui history / modern epigraphy",
+      "resolution": "AUTHENTIC_SCRIPT_OBJECTS_SURVIVE_DECIPHERMENT_UNRESOLVED",
+      "places": [
+        {
+          "name": "Rapa Nui",
+          "role": "origin of inscriptions"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "pre-19th century",
+        "end": "present research",
+        "precision": "traditional inscriptions; chronology debated"
+      },
+      "related": [],
+      "heroAssetId": "ron-v01",
+      "heroFile": {
+        "ko": "rongorongo__v01__ko.png",
+        "en": "rongorongo__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "reverse boustrophedon 방식으로 목판을 돌려 읽는 개념도.",
+        "en": "Original diagram explaining reverse-boustrophedon reading by rotating the tablet."
+      },
+      "heroAlt": {
+        "ko": "reverse boustrophedon 방식으로 목판을 돌려 읽는 개념도.",
+        "en": "Original diagram explaining reverse-boustrophedon reading by rotating the tablet."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
       "canonicalId": "salem-spectral-evidence",
       "title": {
         "ko": "세일럼 재판의 보이지 않는 증거",
@@ -2997,6 +5920,567 @@
           "WEB_NOT_APPLIED",
           "RUNTIME_QA_NOT_RUN"
         ]
+      }
+    },
+    {
+      "canonicalId": "seneca-guns",
+      "title": {
+        "ko": "세네카 건스",
+        "en": "Seneca Guns"
+      },
+      "headline": {
+        "ko": "대포도 지진도 없는데 ‘쾅’—이 미스터리한 소리는 하나의 현상일까",
+        "en": "No Cannon, No Obvious Quake—Are the Seneca Guns Even One Phenomenon?"
+      },
+      "hook": {
+        "ko": "같은 ‘쾅’ 소리는 shallow earthquake, sonic boom, 폭발, 파도, 유성 등 전혀 다른 원인에서 나올 수 있다. USGS 자료를 보면 미스터리는 한 원인을 찾는 것보다 서로 다른 boom을 같은 이름으로 묶었는지부터 따져야 한다.",
+        "en": "The same cannon-like boom can come from shallow earthquakes, sonic booms, explosions, waves or meteors. USGS evidence suggests the first question may be whether very different events have been grouped under one name."
+      },
+      "aliases": [
+        "Seneca Guns",
+        "mystery booms",
+        "Carolina booms"
+      ],
+      "genre": "Strange Science / Natural Anomaly",
+      "genres": [
+        "Paranormal / Haunting / Folklore"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Finger Lakes / U.S. East Coast"
+      ],
+      "era": "Historical reports / modern geophysics",
+      "resolution": "MULTIPLE_PLAUSIBLE_SOURCES_NO_SINGLE_CAUSE",
+      "places": [
+        {
+          "name": "Seneca Lake",
+          "role": "name origin/context"
+        },
+        {
+          "name": "coastal North Carolina",
+          "role": "modern investigation region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "historical",
+        "end": "present",
+        "precision": "centuries of reports"
+      },
+      "related": [
+        "earthquake-lights"
+      ],
+      "heroAssetId": "sen-v01",
+      "heroFile": {
+        "ko": "seneca-guns__v01__ko.png",
+        "en": "seneca-guns__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "지진·대기·파도·유성·sonic boom·폭발 등 가능한 boom source 비교.",
+        "en": "Comparison of possible boom sources: seismic, atmospheric, waves, meteors, sonic booms, explosions."
+      },
+      "heroAlt": {
+        "ko": "지진·대기·파도·유성·sonic boom·폭발 등 가능한 boom source 비교.",
+        "en": "Comparison of possible boom sources: seismic, atmospheric, waves, meteors, sonic booms, explosions."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "shag-harbour",
+      "title": {
+        "ko": "셰그 하버 사건",
+        "en": "Shag Harbour Incident"
+      },
+      "headline": {
+        "ko": "정부가 실제로 수색한 UFO 사건—그런데 왜 정체는 끝내 남지 않았나",
+        "en": "Canada Really Searched for a Crashed Object—So Why Is Shag Harbour Still Unresolved?"
+      },
+      "hook": {
+        "ko": "Shag Harbour는 단순 괴담보다 기록이 강하다. RCMP·Coast Guard·Canadian Forces가 실제 aircraft crash처럼 대응했다. 하지만 공식대응이 있었다는 사실과 물체의 정체가 확인됐다는 결론은 다르다.",
+        "en": "Shag Harbour is stronger than a simple legend because RCMP, Coast Guard, and Canadian Forces actually responded as if to a crash. But an official response is not the same thing as identifying the object."
+      },
+      "aliases": [
+        "Shag Harbour UFO",
+        "Shag Harbour incident"
+      ],
+      "genre": "UFO / UAP / Aerial Anomaly",
+      "genres": [
+        "Maritime / Aviation"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "regions": [
+        "Nova Scotia"
+      ],
+      "era": "Cold War Canada",
+      "resolution": "SIGHTINGS_AND_SEARCH_DOCUMENTED_OBJECT_IDENTITY_UNRESOLVED",
+      "places": [
+        {
+          "name": "Shag Harbour",
+          "role": "sighting/search area"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1967-10-04",
+        "end": "1967-10",
+        "precision": "incident and immediate investigation"
+      },
+      "related": [
+        "yukon-1996-uap",
+        "falcon-lake"
+      ],
+      "heroAssetId": "shag-v01",
+      "heroFile": {
+        "ko": "shag-harbour__v01__ko.png",
+        "en": "shag-harbour__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "목격 → crash 신고 → 해상대응·수색 → wreckage 미발견.",
+        "en": "Sightings → crash report → maritime response/search → no wreckage."
+      },
+      "heroAlt": {
+        "ko": "목격 → crash 신고 → 해상대응·수색 → wreckage 미발견.",
+        "en": "Sightings → crash report → maritime response/search → no wreckage."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "shugborough-inscription",
+      "title": {
+        "ko": "셔그버러 비문",
+        "en": "Shugborough Inscription"
+      },
+      "headline": {
+        "ko": "10글자짜리 암호가 왜 250년 넘게 해답보다 가설을 더 많이 만들었나",
+        "en": "Why Have Ten Letters Produced More Theories Than Answers for 250 Years?"
+      },
+      "hook": {
+        "ko": "Shugborough inscription은 실제다. 문제는 너무 짧다는 것이다. external key가 없는 10글자는 많은 문장을 수용할 수 있어, 그럴듯한 해답을 만드는 것보다 오답을 제거하는 게 훨씬 어렵다.",
+        "en": "The Shugborough inscription is real. Its problem is brevity: ten letters without an external key can fit many plausible phrases, so rejecting wrong answers is harder than inventing new ones."
+      },
+      "aliases": [
+        "Shugborough Inscription",
+        "OUOSVAVV"
+      ],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Staffordshire, England"
+      ],
+      "era": "Georgian Britain",
+      "resolution": "INSCRIPTION_CONFIRMED_PLAINTEXT_UNRESOLVED",
+      "places": [
+        {
+          "name": "Shugborough Estate",
+          "role": "monument site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "18th century",
+        "end": "present",
+        "precision": "monument construction through modern interpretation"
+      },
+      "related": [],
+      "heroAssetId": "shug-v01",
+      "heroFile": {
+        "ko": "shugborough-inscription__v01__ko.png",
+        "en": "shugborough-inscription__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "10-letter initialism의 solution freedom과 external-key 부재를 설명.",
+        "en": "Why a ten-letter initialism allows large solution freedom without an external key."
+      },
+      "heroAlt": {
+        "ko": "10-letter initialism의 solution freedom과 external-key 부재를 설명.",
+        "en": "Why a ten-letter initialism allows large solution freedom without an external key."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "ss-waratah",
+      "title": {
+        "ko": "SS Waratah 실종",
+        "en": "SS Waratah Disappearance"
+      },
+      "headline": {
+        "ko": "211명을 태운 대형 여객선이 1909년 남아공 앞바다에서 흔적 없이 사라졌다",
+        "en": "A Large Liner With 211 People Vanished off South Africa in 1909 Without a Confirmed Wreck"
+      },
+      "hook": {
+        "ko": "마지막 확인은 1909년 7월 27일 동부 남아공 해안의 다른 선박 목격이다. 폭풍·해류·선박 안정성은 합리적 설명을 제공하지만, wreck이 없기 때문에 침몰 위치와 최종 사고 연쇄는 아직 확정되지 않았다.",
+        "en": "The last confirmed sighting came from another ship off South Africa on 27 July 1909. Storm, current, and stability provide plausible mechanisms, but without the wreck the exact sinking location and final failure sequence remain unproven."
+      },
+      "aliases": [
+        "SS Waratah",
+        "Waratah 1909",
+        "워라타",
+        "SS Waratah",
+        "Waratah 1909",
+        "워라타",
+        "SS Waratah",
+        "Waratah 1909",
+        "워라타"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Shipwreck",
+        "Unsolved Disappearance"
+      ],
+      "countries": [
+        "South Africa",
+        "Australia"
+      ],
+      "regions": [
+        "Eastern Cape coast"
+      ],
+      "era": "Edwardian maritime",
+      "resolution": "WRECK_NOT_FOUND",
+      "places": [
+        "Durban",
+        "Cape Town",
+        "Mbashe River"
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1909-07-26",
+        "end": "1909-07-29",
+        "precision": "voyage window"
+      },
+      "related": [
+        "marine-sulphur-queen"
+      ],
+      "heroAssetId": "ss-waratah-route-v01",
+      "heroFile": {
+        "ko": "ss-waratah__route-v01__ko.png",
+        "en": "ss-waratah__route-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived.",
+        "en": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived."
+      },
+      "heroAlt": {
+        "ko": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived.",
+        "en": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MARITIME_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "star-ariel",
+      "title": {
+        "ko": "Star Ariel 실종",
+        "en": "Star Ariel Disappearance"
+      },
+      "headline": {
+        "ko": "맑은 날 버뮤다를 떠난 여객기는 왜 잔해 하나 남기지 않았나",
+        "en": "Why Did a Passenger Aircraft Vanish After Leaving Bermuda With No Confirmed Wreckage?"
+      },
+      "hook": {
+        "ko": "Star Ariel은 20명을 태우고 Bermuda에서 Jamaica로 향하다 사라졌다. 수색은 컸고 의회보고도 즉시 이뤄졌지만, 잔해가 없다는 사실 때문에 기술적 원인도 직접검증하지 못했다.",
+        "en": "Star Ariel vanished with 20 people aboard between Bermuda and Jamaica. The search was large and official scrutiny immediate, but the absence of wreckage prevented investigators from directly testing the technical cause."
+      },
+      "aliases": [
+        "Star Ariel",
+        "BSAA Star Ariel",
+        "G-AGRE"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Unsolved Crime / Disappearance"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Bermuda",
+        "Jamaica"
+      ],
+      "regions": [
+        "Western Atlantic / Caribbean"
+      ],
+      "era": "Postwar civil aviation",
+      "resolution": "AIRCRAFT_AND_CREW_MISSING_CAUSE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Bermuda",
+          "role": "departure"
+        },
+        {
+          "name": "Kingston, Jamaica",
+          "role": "destination"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1949-01-17",
+        "end": "1949-01",
+        "precision": "disappearance and immediate search"
+      },
+      "related": [
+        "bermuda-triangle",
+        "star-tiger"
+      ],
+      "heroAssetId": "sa-v01",
+      "heroFile": {
+        "ko": "star-ariel__v01__ko.png",
+        "en": "star-ariel__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1월17일 출발·실종 → 대규모 search → 1월19일 의회보고·Tudor IV 운항중지.",
+        "en": "Jan 17 departure/disappearance → major search → Jan 19 Parliament report and Tudor IV suspension."
+      },
+      "heroAlt": {
+        "ko": "1월17일 출발·실종 → 대규모 search → 1월19일 의회보고·Tudor IV 운항중지.",
+        "en": "Jan 17 departure/disappearance → major search → Jan 19 Parliament report and Tudor IV suspension."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "stonehenge",
+      "title": {
+        "ko": "스톤헨지",
+        "en": "Stonehenge"
+      },
+      "headline": {
+        "ko": "스톤헨지의 돌은 어디서 왔나 — 답이 늘수록 운반 미스터리는 더 정교해졌다",
+        "en": "Where Did Stonehenge’s Stones Come From? Better Answers Have Made the Transport Mystery More Precise"
+      },
+      "hook": {
+        "ko": "기념물 자체와 건설 단계는 고고학으로 추적할 수 있다. 최근 지질 분석은 거대한 돌들의 출발점을 크게 좁혔지만, 누가 어떤 경로와 조직으로 수백 킬로미터를 옮겼는지는 여전히 하나의 답으로 닫히지 않는다.",
+        "en": "Archaeology can reconstruct the monument and its construction phases. Recent geochemistry has sharply narrowed where major stones came from, but not exactly how Neolithic communities moved them over enormous distances."
+      },
+      "aliases": [
+        "Stonehenge",
+        "스톤헨지",
+        "Altar Stone",
+        "Stonehenge",
+        "스톤헨지",
+        "Altar Stone",
+        "Stonehenge",
+        "스톤헨지",
+        "Altar Stone"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Ancient Engineering",
+        "Scientific Provenance"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Wiltshire",
+        "Wales",
+        "Scotland"
+      ],
+      "era": "Neolithic to Bronze Age / modern research",
+      "resolution": "PARTIALLY_RESOLVED_SOURCE_PROVENANCE",
+      "places": [
+        "Stonehenge",
+        "Salisbury Plain",
+        "West Woods",
+        "Preseli Hills",
+        "Orcadian Basin"
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "c. 3000 BCE",
+        "end": "present research",
+        "precision": "archaeological"
+      },
+      "related": [
+        "nazca-lines",
+        "copper-scroll"
+      ],
+      "heroAssetId": "stonehenge-provenance-v01",
+      "heroFile": {
+        "ko": "stonehenge__provenance-v01__ko.png",
+        "en": "stonehenge__provenance-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "돌의 세 기원: West Woods 약 25 km / 웨일스 250+ km / Altar Stone 스코틀랜드 750+ km.",
+        "en": "Three provenance scales: West Woods ~25 km / Wales 250+ km / Altar Stone Scotland 750+ km."
+      },
+      "heroAlt": {
+        "ko": "돌의 세 기원: West Woods 약 25 km / 웨일스 250+ km / Altar Stone 스코틀랜드 750+ km.",
+        "en": "Three provenance scales: West Woods ~25 km / Wales 250+ km / Altar Stone Scotland 750+ km."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Downgraded to Compact because source-bounded copy did not need 3,000+ Korean characters; no padding added.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "tabbys-star",
+      "title": {
+        "ko": "태비의 별",
+        "en": "Tabby's Star / KIC 8462852"
+      },
+      "headline": {
+        "ko": "외계 구조물까지 거론됐던 별—왜 지금은 먼지가 훨씬 강한 설명인가",
+        "en": "The Star That Inspired Alien Megastructure Speculation—Why Dust Won the Evidence Test"
+      },
+      "hook": {
+        "ko": "Tabby's Star의 이상한 dimming은 진짜였다. 하지만 multiwavelength observation은 opaque megastructure와 맞지 않는 색 의존성을 보여줬다. 미스터리는 사라진 게 아니라 '외계구조물인가'에서 '먼지가 어디서 왔나'로 바뀌었다.",
+        "en": "Tabby's Star really did dim strangely. But multiwavelength data showed color dependence inconsistent with an opaque megastructure. The mystery shifted from 'alien structure?' to 'what is supplying the dust?'"
+      },
+      "aliases": [
+        "Tabby's Star",
+        "Boyajian's Star",
+        "KIC 8462852"
+      ],
+      "genre": "Space / Astronomy",
+      "genres": [
+        "Explained Mystery / Debunked Myth",
+        "Strange Science / Natural Anomaly"
+      ],
+      "countries": [],
+      "regions": [
+        "Cygnus / KIC 8462852"
+      ],
+      "era": "Modern astrophysics",
+      "resolution": "DIMMING_CONFIRMED_DUST_STRONGLY_FAVORED_EXACT_SOURCE_PARTLY_UNRESOLVED",
+      "places": [],
+      "people": [
+        {
+          "name": "Tabetha Boyajian",
+          "role": "astronomer associated with star's study"
+        }
+      ],
+      "dateRange": {
+        "start": "Kepler era",
+        "end": "present",
+        "precision": "modern observation and follow-up"
+      },
+      "related": [],
+      "heroAssetId": "tab-v01",
+      "heroFile": {
+        "ko": "tabbys-star__v01__ko.png",
+        "en": "tabbys-star__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Kepler irregular dip → multiwavelength test → chromatic dimming → dust favored 흐름.",
+        "en": "Kepler irregular dips → multiwavelength test → chromatic dimming → dust favored."
+      },
+      "heroAlt": {
+        "ko": "Kepler irregular dip → multiwavelength test → chromatic dimming → dust favored 흐름.",
+        "en": "Kepler irregular dips → multiwavelength test → chromatic dimming → dust favored."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
       }
     },
     {
@@ -3178,6 +6662,80 @@
       }
     },
     {
+      "canonicalId": "tuskegee-study",
+      "title": {
+        "ko": "Tuskegee 미치료 매독 연구",
+        "en": "USPHS Untreated Syphilis Study at Tuskegee"
+      },
+      "headline": {
+        "ko": "실제 비극은 ‘고의 감염’이 아니라 40년간의 기만과 치료미제공이었다",
+        "en": "The Real Abuse Was Not Deliberate Infection, but Forty Years of Deception and Withheld Treatment"
+      },
+      "hook": {
+        "ko": "Tuskegee는 인터넷에서 종종 ‘정부가 흑인 남성에게 매독을 주입한 실험’으로 요약된다. CDC 기록이 보여주는 실제 사건은 다르지만 결코 덜 심각하지 않다. 참가자는 속았고 동의하지 않았으며 penicillin 시대에도 치료받지 못했다.",
+        "en": "Tuskegee is often misremembered as a study in which the government deliberately infected Black men. CDC records show a different—and still profoundly unethical—story: deception, no informed consent, and treatment withheld even after penicillin became available."
+      },
+      "aliases": [
+        "Tuskegee Syphilis Study",
+        "USPHS Untreated Syphilis Study"
+      ],
+      "genre": "Medicine / Psychology / Human Experiment",
+      "genres": [
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Macon County, Alabama"
+      ],
+      "era": "20th-century medical research",
+      "resolution": "PROGRAM_AND_ETHICAL_ABUSES_DOCUMENTED",
+      "places": [
+        {
+          "name": "Tuskegee, Alabama",
+          "role": "study region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1932",
+        "end": "1972",
+        "precision": "study period"
+      },
+      "related": [],
+      "heroAssetId": "tu-v01",
+      "heroFile": {
+        "ko": "tuskegee-study__v01__ko.png",
+        "en": "tuskegee-study__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1932 시작 → 1940s penicillin 표준치료 → 치료미제공 지속 → 1972 공개·종료 → 1974 settlement.",
+        "en": "1932 start → 1940s penicillin standard → treatment withheld → 1972 exposure/end → 1974 settlement."
+      },
+      "heroAlt": {
+        "ko": "1932 시작 → 1940s penicillin 표준치료 → 치료미제공 지속 → 1972 공개·종료 → 1974 settlement.",
+        "en": "1932 start → 1940s penicillin standard → treatment withheld → 1972 exposure/end → 1974 settlement."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
       "canonicalId": "tutankhamun-curse-study",
       "title": {
         "ko": "투탕카멘 무덤의 저주와 실제 사망률",
@@ -3263,6 +6821,85 @@
           "WEB_NOT_APPLIED",
           "RUNTIME_QA_NOT_RUN"
         ]
+      }
+    },
+    {
+      "canonicalId": "uss-conestoga",
+      "title": {
+        "ko": "USS Conestoga 실종과 발견",
+        "en": "USS Conestoga Disappearance and Discovery"
+      },
+      "headline": {
+        "ko": "95년 동안 태평양으로 사라진 줄 알았던 배는 왜 샌프란시스코 바로 앞에 있었나",
+        "en": "Why Was a Ship Thought Lost Across the Pacific Found Just Outside San Francisco?"
+      },
+      "hook": {
+        "ko": "Conestoga의 미스터리는 wreck가 없어서 커졌다. NOAA가 sonar·ROV·archive를 결합하자 이야기는 뒤집혔다. 배는 먼 바다까지 간 게 아니라 출항 직후 Farallon 근처에서 가라앉았다.",
+        "en": "The Conestoga mystery grew because there was no wreck. Sonar, ROV archaeology, and archives reversed the story: the tug had not crossed the Pacific at all—it sank near the Farallons soon after departure."
+      },
+      "aliases": [
+        "USS Conestoga",
+        "AT-54"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Explained Mystery / Debunked Myth",
+        "Historical Enigma / Lost Place / Identity"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "San Francisco / Farallon Islands"
+      ],
+      "era": "20th-century maritime / modern archaeology",
+      "resolution": "WRECK_IDENTIFIED_LOCATION_SOLVED_SINKING_DETAILS_RECONSTRUCTED",
+      "places": [
+        {
+          "name": "Mare Island",
+          "role": "departure"
+        },
+        {
+          "name": "Southeast Farallon Island",
+          "role": "wreck location"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1921-03-25",
+        "end": "2016-03-23",
+        "precision": "disappearance through public identification"
+      },
+      "related": [],
+      "heroAssetId": "con-v01",
+      "heroFile": {
+        "ko": "uss-conestoga__v01__ko.png",
+        "en": "uss-conestoga__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "Mare Island → Golden Gate → Southeast Farallon wreck 위치와 원래 예정항로 비교.",
+        "en": "Original map comparing actual wreck near Southeast Farallon with intended Mare Island–Pearl Harbor route."
+      },
+      "heroAlt": {
+        "ko": "Mare Island → Golden Gate → Southeast Farallon wreck 위치와 원래 예정항로 비교.",
+        "en": "Original map comparing actual wreck near Southeast Farallon with intended Mare Island–Pearl Harbor route."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
       }
     },
     {
@@ -3457,6 +7094,76 @@
       }
     },
     {
+      "canonicalId": "viking-sunstone",
+      "title": {
+        "ko": "바이킹의 태양석",
+        "en": "Viking Sunstone"
+      },
+      "headline": {
+        "ko": "흐린 북대서양에서 ‘태양석’으로 방향을 찾았다는 이야기는 어디까지 사실일까",
+        "en": "Could Viking “Sunstones” Really Find the Sun Through Clouds?"
+      },
+      "hook": {
+        "ko": "복굴절 calcite로 하늘의 편광을 읽어 숨은 태양을 찾는 방법은 실험실에서 작동한다. 하지만 ‘작동 가능한 기술’과 ‘바이킹이 실제로 널리 사용한 기술’ 사이에는 아직 역사증거의 간격이 남아 있다.",
+        "en": "Experiments show that birefringent calcite can use sky polarization to estimate a hidden Sun. The historical gap is whether Vikings actually used the method routinely."
+      },
+      "aliases": [
+        "Viking sunstone",
+        "Iceland spar navigation",
+        "sunstone navigation"
+      ],
+      "genre": "Ancient History / Archaeology",
+      "genres": [
+        "Technology / Lost Invention"
+      ],
+      "countries": [
+        "Iceland / Nordic world"
+      ],
+      "regions": [
+        "North Atlantic"
+      ],
+      "era": "Viking Age / modern experimental archaeology",
+      "resolution": "PHYSICAL_METHOD_PLAUSIBLE_HISTORICAL_ROUTINE_USE_UNPROVEN",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "Viking Age",
+        "end": "2011",
+        "precision": "historical hypothesis tested in modern experiments"
+      },
+      "related": [],
+      "heroAssetId": "vik-v01",
+      "heroFile": {
+        "ko": "viking-sunstone__v01__ko.png",
+        "en": "viking-sunstone__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "편광 하늘빛 → calcite 복굴절 → 밝기균형 → 숨은 태양방향 추정 과정.",
+        "en": "Polarized skylight → calcite birefringence → image balance → hidden-Sun direction."
+      },
+      "heroAlt": {
+        "ko": "편광 하늘빛 → calcite 복굴절 → 밝기균형 → 숨은 태양방향 추정 과정.",
+        "en": "Polarized skylight → calcite birefringence → image balance → hidden-Sun direction."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
       "canonicalId": "wall-street-bombing-1920",
       "title": {
         "ko": "1920 월스트리트 폭탄사건",
@@ -3606,6 +7313,160 @@
           "WEB_NOT_APPLIED",
           "RUNTIME_QA_NOT_RUN"
         ]
+      }
+    },
+    {
+      "canonicalId": "zodiac-killer",
+      "title": {
+        "ko": "조디악 킬러",
+        "en": "Zodiac Killer"
+      },
+      "headline": {
+        "ko": "암호는 풀렸는데 왜 범인의 이름은 끝내 풀리지 않았나",
+        "en": "The Ciphers Spoke—So Why Didn’t They Reveal the Zodiac Killer?"
+      },
+      "hook": {
+        "ko": "Zodiac은 살인 뒤 편지와 암호로 자신의 정체성을 만들었다. 수사기관은 공개되지 않은 사건세부와 필적·암호를 분석했지만, 메시지를 읽는 일과 사람의 이름을 확정하는 일은 끝내 같은 문제가 아니었다.",
+        "en": "Zodiac built a public identity through murders, letters and ciphers. Investigators could analyze hidden crime details, handwriting and code—but reading messages and identifying a person turned out to be very different problems."
+      },
+      "aliases": [
+        "Zodiac Killer",
+        "Zodiac cipher",
+        "Zodiac letters"
+      ],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [
+        "Codes / Manuscripts / Undeciphered Texts"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Northern California"
+      ],
+      "era": "Late 20th century",
+      "resolution": "OFFENDER_IDENTITY_UNRESOLVED",
+      "places": [
+        {
+          "name": "Vallejo",
+          "role": "attack/letter context"
+        },
+        {
+          "name": "San Francisco",
+          "role": "newspaper correspondence context"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1968-12-20",
+        "end": "1970s",
+        "precision": "core attributed period and correspondence"
+      },
+      "related": [
+        "zodiac-z13-z32"
+      ],
+      "heroAssetId": "zod-v01",
+      "heroFile": {
+        "ko": "zodiac-killer__v01__ko.png",
+        "en": "zodiac-killer__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1968~69 공격 → 1969 세 신문사 암호 → 408 해독 → 장기 미해결 신원.",
+        "en": "Timeline: 1968–69 attacks → 1969 newspaper ciphers → 408 solution → unresolved identity."
+      },
+      "heroAlt": {
+        "ko": "1968~69 공격 → 1969 세 신문사 암호 → 408 해독 → 장기 미해결 신원.",
+        "en": "Timeline: 1968–69 attacks → 1969 newspaper ciphers → 408 solution → unresolved identity."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
+      "canonicalId": "zodiac-z13-z32",
+      "title": {
+        "ko": "Zodiac Z13 / Z32",
+        "en": "Zodiac Z13 / Z32"
+      },
+      "headline": {
+        "ko": "13자·32자 암호는 왜 수십 년 동안 ‘그럴듯한 정답’만 넘쳐났나",
+        "en": "Why Do Z13 and Z32 Produce So Many Plausible Answers but No Consensus?"
+      },
+      "hook": {
+        "ko": "짧은 암호는 쉬워 보이지만 실제론 반대일 수 있다. Z13·Z32는 너무 짧고 외부가정의 자유도가 커서 여러 해독이 동시에 그럴듯해진다. 문제는 문장을 만드는 게 아니라 하나만 살아남게 검증하는 것이다.",
+        "en": "Short ciphers can be harder, not easier. Z13 and Z32 are so brief—and require so many outside assumptions—that multiple incompatible solutions can look plausible. The hard part is not producing text, but making one solution survive validation."
+      },
+      "aliases": [
+        "Zodiac Z13",
+        "Zodiac Z32",
+        "Z13 cipher",
+        "Z32 cipher"
+      ],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [
+        "Unsolved Crime / Disappearance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Northern California"
+      ],
+      "era": "Late 20th century",
+      "resolution": "CIPHERS_GENUINE_PLAINTEXT_UNRESOLVED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1970",
+        "end": "present",
+        "precision": "cipher correspondence and ongoing analysis"
+      },
+      "related": [
+        "zodiac-killer"
+      ],
+      "heroAssetId": "z13-v01",
+      "heroFile": {
+        "ko": "zodiac-z13-z32__v01__ko.png",
+        "en": "zodiac-z13-z32__v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "짧은 cipher에서 solution freedom이 커지는 구조를 설명.",
+        "en": "Diagram showing why short ciphers permit large solution freedom."
+      },
+      "heroAlt": {
+        "ko": "짧은 cipher에서 solution freedom이 커지는 구조를 설명.",
+        "en": "Diagram showing why short ciphers permit large solution freedom."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BLACK_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ],
+        "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
       }
     }
   ]
