@@ -12,3 +12,5 @@ web/test-results/
 web/playwright-report/
 web/artifacts/
 web/*.tsbuildinfo
+.sync-checkpoints/
+**/__pycache__/

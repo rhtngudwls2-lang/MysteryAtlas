@@ -31,12 +31,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const description = productized?.localizedCopy[locale].hook ?? record.preview[locale];
   const canonical = absoluteUrl(`/${locale}/cases/${slug}/`);
   const image = record.images.find((item) => item.role === "HERO" && item.path);
+  const socialImage = absoluteUrl(image?.localizedPaths?.[locale] ?? image?.path ?? "/og-preview.png");
   return {
     title,
     description,
     alternates: { canonical, languages: { en: absoluteUrl(`/en/cases/${slug}/`), ko: absoluteUrl(`/ko/cases/${slug}/`) } },
-    openGraph: { title, description, url: canonical, type: "article", images: image?.path ? [{ url: absoluteUrl(image.localizedPaths?.[locale] ?? image.path), alt: image.alt[locale] }] : [] },
-    twitter: { card: "summary_large_image", title, description, images: image?.path ? [absoluteUrl(image.localizedPaths?.[locale] ?? image.path)] : [] },
+    openGraph: { title, description, url: canonical, type: "article", images: [{ url: socialImage, alt: image?.alt[locale] ?? "Mystery Atlas" }] },
+    twitter: { card: "summary_large_image", title, description, images: [socialImage] },
   };
 }
 
@@ -48,19 +49,27 @@ export default async function CasePage({ params }: { params: Promise<{ locale: s
   if (productizedIds.has(slug)) {
     const article = await getProductizedArticle(slug);
     if (!article) notFound();
+    const hero = article.visuals.find((visual) => visual.role === "HERO_CONTEXT") ?? article.visuals[0];
     const structuredData = {
       "@context": "https://schema.org", "@type": "Article", inLanguage: locale,
       headline: article.localizedCopy[locale].headline,
       description: article.localizedCopy[locale].hook,
       mainEntityOfPage: absoluteUrl(`/${locale}/cases/${slug}/`),
-      image: article.visuals.filter((visual) => visual.role === "HERO_CONTEXT").map((visual) => absoluteUrl(`/media/${visual.localizedFiles[locale].fileName}`)),
+      image: hero ? [absoluteUrl(`/media/${hero.localizedFiles[locale].fileName}`)] : [],
       isAccessibleForFree: true,
     };
     return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }}/><ProductizedArticleView article={article} locale={locale}/></>;
   }
   const hero = record.images.find((item) => item.role === "HERO")!;
   const genre = categories.find((item) => item.id === record.categories[0])?.name[locale];
-  return <article className="case-page">
+  const structuredData = {
+    "@context": "https://schema.org", "@type": "Article", inLanguage: locale,
+    headline: record.title, description: record.preview[locale],
+    mainEntityOfPage: absoluteUrl(`/${locale}/cases/${slug}/`),
+    image: [absoluteUrl(hero.path ?? "/og-preview.png")],
+    isAccessibleForFree: true,
+  };
+  return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }}/><article className="case-page">
     <div className="article-toolbar"><div className="article-toolbar-inner">
       <Link className="article-back" href={`/${locale}/explore/`}>← <span>{locale === "en" ? "Explore" : "탐색"}</span></Link>
       <span className="article-toolbar-title" title={record.title}>{record.title}</span>
@@ -84,5 +93,5 @@ export default async function CasePage({ params }: { params: Promise<{ locale: s
         <ReactionControl caseId={record.slug} locale={locale}/>
       </div>
     </div>
-  </article>;
+  </article></>;
 }

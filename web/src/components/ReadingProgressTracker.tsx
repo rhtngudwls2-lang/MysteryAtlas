@@ -14,7 +14,13 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
       requestAnimationFrame(() => {
         const blocks = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
         const current = blocks.filter((block) => block.getBoundingClientRect().top < 300).at(-1);
-        try { localStorage.setItem(progressKey, JSON.stringify({ canonicalId, locale, blockId: current?.id ?? "", updatedAt: Date.now() })); } catch { /* Keep reading if storage is disabled. */ }
+        try {
+          const previous = JSON.parse(localStorage.getItem(progressKey) ?? "null");
+          // Route transitions can scroll the departing page to the top before
+          // this listener is removed. Keep the last chapter for this article.
+          const blockId = current?.id ?? (previous?.canonicalId === canonicalId ? previous.blockId : "") ?? "";
+          localStorage.setItem(progressKey, JSON.stringify({ canonicalId, locale, blockId, updatedAt: Date.now() }));
+        } catch { /* Keep reading if storage is disabled. */ }
         ticking = false;
       });
     };
