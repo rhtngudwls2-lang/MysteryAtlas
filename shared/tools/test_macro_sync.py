@@ -85,6 +85,28 @@ class MacroSyncTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "strictly newer"):
             self.load_plan()
 
+    def test_mixed_revision_scales_do_not_compare_directly(self):
+        path = self.source / "articles" / "crystal-skull.json"
+        candidate = json.loads(path.read_text())
+        candidate["contentVersion"] = "1.1"
+        dump(path, candidate)
+        with self.assertRaisesRegex(ValueError, "strictly newer"):
+            self.load_plan()
+        old_batch = candidate["mediaPackage"]["batch"]
+        import re
+        number = int(re.search(r"BATCH(\d+)", old_batch).group(1))
+        candidate["mediaPackage"]["batch"] = re.sub(r"BATCH\d+", f"BATCH{number + 1}", old_batch)
+        dump(path, candidate)
+        self.assertEqual(self.load_plan()[1]["updateArticles"], ["crystal-skull"])
+        current_path = self.target / "articles" / "crystal-skull.json"
+        current = json.loads(current_path.read_text())
+        current["contentVersion"] = "1.0"
+        dump(current_path, current)
+        candidate.pop("contentVersion")
+        dump(path, candidate)
+        with self.assertRaisesRegex(ValueError, "strictly newer"):
+            self.load_plan()
+
     def test_duplicate_canonical_id_rejected(self):
         article = json.loads((self.source / "articles" / "crystal-skull.json").read_text())
         from macro_sync import Source

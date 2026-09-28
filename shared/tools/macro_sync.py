@@ -189,10 +189,14 @@ def load_source(path: Path) -> Source:
     return result
 
 
-def version(article: dict) -> tuple[int, ...] | None:
+def explicit_version(article: dict) -> tuple[int, ...] | None:
     explicit = article.get("contentVersion") or article.get("editorialVersion")
     if isinstance(explicit, str) and re.fullmatch(r"\d+(?:\.\d+)*", explicit):
         return tuple(map(int, explicit.split(".")))
+    return None
+
+
+def batch_version(article: dict) -> tuple[int, ...] | None:
     batch = article.get("mediaPackage", {}).get("batch", "")
     match = re.search(r"BATCH(\d+)\b", str(batch), flags=re.IGNORECASE)
     return (int(match.group(1)),) if match else None
@@ -203,6 +207,16 @@ def strictly_newer(candidate: tuple[int, ...] | None, current: tuple[int, ...] |
         return False
     pairs = list(zip_longest(candidate, current, fillvalue=0))
     return tuple(a for a, _ in pairs) > tuple(b for _, b in pairs)
+
+
+def newer_article(candidate: dict, current: dict) -> bool:
+    """Do not compare an editorial version number with a media Batch number."""
+    explicit_new, explicit_old = explicit_version(candidate), explicit_version(current)
+    if explicit_old is not None and explicit_new is None:
+        return False
+    if explicit_new is not None and explicit_old is not None:
+        return strictly_newer(explicit_new, explicit_old)
+    return strictly_newer(batch_version(candidate), batch_version(current))
 
 
 def plan_sync(source: Source, content: Path) -> dict:
@@ -219,9 +233,8 @@ def plan_sync(source: Source, content: Path) -> dict:
         elif canonical(before) == canonical(article):
             same.append(key)
         else:
-            old_ver, new_ver = version(before), version(article)
-            if not strictly_newer(new_ver, old_ver):
-                raise ValueError(f"Existing article differs without strictly newer durable version: {key} ({old_ver} -> {new_ver})")
+            if not newer_article(article, before):
+                raise ValueError(f"Existing article differs without strictly newer durable version: {key}")
             update.append(key)
     add_rows, update_rows = [], []
     for name, row in source.rows.items():
