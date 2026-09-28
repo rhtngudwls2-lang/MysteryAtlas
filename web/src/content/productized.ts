@@ -22,6 +22,7 @@ export type ProductizedArticle = {
   metadata: { primaryGenre: string; secondaryGenres: string[]; countries: string[]; regions: string[]; places: string[]; people: string[]; era: string; resolution: string; relatedCases: string[]; dateRange: { start?: string; end?: string } };
 };
 type Summary = (typeof articleIndex.items)[number];
+const entityName = (value: string | { name: string }): string => typeof value === "string" ? value : value.name;
 export const productizedItems: Summary[] = articleIndex.items;
 export const productizedIds = new Set(productizedItems.map((item) => item.canonicalId));
 export const productizedSummary = (slug: string) => productizedItems.find((item) => item.canonicalId === slug);
@@ -45,7 +46,7 @@ export function productizedCaseCard(item: Summary): CaseRecord {
     subtitle, preview, status: { ko: "연구 미리보기", en: "Research preview" },
     country: { ko: item.countries.map((name) => countryLabel(name, "ko")).join(", ") || "불명", en: country }, year: date,
     categories: [item.genre], tags: [item.genre, ...item.genres, item.era, item.resolution, ...item.regions],
-    aliases: item.aliases, people: item.people.map((person) => person.name), places: item.places.map((place) => place.name),
+    aliases: item.aliases, people: item.people.map(entityName), places: item.places.map(entityName),
     dates: [item.dateRange.start, item.dateRange.end].filter(Boolean).map(String),
     verifiedAt: "2026-09-27", readMinutesByLocale: item.readMinutes,
     images: [{
@@ -59,8 +60,8 @@ export function productizedCaseCard(item: Summary): CaseRecord {
     sourceModel: {
       canonical: { id: item.canonicalId, slug: item.canonicalId, canonicalTitle: title.en,
         aliases: item.aliases, countryKey: country.toLowerCase().replace(/[^a-z0-9]+/g,"-"),
-        era: item.era, categories: [item.genre], tags: [item.genre, ...item.genres], people: item.people.map((person) => person.name),
-        places: item.places.map((place) => place.name), dates: [date], imagePlan: [] },
+        era: item.era, categories: [item.genre], tags: [item.genre, ...item.genres], people: item.people.map(entityName),
+        places: item.places.map(entityName), dates: [date], imagePlan: [] },
       locales: {
         ko: { subtitle: subtitle.ko, preview: preview.ko, status: "연구 미리보기", country, narrative: [] },
         en: { subtitle: subtitle.en, preview: preview.en, status: "Research preview", country, narrative: [] },
