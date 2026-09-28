@@ -4,22 +4,14 @@
   "recordType": "CASE",
   "identity": {
     "canonicalTitleKo": "SS Waratah 실종",
-    "canonicalTitleEn": "SS Waratah Disappearance",
-    "aliasesKo": [
-      "SS Waratah",
-      "Waratah 1909",
-      "워라타"
-    ],
-    "aliasesEn": [
-      "SS Waratah",
-      "Waratah 1909",
-      "워라타"
-    ],
+    "canonicalTitleEn": "SS Waratah",
+    "aliasesKo": [],
+    "aliasesEn": [],
     "legacyIds": []
   },
   "publication": {
     "tier": "COMPACT_FILE",
-    "editorialFamily": "MARITIME_FILE",
+    "editorialFamily": "BLACK_FILE",
     "state": "MEDIA_READY",
     "randomEligible": false,
     "releaseEligible": false,
@@ -32,253 +24,200 @@
   },
   "localizedCopy": {
     "ko": {
-      "headline": "211명을 태운 대형 여객선이 1909년 남아공 앞바다에서 흔적 없이 사라졌다",
-      "hook": "마지막 확인은 1909년 7월 27일 동부 남아공 해안의 다른 선박 목격이다. 폭풍·해류·선박 안정성은 합리적 설명을 제공하지만, wreck이 없기 때문에 침몰 위치와 최종 사고 연쇄는 아직 확정되지 않았다.",
+      "headline": "211명이 탄 배가 흔적 없이 사라진 뒤 왜 안정성 문제는 여전히 ‘가능성’일까",
+      "hook": "Waratah의 storm과 stability concern은 실제 기록에 남아 있다. 하지만 wreck가 없어서 어느 failure가 언제 시작됐는지는 직접 검증하지 못했다.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "Durban을 떠난 뒤 정상적인 항해 연락이 끊겼다",
-          "headingEn": "After Leaving Durban, the Normal Voyage Record Ends",
-          "textKo": "SS Waratah는 호주와 영국을 잇던 Blue Anchor Line의 대형 여객·화물선이었다. 1909년 7월 26일 저녁 Durban을 출항해 Cape Town으로 향했고 29일 도착 예정이었다. 다음 날 아침 Clan MacIntyre가 동부 Cape 해안 Mbashe River 부근에서 Waratah와 신호를 주고받은 것이 마지막으로 널리 인정되는 확인 목격이다. 이후 선박은 예정 항구에 도착하지 않았고 무선 조난 신호나 확인된 잔해도 남지 않았다.",
-          "textEn": "SS Waratah, a large Blue Anchor Line passenger and cargo liner, left Durban on the evening of 26 July 1909 bound for Cape Town. The widely accepted last confirmed sighting was by Clan MacIntyre the next morning near the mouth of the Mbashe River. Waratah never reached Cape Town, and no confirmed distress signal or wreckage established what happened next."
+          "headingKo": "1909년 211명을 태운 Waratah는 마지막 confirmed sighting 뒤 흔적 없이 사라졌다",
+          "headingEn": "In 1909 Waratah Disappeared With 211 People After Its Last Confirmed Sighting",
+          "textKo": "State Library of South Australia는 SS Waratah가 1909년 7월 26일 Durban을 떠나 Cape Town으로 향했고, 다음날 Eastern Cape의 Mbashe River 인근에서 Clan MacIntyre와 lamp signal을 교환한 것이 마지막 confirmed sighting이었다고 정리한다. 이후 ship·passengers·crew는 다시 확인되지 않았다. wreckage도 검증되지 않았기 때문에 exact sinking position부터 미스터리가 시작된다.",
+          "textEn": "The State Library of South Australia records that SS Waratah left Durban on July 26, 1909, and was last confirmed the next day near the Eastern Cape after exchanging lamp signals with Clan MacIntyre. The ship and all aboard were never seen again."
         },
         {
-          "blockId": "b02",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "탑승 211명은 모두 실종으로 남았다",
-          "headingEn": "All 211 People Aboard Were Lost",
-          "textKo": "현대 해양고고학 논문과 역사 기록은 Waratah의 최종 항해에서 211명이 목숨을 잃은 것으로 정리한다. 당시 대규모 수색이 이루어졌지만 확정할 수 있는 선체나 시신·화물 잔해를 찾지 못했다. 이 “무잔해”가 사건의 전설성을 키웠지만, 깊은 해역·강한 해류·폭풍 조건에서는 대형선 침몰이라도 표면 증거가 오래 남지 않을 수 있다. 증거 부재는 곧 초자연적 소실을 뜻하지 않는다.",
-          "textEn": "Modern maritime-archaeology research and historical accounts describe 211 people lost on Waratah’s final voyage. Large searches failed to recover a confirmed wreck or debris field. That absence fueled legend, but deep water, currents, and severe weather can erase surface evidence without requiring a supernatural disappearance."
-        },
-        {
-          "blockId": "b03",
+          "blockId": "weather-02",
           "type": "BACKGROUND",
-          "headingKo": "마지막 항해에는 선박 안정성에 대한 우려 증언이 있었다",
-          "headingEn": "There Were Contemporary Concerns About the Ship’s Stability",
-          "textKo": "이전 승객과 일부 목격자는 Waratah가 많이 구르거나 기울었다고 증언했다. 이후 영국 Court of Enquiry는 14개월 동안 설계·적재·운항 관련 자료를 검토했다. 다만 “불안정했다”는 증언 하나로 정확한 침몰 메커니즘을 역산할 수는 없다. 적재 상태, 자유수면 효과, 파랑 방향, 조타와 기관 상태가 함께 작동했을 수 있으며, wreck이 없으면 구조적 파손의 직접 흔적도 확인할 수 없다.",
-          "textEn": "Passengers and witnesses reported concerns about rolling and listing, and a lengthy Court of Enquiry examined design, loading, and operation. Yet testimony about stability cannot by itself reconstruct the exact loss mechanism; loading, waves, steering, machinery, and structural failure could have interacted, and the wreck is unavailable for direct inspection."
+          "headingKo": "마지막 날 weather는 악화됐고 몇몇 후속 sighting은 확정되지 않았다",
+          "headingEn": "Weather Worsened and Later Sightings Were Unconfirmed",
+          "textKo": "last confirmed sighting 뒤 stormy conditions가 악화됐다. SS Harlow captain은 먼 곳의 대형 steamship에서 unusual smoke와 두 bright flashes를 봤다고 보고했고 다른 ship은 name signal의 일부만 읽었다. 하지만 이들이 Waratah였다는 identification은 확정되지 않았다. confirmed sighting과 dramatic later report를 분리하는 것이 중요하다.",
+          "textEn": "After the last confirmed sighting, weather worsened. The SS Harlow captain reported smoke and two bright flashes from a distant steamship, while another ship read only part of a name signal. These later sightings were not confirmed as Waratah."
         },
         {
-          "blockId": "b04",
+          "blockId": "stability-03",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "2025년 연구는 당시 폭풍·Agulhas Current·해저지형을 함께 봤다",
-          "headingEn": "A 2025 Study Combined Storm, Agulhas Current, and Seafloor Context",
-          "textKo": "2025년 Journal of Maritime Archaeology 연구는 마지막 확인 지점 주변의 기상 전선, Agulhas Current, 파랑과 수심을 다시 결합해 가능한 침몰 해역을 검토했다. 연구의 가치는 wreck을 “발견했다”는 데 있지 않다. 당시 선박이 어떤 해상 조건을 만났고 잔해가 어떤 방향으로 이동했을 수 있는지 제약을 거는 것이다. 이런 seascape 분석은 검색 영역을 좁힐 수 있지만 특정 좌표를 확정하지는 않는다.",
-          "textEn": "A 2025 Journal of Maritime Archaeology study combined historical weather fronts, the Agulhas Current, wave conditions, and bathymetry around the last confirmed area. Its value is not a wreck discovery but tighter constraints on the conditions Waratah encountered and where debris or a wreck might plausibly lie."
+          "headingKo": "사고 전부터 rolling과 listing에 대한 우려가 있었다",
+          "headingEn": "Concerns About Rolling and Listing Existed Before the Disappearance",
+          "textKo": "Court of Enquiry testimony에는 former passenger Claude Sawyer가 moderate seas에서도 vessel의 list와 roll을 걱정했다는 내용이 포함됐다. cargo loading과 stability에 대한 논쟁도 이어졌다. 하지만 prior concern이 있었다는 사실이 exact failure sequence를 자동으로 증명하는 것은 아니다. ship이 어떤 point에서 어떤 mechanism으로 foundered했는지는 wreck 없이 직접검증할 수 없었다.",
+          "textEn": "Court-of-Enquiry testimony included former passenger Claude Sawyer's concerns about listing and rolling even in moderate seas. Cargo loading and stability became central issues, but prior concern does not prove the exact failure sequence."
         },
         {
-          "blockId": "b05",
+          "blockId": "inquiry-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Court of Enquiry는 major storm에서 foundered했을 가능성을 가장 높게 봤다",
+          "headingEn": "The Court of Enquiry Favored Foundering in a Major Storm",
+          "textKo": "long inquiry는 vessel이 first major storm에서 lost됐을 가능성을 중심으로 검토했다. 이 결론은 weather, design/stability evidence, disappearance timing을 종합한 reconstruction이다. 하지만 main wreck가 없기 때문에 capsizing, structural failure, cargo shift 등의 exact initiating event를 하나로 확정할 수는 없었다.",
+          "textEn": "The long inquiry favored loss during a major storm based on weather, stability evidence and timing. Without the wreck, however, the initiating mechanism—capsize, structural failure or cargo shift—could not be fixed."
+        },
+        {
+          "blockId": "myths-05",
           "type": "COUNTERARGUMENT",
-          "headingKo": "Harlow의 불빛·연기 목격은 흥미롭지만 확인 목격이 아니다",
-          "headingEn": "The Harlow Smoke-and-Flashes Report Is Intriguing but Unconfirmed",
-          "textKo": "7월 27일 저녁 SS Harlow 선장은 멀리서 Waratah와 비슷한 크기의 선박에서 과도한 연기와 밝은 섬광을 봤다고 보고했다. 다른 배 Guelph는 악천후 속에서 선명하지 않은 선명 신호의 끝 글자 “T-A-H”를 읽었다고 했다. 이 보고들은 최종 순간을 상상하게 만들지만 거리·날씨·선박 식별이 불확실하다. 마지막 “확인” 목격과 이후 “가능성” 목격은 같은 증거 등급으로 다루면 안 된다.",
-          "textEn": "Later on 27 July, SS Harlow reported smoke and bright flashes from a distant vessel, while Guelph reportedly read only the ending “T-A-H” of a signal in poor weather. These reports are evocative but identification was uncertain. They should not be treated as equivalent to the last confirmed sighting."
+          "headingKo": "warning dream과 explosion story는 official evidence와 같은 무게가 아니다",
+          "headingEn": "Warning Dreams and Explosion Stories Do Not Carry the Same Weight as Official Evidence",
+          "textKo": "Sawyer의 warning dream은 cultural memory에서 유명하고 Harlow의 distant flashes도 반복 인용된다. 그러나 documented stability testimony, confirmed storm, unverified visual report, personal dream은 서로 다른 evidence layer다. 흥미로운 이야기를 하나의 원인설로 합치면 사건의 실제 불확실성을 잃게 된다.",
+          "textEn": "Sawyer's warning dream and Harlow's distant flashes became famous, but documented stability testimony, a confirmed storm, an unverified sighting and a personal dream are different evidence layers."
         },
         {
-          "blockId": "b06",
-          "type": "HYPOTHESIS",
-          "headingKo": "폭풍 속 급격한 전복·파손은 설명력이 있지만 직접 증거는 없다",
-          "headingEn": "Rapid Capsize or Structural Failure Fits the Weather but Lacks Direct Proof",
-          "textKo": "Court of Enquiry와 후대 연구는 첫 큰 폭풍에서 선박이 상실됐을 가능성을 중심에 둔다. 큰 파랑과 강한 해류, 높은 적재량, 안정성 문제가 결합됐다면 매우 짧은 시간 안에 조난했을 수 있다. 하지만 기관 화재, 조타 상실, hatch 손상, rogue wave처럼 여러 세부 시나리오가 경쟁한다. wreck의 위치와 손상 패턴이 확인되지 않는 이상 어떤 하나를 “정답”이라고 선언할 근거는 부족하다.",
-          "textEn": "The contemporary inquiry and later work center on loss in severe weather. Large seas, strong current, loading, and stability could combine into a rapid casualty, but fire, steering loss, hatch failure, or an extreme wave remain competing details. Without the wreck and its damage pattern, no single sequence is demonstrated."
-        },
-        {
-          "blockId": "b07",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "수색 실패는 “찾을 곳”을 잘못 가정했을 가능성도 남긴다",
-          "headingEn": "Failed Searches May Reflect an Incorrect Search Area as Much as a Missing Wreck",
-          "textKo": "당시 수색은 넓었지만 1909년에는 위성 위치·현대 sonar·정밀 해류 hindcast가 없었다. 만약 마지막 확인 지점 이후 Waratah가 예상 항로에서 벗어났거나 짧은 시간 떠밀린 뒤 깊은 수심에 가라앉았다면 수색선이 지나간 곳과 실제 wreck이 크게 어긋날 수 있다. 현대 연구가 bathymetry와 재분석된 기상·해류를 강조하는 이유도 이 때문이다.",
-          "textEn": "The 1909 searches were extensive but lacked satellite navigation, modern sonar, and detailed current hindcasts. If Waratah drifted away from the expected route before sinking in deep water, historical searches could have missed the wreck by a wide margin. This is why modern reconstructions focus on bathymetry, weather, and current."
-        },
-        {
-          "blockId": "b08",
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** Waratah는 1909년 7월 26일 Durban을 떠났고, 27일 아침 Clan MacIntyre의 목격 이후 Cape Town에 도착하지 않았다. 탑승자 211명은 모두 실종됐으며 확인된 wreck은 아직 없다. 당시 악천후와 후대 seascape 분석은 해상 사고 설명을 강하게 지지한다.\n\n**확인되지 않음:** 정확한 침몰 좌표, 최종 사고 원인과 순서, Harlow·Guelph의 후기 목격이 실제 Waratah였는지는 확정되지 않았다.",
-          "textEn": "**Established:** Waratah left Durban on 26 July 1909 and failed to reach Cape Town after the last confirmed sighting by Clan MacIntyre the next morning. All 211 people aboard were lost, and no confirmed wreck has been found. Severe weather and later seascape analysis support a maritime-casualty explanation.\n\n**Not established:** The exact wreck position, the final failure sequence, and whether later Harlow or Guelph sightings were truly Waratah remain unresolved."
+          "textKo": "확인됨: Waratah는 1909년 211명과 함께 South Africa 연안에서 실종됐고 verified wreckage가 없다. Court of Enquiry는 severe storm에서 loss됐을 가능성을 높게 봤다.\n\n확인되지 않음: exact wreck location, precise failure mechanism, unconfirmed smoke/flashes가 실제 Waratah였는지는 확정되지 않았다.",
+          "textEn": "Established: Waratah disappeared off South Africa in 1909 with 211 people and no verified wreckage. The Court of Enquiry favored loss in severe weather.\n\nNot established: The exact wreck location, precise failure mechanism and whether unconfirmed smoke/flashes involved Waratah remain unresolved."
         }
       ],
       "factBoundary": {
-        "established": "**확인됨:** Waratah는 1909년 7월 26일 Durban을 떠났고, 27일 아침 Clan MacIntyre의 목격 이후 Cape Town에 도착하지 않았다. 탑승자 211명은 모두 실종됐으며 확인된 wreck은 아직 없다. 당시 악천후와 후대 seascape 분석은 해상 사고 설명을 강하게 지지한다.\n\n**확인되지 않음:** 정확한 침몰 좌표, 최종 사고 원인과 순서, Harlow·Guelph의 후기 목격이 실제 Waratah였는지는 확정되지 않았다.",
+        "established": "확인됨: Waratah는 1909년 211명과 함께 South Africa 연안에서 실종됐고 verified wreckage가 없다. Court of Enquiry는 severe storm에서 loss됐을 가능성을 높게 봤다.\n\n확인되지 않음: exact wreck location, precise failure mechanism, unconfirmed smoke/flashes가 실제 Waratah였는지는 확정되지 않았다.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "weather-02",
+        "stability-03",
+        "inquiry-04",
+        "myths-05"
       ]
     },
     "en": {
-      "headline": "A Large Liner With 211 People Vanished off South Africa in 1909 Without a Confirmed Wreck",
-      "hook": "The last confirmed sighting came from another ship off South Africa on 27 July 1909. Storm, current, and stability provide plausible mechanisms, but without the wreck the exact sinking location and final failure sequence remain unproven.",
+      "headline": "Why Did a 211-Person Ship Vanish Without Trace—and Why Is Stability Still Only Part of the Answer?",
+      "hook": "Waratah's final storm and stability concerns are documented, but without a wreck investigators could never directly test the exact failure sequence.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "Durban을 떠난 뒤 정상적인 항해 연락이 끊겼다",
-          "headingEn": "After Leaving Durban, the Normal Voyage Record Ends",
-          "textKo": "SS Waratah는 호주와 영국을 잇던 Blue Anchor Line의 대형 여객·화물선이었다. 1909년 7월 26일 저녁 Durban을 출항해 Cape Town으로 향했고 29일 도착 예정이었다. 다음 날 아침 Clan MacIntyre가 동부 Cape 해안 Mbashe River 부근에서 Waratah와 신호를 주고받은 것이 마지막으로 널리 인정되는 확인 목격이다. 이후 선박은 예정 항구에 도착하지 않았고 무선 조난 신호나 확인된 잔해도 남지 않았다.",
-          "textEn": "SS Waratah, a large Blue Anchor Line passenger and cargo liner, left Durban on the evening of 26 July 1909 bound for Cape Town. The widely accepted last confirmed sighting was by Clan MacIntyre the next morning near the mouth of the Mbashe River. Waratah never reached Cape Town, and no confirmed distress signal or wreckage established what happened next."
+          "headingKo": "1909년 211명을 태운 Waratah는 마지막 confirmed sighting 뒤 흔적 없이 사라졌다",
+          "headingEn": "In 1909 Waratah Disappeared With 211 People After Its Last Confirmed Sighting",
+          "textKo": "State Library of South Australia는 SS Waratah가 1909년 7월 26일 Durban을 떠나 Cape Town으로 향했고, 다음날 Eastern Cape의 Mbashe River 인근에서 Clan MacIntyre와 lamp signal을 교환한 것이 마지막 confirmed sighting이었다고 정리한다. 이후 ship·passengers·crew는 다시 확인되지 않았다. wreckage도 검증되지 않았기 때문에 exact sinking position부터 미스터리가 시작된다.",
+          "textEn": "The State Library of South Australia records that SS Waratah left Durban on July 26, 1909, and was last confirmed the next day near the Eastern Cape after exchanging lamp signals with Clan MacIntyre. The ship and all aboard were never seen again."
         },
         {
-          "blockId": "b02",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "탑승 211명은 모두 실종으로 남았다",
-          "headingEn": "All 211 People Aboard Were Lost",
-          "textKo": "현대 해양고고학 논문과 역사 기록은 Waratah의 최종 항해에서 211명이 목숨을 잃은 것으로 정리한다. 당시 대규모 수색이 이루어졌지만 확정할 수 있는 선체나 시신·화물 잔해를 찾지 못했다. 이 “무잔해”가 사건의 전설성을 키웠지만, 깊은 해역·강한 해류·폭풍 조건에서는 대형선 침몰이라도 표면 증거가 오래 남지 않을 수 있다. 증거 부재는 곧 초자연적 소실을 뜻하지 않는다.",
-          "textEn": "Modern maritime-archaeology research and historical accounts describe 211 people lost on Waratah’s final voyage. Large searches failed to recover a confirmed wreck or debris field. That absence fueled legend, but deep water, currents, and severe weather can erase surface evidence without requiring a supernatural disappearance."
-        },
-        {
-          "blockId": "b03",
+          "blockId": "weather-02",
           "type": "BACKGROUND",
-          "headingKo": "마지막 항해에는 선박 안정성에 대한 우려 증언이 있었다",
-          "headingEn": "There Were Contemporary Concerns About the Ship’s Stability",
-          "textKo": "이전 승객과 일부 목격자는 Waratah가 많이 구르거나 기울었다고 증언했다. 이후 영국 Court of Enquiry는 14개월 동안 설계·적재·운항 관련 자료를 검토했다. 다만 “불안정했다”는 증언 하나로 정확한 침몰 메커니즘을 역산할 수는 없다. 적재 상태, 자유수면 효과, 파랑 방향, 조타와 기관 상태가 함께 작동했을 수 있으며, wreck이 없으면 구조적 파손의 직접 흔적도 확인할 수 없다.",
-          "textEn": "Passengers and witnesses reported concerns about rolling and listing, and a lengthy Court of Enquiry examined design, loading, and operation. Yet testimony about stability cannot by itself reconstruct the exact loss mechanism; loading, waves, steering, machinery, and structural failure could have interacted, and the wreck is unavailable for direct inspection."
+          "headingKo": "마지막 날 weather는 악화됐고 몇몇 후속 sighting은 확정되지 않았다",
+          "headingEn": "Weather Worsened and Later Sightings Were Unconfirmed",
+          "textKo": "last confirmed sighting 뒤 stormy conditions가 악화됐다. SS Harlow captain은 먼 곳의 대형 steamship에서 unusual smoke와 두 bright flashes를 봤다고 보고했고 다른 ship은 name signal의 일부만 읽었다. 하지만 이들이 Waratah였다는 identification은 확정되지 않았다. confirmed sighting과 dramatic later report를 분리하는 것이 중요하다.",
+          "textEn": "After the last confirmed sighting, weather worsened. The SS Harlow captain reported smoke and two bright flashes from a distant steamship, while another ship read only part of a name signal. These later sightings were not confirmed as Waratah."
         },
         {
-          "blockId": "b04",
+          "blockId": "stability-03",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "2025년 연구는 당시 폭풍·Agulhas Current·해저지형을 함께 봤다",
-          "headingEn": "A 2025 Study Combined Storm, Agulhas Current, and Seafloor Context",
-          "textKo": "2025년 Journal of Maritime Archaeology 연구는 마지막 확인 지점 주변의 기상 전선, Agulhas Current, 파랑과 수심을 다시 결합해 가능한 침몰 해역을 검토했다. 연구의 가치는 wreck을 “발견했다”는 데 있지 않다. 당시 선박이 어떤 해상 조건을 만났고 잔해가 어떤 방향으로 이동했을 수 있는지 제약을 거는 것이다. 이런 seascape 분석은 검색 영역을 좁힐 수 있지만 특정 좌표를 확정하지는 않는다.",
-          "textEn": "A 2025 Journal of Maritime Archaeology study combined historical weather fronts, the Agulhas Current, wave conditions, and bathymetry around the last confirmed area. Its value is not a wreck discovery but tighter constraints on the conditions Waratah encountered and where debris or a wreck might plausibly lie."
+          "headingKo": "사고 전부터 rolling과 listing에 대한 우려가 있었다",
+          "headingEn": "Concerns About Rolling and Listing Existed Before the Disappearance",
+          "textKo": "Court of Enquiry testimony에는 former passenger Claude Sawyer가 moderate seas에서도 vessel의 list와 roll을 걱정했다는 내용이 포함됐다. cargo loading과 stability에 대한 논쟁도 이어졌다. 하지만 prior concern이 있었다는 사실이 exact failure sequence를 자동으로 증명하는 것은 아니다. ship이 어떤 point에서 어떤 mechanism으로 foundered했는지는 wreck 없이 직접검증할 수 없었다.",
+          "textEn": "Court-of-Enquiry testimony included former passenger Claude Sawyer's concerns about listing and rolling even in moderate seas. Cargo loading and stability became central issues, but prior concern does not prove the exact failure sequence."
         },
         {
-          "blockId": "b05",
+          "blockId": "inquiry-04",
+          "type": "TURNING_POINT",
+          "headingKo": "Court of Enquiry는 major storm에서 foundered했을 가능성을 가장 높게 봤다",
+          "headingEn": "The Court of Enquiry Favored Foundering in a Major Storm",
+          "textKo": "long inquiry는 vessel이 first major storm에서 lost됐을 가능성을 중심으로 검토했다. 이 결론은 weather, design/stability evidence, disappearance timing을 종합한 reconstruction이다. 하지만 main wreck가 없기 때문에 capsizing, structural failure, cargo shift 등의 exact initiating event를 하나로 확정할 수는 없었다.",
+          "textEn": "The long inquiry favored loss during a major storm based on weather, stability evidence and timing. Without the wreck, however, the initiating mechanism—capsize, structural failure or cargo shift—could not be fixed."
+        },
+        {
+          "blockId": "myths-05",
           "type": "COUNTERARGUMENT",
-          "headingKo": "Harlow의 불빛·연기 목격은 흥미롭지만 확인 목격이 아니다",
-          "headingEn": "The Harlow Smoke-and-Flashes Report Is Intriguing but Unconfirmed",
-          "textKo": "7월 27일 저녁 SS Harlow 선장은 멀리서 Waratah와 비슷한 크기의 선박에서 과도한 연기와 밝은 섬광을 봤다고 보고했다. 다른 배 Guelph는 악천후 속에서 선명하지 않은 선명 신호의 끝 글자 “T-A-H”를 읽었다고 했다. 이 보고들은 최종 순간을 상상하게 만들지만 거리·날씨·선박 식별이 불확실하다. 마지막 “확인” 목격과 이후 “가능성” 목격은 같은 증거 등급으로 다루면 안 된다.",
-          "textEn": "Later on 27 July, SS Harlow reported smoke and bright flashes from a distant vessel, while Guelph reportedly read only the ending “T-A-H” of a signal in poor weather. These reports are evocative but identification was uncertain. They should not be treated as equivalent to the last confirmed sighting."
+          "headingKo": "warning dream과 explosion story는 official evidence와 같은 무게가 아니다",
+          "headingEn": "Warning Dreams and Explosion Stories Do Not Carry the Same Weight as Official Evidence",
+          "textKo": "Sawyer의 warning dream은 cultural memory에서 유명하고 Harlow의 distant flashes도 반복 인용된다. 그러나 documented stability testimony, confirmed storm, unverified visual report, personal dream은 서로 다른 evidence layer다. 흥미로운 이야기를 하나의 원인설로 합치면 사건의 실제 불확실성을 잃게 된다.",
+          "textEn": "Sawyer's warning dream and Harlow's distant flashes became famous, but documented stability testimony, a confirmed storm, an unverified sighting and a personal dream are different evidence layers."
         },
         {
-          "blockId": "b06",
-          "type": "HYPOTHESIS",
-          "headingKo": "폭풍 속 급격한 전복·파손은 설명력이 있지만 직접 증거는 없다",
-          "headingEn": "Rapid Capsize or Structural Failure Fits the Weather but Lacks Direct Proof",
-          "textKo": "Court of Enquiry와 후대 연구는 첫 큰 폭풍에서 선박이 상실됐을 가능성을 중심에 둔다. 큰 파랑과 강한 해류, 높은 적재량, 안정성 문제가 결합됐다면 매우 짧은 시간 안에 조난했을 수 있다. 하지만 기관 화재, 조타 상실, hatch 손상, rogue wave처럼 여러 세부 시나리오가 경쟁한다. wreck의 위치와 손상 패턴이 확인되지 않는 이상 어떤 하나를 “정답”이라고 선언할 근거는 부족하다.",
-          "textEn": "The contemporary inquiry and later work center on loss in severe weather. Large seas, strong current, loading, and stability could combine into a rapid casualty, but fire, steering loss, hatch failure, or an extreme wave remain competing details. Without the wreck and its damage pattern, no single sequence is demonstrated."
-        },
-        {
-          "blockId": "b07",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "수색 실패는 “찾을 곳”을 잘못 가정했을 가능성도 남긴다",
-          "headingEn": "Failed Searches May Reflect an Incorrect Search Area as Much as a Missing Wreck",
-          "textKo": "당시 수색은 넓었지만 1909년에는 위성 위치·현대 sonar·정밀 해류 hindcast가 없었다. 만약 마지막 확인 지점 이후 Waratah가 예상 항로에서 벗어났거나 짧은 시간 떠밀린 뒤 깊은 수심에 가라앉았다면 수색선이 지나간 곳과 실제 wreck이 크게 어긋날 수 있다. 현대 연구가 bathymetry와 재분석된 기상·해류를 강조하는 이유도 이 때문이다.",
-          "textEn": "The 1909 searches were extensive but lacked satellite navigation, modern sonar, and detailed current hindcasts. If Waratah drifted away from the expected route before sinking in deep water, historical searches could have missed the wreck by a wide margin. This is why modern reconstructions focus on bathymetry, weather, and current."
-        },
-        {
-          "blockId": "b08",
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** Waratah는 1909년 7월 26일 Durban을 떠났고, 27일 아침 Clan MacIntyre의 목격 이후 Cape Town에 도착하지 않았다. 탑승자 211명은 모두 실종됐으며 확인된 wreck은 아직 없다. 당시 악천후와 후대 seascape 분석은 해상 사고 설명을 강하게 지지한다.\n\n**확인되지 않음:** 정확한 침몰 좌표, 최종 사고 원인과 순서, Harlow·Guelph의 후기 목격이 실제 Waratah였는지는 확정되지 않았다.",
-          "textEn": "**Established:** Waratah left Durban on 26 July 1909 and failed to reach Cape Town after the last confirmed sighting by Clan MacIntyre the next morning. All 211 people aboard were lost, and no confirmed wreck has been found. Severe weather and later seascape analysis support a maritime-casualty explanation.\n\n**Not established:** The exact wreck position, the final failure sequence, and whether later Harlow or Guelph sightings were truly Waratah remain unresolved."
+          "textKo": "확인됨: Waratah는 1909년 211명과 함께 South Africa 연안에서 실종됐고 verified wreckage가 없다. Court of Enquiry는 severe storm에서 loss됐을 가능성을 높게 봤다.\n\n확인되지 않음: exact wreck location, precise failure mechanism, unconfirmed smoke/flashes가 실제 Waratah였는지는 확정되지 않았다.",
+          "textEn": "Established: Waratah disappeared off South Africa in 1909 with 211 people and no verified wreckage. The Court of Enquiry favored loss in severe weather.\n\nNot established: The exact wreck location, precise failure mechanism and whether unconfirmed smoke/flashes involved Waratah remain unresolved."
         }
       ],
       "factBoundary": {
-        "established": "**Established:** Waratah left Durban on 26 July 1909 and failed to reach Cape Town after the last confirmed sighting by Clan MacIntyre the next morning. All 211 people aboard were lost, and no confirmed wreck has been found. Severe weather and later seascape analysis support a maritime-casualty explanation.\n\n**Not established:** The exact wreck position, the final failure sequence, and whether later Harlow or Guelph sightings were truly Waratah remain unresolved.",
+        "established": "Established: Waratah disappeared off South Africa in 1909 with 211 people and no verified wreckage. The Court of Enquiry favored loss in severe weather.\n\nNot established: The exact wreck location, precise failure mechanism and whether unconfirmed smoke/flashes involved Waratah remain unresolved.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "weather-02",
+        "stability-03",
+        "inquiry-04",
+        "myths-05"
       ]
     }
   },
   "claims": [
     {
-      "claimId": "ss-waratah-C1",
+      "claimId": "WAR-C1",
       "status": "CONFIRMED",
-      "statementKo": "Waratah는 1909년 7월 27일 마지막 확인 목격 뒤 실종됐고 211명이 상실됐다.",
-      "statementEn": "Waratah disappeared after its last confirmed sighting on 27 July 1909, with 211 people lost.",
+      "statementKo": "Waratah는 1909년 211명과 함께 실종됐다.",
+      "statementEn": "Waratah disappeared in 1909 with 211 people aboard.",
       "sourceRefs": [
-        "SLSA_WARATAH",
-        "JMA_WARATAH_2025"
+        "WAR_SLSA"
       ]
     },
     {
-      "claimId": "ss-waratah-C2",
-      "status": "CONFIRMED",
-      "statementKo": "현재까지 확정된 wreck 위치는 없다.",
-      "statementEn": "No confirmed wreck location is known.",
+      "claimId": "WAR-C2",
+      "status": "SUPPORTED",
+      "statementKo": "Court of Enquiry는 severe storm에서 loss 가능성을 높게 봤다.",
+      "statementEn": "The Court of Enquiry favored loss in severe weather.",
       "sourceRefs": [
-        "JMA_WARATAH_2025",
-        "WAM_WARATAH"
+        "WAR_SLSA"
       ]
     },
     {
-      "claimId": "ss-waratah-C3",
+      "claimId": "WAR-C3",
       "status": "NOT_ESTABLISHED",
-      "statementKo": "정확한 침몰 원인·좌표와 후기 목격의 정체는 확정되지 않았다.",
-      "statementEn": "The exact sinking cause, location, and identity of later sightings remain unestablished.",
+      "statementKo": "exact wreck location과 precise failure mechanism은 확정되지 않았다.",
+      "statementEn": "The exact wreck location and precise failure mechanism remain unestablished.",
       "sourceRefs": [
-        "SLSA_WARATAH",
-        "JMA_WARATAH_2025"
+        "WAR_SLSA"
       ]
     }
   ],
   "sources": [
     {
-      "sourceId": "SLSA_WARATAH",
-      "title": "Australia’s Titanic — the sinking of the SS Waratah",
+      "sourceId": "WAR_SLSA",
+      "title": "Australia's Titanic — the sinking of the SS Waratah",
       "publisher": "State Library of South Australia",
       "url": "https://www.slsa.sa.gov.au/australias-titanic-sinking-of-ss-waratah",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "JMA_WARATAH_2025",
-      "title": "Seascape Factors in the Loss of the SS Waratah",
-      "publisher": "Journal of Maritime Archaeology",
-      "url": "https://link.springer.com/article/10.1007/s11457-025-09435-9",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "WAM_WARATAH",
-      "title": "Waratah & Papanui: Two Albany shipping mysteries",
-      "publisher": "Western Australian Museum",
-      "url": "https://visit.museum.wa.gov.au/greatsouthern/tuesday-curatorial-waratah-papanui-two-albany-shipping-mysteries",
-      "sourceType": "SOURCE_BOUNDED"
+      "sourceType": "STATE_LIBRARY_HISTORY"
     }
   ],
   "visuals": [
     {
-      "assetId": "ss-waratah-route-v01",
-      "role": "ROUTE_TIMELINE",
-      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "assetId": "war-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived.",
-      "captionEn": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived.",
-      "altKo": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived.",
-      "altEn": "Durban 26 Jul → confirmed sighting near Mbashe 27 Jul → Cape Town due 29 Jul → never arrived.",
+      "captionKo": "Durban departure → last confirmed sighting → storm → overdue → searches → no wreckage.",
+      "captionEn": "Durban departure → last confirmed sighting → storm → overdue → searches → no wreckage.",
+      "altKo": "Durban departure → last confirmed sighting → storm → overdue → searches → no wreckage.",
+      "altEn": "Durban departure → last confirmed sighting → storm → overdue → searches → no wreckage.",
       "sourceRefs": [
-        "SLSA_WARATAH"
+        "WAR_SLSA"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "ss-waratah__route-v01__ko.png",
-          "sha256": "5fbc86350db3631ba8ba36d864e7a2036ab7222ed53de0d393ddd70277cfc293",
+          "fileName": "ss-waratah__v01__ko.png",
+          "sha256": "1cf36a7743234376bb8c8267ed9aa838d8bfa16f303e5ed8c42c89852fbab067",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "ss-waratah__route-v01__en.png",
-          "sha256": "9fdf8389dace9ac00789b3137a8c959a625b924798ff1c06e3251c0cd5f7ddea",
+          "fileName": "ss-waratah__v01__en.png",
+          "sha256": "3e82c4af8af3cb0ce82642a6cb408b71f1703521b4b165a355f0bf8c471c3cad",
           "width": 1600,
           "height": 900
         }
@@ -289,65 +228,30 @@
       "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
     },
     {
-      "assetId": "ss-waratah-conditions-v02",
-      "role": "SEASCAPE_MODEL",
-      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
-      "rightsStatus": "PROJECT_ORIGINAL",
-      "rightsQa": "PASS",
-      "isDocumentaryEvidence": false,
-      "isReconstruction": false,
-      "captionKo": "storm front + Agulhas Current + bathymetry constrain plausible loss zones, not a confirmed wreck point.",
-      "captionEn": "storm front + Agulhas Current + bathymetry constrain plausible loss zones, not a confirmed wreck point.",
-      "altKo": "storm front + Agulhas Current + bathymetry constrain plausible loss zones, not a confirmed wreck point.",
-      "altEn": "storm front + Agulhas Current + bathymetry constrain plausible loss zones, not a confirmed wreck point.",
-      "sourceRefs": [
-        "JMA_WARATAH_2025"
-      ],
-      "localizedFiles": {
-        "ko": {
-          "fileName": "ss-waratah__conditions-v02__ko.png",
-          "sha256": "a75b8d72371b51c5455862ecbc009d78779e050e27406a3702b178b324c4e1d2",
-          "width": 1600,
-          "height": 900
-        },
-        "en": {
-          "fileName": "ss-waratah__conditions-v02__en.png",
-          "sha256": "f2ada1bbdac279006d123394e36185e03d8840e5c05f01ef4b6710ea2402c434",
-          "width": 1600,
-          "height": 900
-        }
-      },
-      "applicationState": "RIGHTS_QA_PASS",
-      "androidPath": null,
-      "webPath": null,
-      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
-    },
-    {
-      "assetId": "ss-waratah-boundary-v03",
+      "assetId": "war-v02",
       "role": "CLAIM_VS_EVIDENCE",
-      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "confirmed disappearance/wreck absent ≠ confirmed mechanism or supernatural vanishing.",
-      "captionEn": "confirmed disappearance/wreck absent ≠ confirmed mechanism or supernatural vanishing.",
-      "altKo": "confirmed disappearance/wreck absent ≠ confirmed mechanism or supernatural vanishing.",
-      "altEn": "confirmed disappearance/wreck absent ≠ confirmed mechanism or supernatural vanishing.",
+      "captionKo": "confirmed sighting / stability concern / unverified flashes / exact cause unresolved를 분리.",
+      "captionEn": "Separate confirmed sighting, stability concerns, unverified flashes and unresolved exact cause.",
+      "altKo": "confirmed sighting / stability concern / unverified flashes / exact cause unresolved를 분리.",
+      "altEn": "Separate confirmed sighting, stability concerns, unverified flashes and unresolved exact cause.",
       "sourceRefs": [
-        "SLSA_WARATAH",
-        "JMA_WARATAH_2025"
+        "WAR_SLSA"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "ss-waratah__boundary-v03__ko.png",
-          "sha256": "04cc69e78cf163b318b40c3ebc88e240c11e5c84f0efa0e54d4e0db69a98b333",
+          "fileName": "ss-waratah__v02__ko.png",
+          "sha256": "44e78286a032204f05c10fcb3a61f9bb8728c7caec69ad071ac123a328ccaee2",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "ss-waratah__boundary-v03__en.png",
-          "sha256": "a28f76f233b916c5ad44276743f90d1adcdd619f3ebb3d5f34b0a8b2e9572675",
+          "fileName": "ss-waratah__v02__en.png",
+          "sha256": "282309876bdd13e28454ea711f6cb0dbffe544ae4283c9c12087d30276dc55f3",
           "width": 1600,
           "height": 900
         }
@@ -361,47 +265,46 @@
   "metadata": {
     "primaryGenre": "Maritime / Aviation",
     "secondaryGenres": [
-      "Shipwreck",
-      "Unsolved Disappearance"
+      "Unsolved Crime / Disappearance"
     ],
     "countries": [
-      "South Africa",
-      "Australia"
+      "South Africa"
     ],
     "regions": [
-      "Eastern Cape coast"
+      "Eastern Cape / Indian Ocean"
     ],
     "places": [
-      "Durban",
-      "Cape Town",
-      "Mbashe River"
+      {
+        "name": "Durban",
+        "role": "departure"
+      },
+      {
+        "name": "Cape Town",
+        "role": "destination"
+      }
     ],
     "people": [],
     "organizations": [
-      "Blue Anchor Line"
+      "State Library of South Australia"
     ],
     "dateRange": {
       "start": "1909-07-26",
-      "end": "1909-07-29",
-      "precision": "voyage window"
+      "end": "1909-07-27",
+      "precision": "last voyage"
     },
     "era": "Edwardian maritime",
-    "resolution": "WRECK_NOT_FOUND",
+    "resolution": "SHIP_AND_PEOPLE_LOST_STORM_SINKING_FAVORED_EXACT_SITE_UNRESOLVED",
     "searchAliases": [
-      "SS Waratah",
-      "Waratah 1909",
-      "워라타"
+      "SS Waratah"
     ],
-    "relatedCases": [
-      "marine-sulphur-queen"
-    ]
+    "relatedCases": []
   },
   "quality": {
-    "koBodyChars": 1861,
-    "enBodyWords": 421,
-    "meaningfulBlockCount": 8,
-    "visualPlacementCount": 3,
-    "sourceCount": 3,
+    "koBodyChars": 1584,
+    "enBodyWords": 217,
+    "meaningfulBlockCount": 6,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
     "claimCount": 3,
     "factBoundaryPass": true,
     "koPass": true,
@@ -414,10 +317,10 @@
     "randomGatePass": false
   },
   "mediaPackage": {
-    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
-    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20_MANIFEST_v1.0.json",
-    "assetGroups": 3,
-    "localizedFiles": 6,
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH23",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH23_MANIFEST_v1.0.json",
+    "assetGroups": 2,
+    "localizedFiles": 4,
     "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
     "thirdPartyImageBytes": 0,
     "androidApplied": false,

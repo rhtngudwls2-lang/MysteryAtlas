@@ -5,21 +5,13 @@
   "identity": {
     "canonicalTitleKo": "블러드 폴스",
     "canonicalTitleEn": "Blood Falls",
-    "aliasesKo": [
-      "Blood Falls",
-      "블러드 폴스",
-      "Taylor Glacier red falls"
-    ],
-    "aliasesEn": [
-      "Blood Falls",
-      "블러드 폴스",
-      "Taylor Glacier red falls"
-    ],
+    "aliasesKo": [],
+    "aliasesEn": [],
     "legacyIds": []
   },
   "publication": {
     "tier": "COMPACT_FILE",
-    "editorialFamily": "SCIENCE_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
     "state": "MEDIA_READY",
     "randomEligible": false,
     "releaseEligible": false,
@@ -32,251 +24,218 @@
   },
   "localizedCopy": {
     "ko": {
-      "headline": "남극 빙하에서 “피”가 흐르는 이유는 풀렸다 — 그런데 물길의 역사는 아직 끝나지 않았다",
-      "hook": "붉은 색은 피가 아니라 철이 풍부한 고염도 brine이 산소와 만나 만든 산화물이다. 남은 흥미는 영하의 빙하 속 물길이 어떻게 유지되고, 그 안의 생태계가 얼마나 오래 고립됐는가에 있다.",
+      "headline": "피처럼 붉은 폭포의 색은 풀렸는데 왜 흘러나오는 시점은 아직 복잡할까",
+      "hook": "붉은색의 정체는 iron-rich brine이다. 더 흥미로운 미스터리는 오래 고립된 salty reservoir가 언제 어떤 압력경로로 표면에 나오는가다.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "Taylor Glacier 끝에서 붉은 얼음이 반복적으로 자란다",
-          "headingEn": "Red Ice Repeatedly Forms at the Terminus of Taylor Glacier",
-          "textKo": "남극 McMurdo Dry Valleys의 Taylor Glacier 끝에는 붉은 얼음과 진흙이 번지는 작은 유출 지점이 있다. 오래전에는 조류나 광물 등 여러 설명이 거론됐지만 현재 관측은 철이 풍부하고 산소가 적은 고염도 brine이 빙하 내부에서 표면으로 나온다는 설명을 지지한다. 유출은 연속 폭포라기보다 간헐적으로 나타나며, 나온 brine이 얼고 녹는 과정에서 붉은 흔적이 쌓인다.",
-          "textEn": "At the terminus of Taylor Glacier in Antarctica’s McMurdo Dry Valleys, red-stained ice and sediment mark an intermittent outflow. Modern observations support an iron-rich, oxygen-poor hypersaline brine emerging from within the glacier rather than blood or red algae. Each episode can freeze into a red-orange apron."
+          "headingKo": "얼음벽에서 피처럼 붉은 물이 흐르지만 색의 원인은 iron-rich brine이다",
+          "headingEn": "A Blood-Red Flow Emerges From Ice, but the Color Comes From Iron-Rich Brine",
+          "textKo": "Taylor Glacier terminus의 Blood Falls는 iron-rich hypersaline brine이 glacier 아래에서 seep하며 만들어지는 현상이다. NSF는 brine source가 glacier 내부 약 2.5 miles up-glacier에 있을 가능성을 radar data가 지지한다고 설명한다. 붉은색은 초자연 현상이 아니라 iron chemistry와 oxidation이 만든 결과다.",
+          "textEn": "Blood Falls at Taylor Glacier is produced by iron-rich hypersaline brine seeping from beneath the glacier. NSF says radar data place the brine source roughly 2.5 miles up-glacier."
         },
         {
-          "blockId": "b02",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "붉어지는 핵심은 철의 산화다",
-          "headingEn": "The Red Color Comes From Iron Oxidation",
-          "textKo": "빙하 안에서는 철을 포함한 brine이 상대적으로 환원된 상태로 존재할 수 있다. 이 물이 표면에서 대기 산소와 접촉하면 철 화합물이 산화·침전하면서 붉은색과 주황색을 만든다. 즉 “색의 원인”은 현재 과학적으로 상당히 잘 설명되는 부분이다. 미스터리의 중심은 이제 무엇이 붉게 만드는가보다 액체가 어떻게 그렇게 차가운 환경에서 이동하고 언제·왜 분출하는가로 옮겨갔다.",
-          "textEn": "Within the glacier the iron-bearing brine can remain relatively reduced. When it reaches oxygen at the surface, iron compounds oxidize and precipitate, producing red-orange staining. The color itself is therefore well explained; the harder questions concern the liquid pathway and timing of discharge."
-        },
-        {
-          "blockId": "b03",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "레이더는 빙하 안의 brine zone을 직접 추적했다",
-          "headingEn": "Radar Mapped a Brine-Rich Zone Inside the Glacier",
-          "textKo": "2017년 Journal of Glaciology 연구는 radio-echo sounding으로 Blood Falls 상류 빙하 내부에 길게 뻗은 brine-rich zone을 영상화했다. 연구진은 바닥의 염수가 균열 네트워크로 주입되고 수리학적 구배를 따라 종단부로 이동한다고 해석했다. 이 결과는 “빙하 밑 어딘가의 호수에서 신비하게 순간 이동한다”가 아니라 실제 englacial hydrologic system이 존재한다는 물리적 모델을 제공한다.",
-          "textEn": "A 2017 Journal of Glaciology study used radio-echo sounding to map an elongated brine-rich zone upstream of Blood Falls. The authors inferred pressurized subglacial brine entering a crevasse network and being routed toward the terminus by hydraulic gradients, providing a physical englacial hydrologic model."
-        },
-        {
-          "blockId": "b04",
+          "blockId": "salt-02",
           "type": "BACKGROUND",
-          "headingKo": "영하에서도 액체인 이유는 소금과 얼음의 잠열이 함께 작동한다",
-          "headingEn": "Salt and Latent Heat Help Keep the System Liquid Below Freezing",
-          "textKo": "Taylor Glacier의 평균 기온은 담수가 지속적으로 흐르기 어려울 만큼 낮다. 그러나 고농도 염분은 어는점을 낮추고, 일부 물이 얼 때 나오는 잠열은 주변 얼음을 국지적으로 따뜻하게 만든다. 연구는 이 두 효과가 결합돼 차가운 빙하 안에서도 brine pathway가 유지될 수 있음을 보였다. 따라서 “남극에서 액체가 있다” 자체는 초자연 현상이 아니라 열역학과 염분으로 설명할 수 있다.",
-          "textEn": "Taylor Glacier is too cold for an ordinary freshwater drainage system. High salinity depresses the freezing point, while latent heat released as some water freezes can locally warm the ice. The combination can sustain liquid brine pathways without invoking anomalous heat or supernatural processes."
+          "headingKo": "바닷물 기원의 salt가 극저온에서도 liquid brine을 유지하게 한다",
+          "headingEn": "Marine-Derived Salts Help the Brine Remain Liquid in Extreme Cold",
+          "textKo": "NSF는 brine salt가 sea origin을 갖는다고 설명한다. high salinity는 freezing point를 낮추고 permanently cold glacier environment 안에서 liquid water pathway가 유지될 수 있게 한다. ‘얼음 아래 물’이라는 역설은 salinity와 pressure를 함께 보면 풀린다. 오래된 marine heritage가 현재 subglacial chemistry에 남아 있다는 점도 중요한 단서다.",
+          "textEn": "NSF describes the salts as marine-derived. High salinity depresses the freezing point and helps liquid pathways persist within a permanently cold glacier environment."
         },
         {
-          "blockId": "b05",
+          "blockId": "microbes-03",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "2026년 연구는 brine에 오래된 해양 생물학적 흔적이 남았음을 강화했다",
-          "headingEn": "A 2026 Study Strengthened the Case for a Relict Marine Biological Signature",
-          "textKo": "2026년 Nature Geoscience 연구는 Taylor Glacier 종단의 붉은 얼음·진흙·퇴적물에서 해양 기원의 미세진핵생물 조성과 유전적 흔적을 분석했다. 주변 Dry Valleys 시료와 비교했을 때 marine indicator group이 Blood Falls 계통에 집중됐고, 일부는 현재 전사 활동도 보였다. 이는 과거 바닷물이 계곡으로 들어온 뒤 빙하 진전으로 고립됐다는 장기 역사와 잘 맞는다. 다만 “정확히 몇 년 동안 완전히 닫힌 생태계였나”까지 한 숫자로 확정하는 자료는 아니다.",
-          "textEn": "A 2026 Nature Geoscience study found marine-derived micro-eukaryotic signatures concentrated in red-hued ice, mud, and sediment around the Taylor Glacier terminus, with evidence of ongoing transcriptional activity in some groups. This fits a history in which marine water entered the valley and was later isolated by glacial advance, without fixing a single exact isolation age."
+          "headingKo": "빛과 산소가 거의 없는 곳에서도 microbial community가 살아 있다",
+          "headingEn": "A Microbial Community Persists With Little Light or Oxygen",
+          "textKo": "brine 속 microorganisms는 cold, dark, high-salinity environment에서 고립돼 살아왔으며 organic/inorganic carbon과 bedrock nutrients의 chemical energy를 이용한다. Blood Falls가 astrobiology analogue로 중요한 이유는 붉은색보다 이 극한 sub-ice ecosystem 때문이다. 생명체가 sunlight 없이 얼마나 오래 유지될 수 있는지를 실제 Earth environment에서 연구할 수 있다.",
+          "textEn": "Microorganisms in the brine persist in cold, dark, saline isolation and can use organic or inorganic carbon plus chemical energy from the bedrock. This sub-ice ecosystem makes Blood Falls important to astrobiology."
         },
         {
-          "blockId": "b06",
+          "blockId": "release-04",
           "type": "COUNTERARGUMENT",
-          "headingKo": "“고대 바닷물”과 “수백만 년 동안 변하지 않은 물”은 같은 말이 아니다",
-          "headingEn": "Ancient Marine Origin Does Not Mean an Unchanged Time Capsule",
-          "textKo": "brine의 해양 기원과 오래된 고립을 말할 때 흔히 “수백만 년 된 물이 그대로 갇혀 있다”는 표현으로 단순화된다. 실제 시스템은 지하수·빙하 변형·염류 이동·균열 주입을 포함한 동적인 환경이다. 화학·동위원소·생물학적 signature가 오래된 해양 기원을 지지해도 현재 Blood Falls에서 나오는 모든 분자가 같은 시점부터 완전히 닫혀 있었다고 볼 근거는 없다.",
-          "textEn": "The phrase “ancient seawater” is easily overextended into an image of a perfectly sealed time capsule. The system is dynamic, involving groundwater, glacier deformation, salts, and fracture injection. Marine chemical and biological signatures support an ancient origin without implying that every molecule has remained unchanged since one date."
+          "headingKo": "색과 reservoir는 설명됐지만 왜 특정 시점에 brine이 표면으로 나오는지는 완전히 닫히지 않았다",
+          "headingEn": "The Color and Reservoir Are Understood, but the Release Trigger Is Not Fully Closed",
+          "textKo": "NSF는 fluid-release trigger가 still unclear하다고 명시한다. later research는 winter release도 관찰했고 glacier crack opening·pressure cycle 같은 mechanisms를 연구한다. ‘왜 빨간가’와 ‘왜 지금 흘러나오는가’는 서로 다른 문제다. solved mystery와 active mystery가 같은 site에 동시에 존재하는 셈이다.",
+          "textEn": "NSF explicitly notes that the trigger of fluid release remains unclear. Later work has documented winter releases and investigated fracture opening and pressure cycles."
         },
         {
-          "blockId": "b07",
-          "type": "HYPOTHESIS",
-          "headingKo": "남은 질문은 분출 타이밍과 저장고·경로의 세부 구조다",
-          "headingEn": "The Remaining Questions Concern Discharge Timing and Detailed Plumbing",
-          "textKo": "왜 brine이 다른 지점이 아니라 현재 Blood Falls 위치에서 주로 나오고, 왜 어떤 시기에는 강하게 분출하는지는 여전히 세부 모델이 필요하다. 연구는 압력과 crevasse, 빙하 변형, 수리학적 구배를 제시하지만 현장 접근이 어려워 전체 저장고를 직접 시추·지도화하기 어렵다. 이 때문에 Blood Falls는 “붉은 원인 미스터리”에서 “극한 빙하 수문·생태 시스템” 연구 대상으로 바뀌었다.",
-          "textEn": "Why discharge concentrates at the present outlet and why episodes vary still requires detailed models of pressure, fractures, glacier motion, and hydraulic gradients. The feature has shifted from a mystery about redness to a research site for extreme glacial hydrology and microbial ecology."
+          "blockId": "analogue-05",
+          "type": "AFTERMATH",
+          "headingKo": "화성 같은 icy world를 생각하게 하지만 외계생명 증거는 아니다",
+          "headingEn": "It Is an Icy-World Analogue, Not Evidence of Extraterrestrial Life",
+          "textKo": "cold, salty, dark water에서 microbes가 유지된다는 사실은 Mars polar ice나 other icy worlds의 habitability question에 natural laboratory를 제공한다. Earth analogue가 생존가능성을 보여줄 수는 있어도 다른 planet에 실제 life가 있다는 증거는 아니다. analogy와 detection을 구분해야 한다.",
+          "textEn": "Microbes surviving in cold, salty, dark water make Blood Falls a useful analogue for Mars or other icy worlds. An Earth analogue can demonstrate possibility, not actual extraterrestrial life."
         },
         {
-          "blockId": "b08",
+          "blockId": "geochem-055",
+          "type": "BACKGROUND",
+          "headingKo": "철이 보인다는 사실은 reservoir chemistry를 추적하는 단서이기도 하다",
+          "headingEn": "The Iron Signature Also Helps Trace Reservoir Chemistry",
+          "textKo": "Blood Falls의 iron staining은 단순한 색 효과가 아니라 brine이 산소와 거의 접촉하지 않은 subglacial 환경에서 reduced iron을 운반해왔다는 단서다. surface에 도달한 뒤 oxidation이 진행되면서 붉은 침전이 보인다. 이 geochemical transition은 reservoir와 surface environment가 서로 얼마나 다른지를 보여준다.",
+          "textEn": "The iron staining is not only a visual effect; it reflects brine carrying reduced iron from an oxygen-poor subglacial environment and oxidizing at the surface. That transition reveals how different the reservoir is from the exposed glacier terminus."
+        },
+        {
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** Blood Falls의 붉은색은 철이 풍부한 고염도 brine이 표면에서 산화하면서 생기며, Taylor Glacier 내부에는 이 brine을 운반하는 hydrologic pathway가 있다. 2026년 연구는 해양 기원의 생물학적 흔적을 더 강하게 지지한다.\n\n**확인되지 않음:** 전체 brine 저장고의 정확한 크기와 연결구조, 개별 분출의 trigger, 시스템의 모든 물과 생물이 동일한 시점부터 완전히 고립됐다는 주장은 확정되지 않았다.",
-          "textEn": "**Established:** Blood Falls is colored by oxidation of iron-rich hypersaline brine, and Taylor Glacier contains hydrologic pathways that route brine toward the terminus. A 2026 study strengthens evidence for a marine-derived biological legacy.\n\n**Not established:** The exact geometry of the full reservoir, the trigger for each discharge episode, and the idea that all water and organisms have been perfectly isolated since one date remain unresolved."
+          "textKo": "확인됨: Blood Falls는 iron-rich hypersaline brine discharge이며 subglacial reservoir와 microbial community가 확인돼 있다.\n\n확인되지 않음: episodic surface-release의 exact trigger는 아직 완전히 해결되지 않았고, 이 ecosystem이 외계생명 존재를 직접 입증하지도 않는다.",
+          "textEn": "Established: Blood Falls is an iron-rich hypersaline brine discharge with a documented subglacial reservoir and microbial community.\n\nNot established: The exact trigger of episodic surface release remains unresolved, and the ecosystem does not directly prove extraterrestrial life."
         }
       ],
       "factBoundary": {
-        "established": "**확인됨:** Blood Falls의 붉은색은 철이 풍부한 고염도 brine이 표면에서 산화하면서 생기며, Taylor Glacier 내부에는 이 brine을 운반하는 hydrologic pathway가 있다. 2026년 연구는 해양 기원의 생물학적 흔적을 더 강하게 지지한다.\n\n**확인되지 않음:** 전체 brine 저장고의 정확한 크기와 연결구조, 개별 분출의 trigger, 시스템의 모든 물과 생물이 동일한 시점부터 완전히 고립됐다는 주장은 확정되지 않았다.",
+        "established": "확인됨: Blood Falls는 iron-rich hypersaline brine discharge이며 subglacial reservoir와 microbial community가 확인돼 있다.\n\n확인되지 않음: episodic surface-release의 exact trigger는 아직 완전히 해결되지 않았고, 이 ecosystem이 외계생명 존재를 직접 입증하지도 않는다.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "salt-02",
+        "microbes-03",
+        "release-04",
+        "analogue-05",
+        "geochem-055"
       ]
     },
     "en": {
-      "headline": "Why “Blood” Flows From an Antarctic Glacier Is Largely Solved—But the Brine’s History Is Not",
-      "hook": "The red color is not blood: iron-rich hypersaline brine oxidizes when it reaches air. The more interesting questions concern how liquid pathways persist inside a cold glacier and how long the brine ecosystem has been isolated.",
+      "headline": "The Red Color Is Explained—Why Is the Timing of Blood Falls Still Complex?",
+      "hook": "The red color comes from iron-rich brine. The deeper puzzle is how and when the isolated reservoir reaches the surface.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "Taylor Glacier 끝에서 붉은 얼음이 반복적으로 자란다",
-          "headingEn": "Red Ice Repeatedly Forms at the Terminus of Taylor Glacier",
-          "textKo": "남극 McMurdo Dry Valleys의 Taylor Glacier 끝에는 붉은 얼음과 진흙이 번지는 작은 유출 지점이 있다. 오래전에는 조류나 광물 등 여러 설명이 거론됐지만 현재 관측은 철이 풍부하고 산소가 적은 고염도 brine이 빙하 내부에서 표면으로 나온다는 설명을 지지한다. 유출은 연속 폭포라기보다 간헐적으로 나타나며, 나온 brine이 얼고 녹는 과정에서 붉은 흔적이 쌓인다.",
-          "textEn": "At the terminus of Taylor Glacier in Antarctica’s McMurdo Dry Valleys, red-stained ice and sediment mark an intermittent outflow. Modern observations support an iron-rich, oxygen-poor hypersaline brine emerging from within the glacier rather than blood or red algae. Each episode can freeze into a red-orange apron."
+          "headingKo": "얼음벽에서 피처럼 붉은 물이 흐르지만 색의 원인은 iron-rich brine이다",
+          "headingEn": "A Blood-Red Flow Emerges From Ice, but the Color Comes From Iron-Rich Brine",
+          "textKo": "Taylor Glacier terminus의 Blood Falls는 iron-rich hypersaline brine이 glacier 아래에서 seep하며 만들어지는 현상이다. NSF는 brine source가 glacier 내부 약 2.5 miles up-glacier에 있을 가능성을 radar data가 지지한다고 설명한다. 붉은색은 초자연 현상이 아니라 iron chemistry와 oxidation이 만든 결과다.",
+          "textEn": "Blood Falls at Taylor Glacier is produced by iron-rich hypersaline brine seeping from beneath the glacier. NSF says radar data place the brine source roughly 2.5 miles up-glacier."
         },
         {
-          "blockId": "b02",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "붉어지는 핵심은 철의 산화다",
-          "headingEn": "The Red Color Comes From Iron Oxidation",
-          "textKo": "빙하 안에서는 철을 포함한 brine이 상대적으로 환원된 상태로 존재할 수 있다. 이 물이 표면에서 대기 산소와 접촉하면 철 화합물이 산화·침전하면서 붉은색과 주황색을 만든다. 즉 “색의 원인”은 현재 과학적으로 상당히 잘 설명되는 부분이다. 미스터리의 중심은 이제 무엇이 붉게 만드는가보다 액체가 어떻게 그렇게 차가운 환경에서 이동하고 언제·왜 분출하는가로 옮겨갔다.",
-          "textEn": "Within the glacier the iron-bearing brine can remain relatively reduced. When it reaches oxygen at the surface, iron compounds oxidize and precipitate, producing red-orange staining. The color itself is therefore well explained; the harder questions concern the liquid pathway and timing of discharge."
-        },
-        {
-          "blockId": "b03",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "레이더는 빙하 안의 brine zone을 직접 추적했다",
-          "headingEn": "Radar Mapped a Brine-Rich Zone Inside the Glacier",
-          "textKo": "2017년 Journal of Glaciology 연구는 radio-echo sounding으로 Blood Falls 상류 빙하 내부에 길게 뻗은 brine-rich zone을 영상화했다. 연구진은 바닥의 염수가 균열 네트워크로 주입되고 수리학적 구배를 따라 종단부로 이동한다고 해석했다. 이 결과는 “빙하 밑 어딘가의 호수에서 신비하게 순간 이동한다”가 아니라 실제 englacial hydrologic system이 존재한다는 물리적 모델을 제공한다.",
-          "textEn": "A 2017 Journal of Glaciology study used radio-echo sounding to map an elongated brine-rich zone upstream of Blood Falls. The authors inferred pressurized subglacial brine entering a crevasse network and being routed toward the terminus by hydraulic gradients, providing a physical englacial hydrologic model."
-        },
-        {
-          "blockId": "b04",
+          "blockId": "salt-02",
           "type": "BACKGROUND",
-          "headingKo": "영하에서도 액체인 이유는 소금과 얼음의 잠열이 함께 작동한다",
-          "headingEn": "Salt and Latent Heat Help Keep the System Liquid Below Freezing",
-          "textKo": "Taylor Glacier의 평균 기온은 담수가 지속적으로 흐르기 어려울 만큼 낮다. 그러나 고농도 염분은 어는점을 낮추고, 일부 물이 얼 때 나오는 잠열은 주변 얼음을 국지적으로 따뜻하게 만든다. 연구는 이 두 효과가 결합돼 차가운 빙하 안에서도 brine pathway가 유지될 수 있음을 보였다. 따라서 “남극에서 액체가 있다” 자체는 초자연 현상이 아니라 열역학과 염분으로 설명할 수 있다.",
-          "textEn": "Taylor Glacier is too cold for an ordinary freshwater drainage system. High salinity depresses the freezing point, while latent heat released as some water freezes can locally warm the ice. The combination can sustain liquid brine pathways without invoking anomalous heat or supernatural processes."
+          "headingKo": "바닷물 기원의 salt가 극저온에서도 liquid brine을 유지하게 한다",
+          "headingEn": "Marine-Derived Salts Help the Brine Remain Liquid in Extreme Cold",
+          "textKo": "NSF는 brine salt가 sea origin을 갖는다고 설명한다. high salinity는 freezing point를 낮추고 permanently cold glacier environment 안에서 liquid water pathway가 유지될 수 있게 한다. ‘얼음 아래 물’이라는 역설은 salinity와 pressure를 함께 보면 풀린다. 오래된 marine heritage가 현재 subglacial chemistry에 남아 있다는 점도 중요한 단서다.",
+          "textEn": "NSF describes the salts as marine-derived. High salinity depresses the freezing point and helps liquid pathways persist within a permanently cold glacier environment."
         },
         {
-          "blockId": "b05",
+          "blockId": "microbes-03",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "2026년 연구는 brine에 오래된 해양 생물학적 흔적이 남았음을 강화했다",
-          "headingEn": "A 2026 Study Strengthened the Case for a Relict Marine Biological Signature",
-          "textKo": "2026년 Nature Geoscience 연구는 Taylor Glacier 종단의 붉은 얼음·진흙·퇴적물에서 해양 기원의 미세진핵생물 조성과 유전적 흔적을 분석했다. 주변 Dry Valleys 시료와 비교했을 때 marine indicator group이 Blood Falls 계통에 집중됐고, 일부는 현재 전사 활동도 보였다. 이는 과거 바닷물이 계곡으로 들어온 뒤 빙하 진전으로 고립됐다는 장기 역사와 잘 맞는다. 다만 “정확히 몇 년 동안 완전히 닫힌 생태계였나”까지 한 숫자로 확정하는 자료는 아니다.",
-          "textEn": "A 2026 Nature Geoscience study found marine-derived micro-eukaryotic signatures concentrated in red-hued ice, mud, and sediment around the Taylor Glacier terminus, with evidence of ongoing transcriptional activity in some groups. This fits a history in which marine water entered the valley and was later isolated by glacial advance, without fixing a single exact isolation age."
+          "headingKo": "빛과 산소가 거의 없는 곳에서도 microbial community가 살아 있다",
+          "headingEn": "A Microbial Community Persists With Little Light or Oxygen",
+          "textKo": "brine 속 microorganisms는 cold, dark, high-salinity environment에서 고립돼 살아왔으며 organic/inorganic carbon과 bedrock nutrients의 chemical energy를 이용한다. Blood Falls가 astrobiology analogue로 중요한 이유는 붉은색보다 이 극한 sub-ice ecosystem 때문이다. 생명체가 sunlight 없이 얼마나 오래 유지될 수 있는지를 실제 Earth environment에서 연구할 수 있다.",
+          "textEn": "Microorganisms in the brine persist in cold, dark, saline isolation and can use organic or inorganic carbon plus chemical energy from the bedrock. This sub-ice ecosystem makes Blood Falls important to astrobiology."
         },
         {
-          "blockId": "b06",
+          "blockId": "release-04",
           "type": "COUNTERARGUMENT",
-          "headingKo": "“고대 바닷물”과 “수백만 년 동안 변하지 않은 물”은 같은 말이 아니다",
-          "headingEn": "Ancient Marine Origin Does Not Mean an Unchanged Time Capsule",
-          "textKo": "brine의 해양 기원과 오래된 고립을 말할 때 흔히 “수백만 년 된 물이 그대로 갇혀 있다”는 표현으로 단순화된다. 실제 시스템은 지하수·빙하 변형·염류 이동·균열 주입을 포함한 동적인 환경이다. 화학·동위원소·생물학적 signature가 오래된 해양 기원을 지지해도 현재 Blood Falls에서 나오는 모든 분자가 같은 시점부터 완전히 닫혀 있었다고 볼 근거는 없다.",
-          "textEn": "The phrase “ancient seawater” is easily overextended into an image of a perfectly sealed time capsule. The system is dynamic, involving groundwater, glacier deformation, salts, and fracture injection. Marine chemical and biological signatures support an ancient origin without implying that every molecule has remained unchanged since one date."
+          "headingKo": "색과 reservoir는 설명됐지만 왜 특정 시점에 brine이 표면으로 나오는지는 완전히 닫히지 않았다",
+          "headingEn": "The Color and Reservoir Are Understood, but the Release Trigger Is Not Fully Closed",
+          "textKo": "NSF는 fluid-release trigger가 still unclear하다고 명시한다. later research는 winter release도 관찰했고 glacier crack opening·pressure cycle 같은 mechanisms를 연구한다. ‘왜 빨간가’와 ‘왜 지금 흘러나오는가’는 서로 다른 문제다. solved mystery와 active mystery가 같은 site에 동시에 존재하는 셈이다.",
+          "textEn": "NSF explicitly notes that the trigger of fluid release remains unclear. Later work has documented winter releases and investigated fracture opening and pressure cycles."
         },
         {
-          "blockId": "b07",
-          "type": "HYPOTHESIS",
-          "headingKo": "남은 질문은 분출 타이밍과 저장고·경로의 세부 구조다",
-          "headingEn": "The Remaining Questions Concern Discharge Timing and Detailed Plumbing",
-          "textKo": "왜 brine이 다른 지점이 아니라 현재 Blood Falls 위치에서 주로 나오고, 왜 어떤 시기에는 강하게 분출하는지는 여전히 세부 모델이 필요하다. 연구는 압력과 crevasse, 빙하 변형, 수리학적 구배를 제시하지만 현장 접근이 어려워 전체 저장고를 직접 시추·지도화하기 어렵다. 이 때문에 Blood Falls는 “붉은 원인 미스터리”에서 “극한 빙하 수문·생태 시스템” 연구 대상으로 바뀌었다.",
-          "textEn": "Why discharge concentrates at the present outlet and why episodes vary still requires detailed models of pressure, fractures, glacier motion, and hydraulic gradients. The feature has shifted from a mystery about redness to a research site for extreme glacial hydrology and microbial ecology."
+          "blockId": "analogue-05",
+          "type": "AFTERMATH",
+          "headingKo": "화성 같은 icy world를 생각하게 하지만 외계생명 증거는 아니다",
+          "headingEn": "It Is an Icy-World Analogue, Not Evidence of Extraterrestrial Life",
+          "textKo": "cold, salty, dark water에서 microbes가 유지된다는 사실은 Mars polar ice나 other icy worlds의 habitability question에 natural laboratory를 제공한다. Earth analogue가 생존가능성을 보여줄 수는 있어도 다른 planet에 실제 life가 있다는 증거는 아니다. analogy와 detection을 구분해야 한다.",
+          "textEn": "Microbes surviving in cold, salty, dark water make Blood Falls a useful analogue for Mars or other icy worlds. An Earth analogue can demonstrate possibility, not actual extraterrestrial life."
         },
         {
-          "blockId": "b08",
+          "blockId": "geochem-055",
+          "type": "BACKGROUND",
+          "headingKo": "철이 보인다는 사실은 reservoir chemistry를 추적하는 단서이기도 하다",
+          "headingEn": "The Iron Signature Also Helps Trace Reservoir Chemistry",
+          "textKo": "Blood Falls의 iron staining은 단순한 색 효과가 아니라 brine이 산소와 거의 접촉하지 않은 subglacial 환경에서 reduced iron을 운반해왔다는 단서다. surface에 도달한 뒤 oxidation이 진행되면서 붉은 침전이 보인다. 이 geochemical transition은 reservoir와 surface environment가 서로 얼마나 다른지를 보여준다.",
+          "textEn": "The iron staining is not only a visual effect; it reflects brine carrying reduced iron from an oxygen-poor subglacial environment and oxidizing at the surface. That transition reveals how different the reservoir is from the exposed glacier terminus."
+        },
+        {
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** Blood Falls의 붉은색은 철이 풍부한 고염도 brine이 표면에서 산화하면서 생기며, Taylor Glacier 내부에는 이 brine을 운반하는 hydrologic pathway가 있다. 2026년 연구는 해양 기원의 생물학적 흔적을 더 강하게 지지한다.\n\n**확인되지 않음:** 전체 brine 저장고의 정확한 크기와 연결구조, 개별 분출의 trigger, 시스템의 모든 물과 생물이 동일한 시점부터 완전히 고립됐다는 주장은 확정되지 않았다.",
-          "textEn": "**Established:** Blood Falls is colored by oxidation of iron-rich hypersaline brine, and Taylor Glacier contains hydrologic pathways that route brine toward the terminus. A 2026 study strengthens evidence for a marine-derived biological legacy.\n\n**Not established:** The exact geometry of the full reservoir, the trigger for each discharge episode, and the idea that all water and organisms have been perfectly isolated since one date remain unresolved."
+          "textKo": "확인됨: Blood Falls는 iron-rich hypersaline brine discharge이며 subglacial reservoir와 microbial community가 확인돼 있다.\n\n확인되지 않음: episodic surface-release의 exact trigger는 아직 완전히 해결되지 않았고, 이 ecosystem이 외계생명 존재를 직접 입증하지도 않는다.",
+          "textEn": "Established: Blood Falls is an iron-rich hypersaline brine discharge with a documented subglacial reservoir and microbial community.\n\nNot established: The exact trigger of episodic surface release remains unresolved, and the ecosystem does not directly prove extraterrestrial life."
         }
       ],
       "factBoundary": {
-        "established": "**Established:** Blood Falls is colored by oxidation of iron-rich hypersaline brine, and Taylor Glacier contains hydrologic pathways that route brine toward the terminus. A 2026 study strengthens evidence for a marine-derived biological legacy.\n\n**Not established:** The exact geometry of the full reservoir, the trigger for each discharge episode, and the idea that all water and organisms have been perfectly isolated since one date remain unresolved.",
+        "established": "Established: Blood Falls is an iron-rich hypersaline brine discharge with a documented subglacial reservoir and microbial community.\n\nNot established: The exact trigger of episodic surface release remains unresolved, and the ecosystem does not directly prove extraterrestrial life.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "salt-02",
+        "microbes-03",
+        "release-04",
+        "analogue-05",
+        "geochem-055"
       ]
     }
   },
   "claims": [
     {
-      "claimId": "blood-falls-C1",
+      "claimId": "BLOOD-C1",
       "status": "CONFIRMED",
-      "statementKo": "붉은색은 철이 풍부한 brine이 산소와 만나 산화·침전하면서 생긴다.",
-      "statementEn": "The red color forms when iron-rich brine meets oxygen and iron compounds oxidize and precipitate.",
+      "statementKo": "Blood Falls는 iron-rich hypersaline brine discharge다.",
+      "statementEn": "Blood Falls is an iron-rich hypersaline brine discharge.",
       "sourceRefs": [
-        "JOGLAC_2017"
+        "BLOOD_NSF"
       ]
     },
     {
-      "claimId": "blood-falls-C2",
+      "claimId": "BLOOD-C2",
       "status": "CONFIRMED",
-      "statementKo": "Taylor Glacier에는 Blood Falls로 이어지는 englacial/subglacial brine hydrologic system이 있다.",
-      "statementEn": "Taylor Glacier hosts an englacial/subglacial brine hydrologic system feeding Blood Falls.",
+      "statementKo": "subglacial microbial community가 확인돼 있다.",
+      "statementEn": "A subglacial microbial community is documented.",
       "sourceRefs": [
-        "JOGLAC_2017",
-        "NATURE_GW_2015"
+        "BLOOD_NSF"
       ]
     },
     {
-      "claimId": "blood-falls-C3",
-      "status": "PARTIALLY_RESOLVED",
-      "statementKo": "2026년 생물학 자료는 오래된 해양 기원 signature를 지지하지만 정확한 고립 연대와 모든 경로를 확정하지 않는다.",
-      "statementEn": "2026 biological evidence supports a relict marine signature but does not fix one exact isolation age or all flow paths.",
+      "claimId": "BLOOD-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "surface-release의 exact trigger는 완전히 확정되지 않았다.",
+      "statementEn": "The exact trigger of surface releases remains unresolved.",
       "sourceRefs": [
-        "NATGEO_2026"
+        "BLOOD_NSF"
       ]
     }
   ],
   "sources": [
     {
-      "sourceId": "NATURE_GW_2015",
-      "title": "Deep groundwater and potential subsurface habitats beneath an Antarctic dry valley",
-      "publisher": "Nature Communications",
-      "url": "https://www.nature.com/articles/ncomms7831",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "JOGLAC_2017",
-      "title": "An englacial hydrologic system of brine within a cold glacier: Blood Falls",
-      "publisher": "Journal of Glaciology",
-      "url": "https://www.cambridge.org/core/journals/journal-of-glaciology/article/an-englacial-hydrologic-system-of-brine-within-a-cold-glacier-blood-falls-mcmurdo-dry-valleys-antarctica/B5C197906AD54619AEA26068AD92989A",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "NATGEO_2026",
-      "title": "Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system",
-      "publisher": "Nature Geoscience",
-      "url": "https://www.nature.com/articles/s41561-026-02054-6",
-      "sourceType": "SOURCE_BOUNDED"
+      "sourceId": "BLOOD_NSF",
+      "title": "Science on the Ice: Blood Falls",
+      "publisher": "U.S. National Science Foundation",
+      "url": "https://nsf-gov-resources.nsf.gov/files/NSF-Science-on-the-Ice-fifth-edition.pdf",
+      "sourceType": "NSF_OFFICIAL"
     }
   ],
   "visuals": [
     {
-      "assetId": "blood-falls-mechanism-v01",
+      "assetId": "blood-v01",
       "role": "MECHANISM_DIAGRAM",
       "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides.",
-      "captionEn": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides.",
-      "altKo": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides.",
-      "altEn": "subglacial brine → englacial fracture network → surface discharge → oxygen contact → red iron oxides.",
+      "captionKo": "subglacial salty brine → iron-rich flow → surface oxidation → red staining.",
+      "captionEn": "Subglacial salty brine → iron-rich flow → surface oxidation → red staining.",
+      "altKo": "subglacial salty brine → iron-rich flow → surface oxidation → red staining.",
+      "altEn": "Subglacial salty brine → iron-rich flow → surface oxidation → red staining.",
       "sourceRefs": [
-        "JOGLAC_2017"
+        "BLOOD_NSF"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "blood-falls__mechanism-v01__ko.png",
-          "sha256": "f299cb63d70aa19c8d00c28d06c17c1fb92d18a1181aaa09d3652149f5212b64",
+          "fileName": "blood-falls__v01__ko.png",
+          "sha256": "40a75a092af47d81c9a1667523a0bf1d02c0cccf8479f1d554db0069f94976fa",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "blood-falls__mechanism-v01__en.png",
-          "sha256": "3a87834611646a599f1edc44479eedf52be2a3eb9c89b3017e10b7cc2362e96a",
+          "fileName": "blood-falls__v01__en.png",
+          "sha256": "1f296db67d2f122c4d595fff848668e51b8166ebb71377fe5f599da516853c71",
           "width": 1600,
           "height": 900
         }
@@ -287,31 +246,30 @@
       "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
     },
     {
-      "assetId": "blood-falls-history-v02",
-      "role": "EVIDENCE_CHAIN",
-      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "assetId": "blood-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "ancient marine input → glacial isolation → hypersaline brine → present microbial/chemical signatures.",
-      "captionEn": "ancient marine input → glacial isolation → hypersaline brine → present microbial/chemical signatures.",
-      "altKo": "ancient marine input → glacial isolation → hypersaline brine → present microbial/chemical signatures.",
-      "altEn": "ancient marine input → glacial isolation → hypersaline brine → present microbial/chemical signatures.",
+      "captionKo": "color mechanism / microbial ecosystem / unresolved release trigger를 분리.",
+      "captionEn": "Separate color mechanism, microbial ecosystem, and unresolved release trigger.",
+      "altKo": "color mechanism / microbial ecosystem / unresolved release trigger를 분리.",
+      "altEn": "Separate color mechanism, microbial ecosystem, and unresolved release trigger.",
       "sourceRefs": [
-        "NATURE_GW_2015",
-        "NATGEO_2026"
+        "BLOOD_NSF"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "blood-falls__history-v02__ko.png",
-          "sha256": "bae58f721b2e9fce7e5f202286a7609f8cbd7427a58b9fe7bca9456e488a9ffd",
+          "fileName": "blood-falls__v02__ko.png",
+          "sha256": "8809a752aa10cae4aebdd0a432c324c5b935d323f893a9083b99b2bb9ca03d72",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "blood-falls__history-v02__en.png",
-          "sha256": "c32bc90769f86da6e6e95de4503d4c3ecba4afba519dba40978a8e22903c5059",
+          "fileName": "blood-falls__v02__en.png",
+          "sha256": "997d47ecddb383cb18663d21efe586e30b85d34060395cfb1def66994b4b84bd",
           "width": 1600,
           "height": 900
         }
@@ -323,10 +281,9 @@
     }
   ],
   "metadata": {
-    "primaryGenre": "Nature / Science",
+    "primaryGenre": "Strange Science / Natural Anomaly",
     "secondaryGenres": [
-      "Glaciology",
-      "Microbial Ecology"
+      "Discovery / Taxonomy"
     ],
     "countries": [
       "Antarctica"
@@ -335,34 +292,33 @@
       "McMurdo Dry Valleys"
     ],
     "places": [
-      "Taylor Glacier",
-      "Blood Falls",
-      "Lake Bonney"
+      {
+        "name": "Taylor Glacier / Blood Falls",
+        "role": "site"
+      }
     ],
     "people": [],
-    "organizations": [],
-    "dateRange": {
-      "start": "geologic past",
-      "end": "2026 research",
-      "precision": "scientific"
-    },
-    "era": "Modern Antarctic research",
-    "resolution": "MECHANISM_RESOLVED_SYSTEM_DETAILS_OPEN",
-    "searchAliases": [
-      "Blood Falls",
-      "블러드 폴스",
-      "Taylor Glacier red falls"
+    "organizations": [
+      "National Science Foundation"
     ],
-    "relatedCases": [
-      "lake-vostok"
-    ]
+    "dateRange": {
+      "start": "ancient subglacial system",
+      "end": "present",
+      "precision": "modern scientific observation"
+    },
+    "era": "Modern polar science",
+    "resolution": "COLOR_AND_BRINE_SOURCE_EXPLAINED_RELEASE_TRIGGER_PARTLY_UNRESOLVED",
+    "searchAliases": [
+      "Blood Falls Antarctica"
+    ],
+    "relatedCases": []
   },
   "quality": {
-    "koBodyChars": 1883,
-    "enBodyWords": 388,
-    "meaningfulBlockCount": 8,
+    "koBodyChars": 1689,
+    "enBodyWords": 212,
+    "meaningfulBlockCount": 7,
     "visualPlacementCount": 2,
-    "sourceCount": 3,
+    "sourceCount": 1,
     "claimCount": 3,
     "factBoundaryPass": true,
     "koPass": true,
@@ -375,8 +331,8 @@
     "randomGatePass": false
   },
   "mediaPackage": {
-    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
-    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20_MANIFEST_v1.0.json",
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH22",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH22_MANIFEST_v1.0.json",
     "assetGroups": 2,
     "localizedFiles": 4,
     "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",

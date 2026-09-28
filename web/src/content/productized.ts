@@ -3,7 +3,7 @@ import { productizedLoaders } from "./productized-loaders.generated";
 import type { CaseRecord, Locale, Localized } from "./schema";
 import { countryLabel } from "./taxonomy";
 
-type LocaleCopy = { headline: string; hook: string; factBoundary: { established: string; notEstablished: string }; blocks: ProductizedBlock[] };
+type LocaleCopy = { headline: string; hook: string; factBoundary?: { established: string; notEstablished: string }; blocks: ProductizedBlock[] };
 export type ProductizedBlock = { blockId: string; type: string; headingKo: string; headingEn: string; textKo: string; textEn: string };
 export type ProductizedSource = { sourceId: string; title: string; publisher: string; url: string; sourceType: string };
 export type ProductizedClaim = { claimId: string; status: string; statementKo: string; statementEn: string; sourceRefs: string[] };
@@ -19,7 +19,7 @@ export type ProductizedArticle = {
   publication: { tier: string; state: string; randomEligible: boolean; releaseEligible: boolean };
   localizedCopy: Record<Locale, LocaleCopy>;
   claims: ProductizedClaim[]; sources: ProductizedSource[]; visuals: ProductizedVisual[];
-  metadata: { primaryGenre: string; secondaryGenres: string[]; countries: string[]; regions: string[]; places: string[]; people: string[]; era: string; resolution: string; relatedCases: string[]; dateRange: { start?: string; end?: string } };
+  metadata: { primaryGenre: string; secondaryGenres?: string[]; countries?: string[]; regions?: string[]; places?: Array<string | { name: string }>; people?: Array<string | { name: string }>; era?: string; resolution: string; relatedCases?: string[]; dateRange?: { start?: string; end?: string } };
 };
 type Summary = (typeof articleIndex.items)[number];
 const entityName = (value: string | { name: string }): string => typeof value === "string" ? value : value.name;

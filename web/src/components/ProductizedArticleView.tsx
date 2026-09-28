@@ -64,7 +64,7 @@ function StoryBlock({ block, locale, label }: { block: ProductizedBlock; locale:
 
 function RelatedStories({ article, locale }: { article: ProductizedArticle; locale: Locale }) {
   const known = new Set(cases.map((item) => item.slug));
-  const supplied = article.metadata.relatedCases.filter((slug) => known.has(slug));
+  const supplied = (article.metadata.relatedCases ?? []).filter((slug) => known.has(slug));
   const discovery = productizedItems.filter((item) => item.genre === article.metadata.primaryGenre && item.canonicalId !== article.canonicalId).map((item) => item.canonicalId);
   const slugs = [...new Set([...supplied, ...discovery])].slice(0, 3);
   return <div className="rabbit-grid">{slugs.map((slug) => {
@@ -80,20 +80,22 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
   const inlines = article.visuals.filter((v) => v !== hero);
   const story = copy.blocks.filter((block) => block.type !== "FACT_BOUNDARY" && block.type !== "AFTERMATH");
   const boundary = copy.blocks.filter((block) => block.type === "FACT_BOUNDARY");
-  const combinedBoundary = copy.factBoundary.notEstablished === "See final fact boundary.";
+  const boundarySource = copy.factBoundary?.established ?? (locale === "ko" ? boundary[0]?.textKo : boundary[0]?.textEn) ?? "";
+  const combinedBoundary = !copy.factBoundary || copy.factBoundary.notEstablished === "See final fact boundary.";
+  const marker = locale === "ko" ? "확인되지 않음" : "Not established";
   const boundaryParts = combinedBoundary
-    ? copy.factBoundary.established.split(`\n\n**${locale === "ko" ? "확인되지 않음" : "Not established"}:** `)
+    ? boundarySource.split(new RegExp(`\\n\\n(?:\\*\\*)?${marker}(?:\\*\\*)?:\\s*(?:\\*\\*)?`))
     : [];
   const establishedText = boundaryParts.length === 2
-    ? boundaryParts[0].replace(/^\*\*(?:확인됨|Established):\*\*\s*/, "")
-    : copy.factBoundary.established;
-  const notEstablishedText = boundaryParts.length === 2 ? boundaryParts[1] : copy.factBoundary.notEstablished;
+    ? boundaryParts[0].replace(/^(?:\*\*)?(?:확인됨|Established)(?:\*\*)?:\s*(?:\*\*)?/, "")
+    : boundarySource;
+  const notEstablishedText = boundaryParts.length === 2 ? boundaryParts[1] : copy.factBoundary?.notEstablished ?? "";
   const separateBoundary = boundary.filter((block) => !(
-    boundaryParts.length === 2 && (locale === "ko" ? block.textKo : block.textEn) === copy.factBoundary.established
+    boundaryParts.length === 2 && (locale === "ko" ? block.textKo : block.textEn) === boundarySource
   ));
   const aftermath = copy.blocks.filter((block) => block.type === "AFTERMATH");
   const visualSlots = inlines.map((_, i) => Math.max(0, Math.min(story.length - 1, Math.floor((i + 1) * story.length / (inlines.length + 1)))));
-  const country = article.metadata.countries.map((name) => countryLabel(name, locale)).join(", ") || (locale === "ko" ? "장소 미상" : "Place unknown");
+  const country = (article.metadata.countries ?? []).map((name) => countryLabel(name, locale)).join(", ") || (locale === "ko" ? "장소 미상" : "Place unknown");
   return <article className="case-page productized-page" data-canonical-id={article.canonicalId}>
     <ReadingProgressTracker canonicalId={article.canonicalId} locale={locale}/>
     <div className="article-toolbar"><div className="article-toolbar-inner">
@@ -103,7 +105,7 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
     <header className="case-hero">
       <div className="case-hero-copy">
         <p className="kicker">{locale === "ko" ? "연구 미리보기 · 출시 전 검증 중" : "Research preview · release review pending"}</p>
-        <div className="eyebrow"><span>{genreLabel(article.metadata.primaryGenre, locale)}</span><span>{country}</span><span>{article.metadata.dateRange.start ?? article.metadata.era}</span></div>
+        <div className="eyebrow"><span>{genreLabel(article.metadata.primaryGenre, locale)}</span><span>{country}</span><span>{article.metadata.dateRange?.start ?? article.metadata.era ?? ""}</span></div>
         <p className="u2-case-title">{title}</p><h1>{copy.headline}</h1><p className="case-subtitle">{copy.hook}</p>
         <div className="verification-line"><span>{locale === "ko" ? "근거와 출처 포함" : "Evidence and sources included"}</span></div>
       </div>

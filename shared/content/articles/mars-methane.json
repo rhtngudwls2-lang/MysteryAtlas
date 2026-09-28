@@ -5,21 +5,13 @@
   "identity": {
     "canonicalTitleKo": "화성 메탄 미스터리",
     "canonicalTitleEn": "Mars Methane Mystery",
-    "aliasesKo": [
-      "Mars methane",
-      "화성 메탄",
-      "Curiosity methane"
-    ],
-    "aliasesEn": [
-      "Mars methane",
-      "화성 메탄",
-      "Curiosity methane"
-    ],
+    "aliasesKo": [],
+    "aliasesEn": [],
     "legacyIds": []
   },
   "publication": {
     "tier": "COMPACT_FILE",
-    "editorialFamily": "SPACE_FILE",
+    "editorialFamily": "DISCOVERY_FILE",
     "state": "MEDIA_READY",
     "randomEligible": false,
     "releaseEligible": false,
@@ -32,253 +24,209 @@
   },
   "localizedCopy": {
     "ko": {
-      "headline": "Curiosity는 메탄을 맡는데 궤도선은 못 본다 — 화성의 두 관측이 왜 충돌하나",
-      "hook": "Gale Crater의 Curiosity는 반복적으로 메탄 변화를 측정했지만 ESA의 Trace Gas Orbiter는 전지구 대기에서 같은 신호를 찾지 못했다. 관측은 실제 데이터지만, 메탄의 공급원과 빠른 소멸 메커니즘은 아직 닫히지 않았다.",
+      "headline": "Curiosity는 메탄을 맡는데 왜 화성 전체에서는 그 흔적이 맞지 않을까",
+      "hook": "화성 methane의 미스터리는 ‘있다/없다’가 아니라 local surface detection과 wider atmosphere를 동시에 설명하는 source·sink model이 아직 없다는 데 있다.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "Gale Crater 지표 가까이에서 메탄이 반복적으로 검출됐다",
-          "headingEn": "Methane Has Repeatedly Been Detected Near the Surface at Gale Crater",
-          "textKo": "Curiosity rover의 SAM 장비는 Gale Crater에서 매우 낮은 농도의 메탄을 측정해 왔다. NASA가 정리한 패턴에는 계절 변화, 갑작스러운 spike, 그리고 밤에 더 잘 나타나고 낮에는 약해지는 시간대 차이가 포함된다. 중요한 점은 rover가 화성 전체 대기를 대표하는 하나의 고정값을 측정하는 것이 아니라 특정 장소·시간의 지표 근처 공기를 반복 채취한다는 것이다.",
-          "textEn": "Curiosity’s SAM instrument has repeatedly measured very low methane concentrations at Gale Crater, including seasonal variation, occasional spikes, and a tendency for stronger nighttime detections. The rover samples local near-surface air rather than a single value representative of the entire Martian atmosphere."
+          "headingKo": "Curiosity는 Gale Crater에서 methane을 반복해서 검출했지만 global picture는 맞지 않는다",
+          "headingEn": "Curiosity Repeatedly Detects Methane in Gale Crater, but the Global Picture Does Not Fit",
+          "textKo": "NASA는 Curiosity rover의 SAM instrument가 Gale Crater surface near-ground atmosphere에서 trace methane을 지속적으로 검출해왔다고 설명한다. background level은 계절에 따라 변하고 때때로 큰 spike가 나타난다. 문제는 orbital-scale observations와 global atmospheric model이 같은 methane story를 깔끔하게 재현하지 못한다는 점이다. 즉 ‘메탄이 있나 없나’보다 local detection과 wider atmosphere를 어떻게 동시에 설명할지가 핵심이다.",
+          "textEn": "NASA reports that Curiosity's SAM instrument repeatedly detects trace methane near the surface of Gale Crater, with seasonal background variation and occasional spikes. The puzzle is how to reconcile those local detections with the broader Martian atmosphere."
         },
         {
-          "blockId": "b02",
-          "type": "COUNTERARGUMENT",
-          "headingKo": "Trace Gas Orbiter는 왜 거의 아무것도 보지 못하나",
-          "headingEn": "Why Does the Trace Gas Orbiter See Almost Nothing?",
-          "textKo": "ESA-Roscosmos Trace Gas Orbiter는 훨씬 넓은 대기를 원격 관측하지만 지속적인 전지구 메탄을 검출하지 못했다. 같은 행성에서 한 장비는 신호를 보고 다른 장비는 못 보는 상황이 생긴 것이다. 단순한 “누가 틀렸다”로 끝낼 수 없는 이유는 두 장비의 고도·시간·관측 방식과 감도가 다르기 때문이다. 관측 geometry 자체가 서로 다른 대기층과 시간대를 본다.",
-          "textEn": "ESA’s Trace Gas Orbiter surveys much broader portions of the atmosphere and has not detected a persistent global methane signal. The instruments observe different altitudes, times, and geometries, so the disagreement cannot be reduced to one instrument simply being wrong."
-        },
-        {
-          "blockId": "b03",
+          "blockId": "season-02",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "밤에는 지표 가까이 모이고 낮에는 희석될 수 있다는 설명이 시험됐다",
-          "headingEn": "A Nighttime Accumulation and Daytime Dilution Model Has Been Tested",
-          "textKo": "JPL 연구진은 밤에 대기 혼합이 약해지면 지표에서 나온 소량의 메탄이 Gale Crater 바닥 가까이에 축적되고, 낮에 대류가 강해지면 더 큰 대기 부피로 희석될 수 있다고 제안했다. Curiosity의 낮 시간 측정이 거의 0에 가까워진 결과는 이 시간대 모델과 양립한다. 이 설명은 rover와 orbiter의 차이를 일부 완화하지만, 메탄이 어디서 만들어지고 왜 대기에서 예상보다 빨리 사라지는지까지 해결하지는 않는다.",
-          "textEn": "JPL researchers proposed that weak nighttime mixing lets locally released methane accumulate near the crater floor, while daytime convection dilutes it into a much larger atmospheric volume. Daytime Curiosity measurements near zero are compatible with that model, but it does not identify the source or fully explain the apparent rapid removal."
+          "headingKo": "background methane은 계절에 따라 움직이고 spike는 매년 똑같이 반복되지 않는다",
+          "headingEn": "Background Methane Varies Seasonally While Spikes Do Not Repeat Identically",
+          "textKo": "Curiosity의 long seasonal record는 background methane이 warm season에 높아지는 경향을 보여준다. 하지만 큰 spike는 매년 같은 시점에 같은 크기로 나타나는 simple seasonal phenomenon이 아니다. 이 차이는 하나의 steady atmospheric source보다 local release, trapping, transport가 복합적으로 작용할 가능성을 열어둔다. 단발성 measurement error가 아니라 여러 Martian year에 걸친 pattern이라는 점이 중요하다.",
+          "textEn": "Curiosity's long record shows a seasonal tendency in background methane, while large spikes do not recur identically each year. That pattern points toward local release, trapping or transport rather than one simple steady atmospheric source."
         },
         {
-          "blockId": "b04",
+          "blockId": "sources-03",
           "type": "HYPOTHESIS",
-          "headingKo": "2024년 NASA 연구는 소금으로 봉인된 토양 crust를 후보 메커니즘으로 제시했다",
-          "headingEn": "NASA’s 2024 Work Proposed Salt-Sealed Soil as a Possible Release Mechanism",
-          "textKo": "실험실 연구와 화성 환경 모델을 바탕으로 NASA 과학자들은 지표 아래에서 생성·저장된 메탄이 perchlorate 계열 소금이 굳힌 얕은 crust 아래 갇힐 수 있다는 아이디어를 검토했다. 계절 가열이나 rover 바퀴 같은 기계적 균열이 seal을 깨면 소량이 새어 나올 수 있다는 것이다. 이것은 관측 패턴을 설명하려는 물리적 가설이지, Gale Crater의 실제 메탄 저장고를 직접 시추해 확인한 사실은 아니다.",
-          "textEn": "NASA scientists have explored a model in which methane produced or stored below the surface becomes trapped beneath a shallow salt-cemented crust. Seasonal heating or mechanical cracking could release small amounts. This is a physically testable hypothesis, not a directly drilled reservoir observed at Gale Crater."
+          "headingKo": "geology가 유력한 source family지만 biology가 논리적으로 자동배제되는 것도 아니다",
+          "headingEn": "Geology Is a Leading Source Family, While Biology Is Not Logically Excluded",
+          "textKo": "Earth에서는 methane의 상당부분이 biology와 연결되지만 water-rock reactions, ancient trapped gas, subsurface chemistry 같은 abiotic process도 methane을 만들 수 있다. NASA는 현재 Mars에서 convincing sign of present or ancient life를 찾지 못했다고 명시한다. 따라서 methane detection은 source question을 만든 것이지 biological origin을 확정한 것이 아니다.",
+          "textEn": "Methane on Earth often has biological sources, but abiotic water-rock reactions, trapped ancient gas and subsurface chemistry can also produce it. NASA says convincing signs of current or ancient life have not been found on Mars."
         },
         {
-          "blockId": "b05",
-          "type": "BACKGROUND",
-          "headingKo": "메탄은 생명 신호가 될 수 있지만 생명만 만드는 분자는 아니다",
-          "headingEn": "Methane Can Be Biological, but It Is Not Uniquely Biological",
-          "textKo": "지구에서는 많은 메탄이 생물학적 과정에서 생기지만 물-암석 반응, 열적 분해, 오래된 유기물 등 비생물학적 과정도 메탄을 만든다. 따라서 화성 메탄이 확인된다고 해도 곧바로 “현재 생명체” 증거가 되는 것은 아니다. 출처를 가르려면 동위원소 비율, 동반 기체, 지질 맥락 같은 추가 정보가 필요하지만 현재 Curiosity의 낮은 농도 자료만으로는 결정적 구분이 어렵다.",
-          "textEn": "On Earth much methane is biological, but water-rock reactions, thermal processes, and degradation of ancient organics can also produce it. Detecting methane on Mars would therefore not by itself establish present life; isotopes, companion gases, and geological context would be needed to distinguish sources."
+          "blockId": "sink-04",
+          "type": "TURNING_POINT",
+          "headingKo": "왜 local methane이 오래 global atmosphere에 남지 않는지도 별도 puzzle이다",
+          "headingEn": "Why Local Methane Does Not Persist Globally Is a Separate Puzzle",
+          "textKo": "NASA 2024 discussion은 methane이 night에 near-surface layer에 축적됐다가 daytime atmospheric mixing으로 희석될 가능성과 surface sealing/release mechanism을 검토한다. local source를 설명해도 methane이 빠르게 사라지거나 orbital measurement에서 거의 보이지 않는 이유를 같이 설명해야 한다. 어디서 나오나와 어디로 사라지나가 동시에 열린 문제다.",
+          "textEn": "NASA's 2024 discussion considers nighttime accumulation near the surface, daytime mixing, and possible subsurface sealing and release mechanisms. Explaining the source alone is not enough; the rapid loss or dilution must also fit the observations."
         },
         {
-          "blockId": "b06",
+          "blockId": "life-05",
           "type": "COUNTERARGUMENT",
-          "headingKo": "“메탄 spike = 지하 생명 활동”이라는 해석은 데이터보다 앞서간다",
-          "headingEn": "A Methane Spike Is Not Evidence of Underground Life by Itself",
-          "textKo": "짧은 spike는 흥미롭지만 작은 농도에서 국지적 transport와 계측 조건의 영향을 크게 받을 수 있다. spike가 반복되고 지질 위치와 연결되더라도 biological source와 geological source를 분리하려면 독립 검증이 필요하다. NASA도 메탄의 생물학적·비생물학적 가능성을 함께 열어두고 있다. Mystery Atlas에서는 “측정된 현상”과 “원인 해석”을 같은 증거 등급으로 취급하지 않는다.",
-          "textEn": "A short methane spike is intriguing but can be strongly affected by local transport and measurement conditions at such low concentrations. Even repeatable spikes would need independent evidence to distinguish biological from geological sources. The measured signal and its interpretation must remain separate evidence layers."
+          "headingKo": "methane anomaly를 ‘생명 signal’로 바로 바꾸면 evidence 단계를 건너뛴다",
+          "headingEn": "Calling the Methane a Life Signal Skips Several Evidentiary Steps",
+          "textKo": "Curiosity는 living organism을 직접 본 것이 아니라 methane molecule concentration을 측정했다. biological source를 말하려면 isotopic signature, co-occurring chemistry, reproducible spatial relation 등 추가 evidence가 필요하다. 현재 source가 완전히 설명되지 않았다는 사실은 biology를 증명하지 않고, 반대로 특정 geology mechanism 하나가 확정됐다는 뜻도 아니다.",
+          "textEn": "Curiosity measured methane concentration, not organisms. A biological claim would require additional evidence such as isotopic, chemical or spatial signatures. An unresolved source is not proof of life."
         },
         {
-          "blockId": "b07",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "핵심 난제는 생성보다 “빠른 제거”일 수도 있다",
-          "headingEn": "The Hard Problem May Be Removal as Much as Production",
-          "textKo": "화성 대기에서 메탄이 통상적인 광화학 반응만 따른다면 더 오래 살아야 한다는 모델과, 국지적으로 나타났다 빠르게 사라지는 관측 사이에는 긴장이 있다. 먼지 표면 반응이나 산화제, 지표 흡착 같은 추가 sink가 거론되지만 아직 하나의 메커니즘으로 확정되지 않았다. 따라서 “누가 메탄을 만들었나”만이 아니라 “왜 상층 대기로 퍼지기 전에 사라지는가”가 동일하게 중요한 질문이다.",
-          "textEn": "Standard photochemical expectations can allow methane to survive longer than the local appearance-and-disappearance pattern suggests. Extra sinks involving dust surfaces, oxidants, or adsorption have been proposed, but none is established as the complete explanation. The removal problem matters as much as the production problem."
-        },
-        {
-          "blockId": "b08",
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** Curiosity는 Gale Crater 지표 가까이에서 낮은 농도의 메탄과 시간·계절 변동을 반복 측정했고, Trace Gas Orbiter는 광범위한 대기에서 지속적 메탄을 확인하지 못했다. 시간대별 혼합 차이는 두 관측의 일부를 조정할 수 있다.\n\n**확인되지 않음:** 메탄의 실제 지하 공급원, 생물학적 기여 여부, 빠른 제거 메커니즘, 모든 spike의 원인이 하나인지 여부는 확정되지 않았다.",
-          "textEn": "**Established:** Curiosity has repeatedly measured low methane concentrations and temporal/seasonal variability near the surface at Gale Crater, while the Trace Gas Orbiter has not found persistent methane across the broader atmosphere. Time-of-day mixing can reconcile part of the difference.\n\n**Not established:** The subsurface source, any biological contribution, the rapid removal mechanism, and whether all spikes share one cause remain unresolved."
+          "textKo": "확인됨: Curiosity SAM은 Gale Crater에서 trace methane, seasonal background variation, occasional spikes를 반복측정했다. NASA는 local subsurface/sealing/mixing models를 계속 검토하고 있다.\n\n확인되지 않음: exact methane source, rapid sink/transport mechanism, biological contribution은 확정되지 않았다.",
+          "textEn": "Established: Curiosity SAM repeatedly measures trace methane, seasonal background variation and occasional spikes in Gale Crater, while NASA continues to test local subsurface, sealing and mixing models.\n\nNot established: The exact methane source, rapid sink or transport mechanism, and any biological contribution remain unresolved."
         }
       ],
       "factBoundary": {
-        "established": "**확인됨:** Curiosity는 Gale Crater 지표 가까이에서 낮은 농도의 메탄과 시간·계절 변동을 반복 측정했고, Trace Gas Orbiter는 광범위한 대기에서 지속적 메탄을 확인하지 못했다. 시간대별 혼합 차이는 두 관측의 일부를 조정할 수 있다.\n\n**확인되지 않음:** 메탄의 실제 지하 공급원, 생물학적 기여 여부, 빠른 제거 메커니즘, 모든 spike의 원인이 하나인지 여부는 확정되지 않았다.",
+        "established": "확인됨: Curiosity SAM은 Gale Crater에서 trace methane, seasonal background variation, occasional spikes를 반복측정했다. NASA는 local subsurface/sealing/mixing models를 계속 검토하고 있다.\n\n확인되지 않음: exact methane source, rapid sink/transport mechanism, biological contribution은 확정되지 않았다.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "season-02",
+        "sources-03",
+        "sink-04",
+        "life-05"
       ]
     },
     "en": {
-      "headline": "Curiosity Smells Methane, an Orbiter Does Not—Why Do Mars Observations Disagree?",
-      "hook": "Curiosity has repeatedly measured methane variability near the surface in Gale Crater, while ESA’s Trace Gas Orbiter has not found the same signal in the broader atmosphere. The observations are real data; the source and rapid loss mechanism remain open.",
+      "headline": "Curiosity Smells Methane—Why Doesn't the Wider Martian Atmosphere Match?",
+      "hook": "The Mars methane puzzle is not simply whether methane exists, but how to reconcile local detections with the wider atmosphere in one source-and-sink model.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "Gale Crater 지표 가까이에서 메탄이 반복적으로 검출됐다",
-          "headingEn": "Methane Has Repeatedly Been Detected Near the Surface at Gale Crater",
-          "textKo": "Curiosity rover의 SAM 장비는 Gale Crater에서 매우 낮은 농도의 메탄을 측정해 왔다. NASA가 정리한 패턴에는 계절 변화, 갑작스러운 spike, 그리고 밤에 더 잘 나타나고 낮에는 약해지는 시간대 차이가 포함된다. 중요한 점은 rover가 화성 전체 대기를 대표하는 하나의 고정값을 측정하는 것이 아니라 특정 장소·시간의 지표 근처 공기를 반복 채취한다는 것이다.",
-          "textEn": "Curiosity’s SAM instrument has repeatedly measured very low methane concentrations at Gale Crater, including seasonal variation, occasional spikes, and a tendency for stronger nighttime detections. The rover samples local near-surface air rather than a single value representative of the entire Martian atmosphere."
+          "headingKo": "Curiosity는 Gale Crater에서 methane을 반복해서 검출했지만 global picture는 맞지 않는다",
+          "headingEn": "Curiosity Repeatedly Detects Methane in Gale Crater, but the Global Picture Does Not Fit",
+          "textKo": "NASA는 Curiosity rover의 SAM instrument가 Gale Crater surface near-ground atmosphere에서 trace methane을 지속적으로 검출해왔다고 설명한다. background level은 계절에 따라 변하고 때때로 큰 spike가 나타난다. 문제는 orbital-scale observations와 global atmospheric model이 같은 methane story를 깔끔하게 재현하지 못한다는 점이다. 즉 ‘메탄이 있나 없나’보다 local detection과 wider atmosphere를 어떻게 동시에 설명할지가 핵심이다.",
+          "textEn": "NASA reports that Curiosity's SAM instrument repeatedly detects trace methane near the surface of Gale Crater, with seasonal background variation and occasional spikes. The puzzle is how to reconcile those local detections with the broader Martian atmosphere."
         },
         {
-          "blockId": "b02",
-          "type": "COUNTERARGUMENT",
-          "headingKo": "Trace Gas Orbiter는 왜 거의 아무것도 보지 못하나",
-          "headingEn": "Why Does the Trace Gas Orbiter See Almost Nothing?",
-          "textKo": "ESA-Roscosmos Trace Gas Orbiter는 훨씬 넓은 대기를 원격 관측하지만 지속적인 전지구 메탄을 검출하지 못했다. 같은 행성에서 한 장비는 신호를 보고 다른 장비는 못 보는 상황이 생긴 것이다. 단순한 “누가 틀렸다”로 끝낼 수 없는 이유는 두 장비의 고도·시간·관측 방식과 감도가 다르기 때문이다. 관측 geometry 자체가 서로 다른 대기층과 시간대를 본다.",
-          "textEn": "ESA’s Trace Gas Orbiter surveys much broader portions of the atmosphere and has not detected a persistent global methane signal. The instruments observe different altitudes, times, and geometries, so the disagreement cannot be reduced to one instrument simply being wrong."
-        },
-        {
-          "blockId": "b03",
+          "blockId": "season-02",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "밤에는 지표 가까이 모이고 낮에는 희석될 수 있다는 설명이 시험됐다",
-          "headingEn": "A Nighttime Accumulation and Daytime Dilution Model Has Been Tested",
-          "textKo": "JPL 연구진은 밤에 대기 혼합이 약해지면 지표에서 나온 소량의 메탄이 Gale Crater 바닥 가까이에 축적되고, 낮에 대류가 강해지면 더 큰 대기 부피로 희석될 수 있다고 제안했다. Curiosity의 낮 시간 측정이 거의 0에 가까워진 결과는 이 시간대 모델과 양립한다. 이 설명은 rover와 orbiter의 차이를 일부 완화하지만, 메탄이 어디서 만들어지고 왜 대기에서 예상보다 빨리 사라지는지까지 해결하지는 않는다.",
-          "textEn": "JPL researchers proposed that weak nighttime mixing lets locally released methane accumulate near the crater floor, while daytime convection dilutes it into a much larger atmospheric volume. Daytime Curiosity measurements near zero are compatible with that model, but it does not identify the source or fully explain the apparent rapid removal."
+          "headingKo": "background methane은 계절에 따라 움직이고 spike는 매년 똑같이 반복되지 않는다",
+          "headingEn": "Background Methane Varies Seasonally While Spikes Do Not Repeat Identically",
+          "textKo": "Curiosity의 long seasonal record는 background methane이 warm season에 높아지는 경향을 보여준다. 하지만 큰 spike는 매년 같은 시점에 같은 크기로 나타나는 simple seasonal phenomenon이 아니다. 이 차이는 하나의 steady atmospheric source보다 local release, trapping, transport가 복합적으로 작용할 가능성을 열어둔다. 단발성 measurement error가 아니라 여러 Martian year에 걸친 pattern이라는 점이 중요하다.",
+          "textEn": "Curiosity's long record shows a seasonal tendency in background methane, while large spikes do not recur identically each year. That pattern points toward local release, trapping or transport rather than one simple steady atmospheric source."
         },
         {
-          "blockId": "b04",
+          "blockId": "sources-03",
           "type": "HYPOTHESIS",
-          "headingKo": "2024년 NASA 연구는 소금으로 봉인된 토양 crust를 후보 메커니즘으로 제시했다",
-          "headingEn": "NASA’s 2024 Work Proposed Salt-Sealed Soil as a Possible Release Mechanism",
-          "textKo": "실험실 연구와 화성 환경 모델을 바탕으로 NASA 과학자들은 지표 아래에서 생성·저장된 메탄이 perchlorate 계열 소금이 굳힌 얕은 crust 아래 갇힐 수 있다는 아이디어를 검토했다. 계절 가열이나 rover 바퀴 같은 기계적 균열이 seal을 깨면 소량이 새어 나올 수 있다는 것이다. 이것은 관측 패턴을 설명하려는 물리적 가설이지, Gale Crater의 실제 메탄 저장고를 직접 시추해 확인한 사실은 아니다.",
-          "textEn": "NASA scientists have explored a model in which methane produced or stored below the surface becomes trapped beneath a shallow salt-cemented crust. Seasonal heating or mechanical cracking could release small amounts. This is a physically testable hypothesis, not a directly drilled reservoir observed at Gale Crater."
+          "headingKo": "geology가 유력한 source family지만 biology가 논리적으로 자동배제되는 것도 아니다",
+          "headingEn": "Geology Is a Leading Source Family, While Biology Is Not Logically Excluded",
+          "textKo": "Earth에서는 methane의 상당부분이 biology와 연결되지만 water-rock reactions, ancient trapped gas, subsurface chemistry 같은 abiotic process도 methane을 만들 수 있다. NASA는 현재 Mars에서 convincing sign of present or ancient life를 찾지 못했다고 명시한다. 따라서 methane detection은 source question을 만든 것이지 biological origin을 확정한 것이 아니다.",
+          "textEn": "Methane on Earth often has biological sources, but abiotic water-rock reactions, trapped ancient gas and subsurface chemistry can also produce it. NASA says convincing signs of current or ancient life have not been found on Mars."
         },
         {
-          "blockId": "b05",
-          "type": "BACKGROUND",
-          "headingKo": "메탄은 생명 신호가 될 수 있지만 생명만 만드는 분자는 아니다",
-          "headingEn": "Methane Can Be Biological, but It Is Not Uniquely Biological",
-          "textKo": "지구에서는 많은 메탄이 생물학적 과정에서 생기지만 물-암석 반응, 열적 분해, 오래된 유기물 등 비생물학적 과정도 메탄을 만든다. 따라서 화성 메탄이 확인된다고 해도 곧바로 “현재 생명체” 증거가 되는 것은 아니다. 출처를 가르려면 동위원소 비율, 동반 기체, 지질 맥락 같은 추가 정보가 필요하지만 현재 Curiosity의 낮은 농도 자료만으로는 결정적 구분이 어렵다.",
-          "textEn": "On Earth much methane is biological, but water-rock reactions, thermal processes, and degradation of ancient organics can also produce it. Detecting methane on Mars would therefore not by itself establish present life; isotopes, companion gases, and geological context would be needed to distinguish sources."
+          "blockId": "sink-04",
+          "type": "TURNING_POINT",
+          "headingKo": "왜 local methane이 오래 global atmosphere에 남지 않는지도 별도 puzzle이다",
+          "headingEn": "Why Local Methane Does Not Persist Globally Is a Separate Puzzle",
+          "textKo": "NASA 2024 discussion은 methane이 night에 near-surface layer에 축적됐다가 daytime atmospheric mixing으로 희석될 가능성과 surface sealing/release mechanism을 검토한다. local source를 설명해도 methane이 빠르게 사라지거나 orbital measurement에서 거의 보이지 않는 이유를 같이 설명해야 한다. 어디서 나오나와 어디로 사라지나가 동시에 열린 문제다.",
+          "textEn": "NASA's 2024 discussion considers nighttime accumulation near the surface, daytime mixing, and possible subsurface sealing and release mechanisms. Explaining the source alone is not enough; the rapid loss or dilution must also fit the observations."
         },
         {
-          "blockId": "b06",
+          "blockId": "life-05",
           "type": "COUNTERARGUMENT",
-          "headingKo": "“메탄 spike = 지하 생명 활동”이라는 해석은 데이터보다 앞서간다",
-          "headingEn": "A Methane Spike Is Not Evidence of Underground Life by Itself",
-          "textKo": "짧은 spike는 흥미롭지만 작은 농도에서 국지적 transport와 계측 조건의 영향을 크게 받을 수 있다. spike가 반복되고 지질 위치와 연결되더라도 biological source와 geological source를 분리하려면 독립 검증이 필요하다. NASA도 메탄의 생물학적·비생물학적 가능성을 함께 열어두고 있다. Mystery Atlas에서는 “측정된 현상”과 “원인 해석”을 같은 증거 등급으로 취급하지 않는다.",
-          "textEn": "A short methane spike is intriguing but can be strongly affected by local transport and measurement conditions at such low concentrations. Even repeatable spikes would need independent evidence to distinguish biological from geological sources. The measured signal and its interpretation must remain separate evidence layers."
+          "headingKo": "methane anomaly를 ‘생명 signal’로 바로 바꾸면 evidence 단계를 건너뛴다",
+          "headingEn": "Calling the Methane a Life Signal Skips Several Evidentiary Steps",
+          "textKo": "Curiosity는 living organism을 직접 본 것이 아니라 methane molecule concentration을 측정했다. biological source를 말하려면 isotopic signature, co-occurring chemistry, reproducible spatial relation 등 추가 evidence가 필요하다. 현재 source가 완전히 설명되지 않았다는 사실은 biology를 증명하지 않고, 반대로 특정 geology mechanism 하나가 확정됐다는 뜻도 아니다.",
+          "textEn": "Curiosity measured methane concentration, not organisms. A biological claim would require additional evidence such as isotopic, chemical or spatial signatures. An unresolved source is not proof of life."
         },
         {
-          "blockId": "b07",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "핵심 난제는 생성보다 “빠른 제거”일 수도 있다",
-          "headingEn": "The Hard Problem May Be Removal as Much as Production",
-          "textKo": "화성 대기에서 메탄이 통상적인 광화학 반응만 따른다면 더 오래 살아야 한다는 모델과, 국지적으로 나타났다 빠르게 사라지는 관측 사이에는 긴장이 있다. 먼지 표면 반응이나 산화제, 지표 흡착 같은 추가 sink가 거론되지만 아직 하나의 메커니즘으로 확정되지 않았다. 따라서 “누가 메탄을 만들었나”만이 아니라 “왜 상층 대기로 퍼지기 전에 사라지는가”가 동일하게 중요한 질문이다.",
-          "textEn": "Standard photochemical expectations can allow methane to survive longer than the local appearance-and-disappearance pattern suggests. Extra sinks involving dust surfaces, oxidants, or adsorption have been proposed, but none is established as the complete explanation. The removal problem matters as much as the production problem."
-        },
-        {
-          "blockId": "b08",
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** Curiosity는 Gale Crater 지표 가까이에서 낮은 농도의 메탄과 시간·계절 변동을 반복 측정했고, Trace Gas Orbiter는 광범위한 대기에서 지속적 메탄을 확인하지 못했다. 시간대별 혼합 차이는 두 관측의 일부를 조정할 수 있다.\n\n**확인되지 않음:** 메탄의 실제 지하 공급원, 생물학적 기여 여부, 빠른 제거 메커니즘, 모든 spike의 원인이 하나인지 여부는 확정되지 않았다.",
-          "textEn": "**Established:** Curiosity has repeatedly measured low methane concentrations and temporal/seasonal variability near the surface at Gale Crater, while the Trace Gas Orbiter has not found persistent methane across the broader atmosphere. Time-of-day mixing can reconcile part of the difference.\n\n**Not established:** The subsurface source, any biological contribution, the rapid removal mechanism, and whether all spikes share one cause remain unresolved."
+          "textKo": "확인됨: Curiosity SAM은 Gale Crater에서 trace methane, seasonal background variation, occasional spikes를 반복측정했다. NASA는 local subsurface/sealing/mixing models를 계속 검토하고 있다.\n\n확인되지 않음: exact methane source, rapid sink/transport mechanism, biological contribution은 확정되지 않았다.",
+          "textEn": "Established: Curiosity SAM repeatedly measures trace methane, seasonal background variation and occasional spikes in Gale Crater, while NASA continues to test local subsurface, sealing and mixing models.\n\nNot established: The exact methane source, rapid sink or transport mechanism, and any biological contribution remain unresolved."
         }
       ],
       "factBoundary": {
-        "established": "**Established:** Curiosity has repeatedly measured low methane concentrations and temporal/seasonal variability near the surface at Gale Crater, while the Trace Gas Orbiter has not found persistent methane across the broader atmosphere. Time-of-day mixing can reconcile part of the difference.\n\n**Not established:** The subsurface source, any biological contribution, the rapid removal mechanism, and whether all spikes share one cause remain unresolved.",
+        "established": "Established: Curiosity SAM repeatedly measures trace methane, seasonal background variation and occasional spikes in Gale Crater, while NASA continues to test local subsurface, sealing and mixing models.\n\nNot established: The exact methane source, rapid sink or transport mechanism, and any biological contribution remain unresolved.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "season-02",
+        "sources-03",
+        "sink-04",
+        "life-05"
       ]
     }
   },
   "claims": [
     {
-      "claimId": "mars-methane-C1",
+      "claimId": "METH-C1",
       "status": "CONFIRMED",
-      "statementKo": "Curiosity는 Gale Crater에서 낮은 농도의 메탄과 변동을 반복 측정했다.",
-      "statementEn": "Curiosity has repeatedly measured low methane concentrations and variability at Gale Crater.",
+      "statementKo": "Curiosity는 Gale Crater에서 seasonal methane variation과 spikes를 관측했다.",
+      "statementEn": "Curiosity observed seasonal methane variation and spikes in Gale Crater.",
       "sourceRefs": [
-        "NASA_METHANE_2024",
-        "NASA_METHANE_2018"
+        "METH_NASA2018",
+        "METH_NASA2024"
       ]
     },
     {
-      "claimId": "mars-methane-C2",
-      "status": "CONFIRMED",
-      "statementKo": "Trace Gas Orbiter의 광역 관측은 지속적 전지구 메탄을 검출하지 않았다.",
-      "statementEn": "The Trace Gas Orbiter has not detected persistent methane in its broader atmospheric survey.",
+      "claimId": "METH-C2",
+      "status": "SUPPORTED",
+      "statementKo": "local subsurface release·surface sealing·mixing은 현재 검토되는 source/transport model이다.",
+      "statementEn": "Local subsurface release, surface sealing and atmospheric mixing are active source/transport models.",
       "sourceRefs": [
-        "NASA_METHANE_2024",
-        "JPL_METHANE_2021"
+        "METH_NASA2024"
       ]
     },
     {
-      "claimId": "mars-methane-C3",
+      "claimId": "METH-C3",
       "status": "NOT_ESTABLISHED",
-      "statementKo": "메탄의 공급원과 생물학적 기여 여부는 확정되지 않았다.",
-      "statementEn": "The methane source and any biological contribution are not established.",
+      "statementKo": "exact source와 biological contribution은 확정되지 않았다.",
+      "statementEn": "The exact source and any biological contribution remain unestablished.",
       "sourceRefs": [
-        "NASA_METHANE_2024"
+        "METH_NASA2024"
       ]
     }
   ],
   "sources": [
     {
-      "sourceId": "NASA_METHANE_2024",
+      "sourceId": "METH_NASA2024",
       "title": "Why is Methane Seeping on Mars? NASA Scientists Have New Ideas",
       "publisher": "NASA Science",
       "url": "https://science.nasa.gov/solar-system/planets/mars/why-is-methane-seeping-on-mars-nasa-scientists-have-new-ideas/",
-      "sourceType": "SOURCE_BOUNDED"
+      "sourceType": "NASA_OFFICIAL"
     },
     {
-      "sourceId": "JPL_METHANE_2021",
-      "title": "First You See It, Then You Don’t: Scientists Closer to Explaining Mars Methane Mystery",
-      "publisher": "NASA JPL",
-      "url": "https://www.jpl.nasa.gov/news/first-you-see-it-then-you-dont-scientists-closer-to-explaining-mars-methane-mystery/",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "NASA_METHANE_2018",
-      "title": "NASA Finds Ancient Organic Material, Mysterious Methane on Mars",
-      "publisher": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-finds-ancient-organic-material-mysterious-methane-on-mars/",
-      "sourceType": "SOURCE_BOUNDED"
+      "sourceId": "METH_NASA2018",
+      "title": "Mars' Mysterious Methane",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/resource/mars-mysterious-methane/",
+      "sourceType": "NASA_OFFICIAL"
     }
   ],
   "visuals": [
     {
-      "assetId": "mars-methane-contrast-v01",
-      "role": "OBSERVATION_CONTRAST",
+      "assetId": "meth-v01",
+      "role": "MECHANISM_DIAGRAM",
       "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal.",
-      "captionEn": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal.",
-      "altKo": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal.",
-      "altEn": "Curiosity: local near-surface methane ↔ TGO: no persistent broad-atmosphere signal.",
+      "captionKo": "subsurface source → near-surface accumulation → daytime mixing → global-detection puzzle.",
+      "captionEn": "Subsurface source → near-surface accumulation → daytime mixing → wider-atmosphere puzzle.",
+      "altKo": "subsurface source → near-surface accumulation → daytime mixing → global-detection puzzle.",
+      "altEn": "Subsurface source → near-surface accumulation → daytime mixing → wider-atmosphere puzzle.",
       "sourceRefs": [
-        "NASA_METHANE_2024",
-        "JPL_METHANE_2021"
+        "METH_NASA2018",
+        "METH_NASA2024"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "mars-methane__contrast-v01__ko.png",
-          "sha256": "7c49aed2ec3b79310e15cd5243181e9c600db3a3a573711d8adfefbdcc5da6ff",
+          "fileName": "mars-methane__v01__ko.png",
+          "sha256": "de08e128064f10c60866b76c0355bc70483a9c2a20ba1566767c1a8ed87bf390",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "mars-methane__contrast-v01__en.png",
-          "sha256": "c743bb7ae07e6d42148e28096e6fcd9e726e065e673d95b7494c9fa96448355a",
+          "fileName": "mars-methane__v01__en.png",
+          "sha256": "98cb349adc529de24fbbe939d9b983a588e1dc2e2fbb0a0a448c0fb39340f633",
           "width": 1600,
           "height": 900
         }
@@ -289,30 +237,31 @@
       "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
     },
     {
-      "assetId": "mars-methane-cycle-v02",
-      "role": "MECHANISM_DIAGRAM",
-      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "assetId": "meth-v02",
+      "role": "CLAIM_VS_EVIDENCE",
+      "assetKind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "night accumulation → morning/day mixing → dilution; source and sink remain open.",
-      "captionEn": "night accumulation → morning/day mixing → dilution; source and sink remain open.",
-      "altKo": "night accumulation → morning/day mixing → dilution; source and sink remain open.",
-      "altEn": "night accumulation → morning/day mixing → dilution; source and sink remain open.",
+      "captionKo": "measured methane / geologic hypotheses / biological claim을 분리.",
+      "captionEn": "Separate measured methane, geologic hypotheses and biological claims.",
+      "altKo": "measured methane / geologic hypotheses / biological claim을 분리.",
+      "altEn": "Separate measured methane, geologic hypotheses and biological claims.",
       "sourceRefs": [
-        "JPL_METHANE_2021"
+        "METH_NASA2018",
+        "METH_NASA2024"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "mars-methane__cycle-v02__ko.png",
-          "sha256": "f9b30542f80a1fac185fa081e59b569b7a6131428754212594c76e05df2d46e5",
+          "fileName": "mars-methane__v02__ko.png",
+          "sha256": "2c979700cbc8ce0110c6390b742c9b4089dd5ba7e3fcc0d6da9f3e78e86f3c88",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "mars-methane__cycle-v02__en.png",
-          "sha256": "6acf3f25411ede5c79fbc4d37c635d49c55526fcf2df6704b7f2d09e4320419a",
+          "fileName": "mars-methane__v02__en.png",
+          "sha256": "9b9e7b4508d6c2277e27c83d1cff6ce6821e1edb411f0216c93de22ebbd1b699",
           "width": 1600,
           "height": 900
         }
@@ -326,34 +275,33 @@
   "metadata": {
     "primaryGenre": "Space / Astronomy",
     "secondaryGenres": [
-      "Planetary Science",
-      "Atmospheric Chemistry"
+      "Strange Science / Natural Anomaly"
     ],
-    "countries": [
-      "Mars"
-    ],
+    "countries": [],
     "regions": [
-      "Gale Crater"
+      "Mars / Gale Crater"
     ],
     "places": [
-      "Gale Crater"
+      {
+        "name": "Gale Crater",
+        "role": "Curiosity site"
+      }
     ],
     "people": [],
     "organizations": [
       "NASA",
-      "JPL",
-      "ESA"
+      "Curiosity",
+      "SAM"
     ],
     "dateRange": {
-      "start": "2012",
-      "end": "2026-09",
-      "precision": "mission era"
+      "start": "Curiosity mission",
+      "end": "present",
+      "precision": "multi-year atmospheric measurements"
     },
-    "era": "Curiosity / Trace Gas Orbiter era",
-    "resolution": "OBSERVATION_CONFIRMED_SOURCE_UNRESOLVED",
+    "era": "Modern planetary science",
+    "resolution": "LOCAL_METHANE_CONFIRMED_SOURCE_AND_SINK_UNRESOLVED",
     "searchAliases": [
       "Mars methane",
-      "화성 메탄",
       "Curiosity methane"
     ],
     "relatedCases": [
@@ -361,11 +309,11 @@
     ]
   },
   "quality": {
-    "koBodyChars": 1799,
-    "enBodyWords": 372,
-    "meaningfulBlockCount": 8,
+    "koBodyChars": 1747,
+    "enBodyWords": 215,
+    "meaningfulBlockCount": 6,
     "visualPlacementCount": 2,
-    "sourceCount": 3,
+    "sourceCount": 2,
     "claimCount": 3,
     "factBoundaryPass": true,
     "koPass": true,
@@ -378,8 +326,8 @@
     "randomGatePass": false
   },
   "mediaPackage": {
-    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
-    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20_MANIFEST_v1.0.json",
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH23",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH23_MANIFEST_v1.0.json",
     "assetGroups": 2,
     "localizedFiles": 4,
     "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",

@@ -5,21 +5,13 @@
   "identity": {
     "canonicalTitleKo": "그린 런",
     "canonicalTitleEn": "The Green Run",
-    "aliasesKo": [
-      "Green Run",
-      "Hanford Green Run",
-      "그린 런"
-    ],
-    "aliasesEn": [
-      "Green Run",
-      "Hanford Green Run",
-      "그린 런"
-    ],
+    "aliasesKo": [],
+    "aliasesEn": [],
     "legacyIds": []
   },
   "publication": {
     "tier": "COMPACT_FILE",
-    "editorialFamily": "DECLASSIFIED_FILE",
+    "editorialFamily": "SECRET_FILE",
     "state": "MEDIA_READY",
     "randomEligible": false,
     "releaseEligible": false,
@@ -32,260 +24,200 @@
   },
   "localizedCopy": {
     "ko": {
-      "headline": "1949년 Hanford는 왜 방사성 요오드를 일부러 공기 중에 내보냈나",
-      "hook": "Green Run은 음모론이 아니라 문서가 남은 비밀 군사 실험이다. 그러나 “실험이 실제였다”와 “특정 질병이 이 한 번의 방출 때문에 생겼다”는 서로 다른 수준의 주장이다.",
+      "headline": "미국은 왜 1949년에 방사성 요오드를 일부러 대기 중에 풀었나",
+      "hook": "Green Run은 음모론이 아니라 공식기록으로 확인된 Cold War detection experiment다. 남은 문제는 왜 이런 방식의 시험이 허용됐고 노출을 어떻게 평가해야 하는가다.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "1949년 12월, 짧게 냉각한 연료를 평소보다 일찍 처리했다",
-          "headingEn": "In December 1949, Short-Cooled Fuel Was Processed Deliberately",
-          "textKo": "미국 Hanford Site의 T Plant에서는 1949년 12월 초 이례적으로 짧은 냉각기간을 거친 조사 연료를 용해했다. 목적은 정상 생산이 아니라 대기 중 방사성 물질의 방출을 만들어 밖에서 얼마나 잘 탐지할 수 있는지 시험하는 것이었다. 냉전 초기 소련 핵활동을 원거리에서 추적하기 위한 공중 모니터링 기술과 연결된 군사 정보 실험이었다는 사실은 이후 비밀해제 문서와 공중보건 평가에 남았다.",
-          "textEn": "At Hanford’s T Plant in early December 1949, unusually short-cooled irradiated fuel was dissolved as part of a military monitoring experiment rather than ordinary production. Declassified records and later public-health reviews describe the purpose as testing airborne detection methods relevant to tracking nuclear activity."
+          "headingKo": "1949년 Hanford는 방사성 요오드를 의도적으로 대기 중에 풀었다",
+          "headingEn": "In 1949 Hanford Deliberately Released Radioactive Iodine Into the Air",
+          "textKo": "National Park Service는 1949년 12월 2일 Atomic Energy Commission과 U.S. Air Force가 Hanford에서 Green Run experiment를 수행했다고 설명한다. 목적은 Soviet nuclear-production facility에서 나오는 방사성 plume을 원거리에서 탐지하는 monitoring technique을 시험하는 것이었다. 실험의 존재와 intentional release는 공식기록으로 확인된다.",
+          "textEn": "The National Park Service states that on December 2, 1949, the Atomic Energy Commission and U.S. Air Force conducted the Green Run at Hanford to test long-range detection of radioactive emissions from Soviet nuclear production."
         },
         {
-          "blockId": "b02",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "필터를 우회한 것은 “측정 가능한 plume”을 만들기 위해서였다",
-          "headingEn": "Filters Were Bypassed to Produce a Measurable Plume",
-          "textKo": "당시 공정은 요오드를 줄이기 위한 포집 장치를 사용했지만 Green Run에서는 방출량이 측정 가능하도록 일부 여과 경로가 우회됐다. 후대 공개 자료는 이것이 우발 사고가 아니라 계획된 조건이었다고 설명한다. 날씨와 역전층 조건까지 고려해 대기 샘플과 식생 측정, 항공 측정을 연계하려 했다. 따라서 “의도적 방출이 있었나”라는 핵심 사실 자체는 문서로 확인된다.",
-          "textEn": "Hanford normally used systems intended to reduce iodine releases, but Green Run procedures bypassed filtration so the plume would be measurable. Later public records describe weather constraints and coordinated ground and airborne sampling. The deliberate nature of the release is therefore documented."
-        },
-        {
-          "blockId": "b03",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "방출량은 하나의 숫자가 아니라 추정 범위를 가진다",
-          "headingEn": "The Release Amount Is an Estimate, Not One Immutable Number",
-          "textKo": "공식·학술 문헌의 I-131 방출 추정치는 서로 다르다. ATSDR 공중보건 평가는 약 7,000 curies 규모를 제시했고, 다른 역사 자료와 재분석은 약 7,780 curies 또는 11,000±3,000 curies 수준까지 계산했다. 오래된 공정 기록과 측정 체계의 한계 때문에 숫자가 재구성되는 것이다. 따라서 정확한 한 자릿수 수치보다 “수천~1만 curie 규모의 의도적 I-131 방출”이라는 범위를 구분해 읽는 편이 안전하다.",
-          "textEn": "Estimates of iodine-131 released during Green Run vary. Public-health reviews cite roughly 7,000 curies, while historical estimates and a later reanalysis reach about 7,780 or roughly 11,000 ± 3,000 curies. The differences reflect reconstruction from imperfect historical process and monitoring records."
-        },
-        {
-          "blockId": "b04",
+          "blockId": "fuel-02",
           "type": "BACKGROUND",
-          "headingKo": "Green Run 하나와 Hanford의 장기 방출 이력은 같은 것이 아니다",
-          "headingEn": "Green Run Was One Event Inside a Much Longer Hanford Release History",
-          "textKo": "Hanford에서는 1940년대 중반부터 여러 해 동안 I-131 등 방사성 물질이 환경으로 배출됐다. CDC의 Hanford Thyroid Disease Study는 1944~1957년 노출 가능 인구를 대상으로 장기 역사와 개인 선량을 재구성했다. Green Run은 그 가운데 가장 유명한 단일 사건이지만, 주민의 누적 노출을 평가할 때는 다른 해와 다른 공정의 방출도 함께 고려해야 한다. 단일 사건만 떼어 전체 건강영향을 설명하면 노출 역사를 왜곡한다.",
-          "textEn": "Hanford released radioactive materials over many years beginning in the mid-1940s. The CDC’s Hanford Thyroid Disease Study reconstructed exposures across 1944–1957. Green Run is the best-known single event, but population exposure cannot be reduced to that one release."
+          "headingKo": "평소보다 훨씬 짧게 냉각한 fuel을 재처리해 I-131 activity를 키웠다",
+          "headingEn": "Fuel Was Reprocessed After Far Less Cooling Than Normal",
+          "textKo": "normal processing 전에 더 오래 decay시키던 fuel을 훨씬 짧은 cooling period 뒤 재처리해 fresh fission-product activity를 높였다. ‘Green Run’이라는 이름도 충분히 decay하지 않은 green fuel을 처리한다는 의미와 연결된다. 즉 실험은 자연발생한 plant upset이 아니라 monitoring test를 위해 release profile을 의도적으로 키운 사건이었다.",
+          "textEn": "Fuel normally allowed more time to cool and decay was reprocessed after a much shorter interval, increasing fresh fission-product activity. The name 'Green Run' reflects processing relatively 'green' fuel."
         },
         {
-          "blockId": "b05",
-          "type": "COUNTERARGUMENT",
-          "headingKo": "비밀 실험이라는 사실이 모든 후속 건강 주장을 자동으로 증명하지는 않는다",
-          "headingEn": "A Secret Experiment Does Not Automatically Prove Every Later Health Claim",
-          "textKo": "I-131은 갑상선에 축적될 수 있어 주민 건강 우려가 과학적으로 정당했고, 이 때문에 대규모 선량 재구성과 역학연구가 수행됐다. 하지만 역학연구는 특정 개인의 질환 원인을 한 사건에 소급해 확정하는 도구가 아니다. 당시 거주지·나이·식이·우유 섭취·기상과 다른 Hanford 방출량이 모두 선량에 영향을 준다. 문서화된 비밀성과 개별 인과 판정은 분리해야 한다.",
-          "textEn": "Iodine-131 can concentrate in the thyroid, making community concern scientifically legitimate and motivating dose reconstruction and epidemiology. But epidemiology cannot retrospectively prove that one person’s disease was caused by one release; age, location, diet, milk consumption, weather, and other Hanford emissions all matter."
-        },
-        {
-          "blockId": "b06",
+          "blockId": "release-03",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "식생 측정치는 plume이 실제로 지역 밖으로 이동했음을 보여준다",
-          "headingEn": "Vegetation Measurements Showed the Plume Reached Off-Site Areas",
-          "textKo": "당시 환경 감시 자료에는 Green Run 직후 식생의 I-131 수치가 크게 증가한 지역이 기록돼 있다. 이는 실험이 시설 내부의 계산에 머문 것이 아니라 실제 대기 plume과 지표 침적을 만들었음을 보여주는 역사적 증거다. 다만 1949년의 계측·샘플링 밀도는 오늘날 환경 모니터링과 같지 않았기 때문에 세부 공간 분포와 개인별 섭취량은 후대 모델링에 의존한다.",
-          "textEn": "Contemporary environmental monitoring recorded sharp increases in iodine-131 on vegetation after Green Run, evidence that the plume moved beyond plant boundaries. Yet 1949 monitoring was sparse by modern standards, so detailed spatial exposure and individual intake estimates rely on later reconstruction."
+          "headingKo": "Hanford 역사상 가장 큰 단일 I-131 release로 기록된다",
+          "headingEn": "It Became Hanford's Largest Single I-131 Release",
+          "textKo": "NPS는 Green Run을 Hanford history에서 largest single release of radioactive iodine-131로 설명한다. contamination은 넓은 지역 vegetation에서 측정됐다. 정확한 reconstructed curie estimate는 자료와 방법에 따라 차이가 있을 수 있지만 experiment-scale release 자체는 논쟁대상이 아니다. source term과 individual dose는 구분해서 봐야 한다.",
+          "textEn": "NPS describes the Green Run as the largest single release of radioactive iodine-131 in Hanford's history. Exact reconstructed curie estimates can vary, but the large intentional release is not in dispute."
         },
         {
-          "blockId": "b07",
-          "type": "HYPOTHESIS",
-          "headingKo": "이 사건이 중요한 이유는 “비밀”보다 검증 가능한 기록의 층이 남았기 때문이다",
-          "headingEn": "Its Importance Comes From Layered Records, Not Merely From Secrecy",
-          "textKo": "Green Run은 기밀이었던 목적, 공정 기록, 당시 환경 측정, 후대 비밀해제, 독립 선량 재구성, 공중보건 연구가 서로 다른 시기에 겹쳐 있는 사례다. 그래서 “정부가 숨겼다” 한 문장으로 끝내기보다 각 문서가 무엇을 실제로 증명하는지 분리해 볼 수 있다. 방출 자체와 목적은 강하게 확인되지만, 정확한 방출량·개인별 선량·특정 질환 인과는 확실성의 등급이 다르다.",
-          "textEn": "Green Run is unusually instructive because classified purpose, plant records, environmental measurements, declassification, dose reconstruction, and public-health research form separate layers. The event and its monitoring purpose are well documented; exact quantity, individual dose, and individual medical causation carry different levels of uncertainty."
+          "blockId": "weather-04",
+          "type": "TURNING_POINT",
+          "headingKo": "날씨가 예상과 달라 plume tracking 자체가 어려워졌다",
+          "headingEn": "Unexpected Weather Complicated the Plume-Tracking Experiment",
+          "textKo": "NPS는 changing weather와 rainfall이 radioactive material을 예상과 다르게 분산시켰다고 설명한다. surveillance method를 시험하던 experiment가 environmental exposure를 키우면서 measurement control까지 잃은 역설적인 상황이 됐다. 이런 failure는 experiment result뿐 아니라 public exposure assessment에도 큰 불확실성을 남겼다.",
+          "textEn": "NPS explains that changing weather and rainfall dispersed radioactive material differently from expectations, complicating the very plume-tracking problem the experiment was intended to test."
         },
         {
-          "blockId": "b08",
+          "blockId": "secrecy-05",
+          "type": "AFTERMATH",
+          "headingKo": "주민에게 당시 공개되지 않았다는 사실이 후대 논쟁의 핵심이다",
+          "headingEn": "The Surrounding Public Was Not Informed at the Time",
+          "textKo": "Cold War secrecy 속에서 surrounding communities는 experiment를 당시 알지 못했다. 후대 declassification과 dose reconstruction을 통해 event가 구체적으로 알려졌다. 국가안보 목적을 이해하는 것과 public-risk communication이 적절했다는 평가는 별개다. 프로그램 목적과 ethics/public-health impact는 같은 문장으로 처리하면 안 된다.",
+          "textEn": "The surrounding communities were not informed at the time. Later declassification and dose reconstruction clarified what happened. Understanding the national-security rationale is different from judging public-risk communication adequate."
+        },
+        {
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** 1949년 12월 Hanford T Plant에서 공중 방사능 탐지 기법을 시험하기 위한 계획된 Green Run이 실행됐고, I-131이 대기로 방출됐다. 필터 우회와 환경 모니터링도 문서화돼 있다.\n\n**확인되지 않음:** 방출량은 자료에 따라 약 7천~1.1만 curie 수준으로 차이가 있으며, 특정 개인의 질환을 Green Run 한 사건에 단독 귀속하는 것은 문서만으로 확정할 수 없다.",
-          "textEn": "**Established:** In December 1949 Hanford conducted the planned Green Run to test airborne radiological detection, releasing iodine-131 and monitoring the plume; filtration bypass is documented.\n\n**Not established:** Historical estimates differ, roughly spanning about 7,000 to 11,000 curies, and records do not by themselves prove that a particular individual’s illness was caused solely by Green Run."
+          "textKo": "확인됨: Green Run은 1949년 Hanford에서 Soviet-production detection method를 시험하기 위해 수행된 intentional radioactive release였고 Hanford 역사상 largest single I-131 release로 기록된다.\n\n확인되지 않음: aggregate release data만으로 특정 개인의 exact dose와 later disease causation을 자동확정할 수는 없다.",
+          "textEn": "Established: The Green Run was an intentional 1949 Hanford radioactive release designed to test detection methods for Soviet nuclear production and is recorded as Hanford's largest single I-131 release.\n\nNot established: Aggregate release data alone do not determine an individual's exact dose or later disease causation."
         }
       ],
       "factBoundary": {
-        "established": "**확인됨:** 1949년 12월 Hanford T Plant에서 공중 방사능 탐지 기법을 시험하기 위한 계획된 Green Run이 실행됐고, I-131이 대기로 방출됐다. 필터 우회와 환경 모니터링도 문서화돼 있다.\n\n**확인되지 않음:** 방출량은 자료에 따라 약 7천~1.1만 curie 수준으로 차이가 있으며, 특정 개인의 질환을 Green Run 한 사건에 단독 귀속하는 것은 문서만으로 확정할 수 없다.",
+        "established": "확인됨: Green Run은 1949년 Hanford에서 Soviet-production detection method를 시험하기 위해 수행된 intentional radioactive release였고 Hanford 역사상 largest single I-131 release로 기록된다.\n\n확인되지 않음: aggregate release data만으로 특정 개인의 exact dose와 later disease causation을 자동확정할 수는 없다.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "fuel-02",
+        "release-03",
+        "weather-04",
+        "secrecy-05"
       ]
     },
     "en": {
-      "headline": "Why Did Hanford Deliberately Release Radioactive Iodine in 1949?",
-      "hook": "The Green Run was a documented secret military experiment, not a rumor. But establishing the release is different from attributing a particular person’s later illness to this single event.",
+      "headline": "Why Did the U.S. Deliberately Release Radioactive Iodine in 1949?",
+      "hook": "The Green Run is a documented Cold War detection experiment. The deeper issue is why it was conducted this way and how exposure should be evaluated.",
       "blocks": [
         {
-          "blockId": "b01",
+          "blockId": "scene-01",
           "type": "SCENE",
-          "headingKo": "1949년 12월, 짧게 냉각한 연료를 평소보다 일찍 처리했다",
-          "headingEn": "In December 1949, Short-Cooled Fuel Was Processed Deliberately",
-          "textKo": "미국 Hanford Site의 T Plant에서는 1949년 12월 초 이례적으로 짧은 냉각기간을 거친 조사 연료를 용해했다. 목적은 정상 생산이 아니라 대기 중 방사성 물질의 방출을 만들어 밖에서 얼마나 잘 탐지할 수 있는지 시험하는 것이었다. 냉전 초기 소련 핵활동을 원거리에서 추적하기 위한 공중 모니터링 기술과 연결된 군사 정보 실험이었다는 사실은 이후 비밀해제 문서와 공중보건 평가에 남았다.",
-          "textEn": "At Hanford’s T Plant in early December 1949, unusually short-cooled irradiated fuel was dissolved as part of a military monitoring experiment rather than ordinary production. Declassified records and later public-health reviews describe the purpose as testing airborne detection methods relevant to tracking nuclear activity."
+          "headingKo": "1949년 Hanford는 방사성 요오드를 의도적으로 대기 중에 풀었다",
+          "headingEn": "In 1949 Hanford Deliberately Released Radioactive Iodine Into the Air",
+          "textKo": "National Park Service는 1949년 12월 2일 Atomic Energy Commission과 U.S. Air Force가 Hanford에서 Green Run experiment를 수행했다고 설명한다. 목적은 Soviet nuclear-production facility에서 나오는 방사성 plume을 원거리에서 탐지하는 monitoring technique을 시험하는 것이었다. 실험의 존재와 intentional release는 공식기록으로 확인된다.",
+          "textEn": "The National Park Service states that on December 2, 1949, the Atomic Energy Commission and U.S. Air Force conducted the Green Run at Hanford to test long-range detection of radioactive emissions from Soviet nuclear production."
         },
         {
-          "blockId": "b02",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "필터를 우회한 것은 “측정 가능한 plume”을 만들기 위해서였다",
-          "headingEn": "Filters Were Bypassed to Produce a Measurable Plume",
-          "textKo": "당시 공정은 요오드를 줄이기 위한 포집 장치를 사용했지만 Green Run에서는 방출량이 측정 가능하도록 일부 여과 경로가 우회됐다. 후대 공개 자료는 이것이 우발 사고가 아니라 계획된 조건이었다고 설명한다. 날씨와 역전층 조건까지 고려해 대기 샘플과 식생 측정, 항공 측정을 연계하려 했다. 따라서 “의도적 방출이 있었나”라는 핵심 사실 자체는 문서로 확인된다.",
-          "textEn": "Hanford normally used systems intended to reduce iodine releases, but Green Run procedures bypassed filtration so the plume would be measurable. Later public records describe weather constraints and coordinated ground and airborne sampling. The deliberate nature of the release is therefore documented."
-        },
-        {
-          "blockId": "b03",
-          "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "방출량은 하나의 숫자가 아니라 추정 범위를 가진다",
-          "headingEn": "The Release Amount Is an Estimate, Not One Immutable Number",
-          "textKo": "공식·학술 문헌의 I-131 방출 추정치는 서로 다르다. ATSDR 공중보건 평가는 약 7,000 curies 규모를 제시했고, 다른 역사 자료와 재분석은 약 7,780 curies 또는 11,000±3,000 curies 수준까지 계산했다. 오래된 공정 기록과 측정 체계의 한계 때문에 숫자가 재구성되는 것이다. 따라서 정확한 한 자릿수 수치보다 “수천~1만 curie 규모의 의도적 I-131 방출”이라는 범위를 구분해 읽는 편이 안전하다.",
-          "textEn": "Estimates of iodine-131 released during Green Run vary. Public-health reviews cite roughly 7,000 curies, while historical estimates and a later reanalysis reach about 7,780 or roughly 11,000 ± 3,000 curies. The differences reflect reconstruction from imperfect historical process and monitoring records."
-        },
-        {
-          "blockId": "b04",
+          "blockId": "fuel-02",
           "type": "BACKGROUND",
-          "headingKo": "Green Run 하나와 Hanford의 장기 방출 이력은 같은 것이 아니다",
-          "headingEn": "Green Run Was One Event Inside a Much Longer Hanford Release History",
-          "textKo": "Hanford에서는 1940년대 중반부터 여러 해 동안 I-131 등 방사성 물질이 환경으로 배출됐다. CDC의 Hanford Thyroid Disease Study는 1944~1957년 노출 가능 인구를 대상으로 장기 역사와 개인 선량을 재구성했다. Green Run은 그 가운데 가장 유명한 단일 사건이지만, 주민의 누적 노출을 평가할 때는 다른 해와 다른 공정의 방출도 함께 고려해야 한다. 단일 사건만 떼어 전체 건강영향을 설명하면 노출 역사를 왜곡한다.",
-          "textEn": "Hanford released radioactive materials over many years beginning in the mid-1940s. The CDC’s Hanford Thyroid Disease Study reconstructed exposures across 1944–1957. Green Run is the best-known single event, but population exposure cannot be reduced to that one release."
+          "headingKo": "평소보다 훨씬 짧게 냉각한 fuel을 재처리해 I-131 activity를 키웠다",
+          "headingEn": "Fuel Was Reprocessed After Far Less Cooling Than Normal",
+          "textKo": "normal processing 전에 더 오래 decay시키던 fuel을 훨씬 짧은 cooling period 뒤 재처리해 fresh fission-product activity를 높였다. ‘Green Run’이라는 이름도 충분히 decay하지 않은 green fuel을 처리한다는 의미와 연결된다. 즉 실험은 자연발생한 plant upset이 아니라 monitoring test를 위해 release profile을 의도적으로 키운 사건이었다.",
+          "textEn": "Fuel normally allowed more time to cool and decay was reprocessed after a much shorter interval, increasing fresh fission-product activity. The name 'Green Run' reflects processing relatively 'green' fuel."
         },
         {
-          "blockId": "b05",
-          "type": "COUNTERARGUMENT",
-          "headingKo": "비밀 실험이라는 사실이 모든 후속 건강 주장을 자동으로 증명하지는 않는다",
-          "headingEn": "A Secret Experiment Does Not Automatically Prove Every Later Health Claim",
-          "textKo": "I-131은 갑상선에 축적될 수 있어 주민 건강 우려가 과학적으로 정당했고, 이 때문에 대규모 선량 재구성과 역학연구가 수행됐다. 하지만 역학연구는 특정 개인의 질환 원인을 한 사건에 소급해 확정하는 도구가 아니다. 당시 거주지·나이·식이·우유 섭취·기상과 다른 Hanford 방출량이 모두 선량에 영향을 준다. 문서화된 비밀성과 개별 인과 판정은 분리해야 한다.",
-          "textEn": "Iodine-131 can concentrate in the thyroid, making community concern scientifically legitimate and motivating dose reconstruction and epidemiology. But epidemiology cannot retrospectively prove that one person’s disease was caused by one release; age, location, diet, milk consumption, weather, and other Hanford emissions all matter."
-        },
-        {
-          "blockId": "b06",
+          "blockId": "release-03",
           "type": "EVIDENCE_NARRATIVE",
-          "headingKo": "식생 측정치는 plume이 실제로 지역 밖으로 이동했음을 보여준다",
-          "headingEn": "Vegetation Measurements Showed the Plume Reached Off-Site Areas",
-          "textKo": "당시 환경 감시 자료에는 Green Run 직후 식생의 I-131 수치가 크게 증가한 지역이 기록돼 있다. 이는 실험이 시설 내부의 계산에 머문 것이 아니라 실제 대기 plume과 지표 침적을 만들었음을 보여주는 역사적 증거다. 다만 1949년의 계측·샘플링 밀도는 오늘날 환경 모니터링과 같지 않았기 때문에 세부 공간 분포와 개인별 섭취량은 후대 모델링에 의존한다.",
-          "textEn": "Contemporary environmental monitoring recorded sharp increases in iodine-131 on vegetation after Green Run, evidence that the plume moved beyond plant boundaries. Yet 1949 monitoring was sparse by modern standards, so detailed spatial exposure and individual intake estimates rely on later reconstruction."
+          "headingKo": "Hanford 역사상 가장 큰 단일 I-131 release로 기록된다",
+          "headingEn": "It Became Hanford's Largest Single I-131 Release",
+          "textKo": "NPS는 Green Run을 Hanford history에서 largest single release of radioactive iodine-131로 설명한다. contamination은 넓은 지역 vegetation에서 측정됐다. 정확한 reconstructed curie estimate는 자료와 방법에 따라 차이가 있을 수 있지만 experiment-scale release 자체는 논쟁대상이 아니다. source term과 individual dose는 구분해서 봐야 한다.",
+          "textEn": "NPS describes the Green Run as the largest single release of radioactive iodine-131 in Hanford's history. Exact reconstructed curie estimates can vary, but the large intentional release is not in dispute."
         },
         {
-          "blockId": "b07",
-          "type": "HYPOTHESIS",
-          "headingKo": "이 사건이 중요한 이유는 “비밀”보다 검증 가능한 기록의 층이 남았기 때문이다",
-          "headingEn": "Its Importance Comes From Layered Records, Not Merely From Secrecy",
-          "textKo": "Green Run은 기밀이었던 목적, 공정 기록, 당시 환경 측정, 후대 비밀해제, 독립 선량 재구성, 공중보건 연구가 서로 다른 시기에 겹쳐 있는 사례다. 그래서 “정부가 숨겼다” 한 문장으로 끝내기보다 각 문서가 무엇을 실제로 증명하는지 분리해 볼 수 있다. 방출 자체와 목적은 강하게 확인되지만, 정확한 방출량·개인별 선량·특정 질환 인과는 확실성의 등급이 다르다.",
-          "textEn": "Green Run is unusually instructive because classified purpose, plant records, environmental measurements, declassification, dose reconstruction, and public-health research form separate layers. The event and its monitoring purpose are well documented; exact quantity, individual dose, and individual medical causation carry different levels of uncertainty."
+          "blockId": "weather-04",
+          "type": "TURNING_POINT",
+          "headingKo": "날씨가 예상과 달라 plume tracking 자체가 어려워졌다",
+          "headingEn": "Unexpected Weather Complicated the Plume-Tracking Experiment",
+          "textKo": "NPS는 changing weather와 rainfall이 radioactive material을 예상과 다르게 분산시켰다고 설명한다. surveillance method를 시험하던 experiment가 environmental exposure를 키우면서 measurement control까지 잃은 역설적인 상황이 됐다. 이런 failure는 experiment result뿐 아니라 public exposure assessment에도 큰 불확실성을 남겼다.",
+          "textEn": "NPS explains that changing weather and rainfall dispersed radioactive material differently from expectations, complicating the very plume-tracking problem the experiment was intended to test."
         },
         {
-          "blockId": "b08",
+          "blockId": "secrecy-05",
+          "type": "AFTERMATH",
+          "headingKo": "주민에게 당시 공개되지 않았다는 사실이 후대 논쟁의 핵심이다",
+          "headingEn": "The Surrounding Public Was Not Informed at the Time",
+          "textKo": "Cold War secrecy 속에서 surrounding communities는 experiment를 당시 알지 못했다. 후대 declassification과 dose reconstruction을 통해 event가 구체적으로 알려졌다. 국가안보 목적을 이해하는 것과 public-risk communication이 적절했다는 평가는 별개다. 프로그램 목적과 ethics/public-health impact는 같은 문장으로 처리하면 안 된다.",
+          "textEn": "The surrounding communities were not informed at the time. Later declassification and dose reconstruction clarified what happened. Understanding the national-security rationale is different from judging public-risk communication adequate."
+        },
+        {
+          "blockId": "boundary-06",
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "**확인됨:** 1949년 12월 Hanford T Plant에서 공중 방사능 탐지 기법을 시험하기 위한 계획된 Green Run이 실행됐고, I-131이 대기로 방출됐다. 필터 우회와 환경 모니터링도 문서화돼 있다.\n\n**확인되지 않음:** 방출량은 자료에 따라 약 7천~1.1만 curie 수준으로 차이가 있으며, 특정 개인의 질환을 Green Run 한 사건에 단독 귀속하는 것은 문서만으로 확정할 수 없다.",
-          "textEn": "**Established:** In December 1949 Hanford conducted the planned Green Run to test airborne radiological detection, releasing iodine-131 and monitoring the plume; filtration bypass is documented.\n\n**Not established:** Historical estimates differ, roughly spanning about 7,000 to 11,000 curies, and records do not by themselves prove that a particular individual’s illness was caused solely by Green Run."
+          "textKo": "확인됨: Green Run은 1949년 Hanford에서 Soviet-production detection method를 시험하기 위해 수행된 intentional radioactive release였고 Hanford 역사상 largest single I-131 release로 기록된다.\n\n확인되지 않음: aggregate release data만으로 특정 개인의 exact dose와 later disease causation을 자동확정할 수는 없다.",
+          "textEn": "Established: The Green Run was an intentional 1949 Hanford radioactive release designed to test detection methods for Soviet nuclear production and is recorded as Hanford's largest single I-131 release.\n\nNot established: Aggregate release data alone do not determine an individual's exact dose or later disease causation."
         }
       ],
       "factBoundary": {
-        "established": "**Established:** In December 1949 Hanford conducted the planned Green Run to test airborne radiological detection, releasing iodine-131 and monitoring the plume; filtration bypass is documented.\n\n**Not established:** Historical estimates differ, roughly spanning about 7,000 to 11,000 curies, and records do not by themselves prove that a particular individual’s illness was caused solely by Green Run.",
+        "established": "Established: The Green Run was an intentional 1949 Hanford radioactive release designed to test detection methods for Soviet nuclear production and is recorded as Hanford's largest single I-131 release.\n\nNot established: Aggregate release data alone do not determine an individual's exact dose or later disease causation.",
         "notEstablished": "See final fact boundary."
       },
       "audioNarrationOrder": [
-        "b01",
-        "b02",
-        "b03",
-        "b04",
-        "b05",
-        "b06",
-        "b07"
+        "scene-01",
+        "fuel-02",
+        "release-03",
+        "weather-04",
+        "secrecy-05"
       ]
     }
   },
   "claims": [
     {
-      "claimId": "green-run-C1",
+      "claimId": "GREEN-C1",
       "status": "CONFIRMED",
-      "statementKo": "Green Run은 1949년 Hanford에서 수행된 계획된 방사성 요오드 방출·탐지 실험이다.",
-      "statementEn": "Green Run was a planned Hanford radioactive-iodine release and detection experiment in 1949.",
+      "statementKo": "Green Run은 1949년 intentional radioactive-release experiment였다.",
+      "statementEn": "The Green Run was an intentional radioactive-release experiment in 1949.",
       "sourceRefs": [
-        "ATSDR_HANFORD",
-        "OSTI_GREEN_RUN"
+        "GREEN_NPS"
       ]
     },
     {
-      "claimId": "green-run-C2",
-      "status": "CONFIRMED_WITH_RANGE",
-      "statementKo": "I-131 방출량은 역사 자료 재구성에 따라 약 7천~1.1만 curie 규모로 추정치가 다르다.",
-      "statementEn": "Historical reconstructions place the iodine-131 release in a range of roughly 7,000 to 11,000 curies.",
+      "claimId": "GREEN-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Hanford 역사상 largest single I-131 release로 기록된다.",
+      "statementEn": "It is recorded as Hanford's largest single I-131 release.",
       "sourceRefs": [
-        "ATSDR_HANFORD",
-        "ROBKIN_1992"
+        "GREEN_NPS"
       ]
     },
     {
-      "claimId": "green-run-C3",
+      "claimId": "GREEN-C3",
       "status": "NOT_ESTABLISHED",
-      "statementKo": "특정 개인의 질환을 Green Run 한 번의 방출에 단독 귀속할 수는 없다.",
-      "statementEn": "A specific individual illness cannot be attributed solely to the Green Run from these records.",
+      "statementKo": "aggregate release만으로 individual health causation을 확정할 수 없다.",
+      "statementEn": "Aggregate release information does not by itself establish individual health causation.",
       "sourceRefs": [
-        "CDC_HTDS"
+        "GREEN_NPS"
       ]
     }
   ],
   "sources": [
     {
-      "sourceId": "ATSDR_HANFORD",
-      "title": "Hanford Site Final Public Health Assessment",
-      "publisher": "ATSDR / CDC",
-      "url": "https://www.atsdr.cdc.gov/hac/pha/hanfordsite/hanfordsitefinalpha05172011.pdf",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "OSTI_GREEN_RUN",
-      "title": "The Green Run — declassified public information",
-      "publisher": "U.S. Department of Energy OSTI",
-      "url": "https://www.osti.gov/opennet/servlets/purl/16109635.pdf",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "ROBKIN_1992",
-      "title": "Experimental Release of 131I: The Green Run",
-      "publisher": "Health Physics / OSTI copy",
-      "url": "https://www.osti.gov/opennet/servlets/purl/16006333.pdf",
-      "sourceType": "SOURCE_BOUNDED"
-    },
-    {
-      "sourceId": "CDC_HTDS",
-      "title": "Hanford Thyroid Disease Study Final Report",
-      "publisher": "CDC",
-      "url": "https://stacks.cdc.gov/view/cdc/142550",
-      "sourceType": "SOURCE_BOUNDED"
+      "sourceId": "GREEN_NPS",
+      "title": "The Green Run",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/articles/000/the-green-run.htm",
+      "sourceType": "US_GOVERNMENT_HISTORY"
     }
   ],
   "visuals": [
     {
-      "assetId": "green-run-release-v01",
-      "role": "PROCESS_CHAIN",
-      "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
+      "assetId": "green-v01",
+      "role": "TIMELINE",
+      "assetKind": "PROJECT_ORIGINAL_TIMELINE",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "짧은 cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring.",
-      "captionEn": "short cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring.",
-      "altKo": "짧은 cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring.",
-      "altEn": "short cooling → T Plant dissolution → filter bypass → atmospheric plume → ground/air monitoring.",
+      "captionKo": "Soviet detection problem → short-cooled fuel → release → weather dispersion → later disclosure.",
+      "captionEn": "Soviet detection problem → short-cooled fuel → release → weather dispersion → later disclosure.",
+      "altKo": "Soviet detection problem → short-cooled fuel → release → weather dispersion → later disclosure.",
+      "altEn": "Soviet detection problem → short-cooled fuel → release → weather dispersion → later disclosure.",
       "sourceRefs": [
-        "OSTI_GREEN_RUN",
-        "ATSDR_HANFORD"
+        "GREEN_NPS"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "green-run__release-v01__ko.png",
-          "sha256": "294d29451e16ce0475c7578bcf88dfc9018c2481895909874a8df212ea37f4b2",
+          "fileName": "green-run__v01__ko.png",
+          "sha256": "f7de30d5dde7290a15511c0dab27b57f6c8f91d87a47ae90a21287afd58ff917",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "green-run__release-v01__en.png",
-          "sha256": "831ed9e1a23860986e85e94b4f9150cb1dca83e894b967b89005f74047adc4c2",
+          "fileName": "green-run__v01__en.png",
+          "sha256": "1168ae2645617ad40b281eeecac914f07f9d34487643bad1cb9acfe79a75b006",
           "width": 1600,
           "height": 900
         }
@@ -296,31 +228,30 @@
       "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
     },
     {
-      "assetId": "green-run-range-v02",
-      "role": "UNCERTAINTY_RANGE",
+      "assetId": "green-v02",
+      "role": "MECHANISM_DIAGRAM",
       "assetKind": "PROJECT_ORIGINAL_DIAGRAM",
       "rightsStatus": "PROJECT_ORIGINAL",
       "rightsQa": "PASS",
       "isDocumentaryEvidence": false,
       "isReconstruction": false,
-      "captionKo": "I-131 release estimate는 약 7,000~11,000 Ci 범위의 역사 재구성으로 읽어야 한다.",
-      "captionEn": "Read the iodine-131 release as a historical reconstruction range of roughly 7,000–11,000 Ci.",
-      "altKo": "I-131 release estimate는 약 7,000~11,000 Ci 범위의 역사 재구성으로 읽어야 한다.",
-      "altEn": "Read the iodine-131 release as a historical reconstruction range of roughly 7,000–11,000 Ci.",
+      "captionKo": "short cooling이 I-131 activity와 airborne release를 키운 구조.",
+      "captionEn": "How short cooling increased I-131 activity and airborne release.",
+      "altKo": "short cooling이 I-131 activity와 airborne release를 키운 구조.",
+      "altEn": "How short cooling increased I-131 activity and airborne release.",
       "sourceRefs": [
-        "ATSDR_HANFORD",
-        "ROBKIN_1992"
+        "GREEN_NPS"
       ],
       "localizedFiles": {
         "ko": {
-          "fileName": "green-run__range-v02__ko.png",
-          "sha256": "9d3c6a19fb3baff028cc6271b260a0a2a7ebdacaedd2c3b4339dff4a840731ec",
+          "fileName": "green-run__v02__ko.png",
+          "sha256": "b6db7126f4a539dca4bd749a4c7b231dd8522b0664dfa571c286b3b9d0c9bc6c",
           "width": 1600,
           "height": 900
         },
         "en": {
-          "fileName": "green-run__range-v02__en.png",
-          "sha256": "3953c21e3898d4dc610ad087bcd728c25f6d0a6dd1c97c72a1204c90891c3be2",
+          "fileName": "green-run__v02__en.png",
+          "sha256": "9fd440a575bdcc22cc1cc3d690414954669095dde3b32dc57e6f9030aa36d881",
           "width": 1600,
           "height": 900
         }
@@ -332,50 +263,48 @@
     }
   ],
   "metadata": {
-    "primaryGenre": "Declassified Programs / Intelligence",
+    "primaryGenre": "Intelligence / Secret Program / Conspiracy",
     "secondaryGenres": [
-      "Nuclear History",
-      "Public Health"
+      "Medicine / Psychology / Human Experiment"
     ],
     "countries": [
       "United States"
     ],
     "regions": [
-      "Washington"
+      "Hanford, Washington"
     ],
     "places": [
-      "Hanford Site",
-      "T Plant"
+      {
+        "name": "Hanford",
+        "role": "experiment site"
+      }
     ],
     "people": [],
     "organizations": [
-      "U.S. Air Force",
-      "Hanford",
-      "CDC",
-      "ATSDR"
+      "Atomic Energy Commission",
+      "U.S. Air Force"
     ],
     "dateRange": {
       "start": "1949-12-02",
-      "end": "1949-12-03",
-      "precision": "documented experiment window"
+      "end": "1949-12",
+      "precision": "experiment period"
     },
     "era": "Early Cold War",
-    "resolution": "DOCUMENTED_EVENT_WITH_QUANTITATIVE_UNCERTAINTY",
+    "resolution": "PROGRAM_AND_RELEASE_CONFIRMED_INDIVIDUAL_HEALTH_CAUSATION_CASE_SPECIFIC",
     "searchAliases": [
       "Green Run",
-      "Hanford Green Run",
-      "그린 런"
+      "Hanford Green Run"
     ],
     "relatedCases": [
       "plutonium-injections"
     ]
   },
   "quality": {
-    "koBodyChars": 1779,
-    "enBodyWords": 347,
-    "meaningfulBlockCount": 8,
+    "koBodyChars": 1545,
+    "enBodyWords": 194,
+    "meaningfulBlockCount": 6,
     "visualPlacementCount": 2,
-    "sourceCount": 4,
+    "sourceCount": 1,
     "claimCount": 3,
     "factBoundaryPass": true,
     "koPass": true,
@@ -388,8 +317,8 @@
     "randomGatePass": false
   },
   "mediaPackage": {
-    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20",
-    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH20_MANIFEST_v1.0.json",
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH22",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH22_MANIFEST_v1.0.json",
     "assetGroups": 2,
     "localizedFiles": 4,
     "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",

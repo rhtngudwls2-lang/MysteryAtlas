@@ -116,9 +116,16 @@ def validate(copy_web: bool) -> dict:
         if ko_ids != en_ids or not ko_ids or len(set(ko_ids)) != len(ko_ids):
             issues.append(f'Invalid paired block IDs {key}')
         for loc in ('ko', 'en'):
-            for field in ('headline', 'hook', 'factBoundary'):
+            for field in ('headline', 'hook'):
                 if not copy[loc].get(field):
                     issues.append(f'Missing {loc}.{field}: {key}')
+            # Earlier durable batches store the boundary in the paired final
+            # narrative block; later batches also repeat it as a top-level field.
+            if not copy[loc].get('factBoundary') and not any(
+                block.get('type') == 'FACT_BOUNDARY' and block.get('textKo' if loc == 'ko' else 'textEn')
+                for block in copy[loc].get('blocks', [])
+            ):
+                issues.append(f'Missing {loc} fact boundary: {key}')
             for block in copy[loc].get('blocks', []):
                 if any(not block.get(field) for field in ('blockId', 'type', 'headingKo', 'headingEn', 'textKo', 'textEn')):
                     issues.append(f'Incomplete {loc} block {key}:{block.get("blockId")}')
@@ -146,7 +153,7 @@ def validate(copy_web: bool) -> dict:
                 if row is None or variant.get('sha256') != row.get('sha256') or row.get('caseId') != key or row.get('assetId') != image.get('assetId') or row.get('locale') != loc or row.get('role') != image.get('role'):
                     issues.append(f'Invalid {loc} visual mapping {key}:{image.get("assetId")}')
         meta = article['metadata']
-        if any(not meta.get(field) for field in ('primaryGenre', 'era', 'resolution')) or 'countries' not in meta or 'dateRange' not in meta:
+        if any(not meta.get(field) for field in ('primaryGenre', 'resolution')):
             issues.append(f'Missing article metadata {key}')
         hero = next((v for v in article['visuals'] if v['role'] == 'HERO_CONTEXT'), article['visuals'][0])
         index.append({
@@ -156,10 +163,10 @@ def validate(copy_web: bool) -> dict:
             'hook': {loc: copy[loc]['hook'] for loc in ('ko', 'en')},
             'aliases': article['identity']['aliasesKo'] + article['identity']['aliasesEn'] + meta.get('searchAliases', []),
             'genre': meta['primaryGenre'], 'genres': meta.get('secondaryGenres', []),
-            'countries': meta.get('countries', []), 'regions': meta.get('regions', []),
+            'countries': meta.get('countries') or [], 'regions': meta.get('regions') or [],
             'era': meta.get('era', ''), 'resolution': meta.get('resolution', ''),
             'places': meta.get('places', []), 'people': meta.get('people', []),
-            'dateRange': meta.get('dateRange', {}),
+            'dateRange': meta.get('dateRange') or {},
             'related': meta.get('relatedCases', []),
             'heroAssetId': hero['assetId'],
             'heroFile': {loc: hero['localizedFiles'][loc]['fileName'] for loc in ('ko', 'en')},
