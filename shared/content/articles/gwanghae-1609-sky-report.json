@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "gwanghae-1609-sky-report",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1609년 강원도의 기이한 하늘 기록",
+    "canonicalTitleEn": "The 1609 Joseon Sky Reports",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1609년 조선의 여러 고을이 같은 날 기록한 ‘하늘의 물체’는 무엇이었나",
+      "hook": "실록은 맑은 대낮의 굉음·불빛·연기 같은 흔적을 여러 지역에서 기록하지만, 현대의 ‘외계 UFO’라는 이름은 원문보다 훨씬 뒤의 해석이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "한 달 뒤 조정에 올라온 강원도 보고",
+          "headingEn": "A Provincial Report Reaches the Court",
+          "textKo": "광해군 1년 기록에는 강원 감사 이형욱이 간성·원주·강릉·춘천·양양 등에서 같은 음력 8월 25일 관측된 기이한 하늘 현상을 모아 보고한 기사가 있다. 맑은 대낮, 우레 같은 소리, 붉은 빛과 흰 흔적, 이동하는 형체가 지역마다 조금씩 다르게 묘사됐다.",
+          "textEn": "The first year of Gwanghae's reign contains a report compiled by the Gangwon governor from observations in Ganseong, Wonju, Gangneung, Chuncheon, Yangyang, and other places on the same lunar date. Clear daytime skies, thunder-like sounds, red light, white traces, and moving forms were described differently from town to town."
+        },
+        {
+          "blockId": "02",
+          "type": "PRIMARY",
+          "headingKo": "실록 원문이 실제로 말하는 것",
+          "headingEn": "What the Annals Actually Say",
+          "textKo": "간성 기록은 푸른 하늘에서 연기 같은 것이 생기고 북소리 같은 굉음이 났다고 한다. 원주는 붉은 베 같은 것이 길게 흘렀다고 적었고, 강릉·춘천·양양도 빛나는 물체와 소리를 기록했다. 이것은 국가 기록체계 안에 남은 다지역 관측자료다.",
+          "textEn": "The Ganseong account describes smoke-like forms and a drum-like sound. Wonju reported something red and cloth-like moving across the sky, while Gangneung, Chuncheon, and Yangyang preserved other descriptions of bright forms and noise. These are multi-location observations preserved in an official state record."
+        },
+        {
+          "blockId": "03",
+          "type": "SAME_DAY",
+          "headingKo": "같은 날의 별도 천문기록",
+          "headingEn": "A Separate Astronomical Entry",
+          "textKo": "같은 날짜 실록에는 대낮에 태백성이 보였고, 항아리만 한 ‘영두성’이 횃불처럼 빠르게 지나가며 소리를 냈다는 별도 천문기록도 있다. 선천군의 불덩어리 보고도 이어진다. 당시 관측자들은 낯선 자연현상을 천문·재이 기록의 언어로 남겼다.",
+          "textEn": "Another annal entry for the same date records Venus visible in daylight and a 'yeongdu star' as large as a jar moving rapidly like a torch with audible noise. A fireball report from Seoncheon also appears. Joseon observers recorded unfamiliar phenomena in the astronomical and omen vocabulary of their time."
+        },
+        {
+          "blockId": "04",
+          "type": "INTERPRETATION",
+          "headingKo": "현대의 ‘UFO 사건’이라는 이름",
+          "headingEn": "The Modern 'UFO' Label",
+          "textKo": "오늘날 인터넷에서는 이 기록을 ‘1609 조선 UFO’라고 부르기도 한다. 그러나 UFO는 본래 정체가 확인되지 않은 관측이라는 뜻일 수 있지만, 대중문화에서는 쉽게 외계비행체 의미로 바뀐다. 실록 원문에는 외계 존재나 인공 비행체라는 주장이 없다.",
+          "textEn": "Online retellings often call the episode a '1609 Joseon UFO incident.' 'Unidentified' can simply mean that an observer did not know the cause, but popular culture often turns the term into an extraterrestrial claim. The original annals contain no statement about aliens or an artificial craft."
+        },
+        {
+          "blockId": "05",
+          "type": "METEOR",
+          "headingKo": "유성·화구 설명은 얼마나 맞나",
+          "headingEn": "How Well Does a Meteor Explanation Fit?",
+          "textKo": "굉음, 매우 밝은 불빛, 빠른 이동, 지나간 뒤 남는 흰 흔적은 큰 유성이나 bolide에서 나타날 수 있는 특징과 상당 부분 맞는다. 국가유산 교육 콘텐츠도 유성 가능성을 주요 설명으로 검토한다. 다만 지역별 묘사가 모두 동일한 한 물체의 단일 궤적을 뜻하는지는 자료만으로 확정하기 어렵다.",
+          "textEn": "Loud sonic effects, exceptional brightness, rapid motion, and persistent pale trails are all compatible with a large meteor or bolide. Korean heritage educational material treats a meteor as a major natural explanation. The surviving texts do not prove that every local description represented one object on one precisely reconstructed path."
+        },
+        {
+          "blockId": "06",
+          "type": "CONTEXT",
+          "headingKo": "기록자는 자연과 정치적 징조를 함께 읽었다",
+          "headingEn": "Observation and Omen Were Recorded Together",
+          "textKo": "조선의 재이 기록은 오늘날 과학관측일지와 목적이 같지 않았다. 천문현상을 정치적 경계나 징조로 해석하는 사관의 논평이 함께 들어가기도 한다. 따라서 물리현상을 복원할 때는 관측 묘사와 당시의 상징적 해석을 분리해야 한다.",
+          "textEn": "Joseon omen records were not written for the same purpose as a modern scientific log. Physical description could be accompanied by political or moral interpretation. Reconstructing the phenomenon therefore requires separating what witnesses described from how court historians interpreted its significance."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "역사적 관측자료로서의 가치",
+          "headingEn": "Why the Record Still Matters",
+          "textKo": "이 기록의 가치는 ‘조선이 외계인을 봤다’는 데 있지 않다. 같은 날짜에 여러 지역의 관리가 소리·색·방향·잔광을 구체적으로 남겼다는 점이 중요하다. 현대 천문학적 설명을 검토할 수 있는 드문 역사 관측기록이지만, 17세기 표현을 현대 센서 데이터처럼 과잉정밀하게 읽으면 안 된다.",
+          "textEn": "The historical value does not depend on extraterrestrials. Several officials preserved details of sound, colour, direction, and luminous traces on a common date. That makes the entry an unusual historical observation set, but seventeenth-century language should not be treated as if it were modern sensor telemetry."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "기록 날짜를 읽을 때도 주의가 필요하다. 강원 감사의 종합 보고는 사건 당일이 아니라 나중에 조정에 올라왔고, 같은 현상으로 보이는 기록이 다른 날짜 기사에도 나뉘어 있다. 이는 사건이 조작됐다는 뜻이 아니라 조선의 행정 보고와 실록 편찬 구조 때문이다. 따라서 현대 연표를 만들 때는 ‘관측일’과 ‘기록이 실린 기사일’을 분리해야 한다.",
+          "textEn": "The dates require care as well. The Gangwon governor's compiled report reached the court after the observation date, while related astronomical descriptions appear in separate annal entries. That does not imply fabrication; it reflects Joseon's administrative reporting and chronicle structure. A modern timeline should therefore distinguish the date of observation from the later date on which a report was entered."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "물리 원인을 더 좁히려면 중국·일본 등 주변 지역의 같은 날짜 천문기록, 유성 궤적을 복원할 수 있는 방향·시간자료, 운석 낙하 증거를 함께 찾아야 한다. 현재 실록만으로는 여러 지역 보고가 정확히 한 bolide의 경로인지, 같은 날의 복수 현상인지 완전히 결정할 수 없다. 그래서 자연설이 유력해도 세부 궤적은 열어 둔다.",
+          "textEn": "Further physical reconstruction would require same-date astronomical records from neighbouring regions, directional and timing data sufficient for trajectory work, or meteorite-fall evidence. The annals alone cannot determine whether every local report described one bolide track or multiple phenomena on the same day. A natural explanation can be strong while the detailed trajectory remains open."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1609년 광해군일기에는 강원도 여러 고을과 다른 지역에서 대낮의 밝은 물체·굉음·흔적을 본 기록이 실제 존재한다. 큰 유성·화구 현상은 여러 묘사와 양립하는 현대적 자연설명이다.\n\nNOT ESTABLISHED: 기록이 외계 우주선이나 인공 비행체를 관측한 증거라는 주장은 원문과 물리증거로 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: the Gwanghaegun annals contain real 1609 records from multiple Korean locations describing bright daytime aerial phenomena, loud sounds, and lingering traces. A large meteor or bolide is compatible with many details.\n\nNOT ESTABLISHED: the records do not establish that observers saw an extraterrestrial spacecraft or artificial vehicle."
+        }
+      ],
+      "factBoundary": {
+        "established": "1609년 광해군일기에는 강원도 여러 고을과 다른 지역에서 대낮의 밝은 물체·굉음·흔적을 본 기록이 실제 존재한다. 큰 유성·화구 현상은 여러 묘사와 양립하는 현대적 자연설명이다.",
+        "notEstablished": "기록이 외계 우주선이나 인공 비행체를 관측한 증거라는 주장은 원문과 물리증거로 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "What Did Joseon Officials Record in the Sky in 1609?",
+      "hook": "The Joseon annals preserve multi-location reports of sound, light, and smoke-like traces, but the modern 'alien UFO' label is much later than the record itself.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "한 달 뒤 조정에 올라온 강원도 보고",
+          "headingEn": "A Provincial Report Reaches the Court",
+          "textKo": "광해군 1년 기록에는 강원 감사 이형욱이 간성·원주·강릉·춘천·양양 등에서 같은 음력 8월 25일 관측된 기이한 하늘 현상을 모아 보고한 기사가 있다. 맑은 대낮, 우레 같은 소리, 붉은 빛과 흰 흔적, 이동하는 형체가 지역마다 조금씩 다르게 묘사됐다.",
+          "textEn": "The first year of Gwanghae's reign contains a report compiled by the Gangwon governor from observations in Ganseong, Wonju, Gangneung, Chuncheon, Yangyang, and other places on the same lunar date. Clear daytime skies, thunder-like sounds, red light, white traces, and moving forms were described differently from town to town."
+        },
+        {
+          "blockId": "02",
+          "type": "PRIMARY",
+          "headingKo": "실록 원문이 실제로 말하는 것",
+          "headingEn": "What the Annals Actually Say",
+          "textKo": "간성 기록은 푸른 하늘에서 연기 같은 것이 생기고 북소리 같은 굉음이 났다고 한다. 원주는 붉은 베 같은 것이 길게 흘렀다고 적었고, 강릉·춘천·양양도 빛나는 물체와 소리를 기록했다. 이것은 국가 기록체계 안에 남은 다지역 관측자료다.",
+          "textEn": "The Ganseong account describes smoke-like forms and a drum-like sound. Wonju reported something red and cloth-like moving across the sky, while Gangneung, Chuncheon, and Yangyang preserved other descriptions of bright forms and noise. These are multi-location observations preserved in an official state record."
+        },
+        {
+          "blockId": "03",
+          "type": "SAME_DAY",
+          "headingKo": "같은 날의 별도 천문기록",
+          "headingEn": "A Separate Astronomical Entry",
+          "textKo": "같은 날짜 실록에는 대낮에 태백성이 보였고, 항아리만 한 ‘영두성’이 횃불처럼 빠르게 지나가며 소리를 냈다는 별도 천문기록도 있다. 선천군의 불덩어리 보고도 이어진다. 당시 관측자들은 낯선 자연현상을 천문·재이 기록의 언어로 남겼다.",
+          "textEn": "Another annal entry for the same date records Venus visible in daylight and a 'yeongdu star' as large as a jar moving rapidly like a torch with audible noise. A fireball report from Seoncheon also appears. Joseon observers recorded unfamiliar phenomena in the astronomical and omen vocabulary of their time."
+        },
+        {
+          "blockId": "04",
+          "type": "INTERPRETATION",
+          "headingKo": "현대의 ‘UFO 사건’이라는 이름",
+          "headingEn": "The Modern 'UFO' Label",
+          "textKo": "오늘날 인터넷에서는 이 기록을 ‘1609 조선 UFO’라고 부르기도 한다. 그러나 UFO는 본래 정체가 확인되지 않은 관측이라는 뜻일 수 있지만, 대중문화에서는 쉽게 외계비행체 의미로 바뀐다. 실록 원문에는 외계 존재나 인공 비행체라는 주장이 없다.",
+          "textEn": "Online retellings often call the episode a '1609 Joseon UFO incident.' 'Unidentified' can simply mean that an observer did not know the cause, but popular culture often turns the term into an extraterrestrial claim. The original annals contain no statement about aliens or an artificial craft."
+        },
+        {
+          "blockId": "05",
+          "type": "METEOR",
+          "headingKo": "유성·화구 설명은 얼마나 맞나",
+          "headingEn": "How Well Does a Meteor Explanation Fit?",
+          "textKo": "굉음, 매우 밝은 불빛, 빠른 이동, 지나간 뒤 남는 흰 흔적은 큰 유성이나 bolide에서 나타날 수 있는 특징과 상당 부분 맞는다. 국가유산 교육 콘텐츠도 유성 가능성을 주요 설명으로 검토한다. 다만 지역별 묘사가 모두 동일한 한 물체의 단일 궤적을 뜻하는지는 자료만으로 확정하기 어렵다.",
+          "textEn": "Loud sonic effects, exceptional brightness, rapid motion, and persistent pale trails are all compatible with a large meteor or bolide. Korean heritage educational material treats a meteor as a major natural explanation. The surviving texts do not prove that every local description represented one object on one precisely reconstructed path."
+        },
+        {
+          "blockId": "06",
+          "type": "CONTEXT",
+          "headingKo": "기록자는 자연과 정치적 징조를 함께 읽었다",
+          "headingEn": "Observation and Omen Were Recorded Together",
+          "textKo": "조선의 재이 기록은 오늘날 과학관측일지와 목적이 같지 않았다. 천문현상을 정치적 경계나 징조로 해석하는 사관의 논평이 함께 들어가기도 한다. 따라서 물리현상을 복원할 때는 관측 묘사와 당시의 상징적 해석을 분리해야 한다.",
+          "textEn": "Joseon omen records were not written for the same purpose as a modern scientific log. Physical description could be accompanied by political or moral interpretation. Reconstructing the phenomenon therefore requires separating what witnesses described from how court historians interpreted its significance."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "역사적 관측자료로서의 가치",
+          "headingEn": "Why the Record Still Matters",
+          "textKo": "이 기록의 가치는 ‘조선이 외계인을 봤다’는 데 있지 않다. 같은 날짜에 여러 지역의 관리가 소리·색·방향·잔광을 구체적으로 남겼다는 점이 중요하다. 현대 천문학적 설명을 검토할 수 있는 드문 역사 관측기록이지만, 17세기 표현을 현대 센서 데이터처럼 과잉정밀하게 읽으면 안 된다.",
+          "textEn": "The historical value does not depend on extraterrestrials. Several officials preserved details of sound, colour, direction, and luminous traces on a common date. That makes the entry an unusual historical observation set, but seventeenth-century language should not be treated as if it were modern sensor telemetry."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "기록 날짜를 읽을 때도 주의가 필요하다. 강원 감사의 종합 보고는 사건 당일이 아니라 나중에 조정에 올라왔고, 같은 현상으로 보이는 기록이 다른 날짜 기사에도 나뉘어 있다. 이는 사건이 조작됐다는 뜻이 아니라 조선의 행정 보고와 실록 편찬 구조 때문이다. 따라서 현대 연표를 만들 때는 ‘관측일’과 ‘기록이 실린 기사일’을 분리해야 한다.",
+          "textEn": "The dates require care as well. The Gangwon governor's compiled report reached the court after the observation date, while related astronomical descriptions appear in separate annal entries. That does not imply fabrication; it reflects Joseon's administrative reporting and chronicle structure. A modern timeline should therefore distinguish the date of observation from the later date on which a report was entered."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "물리 원인을 더 좁히려면 중국·일본 등 주변 지역의 같은 날짜 천문기록, 유성 궤적을 복원할 수 있는 방향·시간자료, 운석 낙하 증거를 함께 찾아야 한다. 현재 실록만으로는 여러 지역 보고가 정확히 한 bolide의 경로인지, 같은 날의 복수 현상인지 완전히 결정할 수 없다. 그래서 자연설이 유력해도 세부 궤적은 열어 둔다.",
+          "textEn": "Further physical reconstruction would require same-date astronomical records from neighbouring regions, directional and timing data sufficient for trajectory work, or meteorite-fall evidence. The annals alone cannot determine whether every local report described one bolide track or multiple phenomena on the same day. A natural explanation can be strong while the detailed trajectory remains open."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1609년 광해군일기에는 강원도 여러 고을과 다른 지역에서 대낮의 밝은 물체·굉음·흔적을 본 기록이 실제 존재한다. 큰 유성·화구 현상은 여러 묘사와 양립하는 현대적 자연설명이다.\n\nNOT ESTABLISHED: 기록이 외계 우주선이나 인공 비행체를 관측한 증거라는 주장은 원문과 물리증거로 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: the Gwanghaegun annals contain real 1609 records from multiple Korean locations describing bright daytime aerial phenomena, loud sounds, and lingering traces. A large meteor or bolide is compatible with many details.\n\nNOT ESTABLISHED: the records do not establish that observers saw an extraterrestrial spacecraft or artificial vehicle."
+        }
+      ],
+      "factBoundary": {
+        "established": "the Gwanghaegun annals contain real 1609 records from multiple Korean locations describing bright daytime aerial phenomena, loud sounds, and lingering traces. A large meteor or bolide is compatible with many details.",
+        "notEstablished": "the records do not establish that observers saw an extraterrestrial spacecraft or artificial vehicle."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GWANGHAE_1609_SKY_REPORT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1609년 광해군일기에는 강원도 여러 고을과 다른 지역에서 대낮의 밝은 물체·굉음·흔적을 본 기록이 실제 존재한다. 큰 유성·화구 현상은 여러 묘사와 양립하는 현대적 자연설명이다.",
+      "statementEn": "the Gwanghaegun annals contain real 1609 records from multiple Korean locations describing bright daytime aerial phenomena, loud sounds, and lingering traces. A large meteor or bolide is compatible with many details.",
+      "sourceRefs": [
+        "SILLOK_1609_GANGWON",
+        "SILLOK_1609_METEOR",
+        "KHERITAGE_1609"
+      ]
+    },
+    {
+      "claimId": "GWANGHAE_1609_SKY_REPORT-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "기록이 외계 우주선이나 인공 비행체를 관측한 증거라는 주장은 원문과 물리증거로 확립되지 않았다.",
+      "statementEn": "the records do not establish that observers saw an extraterrestrial spacecraft or artificial vehicle.",
+      "sourceRefs": [
+        "SILLOK_1609_GANGWON",
+        "SILLOK_1609_METEOR",
+        "KHERITAGE_1609"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SILLOK_1609_GANGWON",
+      "title": "강원도에서 일어난 기이한 자연현상에 대해 강원 감사 이형욱이 치계하다",
+      "publisher": "국사편찬위원회 조선왕조실록",
+      "url": "https://sillok.history.go.kr/id/kob_10109025_003",
+      "sourceType": "PRIMARY_HISTORICAL_RECORD"
+    },
+    {
+      "sourceId": "SILLOK_1609_METEOR",
+      "title": "사시에 태백성이 나타나고 오시에 영두성이 나타나다",
+      "publisher": "국사편찬위원회 조선왕조실록",
+      "url": "https://sillok.history.go.kr/id/kob_10108025_002",
+      "sourceType": "PRIMARY_HISTORICAL_RECORD"
+    },
+    {
+      "sourceId": "KHERITAGE_1609",
+      "title": "광해군일기 1609년 하늘 기록 콘텐츠",
+      "publisher": "국가유산진흥원 국가유산 콘텐츠",
+      "url": "https://uci.k-heritage.tv/resolver/I801%3A2204008-001-V00002",
+      "sourceType": "PUBLIC_HERITAGE_EDUCATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gwanghae-1609-sky-report-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, record, and reassessment.",
+      "altKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, record, and reassessment.",
+      "sourceRefs": [
+        "SILLOK_1609_GANGWON",
+        "SILLOK_1609_METEOR",
+        "KHERITAGE_1609"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v01__ko.png",
+          "sha256": "7ac0233462e25f175d8c2d3f3463f941d7106fe231afa4762e3aad1e42a18dd4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v01__ko.png"
+        },
+        "en": {
+          "file": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v01__en.png",
+          "sha256": "b0269f9b4eef9766331361f549a0ef2ee4c561e225070af1df67145d63e18cdd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "gwanghae-1609-sky-report-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "SILLOK_1609_GANGWON",
+        "SILLOK_1609_METEOR",
+        "KHERITAGE_1609"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v02__ko.png",
+          "sha256": "36d6a3a17004300fd944693281b98946ffaa68c92ac06b02bca7d31efd207875",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v02__ko.png"
+        },
+        "en": {
+          "file": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v02__en.png",
+          "sha256": "0ac7c1444e0bb3113b6e24d61a8be8016455828526f2133886da91155b3ed0c0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "gwanghae-1609-sky-report-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "SILLOK_1609_GANGWON",
+        "SILLOK_1609_METEOR",
+        "KHERITAGE_1609"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v03__ko.png",
+          "sha256": "3783532063f1d352b5dcded1303f28e309472eb323a6c7b7ac7982a56f32668a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v03__ko.png"
+        },
+        "en": {
+          "file": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v03__en.png",
+          "sha256": "562836517b66520e40c80ae0383c18c718708ca4306e62485a779724a6c69070",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Korea",
+    "era": "1609",
+    "genre": "Historical Sky Anomaly",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Historical Sky Anomaly",
+    "resolution": "unknown",
+    "countries": [
+      "Korea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1550,
+    "enBodyWords": 489
+  }
+}

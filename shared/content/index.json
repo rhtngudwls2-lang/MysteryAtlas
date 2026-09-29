@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MediaBatch41_ExpansionLock03",
+  "sourcePack": "batch42-clean.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -201,6 +201,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "aleppo-codex-missing-pages",
+      "title": {
+        "ko": "알레포 코덱스의 사라진 장",
+        "en": "The Missing Pages of the Aleppo Codex"
+      },
+      "headline": {
+        "ko": "불탄 줄 알았던 알레포 코덱스의 수백 쪽은 어디로 사라졌나",
+        "en": "What Happened to the Missing Leaves of the Aleppo Codex?"
+      },
+      "hook": {
+        "ko": "실험에서는 화재 흔적이 확인되지 않았고, 사라졌던 낱장이 훗날 다시 나타나면서 ‘모두 불탔다’는 단순한 설명은 흔들렸다.",
+        "en": "Laboratory examination found no burning on the codex, and later recovery of missing fragments weakened the simple story that all missing leaves were destroyed by fire."
+      },
+      "aliases": [],
+      "genre": "Manuscript / Missing Object Mystery",
+      "genres": [],
+      "countries": [
+        "Syria / Israel"
+      ],
+      "regions": [],
+      "era": "10th century–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "aleppo-codex-missing-pages-v01",
+      "heroFile": {
+        "ko": "aleppo-codex-missing-pages__aleppo-codex-missing-pages-v01__ko.png",
+        "en": "aleppo-codex-missing-pages__aleppo-codex-missing-pages-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -840,6 +898,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "atlanta-child-murders-1979",
+      "title": {
+        "ko": "애틀랜타 아동 살인사건 기록",
+        "en": "The Atlanta Child Murders: What the Record Establishes"
+      },
+      "headline": {
+        "ko": "Wayne Williams는 무엇으로 유죄가 됐고, 29건 전체는 왜 같은 판결이 아닌가",
+        "en": "What Was Wayne Williams Convicted Of—and What Was Never Adjudicated?"
+      },
+      "hook": {
+        "ko": "두 건의 살인 유죄판결과 다른 사건들에 대한 수사기관의 연결 판단을 구분해야 이 사건의 기록을 정확히 읽을 수 있다.",
+        "en": "The record becomes clearer when two murder convictions are separated from later law-enforcement attribution of other deaths."
+      },
+      "aliases": [],
+      "genre": "Crime / Attribution Boundary",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1979–1982",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "atlanta-child-murders-1979-v01",
+      "heroFile": {
+        "ko": "atlanta-child-murders-1979__atlanta-child-murders-1979-v01__ko.png",
+        "en": "atlanta-child-murders-1979__atlanta-child-murders-1979-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -5370,6 +5486,64 @@
       }
     },
     {
+      "canonicalId": "gwanghae-1609-sky-report",
+      "title": {
+        "ko": "1609년 강원도의 기이한 하늘 기록",
+        "en": "The 1609 Joseon Sky Reports"
+      },
+      "headline": {
+        "ko": "1609년 조선의 여러 고을이 같은 날 기록한 ‘하늘의 물체’는 무엇이었나",
+        "en": "What Did Joseon Officials Record in the Sky in 1609?"
+      },
+      "hook": {
+        "ko": "실록은 맑은 대낮의 굉음·불빛·연기 같은 흔적을 여러 지역에서 기록하지만, 현대의 ‘외계 UFO’라는 이름은 원문보다 훨씬 뒤의 해석이다.",
+        "en": "The Joseon annals preserve multi-location reports of sound, light, and smoke-like traces, but the modern 'alien UFO' label is much later than the record itself."
+      },
+      "aliases": [],
+      "genre": "Historical Sky Anomaly",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "1609",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "gwanghae-1609-sky-report-v01",
+      "heroFile": {
+        "ko": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v01__ko.png",
+        "en": "gwanghae-1609-sky-report__gwanghae-1609-sky-report-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "haarp-weather-control",
       "title": {
         "ko": "HAARP 날씨조작설",
@@ -5440,6 +5614,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "hammersmith-ghost-trial-1804",
+      "title": {
+        "ko": "해머스미스 유령 오인 살인 재판",
+        "en": "The Hammersmith Ghost Murder Case"
+      },
+      "headline": {
+        "ko": "유령을 잡으러 나간 순찰대는 왜 흰옷 입은 사람을 쐈나",
+        "en": "How a Ghost Hunt Ended in the Shooting of a Man in White"
+      },
+      "hook": {
+        "ko": "1803년 런던 외곽의 유령 소문은 실제 총격과 살인재판으로 이어졌고, ‘착각한 정당방위’라는 법적 질문까지 남겼다.",
+        "en": "A ghost panic in 1803 led to a real shooting, a murder trial, and a legal problem about mistaken self-defence."
+      },
+      "aliases": [],
+      "genre": "Folklore / Legal Mystery",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [],
+      "era": "1803–1804",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "hammersmith-ghost-trial-1804-v01",
+      "heroFile": {
+        "ko": "hammersmith-ghost-trial-1804__hammersmith-ghost-trial-1804-v01__ko.png",
+        "en": "hammersmith-ghost-trial-1804__hammersmith-ghost-trial-1804-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -6055,6 +6287,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "jack-ripper-records",
+      "title": {
+        "ko": "잭 더 리퍼 문서와 익명의 범인",
+        "en": "Jack the Ripper: Records of an Unknown Killer"
+      },
+      "headline": {
+        "ko": "수백 통의 ‘잭 더 리퍼’ 편지와 경찰 문서는 범인의 이름을 남겼나",
+        "en": "Did the Ripper Letters and Police Files Ever Reveal the Killer's Name?"
+      },
+      "hook": {
+        "ko": "화이트채플 살인은 기록이 방대하지만, 문서가 많다는 사실과 범인의 신원이 확인됐다는 것은 전혀 다른 이야기다.",
+        "en": "The Whitechapel murders generated a vast paper trail, but a large archive is not the same thing as an identified killer."
+      },
+      "aliases": [],
+      "genre": "Crime / Identity Mystery",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [],
+      "era": "1888–1894",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "jack-ripper-records-v01",
+      "heroFile": {
+        "ko": "jack-ripper-records__jack-ripper-records-v01__ko.png",
+        "en": "jack-ripper-records__jack-ripper-records-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -8682,6 +8972,64 @@
       }
     },
     {
+      "canonicalId": "ms-estonia-1994",
+      "title": {
+        "ko": "에스토니아호 침몰과 후속 재조사",
+        "en": "MV Estonia: The 1994 Sinking and Later Reassessment"
+      },
+      "headline": {
+        "ko": "2020년 발견된 선체 손상은 에스토니아호 침몰 원인을 뒤집었나",
+        "en": "Did the Hull Damage Revealed in 2020 Overturn the Estonia Sinking Investigation?"
+      },
+      "hook": {
+        "ko": "새로운 영상은 재조사를 촉발했지만, 2025년 3개국 조사기관의 최종 평가는 기존 핵심 결론을 뒤집을 근거를 찾지 못했다.",
+        "en": "New footage triggered a fresh assessment, but the 2025 joint review found no basis to overturn the core technical findings."
+      },
+      "aliases": [],
+      "genre": "Maritime / Evidence Reassessment",
+      "genres": [],
+      "countries": [
+        "Estonia / Sweden / Finland"
+      ],
+      "regions": [],
+      "era": "1994–2025",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "ms-estonia-1994-v01",
+      "heroFile": {
+        "ko": "ms-estonia-1994__ms-estonia-1994-v01__ko.png",
+        "en": "ms-estonia-1994__ms-estonia-1994-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "mumler-spirit-photography",
       "title": {
         "ko": "멈러의 영혼 사진과 재판",
@@ -9144,6 +9492,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "nz-airship-scare-1909",
+      "title": {
+        "ko": "1909년 뉴질랜드 공중선 소동",
+        "en": "New Zealand's 1909 Phantom Airship Scare"
+      },
+      "headline": {
+        "ko": "1909년 뉴질랜드 하늘의 ‘비밀 공중선’은 왜 갑자기 사라졌나",
+        "en": "What Was Behind New Zealand's 1909 Phantom Airship Scare?"
+      },
+      "hook": {
+        "ko": "전국에서 공중선 목격담이 쏟아졌지만, 동시대 기록에는 불풍선·상자연·장난이 실제로 목격을 만들어낸 사례가 남아 있다.",
+        "en": "Airship reports spread across New Zealand, but contemporary records also document fire balloons, box kites, and practical jokes producing sightings."
+      },
+      "aliases": [],
+      "genre": "Mass Sighting / Explained Mystery",
+      "genres": [],
+      "countries": [
+        "New Zealand"
+      ],
+      "regions": [],
+      "era": "1909",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "nz-airship-scare-1909-v01",
+      "heroFile": {
+        "ko": "nz-airship-scare-1909__nz-airship-scare-1909-v01__ko.png",
+        "en": "nz-airship-scare-1909__nz-airship-scare-1909-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9964,6 +10370,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "oseberg-ship-women",
+      "title": {
+        "ko": "오세베르그 선박 묘 여성들의 정체",
+        "en": "The Women of the Oseberg Ship Burial"
+      },
+      "headline": {
+        "ko": "바이킹 최고의 선박 묘에 묻힌 두 여성은 누구였나",
+        "en": "Who Were the Two Women in the Oseberg Ship Burial?"
+      },
+      "hook": {
+        "ko": "배와 호화로운 부장품은 높은 지위를 말하지만, 두 여성의 이름은 아직 고고학으로 되찾지 못했다.",
+        "en": "The ship and extraordinary grave goods signal high status, but archaeology has not recovered the women's names."
+      },
+      "aliases": [],
+      "genre": "Archaeology / Identity Mystery",
+      "genres": [],
+      "countries": [
+        "Norway"
+      ],
+      "regions": [],
+      "era": "834 CE",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "oseberg-ship-women-v01",
+      "heroFile": {
+        "ko": "oseberg-ship-women__oseberg-ship-women-v01__ko.png",
+        "en": "oseberg-ship-women__oseberg-ship-women-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -13032,6 +13496,64 @@
       }
     },
     {
+      "canonicalId": "setagaya-family-case",
+      "title": {
+        "ko": "세타가야 일가족 사건 수사기록",
+        "en": "The Unsolved Setagaya Family Murder"
+      },
+      "headline": {
+        "ko": "수많은 물증을 남긴 범인은 왜 25년 넘게 특정되지 않았나",
+        "en": "Why Has the Setagaya Killer Remained Unidentified Despite Extensive Physical Evidence?"
+      },
+      "hook": {
+        "ko": "현장에는 의류·지문·생물학적 흔적 등 많은 단서가 남았지만, 도쿄 경찰은 2026년 현재도 범인을 찾고 있다.",
+        "en": "Clothing, fingerprints, biological material, and other evidence were left behind, yet Tokyo police still seek the killer more than twenty-five years later."
+      },
+      "aliases": [],
+      "genre": "Crime / Unsolved Identity",
+      "genres": [],
+      "countries": [
+        "Japan"
+      ],
+      "regions": [],
+      "era": "2000–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "setagaya-family-case-v01",
+      "heroFile": {
+        "ko": "setagaya-family-case__setagaya-family-case-v01__ko.png",
+        "en": "setagaya-family-case__setagaya-family-case-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "shag-harbour",
       "title": {
         "ko": "셰그 하버 사건",
@@ -14437,6 +14959,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "troy-schliemann-excavation",
+      "title": {
+        "ko": "트로이 발굴과 전설의 지층",
+        "en": "Troy, Schliemann, and the Wrong Layer"
+      },
+      "headline": {
+        "ko": "‘프리아모스의 보물’은 왜 프리아모스 시대의 보물이 아니었나",
+        "en": "Why 'Priam's Treasure' Came from the Wrong Troy"
+      },
+      "hook": {
+        "ko": "Schliemann은 실제 트로이를 발굴했지만, 자신이 호메로스의 왕과 연결한 보물은 너무 오래된 지층에서 나왔다.",
+        "en": "Schliemann excavated the real site of Troy, but the treasure he linked to Homer's king came from a layer that was far too early."
+      },
+      "aliases": [],
+      "genre": "Archaeology / Claim vs Evidence",
+      "genres": [],
+      "countries": [
+        "Türkiye"
+      ],
+      "regions": [],
+      "era": "1870s / Bronze Age",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "troy-schliemann-excavation-v01",
+      "heroFile": {
+        "ko": "troy-schliemann-excavation__troy-schliemann-excavation-v01__ko.png",
+        "en": "troy-schliemann-excavation__troy-schliemann-excavation-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, record, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

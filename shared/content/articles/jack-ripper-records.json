@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "jack-ripper-records",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "잭 더 리퍼 문서와 익명의 범인",
+    "canonicalTitleEn": "Jack the Ripper: Records of an Unknown Killer",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "수백 통의 ‘잭 더 리퍼’ 편지와 경찰 문서는 범인의 이름을 남겼나",
+      "hook": "화이트채플 살인은 기록이 방대하지만, 문서가 많다는 사실과 범인의 신원이 확인됐다는 것은 전혀 다른 이야기다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1888년 화이트채플의 연쇄살인",
+          "headingEn": "The Whitechapel Murders of 1888",
+          "textKo": "1888년 런던 화이트채플 일대에서 여러 여성이 살해됐다. 영국 국립문서보관소는 Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes, Mary Jane Kelly를 이 사건의 대표적인 다섯 피해자로 정리한다. 당시 대규모 경찰수사가 진행됐지만 범인은 체포되지 않았다.",
+          "textEn": "A series of murders in Whitechapel, London, became one of history's most famous unsolved crime cases. The UK National Archives highlights Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes, and Mary Jane Kelly among the central victims. A major police investigation followed, but the killer was never caught."
+        },
+        {
+          "blockId": "02",
+          "type": "LETTERS",
+          "headingKo": "범인의 이름을 만든 편지들",
+          "headingEn": "Letters That Created a Name",
+          "textKo": "경찰에는 ‘Jack the Ripper’라고 서명한 편지가 대량으로 들어왔다. 오늘날 보존된 기록은 그중 상당수가 장난·모방·허위 편지였음을 보여준다. 유명한 별명이 널리 퍼진 사실과 실제 살인범이 그 이름을 사용했다는 사실은 구분해야 한다.",
+          "textEn": "Police received large numbers of letters signed 'Jack the Ripper.' Surviving records show that many were hoaxes, imitations, or false claims. The fact that the name became famous must be separated from any claim that the murderer personally authored the letters that popularized it."
+        },
+        {
+          "blockId": "03",
+          "type": "POLICE_FILES",
+          "headingKo": "수사기록은 무엇을 남겼나",
+          "headingEn": "What the Police Files Preserve",
+          "textKo": "Metropolitan Police 기록에는 목격, 편지, 용의자 검토, 내부 메모가 남아 있다. 이 문서들은 당시 경찰이 어떤 가설을 검토했는지 보여주지만, 특정 인물을 법적으로 범인으로 확정한 결론서는 아니다. 미해결 사건에서 ‘용의자로 검토됐다’는 문구는 ‘범인으로 입증됐다’와 다르다.",
+          "textEn": "Metropolitan Police records preserve witness statements, letters, suspect discussions, and internal memoranda. They reveal what investigators considered, but they are not a final legal identification of the murderer. In an unsolved case, being discussed as a suspect is not the same as being proven guilty."
+        },
+        {
+          "blockId": "04",
+          "type": "MACNAGHTEN",
+          "headingKo": "1894년 Macnaghten 메모",
+          "headingEn": "The 1894 Macnaghten Memorandum",
+          "textKo": "1894년 작성된 Macnaghten 보고서는 세 명의 용의자를 언급한다. 후대 책과 방송은 이 명단을 자주 결정적 단서처럼 다루지만, 보고서 자체는 사건 발생 몇 년 뒤 작성된 내부 문서다. 세 명 가운데 누구도 재판을 통해 리퍼로 확인되지 않았다.",
+          "textEn": "An 1894 memorandum associated with Melville Macnaghten named three men as suspects. Later books and documentaries often treat the list as a decisive clue, but it was an internal document written years after the murders. None of the men was judicially established as Jack the Ripper."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "DNA와 후대 ‘해결 선언’의 문제",
+          "headingEn": "Modern DNA 'Solutions' Need Provenance",
+          "textKo": "현대에는 편지·유품·직물 등에 대한 DNA 주장이 반복적으로 등장했다. 그러나 표본의 provenance, 오염 가능성, 통계 해석, 실제 범행과의 연결고리가 모두 필요하다. 한 조각의 유전정보만으로 1888년 범인을 확정했다고 선언하려면 그 연결 전체가 검증돼야 한다.",
+          "textEn": "Modern claims have repeatedly invoked DNA from letters, garments, or other artifacts. Such claims require a reliable chain of custody, contamination control, statistical interpretation, and a demonstrated connection to the crime itself. A genetic result cannot identify the murderer unless the whole evidentiary chain holds."
+        },
+        {
+          "blockId": "06",
+          "type": "IDENTITY",
+          "headingKo": "왜 이름이 아직 남지 않았나",
+          "headingEn": "Why the Name Is Still Missing",
+          "textKo": "기록이 부족해서가 아니라 기록의 질과 연결이 결정적 수준에 이르지 못했기 때문이다. 범행 당시 수사기술의 한계, 다수의 허위 편지, 후대의 과장된 용의자 서사가 서로 겹치면서 파일은 방대해졌지만 최종 신원확정에는 이르지 못했다.",
+          "textEn": "The problem is not a lack of paper. It is the absence of evidence strong enough to bridge reports, suspects, and a final identity. Limited nineteenth-century forensic methods, hoax correspondence, and later sensational suspect theories enlarged the archive without producing a conclusive identification."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "문서가 말하는 것과 말하지 않는 것",
+          "headingEn": "What the Archive Does and Does Not Prove",
+          "textKo": "국립문서보관소의 파일은 사건이 실제였고 경찰이 다양한 단서를 추적했다는 강한 증거다. 그러나 특정 유명 용의자의 죄를 대신 입증해 주지는 않는다. 가장 안전한 읽기는 문서의 작성 시점과 목적, 그리고 법적 결론 유무를 함께 보는 것이다.",
+          "textEn": "National Archives material strongly documents the murders and the investigative process. It does not substitute for proof against a modern favourite suspect. The safest method is to read each document in its date, purpose, and legal context rather than treating every police suspicion as a solved case."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "또 하나의 함정은 ‘문서에 이름이 있다’는 사실을 ‘그 이름이 범인이다’로 바꾸는 것이다. 경찰 파일은 수사 당시 관심대상·정보제공자·편지 작성자·추정 용의자를 함께 담는다. 특히 Macnaghten 메모처럼 사건 몇 년 뒤 작성된 자료는 당시 경찰 내부의 평가를 보여주는 자료이지, 재판에서 검증된 신원확정 문서가 아니다. 이 구분을 유지해야 후대 인기 용의자 경쟁에서 기록이 왜곡되지 않는다.",
+          "textEn": "Another trap is converting 'a name appears in a police file' into 'that person was the killer.' Police archives contain people of interest, informants, letter writers, and suspects with very different evidentiary status. A document such as the later Macnaghten memorandum records an internal assessment, not a judicial identification tested at trial. Keeping that distinction prevents the archive from becoming a catalogue of falsely convicted historical suspects."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "범인 신원을 실제로 바꿀 수 있는 새 증거라면 범행현장과 확실히 연결된 시료의 검증된 provenance, 오염이 통제된 분석, 독립된 재현, 그리고 특정 인물과의 배타적 연결이 필요하다. 새 책이나 다큐가 오래된 용의자 이름을 다시 제시하는 것만으로는 1888년 사건의 증거 상태가 바뀌지 않는다.",
+          "textEn": "Evidence capable of changing the identification question would need a securely crime-linked sample, verified provenance, contamination control, independent replication, and an exclusive connection to a specific person. A new book or documentary repeating an old suspect's name does not change the evidentiary state of the 1888 case."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1888년 화이트채플 살인과 대규모 경찰수사, 수백 통의 ‘Jack the Ripper’ 편지, 1894년 Macnaghten 용의자 메모는 실제 기록으로 남아 있다.\n\nNOT ESTABLISHED: 현재 공개된 역사기록만으로 특정 인물을 잭 더 리퍼라고 확정할 수 없으며, 국립문서보관소도 범인이 잡히지 않았다고 정리한다.",
+          "textEn": "CONFIRMED / SUPPORTED: the Whitechapel murders, the major police investigation, hundreds of purported 'Jack the Ripper' letters, and the 1894 Macnaghten suspect memorandum are preserved in official records.\n\nNOT ESTABLISHED: the surviving historical record does not conclusively identify a specific person as Jack the Ripper, and the National Archives describes the killer as never caught."
+        }
+      ],
+      "factBoundary": {
+        "established": "1888년 화이트채플 살인과 대규모 경찰수사, 수백 통의 ‘Jack the Ripper’ 편지, 1894년 Macnaghten 용의자 메모는 실제 기록으로 남아 있다.",
+        "notEstablished": "현재 공개된 역사기록만으로 특정 인물을 잭 더 리퍼라고 확정할 수 없으며, 국립문서보관소도 범인이 잡히지 않았다고 정리한다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Did the Ripper Letters and Police Files Ever Reveal the Killer's Name?",
+      "hook": "The Whitechapel murders generated a vast paper trail, but a large archive is not the same thing as an identified killer.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1888년 화이트채플의 연쇄살인",
+          "headingEn": "The Whitechapel Murders of 1888",
+          "textKo": "1888년 런던 화이트채플 일대에서 여러 여성이 살해됐다. 영국 국립문서보관소는 Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes, Mary Jane Kelly를 이 사건의 대표적인 다섯 피해자로 정리한다. 당시 대규모 경찰수사가 진행됐지만 범인은 체포되지 않았다.",
+          "textEn": "A series of murders in Whitechapel, London, became one of history's most famous unsolved crime cases. The UK National Archives highlights Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes, and Mary Jane Kelly among the central victims. A major police investigation followed, but the killer was never caught."
+        },
+        {
+          "blockId": "02",
+          "type": "LETTERS",
+          "headingKo": "범인의 이름을 만든 편지들",
+          "headingEn": "Letters That Created a Name",
+          "textKo": "경찰에는 ‘Jack the Ripper’라고 서명한 편지가 대량으로 들어왔다. 오늘날 보존된 기록은 그중 상당수가 장난·모방·허위 편지였음을 보여준다. 유명한 별명이 널리 퍼진 사실과 실제 살인범이 그 이름을 사용했다는 사실은 구분해야 한다.",
+          "textEn": "Police received large numbers of letters signed 'Jack the Ripper.' Surviving records show that many were hoaxes, imitations, or false claims. The fact that the name became famous must be separated from any claim that the murderer personally authored the letters that popularized it."
+        },
+        {
+          "blockId": "03",
+          "type": "POLICE_FILES",
+          "headingKo": "수사기록은 무엇을 남겼나",
+          "headingEn": "What the Police Files Preserve",
+          "textKo": "Metropolitan Police 기록에는 목격, 편지, 용의자 검토, 내부 메모가 남아 있다. 이 문서들은 당시 경찰이 어떤 가설을 검토했는지 보여주지만, 특정 인물을 법적으로 범인으로 확정한 결론서는 아니다. 미해결 사건에서 ‘용의자로 검토됐다’는 문구는 ‘범인으로 입증됐다’와 다르다.",
+          "textEn": "Metropolitan Police records preserve witness statements, letters, suspect discussions, and internal memoranda. They reveal what investigators considered, but they are not a final legal identification of the murderer. In an unsolved case, being discussed as a suspect is not the same as being proven guilty."
+        },
+        {
+          "blockId": "04",
+          "type": "MACNAGHTEN",
+          "headingKo": "1894년 Macnaghten 메모",
+          "headingEn": "The 1894 Macnaghten Memorandum",
+          "textKo": "1894년 작성된 Macnaghten 보고서는 세 명의 용의자를 언급한다. 후대 책과 방송은 이 명단을 자주 결정적 단서처럼 다루지만, 보고서 자체는 사건 발생 몇 년 뒤 작성된 내부 문서다. 세 명 가운데 누구도 재판을 통해 리퍼로 확인되지 않았다.",
+          "textEn": "An 1894 memorandum associated with Melville Macnaghten named three men as suspects. Later books and documentaries often treat the list as a decisive clue, but it was an internal document written years after the murders. None of the men was judicially established as Jack the Ripper."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "DNA와 후대 ‘해결 선언’의 문제",
+          "headingEn": "Modern DNA 'Solutions' Need Provenance",
+          "textKo": "현대에는 편지·유품·직물 등에 대한 DNA 주장이 반복적으로 등장했다. 그러나 표본의 provenance, 오염 가능성, 통계 해석, 실제 범행과의 연결고리가 모두 필요하다. 한 조각의 유전정보만으로 1888년 범인을 확정했다고 선언하려면 그 연결 전체가 검증돼야 한다.",
+          "textEn": "Modern claims have repeatedly invoked DNA from letters, garments, or other artifacts. Such claims require a reliable chain of custody, contamination control, statistical interpretation, and a demonstrated connection to the crime itself. A genetic result cannot identify the murderer unless the whole evidentiary chain holds."
+        },
+        {
+          "blockId": "06",
+          "type": "IDENTITY",
+          "headingKo": "왜 이름이 아직 남지 않았나",
+          "headingEn": "Why the Name Is Still Missing",
+          "textKo": "기록이 부족해서가 아니라 기록의 질과 연결이 결정적 수준에 이르지 못했기 때문이다. 범행 당시 수사기술의 한계, 다수의 허위 편지, 후대의 과장된 용의자 서사가 서로 겹치면서 파일은 방대해졌지만 최종 신원확정에는 이르지 못했다.",
+          "textEn": "The problem is not a lack of paper. It is the absence of evidence strong enough to bridge reports, suspects, and a final identity. Limited nineteenth-century forensic methods, hoax correspondence, and later sensational suspect theories enlarged the archive without producing a conclusive identification."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "문서가 말하는 것과 말하지 않는 것",
+          "headingEn": "What the Archive Does and Does Not Prove",
+          "textKo": "국립문서보관소의 파일은 사건이 실제였고 경찰이 다양한 단서를 추적했다는 강한 증거다. 그러나 특정 유명 용의자의 죄를 대신 입증해 주지는 않는다. 가장 안전한 읽기는 문서의 작성 시점과 목적, 그리고 법적 결론 유무를 함께 보는 것이다.",
+          "textEn": "National Archives material strongly documents the murders and the investigative process. It does not substitute for proof against a modern favourite suspect. The safest method is to read each document in its date, purpose, and legal context rather than treating every police suspicion as a solved case."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "또 하나의 함정은 ‘문서에 이름이 있다’는 사실을 ‘그 이름이 범인이다’로 바꾸는 것이다. 경찰 파일은 수사 당시 관심대상·정보제공자·편지 작성자·추정 용의자를 함께 담는다. 특히 Macnaghten 메모처럼 사건 몇 년 뒤 작성된 자료는 당시 경찰 내부의 평가를 보여주는 자료이지, 재판에서 검증된 신원확정 문서가 아니다. 이 구분을 유지해야 후대 인기 용의자 경쟁에서 기록이 왜곡되지 않는다.",
+          "textEn": "Another trap is converting 'a name appears in a police file' into 'that person was the killer.' Police archives contain people of interest, informants, letter writers, and suspects with very different evidentiary status. A document such as the later Macnaghten memorandum records an internal assessment, not a judicial identification tested at trial. Keeping that distinction prevents the archive from becoming a catalogue of falsely convicted historical suspects."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "범인 신원을 실제로 바꿀 수 있는 새 증거라면 범행현장과 확실히 연결된 시료의 검증된 provenance, 오염이 통제된 분석, 독립된 재현, 그리고 특정 인물과의 배타적 연결이 필요하다. 새 책이나 다큐가 오래된 용의자 이름을 다시 제시하는 것만으로는 1888년 사건의 증거 상태가 바뀌지 않는다.",
+          "textEn": "Evidence capable of changing the identification question would need a securely crime-linked sample, verified provenance, contamination control, independent replication, and an exclusive connection to a specific person. A new book or documentary repeating an old suspect's name does not change the evidentiary state of the 1888 case."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1888년 화이트채플 살인과 대규모 경찰수사, 수백 통의 ‘Jack the Ripper’ 편지, 1894년 Macnaghten 용의자 메모는 실제 기록으로 남아 있다.\n\nNOT ESTABLISHED: 현재 공개된 역사기록만으로 특정 인물을 잭 더 리퍼라고 확정할 수 없으며, 국립문서보관소도 범인이 잡히지 않았다고 정리한다.",
+          "textEn": "CONFIRMED / SUPPORTED: the Whitechapel murders, the major police investigation, hundreds of purported 'Jack the Ripper' letters, and the 1894 Macnaghten suspect memorandum are preserved in official records.\n\nNOT ESTABLISHED: the surviving historical record does not conclusively identify a specific person as Jack the Ripper, and the National Archives describes the killer as never caught."
+        }
+      ],
+      "factBoundary": {
+        "established": "the Whitechapel murders, the major police investigation, hundreds of purported 'Jack the Ripper' letters, and the 1894 Macnaghten suspect memorandum are preserved in official records.",
+        "notEstablished": "the surviving historical record does not conclusively identify a specific person as Jack the Ripper, and the National Archives describes the killer as never caught."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "JACK_RIPPER_RECORDS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1888년 화이트채플 살인과 대규모 경찰수사, 수백 통의 ‘Jack the Ripper’ 편지, 1894년 Macnaghten 용의자 메모는 실제 기록으로 남아 있다.",
+      "statementEn": "the Whitechapel murders, the major police investigation, hundreds of purported 'Jack the Ripper' letters, and the 1894 Macnaghten suspect memorandum are preserved in official records.",
+      "sourceRefs": [
+        "TNA_RIPPER_LETTER",
+        "TNA_MACNAGHTEN"
+      ]
+    },
+    {
+      "claimId": "JACK_RIPPER_RECORDS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 공개된 역사기록만으로 특정 인물을 잭 더 리퍼라고 확정할 수 없으며, 국립문서보관소도 범인이 잡히지 않았다고 정리한다.",
+      "statementEn": "the surviving historical record does not conclusively identify a specific person as Jack the Ripper, and the National Archives describes the killer as never caught.",
+      "sourceRefs": [
+        "TNA_RIPPER_LETTER",
+        "TNA_MACNAGHTEN"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "TNA_RIPPER_LETTER",
+      "title": "Hoax letter signed by ‘Jack the Ripper’",
+      "publisher": "The National Archives (UK)",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/hoax-letter-signed-by-jack-the-ripper/",
+      "sourceType": "GOVERNMENT_ARCHIVE"
+    },
+    {
+      "sourceId": "TNA_MACNAGHTEN",
+      "title": "Macnaghten report identifying three suspects for the Ripper murders",
+      "publisher": "The National Archives (UK)",
+      "url": "https://images.nationalarchives.gov.uk/asset/35952/",
+      "sourceType": "GOVERNMENT_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "jack-ripper-records-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, record, and reassessment.",
+      "altKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, record, and reassessment.",
+      "sourceRefs": [
+        "TNA_RIPPER_LETTER",
+        "TNA_MACNAGHTEN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "jack-ripper-records__jack-ripper-records-v01__ko.png",
+          "sha256": "264ee353c6b0979cd3dba0b3057ac7e18817500335193bdfdeb125b9ba1521a0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "jack-ripper-records__jack-ripper-records-v01__ko.png"
+        },
+        "en": {
+          "file": "jack-ripper-records__jack-ripper-records-v01__en.png",
+          "sha256": "d53aebf8cac0c11cc1b9b309053d346f5b4132616d047c99575ccecd3dab870c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "jack-ripper-records__jack-ripper-records-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "jack-ripper-records-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "TNA_RIPPER_LETTER",
+        "TNA_MACNAGHTEN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "jack-ripper-records__jack-ripper-records-v02__ko.png",
+          "sha256": "9757226acd23e46740635573c6bf06ca6ac57dd9149d1ee0a391e47f368e6d23",
+          "width": 1600,
+          "height": 900,
+          "fileName": "jack-ripper-records__jack-ripper-records-v02__ko.png"
+        },
+        "en": {
+          "file": "jack-ripper-records__jack-ripper-records-v02__en.png",
+          "sha256": "6ad136a00019d72667e9f9e7878ca008c039919791d22d0fd93a729254cbb291",
+          "width": 1600,
+          "height": 900,
+          "fileName": "jack-ripper-records__jack-ripper-records-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "jack-ripper-records-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "TNA_RIPPER_LETTER",
+        "TNA_MACNAGHTEN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "jack-ripper-records__jack-ripper-records-v03__ko.png",
+          "sha256": "d8446c1486e78f6f9b582d9032494fde281cf1e9776b343f6e3980cdfc6422ab",
+          "width": 1600,
+          "height": 900,
+          "fileName": "jack-ripper-records__jack-ripper-records-v03__ko.png"
+        },
+        "en": {
+          "file": "jack-ripper-records__jack-ripper-records-v03__en.png",
+          "sha256": "70aed2c3e3215e57524c206b3533d3131a2cfa235304441f145f1a43d48c7c53",
+          "width": 1600,
+          "height": 900,
+          "fileName": "jack-ripper-records__jack-ripper-records-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United Kingdom",
+    "era": "1888–1894",
+    "genre": "Crime / Identity Mystery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Crime / Identity Mystery",
+    "resolution": "unknown",
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1629,
+    "enBodyWords": 488
+  }
+}

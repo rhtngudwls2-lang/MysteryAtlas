@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "ms-estonia-1994",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "에스토니아호 침몰과 후속 재조사",
+    "canonicalTitleEn": "MV Estonia: The 1994 Sinking and Later Reassessment",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "2020년 발견된 선체 손상은 에스토니아호 침몰 원인을 뒤집었나",
+      "hook": "새로운 영상은 재조사를 촉발했지만, 2025년 3개국 조사기관의 최종 평가는 기존 핵심 결론을 뒤집을 근거를 찾지 못했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1994년 9월 28일",
+          "headingEn": "September 28, 1994",
+          "textKo": "여객선 MV Estonia는 Tallinn에서 Stockholm으로 항해하던 중 침몰했다. 탑승자 989명 가운데 852명이 사망한 대형 해난사고였다. 에스토니아·핀란드·스웨덴은 공동사고조사위원회(JAIC)를 구성했고 1997년 최종보고서를 냈다.",
+          "textEn": "The passenger ferry MV Estonia sank while travelling from Tallinn to Stockholm. Of 989 people aboard, 852 died. Estonia, Finland, and Sweden formed a Joint Accident Investigation Commission, which published its final report in 1997."
+        },
+        {
+          "blockId": "02",
+          "type": "JAIC",
+          "headingKo": "1997년 조사결론",
+          "headingEn": "The 1997 Technical Explanation",
+          "textKo": "JAIC는 선수 바이저가 거친 바다에서 파손·분리되고 램프가 열리면서 차량갑판으로 물이 유입된 연쇄를 사고의 핵심으로 설명했다. 이후 오랜 기간 이 결론과 조사 범위를 둘러싼 논쟁이 이어졌다.",
+          "textEn": "The JAIC identified failure and separation of the bow visor, followed by opening of the ramp and flooding of the vehicle deck, as central to the loss sequence. Debate about the accident and the scope of the original investigation continued for decades."
+        },
+        {
+          "blockId": "03",
+          "type": "NEW_EVIDENCE",
+          "headingKo": "2020년 공개된 선체 손상",
+          "headingEn": "Hull Damage Revealed in 2020",
+          "textKo": "2020년 다큐멘터리 영상은 기존에 충분히 관찰되지 못했던 우현 선체의 큰 손상을 보여줬다. 이 영상 때문에 ‘다른 선박 충돌이나 폭발 같은 외부 원인이 있었던 것 아니냐’는 의문이 다시 커졌고, 3개국 안전조사기관이 새 예비평가를 시작했다.",
+          "textEn": "Documentary footage released in 2020 showed substantial damage on the starboard side that had not previously been fully observable. The images revived claims involving collision or explosion and led the Estonian, Swedish, and Finnish safety authorities to begin a new preliminary assessment."
+        },
+        {
+          "blockId": "04",
+          "type": "SURVEYS",
+          "headingKo": "ROV·3D 모델·금속 샘플",
+          "headingEn": "ROVs, 3D Models, and Material Samples",
+          "textKo": "새 평가는 해저 촬영, 3D 모델링, 선체와 해저 샘플 분석, 인양된 선수 램프 조사 등을 수행했다. 2023년 중간결과와 재료검사에서는 금속 물체와의 충돌 흔적이나 폭발물 흔적이 확인되지 않았고, 손상 위치는 해저 암반과 접촉할 수 있는 위치와 대응했다.",
+          "textEn": "The new assessment used underwater surveys, 3D modelling, hull and seabed samples, and examination of the recovered bow ramp. Interim findings and material tests found no evidence of contact with a metal object or explosives, while the location of the damage corresponded with seabed bedrock."
+        },
+        {
+          "blockId": "05",
+          "type": "FINAL_2025",
+          "headingKo": "2025년 최종평가",
+          "headingEn": "The 2025 Final Assessment",
+          "textKo": "2025년 12월 에스토니아·스웨덴·핀란드 조사기관은 최종 예비평가를 공개했다. 이 평가는 우현 손상이 해저와의 접촉에서 생겼다고 결론내리고 1997년 JAIC 안전조사를 다시 열 필요가 없다고 판단했다. 새 정보가 기존 핵심 기술설명을 뒤집지 않았다는 의미다.",
+          "textEn": "In December 2025 the three investigation authorities published their final preliminary assessment. It concluded that the starboard damage resulted from contact with the seabed and that there was no need to reopen the 1997 JAIC safety investigation. The new evidence did not overturn the core technical explanation."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "재조사는 ‘아무 의문도 없다’는 뜻이 아니다",
+          "headingEn": "A Reassessment Does Not Erase Every Question",
+          "textKo": "대형 참사에는 구조·설계·운항·인증·구조 대응 등 여러 층의 질문이 남는다. 새 보고서가 특정 폭발·충돌 가설을 지지하지 않는다고 해서 사고의 모든 제도적·인적 쟁점이 사라지는 것은 아니다. 다만 특정 기술주장을 평가할 때는 최신 조사결과를 기준으로 해야 한다.",
+          "textEn": "A catastrophe of this scale raises many questions about design, certification, operation, rescue, and institutions. Rejecting a specific collision or explosion theory does not make every broader issue disappear. But technical claims about the sinking should be measured against the latest physical investigation."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "희생자와 유가족을 존중하는 증거 기준",
+          "headingEn": "Evidence Standards and Respect for Victims",
+          "textKo": "이 사건은 음모론적 단정이 실제 피해와 기억을 훼손할 수 있어 특히 신중해야 한다. 공식 조사도 책임자를 찾는 형사수사가 아니라 사고 원인을 규명해 재발을 막는 안전조사임을 명시한다. 따라서 확인된 기술증거와 추측을 분리하는 것이 중요하다.",
+          "textEn": "Speculative certainty can distort the memory of a disaster with real victims and surviving families. The official authorities stress that safety investigation seeks causes and prevention rather than criminal blame. Separating measured evidence from speculation is therefore essential."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "2020년 이후 조사의 중요한 특징은 새로 보인 구멍 하나만 보는 것이 아니라 선체 전체와 해저 지형의 관계를 3차원으로 재구성했다는 점이다. 금속시료의 폭발물 검사, 암반 위치, 선체 변형 계산이 서로 독립된 증거선으로 사용됐다. 하나의 영상 프레임보다 여러 분석이 같은 설명을 지지하는지 보는 방식이 대형 사고 재조사의 핵심이다.",
+          "textEn": "A key feature of the post-2020 work was that investigators did not interpret one newly visible hole in isolation. They reconstructed the wreck and seabed in three dimensions and compared material testing, explosive-residue examination, bedrock location, and structural modelling. Major accident reassessment depends on whether independent lines of evidence converge, not on the dramatic appearance of a single video frame."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "향후 새로운 주장이 기존 결론을 바꾸려면 영상의 인상보다 측정 가능한 물리증거가 필요하다. 예를 들어 기존 모델과 양립하지 않는 파괴패턴, 검증된 폭발 흔적, 다른 물체와의 충돌을 입증하는 재료전이처럼 독립적으로 확인되는 증거가 나와야 한다. 2025년까지의 공식 재평가는 그런 증거를 확인하지 못했다.",
+          "textEn": "Any future claim capable of overturning the current explanation would need measurable physical evidence rather than the appearance of footage alone—for example, damage incompatible with the existing sequence, verified explosive traces, or material transfer demonstrating collision with another object. The official reassessment through 2025 did not find such evidence."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: MV Estonia는 1994년 침몰해 852명이 사망했고, 1997년 JAIC 조사와 2020년 이후의 3개국 재평가가 실시됐다. 2025년 최종평가는 새 우현 손상이 해저 접촉에서 생겼으며 기존 조사 재개가 필요하지 않다고 결론냈다.\n\nNOT ESTABLISHED: 공개된 최신 조사결과는 다른 선박과의 충돌이나 폭발이 침몰을 일으켰다는 주장을 지지하지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: MV Estonia sank in 1994 with 852 deaths; a 1997 JAIC investigation and a multi-country reassessment after 2020 examined the loss. The 2025 final assessment attributed the newly highlighted starboard damage to seabed contact and found no need to reopen the original safety investigation.\n\nNOT ESTABLISHED: the latest public investigation does not support claims that collision with another vessel or an explosion caused the sinking."
+        }
+      ],
+      "factBoundary": {
+        "established": "MV Estonia는 1994년 침몰해 852명이 사망했고, 1997년 JAIC 조사와 2020년 이후의 3개국 재평가가 실시됐다. 2025년 최종평가는 새 우현 손상이 해저 접촉에서 생겼으며 기존 조사 재개가 필요하지 않다고 결론냈다.",
+        "notEstablished": "공개된 최신 조사결과는 다른 선박과의 충돌이나 폭발이 침몰을 일으켰다는 주장을 지지하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Did the Hull Damage Revealed in 2020 Overturn the Estonia Sinking Investigation?",
+      "hook": "New footage triggered a fresh assessment, but the 2025 joint review found no basis to overturn the core technical findings.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1994년 9월 28일",
+          "headingEn": "September 28, 1994",
+          "textKo": "여객선 MV Estonia는 Tallinn에서 Stockholm으로 항해하던 중 침몰했다. 탑승자 989명 가운데 852명이 사망한 대형 해난사고였다. 에스토니아·핀란드·스웨덴은 공동사고조사위원회(JAIC)를 구성했고 1997년 최종보고서를 냈다.",
+          "textEn": "The passenger ferry MV Estonia sank while travelling from Tallinn to Stockholm. Of 989 people aboard, 852 died. Estonia, Finland, and Sweden formed a Joint Accident Investigation Commission, which published its final report in 1997."
+        },
+        {
+          "blockId": "02",
+          "type": "JAIC",
+          "headingKo": "1997년 조사결론",
+          "headingEn": "The 1997 Technical Explanation",
+          "textKo": "JAIC는 선수 바이저가 거친 바다에서 파손·분리되고 램프가 열리면서 차량갑판으로 물이 유입된 연쇄를 사고의 핵심으로 설명했다. 이후 오랜 기간 이 결론과 조사 범위를 둘러싼 논쟁이 이어졌다.",
+          "textEn": "The JAIC identified failure and separation of the bow visor, followed by opening of the ramp and flooding of the vehicle deck, as central to the loss sequence. Debate about the accident and the scope of the original investigation continued for decades."
+        },
+        {
+          "blockId": "03",
+          "type": "NEW_EVIDENCE",
+          "headingKo": "2020년 공개된 선체 손상",
+          "headingEn": "Hull Damage Revealed in 2020",
+          "textKo": "2020년 다큐멘터리 영상은 기존에 충분히 관찰되지 못했던 우현 선체의 큰 손상을 보여줬다. 이 영상 때문에 ‘다른 선박 충돌이나 폭발 같은 외부 원인이 있었던 것 아니냐’는 의문이 다시 커졌고, 3개국 안전조사기관이 새 예비평가를 시작했다.",
+          "textEn": "Documentary footage released in 2020 showed substantial damage on the starboard side that had not previously been fully observable. The images revived claims involving collision or explosion and led the Estonian, Swedish, and Finnish safety authorities to begin a new preliminary assessment."
+        },
+        {
+          "blockId": "04",
+          "type": "SURVEYS",
+          "headingKo": "ROV·3D 모델·금속 샘플",
+          "headingEn": "ROVs, 3D Models, and Material Samples",
+          "textKo": "새 평가는 해저 촬영, 3D 모델링, 선체와 해저 샘플 분석, 인양된 선수 램프 조사 등을 수행했다. 2023년 중간결과와 재료검사에서는 금속 물체와의 충돌 흔적이나 폭발물 흔적이 확인되지 않았고, 손상 위치는 해저 암반과 접촉할 수 있는 위치와 대응했다.",
+          "textEn": "The new assessment used underwater surveys, 3D modelling, hull and seabed samples, and examination of the recovered bow ramp. Interim findings and material tests found no evidence of contact with a metal object or explosives, while the location of the damage corresponded with seabed bedrock."
+        },
+        {
+          "blockId": "05",
+          "type": "FINAL_2025",
+          "headingKo": "2025년 최종평가",
+          "headingEn": "The 2025 Final Assessment",
+          "textKo": "2025년 12월 에스토니아·스웨덴·핀란드 조사기관은 최종 예비평가를 공개했다. 이 평가는 우현 손상이 해저와의 접촉에서 생겼다고 결론내리고 1997년 JAIC 안전조사를 다시 열 필요가 없다고 판단했다. 새 정보가 기존 핵심 기술설명을 뒤집지 않았다는 의미다.",
+          "textEn": "In December 2025 the three investigation authorities published their final preliminary assessment. It concluded that the starboard damage resulted from contact with the seabed and that there was no need to reopen the 1997 JAIC safety investigation. The new evidence did not overturn the core technical explanation."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "재조사는 ‘아무 의문도 없다’는 뜻이 아니다",
+          "headingEn": "A Reassessment Does Not Erase Every Question",
+          "textKo": "대형 참사에는 구조·설계·운항·인증·구조 대응 등 여러 층의 질문이 남는다. 새 보고서가 특정 폭발·충돌 가설을 지지하지 않는다고 해서 사고의 모든 제도적·인적 쟁점이 사라지는 것은 아니다. 다만 특정 기술주장을 평가할 때는 최신 조사결과를 기준으로 해야 한다.",
+          "textEn": "A catastrophe of this scale raises many questions about design, certification, operation, rescue, and institutions. Rejecting a specific collision or explosion theory does not make every broader issue disappear. But technical claims about the sinking should be measured against the latest physical investigation."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "희생자와 유가족을 존중하는 증거 기준",
+          "headingEn": "Evidence Standards and Respect for Victims",
+          "textKo": "이 사건은 음모론적 단정이 실제 피해와 기억을 훼손할 수 있어 특히 신중해야 한다. 공식 조사도 책임자를 찾는 형사수사가 아니라 사고 원인을 규명해 재발을 막는 안전조사임을 명시한다. 따라서 확인된 기술증거와 추측을 분리하는 것이 중요하다.",
+          "textEn": "Speculative certainty can distort the memory of a disaster with real victims and surviving families. The official authorities stress that safety investigation seeks causes and prevention rather than criminal blame. Separating measured evidence from speculation is therefore essential."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "2020년 이후 조사의 중요한 특징은 새로 보인 구멍 하나만 보는 것이 아니라 선체 전체와 해저 지형의 관계를 3차원으로 재구성했다는 점이다. 금속시료의 폭발물 검사, 암반 위치, 선체 변형 계산이 서로 독립된 증거선으로 사용됐다. 하나의 영상 프레임보다 여러 분석이 같은 설명을 지지하는지 보는 방식이 대형 사고 재조사의 핵심이다.",
+          "textEn": "A key feature of the post-2020 work was that investigators did not interpret one newly visible hole in isolation. They reconstructed the wreck and seabed in three dimensions and compared material testing, explosive-residue examination, bedrock location, and structural modelling. Major accident reassessment depends on whether independent lines of evidence converge, not on the dramatic appearance of a single video frame."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "향후 새로운 주장이 기존 결론을 바꾸려면 영상의 인상보다 측정 가능한 물리증거가 필요하다. 예를 들어 기존 모델과 양립하지 않는 파괴패턴, 검증된 폭발 흔적, 다른 물체와의 충돌을 입증하는 재료전이처럼 독립적으로 확인되는 증거가 나와야 한다. 2025년까지의 공식 재평가는 그런 증거를 확인하지 못했다.",
+          "textEn": "Any future claim capable of overturning the current explanation would need measurable physical evidence rather than the appearance of footage alone—for example, damage incompatible with the existing sequence, verified explosive traces, or material transfer demonstrating collision with another object. The official reassessment through 2025 did not find such evidence."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: MV Estonia는 1994년 침몰해 852명이 사망했고, 1997년 JAIC 조사와 2020년 이후의 3개국 재평가가 실시됐다. 2025년 최종평가는 새 우현 손상이 해저 접촉에서 생겼으며 기존 조사 재개가 필요하지 않다고 결론냈다.\n\nNOT ESTABLISHED: 공개된 최신 조사결과는 다른 선박과의 충돌이나 폭발이 침몰을 일으켰다는 주장을 지지하지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: MV Estonia sank in 1994 with 852 deaths; a 1997 JAIC investigation and a multi-country reassessment after 2020 examined the loss. The 2025 final assessment attributed the newly highlighted starboard damage to seabed contact and found no need to reopen the original safety investigation.\n\nNOT ESTABLISHED: the latest public investigation does not support claims that collision with another vessel or an explosion caused the sinking."
+        }
+      ],
+      "factBoundary": {
+        "established": "MV Estonia sank in 1994 with 852 deaths; a 1997 JAIC investigation and a multi-country reassessment after 2020 examined the loss. The 2025 final assessment attributed the newly highlighted starboard damage to seabed contact and found no need to reopen the original safety investigation.",
+        "notEstablished": "the latest public investigation does not support claims that collision with another vessel or an explosion caused the sinking."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MS_ESTONIA_1994-C1",
+      "status": "CONFIRMED",
+      "statementKo": "MV Estonia는 1994년 침몰해 852명이 사망했고, 1997년 JAIC 조사와 2020년 이후의 3개국 재평가가 실시됐다. 2025년 최종평가는 새 우현 손상이 해저 접촉에서 생겼으며 기존 조사 재개가 필요하지 않다고 결론냈다.",
+      "statementEn": "MV Estonia sank in 1994 with 852 deaths; a 1997 JAIC investigation and a multi-country reassessment after 2020 examined the loss. The 2025 final assessment attributed the newly highlighted starboard damage to seabed contact and found no need to reopen the original safety investigation.",
+      "sourceRefs": [
+        "ESTONIA_JAIC",
+        "ESTONIA_2025",
+        "SHK_ESTONIA"
+      ]
+    },
+    {
+      "claimId": "MS_ESTONIA_1994-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "공개된 최신 조사결과는 다른 선박과의 충돌이나 폭발이 침몰을 일으켰다는 주장을 지지하지 않는다.",
+      "statementEn": "the latest public investigation does not support claims that collision with another vessel or an explosion caused the sinking.",
+      "sourceRefs": [
+        "ESTONIA_JAIC",
+        "ESTONIA_2025",
+        "SHK_ESTONIA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "ESTONIA_JAIC",
+      "title": "JAIC report",
+      "publisher": "Estonian Safety Investigation Bureau",
+      "url": "https://estonia1994.ee/en/news/jaic-report",
+      "sourceType": "OFFICIAL_ACCIDENT_INVESTIGATION"
+    },
+    {
+      "sourceId": "ESTONIA_2025",
+      "title": "Final Report of Preliminary Assessment of New Findings on MV ESTONIA Accident published",
+      "publisher": "Estonian Safety Investigation Bureau",
+      "url": "https://estonia1994.ee/en/news/final-report-preliminary-assessment-new-findings-mv-estonia-accident-published",
+      "sourceType": "OFFICIAL_ACCIDENT_INVESTIGATION"
+    },
+    {
+      "sourceId": "SHK_ESTONIA",
+      "title": "Preliminary assessment of new information on the sinking of M/V ESTONIA",
+      "publisher": "Swedish Accident Investigation Authority",
+      "url": "https://shk.se/engelska/the-swedish-accident-investigation-authority/search-investigation/maritime-transport/2023-11-27-preliminary-assessment-of-new-information-on-the-sinking-of-the-passenger-ship-m-v-estonia",
+      "sourceType": "OFFICIAL_ACCIDENT_INVESTIGATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "ms-estonia-1994-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, record, and reassessment.",
+      "altKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, record, and reassessment.",
+      "sourceRefs": [
+        "ESTONIA_JAIC",
+        "ESTONIA_2025",
+        "SHK_ESTONIA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "ms-estonia-1994__ms-estonia-1994-v01__ko.png",
+          "sha256": "e57e831f0114960af8fc91dc208b02d4de09bf98c72ffb4e8ee69a6e1c136aa2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "ms-estonia-1994__ms-estonia-1994-v01__ko.png"
+        },
+        "en": {
+          "file": "ms-estonia-1994__ms-estonia-1994-v01__en.png",
+          "sha256": "0a3b38e1f116c16e5f92a872d147ddecab0bfc8e7248c77c5a83f034a93041d7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "ms-estonia-1994__ms-estonia-1994-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "ms-estonia-1994-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "ESTONIA_JAIC",
+        "ESTONIA_2025",
+        "SHK_ESTONIA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "ms-estonia-1994__ms-estonia-1994-v02__ko.png",
+          "sha256": "07be14d7c9b407eb3cc939dbeab76a27fd42dd07e95b24a466e72797b5b35853",
+          "width": 1600,
+          "height": 900,
+          "fileName": "ms-estonia-1994__ms-estonia-1994-v02__ko.png"
+        },
+        "en": {
+          "file": "ms-estonia-1994__ms-estonia-1994-v02__en.png",
+          "sha256": "311fc76f03c7970124180c8c33a35a154f1b31939f5a6b0be4cd8de49f77ea6f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "ms-estonia-1994__ms-estonia-1994-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "ms-estonia-1994-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "ESTONIA_JAIC",
+        "ESTONIA_2025",
+        "SHK_ESTONIA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "ms-estonia-1994__ms-estonia-1994-v03__ko.png",
+          "sha256": "8ea753057ee7728292ab8ebb2906027bf8920d57fab720022d611f51d81b6cd8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "ms-estonia-1994__ms-estonia-1994-v03__ko.png"
+        },
+        "en": {
+          "file": "ms-estonia-1994__ms-estonia-1994-v03__en.png",
+          "sha256": "594fda9ae4738394f3a8d813eaef5ef14253c7bed9b80b6a9afcf93b3d44904c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "ms-estonia-1994__ms-estonia-1994-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Estonia / Sweden / Finland",
+    "era": "1994–2025",
+    "genre": "Maritime / Evidence Reassessment",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Maritime / Evidence Reassessment",
+    "resolution": "unknown",
+    "countries": [
+      "Estonia / Sweden / Finland"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1531,
+    "enBodyWords": 469
+  }
+}

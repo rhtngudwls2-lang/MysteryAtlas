@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "troy-schliemann-excavation",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "트로이 발굴과 전설의 지층",
+    "canonicalTitleEn": "Troy, Schliemann, and the Wrong Layer",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘프리아모스의 보물’은 왜 프리아모스 시대의 보물이 아니었나",
+      "hook": "Schliemann은 실제 트로이를 발굴했지만, 자신이 호메로스의 왕과 연결한 보물은 너무 오래된 지층에서 나왔다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "전설의 도시를 땅에서 찾다",
+          "headingEn": "Digging a Legendary City",
+          "textKo": "트로이는 수천 년 동안 문학과 역사 사이에 걸쳐 있던 이름이었다. Hisarlık 언덕에서 Heinrich Schliemann이 1870년 본격 발굴을 시작하면서 이야기는 물리적 지층과 성벽, 건축물의 문제로 바뀌었다. UNESCO는 이 유적이 4천 년에 걸친 긴 점유사를 보여준다고 평가한다.",
+          "textEn": "For centuries Troy existed at the boundary between literature and history. When Heinrich Schliemann began major excavation at Hisarlık in 1870, the question moved into physical strata, walls, and buildings. UNESCO now describes the site as preserving roughly four thousand years of history."
+        },
+        {
+          "blockId": "02",
+          "type": "TREASURE",
+          "headingKo": "‘프리아모스의 보물’ 발견",
+          "headingEn": "The Discovery of 'Priam's Treasure'",
+          "textKo": "1873년 Schliemann은 금·은 유물을 발견하고 이를 호메로스의 프리아모스 왕과 연결해 ‘Priam's Treasure’라고 불렀다. 당시 대중에게는 전설이 눈앞에서 확인된 것처럼 보였다. 그러나 발굴 지층의 연대가 정리되면서 이 연결은 흔들리기 시작했다.",
+          "textEn": "In 1873 Schliemann found a group of gold and silver objects and linked them to Homer's King Priam, naming the find 'Priam's Treasure.' To the public, the discovery looked like a legendary ruler had been recovered from the earth. Later chronology undermined that identification."
+        },
+        {
+          "blockId": "03",
+          "type": "STRATIGRAPHY",
+          "headingKo": "문제는 Troy II였다",
+          "headingEn": "The Problem Was Troy II",
+          "textKo": "British Museum과 UNESCO 자료가 설명하듯 그 보물은 Troy II 지층에서 나왔다. 트로이 전쟁 전승의 가능한 후기 청동기 배경으로 검토되는 Troy VI/VIIA보다 대략 천 년가량 이른 시기다. 실제 유물이라는 사실과 Schliemann이 붙인 역사적 주인공은 서로 다른 문제였다.",
+          "textEn": "British Museum and UNESCO material place the treasure in Troy II. That layer is roughly a millennium earlier than the later Bronze Age phases, especially Troy VI/VIIA, usually discussed in relation to a possible historical background for the Trojan War tradition. A genuine artifact had been paired with the wrong historical story."
+        },
+        {
+          "blockId": "04",
+          "type": "METHOD",
+          "headingKo": "초기 발굴의 대가",
+          "headingEn": "The Cost of Early Excavation",
+          "textKo": "Schliemann의 발굴은 트로이를 세계 고고학의 중심으로 끌어올렸지만 오늘날 기준으로는 매우 공격적인 방법을 사용했다. 깊은 층을 빨리 찾으려는 대규모 절개는 일부 후기 구조를 손상시켰다. 이 사례는 ‘발견’이 곧바로 올바른 해석을 보장하지 않는다는 고고학의 고전적 교훈이 됐다.",
+          "textEn": "Schliemann made Troy famous but used excavation methods that would be considered destructive by modern standards. His drive to reach early levels rapidly cut through portions of later occupation. The episode became a classic archaeological lesson: finding something spectacular does not guarantee that the first interpretation is correct."
+        },
+        {
+          "blockId": "05",
+          "type": "EVIDENCE",
+          "headingKo": "그래도 트로이는 실제 유적이다",
+          "headingEn": "Troy Is Still a Real Archaeological Site",
+          "textKo": "Schliemann의 해석 오류가 트로이 유적 자체를 가짜로 만들지는 않는다. 이후 여러 세대의 발굴은 Troy I부터 후기 도시들까지 복잡한 점유층을 확인했고, 후기 청동기 도시와 주변 하부도시도 연구됐다. 전설과 정확히 일치하는 전쟁의 모든 세부가 입증된 것과는 별개다.",
+          "textEn": "Schliemann's interpretive mistakes do not make Troy fictitious. Later generations of excavation established a complicated sequence from Troy I through later cities and investigated the Late Bronze Age citadel and lower town. That evidence is separate from proving every episode in Homer."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "호메로스의 이야기를 그대로 발굴할 수 있나",
+          "headingEn": "Can the Iliad Be Excavated Literally?",
+          "textKo": "『일리아스』는 고고학 보고서가 아니다. 유적은 후기 청동기 충돌과 도시 파괴의 흔적을 연구하게 해주지만, 특정 인물·목마·전투 장면을 그대로 확인해 주지는 않는다. 문학 전승과 물질증거의 접점은 존재하지만 둘을 같은 종류의 기록으로 다루면 안 된다.",
+          "textEn": "The Iliad is not an archaeological field report. The site can illuminate Bronze Age conflict, destruction, and settlement, but it cannot directly verify every named hero, the wooden horse, or each battle scene. Literary tradition and material evidence can intersect without becoming identical forms of evidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "‘맞는 장소, 틀린 지층’의 의미",
+          "headingEn": "The Right Place, the Wrong Layer",
+          "textKo": "이 사건의 핵심은 Schliemann이 아무것도 찾지 못했다는 것이 아니다. 그는 세계적으로 중요한 유적을 파냈지만, 가장 유명한 보물에 붙인 이름과 연대가 잘못됐다. 후대 층위연구가 그 오류를 수정하면서 트로이의 역사는 오히려 더 정교해졌다.",
+          "textEn": "The mystery is not that Schliemann found nothing. He uncovered one of the world's most important archaeological sites but attached his most famous treasure to the wrong chronological layer. Later stratigraphic work corrected the mistake and made Troy's history more, not less, precise."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "트로이 층위는 하나의 도시가 여러 번 파괴·재건되며 겹쳐진 결과다. 그래서 ‘트로이를 찾았다’는 말과 ‘호메로스가 노래한 특정 전쟁의 도시층을 찾았다’는 말은 다른 수준의 주장이다. 현대 고고학은 도자기·건축·방사성탄소연대·주변 정착지 등을 함께 사용해 각 층의 연대를 좁힌다. Schliemann의 유명한 명명은 바로 이 층위 구분이 충분히 성숙하기 전의 해석이었다.",
+          "textEn": "Troy is not one city frozen in one moment but a mound of settlements repeatedly rebuilt and destroyed. 'Finding Troy' is therefore different from identifying the exact archaeological horizon behind a specific Homeric war story. Modern chronology combines pottery, architecture, scientific dating, and the wider settlement landscape. Schliemann's famous naming of the treasure came before that stratigraphic framework had matured."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "앞으로도 핵심은 새로운 ‘보물’보다 층위와 연대다. 후기 청동기 트로이의 파괴층, 주변 정착 규모, 문자자료와 지역정세가 더 정밀해질수록 전쟁 전승의 역사적 배경을 좁힐 수 있다. 그러나 고고학이 특정 서사 인물의 이름을 직접 제공하지 않는 한 문학 속 프리아모스와 개별 유물을 일대일로 연결할 수는 없다.",
+          "textEn": "Future progress depends less on another spectacular treasure than on stratigraphy and chronology. Better evidence for Late Bronze Age destruction, settlement scale, texts, and regional conflict can narrow the historical background of the war tradition. Unless archaeology yields direct naming evidence, individual objects cannot simply be assigned to literary figures such as Priam."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Hisarlık의 트로이는 다층의 실제 고고학 유적이며 Schliemann은 1870년부터 발굴했다. 이른바 ‘프리아모스의 보물’은 Troy II에서 출토돼 후기 청동기 트로이 전쟁 배경보다 훨씬 이르다.\n\nNOT ESTABLISHED: 특정 유물이 호메로스의 프리아모스나 헬레네의 소유였다는 주장, 또는 『일리아스』의 모든 사건이 그대로 역사적 사실이었다는 결론은 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: Troy at Hisarlık is a genuine multi-layer archaeological site, and Schliemann excavated there beginning in 1870. 'Priam's Treasure' came from Troy II, far earlier than the Late Bronze Age context relevant to Trojan War discussions.\n\nNOT ESTABLISHED: the treasure belonged to Homer's Priam or Helen, or that every event in the Iliad occurred exactly as described."
+        }
+      ],
+      "factBoundary": {
+        "established": "Hisarlık의 트로이는 다층의 실제 고고학 유적이며 Schliemann은 1870년부터 발굴했다. 이른바 ‘프리아모스의 보물’은 Troy II에서 출토돼 후기 청동기 트로이 전쟁 배경보다 훨씬 이르다.",
+        "notEstablished": "특정 유물이 호메로스의 프리아모스나 헬레네의 소유였다는 주장, 또는 『일리아스』의 모든 사건이 그대로 역사적 사실이었다는 결론은 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Why 'Priam's Treasure' Came from the Wrong Troy",
+      "hook": "Schliemann excavated the real site of Troy, but the treasure he linked to Homer's king came from a layer that was far too early.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "전설의 도시를 땅에서 찾다",
+          "headingEn": "Digging a Legendary City",
+          "textKo": "트로이는 수천 년 동안 문학과 역사 사이에 걸쳐 있던 이름이었다. Hisarlık 언덕에서 Heinrich Schliemann이 1870년 본격 발굴을 시작하면서 이야기는 물리적 지층과 성벽, 건축물의 문제로 바뀌었다. UNESCO는 이 유적이 4천 년에 걸친 긴 점유사를 보여준다고 평가한다.",
+          "textEn": "For centuries Troy existed at the boundary between literature and history. When Heinrich Schliemann began major excavation at Hisarlık in 1870, the question moved into physical strata, walls, and buildings. UNESCO now describes the site as preserving roughly four thousand years of history."
+        },
+        {
+          "blockId": "02",
+          "type": "TREASURE",
+          "headingKo": "‘프리아모스의 보물’ 발견",
+          "headingEn": "The Discovery of 'Priam's Treasure'",
+          "textKo": "1873년 Schliemann은 금·은 유물을 발견하고 이를 호메로스의 프리아모스 왕과 연결해 ‘Priam's Treasure’라고 불렀다. 당시 대중에게는 전설이 눈앞에서 확인된 것처럼 보였다. 그러나 발굴 지층의 연대가 정리되면서 이 연결은 흔들리기 시작했다.",
+          "textEn": "In 1873 Schliemann found a group of gold and silver objects and linked them to Homer's King Priam, naming the find 'Priam's Treasure.' To the public, the discovery looked like a legendary ruler had been recovered from the earth. Later chronology undermined that identification."
+        },
+        {
+          "blockId": "03",
+          "type": "STRATIGRAPHY",
+          "headingKo": "문제는 Troy II였다",
+          "headingEn": "The Problem Was Troy II",
+          "textKo": "British Museum과 UNESCO 자료가 설명하듯 그 보물은 Troy II 지층에서 나왔다. 트로이 전쟁 전승의 가능한 후기 청동기 배경으로 검토되는 Troy VI/VIIA보다 대략 천 년가량 이른 시기다. 실제 유물이라는 사실과 Schliemann이 붙인 역사적 주인공은 서로 다른 문제였다.",
+          "textEn": "British Museum and UNESCO material place the treasure in Troy II. That layer is roughly a millennium earlier than the later Bronze Age phases, especially Troy VI/VIIA, usually discussed in relation to a possible historical background for the Trojan War tradition. A genuine artifact had been paired with the wrong historical story."
+        },
+        {
+          "blockId": "04",
+          "type": "METHOD",
+          "headingKo": "초기 발굴의 대가",
+          "headingEn": "The Cost of Early Excavation",
+          "textKo": "Schliemann의 발굴은 트로이를 세계 고고학의 중심으로 끌어올렸지만 오늘날 기준으로는 매우 공격적인 방법을 사용했다. 깊은 층을 빨리 찾으려는 대규모 절개는 일부 후기 구조를 손상시켰다. 이 사례는 ‘발견’이 곧바로 올바른 해석을 보장하지 않는다는 고고학의 고전적 교훈이 됐다.",
+          "textEn": "Schliemann made Troy famous but used excavation methods that would be considered destructive by modern standards. His drive to reach early levels rapidly cut through portions of later occupation. The episode became a classic archaeological lesson: finding something spectacular does not guarantee that the first interpretation is correct."
+        },
+        {
+          "blockId": "05",
+          "type": "EVIDENCE",
+          "headingKo": "그래도 트로이는 실제 유적이다",
+          "headingEn": "Troy Is Still a Real Archaeological Site",
+          "textKo": "Schliemann의 해석 오류가 트로이 유적 자체를 가짜로 만들지는 않는다. 이후 여러 세대의 발굴은 Troy I부터 후기 도시들까지 복잡한 점유층을 확인했고, 후기 청동기 도시와 주변 하부도시도 연구됐다. 전설과 정확히 일치하는 전쟁의 모든 세부가 입증된 것과는 별개다.",
+          "textEn": "Schliemann's interpretive mistakes do not make Troy fictitious. Later generations of excavation established a complicated sequence from Troy I through later cities and investigated the Late Bronze Age citadel and lower town. That evidence is separate from proving every episode in Homer."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "호메로스의 이야기를 그대로 발굴할 수 있나",
+          "headingEn": "Can the Iliad Be Excavated Literally?",
+          "textKo": "『일리아스』는 고고학 보고서가 아니다. 유적은 후기 청동기 충돌과 도시 파괴의 흔적을 연구하게 해주지만, 특정 인물·목마·전투 장면을 그대로 확인해 주지는 않는다. 문학 전승과 물질증거의 접점은 존재하지만 둘을 같은 종류의 기록으로 다루면 안 된다.",
+          "textEn": "The Iliad is not an archaeological field report. The site can illuminate Bronze Age conflict, destruction, and settlement, but it cannot directly verify every named hero, the wooden horse, or each battle scene. Literary tradition and material evidence can intersect without becoming identical forms of evidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "‘맞는 장소, 틀린 지층’의 의미",
+          "headingEn": "The Right Place, the Wrong Layer",
+          "textKo": "이 사건의 핵심은 Schliemann이 아무것도 찾지 못했다는 것이 아니다. 그는 세계적으로 중요한 유적을 파냈지만, 가장 유명한 보물에 붙인 이름과 연대가 잘못됐다. 후대 층위연구가 그 오류를 수정하면서 트로이의 역사는 오히려 더 정교해졌다.",
+          "textEn": "The mystery is not that Schliemann found nothing. He uncovered one of the world's most important archaeological sites but attached his most famous treasure to the wrong chronological layer. Later stratigraphic work corrected the mistake and made Troy's history more, not less, precise."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "트로이 층위는 하나의 도시가 여러 번 파괴·재건되며 겹쳐진 결과다. 그래서 ‘트로이를 찾았다’는 말과 ‘호메로스가 노래한 특정 전쟁의 도시층을 찾았다’는 말은 다른 수준의 주장이다. 현대 고고학은 도자기·건축·방사성탄소연대·주변 정착지 등을 함께 사용해 각 층의 연대를 좁힌다. Schliemann의 유명한 명명은 바로 이 층위 구분이 충분히 성숙하기 전의 해석이었다.",
+          "textEn": "Troy is not one city frozen in one moment but a mound of settlements repeatedly rebuilt and destroyed. 'Finding Troy' is therefore different from identifying the exact archaeological horizon behind a specific Homeric war story. Modern chronology combines pottery, architecture, scientific dating, and the wider settlement landscape. Schliemann's famous naming of the treasure came before that stratigraphic framework had matured."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "앞으로도 핵심은 새로운 ‘보물’보다 층위와 연대다. 후기 청동기 트로이의 파괴층, 주변 정착 규모, 문자자료와 지역정세가 더 정밀해질수록 전쟁 전승의 역사적 배경을 좁힐 수 있다. 그러나 고고학이 특정 서사 인물의 이름을 직접 제공하지 않는 한 문학 속 프리아모스와 개별 유물을 일대일로 연결할 수는 없다.",
+          "textEn": "Future progress depends less on another spectacular treasure than on stratigraphy and chronology. Better evidence for Late Bronze Age destruction, settlement scale, texts, and regional conflict can narrow the historical background of the war tradition. Unless archaeology yields direct naming evidence, individual objects cannot simply be assigned to literary figures such as Priam."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Hisarlık의 트로이는 다층의 실제 고고학 유적이며 Schliemann은 1870년부터 발굴했다. 이른바 ‘프리아모스의 보물’은 Troy II에서 출토돼 후기 청동기 트로이 전쟁 배경보다 훨씬 이르다.\n\nNOT ESTABLISHED: 특정 유물이 호메로스의 프리아모스나 헬레네의 소유였다는 주장, 또는 『일리아스』의 모든 사건이 그대로 역사적 사실이었다는 결론은 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: Troy at Hisarlık is a genuine multi-layer archaeological site, and Schliemann excavated there beginning in 1870. 'Priam's Treasure' came from Troy II, far earlier than the Late Bronze Age context relevant to Trojan War discussions.\n\nNOT ESTABLISHED: the treasure belonged to Homer's Priam or Helen, or that every event in the Iliad occurred exactly as described."
+        }
+      ],
+      "factBoundary": {
+        "established": "Troy at Hisarlık is a genuine multi-layer archaeological site, and Schliemann excavated there beginning in 1870. 'Priam's Treasure' came from Troy II, far earlier than the Late Bronze Age context relevant to Trojan War discussions.",
+        "notEstablished": "the treasure belonged to Homer's Priam or Helen, or that every event in the Iliad occurred exactly as described."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TROY_SCHLIEMANN_EXCAVATION-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Hisarlık의 트로이는 다층의 실제 고고학 유적이며 Schliemann은 1870년부터 발굴했다. 이른바 ‘프리아모스의 보물’은 Troy II에서 출토돼 후기 청동기 트로이 전쟁 배경보다 훨씬 이르다.",
+      "statementEn": "Troy at Hisarlık is a genuine multi-layer archaeological site, and Schliemann excavated there beginning in 1870. 'Priam's Treasure' came from Troy II, far earlier than the Late Bronze Age context relevant to Trojan War discussions.",
+      "sourceRefs": [
+        "UNESCO_TROY",
+        "BM_TROY",
+        "ICOMOS_TROY"
+      ]
+    },
+    {
+      "claimId": "TROY_SCHLIEMANN_EXCAVATION-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 유물이 호메로스의 프리아모스나 헬레네의 소유였다는 주장, 또는 『일리아스』의 모든 사건이 그대로 역사적 사실이었다는 결론은 확립되지 않았다.",
+      "statementEn": "the treasure belonged to Homer's Priam or Helen, or that every event in the Iliad occurred exactly as described.",
+      "sourceRefs": [
+        "UNESCO_TROY",
+        "BM_TROY",
+        "ICOMOS_TROY"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "UNESCO_TROY",
+      "title": "Archaeological Site of Troy",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/849",
+      "sourceType": "UNESCO_WORLD_HERITAGE"
+    },
+    {
+      "sourceId": "BM_TROY",
+      "title": "The search for the lost city of Troy",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/blog/search-lost-city-troy",
+      "sourceType": "MUSEUM"
+    },
+    {
+      "sourceId": "ICOMOS_TROY",
+      "title": "Archaeological Site of Troy – Advisory Body Evaluation",
+      "publisher": "UNESCO / ICOMOS",
+      "url": "https://whc.unesco.org/document/154436",
+      "sourceType": "HERITAGE_EVALUATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "troy-schliemann-excavation-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, record, and reassessment.",
+      "altKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, record, and reassessment.",
+      "sourceRefs": [
+        "UNESCO_TROY",
+        "BM_TROY",
+        "ICOMOS_TROY"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "troy-schliemann-excavation__troy-schliemann-excavation-v01__ko.png",
+          "sha256": "f796fded6bcdee0dbe616bb710bbeb0dc4187697787edf1283cde608ff1bee84",
+          "width": 1600,
+          "height": 900,
+          "fileName": "troy-schliemann-excavation__troy-schliemann-excavation-v01__ko.png"
+        },
+        "en": {
+          "file": "troy-schliemann-excavation__troy-schliemann-excavation-v01__en.png",
+          "sha256": "39e0be725f4866d18ab6f3070dd63df597baa1c498e2972410a675d5ed4d2bdd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "troy-schliemann-excavation__troy-schliemann-excavation-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "troy-schliemann-excavation-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "UNESCO_TROY",
+        "BM_TROY",
+        "ICOMOS_TROY"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "troy-schliemann-excavation__troy-schliemann-excavation-v02__ko.png",
+          "sha256": "f2837860ace2edc6ee074ba42d5ef6f9616cd437da3d765824d7b428bfea2e4e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "troy-schliemann-excavation__troy-schliemann-excavation-v02__ko.png"
+        },
+        "en": {
+          "file": "troy-schliemann-excavation__troy-schliemann-excavation-v02__en.png",
+          "sha256": "ca2e80a6cce8e8611c9146c8d513b3ffbe49436b4a55671c16ef7aaaee75204c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "troy-schliemann-excavation__troy-schliemann-excavation-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "troy-schliemann-excavation-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "UNESCO_TROY",
+        "BM_TROY",
+        "ICOMOS_TROY"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "troy-schliemann-excavation__troy-schliemann-excavation-v03__ko.png",
+          "sha256": "9e2d4f402daf9c86e0cdf3f2fd35d05ce1e0b9aad3c6725513cc1d61f9199f47",
+          "width": 1600,
+          "height": 900,
+          "fileName": "troy-schliemann-excavation__troy-schliemann-excavation-v03__ko.png"
+        },
+        "en": {
+          "file": "troy-schliemann-excavation__troy-schliemann-excavation-v03__en.png",
+          "sha256": "6dbf32245bfe3f9753b48a6ac16bdfc589e754f2741aa280a37e0456131133fb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "troy-schliemann-excavation__troy-schliemann-excavation-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Türkiye",
+    "era": "1870s / Bronze Age",
+    "genre": "Archaeology / Claim vs Evidence",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Archaeology / Claim vs Evidence",
+    "resolution": "unknown",
+    "countries": [
+      "Türkiye"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1679,
+    "enBodyWords": 490
+  }
+}

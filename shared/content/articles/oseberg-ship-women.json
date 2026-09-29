@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "oseberg-ship-women",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오세베르그 선박 묘 여성들의 정체",
+    "canonicalTitleEn": "The Women of the Oseberg Ship Burial",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "바이킹 최고의 선박 묘에 묻힌 두 여성은 누구였나",
+      "hook": "배와 호화로운 부장품은 높은 지위를 말하지만, 두 여성의 이름은 아직 고고학으로 되찾지 못했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "선박 묘에서 나온 두 사람",
+          "headingEn": "Two People in a Ship Burial",
+          "textKo": "오세베르그 선박 묘에서는 풍부한 목조품·직물·수레·동물 희생 흔적과 함께 두 여성의 유해가 발견됐다. 후대 연륜연대 연구는 매장을 834년 무렵으로 좁혔다. 호화로운 매장 자체는 두 사람이 바이킹 시대 사회에서 특별한 지위를 가졌음을 보여주는 강한 증거다.",
+          "textEn": "The Oseberg ship burial contained two women's remains alongside extraordinary wooden objects, textiles, a wagon, and sacrificed animals. Dendrochronology places the burial around 834 CE. The richness of the grave is strong evidence that the people buried there occupied exceptional social positions."
+        },
+        {
+          "blockId": "02",
+          "type": "IDENTITY",
+          "headingKo": "오랫동안 ‘여왕 아사’라고 불렸다",
+          "headingEn": "The Long-Standing Queen Åsa Theory",
+          "textKo": "오래된 해석 가운데 가장 유명한 것은 연장자가 Harald Fairhair의 할머니로 전해지는 Queen Åsa였다는 가설이다. 이름 Oseberg와 Åsa의 유사성, 왕실 계보 전승이 이 해석을 매력적으로 만들었다. 그러나 오늘날 이 동일시는 입증된 신원으로 받아들여지지 않는다.",
+          "textEn": "The most famous historical identification proposed that the older woman was Queen Åsa, traditionally remembered as an ancestor of Harald Fairhair. Similarity between the names Åsa and Oseberg and later royal traditions made the theory attractive. It is not accepted today as a demonstrated identity."
+        },
+        {
+          "blockId": "03",
+          "type": "BIOARCHAEOLOGY",
+          "headingKo": "뼈가 알려주는 것",
+          "headingEn": "What the Skeletons Can Tell Us",
+          "textKo": "재조사 결과 두 여성은 대략 80세와 50세 전후로 추정된다. 식생활과 매장품은 높은 사회적 지위와 어울리며, 유골은 질병과 생애의 일부를 보여준다. 하지만 나이·건강·식생활을 추정할 수 있다는 것과 개인 이름을 알아낼 수 있다는 것은 다른 문제다.",
+          "textEn": "Re-examination places the women roughly around eighty and fifty years of age. Their diet and grave setting are consistent with high status, while skeletal evidence reveals aspects of health and life history. Biological information, however, does not automatically recover a personal name."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "젊은 여성은 희생된 시종이었나",
+          "headingEn": "Was the Younger Woman a Sacrificed Servant?",
+          "textKo": "한때 젊은 여성을 주인과 함께 희생된 시종으로 보는 해석도 있었다. 그러나 현재 자료는 그런 관계를 확정하지 않는다. 두 사람 모두 높은 지위였을 가능성을 지지하는 관찰이 있고, 어느 쪽이 매장의 중심 인물이었는지도 단정하기 어렵다.",
+          "textEn": "Older interpretations sometimes cast the younger woman as a servant sacrificed for a higher-ranking mistress. The evidence does not establish that relationship. Observations consistent with high status apply to both women, and researchers cannot securely identify which individual, if either, was the primary focus of the burial."
+        },
+        {
+          "blockId": "05",
+          "type": "DNA",
+          "headingKo": "DNA도 이름표는 아니다",
+          "headingEn": "DNA Is Not a Name Tag",
+          "textKo": "유전학 연구는 계통이나 출신 가능성을 검토하는 데 도움을 줄 수 있지만 오래된 유골은 보존상태와 오염 문제를 가진다. 특정 지역과의 유전적 연결 가능성이 제기돼도 그것이 곧 역사문헌 속 특정 여성과 동일하다는 뜻은 아니다.",
+          "textEn": "Ancient DNA can help investigate ancestry, but preservation and contamination complicate results from old remains. A possible geographic connection does not equate to identification with a named woman in medieval literature."
+        },
+        {
+          "blockId": "06",
+          "type": "RITUAL",
+          "headingKo": "부장품이 말하는 사회적 역할",
+          "headingEn": "What the Grave Goods Suggest",
+          "textKo": "수레, 직물, 조각된 동물 머리 기둥 등은 매장이 단순한 장례가 아니었음을 보여준다. 종교적·정치적 역할, 엘리트 여성, 의례 전문가 같은 가설이 제안돼 왔다. 그러나 부장품의 상징을 하나의 직업이나 이름으로 환원할 결정적 자료는 없다.",
+          "textEn": "The wagon, textiles, carved animal-head posts, and other objects suggest a burial rich in political and ritual meaning. Scholars have proposed elite status, ritual roles, or religious associations. None of those interpretations provides a decisive personal identity."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "정체 미스터리의 올바른 범위",
+          "headingEn": "The Proper Scope of the Mystery",
+          "textKo": "오세베르그의 미스터리는 ‘누군가 묻혔는지 모른다’가 아니다. 두 여성의 성별·대략적 연령·고위 지위·매장 시점은 상당히 좁혀졌다. 남은 핵심은 두 사람의 개인 신원과 관계, 사회적 역할을 어디까지 특정할 수 있느냐이다.",
+          "textEn": "The mystery is not total ignorance. Sex, approximate age, high status, and burial date are comparatively well constrained. The unresolved questions concern personal identity, the relationship between the women, and the exact social roles represented by the burial."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "오세베르그처럼 화려한 매장에서는 부장품의 규모가 신분을 강하게 말해 주지만, 이름을 직접 말해 주는 비문이 없으면 역사문헌과의 동일시는 간접추론이 된다. 사가와 왕실 계보는 매장보다 수백 년 뒤 기록된 경우가 많고, 비슷한 이름이나 지역전승만으로 특정 개인을 확정하기 어렵다. 이 때문에 현대 연구는 ‘왕족일 수 있다’와 ‘Queen Åsa다’를 구분한다.",
+          "textEn": "In an elite burial like Oseberg, the wealth of grave goods can strongly indicate status without revealing a personal name. When no identifying inscription survives, matching the burial to later sagas or royal genealogies becomes an indirect inference. Those literary traditions were often written centuries after the burial, so resemblance of names or locations cannot by itself establish that one woman was Queen Åsa."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "신원을 실제로 좁히려면 직접 이름을 가진 비문, 확실한 친족 연결, 동시대 무덤·문헌과의 교차증거 같은 자료가 필요하다. 유골 분석이 더 정밀해져도 ‘어디서 성장했는가’나 ‘무엇을 먹었는가’와 ‘이름이 무엇이었는가’는 다른 질문이다. 그래서 과학이 발전해도 개인 신원은 계속 열려 있을 수 있다.",
+          "textEn": "Resolving identity would require evidence such as a naming inscription, a secure kinship link, or strong cross-evidence from contemporary burials and texts. Even increasingly precise skeletal science can answer where someone grew up or what they ate without revealing a personal name. Scientific progress therefore does not guarantee that the individual identity will ever close."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 오세베르그 선박 묘에는 두 여성의 유해가 있었고, 매장은 834년 무렵으로 연대되며 매우 풍부한 부장품은 높은 지위를 시사한다.\n\nNOT ESTABLISHED: 두 여성 중 한 명이 Queen Åsa였다는 동일시, 두 사람의 정확한 관계와 이름, 한 명이 다른 한 명을 위해 희생됐다는 해석은 확정되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: two women were buried in the Oseberg ship burial, dated to about 834 CE, and the exceptionally rich grave goods indicate high status.\n\nNOT ESTABLISHED: neither woman has been securely identified as Queen Åsa, their exact relationship and names are unknown, and a servant-sacrifice interpretation has not been demonstrated."
+        }
+      ],
+      "factBoundary": {
+        "established": "오세베르그 선박 묘에는 두 여성의 유해가 있었고, 매장은 834년 무렵으로 연대되며 매우 풍부한 부장품은 높은 지위를 시사한다.",
+        "notEstablished": "두 여성 중 한 명이 Queen Åsa였다는 동일시, 두 사람의 정확한 관계와 이름, 한 명이 다른 한 명을 위해 희생됐다는 해석은 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Who Were the Two Women in the Oseberg Ship Burial?",
+      "hook": "The ship and extraordinary grave goods signal high status, but archaeology has not recovered the women's names.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "선박 묘에서 나온 두 사람",
+          "headingEn": "Two People in a Ship Burial",
+          "textKo": "오세베르그 선박 묘에서는 풍부한 목조품·직물·수레·동물 희생 흔적과 함께 두 여성의 유해가 발견됐다. 후대 연륜연대 연구는 매장을 834년 무렵으로 좁혔다. 호화로운 매장 자체는 두 사람이 바이킹 시대 사회에서 특별한 지위를 가졌음을 보여주는 강한 증거다.",
+          "textEn": "The Oseberg ship burial contained two women's remains alongside extraordinary wooden objects, textiles, a wagon, and sacrificed animals. Dendrochronology places the burial around 834 CE. The richness of the grave is strong evidence that the people buried there occupied exceptional social positions."
+        },
+        {
+          "blockId": "02",
+          "type": "IDENTITY",
+          "headingKo": "오랫동안 ‘여왕 아사’라고 불렸다",
+          "headingEn": "The Long-Standing Queen Åsa Theory",
+          "textKo": "오래된 해석 가운데 가장 유명한 것은 연장자가 Harald Fairhair의 할머니로 전해지는 Queen Åsa였다는 가설이다. 이름 Oseberg와 Åsa의 유사성, 왕실 계보 전승이 이 해석을 매력적으로 만들었다. 그러나 오늘날 이 동일시는 입증된 신원으로 받아들여지지 않는다.",
+          "textEn": "The most famous historical identification proposed that the older woman was Queen Åsa, traditionally remembered as an ancestor of Harald Fairhair. Similarity between the names Åsa and Oseberg and later royal traditions made the theory attractive. It is not accepted today as a demonstrated identity."
+        },
+        {
+          "blockId": "03",
+          "type": "BIOARCHAEOLOGY",
+          "headingKo": "뼈가 알려주는 것",
+          "headingEn": "What the Skeletons Can Tell Us",
+          "textKo": "재조사 결과 두 여성은 대략 80세와 50세 전후로 추정된다. 식생활과 매장품은 높은 사회적 지위와 어울리며, 유골은 질병과 생애의 일부를 보여준다. 하지만 나이·건강·식생활을 추정할 수 있다는 것과 개인 이름을 알아낼 수 있다는 것은 다른 문제다.",
+          "textEn": "Re-examination places the women roughly around eighty and fifty years of age. Their diet and grave setting are consistent with high status, while skeletal evidence reveals aspects of health and life history. Biological information, however, does not automatically recover a personal name."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "젊은 여성은 희생된 시종이었나",
+          "headingEn": "Was the Younger Woman a Sacrificed Servant?",
+          "textKo": "한때 젊은 여성을 주인과 함께 희생된 시종으로 보는 해석도 있었다. 그러나 현재 자료는 그런 관계를 확정하지 않는다. 두 사람 모두 높은 지위였을 가능성을 지지하는 관찰이 있고, 어느 쪽이 매장의 중심 인물이었는지도 단정하기 어렵다.",
+          "textEn": "Older interpretations sometimes cast the younger woman as a servant sacrificed for a higher-ranking mistress. The evidence does not establish that relationship. Observations consistent with high status apply to both women, and researchers cannot securely identify which individual, if either, was the primary focus of the burial."
+        },
+        {
+          "blockId": "05",
+          "type": "DNA",
+          "headingKo": "DNA도 이름표는 아니다",
+          "headingEn": "DNA Is Not a Name Tag",
+          "textKo": "유전학 연구는 계통이나 출신 가능성을 검토하는 데 도움을 줄 수 있지만 오래된 유골은 보존상태와 오염 문제를 가진다. 특정 지역과의 유전적 연결 가능성이 제기돼도 그것이 곧 역사문헌 속 특정 여성과 동일하다는 뜻은 아니다.",
+          "textEn": "Ancient DNA can help investigate ancestry, but preservation and contamination complicate results from old remains. A possible geographic connection does not equate to identification with a named woman in medieval literature."
+        },
+        {
+          "blockId": "06",
+          "type": "RITUAL",
+          "headingKo": "부장품이 말하는 사회적 역할",
+          "headingEn": "What the Grave Goods Suggest",
+          "textKo": "수레, 직물, 조각된 동물 머리 기둥 등은 매장이 단순한 장례가 아니었음을 보여준다. 종교적·정치적 역할, 엘리트 여성, 의례 전문가 같은 가설이 제안돼 왔다. 그러나 부장품의 상징을 하나의 직업이나 이름으로 환원할 결정적 자료는 없다.",
+          "textEn": "The wagon, textiles, carved animal-head posts, and other objects suggest a burial rich in political and ritual meaning. Scholars have proposed elite status, ritual roles, or religious associations. None of those interpretations provides a decisive personal identity."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "정체 미스터리의 올바른 범위",
+          "headingEn": "The Proper Scope of the Mystery",
+          "textKo": "오세베르그의 미스터리는 ‘누군가 묻혔는지 모른다’가 아니다. 두 여성의 성별·대략적 연령·고위 지위·매장 시점은 상당히 좁혀졌다. 남은 핵심은 두 사람의 개인 신원과 관계, 사회적 역할을 어디까지 특정할 수 있느냐이다.",
+          "textEn": "The mystery is not total ignorance. Sex, approximate age, high status, and burial date are comparatively well constrained. The unresolved questions concern personal identity, the relationship between the women, and the exact social roles represented by the burial."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "증거를 다루는 추가 기준",
+          "headingEn": "An Additional Evidence Rule",
+          "textKo": "오세베르그처럼 화려한 매장에서는 부장품의 규모가 신분을 강하게 말해 주지만, 이름을 직접 말해 주는 비문이 없으면 역사문헌과의 동일시는 간접추론이 된다. 사가와 왕실 계보는 매장보다 수백 년 뒤 기록된 경우가 많고, 비슷한 이름이나 지역전승만으로 특정 개인을 확정하기 어렵다. 이 때문에 현대 연구는 ‘왕족일 수 있다’와 ‘Queen Åsa다’를 구분한다.",
+          "textEn": "In an elite burial like Oseberg, the wealth of grave goods can strongly indicate status without revealing a personal name. When no identifying inscription survives, matching the burial to later sagas or royal genealogies becomes an indirect inference. Those literary traditions were often written centuries after the burial, so resemblance of names or locations cannot by itself establish that one woman was Queen Åsa."
+        },
+        {
+          "blockId": "09",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀 수 있나",
+          "headingEn": "What Could Change the Conclusion",
+          "textKo": "신원을 실제로 좁히려면 직접 이름을 가진 비문, 확실한 친족 연결, 동시대 무덤·문헌과의 교차증거 같은 자료가 필요하다. 유골 분석이 더 정밀해져도 ‘어디서 성장했는가’나 ‘무엇을 먹었는가’와 ‘이름이 무엇이었는가’는 다른 질문이다. 그래서 과학이 발전해도 개인 신원은 계속 열려 있을 수 있다.",
+          "textEn": "Resolving identity would require evidence such as a naming inscription, a secure kinship link, or strong cross-evidence from contemporary burials and texts. Even increasingly precise skeletal science can answer where someone grew up or what they ate without revealing a personal name. Scientific progress therefore does not guarantee that the individual identity will ever close."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 오세베르그 선박 묘에는 두 여성의 유해가 있었고, 매장은 834년 무렵으로 연대되며 매우 풍부한 부장품은 높은 지위를 시사한다.\n\nNOT ESTABLISHED: 두 여성 중 한 명이 Queen Åsa였다는 동일시, 두 사람의 정확한 관계와 이름, 한 명이 다른 한 명을 위해 희생됐다는 해석은 확정되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: two women were buried in the Oseberg ship burial, dated to about 834 CE, and the exceptionally rich grave goods indicate high status.\n\nNOT ESTABLISHED: neither woman has been securely identified as Queen Åsa, their exact relationship and names are unknown, and a servant-sacrifice interpretation has not been demonstrated."
+        }
+      ],
+      "factBoundary": {
+        "established": "two women were buried in the Oseberg ship burial, dated to about 834 CE, and the exceptionally rich grave goods indicate high status.",
+        "notEstablished": "neither woman has been securely identified as Queen Åsa, their exact relationship and names are unknown, and a servant-sacrifice interpretation has not been demonstrated."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "OSEBERG_SHIP_WOMEN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "오세베르그 선박 묘에는 두 여성의 유해가 있었고, 매장은 834년 무렵으로 연대되며 매우 풍부한 부장품은 높은 지위를 시사한다.",
+      "statementEn": "two women were buried in the Oseberg ship burial, dated to about 834 CE, and the exceptionally rich grave goods indicate high status.",
+      "sourceRefs": [
+        "OSEBERG_WOMEN",
+        "SNL_OSEBERG"
+      ]
+    },
+    {
+      "claimId": "OSEBERG_SHIP_WOMEN-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "두 여성 중 한 명이 Queen Åsa였다는 동일시, 두 사람의 정확한 관계와 이름, 한 명이 다른 한 명을 위해 희생됐다는 해석은 확정되지 않았다.",
+      "statementEn": "neither woman has been securely identified as Queen Åsa, their exact relationship and names are unknown, and a servant-sacrifice interpretation has not been demonstrated.",
+      "sourceRefs": [
+        "OSEBERG_WOMEN",
+        "SNL_OSEBERG"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "OSEBERG_WOMEN",
+      "title": "The women in the mound",
+      "publisher": "Oseberg Viking Heritage",
+      "url": "https://osebergvikingarv.no/eng/the-oseberg-ship/the-oseberg-find-in-short/the-women-in-the-mound/",
+      "sourceType": "HERITAGE_RESEARCH"
+    },
+    {
+      "sourceId": "SNL_OSEBERG",
+      "title": "Osebergfunnet",
+      "publisher": "Store norske leksikon",
+      "url": "https://snl.no/Osebergfunnet",
+      "sourceType": "REFERENCE_INSTITUTION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "oseberg-ship-women-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, record, and reassessment.",
+      "altKo": "핵심 사건·기록·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, record, and reassessment.",
+      "sourceRefs": [
+        "OSEBERG_WOMEN",
+        "SNL_OSEBERG"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "oseberg-ship-women__oseberg-ship-women-v01__ko.png",
+          "sha256": "bd2e365463929fc91182ba8f2b5119563308d12e0de03ba9e9ced005fb500654",
+          "width": 1600,
+          "height": 900,
+          "fileName": "oseberg-ship-women__oseberg-ship-women-v01__ko.png"
+        },
+        "en": {
+          "file": "oseberg-ship-women__oseberg-ship-women-v01__en.png",
+          "sha256": "8061d3a7fda004cbedf84288ecfb950a013ada67227e46b042295b9956407988",
+          "width": 1600,
+          "height": 900,
+          "fileName": "oseberg-ship-women__oseberg-ship-women-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "oseberg-ship-women-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "OSEBERG_WOMEN",
+        "SNL_OSEBERG"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "oseberg-ship-women__oseberg-ship-women-v02__ko.png",
+          "sha256": "164cfe7c1f34f3e6e57e47461d875bd6aa443d69b8138bb003a851dc0700b7d4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "oseberg-ship-women__oseberg-ship-women-v02__ko.png"
+        },
+        "en": {
+          "file": "oseberg-ship-women__oseberg-ship-women-v02__en.png",
+          "sha256": "65ccfc5cd68ab912f9b67e2bf9fc79ab8f356dee6af0be7173eb17e30d066023",
+          "width": 1600,
+          "height": 900,
+          "fileName": "oseberg-ship-women__oseberg-ship-women-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "oseberg-ship-women-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "OSEBERG_WOMEN",
+        "SNL_OSEBERG"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "oseberg-ship-women__oseberg-ship-women-v03__ko.png",
+          "sha256": "29901b8bf0794893699fc4ab29256e771d0f42c41294e7d2c7e646de276850dc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "oseberg-ship-women__oseberg-ship-women-v03__ko.png"
+        },
+        "en": {
+          "file": "oseberg-ship-women__oseberg-ship-women-v03__en.png",
+          "sha256": "aafbb30298be6b9d9da096220c9aef8e8cfb57a422ad85df518193ed3b854924",
+          "width": 1600,
+          "height": 900,
+          "fileName": "oseberg-ship-women__oseberg-ship-women-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Norway",
+    "era": "834 CE",
+    "genre": "Archaeology / Identity Mystery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Archaeology / Identity Mystery",
+    "resolution": "unknown",
+    "countries": [
+      "Norway"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1507,
+    "enBodyWords": 453
+  }
+}
