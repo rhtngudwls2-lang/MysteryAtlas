@@ -1,0 +1,448 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "gulf-of-tonkin-intelligence",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "통킹만 사건의 정보 논쟁",
+    "canonicalTitleEn": "Gulf of Tonkin Intelligence Controversy",
+    "aliasesKo": [],
+    "aliasesEn": [
+      "Gulf of Tonkin",
+      "August 4 attack"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "INTELLIGENCE_REASSESSMENT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "8월 2일과 4일은 같은 사건이 아니었다—통킹만 정보는 어떻게 뒤집혔나",
+      "hook": "첫 교전은 실제였다. 문제는 이틀 뒤 밤, 레이더·소나·SIGINT가 하나의 “두 번째 공격” 이야기로 묶인 과정이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "8월 2일: 실제 교전",
+          "headingEn": "August 2: A Real Clash",
+          "textKo": "1964년 8월 2일 USS Maddox는 북베트남 어뢰정과 실제로 교전했다. 미 해군 역사기록에는 공격과 대응사격, Maddox에 맞은 탄흔이 남아 있다. 후대 논쟁은 이 첫 사건의 존재가 아니라 8월 4일 두 번째 공격의 실재 여부에 집중된다.",
+          "textEn": "On August 2, 1964, USS Maddox was genuinely engaged by North Vietnamese torpedo boats. U.S. Navy historical records document the clash and return fire. The later controversy is not about whether the August 2 engagement occurred, but whether a second attack occurred on August 4."
+        },
+        {
+          "blockId": "02",
+          "type": "NIGHT",
+          "headingKo": "8월 4일: 어둠 속의 센서",
+          "headingEn": "August 4: Sensors in Darkness",
+          "textKo": "8월 4일 밤 Maddox와 Turner Joy는 레이더·소나 접촉을 공격으로 해석해 회피기동과 사격을 했다. 당시 공식 보고는 반복되는 torpedo attack을 기록했지만 날씨가 나빴고 시각확인은 제한적이었다. 같은 밤 현장 지휘관은 이상기상과 과민한 sonar operator가 일부 보고를 만들었을 수 있다고 경고했다.",
+          "textEn": "On the night of August 4, Maddox and Turner Joy interpreted radar and sonar contacts as an attack, maneuvered defensively, and fired. Contemporary reports described repeated torpedo attacks, but weather was poor and visual confirmation was limited. The task-group commander also warned that unusual weather and “over-eager” sonar interpretation might explain many reports."
+        },
+        {
+          "blockId": "03",
+          "type": "SIGINT",
+          "headingKo": "통신정보가 확신을 강화했다",
+          "headingEn": "Signals Intelligence Reinforced the Belief",
+          "textKo": "Washington에는 북베트남 해군 통신을 해석한 SIGINT 보고도 들어왔다. 당시 정책결정자들은 이를 현장 센서보고와 결합해 두 번째 공격이 있었다고 판단했다. 문제는 후대 NSA 연구가 일부 통신이 시간과 맥락을 잘못 연결하거나 이미 발생한 8월 2일 사건과 혼동됐다고 지적한 데 있다.",
+          "textEn": "Signals intelligence reporting also reached Washington and was combined with the destroyers’ sensor reports to support the belief that a second attack had occurred. Later NSA historical analysis concluded that some communications had been misread in time or context and confused with the August 2 action."
+        },
+        {
+          "blockId": "04",
+          "type": "POLICY",
+          "headingKo": "불확실성이 정책보다 느리게 움직였다",
+          "headingEn": "Uncertainty Moved More Slowly Than Policy",
+          "textKo": "8월 4일 보고를 바탕으로 미군은 북베트남 목표를 공격했고, 의회는 곧 Gulf of Tonkin Resolution을 통과시켰다. 당시 정보가 완전히 정리되기 전에 군사·정치적 결정이 빠르게 진행됐다. 그래서 이 사건은 “정보의 불확실성이 정책결정에서 어떻게 취급되는가”의 대표 사례가 됐다.",
+          "textEn": "Based on the August 4 reports, U.S. forces struck targets in North Vietnam and Congress soon passed the Gulf of Tonkin Resolution. Military and political decisions moved before the intelligence picture had fully stabilized, making the episode a classic case of how uncertainty is handled in policy."
+        },
+        {
+          "blockId": "05",
+          "type": "REASSESSMENT",
+          "headingKo": "후대 NSA 역사연구의 결론",
+          "headingEn": "The Later NSA Historical Judgment",
+          "textKo": "NSA가 비밀해제한 역사연구 ‘Skunks, Bogies, Silent Hounds, and the Flying Fish’는 8월 4일 두 번째 공격이 발생하지 않았다고 결론냈다. 미 해군 역사기관도 오늘날 8월 4일 공격을 ‘later determined as false’로 요약한다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "The NSA’s declassified historical study “Skunks, Bogies, Silent Hounds, and the Flying Fish” concluded that the second attack on August 4 did not occur. The U.S. Naval History and Heritage Command now summarizes the August 4 attack as later determined to be false."
+        },
+        {
+          "blockId": "06",
+          "type": "CAUTION",
+          "headingKo": "오판과 음모는 같은 단어가 아니다",
+          "headingEn": "Misperception Is Not Automatically Conspiracy",
+          "textKo": "후대 분석이 두 번째 공격을 부정한다고 해서 사건에 관련된 모든 사람이 처음부터 거짓임을 알고 공모했다는 결론이 자동으로 따라오지는 않는다. 당시에는 잘못 해석된 센서와 통신, 시간압박, 확인편향이 함께 작용했다는 설명과 의도적 기만 주장 사이를 증거로 구분해야 한다. 이 사건을 읽을 때는 8월 2일과 8월 4일을 반드시 분리해야 한다. NSA의 후대 역사연구는 8월 4일 당시 레이더·소나·시각정보와 SIGINT가 혼란스러운 상태에서 공격 판단이 굳어지는 과정을 추적한다. 특히 의심을 제기한 분석과 상반된 신호가 정책결정 과정에서 충분히 반영되지 않았다는 점이 핵심이다. 이것은 정보실패와 보고과정의 문제를 보여주지만, 모든 참가자가 같은 의도로 사실을 조작했다는 더 강한 주장을 자동으로 입증하지는 않는다. 문서가 지지하는 결론과 동기 추정은 분리해야 한다.",
+          "textEn": "The later conclusion that no second attack occurred does not automatically prove that everyone involved knowingly conspired from the outset. Evidence must distinguish between misread sensors and communications, time pressure, confirmation bias, and claims of deliberate deception."
+        },
+        {
+          "blockId": "07",
+          "type": "LEGACY",
+          "headingKo": "정보분석의 교과서가 된 사건",
+          "headingEn": "A Case Study in Intelligence Analysis",
+          "textKo": "통킹만은 원자료의 시간표, 반대증거, 불확실성 표시, 정책결정자에게 전달되는 정보의 선택이 얼마나 중요한지 보여준다. 현재 공개된 기록은 “당시 무엇을 알았는가”와 “후대에 무엇을 다시 알게 됐는가”를 비교할 수 있게 한다.",
+          "textEn": "The Gulf of Tonkin shows why timelines, contrary evidence, uncertainty labels, and selection of intelligence for decision-makers matter. Declassified records make it possible to compare what officials believed at the time with what later analysis established."
+        },
+        {
+          "blockId": "08",
+          "type": "TIMELINE_DISCIPLINE",
+          "headingKo": "두 밤을 한 사건으로 합치면 오류가 시작된다",
+          "headingEn": "The Error Begins When Two Nights Become One Event",
+          "textKo": "8월 2일에는 시각적으로 확인된 어뢰정과 실제 포격이 있었다. 8월 4일에는 어두운 날씨 속에서 센서 접촉과 통신해석이 중심이었고, 이후 현장에서도 의심 메시지가 나왔다. 이 두 사건의 증거성격이 다른데도 “통킹만 공격”이라는 한 표현으로 묶으면 첫 사건의 확실성이 두 번째 사건에 전이되는 효과가 생긴다. 현대적 검토에서는 날짜별 원자료와 시간순 메시지를 분리해 보는 것이 핵심이다.",
+          "textEn": "On August 2, visually observed torpedo boats and actual gunfire were present. On August 4, the evidence centered on sensor contacts and communications interpretation in poor conditions, followed by doubts from the scene. Because the evidentiary character of the two nights differed, combining them under a single phrase—“the Gulf of Tonkin attacks”—can transfer the certainty of the first event onto the second. Modern review depends on separating the source record by date and time."
+        },
+        {
+          "blockId": "09",
+          "type": "ANALYTIC_FAILURE",
+          "headingKo": "반대증거가 어떻게 사라지는가",
+          "headingEn": "How Contrary Evidence Can Lose Weight",
+          "textKo": "후대 NSA 연구가 강조한 문제 가운데 하나는 이미 형성된 공격 가설에 맞는 SIGINT가 더 큰 비중을 얻고, 맞지 않는 정보가 충분히 반영되지 못했다는 점이다. 정보분석에서 이는 단순한 과거사 문제가 아니다. 하나의 가설이 정책결정과 연결되는 순간 분석자는 오히려 반대증거와 불확실성을 더 명시해야 한다. 통킹만은 “정보가 틀릴 수 있다”보다 “틀릴 가능성을 어떻게 표시하고 전달했는가”가 더 중요한 사례다.",
+          "textEn": "A key issue in later NSA analysis is that signals intelligence fitting the attack hypothesis gained weight while contrary or complicating information was not adequately reflected. This is not merely a historical curiosity. Once an analytic hypothesis becomes linked to policy action, contrary evidence and uncertainty need more explicit treatment. Tonkin is therefore less a lesson that intelligence can be wrong than a lesson about how the possibility of error is communicated."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: 8월 2일 실제 교전은 있었고, 후대 NSA·미 해군 역사자료는 8월 4일 두 번째 공격이 발생하지 않았다고 평가한다.\n\n미확정: 이 결론만으로 모든 관련 정책·보고가 사전에 계획된 공모였다고 단정할 수는 없다.",
+          "textEn": "Established: the August 2 clash occurred; later NSA and U.S. Navy historical sources conclude that the August 4 second attack did not occur.\n\nNot established: that conclusion alone does not prove that all related reporting and policy actions were part of a preplanned conspiracy."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 8월 2일 실제 교전은 있었고, 후대 NSA·미 해군 역사자료는 8월 4일 두 번째 공격이 발생하지 않았다고 평가한다.",
+        "notEstablished": "미확정: 이 결론만으로 모든 관련 정책·보고가 사전에 계획된 공모였다고 단정할 수는 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "August 2 and August 4 Were Not the Same Event—How the Gulf of Tonkin Intelligence Was Reassessed",
+      "hook": "The first clash was real. The controversy centers on the night two days later, when radar, sonar, and signals intelligence were combined into a story of a second attack.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "8월 2일: 실제 교전",
+          "headingEn": "August 2: A Real Clash",
+          "textKo": "1964년 8월 2일 USS Maddox는 북베트남 어뢰정과 실제로 교전했다. 미 해군 역사기록에는 공격과 대응사격, Maddox에 맞은 탄흔이 남아 있다. 후대 논쟁은 이 첫 사건의 존재가 아니라 8월 4일 두 번째 공격의 실재 여부에 집중된다.",
+          "textEn": "On August 2, 1964, USS Maddox was genuinely engaged by North Vietnamese torpedo boats. U.S. Navy historical records document the clash and return fire. The later controversy is not about whether the August 2 engagement occurred, but whether a second attack occurred on August 4."
+        },
+        {
+          "blockId": "02",
+          "type": "NIGHT",
+          "headingKo": "8월 4일: 어둠 속의 센서",
+          "headingEn": "August 4: Sensors in Darkness",
+          "textKo": "8월 4일 밤 Maddox와 Turner Joy는 레이더·소나 접촉을 공격으로 해석해 회피기동과 사격을 했다. 당시 공식 보고는 반복되는 torpedo attack을 기록했지만 날씨가 나빴고 시각확인은 제한적이었다. 같은 밤 현장 지휘관은 이상기상과 과민한 sonar operator가 일부 보고를 만들었을 수 있다고 경고했다.",
+          "textEn": "On the night of August 4, Maddox and Turner Joy interpreted radar and sonar contacts as an attack, maneuvered defensively, and fired. Contemporary reports described repeated torpedo attacks, but weather was poor and visual confirmation was limited. The task-group commander also warned that unusual weather and “over-eager” sonar interpretation might explain many reports."
+        },
+        {
+          "blockId": "03",
+          "type": "SIGINT",
+          "headingKo": "통신정보가 확신을 강화했다",
+          "headingEn": "Signals Intelligence Reinforced the Belief",
+          "textKo": "Washington에는 북베트남 해군 통신을 해석한 SIGINT 보고도 들어왔다. 당시 정책결정자들은 이를 현장 센서보고와 결합해 두 번째 공격이 있었다고 판단했다. 문제는 후대 NSA 연구가 일부 통신이 시간과 맥락을 잘못 연결하거나 이미 발생한 8월 2일 사건과 혼동됐다고 지적한 데 있다.",
+          "textEn": "Signals intelligence reporting also reached Washington and was combined with the destroyers’ sensor reports to support the belief that a second attack had occurred. Later NSA historical analysis concluded that some communications had been misread in time or context and confused with the August 2 action."
+        },
+        {
+          "blockId": "04",
+          "type": "POLICY",
+          "headingKo": "불확실성이 정책보다 느리게 움직였다",
+          "headingEn": "Uncertainty Moved More Slowly Than Policy",
+          "textKo": "8월 4일 보고를 바탕으로 미군은 북베트남 목표를 공격했고, 의회는 곧 Gulf of Tonkin Resolution을 통과시켰다. 당시 정보가 완전히 정리되기 전에 군사·정치적 결정이 빠르게 진행됐다. 그래서 이 사건은 “정보의 불확실성이 정책결정에서 어떻게 취급되는가”의 대표 사례가 됐다.",
+          "textEn": "Based on the August 4 reports, U.S. forces struck targets in North Vietnam and Congress soon passed the Gulf of Tonkin Resolution. Military and political decisions moved before the intelligence picture had fully stabilized, making the episode a classic case of how uncertainty is handled in policy."
+        },
+        {
+          "blockId": "05",
+          "type": "REASSESSMENT",
+          "headingKo": "후대 NSA 역사연구의 결론",
+          "headingEn": "The Later NSA Historical Judgment",
+          "textKo": "NSA가 비밀해제한 역사연구 ‘Skunks, Bogies, Silent Hounds, and the Flying Fish’는 8월 4일 두 번째 공격이 발생하지 않았다고 결론냈다. 미 해군 역사기관도 오늘날 8월 4일 공격을 ‘later determined as false’로 요약한다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "The NSA’s declassified historical study “Skunks, Bogies, Silent Hounds, and the Flying Fish” concluded that the second attack on August 4 did not occur. The U.S. Naval History and Heritage Command now summarizes the August 4 attack as later determined to be false."
+        },
+        {
+          "blockId": "06",
+          "type": "CAUTION",
+          "headingKo": "오판과 음모는 같은 단어가 아니다",
+          "headingEn": "Misperception Is Not Automatically Conspiracy",
+          "textKo": "후대 분석이 두 번째 공격을 부정한다고 해서 사건에 관련된 모든 사람이 처음부터 거짓임을 알고 공모했다는 결론이 자동으로 따라오지는 않는다. 당시에는 잘못 해석된 센서와 통신, 시간압박, 확인편향이 함께 작용했다는 설명과 의도적 기만 주장 사이를 증거로 구분해야 한다. 이 사건을 읽을 때는 8월 2일과 8월 4일을 반드시 분리해야 한다. NSA의 후대 역사연구는 8월 4일 당시 레이더·소나·시각정보와 SIGINT가 혼란스러운 상태에서 공격 판단이 굳어지는 과정을 추적한다. 특히 의심을 제기한 분석과 상반된 신호가 정책결정 과정에서 충분히 반영되지 않았다는 점이 핵심이다. 이것은 정보실패와 보고과정의 문제를 보여주지만, 모든 참가자가 같은 의도로 사실을 조작했다는 더 강한 주장을 자동으로 입증하지는 않는다. 문서가 지지하는 결론과 동기 추정은 분리해야 한다.",
+          "textEn": "The later conclusion that no second attack occurred does not automatically prove that everyone involved knowingly conspired from the outset. Evidence must distinguish between misread sensors and communications, time pressure, confirmation bias, and claims of deliberate deception."
+        },
+        {
+          "blockId": "07",
+          "type": "LEGACY",
+          "headingKo": "정보분석의 교과서가 된 사건",
+          "headingEn": "A Case Study in Intelligence Analysis",
+          "textKo": "통킹만은 원자료의 시간표, 반대증거, 불확실성 표시, 정책결정자에게 전달되는 정보의 선택이 얼마나 중요한지 보여준다. 현재 공개된 기록은 “당시 무엇을 알았는가”와 “후대에 무엇을 다시 알게 됐는가”를 비교할 수 있게 한다.",
+          "textEn": "The Gulf of Tonkin shows why timelines, contrary evidence, uncertainty labels, and selection of intelligence for decision-makers matter. Declassified records make it possible to compare what officials believed at the time with what later analysis established."
+        },
+        {
+          "blockId": "08",
+          "type": "TIMELINE_DISCIPLINE",
+          "headingKo": "두 밤을 한 사건으로 합치면 오류가 시작된다",
+          "headingEn": "The Error Begins When Two Nights Become One Event",
+          "textKo": "8월 2일에는 시각적으로 확인된 어뢰정과 실제 포격이 있었다. 8월 4일에는 어두운 날씨 속에서 센서 접촉과 통신해석이 중심이었고, 이후 현장에서도 의심 메시지가 나왔다. 이 두 사건의 증거성격이 다른데도 “통킹만 공격”이라는 한 표현으로 묶으면 첫 사건의 확실성이 두 번째 사건에 전이되는 효과가 생긴다. 현대적 검토에서는 날짜별 원자료와 시간순 메시지를 분리해 보는 것이 핵심이다.",
+          "textEn": "On August 2, visually observed torpedo boats and actual gunfire were present. On August 4, the evidence centered on sensor contacts and communications interpretation in poor conditions, followed by doubts from the scene. Because the evidentiary character of the two nights differed, combining them under a single phrase—“the Gulf of Tonkin attacks”—can transfer the certainty of the first event onto the second. Modern review depends on separating the source record by date and time."
+        },
+        {
+          "blockId": "09",
+          "type": "ANALYTIC_FAILURE",
+          "headingKo": "반대증거가 어떻게 사라지는가",
+          "headingEn": "How Contrary Evidence Can Lose Weight",
+          "textKo": "후대 NSA 연구가 강조한 문제 가운데 하나는 이미 형성된 공격 가설에 맞는 SIGINT가 더 큰 비중을 얻고, 맞지 않는 정보가 충분히 반영되지 못했다는 점이다. 정보분석에서 이는 단순한 과거사 문제가 아니다. 하나의 가설이 정책결정과 연결되는 순간 분석자는 오히려 반대증거와 불확실성을 더 명시해야 한다. 통킹만은 “정보가 틀릴 수 있다”보다 “틀릴 가능성을 어떻게 표시하고 전달했는가”가 더 중요한 사례다.",
+          "textEn": "A key issue in later NSA analysis is that signals intelligence fitting the attack hypothesis gained weight while contrary or complicating information was not adequately reflected. This is not merely a historical curiosity. Once an analytic hypothesis becomes linked to policy action, contrary evidence and uncertainty need more explicit treatment. Tonkin is therefore less a lesson that intelligence can be wrong than a lesson about how the possibility of error is communicated."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: 8월 2일 실제 교전은 있었고, 후대 NSA·미 해군 역사자료는 8월 4일 두 번째 공격이 발생하지 않았다고 평가한다.\n\n미확정: 이 결론만으로 모든 관련 정책·보고가 사전에 계획된 공모였다고 단정할 수는 없다.",
+          "textEn": "Established: the August 2 clash occurred; later NSA and U.S. Navy historical sources conclude that the August 4 second attack did not occur.\n\nNot established: that conclusion alone does not prove that all related reporting and policy actions were part of a preplanned conspiracy."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: the August 2 clash occurred; later NSA and U.S. Navy historical sources conclude that the August 4 second attack did not occur.",
+        "notEstablished": "Not established: that conclusion alone does not prove that all related reporting and policy actions were part of a preplanned conspiracy."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TON-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1964년 8월 2일 USS Maddox와 북베트남 어뢰정 사이 실제 교전이 있었다.",
+      "statementEn": "A real engagement occurred on August 2, 1964 between USS Maddox and North Vietnamese torpedo boats.",
+      "sourceRefs": [
+        "NHHC_TONKIN"
+      ]
+    },
+    {
+      "claimId": "TON-C2",
+      "status": "CONFIRMED",
+      "statementKo": "후대 NSA·미 해군 역사자료는 8월 4일 두 번째 공격이 발생하지 않았다고 평가한다.",
+      "statementEn": "Later NSA and U.S. Navy historical sources conclude the August 4 second attack did not occur.",
+      "sourceRefs": [
+        "NSA_SKUNKS",
+        "NHHC_TONKIN"
+      ]
+    },
+    {
+      "claimId": "TON-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "두 번째 공격이 없었다는 사실만으로 모든 관련 행위가 사전 공모였다고 결론낼 수는 없다.",
+      "statementEn": "The absence of the second attack does not by itself prove a preplanned conspiracy encompassing all related actions.",
+      "sourceRefs": [
+        "NSA_SKUNKS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NSA_TONKIN_RELEASE",
+      "title": "Gulf of Tonkin Historical Releases",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Gulf-of-Tonkin/",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    },
+    {
+      "sourceId": "NSA_SKUNKS",
+      "title": "Skunks, Bogies, Silent Hounds, and the Flying Fish",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/gulf-of-tonkin/articles/release-1/rel1_skunks_bogies.pdf",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    },
+    {
+      "sourceId": "NHHC_TONKIN",
+      "title": "The Gulf of Tonkin Incidents August 2-4, 1964",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/content/history/museums/hrnm/explore/VietnamExhibitPage/BeginningsReloadV1/GulfofTonkingReloadV3.html",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gulf-of-tonkin-intelligence-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events, observations, and reassessment.",
+      "altKo": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+      "altEn": "Explanatory timeline of key events.",
+      "sourceRefs": [
+        "NSA_TONKIN_RELEASE",
+        "NSA_SKUNKS",
+        "NHHC_TONKIN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "a1d4a1eac3b1307778cfafed3eb79daf70328cddd72c7b4558b6a8e9f8996f55",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v01__ko.png"
+        },
+        "en": {
+          "sha256": "3506cd24cbd7ff12505ae2e34e1d9b92c60b679244c1bd54c2e9785a865b9204",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "gulf-of-tonkin-intelligence-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·장소·정보 흐름을 단순화한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original explanatory map of institutions, places, and information flow.",
+      "altKo": "사건의 구조와 정보 흐름을 정리한 설명용 그래픽.",
+      "altEn": "Explanatory graphic showing the structure and information flow.",
+      "sourceRefs": [
+        "NSA_TONKIN_RELEASE",
+        "NSA_SKUNKS",
+        "NHHC_TONKIN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "d472c3d2011e6251e09f4958c27ffc3fe9c08ed77613dbf2f00a9643d9dd10d4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v02__ko.png"
+        },
+        "en": {
+          "sha256": "4586daff736ca41f73782c0d4303e2013fe032528ba1515da257db03fd6531cf",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "gulf-of-tonkin-intelligence-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "문서로 확인되는 사실과 미확정 주장을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating documented facts from unestablished claims.",
+      "altKo": "확인된 사실과 미확정 주장을 나눈 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card separating established facts from unestablished claims.",
+      "sourceRefs": [
+        "NSA_TONKIN_RELEASE",
+        "NSA_SKUNKS",
+        "NHHC_TONKIN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "57e96e158b032332b7927c61fe1d8cf16fa373ce4742df3496549ca680cfe607",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v03__ko.png"
+        },
+        "en": {
+          "sha256": "f7f0f69bf82ca2f2cc5e9a121f02d342cb6e643fabad11ed68516d9fba920e6f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Vietnam War",
+      "Signals intelligence"
+    ],
+    "countries": [
+      "United States",
+      "North Vietnam"
+    ],
+    "regions": [
+      "Gulf of Tonkin"
+    ],
+    "places": [
+      {
+        "name": "Gulf of Tonkin",
+        "role": "incident area"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Navy",
+      "National Security Agency"
+    ],
+    "dateRange": {
+      "start": "1964",
+      "end": "2005",
+      "precision": "historical range"
+    },
+    "era": "1964–2005",
+    "resolution": "AUG2_ATTACK_CONFIRMED_AUG4_SECOND_ATTACK_NOT_SUPPORTED_BY_LATER_REVIEW",
+    "searchAliases": [
+      "Gulf of Tonkin",
+      "August 4 attack"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 2208,
+    "enBodyWords": 497,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH38",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

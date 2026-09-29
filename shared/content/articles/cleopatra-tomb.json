@@ -1,0 +1,449 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "cleopatra-tomb",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "클레오파트라의 무덤",
+    "canonicalTitleEn": "Tomb of Cleopatra VII",
+    "aliasesKo": [],
+    "aliasesEn": [
+      "Cleopatra tomb",
+      "Antony and Cleopatra tomb"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "LOST_TOMB_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "함께 묻혔다고 기록됐는데, 클레오파트라의 무덤은 왜 아직 못 찾았나",
+      "hook": "알렉산드리아의 지형 변화와 타포시리스 마그나의 발굴 성과 사이에는 여전히 결정적인 한 칸이 비어 있다: 무덤 자체다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "기원전 30년 이후 사라진 위치",
+          "headingEn": "A Burial Place Lost After 30 BCE",
+          "textKo": "클레오파트라 7세와 마르쿠스 안토니우스는 기원전 30년 알렉산드리아에서 죽었다. 고대 전승은 두 사람이 함께 묻혔다고 전하지만, 오늘날 그 무덤의 위치는 확인되지 않았다. 이 미스터리는 ‘무덤이 있었는가’보다 ‘어디에 있었고 무엇이 남았는가’에 가깝다.",
+          "textEn": "Cleopatra VII and Mark Antony died in Alexandria in 30 BCE. Ancient tradition holds that they were buried together, yet the location of the tomb has not been confirmed. The mystery is less whether a burial existed than where it was and what, if anything, survives."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "알렉산드리아는 같은 도시가 아니다",
+          "headingEn": "Alexandria Is Not the Same Landscape",
+          "textKo": "고대 알렉산드리아의 해안선과 도시 지형은 지진, 침하, 재건, 해수면 변화로 크게 변했다. 왕실 구역의 일부는 현재 바다 아래에 있으며 고대 건물의 위치를 현대 도로 위에 단순히 겹칠 수 없다. 따라서 문헌의 지명만으로 무덤 위치를 직접 찍어내는 것은 어렵다.",
+          "textEn": "Alexandria’s shoreline and urban landscape changed through earthquakes, subsidence, rebuilding, and sea-level change. Parts of the ancient royal quarter are now underwater. Ancient place descriptions cannot simply be overlaid onto the modern street plan to locate a tomb."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "타포시리스 마그나가 주목받는 이유",
+          "headingEn": "Why Taposiris Magna Draws Attention",
+          "textKo": "알렉산드리아 서쪽의 타포시리스 마그나에서는 장기간 발굴이 이어져 사원, 매장시설, 동전, 조각상, 지하 터널 등 여러 유물이 보고됐다. 이 유적은 프톨레마이오스·로마 시기의 종교와 장례 활동을 보여주는 중요한 장소다. 그러나 중요한 유물이 나왔다는 사실과 클레오파트라의 왕실 무덤이 그곳에 있다는 결론은 별개다.",
+          "textEn": "Long-running excavations at Taposiris Magna west of Alexandria have reported temples, burials, coins, statues, and a large underground tunnel. The site is important for understanding Ptolemaic and Roman religious and funerary activity. But significant finds do not automatically identify the location as Cleopatra’s royal tomb."
+        },
+        {
+          "blockId": "04",
+          "type": "CLAIM_CHECK",
+          "headingKo": "조각상 하나가 클레오파트라인가",
+          "headingEn": "Does One Statue Depict Cleopatra?",
+          "textKo": "최근 타포시리스 마그나에서 발견된 여성 두상에 대해 발굴팀은 클레오파트라일 가능성을 제기했지만, 이를 다른 인물로 보는 학자들도 있다. Smithsonian 보도는 이 해석 차이를 명시한다. 이런 논쟁은 유물의 발견과 인물 식별이 서로 다른 증거 단계임을 보여준다.",
+          "textEn": "A female head discovered at Taposiris Magna has been proposed by the excavation team as a possible depiction of Cleopatra, while other scholars dispute that identification. Smithsonian coverage explicitly notes the disagreement. The debate illustrates the difference between finding an artifact and securely identifying the person represented."
+        },
+        {
+          "blockId": "05",
+          "type": "ALTERNATIVES",
+          "headingKo": "알렉산드리아 안쪽 후보도 사라지지 않았다",
+          "headingEn": "Alexandria Remains a Live Candidate",
+          "textKo": "고대 왕실 묘역이 알렉산드리아 중심부 또는 현재 수중 유적과 연결됐을 가능성도 계속 논의된다. 문헌상 왕실 중심지와 가까운 매장을 상정하는 해석은 여전히 경쟁 가설이다. 타포시리스 마그나가 흥미로운 후보라는 사실이 다른 후보를 제거하지는 않는다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "The possibility that the royal burial lay within ancient Alexandria or near areas now submerged remains under discussion. A burial close to the royal quarter is still a competing interpretation. Taposiris Magna being an intriguing candidate does not eliminate other locations."
+        },
+        {
+          "blockId": "06",
+          "type": "METHOD",
+          "headingKo": "무덤을 확인하려면 무엇이 필요할까",
+          "headingEn": "What Would Confirm the Tomb?",
+          "textKo": "왕실 명문, 이름이 적힌 석비, 확실한 연대와 맥락을 가진 매장실, 문헌과 일치하는 고고학적 연결고리처럼 서로 독립적인 증거가 겹쳐야 한다. 금화나 조각상, 터널 같은 개별 발견은 후보지의 중요성을 높일 수 있지만 그 자체가 최종 식별자는 아니다. 후보지 연구에서 가장 중요한 경계는 “프톨레마이오스 시대 유물이 나왔다”와 “클레오파트라의 무덤을 찾았다”를 분리하는 것이다. Taposiris Magna는 실제 고고학 유적이며 발굴이 계속되고 있지만, 왕실 인물의 신원을 특정하려면 명문, 매장 맥락, 연대, 인골 또는 다른 직접 연결고리가 필요하다. 알렉산드리아 일대의 지형 변화와 수몰·재건 역사도 후보지 논의를 어렵게 만든다. 발견 보도는 탐색 범위를 좁힐 수 있지만 신원 확정의 마지막 단계를 대신하지 못한다.",
+          "textEn": "Confirmation would require converging evidence: royal inscriptions, an identified burial chamber, securely dated context, and archaeological links consistent with the historical record. Coins, statues, or tunnels may strengthen a site’s importance, but none alone is a definitive identifier."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "찾지 못했다는 사실이 오히려 이야기를 키웠다",
+          "headingEn": "Absence Has Expanded the Legend",
+          "textKo": "클레오파트라의 무덤은 역사·고고학·대중문화가 겹치는 대표적 lost-tomb 미스터리가 됐다. 새로운 발굴 발표 때마다 ‘발견 임박’이라는 제목이 반복되지만, 지금까지 어느 후보도 국제적으로 받아들여지는 확정 무덤으로 인정되지 않았다.",
+          "textEn": "Cleopatra’s tomb has become a classic lost-tomb mystery at the intersection of history, archaeology, and popular culture. Headlines repeatedly suggest that discovery is imminent, yet no candidate has been accepted as the confirmed tomb."
+        },
+        {
+          "blockId": "08",
+          "type": "ANCIENT_RECORD",
+          "headingKo": "문헌은 방향을 주지만 좌표를 주지 않는다",
+          "headingEn": "Texts Give Direction, Not Coordinates",
+          "textKo": "클레오파트라의 최후를 전하는 고대 저자들은 왕비와 안토니우스의 사망과 장례를 서술하지만 현대 고고학자가 사용할 수 있는 정확한 좌표나 구조도는 남기지 않았다. 더구나 일부 기록은 사건과 시간적으로 떨어져 작성됐다. 그래서 문헌은 “함께 매장됐다는 전승”을 지지하는 증거지만, 특정 발굴지의 한 방이나 터널을 곧바로 왕실 묘실로 식별하는 열쇠는 아니다. 문헌과 유구가 같은 지점을 가리켜야 비로소 강한 연결고리가 된다.",
+          "textEn": "Ancient authors describe the deaths and burial tradition of Cleopatra and Antony, but they do not provide modern archaeologists with precise coordinates or architectural plans. Some accounts were also written well after the events. The texts therefore support a burial tradition, but they cannot by themselves identify a specific chamber or tunnel as the royal tomb. A persuasive identification would require literary and archaeological evidence to converge on the same place."
+        },
+        {
+          "blockId": "09",
+          "type": "SITE_LOGIC",
+          "headingKo": "후보지의 매력과 증거의 강도는 다르다",
+          "headingEn": "An Attractive Candidate Is Not a Confirmed Tomb",
+          "textKo": "타포시리스 마그나가 주목받는 이유는 클레오파트라 시대와 연결되는 종교적·고고학적 맥락이 풍부하고 실제로 인상적인 유물이 계속 나오기 때문이다. 그러나 고고학에서 ‘왕비와 같은 시대의 물건’과 ‘왕비 자신의 매장’ 사이에는 큰 증거 간격이 있다. 이름이 새겨진 왕실 표식, 매장맥락, 연대, 인체유해, 건축적 위치 같은 여러 단서가 동시에 맞아야 한다. 그래서 발굴 성과가 많아질수록 오히려 결론을 더 엄격하게 검토할 필요가 있다.",
+          "textEn": "Taposiris Magna attracts attention because its religious and archaeological context overlaps Cleopatra’s era and because significant finds continue to emerge. Yet archaeology distinguishes sharply between “objects from the queen’s period” and “the queen’s own burial.” Royal inscriptions, burial context, chronology, human remains, and architectural location would need to align. The richer the discoveries become, the more important it is to keep the final identification standard high."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: 클레오파트라와 안토니우스의 역사적 실존, 기원전 30년 사망, 함께 매장됐다는 고대 전승, 타포시리스 마그나의 실제 발굴성과는 확인된다.\n\n미확정: 정확한 무덤 위치, 타포시리스 마그나가 왕실 무덤이라는 가설, 특정 조각상이 클레오파트라라는 식별은 확정되지 않았다.",
+          "textEn": "Established: Cleopatra and Antony were historical figures who died in 30 BCE; ancient tradition says they were buried together; archaeological discoveries at Taposiris Magna are real.\n\nNot established: the exact tomb location, the claim that Taposiris Magna contains the royal tomb, or the identification of specific disputed artifacts as Cleopatra."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 클레오파트라와 안토니우스의 역사적 실존, 기원전 30년 사망, 함께 매장됐다는 고대 전승, 타포시리스 마그나의 실제 발굴성과는 확인된다.",
+        "notEstablished": "미확정: 정확한 무덤 위치, 타포시리스 마그나가 왕실 무덤이라는 가설, 특정 조각상이 클레오파트라라는 식별은 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Ancient Writers Said They Were Buried Together—So Where Is Cleopatra’s Tomb?",
+      "hook": "Between ancient burial traditions, a radically changed Alexandria, and finds at Taposiris Magna, one decisive piece remains missing: the tomb itself.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "기원전 30년 이후 사라진 위치",
+          "headingEn": "A Burial Place Lost After 30 BCE",
+          "textKo": "클레오파트라 7세와 마르쿠스 안토니우스는 기원전 30년 알렉산드리아에서 죽었다. 고대 전승은 두 사람이 함께 묻혔다고 전하지만, 오늘날 그 무덤의 위치는 확인되지 않았다. 이 미스터리는 ‘무덤이 있었는가’보다 ‘어디에 있었고 무엇이 남았는가’에 가깝다.",
+          "textEn": "Cleopatra VII and Mark Antony died in Alexandria in 30 BCE. Ancient tradition holds that they were buried together, yet the location of the tomb has not been confirmed. The mystery is less whether a burial existed than where it was and what, if anything, survives."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "알렉산드리아는 같은 도시가 아니다",
+          "headingEn": "Alexandria Is Not the Same Landscape",
+          "textKo": "고대 알렉산드리아의 해안선과 도시 지형은 지진, 침하, 재건, 해수면 변화로 크게 변했다. 왕실 구역의 일부는 현재 바다 아래에 있으며 고대 건물의 위치를 현대 도로 위에 단순히 겹칠 수 없다. 따라서 문헌의 지명만으로 무덤 위치를 직접 찍어내는 것은 어렵다.",
+          "textEn": "Alexandria’s shoreline and urban landscape changed through earthquakes, subsidence, rebuilding, and sea-level change. Parts of the ancient royal quarter are now underwater. Ancient place descriptions cannot simply be overlaid onto the modern street plan to locate a tomb."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "타포시리스 마그나가 주목받는 이유",
+          "headingEn": "Why Taposiris Magna Draws Attention",
+          "textKo": "알렉산드리아 서쪽의 타포시리스 마그나에서는 장기간 발굴이 이어져 사원, 매장시설, 동전, 조각상, 지하 터널 등 여러 유물이 보고됐다. 이 유적은 프톨레마이오스·로마 시기의 종교와 장례 활동을 보여주는 중요한 장소다. 그러나 중요한 유물이 나왔다는 사실과 클레오파트라의 왕실 무덤이 그곳에 있다는 결론은 별개다.",
+          "textEn": "Long-running excavations at Taposiris Magna west of Alexandria have reported temples, burials, coins, statues, and a large underground tunnel. The site is important for understanding Ptolemaic and Roman religious and funerary activity. But significant finds do not automatically identify the location as Cleopatra’s royal tomb."
+        },
+        {
+          "blockId": "04",
+          "type": "CLAIM_CHECK",
+          "headingKo": "조각상 하나가 클레오파트라인가",
+          "headingEn": "Does One Statue Depict Cleopatra?",
+          "textKo": "최근 타포시리스 마그나에서 발견된 여성 두상에 대해 발굴팀은 클레오파트라일 가능성을 제기했지만, 이를 다른 인물로 보는 학자들도 있다. Smithsonian 보도는 이 해석 차이를 명시한다. 이런 논쟁은 유물의 발견과 인물 식별이 서로 다른 증거 단계임을 보여준다.",
+          "textEn": "A female head discovered at Taposiris Magna has been proposed by the excavation team as a possible depiction of Cleopatra, while other scholars dispute that identification. Smithsonian coverage explicitly notes the disagreement. The debate illustrates the difference between finding an artifact and securely identifying the person represented."
+        },
+        {
+          "blockId": "05",
+          "type": "ALTERNATIVES",
+          "headingKo": "알렉산드리아 안쪽 후보도 사라지지 않았다",
+          "headingEn": "Alexandria Remains a Live Candidate",
+          "textKo": "고대 왕실 묘역이 알렉산드리아 중심부 또는 현재 수중 유적과 연결됐을 가능성도 계속 논의된다. 문헌상 왕실 중심지와 가까운 매장을 상정하는 해석은 여전히 경쟁 가설이다. 타포시리스 마그나가 흥미로운 후보라는 사실이 다른 후보를 제거하지는 않는다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "The possibility that the royal burial lay within ancient Alexandria or near areas now submerged remains under discussion. A burial close to the royal quarter is still a competing interpretation. Taposiris Magna being an intriguing candidate does not eliminate other locations."
+        },
+        {
+          "blockId": "06",
+          "type": "METHOD",
+          "headingKo": "무덤을 확인하려면 무엇이 필요할까",
+          "headingEn": "What Would Confirm the Tomb?",
+          "textKo": "왕실 명문, 이름이 적힌 석비, 확실한 연대와 맥락을 가진 매장실, 문헌과 일치하는 고고학적 연결고리처럼 서로 독립적인 증거가 겹쳐야 한다. 금화나 조각상, 터널 같은 개별 발견은 후보지의 중요성을 높일 수 있지만 그 자체가 최종 식별자는 아니다. 후보지 연구에서 가장 중요한 경계는 “프톨레마이오스 시대 유물이 나왔다”와 “클레오파트라의 무덤을 찾았다”를 분리하는 것이다. Taposiris Magna는 실제 고고학 유적이며 발굴이 계속되고 있지만, 왕실 인물의 신원을 특정하려면 명문, 매장 맥락, 연대, 인골 또는 다른 직접 연결고리가 필요하다. 알렉산드리아 일대의 지형 변화와 수몰·재건 역사도 후보지 논의를 어렵게 만든다. 발견 보도는 탐색 범위를 좁힐 수 있지만 신원 확정의 마지막 단계를 대신하지 못한다.",
+          "textEn": "Confirmation would require converging evidence: royal inscriptions, an identified burial chamber, securely dated context, and archaeological links consistent with the historical record. Coins, statues, or tunnels may strengthen a site’s importance, but none alone is a definitive identifier."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "찾지 못했다는 사실이 오히려 이야기를 키웠다",
+          "headingEn": "Absence Has Expanded the Legend",
+          "textKo": "클레오파트라의 무덤은 역사·고고학·대중문화가 겹치는 대표적 lost-tomb 미스터리가 됐다. 새로운 발굴 발표 때마다 ‘발견 임박’이라는 제목이 반복되지만, 지금까지 어느 후보도 국제적으로 받아들여지는 확정 무덤으로 인정되지 않았다.",
+          "textEn": "Cleopatra’s tomb has become a classic lost-tomb mystery at the intersection of history, archaeology, and popular culture. Headlines repeatedly suggest that discovery is imminent, yet no candidate has been accepted as the confirmed tomb."
+        },
+        {
+          "blockId": "08",
+          "type": "ANCIENT_RECORD",
+          "headingKo": "문헌은 방향을 주지만 좌표를 주지 않는다",
+          "headingEn": "Texts Give Direction, Not Coordinates",
+          "textKo": "클레오파트라의 최후를 전하는 고대 저자들은 왕비와 안토니우스의 사망과 장례를 서술하지만 현대 고고학자가 사용할 수 있는 정확한 좌표나 구조도는 남기지 않았다. 더구나 일부 기록은 사건과 시간적으로 떨어져 작성됐다. 그래서 문헌은 “함께 매장됐다는 전승”을 지지하는 증거지만, 특정 발굴지의 한 방이나 터널을 곧바로 왕실 묘실로 식별하는 열쇠는 아니다. 문헌과 유구가 같은 지점을 가리켜야 비로소 강한 연결고리가 된다.",
+          "textEn": "Ancient authors describe the deaths and burial tradition of Cleopatra and Antony, but they do not provide modern archaeologists with precise coordinates or architectural plans. Some accounts were also written well after the events. The texts therefore support a burial tradition, but they cannot by themselves identify a specific chamber or tunnel as the royal tomb. A persuasive identification would require literary and archaeological evidence to converge on the same place."
+        },
+        {
+          "blockId": "09",
+          "type": "SITE_LOGIC",
+          "headingKo": "후보지의 매력과 증거의 강도는 다르다",
+          "headingEn": "An Attractive Candidate Is Not a Confirmed Tomb",
+          "textKo": "타포시리스 마그나가 주목받는 이유는 클레오파트라 시대와 연결되는 종교적·고고학적 맥락이 풍부하고 실제로 인상적인 유물이 계속 나오기 때문이다. 그러나 고고학에서 ‘왕비와 같은 시대의 물건’과 ‘왕비 자신의 매장’ 사이에는 큰 증거 간격이 있다. 이름이 새겨진 왕실 표식, 매장맥락, 연대, 인체유해, 건축적 위치 같은 여러 단서가 동시에 맞아야 한다. 그래서 발굴 성과가 많아질수록 오히려 결론을 더 엄격하게 검토할 필요가 있다.",
+          "textEn": "Taposiris Magna attracts attention because its religious and archaeological context overlaps Cleopatra’s era and because significant finds continue to emerge. Yet archaeology distinguishes sharply between “objects from the queen’s period” and “the queen’s own burial.” Royal inscriptions, burial context, chronology, human remains, and architectural location would need to align. The richer the discoveries become, the more important it is to keep the final identification standard high."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: 클레오파트라와 안토니우스의 역사적 실존, 기원전 30년 사망, 함께 매장됐다는 고대 전승, 타포시리스 마그나의 실제 발굴성과는 확인된다.\n\n미확정: 정확한 무덤 위치, 타포시리스 마그나가 왕실 무덤이라는 가설, 특정 조각상이 클레오파트라라는 식별은 확정되지 않았다.",
+          "textEn": "Established: Cleopatra and Antony were historical figures who died in 30 BCE; ancient tradition says they were buried together; archaeological discoveries at Taposiris Magna are real.\n\nNot established: the exact tomb location, the claim that Taposiris Magna contains the royal tomb, or the identification of specific disputed artifacts as Cleopatra."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Cleopatra and Antony were historical figures who died in 30 BCE; ancient tradition says they were buried together; archaeological discoveries at Taposiris Magna are real.",
+        "notEstablished": "Not established: the exact tomb location, the claim that Taposiris Magna contains the royal tomb, or the identification of specific disputed artifacts as Cleopatra."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CLEO-C1",
+      "status": "SUPPORTED",
+      "statementKo": "고대 전승은 클레오파트라와 안토니우스가 함께 묻혔다고 전한다.",
+      "statementEn": "Ancient tradition says Cleopatra and Antony were buried together.",
+      "sourceRefs": [
+        "SMITHSONIAN_STATUE"
+      ]
+    },
+    {
+      "claimId": "CLEO-C2",
+      "status": "CONFIRMED",
+      "statementKo": "타포시리스 마그나에서 중요한 프톨레마이오스·로마 시대 유물과 지하구조가 발견됐다.",
+      "statementEn": "Important Ptolemaic/Roman finds and underground structures have been discovered at Taposiris Magna.",
+      "sourceRefs": [
+        "SMITHSONIAN_STATUE",
+        "SMITHSONIAN_TUNNEL"
+      ]
+    },
+    {
+      "claimId": "CLEO-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "타포시리스 마그나가 클레오파트라의 무덤이라는 결론은 확정되지 않았다.",
+      "statementEn": "It has not been established that Taposiris Magna contains Cleopatra’s tomb.",
+      "sourceRefs": [
+        "SMITHSONIAN_STATUE",
+        "SMITHSONIAN_TUNNEL"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SMITHSONIAN_STATUE",
+      "title": "Does This Statue Found at an Ancient Egyptian Temple Really Depict Cleopatra?",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/does-this-statue-found-at-an-ancient-egyptian-temple-really-depict-cleopatra-180985789/",
+      "sourceType": "MUSEUM_JOURNALISM"
+    },
+    {
+      "sourceId": "SMITHSONIAN_TUNNEL",
+      "title": "Archaeologists Discover 4,300-Foot-Long Tunnel Under Ancient Egyptian Temple",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-4300-foot-long-tunnel-under-ancient-egyptian-temple-180981099/",
+      "sourceType": "MUSEUM_JOURNALISM"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cleopatra-tomb-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events, observations, and reassessment.",
+      "altKo": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+      "altEn": "Explanatory timeline of key events.",
+      "sourceRefs": [
+        "SMITHSONIAN_STATUE",
+        "SMITHSONIAN_TUNNEL"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "cc6303b3ccc85a5081e0508d2822ba3a6f8926c9993098605f4428c4f1853782",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cleopatra-tomb__cleopatra-tomb-v01__ko.png"
+        },
+        "en": {
+          "sha256": "d0230145b0467218c212b70b2788428a884dead7360d1090892ccf3fa6d8bb20",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cleopatra-tomb__cleopatra-tomb-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "cleopatra-tomb-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·장소·정보 흐름을 단순화한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original explanatory map of institutions, places, and information flow.",
+      "altKo": "사건의 구조와 정보 흐름을 정리한 설명용 그래픽.",
+      "altEn": "Explanatory graphic showing the structure and information flow.",
+      "sourceRefs": [
+        "SMITHSONIAN_STATUE",
+        "SMITHSONIAN_TUNNEL"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "ec0164cfdee7d3c9b42992f2e602ab30bdce23035140de84e8598ec81a5dfb8d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cleopatra-tomb__cleopatra-tomb-v02__ko.png"
+        },
+        "en": {
+          "sha256": "ce32294cacc8d117890e93bf3591ec5c2f0d77ac4833537f60f97dca22c88af2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cleopatra-tomb__cleopatra-tomb-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "cleopatra-tomb-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "문서로 확인되는 사실과 미확정 주장을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating documented facts from unestablished claims.",
+      "altKo": "확인된 사실과 미확정 주장을 나눈 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card separating established facts from unestablished claims.",
+      "sourceRefs": [
+        "SMITHSONIAN_STATUE",
+        "SMITHSONIAN_TUNNEL"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "c43d9098aedf1fdb5fca51990d16aeee3fe5ed7b0990150a3dce1debaca5c98e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cleopatra-tomb__cleopatra-tomb-v03__ko.png"
+        },
+        "en": {
+          "sha256": "622356b694a91c17b89fdcc8559f33df8e46a508e3aae302f6d5b3bcf5b23024",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cleopatra-tomb__cleopatra-tomb-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Lost tomb",
+      "Ptolemaic Egypt"
+    ],
+    "countries": [
+      "Egypt"
+    ],
+    "regions": [
+      "Alexandria",
+      "Taposiris Magna"
+    ],
+    "places": [
+      {
+        "name": "Alexandria",
+        "role": "historical city"
+      },
+      {
+        "name": "Taposiris Magna",
+        "role": "candidate site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Cleopatra VII",
+        "role": "Ptolemaic ruler"
+      },
+      {
+        "name": "Mark Antony",
+        "role": "Roman statesman"
+      }
+    ],
+    "organizations": [],
+    "dateRange": {
+      "start": "30 BCE",
+      "end": "present",
+      "precision": "historical range"
+    },
+    "era": "30 BCE–present",
+    "resolution": "TOMB_LOCATION_NOT_CONFIRMED",
+    "searchAliases": [
+      "Cleopatra tomb",
+      "Antony and Cleopatra tomb"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 2181,
+    "enBodyWords": 476,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH38",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

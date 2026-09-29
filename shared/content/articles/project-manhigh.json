@@ -1,0 +1,403 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-manhigh",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Project Manhigh",
+    "canonicalTitleEn": "Project Manhigh",
+    "aliasesKo": [],
+    "aliasesEn": [
+      "Man High",
+      "Project Man High"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "AEROSPACE_HISTORY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "우주선이 뜨기 전, 인간은 풍선 캡슐로 어디까지 올라갔나",
+      "hook": "Manhigh의 미스터리는 비밀 우주비행이 아니라, 우주 환경을 지상에서 얼마나 먼저 시험할 수 있었는가에 있다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "10만 피트 부근의 작은 캡슐",
+          "headingEn": "A Small Capsule Near 100,000 Feet",
+          "textKo": "1950년대 중반 미국은 사람이 우주에 가까운 환경에서 얼마나 오래 버틸 수 있는지 실제 데이터가 거의 없었다. Project Manhigh는 거대한 헬륨 풍선 아래 압력 캡슐을 매달아 조종사를 성층권으로 올렸다. 미 공군 박물관에 따르면 세 차례의 비행은 약 10만 피트 부근까지 상승했고, 고고도에서 인간의 생리와 수행능력을 관찰하기 위한 실험이었다.",
+          "textEn": "In the mid-1950s, reliable human-performance data near the edge of space were scarce. Project Manhigh suspended a pressurized capsule beneath a helium balloon and carried pilots into the stratosphere. The U.S. Air Force museum describes three flights reaching roughly 100,000 feet to study human performance at extreme altitude."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "왜 풍선이었나",
+          "headingEn": "Why a Balloon?",
+          "textKo": "로켓 연구기는 빠르게 오르고 내려오지만 풍선은 높은 고도에서 오래 머물 수 있었다. 이는 압력, 산소, 열관리, 피로, 고립감, 장시간 감시 같은 문제를 한꺼번에 관찰하는 데 유리했다. Manhigh의 가치는 고도 기록 그 자체보다 사람이 작은 밀폐 공간에서 오랜 시간 기능할 수 있는지 확인한 데 있었다.",
+          "textEn": "Rocket aircraft could reach high altitude quickly, but balloons could remain there for long periods. That made them useful for studying pressure, oxygen, thermal control, fatigue, isolation, and sustained human performance. Manhigh mattered less as a record attempt than as a prolonged test of a person inside a small sealed environment."
+        },
+        {
+          "blockId": "03",
+          "type": "TIMELINE",
+          "headingKo": "세 번의 비행이 남긴 데이터",
+          "headingEn": "Three Flights, Three Data Sets",
+          "textKo": "1957년 Joseph Kittinger의 Manhigh I은 약 95,500피트까지 올라갔다. 같은 해 David Simons의 Manhigh II는 101,516피트에 도달했고 약 32시간 비행했다. 1958년 Clifton McClure의 Manhigh III도 약 99,700피트에 올랐다. 같은 곤돌라가 세 비행에 사용됐고, 각 비행은 장비와 인간 수행능력에 관한 데이터를 축적했다.",
+          "textEn": "Joseph Kittinger’s Manhigh I reached about 95,500 feet in 1957. David Simons’ Manhigh II reached 101,516 feet and lasted about 32 hours. Clifton McClure’s Manhigh III reached about 99,700 feet in 1958. The same gondola flew all three missions, accumulating data about equipment and human performance."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "우주개발 전사의 한 조각",
+          "headingEn": "A Prehistory of Human Spaceflight",
+          "textKo": "미 공군 박물관은 Manhigh에서 얻은 항공의학 데이터와 캡슐 경험이 이후 우주선 설계에 유용한 정보를 제공했다고 설명한다. 이 프로그램은 Mercury가 시작되기 직전, ‘사람을 높은 곳으로 보내는 것’에서 ‘사람이 그 환경에서 안전하게 기능하도록 만드는 것’으로 질문이 바뀌던 시기의 실험이었다.",
+          "textEn": "The Air Force museum says Manhigh supplied aeromedical information valuable to later spacecraft design. The program sat at the moment when the question shifted from simply sending a person high into the atmosphere to keeping that person functional and safe in an environment approaching space."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "비밀 우주비행이었다는 해석은 맞지 않는다",
+          "headingEn": "It Was Not a Secret Spaceflight",
+          "textKo": "Manhigh는 냉전기 군 프로그램이었지만 현재 공식 박물관 기록과 비행 세부가 공개돼 있다. 조종사, 고도, 체공시간, 곤돌라 구조가 알려져 있으며 궤도비행을 했다는 증거는 없다. 풍선은 대기 안에서 상승했고, 실험의 목적도 고고도 인체·장비 연구였다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "Manhigh was a military research program, but its flights, pilots, altitudes, duration, and gondola design are now openly documented. There is no evidence that it was an orbital flight. The balloon remained within the atmosphere and the stated research purpose concerned high-altitude human and equipment performance."
+        },
+        {
+          "blockId": "06",
+          "type": "DESIGN_LESSON",
+          "headingKo": "캡슐이 먼저 우주선 문제를 드러냈다",
+          "headingEn": "The Capsule Exposed Spacecraft Problems First",
+          "textKo": "Manhigh의 압력 곤돌라는 작았지만 이후 유인우주선이 반복해서 풀어야 할 문제들을 미리 드러냈다. 조종사는 산소와 기압이 안정된 공간 안에서 장시간 버텨야 했고, 장비는 바깥의 낮은 압력과 큰 온도차를 견뎌야 했다. 창과 계기, 통신, 생명유지장치가 한 시스템으로 작동해야 했다. 이런 조건 때문에 Manhigh는 단순 고도기록보다 ‘사람을 탑승시킨 폐쇄형 시스템’의 시험으로 보는 편이 정확하다.",
+          "textEn": "The pressurized Manhigh gondola was small, yet it exposed problems that later crewed spacecraft would also have to solve. A pilot had to remain functional inside a controlled-pressure, oxygen-supplied environment while the hardware endured low external pressure and large temperature swings. Windows, instruments, communications, and life support had to work as one system. That is why Manhigh is better understood as a test of a human-rated closed system than as merely an altitude record."
+        },
+        {
+          "blockId": "07",
+          "type": "HUMAN_FACTOR",
+          "headingKo": "기록보다 어려웠던 것은 사람이었다",
+          "headingEn": "The Hardest Variable Was Human",
+          "textKo": "장시간 비행에서 인간은 장비처럼 일정하지 않다. 수면 부족, 더위와 추위, 좁은 공간, 긴장과 단조로움이 판단과 작업능력에 영향을 준다. Manhigh II의 32시간 비행은 이런 인간요인을 실제 조건에서 오래 관찰할 수 있게 했다. 유인우주개발이 시작되면서 공학자들이 필요로 한 것은 기계가 버티는지뿐 아니라 사람이 그 안에서 임무를 계속 수행할 수 있는지에 대한 데이터였다.",
+          "textEn": "Humans are less predictable than hardware during long missions. Sleep loss, heat and cold, confinement, stress, and monotony can affect judgment and performance. Manhigh II’s 32-hour flight allowed prolonged observation of these human factors under real conditions. As crewed spaceflight approached, engineers needed evidence not only that machines could survive but that people could continue to perform inside them."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것과 과장된 것",
+          "headingEn": "Established vs. Exaggerated",
+          "textKo": "확인됨: 1957~1958년 세 차례의 Manhigh 비행, 약 10만 피트 고도, 장시간 성층권 체공, 항공의학·캡슐 데이터 수집은 미 공군 공식 기록으로 확인된다.\n\n확인되지 않음: Manhigh가 비밀 유인 우주비행이었거나 궤도에 진입했다는 주장은 공식 기록이 뒷받침하지 않는다. Man High의 중요성은 단순한 고도 기록보다 밀폐 압력곤돌라 안에서 장시간 인간 수행능력을 관찰했다는 데 있다. Simons의 32시간 비행은 수면 부족, 열과 추위, 고립 같은 문제를 실제 비행환경에서 드러냈다. 공군박물관은 이 비행들이 다가오는 우주 프로그램에 유용한 인간 수행 데이터를 제공했다고 정리한다. 따라서 이 사건의 미스터리 포인트는 숨겨진 우주선이 아니라, 우주시대 직전 풍선·곤돌라 기술이 우주비행의 생리학적 문제를 얼마나 먼저 다뤘는가에 있다.",
+          "textEn": "Established: three Manhigh flights in 1957–1958, altitudes near 100,000 feet, long-duration stratospheric exposure, and aeromedical/capsule research are documented by the U.S. Air Force.\n\nNot established: claims that Manhigh was a secret orbital or crewed spaceflight are not supported by the official record."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1957~1958년 세 차례의 Manhigh 비행, 약 10만 피트 고도, 장시간 성층권 체공, 항공의학·캡슐 데이터 수집은 미 공군 공식 기록으로 확인된다.",
+        "notEstablished": "확인되지 않음: Manhigh가 비밀 유인 우주비행이었거나 궤도에 진입했다는 주장은 공식 기록이 뒷받침하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Before Spacecraft, How High Could a Human Go in a Balloon Capsule?",
+      "hook": "Manhigh was not a secret spaceflight. Its importance lies in how much of the human-spaceflight problem was tested before rockets carried people to orbit.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "10만 피트 부근의 작은 캡슐",
+          "headingEn": "A Small Capsule Near 100,000 Feet",
+          "textKo": "1950년대 중반 미국은 사람이 우주에 가까운 환경에서 얼마나 오래 버틸 수 있는지 실제 데이터가 거의 없었다. Project Manhigh는 거대한 헬륨 풍선 아래 압력 캡슐을 매달아 조종사를 성층권으로 올렸다. 미 공군 박물관에 따르면 세 차례의 비행은 약 10만 피트 부근까지 상승했고, 고고도에서 인간의 생리와 수행능력을 관찰하기 위한 실험이었다.",
+          "textEn": "In the mid-1950s, reliable human-performance data near the edge of space were scarce. Project Manhigh suspended a pressurized capsule beneath a helium balloon and carried pilots into the stratosphere. The U.S. Air Force museum describes three flights reaching roughly 100,000 feet to study human performance at extreme altitude."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "왜 풍선이었나",
+          "headingEn": "Why a Balloon?",
+          "textKo": "로켓 연구기는 빠르게 오르고 내려오지만 풍선은 높은 고도에서 오래 머물 수 있었다. 이는 압력, 산소, 열관리, 피로, 고립감, 장시간 감시 같은 문제를 한꺼번에 관찰하는 데 유리했다. Manhigh의 가치는 고도 기록 그 자체보다 사람이 작은 밀폐 공간에서 오랜 시간 기능할 수 있는지 확인한 데 있었다.",
+          "textEn": "Rocket aircraft could reach high altitude quickly, but balloons could remain there for long periods. That made them useful for studying pressure, oxygen, thermal control, fatigue, isolation, and sustained human performance. Manhigh mattered less as a record attempt than as a prolonged test of a person inside a small sealed environment."
+        },
+        {
+          "blockId": "03",
+          "type": "TIMELINE",
+          "headingKo": "세 번의 비행이 남긴 데이터",
+          "headingEn": "Three Flights, Three Data Sets",
+          "textKo": "1957년 Joseph Kittinger의 Manhigh I은 약 95,500피트까지 올라갔다. 같은 해 David Simons의 Manhigh II는 101,516피트에 도달했고 약 32시간 비행했다. 1958년 Clifton McClure의 Manhigh III도 약 99,700피트에 올랐다. 같은 곤돌라가 세 비행에 사용됐고, 각 비행은 장비와 인간 수행능력에 관한 데이터를 축적했다.",
+          "textEn": "Joseph Kittinger’s Manhigh I reached about 95,500 feet in 1957. David Simons’ Manhigh II reached 101,516 feet and lasted about 32 hours. Clifton McClure’s Manhigh III reached about 99,700 feet in 1958. The same gondola flew all three missions, accumulating data about equipment and human performance."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "우주개발 전사의 한 조각",
+          "headingEn": "A Prehistory of Human Spaceflight",
+          "textKo": "미 공군 박물관은 Manhigh에서 얻은 항공의학 데이터와 캡슐 경험이 이후 우주선 설계에 유용한 정보를 제공했다고 설명한다. 이 프로그램은 Mercury가 시작되기 직전, ‘사람을 높은 곳으로 보내는 것’에서 ‘사람이 그 환경에서 안전하게 기능하도록 만드는 것’으로 질문이 바뀌던 시기의 실험이었다.",
+          "textEn": "The Air Force museum says Manhigh supplied aeromedical information valuable to later spacecraft design. The program sat at the moment when the question shifted from simply sending a person high into the atmosphere to keeping that person functional and safe in an environment approaching space."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "비밀 우주비행이었다는 해석은 맞지 않는다",
+          "headingEn": "It Was Not a Secret Spaceflight",
+          "textKo": "Manhigh는 냉전기 군 프로그램이었지만 현재 공식 박물관 기록과 비행 세부가 공개돼 있다. 조종사, 고도, 체공시간, 곤돌라 구조가 알려져 있으며 궤도비행을 했다는 증거는 없다. 풍선은 대기 안에서 상승했고, 실험의 목적도 고고도 인체·장비 연구였다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "Manhigh was a military research program, but its flights, pilots, altitudes, duration, and gondola design are now openly documented. There is no evidence that it was an orbital flight. The balloon remained within the atmosphere and the stated research purpose concerned high-altitude human and equipment performance."
+        },
+        {
+          "blockId": "06",
+          "type": "DESIGN_LESSON",
+          "headingKo": "캡슐이 먼저 우주선 문제를 드러냈다",
+          "headingEn": "The Capsule Exposed Spacecraft Problems First",
+          "textKo": "Manhigh의 압력 곤돌라는 작았지만 이후 유인우주선이 반복해서 풀어야 할 문제들을 미리 드러냈다. 조종사는 산소와 기압이 안정된 공간 안에서 장시간 버텨야 했고, 장비는 바깥의 낮은 압력과 큰 온도차를 견뎌야 했다. 창과 계기, 통신, 생명유지장치가 한 시스템으로 작동해야 했다. 이런 조건 때문에 Manhigh는 단순 고도기록보다 ‘사람을 탑승시킨 폐쇄형 시스템’의 시험으로 보는 편이 정확하다.",
+          "textEn": "The pressurized Manhigh gondola was small, yet it exposed problems that later crewed spacecraft would also have to solve. A pilot had to remain functional inside a controlled-pressure, oxygen-supplied environment while the hardware endured low external pressure and large temperature swings. Windows, instruments, communications, and life support had to work as one system. That is why Manhigh is better understood as a test of a human-rated closed system than as merely an altitude record."
+        },
+        {
+          "blockId": "07",
+          "type": "HUMAN_FACTOR",
+          "headingKo": "기록보다 어려웠던 것은 사람이었다",
+          "headingEn": "The Hardest Variable Was Human",
+          "textKo": "장시간 비행에서 인간은 장비처럼 일정하지 않다. 수면 부족, 더위와 추위, 좁은 공간, 긴장과 단조로움이 판단과 작업능력에 영향을 준다. Manhigh II의 32시간 비행은 이런 인간요인을 실제 조건에서 오래 관찰할 수 있게 했다. 유인우주개발이 시작되면서 공학자들이 필요로 한 것은 기계가 버티는지뿐 아니라 사람이 그 안에서 임무를 계속 수행할 수 있는지에 대한 데이터였다.",
+          "textEn": "Humans are less predictable than hardware during long missions. Sleep loss, heat and cold, confinement, stress, and monotony can affect judgment and performance. Manhigh II’s 32-hour flight allowed prolonged observation of these human factors under real conditions. As crewed spaceflight approached, engineers needed evidence not only that machines could survive but that people could continue to perform inside them."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것과 과장된 것",
+          "headingEn": "Established vs. Exaggerated",
+          "textKo": "확인됨: 1957~1958년 세 차례의 Manhigh 비행, 약 10만 피트 고도, 장시간 성층권 체공, 항공의학·캡슐 데이터 수집은 미 공군 공식 기록으로 확인된다.\n\n확인되지 않음: Manhigh가 비밀 유인 우주비행이었거나 궤도에 진입했다는 주장은 공식 기록이 뒷받침하지 않는다. Man High의 중요성은 단순한 고도 기록보다 밀폐 압력곤돌라 안에서 장시간 인간 수행능력을 관찰했다는 데 있다. Simons의 32시간 비행은 수면 부족, 열과 추위, 고립 같은 문제를 실제 비행환경에서 드러냈다. 공군박물관은 이 비행들이 다가오는 우주 프로그램에 유용한 인간 수행 데이터를 제공했다고 정리한다. 따라서 이 사건의 미스터리 포인트는 숨겨진 우주선이 아니라, 우주시대 직전 풍선·곤돌라 기술이 우주비행의 생리학적 문제를 얼마나 먼저 다뤘는가에 있다.",
+          "textEn": "Established: three Manhigh flights in 1957–1958, altitudes near 100,000 feet, long-duration stratospheric exposure, and aeromedical/capsule research are documented by the U.S. Air Force.\n\nNot established: claims that Manhigh was a secret orbital or crewed spaceflight are not supported by the official record."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: three Manhigh flights in 1957–1958, altitudes near 100,000 feet, long-duration stratospheric exposure, and aeromedical/capsule research are documented by the U.S. Air Force.",
+        "notEstablished": "Not established: claims that Manhigh was a secret orbital or crewed spaceflight are not supported by the official record."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MAN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1957~1958년 세 차례 고고도 풍선 비행이 수행됐다.",
+      "statementEn": "Three high-altitude balloon flights were conducted in 1957–1958.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "MAN-C2",
+      "status": "SUPPORTED",
+      "statementKo": "Manhigh의 항공의학 데이터는 후속 유인 우주선 설계에 유용한 경험을 제공했다.",
+      "statementEn": "Manhigh aeromedical data provided useful experience for later crewed spacecraft design.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "MAN-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Manhigh가 비밀 궤도 우주비행이었다는 증거는 없다.",
+      "statementEn": "There is no evidence that Manhigh was a secret orbital spaceflight.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "USAF_MUSEUM",
+      "title": "Project Man High Gondola",
+      "publisher": "National Museum of the United States Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196749/USAFmuseum/project-man-high-gondola/",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "project-manhigh-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events, observations, and reassessment.",
+      "altKo": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+      "altEn": "Explanatory timeline of key events.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "e16af1f1ff89701edd4696d645cbdcc7ce8e12de082ce46fbea9251439ff5cdc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-manhigh__project-manhigh-v01__ko.png"
+        },
+        "en": {
+          "sha256": "0b78d19fcd89404316b89e3ea5db20fd700ef380a10b880504ae3b789e11b668",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-manhigh__project-manhigh-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "project-manhigh-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·장소·정보 흐름을 단순화한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original explanatory map of institutions, places, and information flow.",
+      "altKo": "사건의 구조와 정보 흐름을 정리한 설명용 그래픽.",
+      "altEn": "Explanatory graphic showing the structure and information flow.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "4de9ec5b7786918a7b8832309b72e98738a7ce75691a8475f2ee3a0328f447fc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-manhigh__project-manhigh-v02__ko.png"
+        },
+        "en": {
+          "sha256": "7ff89bf3f7179595fc7fa9ebb8406d8e4b994f2686cbec6258550e3072c7ab5b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-manhigh__project-manhigh-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "project-manhigh-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "문서로 확인되는 사실과 미확정 주장을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating documented facts from unestablished claims.",
+      "altKo": "확인된 사실과 미확정 주장을 나눈 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card separating established facts from unestablished claims.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "58c552e259e5d4bf35d9f6734c1b4c92315bc2ba837ad5d9034fbee4776dd766",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-manhigh__project-manhigh-v03__ko.png"
+        },
+        "en": {
+          "sha256": "5b2ef3b07b5df923362fbf37e8674ba32680a6a89ae7dd62ecba9ce33eaca031",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-manhigh__project-manhigh-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Aerospace History",
+    "secondaryGenres": [
+      "High-altitude research",
+      "Human factors"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New Mexico",
+      "Minnesota"
+    ],
+    "places": [
+      {
+        "name": "National Museum of the U.S. Air Force",
+        "role": "archive/display"
+      }
+    ],
+    "people": [
+      {
+        "name": "Joseph Kittinger",
+        "role": "pilot"
+      },
+      {
+        "name": "David Simons",
+        "role": "pilot"
+      },
+      {
+        "name": "Clifton McClure III",
+        "role": "pilot"
+      }
+    ],
+    "organizations": [
+      "U.S. Air Force"
+    ],
+    "dateRange": {
+      "start": "1957",
+      "end": "1958",
+      "precision": "historical range"
+    },
+    "era": "1957–1958",
+    "resolution": "DOCUMENTED_PROGRAM_COMPLETED",
+    "searchAliases": [
+      "Man High",
+      "Project Man High"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 2032,
+    "enBodyWords": 411,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH38",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

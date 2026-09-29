@@ -1,0 +1,442 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-azorian",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "프로젝트 AZORIAN",
+    "canonicalTitleEn": "Project AZORIAN",
+    "aliasesKo": [],
+    "aliasesEn": [
+      "Glomar Explorer",
+      "K-129 recovery"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_ENGINEERING_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "CIA는 수심 5km 아래 소련 잠수함을 어떻게 몰래 끌어올리려 했나",
+      "hook": "Project AZORIAN은 “불가능해 보이는 공학”과 “숨겨야 하는 정보작전”이 같은 선박 안에 들어간 냉전 프로젝트였다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "K-129가 사라졌다",
+          "headingEn": "K-129 Disappears",
+          "textKo": "1968년 소련 Golf II급 잠수함 K-129가 태평양에서 실종됐다. 소련 수색은 난파 위치를 찾지 못한 채 종료됐지만 미국 정보기관은 해저 위치를 파악했다. CIA 공식 전시에 따르면 난파선은 수심 3마일이 넘는 곳에 있었다.",
+          "textEn": "In 1968, the Soviet Golf II-class submarine K-129 disappeared in the Pacific. The Soviet search ended without locating the wreck, while U.S. intelligence identified its position. CIA material places the wreck more than three miles below the surface."
+        },
+        {
+          "blockId": "02",
+          "type": "MOTIVE",
+          "headingKo": "왜 인양하려 했나",
+          "headingEn": "Why Recover It?",
+          "textKo": "냉전기 적국의 잠수함에는 암호자료, 통신장비, 무기체계, 운용절차와 같은 정보가 들어 있을 가능성이 있었다. 그러나 난파선을 조사하는 것과 수천 톤급 구조물을 해저에서 들어올리는 것은 전혀 다른 문제였다.",
+          "textEn": "A Soviet submarine could potentially yield intelligence about cryptography, communications, weapons, and operating procedures. But inspecting a wreck and physically lifting a massive structure from the abyss were radically different tasks."
+        },
+        {
+          "blockId": "03",
+          "type": "COVER",
+          "headingKo": "심해 채굴선이라는 표지",
+          "headingEn": "The Deep-Sea Mining Cover Story",
+          "textKo": "작전의 핵심 플랫폼 Hughes Glomar Explorer는 대중에게 심해광물 채굴을 위한 선박으로 소개됐다. CIA는 Howard Hughes와 연결된 민간 커버를 활용해 선박 건조와 해상활동을 설명했다. 실제 목적은 해저의 K-129을 들어올릴 수 있는 대형 포획장치를 운용하는 것이었다.",
+          "textEn": "The Hughes Glomar Explorer was publicly presented as a deep-sea mining vessel. The CIA used a commercial cover associated with Howard Hughes to explain the ship and its operations. Its real purpose was to operate a massive capture system designed to lift K-129."
+        },
+        {
+          "blockId": "04",
+          "type": "ENGINEERING",
+          "headingKo": "3마일 아래에서 흔들리는 목표",
+          "headingEn": "A Target More Than Three Miles Down",
+          "textKo": "심해에서는 긴 파이프열의 무게, 파도에 따른 선박 움직임, 표적 정렬, 포획장치의 구조강도 모두가 문제였다. CIA는 거대한 기계식 claw와 내부 moon pool을 이용해 인양물을 선체 안으로 끌어들이는 방식을 개발했다.",
+          "textEn": "At extreme depth, the weight of the pipe string, ship motion, alignment over the target, and structural strength of the capture vehicle all became critical. The CIA developed a huge mechanical claw and a moon-pool system to bring recovered material inside the ship."
+        },
+        {
+          "blockId": "05",
+          "type": "RESULT",
+          "headingKo": "완전한 성공은 아니었다",
+          "headingEn": "A Partial, Not Complete, Recovery",
+          "textKo": "1974년 실제 인양 시도에서 잠수함 전체를 확보하지는 못했다. CIA의 공개 역사에서는 인양 과정에서 표적 일부가 떨어져 나갔고 일부 구간만 회수됐다고 설명한다. 따라서 “잠수함 전체를 성공적으로 훔쳤다”는 단순한 서술은 정확하지 않다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "During the 1974 recovery attempt, the entire submarine was not recovered. CIA histories describe the target breaking during the lift and only part of the wreck being brought up. Saying the CIA successfully stole the entire submarine is inaccurate."
+        },
+        {
+          "blockId": "06",
+          "type": "EXPOSURE",
+          "headingKo": "작전이 알려진 뒤 남은 말",
+          "headingEn": "The Phrase That Outlived the Operation",
+          "textKo": "1975년 언론 보도로 작전이 알려지면서 CIA가 관련 정보공개 요청에 존재를 확인도 부인도 하지 않는 답변을 한 것이 유명해졌다. 훗날 ‘Glomar response’라는 표현은 정보공개·국가안보 문맥에서 하나의 법적·행정적 용어가 됐다. 작전의 기술적 난점은 심해에서 거대한 구조물을 정확히 포획하고 수면까지 끌어올리는 동시에 임무 자체를 숨겨야 했다는 점이었다. CIA는 심해채광을 표방한 Hughes Glomar Explorer를 위장막으로 사용했다고 공개한다. 실제 인양에서는 잠수함이 상승 도중 파손되어 일부가 다시 해저로 떨어졌다. 이 실패와 부분 성공이 함께 존재하기 때문에 “잠수함 전체를 완벽히 회수했다”는 서술도, “아무것도 건지지 못했다”는 서술도 맞지 않는다. 공개기록이 확정하는 범위는 부분 회수와 작전 노출, 후속 임무 취소까지다.",
+          "textEn": "After press reporting exposed the operation, the CIA became associated with the response that it could neither confirm nor deny certain information. The “Glomar response” later became a lasting term in freedom-of-information and national-security practice."
+        },
+        {
+          "blockId": "07",
+          "type": "BOUNDARY",
+          "headingKo": "작전의 실재와 남은 기밀",
+          "headingEn": "Documented Operation, Remaining Unknowns",
+          "textKo": "AZORIAN의 실재, Glomar Explorer의 목적, K-129 인양 시도, 부분 회수는 공식적으로 문서화돼 있다. 그러나 회수물의 모든 세부, 정보가치, 아직 공개되지 않은 기술·정보사항까지 전부 알려진 것은 아니다.",
+          "textEn": "The existence of AZORIAN, the purpose of Glomar Explorer, the K-129 recovery attempt, and partial recovery are documented. But not every detail of the recovered material, intelligence value, or still-protected technical information is public."
+        },
+        {
+          "blockId": "08",
+          "type": "ENGINEERING_CHAIN",
+          "headingKo": "작전은 하나의 거대한 연쇄였다",
+          "headingEn": "The Operation Was a Single Engineering Chain",
+          "textKo": "난파선의 위치를 정확히 유지하는 선박, 수킬로미터 아래까지 내려가는 파이프열, 해저에서 잠수함을 감싸는 capture vehicle, 파도 속에서도 하중을 버티는 구조, 그리고 인양물을 외부 시선에서 숨기는 내부 공간이 모두 연결돼야 했다. 한 요소만 실패해도 전체 작전이 무너질 수 있었다. AZORIAN의 공학적 놀라움은 특정 장비 하나보다 이 긴 연쇄를 비밀리에 통합했다는 데 있다.",
+          "textEn": "The ship had to hold position over the wreck, lower a multi-kilometer pipe string, operate a capture vehicle around the submarine, survive dynamic loads from the sea, and bring recovered material into a concealed internal space. Failure in any link could collapse the mission. AZORIAN’s engineering significance lies less in one machine than in integrating the entire chain under secrecy."
+        },
+        {
+          "blockId": "09",
+          "type": "INTELLIGENCE_VALUE",
+          "headingKo": "인양 목표는 금속 자체가 아니었다",
+          "headingEn": "The Target Was Intelligence, Not Scrap Metal",
+          "textKo": "잠수함을 들어올리는 목적은 선체를 수집하는 데 있지 않았다. 미국이 기대한 가치는 소련 해군의 암호·통신·무기·설계·운용에 관한 정보였다. 따라서 작전의 성공을 단순히 “몇 미터를 끌어올렸는가”로만 평가할 수 없다. 부분 회수된 구간에서 무엇을 얻었는지, 기대했던 정보와 비교해 얼마나 가치가 있었는지는 공개기록이 제한적이다. 바로 그 지점에서 문서로 확인된 공학사와 아직 남은 정보사의 빈칸이 갈린다.",
+          "textEn": "The goal was not to collect submarine metal for its own sake. The hoped-for value lay in Soviet naval cryptography, communications, weapons, design, and operating practice. Success therefore cannot be measured only by how much hull was lifted. Public records are limited on precisely what intelligence the recovered section yielded and how it compared with expectations. That is where the documented engineering history meets the remaining intelligence gap."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: K-129 난파, CIA의 비밀 인양 프로젝트, Glomar Explorer의 커버스토리, 1974년 부분 회수는 공식 CIA 자료로 확인된다.\n\n미확정: 잠수함 전체를 회수했다거나 공개되지 않은 모든 정보·무기를 확보했다는 주장은 문서가 뒷받침하지 않는다.",
+          "textEn": "Established: K-129 sank; the CIA ran a covert recovery project; Glomar Explorer served as the cover platform; and the 1974 attempt achieved only a partial recovery.\n\nNot established: claims that the entire submarine or every desired intelligence item was recovered are not supported by the public record."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: K-129 난파, CIA의 비밀 인양 프로젝트, Glomar Explorer의 커버스토리, 1974년 부분 회수는 공식 CIA 자료로 확인된다.",
+        "notEstablished": "미확정: 잠수함 전체를 회수했다거나 공개되지 않은 모든 정보·무기를 확보했다는 주장은 문서가 뒷받침하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "How Did the CIA Try to Secretly Lift a Soviet Submarine From More Than Three Miles Down?",
+      "hook": "Project AZORIAN combined two problems in one ship: engineering that looked nearly impossible and an intelligence operation that had to remain hidden.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "K-129가 사라졌다",
+          "headingEn": "K-129 Disappears",
+          "textKo": "1968년 소련 Golf II급 잠수함 K-129가 태평양에서 실종됐다. 소련 수색은 난파 위치를 찾지 못한 채 종료됐지만 미국 정보기관은 해저 위치를 파악했다. CIA 공식 전시에 따르면 난파선은 수심 3마일이 넘는 곳에 있었다.",
+          "textEn": "In 1968, the Soviet Golf II-class submarine K-129 disappeared in the Pacific. The Soviet search ended without locating the wreck, while U.S. intelligence identified its position. CIA material places the wreck more than three miles below the surface."
+        },
+        {
+          "blockId": "02",
+          "type": "MOTIVE",
+          "headingKo": "왜 인양하려 했나",
+          "headingEn": "Why Recover It?",
+          "textKo": "냉전기 적국의 잠수함에는 암호자료, 통신장비, 무기체계, 운용절차와 같은 정보가 들어 있을 가능성이 있었다. 그러나 난파선을 조사하는 것과 수천 톤급 구조물을 해저에서 들어올리는 것은 전혀 다른 문제였다.",
+          "textEn": "A Soviet submarine could potentially yield intelligence about cryptography, communications, weapons, and operating procedures. But inspecting a wreck and physically lifting a massive structure from the abyss were radically different tasks."
+        },
+        {
+          "blockId": "03",
+          "type": "COVER",
+          "headingKo": "심해 채굴선이라는 표지",
+          "headingEn": "The Deep-Sea Mining Cover Story",
+          "textKo": "작전의 핵심 플랫폼 Hughes Glomar Explorer는 대중에게 심해광물 채굴을 위한 선박으로 소개됐다. CIA는 Howard Hughes와 연결된 민간 커버를 활용해 선박 건조와 해상활동을 설명했다. 실제 목적은 해저의 K-129을 들어올릴 수 있는 대형 포획장치를 운용하는 것이었다.",
+          "textEn": "The Hughes Glomar Explorer was publicly presented as a deep-sea mining vessel. The CIA used a commercial cover associated with Howard Hughes to explain the ship and its operations. Its real purpose was to operate a massive capture system designed to lift K-129."
+        },
+        {
+          "blockId": "04",
+          "type": "ENGINEERING",
+          "headingKo": "3마일 아래에서 흔들리는 목표",
+          "headingEn": "A Target More Than Three Miles Down",
+          "textKo": "심해에서는 긴 파이프열의 무게, 파도에 따른 선박 움직임, 표적 정렬, 포획장치의 구조강도 모두가 문제였다. CIA는 거대한 기계식 claw와 내부 moon pool을 이용해 인양물을 선체 안으로 끌어들이는 방식을 개발했다.",
+          "textEn": "At extreme depth, the weight of the pipe string, ship motion, alignment over the target, and structural strength of the capture vehicle all became critical. The CIA developed a huge mechanical claw and a moon-pool system to bring recovered material inside the ship."
+        },
+        {
+          "blockId": "05",
+          "type": "RESULT",
+          "headingKo": "완전한 성공은 아니었다",
+          "headingEn": "A Partial, Not Complete, Recovery",
+          "textKo": "1974년 실제 인양 시도에서 잠수함 전체를 확보하지는 못했다. CIA의 공개 역사에서는 인양 과정에서 표적 일부가 떨어져 나갔고 일부 구간만 회수됐다고 설명한다. 따라서 “잠수함 전체를 성공적으로 훔쳤다”는 단순한 서술은 정확하지 않다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "During the 1974 recovery attempt, the entire submarine was not recovered. CIA histories describe the target breaking during the lift and only part of the wreck being brought up. Saying the CIA successfully stole the entire submarine is inaccurate."
+        },
+        {
+          "blockId": "06",
+          "type": "EXPOSURE",
+          "headingKo": "작전이 알려진 뒤 남은 말",
+          "headingEn": "The Phrase That Outlived the Operation",
+          "textKo": "1975년 언론 보도로 작전이 알려지면서 CIA가 관련 정보공개 요청에 존재를 확인도 부인도 하지 않는 답변을 한 것이 유명해졌다. 훗날 ‘Glomar response’라는 표현은 정보공개·국가안보 문맥에서 하나의 법적·행정적 용어가 됐다. 작전의 기술적 난점은 심해에서 거대한 구조물을 정확히 포획하고 수면까지 끌어올리는 동시에 임무 자체를 숨겨야 했다는 점이었다. CIA는 심해채광을 표방한 Hughes Glomar Explorer를 위장막으로 사용했다고 공개한다. 실제 인양에서는 잠수함이 상승 도중 파손되어 일부가 다시 해저로 떨어졌다. 이 실패와 부분 성공이 함께 존재하기 때문에 “잠수함 전체를 완벽히 회수했다”는 서술도, “아무것도 건지지 못했다”는 서술도 맞지 않는다. 공개기록이 확정하는 범위는 부분 회수와 작전 노출, 후속 임무 취소까지다.",
+          "textEn": "After press reporting exposed the operation, the CIA became associated with the response that it could neither confirm nor deny certain information. The “Glomar response” later became a lasting term in freedom-of-information and national-security practice."
+        },
+        {
+          "blockId": "07",
+          "type": "BOUNDARY",
+          "headingKo": "작전의 실재와 남은 기밀",
+          "headingEn": "Documented Operation, Remaining Unknowns",
+          "textKo": "AZORIAN의 실재, Glomar Explorer의 목적, K-129 인양 시도, 부분 회수는 공식적으로 문서화돼 있다. 그러나 회수물의 모든 세부, 정보가치, 아직 공개되지 않은 기술·정보사항까지 전부 알려진 것은 아니다.",
+          "textEn": "The existence of AZORIAN, the purpose of Glomar Explorer, the K-129 recovery attempt, and partial recovery are documented. But not every detail of the recovered material, intelligence value, or still-protected technical information is public."
+        },
+        {
+          "blockId": "08",
+          "type": "ENGINEERING_CHAIN",
+          "headingKo": "작전은 하나의 거대한 연쇄였다",
+          "headingEn": "The Operation Was a Single Engineering Chain",
+          "textKo": "난파선의 위치를 정확히 유지하는 선박, 수킬로미터 아래까지 내려가는 파이프열, 해저에서 잠수함을 감싸는 capture vehicle, 파도 속에서도 하중을 버티는 구조, 그리고 인양물을 외부 시선에서 숨기는 내부 공간이 모두 연결돼야 했다. 한 요소만 실패해도 전체 작전이 무너질 수 있었다. AZORIAN의 공학적 놀라움은 특정 장비 하나보다 이 긴 연쇄를 비밀리에 통합했다는 데 있다.",
+          "textEn": "The ship had to hold position over the wreck, lower a multi-kilometer pipe string, operate a capture vehicle around the submarine, survive dynamic loads from the sea, and bring recovered material into a concealed internal space. Failure in any link could collapse the mission. AZORIAN’s engineering significance lies less in one machine than in integrating the entire chain under secrecy."
+        },
+        {
+          "blockId": "09",
+          "type": "INTELLIGENCE_VALUE",
+          "headingKo": "인양 목표는 금속 자체가 아니었다",
+          "headingEn": "The Target Was Intelligence, Not Scrap Metal",
+          "textKo": "잠수함을 들어올리는 목적은 선체를 수집하는 데 있지 않았다. 미국이 기대한 가치는 소련 해군의 암호·통신·무기·설계·운용에 관한 정보였다. 따라서 작전의 성공을 단순히 “몇 미터를 끌어올렸는가”로만 평가할 수 없다. 부분 회수된 구간에서 무엇을 얻었는지, 기대했던 정보와 비교해 얼마나 가치가 있었는지는 공개기록이 제한적이다. 바로 그 지점에서 문서로 확인된 공학사와 아직 남은 정보사의 빈칸이 갈린다.",
+          "textEn": "The goal was not to collect submarine metal for its own sake. The hoped-for value lay in Soviet naval cryptography, communications, weapons, design, and operating practice. Success therefore cannot be measured only by how much hull was lifted. Public records are limited on precisely what intelligence the recovered section yielded and how it compared with expectations. That is where the documented engineering history meets the remaining intelligence gap."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: K-129 난파, CIA의 비밀 인양 프로젝트, Glomar Explorer의 커버스토리, 1974년 부분 회수는 공식 CIA 자료로 확인된다.\n\n미확정: 잠수함 전체를 회수했다거나 공개되지 않은 모든 정보·무기를 확보했다는 주장은 문서가 뒷받침하지 않는다.",
+          "textEn": "Established: K-129 sank; the CIA ran a covert recovery project; Glomar Explorer served as the cover platform; and the 1974 attempt achieved only a partial recovery.\n\nNot established: claims that the entire submarine or every desired intelligence item was recovered are not supported by the public record."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: K-129 sank; the CIA ran a covert recovery project; Glomar Explorer served as the cover platform; and the 1974 attempt achieved only a partial recovery.",
+        "notEstablished": "Not established: claims that the entire submarine or every desired intelligence item was recovered are not supported by the public record."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "AZ-C1",
+      "status": "CONFIRMED",
+      "statementKo": "CIA는 K-129 인양을 위해 Project AZORIAN을 수행했다.",
+      "statementEn": "The CIA conducted Project AZORIAN to recover K-129.",
+      "sourceRefs": [
+        "CIA_AZORIAN_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "AZ-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1974년 인양은 잠수함 전체가 아니라 일부 회수에 그쳤다.",
+      "statementEn": "The 1974 lift recovered only part of the submarine, not the entire wreck.",
+      "sourceRefs": [
+        "CIA_AZORIAN_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "AZ-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "전체 잠수함과 모든 정보자료를 성공적으로 확보했다는 주장은 공개기록으로 확인되지 않는다.",
+      "statementEn": "Public records do not establish that the entire submarine and all desired intelligence materials were recovered.",
+      "sourceRefs": [
+        "CIA_AZORIAN_MUSEUM",
+        "CIA_AZORIAN_STORY"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CIA_AZORIAN_MUSEUM",
+      "title": "Project AZORIAN",
+      "publisher": "Central Intelligence Agency",
+      "url": "https://www.cia.gov/legacy/museum/exhibit/project-azorian/",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    },
+    {
+      "sourceId": "CIA_AZORIAN_STORY",
+      "title": "The Exposing of Project AZORIAN",
+      "publisher": "Central Intelligence Agency",
+      "url": "https://www.cia.gov/stories/story/the-exposing-of-project-azorian/",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "project-azorian-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events, observations, and reassessment.",
+      "altKo": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+      "altEn": "Explanatory timeline of key events.",
+      "sourceRefs": [
+        "CIA_AZORIAN_MUSEUM",
+        "CIA_AZORIAN_STORY"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "23068ff9490eb1978223c8cea98880a3dc6e9ac24554411f33c7dca9e8fbb498",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-azorian__project-azorian-v01__ko.png"
+        },
+        "en": {
+          "sha256": "4b99214f78a249bc5d3ab28761b6fce4ba5d98ff1a3d8de40ae445b936d38d75",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-azorian__project-azorian-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "project-azorian-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·장소·정보 흐름을 단순화한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original explanatory map of institutions, places, and information flow.",
+      "altKo": "사건의 구조와 정보 흐름을 정리한 설명용 그래픽.",
+      "altEn": "Explanatory graphic showing the structure and information flow.",
+      "sourceRefs": [
+        "CIA_AZORIAN_MUSEUM",
+        "CIA_AZORIAN_STORY"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "fe6f6d06e4c729ac8a8e7a9ebad358f5a4568d9e1e44c00dde856a2fbb22c227",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-azorian__project-azorian-v02__ko.png"
+        },
+        "en": {
+          "sha256": "8726dc95a464ddc20ce68193b17ab48655fcb801b52a84f9499d5de90db81a1e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-azorian__project-azorian-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "project-azorian-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "문서로 확인되는 사실과 미확정 주장을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating documented facts from unestablished claims.",
+      "altKo": "확인된 사실과 미확정 주장을 나눈 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card separating established facts from unestablished claims.",
+      "sourceRefs": [
+        "CIA_AZORIAN_MUSEUM",
+        "CIA_AZORIAN_STORY"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "12103333ac7e7eefb969be9caa6796f4fc0b2399557b2a47c9bd2024773e7242",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-azorian__project-azorian-v03__ko.png"
+        },
+        "en": {
+          "sha256": "4fe04011f81aea9ea71aa91cef40184c281760351d410a63e2734cd87c67ca9f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "project-azorian__project-azorian-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Cold War",
+      "Deep-sea engineering"
+    ],
+    "countries": [
+      "United States",
+      "Soviet Union"
+    ],
+    "regions": [
+      "North Pacific"
+    ],
+    "places": [
+      {
+        "name": "North Pacific",
+        "role": "K-129 wreck area"
+      }
+    ],
+    "people": [
+      {
+        "name": "Howard Hughes",
+        "role": "cover-story association"
+      }
+    ],
+    "organizations": [
+      "Central Intelligence Agency"
+    ],
+    "dateRange": {
+      "start": "1968",
+      "end": "1974",
+      "precision": "historical range"
+    },
+    "era": "1968–1974",
+    "resolution": "DOCUMENTED_PARTIAL_RECOVERY",
+    "searchAliases": [
+      "Glomar Explorer",
+      "K-129 recovery"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 2084,
+    "enBodyWords": 438,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH38",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-lac",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오퍼레이션 LAC",
+    "canonicalTitleEn": "Operation LAC",
+    "aliasesKo": [],
+    "aliasesEn": [
+      "Large Area Coverage",
+      "ZnCdS tests"
+    ],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "OPEN_AIR_TEST_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "미 육군은 왜 미국 전역 위에 형광 입자를 뿌렸나",
+      "hook": "Operation LAC의 살포 자체는 문서화돼 있다. 논쟁은 무엇을 얼마나 뿌렸고, 노출이 건강에 어떤 의미였는가에 있다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "보이지 않는 구름의 이동을 추적하다",
+          "headingEn": "Tracking an Invisible Cloud",
+          "textKo": "냉전기 미 육군 Chemical Corps는 생물학적 작용제가 넓은 지역에 살포될 경우 어떻게 이동하는지 알고 싶어 했다. 실제 병원체 대신 추적 가능한 simulant를 이용해 공기 흐름과 확산을 측정하는 시험이 설계됐다. Operation LAC는 이런 large-area dispersion 연구의 대표적 프로그램이었다.",
+          "textEn": "During the Cold War, the U.S. Army Chemical Corps wanted to understand how a biological agent might disperse across large regions. Tests used traceable simulants rather than operational pathogens to map airflow and dispersion. Operation LAC became one of the largest such programs."
+        },
+        {
+          "blockId": "02",
+          "type": "MATERIAL",
+          "headingKo": "ZnCdS라는 추적물질",
+          "headingEn": "The ZnCdS Tracer",
+          "textKo": "시험에 사용된 대표적 물질은 zinc cadmium sulfide, ZnCdS였다. 형광 특성 때문에 공기 중에 살포한 뒤 샘플링 지점에서 검출할 수 있었다. National Academies 보고서는 이 물질의 사용, 입자 특성, 노출평가를 후대에 검토했다.",
+          "textEn": "A principal tracer was zinc cadmium sulfide, or ZnCdS. Its fluorescence allowed researchers to release particles into the air and later detect them at sampling stations. A National Academies review later examined its use, particle characteristics, and exposure implications."
+        },
+        {
+          "blockId": "03",
+          "type": "SCALE",
+          "headingKo": "대륙 규모의 시험",
+          "headingEn": "Continental-Scale Tests",
+          "textKo": "National Academies가 정리한 LAC 시험은 로키산맥에서 대서양까지, 캐나다에서 멕시코만까지 넓은 지역을 포함했다. 항공기와 지상장비로 추적입자를 방출하고 넓게 분산된 샘플링 네트워크에서 입자 도달량을 측정했다.",
+          "textEn": "The National Academies describes LAC tests spanning broad regions from the Rockies to the Atlantic and from Canada to the Gulf of Mexico. Tracer particles were released from aircraft or ground systems and measured by a dispersed sampling network."
+        },
+        {
+          "blockId": "04",
+          "type": "PURPOSE",
+          "headingKo": "생물전 공격을 모의한 이유",
+          "headingEn": "Why Simulate Biological-Warfare Dispersion?",
+          "textKo": "당시 군사적 질문은 “도시 하나”보다 훨씬 컸다. 특정 고도와 기상조건에서 입자가 얼마나 멀리 이동하고 어느 농도로 도달하는지를 알면 공격 가능성과 방어·탐지 문제를 모델링할 수 있었다. 이 목적은 오늘날의 윤리적 기준과 별개로, 문서상 프로그램의 핵심 연구목표였다.",
+          "textEn": "The military question went beyond a single city: how far would aerosol particles travel under particular weather conditions, and at what concentrations? Such data could inform attack modeling and defensive detection. That was the documented research rationale, separate from how the tests are judged ethically today."
+        },
+        {
+          "blockId": "05",
+          "type": "HEALTH",
+          "headingKo": "후대의 건강영향 검토",
+          "headingEn": "Later Health Review",
+          "textKo": "ZnCdS에 cadmium이 포함돼 있다는 점 때문에 후대에 건강 우려가 제기됐다. National Academies는 가능한 노출량과 독성을 평가해, 공개된 자료를 기준으로 일반인에게 예상되는 노출이 유해영향을 일으켰다고 입증할 수 없다는 취지의 결론을 냈다. 그러나 이는 동의 없이 광범위한 살포시험이 시행됐다는 윤리 문제를 없애지 않는다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "Because ZnCdS contains cadmium, later health concerns prompted review. The National Academies evaluated estimated exposure and toxicity and did not find evidence that expected public exposures caused harmful effects under the available data. That conclusion does not erase the ethical issue of broad testing conducted without informed public consent."
+        },
+        {
+          "blockId": "06",
+          "type": "CAUSATION",
+          "headingKo": "개별 질병과의 인과는 별도 문제",
+          "headingEn": "Individual Illness Requires Separate Causal Evidence",
+          "textKo": "특정 개인의 암이나 질병을 LAC 때문이라고 단정하려면 그 사람이 언제 어디서 어느 농도에 노출됐는지, 질병과의 생물학적 연관성이 무엇인지, 비교집단에서 위험이 증가했는지 같은 별도 근거가 필요하다. “살포가 실제였다”와 “이 질병의 원인이다”는 다른 주장이다. ZnCdS가 선택된 이유에는 자외선 아래에서 검출하기 쉽고 미생물과 비슷한 입자 크기로 분산시킬 수 있다는 점이 포함됐다. National Academies 검토는 도시·산악·평지 등 여러 환경에서 이루어진 추적시험의 맥락을 정리하고, LAC가 특히 넓은 지역을 대상으로 한 프로그램이었다고 설명한다. 동시에 후대 건강위험 평가는 “시험이 실제였다”는 사실과 “특정 질환이 그 시험 때문에 생겼다”는 인과주장을 구분한다. 노출량, 개인별 경로, 역학자료가 없으면 후자의 결론은 별도 검증이 필요하다.",
+          "textEn": "Attributing a particular illness or cancer to LAC requires separate evidence: where and when exposure occurred, dose, biological plausibility, and epidemiological comparison. “The releases happened” and “they caused this person’s disease” are different claims."
+        },
+        {
+          "blockId": "07",
+          "type": "LEGACY",
+          "headingKo": "비밀시험과 공공신뢰",
+          "headingEn": "Secret Testing and Public Trust",
+          "textKo": "LAC는 냉전기 open-air testing의 대표적 사례로 남았다. 기술적으로는 확산 모델링 실험이었지만, 대상 지역 주민에게 알려지지 않은 채 시행됐다는 사실 때문에 공공신뢰와 연구윤리의 역사에서도 중요하다.",
+          "textEn": "LAC remains a prominent example of Cold War open-air testing. Technically it was a dispersion-modeling program; historically it also matters because communities were not informed, making it part of the history of public trust and research ethics."
+        },
+        {
+          "blockId": "08",
+          "type": "DOSE",
+          "headingKo": "독성은 물질 이름만으로 결정되지 않는다",
+          "headingEn": "Toxicity Depends on Dose and Exposure",
+          "textKo": "ZnCdS 논쟁에서 자주 빠지는 요소는 실제 노출량이다. 물질에 cadmium이 포함돼 있다는 사실은 독성학적으로 중요하지만, 위해도를 평가하려면 입자 크기, 흡입 가능한 비율, 공기 중 농도, 노출시간, 체내흡수량을 함께 봐야 한다. National Academies 검토가 단순히 “cadmium이 있으니 위험/없으니 안전” 식의 이분법 대신 노출 시나리오를 계산한 이유다. 같은 물질도 용량과 경로가 달라지면 위험도가 달라진다.",
+          "textEn": "A frequently missing element in the ZnCdS debate is actual dose. The presence of cadmium matters toxicologically, but risk assessment also requires particle size, respirable fraction, airborne concentration, exposure duration, and absorbed dose. That is why the National Academies evaluated exposure scenarios rather than reducing the issue to “contains cadmium, therefore harmful” or “no proven harm, therefore irrelevant.” Toxicity depends on dose and route."
+        },
+        {
+          "blockId": "09",
+          "type": "ETHICS",
+          "headingKo": "건강위험 평가와 동의 문제를 분리해야 한다",
+          "headingEn": "Health Risk and Consent Are Separate Ethical Questions",
+          "textKo": "후대 독성평가에서 큰 건강피해가 입증되지 않았다는 결론과, 주민이 실험 사실을 몰랐다는 윤리 문제는 동시에 참일 수 있다. 현대 연구윤리에서는 위험이 낮다고 예상되더라도 인간집단을 대상으로 한 연구·노출에는 투명성과 동의, 독립적 감독이 중요하다. LAC를 평가할 때 건강인과관계만으로 사건 전체의 정당성을 판정하면 당시 비밀시험이 남긴 공공신뢰 문제를 놓치게 된다.",
+          "textEn": "A later assessment that did not establish major health harm can coexist with the ethical problem that communities were not informed. Modern research ethics emphasizes transparency, consent, and independent oversight even when anticipated risk is low. Evaluating LAC only through disease causation would miss the broader public-trust issue created by secret population-level testing."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: 대규모 ZnCdS 살포시험, LAC의 생물전 확산연구 목적, 후대 National Academies 건강위험 검토는 문서로 확인된다.\n\n미확정: 특정 개인의 질병이나 사망이 LAC 때문에 발생했다고 단정하려면 별도의 노출·역학 근거가 필요하다.",
+          "textEn": "Established: large-scale ZnCdS dispersion tests, their biological-warfare simulation purpose, and later National Academies health-risk review are documented.\n\nNot established: attributing a particular person’s disease or death to LAC requires separate exposure and epidemiological evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 대규모 ZnCdS 살포시험, LAC의 생물전 확산연구 목적, 후대 National Academies 건강위험 검토는 문서로 확인된다.",
+        "notEstablished": "미확정: 특정 개인의 질병이나 사망이 LAC 때문에 발생했다고 단정하려면 별도의 노출·역학 근거가 필요하다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Why Did the U.S. Army Release Fluorescent Tracer Particles Across Large Areas?",
+      "hook": "The releases in Operation LAC are documented. The harder questions concern what was dispersed, how exposure occurred, and what health significance can be established.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "보이지 않는 구름의 이동을 추적하다",
+          "headingEn": "Tracking an Invisible Cloud",
+          "textKo": "냉전기 미 육군 Chemical Corps는 생물학적 작용제가 넓은 지역에 살포될 경우 어떻게 이동하는지 알고 싶어 했다. 실제 병원체 대신 추적 가능한 simulant를 이용해 공기 흐름과 확산을 측정하는 시험이 설계됐다. Operation LAC는 이런 large-area dispersion 연구의 대표적 프로그램이었다.",
+          "textEn": "During the Cold War, the U.S. Army Chemical Corps wanted to understand how a biological agent might disperse across large regions. Tests used traceable simulants rather than operational pathogens to map airflow and dispersion. Operation LAC became one of the largest such programs."
+        },
+        {
+          "blockId": "02",
+          "type": "MATERIAL",
+          "headingKo": "ZnCdS라는 추적물질",
+          "headingEn": "The ZnCdS Tracer",
+          "textKo": "시험에 사용된 대표적 물질은 zinc cadmium sulfide, ZnCdS였다. 형광 특성 때문에 공기 중에 살포한 뒤 샘플링 지점에서 검출할 수 있었다. National Academies 보고서는 이 물질의 사용, 입자 특성, 노출평가를 후대에 검토했다.",
+          "textEn": "A principal tracer was zinc cadmium sulfide, or ZnCdS. Its fluorescence allowed researchers to release particles into the air and later detect them at sampling stations. A National Academies review later examined its use, particle characteristics, and exposure implications."
+        },
+        {
+          "blockId": "03",
+          "type": "SCALE",
+          "headingKo": "대륙 규모의 시험",
+          "headingEn": "Continental-Scale Tests",
+          "textKo": "National Academies가 정리한 LAC 시험은 로키산맥에서 대서양까지, 캐나다에서 멕시코만까지 넓은 지역을 포함했다. 항공기와 지상장비로 추적입자를 방출하고 넓게 분산된 샘플링 네트워크에서 입자 도달량을 측정했다.",
+          "textEn": "The National Academies describes LAC tests spanning broad regions from the Rockies to the Atlantic and from Canada to the Gulf of Mexico. Tracer particles were released from aircraft or ground systems and measured by a dispersed sampling network."
+        },
+        {
+          "blockId": "04",
+          "type": "PURPOSE",
+          "headingKo": "생물전 공격을 모의한 이유",
+          "headingEn": "Why Simulate Biological-Warfare Dispersion?",
+          "textKo": "당시 군사적 질문은 “도시 하나”보다 훨씬 컸다. 특정 고도와 기상조건에서 입자가 얼마나 멀리 이동하고 어느 농도로 도달하는지를 알면 공격 가능성과 방어·탐지 문제를 모델링할 수 있었다. 이 목적은 오늘날의 윤리적 기준과 별개로, 문서상 프로그램의 핵심 연구목표였다.",
+          "textEn": "The military question went beyond a single city: how far would aerosol particles travel under particular weather conditions, and at what concentrations? Such data could inform attack modeling and defensive detection. That was the documented research rationale, separate from how the tests are judged ethically today."
+        },
+        {
+          "blockId": "05",
+          "type": "HEALTH",
+          "headingKo": "후대의 건강영향 검토",
+          "headingEn": "Later Health Review",
+          "textKo": "ZnCdS에 cadmium이 포함돼 있다는 점 때문에 후대에 건강 우려가 제기됐다. National Academies는 가능한 노출량과 독성을 평가해, 공개된 자료를 기준으로 일반인에게 예상되는 노출이 유해영향을 일으켰다고 입증할 수 없다는 취지의 결론을 냈다. 그러나 이는 동의 없이 광범위한 살포시험이 시행됐다는 윤리 문제를 없애지 않는다. 이 사건의 독해에서 중요한 것은 출처의 종류다. 동시대 기록, 정부·박물관·학술기관의 후대 정리, 언론·대중문화의 재서술은 서로 다른 역할을 한다. 첫째는 당시 무엇이 기록됐는지 보여주고, 둘째는 자료를 재검토해 맥락을 제공하며, 셋째는 사건이 어떻게 기억됐는지를 보여준다. 서로 다른 층위를 한 문장으로 합치면 확인된 사실과 해석이 섞인다. 따라서 이 파일은 직접 확인 가능한 사건·수치·문서 존재를 먼저 고정하고, 원인·동기·정체처럼 자료가 충분하지 않은 부분은 별도 미확정 영역으로 남긴다.",
+          "textEn": "Because ZnCdS contains cadmium, later health concerns prompted review. The National Academies evaluated estimated exposure and toxicity and did not find evidence that expected public exposures caused harmful effects under the available data. That conclusion does not erase the ethical issue of broad testing conducted without informed public consent."
+        },
+        {
+          "blockId": "06",
+          "type": "CAUSATION",
+          "headingKo": "개별 질병과의 인과는 별도 문제",
+          "headingEn": "Individual Illness Requires Separate Causal Evidence",
+          "textKo": "특정 개인의 암이나 질병을 LAC 때문이라고 단정하려면 그 사람이 언제 어디서 어느 농도에 노출됐는지, 질병과의 생물학적 연관성이 무엇인지, 비교집단에서 위험이 증가했는지 같은 별도 근거가 필요하다. “살포가 실제였다”와 “이 질병의 원인이다”는 다른 주장이다. ZnCdS가 선택된 이유에는 자외선 아래에서 검출하기 쉽고 미생물과 비슷한 입자 크기로 분산시킬 수 있다는 점이 포함됐다. National Academies 검토는 도시·산악·평지 등 여러 환경에서 이루어진 추적시험의 맥락을 정리하고, LAC가 특히 넓은 지역을 대상으로 한 프로그램이었다고 설명한다. 동시에 후대 건강위험 평가는 “시험이 실제였다”는 사실과 “특정 질환이 그 시험 때문에 생겼다”는 인과주장을 구분한다. 노출량, 개인별 경로, 역학자료가 없으면 후자의 결론은 별도 검증이 필요하다.",
+          "textEn": "Attributing a particular illness or cancer to LAC requires separate evidence: where and when exposure occurred, dose, biological plausibility, and epidemiological comparison. “The releases happened” and “they caused this person’s disease” are different claims."
+        },
+        {
+          "blockId": "07",
+          "type": "LEGACY",
+          "headingKo": "비밀시험과 공공신뢰",
+          "headingEn": "Secret Testing and Public Trust",
+          "textKo": "LAC는 냉전기 open-air testing의 대표적 사례로 남았다. 기술적으로는 확산 모델링 실험이었지만, 대상 지역 주민에게 알려지지 않은 채 시행됐다는 사실 때문에 공공신뢰와 연구윤리의 역사에서도 중요하다.",
+          "textEn": "LAC remains a prominent example of Cold War open-air testing. Technically it was a dispersion-modeling program; historically it also matters because communities were not informed, making it part of the history of public trust and research ethics."
+        },
+        {
+          "blockId": "08",
+          "type": "DOSE",
+          "headingKo": "독성은 물질 이름만으로 결정되지 않는다",
+          "headingEn": "Toxicity Depends on Dose and Exposure",
+          "textKo": "ZnCdS 논쟁에서 자주 빠지는 요소는 실제 노출량이다. 물질에 cadmium이 포함돼 있다는 사실은 독성학적으로 중요하지만, 위해도를 평가하려면 입자 크기, 흡입 가능한 비율, 공기 중 농도, 노출시간, 체내흡수량을 함께 봐야 한다. National Academies 검토가 단순히 “cadmium이 있으니 위험/없으니 안전” 식의 이분법 대신 노출 시나리오를 계산한 이유다. 같은 물질도 용량과 경로가 달라지면 위험도가 달라진다.",
+          "textEn": "A frequently missing element in the ZnCdS debate is actual dose. The presence of cadmium matters toxicologically, but risk assessment also requires particle size, respirable fraction, airborne concentration, exposure duration, and absorbed dose. That is why the National Academies evaluated exposure scenarios rather than reducing the issue to “contains cadmium, therefore harmful” or “no proven harm, therefore irrelevant.” Toxicity depends on dose and route."
+        },
+        {
+          "blockId": "09",
+          "type": "ETHICS",
+          "headingKo": "건강위험 평가와 동의 문제를 분리해야 한다",
+          "headingEn": "Health Risk and Consent Are Separate Ethical Questions",
+          "textKo": "후대 독성평가에서 큰 건강피해가 입증되지 않았다는 결론과, 주민이 실험 사실을 몰랐다는 윤리 문제는 동시에 참일 수 있다. 현대 연구윤리에서는 위험이 낮다고 예상되더라도 인간집단을 대상으로 한 연구·노출에는 투명성과 동의, 독립적 감독이 중요하다. LAC를 평가할 때 건강인과관계만으로 사건 전체의 정당성을 판정하면 당시 비밀시험이 남긴 공공신뢰 문제를 놓치게 된다.",
+          "textEn": "A later assessment that did not establish major health harm can coexist with the ethical problem that communities were not informed. Modern research ethics emphasizes transparency, consent, and independent oversight even when anticipated risk is low. Evaluating LAC only through disease causation would miss the broader public-trust issue created by secret population-level testing."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: 대규모 ZnCdS 살포시험, LAC의 생물전 확산연구 목적, 후대 National Academies 건강위험 검토는 문서로 확인된다.\n\n미확정: 특정 개인의 질병이나 사망이 LAC 때문에 발생했다고 단정하려면 별도의 노출·역학 근거가 필요하다.",
+          "textEn": "Established: large-scale ZnCdS dispersion tests, their biological-warfare simulation purpose, and later National Academies health-risk review are documented.\n\nNot established: attributing a particular person’s disease or death to LAC requires separate exposure and epidemiological evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: large-scale ZnCdS dispersion tests, their biological-warfare simulation purpose, and later National Academies health-risk review are documented.",
+        "notEstablished": "Not established: attributing a particular person’s disease or death to LAC requires separate exposure and epidemiological evidence."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LAC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Operation LAC에서 ZnCdS가 대규모 추적입자로 사용됐다.",
+      "statementEn": "ZnCdS was used as a large-area tracer in Operation LAC.",
+      "sourceRefs": [
+        "NAS_ZNCDS",
+        "NAS_ZNCDS_LAC"
+      ]
+    },
+    {
+      "claimId": "LAC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "프로그램 목적은 생물전 에어로졸 확산을 모의·측정하는 것이었다.",
+      "statementEn": "The program was designed to model and measure biological-warfare aerosol dispersion.",
+      "sourceRefs": [
+        "NAS_ZNCDS_LAC"
+      ]
+    },
+    {
+      "claimId": "LAC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 개인의 질병을 LAC 노출로 단정할 수 있는 일반적 근거는 없다.",
+      "statementEn": "There is no general basis for attributing a specific individual’s illness to LAC without separate causal evidence.",
+      "sourceRefs": [
+        "NAS_ZNCDS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NAS_ZNCDS",
+      "title": "Toxicologic Assessment of the Army’s Zinc Cadmium Sulfide Dispersion Tests — Background",
+      "publisher": "National Academies",
+      "url": "https://www.nationalacademies.org/read/5739/chapter/3",
+      "sourceType": "ACADEMIC_INSTITUTION"
+    },
+    {
+      "sourceId": "NAS_ZNCDS_LAC",
+      "title": "Toxicologic Assessment — Operation LAC",
+      "publisher": "National Academies",
+      "url": "https://www.nationalacademies.org/read/5739/chapter/12",
+      "sourceType": "ACADEMIC_INSTITUTION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "operation-lac-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events, observations, and reassessment.",
+      "altKo": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+      "altEn": "Explanatory timeline of key events.",
+      "sourceRefs": [
+        "NAS_ZNCDS",
+        "NAS_ZNCDS_LAC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "58cd5d01beef8f508d86af983f678c068d34136c550bcdd02eb64f1512d28317",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-lac__operation-lac-v01__ko.png"
+        },
+        "en": {
+          "sha256": "3789550c1b02b470f4cf4955daf82267b55ebe4f701312ca1211d7190a9676c3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-lac__operation-lac-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "operation-lac-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·장소·정보 흐름을 단순화한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original explanatory map of institutions, places, and information flow.",
+      "altKo": "사건의 구조와 정보 흐름을 정리한 설명용 그래픽.",
+      "altEn": "Explanatory graphic showing the structure and information flow.",
+      "sourceRefs": [
+        "NAS_ZNCDS",
+        "NAS_ZNCDS_LAC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "7100009a28abb54ffd272366561fa060b34ae934f9032476fb0d9a971147be5a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-lac__operation-lac-v02__ko.png"
+        },
+        "en": {
+          "sha256": "c6e38ce95f7c73ec7bf24165f7eb999c320eb4adb0c3d2b2e939da0a9f64db40",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-lac__operation-lac-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "operation-lac-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "문서로 확인되는 사실과 미확정 주장을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating documented facts from unestablished claims.",
+      "altKo": "확인된 사실과 미확정 주장을 나눈 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card separating established facts from unestablished claims.",
+      "sourceRefs": [
+        "NAS_ZNCDS",
+        "NAS_ZNCDS_LAC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "74f07cf186f11c50f751d9090dfde464770c6e690a7c74bc727811cafe7ade0e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-lac__operation-lac-v03__ko.png"
+        },
+        "en": {
+          "sha256": "cb80f3f9463294b93ef690c1fd82ecccca6caeec82c9735ae79dfbd864b4858c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-lac__operation-lac-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Medicine / Human Experiment",
+    "secondaryGenres": [
+      "Chemical/Biological defense",
+      "Open-air testing"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Continental United States"
+    ],
+    "places": [
+      {
+        "name": "Continental United States",
+        "role": "test region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Army Chemical Corps",
+      "National Academies"
+    ],
+    "dateRange": {
+      "start": "1950s",
+      "end": "1960s",
+      "precision": "historical range"
+    },
+    "era": "1950s–1960s",
+    "resolution": "DOCUMENTED_SIMULANT_DISPERSION_TESTS",
+    "searchAliases": [
+      "Large Area Coverage",
+      "ZnCdS tests"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 2204,
+    "enBodyWords": 438,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH38",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

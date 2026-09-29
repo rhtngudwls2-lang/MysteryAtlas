@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "batch37_canonical",
+  "sourcePack": "batch38_final",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -2282,6 +2282,181 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "cia-family-jewels",
+      "title": {
+        "ko": "CIA 패밀리 주얼스",
+        "en": "CIA Family Jewels"
+      },
+      "headline": {
+        "ko": "CIA가 스스로 모아둔 “문제가 될 활동” 목록에는 무엇이 들어 있었나",
+        "en": "What Was Inside the CIA’s Own Compilation of Potentially Improper Activities?"
+      },
+      "hook": {
+        "ko": "Family Jewels는 외부 폭로문서가 아니라 CIA 내부에서 1973년 자체 수집한 문제활동 보고 묶음이었다.",
+        "en": "The “Family Jewels” were not an outside leak. They were an internal CIA compilation created in 1973 after employees were ordered to report activities that might be improper."
+      },
+      "aliases": [
+        "Family Jewels",
+        "Family Jewels"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Oversight",
+        "Declassified records"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Washington, D.C."
+      ],
+      "era": "1973–2007",
+      "resolution": "OFFICIAL_INTERNAL_COMPILATION_DECLASSIFIED",
+      "places": [
+        {
+          "name": "Washington, D.C.",
+          "role": "oversight context"
+        }
+      ],
+      "people": [
+        {
+          "name": "James Schlesinger",
+          "role": "DCI"
+        },
+        {
+          "name": "William Colby",
+          "role": "DCI"
+        }
+      ],
+      "dateRange": {
+        "start": "1973",
+        "end": "2007",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "cia-family-jewels-v01",
+      "heroFile": {
+        "ko": "cia-family-jewels__cia-family-jewels-v01__ko.png",
+        "en": "cia-family-jewels__cia-family-jewels-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DECLASSIFIED_RECORD_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "cleopatra-tomb",
+      "title": {
+        "ko": "클레오파트라의 무덤",
+        "en": "Tomb of Cleopatra VII"
+      },
+      "headline": {
+        "ko": "함께 묻혔다고 기록됐는데, 클레오파트라의 무덤은 왜 아직 못 찾았나",
+        "en": "Ancient Writers Said They Were Buried Together—So Where Is Cleopatra’s Tomb?"
+      },
+      "hook": {
+        "ko": "알렉산드리아의 지형 변화와 타포시리스 마그나의 발굴 성과 사이에는 여전히 결정적인 한 칸이 비어 있다: 무덤 자체다.",
+        "en": "Between ancient burial traditions, a radically changed Alexandria, and finds at Taposiris Magna, one decisive piece remains missing: the tomb itself."
+      },
+      "aliases": [
+        "Cleopatra tomb",
+        "Antony and Cleopatra tomb",
+        "Cleopatra tomb",
+        "Antony and Cleopatra tomb"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Lost tomb",
+        "Ptolemaic Egypt"
+      ],
+      "countries": [
+        "Egypt"
+      ],
+      "regions": [
+        "Alexandria",
+        "Taposiris Magna"
+      ],
+      "era": "30 BCE–present",
+      "resolution": "TOMB_LOCATION_NOT_CONFIRMED",
+      "places": [
+        {
+          "name": "Alexandria",
+          "role": "historical city"
+        },
+        {
+          "name": "Taposiris Magna",
+          "role": "candidate site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Cleopatra VII",
+          "role": "Ptolemaic ruler"
+        },
+        {
+          "name": "Mark Antony",
+          "role": "Roman statesman"
+        }
+      ],
+      "dateRange": {
+        "start": "30 BCE",
+        "end": "present",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "cleopatra-tomb-v01",
+      "heroFile": {
+        "ko": "cleopatra-tomb__cleopatra-tomb-v01__ko.png",
+        "en": "cleopatra-tomb__cleopatra-tomb-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "LOST_TOMB_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4864,6 +5039,84 @@
       }
     },
     {
+      "canonicalId": "gulf-of-tonkin-intelligence",
+      "title": {
+        "ko": "통킹만 사건의 정보 논쟁",
+        "en": "Gulf of Tonkin Intelligence Controversy"
+      },
+      "headline": {
+        "ko": "8월 2일과 4일은 같은 사건이 아니었다—통킹만 정보는 어떻게 뒤집혔나",
+        "en": "August 2 and August 4 Were Not the Same Event—How the Gulf of Tonkin Intelligence Was Reassessed"
+      },
+      "hook": {
+        "ko": "첫 교전은 실제였다. 문제는 이틀 뒤 밤, 레이더·소나·SIGINT가 하나의 “두 번째 공격” 이야기로 묶인 과정이다.",
+        "en": "The first clash was real. The controversy centers on the night two days later, when radar, sonar, and signals intelligence were combined into a story of a second attack."
+      },
+      "aliases": [
+        "Gulf of Tonkin",
+        "August 4 attack",
+        "Gulf of Tonkin",
+        "August 4 attack"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Vietnam War",
+        "Signals intelligence"
+      ],
+      "countries": [
+        "United States",
+        "North Vietnam"
+      ],
+      "regions": [
+        "Gulf of Tonkin"
+      ],
+      "era": "1964–2005",
+      "resolution": "AUG2_ATTACK_CONFIRMED_AUG4_SECOND_ATTACK_NOT_SUPPORTED_BY_LATER_REVIEW",
+      "places": [
+        {
+          "name": "Gulf of Tonkin",
+          "role": "incident area"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1964",
+        "end": "2005",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "gulf-of-tonkin-intelligence-v01",
+      "heroFile": {
+        "ko": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v01__ko.png",
+        "en": "gulf-of-tonkin-intelligence__gulf-of-tonkin-intelligence-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "INTELLIGENCE_REASSESSMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "haarp-weather-control",
       "title": {
         "ko": "HAARP 날씨조작설",
@@ -5575,6 +5828,97 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "COMPACT_FILE selected because the verified source set supports a concise extinction/survival-evidence story; no filler added."
+      }
+    },
+    {
+      "canonicalId": "jfk-assassination-records",
+      "title": {
+        "ko": "JFK 암살 기록",
+        "en": "JFK Assassination Records"
+      },
+      "headline": {
+        "ko": "600만 쪽이 넘는 JFK 기록은 무엇을 밝혔고, 무엇을 끝내지 못했나",
+        "en": "What Have More Than Six Million Pages of JFK Records Clarified—and What Have They Not Settled?"
+      },
+      "hook": {
+        "ko": "기록 공개의 규모는 사실이지만, 새 문서가 나왔다는 사실과 특정 음모가 입증됐다는 결론은 같은 문장이 아니다.",
+        "en": "The scale of the releases is real, but “new records were released” and “a particular conspiracy was proven” are not the same statement."
+      },
+      "aliases": [
+        "JFK Records",
+        "Kennedy assassination files",
+        "JFK Records",
+        "Kennedy assassination files"
+      ],
+      "genre": "Crime / Historical Investigation",
+      "genres": [
+        "Declassification",
+        "Government records"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Dallas",
+        "Washington, D.C."
+      ],
+      "era": "1963–2026",
+      "resolution": "LARGE_RECORD_COLLECTION_CONTINUES_TO_BE_RELEASED",
+      "places": [
+        {
+          "name": "Dallas",
+          "role": "assassination site"
+        },
+        {
+          "name": "National Archives at College Park",
+          "role": "records repository"
+        }
+      ],
+      "people": [
+        {
+          "name": "John F. Kennedy",
+          "role": "U.S. president"
+        },
+        {
+          "name": "Lee Harvey Oswald",
+          "role": "accused assassin"
+        }
+      ],
+      "dateRange": {
+        "start": "1963",
+        "end": "2026",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "jfk-assassination-records-v01",
+      "heroFile": {
+        "ko": "jfk-assassination-records__jfk-assassination-records-v01__ko.png",
+        "en": "jfk-assassination-records__jfk-assassination-records-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "LIVE_ARCHIVE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -7413,6 +7757,88 @@
       }
     },
     {
+      "canonicalId": "mknaomi",
+      "title": {
+        "ko": "MKNAOMI",
+        "en": "Project MKNAOMI"
+      },
+      "headline": {
+        "ko": "MKNAOMI는 무엇을 실제로 연구했고, 어디서부터 이야기가 과장됐나",
+        "en": "What Did MKNAOMI Actually Research—and Where Do Later Claims Go Beyond the Record?"
+      },
+      "hook": {
+        "ko": "생물·화학 작용제와 전달기술 연구는 문서로 확인된다. 그러나 “그 기술이 특정 사건에 쓰였다”는 주장은 별도의 증거가 필요하다.",
+        "en": "Biological and chemical agent research and delivery work are documented. Claims that the capability was used in a particular death or assassination require separate evidence."
+      },
+      "aliases": [
+        "Project MKNAOMI",
+        "MK-NAOMI",
+        "Project MKNAOMI",
+        "MK-NAOMI"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Biological/chemical R&D",
+        "Fort Detrick"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Fort Detrick, Maryland"
+      ],
+      "era": "1952–1970s",
+      "resolution": "DOCUMENTED_BIOCHEMICAL_RND_PROGRAM",
+      "places": [
+        {
+          "name": "Fort Detrick",
+          "role": "research site"
+        }
+      ],
+      "people": [
+        {
+          "name": "William Colby",
+          "role": "CIA director / oversight testimony context"
+        }
+      ],
+      "dateRange": {
+        "start": "1952",
+        "end": "1970s",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "mknaomi-v01",
+      "heroFile": {
+        "ko": "mknaomi__mknaomi-v01__ko.png",
+        "en": "mknaomi__mknaomi-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "BIOCHEM_SECRET_PROGRAM_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "moon-landing-hoax",
       "title": {
         "ko": "달 착륙 조작설",
@@ -8169,6 +8595,86 @@
       }
     },
     {
+      "canonicalId": "okapi-discovery",
+      "title": {
+        "ko": "오카피",
+        "en": "Okapi and Scientific Recognition"
+      },
+      "headline": {
+        "ko": "“미지의 동물 발견”이 아니라, 이미 알려진 동물이 과학책에 들어온 순간",
+        "en": "Not the Discovery of an Unknown Beast, but the Moment Local Knowledge Entered Zoology"
+      },
+      "hook": {
+        "ko": "오카피는 1901년에 처음 존재한 동물이 아니다. Ituri 주민들이 알고 있던 동물이 서구 분류체계에 공식 편입된 시점이 1901년이다.",
+        "en": "The okapi did not suddenly come into existence in 1901. That year marks its formal entry into Western zoological classification after local communities already knew the animal."
+      },
+      "aliases": [
+        "Okapia johnstoni",
+        "Okapia johnstoni"
+      ],
+      "genre": "Cryptid / Disputed Animal",
+      "genres": [
+        "Scientific recognition",
+        "Local knowledge"
+      ],
+      "countries": [
+        "Democratic Republic of the Congo"
+      ],
+      "regions": [
+        "Ituri Forest"
+      ],
+      "era": "pre-1901–present",
+      "resolution": "SPECIES_CONFIRMED_LOCAL_KNOWLEDGE_PRECEDED_WESTERN_DESCRIPTION",
+      "places": [
+        {
+          "name": "Ituri Forest",
+          "role": "habitat and local-knowledge context"
+        }
+      ],
+      "people": [
+        {
+          "name": "Harry Johnston",
+          "role": "collector/intermediary"
+        }
+      ],
+      "dateRange": {
+        "start": "pre-1901",
+        "end": "present",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "okapi-discovery-v01",
+      "heroFile": {
+        "ko": "okapi-discovery__okapi-discovery-v01__ko.png",
+        "en": "okapi-discovery__okapi-discovery-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DISCOVERY_HISTORY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "olinguito-discovery",
       "title": {
         "ko": "올링기토 발견",
@@ -8318,6 +8824,83 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "operation-lac",
+      "title": {
+        "ko": "오퍼레이션 LAC",
+        "en": "Operation LAC"
+      },
+      "headline": {
+        "ko": "미 육군은 왜 미국 전역 위에 형광 입자를 뿌렸나",
+        "en": "Why Did the U.S. Army Release Fluorescent Tracer Particles Across Large Areas?"
+      },
+      "hook": {
+        "ko": "Operation LAC의 살포 자체는 문서화돼 있다. 논쟁은 무엇을 얼마나 뿌렸고, 노출이 건강에 어떤 의미였는가에 있다.",
+        "en": "The releases in Operation LAC are documented. The harder questions concern what was dispersed, how exposure occurred, and what health significance can be established."
+      },
+      "aliases": [
+        "Large Area Coverage",
+        "ZnCdS tests",
+        "Large Area Coverage",
+        "ZnCdS tests"
+      ],
+      "genre": "Medicine / Human Experiment",
+      "genres": [
+        "Chemical/Biological defense",
+        "Open-air testing"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Continental United States"
+      ],
+      "era": "1950s–1960s",
+      "resolution": "DOCUMENTED_SIMULANT_DISPERSION_TESTS",
+      "places": [
+        {
+          "name": "Continental United States",
+          "role": "test region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1950s",
+        "end": "1960s",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "operation-lac-v01",
+      "heroFile": {
+        "ko": "operation-lac__operation-lac-v01__ko.png",
+        "en": "operation-lac__operation-lac-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "OPEN_AIR_TEST_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9508,6 +10091,166 @@
       }
     },
     {
+      "canonicalId": "project-azorian",
+      "title": {
+        "ko": "프로젝트 AZORIAN",
+        "en": "Project AZORIAN"
+      },
+      "headline": {
+        "ko": "CIA는 수심 5km 아래 소련 잠수함을 어떻게 몰래 끌어올리려 했나",
+        "en": "How Did the CIA Try to Secretly Lift a Soviet Submarine From More Than Three Miles Down?"
+      },
+      "hook": {
+        "ko": "Project AZORIAN은 “불가능해 보이는 공학”과 “숨겨야 하는 정보작전”이 같은 선박 안에 들어간 냉전 프로젝트였다.",
+        "en": "Project AZORIAN combined two problems in one ship: engineering that looked nearly impossible and an intelligence operation that had to remain hidden."
+      },
+      "aliases": [
+        "Glomar Explorer",
+        "K-129 recovery",
+        "Glomar Explorer",
+        "K-129 recovery"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Cold War",
+        "Deep-sea engineering"
+      ],
+      "countries": [
+        "United States",
+        "Soviet Union"
+      ],
+      "regions": [
+        "North Pacific"
+      ],
+      "era": "1968–1974",
+      "resolution": "DOCUMENTED_PARTIAL_RECOVERY",
+      "places": [
+        {
+          "name": "North Pacific",
+          "role": "K-129 wreck area"
+        }
+      ],
+      "people": [
+        {
+          "name": "Howard Hughes",
+          "role": "cover-story association"
+        }
+      ],
+      "dateRange": {
+        "start": "1968",
+        "end": "1974",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "project-azorian-v01",
+      "heroFile": {
+        "ko": "project-azorian__project-azorian-v01__ko.png",
+        "en": "project-azorian__project-azorian-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_ENGINEERING_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "project-blue-book",
+      "title": {
+        "ko": "Project Blue Book",
+        "en": "Project Blue Book"
+      },
+      "headline": {
+        "ko": "미 공군은 12,618건의 UFO 보고를 어떻게 분류했나",
+        "en": "How Did the U.S. Air Force Sort 12,618 UFO Reports?"
+      },
+      "hook": {
+        "ko": "701건이 미확인으로 남았다는 숫자는 사실이다. 그러나 “미확인”은 곧 “외계 우주선 확인”을 뜻하지 않는다.",
+        "en": "The number 701 is real: those cases remained unidentified. But “unidentified” did not mean “confirmed extraterrestrial craft.”"
+      },
+      "aliases": [
+        "Blue Book",
+        "USAF Project Blue Book",
+        "Blue Book",
+        "USAF Project Blue Book"
+      ],
+      "genre": "UFO / UAP",
+      "genres": [
+        "Declassified archive",
+        "Air Force investigation"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Ohio"
+      ],
+      "era": "1947–1969",
+      "resolution": "PROGRAM_CLOSED_701_HISTORICALLY_UNIDENTIFIED",
+      "places": [
+        {
+          "name": "Wright-Patterson Air Force Base",
+          "role": "program headquarters"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1947",
+        "end": "1969",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "project-blue-book-v01",
+      "heroFile": {
+        "ko": "project-blue-book__project-blue-book-v01__ko.png",
+        "en": "project-blue-book__project-blue-book-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "UAP_ARCHIVE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "project-excelsior",
       "title": {
         "ko": "Project Excelsior",
@@ -9714,6 +10457,97 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "project-manhigh",
+      "title": {
+        "ko": "Project Manhigh",
+        "en": "Project Manhigh"
+      },
+      "headline": {
+        "ko": "우주선이 뜨기 전, 인간은 풍선 캡슐로 어디까지 올라갔나",
+        "en": "Before Spacecraft, How High Could a Human Go in a Balloon Capsule?"
+      },
+      "hook": {
+        "ko": "Manhigh의 미스터리는 비밀 우주비행이 아니라, 우주 환경을 지상에서 얼마나 먼저 시험할 수 있었는가에 있다.",
+        "en": "Manhigh was not a secret spaceflight. Its importance lies in how much of the human-spaceflight problem was tested before rockets carried people to orbit."
+      },
+      "aliases": [
+        "Man High",
+        "Project Man High",
+        "Man High",
+        "Project Man High"
+      ],
+      "genre": "Technology / Aerospace History",
+      "genres": [
+        "High-altitude research",
+        "Human factors"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "New Mexico",
+        "Minnesota"
+      ],
+      "era": "1957–1958",
+      "resolution": "DOCUMENTED_PROGRAM_COMPLETED",
+      "places": [
+        {
+          "name": "National Museum of the U.S. Air Force",
+          "role": "archive/display"
+        }
+      ],
+      "people": [
+        {
+          "name": "Joseph Kittinger",
+          "role": "pilot"
+        },
+        {
+          "name": "David Simons",
+          "role": "pilot"
+        },
+        {
+          "name": "Clifton McClure III",
+          "role": "pilot"
+        }
+      ],
+      "dateRange": {
+        "start": "1957",
+        "end": "1958",
+        "precision": "historical range"
+      },
+      "related": [],
+      "heroAssetId": "project-manhigh-v01",
+      "heroFile": {
+        "ko": "project-manhigh__project-manhigh-v01__ko.png",
+        "en": "project-manhigh__project-manhigh-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events, observations, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건을 시간순으로 정리한 설명용 타임라인.",
+        "en": "Explanatory timeline of key events."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "AEROSPACE_HISTORY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
