@@ -1,0 +1,427 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-minaret",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "프로젝트 MINARET",
+    "canonicalTitleEn": "Project MINARET",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "감시목록에 이름을 올리면 국제통신 속 흔적을 찾았다—MINARET는 어떻게 운영됐나",
+      "hook": "프로그램의 실재와 watch-list 방식은 NSA 기록으로 확인된다. 법적·헌법적 평가는 당시에도 논쟁이었고 결국 1973년 종료됐다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "비밀 프로그램의 핵심은 “모든 통신을 읽는 것”이 아니라 이름 목록이었다",
+          "headingEn": "The Core Was Not “Reading Everything,” but Watch Lists",
+          "textKo": "MINARET는 수집된 국제통신 가운데 특정 인물이나 조직과 관련된 정보를 골라내기 위해 watch list를 사용한 NSA 프로그램이었다. NSA의 역사자료는 이 관행이 MINARET라는 이름을 얻기 전부터 존재했으며 1969년에 공식 명칭이 붙었다고 설명한다. 통신 전체를 사람이 읽는 구조라기보다, 다른 기관이 제공한 관심 대상 이름을 기준으로 관련 보고를 생산하는 선별체계에 가까웠다. 이 구분은 프로그램의 실제 규모와 성격을 이해하는 출발점이다.",
+          "textEn": "MINARET was an NSA program that used watch lists to identify information in collected international communications associated with selected people or organizations. NSA historical accounts state that the practice existed before the MINARET name was formally adopted in 1969. Rather than analysts literally reading every communication, the system worked as a filtering mechanism keyed to names supplied largely by other agencies. That distinction is central to understanding what the program actually did."
+        },
+        {
+          "blockId": "origins-02",
+          "type": "BACKGROUND",
+          "headingKo": "감시목록은 대통령 경호와 마약 단속에서 더 넓은 국내 정치·사회 대상까지 확장됐다",
+          "headingEn": "Watch Lists Expanded From Protective and Narcotics Purposes to Domestic Political Targets",
+          "textKo": "NSA의 50주년 역사자료에 따르면 초기 watch list는 케네디 대통령 암살 이후 Secret Service가 대통령 위협 가능 인물을 추적하기 위해 제공한 이름들과 연관돼 있었다. 이후 마약 밀매 의심 대상 등이 추가됐고, 1960년대 후반에는 국내 반전·시민권 시위와 관련된 인물까지 범위가 넓어졌다. 정부의 관심은 해외 세력이 미국 내 시위에 영향을 주는지를 파악하는 것이었지만, 그 과정에서 미국인의 통신이 정보보고 체계에 포함됐다.",
+          "textEn": "NSA’s historical account traces early watch-list use to names supplied by the Secret Service after President Kennedy’s assassination, later expanded to suspected narcotics traffickers. In the late 1960s the scope broadened to include people associated with domestic antiwar and civil-rights activism as officials sought evidence of foreign support. In the process, communications involving U.S. persons entered an intelligence-reporting system originally focused on international communications."
+        },
+        {
+          "blockId": "operations-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "보고서는 출처를 가리고 배포되는 특수 절차를 썼다",
+          "headingEn": "Reports Used Unusual Dissemination Procedures",
+          "textKo": "NSA의 냉전사는 MINARET 보고가 일반 SIGINT 보고와 다른 방식으로 배포됐다고 적는다. 표준 일련번호를 쓰지 않고, 수신자가 NSA를 출처로 쉽게 식별하지 못하도록 하는 절차가 사용됐다. 이런 운영방식은 단순한 키워드 검색을 넘어 프로그램 자체의 민감성을 보여준다. 당시 내부 법률 검토에서도 프로그램이 법적·헌법적 문제를 일으킬 수 있다는 우려가 커졌다.",
+          "textEn": "NSA’s Cold War history describes unusual dissemination procedures for MINARET reporting. Reports were not handled like ordinary serialized SIGINT products and were structured so that the originating agency was less obvious to recipients. Those procedures illustrate the program’s sensitivity beyond the mechanics of name matching. Internal legal concern also grew over whether the activity could withstand constitutional and judicial scrutiny."
+        },
+        {
+          "blockId": "scale-04",
+          "type": "BACKGROUND",
+          "headingKo": "목록은 여러 기관이 제공했고 규모가 커지면서 통제 문제가 커졌다",
+          "headingEn": "Multiple Agencies Supplied Names, and Growth Increased Oversight Risk",
+          "textKo": "NSA 역사자료는 watch list 이름의 대부분이 다른 정부기관에서 제공됐다고 설명한다. 목록이 커지면 동일한 수집자료에서 더 많은 국내 인물을 찾아내는 결과가 생겼고, 정보 요구와 개인의 권리 사이의 긴장이 커졌다. 중요한 점은 “NSA가 독자적으로 모든 대상을 선정했다”거나 반대로 “NSA는 단순 전달자였을 뿐 책임이 없었다”고 단정하지 않는 것이다. 프로그램은 여러 기관의 요청, NSA의 수집·분석, 보고 배포가 결합된 체계였다.",
+          "textEn": "NSA histories state that most watch-list names were supplied by other government organizations. As the lists grew, the same international-communications collection could produce more reporting involving U.S. persons, intensifying the tension between intelligence requirements and individual rights. It would be inaccurate either to claim that NSA independently selected every target or that it was merely a passive conduit. The program combined outside requests, NSA collection and analysis, and dissemination procedures."
+        },
+        {
+          "blockId": "closure-05",
+          "type": "TURNING_POINT",
+          "headingKo": "새 NSA 국장과 법률고문은 프로그램의 지속 가능성을 의심했고 1973년 종료했다",
+          "headingEn": "New Leadership Questioned the Program, Which Ended in 1973",
+          "textKo": "NSA의 내부 역사에 따르면 Lew Allen이 NSA 국장이 된 뒤 법률고문으로부터 MINARET의 존재와 법적 위험을 보고받았다. 관련 법원의 도청·공개 의무 판결이 정보기관의 통신감시에도 영향을 줄 수 있다는 우려가 있었다. Allen은 법무장관과 논의한 뒤 1973년 프로그램을 종료했다. 이 과정은 MINARET가 단지 후대 비판만 받은 것이 아니라 운영 중에도 법적 지속 가능성이 내부에서 문제로 인식됐음을 보여준다.",
+          "textEn": "According to NSA’s internal history, Director Lew Allen learned of MINARET from legal counsel after taking office and was warned about its legal exposure. Court rulings involving wiretaps and disclosure obligations raised concern that communications monitoring could face similar scrutiny. After discussions with the attorney general, Allen ended the program in 1973. This history shows that legal sustainability was questioned inside government while the program was still operating, not only by later critics."
+        },
+        {
+          "blockId": "church-06",
+          "type": "AFTERMATH",
+          "headingKo": "Church Committee가 공개 조사하면서 MINARET는 비밀 정보활동의 감독 문제를 상징하게 됐다",
+          "headingEn": "Church Committee Investigation Turned MINARET Into an Oversight Case Study",
+          "textKo": "1970년대 상원 Church Committee는 CIA·FBI·NSA 등 정보기관의 활동을 조사하면서 MINARET와 SHAMROCK 같은 이전에 대중에게 알려지지 않았던 프로그램을 확인했다. 상원 공식 역사자료는 이 조사에서 국내외 통신감시와 정보공유의 경계가 핵심 문제 가운데 하나였다고 설명한다. 이후 정보기관 감독과 법적 통제 강화 논의에서 MINARET는 중요한 사례로 남았다.",
+          "textEn": "In the 1970s the Senate Church Committee investigated intelligence activities across the CIA, FBI, NSA, and other agencies and exposed previously little-known programs including MINARET and SHAMROCK. The Senate’s official history describes communications monitoring and information sharing involving U.S. persons as central oversight concerns. MINARET consequently became an important historical case in debates over intelligence accountability and legal controls."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: MINARET는 watch list를 이용해 수집된 국제통신에서 특정 이름·조직과 관련된 정보를 식별하고 보고한 실제 NSA 프로그램이었으며 1969년 공식 명칭이 붙고 1973년 종료됐다.\n\n확인되지 않음: watch list에 있던 모든 사람이 동일한 방식으로 “불법 감시”됐다고 일반화하거나, 모든 보고가 동일한 법적 성격을 가졌다고 단정하는 것은 기록이 뒷받침하지 않는다.",
+          "textEn": "Established: MINARET was a real NSA watch-list program used to identify and report information about selected names and organizations found in collected international communications; it was formally named in 1969 and ended in 1973.\n\nNot established: The record does not justify a blanket claim that every watch-listed person was monitored in exactly the same unlawful manner or that every resulting report had the same legal character."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: MINARET는 watch list를 이용해 수집된 국제통신에서 특정 이름·조직과 관련된 정보를 식별하고 보고한 실제 NSA 프로그램이었으며 1969년 공식 명칭이 붙고 1973년 종료됐다.",
+        "notEstablished": "확인되지 않음: watch list에 있던 모든 사람이 동일한 방식으로 “불법 감시”됐다고 일반화하거나, 모든 보고가 동일한 법적 성격을 가졌다고 단정하는 것은 기록이 뒷받침하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "origins-02",
+        "operations-03",
+        "scale-04",
+        "closure-05",
+        "church-06"
+      ]
+    },
+    "en": {
+      "headline": "Put a Name on a Watch List, Then Search International Communications—How MINARET Worked",
+      "hook": "NSA records establish the program and its watch-list method. Its legal and constitutional status was controversial even inside government, and it was ended in 1973.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "비밀 프로그램의 핵심은 “모든 통신을 읽는 것”이 아니라 이름 목록이었다",
+          "headingEn": "The Core Was Not “Reading Everything,” but Watch Lists",
+          "textKo": "MINARET는 수집된 국제통신 가운데 특정 인물이나 조직과 관련된 정보를 골라내기 위해 watch list를 사용한 NSA 프로그램이었다. NSA의 역사자료는 이 관행이 MINARET라는 이름을 얻기 전부터 존재했으며 1969년에 공식 명칭이 붙었다고 설명한다. 통신 전체를 사람이 읽는 구조라기보다, 다른 기관이 제공한 관심 대상 이름을 기준으로 관련 보고를 생산하는 선별체계에 가까웠다. 이 구분은 프로그램의 실제 규모와 성격을 이해하는 출발점이다.",
+          "textEn": "MINARET was an NSA program that used watch lists to identify information in collected international communications associated with selected people or organizations. NSA historical accounts state that the practice existed before the MINARET name was formally adopted in 1969. Rather than analysts literally reading every communication, the system worked as a filtering mechanism keyed to names supplied largely by other agencies. That distinction is central to understanding what the program actually did."
+        },
+        {
+          "blockId": "origins-02",
+          "type": "BACKGROUND",
+          "headingKo": "감시목록은 대통령 경호와 마약 단속에서 더 넓은 국내 정치·사회 대상까지 확장됐다",
+          "headingEn": "Watch Lists Expanded From Protective and Narcotics Purposes to Domestic Political Targets",
+          "textKo": "NSA의 50주년 역사자료에 따르면 초기 watch list는 케네디 대통령 암살 이후 Secret Service가 대통령 위협 가능 인물을 추적하기 위해 제공한 이름들과 연관돼 있었다. 이후 마약 밀매 의심 대상 등이 추가됐고, 1960년대 후반에는 국내 반전·시민권 시위와 관련된 인물까지 범위가 넓어졌다. 정부의 관심은 해외 세력이 미국 내 시위에 영향을 주는지를 파악하는 것이었지만, 그 과정에서 미국인의 통신이 정보보고 체계에 포함됐다.",
+          "textEn": "NSA’s historical account traces early watch-list use to names supplied by the Secret Service after President Kennedy’s assassination, later expanded to suspected narcotics traffickers. In the late 1960s the scope broadened to include people associated with domestic antiwar and civil-rights activism as officials sought evidence of foreign support. In the process, communications involving U.S. persons entered an intelligence-reporting system originally focused on international communications."
+        },
+        {
+          "blockId": "operations-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "보고서는 출처를 가리고 배포되는 특수 절차를 썼다",
+          "headingEn": "Reports Used Unusual Dissemination Procedures",
+          "textKo": "NSA의 냉전사는 MINARET 보고가 일반 SIGINT 보고와 다른 방식으로 배포됐다고 적는다. 표준 일련번호를 쓰지 않고, 수신자가 NSA를 출처로 쉽게 식별하지 못하도록 하는 절차가 사용됐다. 이런 운영방식은 단순한 키워드 검색을 넘어 프로그램 자체의 민감성을 보여준다. 당시 내부 법률 검토에서도 프로그램이 법적·헌법적 문제를 일으킬 수 있다는 우려가 커졌다.",
+          "textEn": "NSA’s Cold War history describes unusual dissemination procedures for MINARET reporting. Reports were not handled like ordinary serialized SIGINT products and were structured so that the originating agency was less obvious to recipients. Those procedures illustrate the program’s sensitivity beyond the mechanics of name matching. Internal legal concern also grew over whether the activity could withstand constitutional and judicial scrutiny."
+        },
+        {
+          "blockId": "scale-04",
+          "type": "BACKGROUND",
+          "headingKo": "목록은 여러 기관이 제공했고 규모가 커지면서 통제 문제가 커졌다",
+          "headingEn": "Multiple Agencies Supplied Names, and Growth Increased Oversight Risk",
+          "textKo": "NSA 역사자료는 watch list 이름의 대부분이 다른 정부기관에서 제공됐다고 설명한다. 목록이 커지면 동일한 수집자료에서 더 많은 국내 인물을 찾아내는 결과가 생겼고, 정보 요구와 개인의 권리 사이의 긴장이 커졌다. 중요한 점은 “NSA가 독자적으로 모든 대상을 선정했다”거나 반대로 “NSA는 단순 전달자였을 뿐 책임이 없었다”고 단정하지 않는 것이다. 프로그램은 여러 기관의 요청, NSA의 수집·분석, 보고 배포가 결합된 체계였다.",
+          "textEn": "NSA histories state that most watch-list names were supplied by other government organizations. As the lists grew, the same international-communications collection could produce more reporting involving U.S. persons, intensifying the tension between intelligence requirements and individual rights. It would be inaccurate either to claim that NSA independently selected every target or that it was merely a passive conduit. The program combined outside requests, NSA collection and analysis, and dissemination procedures."
+        },
+        {
+          "blockId": "closure-05",
+          "type": "TURNING_POINT",
+          "headingKo": "새 NSA 국장과 법률고문은 프로그램의 지속 가능성을 의심했고 1973년 종료했다",
+          "headingEn": "New Leadership Questioned the Program, Which Ended in 1973",
+          "textKo": "NSA의 내부 역사에 따르면 Lew Allen이 NSA 국장이 된 뒤 법률고문으로부터 MINARET의 존재와 법적 위험을 보고받았다. 관련 법원의 도청·공개 의무 판결이 정보기관의 통신감시에도 영향을 줄 수 있다는 우려가 있었다. Allen은 법무장관과 논의한 뒤 1973년 프로그램을 종료했다. 이 과정은 MINARET가 단지 후대 비판만 받은 것이 아니라 운영 중에도 법적 지속 가능성이 내부에서 문제로 인식됐음을 보여준다.",
+          "textEn": "According to NSA’s internal history, Director Lew Allen learned of MINARET from legal counsel after taking office and was warned about its legal exposure. Court rulings involving wiretaps and disclosure obligations raised concern that communications monitoring could face similar scrutiny. After discussions with the attorney general, Allen ended the program in 1973. This history shows that legal sustainability was questioned inside government while the program was still operating, not only by later critics."
+        },
+        {
+          "blockId": "church-06",
+          "type": "AFTERMATH",
+          "headingKo": "Church Committee가 공개 조사하면서 MINARET는 비밀 정보활동의 감독 문제를 상징하게 됐다",
+          "headingEn": "Church Committee Investigation Turned MINARET Into an Oversight Case Study",
+          "textKo": "1970년대 상원 Church Committee는 CIA·FBI·NSA 등 정보기관의 활동을 조사하면서 MINARET와 SHAMROCK 같은 이전에 대중에게 알려지지 않았던 프로그램을 확인했다. 상원 공식 역사자료는 이 조사에서 국내외 통신감시와 정보공유의 경계가 핵심 문제 가운데 하나였다고 설명한다. 이후 정보기관 감독과 법적 통제 강화 논의에서 MINARET는 중요한 사례로 남았다.",
+          "textEn": "In the 1970s the Senate Church Committee investigated intelligence activities across the CIA, FBI, NSA, and other agencies and exposed previously little-known programs including MINARET and SHAMROCK. The Senate’s official history describes communications monitoring and information sharing involving U.S. persons as central oversight concerns. MINARET consequently became an important historical case in debates over intelligence accountability and legal controls."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: MINARET는 watch list를 이용해 수집된 국제통신에서 특정 이름·조직과 관련된 정보를 식별하고 보고한 실제 NSA 프로그램이었으며 1969년 공식 명칭이 붙고 1973년 종료됐다.\n\n확인되지 않음: watch list에 있던 모든 사람이 동일한 방식으로 “불법 감시”됐다고 일반화하거나, 모든 보고가 동일한 법적 성격을 가졌다고 단정하는 것은 기록이 뒷받침하지 않는다.",
+          "textEn": "Established: MINARET was a real NSA watch-list program used to identify and report information about selected names and organizations found in collected international communications; it was formally named in 1969 and ended in 1973.\n\nNot established: The record does not justify a blanket claim that every watch-listed person was monitored in exactly the same unlawful manner or that every resulting report had the same legal character."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: MINARET was a real NSA watch-list program used to identify and report information about selected names and organizations found in collected international communications; it was formally named in 1969 and ended in 1973.",
+        "notEstablished": "Not established: The record does not justify a blanket claim that every watch-listed person was monitored in exactly the same unlawful manner or that every resulting report had the same legal character."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "origins-02",
+        "operations-03",
+        "scale-04",
+        "closure-05",
+        "church-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MIN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "MINARET는 watch list 기반으로 국제통신 수집물에서 관련 정보를 식별한 실제 NSA 프로그램이었다.",
+      "statementEn": "MINARET was a real NSA watch-list program used to identify relevant information in collected international communications.",
+      "sourceRefs": [
+        "NSA_COLDWAR_III",
+        "NSA_INVESTIGATIONS"
+      ]
+    },
+    {
+      "claimId": "MIN-C2",
+      "status": "CONFIRMED",
+      "statementKo": "프로그램은 1969년 MINARET라는 이름을 얻었고 1973년 종료됐다.",
+      "statementEn": "The program was formally named MINARET in 1969 and was ended in 1973.",
+      "sourceRefs": [
+        "NSA_INVESTIGATIONS"
+      ]
+    },
+    {
+      "claimId": "MIN-C3",
+      "status": "CONFIRMED",
+      "statementKo": "Church Committee는 MINARET를 포함한 정보기관의 국내 관련 감시 활동을 조사했다.",
+      "statementEn": "The Church Committee investigated intelligence activities including MINARET.",
+      "sourceRefs": [
+        "CHURCH_OVERVIEW"
+      ]
+    },
+    {
+      "claimId": "MIN-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 watch-list 대상과 모든 보고를 하나의 동일한 법적 범주로 일반화할 수 없다.",
+      "statementEn": "The surviving record does not make every watch-listed person and every report legally identical.",
+      "sourceRefs": [
+        "NSA_COLDWAR_III",
+        "NSA_INVESTIGATIONS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NSA_COLDWAR_III",
+      "title": "American Cryptology during the Cold War, Book III",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf",
+      "sourceType": "US_GOVERNMENT_HISTORY"
+    },
+    {
+      "sourceId": "NSA_INVESTIGATIONS",
+      "title": "The Time of Investigations — MINARET",
+      "publisher": "National Security Agency",
+      "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/crypto-almanac-50th/time_of_investigations_part_1.pdf",
+      "sourceType": "US_GOVERNMENT_HISTORY"
+    },
+    {
+      "sourceId": "CHURCH_OVERVIEW",
+      "title": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+      "publisher": "United States Senate",
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm",
+      "sourceType": "US_GOVERNMENT_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "minaret-v01",
+      "role": "PROCESS_FLOW",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "이름 제공 → watch list → 국제통신 수집물 선별 → 보고 배포 흐름.",
+      "captionEn": "Flow from supplied names to watch list, international-communications filtering, and dissemination.",
+      "altKo": "이름 제공 → watch list → 국제통신 수집물 선별 → 보고 배포 흐름.",
+      "altEn": "Flow from supplied names to watch list, international-communications filtering, and dissemination.",
+      "sourceRefs": [
+        "NSA_COLDWAR_III"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-minaret__minaret-v01__ko.png",
+          "sha256": "5e6d8f8774af5f137b596ec5d85b54d8f82d3f27965131cb8cab090337854e1b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-minaret__minaret-v01__en.png",
+          "sha256": "c27f76be95f00032e7230be90498a7ea4254626855a1104565bdb1210fce4a10",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "minaret-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "초기 watch list → 1969 MINARET 명칭 → 1973 종료 → Church Committee 조사.",
+      "captionEn": "Early watch lists → 1969 MINARET name → 1973 closure → Church Committee investigation.",
+      "altKo": "초기 watch list → 1969 MINARET 명칭 → 1973 종료 → Church Committee 조사.",
+      "altEn": "Early watch lists → 1969 MINARET name → 1973 closure → Church Committee investigation.",
+      "sourceRefs": [
+        "NSA_INVESTIGATIONS",
+        "CHURCH_OVERVIEW"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-minaret__minaret-v02__ko.png",
+          "sha256": "efdd583d0b31592638e53983a438bf3f66c108eb5d20b458c36c1411f6c7847a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-minaret__minaret-v02__en.png",
+          "sha256": "ee34b35e5443b8eaf563c6784f064c48b05a944ed4b2224c17b5783f186f4dac",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "minaret-v03",
+      "role": "OVERSIGHT_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "정보요구·수집·법률검토·의회감독의 층위를 분리.",
+      "captionEn": "Separate intelligence demand, collection, legal review, and congressional oversight.",
+      "altKo": "정보요구·수집·법률검토·의회감독의 층위를 분리.",
+      "altEn": "Separate intelligence demand, collection, legal review, and congressional oversight.",
+      "sourceRefs": [
+        "NSA_COLDWAR_III",
+        "CHURCH_OVERVIEW"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-minaret__minaret-v03__ko.png",
+          "sha256": "807aaca85c9afb57629093cbfc6dbbb0d4012be9bb546130ee120672405fabf6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-minaret__minaret-v03__en.png",
+          "sha256": "8addbadf563593193c7ac776f09afb23a9aa28e68712a134412aed9fe8ff0844",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "minaret-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "프로그램의 실재와 개별 감시의 법적 성격을 구분.",
+      "captionEn": "Separate documented program operation from blanket legal claims about individuals.",
+      "altKo": "프로그램의 실재와 개별 감시의 법적 성격을 구분.",
+      "altEn": "Separate documented program operation from blanket legal claims about individuals.",
+      "sourceRefs": [
+        "NSA_INVESTIGATIONS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-minaret__minaret-v04__ko.png",
+          "sha256": "60f9295aee355649d7b90ad216d031ef594fae40915fa2a755fa088774fb726a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-minaret__minaret-v04__en.png",
+          "sha256": "19e906a26a35dbec6c9bda911cb2d1fc0801344db9ba76ec3d5ee590239ee0cb",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Surveillance History",
+      "Civil Liberties"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [
+      {
+        "name": "Lew Allen",
+        "role": "NSA director who ended the program"
+      }
+    ],
+    "organizations": [
+      "National Security Agency",
+      "United States Senate Church Committee"
+    ],
+    "dateRange": {
+      "start": "1960s",
+      "end": "1973",
+      "precision": "program evolution through closure"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_DOCUMENTED_LEGAL_AND_OVERSIGHT_CONTROVERSY_DOCUMENTED",
+    "searchAliases": [
+      "Project MINARET",
+      "NSA MINARET",
+      "NSA watch list"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1628,
+    "enBodyWords": 464,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

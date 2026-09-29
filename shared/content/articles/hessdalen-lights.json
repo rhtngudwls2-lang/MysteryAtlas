@@ -1,0 +1,427 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "hessdalen-lights",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "헤스달렌 라이트",
+    "canonicalTitleEn": "Hessdalen Lights",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SCIENCE_NATURE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사진만 있는 UFO 이야기가 아니다—헤스달렌에서는 장비가 반복 발광현상을 기록했다",
+      "hook": "현상의 일부는 계측됐다. 그러나 모든 목격을 설명하는 하나의 생성 메커니즘도, 외계기체라는 결론도 확정되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1981~1985년 노르웨이의 작은 계곡에서 발광현상 보고가 급증했다",
+          "headingEn": "Reports Surged in a Small Norwegian Valley in the Early 1980s",
+          "textKo": "노르웨이 Hessdalen 계곡에서는 1981년부터 1985년 사이 공중의 밝은 빛을 봤다는 보고가 급증했다. 보고는 정지한 밝은 점, 이동하는 빛, 짧은 섬광처럼 서로 다른 형태를 포함했다. 현상을 단순 목격담에 두지 않기 위해 1983년 Project Hessdalen이 조직됐고, 1984년 현장 캠페인에서는 카메라·레이더·자기장 측정 등 여러 장비가 배치됐다. 이 점이 Hessdalen을 일반적인 “한 번 본 이상한 빛” 사건과 구분한다.",
+          "textEn": "In Norway’s Hessdalen valley, reports of unusual aerial lights increased sharply between 1981 and 1985. Descriptions ranged from stationary bright objects to moving lights and short flashes. To move beyond eyewitness testimony, Project Hessdalen was organized in 1983 and deployed cameras, radar, magnetic-field instruments, and other equipment during a 1984 field campaign. That effort distinguishes Hessdalen from a single anecdotal sighting."
+        },
+        {
+          "blockId": "1984-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1984년 캠페인은 53회의 발광현상을 기록했다",
+          "headingEn": "The 1984 Campaign Logged 53 Luminous Observations",
+          "textKo": "Project Hessdalen의 1984 최종 기술보고서는 현장 기간에 53회의 관측을 기록한다. 일부 이벤트는 사진과 육안관측이 함께 있었고, 일부는 레이더나 다른 장비의 기록과 연결됐다. 하지만 모든 사건이 동일한 센서조합으로 포착된 것은 아니며, 장비의 오탐과 정상 항공·천문현상을 구분하는 문제도 남았다. “계측됐다”는 말은 중요한 진전이지만 “정체가 밝혀졌다”와 같은 말은 아니다.",
+          "textEn": "Project Hessdalen’s 1984 technical report records 53 observations during the field campaign. Some events combined visual or photographic observations with radar or other measurements, but not every event was captured by the same set of sensors. False positives and ordinary aircraft or astronomical sources also had to be separated from genuinely unexplained events. Instrumentation strengthens the evidence that something was observed; it does not by itself identify the phenomenon."
+        },
+        {
+          "blockId": "bluebox-03",
+          "type": "BACKGROUND",
+          "headingKo": "1998년 자동관측소 설치로 단기 캠페인에서 장기 모니터링으로 바뀌었다",
+          "headingEn": "The 1998 Blue Box Shifted the Project Toward Long-Term Monitoring",
+          "textKo": "Project Hessdalen은 1998년 이른바 Blue Box 자동관측소를 설치해 사람이 계속 현장에 있지 않아도 카메라와 센서로 이상현상을 감시할 수 있게 했다. 이 장기기록의 의미는 “매일 같은 미지물체가 나타난다”는 것이 아니라, 드문 현상을 통계와 센서자료로 다룰 기반이 생겼다는 데 있다. 목격 빈도는 1980년대 초의 급증 이후 크게 줄었지만 관측은 이어졌다.",
+          "textEn": "In 1998 Project Hessdalen installed the automated “Blue Box” station so cameras and sensors could monitor the valley without continuous human presence. The value of long-term monitoring is not that the same mysterious object appears every day, but that rare events can be treated as a dataset rather than isolated anecdotes. Reported frequency declined after the early-1980s peak, yet monitoring continued."
+        },
+        {
+          "blockId": "mechanisms-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "지질·대기·플라스마·연소 등 여러 자연 메커니즘이 제안됐다",
+          "headingEn": "Geological, Atmospheric, Plasma, and Combustion Mechanisms Have Been Proposed",
+          "textKo": "Hessdalen 연구는 계곡의 광물학·지질, 대기조건, 전자기 현상과 발광 플라스마 가능성을 포함한 여러 자연 메커니즘을 검토해 왔다. 2024년 Journal of Applied Geophysics 연구도 지질·광물·전자기·저층대기 상호작용을 가능한 생성요인으로 다룬다. 문제는 후보 메커니즘이 존재하는 것과 특정 관측 하나의 원인이 확인된 것은 다르다는 점이다. 서로 다른 유형의 빛이 한 원인에서 나오지 않을 수도 있다.",
+          "textEn": "Hessdalen research has examined mineralogy, geology, atmospheric conditions, electromagnetic effects, plasma-like phenomena, and other natural mechanisms. A 2024 Journal of Applied Geophysics study considered interactions among geology, minerals, electromagnetism, and the lower atmosphere as possible contributors. The existence of plausible mechanisms is not the same as identifying the cause of a particular event, and different classes of lights may not share one origin."
+        },
+        {
+          "blockId": "ufo-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“설명되지 않음”은 외계기체 판정이 아니다",
+          "headingEn": "“Unexplained” Is Not a Finding of Extraterrestrial Craft",
+          "textKo": "Hessdalen이 UFO 문화에서 유명해진 이유는 일부 사건이 정상 항공기나 별빛만으로 쉽게 설명되지 않았기 때문이다. 그러나 프로젝트의 계측기록에는 외계기술을 직접 나타내는 재료, 통신, 구조 영상이 없다. 자연 메커니즘이 완전히 합의되지 않았다는 사실을 곧바로 외계기체 증거로 바꾸는 것은 증거단계를 건너뛰는 일이다. 가장 정확한 표현은 “반복 관측된 비정상 발광현상 중 일부의 생성원리가 아직 열려 있다”에 가깝다.",
+          "textEn": "Hessdalen became famous in UFO culture because some events were not easily reduced to ordinary aircraft or stars. Yet the project’s instrumental record contains no material sample, communication signal, or resolved structure that directly demonstrates extraterrestrial technology. Turning the absence of one agreed natural mechanism into evidence of alien craft skips an evidentiary step. A more accurate description is that some recurrent luminous phenomena have been measured while their generating mechanism remains open."
+        },
+        {
+          "blockId": "method-06",
+          "type": "AFTERMATH",
+          "headingKo": "헤스달렌의 가치는 “정답”보다 오래 측정하는 방법에 있다",
+          "headingEn": "Hessdalen’s Value Lies as Much in Method as in a Final Answer",
+          "textKo": "Hessdalen은 이상현상을 다룰 때 목격담, 사진, 레이더, 환경센서와 장기 모니터링을 함께 써야 한다는 사례가 됐다. 단일 영상 한 장보다 여러 센서가 같은 시간·위치를 기록할수록 가능한 설명을 좁힐 수 있다. 동시에 장기 관측에서는 데이터 품질, 센서오류, 항공·천문 데이터 대조가 필수다. 이 사건은 미스터리를 흥미롭게 유지하면서도 “모른다”를 측정 가능한 질문으로 바꾸는 방법을 보여준다.",
+          "textEn": "Hessdalen became a case study in how anomalous phenomena can be studied with eyewitness reports, photography, radar, environmental sensors, and long-term monitoring together. Multiple independent sensors observing the same time and location can narrow explanations far more effectively than a single image. Long-term work also demands careful handling of sensor error and comparison with aviation and astronomical data. The project’s significance lies partly in turning “unknown” into a measurable research question."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Hessdalen의 일부 발광현상은 1984년 캠페인과 이후 자동관측에서 반복적으로 기록·계측됐으며 프로젝트 자체와 관측자료는 실재한다.\n\n확인되지 않음: 모든 Hessdalen 목격이 동일한 생성 메커니즘을 가진다는 결론, 특정 자연가설이 모든 사례를 설명한다는 결론, 외계기체라는 결론은 확립되지 않았다.",
+          "textEn": "Established: Some Hessdalen luminous events were repeatedly recorded and measured during the 1984 campaign and later monitoring; the project and its datasets are real.\n\nNot established: It has not been shown that all Hessdalen sightings share one mechanism, that any single natural hypothesis explains every case, or that the lights are extraterrestrial craft."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Hessdalen의 일부 발광현상은 1984년 캠페인과 이후 자동관측에서 반복적으로 기록·계측됐으며 프로젝트 자체와 관측자료는 실재한다.",
+        "notEstablished": "확인되지 않음: 모든 Hessdalen 목격이 동일한 생성 메커니즘을 가진다는 결론, 특정 자연가설이 모든 사례를 설명한다는 결론, 외계기체라는 결론은 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "1984-02",
+        "bluebox-03",
+        "mechanisms-04",
+        "ufo-05",
+        "method-06"
+      ]
+    },
+    "en": {
+      "headline": "This Is Not Only a UFO Story—In Hessdalen, Instruments Repeatedly Recorded Luminous Events",
+      "hook": "Some events were instrumentally recorded. No single mechanism explains every sighting, and extraterrestrial craft have not been established.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1981~1985년 노르웨이의 작은 계곡에서 발광현상 보고가 급증했다",
+          "headingEn": "Reports Surged in a Small Norwegian Valley in the Early 1980s",
+          "textKo": "노르웨이 Hessdalen 계곡에서는 1981년부터 1985년 사이 공중의 밝은 빛을 봤다는 보고가 급증했다. 보고는 정지한 밝은 점, 이동하는 빛, 짧은 섬광처럼 서로 다른 형태를 포함했다. 현상을 단순 목격담에 두지 않기 위해 1983년 Project Hessdalen이 조직됐고, 1984년 현장 캠페인에서는 카메라·레이더·자기장 측정 등 여러 장비가 배치됐다. 이 점이 Hessdalen을 일반적인 “한 번 본 이상한 빛” 사건과 구분한다.",
+          "textEn": "In Norway’s Hessdalen valley, reports of unusual aerial lights increased sharply between 1981 and 1985. Descriptions ranged from stationary bright objects to moving lights and short flashes. To move beyond eyewitness testimony, Project Hessdalen was organized in 1983 and deployed cameras, radar, magnetic-field instruments, and other equipment during a 1984 field campaign. That effort distinguishes Hessdalen from a single anecdotal sighting."
+        },
+        {
+          "blockId": "1984-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "1984년 캠페인은 53회의 발광현상을 기록했다",
+          "headingEn": "The 1984 Campaign Logged 53 Luminous Observations",
+          "textKo": "Project Hessdalen의 1984 최종 기술보고서는 현장 기간에 53회의 관측을 기록한다. 일부 이벤트는 사진과 육안관측이 함께 있었고, 일부는 레이더나 다른 장비의 기록과 연결됐다. 하지만 모든 사건이 동일한 센서조합으로 포착된 것은 아니며, 장비의 오탐과 정상 항공·천문현상을 구분하는 문제도 남았다. “계측됐다”는 말은 중요한 진전이지만 “정체가 밝혀졌다”와 같은 말은 아니다.",
+          "textEn": "Project Hessdalen’s 1984 technical report records 53 observations during the field campaign. Some events combined visual or photographic observations with radar or other measurements, but not every event was captured by the same set of sensors. False positives and ordinary aircraft or astronomical sources also had to be separated from genuinely unexplained events. Instrumentation strengthens the evidence that something was observed; it does not by itself identify the phenomenon."
+        },
+        {
+          "blockId": "bluebox-03",
+          "type": "BACKGROUND",
+          "headingKo": "1998년 자동관측소 설치로 단기 캠페인에서 장기 모니터링으로 바뀌었다",
+          "headingEn": "The 1998 Blue Box Shifted the Project Toward Long-Term Monitoring",
+          "textKo": "Project Hessdalen은 1998년 이른바 Blue Box 자동관측소를 설치해 사람이 계속 현장에 있지 않아도 카메라와 센서로 이상현상을 감시할 수 있게 했다. 이 장기기록의 의미는 “매일 같은 미지물체가 나타난다”는 것이 아니라, 드문 현상을 통계와 센서자료로 다룰 기반이 생겼다는 데 있다. 목격 빈도는 1980년대 초의 급증 이후 크게 줄었지만 관측은 이어졌다.",
+          "textEn": "In 1998 Project Hessdalen installed the automated “Blue Box” station so cameras and sensors could monitor the valley without continuous human presence. The value of long-term monitoring is not that the same mysterious object appears every day, but that rare events can be treated as a dataset rather than isolated anecdotes. Reported frequency declined after the early-1980s peak, yet monitoring continued."
+        },
+        {
+          "blockId": "mechanisms-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "지질·대기·플라스마·연소 등 여러 자연 메커니즘이 제안됐다",
+          "headingEn": "Geological, Atmospheric, Plasma, and Combustion Mechanisms Have Been Proposed",
+          "textKo": "Hessdalen 연구는 계곡의 광물학·지질, 대기조건, 전자기 현상과 발광 플라스마 가능성을 포함한 여러 자연 메커니즘을 검토해 왔다. 2024년 Journal of Applied Geophysics 연구도 지질·광물·전자기·저층대기 상호작용을 가능한 생성요인으로 다룬다. 문제는 후보 메커니즘이 존재하는 것과 특정 관측 하나의 원인이 확인된 것은 다르다는 점이다. 서로 다른 유형의 빛이 한 원인에서 나오지 않을 수도 있다.",
+          "textEn": "Hessdalen research has examined mineralogy, geology, atmospheric conditions, electromagnetic effects, plasma-like phenomena, and other natural mechanisms. A 2024 Journal of Applied Geophysics study considered interactions among geology, minerals, electromagnetism, and the lower atmosphere as possible contributors. The existence of plausible mechanisms is not the same as identifying the cause of a particular event, and different classes of lights may not share one origin."
+        },
+        {
+          "blockId": "ufo-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“설명되지 않음”은 외계기체 판정이 아니다",
+          "headingEn": "“Unexplained” Is Not a Finding of Extraterrestrial Craft",
+          "textKo": "Hessdalen이 UFO 문화에서 유명해진 이유는 일부 사건이 정상 항공기나 별빛만으로 쉽게 설명되지 않았기 때문이다. 그러나 프로젝트의 계측기록에는 외계기술을 직접 나타내는 재료, 통신, 구조 영상이 없다. 자연 메커니즘이 완전히 합의되지 않았다는 사실을 곧바로 외계기체 증거로 바꾸는 것은 증거단계를 건너뛰는 일이다. 가장 정확한 표현은 “반복 관측된 비정상 발광현상 중 일부의 생성원리가 아직 열려 있다”에 가깝다.",
+          "textEn": "Hessdalen became famous in UFO culture because some events were not easily reduced to ordinary aircraft or stars. Yet the project’s instrumental record contains no material sample, communication signal, or resolved structure that directly demonstrates extraterrestrial technology. Turning the absence of one agreed natural mechanism into evidence of alien craft skips an evidentiary step. A more accurate description is that some recurrent luminous phenomena have been measured while their generating mechanism remains open."
+        },
+        {
+          "blockId": "method-06",
+          "type": "AFTERMATH",
+          "headingKo": "헤스달렌의 가치는 “정답”보다 오래 측정하는 방법에 있다",
+          "headingEn": "Hessdalen’s Value Lies as Much in Method as in a Final Answer",
+          "textKo": "Hessdalen은 이상현상을 다룰 때 목격담, 사진, 레이더, 환경센서와 장기 모니터링을 함께 써야 한다는 사례가 됐다. 단일 영상 한 장보다 여러 센서가 같은 시간·위치를 기록할수록 가능한 설명을 좁힐 수 있다. 동시에 장기 관측에서는 데이터 품질, 센서오류, 항공·천문 데이터 대조가 필수다. 이 사건은 미스터리를 흥미롭게 유지하면서도 “모른다”를 측정 가능한 질문으로 바꾸는 방법을 보여준다.",
+          "textEn": "Hessdalen became a case study in how anomalous phenomena can be studied with eyewitness reports, photography, radar, environmental sensors, and long-term monitoring together. Multiple independent sensors observing the same time and location can narrow explanations far more effectively than a single image. Long-term work also demands careful handling of sensor error and comparison with aviation and astronomical data. The project’s significance lies partly in turning “unknown” into a measurable research question."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Hessdalen의 일부 발광현상은 1984년 캠페인과 이후 자동관측에서 반복적으로 기록·계측됐으며 프로젝트 자체와 관측자료는 실재한다.\n\n확인되지 않음: 모든 Hessdalen 목격이 동일한 생성 메커니즘을 가진다는 결론, 특정 자연가설이 모든 사례를 설명한다는 결론, 외계기체라는 결론은 확립되지 않았다.",
+          "textEn": "Established: Some Hessdalen luminous events were repeatedly recorded and measured during the 1984 campaign and later monitoring; the project and its datasets are real.\n\nNot established: It has not been shown that all Hessdalen sightings share one mechanism, that any single natural hypothesis explains every case, or that the lights are extraterrestrial craft."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Some Hessdalen luminous events were repeatedly recorded and measured during the 1984 campaign and later monitoring; the project and its datasets are real.",
+        "notEstablished": "Not established: It has not been shown that all Hessdalen sightings share one mechanism, that any single natural hypothesis explains every case, or that the lights are extraterrestrial craft."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "1984-02",
+        "bluebox-03",
+        "mechanisms-04",
+        "ufo-05",
+        "method-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HES-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1984년 현장 캠페인은 53회의 발광현상 관측을 기록했다.",
+      "statementEn": "The 1984 field campaign recorded 53 luminous observations.",
+      "sourceRefs": [
+        "HESSDALEN_1984"
+      ]
+    },
+    {
+      "claimId": "HES-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1998년 자동관측소 Blue Box가 설치됐다.",
+      "statementEn": "The automated Blue Box observation station was installed in 1998.",
+      "sourceRefs": [
+        "HESSDALEN_ABOUT"
+      ]
+    },
+    {
+      "claimId": "HES-C3",
+      "status": "UNRESOLVED",
+      "statementKo": "단일 생성 메커니즘은 확정되지 않았다.",
+      "statementEn": "No single generating mechanism has been established.",
+      "sourceRefs": [
+        "HESSDALEN_1984",
+        "HESSDALEN_JAG2024"
+      ]
+    },
+    {
+      "claimId": "HES-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "외계기체라는 결론은 계측자료로 확립되지 않았다.",
+      "statementEn": "Extraterrestrial craft have not been established by the instrumental record.",
+      "sourceRefs": [
+        "HESSDALEN_1984",
+        "HESSDALEN_JAG2024"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HESSDALEN_1984",
+      "title": "Project Hessdalen — Final Technical Report 1984",
+      "publisher": "Project Hessdalen",
+      "url": "https://old.hessdalen.org/reports/hpreport84.shtml",
+      "sourceType": "PRIMARY_PROJECT_REPORT"
+    },
+    {
+      "sourceId": "HESSDALEN_ABOUT",
+      "title": "Project Hessdalen — About",
+      "publisher": "Project Hessdalen",
+      "url": "https://www.hessdalen.org/about",
+      "sourceType": "PRIMARY_PROJECT_HISTORY"
+    },
+    {
+      "sourceId": "HESSDALEN_JAG2024",
+      "title": "Journal of Applied Geophysics 2024 Hessdalen study",
+      "publisher": "Journal of Applied Geophysics",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0926985124001149",
+      "sourceType": "PEER_REVIEWED_JOURNAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "hess-v01",
+      "role": "OBSERVATION_TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1981~85 보고 급증 → 1983 프로젝트 → 1984 캠페인 → 1998 Blue Box.",
+      "captionEn": "1981–85 surge → 1983 project → 1984 campaign → 1998 Blue Box.",
+      "altKo": "1981~85 보고 급증 → 1983 프로젝트 → 1984 캠페인 → 1998 Blue Box.",
+      "altEn": "1981–85 surge → 1983 project → 1984 campaign → 1998 Blue Box.",
+      "sourceRefs": [
+        "HESSDALEN_1984",
+        "HESSDALEN_ABOUT"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hessdalen-lights__hess-v01__ko.png",
+          "sha256": "3e64b81c438feab6d85de3828e3ab4b53dad1ba6ab05d89ef0f91fbba29fb32d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hessdalen-lights__hess-v01__en.png",
+          "sha256": "df9c8ffe8814b052e3de4fe418a102db54d9db287983d81ec11f105313d5426b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hess-v02",
+      "role": "SENSOR_LAYER",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "육안·카메라·레이더·자기장·환경센서의 증거층을 분리.",
+      "captionEn": "Separate visual, camera, radar, magnetic, and environmental sensor layers.",
+      "altKo": "육안·카메라·레이더·자기장·환경센서의 증거층을 분리.",
+      "altEn": "Separate visual, camera, radar, magnetic, and environmental sensor layers.",
+      "sourceRefs": [
+        "HESSDALEN_1984"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hessdalen-lights__hess-v02__ko.png",
+          "sha256": "bf0c4cbc84555efb5136cddcaade91176ea7ac832501e2e9715349cd258bb349",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hessdalen-lights__hess-v02__en.png",
+          "sha256": "46ac3aa63a821d861cd093d6de14709e1220386e8627753186706e74290d08f8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hess-v03",
+      "role": "HYPOTHESIS_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "지질·대기·전자기·플라스마 후보를 “확정원인”과 구분.",
+      "captionEn": "Compare geological, atmospheric, electromagnetic, and plasma hypotheses without treating them as settled causes.",
+      "altKo": "지질·대기·전자기·플라스마 후보를 “확정원인”과 구분.",
+      "altEn": "Compare geological, atmospheric, electromagnetic, and plasma hypotheses without treating them as settled causes.",
+      "sourceRefs": [
+        "HESSDALEN_JAG2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hessdalen-lights__hess-v03__ko.png",
+          "sha256": "665063bb8697ba4ee1c6a655bdef3776f55b2fcff859693f6da758ca0e0db18c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hessdalen-lights__hess-v03__en.png",
+          "sha256": "6a77d5d603ddad49e2098718dbdee6b75ebefdd357f12029d084618473493d60",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "hess-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "계측된 발광현상과 미확정 원인을 분리.",
+      "captionEn": "Separate measured luminous events from unresolved causation.",
+      "altKo": "계측된 발광현상과 미확정 원인을 분리.",
+      "altEn": "Separate measured luminous events from unresolved causation.",
+      "sourceRefs": [
+        "HESSDALEN_1984"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "hessdalen-lights__hess-v04__ko.png",
+          "sha256": "713063d44954b0354413b85cdf3517340bef61b50f26544d8b1fb74a0eaec7ee",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "hessdalen-lights__hess-v04__en.png",
+          "sha256": "b0e3ff4b79ce76539ef07fcb1d6b1d69a2616621aa64d44172be53f58255a09a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Atmospheric Phenomena",
+      "UAP / Aerial Anomaly"
+    ],
+    "countries": [
+      "Norway"
+    ],
+    "regions": [
+      "Trøndelag"
+    ],
+    "places": [
+      {
+        "name": "Hessdalen valley",
+        "role": "observation region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Project Hessdalen"
+    ],
+    "dateRange": {
+      "start": "1981",
+      "end": "2024",
+      "precision": "sighting surge through cited modern study"
+    },
+    "era": "modern observational science",
+    "resolution": "RECURRENT_MEASURED_PHENOMENON_MECHANISM_UNRESOLVED",
+    "searchAliases": [
+      "Hessdalen Lights",
+      "Project Hessdalen",
+      "Blue Box"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1554,
+    "enBodyWords": 451,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

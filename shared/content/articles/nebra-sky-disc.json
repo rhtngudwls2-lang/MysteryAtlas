@@ -1,0 +1,360 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "nebra-sky-disc",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "네브라 스카이 디스크",
+    "canonicalTitleEn": "Nebra Sky Disc",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "ARCHAEOLOGY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "별과 달이 박힌 청동 원판—확실한 것은 유물이고, 남은 질문은 그것을 어떻게 읽었는가다",
+      "hook": "진위와 청동기시대 맥락은 확립됐다. 달력·항해·의례 가운데 어느 기능이 중심이었는지는 해석이 남는다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "땅속에서 나온 원판은 단순한 장식품보다 훨씬 복잡했다",
+          "headingEn": "A Buried Disc Proved More Complex Than Decoration",
+          "textKo": "네브라 스카이 디스크는 청동 원판 위에 금박으로 둥근 천체, 초승달, 별 무리와 양쪽의 호가 배치된 유물이다. 현재의 고고학적 연구와 재료 분석은 이 물체가 근대 위조품이 아니라 청동기시대 중부 유럽의 물질문화에 속한다는 점을 강하게 지지한다. UNESCO Memory of the World는 이 유물을 천체현상을 구체적으로 시각화한 가장 이른 사례 가운데 하나로 소개한다. 미스터리는 물체의 존재가 아니라, 당대 사람들이 이 도상을 실제로 어떻게 사용하고 이해했는가에 있다.",
+          "textEn": "The Nebra Sky Disc is a bronze disc decorated with gold representations of a round celestial body, a crescent, stars, and curved horizon-like bands. Archaeological and materials research strongly places it in Bronze Age central Europe rather than among modern forgeries. UNESCO’s Memory of the World program presents it as one of the earliest known concrete depictions of celestial phenomena. The mystery is no longer whether the object exists, but how people of its time interpreted and used its imagery."
+        },
+        {
+          "blockId": "context-02",
+          "type": "BACKGROUND",
+          "headingKo": "유물은 단독으로 읽는 그림책이 아니라 매장맥락과 함께 해석된다",
+          "headingEn": "Its Meaning Comes From Context, Not the Picture Alone",
+          "textKo": "디스크의 의미를 읽을 때 도상의 모양만 보는 것은 부족하다. 함께 발견된 무기와 장신구, 금속의 제작기술, 지역의 청동기시대 매장 관행과 연대가 해석의 경계를 만든다. 그래서 ‘별이 보이니 현대 천문지도와 같다’ 같은 직관만으로 기능을 단정할 수 없다. 고고학에서는 무엇과 함께 있었는지, 언제 만들어지고 수정됐는지, 어떤 사회가 사용했는지가 이미지 자체만큼 중요하다.",
+          "textEn": "Interpreting the disc requires more than matching its shapes to a modern sky chart. Associated objects, metalworking technology, burial practices, and chronology define the archaeological context. That is why visual resemblance alone cannot establish function. In archaeology, what an object was found with, when it was made or modified, and the society that used it matter as much as the image on its surface."
+        },
+        {
+          "blockId": "symbols-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "플레이아데스와 지평선 호 해석은 강력하지만 ‘사용 설명서’는 아니다",
+          "headingEn": "Pleiades and Horizon-Arc Readings Are Strong, but Not an Instruction Manual",
+          "textKo": "금점 가운데 일곱 개가 모인 부분은 플레이아데스로 해석되는 경우가 많고, 측면의 금호는 태양의 계절별 출몰 범위를 나타낸다는 설명이 널리 논의된다. 이런 해석은 실제 천문현상과 형태가 잘 맞는다는 장점이 있다. 그러나 유물에 글로 된 사용법이 남아 있지 않기 때문에, 그것이 관측도구였는지 지식의 상징이었는지 의례물인지까지 자동으로 결정되지는 않는다. 같은 도상이 실용적 지식과 권력·의례의 상징을 동시에 가졌을 가능성도 있다.",
+          "textEn": "A cluster of seven gold marks is often interpreted as the Pleiades, while the side arcs have been linked to the seasonal range of sunrise and sunset. These readings are attractive because the geometry maps plausibly onto real celestial phenomena. Yet no written instruction manual survives. The imagery therefore does not automatically tell us whether the disc was a measuring device, a symbolic display of knowledge, a ritual object, or some combination of these roles."
+        },
+        {
+          "blockId": "calendar-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "태양력과 음력을 맞추는 장치였다는 설명도 ‘가능한 기능’이다",
+          "headingEn": "The Solar–Lunar Calendar Idea Is a Plausible Function, Not a Closed Verdict",
+          "textKo": "디스크가 태양년과 달의 주기를 조정하는 지식을 표현했다는 설명은 널리 알려져 있다. 농경과 의례에서 계절을 맞추는 일은 중요했고, 하늘의 반복 패턴을 정리한 물체가 사회적 권위를 가졌을 가능성도 있다. 다만 한 물체의 도상만으로 실제 관측 절차와 운용 빈도를 복원하기는 어렵다. 그래서 현대 복원도에서 가능한 작동 방식을 보여주는 것과, 고대 사용자가 반드시 그렇게 운용했다고 말하는 것은 구분해야 한다.",
+          "textEn": "A widely discussed interpretation is that the disc embodied knowledge used to coordinate solar and lunar cycles. Seasonal timing mattered for farming and ritual, and control of astronomical knowledge could also carry social authority. But one decorated object cannot reconstruct every operational step or frequency of use. A modern reconstruction can demonstrate a plausible method without proving that ancient users necessarily followed that exact procedure."
+        },
+        {
+          "blockId": "meaning-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "정확히 해석되지 않았다고 해서 ‘미지의 초고도 기술’이 되는 것은 아니다",
+          "headingEn": "Uncertainty Does Not Turn It Into Unknown Super-Technology",
+          "textKo": "기능의 일부가 해석의 영역에 남아 있다는 사실은 종종 ‘고대인이 가질 수 없던 기술’이라는 이야기로 확대된다. 그러나 금속 제작과 천체 관찰이 청동기 사회에서 가능했다는 점 자체는 놀라운 예외가 아니다. 네브라 디스크가 특별한 이유는 복잡한 지식이 한 물체에 시각적으로 결합돼 보존됐기 때문이다. 정확한 상징의 의미를 모른다는 것과 제작기술 자체가 설명 불가능하다는 것은 전혀 다른 주장이다.",
+          "textEn": "The remaining interpretive uncertainty is sometimes inflated into claims of technology beyond Bronze Age capabilities. But metalworking and naked-eye sky observation were not impossible for Bronze Age societies. What makes the disc remarkable is the way complex knowledge appears to have been visually combined and preserved in a single object. Uncertainty about symbolic meaning is not the same as technological inexplicability."
+        },
+        {
+          "blockId": "knowledge-055",
+          "type": "AFTERMATH",
+          "headingKo": "이 유물의 핵심은 “현대 천문학을 알고 있었다”가 아니라 지식을 물체에 조직했다는 점이다",
+          "headingEn": "Its Importance Is Organized Sky Knowledge, Not Modern Astronomy in the Bronze Age",
+          "textKo": "네브라 디스크를 현대 천문교과서의 축소판으로 부르면 오히려 유물의 실제 가치를 놓친다. 청동기 사람들은 맨눈으로 계절에 따라 달라지는 태양의 위치와 달의 주기, 별무리의 출현을 여러 세대에 걸쳐 관찰할 수 있었다. 특별한 점은 그런 반복패턴을 금속 물체 위에 선택적으로 배치하고 보존했다는 데 있다. 이는 관찰지식이 특정 사람이나 집단의 의례·달력·권위와 연결됐을 가능성을 보여준다. 다만 그 사회적 역할을 문헌으로 직접 설명할 자료는 없으므로, 오늘날의 “과학기구”나 “종교상징” 한 단어로 고정하기보다 여러 기능이 겹쳤을 가능성을 남겨두는 편이 안전하다.",
+          "textEn": "Calling the Nebra disc a miniature modern astronomy textbook would miss its real significance. Bronze Age observers could track seasonal solar positions, lunar cycles, and recurring star patterns with the naked eye over generations. What is remarkable is that selected celestial relationships were organized and preserved on a crafted metal object. That may have linked observation with calendrical practice, ritual, or social authority. Because no explanatory text survives, it is safer to allow overlapping functions than to force the object into one modern category such as “scientific instrument” or “religious symbol.”"
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 네브라 스카이 디스크는 청동기시대 중부 유럽 맥락에 속하는 진품 유물이며, 금 도상은 천체현상과 강하게 연결된다.\n\n확인되지 않음: 각 상징의 정확한 사용법, 태양력·음력 조정이 실제 운용의 중심이었는지, 의례·정치적 의미가 어느 정도였는지는 완전히 확정되지 않았다.",
+          "textEn": "Established: The Nebra Sky Disc is an authentic artifact from a Bronze Age central European context, and its gold imagery is strongly connected with celestial phenomena.\n\nNot established: The exact use of every symbol, whether solar–lunar calendar coordination was its central operational purpose, and the full ritual or political meaning remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 네브라 스카이 디스크는 청동기시대 중부 유럽 맥락에 속하는 진품 유물이며, 금 도상은 천체현상과 강하게 연결된다.",
+        "notEstablished": "확인되지 않음: 각 상징의 정확한 사용법, 태양력·음력 조정이 실제 운용의 중심이었는지, 의례·정치적 의미가 어느 정도였는지는 완전히 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "context-02",
+        "symbols-03",
+        "calendar-04",
+        "meaning-05",
+        "knowledge-055"
+      ]
+    },
+    "en": {
+      "headline": "A Bronze Disc of Stars and Moon—The Artifact Is Real; Its Exact Reading Is Still Debated",
+      "hook": "Its authenticity and Bronze Age context are secure. Whether calendar, navigation, ritual, or several uses mattered most remains interpretive.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "땅속에서 나온 원판은 단순한 장식품보다 훨씬 복잡했다",
+          "headingEn": "A Buried Disc Proved More Complex Than Decoration",
+          "textKo": "네브라 스카이 디스크는 청동 원판 위에 금박으로 둥근 천체, 초승달, 별 무리와 양쪽의 호가 배치된 유물이다. 현재의 고고학적 연구와 재료 분석은 이 물체가 근대 위조품이 아니라 청동기시대 중부 유럽의 물질문화에 속한다는 점을 강하게 지지한다. UNESCO Memory of the World는 이 유물을 천체현상을 구체적으로 시각화한 가장 이른 사례 가운데 하나로 소개한다. 미스터리는 물체의 존재가 아니라, 당대 사람들이 이 도상을 실제로 어떻게 사용하고 이해했는가에 있다.",
+          "textEn": "The Nebra Sky Disc is a bronze disc decorated with gold representations of a round celestial body, a crescent, stars, and curved horizon-like bands. Archaeological and materials research strongly places it in Bronze Age central Europe rather than among modern forgeries. UNESCO’s Memory of the World program presents it as one of the earliest known concrete depictions of celestial phenomena. The mystery is no longer whether the object exists, but how people of its time interpreted and used its imagery."
+        },
+        {
+          "blockId": "context-02",
+          "type": "BACKGROUND",
+          "headingKo": "유물은 단독으로 읽는 그림책이 아니라 매장맥락과 함께 해석된다",
+          "headingEn": "Its Meaning Comes From Context, Not the Picture Alone",
+          "textKo": "디스크의 의미를 읽을 때 도상의 모양만 보는 것은 부족하다. 함께 발견된 무기와 장신구, 금속의 제작기술, 지역의 청동기시대 매장 관행과 연대가 해석의 경계를 만든다. 그래서 ‘별이 보이니 현대 천문지도와 같다’ 같은 직관만으로 기능을 단정할 수 없다. 고고학에서는 무엇과 함께 있었는지, 언제 만들어지고 수정됐는지, 어떤 사회가 사용했는지가 이미지 자체만큼 중요하다.",
+          "textEn": "Interpreting the disc requires more than matching its shapes to a modern sky chart. Associated objects, metalworking technology, burial practices, and chronology define the archaeological context. That is why visual resemblance alone cannot establish function. In archaeology, what an object was found with, when it was made or modified, and the society that used it matter as much as the image on its surface."
+        },
+        {
+          "blockId": "symbols-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "플레이아데스와 지평선 호 해석은 강력하지만 ‘사용 설명서’는 아니다",
+          "headingEn": "Pleiades and Horizon-Arc Readings Are Strong, but Not an Instruction Manual",
+          "textKo": "금점 가운데 일곱 개가 모인 부분은 플레이아데스로 해석되는 경우가 많고, 측면의 금호는 태양의 계절별 출몰 범위를 나타낸다는 설명이 널리 논의된다. 이런 해석은 실제 천문현상과 형태가 잘 맞는다는 장점이 있다. 그러나 유물에 글로 된 사용법이 남아 있지 않기 때문에, 그것이 관측도구였는지 지식의 상징이었는지 의례물인지까지 자동으로 결정되지는 않는다. 같은 도상이 실용적 지식과 권력·의례의 상징을 동시에 가졌을 가능성도 있다.",
+          "textEn": "A cluster of seven gold marks is often interpreted as the Pleiades, while the side arcs have been linked to the seasonal range of sunrise and sunset. These readings are attractive because the geometry maps plausibly onto real celestial phenomena. Yet no written instruction manual survives. The imagery therefore does not automatically tell us whether the disc was a measuring device, a symbolic display of knowledge, a ritual object, or some combination of these roles."
+        },
+        {
+          "blockId": "calendar-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "태양력과 음력을 맞추는 장치였다는 설명도 ‘가능한 기능’이다",
+          "headingEn": "The Solar–Lunar Calendar Idea Is a Plausible Function, Not a Closed Verdict",
+          "textKo": "디스크가 태양년과 달의 주기를 조정하는 지식을 표현했다는 설명은 널리 알려져 있다. 농경과 의례에서 계절을 맞추는 일은 중요했고, 하늘의 반복 패턴을 정리한 물체가 사회적 권위를 가졌을 가능성도 있다. 다만 한 물체의 도상만으로 실제 관측 절차와 운용 빈도를 복원하기는 어렵다. 그래서 현대 복원도에서 가능한 작동 방식을 보여주는 것과, 고대 사용자가 반드시 그렇게 운용했다고 말하는 것은 구분해야 한다.",
+          "textEn": "A widely discussed interpretation is that the disc embodied knowledge used to coordinate solar and lunar cycles. Seasonal timing mattered for farming and ritual, and control of astronomical knowledge could also carry social authority. But one decorated object cannot reconstruct every operational step or frequency of use. A modern reconstruction can demonstrate a plausible method without proving that ancient users necessarily followed that exact procedure."
+        },
+        {
+          "blockId": "meaning-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "정확히 해석되지 않았다고 해서 ‘미지의 초고도 기술’이 되는 것은 아니다",
+          "headingEn": "Uncertainty Does Not Turn It Into Unknown Super-Technology",
+          "textKo": "기능의 일부가 해석의 영역에 남아 있다는 사실은 종종 ‘고대인이 가질 수 없던 기술’이라는 이야기로 확대된다. 그러나 금속 제작과 천체 관찰이 청동기 사회에서 가능했다는 점 자체는 놀라운 예외가 아니다. 네브라 디스크가 특별한 이유는 복잡한 지식이 한 물체에 시각적으로 결합돼 보존됐기 때문이다. 정확한 상징의 의미를 모른다는 것과 제작기술 자체가 설명 불가능하다는 것은 전혀 다른 주장이다.",
+          "textEn": "The remaining interpretive uncertainty is sometimes inflated into claims of technology beyond Bronze Age capabilities. But metalworking and naked-eye sky observation were not impossible for Bronze Age societies. What makes the disc remarkable is the way complex knowledge appears to have been visually combined and preserved in a single object. Uncertainty about symbolic meaning is not the same as technological inexplicability."
+        },
+        {
+          "blockId": "knowledge-055",
+          "type": "AFTERMATH",
+          "headingKo": "이 유물의 핵심은 “현대 천문학을 알고 있었다”가 아니라 지식을 물체에 조직했다는 점이다",
+          "headingEn": "Its Importance Is Organized Sky Knowledge, Not Modern Astronomy in the Bronze Age",
+          "textKo": "네브라 디스크를 현대 천문교과서의 축소판으로 부르면 오히려 유물의 실제 가치를 놓친다. 청동기 사람들은 맨눈으로 계절에 따라 달라지는 태양의 위치와 달의 주기, 별무리의 출현을 여러 세대에 걸쳐 관찰할 수 있었다. 특별한 점은 그런 반복패턴을 금속 물체 위에 선택적으로 배치하고 보존했다는 데 있다. 이는 관찰지식이 특정 사람이나 집단의 의례·달력·권위와 연결됐을 가능성을 보여준다. 다만 그 사회적 역할을 문헌으로 직접 설명할 자료는 없으므로, 오늘날의 “과학기구”나 “종교상징” 한 단어로 고정하기보다 여러 기능이 겹쳤을 가능성을 남겨두는 편이 안전하다.",
+          "textEn": "Calling the Nebra disc a miniature modern astronomy textbook would miss its real significance. Bronze Age observers could track seasonal solar positions, lunar cycles, and recurring star patterns with the naked eye over generations. What is remarkable is that selected celestial relationships were organized and preserved on a crafted metal object. That may have linked observation with calendrical practice, ritual, or social authority. Because no explanatory text survives, it is safer to allow overlapping functions than to force the object into one modern category such as “scientific instrument” or “religious symbol.”"
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 네브라 스카이 디스크는 청동기시대 중부 유럽 맥락에 속하는 진품 유물이며, 금 도상은 천체현상과 강하게 연결된다.\n\n확인되지 않음: 각 상징의 정확한 사용법, 태양력·음력 조정이 실제 운용의 중심이었는지, 의례·정치적 의미가 어느 정도였는지는 완전히 확정되지 않았다.",
+          "textEn": "Established: The Nebra Sky Disc is an authentic artifact from a Bronze Age central European context, and its gold imagery is strongly connected with celestial phenomena.\n\nNot established: The exact use of every symbol, whether solar–lunar calendar coordination was its central operational purpose, and the full ritual or political meaning remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: The Nebra Sky Disc is an authentic artifact from a Bronze Age central European context, and its gold imagery is strongly connected with celestial phenomena.",
+        "notEstablished": "Not established: The exact use of every symbol, whether solar–lunar calendar coordination was its central operational purpose, and the full ritual or political meaning remain unresolved."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "context-02",
+        "symbols-03",
+        "calendar-04",
+        "meaning-05",
+        "knowledge-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "NEB-C1",
+      "status": "CONFIRMED",
+      "statementKo": "유물의 진위와 청동기시대 맥락은 확립돼 있다.",
+      "statementEn": "The artifact’s authenticity and Bronze Age context are established.",
+      "sourceRefs": [
+        "NEBRA_UNESCO"
+      ]
+    },
+    {
+      "claimId": "NEB-C2",
+      "status": "INTERPRETIVE",
+      "statementKo": "각 상징의 정확한 기능과 의례적 의미는 일부 해석의 영역이다.",
+      "statementEn": "The exact function and ritual meaning of individual symbols remain partly interpretive.",
+      "sourceRefs": [
+        "NEBRA_UNESCO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NEBRA_UNESCO",
+      "title": "Nebra Sky Disc",
+      "publisher": "UNESCO Memory of the World",
+      "url": "https://www.unesco.org/en/memory-world/nebra-sky-disc?hub=1081",
+      "sourceType": "INSTITUTIONAL_HERITAGE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "nebra-v01",
+      "role": "SYMBOL_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "금 원·초승달·별·측면 호를 “관찰된 형태 / 해석”으로 분리한 도식.",
+      "captionEn": "Diagram separating observed forms from their proposed interpretations.",
+      "altKo": "금 원·초승달·별·측면 호를 “관찰된 형태 / 해석”으로 분리한 도식.",
+      "altEn": "Diagram separating observed forms from their proposed interpretations.",
+      "sourceRefs": [
+        "NEBRA_UNESCO"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nebra-sky-disc__nebra-v01__ko.png",
+          "sha256": "0d332807ccbb21ff302e0026dec0e523ec69c2bba2a230e52e3025e0812f90a8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nebra-sky-disc__nebra-v01__en.png",
+          "sha256": "3903f6cb0987e5bc3a0b2404b007783db0478bd8ec5d50d346a54b666de837ca",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "nebra-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "제작·수정·매장·현대 발견과 연구를 개념적으로 정리.",
+      "captionEn": "Conceptual timeline of manufacture, modification, deposition, discovery, and study.",
+      "altKo": "제작·수정·매장·현대 발견과 연구를 개념적으로 정리.",
+      "altEn": "Conceptual timeline of manufacture, modification, deposition, discovery, and study.",
+      "sourceRefs": [
+        "NEBRA_UNESCO"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nebra-sky-disc__nebra-v02__ko.png",
+          "sha256": "1ebea38cd82e7ecd6bc1a49ff87f25ad4e52517fb9af8c1750738a58dfa45453",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nebra-sky-disc__nebra-v02__en.png",
+          "sha256": "a5dbf414d20b88e9bc86e3c245ba35c556ce77cf8b0a734923faddc479060ac3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "nebra-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "진위·시대는 확정, 정확한 운용법은 미확정으로 분리.",
+      "captionEn": "Separate established authenticity/context from unresolved exact operation.",
+      "altKo": "진위·시대는 확정, 정확한 운용법은 미확정으로 분리.",
+      "altEn": "Separate established authenticity/context from unresolved exact operation.",
+      "sourceRefs": [
+        "NEBRA_UNESCO"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "nebra-sky-disc__nebra-v03__ko.png",
+          "sha256": "60c1a398fb11a93c00ab38f90be5be86714163a2e73725c47445b3bd990c2653",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "nebra-sky-disc__nebra-v03__en.png",
+          "sha256": "07db0cbc1a7fe6d41338954c793e8fc3d775978472c206b798158e0584d3f98d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Ancient Astronomy",
+      "Artifact Interpretation"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "regions": [
+      "Saxony-Anhalt"
+    ],
+    "places": [
+      {
+        "name": "Nebra",
+        "role": "discovery region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "UNESCO"
+    ],
+    "dateRange": {
+      "start": "-1800",
+      "end": "-1600",
+      "precision": "approximate Bronze Age use/deposition context"
+    },
+    "era": "Bronze Age",
+    "resolution": "AUTHENTIC_ARTIFACT_EXACT_FUNCTION_PARTLY_INTERPRETIVE",
+    "searchAliases": [
+      "Nebra Sky Disc",
+      "Nebra celestial disc"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1623,
+    "enBodyWords": 488,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

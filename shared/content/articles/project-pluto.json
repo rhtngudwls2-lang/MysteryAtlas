@@ -1,0 +1,427 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-pluto",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Project Pluto",
+    "canonicalTitleEn": "Project Pluto",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_TECH_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "원자로를 제트엔진처럼 쓰려 한 실제 계획—Pluto는 지상시험까지 갔지만 비행하지 않았다",
+      "hook": "Tory 원자로는 실제로 가동됐다. 그러나 핵추진 SLAM 순항미사일은 운용무기가 되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1957년, 공군과 원자력위원회는 핵 램제트의 가능성을 본격 연구했다",
+          "headingEn": "In 1957, the Air Force and Atomic Energy Commission Began a Nuclear-Ramjet Program",
+          "textKo": "Project Pluto는 냉전기의 상상 속 무기가 아니라 미국 공군과 원자력위원회가 실제 추진한 연구개발 프로그램이었다. Nevada National Security Site의 역사자료에 따르면 1957년 Lawrence Radiation Laboratory가 핵반응로의 열을 ramjet 엔진에 직접 적용하는 가능성을 연구하도록 선정됐다. 목표는 대기를 흡입하고 원자로로 직접 가열해 고속으로 분사함으로써 추력을 얻는 엔진이었다. 별도의 연료 연소 없이 핵열을 공기 흐름에 전달한다는 점이 핵심이었다.",
+          "textEn": "Project Pluto was not merely a Cold War fantasy. It was an actual U.S. Air Force and Atomic Energy Commission research program. Nevada National Security Site histories state that in 1957 Lawrence Radiation Laboratory was selected to study using reactor heat directly in a ramjet engine. The concept drew in atmospheric air, heated it in a compact reactor, and expelled it at high speed to generate thrust. The defining idea was transferring nuclear heat directly to the airflow without conventional combustion."
+        },
+        {
+          "blockId": "site-02",
+          "type": "BACKGROUND",
+          "headingKo": "네바다 사막에는 실제 시험시설이 건설됐다",
+          "headingEn": "A Dedicated Nevada Test Complex Was Actually Built",
+          "textKo": "프로젝트는 Livermore에서 Nevada Test Site의 Jackass Flats로 옮겨졌고, 원자로 조립·제어 건물과 고온 압축공기 설비가 포함된 전용 시험장이 만들어졌다. 실제 비행을 하지 않고도 ramjet이 받는 공기흐름을 재현하기 위해 거대한 저장배관과 가열장치가 필요했다. 이 기반시설은 Pluto가 개념연구를 넘어 실물 원자로와 재료를 시험하는 단계까지 갔음을 보여준다.",
+          "textEn": "The project moved from Livermore to Jackass Flats at the Nevada Test Site, where a dedicated complex was built for reactor assembly, control, and high-temperature compressed-air testing. Enormous air-storage and heating systems were required to simulate ramjet airflow without flying the reactor. The infrastructure demonstrates that Pluto progressed well beyond a paper concept into full-scale reactor and materials testing."
+        },
+        {
+          "blockId": "tory-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1961년 Tory IIA가 가동되면서 핵 램제트는 지상에서 실제 추력을 냈다",
+          "headingEn": "Tory IIA Ran in 1961, Demonstrating Nuclear-Ramjet Operation on the Ground",
+          "textKo": "1961년 5월 14일 철도차량 위에 장착된 Tory IIA-1 원자로가 처음 가동됐다. 이후 더 강력한 Tory II-C가 시험됐고 전출력 운전도 수행됐다. 이 시험들은 핵 램제트 원리가 단순한 계산이 아니라 실제 고온·방사선 환경에서 작동할 수 있음을 보여줬다. 따라서 “Project Pluto는 전혀 만들어진 적 없는 허구”라는 말은 틀리다. 반대로 지상시험 성공을 완성된 미사일 비행과 같은 것으로 취급해서도 안 된다.",
+          "textEn": "On 14 May 1961, the rail-mounted Tory IIA-1 reactor ran for the first time. A more powerful Tory II-C followed, including a full-power run. These tests showed that a nuclear ramjet could operate under extreme temperature and radiation conditions. It is therefore wrong to describe Project Pluto as a purely imaginary weapon. But successful ground reactor tests are also not equivalent to a completed missile flight program."
+        },
+        {
+          "blockId": "slam-04",
+          "type": "BACKGROUND",
+          "headingKo": "Pluto 엔진은 SLAM이라는 장거리 초음속 순항미사일 구상과 연결됐다",
+          "headingEn": "The Pluto Engine Was Linked to the SLAM Supersonic Cruise-Missile Concept",
+          "textKo": "Pluto의 원자로는 흔히 SLAM(Supersonic Low-Altitude Missile) 개념과 연결된다. 낮은 고도로 매우 빠르게 장거리를 비행하는 핵추진 순항미사일을 상정했고, 장거리 운용에 필요한 엔진 수명과 소형화가 핵심 기술문제였다. 그러나 미사일 전체가 완성돼 비행한 단계까지는 가지 않았다. Project Pluto의 실제 성과는 Tory 계열 지상 원자로와 재료·제어 시험에 있었다.",
+          "textEn": "Pluto’s reactor work was closely associated with the SLAM (Supersonic Low-Altitude Missile) concept, which envisioned a nuclear-powered cruise missile capable of very long, fast, low-altitude flight. Reactor compactness, durability, controls, and materials were major technical challenges. The complete missile never reached a flight-test stage. Pluto’s demonstrated achievements remained the Tory ground reactors and their associated materials and control systems."
+        },
+        {
+          "blockId": "risks-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기술적으로 가능해지는 것과 군사적으로 쓸 만한 것은 달랐다",
+          "headingEn": "Technical Feasibility Did Not Make the Weapon Strategically Attractive",
+          "textKo": "NNSS 역사자료는 Pluto가 성공적인 시험에도 불구하고 심각한 운용문제를 안고 있었다고 정리한다. 핵반응로를 대기 중에서 직접 작동시키는 방식은 비행경로의 방사선·안전 문제를 일으킬 수 있었고, 같은 시기 대륙간탄도미사일 기술이 빠르게 발전했다. 더 단순하고 빠른 전략수단이 등장하면서 Pluto의 위험과 비용을 감수할 이유가 줄었다.",
+          "textEn": "NNSS historical material notes that Pluto faced serious operational problems despite successful tests. Directly operating a nuclear reactor in atmospheric flight raised radiation and safety concerns along the flight path, while intercontinental ballistic missiles were advancing rapidly. As simpler and faster strategic systems matured, the justification for accepting Pluto’s cost and risk weakened."
+        },
+        {
+          "blockId": "cancel-06",
+          "type": "AFTERMATH",
+          "headingKo": "1964년 취소는 “실패해서 아무것도 안 됐다”와도 다르다",
+          "headingEn": "The 1964 Cancellation Was Not the Same as “Nothing Worked”",
+          "textKo": "Project Pluto는 1964년 7월 1일 취소됐다. 이 결말을 단순한 기술 실패로만 설명하면 Tory 원자로가 실제 작동했다는 사실을 놓친다. 반대로 지상시험 성공만 강조해 “핵 순항미사일이 거의 배치됐다”고 말하면 개발단계를 과장한다. 프로그램은 핵 램제트의 실물 기술 가능성을 입증했지만, 무기체계 전체는 비행·배치 단계에 도달하지 못한 채 전략·안전·비용 환경의 변화 속에서 끝났다.",
+          "textEn": "Project Pluto was canceled on 1 July 1964. Calling the program a simple technical failure ignores the fact that Tory reactors operated successfully. Calling it an almost-deployed nuclear cruise missile exaggerates how far the weapon system progressed. Pluto demonstrated the engineering feasibility of a nuclear ramjet on the ground, but the full weapon never reached flight or deployment before strategic, safety, and cost considerations ended the effort."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Pluto는 실제 미국 핵 램제트 연구개발 프로그램이었고 Nevada Test Site에서 Tory IIA와 Tory II-C 계열 원자로의 실물 지상시험이 수행됐다.\n\n확인되지 않음: 핵추진 SLAM 미사일이 실제 비행시험 또는 작전 배치됐다는 주장은 사실이 아니다. 완성 무기체계는 배치 단계에 도달하지 못했다.",
+          "textEn": "Established: Project Pluto was a real U.S. nuclear-ramjet development program, and full-scale Tory-series reactor ground tests were conducted at the Nevada Test Site.\n\nNot established: A nuclear-powered SLAM missile was never flight-tested or operationally deployed; the complete weapon system did not reach deployment."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project Pluto는 실제 미국 핵 램제트 연구개발 프로그램이었고 Nevada Test Site에서 Tory IIA와 Tory II-C 계열 원자로의 실물 지상시험이 수행됐다.",
+        "notEstablished": "확인되지 않음: 핵추진 SLAM 미사일이 실제 비행시험 또는 작전 배치됐다는 주장은 사실이 아니다. 완성 무기체계는 배치 단계에 도달하지 못했다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "site-02",
+        "tory-03",
+        "slam-04",
+        "risks-05",
+        "cancel-06"
+      ]
+    },
+    "en": {
+      "headline": "A Real Plan to Use a Nuclear Reactor Like a Jet Engine—Pluto Reached Ground Tests but Never Flew",
+      "hook": "The Tory reactors actually ran. A nuclear-powered SLAM cruise missile never became an operational weapon.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1957년, 공군과 원자력위원회는 핵 램제트의 가능성을 본격 연구했다",
+          "headingEn": "In 1957, the Air Force and Atomic Energy Commission Began a Nuclear-Ramjet Program",
+          "textKo": "Project Pluto는 냉전기의 상상 속 무기가 아니라 미국 공군과 원자력위원회가 실제 추진한 연구개발 프로그램이었다. Nevada National Security Site의 역사자료에 따르면 1957년 Lawrence Radiation Laboratory가 핵반응로의 열을 ramjet 엔진에 직접 적용하는 가능성을 연구하도록 선정됐다. 목표는 대기를 흡입하고 원자로로 직접 가열해 고속으로 분사함으로써 추력을 얻는 엔진이었다. 별도의 연료 연소 없이 핵열을 공기 흐름에 전달한다는 점이 핵심이었다.",
+          "textEn": "Project Pluto was not merely a Cold War fantasy. It was an actual U.S. Air Force and Atomic Energy Commission research program. Nevada National Security Site histories state that in 1957 Lawrence Radiation Laboratory was selected to study using reactor heat directly in a ramjet engine. The concept drew in atmospheric air, heated it in a compact reactor, and expelled it at high speed to generate thrust. The defining idea was transferring nuclear heat directly to the airflow without conventional combustion."
+        },
+        {
+          "blockId": "site-02",
+          "type": "BACKGROUND",
+          "headingKo": "네바다 사막에는 실제 시험시설이 건설됐다",
+          "headingEn": "A Dedicated Nevada Test Complex Was Actually Built",
+          "textKo": "프로젝트는 Livermore에서 Nevada Test Site의 Jackass Flats로 옮겨졌고, 원자로 조립·제어 건물과 고온 압축공기 설비가 포함된 전용 시험장이 만들어졌다. 실제 비행을 하지 않고도 ramjet이 받는 공기흐름을 재현하기 위해 거대한 저장배관과 가열장치가 필요했다. 이 기반시설은 Pluto가 개념연구를 넘어 실물 원자로와 재료를 시험하는 단계까지 갔음을 보여준다.",
+          "textEn": "The project moved from Livermore to Jackass Flats at the Nevada Test Site, where a dedicated complex was built for reactor assembly, control, and high-temperature compressed-air testing. Enormous air-storage and heating systems were required to simulate ramjet airflow without flying the reactor. The infrastructure demonstrates that Pluto progressed well beyond a paper concept into full-scale reactor and materials testing."
+        },
+        {
+          "blockId": "tory-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1961년 Tory IIA가 가동되면서 핵 램제트는 지상에서 실제 추력을 냈다",
+          "headingEn": "Tory IIA Ran in 1961, Demonstrating Nuclear-Ramjet Operation on the Ground",
+          "textKo": "1961년 5월 14일 철도차량 위에 장착된 Tory IIA-1 원자로가 처음 가동됐다. 이후 더 강력한 Tory II-C가 시험됐고 전출력 운전도 수행됐다. 이 시험들은 핵 램제트 원리가 단순한 계산이 아니라 실제 고온·방사선 환경에서 작동할 수 있음을 보여줬다. 따라서 “Project Pluto는 전혀 만들어진 적 없는 허구”라는 말은 틀리다. 반대로 지상시험 성공을 완성된 미사일 비행과 같은 것으로 취급해서도 안 된다.",
+          "textEn": "On 14 May 1961, the rail-mounted Tory IIA-1 reactor ran for the first time. A more powerful Tory II-C followed, including a full-power run. These tests showed that a nuclear ramjet could operate under extreme temperature and radiation conditions. It is therefore wrong to describe Project Pluto as a purely imaginary weapon. But successful ground reactor tests are also not equivalent to a completed missile flight program."
+        },
+        {
+          "blockId": "slam-04",
+          "type": "BACKGROUND",
+          "headingKo": "Pluto 엔진은 SLAM이라는 장거리 초음속 순항미사일 구상과 연결됐다",
+          "headingEn": "The Pluto Engine Was Linked to the SLAM Supersonic Cruise-Missile Concept",
+          "textKo": "Pluto의 원자로는 흔히 SLAM(Supersonic Low-Altitude Missile) 개념과 연결된다. 낮은 고도로 매우 빠르게 장거리를 비행하는 핵추진 순항미사일을 상정했고, 장거리 운용에 필요한 엔진 수명과 소형화가 핵심 기술문제였다. 그러나 미사일 전체가 완성돼 비행한 단계까지는 가지 않았다. Project Pluto의 실제 성과는 Tory 계열 지상 원자로와 재료·제어 시험에 있었다.",
+          "textEn": "Pluto’s reactor work was closely associated with the SLAM (Supersonic Low-Altitude Missile) concept, which envisioned a nuclear-powered cruise missile capable of very long, fast, low-altitude flight. Reactor compactness, durability, controls, and materials were major technical challenges. The complete missile never reached a flight-test stage. Pluto’s demonstrated achievements remained the Tory ground reactors and their associated materials and control systems."
+        },
+        {
+          "blockId": "risks-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "기술적으로 가능해지는 것과 군사적으로 쓸 만한 것은 달랐다",
+          "headingEn": "Technical Feasibility Did Not Make the Weapon Strategically Attractive",
+          "textKo": "NNSS 역사자료는 Pluto가 성공적인 시험에도 불구하고 심각한 운용문제를 안고 있었다고 정리한다. 핵반응로를 대기 중에서 직접 작동시키는 방식은 비행경로의 방사선·안전 문제를 일으킬 수 있었고, 같은 시기 대륙간탄도미사일 기술이 빠르게 발전했다. 더 단순하고 빠른 전략수단이 등장하면서 Pluto의 위험과 비용을 감수할 이유가 줄었다.",
+          "textEn": "NNSS historical material notes that Pluto faced serious operational problems despite successful tests. Directly operating a nuclear reactor in atmospheric flight raised radiation and safety concerns along the flight path, while intercontinental ballistic missiles were advancing rapidly. As simpler and faster strategic systems matured, the justification for accepting Pluto’s cost and risk weakened."
+        },
+        {
+          "blockId": "cancel-06",
+          "type": "AFTERMATH",
+          "headingKo": "1964년 취소는 “실패해서 아무것도 안 됐다”와도 다르다",
+          "headingEn": "The 1964 Cancellation Was Not the Same as “Nothing Worked”",
+          "textKo": "Project Pluto는 1964년 7월 1일 취소됐다. 이 결말을 단순한 기술 실패로만 설명하면 Tory 원자로가 실제 작동했다는 사실을 놓친다. 반대로 지상시험 성공만 강조해 “핵 순항미사일이 거의 배치됐다”고 말하면 개발단계를 과장한다. 프로그램은 핵 램제트의 실물 기술 가능성을 입증했지만, 무기체계 전체는 비행·배치 단계에 도달하지 못한 채 전략·안전·비용 환경의 변화 속에서 끝났다.",
+          "textEn": "Project Pluto was canceled on 1 July 1964. Calling the program a simple technical failure ignores the fact that Tory reactors operated successfully. Calling it an almost-deployed nuclear cruise missile exaggerates how far the weapon system progressed. Pluto demonstrated the engineering feasibility of a nuclear ramjet on the ground, but the full weapon never reached flight or deployment before strategic, safety, and cost considerations ended the effort."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Pluto는 실제 미국 핵 램제트 연구개발 프로그램이었고 Nevada Test Site에서 Tory IIA와 Tory II-C 계열 원자로의 실물 지상시험이 수행됐다.\n\n확인되지 않음: 핵추진 SLAM 미사일이 실제 비행시험 또는 작전 배치됐다는 주장은 사실이 아니다. 완성 무기체계는 배치 단계에 도달하지 못했다.",
+          "textEn": "Established: Project Pluto was a real U.S. nuclear-ramjet development program, and full-scale Tory-series reactor ground tests were conducted at the Nevada Test Site.\n\nNot established: A nuclear-powered SLAM missile was never flight-tested or operationally deployed; the complete weapon system did not reach deployment."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project Pluto was a real U.S. nuclear-ramjet development program, and full-scale Tory-series reactor ground tests were conducted at the Nevada Test Site.",
+        "notEstablished": "Not established: A nuclear-powered SLAM missile was never flight-tested or operationally deployed; the complete weapon system did not reach deployment."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "site-02",
+        "tory-03",
+        "slam-04",
+        "risks-05",
+        "cancel-06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PLU-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project Pluto는 실제 미국 핵 램제트 연구개발 프로그램이었다.",
+      "statementEn": "Project Pluto was a real U.S. nuclear-ramjet research and development program.",
+      "sourceRefs": [
+        "PLUTO_NNSS"
+      ]
+    },
+    {
+      "claimId": "PLU-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Tory 계열 원자로는 Nevada Test Site에서 실제 지상가동됐다.",
+      "statementEn": "Tory-series reactors were actually operated in ground tests at the Nevada Test Site.",
+      "sourceRefs": [
+        "PLUTO_NNSS",
+        "PLUTO_DOENV763"
+      ]
+    },
+    {
+      "claimId": "PLU-C3",
+      "status": "CONFIRMED",
+      "statementKo": "Project Pluto는 1964년 7월 1일 취소됐다.",
+      "statementEn": "Project Pluto was canceled on 1 July 1964.",
+      "sourceRefs": [
+        "PLUTO_NNSS",
+        "PLUTO_DOENV763"
+      ]
+    },
+    {
+      "claimId": "PLU-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "SLAM 핵추진 미사일이 비행시험·배치됐다는 주장은 성립하지 않는다.",
+      "statementEn": "No nuclear-powered SLAM missile reached flight test or operational deployment.",
+      "sourceRefs": [
+        "PLUTO_DOENV763"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PLUTO_NNSS",
+      "title": "Project Pluto studied nuclear ramjet propulsion",
+      "publisher": "Nevada National Security Site",
+      "url": "https://nnss.gov/publication-library/anniversary-publications/",
+      "sourceType": "US_GOVERNMENT_HISTORY"
+    },
+    {
+      "sourceId": "PLUTO_DOENV763",
+      "title": "Project Pluto — DOE/NV 763",
+      "publisher": "U.S. Department of Energy / Nevada National Security Site",
+      "url": "https://nnss.gov/wp-content/uploads/2023/04/DOENV_763.pdf",
+      "sourceType": "US_GOVERNMENT_REPORT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "pluto-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "흡입 공기 → 원자로 가열 → 고온 배기의 nuclear ramjet 원리.",
+      "captionEn": "Nuclear-ramjet concept: intake air → reactor heating → hot exhaust.",
+      "altKo": "흡입 공기 → 원자로 가열 → 고온 배기의 nuclear ramjet 원리.",
+      "altEn": "Nuclear-ramjet concept: intake air → reactor heating → hot exhaust.",
+      "sourceRefs": [
+        "PLUTO_NNSS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-pluto__pluto-v01__ko.png",
+          "sha256": "60756ff415493e2362ab0761d500444afbbee6917d06fbd862a6633b55791135",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-pluto__pluto-v01__en.png",
+          "sha256": "5e89c5b0ae17dd20eb8b2ab509455c1e3a4a428ec5a08882c610d39a490d61fe",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "pluto-v02",
+      "role": "TEST_TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1957 착수 → 1961 Tory IIA → Tory II-C → 1964 취소.",
+      "captionEn": "1957 start → 1961 Tory IIA → Tory II-C → 1964 cancellation.",
+      "altKo": "1957 착수 → 1961 Tory IIA → Tory II-C → 1964 취소.",
+      "altEn": "1957 start → 1961 Tory IIA → Tory II-C → 1964 cancellation.",
+      "sourceRefs": [
+        "PLUTO_DOENV763"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-pluto__pluto-v02__ko.png",
+          "sha256": "cea0f98a127bf19f2f37d52d72e9ccdcf03372b8eb32aacbe0a1761b06fe99a5",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-pluto__pluto-v02__en.png",
+          "sha256": "4e7b9767b3b75d653589f47be6424120df61b090daeca900fcb6a82d8faff88e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "pluto-v03",
+      "role": "PROGRAM_LADDER",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "개념 → 시험시설 → 실물 원자로 → 미사일 비행/배치 미도달을 단계별 표시.",
+      "captionEn": "Program ladder: concept → test site → full-scale reactor → no missile flight/deployment.",
+      "altKo": "개념 → 시험시설 → 실물 원자로 → 미사일 비행/배치 미도달을 단계별 표시.",
+      "altEn": "Program ladder: concept → test site → full-scale reactor → no missile flight/deployment.",
+      "sourceRefs": [
+        "PLUTO_NNSS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-pluto__pluto-v03__ko.png",
+          "sha256": "91f518300c0247e5258d8251e01b93f8b4285bd351220614222585cb9287770f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-pluto__pluto-v03__en.png",
+          "sha256": "d0711e73c87f3672ab0d74cd8ed283f7f6ff1c7847e6f9f4e3a7b8f2577b7ed6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "pluto-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "지상원자로 성공과 완성 무기 미배치를 분리.",
+      "captionEn": "Separate successful ground-reactor tests from absent weapon deployment.",
+      "altKo": "지상원자로 성공과 완성 무기 미배치를 분리.",
+      "altEn": "Separate successful ground-reactor tests from absent weapon deployment.",
+      "sourceRefs": [
+        "PLUTO_DOENV763"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-pluto__pluto-v04__ko.png",
+          "sha256": "294fefc145c0403293b292e5a5e8930c94946bbb9966438d0fab77c3e3b73224",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-pluto__pluto-v04__en.png",
+          "sha256": "0b7a261bef39eb9159fc1d8ed616a2925feb38e2e27b9338fee3cc125c3ae4a0",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Nuclear Technology",
+      "Cold War Engineering"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "Nevada"
+    ],
+    "places": [
+      {
+        "name": "Jackass Flats, Nevada Test Site",
+        "role": "ground test complex"
+      }
+    ],
+    "people": [
+      {
+        "name": "T. C. Merkle",
+        "role": "program technical leader"
+      }
+    ],
+    "organizations": [
+      "U.S. Air Force",
+      "Atomic Energy Commission",
+      "Lawrence Radiation Laboratory"
+    ],
+    "dateRange": {
+      "start": "1957-01-01",
+      "end": "1964-07-01",
+      "precision": "program period"
+    },
+    "era": "Cold War",
+    "resolution": "GROUND_REACTOR_TECH_DEMONSTRATED_FULL_WEAPON_NOT_DEPLOYED",
+    "searchAliases": [
+      "Project Pluto",
+      "Tory IIA",
+      "Tory II-C",
+      "SLAM missile"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1563,
+    "enBodyWords": 429,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 4,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

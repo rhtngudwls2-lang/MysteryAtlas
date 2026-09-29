@@ -1,0 +1,378 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "archimedes-palimpsest",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "아르키메데스 팔림프세스트",
+    "canonicalTitleEn": "Archimedes Palimpsest",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MANUSCRIPT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "지워진 양피지 아래서 다시 나온 아르키메데스—보이지 않는 글을 어떻게 읽었나",
+      "hook": "숨겨진 원문은 실재했고 현대 영상기술로 상당 부분 복원됐다. 손상·덧칠된 모든 문장이 완전히 돌아온 것은 아니다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "중세 기도서의 페이지에는 더 오래된 수학책이 남아 있었다",
+          "headingEn": "A Medieval Prayer Book Preserved an Older Mathematics Manuscript Underneath",
+          "textKo": "아르키메데스 팔림프세스트는 새 책을 만들기 위해 오래된 양피지의 글을 긁거나 씻어낸 뒤 다시 쓴 중세 manuscript다. 13세기 기도문 아래에는 훨씬 오래된 그리스어 수학 텍스트가 남아 있었다. 육안으로는 흐릿한 선과 얼룩처럼 보였지만, 그 undertext에는 아르키메데스의 저작 일부가 포함돼 있었다. 중요한 점은 “잃어버린 책이 갑자기 생겼다”기보다 재사용된 재료 안에 글자의 흔적이 물리적으로 남아 있었다는 것이다.",
+          "textEn": "The Archimedes Palimpsest is a medieval manuscript made by erasing or washing older writing from parchment and reusing the sheets for a prayer book. Beneath the thirteenth-century prayers, much older Greek mathematical text survived. To the naked eye it could appear as faint traces, but the undertext included works by Archimedes. The key fact is not that a lost book magically reappeared, but that physical traces of the earlier writing survived inside reused material."
+        },
+        {
+          "blockId": "texts-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "다른 전승에서 온전하게 남지 않은 저작도 포함돼 있었다",
+          "headingEn": "Some Texts Were Not Otherwise Preserved Intact",
+          "textKo": "팔림프세스트의 중요성은 단순히 유명 수학자의 이름이 나왔다는 데 있지 않다. Method of Mechanical Theorems처럼 아르키메데스가 수학적 아이디어를 발견하는 데 사용한 기계적 직관을 보여주는 자료가 포함돼 있고, 다른 사본만으로는 완전하게 알기 어려운 내용도 남아 있다. 그래서 한 manuscript의 복원이 수학사와 고대 과학사에서 매우 큰 의미를 갖게 됐다.",
+          "textEn": "The palimpsest matters because it preserved more than a famous name. It contains material such as the Method of Mechanical Theorems, which reveals aspects of how Archimedes used mechanical intuition in mathematical discovery, as well as passages difficult or impossible to reconstruct from other surviving copies. Recovering a single manuscript therefore changed what historians could know about ancient mathematics."
+        },
+        {
+          "blockId": "imaging-03",
+          "type": "TURNING_POINT",
+          "headingKo": "multispectral imaging은 서로 다른 파장의 반사 차이를 이용했다",
+          "headingEn": "Multispectral Imaging Exploited Differences Across Wavelengths",
+          "textKo": "Walters Art Museum 프로젝트는 가시광뿐 아니라 자외선·적외선 등 여러 파장대에서 페이지를 촬영해 기도문과 undertext가 서로 다르게 반사되는 지점을 찾았다. 한 장의 “보정 사진”으로 끝나는 것이 아니라 여러 영상 채널을 조합해 지워진 글자의 대비를 높이는 방식이었다. 이는 원본에 새로운 글을 덧붙이는 것이 아니라, 이미 남아 있는 물리적 신호를 분리해 읽기 쉽게 만드는 과정이다.",
+          "textEn": "The Walters Art Museum project imaged pages across multiple wavelengths, including visible, ultraviolet, and infrared bands, looking for differences in how the prayer text, parchment, and undertext reflected light. The process did not rely on one enhanced photograph; multiple channels were combined to increase the contrast of erased writing. The technique does not invent missing letters—it separates physical signals already present in the manuscript."
+        },
+        {
+          "blockId": "xray-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "덧칠된 페이지에서는 X-ray fluorescence가 잉크의 원소 흔적을 찾았다",
+          "headingEn": "X-Ray Fluorescence Recovered Text Beneath Later Paint",
+          "textKo": "일부 페이지에는 20세기에 그려진 종교 그림이 undertext를 가리고 있어 일반 광학촬영만으로 읽기 어려웠다. 연구팀은 X-ray fluorescence를 사용해 잉크에 포함된 철 같은 원소의 분포를 측정했고, 그림 아래의 문자 패턴을 복원했다. 이 방법은 “벽을 투시하는 사진”이 아니라 특정 원소가 내는 형광 신호를 지도화하는 분석기법이다.",
+          "textEn": "Some pages had been covered by later religious paintings, making optical recovery difficult. Researchers used X-ray fluorescence to map elements such as iron in the underlying ink and reconstruct letter patterns beneath the paint. This is not a magical “see-through” image; it is an analytical method that maps element-specific fluorescence signals."
+        },
+        {
+          "blockId": "limits-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "첨단 장비를 써도 손실된 정보가 자동으로 복원되는 것은 아니다",
+          "headingEn": "Advanced Imaging Cannot Restore Information That No Longer Survives",
+          "textKo": "영상기술이 강력해도 양피지가 잘려나갔거나 잉크 성분이 완전히 사라진 부분, 오염·곰팡이·덧칠이 심한 영역에서는 읽을 수 있는 정보가 제한된다. 연구자는 영상에서 보이는 흔적을 문자로 판독해야 하며 모호한 글자는 여전히 학술적 판단의 대상이다. “복원”은 원래 문장을 마음대로 채우는 것이 아니라 남은 물리적 증거가 허용하는 범위까지 읽는 과정이다.",
+          "textEn": "Powerful imaging cannot recover information that no longer physically survives. Missing parchment, completely lost ink, severe contamination, and heavy overpainting can leave passages unreadable. Scholars must still interpret ambiguous letterforms from the images. “Recovery” means reading as far as surviving physical evidence permits, not freely reconstructing whatever one expects the original to have said."
+        },
+        {
+          "blockId": "conservation-055",
+          "type": "AFTERMATH",
+          "headingKo": "복원 프로젝트는 읽기만 한 것이 아니라 원본을 보존하고 디지털 자료로 다시 접근하게 했다",
+          "headingEn": "The Project Combined Reading the Text With Conserving the Physical Manuscript and Sharing the Data",
+          "textKo": "팔림프세스트 연구는 이미지처리만으로 끝나지 않았다. 오래된 양피지는 물리적으로 취약하고 이전의 보수·오염·후대 그림 때문에 페이지마다 상태가 달랐다. 보존처리는 추가 손상을 줄이면서 촬영할 수 있도록 원본을 안정화하는 단계였고, 고해상도·다파장 데이터는 여러 연구자가 같은 흔적을 다시 비교할 수 있게 했다. 여기서 디지털 이미지는 원본을 대체하는 새 “완성본”이 아니라 연구 접근성을 넓히는 증거층이다. 향후 영상기법이 개선되면 같은 원본 데이터나 재촬영을 통해 모호한 글자를 더 읽을 가능성은 있지만, 실제 양피지가 사라진 부분까지 되살릴 수는 없다.",
+          "textEn": "The Palimpsest project was not only an image-processing exercise. The old parchment was physically fragile, and earlier repairs, contamination, and later paintings left each leaf in a different condition. Conservation stabilized the object so it could be imaged without causing further damage, while high-resolution multispectral datasets allowed multiple scholars to re-examine the same traces. Digital images are therefore another evidentiary layer, not a replacement “finished version” of the manuscript. Future techniques may improve ambiguous readings, but no imaging method can recover parchment or ink that has physically disappeared."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 중세 기도서 아래에 아르키메데스의 그리스어 저작이 실제로 남아 있었고 multispectral imaging과 X-ray fluorescence로 상당한 undertext가 복원·판독됐다.\n\n확인되지 않음: 손상·유실·덧칠된 모든 영역을 완전히 복원할 수 있는 것은 아니며 모호한 판독에는 여전히 학술적 불확실성이 남는다.",
+          "textEn": "Established: Greek works by Archimedes genuinely survived beneath the medieval prayer book, and substantial undertext was recovered and read using multispectral imaging and X-ray fluorescence.\n\nNot established: Not every damaged, missing, or overpainted passage can be fully recovered, and ambiguous readings can still carry scholarly uncertainty."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 중세 기도서 아래에 아르키메데스의 그리스어 저작이 실제로 남아 있었고 multispectral imaging과 X-ray fluorescence로 상당한 undertext가 복원·판독됐다.",
+        "notEstablished": "확인되지 않음: 손상·유실·덧칠된 모든 영역을 완전히 복원할 수 있는 것은 아니며 모호한 판독에는 여전히 학술적 불확실성이 남는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "texts-02",
+        "imaging-03",
+        "xray-04",
+        "limits-05",
+        "conservation-055"
+      ]
+    },
+    "en": {
+      "headline": "Archimedes Reappeared Beneath an Erased Prayer Book—How Was the Hidden Text Read?",
+      "hook": "The hidden text is real and much of it was recovered with modern imaging. Not every damaged or overpainted passage can be reconstructed.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "중세 기도서의 페이지에는 더 오래된 수학책이 남아 있었다",
+          "headingEn": "A Medieval Prayer Book Preserved an Older Mathematics Manuscript Underneath",
+          "textKo": "아르키메데스 팔림프세스트는 새 책을 만들기 위해 오래된 양피지의 글을 긁거나 씻어낸 뒤 다시 쓴 중세 manuscript다. 13세기 기도문 아래에는 훨씬 오래된 그리스어 수학 텍스트가 남아 있었다. 육안으로는 흐릿한 선과 얼룩처럼 보였지만, 그 undertext에는 아르키메데스의 저작 일부가 포함돼 있었다. 중요한 점은 “잃어버린 책이 갑자기 생겼다”기보다 재사용된 재료 안에 글자의 흔적이 물리적으로 남아 있었다는 것이다.",
+          "textEn": "The Archimedes Palimpsest is a medieval manuscript made by erasing or washing older writing from parchment and reusing the sheets for a prayer book. Beneath the thirteenth-century prayers, much older Greek mathematical text survived. To the naked eye it could appear as faint traces, but the undertext included works by Archimedes. The key fact is not that a lost book magically reappeared, but that physical traces of the earlier writing survived inside reused material."
+        },
+        {
+          "blockId": "texts-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "다른 전승에서 온전하게 남지 않은 저작도 포함돼 있었다",
+          "headingEn": "Some Texts Were Not Otherwise Preserved Intact",
+          "textKo": "팔림프세스트의 중요성은 단순히 유명 수학자의 이름이 나왔다는 데 있지 않다. Method of Mechanical Theorems처럼 아르키메데스가 수학적 아이디어를 발견하는 데 사용한 기계적 직관을 보여주는 자료가 포함돼 있고, 다른 사본만으로는 완전하게 알기 어려운 내용도 남아 있다. 그래서 한 manuscript의 복원이 수학사와 고대 과학사에서 매우 큰 의미를 갖게 됐다.",
+          "textEn": "The palimpsest matters because it preserved more than a famous name. It contains material such as the Method of Mechanical Theorems, which reveals aspects of how Archimedes used mechanical intuition in mathematical discovery, as well as passages difficult or impossible to reconstruct from other surviving copies. Recovering a single manuscript therefore changed what historians could know about ancient mathematics."
+        },
+        {
+          "blockId": "imaging-03",
+          "type": "TURNING_POINT",
+          "headingKo": "multispectral imaging은 서로 다른 파장의 반사 차이를 이용했다",
+          "headingEn": "Multispectral Imaging Exploited Differences Across Wavelengths",
+          "textKo": "Walters Art Museum 프로젝트는 가시광뿐 아니라 자외선·적외선 등 여러 파장대에서 페이지를 촬영해 기도문과 undertext가 서로 다르게 반사되는 지점을 찾았다. 한 장의 “보정 사진”으로 끝나는 것이 아니라 여러 영상 채널을 조합해 지워진 글자의 대비를 높이는 방식이었다. 이는 원본에 새로운 글을 덧붙이는 것이 아니라, 이미 남아 있는 물리적 신호를 분리해 읽기 쉽게 만드는 과정이다.",
+          "textEn": "The Walters Art Museum project imaged pages across multiple wavelengths, including visible, ultraviolet, and infrared bands, looking for differences in how the prayer text, parchment, and undertext reflected light. The process did not rely on one enhanced photograph; multiple channels were combined to increase the contrast of erased writing. The technique does not invent missing letters—it separates physical signals already present in the manuscript."
+        },
+        {
+          "blockId": "xray-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "덧칠된 페이지에서는 X-ray fluorescence가 잉크의 원소 흔적을 찾았다",
+          "headingEn": "X-Ray Fluorescence Recovered Text Beneath Later Paint",
+          "textKo": "일부 페이지에는 20세기에 그려진 종교 그림이 undertext를 가리고 있어 일반 광학촬영만으로 읽기 어려웠다. 연구팀은 X-ray fluorescence를 사용해 잉크에 포함된 철 같은 원소의 분포를 측정했고, 그림 아래의 문자 패턴을 복원했다. 이 방법은 “벽을 투시하는 사진”이 아니라 특정 원소가 내는 형광 신호를 지도화하는 분석기법이다.",
+          "textEn": "Some pages had been covered by later religious paintings, making optical recovery difficult. Researchers used X-ray fluorescence to map elements such as iron in the underlying ink and reconstruct letter patterns beneath the paint. This is not a magical “see-through” image; it is an analytical method that maps element-specific fluorescence signals."
+        },
+        {
+          "blockId": "limits-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "첨단 장비를 써도 손실된 정보가 자동으로 복원되는 것은 아니다",
+          "headingEn": "Advanced Imaging Cannot Restore Information That No Longer Survives",
+          "textKo": "영상기술이 강력해도 양피지가 잘려나갔거나 잉크 성분이 완전히 사라진 부분, 오염·곰팡이·덧칠이 심한 영역에서는 읽을 수 있는 정보가 제한된다. 연구자는 영상에서 보이는 흔적을 문자로 판독해야 하며 모호한 글자는 여전히 학술적 판단의 대상이다. “복원”은 원래 문장을 마음대로 채우는 것이 아니라 남은 물리적 증거가 허용하는 범위까지 읽는 과정이다.",
+          "textEn": "Powerful imaging cannot recover information that no longer physically survives. Missing parchment, completely lost ink, severe contamination, and heavy overpainting can leave passages unreadable. Scholars must still interpret ambiguous letterforms from the images. “Recovery” means reading as far as surviving physical evidence permits, not freely reconstructing whatever one expects the original to have said."
+        },
+        {
+          "blockId": "conservation-055",
+          "type": "AFTERMATH",
+          "headingKo": "복원 프로젝트는 읽기만 한 것이 아니라 원본을 보존하고 디지털 자료로 다시 접근하게 했다",
+          "headingEn": "The Project Combined Reading the Text With Conserving the Physical Manuscript and Sharing the Data",
+          "textKo": "팔림프세스트 연구는 이미지처리만으로 끝나지 않았다. 오래된 양피지는 물리적으로 취약하고 이전의 보수·오염·후대 그림 때문에 페이지마다 상태가 달랐다. 보존처리는 추가 손상을 줄이면서 촬영할 수 있도록 원본을 안정화하는 단계였고, 고해상도·다파장 데이터는 여러 연구자가 같은 흔적을 다시 비교할 수 있게 했다. 여기서 디지털 이미지는 원본을 대체하는 새 “완성본”이 아니라 연구 접근성을 넓히는 증거층이다. 향후 영상기법이 개선되면 같은 원본 데이터나 재촬영을 통해 모호한 글자를 더 읽을 가능성은 있지만, 실제 양피지가 사라진 부분까지 되살릴 수는 없다.",
+          "textEn": "The Palimpsest project was not only an image-processing exercise. The old parchment was physically fragile, and earlier repairs, contamination, and later paintings left each leaf in a different condition. Conservation stabilized the object so it could be imaged without causing further damage, while high-resolution multispectral datasets allowed multiple scholars to re-examine the same traces. Digital images are therefore another evidentiary layer, not a replacement “finished version” of the manuscript. Future techniques may improve ambiguous readings, but no imaging method can recover parchment or ink that has physically disappeared."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 중세 기도서 아래에 아르키메데스의 그리스어 저작이 실제로 남아 있었고 multispectral imaging과 X-ray fluorescence로 상당한 undertext가 복원·판독됐다.\n\n확인되지 않음: 손상·유실·덧칠된 모든 영역을 완전히 복원할 수 있는 것은 아니며 모호한 판독에는 여전히 학술적 불확실성이 남는다.",
+          "textEn": "Established: Greek works by Archimedes genuinely survived beneath the medieval prayer book, and substantial undertext was recovered and read using multispectral imaging and X-ray fluorescence.\n\nNot established: Not every damaged, missing, or overpainted passage can be fully recovered, and ambiguous readings can still carry scholarly uncertainty."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Greek works by Archimedes genuinely survived beneath the medieval prayer book, and substantial undertext was recovered and read using multispectral imaging and X-ray fluorescence.",
+        "notEstablished": "Not established: Not every damaged, missing, or overpainted passage can be fully recovered, and ambiguous readings can still carry scholarly uncertainty."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "texts-02",
+        "imaging-03",
+        "xray-04",
+        "limits-05",
+        "conservation-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ARC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "기도서 아래의 Archimedes undertext는 실제이며 중요한 저작을 포함한다.",
+      "statementEn": "The Archimedes undertext is genuine and preserves important works.",
+      "sourceRefs": [
+        "WALTERS1",
+        "WALTERS2"
+      ]
+    },
+    {
+      "claimId": "ARC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "multispectral imaging과 X-ray fluorescence가 undertext 복원에 사용됐다.",
+      "statementEn": "Multispectral imaging and X-ray fluorescence were used to recover undertext.",
+      "sourceRefs": [
+        "WALTERS1",
+        "WALTERS2"
+      ]
+    },
+    {
+      "claimId": "ARC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "손상된 모든 글을 완전히 복원할 수 있는 것은 아니다.",
+      "statementEn": "Not every damaged passage can be completely recovered.",
+      "sourceRefs": [
+        "WALTERS1"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "WALTERS1",
+      "title": "Archimedes Palimpsest Imaging",
+      "publisher": "The Walters Art Museum",
+      "url": "https://thewalters.org/news/archimedes-palimpsest-imaging/",
+      "sourceType": "MUSEUM_RESEARCH"
+    },
+    {
+      "sourceId": "WALTERS2",
+      "title": "Lost and Found: The Secrets of Archimedes",
+      "publisher": "The Walters Art Museum",
+      "url": "https://thewalters.org/news/lost-and-found-the-secrets-of-archimedes/",
+      "sourceType": "MUSEUM_RESEARCH"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "arch-v01",
+      "role": "LAYER_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "양피지 → 지워진 원문 → 기도문 → 후대 덧칠의 층위를 표시.",
+      "captionEn": "Layer diagram: parchment → erased undertext → prayer text → later overpainting.",
+      "altKo": "양피지 → 지워진 원문 → 기도문 → 후대 덧칠의 층위를 표시.",
+      "altEn": "Layer diagram: parchment → erased undertext → prayer text → later overpainting.",
+      "sourceRefs": [
+        "WALTERS1"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "archimedes-palimpsest__arch-v01__ko.png",
+          "sha256": "45543dfd4603189c9549129615d01a6334bc14c60183c97e8cf4961a7e291518",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "archimedes-palimpsest__arch-v01__en.png",
+          "sha256": "b0805317fc36a83bfff2f1c3df27a15f6032a2eab19dc36ca74faef28b17654b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "arch-v02",
+      "role": "IMAGING_FLOW",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "visible/UV/IR → contrast separation → XRF elemental map → scholarly transcription.",
+      "captionEn": "Visible/UV/IR → contrast separation → XRF elemental map → scholarly transcription.",
+      "altKo": "visible/UV/IR → contrast separation → XRF elemental map → scholarly transcription.",
+      "altEn": "Visible/UV/IR → contrast separation → XRF elemental map → scholarly transcription.",
+      "sourceRefs": [
+        "WALTERS1",
+        "WALTERS2"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "archimedes-palimpsest__arch-v02__ko.png",
+          "sha256": "aae0261431451959973ef989d2ca06f09820627e2689b9c0163ecd2be388eb48",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "archimedes-palimpsest__arch-v02__en.png",
+          "sha256": "512dd6d3717de496a72c5d1e824084d5d2704127ceee9e8d38c73931c723b73a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "arch-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "복원 성공과 영구 손실된 영역을 분리.",
+      "captionEn": "Separate recovered text from irretrievably lost or ambiguous areas.",
+      "altKo": "복원 성공과 영구 손실된 영역을 분리.",
+      "altEn": "Separate recovered text from irretrievably lost or ambiguous areas.",
+      "sourceRefs": [
+        "WALTERS1"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "archimedes-palimpsest__arch-v03__ko.png",
+          "sha256": "964898ba4890906a2ca536d8f3be0b536e870d499c7f6d2c7a2c148829fa2ddd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "archimedes-palimpsest__arch-v03__en.png",
+          "sha256": "6b6a20e5b682fae03a9cb3524405568bdea9f2fecb8714477e1d1be8e68fb8d6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "secondaryGenres": [
+      "History of Mathematics",
+      "Imaging Technology"
+    ],
+    "countries": [
+      "Greece",
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [
+      {
+        "name": "Archimedes",
+        "role": "author represented in undertext"
+      }
+    ],
+    "organizations": [
+      "The Walters Art Museum"
+    ],
+    "dateRange": {
+      "start": "13th century",
+      "end": "modern conservation era",
+      "precision": "palimpsest creation through imaging project"
+    },
+    "era": "medieval manuscript / modern imaging",
+    "resolution": "HIDDEN_TEXT_SUBSTANTIALLY_RECOVERED_SOME_LOSS_UNRECOVERABLE",
+    "searchAliases": [
+      "Archimedes Palimpsest",
+      "Method of Mechanical Theorems"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1560,
+    "enBodyWords": 436,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

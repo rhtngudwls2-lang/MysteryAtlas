@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MysteryAtlas_MEDIA_READY164_PACK_2026-09-29_v1.0.zip",
+  "sourcePack": "MysteryAtlas_MEDIA_READY174_PACK_2026-09-29_v1.0.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -201,6 +201,92 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "alexander-tomb",
+      "title": {
+        "ko": "알렉산드로스 대왕의 무덤",
+        "en": "Tomb of Alexander the Great"
+      },
+      "headline": {
+        "ko": "고대의 방문 기록은 있는데 무덤은 사라졌다—알렉산드로스의 묘는 어디에 있었나",
+        "en": "Ancient Visitors Described the Tomb, Yet Its Location Vanished—Where Was Alexander Buried?"
+      },
+      "hook": {
+        "ko": "이집트에 안장됐다는 고대 전승은 강하다. 오늘날 특정 유적을 그의 무덤으로 확정할 직접 증거는 없다.",
+        "en": "Ancient tradition strongly supports burial in Egypt. No surviving site has been decisively identified as his tomb."
+      },
+      "aliases": [
+        "Alexander tomb",
+        "Soma Alexandria",
+        "Alexander the Great burial"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Lost Tomb",
+        "Ancient Macedonia / Egypt"
+      ],
+      "countries": [
+        "Iraq",
+        "Egypt"
+      ],
+      "regions": [
+        "Alexandria"
+      ],
+      "era": "Hellenistic / Roman antiquity",
+      "resolution": "ANCIENT_EGYPT_BURIAL_TRADITION_STRONG_EXACT_SITE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Babylon",
+          "role": "place of death"
+        },
+        {
+          "name": "Alexandria",
+          "role": "traditional tomb city"
+        }
+      ],
+      "people": [
+        {
+          "name": "Alexander III of Macedon",
+          "role": "subject"
+        }
+      ],
+      "dateRange": {
+        "start": "-323",
+        "end": "late antiquity",
+        "precision": "death through disappearance from clear record"
+      },
+      "related": [],
+      "heroAssetId": "alex-v01",
+      "heroFile": {
+        "ko": "alexander-tomb__alex-v01__ko.png",
+        "en": "alexander-tomb__alex-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "고대 문헌의 바빌론 → 이집트 → 알렉산드리아 전승을 개념경로로 표시.",
+        "en": "Conceptual route from Babylon to Egypt and Alexandria as described in ancient tradition."
+      },
+      "heroAlt": {
+        "ko": "고대 문헌의 바빌론 → 이집트 → 알렉산드리아 전승을 개념경로로 표시.",
+        "en": "Conceptual route from Babylon to Egypt and Alexandria as described in ancient tradition."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -473,6 +559,80 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "archimedes-palimpsest",
+      "title": {
+        "ko": "아르키메데스 팔림프세스트",
+        "en": "Archimedes Palimpsest"
+      },
+      "headline": {
+        "ko": "지워진 양피지 아래서 다시 나온 아르키메데스—보이지 않는 글을 어떻게 읽었나",
+        "en": "Archimedes Reappeared Beneath an Erased Prayer Book—How Was the Hidden Text Read?"
+      },
+      "hook": {
+        "ko": "숨겨진 원문은 실재했고 현대 영상기술로 상당 부분 복원됐다. 손상·덧칠된 모든 문장이 완전히 돌아온 것은 아니다.",
+        "en": "The hidden text is real and much of it was recovered with modern imaging. Not every damaged or overpainted passage can be reconstructed."
+      },
+      "aliases": [
+        "Archimedes Palimpsest",
+        "Method of Mechanical Theorems"
+      ],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [
+        "History of Mathematics",
+        "Imaging Technology"
+      ],
+      "countries": [
+        "Greece",
+        "United States"
+      ],
+      "regions": [],
+      "era": "medieval manuscript / modern imaging",
+      "resolution": "HIDDEN_TEXT_SUBSTANTIALLY_RECOVERED_SOME_LOSS_UNRECOVERABLE",
+      "places": [],
+      "people": [
+        {
+          "name": "Archimedes",
+          "role": "author represented in undertext"
+        }
+      ],
+      "dateRange": {
+        "start": "13th century",
+        "end": "modern conservation era",
+        "precision": "palimpsest creation through imaging project"
+      },
+      "related": [],
+      "heroAssetId": "arch-v01",
+      "heroFile": {
+        "ko": "archimedes-palimpsest__arch-v01__ko.png",
+        "en": "archimedes-palimpsest__arch-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "양피지 → 지워진 원문 → 기도문 → 후대 덧칠의 층위를 표시.",
+        "en": "Layer diagram: parchment → erased undertext → prayer text → later overpainting."
+      },
+      "heroAlt": {
+        "ko": "양피지 → 지워진 원문 → 기도문 → 후대 덧칠의 층위를 표시.",
+        "en": "Layer diagram: parchment → erased undertext → prayer text → later overpainting."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MANUSCRIPT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4710,6 +4870,82 @@
       }
     },
     {
+      "canonicalId": "hessdalen-lights",
+      "title": {
+        "ko": "헤스달렌 라이트",
+        "en": "Hessdalen Lights"
+      },
+      "headline": {
+        "ko": "사진만 있는 UFO 이야기가 아니다—헤스달렌에서는 장비가 반복 발광현상을 기록했다",
+        "en": "This Is Not Only a UFO Story—In Hessdalen, Instruments Repeatedly Recorded Luminous Events"
+      },
+      "hook": {
+        "ko": "현상의 일부는 계측됐다. 그러나 모든 목격을 설명하는 하나의 생성 메커니즘도, 외계기체라는 결론도 확정되지 않았다.",
+        "en": "Some events were instrumentally recorded. No single mechanism explains every sighting, and extraterrestrial craft have not been established."
+      },
+      "aliases": [
+        "Hessdalen Lights",
+        "Project Hessdalen",
+        "Blue Box"
+      ],
+      "genre": "Science / Natural Anomaly",
+      "genres": [
+        "Atmospheric Phenomena",
+        "UAP / Aerial Anomaly"
+      ],
+      "countries": [
+        "Norway"
+      ],
+      "regions": [
+        "Trøndelag"
+      ],
+      "era": "modern observational science",
+      "resolution": "RECURRENT_MEASURED_PHENOMENON_MECHANISM_UNRESOLVED",
+      "places": [
+        {
+          "name": "Hessdalen valley",
+          "role": "observation region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1981",
+        "end": "2024",
+        "precision": "sighting surge through cited modern study"
+      },
+      "related": [],
+      "heroAssetId": "hess-v01",
+      "heroFile": {
+        "ko": "hessdalen-lights__hess-v01__ko.png",
+        "en": "hessdalen-lights__hess-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1981~85 보고 급증 → 1983 프로젝트 → 1984 캠페인 → 1998 Blue Box.",
+        "en": "1981–85 surge → 1983 project → 1984 campaign → 1998 Blue Box."
+      },
+      "heroAlt": {
+        "ko": "1981~85 보고 급증 → 1983 프로젝트 → 1984 캠페인 → 1998 Blue Box.",
+        "en": "1981–85 surge → 1983 project → 1984 campaign → 1998 Blue Box."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SCIENCE_NATURE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "highway-of-tears",
       "title": {
         "ko": "Highway of Tears / Project E-PANA",
@@ -6673,6 +6909,80 @@
       }
     },
     {
+      "canonicalId": "maya-classic-collapse",
+      "title": {
+        "ko": "고전기 마야 도시의 붕괴",
+        "en": "Classic Maya Collapse"
+      },
+      "headline": {
+        "ko": "“마야가 사라졌다”는 말부터 틀렸다—무너진 것은 사람 전체가 아니라 많은 고전기 도시체제였다",
+        "en": "“The Maya Disappeared” Is the Wrong Starting Point—Many Classic Urban Systems Declined, Not the Maya People"
+      },
+      "hook": {
+        "ko": "도시와 왕조의 급격한 변화는 확실하다. 가뭄·전쟁·토지이용·교역변화 가운데 하나만으로 모든 지역을 설명할 수 없다.",
+        "en": "The urban and dynastic transition is real. No single factor—drought, warfare, land use, or trade change—explains every region."
+      },
+      "aliases": [
+        "Classic Maya collapse",
+        "Maya drought",
+        "Maya lowlands collapse"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Climate History",
+        "Systems Collapse"
+      ],
+      "countries": [
+        "Mexico",
+        "Guatemala",
+        "Belize",
+        "Honduras"
+      ],
+      "regions": [
+        "Maya lowlands"
+      ],
+      "era": "Late Classic to Postclassic Maya",
+      "resolution": "REGIONAL_POLITICAL_TRANSITION_MULTICAUSAL_MAYA_PEOPLE_CONTINUE",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "8th century",
+        "end": "10th century",
+        "precision": "main Classic lowland transition"
+      },
+      "related": [],
+      "heroAssetId": "maya-v01",
+      "heroFile": {
+        "ko": "maya-classic-collapse__maya-v01__ko.png",
+        "en": "maya-classic-collapse__maya-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "남부 저지대·북부 유카탄 등 지역별 전환 차이를 개념적으로 표시.",
+        "en": "Conceptual map showing different regional trajectories across the Maya world."
+      },
+      "heroAlt": {
+        "ko": "남부 저지대·북부 유카탄 등 지역별 전환 차이를 개념적으로 표시.",
+        "en": "Conceptual map showing different regional trajectories across the Maya world."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SYSTEMS_HISTORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "megalodon-survival",
       "title": {
         "ko": "메갈로돈 현대 생존설",
@@ -7594,6 +7904,81 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
+      "canonicalId": "nebra-sky-disc",
+      "title": {
+        "ko": "네브라 스카이 디스크",
+        "en": "Nebra Sky Disc"
+      },
+      "headline": {
+        "ko": "별과 달이 박힌 청동 원판—확실한 것은 유물이고, 남은 질문은 그것을 어떻게 읽었는가다",
+        "en": "A Bronze Disc of Stars and Moon—The Artifact Is Real; Its Exact Reading Is Still Debated"
+      },
+      "hook": {
+        "ko": "진위와 청동기시대 맥락은 확립됐다. 달력·항해·의례 가운데 어느 기능이 중심이었는지는 해석이 남는다.",
+        "en": "Its authenticity and Bronze Age context are secure. Whether calendar, navigation, ritual, or several uses mattered most remains interpretive."
+      },
+      "aliases": [
+        "Nebra Sky Disc",
+        "Nebra celestial disc"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Ancient Astronomy",
+        "Artifact Interpretation"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "regions": [
+        "Saxony-Anhalt"
+      ],
+      "era": "Bronze Age",
+      "resolution": "AUTHENTIC_ARTIFACT_EXACT_FUNCTION_PARTLY_INTERPRETIVE",
+      "places": [
+        {
+          "name": "Nebra",
+          "role": "discovery region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "-1800",
+        "end": "-1600",
+        "precision": "approximate Bronze Age use/deposition context"
+      },
+      "related": [],
+      "heroAssetId": "nebra-v01",
+      "heroFile": {
+        "ko": "nebra-sky-disc__nebra-v01__ko.png",
+        "en": "nebra-sky-disc__nebra-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "금 원·초승달·별·측면 호를 “관찰된 형태 / 해석”으로 분리한 도식.",
+        "en": "Diagram separating observed forms from their proposed interpretations."
+      },
+      "heroAlt": {
+        "ko": "금 원·초승달·별·측면 호를 “관찰된 형태 / 해석”으로 분리한 도식.",
+        "en": "Diagram separating observed forms from their proposed interpretations."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -8973,6 +9358,162 @@
       }
     },
     {
+      "canonicalId": "project-minaret",
+      "title": {
+        "ko": "프로젝트 MINARET",
+        "en": "Project MINARET"
+      },
+      "headline": {
+        "ko": "감시목록에 이름을 올리면 국제통신 속 흔적을 찾았다—MINARET는 어떻게 운영됐나",
+        "en": "Put a Name on a Watch List, Then Search International Communications—How MINARET Worked"
+      },
+      "hook": {
+        "ko": "프로그램의 실재와 watch-list 방식은 NSA 기록으로 확인된다. 법적·헌법적 평가는 당시에도 논쟁이었고 결국 1973년 종료됐다.",
+        "en": "NSA records establish the program and its watch-list method. Its legal and constitutional status was controversial even inside government, and it was ended in 1973."
+      },
+      "aliases": [
+        "Project MINARET",
+        "NSA MINARET",
+        "NSA watch list"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Surveillance History",
+        "Civil Liberties"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "Cold War",
+      "resolution": "PROGRAM_DOCUMENTED_LEGAL_AND_OVERSIGHT_CONTROVERSY_DOCUMENTED",
+      "places": [],
+      "people": [
+        {
+          "name": "Lew Allen",
+          "role": "NSA director who ended the program"
+        }
+      ],
+      "dateRange": {
+        "start": "1960s",
+        "end": "1973",
+        "precision": "program evolution through closure"
+      },
+      "related": [],
+      "heroAssetId": "minaret-v01",
+      "heroFile": {
+        "ko": "project-minaret__minaret-v01__ko.png",
+        "en": "project-minaret__minaret-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "이름 제공 → watch list → 국제통신 수집물 선별 → 보고 배포 흐름.",
+        "en": "Flow from supplied names to watch list, international-communications filtering, and dissemination."
+      },
+      "heroAlt": {
+        "ko": "이름 제공 → watch list → 국제통신 수집물 선별 → 보고 배포 흐름.",
+        "en": "Flow from supplied names to watch list, international-communications filtering, and dissemination."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "project-pluto",
+      "title": {
+        "ko": "Project Pluto",
+        "en": "Project Pluto"
+      },
+      "headline": {
+        "ko": "원자로를 제트엔진처럼 쓰려 한 실제 계획—Pluto는 지상시험까지 갔지만 비행하지 않았다",
+        "en": "A Real Plan to Use a Nuclear Reactor Like a Jet Engine—Pluto Reached Ground Tests but Never Flew"
+      },
+      "hook": {
+        "ko": "Tory 원자로는 실제로 가동됐다. 그러나 핵추진 SLAM 순항미사일은 운용무기가 되지 않았다.",
+        "en": "The Tory reactors actually ran. A nuclear-powered SLAM cruise missile never became an operational weapon."
+      },
+      "aliases": [
+        "Project Pluto",
+        "Tory IIA",
+        "Tory II-C",
+        "SLAM missile"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Nuclear Technology",
+        "Cold War Engineering"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "Nevada"
+      ],
+      "era": "Cold War",
+      "resolution": "GROUND_REACTOR_TECH_DEMONSTRATED_FULL_WEAPON_NOT_DEPLOYED",
+      "places": [
+        {
+          "name": "Jackass Flats, Nevada Test Site",
+          "role": "ground test complex"
+        }
+      ],
+      "people": [
+        {
+          "name": "T. C. Merkle",
+          "role": "program technical leader"
+        }
+      ],
+      "dateRange": {
+        "start": "1957-01-01",
+        "end": "1964-07-01",
+        "precision": "program period"
+      },
+      "related": [],
+      "heroAssetId": "pluto-v01",
+      "heroFile": {
+        "ko": "project-pluto__pluto-v01__ko.png",
+        "en": "project-pluto__pluto-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "흡입 공기 → 원자로 가열 → 고온 배기의 nuclear ramjet 원리.",
+        "en": "Nuclear-ramjet concept: intake air → reactor heating → hot exhaust."
+      },
+      "heroAlt": {
+        "ko": "흡입 공기 → 원자로 가열 → 고온 배기의 nuclear ramjet 원리.",
+        "en": "Nuclear-ramjet concept: intake air → reactor heating → hot exhaust."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_TECH_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "project-shamrock",
       "title": {
         "ko": "프로젝트 SHAMROCK",
@@ -9535,6 +10076,79 @@
       }
     },
     {
+      "canonicalId": "roman-dodecahedra",
+      "title": {
+        "ko": "로마 12면체",
+        "en": "Roman Dodecahedra"
+      },
+      "headline": {
+        "ko": "100개 넘게 남았는데 사용법은 한 줄도 없다—로마 12면체의 진짜 미스터리",
+        "en": "More Than a Hundred Survive, Yet No Ancient Text Explains Them—The Roman Dodecahedron Mystery"
+      },
+      "hook": {
+        "ko": "유물은 흔적이 많고 진짜다. 문제는 모든 크기·마모·출토맥락을 함께 설명하는 기능이 아직 합의되지 않았다는 점이다.",
+        "en": "The artifacts are real and numerous. The unresolved problem is finding one function that fits their sizes, wear, and archaeological contexts."
+      },
+      "aliases": [
+        "Roman dodecahedron",
+        "Gallo-Roman dodecahedron"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Roman Material Culture",
+        "Unresolved Artifact Function"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Belgium",
+        "United Kingdom"
+      ],
+      "regions": [
+        "Northwestern Roman Empire"
+      ],
+      "era": "Roman Empire",
+      "resolution": "AUTHENTIC_ARTIFACTS_FUNCTION_UNRESOLVED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "2nd century",
+        "end": "4th century",
+        "precision": "broad Roman-period dating"
+      },
+      "related": [],
+      "heroAssetId": "dodeca-v01",
+      "heroFile": {
+        "ko": "roman-dodecahedra__dodeca-v01__ko.png",
+        "en": "roman-dodecahedra__dodeca-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "면·구멍·꼭짓점 돌기와 사례별 치수 차이를 개념적으로 표시.",
+        "en": "Concept diagram of faces, apertures, vertex knobs, and dimensional variation."
+      },
+      "heroAlt": {
+        "ko": "면·구멍·꼭짓점 돌기와 사례별 치수 차이를 개념적으로 표시.",
+        "en": "Concept diagram of faces, apertures, vertex knobs, and dimensional variation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "romanov-remains-dna",
       "title": {
         "ko": "로마노프 가문의 두 번째 무덤과 DNA 확인",
@@ -9948,6 +10562,95 @@
       "publication": {
         "tier": "COMPACT_FILE",
         "editorialFamily": "ARCHAEOLOGY_STORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "sea-peoples",
+      "title": {
+        "ko": "바다 민족",
+        "en": "Sea Peoples"
+      },
+      "headline": {
+        "ko": "“바다 민족”은 한 민족의 이름이 아니었다—기록 속 여러 집단을 하나로 묶어 부른 후대의 이름",
+        "en": "“Sea Peoples” Was Not the Name of One People—It Is a Modern Label for Several Groups"
+      },
+      "hook": {
+        "ko": "이집트 비문 속 집단과 충돌은 실제다. 후기 청동기 붕괴의 모든 원인을 그들에게 돌리는 순간 증거보다 이야기가 커진다.",
+        "en": "The groups and conflicts in Egyptian records are real. Turning them into the sole cause of the Late Bronze Age collapse goes beyond the evidence."
+      },
+      "aliases": [
+        "Sea Peoples",
+        "Peleset",
+        "Sherden",
+        "Tjeker"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Late Bronze Age",
+        "Migration"
+      ],
+      "countries": [
+        "Egypt",
+        "Syria",
+        "Türkiye",
+        "Israel/Palestinian territories"
+      ],
+      "regions": [
+        "Eastern Mediterranean"
+      ],
+      "era": "Late Bronze Age collapse",
+      "resolution": "MULTIPLE_GROUPS_DOCUMENTED_SINGLE_UNIFIED_IDENTITY_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "Ugarit",
+          "role": "destroyed Late Bronze Age city"
+        },
+        {
+          "name": "Medinet Habu",
+          "role": "Egyptian relief and inscription context"
+        }
+      ],
+      "people": [
+        {
+          "name": "Ramesses III",
+          "role": "Egyptian ruler whose records describe conflicts"
+        }
+      ],
+      "dateRange": {
+        "start": "-1250",
+        "end": "-1150",
+        "precision": "Late Bronze–Early Iron Age transition"
+      },
+      "related": [],
+      "heroAssetId": "sea-v01",
+      "heroFile": {
+        "ko": "sea-peoples__sea-v01__ko.png",
+        "en": "sea-peoples__sea-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "이집트 기록에 등장하는 여러 이름을 하나의 “민족”으로 합치지 않고 분리 표시.",
+        "en": "Show the separately named groups without collapsing them into one people."
+      },
+      "heroAlt": {
+        "ko": "이집트 기록에 등장하는 여러 이름을 하나의 “민족”으로 합치지 않고 분리 표시.",
+        "en": "Show the separately named groups without collapsing them into one people."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "HISTORY_FILE",
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
@@ -10934,6 +11637,81 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "taos-hum",
+      "title": {
+        "ko": "타오스 험",
+        "en": "Taos Hum"
+      },
+      "headline": {
+        "ko": "분명 들린다는 사람은 있었지만, 마을 전체를 울리는 한 개의 소리는 찾지 못했다",
+        "en": "Some People Clearly Heard a Hum, but Investigators Did Not Find One Town-Wide Source"
+      },
+      "hook": {
+        "ko": "1993년 공개 조사에서도 “듣는 경험”과 “외부 물리 신호”는 같은 것이 아니었다.",
+        "en": "The 1993 investigation separated the reality of people’s perception from the existence of one measurable external source."
+      },
+      "aliases": [
+        "Taos Hum",
+        "New Mexico hum"
+      ],
+      "genre": "Science / Natural Anomaly",
+      "genres": [
+        "Acoustics",
+        "Perception"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "New Mexico"
+      ],
+      "era": "late 20th century",
+      "resolution": "PERCEPTIONS_DOCUMENTED_SINGLE_EXTERNAL_SOURCE_NOT_IDENTIFIED",
+      "places": [
+        {
+          "name": "Taos",
+          "role": "reported hum region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1990s",
+        "end": "1995",
+        "precision": "reports through published investigation summary"
+      },
+      "related": [],
+      "heroAssetId": "taos-v01",
+      "heroFile": {
+        "ko": "taos-hum__taos-v01__ko.png",
+        "en": "taos-hum__taos-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "hearer 인터뷰 → 음향 matching → 물리계측 → 공통원천 미확인 흐름.",
+        "en": "Hearer interviews → acoustic matching → physical measurements → no common source identified."
+      },
+      "heroAlt": {
+        "ko": "hearer 인터뷰 → 음향 matching → 물리계측 → 공통원천 미확인 흐름.",
+        "en": "Hearer interviews → acoustic matching → physical measurements → no common source identified."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SCIENCE_NATURE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {

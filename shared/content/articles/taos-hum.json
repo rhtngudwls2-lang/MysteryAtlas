@@ -1,0 +1,371 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "taos-hum",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "타오스 험",
+    "canonicalTitleEn": "Taos Hum",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SCIENCE_NATURE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "분명 들린다는 사람은 있었지만, 마을 전체를 울리는 한 개의 소리는 찾지 못했다",
+      "hook": "1993년 공개 조사에서도 “듣는 경험”과 “외부 물리 신호”는 같은 것이 아니었다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1990년대 초, 일부 주민이 낮은 엔진음 같은 소리를 호소했다",
+          "headingEn": "In the Early 1990s, Some Residents Reported a Low Engine-Like Sound",
+          "textKo": "뉴멕시코 타오스와 주변 지역에서 일부 주민은 멀리 있는 디젤엔진이나 펌프처럼 느껴지는 낮은 웅웅거림을 반복적으로 들었다고 보고했다. 모든 사람이 같은 소리를 듣는 것은 아니었고, 들린다고 말한 사람들 사이에서도 강도·시간·방향에 차이가 있었다. 불편을 호소하는 주민이 늘면서 1993년 뉴멕시코 의회 대표단의 요청으로 대학·국립연구소·군 연구기관 인력이 참여하는 공개 조사가 시작됐다.",
+          "textEn": "In and around Taos, New Mexico, some residents reported repeatedly hearing a low hum resembling a distant diesel engine or pump. Not everyone could hear it, and even among “hearers” the perceived intensity, timing, and direction varied. As complaints grew, a public investigation was organized in 1993 at the request of New Mexico’s congressional delegation, involving researchers from universities, national laboratories, and a military laboratory."
+        },
+        {
+          "blockId": "hearing-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "조사팀은 먼저 “사람들이 무엇을 듣는다고 느끼는지”를 맞춰 봤다",
+          "headingEn": "Investigators First Measured What Hearers Thought They Were Hearing",
+          "textKo": "Acoustical Society of America에 실린 조사팀 설명은 알려진 hearer들을 대상으로 저주파 음을 들려주고 자신이 평소 듣는 hum과 비슷한 주파수·변조를 맞추게 했다고 전한다. 즉 첫 단계는 신비한 원인을 찾는 것이 아니라 지각 경험을 측정 가능한 형태로 바꾸는 일이었다. 일부 사람은 30~80Hz 부근의 변조된 낮은 음과 비슷하다고 답했지만, 개인차도 컸다.",
+          "textEn": "The investigation team later described psychophysical matching tests in an Acoustical Society of America publication. Known hearers listened to controlled low-frequency tones and adjusted them toward the hum they perceived. The first step was therefore not to assume a mysterious source but to translate subjective experience into measurable parameters. Some participants matched sounds in roughly the 30–80 Hz range, while individual variation remained substantial."
+        },
+        {
+          "blockId": "search-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초저주파 마이크·지진·전자기 측정에서도 공통 원천은 잡히지 않았다",
+          "headingEn": "Acoustic, Seismic, and Electromagnetic Searches Did Not Reveal a Common Source",
+          "textKo": "조사팀은 매우 낮은 주파수까지 감지하도록 만든 대형 마이크와 분석장비를 사용하고, 가능한 지진·전자기 원인도 함께 검토했다. 당시 보도와 후속 설명은 hearer들이 소리를 느끼는 시간에 마을 전체에 공통으로 나타나는 비정상 물리 신호를 일관되게 찾지 못했다고 정리한다. 이것은 “아무도 아무것도 듣지 않았다”는 뜻이 아니라, 하나의 외부 송신원으로 현상을 묶는 증거가 나오지 않았다는 뜻이다.",
+          "textEn": "The team used highly sensitive low-frequency acoustic equipment and also considered seismic and electromagnetic possibilities. Contemporary reporting and later accounts indicate that no unusual physical signal was consistently detected across Taos when hearers reported the hum. That does not mean nobody experienced anything. It means the investigation failed to identify a single external transmitter or physical source that explained the whole phenomenon."
+        },
+        {
+          "blockId": "selective-04",
+          "type": "BACKGROUND",
+          "headingKo": "왜 일부 사람만 듣는가가 원인 규명만큼 중요해졌다",
+          "headingEn": "Why Only Some People Hear It Became Part of the Problem",
+          "textKo": "Taos Hum의 중요한 특징은 선택성이다. 같은 집에 있는 사람 중 한 명만 듣는 사례도 있었고, 장소를 옮겨도 비슷한 hum을 느낀다는 사람도 있었다. 이 때문에 환경소음·건물 공진·산업설비 같은 외부 원인뿐 아니라 이명, 저주파 청각 민감성, 신경계의 소리 처리 차이도 검토 대상이 됐다. 여러 가능성이 있다고 해서 각 개인의 경험을 심리적 착각으로 단정할 수는 없지만, “마을 아래 숨은 한 기계” 같은 단일 설명도 지지되지 않았다.",
+          "textEn": "A defining feature of the Taos Hum is selectivity. In some households only one person reported it, and some people perceived similar hums after moving elsewhere. That broadened the investigation from environmental noise, building resonance, and industrial equipment to tinnitus, low-frequency sensitivity, and differences in auditory processing. Multiple possible mechanisms do not justify dismissing individual experiences as imagination, but they also do not support a single hidden machine affecting the whole town."
+        },
+        {
+          "blockId": "comparison-045",
+          "type": "AFTERMATH",
+          "headingKo": "타오스가 특별했던 것은 hum 자체보다 공개적으로 여러 측정방법을 한자리에 모았다는 점이다",
+          "headingEn": "What Made Taos Distinctive Was the Coordinated Investigation, Not the Existence of Hums Elsewhere",
+          "textKo": "낮은 웅웅거림에 대한 민원은 타오스에만 존재하지 않는다. 조사팀도 다른 지역에서 비슷한 편지를 받았다고 기록했다. 그래서 타오스 사례의 연구가치는 “세계에서 유일한 미지의 소리”라기보다 한 지역의 hearer 집단을 대상으로 청각 matching, 저주파 음향계측, 전자기·지진 검토를 동시에 수행했다는 데 있다. 그 결과는 하나의 극적인 정답보다 더 복잡했다. 일부 사람이 반복적으로 비슷한 소리를 지각한다는 사실은 재현됐지만, 그 순간마다 외부의 동일한 물리신호가 따라붙지는 않았다. 이후 hum 연구에서도 개인별 청각특성과 환경소음을 함께 살피는 이유가 여기에 있다.",
+          "textEn": "Complaints about low hums are not unique to Taos; investigators reported receiving similar descriptions from elsewhere. The research value of the Taos case therefore lies less in being a unique mysterious sound than in the coordinated use of perceptual matching, low-frequency acoustic measurement, and electromagnetic and seismic checks on a defined group of hearers. The result was more complicated than one dramatic answer: repeated perception could be documented in some people without a matching external physical signal appearing every time. That is why later hum research must consider both environmental sound and individual auditory factors."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "조사에서 원인을 못 찾았다는 사실은 “원인이 없다”는 뜻도 아니다",
+          "headingEn": "Failure to Identify a Source Does Not Mean There Was No Cause",
+          "textKo": "1993년 조사에는 당시 장비와 관측기간이라는 한계가 있었다. 낮은 주파수의 환경소음은 건물 구조와 바람·기상, 거리 감쇠에 따라 장소별로 달라질 수 있고, 사람의 청각도 같은 음압에 동일하게 반응하지 않는다. 따라서 공통 신호를 찾지 못했다는 결과를 “모든 보고가 심리적이었다”거나 “초자연 현상이 입증됐다”는 양극단으로 해석하면 안 된다. 조사결과가 실제로 말해주는 것은 측정 당시 여러 방법을 동원했지만 타오스 전역의 hearer 경험을 한 외부 물리원으로 연결하지 못했다는 것이다.",
+          "textEn": "The 1993 investigation was limited by the instruments and observation windows available at the time. Low-frequency environmental sound can vary with building structure, wind, weather, distance, and individual auditory sensitivity. Failure to find one common signal therefore does not show that every report was purely psychological, nor does it prove a paranormal source. The defensible conclusion is narrower: despite multiple measurement approaches, investigators did not link the experiences of Taos hearers to one town-wide external physical source."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 타오스에서 일부 주민의 반복적인 저주파 hum 지각이 기록됐고 1993년 다기관 공개조사가 실제 수행됐다.\n\n확인되지 않음: 타오스 전역에 존재하는 하나의 특수 저주파·지진·전자기 발생원은 확인되지 않았고, 모든 hearer에게 동일한 원인이 적용된다는 증거도 없다.",
+          "textEn": "Established: Repeated low-frequency hum perceptions by some Taos residents were documented, and a multi-institution public investigation was conducted in 1993.\n\nNot established: No single unusual acoustic, seismic, or electromagnetic source affecting all of Taos was identified, and there is no evidence that every hearer shared the same cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 타오스에서 일부 주민의 반복적인 저주파 hum 지각이 기록됐고 1993년 다기관 공개조사가 실제 수행됐다.",
+        "notEstablished": "확인되지 않음: 타오스 전역에 존재하는 하나의 특수 저주파·지진·전자기 발생원은 확인되지 않았고, 모든 hearer에게 동일한 원인이 적용된다는 증거도 없다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "hearing-02",
+        "search-03",
+        "selective-04",
+        "comparison-045",
+        "limits-055"
+      ]
+    },
+    "en": {
+      "headline": "Some People Clearly Heard a Hum, but Investigators Did Not Find One Town-Wide Source",
+      "hook": "The 1993 investigation separated the reality of people’s perception from the existence of one measurable external source.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1990년대 초, 일부 주민이 낮은 엔진음 같은 소리를 호소했다",
+          "headingEn": "In the Early 1990s, Some Residents Reported a Low Engine-Like Sound",
+          "textKo": "뉴멕시코 타오스와 주변 지역에서 일부 주민은 멀리 있는 디젤엔진이나 펌프처럼 느껴지는 낮은 웅웅거림을 반복적으로 들었다고 보고했다. 모든 사람이 같은 소리를 듣는 것은 아니었고, 들린다고 말한 사람들 사이에서도 강도·시간·방향에 차이가 있었다. 불편을 호소하는 주민이 늘면서 1993년 뉴멕시코 의회 대표단의 요청으로 대학·국립연구소·군 연구기관 인력이 참여하는 공개 조사가 시작됐다.",
+          "textEn": "In and around Taos, New Mexico, some residents reported repeatedly hearing a low hum resembling a distant diesel engine or pump. Not everyone could hear it, and even among “hearers” the perceived intensity, timing, and direction varied. As complaints grew, a public investigation was organized in 1993 at the request of New Mexico’s congressional delegation, involving researchers from universities, national laboratories, and a military laboratory."
+        },
+        {
+          "blockId": "hearing-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "조사팀은 먼저 “사람들이 무엇을 듣는다고 느끼는지”를 맞춰 봤다",
+          "headingEn": "Investigators First Measured What Hearers Thought They Were Hearing",
+          "textKo": "Acoustical Society of America에 실린 조사팀 설명은 알려진 hearer들을 대상으로 저주파 음을 들려주고 자신이 평소 듣는 hum과 비슷한 주파수·변조를 맞추게 했다고 전한다. 즉 첫 단계는 신비한 원인을 찾는 것이 아니라 지각 경험을 측정 가능한 형태로 바꾸는 일이었다. 일부 사람은 30~80Hz 부근의 변조된 낮은 음과 비슷하다고 답했지만, 개인차도 컸다.",
+          "textEn": "The investigation team later described psychophysical matching tests in an Acoustical Society of America publication. Known hearers listened to controlled low-frequency tones and adjusted them toward the hum they perceived. The first step was therefore not to assume a mysterious source but to translate subjective experience into measurable parameters. Some participants matched sounds in roughly the 30–80 Hz range, while individual variation remained substantial."
+        },
+        {
+          "blockId": "search-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초저주파 마이크·지진·전자기 측정에서도 공통 원천은 잡히지 않았다",
+          "headingEn": "Acoustic, Seismic, and Electromagnetic Searches Did Not Reveal a Common Source",
+          "textKo": "조사팀은 매우 낮은 주파수까지 감지하도록 만든 대형 마이크와 분석장비를 사용하고, 가능한 지진·전자기 원인도 함께 검토했다. 당시 보도와 후속 설명은 hearer들이 소리를 느끼는 시간에 마을 전체에 공통으로 나타나는 비정상 물리 신호를 일관되게 찾지 못했다고 정리한다. 이것은 “아무도 아무것도 듣지 않았다”는 뜻이 아니라, 하나의 외부 송신원으로 현상을 묶는 증거가 나오지 않았다는 뜻이다.",
+          "textEn": "The team used highly sensitive low-frequency acoustic equipment and also considered seismic and electromagnetic possibilities. Contemporary reporting and later accounts indicate that no unusual physical signal was consistently detected across Taos when hearers reported the hum. That does not mean nobody experienced anything. It means the investigation failed to identify a single external transmitter or physical source that explained the whole phenomenon."
+        },
+        {
+          "blockId": "selective-04",
+          "type": "BACKGROUND",
+          "headingKo": "왜 일부 사람만 듣는가가 원인 규명만큼 중요해졌다",
+          "headingEn": "Why Only Some People Hear It Became Part of the Problem",
+          "textKo": "Taos Hum의 중요한 특징은 선택성이다. 같은 집에 있는 사람 중 한 명만 듣는 사례도 있었고, 장소를 옮겨도 비슷한 hum을 느낀다는 사람도 있었다. 이 때문에 환경소음·건물 공진·산업설비 같은 외부 원인뿐 아니라 이명, 저주파 청각 민감성, 신경계의 소리 처리 차이도 검토 대상이 됐다. 여러 가능성이 있다고 해서 각 개인의 경험을 심리적 착각으로 단정할 수는 없지만, “마을 아래 숨은 한 기계” 같은 단일 설명도 지지되지 않았다.",
+          "textEn": "A defining feature of the Taos Hum is selectivity. In some households only one person reported it, and some people perceived similar hums after moving elsewhere. That broadened the investigation from environmental noise, building resonance, and industrial equipment to tinnitus, low-frequency sensitivity, and differences in auditory processing. Multiple possible mechanisms do not justify dismissing individual experiences as imagination, but they also do not support a single hidden machine affecting the whole town."
+        },
+        {
+          "blockId": "comparison-045",
+          "type": "AFTERMATH",
+          "headingKo": "타오스가 특별했던 것은 hum 자체보다 공개적으로 여러 측정방법을 한자리에 모았다는 점이다",
+          "headingEn": "What Made Taos Distinctive Was the Coordinated Investigation, Not the Existence of Hums Elsewhere",
+          "textKo": "낮은 웅웅거림에 대한 민원은 타오스에만 존재하지 않는다. 조사팀도 다른 지역에서 비슷한 편지를 받았다고 기록했다. 그래서 타오스 사례의 연구가치는 “세계에서 유일한 미지의 소리”라기보다 한 지역의 hearer 집단을 대상으로 청각 matching, 저주파 음향계측, 전자기·지진 검토를 동시에 수행했다는 데 있다. 그 결과는 하나의 극적인 정답보다 더 복잡했다. 일부 사람이 반복적으로 비슷한 소리를 지각한다는 사실은 재현됐지만, 그 순간마다 외부의 동일한 물리신호가 따라붙지는 않았다. 이후 hum 연구에서도 개인별 청각특성과 환경소음을 함께 살피는 이유가 여기에 있다.",
+          "textEn": "Complaints about low hums are not unique to Taos; investigators reported receiving similar descriptions from elsewhere. The research value of the Taos case therefore lies less in being a unique mysterious sound than in the coordinated use of perceptual matching, low-frequency acoustic measurement, and electromagnetic and seismic checks on a defined group of hearers. The result was more complicated than one dramatic answer: repeated perception could be documented in some people without a matching external physical signal appearing every time. That is why later hum research must consider both environmental sound and individual auditory factors."
+        },
+        {
+          "blockId": "limits-055",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "조사에서 원인을 못 찾았다는 사실은 “원인이 없다”는 뜻도 아니다",
+          "headingEn": "Failure to Identify a Source Does Not Mean There Was No Cause",
+          "textKo": "1993년 조사에는 당시 장비와 관측기간이라는 한계가 있었다. 낮은 주파수의 환경소음은 건물 구조와 바람·기상, 거리 감쇠에 따라 장소별로 달라질 수 있고, 사람의 청각도 같은 음압에 동일하게 반응하지 않는다. 따라서 공통 신호를 찾지 못했다는 결과를 “모든 보고가 심리적이었다”거나 “초자연 현상이 입증됐다”는 양극단으로 해석하면 안 된다. 조사결과가 실제로 말해주는 것은 측정 당시 여러 방법을 동원했지만 타오스 전역의 hearer 경험을 한 외부 물리원으로 연결하지 못했다는 것이다.",
+          "textEn": "The 1993 investigation was limited by the instruments and observation windows available at the time. Low-frequency environmental sound can vary with building structure, wind, weather, distance, and individual auditory sensitivity. Failure to find one common signal therefore does not show that every report was purely psychological, nor does it prove a paranormal source. The defensible conclusion is narrower: despite multiple measurement approaches, investigators did not link the experiences of Taos hearers to one town-wide external physical source."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 타오스에서 일부 주민의 반복적인 저주파 hum 지각이 기록됐고 1993년 다기관 공개조사가 실제 수행됐다.\n\n확인되지 않음: 타오스 전역에 존재하는 하나의 특수 저주파·지진·전자기 발생원은 확인되지 않았고, 모든 hearer에게 동일한 원인이 적용된다는 증거도 없다.",
+          "textEn": "Established: Repeated low-frequency hum perceptions by some Taos residents were documented, and a multi-institution public investigation was conducted in 1993.\n\nNot established: No single unusual acoustic, seismic, or electromagnetic source affecting all of Taos was identified, and there is no evidence that every hearer shared the same cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Repeated low-frequency hum perceptions by some Taos residents were documented, and a multi-institution public investigation was conducted in 1993.",
+        "notEstablished": "Not established: No single unusual acoustic, seismic, or electromagnetic source affecting all of Taos was identified, and there is no evidence that every hearer shared the same cause."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "hearing-02",
+        "search-03",
+        "selective-04",
+        "comparison-045",
+        "limits-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TAOS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "일부 타오스 주민의 반복적 hum 지각과 1993년 조사는 기록돼 있다.",
+      "statementEn": "Repeated hum perceptions by some Taos residents and the 1993 investigation are documented.",
+      "sourceRefs": [
+        "TAOS_ASA",
+        "TAOS_LATIMES"
+      ]
+    },
+    {
+      "claimId": "TAOS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "마을 전체를 설명하는 하나의 비정상 외부 발생원은 확인되지 않았다.",
+      "statementEn": "No single unusual external source explaining the whole town was identified.",
+      "sourceRefs": [
+        "TAOS_ASA",
+        "TAOS_LATIMES"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "TAOS_ASA",
+      "title": "The mystery of the Taos hum",
+      "publisher": "Acoustical Society of America",
+      "url": "https://acousticalsociety.org/wp-content/uploads/2018/02/v5n3.pdf",
+      "sourceType": "PROFESSIONAL_SOCIETY_REPORT"
+    },
+    {
+      "sourceId": "TAOS_LATIMES",
+      "title": "Taos Hum investigation archive report",
+      "publisher": "Los Angeles Times",
+      "url": "https://www.latimes.com/archives/la-xpm-1993-08-22-mn-26372-story.html",
+      "sourceType": "NEWS_REPORT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "taos-v01",
+      "role": "INVESTIGATION_FLOW",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "hearer 인터뷰 → 음향 matching → 물리계측 → 공통원천 미확인 흐름.",
+      "captionEn": "Hearer interviews → acoustic matching → physical measurements → no common source identified.",
+      "altKo": "hearer 인터뷰 → 음향 matching → 물리계측 → 공통원천 미확인 흐름.",
+      "altEn": "Hearer interviews → acoustic matching → physical measurements → no common source identified.",
+      "sourceRefs": [
+        "TAOS_ASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "taos-hum__taos-v01__ko.png",
+          "sha256": "3789a4b1c54ee80218beb3a70a649fa9e584bbf1860ed05f63ffd581506a5009",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "taos-hum__taos-v01__en.png",
+          "sha256": "bbf0b1f583fe44e175e2058c64a6c4b39d435af6b4995c90339a5eaa94a118c8",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "taos-v02",
+      "role": "HYPOTHESIS_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "환경소음·건물공진·청각민감성·이명을 서로 다른 가설층으로 표시.",
+      "captionEn": "Separate environmental noise, resonance, auditory sensitivity, and tinnitus as distinct hypotheses.",
+      "altKo": "환경소음·건물공진·청각민감성·이명을 서로 다른 가설층으로 표시.",
+      "altEn": "Separate environmental noise, resonance, auditory sensitivity, and tinnitus as distinct hypotheses.",
+      "sourceRefs": [
+        "TAOS_ASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "taos-hum__taos-v02__ko.png",
+          "sha256": "52f87933ed3559a81df2f64ad72453ea6404d060d9c8b478883a3eb318edd059",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "taos-hum__taos-v02__en.png",
+          "sha256": "d6989074e1c562d02db0b6c4c905778e96e38afe5c799693034da790131285f6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "taos-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "지각 경험의 기록과 단일 외부원 미확인을 구분.",
+      "captionEn": "Separate documented perception from the absence of a single identified external source.",
+      "altKo": "지각 경험의 기록과 단일 외부원 미확인을 구분.",
+      "altEn": "Separate documented perception from the absence of a single identified external source.",
+      "sourceRefs": [
+        "TAOS_ASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "taos-hum__taos-v03__ko.png",
+          "sha256": "69fd08615981e7a8be35e699644518f907dfad35f6948f46713e0dbb38fd45bb",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "taos-hum__taos-v03__en.png",
+          "sha256": "f6a524a82052bf3265a21566cfea73262906c853b8fcc3a94abb87012a006997",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Natural Anomaly",
+    "secondaryGenres": [
+      "Acoustics",
+      "Perception"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New Mexico"
+    ],
+    "places": [
+      {
+        "name": "Taos",
+        "role": "reported hum region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "University of New Mexico",
+      "Los Alamos National Laboratory",
+      "Sandia National Laboratories"
+    ],
+    "dateRange": {
+      "start": "1990s",
+      "end": "1995",
+      "precision": "reports through published investigation summary"
+    },
+    "era": "late 20th century",
+    "resolution": "PERCEPTIONS_DOCUMENTED_SINGLE_EXTERNAL_SOURCE_NOT_IDENTIFIED",
+    "searchAliases": [
+      "Taos Hum",
+      "New Mexico hum"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1643,
+    "enBodyWords": 483,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

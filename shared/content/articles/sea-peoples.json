@@ -1,0 +1,422 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "sea-peoples",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "바다 민족",
+    "canonicalTitleEn": "Sea Peoples",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "HISTORY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "“바다 민족”은 한 민족의 이름이 아니었다—기록 속 여러 집단을 하나로 묶어 부른 후대의 이름",
+      "hook": "이집트 비문 속 집단과 충돌은 실제다. 후기 청동기 붕괴의 모든 원인을 그들에게 돌리는 순간 증거보다 이야기가 커진다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "이집트 기록에는 여러 이름의 집단이 등장한다",
+          "headingEn": "Egyptian Records Name Several Distinct Groups",
+          "textKo": "기원전 13~12세기 이집트 기록은 해상과 육상으로 이동하며 충돌한 여러 집단의 이름을 남겼다. 오늘날 연구자와 대중이 이들을 묶어 “Sea Peoples”라고 부르지만, 고대 사람들이 하나의 통일된 국가나 민족연합을 그런 이름으로 자칭했다는 증거는 없다. Ramesses III 시기의 기록과 부조는 Peleset, Tjeker, Shekelesh, Denyen, Weshesh 같은 이름들을 열거한다. 따라서 첫 번째 경계는 “여러 집단에 대한 기록”과 “하나의 민족”을 구분하는 것이다.",
+          "textEn": "Egyptian records from the thirteenth and twelfth centuries BCE list several named groups involved in movements and conflicts by land and sea. Modern scholarship commonly groups them under the label “Sea Peoples,” but there is no evidence that they called themselves one unified nation or confederation by that name. Records from the reign of Ramesses III list groups such as the Peleset, Tjeker, Shekelesh, Denyen, and Weshesh. The first boundary is therefore between several recorded groups and one imagined single people."
+        },
+        {
+          "blockId": "movement-02",
+          "type": "BACKGROUND",
+          "headingKo": "일부는 배로, 일부는 육로로 이동했고 가족과 정착의 흔적도 보인다",
+          "headingEn": "Some Moved by Sea, Others by Land, and Migration Included Settlement",
+          "textKo": "Metropolitan Museum 출판물은 “Sea Peoples”라는 이름과 달리 일부 집단이 육로로 이동했고 가족과 소유물을 동반한 정착 형태도 보였다고 설명한다. 이전부터 이집트 군대의 용병으로 알려진 집단도 있었다. 이 점은 모든 움직임을 단순한 해적 습격으로 묘사하기 어렵게 만든다. 침략·약탈, 군사고용, 난민성 이동, 새로운 정착이 동시에 섞였을 가능성을 고려해야 한다.",
+          "textEn": "Metropolitan Museum publications note that, despite the modern label “Sea Peoples,” some groups moved overland and appear in contexts that suggest migration and settlement with families and possessions. Some groups were already known earlier as mercenaries in Egyptian service. This makes it difficult to reduce every movement to piracy. Raiding, military service, displacement, and settlement may all have been part of the broader upheaval."
+        },
+        {
+          "blockId": "destruction-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "도시 파괴는 실제지만 모든 파괴를 같은 집단에 연결할 수는 없다",
+          "headingEn": "City Destruction Is Real, but Not Every Destruction Can Be Assigned to the Same People",
+          "textKo": "기원전 1200년 전후 동지중해에서 우가리트와 여러 도시가 파괴되거나 정치체제가 바뀐 사실은 고고학적으로 분명하다. 하지만 우가리트에 관한 Met 설명도 해적 습격 기록이 존재하면서 동시에 히타이트와 우가리트의 붕괴를 모두 Sea Peoples에게 돌리는 것은 확실하지 않다고 지적한다. 파괴층과 문헌의 날짜, 가뭄·내부갈등·교역망 붕괴를 함께 보지 않으면 “한 집단이 모든 도시를 쓸어버렸다”는 단순한 그림이 된다.",
+          "textEn": "Archaeology clearly shows destruction and political transformation at Ugarit and other eastern Mediterranean sites around 1200 BCE. Yet the Met’s discussion of Ugarit notes that, although late letters refer to raiding groups connected with those named in Egyptian records, it is not certain that the fall of the Hittites and Ugarit should be attributed to them alone. Destruction layers must be considered alongside chronology, drought, internal conflict, and network failure rather than folded into a single invasion story."
+        },
+        {
+          "blockId": "identity-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "고고학 문화와 이집트 이름을 일대일로 맞추는 것은 어렵다",
+          "headingEn": "Matching Egyptian Names to Archaeological Cultures One-to-One Is Difficult",
+          "textKo": "후대 레반트의 필리스티아 문화와 Peleset를 연결하는 논의처럼 일부 연결은 강하지만, 모든 이름의 기원과 최종 정착지를 같은 수준으로 확정할 수는 없다. 복장·무기·도자기·매장관습은 이동과 문화접촉을 보여주지만 하나의 유물 양식이 곧 하나의 민족을 뜻하지 않는다. 이동 과정에서 집단의 구성과 정체성이 바뀌었을 가능성도 크다.",
+          "textEn": "Some links are stronger than others—for example, discussions connecting the Peleset with later Philistine communities. But the origin and final settlement of every named group cannot be established with equal confidence. Clothing, weapons, pottery, and burial practices show mobility and cultural contact, yet an archaeological style is not automatically identical with one ethnic group. Group composition and identity may also have changed during migration."
+        },
+        {
+          "blockId": "collapse-05",
+          "type": "AFTERMATH",
+          "headingKo": "후기 청동기 붕괴의 원인이라기보다 그 격변 속 행위자 중 하나로 보는 편이 안전하다",
+          "headingEn": "They Fit Better as Actors Within the Crisis Than as Its Sole Cause",
+          "textKo": "동지중해의 후기 청동기 전환은 도시파괴, 장거리 교역 축소, 왕국 붕괴, 기후압력, 전쟁과 인구이동이 겹친 복합 사건이다. Sea Peoples로 묶인 여러 집단은 그 격변의 중요한 행위자였지만, 그들이 이미 흔들리던 체계를 무너뜨린 유일한 외부 침입자였다고 확정할 근거는 부족하다. 원인과 결과가 서로 뒤섞였을 가능성을 남겨둬야 한다.",
+          "textEn": "The Late Bronze Age transition combined city destruction, contraction of long-distance trade, political collapse, climate pressure, warfare, and migration. The groups later labeled Sea Peoples were important actors in that upheaval, but the evidence does not establish them as one external force that single-handedly destroyed an otherwise stable system. Migration may have been both a cause and a consequence of wider instability."
+        },
+        {
+          "blockId": "continuity-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 격변 속에서도 페니키아 해안도시처럼 연속성이 강한 지역이 있었다",
+          "headingEn": "Some Regions, Including Phoenician Coastal Centers, Show Stronger Continuity Through the Same Upheaval",
+          "textKo": "“Sea Peoples가 동지중해를 쓸어버렸다”는 단순한 지도를 흔드는 증거는 살아남은 지역에서도 나온다. Metropolitan Museum의 페니키아 해안도시 설명은 기원전 1200년 전후 주변 지역이 큰 충격을 받았지만 일부 페니키아 중심지에서는 후기 청동기에서 철기시대로 이어지는 점유와 문화적 연속성이 상대적으로 강했다고 정리한다. 같은 시기 같은 바다에 연결된 도시들이 서로 다른 결과를 보였다는 것은 침입 하나만으로 전체 변화를 설명하기 어렵다는 뜻이다. 지역의 방어, 교역관계, 정치적 선택과 이동집단과의 관계가 결과를 달리했을 수 있다.",
+          "textEn": "The survival of some regions complicates any map in which the Sea Peoples simply swept away the entire eastern Mediterranean. The Metropolitan Museum’s discussion of Phoenician coastal centers notes comparatively strong continuity across the Late Bronze–Iron Age transition even while nearby regions suffered major disruption. Different outcomes among cities connected to the same sea make a single invasion explanation insufficient. Local defense, trade relationships, political choices, and interactions with mobile groups may all have shaped why some centers endured while others did not."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 이집트 비문과 부조에는 여러 이름의 이동·전투 집단이 기록돼 있고, 동지중해 여러 지역에서 같은 시대의 파괴와 인구이동이 관찰된다.\n\n확인되지 않음: “Sea Peoples”가 하나의 통일 민족·제국이었다는 것, 혹은 후기 청동기 붕괴 전체를 단독으로 일으켰다는 단일 원인설은 확립되지 않았다.",
+          "textEn": "Established: Egyptian inscriptions and reliefs record several named mobile and combatant groups, while archaeology documents contemporary destruction and population movement across parts of the eastern Mediterranean.\n\nNot established: The “Sea Peoples” were not established as one unified nation or empire, nor is a single-cause theory in which they alone caused the entire Late Bronze Age collapse supported."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 이집트 비문과 부조에는 여러 이름의 이동·전투 집단이 기록돼 있고, 동지중해 여러 지역에서 같은 시대의 파괴와 인구이동이 관찰된다.",
+        "notEstablished": "확인되지 않음: “Sea Peoples”가 하나의 통일 민족·제국이었다는 것, 혹은 후기 청동기 붕괴 전체를 단독으로 일으켰다는 단일 원인설은 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "movement-02",
+        "destruction-03",
+        "identity-04",
+        "collapse-05",
+        "continuity-055"
+      ]
+    },
+    "en": {
+      "headline": "“Sea Peoples” Was Not the Name of One People—It Is a Modern Label for Several Groups",
+      "hook": "The groups and conflicts in Egyptian records are real. Turning them into the sole cause of the Late Bronze Age collapse goes beyond the evidence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "이집트 기록에는 여러 이름의 집단이 등장한다",
+          "headingEn": "Egyptian Records Name Several Distinct Groups",
+          "textKo": "기원전 13~12세기 이집트 기록은 해상과 육상으로 이동하며 충돌한 여러 집단의 이름을 남겼다. 오늘날 연구자와 대중이 이들을 묶어 “Sea Peoples”라고 부르지만, 고대 사람들이 하나의 통일된 국가나 민족연합을 그런 이름으로 자칭했다는 증거는 없다. Ramesses III 시기의 기록과 부조는 Peleset, Tjeker, Shekelesh, Denyen, Weshesh 같은 이름들을 열거한다. 따라서 첫 번째 경계는 “여러 집단에 대한 기록”과 “하나의 민족”을 구분하는 것이다.",
+          "textEn": "Egyptian records from the thirteenth and twelfth centuries BCE list several named groups involved in movements and conflicts by land and sea. Modern scholarship commonly groups them under the label “Sea Peoples,” but there is no evidence that they called themselves one unified nation or confederation by that name. Records from the reign of Ramesses III list groups such as the Peleset, Tjeker, Shekelesh, Denyen, and Weshesh. The first boundary is therefore between several recorded groups and one imagined single people."
+        },
+        {
+          "blockId": "movement-02",
+          "type": "BACKGROUND",
+          "headingKo": "일부는 배로, 일부는 육로로 이동했고 가족과 정착의 흔적도 보인다",
+          "headingEn": "Some Moved by Sea, Others by Land, and Migration Included Settlement",
+          "textKo": "Metropolitan Museum 출판물은 “Sea Peoples”라는 이름과 달리 일부 집단이 육로로 이동했고 가족과 소유물을 동반한 정착 형태도 보였다고 설명한다. 이전부터 이집트 군대의 용병으로 알려진 집단도 있었다. 이 점은 모든 움직임을 단순한 해적 습격으로 묘사하기 어렵게 만든다. 침략·약탈, 군사고용, 난민성 이동, 새로운 정착이 동시에 섞였을 가능성을 고려해야 한다.",
+          "textEn": "Metropolitan Museum publications note that, despite the modern label “Sea Peoples,” some groups moved overland and appear in contexts that suggest migration and settlement with families and possessions. Some groups were already known earlier as mercenaries in Egyptian service. This makes it difficult to reduce every movement to piracy. Raiding, military service, displacement, and settlement may all have been part of the broader upheaval."
+        },
+        {
+          "blockId": "destruction-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "도시 파괴는 실제지만 모든 파괴를 같은 집단에 연결할 수는 없다",
+          "headingEn": "City Destruction Is Real, but Not Every Destruction Can Be Assigned to the Same People",
+          "textKo": "기원전 1200년 전후 동지중해에서 우가리트와 여러 도시가 파괴되거나 정치체제가 바뀐 사실은 고고학적으로 분명하다. 하지만 우가리트에 관한 Met 설명도 해적 습격 기록이 존재하면서 동시에 히타이트와 우가리트의 붕괴를 모두 Sea Peoples에게 돌리는 것은 확실하지 않다고 지적한다. 파괴층과 문헌의 날짜, 가뭄·내부갈등·교역망 붕괴를 함께 보지 않으면 “한 집단이 모든 도시를 쓸어버렸다”는 단순한 그림이 된다.",
+          "textEn": "Archaeology clearly shows destruction and political transformation at Ugarit and other eastern Mediterranean sites around 1200 BCE. Yet the Met’s discussion of Ugarit notes that, although late letters refer to raiding groups connected with those named in Egyptian records, it is not certain that the fall of the Hittites and Ugarit should be attributed to them alone. Destruction layers must be considered alongside chronology, drought, internal conflict, and network failure rather than folded into a single invasion story."
+        },
+        {
+          "blockId": "identity-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "고고학 문화와 이집트 이름을 일대일로 맞추는 것은 어렵다",
+          "headingEn": "Matching Egyptian Names to Archaeological Cultures One-to-One Is Difficult",
+          "textKo": "후대 레반트의 필리스티아 문화와 Peleset를 연결하는 논의처럼 일부 연결은 강하지만, 모든 이름의 기원과 최종 정착지를 같은 수준으로 확정할 수는 없다. 복장·무기·도자기·매장관습은 이동과 문화접촉을 보여주지만 하나의 유물 양식이 곧 하나의 민족을 뜻하지 않는다. 이동 과정에서 집단의 구성과 정체성이 바뀌었을 가능성도 크다.",
+          "textEn": "Some links are stronger than others—for example, discussions connecting the Peleset with later Philistine communities. But the origin and final settlement of every named group cannot be established with equal confidence. Clothing, weapons, pottery, and burial practices show mobility and cultural contact, yet an archaeological style is not automatically identical with one ethnic group. Group composition and identity may also have changed during migration."
+        },
+        {
+          "blockId": "collapse-05",
+          "type": "AFTERMATH",
+          "headingKo": "후기 청동기 붕괴의 원인이라기보다 그 격변 속 행위자 중 하나로 보는 편이 안전하다",
+          "headingEn": "They Fit Better as Actors Within the Crisis Than as Its Sole Cause",
+          "textKo": "동지중해의 후기 청동기 전환은 도시파괴, 장거리 교역 축소, 왕국 붕괴, 기후압력, 전쟁과 인구이동이 겹친 복합 사건이다. Sea Peoples로 묶인 여러 집단은 그 격변의 중요한 행위자였지만, 그들이 이미 흔들리던 체계를 무너뜨린 유일한 외부 침입자였다고 확정할 근거는 부족하다. 원인과 결과가 서로 뒤섞였을 가능성을 남겨둬야 한다.",
+          "textEn": "The Late Bronze Age transition combined city destruction, contraction of long-distance trade, political collapse, climate pressure, warfare, and migration. The groups later labeled Sea Peoples were important actors in that upheaval, but the evidence does not establish them as one external force that single-handedly destroyed an otherwise stable system. Migration may have been both a cause and a consequence of wider instability."
+        },
+        {
+          "blockId": "continuity-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "같은 격변 속에서도 페니키아 해안도시처럼 연속성이 강한 지역이 있었다",
+          "headingEn": "Some Regions, Including Phoenician Coastal Centers, Show Stronger Continuity Through the Same Upheaval",
+          "textKo": "“Sea Peoples가 동지중해를 쓸어버렸다”는 단순한 지도를 흔드는 증거는 살아남은 지역에서도 나온다. Metropolitan Museum의 페니키아 해안도시 설명은 기원전 1200년 전후 주변 지역이 큰 충격을 받았지만 일부 페니키아 중심지에서는 후기 청동기에서 철기시대로 이어지는 점유와 문화적 연속성이 상대적으로 강했다고 정리한다. 같은 시기 같은 바다에 연결된 도시들이 서로 다른 결과를 보였다는 것은 침입 하나만으로 전체 변화를 설명하기 어렵다는 뜻이다. 지역의 방어, 교역관계, 정치적 선택과 이동집단과의 관계가 결과를 달리했을 수 있다.",
+          "textEn": "The survival of some regions complicates any map in which the Sea Peoples simply swept away the entire eastern Mediterranean. The Metropolitan Museum’s discussion of Phoenician coastal centers notes comparatively strong continuity across the Late Bronze–Iron Age transition even while nearby regions suffered major disruption. Different outcomes among cities connected to the same sea make a single invasion explanation insufficient. Local defense, trade relationships, political choices, and interactions with mobile groups may all have shaped why some centers endured while others did not."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 이집트 비문과 부조에는 여러 이름의 이동·전투 집단이 기록돼 있고, 동지중해 여러 지역에서 같은 시대의 파괴와 인구이동이 관찰된다.\n\n확인되지 않음: “Sea Peoples”가 하나의 통일 민족·제국이었다는 것, 혹은 후기 청동기 붕괴 전체를 단독으로 일으켰다는 단일 원인설은 확립되지 않았다.",
+          "textEn": "Established: Egyptian inscriptions and reliefs record several named mobile and combatant groups, while archaeology documents contemporary destruction and population movement across parts of the eastern Mediterranean.\n\nNot established: The “Sea Peoples” were not established as one unified nation or empire, nor is a single-cause theory in which they alone caused the entire Late Bronze Age collapse supported."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Egyptian inscriptions and reliefs record several named mobile and combatant groups, while archaeology documents contemporary destruction and population movement across parts of the eastern Mediterranean.",
+        "notEstablished": "Not established: The “Sea Peoples” were not established as one unified nation or empire, nor is a single-cause theory in which they alone caused the entire Late Bronze Age collapse supported."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "movement-02",
+        "destruction-03",
+        "identity-04",
+        "collapse-05",
+        "continuity-055"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SEA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "이집트 기록은 여러 이름의 집단과 전투를 기록한다.",
+      "statementEn": "Egyptian records document several named groups and conflicts.",
+      "sourceRefs": [
+        "SEA_MET_ASSYRIA"
+      ]
+    },
+    {
+      "claimId": "SEA-C2",
+      "status": "SUPPORTED",
+      "statementKo": "일부 집단은 육로 이동·정착·용병 활동과도 연결된다.",
+      "statementEn": "Some groups are associated with overland migration, settlement, and mercenary service.",
+      "sourceRefs": [
+        "SEA_MET_ASSYRIA"
+      ]
+    },
+    {
+      "claimId": "SEA-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Sea Peoples를 하나의 통일 민족으로 보거나 붕괴의 단일 원인으로 보는 것은 확립되지 않았다.",
+      "statementEn": "A single unified Sea Peoples identity or a sole-cause explanation of the collapse is not established.",
+      "sourceRefs": [
+        "SEA_MET_ASSYRIA",
+        "SEA_MET_UGARIT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SEA_MET_ASSYRIA",
+      "title": "Assyria to Iberia: Art and Culture in the Iron Age",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Assyria_to_Iberia_Art_and_Culture_in_the_Iron_Age.pdf",
+      "sourceType": "MUSEUM_SCHOLARLY_PUBLICATION"
+    },
+    {
+      "sourceId": "SEA_MET_UGARIT",
+      "title": "Ugarit",
+      "publisher": "The Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/de/essays/ugarit",
+      "sourceType": "MUSEUM_SCHOLARLY_ESSAY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sea-v01",
+      "role": "GROUP_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "이집트 기록에 등장하는 여러 이름을 하나의 “민족”으로 합치지 않고 분리 표시.",
+      "captionEn": "Show the separately named groups without collapsing them into one people.",
+      "altKo": "이집트 기록에 등장하는 여러 이름을 하나의 “민족”으로 합치지 않고 분리 표시.",
+      "altEn": "Show the separately named groups without collapsing them into one people.",
+      "sourceRefs": [
+        "SEA_MET_ASSYRIA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sea-peoples__sea-v01__ko.png",
+          "sha256": "fd882738b63a65feed6f9d1f2fbddfc3218a134eec36db7ed030250bcecee174",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sea-peoples__sea-v01__en.png",
+          "sha256": "adf2756b980ac39d69ce4b00af6b1d6a5cabb11c1ee87588d3745a1c14bef09c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sea-v02",
+      "role": "MOBILITY_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "해상·육상 이동, 군사활동, 정착 가능성을 한 흐름도에 분리.",
+      "captionEn": "Separate sea movement, overland movement, warfare, and settlement.",
+      "altKo": "해상·육상 이동, 군사활동, 정착 가능성을 한 흐름도에 분리.",
+      "altEn": "Separate sea movement, overland movement, warfare, and settlement.",
+      "sourceRefs": [
+        "SEA_MET_ASSYRIA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sea-peoples__sea-v02__ko.png",
+          "sha256": "1da2f3e8ed022c9a4779033b879c41241c08ccba58d6abb38ff1eb7e23ba4bb0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sea-peoples__sea-v02__en.png",
+          "sha256": "878056fb25ff5aa607bc5ba9f56b3c482cf9b25d79db9bdeeac3e86ce767bc21",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sea-v03",
+      "role": "CAUSE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "도시파괴·기후·전쟁·교역망·이동을 복합요인으로 비교.",
+      "captionEn": "Compare destruction, climate, warfare, trade networks, and migration as interacting factors.",
+      "altKo": "도시파괴·기후·전쟁·교역망·이동을 복합요인으로 비교.",
+      "altEn": "Compare destruction, climate, warfare, trade networks, and migration as interacting factors.",
+      "sourceRefs": [
+        "SEA_MET_UGARIT"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sea-peoples__sea-v03__ko.png",
+          "sha256": "221124a3e63e58df1b6e9dfcd01a6cdf5c16bbf47a74b41c0130d1d8a2a0213a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sea-peoples__sea-v03__en.png",
+          "sha256": "7fb4d7ff4aa7211547ee9be3817c49755592beb41b27f923ce9a528bda4f2e4e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "sea-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기록된 집단과 “통일 Sea Peoples” 서사를 구분.",
+      "captionEn": "Separate recorded groups from the modern unified Sea Peoples narrative.",
+      "altKo": "기록된 집단과 “통일 Sea Peoples” 서사를 구분.",
+      "altEn": "Separate recorded groups from the modern unified Sea Peoples narrative.",
+      "sourceRefs": [
+        "SEA_MET_ASSYRIA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sea-peoples__sea-v04__ko.png",
+          "sha256": "47d2a6d17a6fa2e89d7605842890f5b8ddf4df50e10235f62e8c30cc4866ec80",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sea-peoples__sea-v04__en.png",
+          "sha256": "764bb7cb31468a5fb0b773727c3a3b777f0e23c21789a80cc8e9950f1e1d6314",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Late Bronze Age",
+      "Migration"
+    ],
+    "countries": [
+      "Egypt",
+      "Syria",
+      "Türkiye",
+      "Israel/Palestinian territories"
+    ],
+    "regions": [
+      "Eastern Mediterranean"
+    ],
+    "places": [
+      {
+        "name": "Ugarit",
+        "role": "destroyed Late Bronze Age city"
+      },
+      {
+        "name": "Medinet Habu",
+        "role": "Egyptian relief and inscription context"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ramesses III",
+        "role": "Egyptian ruler whose records describe conflicts"
+      }
+    ],
+    "organizations": [
+      "The Metropolitan Museum of Art"
+    ],
+    "dateRange": {
+      "start": "-1250",
+      "end": "-1150",
+      "precision": "Late Bronze–Early Iron Age transition"
+    },
+    "era": "Late Bronze Age collapse",
+    "resolution": "MULTIPLE_GROUPS_DOCUMENTED_SINGLE_UNIFIED_IDENTITY_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Sea Peoples",
+      "Peleset",
+      "Sherden",
+      "Tjeker"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1573,
+    "enBodyWords": 489,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 4,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

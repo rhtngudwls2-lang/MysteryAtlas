@@ -1,0 +1,368 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "roman-dodecahedra",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로마 12면체",
+    "canonicalTitleEn": "Roman Dodecahedra",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "ARCHAEOLOGY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "100개 넘게 남았는데 사용법은 한 줄도 없다—로마 12면체의 진짜 미스터리",
+      "hook": "유물은 흔적이 많고 진짜다. 문제는 모든 크기·마모·출토맥락을 함께 설명하는 기능이 아직 합의되지 않았다는 점이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "청동 12면체는 로마제국 북서부에서 반복적으로 발견됐다",
+          "headingEn": "Bronze Dodecahedra Recur Across the Northwestern Roman Empire",
+          "textKo": "로마 12면체는 속이 빈 청동 12면체로 각 면 중앙에 크기가 다른 원형 구멍이 있고 꼭짓점마다 둥근 돌기가 달린 경우가 많다. 지금까지 100개가 넘는 사례가 주로 로마제국 북서부 지역에서 발견됐다. 군영, 주거지, 무덤, 사원 등 출토맥락도 한 가지가 아니다. 유물의 실재나 로마시대 제작이라는 점은 미스터리가 아니다. 미스터리는 왜 이런 형태가 반복 제작됐는지다.",
+          "textEn": "Roman dodecahedra are hollow bronze twelve-sided objects, usually with circular holes of different diameters in each face and knobs at the vertices. More than a hundred have been found, mainly in the northwestern Roman Empire. Their contexts vary—military sites, settlements, graves, and temples among them. Their authenticity as Roman-period objects is not the mystery. The unresolved question is why this distinctive form was repeatedly produced."
+        },
+        {
+          "blockId": "variation-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "크기와 구멍 지름이 달라 “정밀 표준기구” 설명을 어렵게 만든다",
+          "headingEn": "Variation in Size and Apertures Complicates a Single Standard-Instrument Theory",
+          "textKo": "Grand Curtius와 Hunt Museum의 설명처럼 개별 12면체는 크기와 구멍지름, 마모 상태가 서로 다르다. 만약 모두 동일한 측량·거리측정 장비였다면 일정한 규격이나 눈금이 기대될 수 있지만 현재 알려진 사례는 매우 다양하다. 반대로 표준화가 부족하다는 이유만으로 실용도구 가능성을 완전히 배제할 수도 없다. 지역별 주문품이나 다른 용도가 있었을 수 있기 때문이다.",
+          "textEn": "Museum descriptions note substantial variation in overall size, aperture diameter, and wear. If every object were the same precision surveying or range-finding instrument, one might expect stronger standardization or markings. Yet the lack of standardization does not automatically eliminate all practical uses—objects could have been locally made or used in more than one way. Variation is evidence that any single universal function must explain."
+        },
+        {
+          "blockId": "no-text-03",
+          "type": "BACKGROUND",
+          "headingKo": "가장 큰 공백은 고대 문헌이 이 물체를 설명하지 않는다는 점이다",
+          "headingEn": "The Largest Gap Is the Absence of an Ancient Written Explanation",
+          "textKo": "로마인은 수많은 도구와 물건의 이름·용도를 문헌, 비문, 그림으로 남겼지만 현재까지 12면체를 분명히 지칭하는 설명은 확인되지 않았다. 이 때문에 현대의 모든 기능설은 유물 자체의 형태, 발견장소, 마모와 실험복원에서 출발한다. 문헌 한 줄이 없다는 사실은 어떤 가설도 쉽게 결정타를 얻지 못하는 이유다.",
+          "textEn": "Romans left extensive written, inscribed, and visual evidence for many tools and objects, yet no surviving ancient text has been securely identified as an explanation of these dodecahedra. Modern proposals therefore rely on shape, find context, wear, and experimental reconstruction. The absence of an explicit ancient description is one reason no hypothesis has achieved a decisive advantage."
+        },
+        {
+          "blockId": "hypotheses-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "측량기·촛대·뜨개도구·게임·점술도구까지 가설이 넓다",
+          "headingEn": "Hypotheses Range From Surveying and Candleholders to Knitting, Games, and Divination",
+          "textKo": "구멍의 시차를 이용한 거리측정, 촛대, 장갑 제작용 뜨개틀, 게임도구, 군사용 기구, 종교·점술물이라는 설명이 제시돼 왔다. 각각은 일부 형태나 실험을 설명하지만 전체 분포와 출토맥락을 동시에 설명하기 어렵다. 예를 들어 뜨개 실험이 가능하다고 해서 고대인이 실제로 그 목적으로 사용했다는 증거가 되는 것은 아니다. “할 수 있다”와 “했다”를 구분해야 한다.",
+          "textEn": "Proposals include range-finding through aperture geometry, candle holders, knitting tools, gaming pieces, military instruments, and ritual or divinatory objects. Each can explain some feature or experimental use, but none easily accounts for the full distribution and archaeological context. Demonstrating that an object can perform a modern reconstruction task does not prove Romans actually used it that way. “Could be used for” and “was used for” are different claims."
+        },
+        {
+          "blockId": "context-045",
+          "type": "AFTERMATH",
+          "headingKo": "기능을 풀려면 모양보다 출토맥락과 사용흔을 더 많이 비교해야 한다",
+          "headingEn": "Solving the Function Requires Comparing Context and Wear, Not Just Shape",
+          "textKo": "새로운 12면체가 발견될 때 가장 중요한 정보는 사진 한 장보다 정확한 출토층, 주변 유물, 금속성분, 마모와 잔류물이다. 오래전 시장에서 맥락 없이 나온 물체는 형태 비교는 가능해도 사용환경을 복원하기 어렵다. 반대로 통제된 발굴에서 나온 사례가 늘면 군사·주거·의례 가운데 어떤 맥락이 반복되는지 통계적으로 비교할 수 있다. 구멍 안쪽의 마모 방향이나 그을음·유기잔류물 같은 미세증거가 확인된다면 특정 가설을 강하게 좁힐 수 있다. 즉 이 미스터리는 기발한 새 용도를 생각해내는 경쟁보다 좋은 발굴자료를 더 확보하는 문제에 가깝다.",
+          "textEn": "When a new dodecahedron is found, its exact archaeological layer, associated objects, metal composition, wear, and residues matter more than one striking photograph. Pieces that entered collections without context can be compared by shape but reveal little about how they were used. Controlled excavations, by contrast, can show whether military, domestic, funerary, or ritual settings recur. Microscopic wear inside apertures, soot, or organic residues could strongly narrow some hypotheses. The mystery is therefore less a contest to invent clever new uses than a problem of accumulating better contextual evidence."
+        },
+        {
+          "blockId": "distribution-047",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "분포 자체도 수수께끼의 일부다",
+          "headingEn": "Their Geographic Distribution Is Part of the Puzzle",
+          "textKo": "12면체는 로마제국 전체에 균등하게 퍼지지 않고 갈리아·브리타니아·게르마니아 등 북서부 지역에서 집중적으로 발견된다. 만약 제국 공통의 공식 측량기나 군 표준장비였다면 지중해 동부와 이탈리아에서도 비슷한 분포가 기대될 수 있다. 반대로 지역적 의례물·공예도구라면 북서부 편중은 설명하기 쉬워질 수 있다. 하지만 출토맥락이 너무 다양해 특정 지역문화의 한 가지 용도로도 깔끔하게 수렴하지 않는다. 그래서 분포는 가설을 좁히는 단서이면서 동시에 어느 설명도 완전히 만족시키지 못하는 제약조건이다. 작은 차이도 기능 추정에는 중요하다.",
+          "textEn": "Roman dodecahedra are not evenly distributed across the empire; finds cluster in northwestern regions such as Gaul, Britain, and Germania. If they were a universal official surveying instrument or standardized military tool, a broader pattern across Italy and the eastern Mediterranean might be expected. A regional craft or ritual object could better fit the northwestern concentration, yet the archaeological contexts are too varied to point cleanly to one local function. Distribution therefore acts both as a clue and as a constraint that many proposed explanations fail to satisfy."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2~4세기경 로마제국 북서부에서 100개가 넘는 청동 12면체가 다양한 맥락에서 발견됐고 형태·치수·마모가 기록돼 있다.\n\n확인되지 않음: 모든 사례의 분포·치수·마모·출토맥락을 동시에 설명하며 학계 합의를 얻은 단일 기능은 없다.",
+          "textEn": "Established: More than a hundred bronze dodecahedra dating broadly to the Roman period have been found across varied northwestern imperial contexts, with documented differences in dimensions and wear.\n\nNot established: No single function has achieved consensus while explaining the full distribution, measurements, wear, and archaeological contexts."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 2~4세기경 로마제국 북서부에서 100개가 넘는 청동 12면체가 다양한 맥락에서 발견됐고 형태·치수·마모가 기록돼 있다.",
+        "notEstablished": "확인되지 않음: 모든 사례의 분포·치수·마모·출토맥락을 동시에 설명하며 학계 합의를 얻은 단일 기능은 없다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "variation-02",
+        "no-text-03",
+        "hypotheses-04",
+        "context-045",
+        "distribution-047"
+      ]
+    },
+    "en": {
+      "headline": "More Than a Hundred Survive, Yet No Ancient Text Explains Them—The Roman Dodecahedron Mystery",
+      "hook": "The artifacts are real and numerous. The unresolved problem is finding one function that fits their sizes, wear, and archaeological contexts.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "청동 12면체는 로마제국 북서부에서 반복적으로 발견됐다",
+          "headingEn": "Bronze Dodecahedra Recur Across the Northwestern Roman Empire",
+          "textKo": "로마 12면체는 속이 빈 청동 12면체로 각 면 중앙에 크기가 다른 원형 구멍이 있고 꼭짓점마다 둥근 돌기가 달린 경우가 많다. 지금까지 100개가 넘는 사례가 주로 로마제국 북서부 지역에서 발견됐다. 군영, 주거지, 무덤, 사원 등 출토맥락도 한 가지가 아니다. 유물의 실재나 로마시대 제작이라는 점은 미스터리가 아니다. 미스터리는 왜 이런 형태가 반복 제작됐는지다.",
+          "textEn": "Roman dodecahedra are hollow bronze twelve-sided objects, usually with circular holes of different diameters in each face and knobs at the vertices. More than a hundred have been found, mainly in the northwestern Roman Empire. Their contexts vary—military sites, settlements, graves, and temples among them. Their authenticity as Roman-period objects is not the mystery. The unresolved question is why this distinctive form was repeatedly produced."
+        },
+        {
+          "blockId": "variation-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "크기와 구멍 지름이 달라 “정밀 표준기구” 설명을 어렵게 만든다",
+          "headingEn": "Variation in Size and Apertures Complicates a Single Standard-Instrument Theory",
+          "textKo": "Grand Curtius와 Hunt Museum의 설명처럼 개별 12면체는 크기와 구멍지름, 마모 상태가 서로 다르다. 만약 모두 동일한 측량·거리측정 장비였다면 일정한 규격이나 눈금이 기대될 수 있지만 현재 알려진 사례는 매우 다양하다. 반대로 표준화가 부족하다는 이유만으로 실용도구 가능성을 완전히 배제할 수도 없다. 지역별 주문품이나 다른 용도가 있었을 수 있기 때문이다.",
+          "textEn": "Museum descriptions note substantial variation in overall size, aperture diameter, and wear. If every object were the same precision surveying or range-finding instrument, one might expect stronger standardization or markings. Yet the lack of standardization does not automatically eliminate all practical uses—objects could have been locally made or used in more than one way. Variation is evidence that any single universal function must explain."
+        },
+        {
+          "blockId": "no-text-03",
+          "type": "BACKGROUND",
+          "headingKo": "가장 큰 공백은 고대 문헌이 이 물체를 설명하지 않는다는 점이다",
+          "headingEn": "The Largest Gap Is the Absence of an Ancient Written Explanation",
+          "textKo": "로마인은 수많은 도구와 물건의 이름·용도를 문헌, 비문, 그림으로 남겼지만 현재까지 12면체를 분명히 지칭하는 설명은 확인되지 않았다. 이 때문에 현대의 모든 기능설은 유물 자체의 형태, 발견장소, 마모와 실험복원에서 출발한다. 문헌 한 줄이 없다는 사실은 어떤 가설도 쉽게 결정타를 얻지 못하는 이유다.",
+          "textEn": "Romans left extensive written, inscribed, and visual evidence for many tools and objects, yet no surviving ancient text has been securely identified as an explanation of these dodecahedra. Modern proposals therefore rely on shape, find context, wear, and experimental reconstruction. The absence of an explicit ancient description is one reason no hypothesis has achieved a decisive advantage."
+        },
+        {
+          "blockId": "hypotheses-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "측량기·촛대·뜨개도구·게임·점술도구까지 가설이 넓다",
+          "headingEn": "Hypotheses Range From Surveying and Candleholders to Knitting, Games, and Divination",
+          "textKo": "구멍의 시차를 이용한 거리측정, 촛대, 장갑 제작용 뜨개틀, 게임도구, 군사용 기구, 종교·점술물이라는 설명이 제시돼 왔다. 각각은 일부 형태나 실험을 설명하지만 전체 분포와 출토맥락을 동시에 설명하기 어렵다. 예를 들어 뜨개 실험이 가능하다고 해서 고대인이 실제로 그 목적으로 사용했다는 증거가 되는 것은 아니다. “할 수 있다”와 “했다”를 구분해야 한다.",
+          "textEn": "Proposals include range-finding through aperture geometry, candle holders, knitting tools, gaming pieces, military instruments, and ritual or divinatory objects. Each can explain some feature or experimental use, but none easily accounts for the full distribution and archaeological context. Demonstrating that an object can perform a modern reconstruction task does not prove Romans actually used it that way. “Could be used for” and “was used for” are different claims."
+        },
+        {
+          "blockId": "context-045",
+          "type": "AFTERMATH",
+          "headingKo": "기능을 풀려면 모양보다 출토맥락과 사용흔을 더 많이 비교해야 한다",
+          "headingEn": "Solving the Function Requires Comparing Context and Wear, Not Just Shape",
+          "textKo": "새로운 12면체가 발견될 때 가장 중요한 정보는 사진 한 장보다 정확한 출토층, 주변 유물, 금속성분, 마모와 잔류물이다. 오래전 시장에서 맥락 없이 나온 물체는 형태 비교는 가능해도 사용환경을 복원하기 어렵다. 반대로 통제된 발굴에서 나온 사례가 늘면 군사·주거·의례 가운데 어떤 맥락이 반복되는지 통계적으로 비교할 수 있다. 구멍 안쪽의 마모 방향이나 그을음·유기잔류물 같은 미세증거가 확인된다면 특정 가설을 강하게 좁힐 수 있다. 즉 이 미스터리는 기발한 새 용도를 생각해내는 경쟁보다 좋은 발굴자료를 더 확보하는 문제에 가깝다.",
+          "textEn": "When a new dodecahedron is found, its exact archaeological layer, associated objects, metal composition, wear, and residues matter more than one striking photograph. Pieces that entered collections without context can be compared by shape but reveal little about how they were used. Controlled excavations, by contrast, can show whether military, domestic, funerary, or ritual settings recur. Microscopic wear inside apertures, soot, or organic residues could strongly narrow some hypotheses. The mystery is therefore less a contest to invent clever new uses than a problem of accumulating better contextual evidence."
+        },
+        {
+          "blockId": "distribution-047",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "분포 자체도 수수께끼의 일부다",
+          "headingEn": "Their Geographic Distribution Is Part of the Puzzle",
+          "textKo": "12면체는 로마제국 전체에 균등하게 퍼지지 않고 갈리아·브리타니아·게르마니아 등 북서부 지역에서 집중적으로 발견된다. 만약 제국 공통의 공식 측량기나 군 표준장비였다면 지중해 동부와 이탈리아에서도 비슷한 분포가 기대될 수 있다. 반대로 지역적 의례물·공예도구라면 북서부 편중은 설명하기 쉬워질 수 있다. 하지만 출토맥락이 너무 다양해 특정 지역문화의 한 가지 용도로도 깔끔하게 수렴하지 않는다. 그래서 분포는 가설을 좁히는 단서이면서 동시에 어느 설명도 완전히 만족시키지 못하는 제약조건이다.",
+          "textEn": "Roman dodecahedra are not evenly distributed across the empire; finds cluster in northwestern regions such as Gaul, Britain, and Germania. If they were a universal official surveying instrument or standardized military tool, a broader pattern across Italy and the eastern Mediterranean might be expected. A regional craft or ritual object could better fit the northwestern concentration, yet the archaeological contexts are too varied to point cleanly to one local function. Distribution therefore acts both as a clue and as a constraint that many proposed explanations fail to satisfy. Even small differences matter when inferring function."
+        },
+        {
+          "blockId": "boundary-05",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 2~4세기경 로마제국 북서부에서 100개가 넘는 청동 12면체가 다양한 맥락에서 발견됐고 형태·치수·마모가 기록돼 있다.\n\n확인되지 않음: 모든 사례의 분포·치수·마모·출토맥락을 동시에 설명하며 학계 합의를 얻은 단일 기능은 없다.",
+          "textEn": "Established: More than a hundred bronze dodecahedra dating broadly to the Roman period have been found across varied northwestern imperial contexts, with documented differences in dimensions and wear.\n\nNot established: No single function has achieved consensus while explaining the full distribution, measurements, wear, and archaeological contexts."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: More than a hundred bronze dodecahedra dating broadly to the Roman period have been found across varied northwestern imperial contexts, with documented differences in dimensions and wear.",
+        "notEstablished": "Not established: No single function has achieved consensus while explaining the full distribution, measurements, wear, and archaeological contexts."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "variation-02",
+        "no-text-03",
+        "hypotheses-04",
+        "context-045",
+        "distribution-047"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DOD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "100개가 넘는 로마 청동 12면체가 다양한 맥락에서 발견됐다.",
+      "statementEn": "More than one hundred Roman bronze dodecahedra have been found in varied contexts.",
+      "sourceRefs": [
+        "DODECA_GRAND",
+        "DODECA_HUNT"
+      ]
+    },
+    {
+      "claimId": "DOD-C2",
+      "status": "UNRESOLVED",
+      "statementKo": "기능에 대한 단일 학술합의는 없다.",
+      "statementEn": "There is no single scholarly consensus on their function.",
+      "sourceRefs": [
+        "DODECA_GRAND",
+        "DODECA_HUNT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "DODECA_GRAND",
+      "title": "Dodecahedron",
+      "publisher": "Grand Curtius Museum",
+      "url": "https://www.grandcurtius.be/en/museums-collections/archaeology/dodecahedron",
+      "sourceType": "MUSEUM_OBJECT_RECORD"
+    },
+    {
+      "sourceId": "DODECA_HUNT",
+      "title": "Roman Empire Dodecahedron",
+      "publisher": "The Hunt Museum",
+      "url": "https://www.huntmuseum.com/stories/objects-in-focus/roman-empire-dodecahedron/",
+      "sourceType": "MUSEUM_OBJECT_RECORD"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dodeca-v01",
+      "role": "FORM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "면·구멍·꼭짓점 돌기와 사례별 치수 차이를 개념적으로 표시.",
+      "captionEn": "Concept diagram of faces, apertures, vertex knobs, and dimensional variation.",
+      "altKo": "면·구멍·꼭짓점 돌기와 사례별 치수 차이를 개념적으로 표시.",
+      "altEn": "Concept diagram of faces, apertures, vertex knobs, and dimensional variation.",
+      "sourceRefs": [
+        "DODECA_GRAND"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roman-dodecahedra__dodeca-v01__ko.png",
+          "sha256": "554860cc851e900ace2d9e09ac8ec3bafa4e322e9ca296030e4753435bd93bed",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roman-dodecahedra__dodeca-v01__en.png",
+          "sha256": "915335deae82399c86f7fb76bfd49e3e8c3524568f1e36e01a7e709dfd06b5f6",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dodeca-v02",
+      "role": "HYPOTHESIS_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "측량·촛대·뜨개·게임·의례 가설을 “가능성/직접증거”로 분리.",
+      "captionEn": "Compare surveying, candle, knitting, game, and ritual hypotheses by possibility versus direct evidence.",
+      "altKo": "측량·촛대·뜨개·게임·의례 가설을 “가능성/직접증거”로 분리.",
+      "altEn": "Compare surveying, candle, knitting, game, and ritual hypotheses by possibility versus direct evidence.",
+      "sourceRefs": [
+        "DODECA_HUNT"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roman-dodecahedra__dodeca-v02__ko.png",
+          "sha256": "5f5a5fe529638faf3d65027032a0d5be2537ef0f2fe96f0d2c95a1cfbb734fba",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roman-dodecahedra__dodeca-v02__en.png",
+          "sha256": "d491fe206eeeb54c21be255b8f89167efe94c708bb402da00773119fb3189261",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "dodeca-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "실재 유물과 미확정 기능을 분리.",
+      "captionEn": "Separate authentic artifacts from unresolved function.",
+      "altKo": "실재 유물과 미확정 기능을 분리.",
+      "altEn": "Separate authentic artifacts from unresolved function.",
+      "sourceRefs": [
+        "DODECA_GRAND"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "roman-dodecahedra__dodeca-v03__ko.png",
+          "sha256": "1e6e09f691a57e2b59b425c7539384ab4a31c6f166bb544bd97d8089710ed02d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "roman-dodecahedra__dodeca-v03__en.png",
+          "sha256": "b23cee2c6420d40a1965bec08460cfdf9f1a15c4063226fa5f13a037e2ef822f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Roman Material Culture",
+      "Unresolved Artifact Function"
+    ],
+    "countries": [
+      "France",
+      "Germany",
+      "Belgium",
+      "United Kingdom"
+    ],
+    "regions": [
+      "Northwestern Roman Empire"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Grand Curtius Museum",
+      "The Hunt Museum"
+    ],
+    "dateRange": {
+      "start": "2nd century",
+      "end": "4th century",
+      "precision": "broad Roman-period dating"
+    },
+    "era": "Roman Empire",
+    "resolution": "AUTHENTIC_ARTIFACTS_FUNCTION_UNRESOLVED",
+    "searchAliases": [
+      "Roman dodecahedron",
+      "Gallo-Roman dodecahedron"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1517,
+    "enBodyWords": 484,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36",
+    "manifest": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH36_MANIFEST_v1.0.json",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
