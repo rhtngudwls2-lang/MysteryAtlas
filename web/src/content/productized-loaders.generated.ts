@@ -106,6 +106,7 @@ export const productizedLoaders: Record<string, () => Promise<unknown>> = {
   "mj12": () => import("../../../shared/content/articles/mj12.json"),
   "mknaomi": () => import("../../../shared/content/articles/mknaomi.json"),
   "mkultra": () => import("../../../shared/content/articles/mkultra.json"),
+  "montreal-1990-uap": () => import("../../../shared/content/articles/montreal-1990-uap.json"),
   "moon-landing-hoax": () => import("../../../shared/content/articles/moon-landing-hoax.json"),
   "morning-glory-cloud": () => import("../../../shared/content/articles/morning-glory-cloud.json"),
   "mothman-point-pleasant": () => import("../../../shared/content/articles/mothman-point-pleasant.json"),

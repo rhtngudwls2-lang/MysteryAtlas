@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "batch39_final",
+  "sourcePack": "Batch40_New177_Final",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -8091,6 +8091,71 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "montreal-1990-uap",
+      "title": {
+        "ko": "1990 몬트리올 보나벤처 UAP",
+        "en": "1990 Montreal Bonaventure UAP"
+      },
+      "headline": {
+        "ko": "40명이 본 호텔 상공의 타원형 빛—1990년 몬트리올 사건은 무엇까지 확인됐나",
+        "en": "Forty Witnesses Saw an Oval Light Above a Montreal Hotel—What Is Actually Established?"
+      },
+      "hook": {
+        "ko": "다수 목격과 공식 기록은 남아 있지만, 그것이 무엇이었는지는 끝내 확인되지 않았다.",
+        "en": "The multiple-witness event is documented, but its physical cause remains unidentified."
+      },
+      "aliases": [],
+      "genre": "UFO / UAP",
+      "genres": [],
+      "countries": [
+        "Canada"
+      ],
+      "regions": [
+        "Montréal, Québec"
+      ],
+      "era": "1990",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [
+        "falcon-lake",
+        "shag-harbour",
+        "yukon-1996-uap",
+        "aaro-modern-uap"
+      ],
+      "heroAssetId": "montreal-1990-uap-v01",
+      "heroFile": {
+        "ko": "montreal-1990-uap__montreal-1990-uap-v01__ko.png",
+        "en": "montreal-1990-uap__montreal-1990-uap-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1990년 11월 7일 사건의 관측·보고 흐름",
+        "en": "Timeline of observation and reporting on November 7, 1990"
+      },
+      "heroAlt": {
+        "ko": "1990년 11월 7일 사건의 관측·보고 흐름",
+        "en": "Timeline of observation and reporting on November 7, 1990"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "UAP_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

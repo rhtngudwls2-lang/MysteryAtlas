@@ -42,7 +42,7 @@ def row_from_group(group: dict, locale: str) -> dict:
     return {
         "assetId": group["assetId"], "caseId": group["canonicalId"],
         "role": group["role"], "assetKind": group["kind"], "locale": locale,
-        "fileName": variant["fileName"], "sha256": variant["sha256"],
+        "fileName": variant.get("fileName") or variant["file"], "sha256": variant["sha256"],
         "width": variant["width"], "height": variant["height"],
         "rightsStatus": group["rightsStatus"],
         "license": "Mystery Atlas project-original", "commercialUseAllowed": True,
@@ -70,6 +70,23 @@ class Source:
         key = obj.get("canonicalId")
         if not isinstance(key, str) or not ID.fullmatch(key) or key in self.articles:
             raise ValueError(f"Duplicate or invalid canonicalId: {key}")
+        for visual in obj.get("visuals", []):
+            for variant in visual.get("localizedFiles", {}).values():
+                if "file" in variant:
+                    if variant.get("fileName", variant["file"]) != variant["file"]:
+                        raise ValueError(f"Conflicting visual filenames: {key}")
+                    variant["fileName"] = variant["file"]
+        meta = obj.get("metadata", {})
+        if "primaryGenre" not in meta and "genre" in meta:
+            meta["primaryGenre"] = meta["genre"]
+            meta.setdefault("resolution", "unknown")
+            meta.setdefault("countries", [meta["country"]] if meta.get("country") else [])
+            meta.setdefault("regions", [meta["region"]] if meta.get("region") else [])
+            meta.setdefault("relatedCases", meta.get("rabbitHole", []))
+        quality = obj.setdefault("quality", {})
+        localized = obj.get("localizedCopy", {})
+        quality.setdefault("koBodyChars", sum(len(b.get("textKo", "")) for b in localized.get("ko", {}).get("blocks", [])))
+        quality.setdefault("enBodyWords", sum(len(b.get("textEn", "").split()) for b in localized.get("en", {}).get("blocks", [])))
         self.articles[key] = obj
 
     def manifest(self, obj: dict) -> None:
