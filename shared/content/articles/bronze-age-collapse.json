@@ -1,0 +1,548 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "bronze-age-collapse",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "후기 청동기 문명 붕괴",
+    "canonicalTitleEn": "Late Bronze Age Collapse",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SYSTEMS_HISTORY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Downgraded from DEEP because source-bounded KO body is under 6k; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "기원전 1200년, 누가 문명을 무너뜨렸나보다 더 어려운 질문",
+      "hook": "가뭄·전쟁·이주·교역 붕괴는 모두 증거가 있다. 문제는 어느 하나도 전체 지도를 단독으로 설명하지 못한다는 점이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "기원전 1200년 무렵, 하나의 세계가 아니라 연결망 전체가 흔들렸다",
+          "headingEn": "Around 1200 BCE, an Interconnected World Began to Fracture",
+          "textKo": "기원전 13세기 말 동지중해는 고립된 왕국들의 모음이 아니었다. 미케네 궁전국가, 히타이트 제국, 우가리트, 이집트와 키프로스의 중심지들은 구리·주석·곡물·목재·사치품과 외교서신을 주고받는 촘촘한 네트워크에 묶여 있었다. 그런데 기원전 1200년 전후 수십 년 사이 여러 궁전 체계와 도시가 파괴되거나 버려지고, 왕조와 행정문서 체계가 축소되며 장거리 교역망도 크게 바뀌었다. 흔히 후기 청동기 문명 붕괴라고 부르는 것은 어느 날 문명이 한꺼번에 사라진 사건이 아니라, 서로 의존하던 여러 체제가 비슷한 시기에 다른 방식으로 실패하거나 재편된 장기 전환이다.",
+          "textEn": "By the late thirteenth century BCE, the eastern Mediterranean was a network of palaces and kingdoms rather than isolated states. Mycenaean centers, the Hittite Empire, Ugarit, Egypt and Cyprus exchanged metals, grain, timber, luxury goods and diplomatic correspondence. Across the decades around 1200 BCE many palace systems and cities were destroyed, abandoned or reorganized, while writing and long-distance exchange contracted. The Late Bronze Age Collapse was therefore a prolonged transformation of interdependent societies, not one day when civilization disappeared."
+        },
+        {
+          "blockId": "network-02",
+          "type": "BACKGROUND",
+          "headingKo": "청동기 세계의 강점은 연결성이었고, 그 연결성은 동시에 취약점이었다",
+          "headingEn": "Connectivity Was a Strength—and a Vulnerability",
+          "textKo": "궁전 경제는 멀리 떨어진 자원과 전문 노동에 의존했다. 청동 제작에는 서로 다른 지역에서 확보해야 하는 구리와 주석이 필요했고, 왕실은 선박·창고·기록관·조공과 선물교환을 통해 공급을 조정했다. 이런 연결망은 안정기에는 규모와 부를 키웠지만 여러 노드가 동시에 흔들릴 때 충격을 전달하는 통로가 될 수 있었다. 항구 하나의 손실, 곡물 부족, 육상로의 불안정, 세수 감소가 각각 독립적 사건으로 끝나지 않고 다른 지역의 행정과 군사 동원에 압력을 줄 수 있었다. 시스템 붕괴라는 설명은 단일 원인을 제시하기보다 여러 압력이 서로 증폭됐을 가능성을 본다.",
+          "textEn": "Palatial economies depended on distant resources and specialized labor. Bronze required copper and tin from different regions, while royal administrations coordinated ships, warehouses, tribute and gift exchange. Connectivity created wealth in stable periods but also transmitted shocks. The loss of a port, food shortage, insecurity on a route or falling revenue could weaken administration and military mobilization elsewhere. A systems explanation therefore asks how several pressures could amplify one another rather than replacing evidence with a single cause."
+        },
+        {
+          "blockId": "destruction-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "동시에 불탔다는 그림은 실제 고고학보다 단순하다",
+          "headingEn": "The Image of a Single Wave of Destruction Is Too Simple",
+          "textKo": "많은 대중 서사는 기원전 1177년 무렵 동지중해 도시들이 동시에 불탔다고 요약하지만 최근 연구는 파괴층의 날짜·성격·인과관계를 더 조심스럽게 본다. 어떤 도시는 공격 흔적이 뚜렷하고, 어떤 곳은 단계적 쇠퇴나 재점유가 보이며, 파괴와 정치체제의 종말 사이에도 시간차가 있다. 2024년 Antiquity의 검토는 광범위한 동시 파괴라는 고전적 도식을 재평가하면서, 파괴를 곧바로 동일한 침략자나 동일한 해에 연결할 수 없다고 강조한다. 따라서 연쇄 붕괴는 실재하는 큰 패턴이지만 지도 전체에 한 번에 내려친 한 사건으로 그리면 증거의 지역차를 잃게 된다.",
+          "textEn": "Popular narratives compress the transition into one wave of destruction, but archaeology is less tidy. Some sites show violent destruction, others gradual decline, abandonment or reoccupation, and political collapse need not coincide exactly with a burn layer. A 2024 Antiquity review reassessed the classical picture of near-synchronous destruction and emphasized that individual destructions cannot automatically be assigned to one invader or one year."
+        },
+        {
+          "blockId": "climate-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가뭄은 강력한 압력이었지만 모든 지역의 단독 원인은 아니다",
+          "headingEn": "Drought Was a Major Stressor, Not a Universal Single Cause",
+          "textKo": "고기후 자료는 후기 청동기 말 일부 지역에서 장기간 건조화가 진행됐음을 지지한다. 2026년 남부 레반트 기후 종합연구는 약 150년에 걸친 건조기를 제시하며 식량생산과 정착 체계에 큰 압력을 줄 수 있었다고 본다. 그러나 기후 신호의 강도와 시기는 지역마다 다르고, 이집트처럼 정치체제가 살아남은 지역도 있었다. 가뭄은 수확 감소·가격 상승·이주·국가 재정 악화를 촉발하는 배경이 될 수 있지만, 가뭄 하나가 히타이트와 미케네와 우가리트를 동시에 무너뜨렸다고 말하면 다른 증거를 지워버린다.",
+          "textEn": "Paleoclimate records support prolonged aridity in parts of the region. A 2026 synthesis for the southern Levant identifies an arid phase lasting roughly 150 years and argues that it could have severely stressed agriculture and settlement. Yet climate signals and political outcomes varied by region. Drought could intensify crop failure, migration and state finances without serving as a complete explanation for every society."
+        },
+        {
+          "blockId": "war-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "전쟁과 바다 민족은 기록에 등장하지만 하나의 원인표가 아니다",
+          "headingEn": "Warfare and the Sea Peoples Appear in the Record, but Not as a Complete Answer",
+          "textKo": "이집트 비문에는 람세스 3세 시기 이른바 바다 민족과의 전투가 기록돼 있고 우가리트 말기 문서는 선박과 공격 위협을 전한다. 그러나 바다 민족은 단일 국가나 단일 민족을 뜻하는 현대적 이름이 아니며 정체와 이동 경로도 복잡하다. 어떤 집단은 침입자였을 수 있고 다른 집단은 난민·용병·정착민·이미 지역에 있던 사람들과 섞였을 수 있다. 전쟁과 이동은 중요한 요소지만 이미 기근·정치 갈등·경제 불안이 진행 중인 체제에 추가 충격을 준 것으로 보는 편이 증거에 더 맞는다.",
+          "textEn": "Egyptian inscriptions record conflicts with groups conventionally called the Sea Peoples, and late Ugaritic texts refer to ships and threats. But the label does not represent one modern-style nation. Some groups may have been raiders, others refugees, mercenaries, settlers or populations already entangled with the region. Warfare and mobility fit better as interacting pressures than as one universal answer."
+        },
+        {
+          "blockId": "internal-06",
+          "type": "BACKGROUND",
+          "headingKo": "궁전국가 내부의 불균형도 외부 충격만큼 중요할 수 있다",
+          "headingEn": "Internal Fragility May Have Mattered as Much as External Shock",
+          "textKo": "미케네 궁전과 히타이트 행정은 중앙집중적 분배와 엘리트 통제에 크게 의존했다. 대규모 건축, 군사, 저장과 재분배는 높은 조직력을 보여주지만 동시에 지속적인 세수와 노동동원을 요구했다. 지역 생산자가 궁전의 요구를 감당하지 못하거나 엘리트 경쟁과 반란이 커지면 외부 위기가 없어도 체제의 복원력이 약해질 수 있다. 고고학은 민중 반란을 직접 입증하기 어렵지만 붕괴 뒤 일부 지역에서 작은 정착과 다른 정치형태가 등장한 사실은 중앙집중적 체제가 유일한 생존방식이 아니었음을 보여준다.",
+          "textEn": "Mycenaean palaces and Hittite administration depended heavily on centralized redistribution and elite control. Monumental building, armies, storage and redistribution demonstrated power but required taxation and labor. If local producers could no longer sustain those demands, or elite competition intensified, resilience could fall. Archaeology cannot easily prove a generalized revolt, but post-palatial settlements show that centralized systems were not the only viable form of social survival."
+        },
+        {
+          "blockId": "earthquake-07",
+          "type": "BACKGROUND",
+          "headingKo": "지진도 후보지만 연쇄 붕괴 전체를 단독으로 설명하지 못한다",
+          "headingEn": "Earthquakes Are Part of the Picture, Not a Complete Regional Mechanism",
+          "textKo": "동지중해는 지진 활동이 활발한 지역이고 여러 후기 청동기 유적에서 지진 가능성이 논의됐다. 그러나 지진 흔적을 전쟁 파괴나 화재와 명확히 구분하기 어려운 경우가 많고, 서로 멀리 떨어진 여러 도시의 정치적 붕괴를 하나의 지진 연쇄로 묶기에는 연대와 지질 증거가 충분하지 않다. 지진이 특정 도시의 위기를 촉발했을 가능성은 열려 있지만, 전 지역을 설명하는 단일 스위치로 쓰면 증거보다 설명이 앞선다.",
+          "textEn": "The eastern Mediterranean is tectonically active and earthquake damage has been proposed at several Late Bronze Age sites. Yet seismic damage can be difficult to distinguish from conflict or fire, and chronology does not support a simple region-wide earthquake switch. Earthquakes may have triggered or intensified local crises without explaining the full political transformation."
+        },
+        {
+          "blockId": "regional-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "문명 붕괴라는 말은 살아남은 사람과 지역의 연속성을 가릴 수 있다",
+          "headingEn": "Civilizational Collapse Can Hide Continuity",
+          "textKo": "붕괴라는 용어는 왕궁·문서·대규모 교역이 사라진 장면을 강조한다. 하지만 사람 자체가 사라진 것은 아니다. 키프로스·레반트·그리스의 일부 지역에서는 전통이 이어지거나 다른 형태로 재구성됐고 이집트 신왕국도 쇠퇴했지만 즉시 소멸하지 않았다. 따라서 후기 청동기 말은 고등문명이 끝나 암흑시대가 시작됐다는 단순한 서사보다 국가 규모와 교역·문자·정착 패턴이 지역별로 재편된 시기라고 보는 편이 정확하다.",
+          "textEn": "The word collapse foregrounds disappearing palaces, archives and exchange, but populations did not vanish. Traditions continued or were reorganized in parts of Cyprus, the Levant and Greece, while Egypt declined without disappearing overnight. The transition is better understood as uneven restructuring of political scale, trade, literacy and settlement."
+        },
+        {
+          "blockId": "timeline-09",
+          "type": "CHRONOLOGY",
+          "headingKo": "한 해의 재난이 아니라 여러 세대에 걸친 전환",
+          "headingEn": "Not One Disaster Year, but a Multigenerational Transition",
+          "textKo": "기원전 13세기 후반부터 긴장 징후가 보이고 약 1200년 전후 여러 왕궁과 도시가 큰 변화를 겪으며 이후 12세기에는 새로운 정착과 정치구조가 자리잡는다. 1177 BC 같은 상징적 연도는 기억하기 쉽지만 실제 고고학적 과정은 수십 년에서 한 세기 이상에 걸친다. 어떤 지역의 가뭄이 먼저였는지, 파괴 뒤 재점유가 얼마나 빨랐는지, 교역 감소와 정치 붕괴 중 무엇이 선행했는지는 지역마다 다르다.",
+          "textEn": "Stress appears in the later thirteenth century BCE; major changes cluster around 1200 BCE; and new settlement patterns develop through the twelfth century. A symbolic date such as 1177 BCE is memorable, but the archaeological process unfolded over decades. The sequence of drought, destruction, trade contraction and resettlement differed by region."
+        },
+        {
+          "blockId": "synthesis-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 강한 설명은 여러 압력이 서로를 증폭했다는 모델이다",
+          "headingEn": "The Strongest Model Is One of Interacting Pressures",
+          "textKo": "현재의 가장 방어 가능한 설명은 가뭄, 전쟁, 이동, 내부 정치갈등, 지진, 교역망 붕괴 가운데 하나를 고르는 것이 아니라 이들이 서로 연결됐다고 보는 것이다. 장기 가뭄이 식량체계를 약화시키고 국가가 더 많은 세금과 군사동원을 요구하며 항구와 교역로의 불안정이 청동·곡물 공급을 줄이고 이주와 분쟁이 다시 행정체계를 압박하는 식의 피드백이 가능하다. 다만 이 모델 역시 모든 도시의 정확한 파괴 원인을 안다는 뜻은 아니다.",
+          "textEn": "The most defensible model treats drought, warfare, migration, internal conflict, earthquakes and trade disruption as interacting pressures. Aridity could weaken food systems, states might demand more resources, insecure routes could restrict metals and grain, and migration and conflict could intensify administrative stress. A systems model still does not reveal the exact cause at every site."
+        },
+        {
+          "blockId": "aftermath-11",
+          "type": "AFTERMATH",
+          "headingKo": "붕괴의 미스터리는 누가 무너뜨렸나보다 왜 회복력이 달랐나에 가깝다",
+          "headingEn": "The Deeper Mystery Is Why Resilience Differed",
+          "textKo": "후기 청동기 말의 핵심 질문은 한 정체불명의 집단이 문명을 쓰러뜨렸는지가 아니다. 비슷한 압력을 받은 사회들이 왜 서로 다른 속도로 무너지고 적응했는지가 더 생산적인 질문이다. 어떤 왕국은 사라졌고 어떤 지역은 정치구조를 바꿨으며 어떤 전통은 계속됐다. 네트워크 의존도, 지역사회의 자율성, 자원 접근성, 제도의 유연성이 회복력을 어떻게 바꿨는지가 오늘날 연구의 중요한 축이다.",
+          "textEn": "The deeper question is not whether one mysterious people destroyed civilization, but why societies facing overlapping pressures failed or adapted at different rates. Some kingdoms vanished, some regions reorganized and some traditions continued. Network dependence, local autonomy, resource access and institutional flexibility may all have shaped resilience."
+        },
+        {
+          "blockId": "boundary-12",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 기원전 1200년 전후 동지중해의 여러 궁전국가·도시·교역망이 큰 변화를 겪었고 히타이트 국가와 미케네 궁전 체계·우가리트 등에서 정치적 단절이 확인된다. 일부 지역에는 장기 건조화의 고기후 증거가 있고 전쟁·이주·교역망 불안도 기록과 고고학에 나타난다.\n\n확인되지 않음: 바다 민족, 가뭄, 지진, 내란 중 하나가 모든 지역을 같은 시점에 무너뜨렸다는 단일 원인설은 입증되지 않았다. 모든 파괴층이 같은 사건의 결과라는 전제도 현재 연구와 맞지 않는다.",
+          "textEn": "Established: Around 1200 BCE many eastern Mediterranean palatial states, cities and trade networks underwent major transformation, with political discontinuities in the Hittite state, Mycenaean palaces, Ugarit and elsewhere. Paleoclimate evidence supports aridity in parts of the region, while warfare, migration and network disruption also appear in the record.\n\nNot established: No single factor—Sea Peoples, drought, earthquakes or revolt—has been shown to have destroyed every region at the same time, and not every destruction layer belongs to one common event."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 기원전 1200년 전후 동지중해의 여러 궁전국가·도시·교역망이 큰 변화를 겪었고 히타이트 국가와 미케네 궁전 체계·우가리트 등에서 정치적 단절이 확인된다. 일부 지역에는 장기 건조화의 고기후 증거가 있고 전쟁·이주·교역망 불안도 기록과 고고학에 나타난다.",
+        "notEstablished": "확인되지 않음: 바다 민족, 가뭄, 지진, 내란 중 하나가 모든 지역을 같은 시점에 무너뜨렸다는 단일 원인설은 입증되지 않았다. 모든 파괴층이 같은 사건의 결과라는 전제도 현재 연구와 맞지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "network-02",
+        "destruction-03",
+        "climate-04",
+        "war-05",
+        "internal-06",
+        "earthquake-07",
+        "regional-08",
+        "timeline-09",
+        "synthesis-10",
+        "aftermath-11"
+      ]
+    },
+    "en": {
+      "headline": "Around 1200 BCE, the Harder Question Is Not Who Destroyed Civilization",
+      "hook": "Drought, warfare, migration, and trade failure all have evidence behind them. None explains the entire map by itself.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "기원전 1200년 무렵, 하나의 세계가 아니라 연결망 전체가 흔들렸다",
+          "headingEn": "Around 1200 BCE, an Interconnected World Began to Fracture",
+          "textKo": "기원전 13세기 말 동지중해는 고립된 왕국들의 모음이 아니었다. 미케네 궁전국가, 히타이트 제국, 우가리트, 이집트와 키프로스의 중심지들은 구리·주석·곡물·목재·사치품과 외교서신을 주고받는 촘촘한 네트워크에 묶여 있었다. 그런데 기원전 1200년 전후 수십 년 사이 여러 궁전 체계와 도시가 파괴되거나 버려지고, 왕조와 행정문서 체계가 축소되며 장거리 교역망도 크게 바뀌었다. 흔히 후기 청동기 문명 붕괴라고 부르는 것은 어느 날 문명이 한꺼번에 사라진 사건이 아니라, 서로 의존하던 여러 체제가 비슷한 시기에 다른 방식으로 실패하거나 재편된 장기 전환이다.",
+          "textEn": "By the late thirteenth century BCE, the eastern Mediterranean was a network of palaces and kingdoms rather than isolated states. Mycenaean centers, the Hittite Empire, Ugarit, Egypt and Cyprus exchanged metals, grain, timber, luxury goods and diplomatic correspondence. Across the decades around 1200 BCE many palace systems and cities were destroyed, abandoned or reorganized, while writing and long-distance exchange contracted. The Late Bronze Age Collapse was therefore a prolonged transformation of interdependent societies, not one day when civilization disappeared."
+        },
+        {
+          "blockId": "network-02",
+          "type": "BACKGROUND",
+          "headingKo": "청동기 세계의 강점은 연결성이었고, 그 연결성은 동시에 취약점이었다",
+          "headingEn": "Connectivity Was a Strength—and a Vulnerability",
+          "textKo": "궁전 경제는 멀리 떨어진 자원과 전문 노동에 의존했다. 청동 제작에는 서로 다른 지역에서 확보해야 하는 구리와 주석이 필요했고, 왕실은 선박·창고·기록관·조공과 선물교환을 통해 공급을 조정했다. 이런 연결망은 안정기에는 규모와 부를 키웠지만 여러 노드가 동시에 흔들릴 때 충격을 전달하는 통로가 될 수 있었다. 항구 하나의 손실, 곡물 부족, 육상로의 불안정, 세수 감소가 각각 독립적 사건으로 끝나지 않고 다른 지역의 행정과 군사 동원에 압력을 줄 수 있었다. 시스템 붕괴라는 설명은 단일 원인을 제시하기보다 여러 압력이 서로 증폭됐을 가능성을 본다.",
+          "textEn": "Palatial economies depended on distant resources and specialized labor. Bronze required copper and tin from different regions, while royal administrations coordinated ships, warehouses, tribute and gift exchange. Connectivity created wealth in stable periods but also transmitted shocks. The loss of a port, food shortage, insecurity on a route or falling revenue could weaken administration and military mobilization elsewhere. A systems explanation therefore asks how several pressures could amplify one another rather than replacing evidence with a single cause."
+        },
+        {
+          "blockId": "destruction-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "동시에 불탔다는 그림은 실제 고고학보다 단순하다",
+          "headingEn": "The Image of a Single Wave of Destruction Is Too Simple",
+          "textKo": "많은 대중 서사는 기원전 1177년 무렵 동지중해 도시들이 동시에 불탔다고 요약하지만 최근 연구는 파괴층의 날짜·성격·인과관계를 더 조심스럽게 본다. 어떤 도시는 공격 흔적이 뚜렷하고, 어떤 곳은 단계적 쇠퇴나 재점유가 보이며, 파괴와 정치체제의 종말 사이에도 시간차가 있다. 2024년 Antiquity의 검토는 광범위한 동시 파괴라는 고전적 도식을 재평가하면서, 파괴를 곧바로 동일한 침략자나 동일한 해에 연결할 수 없다고 강조한다. 따라서 연쇄 붕괴는 실재하는 큰 패턴이지만 지도 전체에 한 번에 내려친 한 사건으로 그리면 증거의 지역차를 잃게 된다.",
+          "textEn": "Popular narratives compress the transition into one wave of destruction, but archaeology is less tidy. Some sites show violent destruction, others gradual decline, abandonment or reoccupation, and political collapse need not coincide exactly with a burn layer. A 2024 Antiquity review reassessed the classical picture of near-synchronous destruction and emphasized that individual destructions cannot automatically be assigned to one invader or one year."
+        },
+        {
+          "blockId": "climate-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가뭄은 강력한 압력이었지만 모든 지역의 단독 원인은 아니다",
+          "headingEn": "Drought Was a Major Stressor, Not a Universal Single Cause",
+          "textKo": "고기후 자료는 후기 청동기 말 일부 지역에서 장기간 건조화가 진행됐음을 지지한다. 2026년 남부 레반트 기후 종합연구는 약 150년에 걸친 건조기를 제시하며 식량생산과 정착 체계에 큰 압력을 줄 수 있었다고 본다. 그러나 기후 신호의 강도와 시기는 지역마다 다르고, 이집트처럼 정치체제가 살아남은 지역도 있었다. 가뭄은 수확 감소·가격 상승·이주·국가 재정 악화를 촉발하는 배경이 될 수 있지만, 가뭄 하나가 히타이트와 미케네와 우가리트를 동시에 무너뜨렸다고 말하면 다른 증거를 지워버린다.",
+          "textEn": "Paleoclimate records support prolonged aridity in parts of the region. A 2026 synthesis for the southern Levant identifies an arid phase lasting roughly 150 years and argues that it could have severely stressed agriculture and settlement. Yet climate signals and political outcomes varied by region. Drought could intensify crop failure, migration and state finances without serving as a complete explanation for every society."
+        },
+        {
+          "blockId": "war-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "전쟁과 바다 민족은 기록에 등장하지만 하나의 원인표가 아니다",
+          "headingEn": "Warfare and the Sea Peoples Appear in the Record, but Not as a Complete Answer",
+          "textKo": "이집트 비문에는 람세스 3세 시기 이른바 바다 민족과의 전투가 기록돼 있고 우가리트 말기 문서는 선박과 공격 위협을 전한다. 그러나 바다 민족은 단일 국가나 단일 민족을 뜻하는 현대적 이름이 아니며 정체와 이동 경로도 복잡하다. 어떤 집단은 침입자였을 수 있고 다른 집단은 난민·용병·정착민·이미 지역에 있던 사람들과 섞였을 수 있다. 전쟁과 이동은 중요한 요소지만 이미 기근·정치 갈등·경제 불안이 진행 중인 체제에 추가 충격을 준 것으로 보는 편이 증거에 더 맞는다.",
+          "textEn": "Egyptian inscriptions record conflicts with groups conventionally called the Sea Peoples, and late Ugaritic texts refer to ships and threats. But the label does not represent one modern-style nation. Some groups may have been raiders, others refugees, mercenaries, settlers or populations already entangled with the region. Warfare and mobility fit better as interacting pressures than as one universal answer."
+        },
+        {
+          "blockId": "internal-06",
+          "type": "BACKGROUND",
+          "headingKo": "궁전국가 내부의 불균형도 외부 충격만큼 중요할 수 있다",
+          "headingEn": "Internal Fragility May Have Mattered as Much as External Shock",
+          "textKo": "미케네 궁전과 히타이트 행정은 중앙집중적 분배와 엘리트 통제에 크게 의존했다. 대규모 건축, 군사, 저장과 재분배는 높은 조직력을 보여주지만 동시에 지속적인 세수와 노동동원을 요구했다. 지역 생산자가 궁전의 요구를 감당하지 못하거나 엘리트 경쟁과 반란이 커지면 외부 위기가 없어도 체제의 복원력이 약해질 수 있다. 고고학은 민중 반란을 직접 입증하기 어렵지만 붕괴 뒤 일부 지역에서 작은 정착과 다른 정치형태가 등장한 사실은 중앙집중적 체제가 유일한 생존방식이 아니었음을 보여준다.",
+          "textEn": "Mycenaean palaces and Hittite administration depended heavily on centralized redistribution and elite control. Monumental building, armies, storage and redistribution demonstrated power but required taxation and labor. If local producers could no longer sustain those demands, or elite competition intensified, resilience could fall. Archaeology cannot easily prove a generalized revolt, but post-palatial settlements show that centralized systems were not the only viable form of social survival."
+        },
+        {
+          "blockId": "earthquake-07",
+          "type": "BACKGROUND",
+          "headingKo": "지진도 후보지만 연쇄 붕괴 전체를 단독으로 설명하지 못한다",
+          "headingEn": "Earthquakes Are Part of the Picture, Not a Complete Regional Mechanism",
+          "textKo": "동지중해는 지진 활동이 활발한 지역이고 여러 후기 청동기 유적에서 지진 가능성이 논의됐다. 그러나 지진 흔적을 전쟁 파괴나 화재와 명확히 구분하기 어려운 경우가 많고, 서로 멀리 떨어진 여러 도시의 정치적 붕괴를 하나의 지진 연쇄로 묶기에는 연대와 지질 증거가 충분하지 않다. 지진이 특정 도시의 위기를 촉발했을 가능성은 열려 있지만, 전 지역을 설명하는 단일 스위치로 쓰면 증거보다 설명이 앞선다.",
+          "textEn": "The eastern Mediterranean is tectonically active and earthquake damage has been proposed at several Late Bronze Age sites. Yet seismic damage can be difficult to distinguish from conflict or fire, and chronology does not support a simple region-wide earthquake switch. Earthquakes may have triggered or intensified local crises without explaining the full political transformation."
+        },
+        {
+          "blockId": "regional-08",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "문명 붕괴라는 말은 살아남은 사람과 지역의 연속성을 가릴 수 있다",
+          "headingEn": "Civilizational Collapse Can Hide Continuity",
+          "textKo": "붕괴라는 용어는 왕궁·문서·대규모 교역이 사라진 장면을 강조한다. 하지만 사람 자체가 사라진 것은 아니다. 키프로스·레반트·그리스의 일부 지역에서는 전통이 이어지거나 다른 형태로 재구성됐고 이집트 신왕국도 쇠퇴했지만 즉시 소멸하지 않았다. 따라서 후기 청동기 말은 고등문명이 끝나 암흑시대가 시작됐다는 단순한 서사보다 국가 규모와 교역·문자·정착 패턴이 지역별로 재편된 시기라고 보는 편이 정확하다.",
+          "textEn": "The word collapse foregrounds disappearing palaces, archives and exchange, but populations did not vanish. Traditions continued or were reorganized in parts of Cyprus, the Levant and Greece, while Egypt declined without disappearing overnight. The transition is better understood as uneven restructuring of political scale, trade, literacy and settlement."
+        },
+        {
+          "blockId": "timeline-09",
+          "type": "CHRONOLOGY",
+          "headingKo": "한 해의 재난이 아니라 여러 세대에 걸친 전환",
+          "headingEn": "Not One Disaster Year, but a Multigenerational Transition",
+          "textKo": "기원전 13세기 후반부터 긴장 징후가 보이고 약 1200년 전후 여러 왕궁과 도시가 큰 변화를 겪으며 이후 12세기에는 새로운 정착과 정치구조가 자리잡는다. 1177 BC 같은 상징적 연도는 기억하기 쉽지만 실제 고고학적 과정은 수십 년에서 한 세기 이상에 걸친다. 어떤 지역의 가뭄이 먼저였는지, 파괴 뒤 재점유가 얼마나 빨랐는지, 교역 감소와 정치 붕괴 중 무엇이 선행했는지는 지역마다 다르다.",
+          "textEn": "Stress appears in the later thirteenth century BCE; major changes cluster around 1200 BCE; and new settlement patterns develop through the twelfth century. A symbolic date such as 1177 BCE is memorable, but the archaeological process unfolded over decades. The sequence of drought, destruction, trade contraction and resettlement differed by region."
+        },
+        {
+          "blockId": "synthesis-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 강한 설명은 여러 압력이 서로를 증폭했다는 모델이다",
+          "headingEn": "The Strongest Model Is One of Interacting Pressures",
+          "textKo": "현재의 가장 방어 가능한 설명은 가뭄, 전쟁, 이동, 내부 정치갈등, 지진, 교역망 붕괴 가운데 하나를 고르는 것이 아니라 이들이 서로 연결됐다고 보는 것이다. 장기 가뭄이 식량체계를 약화시키고 국가가 더 많은 세금과 군사동원을 요구하며 항구와 교역로의 불안정이 청동·곡물 공급을 줄이고 이주와 분쟁이 다시 행정체계를 압박하는 식의 피드백이 가능하다. 다만 이 모델 역시 모든 도시의 정확한 파괴 원인을 안다는 뜻은 아니다.",
+          "textEn": "The most defensible model treats drought, warfare, migration, internal conflict, earthquakes and trade disruption as interacting pressures. Aridity could weaken food systems, states might demand more resources, insecure routes could restrict metals and grain, and migration and conflict could intensify administrative stress. A systems model still does not reveal the exact cause at every site."
+        },
+        {
+          "blockId": "aftermath-11",
+          "type": "AFTERMATH",
+          "headingKo": "붕괴의 미스터리는 누가 무너뜨렸나보다 왜 회복력이 달랐나에 가깝다",
+          "headingEn": "The Deeper Mystery Is Why Resilience Differed",
+          "textKo": "후기 청동기 말의 핵심 질문은 한 정체불명의 집단이 문명을 쓰러뜨렸는지가 아니다. 비슷한 압력을 받은 사회들이 왜 서로 다른 속도로 무너지고 적응했는지가 더 생산적인 질문이다. 어떤 왕국은 사라졌고 어떤 지역은 정치구조를 바꿨으며 어떤 전통은 계속됐다. 네트워크 의존도, 지역사회의 자율성, 자원 접근성, 제도의 유연성이 회복력을 어떻게 바꿨는지가 오늘날 연구의 중요한 축이다.",
+          "textEn": "The deeper question is not whether one mysterious people destroyed civilization, but why societies facing overlapping pressures failed or adapted at different rates. Some kingdoms vanished, some regions reorganized and some traditions continued. Network dependence, local autonomy, resource access and institutional flexibility may all have shaped resilience."
+        },
+        {
+          "blockId": "boundary-12",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 기원전 1200년 전후 동지중해의 여러 궁전국가·도시·교역망이 큰 변화를 겪었고 히타이트 국가와 미케네 궁전 체계·우가리트 등에서 정치적 단절이 확인된다. 일부 지역에는 장기 건조화의 고기후 증거가 있고 전쟁·이주·교역망 불안도 기록과 고고학에 나타난다.\n\n확인되지 않음: 바다 민족, 가뭄, 지진, 내란 중 하나가 모든 지역을 같은 시점에 무너뜨렸다는 단일 원인설은 입증되지 않았다. 모든 파괴층이 같은 사건의 결과라는 전제도 현재 연구와 맞지 않는다.",
+          "textEn": "Established: Around 1200 BCE many eastern Mediterranean palatial states, cities and trade networks underwent major transformation, with political discontinuities in the Hittite state, Mycenaean palaces, Ugarit and elsewhere. Paleoclimate evidence supports aridity in parts of the region, while warfare, migration and network disruption also appear in the record.\n\nNot established: No single factor—Sea Peoples, drought, earthquakes or revolt—has been shown to have destroyed every region at the same time, and not every destruction layer belongs to one common event."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Around 1200 BCE many eastern Mediterranean palatial states, cities and trade networks underwent major transformation, with political discontinuities in the Hittite state, Mycenaean palaces, Ugarit and elsewhere. Paleoclimate evidence supports aridity in parts of the region, while warfare, migration and network disruption also appear in the record.",
+        "notEstablished": "Not established: No single factor—Sea Peoples, drought, earthquakes or revolt—has been shown to have destroyed every region at the same time, and not every destruction layer belongs to one common event."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "network-02",
+        "destruction-03",
+        "climate-04",
+        "war-05",
+        "internal-06",
+        "earthquake-07",
+        "regional-08",
+        "timeline-09",
+        "synthesis-10",
+        "aftermath-11"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BAC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "기원전 1200년 전후 여러 동지중해 궁전국가와 도시가 중대한 정치·경제 변화를 겪었다.",
+      "statementEn": "Around 1200 BCE multiple eastern Mediterranean palatial states and cities underwent major political and economic change.",
+      "sourceRefs": [
+        "BAC_ANTIQUITY_2024"
+      ]
+    },
+    {
+      "claimId": "BAC-C2",
+      "status": "SUPPORTED",
+      "statementKo": "일부 지역에서 장기 건조화가 중요한 압력이었다.",
+      "statementEn": "Prolonged aridity was an important stressor in parts of the region.",
+      "sourceRefs": [
+        "BAC_CLIMATE_2026"
+      ]
+    },
+    {
+      "claimId": "BAC-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "단 하나의 원인이 모든 지역의 붕괴를 설명한다는 증거는 없다.",
+      "statementEn": "No single cause explains every regional transformation.",
+      "sourceRefs": [
+        "BAC_ANTIQUITY_2024",
+        "BAC_CAMBRIDGE_SYSTEMS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BAC_ANTIQUITY_2024",
+      "title": "Getting closer to the Late Bronze Age collapse in the Aegean and eastern Mediterranean, c. 1200 BC",
+      "publisher": "Antiquity / Cambridge University Press",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/getting-closer-to-the-late-bronze-age-collapse-in-the-aegean-and-eastern-mediterranean-c-1200-bc/482564326A668899FF183DD949FC520F",
+      "sourceType": "PEER_REVIEWED_REVIEW"
+    },
+    {
+      "sourceId": "BAC_CAMBRIDGE_SYSTEMS",
+      "title": "Introducing Collapse",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/understanding-collapse/introducing-collapse/58BEF759BB7D095A3AE6B1C2B5E4E1B9",
+      "sourceType": "SCHOLARLY_MONOGRAPH"
+    },
+    {
+      "sourceId": "BAC_CLIMATE_2026",
+      "title": "Climate and Environment in the Southern Levant, 1300–300 BCE",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/elements/abs/climate-and-environment-in-the-southern-levant-1300300-bce/0984CB3CE950FF3BE5D614E6F640E5F5",
+      "sourceType": "SCHOLARLY_SYNTHESIS_2026"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "bronze-v01",
+      "role": "NETWORK_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "동지중해 주요 정치·교역 노드와 상호의존 구조.",
+      "captionEn": "Major political and trade nodes of the eastern Mediterranean.",
+      "altKo": "동지중해 주요 정치·교역 노드와 상호의존 구조.",
+      "altEn": "Major political and trade nodes of the eastern Mediterranean.",
+      "sourceRefs": [
+        "BAC_CAMBRIDGE_SYSTEMS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bronze-age-collapse__bronze-v01__ko.png",
+          "sha256": "c528e0a661e164c1dd660e188c8ca8010a97faa560a4ba2dbe6985b83a7dc829",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bronze-age-collapse__bronze-v01__en.png",
+          "sha256": "8306fe7b727d0e7d784e364e5de1b04bc175ba8a0ddfda3a1a93e4ddf046ecc9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bronze-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기원전 1250~1100년 사이 지역별 전환.",
+      "captionEn": "Regional transition timeline, c. 1250–1100 BCE.",
+      "altKo": "기원전 1250~1100년 사이 지역별 전환.",
+      "altEn": "Regional transition timeline, c. 1250–1100 BCE.",
+      "sourceRefs": [
+        "BAC_ANTIQUITY_2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bronze-age-collapse__bronze-v02__ko.png",
+          "sha256": "b8eda43fd5bb2a546ab7259ad259443e4f74c05a5f1f00ab6779ffb59c65bccd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bronze-age-collapse__bronze-v02__en.png",
+          "sha256": "67f2d283e2234f70a01bb09e3708263247b905185773c5ad1ba3acfc07b5c944",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bronze-v03",
+      "role": "PRESSURE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "가뭄·전쟁·이주·교역망 스트레스의 상호작용.",
+      "captionEn": "Interaction of drought, warfare, migration and network stress.",
+      "altKo": "가뭄·전쟁·이주·교역망 스트레스의 상호작용.",
+      "altEn": "Interaction of drought, warfare, migration and network stress.",
+      "sourceRefs": [
+        "BAC_CLIMATE_2026",
+        "BAC_CAMBRIDGE_SYSTEMS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bronze-age-collapse__bronze-v03__ko.png",
+          "sha256": "a7f62b5c631b624b4f73ce0d7069f32d82eb77cd686ef485078ea2c515502e2b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bronze-age-collapse__bronze-v03__en.png",
+          "sha256": "ef109361ac9a868c7f636cfa73693e932b9e1ba5e0d79ffa92ab1c462037afbd",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bronze-v04",
+      "role": "REGIONAL_VARIATION",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "지역별 파괴·연속·재편을 분리.",
+      "captionEn": "Separate destruction, continuity and reorganization by region.",
+      "altKo": "지역별 파괴·연속·재편을 분리.",
+      "altEn": "Separate destruction, continuity and reorganization by region.",
+      "sourceRefs": [
+        "BAC_ANTIQUITY_2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bronze-age-collapse__bronze-v04__ko.png",
+          "sha256": "854ba3a11f36f5e03fb7d6778ef2181352894a199e6f24d735fc2ce5c157caa1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bronze-age-collapse__bronze-v04__en.png",
+          "sha256": "37fc5b9d1fd678d3c97e575e2abf1801741c667dd9208fbf86217b3fc1d98796",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "bronze-v05",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "광역 전환과 미확정 단일 원인설을 분리.",
+      "captionEn": "Separate the regional transformation from unproven single-cause claims.",
+      "altKo": "광역 전환과 미확정 단일 원인설을 분리.",
+      "altEn": "Separate the regional transformation from unproven single-cause claims.",
+      "sourceRefs": [
+        "BAC_ANTIQUITY_2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "bronze-age-collapse__bronze-v05__ko.png",
+          "sha256": "a2b7763ca02c18b76c1a48b6b6e0319b6310682ecfb26e9f9f250083240d9c51",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "bronze-age-collapse__bronze-v05__en.png",
+          "sha256": "022e24ff488436de0a5766a441a1ad4fe91f60b9e9059568471e95a9b0db4e9e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Systems Collapse",
+      "Climate History"
+    ],
+    "countries": [
+      "Greece",
+      "Türkiye",
+      "Syria",
+      "Egypt",
+      "Cyprus"
+    ],
+    "regions": [
+      "Eastern Mediterranean",
+      "Western Asia"
+    ],
+    "places": [
+      {
+        "name": "Ugarit",
+        "role": "Late Bronze Age city"
+      },
+      {
+        "name": "Mycenae",
+        "role": "palatial center"
+      },
+      {
+        "name": "Hattusa",
+        "role": "Hittite capital"
+      }
+    ],
+    "people": [],
+    "organizations": [],
+    "dateRange": {
+      "start": "-1250",
+      "end": "-1100",
+      "precision": "transition window"
+    },
+    "era": "Late Bronze Age / Early Iron Age",
+    "resolution": "MULTICAUSAL_REGIONAL_TRANSITION_SINGLE_CAUSE_NOT_ESTABLISHED",
+    "searchAliases": [
+      "1177 BC",
+      "Bronze Age Collapse",
+      "Sea Peoples"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3114,
+    "enBodyWords": 741,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 5,
+    "sourceCount": 3,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH34",
+    "assetGroups": 5,
+    "localizedFiles": 10,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

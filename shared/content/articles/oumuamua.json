@@ -1,0 +1,524 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "oumuamua",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "ʻOumuamua",
+    "canonicalTitleEn": "1I/ʻOumuamua",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SCIENCE_MYSTERY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "첫 성간 방문자는 왜 혜성처럼 가속했는데 혜성처럼 보이지 않았나",
+      "hook": "성간 기원은 확정됐다. 형태·조성·가속 원인은 그렇지 않다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "태양계를 가로지른 첫 확인된 성간 방문자",
+          "headingEn": "The First Confirmed Interstellar Visitor Crossed the Solar System",
+          "textKo": "2017년 10월 Pan-STARRS1이 발견한 1I/ʻOumuamua는 궤도만으로도 평범한 소행성과 달랐다. 태양에 묶인 타원궤도가 아니라 쌍곡선 궤도를 따라왔고 이미 태양계에 들어오기 전부터 높은 속도를 갖고 있었다. NASA는 이를 태양계 밖에서 온 최초의 확정된 천체로 정리한다. 발견은 늦었다. ʻOumuamua는 이미 태양 근처를 지나 지구에서 멀어지는 중이었고 관측할 수 있는 시간은 짧았다. 우리가 가진 미스터리의 대부분은 바로 이 짧은 관측창에서 시작된다.",
+          "textEn": "When Pan-STARRS1 discovered 1I/ʻOumuamua in October 2017, its hyperbolic trajectory immediately marked it as interstellar. NASA identifies it as the first confirmed object known to have originated outside our Solar System. It was discovered after perihelion while already receding, leaving a short observing window. Much of the mystery follows from that limited evidence."
+        },
+        {
+          "blockId": "shape-02",
+          "type": "BACKGROUND",
+          "headingKo": "우리가 본 것은 사진 속 막대기가 아니라 밝기가 변하는 한 점이었다",
+          "headingEn": "We Did Not Photograph a Cigar; We Measured a Changing Point of Light",
+          "textKo": "대중 이미지에서는 길쭉한 막대기나 납작한 원반으로 그려지지만 실제 망원경에서 ʻOumuamua는 점광원이었다. 형태 추정은 회전에 따라 밝기가 크게 변하는 light curve에서 나왔다. 매우 길쭉하거나 매우 납작한 형태가 여러 모델로 가능했고 정확한 3차원 형상은 직접 촬영되지 않았다. 따라서 길이 수백 미터의 시가형 물체 같은 표현은 한 모델의 시각화이지 확정된 사진정보가 아니다.",
+          "textEn": "Popular illustrations show a cigar or disk, but telescopes saw ʻOumuamua only as an unresolved point. Shape estimates came from a large rotational light-curve variation. Very elongated or flattened models can fit, while the true three-dimensional shape was never directly imaged."
+        },
+        {
+          "blockId": "accel-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 이상했던 것은 눈에 보이는 꼬리 없이 나타난 비중력 가속이었다",
+          "headingEn": "The Strangest Feature Was Non-Gravitational Acceleration Without an Obvious Coma",
+          "textKo": "추적관측은 태양 중력만으로 계산한 궤도에서 미세하게 벗어나는 비중력 가속을 보여줬다. 일반 혜성이라면 햇빛에 데워진 휘발성 물질이 분출하면서 비슷한 힘을 만들 수 있지만 ʻOumuamua에서는 뚜렷한 먼지 coma나 꼬리가 보이지 않았다. NASA는 이 때문에 처음 소행성으로 분류했다가 가속을 확인한 뒤 눈에 잘 보이지 않는 outgassing이 가능한 comet-like behavior를 주요 설명으로 다룬다. 꼬리가 없다는 것과 가스가 절대 나오지 않았다는 것은 같은 말이 아니다.",
+          "textEn": "Tracking showed a slight deviation from a gravity-only trajectory. Cometary outgassing can cause such acceleration, but ʻOumuamua showed no obvious dusty coma or tail. NASA notes that the object came to be treated as comet-like once the acceleration was measured. No visible tail does not mean no gas release of any kind."
+        },
+        {
+          "blockId": "h2-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "2023년에는 물얼음 속에 갇힌 수소가 가속을 만들 수 있다는 모델이 나왔다",
+          "headingEn": "A 2023 Model Proposed Trapped Hydrogen as the Driver",
+          "textKo": "2023년 Nature 논문은 성간공간에서 우주선에 노출된 물얼음 내부에 분자수소가 생성·갇혔다가 태양열로 방출되면 관측된 가속을 만들 수 있다고 제안했다. 장점은 큰 먼지 coma를 만들지 않고도 가속을 설명할 수 있다는 점이다. 이 모델은 ʻOumuamua를 태양계 혜성과 전혀 다른 인공물로 보지 않고 오랜 성간여행을 겪은 작은 icy body로 설명하려는 시도다.",
+          "textEn": "A 2023 Nature paper proposed that molecular hydrogen produced and trapped inside water ice during interstellar exposure could be released during solar heating and drive the observed acceleration without a large dusty coma. The model attempts to explain ʻOumuamua as an altered icy planetesimal rather than something artificial."
+        },
+        {
+          "blockId": "challenge-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "같은 해 Nature 논쟁은 H₂ 모델도 확정답이 아님을 보여줬다",
+          "headingEn": "The Same-Year Nature Debate Showed the H2 Model Is Not a Final Answer",
+          "textKo": "2023년 후속 Matters Arising는 필요한 양의 H₂를 물얼음에서 만들고 보존하기 어렵다는 계산을 제시하며 모델을 비판했다. 원 논문 저자들은 얼음의 나이·수소 수율·열진화의 불확실성을 들어 반박했다. 이 교환은 자연적 설명이 존재한다는 사실과 그 설명이 이미 확정됐다는 것이 다름을 보여준다. 관측대상이 이미 멀어져 추가 검증이 어렵다는 점도 남는다.",
+          "textEn": "A 2023 Matters Arising paper challenged whether enough H2 could be produced and retained in water ice. The original authors replied that age, yield and thermal-history uncertainties leave room for the mechanism. The exchange shows that a natural explanation can be plausible without being settled."
+        },
+        {
+          "blockId": "alien-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "인공 광돛 가설은 흥미롭지만 관측이 요구하는 결론은 아니다",
+          "headingEn": "An Artificial Lightsail Is an Interesting Hypothesis, Not a Required Conclusion",
+          "textKo": "비중력 가속과 특이한 밝기 변화 때문에 인공 광돛 같은 설명이 유명해졌다. 그러나 알 수 없는 가속이 있으므로 외계기술이라는 논리로 자동 승격되지 않는다. 자연적 outgassing과 얼음·휘발성 모델이 실제 연구 대상으로 존재하고 인공구조를 직접 가리키는 통신신호·분광학적 소재증거·해상도 높은 영상은 없다. 외계기술은 논리적으로 완전 배제됐다고 말할 수는 없지만 현재 증거가 요구하는 설명도 아니다.",
+          "textEn": "The acceleration and light curve made artificial-lightsail hypotheses famous, but unexplained acceleration is not automatically evidence of alien technology. Natural outgassing and volatile-ice models exist, while there is no communication signal, resolved engineering structure or spectroscopic material evidence directly indicating technology."
+        },
+        {
+          "blockId": "aftermath-07",
+          "type": "AFTERMATH",
+          "headingKo": "가장 큰 유산은 다음 성간천체를 기다리는 방법이다",
+          "headingEn": "The Biggest Legacy Is How We Prepare for the Next Interstellar Object",
+          "textKo": "ʻOumuamua는 너무 늦게 발견돼 직접 접근 임무나 장기 분광관측을 할 수 없었다. 이후 2I/Borisov처럼 더 전형적인 성간혜성도 발견되면서 성간천체가 하나의 새로운 관측분야가 됐다. 광시야 조사가 더 많은 방문자를 일찍 찾으면 다음에는 발견 직후부터 분광·열·가속·활동을 추적할 수 있다. 첫 사례의 불확실성은 다음 사례에서 어떤 데이터를 놓치지 말아야 하는지 알려준 셈이다.",
+          "textEn": "ʻOumuamua was discovered too late for a rendezvous mission or prolonged spectroscopy. The later discovery of 2I/Borisov showed that interstellar objects can become a genuine observational population. Earlier discoveries in future surveys could allow spectra, thermal behavior and activity to be followed from the start."
+        },
+        {
+          "blockId": "rotation-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "밝기 변화는 극단적인 형태와 복잡한 회전을 암시했지만 하나의 모양을 확정하지 못했다",
+          "headingEn": "The Light Curve Implied an Extreme Shape and Complex Rotation Without Fixing One Geometry",
+          "textKo": "ʻOumuamua의 큰 밝기 변화는 회전하면서 보이는 단면적이 크게 바뀐다는 뜻이었다. 초기에는 길쭉한 시가형이 널리 알려졌지만 이후에는 매우 납작한 형상도 같은 light curve를 설명할 수 있다는 모델이 나왔다. 더구나 천체가 단순한 한 축 회전보다 tumbling 상태였을 가능성이 제기돼 크기와 축비 추정에는 반사율과 회전상태라는 추가 변수가 들어간다. 관측자는 표면을 해상도 있게 찍은 적이 없으므로 그림으로 자주 보이는 갈색 막대기는 설명용 reconstruction이다. 이 구분은 인공구조 가설을 평가할 때 특히 중요하다. 특이한 그림이 관측된 것이 아니라 특이한 광도곡선이 관측된 것이다.",
+          "textEn": "The large brightness variation implied that the visible cross-section changed strongly as ʻOumuamua rotated. An elongated cigar became the famous early interpretation, while later models showed that a very flattened geometry could also fit. Possible tumbling adds further uncertainty involving albedo and rotation state. No telescope resolved the surface, so familiar artist images are reconstructions of an unusual light curve, not direct pictures of an engineered-looking object."
+        },
+        {
+          "blockId": "composition-055",
+          "type": "BACKGROUND",
+          "headingKo": "조성을 모르는 이유는 분광관측 시간이 짧고 활동지표도 약했기 때문이다",
+          "headingEn": "Composition Remains Uncertain Because the Spectral Window Was Short and Activity Was Weak",
+          "textKo": "ʻOumuamua는 발견 당시 이미 태양에서 멀어지고 있었고 빠르게 어두워졌다. 제한된 색과 스펙트럼 자료는 표면이 붉은 계열이며 태양계 외곽 소천체와 완전히 낯선 것은 아니라는 정도를 알려줬지만, 내부 얼음과 휘발성 성분을 직접 재는 데는 부족했다. CO, CO2, 물 같은 전형적 혜성활동의 강한 지표가 보이지 않았다는 사실은 가능한 outgassing의 종류와 양을 제한하지만 모든 휘발성 방출을 배제하지 않는다. 그래서 가속을 설명하려는 모델은 관측되지 않은 물질이 얼마나 숨어 있을 수 있는지, 태양열이 어떤 속도로 그것을 방출할지를 동시에 만족해야 한다.",
+          "textEn": "ʻOumuamua was already receding and fading when discovered. Limited color and spectral data indicated a reddish surface not wholly unlike outer-Solar-System small bodies, but were insufficient to determine interior ice and volatile composition. The absence of strong conventional comet tracers constrains the amount and type of outgassing without ruling out every volatile-release mechanism. Any acceleration model therefore has to satisfy both the dynamics and the non-detections."
+        },
+        {
+          "blockId": "population-065",
+          "type": "BACKGROUND",
+          "headingKo": "한 개의 이상한 천체만으로 성간천체 전체를 정의할 수는 없다",
+          "headingEn": "One Strange Object Cannot Define the Whole Interstellar Population",
+          "textKo": "2019년 발견된 2I/Borisov는 뚜렷한 coma와 꼬리를 가진 훨씬 전형적인 혜성처럼 행동했다. 두 번째 성간천체가 첫 번째와 달랐다는 사실은 성간공간에서 날아오는 작은 천체가 하나의 형태나 조성으로만 존재하지 않을 수 있음을 보여준다. ʻOumuamua의 특이성이 인공성을 의미하기보다 아직 표본이 너무 작다는 신호일 수도 있다. 앞으로 수십 개의 성간천체를 발견해 크기, 활동성, 조성, 가속을 비교해야 무엇이 정상이고 무엇이 정말 예외인지 말할 수 있다. 첫 사례에서 가장 위험한 오류는 표본 하나의 이상함을 전체 모집단의 규칙으로 해석하는 것이다.",
+          "textEn": "The second known interstellar object, 2I/Borisov, behaved much more like an ordinary active comet. The contrast suggests that interstellar small bodies may span diverse compositions and structures. ʻOumuamua’s unusual properties may reflect a tiny sample rather than artificial origin. Only a larger population can reveal what is typical and what is genuinely exceptional."
+        },
+        {
+          "blockId": "future-075",
+          "type": "BACKGROUND",
+          "headingKo": "다음 성간천체에서는 발견 속도가 곧 과학적 정보량이 된다",
+          "headingEn": "For the Next Interstellar Object, Early Discovery Will Determine the Science Return",
+          "textKo": "성간천체는 태양계를 한 번 통과하고 떠나기 때문에 발견이 며칠·몇 주 빨라질수록 가능한 관측이 크게 늘어난다. 태양에 접근하기 전부터 추적하면 outgassing의 시작, 회전변화, 색과 스펙트럼, 비중력 가속의 시간변화를 함께 측정할 수 있다. ʻOumuamua의 미해결점 상당수는 특이성 그 자체뿐 아니라 발견시점의 한계에서 비롯됐다. 다음에는 관측창을 놓치지 않는 것 자체가 가장 중요한 실험설계가 된다. 특히 그렇다.",
+          "textEn": "Interstellar objects pass through only once, so finding them days or weeks earlier can transform the science return. Pre-perihelion tracking could measure the onset of activity, rotation changes, colors, spectra and the time dependence of non-gravitational acceleration. Many uncertainties in ʻOumuamua stem from the late discovery as much as from the object’s unusual behavior. For the next visitor, not missing the observing window will itself be part of the experiment design. Especially so."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: ʻOumuamua는 태양계 밖에서 온 최초의 확정된 성간천체이며 쌍곡선 궤도와 비중력 가속을 보였다. 뚜렷한 먼지 coma나 꼬리는 보이지 않았다.\n\n확인되지 않음: 정확한 3차원 형태·조성·가속 메커니즘은 확정되지 않았다. H₂ outgassing 등 자연 모델은 제안과 반론이 모두 존재하며 외계 인공물이라는 직접 증거도 없다.",
+          "textEn": "Established: ʻOumuamua was the first confirmed interstellar object, followed a hyperbolic trajectory and showed non-gravitational acceleration. No obvious dusty coma or tail was seen.\n\nNot established: Its exact three-dimensional shape, composition and acceleration mechanism are not settled. Natural models such as H2 outgassing remain debated, and there is no direct evidence that the object was artificial technology."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: ʻOumuamua는 태양계 밖에서 온 최초의 확정된 성간천체이며 쌍곡선 궤도와 비중력 가속을 보였다. 뚜렷한 먼지 coma나 꼬리는 보이지 않았다.",
+        "notEstablished": "확인되지 않음: 정확한 3차원 형태·조성·가속 메커니즘은 확정되지 않았다. H₂ outgassing 등 자연 모델은 제안과 반론이 모두 존재하며 외계 인공물이라는 직접 증거도 없다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "shape-02",
+        "accel-03",
+        "h2-04",
+        "challenge-05",
+        "alien-06",
+        "aftermath-07",
+        "rotation-025",
+        "composition-055",
+        "population-065",
+        "future-075"
+      ]
+    },
+    "en": {
+      "headline": "Why Did the First Interstellar Visitor Accelerate Like a Comet Without Looking Like One?",
+      "hook": "Its interstellar origin is established. Its shape, composition and acceleration mechanism are not.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "태양계를 가로지른 첫 확인된 성간 방문자",
+          "headingEn": "The First Confirmed Interstellar Visitor Crossed the Solar System",
+          "textKo": "2017년 10월 Pan-STARRS1이 발견한 1I/ʻOumuamua는 궤도만으로도 평범한 소행성과 달랐다. 태양에 묶인 타원궤도가 아니라 쌍곡선 궤도를 따라왔고 이미 태양계에 들어오기 전부터 높은 속도를 갖고 있었다. NASA는 이를 태양계 밖에서 온 최초의 확정된 천체로 정리한다. 발견은 늦었다. ʻOumuamua는 이미 태양 근처를 지나 지구에서 멀어지는 중이었고 관측할 수 있는 시간은 짧았다. 우리가 가진 미스터리의 대부분은 바로 이 짧은 관측창에서 시작된다.",
+          "textEn": "When Pan-STARRS1 discovered 1I/ʻOumuamua in October 2017, its hyperbolic trajectory immediately marked it as interstellar. NASA identifies it as the first confirmed object known to have originated outside our Solar System. It was discovered after perihelion while already receding, leaving a short observing window. Much of the mystery follows from that limited evidence."
+        },
+        {
+          "blockId": "shape-02",
+          "type": "BACKGROUND",
+          "headingKo": "우리가 본 것은 사진 속 막대기가 아니라 밝기가 변하는 한 점이었다",
+          "headingEn": "We Did Not Photograph a Cigar; We Measured a Changing Point of Light",
+          "textKo": "대중 이미지에서는 길쭉한 막대기나 납작한 원반으로 그려지지만 실제 망원경에서 ʻOumuamua는 점광원이었다. 형태 추정은 회전에 따라 밝기가 크게 변하는 light curve에서 나왔다. 매우 길쭉하거나 매우 납작한 형태가 여러 모델로 가능했고 정확한 3차원 형상은 직접 촬영되지 않았다. 따라서 길이 수백 미터의 시가형 물체 같은 표현은 한 모델의 시각화이지 확정된 사진정보가 아니다.",
+          "textEn": "Popular illustrations show a cigar or disk, but telescopes saw ʻOumuamua only as an unresolved point. Shape estimates came from a large rotational light-curve variation. Very elongated or flattened models can fit, while the true three-dimensional shape was never directly imaged."
+        },
+        {
+          "blockId": "accel-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 이상했던 것은 눈에 보이는 꼬리 없이 나타난 비중력 가속이었다",
+          "headingEn": "The Strangest Feature Was Non-Gravitational Acceleration Without an Obvious Coma",
+          "textKo": "추적관측은 태양 중력만으로 계산한 궤도에서 미세하게 벗어나는 비중력 가속을 보여줬다. 일반 혜성이라면 햇빛에 데워진 휘발성 물질이 분출하면서 비슷한 힘을 만들 수 있지만 ʻOumuamua에서는 뚜렷한 먼지 coma나 꼬리가 보이지 않았다. NASA는 이 때문에 처음 소행성으로 분류했다가 가속을 확인한 뒤 눈에 잘 보이지 않는 outgassing이 가능한 comet-like behavior를 주요 설명으로 다룬다. 꼬리가 없다는 것과 가스가 절대 나오지 않았다는 것은 같은 말이 아니다.",
+          "textEn": "Tracking showed a slight deviation from a gravity-only trajectory. Cometary outgassing can cause such acceleration, but ʻOumuamua showed no obvious dusty coma or tail. NASA notes that the object came to be treated as comet-like once the acceleration was measured. No visible tail does not mean no gas release of any kind."
+        },
+        {
+          "blockId": "h2-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "2023년에는 물얼음 속에 갇힌 수소가 가속을 만들 수 있다는 모델이 나왔다",
+          "headingEn": "A 2023 Model Proposed Trapped Hydrogen as the Driver",
+          "textKo": "2023년 Nature 논문은 성간공간에서 우주선에 노출된 물얼음 내부에 분자수소가 생성·갇혔다가 태양열로 방출되면 관측된 가속을 만들 수 있다고 제안했다. 장점은 큰 먼지 coma를 만들지 않고도 가속을 설명할 수 있다는 점이다. 이 모델은 ʻOumuamua를 태양계 혜성과 전혀 다른 인공물로 보지 않고 오랜 성간여행을 겪은 작은 icy body로 설명하려는 시도다.",
+          "textEn": "A 2023 Nature paper proposed that molecular hydrogen produced and trapped inside water ice during interstellar exposure could be released during solar heating and drive the observed acceleration without a large dusty coma. The model attempts to explain ʻOumuamua as an altered icy planetesimal rather than something artificial."
+        },
+        {
+          "blockId": "challenge-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "같은 해 Nature 논쟁은 H₂ 모델도 확정답이 아님을 보여줬다",
+          "headingEn": "The Same-Year Nature Debate Showed the H2 Model Is Not a Final Answer",
+          "textKo": "2023년 후속 Matters Arising는 필요한 양의 H₂를 물얼음에서 만들고 보존하기 어렵다는 계산을 제시하며 모델을 비판했다. 원 논문 저자들은 얼음의 나이·수소 수율·열진화의 불확실성을 들어 반박했다. 이 교환은 자연적 설명이 존재한다는 사실과 그 설명이 이미 확정됐다는 것이 다름을 보여준다. 관측대상이 이미 멀어져 추가 검증이 어렵다는 점도 남는다.",
+          "textEn": "A 2023 Matters Arising paper challenged whether enough H2 could be produced and retained in water ice. The original authors replied that age, yield and thermal-history uncertainties leave room for the mechanism. The exchange shows that a natural explanation can be plausible without being settled."
+        },
+        {
+          "blockId": "alien-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "인공 광돛 가설은 흥미롭지만 관측이 요구하는 결론은 아니다",
+          "headingEn": "An Artificial Lightsail Is an Interesting Hypothesis, Not a Required Conclusion",
+          "textKo": "비중력 가속과 특이한 밝기 변화 때문에 인공 광돛 같은 설명이 유명해졌다. 그러나 알 수 없는 가속이 있으므로 외계기술이라는 논리로 자동 승격되지 않는다. 자연적 outgassing과 얼음·휘발성 모델이 실제 연구 대상으로 존재하고 인공구조를 직접 가리키는 통신신호·분광학적 소재증거·해상도 높은 영상은 없다. 외계기술은 논리적으로 완전 배제됐다고 말할 수는 없지만 현재 증거가 요구하는 설명도 아니다.",
+          "textEn": "The acceleration and light curve made artificial-lightsail hypotheses famous, but unexplained acceleration is not automatically evidence of alien technology. Natural outgassing and volatile-ice models exist, while there is no communication signal, resolved engineering structure or spectroscopic material evidence directly indicating technology."
+        },
+        {
+          "blockId": "aftermath-07",
+          "type": "AFTERMATH",
+          "headingKo": "가장 큰 유산은 다음 성간천체를 기다리는 방법이다",
+          "headingEn": "The Biggest Legacy Is How We Prepare for the Next Interstellar Object",
+          "textKo": "ʻOumuamua는 너무 늦게 발견돼 직접 접근 임무나 장기 분광관측을 할 수 없었다. 이후 2I/Borisov처럼 더 전형적인 성간혜성도 발견되면서 성간천체가 하나의 새로운 관측분야가 됐다. 광시야 조사가 더 많은 방문자를 일찍 찾으면 다음에는 발견 직후부터 분광·열·가속·활동을 추적할 수 있다. 첫 사례의 불확실성은 다음 사례에서 어떤 데이터를 놓치지 말아야 하는지 알려준 셈이다.",
+          "textEn": "ʻOumuamua was discovered too late for a rendezvous mission or prolonged spectroscopy. The later discovery of 2I/Borisov showed that interstellar objects can become a genuine observational population. Earlier discoveries in future surveys could allow spectra, thermal behavior and activity to be followed from the start."
+        },
+        {
+          "blockId": "rotation-025",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "밝기 변화는 극단적인 형태와 복잡한 회전을 암시했지만 하나의 모양을 확정하지 못했다",
+          "headingEn": "The Light Curve Implied an Extreme Shape and Complex Rotation Without Fixing One Geometry",
+          "textKo": "ʻOumuamua의 큰 밝기 변화는 회전하면서 보이는 단면적이 크게 바뀐다는 뜻이었다. 초기에는 길쭉한 시가형이 널리 알려졌지만 이후에는 매우 납작한 형상도 같은 light curve를 설명할 수 있다는 모델이 나왔다. 더구나 천체가 단순한 한 축 회전보다 tumbling 상태였을 가능성이 제기돼 크기와 축비 추정에는 반사율과 회전상태라는 추가 변수가 들어간다. 관측자는 표면을 해상도 있게 찍은 적이 없으므로 그림으로 자주 보이는 갈색 막대기는 설명용 reconstruction이다. 이 구분은 인공구조 가설을 평가할 때 특히 중요하다. 특이한 그림이 관측된 것이 아니라 특이한 광도곡선이 관측된 것이다.",
+          "textEn": "The large brightness variation implied that the visible cross-section changed strongly as ʻOumuamua rotated. An elongated cigar became the famous early interpretation, while later models showed that a very flattened geometry could also fit. Possible tumbling adds further uncertainty involving albedo and rotation state. No telescope resolved the surface, so familiar artist images are reconstructions of an unusual light curve, not direct pictures of an engineered-looking object."
+        },
+        {
+          "blockId": "composition-055",
+          "type": "BACKGROUND",
+          "headingKo": "조성을 모르는 이유는 분광관측 시간이 짧고 활동지표도 약했기 때문이다",
+          "headingEn": "Composition Remains Uncertain Because the Spectral Window Was Short and Activity Was Weak",
+          "textKo": "ʻOumuamua는 발견 당시 이미 태양에서 멀어지고 있었고 빠르게 어두워졌다. 제한된 색과 스펙트럼 자료는 표면이 붉은 계열이며 태양계 외곽 소천체와 완전히 낯선 것은 아니라는 정도를 알려줬지만, 내부 얼음과 휘발성 성분을 직접 재는 데는 부족했다. CO, CO2, 물 같은 전형적 혜성활동의 강한 지표가 보이지 않았다는 사실은 가능한 outgassing의 종류와 양을 제한하지만 모든 휘발성 방출을 배제하지 않는다. 그래서 가속을 설명하려는 모델은 관측되지 않은 물질이 얼마나 숨어 있을 수 있는지, 태양열이 어떤 속도로 그것을 방출할지를 동시에 만족해야 한다.",
+          "textEn": "ʻOumuamua was already receding and fading when discovered. Limited color and spectral data indicated a reddish surface not wholly unlike outer-Solar-System small bodies, but were insufficient to determine interior ice and volatile composition. The absence of strong conventional comet tracers constrains the amount and type of outgassing without ruling out every volatile-release mechanism. Any acceleration model therefore has to satisfy both the dynamics and the non-detections."
+        },
+        {
+          "blockId": "population-065",
+          "type": "BACKGROUND",
+          "headingKo": "한 개의 이상한 천체만으로 성간천체 전체를 정의할 수는 없다",
+          "headingEn": "One Strange Object Cannot Define the Whole Interstellar Population",
+          "textKo": "2019년 발견된 2I/Borisov는 뚜렷한 coma와 꼬리를 가진 훨씬 전형적인 혜성처럼 행동했다. 두 번째 성간천체가 첫 번째와 달랐다는 사실은 성간공간에서 날아오는 작은 천체가 하나의 형태나 조성으로만 존재하지 않을 수 있음을 보여준다. ʻOumuamua의 특이성이 인공성을 의미하기보다 아직 표본이 너무 작다는 신호일 수도 있다. 앞으로 수십 개의 성간천체를 발견해 크기, 활동성, 조성, 가속을 비교해야 무엇이 정상이고 무엇이 정말 예외인지 말할 수 있다. 첫 사례에서 가장 위험한 오류는 표본 하나의 이상함을 전체 모집단의 규칙으로 해석하는 것이다.",
+          "textEn": "The second known interstellar object, 2I/Borisov, behaved much more like an ordinary active comet. The contrast suggests that interstellar small bodies may span diverse compositions and structures. ʻOumuamua’s unusual properties may reflect a tiny sample rather than artificial origin. Only a larger population can reveal what is typical and what is genuinely exceptional."
+        },
+        {
+          "blockId": "future-075",
+          "type": "BACKGROUND",
+          "headingKo": "다음 성간천체에서는 발견 속도가 곧 과학적 정보량이 된다",
+          "headingEn": "For the Next Interstellar Object, Early Discovery Will Determine the Science Return",
+          "textKo": "성간천체는 태양계를 한 번 통과하고 떠나기 때문에 발견이 며칠·몇 주 빨라질수록 가능한 관측이 크게 늘어난다. 태양에 접근하기 전부터 추적하면 outgassing의 시작, 회전변화, 색과 스펙트럼, 비중력 가속의 시간변화를 함께 측정할 수 있다. ʻOumuamua의 미해결점 상당수는 특이성 그 자체뿐 아니라 발견시점의 한계에서 비롯됐다. 다음에는 관측창을 놓치지 않는 것 자체가 가장 중요한 실험설계가 된다. 특히 그렇다.",
+          "textEn": "Interstellar objects pass through only once, so finding them days or weeks earlier can transform the science return. Pre-perihelion tracking could measure the onset of activity, rotation changes, colors, spectra and the time dependence of non-gravitational acceleration. Many uncertainties in ʻOumuamua stem from the late discovery as much as from the object’s unusual behavior. For the next visitor, not missing the observing window will itself be part of the experiment design. Especially so."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: ʻOumuamua는 태양계 밖에서 온 최초의 확정된 성간천체이며 쌍곡선 궤도와 비중력 가속을 보였다. 뚜렷한 먼지 coma나 꼬리는 보이지 않았다.\n\n확인되지 않음: 정확한 3차원 형태·조성·가속 메커니즘은 확정되지 않았다. H₂ outgassing 등 자연 모델은 제안과 반론이 모두 존재하며 외계 인공물이라는 직접 증거도 없다.",
+          "textEn": "Established: ʻOumuamua was the first confirmed interstellar object, followed a hyperbolic trajectory and showed non-gravitational acceleration. No obvious dusty coma or tail was seen.\n\nNot established: Its exact three-dimensional shape, composition and acceleration mechanism are not settled. Natural models such as H2 outgassing remain debated, and there is no direct evidence that the object was artificial technology."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: ʻOumuamua was the first confirmed interstellar object, followed a hyperbolic trajectory and showed non-gravitational acceleration. No obvious dusty coma or tail was seen.",
+        "notEstablished": "Not established: Its exact three-dimensional shape, composition and acceleration mechanism are not settled. Natural models such as H2 outgassing remain debated, and there is no direct evidence that the object was artificial technology."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "shape-02",
+        "accel-03",
+        "h2-04",
+        "challenge-05",
+        "alien-06",
+        "aftermath-07",
+        "rotation-025",
+        "composition-055",
+        "population-065",
+        "future-075"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "OUM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "ʻOumuamua는 태양계 밖에서 온 최초의 확인된 성간천체다.",
+      "statementEn": "ʻOumuamua is the first confirmed interstellar object observed in the Solar System.",
+      "sourceRefs": [
+        "OUM_NASA"
+      ]
+    },
+    {
+      "claimId": "OUM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "ʻOumuamua는 비중력 가속을 보였다.",
+      "statementEn": "ʻOumuamua showed non-gravitational acceleration.",
+      "sourceRefs": [
+        "OUM_NASA",
+        "OUM_NATURE_H2"
+      ]
+    },
+    {
+      "claimId": "OUM-C3",
+      "status": "DISPUTED",
+      "statementKo": "H2 방출 모델은 제안됐지만 반론이 있다.",
+      "statementEn": "An H2 outgassing model has been proposed and challenged.",
+      "sourceRefs": [
+        "OUM_NATURE_H2",
+        "OUM_NATURE_CHALLENGE",
+        "OUM_NATURE_REPLY"
+      ]
+    },
+    {
+      "claimId": "OUM-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "외계 인공물이라는 직접 증거는 없다.",
+      "statementEn": "There is no direct evidence that ʻOumuamua was artificial extraterrestrial technology.",
+      "sourceRefs": [
+        "OUM_NASA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "OUM_NASA",
+      "title": "What We Know—And Don't Know—About 'Oumuamua",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/what-we-knowand-dont-knowabout-oumuamua/",
+      "sourceType": "NASA_SCIENCE_EXPLAINER"
+    },
+    {
+      "sourceId": "OUM_NATURE_H2",
+      "title": "Acceleration of 1I/‘Oumuamua from radiolytically produced H2 in H2O ice",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/s41586-022-05687-w",
+      "sourceType": "PEER_REVIEWED_HYPOTHESIS"
+    },
+    {
+      "sourceId": "OUM_NATURE_CHALLENGE",
+      "title": "Accelerating ‘Oumuamua with H2 is challenging",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/s41586-023-06697-y",
+      "sourceType": "PEER_REVIEWED_MATTERS_ARISING"
+    },
+    {
+      "sourceId": "OUM_NATURE_REPLY",
+      "title": "Reply to: Accelerating ‘Oumuamua with H2 is challenging",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/s41586-023-06698-x",
+      "sourceType": "PEER_REVIEWED_REPLY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "oumuamua-v01",
+      "role": "TRAJECTORY",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "태양계 진입·근일점·이탈의 쌍곡선 궤도 개념도.",
+      "captionEn": "Conceptual hyperbolic trajectory through the Solar System.",
+      "altKo": "태양계 진입·근일점·이탈의 쌍곡선 궤도 개념도.",
+      "altEn": "Conceptual hyperbolic trajectory through the Solar System.",
+      "sourceRefs": [
+        "OUM_NASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "oumuamua__oumuamua-v01__ko.png",
+          "sha256": "c5584252820c2c07c2c5c48d89a05963aaf3fc87e6b03c71c7c36d224603ed7e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "oumuamua__oumuamua-v01__en.png",
+          "sha256": "fe10548ce884c614900bdd13d812d4a294b80130345e70849a2202aaef39882b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "oumuamua-v02",
+      "role": "OBSERVATION_LIMITS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 관측과 light curve 추론을 분리.",
+      "captionEn": "Separate direct observation from light-curve inference.",
+      "altKo": "직접 관측과 light curve 추론을 분리.",
+      "altEn": "Separate direct observation from light-curve inference.",
+      "sourceRefs": [
+        "OUM_NASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "oumuamua__oumuamua-v02__ko.png",
+          "sha256": "2947fcaca37aeb4b4ebd24f7f29e8bd8dd16fa73347b5f79eee3afabf4f7ee26",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "oumuamua__oumuamua-v02__en.png",
+          "sha256": "bdbeabb30e1dbf0638ba77480572d5f65379c9402bc43b62bb4b0f0d040a6c02",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "oumuamua-v03",
+      "role": "HYPOTHESIS_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "outgassing, H2 model, artificial hypothesis의 증거경계.",
+      "captionEn": "Evidence boundaries for outgassing, H2 model and artificial-origin hypothesis.",
+      "altKo": "outgassing, H2 model, artificial hypothesis의 증거경계.",
+      "altEn": "Evidence boundaries for outgassing, H2 model and artificial-origin hypothesis.",
+      "sourceRefs": [
+        "OUM_NASA",
+        "OUM_NATURE_H2",
+        "OUM_NATURE_CHALLENGE"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "oumuamua__oumuamua-v03__ko.png",
+          "sha256": "bd1e9d3cd60ecc782b87d994dd29562866428ea5f06b0c1c7d66e496280fc099",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "oumuamua__oumuamua-v03__en.png",
+          "sha256": "f0cc9360cc30c03ae2ea7434c5445b329bd33038e3d02e1b15bbedc18ba50b80",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "oumuamua-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "성간 기원과 미확정 조성·가속 메커니즘을 분리.",
+      "captionEn": "Separate established interstellar origin from unresolved composition and acceleration.",
+      "altKo": "성간 기원과 미확정 조성·가속 메커니즘을 분리.",
+      "altEn": "Separate established interstellar origin from unresolved composition and acceleration.",
+      "sourceRefs": [
+        "OUM_NASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "oumuamua__oumuamua-v04__ko.png",
+          "sha256": "9a3041e68e76e745697ea3983c1c3571dea2157f015d7813e5d8b461d71cd191",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "oumuamua__oumuamua-v04__en.png",
+          "sha256": "5e86debf12a48dfb6a7f6adac7d09c1e5f58a42276320d7625056895d9224652",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Space",
+    "secondaryGenres": [
+      "Interstellar Objects",
+      "Astronomy"
+    ],
+    "countries": [],
+    "regions": [
+      "Solar System"
+    ],
+    "places": [
+      {
+        "name": "1I/ʻOumuamua",
+        "role": "interstellar object"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "NASA",
+      "Pan-STARRS"
+    ],
+    "dateRange": {
+      "start": "2017-10-19",
+      "end": "2023-11-29",
+      "precision": "discovery through major H2 debate"
+    },
+    "era": "modern astronomy",
+    "resolution": "INTERSTELLAR_ORIGIN_CONFIRMED_ACCELERATION_MECHANISM_UNRESOLVED",
+    "searchAliases": [
+      "Oumuamua",
+      "1I/2017 U1",
+      "interstellar object"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3002,
+    "enBodyWords": 641,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 4,
+    "sourceCount": 4,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH34",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "uss-cyclops",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "USS Cyclops 실종",
+    "canonicalTitleEn": "USS Cyclops Disappearance",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "MARITIME_MYSTERY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "306명과 함께 사라진 미 해군 보급함—버뮤다 삼각지대보다 먼저 봐야 할 증거",
+      "hook": "독일 공격설은 기록에서 약해졌고 구조적 실패가 유력하다. 하지만 wreck가 없어서 마지막 문장은 아직 원인 미상이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1918년 3월, 306명을 태운 거대한 보급함이 무전 한 번 없이 사라졌다",
+          "headingEn": "In March 1918, a Huge Naval Collier Vanished With 306 People and No Distress Call",
+          "textKo": "USS Cyclops는 브라질에서 망간광을 싣고 미국으로 돌아오던 미 해군 급탄함이었다. 1918년 3월 4일 바베이도스를 떠나 볼티모어로 향한 뒤 배도 사람도 다시 확인되지 않았다. Naval History and Heritage Command는 승선자를 306명으로 정리하며 조난신호도 검증된 잔해도 발견되지 않았다고 기록한다. 전쟁 중이었기 때문에 처음에는 독일 잠수함·기습함 공격 가능성이 자연스럽게 의심됐지만 이후 정보자료와 독일 기록에서 Cyclops 공격을 뒷받침하는 흔적은 나오지 않았다.",
+          "textEn": "USS Cyclops was a U.S. Navy collier returning from Brazil with manganese ore. After departing Barbados for Baltimore on 4 March 1918, neither ship nor people were ever confirmed again. NHHC records 306 people aboard and no distress call or verified wreckage. Wartime suspicion initially focused on German attack, but later intelligence and German records produced no supporting evidence."
+        },
+        {
+          "blockId": "ship-02",
+          "type": "BACKGROUND",
+          "headingKo": "무거운 광석을 실은 대형 운반선이라는 조건이 중요하다",
+          "headingEn": "A Large Bulk Carrier With Dense Ore Is Important Context",
+          "textKo": "Cyclops는 석탄과 광물 같은 대량 화물을 운반하도록 설계된 Proteus급 함정이었다. 마지막 항해에는 망간광이 실려 있었고 무거운 광석은 석탄과 다른 방식으로 선체에 하중을 줄 수 있다. NHHC의 역사검토는 구조적 실패를 유력한 자연적 설명으로 다루며 Cyclops의 자매선 Proteus와 Nereus도 훗날 광석을 싣고 사라졌다는 점을 지적한다. 그러나 자매선 사례가 Cyclops의 정확한 사고원인을 증명하는 것은 아니다. 화물·선체설계·해상상태가 위험을 높였을 수 있다는 정황이다.",
+          "textEn": "Cyclops belonged to the Proteus class and carried dense manganese ore on its final voyage. NHHC historical analysis treats structural failure as a plausible leading natural explanation and notes that sister ships Proteus and Nereus later vanished while carrying ore. Those losses provide context for cargo and hull loading but do not prove the exact cause of Cyclops."
+        },
+        {
+          "blockId": "enemy-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "독일 공격설은 전쟁 상황에서는 합리적이었지만 기록과 맞지 않았다",
+          "headingEn": "Enemy Action Was a Reasonable Wartime Suspicion but Lacks Supporting Records",
+          "textKo": "1918년은 대서양 잠수함전이 계속되던 시기였다. Cyclops가 연락 없이 사라졌다면 어뢰·기습함 공격을 의심하는 것은 당연했다. 그러나 영국은 당시 독일 해군 무선교신을 상당 부분 읽고 있었고 미국과 정보를 공유했다. 전후 독일 기록도 검토됐지만 Cyclops 격침이나 접촉을 보여주는 자료가 발견되지 않았다. 따라서 독일이 비밀리에 침몰시켰다는 설명은 현재 공식 역사와 맞지 않는다.",
+          "textEn": "In 1918 the Atlantic war was active, so a torpedo or raider attack was a natural suspicion. Yet British intelligence was reading German naval traffic and sharing information with the United States, and postwar German records showed no attack or encounter with Cyclops. Enemy action is therefore not supported by the surviving official record."
+        },
+        {
+          "blockId": "captain-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "선장의 독일계 출신은 사보타주설을 만들었지만 증거가 되지는 않았다",
+          "headingEn": "The Captain’s German Background Fueled Sabotage Theories Without Proving Sabotage",
+          "textKo": "함장 George Worley가 독일 태생이며 원래 이름이 Johann Frederick Wichmann이었다는 사실은 전시의 의심을 키웠다. 해군 정보기관도 그의 배경을 조사했다. 하지만 출신과 평판이 곧 사보타주의 증거는 아니다. 선장이 의도적으로 배를 넘겼다거나 반란이 일어났다는 직접 기록은 없다. 이 사건에서 개인의 배경은 조사대상이었지만 이후 반복되는 음모서사에서 증거보다 더 큰 비중을 차지하게 됐다.",
+          "textEn": "Captain George Worley’s German birth and original name intensified wartime suspicion, and naval intelligence investigated him. But origin and reputation are not evidence of sabotage. No direct record shows that he surrendered the ship or that a mutiny occurred."
+        },
+        {
+          "blockId": "structure-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "현재 가장 현실적인 후보는 구조적 실패이지만 wreck가 없어서 닫히지 않는다",
+          "headingEn": "Structural Failure Is a Plausible Leading Candidate, but the Missing Wreck Keeps the Case Open",
+          "textKo": "NHHC의 역사평가는 구조적 파손을 가장 가능성 높은 원인으로 제시한다. 무거운 망간광, 당시 선박의 구조·하중 문제, 자매선의 후대 손실이 이 가설을 뒷받침하는 정황이다. 하지만 wreck를 발견해 파손부위·화물배치·침몰자세를 조사한 적이 없기 때문에 구조적 실패로 확정이라고 말할 수 없다. 폭풍, 화물 이동, 선체 손상 같은 요소가 복합적으로 작용했을 가능성도 있다.",
+          "textEn": "NHHC historical analysis describes catastrophic structural failure as the most likely explanation. Dense ore, structural loading and the later losses of sister ships provide circumstantial support. But the wreck has never been found, so fracture points, cargo distribution and sinking attitude have never been examined. Structural failure remains a leading hypothesis rather than a confirmed cause."
+        },
+        {
+          "blockId": "triangle-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "버뮤다 삼각지대는 사건보다 수십 년 뒤에 붙은 이야기다",
+          "headingEn": "The Bermuda Triangle Story Came Decades After the Loss",
+          "textKo": "Cyclops는 오늘날 버뮤다 삼각지대 이야기의 대표 사건으로 자주 등장한다. 하지만 Bermuda Triangle이라는 대중적 명칭 자체가 1950년대 이후에 생겼다. 미 해군과 미국 정부 자료는 이 지역에서 선박·항공기가 초자연적으로 더 많이 사라진다는 근거를 인정하지 않는다. 1918년 사건에 훗날 만들어진 지리적 신화를 소급해서 적용하면 당시 조사자료보다 후대 대중문화가 앞서게 된다.",
+          "textEn": "Cyclops later became a staple of Bermuda Triangle lore, but the popular term emerged decades after 1918. U.S. government explanations do not recognize a demonstrated supernatural excess of losses in that area. Applying a later myth backward gives popular culture more weight than the contemporary record."
+        },
+        {
+          "blockId": "search-07",
+          "type": "BACKGROUND",
+          "headingKo": "수색 실패 자체가 원인에 대한 증거를 남기지 못했다",
+          "headingEn": "The Failed Search Left the Cause Without Physical Evidence",
+          "textKo": "당시 수색은 넓은 해역을 대상으로 진행됐지만 잔해·시신·구조물을 확인하지 못했다. 대형 선박이 아무 흔적 없이 사라진 점은 음모론의 연료가 됐지만 해류와 수심, 마지막 위치의 불확실성 때문에 잔해를 찾지 못했다고 해서 비정상적 메커니즘을 요구하는 것은 아니다. wreck가 발견되지 않았다는 사실은 원인 후보들을 좁히는 물리증거가 사라졌다는 뜻에 더 가깝다.",
+          "textEn": "Searches failed to find wreckage, bodies or a confirmed debris field. That absence became fuel for mystery narratives, but uncertain routing, currents and depth do not require a supernatural mechanism. The practical consequence is that physical evidence capable of distinguishing among causes is missing."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "사건을 끝낼 수 있는 것은 새로운 이론보다 wreck일 가능성이 높다",
+          "headingEn": "A Wreck Discovery Would Matter More Than Another Theory",
+          "textKo": "Cyclops 사건에는 이미 한 세기가 넘는 가설이 쌓였다. 새로운 추측 하나를 더하는 것보다 결정적인 변화는 선체를 찾아 위치·파손·화물상태를 직접 조사하는 것이다. 해저탐사 기술은 1918년과 비교할 수 없을 만큼 좋아졌지만 대서양의 넓은 수색범위와 확실하지 않은 마지막 항로 때문에 발견은 어렵다. 지금의 가장 정확한 결론은 원인불명이면서 동시에 모든 가설이 동등하다는 뜻은 아니라는 것이다.",
+          "textEn": "More than a century of hypotheses surrounds Cyclops. A wreck discovery, not another theory, would provide the most decisive change by allowing examination of location, fractures and cargo. The present conclusion remains cause unknown, which does not mean every proposed explanation has equal evidentiary support."
+        },
+        {
+          "blockId": "route-025",
+          "type": "BACKGROUND",
+          "headingKo": "마지막 항해의 위치와 적재상태가 정확하지 않아 수색구역도 넓어졌다",
+          "headingEn": "Uncertainty in Route and Loading Expanded the Search Problem",
+          "textKo": "Cyclops는 남미 항로에서 망간광을 싣고 북상했고 예정에 없던 바베이도스 기항 뒤 미국 동부로 향했다. 당시의 항해보고는 오늘날 GPS 추적처럼 연속적인 위치기록을 남기지 않았기 때문에 바베이도스 출항 뒤 실제 항로와 침몰시점을 정밀하게 재구성할 수 없다. 무전이 끊긴 뒤 가능한 위치는 시간이 지날수록 넓어졌고 해류는 작은 잔해를 빠르게 흩뜨릴 수 있었다. 대형 선박이 사라졌는데 잔해가 없다는 사실은 분명 이례적으로 느껴지지만, 마지막 위치가 불확실한 대양 수색에서는 그 자체가 초자연적 원인을 요구하는 증거가 되지 않는다.",
+          "textEn": "Cyclops loaded manganese in South America, sailed north and made an unscheduled stop at Barbados before heading for the U.S. east coast. Navigation reports in 1918 did not provide continuous GPS-like tracking, so the route and time of loss after Barbados cannot be reconstructed precisely. Once communication ceased, the possible search area expanded rapidly and currents could disperse light debris."
+        },
+        {
+          "blockId": "sisters-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "자매선 두 척의 후대 실종은 구조·화물 가설을 강화하지만 증명은 아니다",
+          "headingEn": "The Later Loss of Two Sister Ships Strengthens Structural Questions Without Proving Them",
+          "textKo": "Proteus급 자매선 Proteus와 Nereus는 상업선으로 전환된 뒤 1941년에 각각 광물 화물을 싣고 대서양에서 사라졌다. 세 척이 비슷한 계열이고 광석을 운반했다는 공통점은 선체구조와 적재분포를 다시 보게 만든다. 하지만 세 사고의 기상과 적재량, 유지보수 상태, 정확한 항로는 동일하지 않다. 자매선 실종은 Cyclops의 구조적 취약 가능성을 뒷받침하는 비교사례이지 동일한 결함이 세 척을 침몰시켰다는 직접 증거는 아니다. wreck 없는 사건에서 비교사례와 직접증거를 구분하는 것이 중요하다.",
+          "textEn": "Sister ships Proteus and Nereus later vanished in 1941 after conversion to commercial service while carrying ore. The common class and dense cargo keep hull structure and loading distribution in focus. Yet weather, maintenance, cargo and routes differed. The sister losses are comparative context, not direct proof that one identical defect sank all three ships."
+        },
+        {
+          "blockId": "evidence-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "원인 미상은 모든 가설이 같은 무게라는 뜻이 아니다",
+          "headingEn": "Unknown Cause Does Not Mean Every Theory Has Equal Weight",
+          "textKo": "Cyclops의 공식 결론이 원인 미상으로 남는 이유는 물리적 wreck가 없기 때문이다. 그렇다고 구조적 실패, 독일 공격, 사보타주, 초자연 현상이 모두 25%씩 가능한 것은 아니다. 독일 공격설은 전후 기록 검토로 약해졌고 초자연설은 독립적인 물리증거가 없다. 구조적 실패와 화물·해상상태의 결합은 해군 역사검토가 현실적 후보로 다루지만 직접 선체검사가 없어서 확정할 수 없다. 미해결 사건을 다룰 때는 결론의 부재와 증거의 부재를 같은 것으로 취급하지 않아야 한다.",
+          "textEn": "The official cause remains unknown largely because the wreck is absent. That does not give structural failure, German attack, sabotage and supernatural explanations equal weight. Enemy-action theories weakened under postwar records; supernatural claims lack independent physical evidence; structural failure remains a plausible leading explanation but cannot be confirmed without the hull."
+        },
+        {
+          "blockId": "records-085",
+          "type": "BACKGROUND",
+          "headingKo": "공식 기록은 미스터리를 줄이는 동시에 완전히 닫지는 못한다",
+          "headingEn": "Official Records Narrow the Mystery Without Closing It",
+          "textKo": "해군 기록은 적 공격과 사보타주처럼 반복되는 일부 설명의 근거를 약화시키지만, wreck가 없기 때문에 최종 사고과정을 재구성할 물리증거는 제공하지 못한다. 이 사건은 문서조사가 무엇을 배제할 수 있는지와 무엇을 끝내 확인할 수 없는지를 동시에 보여준다.",
+          "textEn": "Naval records weaken recurring explanations such as enemy attack or sabotage, but the absence of the wreck prevents a physical reconstruction of the final failure sequence. The case shows both the power and the limit of documentary evidence."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: USS Cyclops는 1918년 3월 바베이도스를 떠난 뒤 306명과 함께 사라졌고 조난신호나 검증된 wreckage가 발견되지 않았다. 독일 공격을 뒷받침하는 기록은 확인되지 않았으며 구조적 실패가 유력 자연가설로 평가된다.\n\n확인되지 않음: 정확한 침몰 위치와 직접 원인은 확정되지 않았다. 사보타주·반란·버뮤다 삼각지대의 초자연 현상은 직접 증거로 입증되지 않았다.",
+          "textEn": "Established: USS Cyclops disappeared after leaving Barbados in March 1918 with 306 people aboard; no distress call or verified wreckage has been found. Surviving records do not support German attack, and structural failure is treated as a plausible leading natural explanation.\n\nNot established: The exact sinking location and direct cause remain unknown. Sabotage, mutiny or a supernatural Bermuda Triangle mechanism has not been established by direct evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: USS Cyclops는 1918년 3월 바베이도스를 떠난 뒤 306명과 함께 사라졌고 조난신호나 검증된 wreckage가 발견되지 않았다. 독일 공격을 뒷받침하는 기록은 확인되지 않았으며 구조적 실패가 유력 자연가설로 평가된다.",
+        "notEstablished": "확인되지 않음: 정확한 침몰 위치와 직접 원인은 확정되지 않았다. 사보타주·반란·버뮤다 삼각지대의 초자연 현상은 직접 증거로 입증되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ship-02",
+        "enemy-03",
+        "captain-04",
+        "structure-05",
+        "triangle-06",
+        "search-07",
+        "aftermath-08",
+        "route-025",
+        "sisters-055",
+        "evidence-075",
+        "records-085"
+      ]
+    },
+    "en": {
+      "headline": "The U.S. Navy Collier That Vanished With 306 People—Before the Bermuda Triangle Myth",
+      "hook": "Enemy action weakened under the historical record and structural failure remains plausible. Without the wreck, the final line is still cause unknown.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1918년 3월, 306명을 태운 거대한 보급함이 무전 한 번 없이 사라졌다",
+          "headingEn": "In March 1918, a Huge Naval Collier Vanished With 306 People and No Distress Call",
+          "textKo": "USS Cyclops는 브라질에서 망간광을 싣고 미국으로 돌아오던 미 해군 급탄함이었다. 1918년 3월 4일 바베이도스를 떠나 볼티모어로 향한 뒤 배도 사람도 다시 확인되지 않았다. Naval History and Heritage Command는 승선자를 306명으로 정리하며 조난신호도 검증된 잔해도 발견되지 않았다고 기록한다. 전쟁 중이었기 때문에 처음에는 독일 잠수함·기습함 공격 가능성이 자연스럽게 의심됐지만 이후 정보자료와 독일 기록에서 Cyclops 공격을 뒷받침하는 흔적은 나오지 않았다.",
+          "textEn": "USS Cyclops was a U.S. Navy collier returning from Brazil with manganese ore. After departing Barbados for Baltimore on 4 March 1918, neither ship nor people were ever confirmed again. NHHC records 306 people aboard and no distress call or verified wreckage. Wartime suspicion initially focused on German attack, but later intelligence and German records produced no supporting evidence."
+        },
+        {
+          "blockId": "ship-02",
+          "type": "BACKGROUND",
+          "headingKo": "무거운 광석을 실은 대형 운반선이라는 조건이 중요하다",
+          "headingEn": "A Large Bulk Carrier With Dense Ore Is Important Context",
+          "textKo": "Cyclops는 석탄과 광물 같은 대량 화물을 운반하도록 설계된 Proteus급 함정이었다. 마지막 항해에는 망간광이 실려 있었고 무거운 광석은 석탄과 다른 방식으로 선체에 하중을 줄 수 있다. NHHC의 역사검토는 구조적 실패를 유력한 자연적 설명으로 다루며 Cyclops의 자매선 Proteus와 Nereus도 훗날 광석을 싣고 사라졌다는 점을 지적한다. 그러나 자매선 사례가 Cyclops의 정확한 사고원인을 증명하는 것은 아니다. 화물·선체설계·해상상태가 위험을 높였을 수 있다는 정황이다.",
+          "textEn": "Cyclops belonged to the Proteus class and carried dense manganese ore on its final voyage. NHHC historical analysis treats structural failure as a plausible leading natural explanation and notes that sister ships Proteus and Nereus later vanished while carrying ore. Those losses provide context for cargo and hull loading but do not prove the exact cause of Cyclops."
+        },
+        {
+          "blockId": "enemy-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "독일 공격설은 전쟁 상황에서는 합리적이었지만 기록과 맞지 않았다",
+          "headingEn": "Enemy Action Was a Reasonable Wartime Suspicion but Lacks Supporting Records",
+          "textKo": "1918년은 대서양 잠수함전이 계속되던 시기였다. Cyclops가 연락 없이 사라졌다면 어뢰·기습함 공격을 의심하는 것은 당연했다. 그러나 영국은 당시 독일 해군 무선교신을 상당 부분 읽고 있었고 미국과 정보를 공유했다. 전후 독일 기록도 검토됐지만 Cyclops 격침이나 접촉을 보여주는 자료가 발견되지 않았다. 따라서 독일이 비밀리에 침몰시켰다는 설명은 현재 공식 역사와 맞지 않는다.",
+          "textEn": "In 1918 the Atlantic war was active, so a torpedo or raider attack was a natural suspicion. Yet British intelligence was reading German naval traffic and sharing information with the United States, and postwar German records showed no attack or encounter with Cyclops. Enemy action is therefore not supported by the surviving official record."
+        },
+        {
+          "blockId": "captain-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "선장의 독일계 출신은 사보타주설을 만들었지만 증거가 되지는 않았다",
+          "headingEn": "The Captain’s German Background Fueled Sabotage Theories Without Proving Sabotage",
+          "textKo": "함장 George Worley가 독일 태생이며 원래 이름이 Johann Frederick Wichmann이었다는 사실은 전시의 의심을 키웠다. 해군 정보기관도 그의 배경을 조사했다. 하지만 출신과 평판이 곧 사보타주의 증거는 아니다. 선장이 의도적으로 배를 넘겼다거나 반란이 일어났다는 직접 기록은 없다. 이 사건에서 개인의 배경은 조사대상이었지만 이후 반복되는 음모서사에서 증거보다 더 큰 비중을 차지하게 됐다.",
+          "textEn": "Captain George Worley’s German birth and original name intensified wartime suspicion, and naval intelligence investigated him. But origin and reputation are not evidence of sabotage. No direct record shows that he surrendered the ship or that a mutiny occurred."
+        },
+        {
+          "blockId": "structure-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "현재 가장 현실적인 후보는 구조적 실패이지만 wreck가 없어서 닫히지 않는다",
+          "headingEn": "Structural Failure Is a Plausible Leading Candidate, but the Missing Wreck Keeps the Case Open",
+          "textKo": "NHHC의 역사평가는 구조적 파손을 가장 가능성 높은 원인으로 제시한다. 무거운 망간광, 당시 선박의 구조·하중 문제, 자매선의 후대 손실이 이 가설을 뒷받침하는 정황이다. 하지만 wreck를 발견해 파손부위·화물배치·침몰자세를 조사한 적이 없기 때문에 구조적 실패로 확정이라고 말할 수 없다. 폭풍, 화물 이동, 선체 손상 같은 요소가 복합적으로 작용했을 가능성도 있다.",
+          "textEn": "NHHC historical analysis describes catastrophic structural failure as the most likely explanation. Dense ore, structural loading and the later losses of sister ships provide circumstantial support. But the wreck has never been found, so fracture points, cargo distribution and sinking attitude have never been examined. Structural failure remains a leading hypothesis rather than a confirmed cause."
+        },
+        {
+          "blockId": "triangle-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "버뮤다 삼각지대는 사건보다 수십 년 뒤에 붙은 이야기다",
+          "headingEn": "The Bermuda Triangle Story Came Decades After the Loss",
+          "textKo": "Cyclops는 오늘날 버뮤다 삼각지대 이야기의 대표 사건으로 자주 등장한다. 하지만 Bermuda Triangle이라는 대중적 명칭 자체가 1950년대 이후에 생겼다. 미 해군과 미국 정부 자료는 이 지역에서 선박·항공기가 초자연적으로 더 많이 사라진다는 근거를 인정하지 않는다. 1918년 사건에 훗날 만들어진 지리적 신화를 소급해서 적용하면 당시 조사자료보다 후대 대중문화가 앞서게 된다.",
+          "textEn": "Cyclops later became a staple of Bermuda Triangle lore, but the popular term emerged decades after 1918. U.S. government explanations do not recognize a demonstrated supernatural excess of losses in that area. Applying a later myth backward gives popular culture more weight than the contemporary record."
+        },
+        {
+          "blockId": "search-07",
+          "type": "BACKGROUND",
+          "headingKo": "수색 실패 자체가 원인에 대한 증거를 남기지 못했다",
+          "headingEn": "The Failed Search Left the Cause Without Physical Evidence",
+          "textKo": "당시 수색은 넓은 해역을 대상으로 진행됐지만 잔해·시신·구조물을 확인하지 못했다. 대형 선박이 아무 흔적 없이 사라진 점은 음모론의 연료가 됐지만 해류와 수심, 마지막 위치의 불확실성 때문에 잔해를 찾지 못했다고 해서 비정상적 메커니즘을 요구하는 것은 아니다. wreck가 발견되지 않았다는 사실은 원인 후보들을 좁히는 물리증거가 사라졌다는 뜻에 더 가깝다.",
+          "textEn": "Searches failed to find wreckage, bodies or a confirmed debris field. That absence became fuel for mystery narratives, but uncertain routing, currents and depth do not require a supernatural mechanism. The practical consequence is that physical evidence capable of distinguishing among causes is missing."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "사건을 끝낼 수 있는 것은 새로운 이론보다 wreck일 가능성이 높다",
+          "headingEn": "A Wreck Discovery Would Matter More Than Another Theory",
+          "textKo": "Cyclops 사건에는 이미 한 세기가 넘는 가설이 쌓였다. 새로운 추측 하나를 더하는 것보다 결정적인 변화는 선체를 찾아 위치·파손·화물상태를 직접 조사하는 것이다. 해저탐사 기술은 1918년과 비교할 수 없을 만큼 좋아졌지만 대서양의 넓은 수색범위와 확실하지 않은 마지막 항로 때문에 발견은 어렵다. 지금의 가장 정확한 결론은 원인불명이면서 동시에 모든 가설이 동등하다는 뜻은 아니라는 것이다.",
+          "textEn": "More than a century of hypotheses surrounds Cyclops. A wreck discovery, not another theory, would provide the most decisive change by allowing examination of location, fractures and cargo. The present conclusion remains cause unknown, which does not mean every proposed explanation has equal evidentiary support."
+        },
+        {
+          "blockId": "route-025",
+          "type": "BACKGROUND",
+          "headingKo": "마지막 항해의 위치와 적재상태가 정확하지 않아 수색구역도 넓어졌다",
+          "headingEn": "Uncertainty in Route and Loading Expanded the Search Problem",
+          "textKo": "Cyclops는 남미 항로에서 망간광을 싣고 북상했고 예정에 없던 바베이도스 기항 뒤 미국 동부로 향했다. 당시의 항해보고는 오늘날 GPS 추적처럼 연속적인 위치기록을 남기지 않았기 때문에 바베이도스 출항 뒤 실제 항로와 침몰시점을 정밀하게 재구성할 수 없다. 무전이 끊긴 뒤 가능한 위치는 시간이 지날수록 넓어졌고 해류는 작은 잔해를 빠르게 흩뜨릴 수 있었다. 대형 선박이 사라졌는데 잔해가 없다는 사실은 분명 이례적으로 느껴지지만, 마지막 위치가 불확실한 대양 수색에서는 그 자체가 초자연적 원인을 요구하는 증거가 되지 않는다.",
+          "textEn": "Cyclops loaded manganese in South America, sailed north and made an unscheduled stop at Barbados before heading for the U.S. east coast. Navigation reports in 1918 did not provide continuous GPS-like tracking, so the route and time of loss after Barbados cannot be reconstructed precisely. Once communication ceased, the possible search area expanded rapidly and currents could disperse light debris."
+        },
+        {
+          "blockId": "sisters-055",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "자매선 두 척의 후대 실종은 구조·화물 가설을 강화하지만 증명은 아니다",
+          "headingEn": "The Later Loss of Two Sister Ships Strengthens Structural Questions Without Proving Them",
+          "textKo": "Proteus급 자매선 Proteus와 Nereus는 상업선으로 전환된 뒤 1941년에 각각 광물 화물을 싣고 대서양에서 사라졌다. 세 척이 비슷한 계열이고 광석을 운반했다는 공통점은 선체구조와 적재분포를 다시 보게 만든다. 하지만 세 사고의 기상과 적재량, 유지보수 상태, 정확한 항로는 동일하지 않다. 자매선 실종은 Cyclops의 구조적 취약 가능성을 뒷받침하는 비교사례이지 동일한 결함이 세 척을 침몰시켰다는 직접 증거는 아니다. wreck 없는 사건에서 비교사례와 직접증거를 구분하는 것이 중요하다.",
+          "textEn": "Sister ships Proteus and Nereus later vanished in 1941 after conversion to commercial service while carrying ore. The common class and dense cargo keep hull structure and loading distribution in focus. Yet weather, maintenance, cargo and routes differed. The sister losses are comparative context, not direct proof that one identical defect sank all three ships."
+        },
+        {
+          "blockId": "evidence-075",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "원인 미상은 모든 가설이 같은 무게라는 뜻이 아니다",
+          "headingEn": "Unknown Cause Does Not Mean Every Theory Has Equal Weight",
+          "textKo": "Cyclops의 공식 결론이 원인 미상으로 남는 이유는 물리적 wreck가 없기 때문이다. 그렇다고 구조적 실패, 독일 공격, 사보타주, 초자연 현상이 모두 25%씩 가능한 것은 아니다. 독일 공격설은 전후 기록 검토로 약해졌고 초자연설은 독립적인 물리증거가 없다. 구조적 실패와 화물·해상상태의 결합은 해군 역사검토가 현실적 후보로 다루지만 직접 선체검사가 없어서 확정할 수 없다. 미해결 사건을 다룰 때는 결론의 부재와 증거의 부재를 같은 것으로 취급하지 않아야 한다.",
+          "textEn": "The official cause remains unknown largely because the wreck is absent. That does not give structural failure, German attack, sabotage and supernatural explanations equal weight. Enemy-action theories weakened under postwar records; supernatural claims lack independent physical evidence; structural failure remains a plausible leading explanation but cannot be confirmed without the hull."
+        },
+        {
+          "blockId": "records-085",
+          "type": "BACKGROUND",
+          "headingKo": "공식 기록은 미스터리를 줄이는 동시에 완전히 닫지는 못한다",
+          "headingEn": "Official Records Narrow the Mystery Without Closing It",
+          "textKo": "해군 기록은 적 공격과 사보타주처럼 반복되는 일부 설명의 근거를 약화시키지만, wreck가 없기 때문에 최종 사고과정을 재구성할 물리증거는 제공하지 못한다. 이 사건은 문서조사가 무엇을 배제할 수 있는지와 무엇을 끝내 확인할 수 없는지를 동시에 보여준다.",
+          "textEn": "Naval records weaken recurring explanations such as enemy attack or sabotage, but the absence of the wreck prevents a physical reconstruction of the final failure sequence. The case shows both the power and the limit of documentary evidence."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: USS Cyclops는 1918년 3월 바베이도스를 떠난 뒤 306명과 함께 사라졌고 조난신호나 검증된 wreckage가 발견되지 않았다. 독일 공격을 뒷받침하는 기록은 확인되지 않았으며 구조적 실패가 유력 자연가설로 평가된다.\n\n확인되지 않음: 정확한 침몰 위치와 직접 원인은 확정되지 않았다. 사보타주·반란·버뮤다 삼각지대의 초자연 현상은 직접 증거로 입증되지 않았다.",
+          "textEn": "Established: USS Cyclops disappeared after leaving Barbados in March 1918 with 306 people aboard; no distress call or verified wreckage has been found. Surviving records do not support German attack, and structural failure is treated as a plausible leading natural explanation.\n\nNot established: The exact sinking location and direct cause remain unknown. Sabotage, mutiny or a supernatural Bermuda Triangle mechanism has not been established by direct evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: USS Cyclops disappeared after leaving Barbados in March 1918 with 306 people aboard; no distress call or verified wreckage has been found. Surviving records do not support German attack, and structural failure is treated as a plausible leading natural explanation.",
+        "notEstablished": "Not established: The exact sinking location and direct cause remain unknown. Sabotage, mutiny or a supernatural Bermuda Triangle mechanism has not been established by direct evidence."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "ship-02",
+        "enemy-03",
+        "captain-04",
+        "structure-05",
+        "triangle-06",
+        "search-07",
+        "aftermath-08",
+        "route-025",
+        "sisters-055",
+        "evidence-075",
+        "records-085"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CYC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "USS Cyclops는 1918년 3월 4일 바베이도스를 떠난 뒤 306명과 함께 실종됐다.",
+      "statementEn": "USS Cyclops disappeared after leaving Barbados on 4 March 1918 with 306 people aboard.",
+      "sourceRefs": [
+        "CYC_NHHC_HGRAM"
+      ]
+    },
+    {
+      "claimId": "CYC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "검증된 wreckage나 조난신호는 발견되지 않았다.",
+      "statementEn": "No verified wreckage or distress call has been found.",
+      "sourceRefs": [
+        "CYC_NHHC_MYSTERY",
+        "CYC_NHHC_HGRAM"
+      ]
+    },
+    {
+      "claimId": "CYC-C3",
+      "status": "NOT_SUPPORTED",
+      "statementKo": "독일 공격을 뒷받침하는 기록은 확인되지 않았다.",
+      "statementEn": "Surviving records do not support German attack.",
+      "sourceRefs": [
+        "CYC_NHHC_HGRAM"
+      ]
+    },
+    {
+      "claimId": "CYC-C4",
+      "status": "SUPPORTED_HYPOTHESIS",
+      "statementKo": "구조적 실패는 유력한 자연가설이지만 확정 원인은 아니다.",
+      "statementEn": "Structural failure is a leading natural hypothesis, not a confirmed cause.",
+      "sourceRefs": [
+        "CYC_NHHC_HGRAM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CYC_NHHC_MYSTERY",
+      "title": "USS Cyclops Mystery",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwi/wwi-convoys/uss-cyclops-mystery-1918.html",
+      "sourceType": "US_NAVY_HISTORY"
+    },
+    {
+      "sourceId": "CYC_NHHC_HGRAM",
+      "title": "H-016-4: World War I—USS Cyclops and Her Sisters",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-016/h-016-4.html",
+      "sourceType": "US_NAVY_HISTORICAL_ANALYSIS"
+    },
+    {
+      "sourceId": "CYC_NHHC_BERMUDA",
+      "title": "Bermuda Triangle",
+      "publisher": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/research/library/bibliographies-and-research-guides/bibliographies/naval-adventures-and-misadventures/nautical-mysteries/bermuda-triangle.html",
+      "sourceType": "US_NAVY_RESEARCH_GUIDE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cyclops-v01",
+      "role": "VOYAGE_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "브라질 → 바베이도스 → 볼티모어 예정항로와 마지막 확인 지점.",
+      "captionEn": "Planned Brazil → Barbados → Baltimore route and last confirmed point.",
+      "altKo": "브라질 → 바베이도스 → 볼티모어 예정항로와 마지막 확인 지점.",
+      "altEn": "Planned Brazil → Barbados → Baltimore route and last confirmed point.",
+      "sourceRefs": [
+        "CYC_NHHC_HGRAM"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-cyclops__cyclops-v01__ko.png",
+          "sha256": "4b5d11a6eb9e808a6bee481f99fb4ee81442313e3b11a0506626ad972e836604",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-cyclops__cyclops-v01__en.png",
+          "sha256": "c7c3b405c06a107853f44c79ddd1c5dbb1fceae11573b4601638fd379d4e5209",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cyclops-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1918 마지막 항해·수색·전후 독일기록 검토·후대 Bermuda Triangle 서사.",
+      "captionEn": "1918 final voyage, search, postwar German-record review and later Bermuda Triangle lore.",
+      "altKo": "1918 마지막 항해·수색·전후 독일기록 검토·후대 Bermuda Triangle 서사.",
+      "altEn": "1918 final voyage, search, postwar German-record review and later Bermuda Triangle lore.",
+      "sourceRefs": [
+        "CYC_NHHC_HGRAM",
+        "CYC_NHHC_BERMUDA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-cyclops__cyclops-v02__ko.png",
+          "sha256": "c7ce9f874b0cb2552ee991988d8412bf93eb03ef1335f23438762b30e1d33028",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-cyclops__cyclops-v02__en.png",
+          "sha256": "47aa95cac39ada83abd6a14613e61ee382326334c69455c6f7a5adb5b4afe6c4",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cyclops-v03",
+      "role": "HYPOTHESIS_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "구조적 실패·적 공격·사보타주·초자연설의 증거 강도.",
+      "captionEn": "Evidence matrix for structural failure, enemy action, sabotage and supernatural claims.",
+      "altKo": "구조적 실패·적 공격·사보타주·초자연설의 증거 강도.",
+      "altEn": "Evidence matrix for structural failure, enemy action, sabotage and supernatural claims.",
+      "sourceRefs": [
+        "CYC_NHHC_HGRAM"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-cyclops__cyclops-v03__ko.png",
+          "sha256": "e207dc444d94a555ca4a16241b9f026122578061900029e6e944333e6f5a2283",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-cyclops__cyclops-v03__en.png",
+          "sha256": "171b663f0f2e0570549ae8ead88be206691c2cb918258acb5944c1abdad89bdd",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "cyclops-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "실종 사실과 미확정 침몰원인을 분리.",
+      "captionEn": "Separate the established disappearance from the unresolved sinking mechanism.",
+      "altKo": "실종 사실과 미확정 침몰원인을 분리.",
+      "altEn": "Separate the established disappearance from the unresolved sinking mechanism.",
+      "sourceRefs": [
+        "CYC_NHHC_MYSTERY"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "uss-cyclops__cyclops-v04__ko.png",
+          "sha256": "0e5d924ee3490c890fb08ba31437ba3036b12aa2f4e8185c0db0143adcb3d3c0",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "uss-cyclops__cyclops-v04__en.png",
+          "sha256": "b06922707fdcb133190ed429550d09e3c4ba62c1b7a9144d063e0d6d11cb21c7",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Disappearance",
+      "World War I"
+    ],
+    "countries": [
+      "United States",
+      "Barbados",
+      "Brazil"
+    ],
+    "regions": [
+      "Atlantic Ocean"
+    ],
+    "places": [
+      {
+        "name": "Barbados",
+        "role": "last port of departure"
+      },
+      {
+        "name": "Baltimore",
+        "role": "intended destination"
+      }
+    ],
+    "people": [
+      {
+        "name": "George Worley",
+        "role": "commanding officer"
+      }
+    ],
+    "organizations": [
+      "United States Navy",
+      "Naval History and Heritage Command"
+    ],
+    "dateRange": {
+      "start": "1918-03-04",
+      "end": "1918-03",
+      "precision": "final voyage"
+    },
+    "era": "World War I",
+    "resolution": "SHIP_LOST_CAUSE_UNKNOWN_STRUCTURAL_FAILURE_PLAUSIBLE",
+    "searchAliases": [
+      "USS Cyclops AC-4",
+      "Cyclops 1918",
+      "Bermuda Triangle Cyclops"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3057,
+    "enBodyWords": 672,
+    "meaningfulBlockCount": 13,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH34",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "k2-18b-biosignature",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "K2-18 b 생명지표 논쟁",
+    "canonicalTitleEn": "K2-18 b Biosignature Debate",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SCIENCE_DEBATE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "생명의 강한 단서라는 헤드라인 뒤에서 실제로 싸우는 것은 분자와 모델이다",
+      "hook": "메탄과 이산화탄소는 강하다. DMS/DMDS와 생명 주장은 훨씬 더 높은 증거문턱을 넘어야 한다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "120광년 밖의 스펙트럼 몇 줄이 생명 논쟁으로 커졌다",
+          "headingEn": "A Few Spectral Features 120 Light-Years Away Became a Life Debate",
+          "textKo": "K2-18 b는 지구보다 훨씬 크고 무거운 sub-Neptune 계열 외계행성으로 차가운 적색왜성 K2-18의 거주가능 영역을 돈다. 2023년 JWST 관측은 대기에서 메탄과 이산화탄소를 강하게 지지하는 스펙트럼 특징을 보고했고 DMS로 해석될 수 있는 약한 신호도 제시했다. NASA는 처음부터 DMS 추론이 덜 강하며 추가 검증이 필요하다고 명시했다. 이 사건의 핵심은 생명이 발견됐나가 아니라 120광년 밖 행성의 희미한 통과스펙트럼에서 특정 분자를 얼마나 확실히 구분할 수 있느냐는 문제다.",
+          "textEn": "K2-18 b is a sub-Neptune much larger and more massive than Earth, orbiting a cool red dwarf within the habitable zone. JWST observations reported in 2023 strongly supported methane and carbon dioxide and showed a weaker feature that could be interpreted as DMS. NASA explicitly described the DMS inference as less robust and in need of validation. The central problem is how confidently a molecule can be identified in a faint transit spectrum from about 120 light-years away."
+        },
+        {
+          "blockId": "planet-02",
+          "type": "BACKGROUND",
+          "headingKo": "거주가능 영역과 살 수 있는 행성은 같은 말이 아니다",
+          "headingEn": "Habitable Zone Does Not Mean Habitable Planet",
+          "textKo": "K2-18 b의 공전거리는 액체 물이 가능할 수 있는 에너지 범위에 있지만 반지름은 지구의 약 2.6배이고 질량은 약 8.6배다. 태양계에는 정확히 대응하는 행성이 없어 내부구조를 직접 비교하기 어렵다. 얇은 수소대기 아래 바다가 있는 Hycean 모델이 제안됐지만 깊고 뜨거운 가스층과 고압 얼음층을 가진 더 전형적인 sub-Neptune일 가능성도 연구되고 있다. 거주가능 영역은 별에서 받는 복사에 대한 범주이지 표면 바다나 생물권의 확인이 아니다.",
+          "textEn": "K2-18 b lies in the conventional habitable zone, but its radius is about 2.6 times Earth’s and its mass about 8.6 Earth masses. There is no close Solar System analogue. A Hycean ocean-under-hydrogen scenario has been proposed, while gas-rich sub-Neptune structures also remain viable. Habitable zone is a statement about stellar irradiation, not a direct observation of an ocean or biosphere."
+        },
+        {
+          "blockId": "methane-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "메탄과 이산화탄소는 비교적 강한 결과, DMS는 처음부터 다른 단계였다",
+          "headingEn": "Methane and Carbon Dioxide Were Stronger Results Than the Initial DMS Hint",
+          "textKo": "2023년 NIRISS와 NIRSpec 자료는 메탄과 이산화탄소의 존재를 지지했다. 암모니아가 뚜렷하지 않다는 점과 함께 이 조합은 Hycean 해석과 양립할 수 있지만 유일한 모델은 아니다. 같은 자료에서 제시된 DMS 특징은 훨씬 약했다. DMS는 지구에서 해양생물과 강하게 연결되지만 외계행성에서 검출됐다고 해도 곧바로 생명체를 뜻하지 않는다. 먼저 분자 자체가 실제인지 다른 흡수체와 모델이 같은 스펙트럼을 설명할 수 없는지 검증해야 한다.",
+          "textEn": "The 2023 NIRISS and NIRSpec data supported methane and carbon dioxide. Together with weak ammonia this is compatible with a Hycean interpretation, but not unique to it. The DMS feature was much weaker. Even a confirmed DMS detection would not equal life; the molecule itself must first be established against alternative absorbers and atmospheric models."
+        },
+        {
+          "blockId": "miri-04",
+          "type": "TURNING_POINT",
+          "headingKo": "2025년 MIRI 결과가 DMS/DMDS 논쟁을 다시 키웠다",
+          "headingEn": "The 2025 MIRI Result Reignited the DMS/DMDS Debate",
+          "textKo": "2025년 연구팀은 JWST MIRI 중적외선 자료에서 DMS 또는 DMDS와 일치할 수 있는 신호를 보고하며 생물학적 활동의 강한 단서 가능성을 제기했다. 그러나 발표 직후 여러 천문학자는 통계적 유의도, 분자선 데이터, 대기모델 선택과 다른 분자의 조합을 문제 삼았다. Nature의 2025년 해설도 이를 생명 발견으로 받아들이기에는 이르다고 정리했다. 새로운 파장대의 데이터가 추가됐다는 사실과 그 데이터를 특정 분자로 설명하는 것은 별개의 단계다.",
+          "textEn": "In 2025 the observing team reported JWST MIRI features that could be consistent with DMS or DMDS and described them as potentially strong hints of biology. The claim immediately drew scrutiny over significance, molecular line data, model choice and alternative absorbers. Nature’s 2025 coverage emphasized that interpreting the result as a discovery of life was premature. New wavelength coverage is real evidence; assigning one specific molecule is a separate inference."
+        },
+        {
+          "blockId": "model-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모델을 넓히면 검출 유의도가 사라질 수 있다는 지적",
+          "headingEn": "Expanded Model Spaces Can Make a Claimed Detection Disappear",
+          "textKo": "2025년 Nature Astronomy 연구는 K2-18 b를 사례로 분자 조합의 모델공간을 더 넓게 탐색하면 특정 trace gas의 검출 선호도가 사라질 수 있음을 보였다. 낮은 신호대잡음비에서 분자가 있는 모델이 없는 모델보다 낫다는 비교만으로는 충분하지 않다. 여러 다른 분자 조합이 비슷하거나 더 좋은 적합도를 만들 수 있다면 특정 분자의 존재를 확정할 수 없다. 논쟁은 찬성 대 반대가 아니라 모델 선택이 통계적 의미를 얼마나 바꾸는지에 대한 방법론 문제이기도 하다.",
+          "textEn": "A 2025 Nature Astronomy study showed that when the space of molecular combinations is broadened, preference for a specific trace gas can disappear. At low signal-to-noise, a simple present-versus-absent comparison is not enough. If alternative molecular combinations fit equally well or better, the data do not uniquely identify the claimed gas."
+        },
+        {
+          "blockId": "community-06",
+          "type": "BACKGROUND",
+          "headingKo": "2026년에는 전문가 신뢰도 자체가 연구 대상이 됐다",
+          "headingEn": "By 2026, Expert Confidence Itself Became a Research Question",
+          "textKo": "2026년 Nature Astronomy는 K2-18 b와 화성 Cheyava Falls 주장에 대한 astrobiologist들의 신뢰도를 조사했다. K2-18 b의 외계생명 주장은 전문가 집단에서 비교적 낮은 확신을 받았다. 이 조사는 분자 존재 여부를 직접 결정하는 실험은 아니지만 언론 헤드라인과 전문가의 실제 확신 사이에 간극이 있음을 보여준다. 과학적 합의는 단일 논문이나 보도자료가 아니라 반복관측, 독립분석, 모델 검증이 쌓일 때 형성된다.",
+          "textEn": "A 2026 Nature Astronomy survey measured astrobiologists’ confidence in extraterrestrial-life claims for K2-18 b and Cheyava Falls. Confidence in the K2-18 b life claim was relatively low. A survey cannot determine whether a molecule is present, but it illustrates the gap between headlines and specialist confidence."
+        },
+        {
+          "blockId": "biosig-07",
+          "type": "HYPOTHESIS",
+          "headingKo": "분자가 실제여도 생물기원은 별도의 가설이다",
+          "headingEn": "Even a Real Molecule Would Leave the Biological-Origin Question Open",
+          "textKo": "DMS나 DMDS가 최종적으로 검출된다고 가정해도 두 번째 단계가 남는다. 지구에서 생물학적 기원이 강하다는 사실이 다른 행성에서도 동일한 생성경로만 존재함을 보장하지 않는다. 대기 온도·압력·광화학·행성 내부와 표면의 화학이 지구와 매우 다를 수 있기 때문이다. 외계 생명지표 연구에서는 분자 검출, 비생물적 경로 배제, 생물학적 설명의 우세, 생명 발견을 서로 다른 증거 단계로 분리해야 한다.",
+          "textEn": "Even if DMS or DMDS were confirmed, origin would remain a separate question. Earth biology does not guarantee that only biology can produce the same molecule under another planet’s temperature, pressure and photochemistry. Molecule detection, exclusion of abiotic pathways, preference for biology and an actual life claim are distinct evidentiary steps."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "진짜 성과는 생명 발견보다 sub-Neptune 대기를 읽는 능력 자체다",
+          "headingEn": "The Deeper Achievement Is Reading a Sub-Neptune Atmosphere at All",
+          "textKo": "논쟁이 크다는 사실 때문에 관측 자체의 성과가 가려지기 쉽다. JWST는 120광년 떨어진 행성이 별 앞을 지날 때 생기는 미세한 스펙트럼 변화를 이용해 메탄과 이산화탄소 같은 대기성분을 제약하고 있다. 이는 태양계에 없는 행성유형의 기후와 화학을 직접 연구하는 단계로 들어갔다는 뜻이다. K2-18 b에서 가장 확실한 결론은 외계생명이 아니라 이제 인간이 이런 논쟁을 실제 스펙트럼 데이터로 할 수 있게 됐다는 점이다.",
+          "textEn": "The controversy can obscure the underlying achievement. JWST is using tiny spectral changes from a planet 120 light-years away to constrain atmospheric gases. The most secure conclusion is not extraterrestrial life, but that the chemistry of a planet class with no Solar System analogue can now be tested with real spectra."
+        },
+        {
+          "blockId": "method-035",
+          "type": "BACKGROUND",
+          "headingKo": "우리가 읽는 것은 행성의 사진이 아니라 별빛에서 빠진 파장이다",
+          "headingEn": "We Read Missing Wavelengths in Starlight, Not a Photograph of the Planet",
+          "textKo": "K2-18 b의 대기성분은 행성 표면을 직접 촬영해서 얻은 것이 아니다. 행성이 별 앞을 지날 때 일부 별빛이 대기를 통과하고, 특정 분자가 흡수하는 파장에서 아주 작은 변화가 남는다. 연구자는 여러 분자의 흡수특성과 온도·압력 구조, 구름과 haze, 기기 잡음을 함께 모델링해 스펙트럼을 설명한다. 따라서 신호가 존재한다는 것과 그 신호를 하나의 분자에 고유하게 배정한다는 것은 다른 문제다. 메탄처럼 여러 밴드에서 강한 특징이 반복되면 확신이 커지지만, 약한 trace gas 후보는 다른 분자·baseline·모델 가정과 겹치기 쉽다. 이 구조가 왜 DMS/DMDS 논쟁에서 모델공간과 독립 검증이 핵심인지 설명한다.",
+          "textEn": "K2-18 b’s atmospheric composition is not obtained by photographing its surface. During a transit, a tiny fraction of starlight passes through the atmosphere and specific molecules alter particular wavelengths. Researchers model molecular opacities together with temperature, pressure, clouds, haze and instrumental noise. A spectral feature can be real while its assignment to one unique molecule remains uncertain. Strong repeated bands such as methane can be more robust than weak trace-gas candidates."
+        },
+        {
+          "blockId": "interior-075",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "대기 분자만으로 행성의 바다와 표면을 직접 볼 수는 없다",
+          "headingEn": "Atmospheric Molecules Do Not Directly Reveal an Ocean or Surface",
+          "textKo": "Hycean 가설은 K2-18 b를 얇은 수소대기 아래 거대한 액체바다가 있는 세계로 해석한다. 그러나 같은 질량·반지름 범위에서 깊은 수소대기와 고압 얼음층을 가진 가스풍부 sub-Neptune 구조도 가능하다. 대기에서 메탄과 이산화탄소가 검출됐다는 사실은 내부 압력·온도 구조와 물의 상태를 하나로 결정하지 않는다. 실제로 2024~2025년 연구들은 행성의 내부구조와 대기 화학을 다르게 가정하면 생명가능성에 대한 결론도 크게 달라질 수 있음을 보여준다. 따라서 생명지표 논쟁 이전에 이 행성이 어떤 종류의 행성인지 자체가 아직 열린 문제다.",
+          "textEn": "The Hycean hypothesis interprets K2-18 b as an ocean beneath a relatively thin hydrogen atmosphere, but gas-rich sub-Neptune structures with deeper hydrogen and high-pressure ice are also possible. Methane and carbon dioxide do not uniquely determine the planet’s interior pressure, temperature or water state. The kind of planet K2-18 b actually is remains an open question before any biosignature interpretation is attempted."
+        },
+        {
+          "blockId": "validation-085",
+          "type": "BACKGROUND",
+          "headingKo": "결정적인 다음 단계는 같은 신호를 독립적인 방법으로 반복하는 것이다",
+          "headingEn": "The Decisive Next Step Is Independent Repetition",
+          "textKo": "생명지표 후보가 강해지려면 다른 관측시기·다른 파장·다른 분석팀에서도 같은 분자 신호가 반복돼야 한다. 특정 모델 설정에서만 나타나는 선호도와 여러 독립 데이터셋에서 재현되는 분광 특징은 증거의 질이 다르다. 그래서 K2-18 b의 다음 관측은 단순히 신호의 숫자를 키우는 것이 아니라 재현성과 모델 독립성을 시험하는 과정이다.",
+          "textEn": "A biosignature candidate becomes stronger when the same molecular signature reappears across observing epochs, wavelength ranges and independent analysis teams. A preference that exists only under one model setup is qualitatively different from a spectral feature reproduced in multiple datasets."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: JWST는 K2-18 b 대기에서 메탄과 이산화탄소를 강하게 지지하는 신호를 얻었다. 2023년 DMS 후보와 2025년 MIRI의 DMS/DMDS 해석이 보고됐지만 그 분자 식별과 유의도는 후속 분석의 논쟁 대상이다.\n\n확인되지 않음: K2-18 b에서 DMS/DMDS가 독립적으로 확정됐다는 것, 행성이 실제 Hycean 해양세계를 가진다는 것, 생명체 또는 생물학적 활동이 발견됐다는 것은 확립되지 않았다.",
+          "textEn": "Established: JWST observations strongly support methane and carbon dioxide in K2-18 b’s atmosphere. A possible DMS feature was reported in 2023 and a DMS/DMDS interpretation in 2025, but molecular identification and significance remain contested.\n\nNot established: DMS/DMDS has not been independently settled beyond dispute, a Hycean ocean world is not directly confirmed, and no life or biological activity has been detected."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: JWST는 K2-18 b 대기에서 메탄과 이산화탄소를 강하게 지지하는 신호를 얻었다. 2023년 DMS 후보와 2025년 MIRI의 DMS/DMDS 해석이 보고됐지만 그 분자 식별과 유의도는 후속 분석의 논쟁 대상이다.",
+        "notEstablished": "확인되지 않음: K2-18 b에서 DMS/DMDS가 독립적으로 확정됐다는 것, 행성이 실제 Hycean 해양세계를 가진다는 것, 생명체 또는 생물학적 활동이 발견됐다는 것은 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "planet-02",
+        "methane-03",
+        "miri-04",
+        "model-05",
+        "community-06",
+        "biosig-07",
+        "aftermath-08",
+        "method-035",
+        "interior-075",
+        "validation-085"
+      ]
+    },
+    "en": {
+      "headline": "Behind the “Strongest Hint of Life” Headlines, the Real Fight Is About Molecules and Models",
+      "hook": "Methane and carbon dioxide are strong results. DMS/DMDS—and any claim of life—faces a much higher evidentiary bar.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "120광년 밖의 스펙트럼 몇 줄이 생명 논쟁으로 커졌다",
+          "headingEn": "A Few Spectral Features 120 Light-Years Away Became a Life Debate",
+          "textKo": "K2-18 b는 지구보다 훨씬 크고 무거운 sub-Neptune 계열 외계행성으로 차가운 적색왜성 K2-18의 거주가능 영역을 돈다. 2023년 JWST 관측은 대기에서 메탄과 이산화탄소를 강하게 지지하는 스펙트럼 특징을 보고했고 DMS로 해석될 수 있는 약한 신호도 제시했다. NASA는 처음부터 DMS 추론이 덜 강하며 추가 검증이 필요하다고 명시했다. 이 사건의 핵심은 생명이 발견됐나가 아니라 120광년 밖 행성의 희미한 통과스펙트럼에서 특정 분자를 얼마나 확실히 구분할 수 있느냐는 문제다.",
+          "textEn": "K2-18 b is a sub-Neptune much larger and more massive than Earth, orbiting a cool red dwarf within the habitable zone. JWST observations reported in 2023 strongly supported methane and carbon dioxide and showed a weaker feature that could be interpreted as DMS. NASA explicitly described the DMS inference as less robust and in need of validation. The central problem is how confidently a molecule can be identified in a faint transit spectrum from about 120 light-years away."
+        },
+        {
+          "blockId": "planet-02",
+          "type": "BACKGROUND",
+          "headingKo": "거주가능 영역과 살 수 있는 행성은 같은 말이 아니다",
+          "headingEn": "Habitable Zone Does Not Mean Habitable Planet",
+          "textKo": "K2-18 b의 공전거리는 액체 물이 가능할 수 있는 에너지 범위에 있지만 반지름은 지구의 약 2.6배이고 질량은 약 8.6배다. 태양계에는 정확히 대응하는 행성이 없어 내부구조를 직접 비교하기 어렵다. 얇은 수소대기 아래 바다가 있는 Hycean 모델이 제안됐지만 깊고 뜨거운 가스층과 고압 얼음층을 가진 더 전형적인 sub-Neptune일 가능성도 연구되고 있다. 거주가능 영역은 별에서 받는 복사에 대한 범주이지 표면 바다나 생물권의 확인이 아니다.",
+          "textEn": "K2-18 b lies in the conventional habitable zone, but its radius is about 2.6 times Earth’s and its mass about 8.6 Earth masses. There is no close Solar System analogue. A Hycean ocean-under-hydrogen scenario has been proposed, while gas-rich sub-Neptune structures also remain viable. Habitable zone is a statement about stellar irradiation, not a direct observation of an ocean or biosphere."
+        },
+        {
+          "blockId": "methane-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "메탄과 이산화탄소는 비교적 강한 결과, DMS는 처음부터 다른 단계였다",
+          "headingEn": "Methane and Carbon Dioxide Were Stronger Results Than the Initial DMS Hint",
+          "textKo": "2023년 NIRISS와 NIRSpec 자료는 메탄과 이산화탄소의 존재를 지지했다. 암모니아가 뚜렷하지 않다는 점과 함께 이 조합은 Hycean 해석과 양립할 수 있지만 유일한 모델은 아니다. 같은 자료에서 제시된 DMS 특징은 훨씬 약했다. DMS는 지구에서 해양생물과 강하게 연결되지만 외계행성에서 검출됐다고 해도 곧바로 생명체를 뜻하지 않는다. 먼저 분자 자체가 실제인지 다른 흡수체와 모델이 같은 스펙트럼을 설명할 수 없는지 검증해야 한다.",
+          "textEn": "The 2023 NIRISS and NIRSpec data supported methane and carbon dioxide. Together with weak ammonia this is compatible with a Hycean interpretation, but not unique to it. The DMS feature was much weaker. Even a confirmed DMS detection would not equal life; the molecule itself must first be established against alternative absorbers and atmospheric models."
+        },
+        {
+          "blockId": "miri-04",
+          "type": "TURNING_POINT",
+          "headingKo": "2025년 MIRI 결과가 DMS/DMDS 논쟁을 다시 키웠다",
+          "headingEn": "The 2025 MIRI Result Reignited the DMS/DMDS Debate",
+          "textKo": "2025년 연구팀은 JWST MIRI 중적외선 자료에서 DMS 또는 DMDS와 일치할 수 있는 신호를 보고하며 생물학적 활동의 강한 단서 가능성을 제기했다. 그러나 발표 직후 여러 천문학자는 통계적 유의도, 분자선 데이터, 대기모델 선택과 다른 분자의 조합을 문제 삼았다. Nature의 2025년 해설도 이를 생명 발견으로 받아들이기에는 이르다고 정리했다. 새로운 파장대의 데이터가 추가됐다는 사실과 그 데이터를 특정 분자로 설명하는 것은 별개의 단계다.",
+          "textEn": "In 2025 the observing team reported JWST MIRI features that could be consistent with DMS or DMDS and described them as potentially strong hints of biology. The claim immediately drew scrutiny over significance, molecular line data, model choice and alternative absorbers. Nature’s 2025 coverage emphasized that interpreting the result as a discovery of life was premature. New wavelength coverage is real evidence; assigning one specific molecule is a separate inference."
+        },
+        {
+          "blockId": "model-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모델을 넓히면 검출 유의도가 사라질 수 있다는 지적",
+          "headingEn": "Expanded Model Spaces Can Make a Claimed Detection Disappear",
+          "textKo": "2025년 Nature Astronomy 연구는 K2-18 b를 사례로 분자 조합의 모델공간을 더 넓게 탐색하면 특정 trace gas의 검출 선호도가 사라질 수 있음을 보였다. 낮은 신호대잡음비에서 분자가 있는 모델이 없는 모델보다 낫다는 비교만으로는 충분하지 않다. 여러 다른 분자 조합이 비슷하거나 더 좋은 적합도를 만들 수 있다면 특정 분자의 존재를 확정할 수 없다. 논쟁은 찬성 대 반대가 아니라 모델 선택이 통계적 의미를 얼마나 바꾸는지에 대한 방법론 문제이기도 하다.",
+          "textEn": "A 2025 Nature Astronomy study showed that when the space of molecular combinations is broadened, preference for a specific trace gas can disappear. At low signal-to-noise, a simple present-versus-absent comparison is not enough. If alternative molecular combinations fit equally well or better, the data do not uniquely identify the claimed gas."
+        },
+        {
+          "blockId": "community-06",
+          "type": "BACKGROUND",
+          "headingKo": "2026년에는 전문가 신뢰도 자체가 연구 대상이 됐다",
+          "headingEn": "By 2026, Expert Confidence Itself Became a Research Question",
+          "textKo": "2026년 Nature Astronomy는 K2-18 b와 화성 Cheyava Falls 주장에 대한 astrobiologist들의 신뢰도를 조사했다. K2-18 b의 외계생명 주장은 전문가 집단에서 비교적 낮은 확신을 받았다. 이 조사는 분자 존재 여부를 직접 결정하는 실험은 아니지만 언론 헤드라인과 전문가의 실제 확신 사이에 간극이 있음을 보여준다. 과학적 합의는 단일 논문이나 보도자료가 아니라 반복관측, 독립분석, 모델 검증이 쌓일 때 형성된다.",
+          "textEn": "A 2026 Nature Astronomy survey measured astrobiologists’ confidence in extraterrestrial-life claims for K2-18 b and Cheyava Falls. Confidence in the K2-18 b life claim was relatively low. A survey cannot determine whether a molecule is present, but it illustrates the gap between headlines and specialist confidence."
+        },
+        {
+          "blockId": "biosig-07",
+          "type": "HYPOTHESIS",
+          "headingKo": "분자가 실제여도 생물기원은 별도의 가설이다",
+          "headingEn": "Even a Real Molecule Would Leave the Biological-Origin Question Open",
+          "textKo": "DMS나 DMDS가 최종적으로 검출된다고 가정해도 두 번째 단계가 남는다. 지구에서 생물학적 기원이 강하다는 사실이 다른 행성에서도 동일한 생성경로만 존재함을 보장하지 않는다. 대기 온도·압력·광화학·행성 내부와 표면의 화학이 지구와 매우 다를 수 있기 때문이다. 외계 생명지표 연구에서는 분자 검출, 비생물적 경로 배제, 생물학적 설명의 우세, 생명 발견을 서로 다른 증거 단계로 분리해야 한다.",
+          "textEn": "Even if DMS or DMDS were confirmed, origin would remain a separate question. Earth biology does not guarantee that only biology can produce the same molecule under another planet’s temperature, pressure and photochemistry. Molecule detection, exclusion of abiotic pathways, preference for biology and an actual life claim are distinct evidentiary steps."
+        },
+        {
+          "blockId": "aftermath-08",
+          "type": "AFTERMATH",
+          "headingKo": "진짜 성과는 생명 발견보다 sub-Neptune 대기를 읽는 능력 자체다",
+          "headingEn": "The Deeper Achievement Is Reading a Sub-Neptune Atmosphere at All",
+          "textKo": "논쟁이 크다는 사실 때문에 관측 자체의 성과가 가려지기 쉽다. JWST는 120광년 떨어진 행성이 별 앞을 지날 때 생기는 미세한 스펙트럼 변화를 이용해 메탄과 이산화탄소 같은 대기성분을 제약하고 있다. 이는 태양계에 없는 행성유형의 기후와 화학을 직접 연구하는 단계로 들어갔다는 뜻이다. K2-18 b에서 가장 확실한 결론은 외계생명이 아니라 이제 인간이 이런 논쟁을 실제 스펙트럼 데이터로 할 수 있게 됐다는 점이다.",
+          "textEn": "The controversy can obscure the underlying achievement. JWST is using tiny spectral changes from a planet 120 light-years away to constrain atmospheric gases. The most secure conclusion is not extraterrestrial life, but that the chemistry of a planet class with no Solar System analogue can now be tested with real spectra."
+        },
+        {
+          "blockId": "method-035",
+          "type": "BACKGROUND",
+          "headingKo": "우리가 읽는 것은 행성의 사진이 아니라 별빛에서 빠진 파장이다",
+          "headingEn": "We Read Missing Wavelengths in Starlight, Not a Photograph of the Planet",
+          "textKo": "K2-18 b의 대기성분은 행성 표면을 직접 촬영해서 얻은 것이 아니다. 행성이 별 앞을 지날 때 일부 별빛이 대기를 통과하고, 특정 분자가 흡수하는 파장에서 아주 작은 변화가 남는다. 연구자는 여러 분자의 흡수특성과 온도·압력 구조, 구름과 haze, 기기 잡음을 함께 모델링해 스펙트럼을 설명한다. 따라서 신호가 존재한다는 것과 그 신호를 하나의 분자에 고유하게 배정한다는 것은 다른 문제다. 메탄처럼 여러 밴드에서 강한 특징이 반복되면 확신이 커지지만, 약한 trace gas 후보는 다른 분자·baseline·모델 가정과 겹치기 쉽다. 이 구조가 왜 DMS/DMDS 논쟁에서 모델공간과 독립 검증이 핵심인지 설명한다.",
+          "textEn": "K2-18 b’s atmospheric composition is not obtained by photographing its surface. During a transit, a tiny fraction of starlight passes through the atmosphere and specific molecules alter particular wavelengths. Researchers model molecular opacities together with temperature, pressure, clouds, haze and instrumental noise. A spectral feature can be real while its assignment to one unique molecule remains uncertain. Strong repeated bands such as methane can be more robust than weak trace-gas candidates."
+        },
+        {
+          "blockId": "interior-075",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "대기 분자만으로 행성의 바다와 표면을 직접 볼 수는 없다",
+          "headingEn": "Atmospheric Molecules Do Not Directly Reveal an Ocean or Surface",
+          "textKo": "Hycean 가설은 K2-18 b를 얇은 수소대기 아래 거대한 액체바다가 있는 세계로 해석한다. 그러나 같은 질량·반지름 범위에서 깊은 수소대기와 고압 얼음층을 가진 가스풍부 sub-Neptune 구조도 가능하다. 대기에서 메탄과 이산화탄소가 검출됐다는 사실은 내부 압력·온도 구조와 물의 상태를 하나로 결정하지 않는다. 실제로 2024~2025년 연구들은 행성의 내부구조와 대기 화학을 다르게 가정하면 생명가능성에 대한 결론도 크게 달라질 수 있음을 보여준다. 따라서 생명지표 논쟁 이전에 이 행성이 어떤 종류의 행성인지 자체가 아직 열린 문제다.",
+          "textEn": "The Hycean hypothesis interprets K2-18 b as an ocean beneath a relatively thin hydrogen atmosphere, but gas-rich sub-Neptune structures with deeper hydrogen and high-pressure ice are also possible. Methane and carbon dioxide do not uniquely determine the planet’s interior pressure, temperature or water state. The kind of planet K2-18 b actually is remains an open question before any biosignature interpretation is attempted."
+        },
+        {
+          "blockId": "validation-085",
+          "type": "BACKGROUND",
+          "headingKo": "결정적인 다음 단계는 같은 신호를 독립적인 방법으로 반복하는 것이다",
+          "headingEn": "The Decisive Next Step Is Independent Repetition",
+          "textKo": "생명지표 후보가 강해지려면 다른 관측시기·다른 파장·다른 분석팀에서도 같은 분자 신호가 반복돼야 한다. 특정 모델 설정에서만 나타나는 선호도와 여러 독립 데이터셋에서 재현되는 분광 특징은 증거의 질이 다르다. 그래서 K2-18 b의 다음 관측은 단순히 신호의 숫자를 키우는 것이 아니라 재현성과 모델 독립성을 시험하는 과정이다.",
+          "textEn": "A biosignature candidate becomes stronger when the same molecular signature reappears across observing epochs, wavelength ranges and independent analysis teams. A preference that exists only under one model setup is qualitatively different from a spectral feature reproduced in multiple datasets."
+        },
+        {
+          "blockId": "boundary-09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: JWST는 K2-18 b 대기에서 메탄과 이산화탄소를 강하게 지지하는 신호를 얻었다. 2023년 DMS 후보와 2025년 MIRI의 DMS/DMDS 해석이 보고됐지만 그 분자 식별과 유의도는 후속 분석의 논쟁 대상이다.\n\n확인되지 않음: K2-18 b에서 DMS/DMDS가 독립적으로 확정됐다는 것, 행성이 실제 Hycean 해양세계를 가진다는 것, 생명체 또는 생물학적 활동이 발견됐다는 것은 확립되지 않았다.",
+          "textEn": "Established: JWST observations strongly support methane and carbon dioxide in K2-18 b’s atmosphere. A possible DMS feature was reported in 2023 and a DMS/DMDS interpretation in 2025, but molecular identification and significance remain contested.\n\nNot established: DMS/DMDS has not been independently settled beyond dispute, a Hycean ocean world is not directly confirmed, and no life or biological activity has been detected."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: JWST observations strongly support methane and carbon dioxide in K2-18 b’s atmosphere. A possible DMS feature was reported in 2023 and a DMS/DMDS interpretation in 2025, but molecular identification and significance remain contested.",
+        "notEstablished": "Not established: DMS/DMDS has not been independently settled beyond dispute, a Hycean ocean world is not directly confirmed, and no life or biological activity has been detected."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "planet-02",
+        "methane-03",
+        "miri-04",
+        "model-05",
+        "community-06",
+        "biosig-07",
+        "aftermath-08",
+        "method-035",
+        "interior-075",
+        "validation-085"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "K2-C1",
+      "status": "CONFIRMED",
+      "statementKo": "JWST 자료는 K2-18 b 대기에서 메탄과 이산화탄소를 강하게 지지한다.",
+      "statementEn": "JWST data strongly support methane and carbon dioxide in K2-18 b’s atmosphere.",
+      "sourceRefs": [
+        "K2_NASA_2023"
+      ]
+    },
+    {
+      "claimId": "K2-C2",
+      "status": "DISPUTED",
+      "statementKo": "DMS/DMDS 식별은 모델 선택과 신호대잡음에 민감하며 독립적으로 확정되지 않았다.",
+      "statementEn": "DMS/DMDS identification remains sensitive to model choice and signal-to-noise.",
+      "sourceRefs": [
+        "K2_NATURE_NEWS_2025",
+        "K2_NATURE_MODELS_2025"
+      ]
+    },
+    {
+      "claimId": "K2-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "K2-18 b가 실제로 바다를 가진 Hycean 세계라는 것은 직접 확인되지 않았다.",
+      "statementEn": "A Hycean ocean on K2-18 b has not been directly established.",
+      "sourceRefs": [
+        "K2_NASA_2023"
+      ]
+    },
+    {
+      "claimId": "K2-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "K2-18 b에서 생명체 또는 생물학적 활동이 검출됐다는 결론은 성립하지 않는다.",
+      "statementEn": "No life or biological activity has been detected on K2-18 b.",
+      "sourceRefs": [
+        "K2_NATURE_CONFIDENCE_2026",
+        "K2_NATURE_MODELS_2025"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "K2_NASA_2023",
+      "title": "Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18 b",
+      "publisher": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18-b/",
+      "sourceType": "NASA_SCIENCE_RELEASE"
+    },
+    {
+      "sourceId": "K2_NATURE_NEWS_2025",
+      "title": "Signs of life on a distant planet? Not so fast, say these astronomers",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/d41586-025-01264-z",
+      "sourceType": "SCIENCE_NEWS_EXPLAINER"
+    },
+    {
+      "sourceId": "K2_NATURE_MODELS_2025",
+      "title": "Challenges in the detection of gases in exoplanet atmospheres",
+      "publisher": "Nature Astronomy",
+      "url": "https://www.nature.com/articles/s41550-025-02730-4",
+      "sourceType": "PEER_REVIEWED_METHODS"
+    },
+    {
+      "sourceId": "K2_NATURE_CONFIDENCE_2026",
+      "title": "Comparing astrobiologists’ confidence in extraterrestrial life claims for K2-18 b and Cheyava Falls",
+      "publisher": "Nature Astronomy",
+      "url": "https://www.nature.com/articles/s41550-026-02876-9",
+      "sourceType": "PEER_REVIEWED_SURVEY_2026"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "k2-v01",
+      "role": "EVIDENCE_LADDER",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "메탄/CO₂ → DMS/DMDS 후보 → 생물기원 → 생명 발견의 증거단계.",
+      "captionEn": "Evidence ladder from methane/CO2 to DMS/DMDS candidate, biological origin and life claim.",
+      "altKo": "메탄/CO₂ → DMS/DMDS 후보 → 생물기원 → 생명 발견의 증거단계.",
+      "altEn": "Evidence ladder from methane/CO2 to DMS/DMDS candidate, biological origin and life claim.",
+      "sourceRefs": [
+        "K2_NASA_2023",
+        "K2_NATURE_MODELS_2025"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "k2-18b-biosignature__k2-v01__ko.png",
+          "sha256": "c3cf3523b1b51a95fe61a3bcf5fd67fb344b800fed2a8e9c638c32f533c11c8b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "k2-18b-biosignature__k2-v01__en.png",
+          "sha256": "168cc38acd622786fcdecb77d32764ca0ca3d7e931812513469d0675c0aef761",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "k2-v02",
+      "role": "PLANET_STRUCTURE",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "Hycean ocean model과 gas-rich sub-Neptune model 비교.",
+      "captionEn": "Conceptual comparison of Hycean and gas-rich sub-Neptune structures.",
+      "altKo": "Hycean ocean model과 gas-rich sub-Neptune model 비교.",
+      "altEn": "Conceptual comparison of Hycean and gas-rich sub-Neptune structures.",
+      "sourceRefs": [
+        "K2_NASA_2023"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "k2-18b-biosignature__k2-v02__ko.png",
+          "sha256": "cfc516595735974789fe949e401db0c0365c7646d78cd4ff7aad89c66fb570cc",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "k2-18b-biosignature__k2-v02__en.png",
+          "sha256": "5c77ef97f069436e1d684803d566cfdadda5c563a6d5c4b9ac011f9809ae310a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "k2-v03",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "2023 NIRISS/NIRSpec → 2025 MIRI → 2025 model challenge → 2026 survey.",
+      "captionEn": "2023 NIRISS/NIRSpec → 2025 MIRI → 2025 model challenge → 2026 survey.",
+      "altKo": "2023 NIRISS/NIRSpec → 2025 MIRI → 2025 model challenge → 2026 survey.",
+      "altEn": "2023 NIRISS/NIRSpec → 2025 MIRI → 2025 model challenge → 2026 survey.",
+      "sourceRefs": [
+        "K2_NASA_2023",
+        "K2_NATURE_NEWS_2025",
+        "K2_NATURE_MODELS_2025",
+        "K2_NATURE_CONFIDENCE_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "k2-18b-biosignature__k2-v03__ko.png",
+          "sha256": "3dcbbdff785a5f6895b30216111fd817b400b0e8f6677b1ec10d3e3bf653da17",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "k2-18b-biosignature__k2-v03__en.png",
+          "sha256": "eb0a76f216506809d79b8684487b74beeb35542066e01114c0bf88fc0edbf4f1",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "k2-v04",
+      "role": "MODEL_SPACE",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "좁은 모델 비교와 확장된 분자 조합 모델공간의 차이.",
+      "captionEn": "Difference between narrow molecule comparisons and expanded model space.",
+      "altKo": "좁은 모델 비교와 확장된 분자 조합 모델공간의 차이.",
+      "altEn": "Difference between narrow molecule comparisons and expanded model space.",
+      "sourceRefs": [
+        "K2_NATURE_MODELS_2025"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "k2-18b-biosignature__k2-v04__ko.png",
+          "sha256": "f871c21f5d2337a32bf39362fa2010f9da0e7c5d8135d4801f1438f9bd125023",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "k2-18b-biosignature__k2-v04__en.png",
+          "sha256": "c265d3ed5fab7256c5454c89cd24cf1813f1ab612ec198e1cc98363dc3bac703",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "k2-v05",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "강한 대기검출과 미확정 생명지표·생명 주장을 분리.",
+      "captionEn": "Separate robust atmospheric detections from unresolved biosignature and life claims.",
+      "altKo": "강한 대기검출과 미확정 생명지표·생명 주장을 분리.",
+      "altEn": "Separate robust atmospheric detections from unresolved biosignature and life claims.",
+      "sourceRefs": [
+        "K2_NASA_2023",
+        "K2_NATURE_CONFIDENCE_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "k2-18b-biosignature__k2-v05__ko.png",
+          "sha256": "973accee3b905c11f7efe99e1076ce3baade09b63a6e4df31ef07ec0efb29b5a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "k2-18b-biosignature__k2-v05__en.png",
+          "sha256": "56d3956c5b6f9a6ecc33095bd49c6e3e07b9c4b608252beee3241d13f807d5f5",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Space",
+    "secondaryGenres": [
+      "Astrobiology",
+      "Exoplanets"
+    ],
+    "countries": [],
+    "regions": [
+      "Leo constellation"
+    ],
+    "places": [
+      {
+        "name": "K2-18 b",
+        "role": "exoplanet"
+      }
+    ],
+    "people": [
+      {
+        "name": "Nikku Madhusudhan",
+        "role": "lead researcher on major JWST analyses"
+      }
+    ],
+    "organizations": [
+      "NASA",
+      "JWST",
+      "University of Cambridge"
+    ],
+    "dateRange": {
+      "start": "2023-09-11",
+      "end": "2026-06-05",
+      "precision": "current debate window"
+    },
+    "era": "JWST era",
+    "resolution": "ATMOSPHERIC_METHANE_CO2_SUPPORTED_BIOSIGNATURE_AND_LIFE_NOT_ESTABLISHED",
+    "searchAliases": [
+      "K2-18b",
+      "DMS K2-18 b",
+      "DMDS K2-18 b",
+      "Hycean world"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3091,
+    "enBodyWords": 697,
+    "meaningfulBlockCount": 12,
+    "visualPlacementCount": 5,
+    "sourceCount": 4,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH34",
+    "assetGroups": 5,
+    "localizedFiles": 10,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

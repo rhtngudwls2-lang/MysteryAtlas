@@ -1,0 +1,502 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-paperclip",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오퍼레이션 페이퍼클립",
+    "canonicalTitleEn": "Operation Paperclip",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "적국의 과학자를 데려온 미국—Paperclip의 진짜 논쟁은 비밀보다 선발 기준에 있다",
+      "hook": "프로그램은 실재했고 기술적 성과도 컸다. 동시에 일부 참가자의 나치 연계와 정부의 선발 판단은 공식 기록 속에 남아 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "전쟁이 끝난 뒤, 적국의 과학자가 전략자산이 됐다",
+          "headingEn": "After the War, Former Enemy Scientists Became Strategic Assets",
+          "textKo": "1945년 독일이 패망하자 미군과 정보기관은 V-2 로켓, 항공, 화학, 의학 등 독일의 기술자료와 인력을 확보하기 위해 경쟁했다. 이 노력은 처음 Overcast라는 이름으로 시작됐고 곧 Paperclip으로 불리게 됐다. National Archives가 보존한 기록에 따르면 Joint Intelligence Objectives Agency(JIOA)가 외국 과학자 프로그램의 정책·신원조사·배치를 직접 관리했다. 이 프로그램은 비밀 나치 과학자 작전이라는 한 문장보다 복잡했다. 기술경쟁, 전범 책임, 이민규정, 냉전 초기의 안보 판단이 한 행정체계 안에서 충돌했다.",
+          "textEn": "After Germany’s defeat in 1945, U.S. military and intelligence organizations competed to secure German technical knowledge and personnel. The effort began as Overcast and soon became Paperclip. National Archives records show the Joint Intelligence Objectives Agency administered the foreign-scientist program. Technology, accountability, immigration rules and emerging Cold War security priorities collided inside the same bureaucracy."
+        },
+        {
+          "blockId": "policy-02",
+          "type": "BACKGROUND",
+          "headingKo": "트루먼의 승인에는 분명한 제한조건이 있었다",
+          "headingEn": "Truman’s Authorization Contained Explicit Restrictions",
+          "textKo": "1946년 JIOA는 프로그램을 확대해 약 1,000명의 독일·오스트리아 과학기술자를 들여오고 시민권 경로까지 열기를 원했다. National Archives의 Nazi War Crimes Disclosure Act 중간보고서는 트루먼 대통령이 1946년 9월 확대안을 승인하면서 명목상 나치만 허용하고 적극적 나치 지지자는 배제하라는 조건을 붙였다고 정리한다. 문제는 그 조건을 누가, 어떤 자료로, 어떻게 적용했느냐였다. 독일 현지 CIC 조사, OMGUS dossier, 미 정부 부처의 심사가 서로 얽혔고 기술적 가치와 정치적·도덕적 결격사유가 경쟁했다.",
+          "textEn": "In 1946 the JIOA pushed to expand the program to roughly a thousand German and Austrian scientists and technicians. The National Archives interim report records that President Truman authorized the plan in September 1946 while excluding active Nazi supporters. The central issue was how that restriction would be applied through CIC investigations, OMGUS dossiers and U.S. departmental review."
+        },
+        {
+          "blockId": "screening-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "실제 신원기록은 깔끔한 무관계와 거리가 멀었다",
+          "headingEn": "The Personnel Records Were Not a Clean Story of Political Innocence",
+          "textKo": "기록에는 일부 지원자가 나치당·SS·기타 조직과 연결돼 있었음이 드러난다. National Archives 보고서는 베르너 폰 브라운이 SS 장교였다는 사실을 예시로 들고 JIOA가 많은 후보의 과거 때문에 프로그램 확대 승인을 필요로 했다고 설명한다. 그렇다고 모든 참가자가 동일한 수준의 가담자였다고 말할 수도 없다. 당적, 군수산업 참여, 강제노동 시설과의 연관, 개인적 신념과 책임의 정도는 사람마다 달랐다. 역사적으로 중요한 것은 전부 전범 또는 전부 무고한 과학자라는 양극단이 아니라 정부가 불편한 경력을 가진 인재를 전략적 자산으로 평가하는 제도를 실제로 운영했다는 점이다.",
+          "textEn": "Records show that some candidates had ties to the Nazi Party, SS or related organizations. The National Archives uses Wernher von Braun’s SS status as one example. That does not mean every participant had the same level of involvement. The defensible point is that the U.S. government operated a program that weighed strategically valuable expertise against troubling political histories."
+        },
+        {
+          "blockId": "competition-04",
+          "type": "BACKGROUND",
+          "headingKo": "소련과의 기술경쟁이 판단을 더 급하게 만들었다",
+          "headingEn": "Competition With the Soviet Union Increased the Pressure",
+          "textKo": "Paperclip은 제2차 세계대전의 마지막 장이면서 냉전의 첫 장이기도 했다. 독일의 로켓과 항공 기술을 미국이 확보하지 않으면 소련이 가져갈 수 있다는 판단은 인력 확보를 시간 경쟁으로 만들었다. 이런 상황에서 과학자의 군사적 가치가 신원문제보다 앞서려는 압력이 커졌다. 로켓 연구는 훗날 미사일과 우주개발에 기여했고 다른 분야의 전문가도 군·산업 연구에 배치됐다. 그러나 기술적 성과가 선발 과정의 윤리 문제를 소급해서 지워주지는 않는다.",
+          "textEn": "Paperclip was both the last chapter of World War II and the first of the Cold War. Officials feared that expertise not secured by the United States could be acquired by the Soviet Union. German specialists later contributed to missiles, aerospace and other research, but technical outcomes do not erase the ethical problems embedded in recruitment and screening."
+        },
+        {
+          "blockId": "records-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 강한 증거는 방대한 행정기록이다",
+          "headingEn": "The Strongest Evidence Is the Administrative Record",
+          "textKo": "Paperclip을 둘러싼 대중서사는 은폐와 음모에 집중하지만 가장 강한 증거는 방대한 행정기록이다. National Archives에는 JIOA와 국방장관 기록, 군정 문서, 특정 후보의 dossier, 정책지침이 남아 있다. 이 자료를 통해 프로그램이 실제였다는 사실뿐 아니라 누가 승인했고 어떤 제한이 있었으며 결격문제가 어떻게 논의됐는지를 추적할 수 있다. 기밀이었다는 사실은 아무 주장이나 사실로 만드는 면허가 아니다. 공개된 문서가 보여주는 범위와 보여주지 않는 범위를 구분해야 한다.",
+          "textEn": "Popular accounts focus on secrecy and cover-up, but the strongest evidence is the administrative record. National Archives collections preserve JIOA and Defense Department records, military-government files, personnel dossiers and policy instructions. These documents show what was authorized and how eligibility problems were debated. Secrecy does not make every later claim true."
+        },
+        {
+          "blockId": "myth-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "미국 우주개발 전체를 Paperclip 하나로 환원할 수도 없다",
+          "headingEn": "Paperclip Did Not Single-Handedly Create the U.S. Space Program",
+          "textKo": "폰 브라운과 일부 독일 로켓팀의 영향은 컸지만 미국의 우주개발을 Paperclip 인력 하나로 환원하면 수많은 미국인 과학자·엔지니어·산업체·대학·군 조직의 역할을 지운다. 반대로 Paperclip의 영향이 작았다고 축소하는 것도 맞지 않는다. 특정 분야에서 독일 기술인력이 실제로 중요한 기여를 했다는 점과 그 기여를 얻기 위해 정부가 어떤 인적·윤리적 타협을 했는지를 함께 봐야 한다.",
+          "textEn": "Von Braun and parts of the German rocket team had major influence, but reducing the entire U.S. space program to Paperclip erases the work of many other scientists, engineers, universities, companies and military organizations. The evidence supports a narrower conclusion: German specialists made important contributions in specific fields and the government accepted difficult personnel compromises to obtain that expertise."
+        },
+        {
+          "blockId": "accountability-07",
+          "type": "AFTERMATH",
+          "headingKo": "기술성과와 전시 책임은 같은 질문이 아니다",
+          "headingEn": "Technical Achievement and Wartime Accountability Are Different Questions",
+          "textKo": "Paperclip의 후대 평가는 흔히 로켓과 우주개발 성과로 정당화되거나, 반대로 모든 참가자의 경력을 하나의 범죄범주로 묶는 식으로 흔들린다. 그러나 역사적 평가는 개인별 전시행적과 프로그램 운영자의 판단을 분리해 봐야 한다. 과학적 기여가 큰 인물도 별도의 정치·도덕적 책임 문제를 가질 수 있고, 반대로 조직 가입만으로 동일한 수준의 범죄책임을 자동 부여할 수도 없다. 기록을 인물별로 읽는 이유가 여기에 있다.",
+          "textEn": "Later evaluations often swing between celebrating rocket and space achievements and treating every recruit as morally identical. Historical analysis has to separate individual wartime conduct from program-level decisions. Major scientific contributions do not erase separate questions of political or moral responsibility, while mere organizational membership does not automatically establish identical criminal liability."
+        },
+        {
+          "blockId": "denazification-065",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "문제는 단순한 입국이 아니라 신원평가가 어떻게 바뀌었는가였다",
+          "headingEn": "The Key Issue Was How Personnel Evaluations Changed",
+          "textKo": "Paperclip의 윤리 논쟁은 과학자를 미국으로 데려왔다는 사실 자체보다 선발과 신원평가의 과정에 집중된다. 전후 독일에서 만들어진 dossier는 정치적 가입 이력, 군수연구 참여, 동료 진술, 군정기관의 평가를 포함했고, 미국 측은 그 기록을 토대로 입국과 고용 가능성을 판단했다. 기술적 가치가 높은 후보를 확보하려는 압력이 커질수록 불리한 정치평가를 어떻게 해석할지가 정책문제가 됐다. National Archives의 공개기록은 이러한 심사가 추상적 논쟁이 아니라 실제 서류와 승인선 안에서 이뤄졌음을 보여준다. 즉 Paperclip의 핵심은 음모적인 비밀통로보다 국가가 기술경쟁과 탈나치화 원칙 사이에서 어떤 행정적 타협을 선택했는지에 있다.",
+          "textEn": "The ethical controversy centers not merely on bringing scientists to the United States but on how personnel evaluations were interpreted and changed. Postwar dossiers included political affiliations, military research, testimony and military-government assessments. As pressure grew to secure technically valuable candidates, the treatment of adverse political findings became a policy problem. National Archives records show that these choices occurred through real files, reviews and approval chains rather than an abstract conspiracy."
+        },
+        {
+          "blockId": "legacy-07",
+          "type": "AFTERMATH",
+          "headingKo": "성과를 평가하는 것과 책임을 판단하는 것은 동시에 가능하다",
+          "headingEn": "Technical Achievement and Accountability Can Be Assessed at the Same Time",
+          "textKo": "Paperclip 출신 인력의 일부가 미사일, 항공, 우주개발에서 중요한 역할을 했다는 사실과 그들의 전시 이력에 대한 도덕적 질문은 서로 취소하지 않는다. 역사서술이 기술성과만 강조하면 강제노동·군수체계·나치 조직과 연결된 개인별 이력의 차이를 지우고, 반대로 모든 참가자를 하나의 범죄집단으로 묶으면 실제 기록의 차이를 지운다. 프로그램을 이해하려면 어떤 사람이 어떤 경력으로 선발됐는지, 정부가 그 경력을 어떻게 평가했는지, 이후 어떤 역할을 맡았는지를 개별적으로 추적해야 한다. 이런 접근이 Paperclip을 냉전 성공담이나 단순 은폐설이 아니라 문서로 검증 가능한 정책결정의 역사로 만든다.",
+          "textEn": "Some Paperclip recruits played important roles in missiles, aviation and spaceflight, while their wartime histories raise separate moral questions. Those two facts do not cancel one another. Focusing only on technical success can erase differences in forced-labor, military-industry or Nazi-organization involvement; treating every recruit as identical can erase those same differences. The record is best read person by person: background, screening decision and later role."
+        },
+        {
+          "blockId": "review-075",
+          "type": "BACKGROUND",
+          "headingKo": "심사기준은 프로그램의 성격을 보여주는 핵심 기록이다",
+          "headingEn": "Screening Rules Reveal the Character of the Program",
+          "textKo": "정부가 명시적으로 배제기준을 만들었다는 사실은 과거 이력이 중요하지 않았다는 뜻이 아니라 오히려 중요했음을 보여준다. 동시에 실제 선발 결과가 그 기준과 완벽히 일치했는지는 개별 dossier를 통해 따져야 한다. Paperclip을 평가할 때 정책문구와 실제 인사결정을 분리해 보는 이유가 여기에 있다.",
+          "textEn": "The existence of formal exclusion rules shows that wartime political history mattered to policymakers. Whether actual recruitment consistently matched those rules has to be tested against individual dossiers, which is why policy language and personnel decisions should be evaluated separately."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Overcast/Paperclip은 실제 미 정부 프로그램이었고 JIOA가 외국 과학자 프로그램을 운영했다. 트루먼의 1946년 승인에는 적극적 나치 지지자를 배제한다는 제한이 있었지만 일부 참가자는 나치당·SS 등과 관련된 이력이 있었다.\n\n확인되지 않음: 모든 Paperclip 참가자가 전범이었다는 일반화, 또는 반대로 모든 참가자가 정치적 책임과 무관했다는 주장은 기록과 맞지 않는다. 프로그램의 기술적 성과도 개별 인물의 전시 책임을 자동으로 해소하지 않는다.",
+          "textEn": "Established: Overcast/Paperclip was a real U.S. government program administered by the JIOA. Truman’s 1946 authorization included restrictions against active Nazi supporters, yet some recruits had records involving the Nazi Party, SS or related institutions.\n\nNot established: The evidence does not support a blanket claim that every participant was a war criminal, nor that every participant was free of political or moral responsibility. Technical contributions do not automatically resolve individual wartime accountability."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Overcast/Paperclip은 실제 미 정부 프로그램이었고 JIOA가 외국 과학자 프로그램을 운영했다. 트루먼의 1946년 승인에는 적극적 나치 지지자를 배제한다는 제한이 있었지만 일부 참가자는 나치당·SS 등과 관련된 이력이 있었다.",
+        "notEstablished": "확인되지 않음: 모든 Paperclip 참가자가 전범이었다는 일반화, 또는 반대로 모든 참가자가 정치적 책임과 무관했다는 주장은 기록과 맞지 않는다. 프로그램의 기술적 성과도 개별 인물의 전시 책임을 자동으로 해소하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "policy-02",
+        "screening-03",
+        "competition-04",
+        "records-05",
+        "myth-06",
+        "accountability-07",
+        "denazification-065",
+        "legacy-07",
+        "review-075"
+      ]
+    },
+    "en": {
+      "headline": "The U.S. Recruited Former Enemy Scientists—Paperclip’s Hardest Question Is How They Were Screened",
+      "hook": "The program was real and technically consequential. So were the documented Nazi affiliations of some recruits and the government decisions made around them.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "전쟁이 끝난 뒤, 적국의 과학자가 전략자산이 됐다",
+          "headingEn": "After the War, Former Enemy Scientists Became Strategic Assets",
+          "textKo": "1945년 독일이 패망하자 미군과 정보기관은 V-2 로켓, 항공, 화학, 의학 등 독일의 기술자료와 인력을 확보하기 위해 경쟁했다. 이 노력은 처음 Overcast라는 이름으로 시작됐고 곧 Paperclip으로 불리게 됐다. National Archives가 보존한 기록에 따르면 Joint Intelligence Objectives Agency(JIOA)가 외국 과학자 프로그램의 정책·신원조사·배치를 직접 관리했다. 이 프로그램은 비밀 나치 과학자 작전이라는 한 문장보다 복잡했다. 기술경쟁, 전범 책임, 이민규정, 냉전 초기의 안보 판단이 한 행정체계 안에서 충돌했다.",
+          "textEn": "After Germany’s defeat in 1945, U.S. military and intelligence organizations competed to secure German technical knowledge and personnel. The effort began as Overcast and soon became Paperclip. National Archives records show the Joint Intelligence Objectives Agency administered the foreign-scientist program. Technology, accountability, immigration rules and emerging Cold War security priorities collided inside the same bureaucracy."
+        },
+        {
+          "blockId": "policy-02",
+          "type": "BACKGROUND",
+          "headingKo": "트루먼의 승인에는 분명한 제한조건이 있었다",
+          "headingEn": "Truman’s Authorization Contained Explicit Restrictions",
+          "textKo": "1946년 JIOA는 프로그램을 확대해 약 1,000명의 독일·오스트리아 과학기술자를 들여오고 시민권 경로까지 열기를 원했다. National Archives의 Nazi War Crimes Disclosure Act 중간보고서는 트루먼 대통령이 1946년 9월 확대안을 승인하면서 명목상 나치만 허용하고 적극적 나치 지지자는 배제하라는 조건을 붙였다고 정리한다. 문제는 그 조건을 누가, 어떤 자료로, 어떻게 적용했느냐였다. 독일 현지 CIC 조사, OMGUS dossier, 미 정부 부처의 심사가 서로 얽혔고 기술적 가치와 정치적·도덕적 결격사유가 경쟁했다.",
+          "textEn": "In 1946 the JIOA pushed to expand the program to roughly a thousand German and Austrian scientists and technicians. The National Archives interim report records that President Truman authorized the plan in September 1946 while excluding active Nazi supporters. The central issue was how that restriction would be applied through CIC investigations, OMGUS dossiers and U.S. departmental review."
+        },
+        {
+          "blockId": "screening-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "실제 신원기록은 깔끔한 무관계와 거리가 멀었다",
+          "headingEn": "The Personnel Records Were Not a Clean Story of Political Innocence",
+          "textKo": "기록에는 일부 지원자가 나치당·SS·기타 조직과 연결돼 있었음이 드러난다. National Archives 보고서는 베르너 폰 브라운이 SS 장교였다는 사실을 예시로 들고 JIOA가 많은 후보의 과거 때문에 프로그램 확대 승인을 필요로 했다고 설명한다. 그렇다고 모든 참가자가 동일한 수준의 가담자였다고 말할 수도 없다. 당적, 군수산업 참여, 강제노동 시설과의 연관, 개인적 신념과 책임의 정도는 사람마다 달랐다. 역사적으로 중요한 것은 전부 전범 또는 전부 무고한 과학자라는 양극단이 아니라 정부가 불편한 경력을 가진 인재를 전략적 자산으로 평가하는 제도를 실제로 운영했다는 점이다.",
+          "textEn": "Records show that some candidates had ties to the Nazi Party, SS or related organizations. The National Archives uses Wernher von Braun’s SS status as one example. That does not mean every participant had the same level of involvement. The defensible point is that the U.S. government operated a program that weighed strategically valuable expertise against troubling political histories."
+        },
+        {
+          "blockId": "competition-04",
+          "type": "BACKGROUND",
+          "headingKo": "소련과의 기술경쟁이 판단을 더 급하게 만들었다",
+          "headingEn": "Competition With the Soviet Union Increased the Pressure",
+          "textKo": "Paperclip은 제2차 세계대전의 마지막 장이면서 냉전의 첫 장이기도 했다. 독일의 로켓과 항공 기술을 미국이 확보하지 않으면 소련이 가져갈 수 있다는 판단은 인력 확보를 시간 경쟁으로 만들었다. 이런 상황에서 과학자의 군사적 가치가 신원문제보다 앞서려는 압력이 커졌다. 로켓 연구는 훗날 미사일과 우주개발에 기여했고 다른 분야의 전문가도 군·산업 연구에 배치됐다. 그러나 기술적 성과가 선발 과정의 윤리 문제를 소급해서 지워주지는 않는다.",
+          "textEn": "Paperclip was both the last chapter of World War II and the first of the Cold War. Officials feared that expertise not secured by the United States could be acquired by the Soviet Union. German specialists later contributed to missiles, aerospace and other research, but technical outcomes do not erase the ethical problems embedded in recruitment and screening."
+        },
+        {
+          "blockId": "records-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 강한 증거는 방대한 행정기록이다",
+          "headingEn": "The Strongest Evidence Is the Administrative Record",
+          "textKo": "Paperclip을 둘러싼 대중서사는 은폐와 음모에 집중하지만 가장 강한 증거는 방대한 행정기록이다. National Archives에는 JIOA와 국방장관 기록, 군정 문서, 특정 후보의 dossier, 정책지침이 남아 있다. 이 자료를 통해 프로그램이 실제였다는 사실뿐 아니라 누가 승인했고 어떤 제한이 있었으며 결격문제가 어떻게 논의됐는지를 추적할 수 있다. 기밀이었다는 사실은 아무 주장이나 사실로 만드는 면허가 아니다. 공개된 문서가 보여주는 범위와 보여주지 않는 범위를 구분해야 한다.",
+          "textEn": "Popular accounts focus on secrecy and cover-up, but the strongest evidence is the administrative record. National Archives collections preserve JIOA and Defense Department records, military-government files, personnel dossiers and policy instructions. These documents show what was authorized and how eligibility problems were debated. Secrecy does not make every later claim true."
+        },
+        {
+          "blockId": "myth-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "미국 우주개발 전체를 Paperclip 하나로 환원할 수도 없다",
+          "headingEn": "Paperclip Did Not Single-Handedly Create the U.S. Space Program",
+          "textKo": "폰 브라운과 일부 독일 로켓팀의 영향은 컸지만 미국의 우주개발을 Paperclip 인력 하나로 환원하면 수많은 미국인 과학자·엔지니어·산업체·대학·군 조직의 역할을 지운다. 반대로 Paperclip의 영향이 작았다고 축소하는 것도 맞지 않는다. 특정 분야에서 독일 기술인력이 실제로 중요한 기여를 했다는 점과 그 기여를 얻기 위해 정부가 어떤 인적·윤리적 타협을 했는지를 함께 봐야 한다.",
+          "textEn": "Von Braun and parts of the German rocket team had major influence, but reducing the entire U.S. space program to Paperclip erases the work of many other scientists, engineers, universities, companies and military organizations. The evidence supports a narrower conclusion: German specialists made important contributions in specific fields and the government accepted difficult personnel compromises to obtain that expertise."
+        },
+        {
+          "blockId": "accountability-07",
+          "type": "AFTERMATH",
+          "headingKo": "기술성과와 전시 책임은 같은 질문이 아니다",
+          "headingEn": "Technical Achievement and Wartime Accountability Are Different Questions",
+          "textKo": "Paperclip의 후대 평가는 흔히 로켓과 우주개발 성과로 정당화되거나, 반대로 모든 참가자의 경력을 하나의 범죄범주로 묶는 식으로 흔들린다. 그러나 역사적 평가는 개인별 전시행적과 프로그램 운영자의 판단을 분리해 봐야 한다. 과학적 기여가 큰 인물도 별도의 정치·도덕적 책임 문제를 가질 수 있고, 반대로 조직 가입만으로 동일한 수준의 범죄책임을 자동 부여할 수도 없다. 기록을 인물별로 읽는 이유가 여기에 있다.",
+          "textEn": "Later evaluations often swing between celebrating rocket and space achievements and treating every recruit as morally identical. Historical analysis has to separate individual wartime conduct from program-level decisions. Major scientific contributions do not erase separate questions of political or moral responsibility, while mere organizational membership does not automatically establish identical criminal liability."
+        },
+        {
+          "blockId": "denazification-065",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "문제는 단순한 입국이 아니라 신원평가가 어떻게 바뀌었는가였다",
+          "headingEn": "The Key Issue Was How Personnel Evaluations Changed",
+          "textKo": "Paperclip의 윤리 논쟁은 과학자를 미국으로 데려왔다는 사실 자체보다 선발과 신원평가의 과정에 집중된다. 전후 독일에서 만들어진 dossier는 정치적 가입 이력, 군수연구 참여, 동료 진술, 군정기관의 평가를 포함했고, 미국 측은 그 기록을 토대로 입국과 고용 가능성을 판단했다. 기술적 가치가 높은 후보를 확보하려는 압력이 커질수록 불리한 정치평가를 어떻게 해석할지가 정책문제가 됐다. National Archives의 공개기록은 이러한 심사가 추상적 논쟁이 아니라 실제 서류와 승인선 안에서 이뤄졌음을 보여준다. 즉 Paperclip의 핵심은 음모적인 비밀통로보다 국가가 기술경쟁과 탈나치화 원칙 사이에서 어떤 행정적 타협을 선택했는지에 있다.",
+          "textEn": "The ethical controversy centers not merely on bringing scientists to the United States but on how personnel evaluations were interpreted and changed. Postwar dossiers included political affiliations, military research, testimony and military-government assessments. As pressure grew to secure technically valuable candidates, the treatment of adverse political findings became a policy problem. National Archives records show that these choices occurred through real files, reviews and approval chains rather than an abstract conspiracy."
+        },
+        {
+          "blockId": "legacy-07",
+          "type": "AFTERMATH",
+          "headingKo": "성과를 평가하는 것과 책임을 판단하는 것은 동시에 가능하다",
+          "headingEn": "Technical Achievement and Accountability Can Be Assessed at the Same Time",
+          "textKo": "Paperclip 출신 인력의 일부가 미사일, 항공, 우주개발에서 중요한 역할을 했다는 사실과 그들의 전시 이력에 대한 도덕적 질문은 서로 취소하지 않는다. 역사서술이 기술성과만 강조하면 강제노동·군수체계·나치 조직과 연결된 개인별 이력의 차이를 지우고, 반대로 모든 참가자를 하나의 범죄집단으로 묶으면 실제 기록의 차이를 지운다. 프로그램을 이해하려면 어떤 사람이 어떤 경력으로 선발됐는지, 정부가 그 경력을 어떻게 평가했는지, 이후 어떤 역할을 맡았는지를 개별적으로 추적해야 한다. 이런 접근이 Paperclip을 냉전 성공담이나 단순 은폐설이 아니라 문서로 검증 가능한 정책결정의 역사로 만든다.",
+          "textEn": "Some Paperclip recruits played important roles in missiles, aviation and spaceflight, while their wartime histories raise separate moral questions. Those two facts do not cancel one another. Focusing only on technical success can erase differences in forced-labor, military-industry or Nazi-organization involvement; treating every recruit as identical can erase those same differences. The record is best read person by person: background, screening decision and later role."
+        },
+        {
+          "blockId": "review-075",
+          "type": "BACKGROUND",
+          "headingKo": "심사기준은 프로그램의 성격을 보여주는 핵심 기록이다",
+          "headingEn": "Screening Rules Reveal the Character of the Program",
+          "textKo": "정부가 명시적으로 배제기준을 만들었다는 사실은 과거 이력이 중요하지 않았다는 뜻이 아니라 오히려 중요했음을 보여준다. 동시에 실제 선발 결과가 그 기준과 완벽히 일치했는지는 개별 dossier를 통해 따져야 한다. Paperclip을 평가할 때 정책문구와 실제 인사결정을 분리해 보는 이유가 여기에 있다.",
+          "textEn": "The existence of formal exclusion rules shows that wartime political history mattered to policymakers. Whether actual recruitment consistently matched those rules has to be tested against individual dossiers, which is why policy language and personnel decisions should be evaluated separately."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Overcast/Paperclip은 실제 미 정부 프로그램이었고 JIOA가 외국 과학자 프로그램을 운영했다. 트루먼의 1946년 승인에는 적극적 나치 지지자를 배제한다는 제한이 있었지만 일부 참가자는 나치당·SS 등과 관련된 이력이 있었다.\n\n확인되지 않음: 모든 Paperclip 참가자가 전범이었다는 일반화, 또는 반대로 모든 참가자가 정치적 책임과 무관했다는 주장은 기록과 맞지 않는다. 프로그램의 기술적 성과도 개별 인물의 전시 책임을 자동으로 해소하지 않는다.",
+          "textEn": "Established: Overcast/Paperclip was a real U.S. government program administered by the JIOA. Truman’s 1946 authorization included restrictions against active Nazi supporters, yet some recruits had records involving the Nazi Party, SS or related institutions.\n\nNot established: The evidence does not support a blanket claim that every participant was a war criminal, nor that every participant was free of political or moral responsibility. Technical contributions do not automatically resolve individual wartime accountability."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Overcast/Paperclip was a real U.S. government program administered by the JIOA. Truman’s 1946 authorization included restrictions against active Nazi supporters, yet some recruits had records involving the Nazi Party, SS or related institutions.",
+        "notEstablished": "Not established: The evidence does not support a blanket claim that every participant was a war criminal, nor that every participant was free of political or moral responsibility. Technical contributions do not automatically resolve individual wartime accountability."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "policy-02",
+        "screening-03",
+        "competition-04",
+        "records-05",
+        "myth-06",
+        "accountability-07",
+        "denazification-065",
+        "legacy-07",
+        "review-075"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PAP-C1",
+      "status": "CONFIRMED",
+      "statementKo": "JIOA는 Overcast/Paperclip 외국 과학자 프로그램을 직접 운영했다.",
+      "statementEn": "The JIOA directly administered the Overcast/Paperclip foreign-scientist program.",
+      "sourceRefs": [
+        "PAP_NARA_RG330"
+      ]
+    },
+    {
+      "claimId": "PAP-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1946년 트루먼 승인은 적극적 나치 지지자를 배제하는 제한을 포함했다.",
+      "statementEn": "Truman’s 1946 authorization excluded active Nazi supporters.",
+      "sourceRefs": [
+        "PAP_NARA_INTERIM"
+      ]
+    },
+    {
+      "claimId": "PAP-C3",
+      "status": "CONFIRMED",
+      "statementKo": "일부 참가자는 나치당 또는 SS 등과 관련된 이력이 있었다.",
+      "statementEn": "Some recruits had records involving the Nazi Party or SS.",
+      "sourceRefs": [
+        "PAP_NARA_INTERIM"
+      ]
+    },
+    {
+      "claimId": "PAP-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 참가자를 동일한 수준의 전범으로 일반화할 수 없다.",
+      "statementEn": "The record does not support treating every recruit as an equivalent war criminal.",
+      "sourceRefs": [
+        "PAP_NARA_INTERIM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PAP_NARA_INTERIM",
+      "title": "Implementation of the Nazi War Crimes Disclosure Act",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/iwg/reports/nazi-war-crimes-interim-report-october-1999",
+      "sourceType": "US_GOVERNMENT_REPORT"
+    },
+    {
+      "sourceId": "PAP_NARA_RG330",
+      "title": "Records of the Secretary of Defense (RG 330)",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/iwg/declassified-records/rg-330-defense-secretary",
+      "sourceType": "US_GOVERNMENT_ARCHIVE"
+    },
+    {
+      "sourceId": "PAP_NARA_RG260",
+      "title": "Military Agency Records-RG 260",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/research/holocaust/finding-aid/military/rg-260.html",
+      "sourceType": "US_GOVERNMENT_FINDING_AID"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "paperclip-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "Overcast → 1946 승인 → Paperclip 확대 → 냉전 배치.",
+      "captionEn": "Overcast → 1946 authorization → Paperclip expansion → Cold War placement.",
+      "altKo": "Overcast → 1946 승인 → Paperclip 확대 → 냉전 배치.",
+      "altEn": "Overcast → 1946 authorization → Paperclip expansion → Cold War placement.",
+      "sourceRefs": [
+        "PAP_NARA_INTERIM"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-paperclip__paperclip-v01__ko.png",
+          "sha256": "6c455a71bcc70cf81218519f0bf3fbae6392244adbfa2e20dab9c648bb230dc5",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-paperclip__paperclip-v01__en.png",
+          "sha256": "a4edc4adde75c3b16f17fee6384253275c22bcd6b08dd87cef0ce9b00eab8a47",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "paperclip-v02",
+      "role": "SCREENING_FLOW",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "CIC/OMGUS dossier → JIOA 평가 → 부처 심사 구조.",
+      "captionEn": "CIC/OMGUS dossier → JIOA evaluation → departmental review.",
+      "altKo": "CIC/OMGUS dossier → JIOA 평가 → 부처 심사 구조.",
+      "altEn": "CIC/OMGUS dossier → JIOA evaluation → departmental review.",
+      "sourceRefs": [
+        "PAP_NARA_INTERIM",
+        "PAP_NARA_RG330"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-paperclip__paperclip-v02__ko.png",
+          "sha256": "ab3e9e1fcecaf9f97242827b91abba637c562f5c76e010eb28265b3c2b6a1813",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-paperclip__paperclip-v02__en.png",
+          "sha256": "2bba3d13cd46c379e15a4f2aa93cc2b66670dd42b79133e492e6cc192df9a4fe",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "paperclip-v03",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기술가치·정치이력·정부 제한조건을 분리한 증거표.",
+      "captionEn": "Evidence matrix separating technical value, political history and restrictions.",
+      "altKo": "기술가치·정치이력·정부 제한조건을 분리한 증거표.",
+      "altEn": "Evidence matrix separating technical value, political history and restrictions.",
+      "sourceRefs": [
+        "PAP_NARA_INTERIM"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-paperclip__paperclip-v03__ko.png",
+          "sha256": "0dbb764c2cf33f86c88e491f314e3823a7480f8d8a93525dd3fff790fbad3c0a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-paperclip__paperclip-v03__en.png",
+          "sha256": "bb19ce9ca454b2b667c5c9840897cc5788b1d47b96691f32f1e7b2c417ae51b9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "paperclip-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "프로그램의 실재와 모두 전범이라는 일반화를 분리.",
+      "captionEn": "Separate the documented program from blanket claims about every recruit.",
+      "altKo": "프로그램의 실재와 모두 전범이라는 일반화를 분리.",
+      "altEn": "Separate the documented program from blanket claims about every recruit.",
+      "sourceRefs": [
+        "PAP_NARA_RG330",
+        "PAP_NARA_INTERIM"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-paperclip__paperclip-v04__ko.png",
+          "sha256": "c88b40954680a2733e55336f3ea6c518433c5a32f814e548752201f71788f8c1",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-paperclip__paperclip-v04__en.png",
+          "sha256": "d2bf23d5776bdc930e084a8a89f881d4ab242cc054fbc565091716de66c4bb36",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Cold War",
+      "Science and Technology History"
+    ],
+    "countries": [
+      "United States",
+      "Germany",
+      "Austria"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [
+      {
+        "name": "Harry S. Truman",
+        "role": "U.S. president"
+      },
+      {
+        "name": "Wernher von Braun",
+        "role": "rocket engineer / documented SS affiliation"
+      }
+    ],
+    "organizations": [
+      "Joint Intelligence Objectives Agency",
+      "U.S. National Archives"
+    ],
+    "dateRange": {
+      "start": "1945",
+      "end": "1950s",
+      "precision": "program period"
+    },
+    "era": "Post-WWII / Early Cold War",
+    "resolution": "PROGRAM_DOCUMENTED_ETHICAL_SCREENING_CONTROVERSY_DOCUMENTED",
+    "searchAliases": [
+      "Project Paperclip",
+      "Operation Overcast",
+      "JIOA"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3077,
+    "enBodyWords": 639,
+    "meaningfulBlockCount": 11,
+    "visualPlacementCount": 4,
+    "sourceCount": 3,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH34",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
