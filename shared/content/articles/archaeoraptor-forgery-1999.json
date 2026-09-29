@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "archaeoraptor-forgery-1999",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "아르케오랍토르 합성 화석 판별",
+    "canonicalTitleEn": "The Archaeoraptor Forgery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "아르케오랍토르 합성 화석 판별",
+      "hook": "공룡과 새의 ‘잃어버린 고리’로 소개된 화석은 CT 촬영과 비교해부가 진행되자 여러 동물을 붙인 합성 표본으로 드러났다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "‘잃어버린 고리’라는 강한 제목",
+          "headingEn": "A Fossil With a Powerful Story",
+          "textKo": "1999년 ‘Archaeoraptor’라는 이름의 화석이 공룡과 새 사이의 중요한 전이형으로 대중에게 소개됐다. 중국 랴오닝의 정교한 깃털 화석 산지라는 배경과 결합되면서 표본은 매우 그럴듯해 보였다. 하지만 출처가 불투명한 상업 화석 시장을 거쳐 나온 표본이라는 점은 처음부터 큰 위험신호였다.",
+          "textEn": "In 1999, “Archaeoraptor” was promoted to the public as an important transitional fossil between dinosaurs and birds. Because it was said to come from Liaoning, a region already famous for exquisitely preserved feathered fossils, the specimen appeared plausible. Its poorly documented path through the commercial fossil market, however, was a major warning sign."
+        },
+        {
+          "blockId": "02",
+          "type": "EVIDENCE",
+          "headingKo": "CT가 드러낸 조립 흔적",
+          "headingEn": "CT Exposed the Assembly",
+          "textKo": "연구자들은 표본을 고해상도 X선 CT로 조사했다. 2001년 Nature 논문은 암석판 내부의 균열, 뼈 배치, 충전재를 분석해 이 표본이 자연 상태의 한 개체가 아니라 서로 다른 화석 조각을 조합한 위조품이라고 결론냈다. 겉면만 보아서는 이어져 보이던 골격이 내부 구조에서는 연속되지 않았다.",
+          "textEn": "Researchers examined the slab with high-resolution X-ray computed tomography. A 2001 Nature study mapped fractures, bone placement, and filler material through the specimen and showed that it was not one naturally preserved animal. Separate fossil pieces had been combined into a single convincing-looking slab."
+        },
+        {
+          "blockId": "03",
+          "type": "IDENTITY",
+          "headingKo": "앞부분과 꼬리는 서로 다른 동물",
+          "headingEn": "The Components Belonged to Different Animals",
+          "textKo": "후속 연구는 합성에 사용된 구성요소의 정체까지 좁혔다. 2002년 Nature 논문은 표본의 조류 쪽 주요 부분을 Yanornis martini에 연결했고, 다른 연구들은 꼬리 부분이 비비행성 드로마에오사우루스류에 속한다는 점을 보여줬다. ‘기묘한 한 동물’이 아니라 여러 실제 동물의 화석이 잘못 결합된 것이었다.",
+          "textEn": "Later work narrowed the identities of the components. A 2002 Nature paper identified the major avian portion with Yanornis martini, while other work linked the tail to a non-avian dromaeosaurid. The mystery was not an extraordinary hybrid creature but a constructed fossil using genuine pieces from different animals."
+        },
+        {
+          "blockId": "04",
+          "type": "METHOD",
+          "headingKo": "왜 외형 관찰만으로 놓쳤나",
+          "headingEn": "Why Surface Appearance Was Not Enough",
+          "textKo": "평평한 화석판에서는 뼈 조각과 암석 균열, 보수재가 시각적으로 이어져 보일 수 있다. CT는 표면 아래를 절단하지 않고 볼 수 있어 조립선과 밀도 차이를 확인하게 했다. 이 사건은 화석의 형태뿐 아니라 채집 위치, 발굴 맥락, 소유 이력 같은 provenance가 과학적 증거의 일부라는 점을 보여준다.",
+          "textEn": "In a flattened fossil slab, cracks, restored rock, and bone fragments can look continuous. CT allowed researchers to inspect the interior without destroying the specimen and to trace joins that the surface presentation concealed. Provenance—where a specimen was excavated and how it moved through collections—is therefore part of the scientific evidence, not paperwork added later."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "가짜였으니 공룡-새 진화도 가짜인가",
+          "headingEn": "A Fake Fossil Does Not Erase Dinosaur-Bird Evidence",
+          "textKo": "Archaeoraptor가 위조였다는 사실은 공룡과 새의 진화적 관계 자체를 반박하지 않는다. 오히려 이 사건과 별개로 랴오닝 지역에서는 다양한 깃털 공룡과 초기 조류 화석이 학술적으로 기술됐다. 하나의 과장된 표본이 실패했다고 해서 독립된 다른 증거까지 함께 사라지는 것은 아니다.",
+          "textEn": "The failure of Archaeoraptor does not invalidate the broader evidence linking birds to theropod dinosaurs. Numerous independently excavated and published fossils support that evolutionary relationship. Rejecting one fabricated specimen is a correction inside science, not a refutation of the entire field."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "위조 판정 이후 남은 것",
+          "headingEn": "From Missing Link to Forensic Case",
+          "textKo": "사건은 화석 시장과 과학 보도의 위험을 상징하는 사례가 됐다. 동시에 CT·비교해부·독립 검증을 통해 잘못된 표본 해석이 수정될 수 있다는 점도 보여줬다. 미스터리의 결론은 ‘정체불명의 전이동물’이 아니라 ‘어떤 화석 조각들이 어떻게 합쳐졌는가’로 바뀌었다.",
+          "textEn": "The case became a warning about commercial fossil markets, rushed interpretation, and dramatic media framing. It also became an example of self-correction: imaging, comparative anatomy, and independent review transformed a sensational claim into a precise account of how the slab was assembled."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "아르케오랍토르 합성 화석 판별를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 Nature의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating The Archaeoraptor Forgery requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 공룡과 새의 ‘잃어버린 고리’로 소개된 화석은 CT 촬영과 비교해부가 진행되자 여러 동물을 붙인 합성 표본으로 드러났다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—A fossil promoted as a dinosaur-bird missing link turned out, under CT and comparative anatomy, to be a composite assembled from different animals.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Archaeoraptor 표본은 한 개체가 아니라 조류와 드로마에오사우루스류 등 서로 다른 화석 조각이 조합된 합성 표본이다. CT와 후속 비교해부가 이를 확인했다.\n\n확인되지 않음: 이 위조 사건 하나가 공룡과 조류의 진화적 연관 전체를 무효화한다는 주장은 성립하지 않는다.",
+          "textEn": "Established: Archaeoraptor was a composite specimen assembled from fossil material belonging to different animals, demonstrated by CT and later anatomical work.\n\nNot established: the forgery does not show that the wider fossil evidence for the evolutionary relationship between non-avian dinosaurs and birds is fabricated."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Archaeoraptor 표본은 한 개체가 아니라 조류와 드로마에오사우루스류 등 서로 다른 화석 조각이 조합된 합성 표본이다. CT와 후속 비교해부가 이를 확인했다.",
+        "notEstablished": "확인되지 않음: 이 위조 사건 하나가 공룡과 조류의 진화적 연관 전체를 무효화한다는 주장은 성립하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "The Archaeoraptor Forgery",
+      "hook": "A fossil promoted as a dinosaur-bird missing link turned out, under CT and comparative anatomy, to be a composite assembled from different animals.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "‘잃어버린 고리’라는 강한 제목",
+          "headingEn": "A Fossil With a Powerful Story",
+          "textKo": "1999년 ‘Archaeoraptor’라는 이름의 화석이 공룡과 새 사이의 중요한 전이형으로 대중에게 소개됐다. 중국 랴오닝의 정교한 깃털 화석 산지라는 배경과 결합되면서 표본은 매우 그럴듯해 보였다. 하지만 출처가 불투명한 상업 화석 시장을 거쳐 나온 표본이라는 점은 처음부터 큰 위험신호였다.",
+          "textEn": "In 1999, “Archaeoraptor” was promoted to the public as an important transitional fossil between dinosaurs and birds. Because it was said to come from Liaoning, a region already famous for exquisitely preserved feathered fossils, the specimen appeared plausible. Its poorly documented path through the commercial fossil market, however, was a major warning sign."
+        },
+        {
+          "blockId": "02",
+          "type": "EVIDENCE",
+          "headingKo": "CT가 드러낸 조립 흔적",
+          "headingEn": "CT Exposed the Assembly",
+          "textKo": "연구자들은 표본을 고해상도 X선 CT로 조사했다. 2001년 Nature 논문은 암석판 내부의 균열, 뼈 배치, 충전재를 분석해 이 표본이 자연 상태의 한 개체가 아니라 서로 다른 화석 조각을 조합한 위조품이라고 결론냈다. 겉면만 보아서는 이어져 보이던 골격이 내부 구조에서는 연속되지 않았다.",
+          "textEn": "Researchers examined the slab with high-resolution X-ray computed tomography. A 2001 Nature study mapped fractures, bone placement, and filler material through the specimen and showed that it was not one naturally preserved animal. Separate fossil pieces had been combined into a single convincing-looking slab."
+        },
+        {
+          "blockId": "03",
+          "type": "IDENTITY",
+          "headingKo": "앞부분과 꼬리는 서로 다른 동물",
+          "headingEn": "The Components Belonged to Different Animals",
+          "textKo": "후속 연구는 합성에 사용된 구성요소의 정체까지 좁혔다. 2002년 Nature 논문은 표본의 조류 쪽 주요 부분을 Yanornis martini에 연결했고, 다른 연구들은 꼬리 부분이 비비행성 드로마에오사우루스류에 속한다는 점을 보여줬다. ‘기묘한 한 동물’이 아니라 여러 실제 동물의 화석이 잘못 결합된 것이었다.",
+          "textEn": "Later work narrowed the identities of the components. A 2002 Nature paper identified the major avian portion with Yanornis martini, while other work linked the tail to a non-avian dromaeosaurid. The mystery was not an extraordinary hybrid creature but a constructed fossil using genuine pieces from different animals."
+        },
+        {
+          "blockId": "04",
+          "type": "METHOD",
+          "headingKo": "왜 외형 관찰만으로 놓쳤나",
+          "headingEn": "Why Surface Appearance Was Not Enough",
+          "textKo": "평평한 화석판에서는 뼈 조각과 암석 균열, 보수재가 시각적으로 이어져 보일 수 있다. CT는 표면 아래를 절단하지 않고 볼 수 있어 조립선과 밀도 차이를 확인하게 했다. 이 사건은 화석의 형태뿐 아니라 채집 위치, 발굴 맥락, 소유 이력 같은 provenance가 과학적 증거의 일부라는 점을 보여준다.",
+          "textEn": "In a flattened fossil slab, cracks, restored rock, and bone fragments can look continuous. CT allowed researchers to inspect the interior without destroying the specimen and to trace joins that the surface presentation concealed. Provenance—where a specimen was excavated and how it moved through collections—is therefore part of the scientific evidence, not paperwork added later."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "가짜였으니 공룡-새 진화도 가짜인가",
+          "headingEn": "A Fake Fossil Does Not Erase Dinosaur-Bird Evidence",
+          "textKo": "Archaeoraptor가 위조였다는 사실은 공룡과 새의 진화적 관계 자체를 반박하지 않는다. 오히려 이 사건과 별개로 랴오닝 지역에서는 다양한 깃털 공룡과 초기 조류 화석이 학술적으로 기술됐다. 하나의 과장된 표본이 실패했다고 해서 독립된 다른 증거까지 함께 사라지는 것은 아니다.",
+          "textEn": "The failure of Archaeoraptor does not invalidate the broader evidence linking birds to theropod dinosaurs. Numerous independently excavated and published fossils support that evolutionary relationship. Rejecting one fabricated specimen is a correction inside science, not a refutation of the entire field."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "위조 판정 이후 남은 것",
+          "headingEn": "From Missing Link to Forensic Case",
+          "textKo": "사건은 화석 시장과 과학 보도의 위험을 상징하는 사례가 됐다. 동시에 CT·비교해부·독립 검증을 통해 잘못된 표본 해석이 수정될 수 있다는 점도 보여줬다. 미스터리의 결론은 ‘정체불명의 전이동물’이 아니라 ‘어떤 화석 조각들이 어떻게 합쳐졌는가’로 바뀌었다.",
+          "textEn": "The case became a warning about commercial fossil markets, rushed interpretation, and dramatic media framing. It also became an example of self-correction: imaging, comparative anatomy, and independent review transformed a sensational claim into a precise account of how the slab was assembled."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "아르케오랍토르 합성 화석 판별를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 Nature의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating The Archaeoraptor Forgery requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 공룡과 새의 ‘잃어버린 고리’로 소개된 화석은 CT 촬영과 비교해부가 진행되자 여러 동물을 붙인 합성 표본으로 드러났다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—A fossil promoted as a dinosaur-bird missing link turned out, under CT and comparative anatomy, to be a composite assembled from different animals.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Archaeoraptor 표본은 한 개체가 아니라 조류와 드로마에오사우루스류 등 서로 다른 화석 조각이 조합된 합성 표본이다. CT와 후속 비교해부가 이를 확인했다.\n\n확인되지 않음: 이 위조 사건 하나가 공룡과 조류의 진화적 연관 전체를 무효화한다는 주장은 성립하지 않는다.",
+          "textEn": "Established: Archaeoraptor was a composite specimen assembled from fossil material belonging to different animals, demonstrated by CT and later anatomical work.\n\nNot established: the forgery does not show that the wider fossil evidence for the evolutionary relationship between non-avian dinosaurs and birds is fabricated."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Archaeoraptor was a composite specimen assembled from fossil material belonging to different animals, demonstrated by CT and later anatomical work.",
+        "notEstablished": "Not established: the forgery does not show that the wider fossil evidence for the evolutionary relationship between non-avian dinosaurs and birds is fabricated."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ARCHAEORAPTOR_FORGERY_1999-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: Archaeoraptor 표본은 한 개체가 아니라 조류와 드로마에오사우루스류 등 서로 다른 화석 조각이 조합된 합성 표본이다. CT와 후속 비교해부가 이를 확인했다.",
+      "statementEn": "Established: Archaeoraptor was a composite specimen assembled from fossil material belonging to different animals, demonstrated by CT and later anatomical work.",
+      "sourceRefs": [
+        "NATURE_2001",
+        "NATURE_2002"
+      ]
+    },
+    {
+      "claimId": "ARCHAEORAPTOR_FORGERY_1999-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: 이 위조 사건 하나가 공룡과 조류의 진화적 연관 전체를 무효화한다는 주장은 성립하지 않는다.",
+      "statementEn": "Not established: the forgery does not show that the wider fossil evidence for the evolutionary relationship between non-avian dinosaurs and birds is fabricated.",
+      "sourceRefs": [
+        "NATURE_2001",
+        "NATURE_2002"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NATURE_2001",
+      "title": "The Archaeoraptor forgery",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/35069145",
+      "sourceType": "PEER_REVIEWED"
+    },
+    {
+      "sourceId": "NATURE_2002",
+      "title": "Archaeoraptor’s better half",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/420285a",
+      "sourceType": "PEER_REVIEWED"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "archaeoraptor-forgery-1999-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "NATURE_2001",
+        "NATURE_2002"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v01__ko.png",
+          "sha256": "5f4c19ed01aabd7701ec726dc818088135d4069c3a9cb45908455fc721e9d81a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v01__ko.png"
+        },
+        "en": {
+          "file": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v01__en.png",
+          "sha256": "ac877c7e529f33ec85dbc416013281cbcfdf74fef13776fd0910d1dc4c1b7430",
+          "width": 1600,
+          "height": 900,
+          "fileName": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "archaeoraptor-forgery-1999-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "NATURE_2001",
+        "NATURE_2002"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v02__ko.png",
+          "sha256": "5501e29ba71cbb7fcbe13f772caeca1d68ed8d0855b2d7289d6b147d5bb20210",
+          "width": 1600,
+          "height": 900,
+          "fileName": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v02__ko.png"
+        },
+        "en": {
+          "file": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v02__en.png",
+          "sha256": "d2b1772942e898f9ee1e01d16eb4e5c4a3aecc8866c3af5783e48597a6e5c2ac",
+          "width": 1600,
+          "height": 900,
+          "fileName": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "archaeoraptor-forgery-1999-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "NATURE_2001",
+        "NATURE_2002"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v03__ko.png",
+          "sha256": "a1e291646f2cc41dec40202928f6c5a8c0ec90861c757027651dc84afacaef67",
+          "width": 1600,
+          "height": 900,
+          "fileName": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v03__ko.png"
+        },
+        "en": {
+          "file": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v03__en.png",
+          "sha256": "60431a468f9c0c06a6cdc78034c0ba7cb6e6f75409020e8e47acc109f70499a3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "China / United States",
+    "era": "1999–2002",
+    "genre": "Explained Mystery / Debunked Myth",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "resolution": "unknown",
+    "countries": [
+      "China / United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1667,
+    "enBodyWords": 492
+  }
+}

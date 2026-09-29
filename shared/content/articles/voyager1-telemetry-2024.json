@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "voyager1-telemetry-2024",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "보이저 1호의 읽을 수 없던 신호",
+    "canonicalTitleEn": "Voyager 1’s Unreadable Telemetry",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "보이저 1호의 읽을 수 없던 신호",
+      "hook": "탐사선은 명령을 받고 있었지만 5개월 동안 읽을 수 없는 데이터만 보내왔다. 원인은 ‘미지의 신호’가 아니라 수십 년 된 컴퓨터 메모리의 고장이었다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "살아 있지만 말이 깨진 탐사선",
+          "headingEn": "A Living Probe Speaking Gibberish",
+          "textKo": "2023년 11월 14일부터 Voyager 1은 지구의 명령을 받고 정상적으로 통신 반응을 보이면서도 읽을 수 있는 과학·공학 데이터를 보내지 못했다. 신호 자체는 도착했지만 데이터 패턴이 반복돼 임무팀은 탐사선의 상태를 제대로 파악할 수 없었다.",
+          "textEn": "Beginning on November 14, 2023, Voyager 1 continued to receive commands and return a radio signal, but its science and engineering data were unreadable. The spacecraft appeared responsive while the information inside the downlink repeated in unusable patterns."
+        },
+        {
+          "blockId": "02",
+          "type": "DIAGNOSIS",
+          "headingKo": "문제는 Flight Data Subsystem",
+          "headingEn": "The Flight Data Subsystem",
+          "textKo": "JPL 연구진은 문제를 Voyager 1의 세 온보드 컴퓨터 가운데 Flight Data Subsystem(FDS)로 좁혔다. 이 시스템은 과학자료와 상태정보를 묶어 송신 준비를 하는 역할을 한다. 2024년 3월에는 FDS 메모리 일부를 저장하는 단일 칩이 작동하지 않는다는 결론에 도달했다.",
+          "textEn": "Engineers traced the problem to the flight data subsystem, one of Voyager’s onboard computers. The FDS packages science and engineering information for transmission. By March 2024, the team had determined that a single memory chip containing part of the FDS software was no longer working."
+        },
+        {
+          "blockId": "03",
+          "type": "CONSTRAINT",
+          "headingKo": "45시간 넘게 걸리는 한 번의 질문",
+          "headingEn": "Every Diagnostic Question Takes Nearly Two Days",
+          "textKo": "Voyager 1은 240억km 이상 떨어져 있어 전파가 한 방향으로 22시간 넘게 걸린다. 명령을 보내고 결과를 확인하는 한 번의 진단 사이클이 거의 이틀이다. 지상에서 즉시 재부팅하거나 부품을 교체할 수 없기 때문에, 팀은 남은 메모리 공간에 코드 조각을 재배치하는 방식으로 우회해야 했다.",
+          "textEn": "Voyager 1 is more than 24 billion kilometres away, so light takes over 22 hours to travel one way. A command-and-response test therefore consumes nearly two days. There is no physical repair, so engineers had to design a software workaround using the memory that still functioned."
+        },
+        {
+          "blockId": "04",
+          "type": "RECOVERY",
+          "headingKo": "2024년 4월 공학데이터 복구",
+          "headingEn": "Engineering Data Returned in April",
+          "textKo": "팀은 손상된 메모리에 있던 코드를 다른 위치로 나눠 옮기고 주소를 다시 연결했다. 4월 Voyager 1은 약 5개월 만에 다시 읽을 수 있는 공학데이터를 보내기 시작했다. 이것으로 탐사선의 기본 상태를 확인하고 과학자료 복구 단계로 넘어갈 수 있었다.",
+          "textEn": "The team split and relocated code that had occupied the failed memory region, updating references so the system could run from new addresses. In April 2024, Voyager 1 sent usable engineering data for the first time in about five months."
+        },
+        {
+          "blockId": "05",
+          "type": "SCIENCE",
+          "headingKo": "6월에는 네 과학기기 모두 복귀",
+          "headingEn": "All Four Operating Science Instruments Returned",
+          "textKo": "5월 두 개 과학기기가 먼저 유효한 데이터를 보내기 시작했고, 추가 작업 뒤 6월에는 현재 작동 중인 네 개 과학기기 모두 정상 과학자료 전송으로 돌아왔다. 문제 해결은 새로운 하드웨어가 아니라 1977년에 발사된 시스템의 메모리와 소프트웨어 배치를 원격으로 재구성한 결과였다.",
+          "textEn": "Two science instruments resumed usable data in May. After additional work, NASA reported in June that all four operating science instruments were again returning usable science data. The repair depended on remote reconfiguration of 1970s-era hardware and software rather than a new component."
+        },
+        {
+          "blockId": "06",
+          "type": "INTERPRETATION",
+          "headingKo": "‘이상한 우주 신호’가 아니었다",
+          "headingEn": "Not an Alien Signal",
+          "textKo": "읽을 수 없는 반복 신호는 외부에서 온 메시지나 미확인 현상이 아니라 고장 난 데이터 패키징 경로의 결과였다. 이 사건의 미스터리는 원인을 몰랐던 기간의 공학 퍼즐이었고, 진단과 복구 과정이 해답을 제공했다.",
+          "textEn": "The repeating unreadable telemetry was the product of a damaged data-processing path, not evidence of an external message. The mystery was an engineering diagnosis problem whose solution was confirmed by restored normal data."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "보이저 1호의 읽을 수 없던 신호를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 NASA/JPL의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating Voyager 1’s Unreadable Telemetry requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 탐사선은 명령을 받고 있었지만 5개월 동안 읽을 수 없는 데이터만 보내왔다. 원인은 ‘미지의 신호’가 아니라 수십 년 된 컴퓨터 메모리의 고장이었다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—The probe was still receiving commands but sent unreadable data for months; the cause was not a mysterious signal but failed memory in a decades-old flight computer.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Voyager 1의 2023~2024 데이터 장애는 Flight Data Subsystem의 메모리 고장과 연결됐고, 코드 재배치 후 2024년 4~6월 공학·과학 데이터가 단계적으로 복구됐다.\n\n확인되지 않음: 반복된 비정상 신호가 외계 메시지나 외부 미확인 신호였다는 증거는 없다.",
+          "textEn": "Established: Voyager 1’s 2023–2024 telemetry failure was linked to failed FDS memory, and engineering and science data returned after software was relocated during 2024.\n\nNot established: there is no evidence that the abnormal repeating signal was an alien message or an external unidentified transmission."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Voyager 1의 2023~2024 데이터 장애는 Flight Data Subsystem의 메모리 고장과 연결됐고, 코드 재배치 후 2024년 4~6월 공학·과학 데이터가 단계적으로 복구됐다.",
+        "notEstablished": "확인되지 않음: 반복된 비정상 신호가 외계 메시지나 외부 미확인 신호였다는 증거는 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "Voyager 1’s Unreadable Telemetry",
+      "hook": "The probe was still receiving commands but sent unreadable data for months; the cause was not a mysterious signal but failed memory in a decades-old flight computer.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "살아 있지만 말이 깨진 탐사선",
+          "headingEn": "A Living Probe Speaking Gibberish",
+          "textKo": "2023년 11월 14일부터 Voyager 1은 지구의 명령을 받고 정상적으로 통신 반응을 보이면서도 읽을 수 있는 과학·공학 데이터를 보내지 못했다. 신호 자체는 도착했지만 데이터 패턴이 반복돼 임무팀은 탐사선의 상태를 제대로 파악할 수 없었다.",
+          "textEn": "Beginning on November 14, 2023, Voyager 1 continued to receive commands and return a radio signal, but its science and engineering data were unreadable. The spacecraft appeared responsive while the information inside the downlink repeated in unusable patterns."
+        },
+        {
+          "blockId": "02",
+          "type": "DIAGNOSIS",
+          "headingKo": "문제는 Flight Data Subsystem",
+          "headingEn": "The Flight Data Subsystem",
+          "textKo": "JPL 연구진은 문제를 Voyager 1의 세 온보드 컴퓨터 가운데 Flight Data Subsystem(FDS)로 좁혔다. 이 시스템은 과학자료와 상태정보를 묶어 송신 준비를 하는 역할을 한다. 2024년 3월에는 FDS 메모리 일부를 저장하는 단일 칩이 작동하지 않는다는 결론에 도달했다.",
+          "textEn": "Engineers traced the problem to the flight data subsystem, one of Voyager’s onboard computers. The FDS packages science and engineering information for transmission. By March 2024, the team had determined that a single memory chip containing part of the FDS software was no longer working."
+        },
+        {
+          "blockId": "03",
+          "type": "CONSTRAINT",
+          "headingKo": "45시간 넘게 걸리는 한 번의 질문",
+          "headingEn": "Every Diagnostic Question Takes Nearly Two Days",
+          "textKo": "Voyager 1은 240억km 이상 떨어져 있어 전파가 한 방향으로 22시간 넘게 걸린다. 명령을 보내고 결과를 확인하는 한 번의 진단 사이클이 거의 이틀이다. 지상에서 즉시 재부팅하거나 부품을 교체할 수 없기 때문에, 팀은 남은 메모리 공간에 코드 조각을 재배치하는 방식으로 우회해야 했다.",
+          "textEn": "Voyager 1 is more than 24 billion kilometres away, so light takes over 22 hours to travel one way. A command-and-response test therefore consumes nearly two days. There is no physical repair, so engineers had to design a software workaround using the memory that still functioned."
+        },
+        {
+          "blockId": "04",
+          "type": "RECOVERY",
+          "headingKo": "2024년 4월 공학데이터 복구",
+          "headingEn": "Engineering Data Returned in April",
+          "textKo": "팀은 손상된 메모리에 있던 코드를 다른 위치로 나눠 옮기고 주소를 다시 연결했다. 4월 Voyager 1은 약 5개월 만에 다시 읽을 수 있는 공학데이터를 보내기 시작했다. 이것으로 탐사선의 기본 상태를 확인하고 과학자료 복구 단계로 넘어갈 수 있었다.",
+          "textEn": "The team split and relocated code that had occupied the failed memory region, updating references so the system could run from new addresses. In April 2024, Voyager 1 sent usable engineering data for the first time in about five months."
+        },
+        {
+          "blockId": "05",
+          "type": "SCIENCE",
+          "headingKo": "6월에는 네 과학기기 모두 복귀",
+          "headingEn": "All Four Operating Science Instruments Returned",
+          "textKo": "5월 두 개 과학기기가 먼저 유효한 데이터를 보내기 시작했고, 추가 작업 뒤 6월에는 현재 작동 중인 네 개 과학기기 모두 정상 과학자료 전송으로 돌아왔다. 문제 해결은 새로운 하드웨어가 아니라 1977년에 발사된 시스템의 메모리와 소프트웨어 배치를 원격으로 재구성한 결과였다.",
+          "textEn": "Two science instruments resumed usable data in May. After additional work, NASA reported in June that all four operating science instruments were again returning usable science data. The repair depended on remote reconfiguration of 1970s-era hardware and software rather than a new component."
+        },
+        {
+          "blockId": "06",
+          "type": "INTERPRETATION",
+          "headingKo": "‘이상한 우주 신호’가 아니었다",
+          "headingEn": "Not an Alien Signal",
+          "textKo": "읽을 수 없는 반복 신호는 외부에서 온 메시지나 미확인 현상이 아니라 고장 난 데이터 패키징 경로의 결과였다. 이 사건의 미스터리는 원인을 몰랐던 기간의 공학 퍼즐이었고, 진단과 복구 과정이 해답을 제공했다.",
+          "textEn": "The repeating unreadable telemetry was the product of a damaged data-processing path, not evidence of an external message. The mystery was an engineering diagnosis problem whose solution was confirmed by restored normal data."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "보이저 1호의 읽을 수 없던 신호를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 NASA/JPL의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating Voyager 1’s Unreadable Telemetry requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 탐사선은 명령을 받고 있었지만 5개월 동안 읽을 수 없는 데이터만 보내왔다. 원인은 ‘미지의 신호’가 아니라 수십 년 된 컴퓨터 메모리의 고장이었다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—The probe was still receiving commands but sent unreadable data for months; the cause was not a mysterious signal but failed memory in a decades-old flight computer.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Voyager 1의 2023~2024 데이터 장애는 Flight Data Subsystem의 메모리 고장과 연결됐고, 코드 재배치 후 2024년 4~6월 공학·과학 데이터가 단계적으로 복구됐다.\n\n확인되지 않음: 반복된 비정상 신호가 외계 메시지나 외부 미확인 신호였다는 증거는 없다.",
+          "textEn": "Established: Voyager 1’s 2023–2024 telemetry failure was linked to failed FDS memory, and engineering and science data returned after software was relocated during 2024.\n\nNot established: there is no evidence that the abnormal repeating signal was an alien message or an external unidentified transmission."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Voyager 1’s 2023–2024 telemetry failure was linked to failed FDS memory, and engineering and science data returned after software was relocated during 2024.",
+        "notEstablished": "Not established: there is no evidence that the abnormal repeating signal was an alien message or an external unidentified transmission."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "VOYAGER1_TELEMETRY_2024-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: Voyager 1의 2023~2024 데이터 장애는 Flight Data Subsystem의 메모리 고장과 연결됐고, 코드 재배치 후 2024년 4~6월 공학·과학 데이터가 단계적으로 복구됐다.",
+      "statementEn": "Established: Voyager 1’s 2023–2024 telemetry failure was linked to failed FDS memory, and engineering and science data returned after software was relocated during 2024.",
+      "sourceRefs": [
+        "NASA_VOY_APR",
+        "NASA_VOY_JUN"
+      ]
+    },
+    {
+      "claimId": "VOYAGER1_TELEMETRY_2024-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: 반복된 비정상 신호가 외계 메시지나 외부 미확인 신호였다는 증거는 없다.",
+      "statementEn": "Not established: there is no evidence that the abnormal repeating signal was an alien message or an external unidentified transmission.",
+      "sourceRefs": [
+        "NASA_VOY_APR",
+        "NASA_VOY_JUN"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_VOY_APR",
+      "title": "NASA’s Voyager 1 Resumes Sending Engineering Updates to Earth",
+      "publisher": "NASA/JPL",
+      "url": "https://www.jpl.nasa.gov/news/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/",
+      "sourceType": "SPACE_AGENCY"
+    },
+    {
+      "sourceId": "NASA_VOY_JUN",
+      "title": "Voyager 1 Returning Science Data From All Four Instruments",
+      "publisher": "NASA/JPL",
+      "url": "https://www.jpl.nasa.gov/news/voyager-1-returning-science-data-from-all-four-instruments/",
+      "sourceType": "SPACE_AGENCY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "voyager1-telemetry-2024-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "NASA_VOY_APR",
+        "NASA_VOY_JUN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "voyager1-telemetry-2024__voyager1-telemetry-2024-v01__ko.png",
+          "sha256": "9fb87afdbf153ee8e4ec505f531aa6ff8c176bdc001f7b75f803441f182c6c43",
+          "width": 1600,
+          "height": 900,
+          "fileName": "voyager1-telemetry-2024__voyager1-telemetry-2024-v01__ko.png"
+        },
+        "en": {
+          "file": "voyager1-telemetry-2024__voyager1-telemetry-2024-v01__en.png",
+          "sha256": "d232049e743f9c4134de71991d13940525344446746b82dd4e49d2cdd8855589",
+          "width": 1600,
+          "height": 900,
+          "fileName": "voyager1-telemetry-2024__voyager1-telemetry-2024-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "voyager1-telemetry-2024-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "NASA_VOY_APR",
+        "NASA_VOY_JUN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "voyager1-telemetry-2024__voyager1-telemetry-2024-v02__ko.png",
+          "sha256": "08796f09cac305ad62e5999ff0810c94a4cfb647f5dee2c5628f42b4af71f848",
+          "width": 1600,
+          "height": 900,
+          "fileName": "voyager1-telemetry-2024__voyager1-telemetry-2024-v02__ko.png"
+        },
+        "en": {
+          "file": "voyager1-telemetry-2024__voyager1-telemetry-2024-v02__en.png",
+          "sha256": "7d20383eaa02486fb62ad3c3acfc0b556f8f0b8dc4f7bd277d669f1c3b6f5191",
+          "width": 1600,
+          "height": 900,
+          "fileName": "voyager1-telemetry-2024__voyager1-telemetry-2024-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "voyager1-telemetry-2024-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "NASA_VOY_APR",
+        "NASA_VOY_JUN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "voyager1-telemetry-2024__voyager1-telemetry-2024-v03__ko.png",
+          "sha256": "bb011d773813910360d133ee742ee8d925bbae331eea62fa383baf0d472aa628",
+          "width": 1600,
+          "height": 900,
+          "fileName": "voyager1-telemetry-2024__voyager1-telemetry-2024-v03__ko.png"
+        },
+        "en": {
+          "file": "voyager1-telemetry-2024__voyager1-telemetry-2024-v03__en.png",
+          "sha256": "e1b4884bd6caa4a0aee5041df44d97c9f34df6fcab8a0721c8b51d4feddd7178",
+          "width": 1600,
+          "height": 900,
+          "fileName": "voyager1-telemetry-2024__voyager1-telemetry-2024-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Deep Space / United States",
+    "era": "2023–2024",
+    "genre": "Technology / Lost Invention",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Technology / Lost Invention",
+    "resolution": "unknown",
+    "countries": [
+      "Deep Space / United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1594,
+    "enBodyWords": 459
+  }
+}

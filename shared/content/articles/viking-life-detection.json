@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "viking-life-detection",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "바이킹 착륙선 생명탐지 실험",
+    "canonicalTitleEn": "The Viking Life-Detection Experiments",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "바이킹 착륙선 생명탐지 실험",
+      "hook": "화성 토양은 영양분을 넣자 기체 반응을 보였지만 유기분자는 검출되지 않았다. 1976년의 모순된 결과는 지금도 ‘생명 신호였나’라는 논쟁의 원점이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "처음으로 화성 흙에 생명검사를 하다",
+          "headingEn": "The First Direct Life Tests in Martian Soil",
+          "textKo": "1976년 Viking 1과 Viking 2 착륙선은 화성 표면에 내려 토양을 직접 채취했다. 각 착륙선에는 생명활동의 흔적을 찾기 위한 생물학 실험과 유기분자를 찾는 분석장비가 실려 있었다. 목표는 단순히 사진을 찍는 것이 아니라 토양이 대사와 비슷한 반응을 보이는지 시험하는 것이었다.",
+          "textEn": "In 1976, Viking 1 and Viking 2 landed on Mars and collected soil for direct biological testing. The landers carried experiments intended to detect metabolic-like activity as well as instrumentation designed to search for organic compounds."
+        },
+        {
+          "blockId": "02",
+          "type": "EXPERIMENTS",
+          "headingKo": "세 가지 생물실험",
+          "headingEn": "Three Biological Approaches",
+          "textKo": "생물 패키지는 가스 교환, Labeled Release, Pyrolytic Release 등 서로 다른 방식으로 토양 반응을 봤다. Labeled Release는 방사성 탄소가 붙은 영양분을 흙에 넣고 방사성 기체가 나오는지를 측정했다. 생물이 영양분을 대사한다면 기체 신호가 생길 수 있다는 설계였다.",
+          "textEn": "The biology package used gas exchange, labeled release, and pyrolytic release experiments. The labeled release test added nutrients tagged with radioactive carbon to soil and monitored the atmosphere for radioactive gas, a signal that could be produced if organisms metabolized the nutrients."
+        },
+        {
+          "blockId": "03",
+          "type": "SIGNAL",
+          "headingKo": "예상보다 강한 화학 반응",
+          "headingEn": "A Strong Chemical Response",
+          "textKo": "일부 실험에서는 실제로 빠른 기체 방출과 같은 반응이 나타났다. 특히 Labeled Release 결과는 생물학적 대사처럼 보일 여지가 있어 큰 관심을 받았다. 그러나 ‘생명이라면 나올 수 있는 신호’와 ‘생명만이 만들 수 있는 신호’는 다르다.",
+          "textEn": "Some Viking tests produced rapid gas-release responses. The labeled release result in particular looked compatible with biological metabolism, which is why it remains central to the debate. But a signal that biology can produce is not necessarily a signal that only biology can produce."
+        },
+        {
+          "blockId": "04",
+          "type": "CONFLICT",
+          "headingKo": "GCMS는 유기분자를 찾지 못했다",
+          "headingEn": "The Organic-Molecule Search Was Negative",
+          "textKo": "동시에 가스크로마토그래프-질량분석기는 착륙지 토양에서 검출한계 이상의 유기분자를 찾지 못했다. NASA는 Viking의 세 생물실험이 예상 밖이고 수수께끼 같은 화학활동을 발견했지만, 살아 있는 미생물의 존재를 명확히 입증하지 못했다고 정리한다.",
+          "textEn": "At the same time, the gas chromatograph-mass spectrometer did not detect organic molecules above its limits at the landing sites. NASA summarizes the biology experiments as discovering unexpected and enigmatic chemical activity but no clear evidence for living microorganisms."
+        },
+        {
+          "blockId": "05",
+          "type": "INTERPRETATION",
+          "headingKo": "강한 산화성 토양이라는 설명",
+          "headingEn": "A Highly Reactive Soil",
+          "textKo": "Viking 관측은 화성 표면이 매우 산화적인 화학환경이라는 점을 보여줬다. 물과 영양용액이 닿았을 때 비생물학적 산화반응이 생명실험의 신호를 만들 수 있다는 해석이 주류가 됐다. 반면 Labeled Release를 생물학적으로 해석해야 한다는 소수 연구자들의 주장은 계속됐다.",
+          "textEn": "Viking showed that the Martian surface chemistry was strongly oxidizing. Non-biological reactions triggered by water and nutrients offered a way to explain signals that initially appeared metabolic. A minority of researchers has continued to argue for a biological interpretation of the labeled-release data."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "논쟁은 ‘생명 발견’이 아니라 검출 기준의 문제",
+          "headingEn": "The Debate Is About Detection Standards",
+          "textKo": "후대 화성 탐사선들은 유기물, 물, 과거 거주가능성에 대해 훨씬 더 복잡한 데이터를 얻었지만 Viking이 1976년에 현재 생명을 확정했다는 합의는 없다. 이 사건은 하나의 양성 신호보다 서로 다른 실험들의 일관성이 생명탐지에서 얼마나 중요한지를 보여준다.",
+          "textEn": "Later Mars missions have produced far richer information about organics, water, and ancient habitability, but there is no consensus that Viking confirmed extant life in 1976. The case illustrates why life detection depends on converging evidence rather than one positive-looking experiment."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "바이킹 착륙선 생명탐지 실험를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 NASA Science · NASA의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating The Viking Life-Detection Experiments requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 화성 토양은 영양분을 넣자 기체 반응을 보였지만 유기분자는 검출되지 않았다. 1976년의 모순된 결과는 지금도 ‘생명 신호였나’라는 논쟁의 원점이다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—Martian soil produced reactive signals when nutrients were added, yet organic molecules were not detected; the mixed 1976 results still frame the debate over what Viking actually found.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Viking 착륙선은 화성 토양에서 예상 밖의 화학반응을 측정했지만 유기분자를 검출하지 못했고 NASA는 이 결과가 살아 있는 미생물의 명확한 증거를 제공하지 않았다고 정리한다.\n\n확인되지 않음: Viking이 1976년에 화성 생명을 확정적으로 발견했다는 주장은 현재 과학적 합의가 아니다.",
+          "textEn": "Established: Viking measured unexpected chemical activity in Martian soil, while its organic-molecule search was negative at the landing sites; NASA states that the biology experiments provided no clear evidence for living microorganisms.\n\nNot established: the claim that Viking conclusively discovered living Martian organisms in 1976 is not the scientific consensus."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Viking 착륙선은 화성 토양에서 예상 밖의 화학반응을 측정했지만 유기분자를 검출하지 못했고 NASA는 이 결과가 살아 있는 미생물의 명확한 증거를 제공하지 않았다고 정리한다.",
+        "notEstablished": "확인되지 않음: Viking이 1976년에 화성 생명을 확정적으로 발견했다는 주장은 현재 과학적 합의가 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "The Viking Life-Detection Experiments",
+      "hook": "Martian soil produced reactive signals when nutrients were added, yet organic molecules were not detected; the mixed 1976 results still frame the debate over what Viking actually found.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "처음으로 화성 흙에 생명검사를 하다",
+          "headingEn": "The First Direct Life Tests in Martian Soil",
+          "textKo": "1976년 Viking 1과 Viking 2 착륙선은 화성 표면에 내려 토양을 직접 채취했다. 각 착륙선에는 생명활동의 흔적을 찾기 위한 생물학 실험과 유기분자를 찾는 분석장비가 실려 있었다. 목표는 단순히 사진을 찍는 것이 아니라 토양이 대사와 비슷한 반응을 보이는지 시험하는 것이었다.",
+          "textEn": "In 1976, Viking 1 and Viking 2 landed on Mars and collected soil for direct biological testing. The landers carried experiments intended to detect metabolic-like activity as well as instrumentation designed to search for organic compounds."
+        },
+        {
+          "blockId": "02",
+          "type": "EXPERIMENTS",
+          "headingKo": "세 가지 생물실험",
+          "headingEn": "Three Biological Approaches",
+          "textKo": "생물 패키지는 가스 교환, Labeled Release, Pyrolytic Release 등 서로 다른 방식으로 토양 반응을 봤다. Labeled Release는 방사성 탄소가 붙은 영양분을 흙에 넣고 방사성 기체가 나오는지를 측정했다. 생물이 영양분을 대사한다면 기체 신호가 생길 수 있다는 설계였다.",
+          "textEn": "The biology package used gas exchange, labeled release, and pyrolytic release experiments. The labeled release test added nutrients tagged with radioactive carbon to soil and monitored the atmosphere for radioactive gas, a signal that could be produced if organisms metabolized the nutrients."
+        },
+        {
+          "blockId": "03",
+          "type": "SIGNAL",
+          "headingKo": "예상보다 강한 화학 반응",
+          "headingEn": "A Strong Chemical Response",
+          "textKo": "일부 실험에서는 실제로 빠른 기체 방출과 같은 반응이 나타났다. 특히 Labeled Release 결과는 생물학적 대사처럼 보일 여지가 있어 큰 관심을 받았다. 그러나 ‘생명이라면 나올 수 있는 신호’와 ‘생명만이 만들 수 있는 신호’는 다르다.",
+          "textEn": "Some Viking tests produced rapid gas-release responses. The labeled release result in particular looked compatible with biological metabolism, which is why it remains central to the debate. But a signal that biology can produce is not necessarily a signal that only biology can produce."
+        },
+        {
+          "blockId": "04",
+          "type": "CONFLICT",
+          "headingKo": "GCMS는 유기분자를 찾지 못했다",
+          "headingEn": "The Organic-Molecule Search Was Negative",
+          "textKo": "동시에 가스크로마토그래프-질량분석기는 착륙지 토양에서 검출한계 이상의 유기분자를 찾지 못했다. NASA는 Viking의 세 생물실험이 예상 밖이고 수수께끼 같은 화학활동을 발견했지만, 살아 있는 미생물의 존재를 명확히 입증하지 못했다고 정리한다.",
+          "textEn": "At the same time, the gas chromatograph-mass spectrometer did not detect organic molecules above its limits at the landing sites. NASA summarizes the biology experiments as discovering unexpected and enigmatic chemical activity but no clear evidence for living microorganisms."
+        },
+        {
+          "blockId": "05",
+          "type": "INTERPRETATION",
+          "headingKo": "강한 산화성 토양이라는 설명",
+          "headingEn": "A Highly Reactive Soil",
+          "textKo": "Viking 관측은 화성 표면이 매우 산화적인 화학환경이라는 점을 보여줬다. 물과 영양용액이 닿았을 때 비생물학적 산화반응이 생명실험의 신호를 만들 수 있다는 해석이 주류가 됐다. 반면 Labeled Release를 생물학적으로 해석해야 한다는 소수 연구자들의 주장은 계속됐다.",
+          "textEn": "Viking showed that the Martian surface chemistry was strongly oxidizing. Non-biological reactions triggered by water and nutrients offered a way to explain signals that initially appeared metabolic. A minority of researchers has continued to argue for a biological interpretation of the labeled-release data."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "논쟁은 ‘생명 발견’이 아니라 검출 기준의 문제",
+          "headingEn": "The Debate Is About Detection Standards",
+          "textKo": "후대 화성 탐사선들은 유기물, 물, 과거 거주가능성에 대해 훨씬 더 복잡한 데이터를 얻었지만 Viking이 1976년에 현재 생명을 확정했다는 합의는 없다. 이 사건은 하나의 양성 신호보다 서로 다른 실험들의 일관성이 생명탐지에서 얼마나 중요한지를 보여준다.",
+          "textEn": "Later Mars missions have produced far richer information about organics, water, and ancient habitability, but there is no consensus that Viking confirmed extant life in 1976. The case illustrates why life detection depends on converging evidence rather than one positive-looking experiment."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "바이킹 착륙선 생명탐지 실험를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 NASA Science · NASA의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating The Viking Life-Detection Experiments requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 화성 토양은 영양분을 넣자 기체 반응을 보였지만 유기분자는 검출되지 않았다. 1976년의 모순된 결과는 지금도 ‘생명 신호였나’라는 논쟁의 원점이다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—Martian soil produced reactive signals when nutrients were added, yet organic molecules were not detected; the mixed 1976 results still frame the debate over what Viking actually found.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Viking 착륙선은 화성 토양에서 예상 밖의 화학반응을 측정했지만 유기분자를 검출하지 못했고 NASA는 이 결과가 살아 있는 미생물의 명확한 증거를 제공하지 않았다고 정리한다.\n\n확인되지 않음: Viking이 1976년에 화성 생명을 확정적으로 발견했다는 주장은 현재 과학적 합의가 아니다.",
+          "textEn": "Established: Viking measured unexpected chemical activity in Martian soil, while its organic-molecule search was negative at the landing sites; NASA states that the biology experiments provided no clear evidence for living microorganisms.\n\nNot established: the claim that Viking conclusively discovered living Martian organisms in 1976 is not the scientific consensus."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Viking measured unexpected chemical activity in Martian soil, while its organic-molecule search was negative at the landing sites; NASA states that the biology experiments provided no clear evidence for living microorganisms.",
+        "notEstablished": "Not established: the claim that Viking conclusively discovered living Martian organisms in 1976 is not the scientific consensus."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "VIKING_LIFE_DETECTION-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: Viking 착륙선은 화성 토양에서 예상 밖의 화학반응을 측정했지만 유기분자를 검출하지 못했고 NASA는 이 결과가 살아 있는 미생물의 명확한 증거를 제공하지 않았다고 정리한다.",
+      "statementEn": "Established: Viking measured unexpected chemical activity in Martian soil, while its organic-molecule search was negative at the landing sites; NASA states that the biology experiments provided no clear evidence for living microorganisms.",
+      "sourceRefs": [
+        "NASA_VIKING_SCI",
+        "NASA_VIKING_HIST"
+      ]
+    },
+    {
+      "claimId": "VIKING_LIFE_DETECTION-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: Viking이 1976년에 화성 생명을 확정적으로 발견했다는 주장은 현재 과학적 합의가 아니다.",
+      "statementEn": "Not established: the claim that Viking conclusively discovered living Martian organisms in 1976 is not the scientific consensus.",
+      "sourceRefs": [
+        "NASA_VIKING_SCI",
+        "NASA_VIKING_HIST"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_VIKING_SCI",
+      "title": "Viking Spacecraft and Science",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/viking/spacecraft-and-science/",
+      "sourceType": "SPACE_AGENCY"
+    },
+    {
+      "sourceId": "NASA_VIKING_HIST",
+      "title": "45 Years Ago: Viking 1 and 2 off to Mars",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/history/45-years-ago-viking-1-and-2-off-to-mars/",
+      "sourceType": "SPACE_AGENCY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "viking-life-detection-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "NASA_VIKING_SCI",
+        "NASA_VIKING_HIST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "viking-life-detection__viking-life-detection-v01__ko.png",
+          "sha256": "abab81565bb9c6e7e079fcfb72d389b40dd465a8a9644489a87df8c92e1b914d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "viking-life-detection__viking-life-detection-v01__ko.png"
+        },
+        "en": {
+          "file": "viking-life-detection__viking-life-detection-v01__en.png",
+          "sha256": "84fa655080c1f03a2be53000c9365aa42f37f7f46d8b883f3acd949591c9ee04",
+          "width": 1600,
+          "height": 900,
+          "fileName": "viking-life-detection__viking-life-detection-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "viking-life-detection-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "NASA_VIKING_SCI",
+        "NASA_VIKING_HIST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "viking-life-detection__viking-life-detection-v02__ko.png",
+          "sha256": "18dd7558e7449ee0994478a3b50975794a5767a38dab81820bfa981c4dd9ce88",
+          "width": 1600,
+          "height": 900,
+          "fileName": "viking-life-detection__viking-life-detection-v02__ko.png"
+        },
+        "en": {
+          "file": "viking-life-detection__viking-life-detection-v02__en.png",
+          "sha256": "e680b886621d462081e070791fd8a3d1095e074bd42f62004485d67e5805e3df",
+          "width": 1600,
+          "height": 900,
+          "fileName": "viking-life-detection__viking-life-detection-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "viking-life-detection-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "NASA_VIKING_SCI",
+        "NASA_VIKING_HIST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "viking-life-detection__viking-life-detection-v03__ko.png",
+          "sha256": "2ee278bfbc94b9e5710c27ff85ca4011d6f97db46b3cc8cfe24ec8a986607dd7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "viking-life-detection__viking-life-detection-v03__ko.png"
+        },
+        "en": {
+          "file": "viking-life-detection__viking-life-detection-v03__en.png",
+          "sha256": "9d2f8fcad209f0150df0d07afa41fdce3af79ff021365d76347b1900b96bc686",
+          "width": 1600,
+          "height": 900,
+          "fileName": "viking-life-detection__viking-life-detection-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Mars / United States",
+    "era": "1976–1982",
+    "genre": "Space / Astronomy",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Space / Astronomy",
+    "resolution": "unknown",
+    "countries": [
+      "Mars / United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1631,
+    "enBodyWords": 466
+  }
+}

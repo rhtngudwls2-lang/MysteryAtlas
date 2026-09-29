@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "Batch40_New177_Final",
+  "sourcePack": "MediaBatch41_ExpansionLock03",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -559,6 +559,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "archaeoraptor-forgery-1999",
+      "title": {
+        "ko": "아르케오랍토르 합성 화석 판별",
+        "en": "The Archaeoraptor Forgery"
+      },
+      "headline": {
+        "ko": "아르케오랍토르 합성 화석 판별",
+        "en": "The Archaeoraptor Forgery"
+      },
+      "hook": {
+        "ko": "공룡과 새의 ‘잃어버린 고리’로 소개된 화석은 CT 촬영과 비교해부가 진행되자 여러 동물을 붙인 합성 표본으로 드러났다.",
+        "en": "A fossil promoted as a dinosaur-bird missing link turned out, under CT and comparative anatomy, to be a composite assembled from different animals."
+      },
+      "aliases": [],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [],
+      "countries": [
+        "China / United States"
+      ],
+      "regions": [],
+      "era": "1999–2002",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "archaeoraptor-forgery-1999-v01",
+      "heroFile": {
+        "ko": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v01__ko.png",
+        "en": "archaeoraptor-forgery-1999__archaeoraptor-forgery-1999-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -5390,6 +5448,64 @@
       }
     },
     {
+      "canonicalId": "herculaneum-scroll-unrolling",
+      "title": {
+        "ko": "헤르쿨라네움 탄화 두루마리 가상 펼침",
+        "en": "Virtually Unrolling the Herculaneum Scrolls"
+      },
+      "headline": {
+        "ko": "헤르쿨라네움 탄화 두루마리 가상 펼침",
+        "en": "Virtually Unrolling the Herculaneum Scrolls"
+      },
+      "hook": {
+        "ko": "베수비오 화산에 타버려 손대면 부서지는 두루마리는 X선 단층촬영과 머신러닝으로 실제로 펼치지 않고 내부 글자를 읽기 시작했다.",
+        "en": "Scrolls carbonized by Vesuvius became readable without physical opening through X-ray tomography, virtual unwrapping, and machine learning."
+      },
+      "aliases": [],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [],
+      "countries": [
+        "Italy / United Kingdom / United States"
+      ],
+      "regions": [],
+      "era": "79 CE–2025",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "herculaneum-scroll-unrolling-v01",
+      "heroFile": {
+        "ko": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v01__ko.png",
+        "en": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "hessdalen-lights",
       "title": {
         "ko": "헤스달렌 라이트",
@@ -5635,6 +5751,64 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "homo-floresiensis-discovery",
+      "title": {
+        "ko": "플로레스 작은 인류 화석 논쟁",
+        "en": "The Homo floresiensis Discovery"
+      },
+      "headline": {
+        "ko": "플로레스 작은 인류 화석 논쟁",
+        "en": "The Homo floresiensis Discovery"
+      },
+      "hook": {
+        "ko": "아이의 두개골처럼 작았던 화석은 성인으로 판명됐고, 결국 현대인의 질병 사례가 아니라 별도의 고인류 종으로 받아들여졌다.",
+        "en": "A skull first thought child-sized belonged to an adult, helping reveal a distinct small-bodied human species on Flores."
+      },
+      "aliases": [],
+      "genre": "Ancient History / Archaeology",
+      "genres": [],
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [],
+      "era": "2003–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "homo-floresiensis-discovery-v01",
+      "heroFile": {
+        "ko": "homo-floresiensis-discovery__homo-floresiensis-discovery-v01__ko.png",
+        "en": "homo-floresiensis-discovery__homo-floresiensis-discovery-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -6829,6 +7003,64 @@
       }
     },
     {
+      "canonicalId": "linear-b-decipherment",
+      "title": {
+        "ko": "리니어 B 해독의 결정적 단서",
+        "en": "How Linear B Was Deciphered"
+      },
+      "headline": {
+        "ko": "리니어 B 해독의 결정적 단서",
+        "en": "How Linear B Was Deciphered"
+      },
+      "hook": {
+        "ko": "수십 년간 읽히지 않던 점토판 문자는 1952년 건축가 Michael Ventris가 음가와 지명 패턴을 결합하면서 고대 그리스어로 풀리기 시작했다.",
+        "en": "A script unread for decades yielded in 1952 when Michael Ventris combined sign patterns, place names, and phonetic values to reveal an early form of Greek."
+      },
+      "aliases": [],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [],
+      "countries": [
+        "Greece / Crete"
+      ],
+      "regions": [],
+      "era": "1952–1953",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "linear-b-decipherment-v01",
+      "heroFile": {
+        "ko": "linear-b-decipherment__linear-b-decipherment-v01__ko.png",
+        "en": "linear-b-decipherment__linear-b-decipherment-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "little-red-dots",
       "title": {
         "ko": "JWST 리틀 레드 닷",
@@ -7266,6 +7498,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mars-face-cydonia",
+      "title": {
+        "ko": "화성 얼굴 사진의 재촬영",
+        "en": "The Face on Mars Reimaged"
+      },
+      "headline": {
+        "ko": "화성 얼굴 사진의 재촬영",
+        "en": "The Face on Mars Reimaged"
+      },
+      "hook": {
+        "ko": "바이킹의 한 장면에서 사람 얼굴처럼 보였던 언덕은 더 높은 해상도로 다시 찍자 전혀 다른 모습이 됐다.",
+        "en": "A hill that looked face-like in a Viking image changed character when later cameras saw it at much higher resolution."
+      },
+      "aliases": [],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [],
+      "countries": [
+        "Mars"
+      ],
+      "regions": [],
+      "era": "1976–2001",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "mars-face-cydonia-v01",
+      "heroFile": {
+        "ko": "mars-face-cydonia__mars-face-cydonia-v01__ko.png",
+        "en": "mars-face-cydonia__mars-face-cydonia-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -11506,6 +11796,64 @@
       }
     },
     {
+      "canonicalId": "proto-elamite-tablets",
+      "title": {
+        "ko": "원엘람 점토판의 미해독 기호",
+        "en": "The Undeciphered Proto-Elamite Tablets"
+      },
+      "headline": {
+        "ko": "원엘람 점토판의 미해독 기호",
+        "en": "The Undeciphered Proto-Elamite Tablets"
+      },
+      "hook": {
+        "ko": "1700점이 넘는 행정 점토판이 남아 있고 숫자 체계와 거래 구조도 일부 읽히지만, 기호 뒤의 언어는 아직 풀리지 않았다.",
+        "en": "More than 1,700 administrative tablets survive and parts of their numerical logic are understood, yet the language behind the signs remains undeciphered."
+      },
+      "aliases": [],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [],
+      "countries": [
+        "Iran"
+      ],
+      "regions": [],
+      "era": "ca. 3100–2900 BCE",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "proto-elamite-tablets-v01",
+      "heroFile": {
+        "ko": "proto-elamite-tablets__proto-elamite-tablets-v01__ko.png",
+        "en": "proto-elamite-tablets__proto-elamite-tablets-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "qin-mausoleum-unopened",
       "title": {
         "ko": "진시황릉의 미개봉 중심묘",
@@ -13507,6 +13855,64 @@
       }
     },
     {
+      "canonicalId": "sutton-hoo-1939",
+      "title": {
+        "ko": "서턴 후 선박 매장의 주인은 누구인가",
+        "en": "Who Was Buried at Sutton Hoo?"
+      },
+      "headline": {
+        "ko": "서턴 후 선박 매장의 주인은 누구인가",
+        "en": "Who Was Buried at Sutton Hoo?"
+      },
+      "hook": {
+        "ko": "왕의 장례처럼 보이는 27m 선박과 보물은 남았지만 산성 토양이 시신을 지워버려, 무덤 주인의 이름은 아직 확정되지 않았다.",
+        "en": "A 27-metre ship and royal-scale treasures survive, but acidic soil erased the body and left the occupant’s name uncertain."
+      },
+      "aliases": [],
+      "genre": "Ancient History / Archaeology",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [],
+      "era": "7th century / 1939 excavation",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "sutton-hoo-1939-v01",
+      "heroFile": {
+        "ko": "sutton-hoo-1939__sutton-hoo-1939-v01__ko.png",
+        "en": "sutton-hoo-1939__sutton-hoo-1939-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "tabbys-star",
       "title": {
         "ko": "태비의 별",
@@ -14267,6 +14673,64 @@
       }
     },
     {
+      "canonicalId": "twa800-fuel-tank",
+      "title": {
+        "ko": "TWA 800편 연료탱크 조사",
+        "en": "TWA Flight 800 Fuel-Tank Investigation"
+      },
+      "headline": {
+        "ko": "TWA 800편 연료탱크 조사",
+        "en": "TWA Flight 800 Fuel-Tank Investigation"
+      },
+      "hook": {
+        "ko": "공중폭발 직후 폭탄·미사일설이 퍼졌지만, 4년에 걸친 잔해 복원과 시험은 중앙날개 연료탱크 폭발을 사고 원인으로 좁혔다.",
+        "en": "Bomb and missile theories followed the mid-air breakup, but a four-year wreckage reconstruction and test program narrowed the cause to a center-wing fuel-tank explosion."
+      },
+      "aliases": [],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1996–2000",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "twa800-fuel-tank-v01",
+      "heroFile": {
+        "ko": "twa800-fuel-tank__twa800-fuel-tank-v01__ko.png",
+        "en": "twa800-fuel-tank__twa800-fuel-tank-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "uss-conestoga",
       "title": {
         "ko": "USS Conestoga 실종과 발견",
@@ -14710,6 +15174,64 @@
       }
     },
     {
+      "canonicalId": "viking-life-detection",
+      "title": {
+        "ko": "바이킹 착륙선 생명탐지 실험",
+        "en": "The Viking Life-Detection Experiments"
+      },
+      "headline": {
+        "ko": "바이킹 착륙선 생명탐지 실험",
+        "en": "The Viking Life-Detection Experiments"
+      },
+      "hook": {
+        "ko": "화성 토양은 영양분을 넣자 기체 반응을 보였지만 유기분자는 검출되지 않았다. 1976년의 모순된 결과는 지금도 ‘생명 신호였나’라는 논쟁의 원점이다.",
+        "en": "Martian soil produced reactive signals when nutrients were added, yet organic molecules were not detected; the mixed 1976 results still frame the debate over what Viking actually found."
+      },
+      "aliases": [],
+      "genre": "Space / Astronomy",
+      "genres": [],
+      "countries": [
+        "Mars / United States"
+      ],
+      "regions": [],
+      "era": "1976–1982",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "viking-life-detection-v01",
+      "heroFile": {
+        "ko": "viking-life-detection__viking-life-detection-v01__ko.png",
+        "en": "viking-life-detection__viking-life-detection-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "viking-sunstone",
       "title": {
         "ko": "바이킹의 태양석",
@@ -14841,6 +15363,64 @@
       "publication": {
         "tier": "COMPACT_FILE",
         "editorialFamily": "EXPLAINED_ARTIFACT",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "voyager1-telemetry-2024",
+      "title": {
+        "ko": "보이저 1호의 읽을 수 없던 신호",
+        "en": "Voyager 1’s Unreadable Telemetry"
+      },
+      "headline": {
+        "ko": "보이저 1호의 읽을 수 없던 신호",
+        "en": "Voyager 1’s Unreadable Telemetry"
+      },
+      "hook": {
+        "ko": "탐사선은 명령을 받고 있었지만 5개월 동안 읽을 수 없는 데이터만 보내왔다. 원인은 ‘미지의 신호’가 아니라 수십 년 된 컴퓨터 메모리의 고장이었다.",
+        "en": "The probe was still receiving commands but sent unreadable data for months; the cause was not a mysterious signal but failed memory in a decades-old flight computer."
+      },
+      "aliases": [],
+      "genre": "Technology / Lost Invention",
+      "genres": [],
+      "countries": [
+        "Deep Space / United States"
+      ],
+      "regions": [],
+      "era": "2023–2024",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "voyager1-telemetry-2024-v01",
+      "heroFile": {
+        "ko": "voyager1-telemetry-2024__voyager1-telemetry-2024-v01__ko.png",
+        "en": "voyager1-telemetry-2024__voyager1-telemetry-2024-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·검증의 시간 흐름",
+        "en": "Timeline of the key event, observation, and verification"
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,

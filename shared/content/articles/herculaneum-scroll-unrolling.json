@@ -1,0 +1,389 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "herculaneum-scroll-unrolling",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "헤르쿨라네움 탄화 두루마리 가상 펼침",
+    "canonicalTitleEn": "Virtually Unrolling the Herculaneum Scrolls",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "헤르쿨라네움 탄화 두루마리 가상 펼침",
+      "hook": "베수비오 화산에 타버려 손대면 부서지는 두루마리는 X선 단층촬영과 머신러닝으로 실제로 펼치지 않고 내부 글자를 읽기 시작했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "보존됐지만 열 수 없는 도서관",
+          "headingEn": "A Library Preserved but Impossible to Open",
+          "textKo": "79년 베수비오 화산 분출은 Herculaneum의 파피루스 두루마리를 탄화시켰다. 18세기에 발견된 Villa of the Papyri 컬렉션은 고대에서 살아남은 유일한 대규모 도서관으로 평가되지만, 많은 두루마리는 너무 부서지기 쉬워 물리적으로 펼치는 순간 문자까지 파괴될 수 있었다.",
+          "textEn": "The eruption of Vesuvius in 79 CE carbonized papyrus scrolls at Herculaneum. The Villa of the Papyri collection, discovered in the eighteenth century, preserves an extraordinary ancient library, but many rolls are so fragile that physically opening them risks destroying the writing they contain."
+        },
+        {
+          "blockId": "02",
+          "type": "METHOD",
+          "headingKo": "가상 펼침이라는 우회로",
+          "headingEn": "Virtual Unwrapping",
+          "textKo": "University of Kentucky의 Brent Seales 연구팀은 X선 단층촬영으로 말린 두루마리 내부의 3차원 표면을 얻고, 소프트웨어로 층을 추적해 디지털 평면으로 펴는 ‘virtual unwrapping’을 개발해왔다. 핵심은 물체를 자르거나 펼치지 않고도 내부 표면 위치를 계산하는 것이다.",
+          "textEn": "Brent Seales and the University of Kentucky team developed methods that use X-ray tomography to map internal surfaces and software to trace and flatten those layers digitally. The point is to recover the geometry of a page without cutting or mechanically unrolling the object."
+        },
+        {
+          "blockId": "03",
+          "type": "INK",
+          "headingKo": "탄소 잉크를 찾는 마지막 난관",
+          "headingEn": "Finding Carbon Ink on Carbonized Papyrus",
+          "textKo": "파피루스도 탄소화됐고 잉크도 탄소 기반이라 일반 CT에서 두 재료의 대비가 매우 작다. 연구팀과 Vesuvius Challenge 참가자들은 미세한 표면 질감과 X선 신호에서 잉크 패턴을 구별하는 머신러닝 방법을 발전시켰다. AI가 문장을 새로 쓰는 것이 아니라, 스캔에 존재하는 잉크 흔적을 검출하는 과정이다.",
+          "textEn": "A major difficulty is that both the papyrus and much of the ink are carbon-based, producing little ordinary CT contrast. Researchers and Vesuvius Challenge participants developed machine-learning methods that detect subtle texture and signal patterns associated with ink. The AI is locating evidence in the scan, not inventing new ancient prose."
+        },
+        {
+          "blockId": "04",
+          "type": "BREAKTHROUGH",
+          "headingKo": "2024년 처음 드러난 긴 문장",
+          "headingEn": "Long Passages Emerge in 2024",
+          "textKo": "2024년 Nature는 대회 우승팀이 아직 말려 있는 두루마리 내부에서 15개 열에 걸친 그리스어 텍스트를 읽어냈다고 보도했다. 내용은 음악·감각·쾌락을 논하는 철학 텍스트로 분석됐다. 이것은 단순한 한 글자 검출에서 실제 연속 본문 읽기로 넘어간 전환점이었다.",
+          "textEn": "Nature reported in 2024 that the winning team revealed Greek text spanning about fifteen columns inside a still-rolled scroll. The passage discussed music, sensation, and pleasure, moving the project from isolated character detection to continuous readable text."
+        },
+        {
+          "blockId": "05",
+          "type": "SCALEUP",
+          "headingKo": "2025년 더 많은 두루마리 스캔",
+          "headingEn": "More Scrolls Enter the Pipeline in 2025",
+          "textKo": "2025년에는 나폴리 국립도서관의 두루마리 18개가 영국 Diamond Light Source로 옮겨져 고해상도 X선 촬영을 받았다. 목표는 기술을 한 개의 시범 두루마리에서 더 큰 컬렉션으로 확장하는 것이다. 그러나 스캔했다고 즉시 모든 글이 읽히는 것은 아니다.",
+          "textEn": "In 2025, eighteen scrolls from the National Library in Naples were taken to the Diamond Light Source near Oxford for high-resolution scanning. The aim is to scale the method beyond a single demonstration object, though scanning alone does not mean every scroll is immediately readable."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "읽힌 부분과 아직 잠긴 부분",
+          "headingEn": "What Is Still Locked",
+          "textKo": "가상 펼침은 ‘고대 문헌이 완전히 해독됐다’는 사건이 아니다. 두루마리별 변형·층 분리·잉크 대비가 달라 처리 난도가 크고, 읽힌 텍스트도 문헌학적 판독과 검증이 필요하다. 성과는 분명하지만 전체 컬렉션의 상당 부분은 여전히 잠겨 있다.",
+          "textEn": "Virtual unwrapping has not solved the entire library. Scrolls vary in deformation, layering, and ink visibility, and recovered text still requires philological checking. The breakthrough is real, while most of the corpus remains a continuing technical and scholarly challenge."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "헤르쿨라네움 탄화 두루마리 가상 펼침를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 Nature · University of Kentucky의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating Virtually Unrolling the Herculaneum Scrolls requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 베수비오 화산에 타버려 손대면 부서지는 두루마리는 X선 단층촬영과 머신러닝으로 실제로 펼치지 않고 내부 글자를 읽기 시작했다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—Scrolls carbonized by Vesuvius became readable without physical opening through X-ray tomography, virtual unwrapping, and machine learning.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: X선 단층촬영·가상 펼침·머신러닝으로 물리적으로 열지 않은 Herculaneum 두루마리 내부에서 실제 그리스어 본문이 읽혔다.\n\n확인되지 않음: Herculaneum 컬렉션 전체가 이미 읽혔거나 AI가 모든 두루마리의 내용을 자동·확정적으로 복원할 수 있다는 주장은 사실이 아니다.",
+          "textEn": "Established: X-ray tomography, virtual unwrapping, and machine-learning ink detection have recovered genuine Greek text from unopened Herculaneum scroll material.\n\nNot established: the whole collection has not been read, and AI cannot automatically or definitively reconstruct the contents of every scroll."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: X선 단층촬영·가상 펼침·머신러닝으로 물리적으로 열지 않은 Herculaneum 두루마리 내부에서 실제 그리스어 본문이 읽혔다.",
+        "notEstablished": "확인되지 않음: Herculaneum 컬렉션 전체가 이미 읽혔거나 AI가 모든 두루마리의 내용을 자동·확정적으로 복원할 수 있다는 주장은 사실이 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "Virtually Unrolling the Herculaneum Scrolls",
+      "hook": "Scrolls carbonized by Vesuvius became readable without physical opening through X-ray tomography, virtual unwrapping, and machine learning.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "보존됐지만 열 수 없는 도서관",
+          "headingEn": "A Library Preserved but Impossible to Open",
+          "textKo": "79년 베수비오 화산 분출은 Herculaneum의 파피루스 두루마리를 탄화시켰다. 18세기에 발견된 Villa of the Papyri 컬렉션은 고대에서 살아남은 유일한 대규모 도서관으로 평가되지만, 많은 두루마리는 너무 부서지기 쉬워 물리적으로 펼치는 순간 문자까지 파괴될 수 있었다.",
+          "textEn": "The eruption of Vesuvius in 79 CE carbonized papyrus scrolls at Herculaneum. The Villa of the Papyri collection, discovered in the eighteenth century, preserves an extraordinary ancient library, but many rolls are so fragile that physically opening them risks destroying the writing they contain."
+        },
+        {
+          "blockId": "02",
+          "type": "METHOD",
+          "headingKo": "가상 펼침이라는 우회로",
+          "headingEn": "Virtual Unwrapping",
+          "textKo": "University of Kentucky의 Brent Seales 연구팀은 X선 단층촬영으로 말린 두루마리 내부의 3차원 표면을 얻고, 소프트웨어로 층을 추적해 디지털 평면으로 펴는 ‘virtual unwrapping’을 개발해왔다. 핵심은 물체를 자르거나 펼치지 않고도 내부 표면 위치를 계산하는 것이다.",
+          "textEn": "Brent Seales and the University of Kentucky team developed methods that use X-ray tomography to map internal surfaces and software to trace and flatten those layers digitally. The point is to recover the geometry of a page without cutting or mechanically unrolling the object."
+        },
+        {
+          "blockId": "03",
+          "type": "INK",
+          "headingKo": "탄소 잉크를 찾는 마지막 난관",
+          "headingEn": "Finding Carbon Ink on Carbonized Papyrus",
+          "textKo": "파피루스도 탄소화됐고 잉크도 탄소 기반이라 일반 CT에서 두 재료의 대비가 매우 작다. 연구팀과 Vesuvius Challenge 참가자들은 미세한 표면 질감과 X선 신호에서 잉크 패턴을 구별하는 머신러닝 방법을 발전시켰다. AI가 문장을 새로 쓰는 것이 아니라, 스캔에 존재하는 잉크 흔적을 검출하는 과정이다.",
+          "textEn": "A major difficulty is that both the papyrus and much of the ink are carbon-based, producing little ordinary CT contrast. Researchers and Vesuvius Challenge participants developed machine-learning methods that detect subtle texture and signal patterns associated with ink. The AI is locating evidence in the scan, not inventing new ancient prose."
+        },
+        {
+          "blockId": "04",
+          "type": "BREAKTHROUGH",
+          "headingKo": "2024년 처음 드러난 긴 문장",
+          "headingEn": "Long Passages Emerge in 2024",
+          "textKo": "2024년 Nature는 대회 우승팀이 아직 말려 있는 두루마리 내부에서 15개 열에 걸친 그리스어 텍스트를 읽어냈다고 보도했다. 내용은 음악·감각·쾌락을 논하는 철학 텍스트로 분석됐다. 이것은 단순한 한 글자 검출에서 실제 연속 본문 읽기로 넘어간 전환점이었다.",
+          "textEn": "Nature reported in 2024 that the winning team revealed Greek text spanning about fifteen columns inside a still-rolled scroll. The passage discussed music, sensation, and pleasure, moving the project from isolated character detection to continuous readable text."
+        },
+        {
+          "blockId": "05",
+          "type": "SCALEUP",
+          "headingKo": "2025년 더 많은 두루마리 스캔",
+          "headingEn": "More Scrolls Enter the Pipeline in 2025",
+          "textKo": "2025년에는 나폴리 국립도서관의 두루마리 18개가 영국 Diamond Light Source로 옮겨져 고해상도 X선 촬영을 받았다. 목표는 기술을 한 개의 시범 두루마리에서 더 큰 컬렉션으로 확장하는 것이다. 그러나 스캔했다고 즉시 모든 글이 읽히는 것은 아니다.",
+          "textEn": "In 2025, eighteen scrolls from the National Library in Naples were taken to the Diamond Light Source near Oxford for high-resolution scanning. The aim is to scale the method beyond a single demonstration object, though scanning alone does not mean every scroll is immediately readable."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "읽힌 부분과 아직 잠긴 부분",
+          "headingEn": "What Is Still Locked",
+          "textKo": "가상 펼침은 ‘고대 문헌이 완전히 해독됐다’는 사건이 아니다. 두루마리별 변형·층 분리·잉크 대비가 달라 처리 난도가 크고, 읽힌 텍스트도 문헌학적 판독과 검증이 필요하다. 성과는 분명하지만 전체 컬렉션의 상당 부분은 여전히 잠겨 있다.",
+          "textEn": "Virtual unwrapping has not solved the entire library. Scrolls vary in deformation, layering, and ink visibility, and recovered text still requires philological checking. The breakthrough is real, while most of the corpus remains a continuing technical and scholarly challenge."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "헤르쿨라네움 탄화 두루마리 가상 펼침를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 Nature · University of Kentucky의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating Virtually Unrolling the Herculaneum Scrolls requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 베수비오 화산에 타버려 손대면 부서지는 두루마리는 X선 단층촬영과 머신러닝으로 실제로 펼치지 않고 내부 글자를 읽기 시작했다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—Scrolls carbonized by Vesuvius became readable without physical opening through X-ray tomography, virtual unwrapping, and machine learning.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: X선 단층촬영·가상 펼침·머신러닝으로 물리적으로 열지 않은 Herculaneum 두루마리 내부에서 실제 그리스어 본문이 읽혔다.\n\n확인되지 않음: Herculaneum 컬렉션 전체가 이미 읽혔거나 AI가 모든 두루마리의 내용을 자동·확정적으로 복원할 수 있다는 주장은 사실이 아니다.",
+          "textEn": "Established: X-ray tomography, virtual unwrapping, and machine-learning ink detection have recovered genuine Greek text from unopened Herculaneum scroll material.\n\nNot established: the whole collection has not been read, and AI cannot automatically or definitively reconstruct the contents of every scroll."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: X-ray tomography, virtual unwrapping, and machine-learning ink detection have recovered genuine Greek text from unopened Herculaneum scroll material.",
+        "notEstablished": "Not established: the whole collection has not been read, and AI cannot automatically or definitively reconstruct the contents of every scroll."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HERCULANEUM_SCROLL_UNROLLING-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: X선 단층촬영·가상 펼침·머신러닝으로 물리적으로 열지 않은 Herculaneum 두루마리 내부에서 실제 그리스어 본문이 읽혔다.",
+      "statementEn": "Established: X-ray tomography, virtual unwrapping, and machine-learning ink detection have recovered genuine Greek text from unopened Herculaneum scroll material.",
+      "sourceRefs": [
+        "NATURE_HERC_2024",
+        "UKY_HERC",
+        "NATURE_HERC_2025"
+      ]
+    },
+    {
+      "claimId": "HERCULANEUM_SCROLL_UNROLLING-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: Herculaneum 컬렉션 전체가 이미 읽혔거나 AI가 모든 두루마리의 내용을 자동·확정적으로 복원할 수 있다는 주장은 사실이 아니다.",
+      "statementEn": "Not established: the whole collection has not been read, and AI cannot automatically or definitively reconstruct the contents of every scroll.",
+      "sourceRefs": [
+        "NATURE_HERC_2024",
+        "UKY_HERC",
+        "NATURE_HERC_2025"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NATURE_HERC_2024",
+      "title": "First passages of rolled-up Herculaneum scroll revealed",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/d41586-024-00346-8",
+      "sourceType": "SCIENCE_NEWS"
+    },
+    {
+      "sourceId": "UKY_HERC",
+      "title": "Herculaneum Scrolls: A 20-Year Journey to Read the Unreadable",
+      "publisher": "University of Kentucky",
+      "url": "https://hmbl.engr.uky.edu/herculaneum",
+      "sourceType": "UNIVERSITY_RESEARCH"
+    },
+    {
+      "sourceId": "NATURE_HERC_2025",
+      "title": "Inside the quest to digitally unroll ancient scrolls burnt by Vesuvius",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/d41586-025-01087-y",
+      "sourceType": "SCIENCE_NEWS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "herculaneum-scroll-unrolling-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "NATURE_HERC_2024",
+        "UKY_HERC",
+        "NATURE_HERC_2025"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v01__ko.png",
+          "sha256": "62a07c2418a855f37457bccd75995280ac338df1b3a50bfa93abcd1370b944a0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v01__ko.png"
+        },
+        "en": {
+          "file": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v01__en.png",
+          "sha256": "8c32ca84b78349b06e3f35def071b9ff45367102e10f7258790102227b93cdcf",
+          "width": 1600,
+          "height": 900,
+          "fileName": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "herculaneum-scroll-unrolling-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "NATURE_HERC_2024",
+        "UKY_HERC",
+        "NATURE_HERC_2025"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v02__ko.png",
+          "sha256": "ebb2214ebce90b9fcb0e0492318b82e22ad07f931d9956c9750ce558bc7a0b8e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v02__ko.png"
+        },
+        "en": {
+          "file": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v02__en.png",
+          "sha256": "3691a94b8bef3c58396e7b5c9c185369d79d9b24b0b57420981709e2b7e22ea8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "herculaneum-scroll-unrolling-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "NATURE_HERC_2024",
+        "UKY_HERC",
+        "NATURE_HERC_2025"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v03__ko.png",
+          "sha256": "da33a155c2855f8ff9f08afabe97a550400a71ba3fa785aeb65ff60acc1fe0ce",
+          "width": 1600,
+          "height": 900,
+          "fileName": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v03__ko.png"
+        },
+        "en": {
+          "file": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v03__en.png",
+          "sha256": "ac1caf1012fe19fc95e3bbb60951a996f81a48ceed8765cb9f009c8e4e69e7fe",
+          "width": 1600,
+          "height": 900,
+          "fileName": "herculaneum-scroll-unrolling__herculaneum-scroll-unrolling-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Italy / United Kingdom / United States",
+    "era": "79 CE–2025",
+    "genre": "Codes / Manuscripts / Undeciphered Texts",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "resolution": "unknown",
+    "countries": [
+      "Italy / United Kingdom / United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1660,
+    "enBodyWords": 461
+  }
+}

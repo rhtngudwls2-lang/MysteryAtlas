@@ -1,0 +1,361 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "proto-elamite-tablets",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "원엘람 점토판의 미해독 기호",
+    "canonicalTitleEn": "The Undeciphered Proto-Elamite Tablets",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "원엘람 점토판의 미해독 기호",
+      "hook": "1700점이 넘는 행정 점토판이 남아 있고 숫자 체계와 거래 구조도 일부 읽히지만, 기호 뒤의 언어는 아직 풀리지 않았다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "문명 초기의 세 번째 문자 실험",
+          "headingEn": "An Early Writing Experiment in Iran",
+          "textKo": "기원전 4천년기 말 메소포타미아와 이집트에서 문자 체계가 등장한 직후, 이란 남서부에서도 독자적인 기록 체계가 나타났다. 오늘날 Proto-Elamite라 부르는 이 문자는 대략 기원전 3100~2900년에 사용됐으며 Susa를 비롯한 여러 유적의 점토판에 남아 있다.",
+          "textEn": "Within about a century of the earliest writing systems in southern Iraq and Egypt, a distinct recording system appeared in southwestern Iran. The script now called Proto-Elamite was used roughly from 3100 to 2900 BCE and survives on clay tablets from Susa and other sites."
+        },
+        {
+          "blockId": "02",
+          "type": "CORPUS",
+          "headingKo": "표본은 적지 않다",
+          "headingEn": "The Corpus Is Large",
+          "textKo": "Cuneiform Digital Library Initiative 검색에는 Proto-Elamite로 분류된 점토판이 1700점 이상 등록돼 있다. 많은 문서는 곡물, 가축, 노동자, 배급, 토지 생산 같은 행정 활동을 기록한 것으로 보인다. 따라서 ‘자료가 너무 적어서 아무것도 모른다’는 설명은 정확하지 않다.",
+          "textEn": "The Cuneiform Digital Library Initiative lists more than 1,700 Proto-Elamite tablets. Many concern administration: grain, livestock, fields, rations, workers, and production. The problem is therefore not simply a lack of surviving material."
+        },
+        {
+          "blockId": "03",
+          "type": "KNOWN",
+          "headingKo": "숫자와 행정구조는 일부 읽힌다",
+          "headingEn": "Numbers and Accounting Can Be Partly Read",
+          "textKo": "연구자들은 반복되는 수체계, 품목별 계수법, 일부 문서 형식을 분석해 숫자와 회계 구조의 상당 부분을 이해했다. 특정 기호군이 사람·물품·기관 범주와 연결되는 패턴도 연구돼 왔다. 문제는 이 기호들이 어떤 음가나 실제 언어 단어를 나타냈는지를 연결할 이중언어 자료가 없다는 데 있다.",
+          "textEn": "Researchers have identified numerical systems, counting conventions, and recurring document structures. Sign patterns can often be connected to categories of goods, people, or institutions. What is missing is a secure bridge from those signs to phonetic values and the language they encoded."
+        },
+        {
+          "blockId": "04",
+          "type": "UNDECIPHERED",
+          "headingKo": "‘Elamite’라는 이름도 언어를 뜻하지 않는다",
+          "headingEn": "The Name Does Not Identify the Language",
+          "textKo": "Proto-Elamite라는 명칭은 관습적인 라벨이다. 2025년 연구는 이 이름이 특정 언어가 이미 확인됐다는 뜻이 아니며, 훨씬 뒤의 Linear Elamite와도 구별해야 한다고 강조한다. 기호를 읽는 것과 그 배후 언어를 아는 것은 다른 문제다.",
+          "textEn": "“Proto-Elamite” is a conventional label rather than proof that the underlying language is known to be Elamite. Recent scholarship also stresses that the corpus is distinct from the much later Linear Elamite writing system."
+        },
+        {
+          "blockId": "05",
+          "type": "NEW_METHODS",
+          "headingKo": "디지털 코퍼스와 계산언어학",
+          "headingEn": "Digital Corpora and Computational Linguistics",
+          "textKo": "최근에는 고해상도 디지털 기록과 표준화된 기호 데이터가 늘면서 계산언어학적 방법이 적용되고 있다. 기호의 공기관계, 반복 위치, 수량표현을 대규모로 비교하면 사람이 놓치기 쉬운 규칙을 찾을 수 있다. 2025년 논문은 이런 접근이 실제 진전을 만들고 있다고 평가한다.",
+          "textEn": "High-quality digital documentation and standardized sign data now allow computational methods to compare sign sequences, positions, and numerical structures at scale. A 2025 study reports meaningful progress from combining traditional epigraphy with computational linguistics."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "진전과 해독 완료 사이",
+          "headingEn": "Progress Is Not Full Decipherment",
+          "textKo": "행정 내용의 종류를 추정하고 숫자를 읽을 수 있다고 해서 전체 문장을 발음하거나 번역할 수 있는 것은 아니다. Proto-Elamite는 아직 ‘완전 미지’도 아니고 ‘거의 해독’도 아닌 중간상태다. 어떤 기호가 무엇을 세는지는 아는 경우가 있지만 그것을 어떤 말로 불렀는지는 모른다.",
+          "textEn": "Understanding what a document counts is not the same as being able to pronounce or translate its sentences. Proto-Elamite occupies a middle state: parts of the accounting system are intelligible, but the language and much of the sign vocabulary remain unknown."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "원엘람 점토판의 미해독 기호를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 Near Eastern Archaeology / University of Chicago Press · Cuneiform Digital Library Initiative의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating The Undeciphered Proto-Elamite Tablets requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Proto-Elamite는 대략 기원전 3100~2900년 이란의 실제 문자·회계 체계이며 1700점 이상의 점토판이 알려져 있다. 수체계와 행정구조 일부는 분석됐다.\n\n확인되지 않음: 기호가 기록한 언어와 대부분의 어휘·문법은 아직 해독되지 않았으며, Proto-Elamite를 후대 Linear Elamite와 동일한 문자로 볼 수 없다.",
+          "textEn": "Established: Proto-Elamite was a real writing/accounting system used in Iran around 3100–2900 BCE, with more than 1,700 known tablets and partially understood numerical and administrative structures.\n\nNot established: its underlying language and most of its vocabulary and grammar remain undeciphered, and it should not be conflated with later Linear Elamite."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Proto-Elamite는 대략 기원전 3100~2900년 이란의 실제 문자·회계 체계이며 1700점 이상의 점토판이 알려져 있다. 수체계와 행정구조 일부는 분석됐다.",
+        "notEstablished": "확인되지 않음: 기호가 기록한 언어와 대부분의 어휘·문법은 아직 해독되지 않았으며, Proto-Elamite를 후대 Linear Elamite와 동일한 문자로 볼 수 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "The Undeciphered Proto-Elamite Tablets",
+      "hook": "More than 1,700 administrative tablets survive and parts of their numerical logic are understood, yet the language behind the signs remains undeciphered.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "문명 초기의 세 번째 문자 실험",
+          "headingEn": "An Early Writing Experiment in Iran",
+          "textKo": "기원전 4천년기 말 메소포타미아와 이집트에서 문자 체계가 등장한 직후, 이란 남서부에서도 독자적인 기록 체계가 나타났다. 오늘날 Proto-Elamite라 부르는 이 문자는 대략 기원전 3100~2900년에 사용됐으며 Susa를 비롯한 여러 유적의 점토판에 남아 있다.",
+          "textEn": "Within about a century of the earliest writing systems in southern Iraq and Egypt, a distinct recording system appeared in southwestern Iran. The script now called Proto-Elamite was used roughly from 3100 to 2900 BCE and survives on clay tablets from Susa and other sites."
+        },
+        {
+          "blockId": "02",
+          "type": "CORPUS",
+          "headingKo": "표본은 적지 않다",
+          "headingEn": "The Corpus Is Large",
+          "textKo": "Cuneiform Digital Library Initiative 검색에는 Proto-Elamite로 분류된 점토판이 1700점 이상 등록돼 있다. 많은 문서는 곡물, 가축, 노동자, 배급, 토지 생산 같은 행정 활동을 기록한 것으로 보인다. 따라서 ‘자료가 너무 적어서 아무것도 모른다’는 설명은 정확하지 않다.",
+          "textEn": "The Cuneiform Digital Library Initiative lists more than 1,700 Proto-Elamite tablets. Many concern administration: grain, livestock, fields, rations, workers, and production. The problem is therefore not simply a lack of surviving material."
+        },
+        {
+          "blockId": "03",
+          "type": "KNOWN",
+          "headingKo": "숫자와 행정구조는 일부 읽힌다",
+          "headingEn": "Numbers and Accounting Can Be Partly Read",
+          "textKo": "연구자들은 반복되는 수체계, 품목별 계수법, 일부 문서 형식을 분석해 숫자와 회계 구조의 상당 부분을 이해했다. 특정 기호군이 사람·물품·기관 범주와 연결되는 패턴도 연구돼 왔다. 문제는 이 기호들이 어떤 음가나 실제 언어 단어를 나타냈는지를 연결할 이중언어 자료가 없다는 데 있다.",
+          "textEn": "Researchers have identified numerical systems, counting conventions, and recurring document structures. Sign patterns can often be connected to categories of goods, people, or institutions. What is missing is a secure bridge from those signs to phonetic values and the language they encoded."
+        },
+        {
+          "blockId": "04",
+          "type": "UNDECIPHERED",
+          "headingKo": "‘Elamite’라는 이름도 언어를 뜻하지 않는다",
+          "headingEn": "The Name Does Not Identify the Language",
+          "textKo": "Proto-Elamite라는 명칭은 관습적인 라벨이다. 2025년 연구는 이 이름이 특정 언어가 이미 확인됐다는 뜻이 아니며, 훨씬 뒤의 Linear Elamite와도 구별해야 한다고 강조한다. 기호를 읽는 것과 그 배후 언어를 아는 것은 다른 문제다.",
+          "textEn": "“Proto-Elamite” is a conventional label rather than proof that the underlying language is known to be Elamite. Recent scholarship also stresses that the corpus is distinct from the much later Linear Elamite writing system."
+        },
+        {
+          "blockId": "05",
+          "type": "NEW_METHODS",
+          "headingKo": "디지털 코퍼스와 계산언어학",
+          "headingEn": "Digital Corpora and Computational Linguistics",
+          "textKo": "최근에는 고해상도 디지털 기록과 표준화된 기호 데이터가 늘면서 계산언어학적 방법이 적용되고 있다. 기호의 공기관계, 반복 위치, 수량표현을 대규모로 비교하면 사람이 놓치기 쉬운 규칙을 찾을 수 있다. 2025년 논문은 이런 접근이 실제 진전을 만들고 있다고 평가한다.",
+          "textEn": "High-quality digital documentation and standardized sign data now allow computational methods to compare sign sequences, positions, and numerical structures at scale. A 2025 study reports meaningful progress from combining traditional epigraphy with computational linguistics."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "진전과 해독 완료 사이",
+          "headingEn": "Progress Is Not Full Decipherment",
+          "textKo": "행정 내용의 종류를 추정하고 숫자를 읽을 수 있다고 해서 전체 문장을 발음하거나 번역할 수 있는 것은 아니다. Proto-Elamite는 아직 ‘완전 미지’도 아니고 ‘거의 해독’도 아닌 중간상태다. 어떤 기호가 무엇을 세는지는 아는 경우가 있지만 그것을 어떤 말로 불렀는지는 모른다.",
+          "textEn": "Understanding what a document counts is not the same as being able to pronounce or translate its sentences. Proto-Elamite occupies a middle state: parts of the accounting system are intelligible, but the language and much of the sign vocabulary remain unknown."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "원엘람 점토판의 미해독 기호를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 Near Eastern Archaeology / University of Chicago Press · Cuneiform Digital Library Initiative의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating The Undeciphered Proto-Elamite Tablets requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Proto-Elamite는 대략 기원전 3100~2900년 이란의 실제 문자·회계 체계이며 1700점 이상의 점토판이 알려져 있다. 수체계와 행정구조 일부는 분석됐다.\n\n확인되지 않음: 기호가 기록한 언어와 대부분의 어휘·문법은 아직 해독되지 않았으며, Proto-Elamite를 후대 Linear Elamite와 동일한 문자로 볼 수 없다.",
+          "textEn": "Established: Proto-Elamite was a real writing/accounting system used in Iran around 3100–2900 BCE, with more than 1,700 known tablets and partially understood numerical and administrative structures.\n\nNot established: its underlying language and most of its vocabulary and grammar remain undeciphered, and it should not be conflated with later Linear Elamite."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Proto-Elamite was a real writing/accounting system used in Iran around 3100–2900 BCE, with more than 1,700 known tablets and partially understood numerical and administrative structures.",
+        "notEstablished": "Not established: its underlying language and most of its vocabulary and grammar remain undeciphered, and it should not be conflated with later Linear Elamite."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PROTO_ELAMITE_TABLETS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: Proto-Elamite는 대략 기원전 3100~2900년 이란의 실제 문자·회계 체계이며 1700점 이상의 점토판이 알려져 있다. 수체계와 행정구조 일부는 분석됐다.",
+      "statementEn": "Established: Proto-Elamite was a real writing/accounting system used in Iran around 3100–2900 BCE, with more than 1,700 known tablets and partially understood numerical and administrative structures.",
+      "sourceRefs": [
+        "UCHI_PROTO_2025",
+        "CDLI_PROTO"
+      ]
+    },
+    {
+      "claimId": "PROTO_ELAMITE_TABLETS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: 기호가 기록한 언어와 대부분의 어휘·문법은 아직 해독되지 않았으며, Proto-Elamite를 후대 Linear Elamite와 동일한 문자로 볼 수 없다.",
+      "statementEn": "Not established: its underlying language and most of its vocabulary and grammar remain undeciphered, and it should not be conflated with later Linear Elamite.",
+      "sourceRefs": [
+        "UCHI_PROTO_2025",
+        "CDLI_PROTO"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "UCHI_PROTO_2025",
+      "title": "Recent Progress in Deciphering Proto-Elamite",
+      "publisher": "Near Eastern Archaeology / University of Chicago Press",
+      "url": "https://www.journals.uchicago.edu/doi/full/10.1086/738240",
+      "sourceType": "PEER_REVIEWED"
+    },
+    {
+      "sourceId": "CDLI_PROTO",
+      "title": "Proto-Elamite Search Corpus",
+      "publisher": "Cuneiform Digital Library Initiative",
+      "url": "https://cdli.earth/search?period=proto-Elamite",
+      "sourceType": "ACADEMIC_CORPUS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "proto-elamite-tablets-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "UCHI_PROTO_2025",
+        "CDLI_PROTO"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "proto-elamite-tablets__proto-elamite-tablets-v01__ko.png",
+          "sha256": "560491d95b98060038d990e0924aac3eeb936f385be741b912200f72d6e71b7c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "proto-elamite-tablets__proto-elamite-tablets-v01__ko.png"
+        },
+        "en": {
+          "file": "proto-elamite-tablets__proto-elamite-tablets-v01__en.png",
+          "sha256": "caf8094b3da3993f9493edaf2eba77150bee7aff7c70996ab44b955bea63daf7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "proto-elamite-tablets__proto-elamite-tablets-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "proto-elamite-tablets-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "UCHI_PROTO_2025",
+        "CDLI_PROTO"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "proto-elamite-tablets__proto-elamite-tablets-v02__ko.png",
+          "sha256": "d3db95480b7a8592ff55d6d418bbfba226e213456f988eac5e02e96985ad91ca",
+          "width": 1600,
+          "height": 900,
+          "fileName": "proto-elamite-tablets__proto-elamite-tablets-v02__ko.png"
+        },
+        "en": {
+          "file": "proto-elamite-tablets__proto-elamite-tablets-v02__en.png",
+          "sha256": "a9423012f94040fa77cb1c751cf973f5fd1569d80ed60b5d0c1bfd010cd421bb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "proto-elamite-tablets__proto-elamite-tablets-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "proto-elamite-tablets-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "UCHI_PROTO_2025",
+        "CDLI_PROTO"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "proto-elamite-tablets__proto-elamite-tablets-v03__ko.png",
+          "sha256": "78906d47eb034468fea59a4b2011528314ce8bacb83990b50506ee54f86c49dc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "proto-elamite-tablets__proto-elamite-tablets-v03__ko.png"
+        },
+        "en": {
+          "file": "proto-elamite-tablets__proto-elamite-tablets-v03__en.png",
+          "sha256": "f019679c9ba13cfd854272d18adb0972ef5e98aadb0616e3dbcc5b94fdf8893b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "proto-elamite-tablets__proto-elamite-tablets-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Iran",
+    "era": "ca. 3100–2900 BCE",
+    "genre": "Codes / Manuscripts / Undeciphered Texts",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "resolution": "unknown",
+    "countries": [
+      "Iran"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1505,
+    "enBodyWords": 370
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "twa800-fuel-tank",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "TWA 800편 연료탱크 조사",
+    "canonicalTitleEn": "TWA Flight 800 Fuel-Tank Investigation",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "TWA 800편 연료탱크 조사",
+      "hook": "공중폭발 직후 폭탄·미사일설이 퍼졌지만, 4년에 걸친 잔해 복원과 시험은 중앙날개 연료탱크 폭발을 사고 원인으로 좁혔다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "이륙 12분 뒤의 공중폭발",
+          "headingEn": "A Mid-Air Breakup Minutes After Takeoff",
+          "textKo": "1996년 7월 17일 뉴욕 JFK 공항을 출발한 TWA 800편 보잉 747은 롱아일랜드 인근 상공에서 폭발·분해돼 탑승자 230명 전원이 사망했다. 대형 항공기가 공중에서 산산이 부서졌고 목격자 증언에 불빛과 궤적 묘사가 포함되면서 폭탄이나 미사일 가능성이 빠르게 제기됐다.",
+          "textEn": "On July 17, 1996, TWA Flight 800, a Boeing 747 that had departed JFK, exploded and broke apart near Long Island, killing all 230 people aboard. The dramatic breakup and witness descriptions of lights and streaks quickly generated bomb and missile theories."
+        },
+        {
+          "blockId": "02",
+          "type": "INVESTIGATION",
+          "headingKo": "바다에서 건진 잔해를 다시 비행기로 만들다",
+          "headingEn": "Rebuilding an Airliner From Recovered Wreckage",
+          "textKo": "NTSB는 해저에서 회수한 방대한 잔해를 분류하고 동체의 큰 부분을 실제 크기로 재조립했다. 연료, 전기배선, 폭발 패턴, 좌석·동체 변형, 목격자 진술과 레이더 자료를 함께 검토했다. 사고조사는 약 4년 동안 이어졌고, 최종적으로 중앙날개 연료탱크(CWT) 내부의 가연성 연료-공기 혼합물이 폭발한 것이 구조 파괴를 시작했다고 판단했다.",
+          "textEn": "The NTSB recovered and catalogued a vast amount of wreckage from the ocean and reconstructed major sections of the aircraft at full scale. Investigators examined fuel, wiring, fracture patterns, radar information, witness accounts, and explosive evidence. After roughly four years, the Board concluded that an explosion inside the center wing fuel tank initiated the breakup."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "폭발은 확인됐지만 최초 점화원은 완전히 특정되지 않았다",
+          "headingEn": "The Explosion Was Established; the First Ignition Was Not",
+          "textKo": "NTSB의 probable cause는 중앙날개 연료탱크 폭발이다. 다만 정확히 어떤 에너지가 처음 혼합물을 점화했는지는 확정하지 못했다. 조사에서 평가한 후보 가운데 가장 가능성이 높은 설명은 탱크 밖의 단락이 연료량 표시 계통 배선을 통해 과도한 전압을 유입시켰다는 것이었다.",
+          "textEn": "The probable cause identifies ignition of the flammable fuel-air mixture in the center wing tank. The exact ignition energy could not be determined with certainty. Of the candidates examined, the NTSB considered a short circuit outside the tank that introduced excessive voltage through fuel-quantity-indication wiring the most likely."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "폭탄과 미사일 가설은 어떻게 검토됐나",
+          "headingEn": "How Bomb and Missile Theories Were Tested",
+          "textKo": "초기에는 기계고장, 폭탄, 미사일이 모두 조사 대상이었다. NTSB는 폭발물 잔류물, 구조 손상, 레이더·목격자료와 잔해 패턴을 검토했지만 외부 폭발물이나 미사일이 사고를 일으켰다는 물리적 증거를 확인하지 못했다. 최종 보고서는 내부 연료탱크 폭발 설명을 채택했다.",
+          "textEn": "Mechanical failure, a bomb, and a missile were all considered during the investigation. Investigators examined residue, structural damage, radar information, witness reports, and wreckage patterns. The final investigation did not find physical evidence establishing an external explosive or missile as the initiating cause."
+        },
+        {
+          "blockId": "05",
+          "type": "DESIGN",
+          "headingKo": "왜 거의 빈 탱크가 위험했나",
+          "headingEn": "Why a Nearly Empty Tank Could Still Be Dangerous",
+          "textKo": "중앙날개 탱크는 연료가 적을 때도 내부에 연료 증기가 남을 수 있고, 아래쪽의 열원 때문에 온도가 상승하면 가연성 혼합물이 형성될 수 있었다. NTSB는 점화원만 차단하면 된다는 당시 설계·인증 철학과 탱크 가열 문제를 기여요인으로 지적했다. 이후 연료탱크 불활성화와 안전기준 논의에 큰 영향을 줬다.",
+          "textEn": "A tank with little liquid fuel can still contain a flammable vapor mixture, and heat sources beneath the center wing tank raised its temperature. The NTSB identified the certification philosophy of relying on elimination of ignition sources, along with heat transfer into the tank, as contributing factors. The accident influenced later fuel-tank safety measures."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리와 불확실성은 같은 말이 아니다",
+          "headingEn": "Uncertainty Is Not the Same as an Unknown Accident Cause",
+          "textKo": "TWA 800편에는 ‘정확한 최초 스파크’를 모른다는 불확실성이 남아 있다. 그러나 그 공백이 사고 전체의 원인을 백지상태로 되돌리는 것은 아니다. 잔해의 파괴순서와 시험 결과는 연료탱크 폭발이라는 큰 원인틀을 강하게 지지한다. 남은 미확정 요소와 이미 좁혀진 결론을 분리해야 한다.",
+          "textEn": "One uncertainty remains: the precise path of the initial spark. That does not return the entire accident to an unexplained state. The sequence of structural failure and extensive testing strongly supports a center-wing-tank explosion while leaving the exact ignition mechanism unresolved."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "TWA 800편 연료탱크 조사를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 National Transportation Safety Board의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating TWA Flight 800 Fuel-Tank Investigation requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 공중폭발 직후 폭탄·미사일설이 퍼졌지만, 4년에 걸친 잔해 복원과 시험은 중앙날개 연료탱크 폭발을 사고 원인으로 좁혔다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—Bomb and missile theories followed the mid-air breakup, but a four-year wreckage reconstruction and test program narrowed the cause to a center-wing fuel-tank explosion.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: NTSB는 TWA 800편의 probable cause를 중앙날개 연료탱크의 가연성 연료-공기 혼합물 폭발로 결론냈다.\n\n확인되지 않음: 최초 점화 에너지의 정확한 경로는 확정되지 않았다. 공개된 NTSB 조사기록은 폭탄·미사일이 사고 원인이었다는 주장을 지지하지 않는다.",
+          "textEn": "Established: the NTSB determined that TWA Flight 800 was destroyed by an explosion of the flammable fuel-air mixture in the center wing fuel tank.\n\nNot established: the exact ignition source was not determined with certainty. The public NTSB record does not support a bomb or missile as the initiating cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: NTSB는 TWA 800편의 probable cause를 중앙날개 연료탱크의 가연성 연료-공기 혼합물 폭발로 결론냈다.",
+        "notEstablished": "확인되지 않음: 최초 점화 에너지의 정확한 경로는 확정되지 않았다. 공개된 NTSB 조사기록은 폭탄·미사일이 사고 원인이었다는 주장을 지지하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "TWA Flight 800 Fuel-Tank Investigation",
+      "hook": "Bomb and missile theories followed the mid-air breakup, but a four-year wreckage reconstruction and test program narrowed the cause to a center-wing fuel-tank explosion.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "이륙 12분 뒤의 공중폭발",
+          "headingEn": "A Mid-Air Breakup Minutes After Takeoff",
+          "textKo": "1996년 7월 17일 뉴욕 JFK 공항을 출발한 TWA 800편 보잉 747은 롱아일랜드 인근 상공에서 폭발·분해돼 탑승자 230명 전원이 사망했다. 대형 항공기가 공중에서 산산이 부서졌고 목격자 증언에 불빛과 궤적 묘사가 포함되면서 폭탄이나 미사일 가능성이 빠르게 제기됐다.",
+          "textEn": "On July 17, 1996, TWA Flight 800, a Boeing 747 that had departed JFK, exploded and broke apart near Long Island, killing all 230 people aboard. The dramatic breakup and witness descriptions of lights and streaks quickly generated bomb and missile theories."
+        },
+        {
+          "blockId": "02",
+          "type": "INVESTIGATION",
+          "headingKo": "바다에서 건진 잔해를 다시 비행기로 만들다",
+          "headingEn": "Rebuilding an Airliner From Recovered Wreckage",
+          "textKo": "NTSB는 해저에서 회수한 방대한 잔해를 분류하고 동체의 큰 부분을 실제 크기로 재조립했다. 연료, 전기배선, 폭발 패턴, 좌석·동체 변형, 목격자 진술과 레이더 자료를 함께 검토했다. 사고조사는 약 4년 동안 이어졌고, 최종적으로 중앙날개 연료탱크(CWT) 내부의 가연성 연료-공기 혼합물이 폭발한 것이 구조 파괴를 시작했다고 판단했다.",
+          "textEn": "The NTSB recovered and catalogued a vast amount of wreckage from the ocean and reconstructed major sections of the aircraft at full scale. Investigators examined fuel, wiring, fracture patterns, radar information, witness accounts, and explosive evidence. After roughly four years, the Board concluded that an explosion inside the center wing fuel tank initiated the breakup."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "폭발은 확인됐지만 최초 점화원은 완전히 특정되지 않았다",
+          "headingEn": "The Explosion Was Established; the First Ignition Was Not",
+          "textKo": "NTSB의 probable cause는 중앙날개 연료탱크 폭발이다. 다만 정확히 어떤 에너지가 처음 혼합물을 점화했는지는 확정하지 못했다. 조사에서 평가한 후보 가운데 가장 가능성이 높은 설명은 탱크 밖의 단락이 연료량 표시 계통 배선을 통해 과도한 전압을 유입시켰다는 것이었다.",
+          "textEn": "The probable cause identifies ignition of the flammable fuel-air mixture in the center wing tank. The exact ignition energy could not be determined with certainty. Of the candidates examined, the NTSB considered a short circuit outside the tank that introduced excessive voltage through fuel-quantity-indication wiring the most likely."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "폭탄과 미사일 가설은 어떻게 검토됐나",
+          "headingEn": "How Bomb and Missile Theories Were Tested",
+          "textKo": "초기에는 기계고장, 폭탄, 미사일이 모두 조사 대상이었다. NTSB는 폭발물 잔류물, 구조 손상, 레이더·목격자료와 잔해 패턴을 검토했지만 외부 폭발물이나 미사일이 사고를 일으켰다는 물리적 증거를 확인하지 못했다. 최종 보고서는 내부 연료탱크 폭발 설명을 채택했다.",
+          "textEn": "Mechanical failure, a bomb, and a missile were all considered during the investigation. Investigators examined residue, structural damage, radar information, witness reports, and wreckage patterns. The final investigation did not find physical evidence establishing an external explosive or missile as the initiating cause."
+        },
+        {
+          "blockId": "05",
+          "type": "DESIGN",
+          "headingKo": "왜 거의 빈 탱크가 위험했나",
+          "headingEn": "Why a Nearly Empty Tank Could Still Be Dangerous",
+          "textKo": "중앙날개 탱크는 연료가 적을 때도 내부에 연료 증기가 남을 수 있고, 아래쪽의 열원 때문에 온도가 상승하면 가연성 혼합물이 형성될 수 있었다. NTSB는 점화원만 차단하면 된다는 당시 설계·인증 철학과 탱크 가열 문제를 기여요인으로 지적했다. 이후 연료탱크 불활성화와 안전기준 논의에 큰 영향을 줬다.",
+          "textEn": "A tank with little liquid fuel can still contain a flammable vapor mixture, and heat sources beneath the center wing tank raised its temperature. The NTSB identified the certification philosophy of relying on elimination of ignition sources, along with heat transfer into the tank, as contributing factors. The accident influenced later fuel-tank safety measures."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리와 불확실성은 같은 말이 아니다",
+          "headingEn": "Uncertainty Is Not the Same as an Unknown Accident Cause",
+          "textKo": "TWA 800편에는 ‘정확한 최초 스파크’를 모른다는 불확실성이 남아 있다. 그러나 그 공백이 사고 전체의 원인을 백지상태로 되돌리는 것은 아니다. 잔해의 파괴순서와 시험 결과는 연료탱크 폭발이라는 큰 원인틀을 강하게 지지한다. 남은 미확정 요소와 이미 좁혀진 결론을 분리해야 한다.",
+          "textEn": "One uncertainty remains: the precise path of the initial spark. That does not return the entire accident to an unexplained state. The sequence of structural failure and extensive testing strongly supports a center-wing-tank explosion while leaving the exact ignition mechanism unresolved."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "TWA 800편 연료탱크 조사를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 National Transportation Safety Board의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating TWA Flight 800 Fuel-Tank Investigation requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 공중폭발 직후 폭탄·미사일설이 퍼졌지만, 4년에 걸친 잔해 복원과 시험은 중앙날개 연료탱크 폭발을 사고 원인으로 좁혔다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—Bomb and missile theories followed the mid-air breakup, but a four-year wreckage reconstruction and test program narrowed the cause to a center-wing fuel-tank explosion.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: NTSB는 TWA 800편의 probable cause를 중앙날개 연료탱크의 가연성 연료-공기 혼합물 폭발로 결론냈다.\n\n확인되지 않음: 최초 점화 에너지의 정확한 경로는 확정되지 않았다. 공개된 NTSB 조사기록은 폭탄·미사일이 사고 원인이었다는 주장을 지지하지 않는다.",
+          "textEn": "Established: the NTSB determined that TWA Flight 800 was destroyed by an explosion of the flammable fuel-air mixture in the center wing fuel tank.\n\nNot established: the exact ignition source was not determined with certainty. The public NTSB record does not support a bomb or missile as the initiating cause."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: the NTSB determined that TWA Flight 800 was destroyed by an explosion of the flammable fuel-air mixture in the center wing fuel tank.",
+        "notEstablished": "Not established: the exact ignition source was not determined with certainty. The public NTSB record does not support a bomb or missile as the initiating cause."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TWA800_FUEL_TANK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: NTSB는 TWA 800편의 probable cause를 중앙날개 연료탱크의 가연성 연료-공기 혼합물 폭발로 결론냈다.",
+      "statementEn": "Established: the NTSB determined that TWA Flight 800 was destroyed by an explosion of the flammable fuel-air mixture in the center wing fuel tank.",
+      "sourceRefs": [
+        "NTSB_CASE",
+        "NTSB_2021"
+      ]
+    },
+    {
+      "claimId": "TWA800_FUEL_TANK-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: 최초 점화 에너지의 정확한 경로는 확정되지 않았다. 공개된 NTSB 조사기록은 폭탄·미사일이 사고 원인이었다는 주장을 지지하지 않는다.",
+      "statementEn": "Not established: the exact ignition source was not determined with certainty. The public NTSB record does not support a bomb or missile as the initiating cause.",
+      "sourceRefs": [
+        "NTSB_CASE",
+        "NTSB_2021"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NTSB_CASE",
+      "title": "TWA Flight 800 Investigation",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/investigations/Pages/DCA96MA070.aspx",
+      "sourceType": "GOVERNMENT_INVESTIGATION"
+    },
+    {
+      "sourceId": "NTSB_2021",
+      "title": "NTSB’s TWA Flight 800 Reconstruction to be Decommissioned",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20210222.aspx",
+      "sourceType": "GOVERNMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "twa800-fuel-tank-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "NTSB_CASE",
+        "NTSB_2021"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "twa800-fuel-tank__twa800-fuel-tank-v01__ko.png",
+          "sha256": "3dc8b247d33706bf32a7984701b75dab88fb9a0b72e7bfe517c4943d877aaac7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "twa800-fuel-tank__twa800-fuel-tank-v01__ko.png"
+        },
+        "en": {
+          "file": "twa800-fuel-tank__twa800-fuel-tank-v01__en.png",
+          "sha256": "cd6c70b2a515b32d2d9d484e3b5729bbae754db1b6ca18336544c3d9188b2909",
+          "width": 1600,
+          "height": 900,
+          "fileName": "twa800-fuel-tank__twa800-fuel-tank-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "twa800-fuel-tank-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "NTSB_CASE",
+        "NTSB_2021"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "twa800-fuel-tank__twa800-fuel-tank-v02__ko.png",
+          "sha256": "1314cb71d687db739c96d76702ac5c3b722138567322d66308427a8bc1497139",
+          "width": 1600,
+          "height": 900,
+          "fileName": "twa800-fuel-tank__twa800-fuel-tank-v02__ko.png"
+        },
+        "en": {
+          "file": "twa800-fuel-tank__twa800-fuel-tank-v02__en.png",
+          "sha256": "3ec51251d9252dab3826d735e56b11372f8d5e826ba0f64836a4b919fe720f15",
+          "width": 1600,
+          "height": 900,
+          "fileName": "twa800-fuel-tank__twa800-fuel-tank-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "twa800-fuel-tank-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "NTSB_CASE",
+        "NTSB_2021"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "twa800-fuel-tank__twa800-fuel-tank-v03__ko.png",
+          "sha256": "3052147117e2779cdbf8d7454696ffd264dd00f680085ed1223e3d92517f25b0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "twa800-fuel-tank__twa800-fuel-tank-v03__ko.png"
+        },
+        "en": {
+          "file": "twa800-fuel-tank__twa800-fuel-tank-v03__en.png",
+          "sha256": "23479242cff89877d55289152cb8af623569ae4131e12cdb878f91abce9d0e3e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "twa800-fuel-tank__twa800-fuel-tank-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States",
+    "era": "1996–2000",
+    "genre": "Explained Mystery / Debunked Myth",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "resolution": "unknown",
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1693,
+    "enBodyWords": 501
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "linear-b-decipherment",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "리니어 B 해독의 결정적 단서",
+    "canonicalTitleEn": "How Linear B Was Deciphered",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_EXPANSION",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "리니어 B 해독의 결정적 단서",
+      "hook": "수십 년간 읽히지 않던 점토판 문자는 1952년 건축가 Michael Ventris가 음가와 지명 패턴을 결합하면서 고대 그리스어로 풀리기 시작했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "읽을 수 없는 궁전 기록",
+          "headingEn": "Unread Palace Records",
+          "textKo": "크레타와 그리스 본토의 청동기시대 궁전 유적에서는 선형 기호로 적힌 점토판이 대량 발견됐다. Arthur Evans는 이 문자 가운데 하나를 Linear B라고 불렀지만, 기호가 어떤 언어를 기록했는지는 오랫동안 풀리지 않았다. 일부 학자는 그 언어가 그리스어일 가능성에 회의적이었다.",
+          "textEn": "Bronze Age palace sites on Crete and the Greek mainland yielded large numbers of clay tablets written in a linear script. Arthur Evans called one system Linear B, but for decades researchers could not determine what language it represented. Many doubted that it encoded Greek."
+        },
+        {
+          "blockId": "02",
+          "type": "PATTERN",
+          "headingKo": "문자표보다 먼저 보인 반복",
+          "headingEn": "Patterns Came Before the Key",
+          "textKo": "해독은 하나의 비밀열쇠를 발견한 사건이 아니었다. 연구자들은 기호가 어느 위치에서 반복되는지, 어미처럼 바뀌는 부분이 있는지, 서로 다른 궁전에서 어떤 패턴이 겹치는지를 정리했다. Alice Kober가 만든 체계적 기호표와 굴절 패턴 연구는 후속 해독의 중요한 토대가 됐다.",
+          "textEn": "The decipherment did not begin with one miraculous translation. Researchers catalogued recurring signs, positional patterns, and endings that behaved like inflection. Alice Kober’s systematic grids and grammatical pattern work became an important foundation for what followed."
+        },
+        {
+          "blockId": "03",
+          "type": "BREAKTHROUGH",
+          "headingKo": "Ventris의 1952년 가설",
+          "headingEn": "Ventris’s 1952 Hypothesis",
+          "textKo": "Michael Ventris는 1952년 기호 조합 가운데 일부가 Knossos, Amnisos 같은 크레타 지명과 대응할 수 있다고 시험했다. 이 가설을 음절값 표에 넣자 다른 단어들도 일관된 고대 그리스어 형태로 읽히기 시작했다. 우연한 몇 단어가 아니라 문법과 어휘가 반복적으로 맞아떨어지는지가 핵심 검증이었다.",
+          "textEn": "In 1952, Michael Ventris tested whether certain sign groups could correspond to Cretan place names such as Knossos and Amnisos. When those proposed sound values were extended to other tablets, additional words repeatedly produced coherent archaic Greek forms. Consistency across the corpus mattered more than any single successful guess."
+        },
+        {
+          "blockId": "04",
+          "type": "CONFIRMATION",
+          "headingKo": "John Chadwick와 독립 검증",
+          "headingEn": "John Chadwick and Scholarly Testing",
+          "textKo": "Cambridge의 고전문헌학자 John Chadwick는 Ventris의 결과를 빠르게 검토하고 그리스어 해석이 맞는다는 결론에 동의했다. 두 사람은 협력해 1953년 학술논문으로 해독을 제시했고, 이후 새 점토판 읽기에서도 체계가 작동하면서 해독은 굳어졌다.",
+          "textEn": "Cambridge classicist John Chadwick quickly examined the proposal and accepted that the Greek reading worked. He and Ventris collaborated on the first scholarly publication of the decipherment in 1953, and further tablets continued to validate the system."
+        },
+        {
+          "blockId": "05",
+          "type": "IMPACT",
+          "headingKo": "그리스어 역사가 뒤로 밀리다",
+          "headingEn": "Greek Written History Moved Backward in Time",
+          "textKo": "Linear B가 미케네 그리스어를 기록했다는 결론은 그리스어의 기록사를 3천 년 이상 전으로 밀어 올렸다. 점토판은 영웅서사 문학이 아니라 주로 물자·인력·제사와 행정 기록이었다. 문자 해독이 언어뿐 아니라 궁전경제와 사회구조를 읽게 한 셈이다.",
+          "textEn": "Showing that Linear B recorded Mycenaean Greek pushed the written history of Greek back more than three millennia. The tablets were mostly administrative rather than literary, recording commodities, personnel, offerings, and palace management."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "Linear A와 혼동하면 안 된다",
+          "headingEn": "Linear A Is a Different Problem",
+          "textKo": "Linear B가 풀렸다고 해서 비슷하게 생긴 Linear A까지 해독된 것은 아니다. 두 문자는 일부 기호를 공유하지만 기록한 언어와 체계가 같다고 단정할 수 없다. Linear A는 여전히 미해독 상태다. 이 차이는 ‘닮은 문자’와 ‘같은 언어’가 별개의 주장임을 보여준다.",
+          "textEn": "The success with Linear B did not decipher the visually related Linear A script. The systems share some signs, but resemblance does not prove that they encode the same language. Linear A remains undeciphered."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "리니어 B 해독의 결정적 단서를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 University of Cambridge Faculty of Classics의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating How Linear B Was Deciphered requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 수십 년간 읽히지 않던 점토판 문자는 1952년 건축가 Michael Ventris가 음가와 지명 패턴을 결합하면서 고대 그리스어로 풀리기 시작했다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—A script unread for decades yielded in 1952 when Michael Ventris combined sign patterns, place names, and phonetic values to reveal an early form of Greek.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Michael Ventris는 1952년 Linear B를 고대 그리스어의 한 형태로 해독했고 John Chadwick와의 검증·출판을 거쳐 학계에 정착했다.\n\n확인되지 않음: Linear B 해독이 Linear A까지 자동으로 해독했다는 주장은 틀리며, Linear A의 언어는 여전히 확정되지 않았다.",
+          "textEn": "Established: Michael Ventris deciphered Linear B in 1952 as an early form of Greek, with John Chadwick helping confirm and publish the result.\n\nNot established: the Linear B decipherment does not automatically decipher Linear A, whose underlying language remains unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Michael Ventris는 1952년 Linear B를 고대 그리스어의 한 형태로 해독했고 John Chadwick와의 검증·출판을 거쳐 학계에 정착했다.",
+        "notEstablished": "확인되지 않음: Linear B 해독이 Linear A까지 자동으로 해독했다는 주장은 틀리며, Linear A의 언어는 여전히 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "How Linear B Was Deciphered",
+      "hook": "A script unread for decades yielded in 1952 when Michael Ventris combined sign patterns, place names, and phonetic values to reveal an early form of Greek.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "읽을 수 없는 궁전 기록",
+          "headingEn": "Unread Palace Records",
+          "textKo": "크레타와 그리스 본토의 청동기시대 궁전 유적에서는 선형 기호로 적힌 점토판이 대량 발견됐다. Arthur Evans는 이 문자 가운데 하나를 Linear B라고 불렀지만, 기호가 어떤 언어를 기록했는지는 오랫동안 풀리지 않았다. 일부 학자는 그 언어가 그리스어일 가능성에 회의적이었다.",
+          "textEn": "Bronze Age palace sites on Crete and the Greek mainland yielded large numbers of clay tablets written in a linear script. Arthur Evans called one system Linear B, but for decades researchers could not determine what language it represented. Many doubted that it encoded Greek."
+        },
+        {
+          "blockId": "02",
+          "type": "PATTERN",
+          "headingKo": "문자표보다 먼저 보인 반복",
+          "headingEn": "Patterns Came Before the Key",
+          "textKo": "해독은 하나의 비밀열쇠를 발견한 사건이 아니었다. 연구자들은 기호가 어느 위치에서 반복되는지, 어미처럼 바뀌는 부분이 있는지, 서로 다른 궁전에서 어떤 패턴이 겹치는지를 정리했다. Alice Kober가 만든 체계적 기호표와 굴절 패턴 연구는 후속 해독의 중요한 토대가 됐다.",
+          "textEn": "The decipherment did not begin with one miraculous translation. Researchers catalogued recurring signs, positional patterns, and endings that behaved like inflection. Alice Kober’s systematic grids and grammatical pattern work became an important foundation for what followed."
+        },
+        {
+          "blockId": "03",
+          "type": "BREAKTHROUGH",
+          "headingKo": "Ventris의 1952년 가설",
+          "headingEn": "Ventris’s 1952 Hypothesis",
+          "textKo": "Michael Ventris는 1952년 기호 조합 가운데 일부가 Knossos, Amnisos 같은 크레타 지명과 대응할 수 있다고 시험했다. 이 가설을 음절값 표에 넣자 다른 단어들도 일관된 고대 그리스어 형태로 읽히기 시작했다. 우연한 몇 단어가 아니라 문법과 어휘가 반복적으로 맞아떨어지는지가 핵심 검증이었다.",
+          "textEn": "In 1952, Michael Ventris tested whether certain sign groups could correspond to Cretan place names such as Knossos and Amnisos. When those proposed sound values were extended to other tablets, additional words repeatedly produced coherent archaic Greek forms. Consistency across the corpus mattered more than any single successful guess."
+        },
+        {
+          "blockId": "04",
+          "type": "CONFIRMATION",
+          "headingKo": "John Chadwick와 독립 검증",
+          "headingEn": "John Chadwick and Scholarly Testing",
+          "textKo": "Cambridge의 고전문헌학자 John Chadwick는 Ventris의 결과를 빠르게 검토하고 그리스어 해석이 맞는다는 결론에 동의했다. 두 사람은 협력해 1953년 학술논문으로 해독을 제시했고, 이후 새 점토판 읽기에서도 체계가 작동하면서 해독은 굳어졌다.",
+          "textEn": "Cambridge classicist John Chadwick quickly examined the proposal and accepted that the Greek reading worked. He and Ventris collaborated on the first scholarly publication of the decipherment in 1953, and further tablets continued to validate the system."
+        },
+        {
+          "blockId": "05",
+          "type": "IMPACT",
+          "headingKo": "그리스어 역사가 뒤로 밀리다",
+          "headingEn": "Greek Written History Moved Backward in Time",
+          "textKo": "Linear B가 미케네 그리스어를 기록했다는 결론은 그리스어의 기록사를 3천 년 이상 전으로 밀어 올렸다. 점토판은 영웅서사 문학이 아니라 주로 물자·인력·제사와 행정 기록이었다. 문자 해독이 언어뿐 아니라 궁전경제와 사회구조를 읽게 한 셈이다.",
+          "textEn": "Showing that Linear B recorded Mycenaean Greek pushed the written history of Greek back more than three millennia. The tablets were mostly administrative rather than literary, recording commodities, personnel, offerings, and palace management."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "Linear A와 혼동하면 안 된다",
+          "headingEn": "Linear A Is a Different Problem",
+          "textKo": "Linear B가 풀렸다고 해서 비슷하게 생긴 Linear A까지 해독된 것은 아니다. 두 문자는 일부 기호를 공유하지만 기록한 언어와 체계가 같다고 단정할 수 없다. Linear A는 여전히 미해독 상태다. 이 차이는 ‘닮은 문자’와 ‘같은 언어’가 별개의 주장임을 보여준다.",
+          "textEn": "The success with Linear B did not decipher the visually related Linear A script. The systems share some signs, but resemblance does not prove that they encode the same language. Linear A remains undeciphered."
+        },
+        {
+          "blockId": "06B",
+          "type": "SOURCE_READING",
+          "headingKo": "출처와 해석을 분리하는 법",
+          "headingEn": "How to Separate Source From Interpretation",
+          "textKo": "리니어 B 해독의 결정적 단서를 검증할 때는 한 장면이나 한 문장만 떼어 보지 않고, 최초 관측·발견·사고기록과 후속 재검토가 서로 같은 결론을 지지하는지 확인해야 한다. 이번 파일은 University of Cambridge Faculty of Classics의 기관·학술 자료를 기준으로 사건의 존재, 이후 검증, 남은 불확실성을 분리했다. 출처가 실제 사건을 기록한다는 사실과 대중적으로 붙은 가장 강한 해석이 사실이라는 결론은 동일하지 않다. 따라서 독자가 다시 자료를 확인할 수 있도록 sourceRefs를 유지하고, 설명용 그래픽은 기록사진이나 원본 증거처럼 표시하지 않는다.",
+          "textEn": "Evaluating How Linear B Was Deciphered requires more than isolating one dramatic image or sentence. The record has to be followed from the original observation, discovery, or accident through later re-examination, asking whether independent evidence supports the same conclusion. This file uses institutional and scholarly sources to separate the existence of the case, what later verification established, and what remains uncertain. A source documenting an event is not the same as that source validating the strongest popular interpretation. Source references are therefore preserved, and project-original graphics are explicitly not presented as documentary photographs."
+        },
+        {
+          "blockId": "06C",
+          "type": "MYSTERY_IDENTITY",
+          "headingKo": "왜 이 사건이 미스터리인가",
+          "headingEn": "Why This Remains a Mystery Story",
+          "textKo": "이 사건이 Mystery Atlas에 남을 이유는 ‘이상한 이야기가 있었다’는 데 있지 않다. 수십 년간 읽히지 않던 점토판 문자는 1952년 건축가 Michael Ventris가 음가와 지명 패턴을 결합하면서 고대 그리스어로 풀리기 시작했다.라는 첫 인상 또는 핵심 질문이 실제 자료를 거치면서 어디까지 유지되고 어디서 수정되는지가 이야기의 중심이다. 확인된 사실을 먼저 고정한 뒤, 설명되지 않은 부분만 남겨야 미확인 영역이 과장된 결론으로 바뀌지 않는다.",
+          "textEn": "The reason this case belongs in Mystery Atlas is not merely that an unusual story existed. Its value lies in following the central question—A script unread for decades yielded in 1952 when Michael Ventris combined sign patterns, place names, and phonetic values to reveal an early form of Greek.—through the evidence and seeing which parts survive scrutiny and which are revised. Established facts must be fixed first so that remaining uncertainty does not become an exaggerated conclusion."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "확인됨: Michael Ventris는 1952년 Linear B를 고대 그리스어의 한 형태로 해독했고 John Chadwick와의 검증·출판을 거쳐 학계에 정착했다.\n\n확인되지 않음: Linear B 해독이 Linear A까지 자동으로 해독했다는 주장은 틀리며, Linear A의 언어는 여전히 확정되지 않았다.",
+          "textEn": "Established: Michael Ventris deciphered Linear B in 1952 as an early form of Greek, with John Chadwick helping confirm and publish the result.\n\nNot established: the Linear B decipherment does not automatically decipher Linear A, whose underlying language remains unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Michael Ventris deciphered Linear B in 1952 as an early form of Greek, with John Chadwick helping confirm and publish the result.",
+        "notEstablished": "Not established: the Linear B decipherment does not automatically decipher Linear A, whose underlying language remains unresolved."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LINEAR_B_DECIPHERMENT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "확인됨: Michael Ventris는 1952년 Linear B를 고대 그리스어의 한 형태로 해독했고 John Chadwick와의 검증·출판을 거쳐 학계에 정착했다.",
+      "statementEn": "Established: Michael Ventris deciphered Linear B in 1952 as an early form of Greek, with John Chadwick helping confirm and publish the result.",
+      "sourceRefs": [
+        "CAM_LINEAR_B"
+      ]
+    },
+    {
+      "claimId": "LINEAR_B_DECIPHERMENT-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "확인되지 않음: Linear B 해독이 Linear A까지 자동으로 해독했다는 주장은 틀리며, Linear A의 언어는 여전히 확정되지 않았다.",
+      "statementEn": "Not established: the Linear B decipherment does not automatically decipher Linear A, whose underlying language remains unresolved.",
+      "sourceRefs": [
+        "CAM_LINEAR_B"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CAM_LINEAR_B",
+      "title": "The Decipherment of Linear B: Introduction",
+      "publisher": "University of Cambridge Faculty of Classics",
+      "url": "https://www.classics.cam.ac.uk/ORDER/seminars/projects/mycep/decipherment",
+      "sourceType": "UNIVERSITY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "linear-b-decipherment-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·검증의 시간 흐름",
+      "captionEn": "Timeline of the key event, observation, and verification",
+      "altKo": "핵심 사건·관측·검증의 시간 흐름",
+      "altEn": "Timeline of the key event, observation, and verification",
+      "sourceRefs": [
+        "CAM_LINEAR_B"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "linear-b-decipherment__linear-b-decipherment-v01__ko.png",
+          "sha256": "e128664b28aee5c9e710c40cb583c0f9cca146e7ae58277be59fa52a48742cb4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "linear-b-decipherment__linear-b-decipherment-v01__ko.png"
+        },
+        "en": {
+          "file": "linear-b-decipherment__linear-b-decipherment-v01__en.png",
+          "sha256": "d2923369d48503a8e21928be541815a082afa19fe136bf30fcd7f1a59b10444e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "linear-b-decipherment__linear-b-decipherment-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "linear-b-decipherment-v02",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "captionEn": "Evidence card separating established facts from interpretation",
+      "altKo": "확인된 증거와 해석을 구분한 설명 카드",
+      "altEn": "Evidence card separating established facts from interpretation",
+      "sourceRefs": [
+        "CAM_LINEAR_B"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "linear-b-decipherment__linear-b-decipherment-v02__ko.png",
+          "sha256": "66bf1442fb5147a992ada06840d7273e2caae13be93944faa36737d736edaa48",
+          "width": 1600,
+          "height": 900,
+          "fileName": "linear-b-decipherment__linear-b-decipherment-v02__ko.png"
+        },
+        "en": {
+          "file": "linear-b-decipherment__linear-b-decipherment-v02__en.png",
+          "sha256": "238c788f1cd90bceb903e23bb87b4d8cc689fd56a7a07e67a6109cfb96ee39d0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "linear-b-decipherment__linear-b-decipherment-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "linear-b-decipherment-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 것과 남은 불확실성의 경계",
+      "captionEn": "Boundary between established findings and remaining uncertainty",
+      "altKo": "확인된 것과 남은 불확실성의 경계",
+      "altEn": "Boundary between established findings and remaining uncertainty",
+      "sourceRefs": [
+        "CAM_LINEAR_B"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "linear-b-decipherment__linear-b-decipherment-v03__ko.png",
+          "sha256": "21268eb4b534a021321807f830b76ae11d72836541520450d8c5ce716a9c4593",
+          "width": 1600,
+          "height": 900,
+          "fileName": "linear-b-decipherment__linear-b-decipherment-v03__ko.png"
+        },
+        "en": {
+          "file": "linear-b-decipherment__linear-b-decipherment-v03__en.png",
+          "sha256": "52f3170d3644e8e3735a228b0a5249de2fffef6276a849348d0d46015a01cbbf",
+          "width": 1600,
+          "height": 900,
+          "fileName": "linear-b-decipherment__linear-b-decipherment-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Greece / Crete",
+    "era": "1952–1953",
+    "genre": "Codes / Manuscripts / Undeciphered Texts",
+    "status": "SOURCE_BOUNDARY_LOCKED",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "resolution": "unknown",
+    "countries": [
+      "Greece / Crete"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS_DISTINCT_OR_RELATED_BUT_DISTINCT",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1689,
+    "enBodyWords": 444
+  }
+}
