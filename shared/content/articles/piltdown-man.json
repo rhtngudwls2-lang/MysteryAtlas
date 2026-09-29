@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "piltdown-man",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "필트다운 맨",
+    "canonicalTitleEn": "Piltdown Man",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_HOAX",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "“잃어버린 고리”는 없었다—두개골·오랑우탄 턱·갈아낸 이빨이 만든 과학사기",
+      "hook": "위조 자체는 확정됐다. 남은 미스터리는 누가 모든 조작을 설계했는지다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1912년 영국에서 인간과 유인원의 중간형이 발견됐다고 발표됐다",
+          "headingEn": "In 1912, Britain Announced a Fossil Supposedly Between Human and Ape",
+          "textKo": "Charles Dawson과 Arthur Smith Woodward는 Sussex의 Piltdown에서 나온 두개골과 턱을 새로운 고인류로 소개했다. 큰 뇌용량을 가진 인간형 두개골과 원시적으로 보이는 턱의 조합은 당시 일부 연구자의 진화관과 영국 중심 기대에 잘 맞았다. 표본은 수십 년 동안 논쟁의 기준점이 됐다.",
+          "textEn": "Charles Dawson and Arthur Smith Woodward presented skull and jaw fragments from Piltdown, Sussex, as a new ancient human. The combination of a large human-like braincase with a primitive-looking jaw fit some contemporary expectations about human evolution and Britain’s place in it. The specimen influenced debate for decades."
+        },
+        {
+          "blockId": "conflict-02",
+          "type": "BACKGROUND",
+          "headingKo": "다른 지역 화석이 늘수록 Piltdown은 오히려 더 이상해졌다",
+          "headingEn": "As More Fossils Appeared Elsewhere, Piltdown Became More Anomalous",
+          "textKo": "아프리카·아시아에서 발견된 초기인류 화석은 작은 뇌용량과 더 인간다운 턱·치아의 조합을 보여 Piltdown과 반대 방향이었다. 처음에는 인류진화가 복잡해서 그럴 수 있다고 해석했지만, 시간이 갈수록 하나의 예외적 계통으로 보기는 어려워졌다.",
+          "textEn": "Early-human fossils from Africa and Asia increasingly showed patterns unlike Piltdown—often smaller braincases with more human-like jaws and teeth. At first the mismatch could be attributed to evolutionary diversity, but Piltdown became progressively harder to fit into a coherent lineage."
+        },
+        {
+          "blockId": "fluorine-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1949년 fluorine dating이 표본의 나이를 무너뜨렸다",
+          "headingEn": "Fluorine Dating in 1949 Undermined the Claimed Age",
+          "textKo": "Natural History Museum의 Kenneth Oakley는 fluorine test를 이용해 Piltdown 뼈가 주장된 고대연대와 맞지 않는다는 결과를 얻었다. 이후 Joseph Weiner와 Wilfrid Le Gros Clark의 형태·마모분석이 더해지며 표본 조각들이 서로 다른 출처라는 사실이 드러났다.",
+          "textEn": "Natural History Museum geologist Kenneth Oakley used fluorine testing in 1949 and found that the remains did not match the claimed antiquity. Further anatomical and wear analysis by Joseph Weiner and Wilfrid Le Gros Clark showed that the specimen combined material from different sources."
+        },
+        {
+          "blockId": "forensics-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "턱은 orangutan, 이빨은 갈아냈고 표본은 착색돼 있었다",
+          "headingEn": "The Jaw Was Orangutan, the Teeth Filed, and the Specimen Artificially Stained",
+          "textKo": "박물관 조사에서 턱은 orangutan으로 확인됐고 현미경 아래 이빨 표면에 인위적으로 갈아낸 긁힘이 보였다. 뼈와 치아는 주변 자갈과 비슷하게 보이도록 착색됐다. 현대 CT 연구는 여러 조각에 같은 조작방식이 쓰였음을 보여 위조가 체계적이었다는 점을 강화했다.",
+          "textEn": "Museum analysis identified the jaw as orangutan. Microscopy showed scratches from filing the teeth to alter their appearance, and the bones had been artificially stained to resemble local gravel. Later CT work found repeated preparation methods across the assemblage, strengthening the conclusion that the fraud was systematic."
+        },
+        {
+          "blockId": "culprit-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "Charles Dawson가 중심인물일 가능성은 높지만 모든 공모관계가 확정된 것은 아니다",
+          "headingEn": "Charles Dawson Is the Leading Suspect, but Every Possible Accomplice Is Not Proven",
+          "textKo": "2016년 연구는 두 Piltdown 지점의 재료가 같은 orangutan jaw와 비슷한 조작법을 사용했고 Dawson만 두 “발견” 모두와 연결된 인물이라는 점을 들어 그를 중심 위조자로 강하게 지목했다. 그러나 다른 인물의 개입 가능성을 완전히 배제할 직접 자백·문서는 없다.",
+          "textEn": "A 2016 investigation found consistent preparation methods across both Piltdown sites and argued that Dawson, the only person directly linked to both supposed discoveries, was the most likely central fraudster. Yet no direct confession or complete documentary trail proves every possible accomplice or contribution."
+        },
+        {
+          "blockId": "bias-055",
+          "type": "AFTERMATH",
+          "headingKo": "왜 오래 믿었는지는 사기기술뿐 아니라 당시 과학의 기대편향과 관련 있다",
+          "headingEn": "Why It Lasted Involved Scientific Expectations as Well as Skilled Forgery",
+          "textKo": "Piltdown은 단순히 검사기술이 부족해서만 성공한 사기가 아니었다. 큰 뇌가 먼저 진화했을 것이라는 일부 당시 가설과 “영국에도 매우 오래된 인간조상이 있어야 한다”는 문화적 기대가 표본을 받아들이기 쉽게 만들었다. 반대 증거가 늘어도 유명표본과 권위 있는 연구자의 초기판단은 관성을 가질 수 있다. 이 사건은 과학이 자기수정적이면서도 인간의 기대와 제도적 권위에서 자유롭지 않다는 사례로 남았다.",
+          "textEn": "Piltdown succeeded not only because dating tools were limited. It also fit some contemporary expectations that a large brain evolved early and that Britain should possess very ancient human ancestors. Famous specimens and early judgments by authoritative researchers can acquire inertia even as conflicting evidence accumulates. The episode remains a case study in both science’s capacity for self-correction and its vulnerability to expectation and institutional authority."
+        },
+        {
+          "blockId": "method-057",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "새 기술 하나가 아니라 여러 독립검사가 같은 결론에 도달했다",
+          "headingEn": "Several Independent Tests Converged on the Same Conclusion",
+          "textKo": "Piltdown을 무너뜨린 것은 한 종류의 검사만이 아니었다. fluorine 함량은 뼈들이 같은 오래된 매장환경을 공유하지 않았음을 보였고, 해부학 비교는 턱이 현대 유인원에 가깝다는 점을 드러냈다. 치아 표면의 마모는 자연사용보다 줄로 갈아낸 흔적과 맞았고, 화학·현미경 검사는 색이 자연적인 광물침착이 아니라 인위적 처리와 일치함을 보여줬다. 서로 독립적인 방법이 같은 방향을 가리켰기 때문에 “논쟁적 화석”이 아니라 “의도적 위조”라는 결론이 강해졌다.",
+          "textEn": "Piltdown was not overturned by one test alone. Fluorine measurements showed that the bones did not share the same ancient burial history; anatomical comparison placed the jaw close to a modern ape; tooth surfaces showed filing rather than natural wear; and chemical and microscopic work supported artificial staining rather than normal mineralization. Independent methods converging on the same result transformed Piltdown from a disputed fossil into a demonstrated deliberate fraud."
+        },
+        {
+          "blockId": "legacy-059",
+          "type": "AFTERMATH",
+          "headingKo": "사건 이후 paleoanthropology의 기준도 달라졌다",
+          "headingEn": "The Hoax Changed Standards in Paleoanthropology",
+          "textKo": "Piltdown 이후 새로운 인류화석은 발견자의 명성이나 국가적 기대보다 층위, 독립연대측정, 비교해부, 반복검증이 중요하다는 교훈을 남겼다. 현대에는 CT, 동위원소, DNA와 미세마모 분석까지 여러 방법이 교차검증된다. 필트다운의 가장 큰 유산은 “과학이 속았다”는 조롱보다, 과학적 신뢰가 어떻게 다시 구축되는지 보여준 점이다.",
+          "textEn": "Piltdown left a lasting methodological lesson: new human fossils must be evaluated through secure context, independent dating, comparative anatomy, and replication rather than reputation or national expectation. Modern work adds CT imaging, isotopes, DNA, and microwear analysis. The deeper legacy is not simply that science was fooled, but how multiple independent methods can rebuild confidence."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Piltdown Man은 인간 두개골과 orangutan 턱을 결합하고 이빨을 갈고 표본을 착색한 의도적 위조다.\n\n확인되지 않음: Charles Dawson의 중심개입 가능성이 매우 높지만, 모든 조작을 혼자 설계·실행했는지와 다른 공모자의 정확한 역할은 최종 확정되지 않았다.",
+          "textEn": "Established: Piltdown Man was a deliberate hoax combining human skull material with an orangutan jaw, filed teeth, and artificial staining.\n\nNot established: Charles Dawson is the leading suspect, but it remains unproven whether he designed and executed every part alone or what role any accomplices may have played."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Piltdown Man은 인간 두개골과 orangutan 턱을 결합하고 이빨을 갈고 표본을 착색한 의도적 위조다.",
+        "notEstablished": "확인되지 않음: Charles Dawson의 중심개입 가능성이 매우 높지만, 모든 조작을 혼자 설계·실행했는지와 다른 공모자의 정확한 역할은 최종 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "conflict-02",
+        "fluorine-03",
+        "forensics-04",
+        "culprit-05",
+        "bias-055",
+        "method-057",
+        "legacy-059"
+      ]
+    },
+    "en": {
+      "headline": "There Was No “Missing Link”—A Human Skull, Orangutan Jaw, and Filed Teeth Made a Scientific Hoax",
+      "hook": "The hoax is conclusively established. The residual mystery is who planned every part of it.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1912년 영국에서 인간과 유인원의 중간형이 발견됐다고 발표됐다",
+          "headingEn": "In 1912, Britain Announced a Fossil Supposedly Between Human and Ape",
+          "textKo": "Charles Dawson과 Arthur Smith Woodward는 Sussex의 Piltdown에서 나온 두개골과 턱을 새로운 고인류로 소개했다. 큰 뇌용량을 가진 인간형 두개골과 원시적으로 보이는 턱의 조합은 당시 일부 연구자의 진화관과 영국 중심 기대에 잘 맞았다. 표본은 수십 년 동안 논쟁의 기준점이 됐다.",
+          "textEn": "Charles Dawson and Arthur Smith Woodward presented skull and jaw fragments from Piltdown, Sussex, as a new ancient human. The combination of a large human-like braincase with a primitive-looking jaw fit some contemporary expectations about human evolution and Britain’s place in it. The specimen influenced debate for decades."
+        },
+        {
+          "blockId": "conflict-02",
+          "type": "BACKGROUND",
+          "headingKo": "다른 지역 화석이 늘수록 Piltdown은 오히려 더 이상해졌다",
+          "headingEn": "As More Fossils Appeared Elsewhere, Piltdown Became More Anomalous",
+          "textKo": "아프리카·아시아에서 발견된 초기인류 화석은 작은 뇌용량과 더 인간다운 턱·치아의 조합을 보여 Piltdown과 반대 방향이었다. 처음에는 인류진화가 복잡해서 그럴 수 있다고 해석했지만, 시간이 갈수록 하나의 예외적 계통으로 보기는 어려워졌다.",
+          "textEn": "Early-human fossils from Africa and Asia increasingly showed patterns unlike Piltdown—often smaller braincases with more human-like jaws and teeth. At first the mismatch could be attributed to evolutionary diversity, but Piltdown became progressively harder to fit into a coherent lineage."
+        },
+        {
+          "blockId": "fluorine-03",
+          "type": "TURNING_POINT",
+          "headingKo": "1949년 fluorine dating이 표본의 나이를 무너뜨렸다",
+          "headingEn": "Fluorine Dating in 1949 Undermined the Claimed Age",
+          "textKo": "Natural History Museum의 Kenneth Oakley는 fluorine test를 이용해 Piltdown 뼈가 주장된 고대연대와 맞지 않는다는 결과를 얻었다. 이후 Joseph Weiner와 Wilfrid Le Gros Clark의 형태·마모분석이 더해지며 표본 조각들이 서로 다른 출처라는 사실이 드러났다.",
+          "textEn": "Natural History Museum geologist Kenneth Oakley used fluorine testing in 1949 and found that the remains did not match the claimed antiquity. Further anatomical and wear analysis by Joseph Weiner and Wilfrid Le Gros Clark showed that the specimen combined material from different sources."
+        },
+        {
+          "blockId": "forensics-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "턱은 orangutan, 이빨은 갈아냈고 표본은 착색돼 있었다",
+          "headingEn": "The Jaw Was Orangutan, the Teeth Filed, and the Specimen Artificially Stained",
+          "textKo": "박물관 조사에서 턱은 orangutan으로 확인됐고 현미경 아래 이빨 표면에 인위적으로 갈아낸 긁힘이 보였다. 뼈와 치아는 주변 자갈과 비슷하게 보이도록 착색됐다. 현대 CT 연구는 여러 조각에 같은 조작방식이 쓰였음을 보여 위조가 체계적이었다는 점을 강화했다.",
+          "textEn": "Museum analysis identified the jaw as orangutan. Microscopy showed scratches from filing the teeth to alter their appearance, and the bones had been artificially stained to resemble local gravel. Later CT work found repeated preparation methods across the assemblage, strengthening the conclusion that the fraud was systematic."
+        },
+        {
+          "blockId": "culprit-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "Charles Dawson가 중심인물일 가능성은 높지만 모든 공모관계가 확정된 것은 아니다",
+          "headingEn": "Charles Dawson Is the Leading Suspect, but Every Possible Accomplice Is Not Proven",
+          "textKo": "2016년 연구는 두 Piltdown 지점의 재료가 같은 orangutan jaw와 비슷한 조작법을 사용했고 Dawson만 두 “발견” 모두와 연결된 인물이라는 점을 들어 그를 중심 위조자로 강하게 지목했다. 그러나 다른 인물의 개입 가능성을 완전히 배제할 직접 자백·문서는 없다.",
+          "textEn": "A 2016 investigation found consistent preparation methods across both Piltdown sites and argued that Dawson, the only person directly linked to both supposed discoveries, was the most likely central fraudster. Yet no direct confession or complete documentary trail proves every possible accomplice or contribution."
+        },
+        {
+          "blockId": "bias-055",
+          "type": "AFTERMATH",
+          "headingKo": "왜 오래 믿었는지는 사기기술뿐 아니라 당시 과학의 기대편향과 관련 있다",
+          "headingEn": "Why It Lasted Involved Scientific Expectations as Well as Skilled Forgery",
+          "textKo": "Piltdown은 단순히 검사기술이 부족해서만 성공한 사기가 아니었다. 큰 뇌가 먼저 진화했을 것이라는 일부 당시 가설과 “영국에도 매우 오래된 인간조상이 있어야 한다”는 문화적 기대가 표본을 받아들이기 쉽게 만들었다. 반대 증거가 늘어도 유명표본과 권위 있는 연구자의 초기판단은 관성을 가질 수 있다. 이 사건은 과학이 자기수정적이면서도 인간의 기대와 제도적 권위에서 자유롭지 않다는 사례로 남았다.",
+          "textEn": "Piltdown succeeded not only because dating tools were limited. It also fit some contemporary expectations that a large brain evolved early and that Britain should possess very ancient human ancestors. Famous specimens and early judgments by authoritative researchers can acquire inertia even as conflicting evidence accumulates. The episode remains a case study in both science’s capacity for self-correction and its vulnerability to expectation and institutional authority."
+        },
+        {
+          "blockId": "method-057",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "새 기술 하나가 아니라 여러 독립검사가 같은 결론에 도달했다",
+          "headingEn": "Several Independent Tests Converged on the Same Conclusion",
+          "textKo": "Piltdown을 무너뜨린 것은 한 종류의 검사만이 아니었다. fluorine 함량은 뼈들이 같은 오래된 매장환경을 공유하지 않았음을 보였고, 해부학 비교는 턱이 현대 유인원에 가깝다는 점을 드러냈다. 치아 표면의 마모는 자연사용보다 줄로 갈아낸 흔적과 맞았고, 화학·현미경 검사는 색이 자연적인 광물침착이 아니라 인위적 처리와 일치함을 보여줬다. 서로 독립적인 방법이 같은 방향을 가리켰기 때문에 “논쟁적 화석”이 아니라 “의도적 위조”라는 결론이 강해졌다.",
+          "textEn": "Piltdown was not overturned by one test alone. Fluorine measurements showed that the bones did not share the same ancient burial history; anatomical comparison placed the jaw close to a modern ape; tooth surfaces showed filing rather than natural wear; and chemical and microscopic work supported artificial staining rather than normal mineralization. Independent methods converging on the same result transformed Piltdown from a disputed fossil into a demonstrated deliberate fraud."
+        },
+        {
+          "blockId": "legacy-059",
+          "type": "AFTERMATH",
+          "headingKo": "사건 이후 paleoanthropology의 기준도 달라졌다",
+          "headingEn": "The Hoax Changed Standards in Paleoanthropology",
+          "textKo": "Piltdown 이후 새로운 인류화석은 발견자의 명성이나 국가적 기대보다 층위, 독립연대측정, 비교해부, 반복검증이 중요하다는 교훈을 남겼다. 현대에는 CT, 동위원소, DNA와 미세마모 분석까지 여러 방법이 교차검증된다. 필트다운의 가장 큰 유산은 “과학이 속았다”는 조롱보다, 과학적 신뢰가 어떻게 다시 구축되는지 보여준 점이다.",
+          "textEn": "Piltdown left a lasting methodological lesson: new human fossils must be evaluated through secure context, independent dating, comparative anatomy, and replication rather than reputation or national expectation. Modern work adds CT imaging, isotopes, DNA, and microwear analysis. The deeper legacy is not simply that science was fooled, but how multiple independent methods can rebuild confidence."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Piltdown Man은 인간 두개골과 orangutan 턱을 결합하고 이빨을 갈고 표본을 착색한 의도적 위조다.\n\n확인되지 않음: Charles Dawson의 중심개입 가능성이 매우 높지만, 모든 조작을 혼자 설계·실행했는지와 다른 공모자의 정확한 역할은 최종 확정되지 않았다.",
+          "textEn": "Established: Piltdown Man was a deliberate hoax combining human skull material with an orangutan jaw, filed teeth, and artificial staining.\n\nNot established: Charles Dawson is the leading suspect, but it remains unproven whether he designed and executed every part alone or what role any accomplices may have played."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Piltdown Man was a deliberate hoax combining human skull material with an orangutan jaw, filed teeth, and artificial staining.",
+        "notEstablished": "Not established: Charles Dawson is the leading suspect, but it remains unproven whether he designed and executed every part alone or what role any accomplices may have played."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "conflict-02",
+        "fluorine-03",
+        "forensics-04",
+        "culprit-05",
+        "bias-055",
+        "method-057",
+        "legacy-059"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "PILT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Piltdown 표본은 인간 두개골과 orangutan 턱을 결합한 위조다.",
+      "statementEn": "The Piltdown specimen is a hoax combining human skull material with an orangutan jaw.",
+      "sourceRefs": [
+        "PILT_NHM"
+      ]
+    },
+    {
+      "claimId": "PILT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "치아는 인위적으로 갈렸고 표본은 착색됐다.",
+      "statementEn": "The teeth were artificially filed and the specimen was stained.",
+      "sourceRefs": [
+        "PILT_NHM"
+      ]
+    },
+    {
+      "claimId": "PILT-C3",
+      "status": "SUPPORTED",
+      "statementKo": "Charles Dawson가 위조의 중심인물일 가능성이 높다.",
+      "statementEn": "Charles Dawson is the most likely central fraudster.",
+      "sourceRefs": [
+        "PILT_NHM_2016"
+      ]
+    },
+    {
+      "claimId": "PILT-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 공모관계와 역할이 최종 입증된 것은 아니다.",
+      "statementEn": "Every possible accomplice and role has not been definitively established.",
+      "sourceRefs": [
+        "PILT_NHM_2016"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PILT_NHM",
+      "title": "Piltdown Man",
+      "publisher": "Natural History Museum",
+      "url": "https://www.nhm.ac.uk/our-science/services/library/collections/piltdown-man.html",
+      "sourceType": "MUSEUM_ARCHIVE"
+    },
+    {
+      "sourceId": "PILT_NHM_2016",
+      "title": "Piltdown Man hoax findings: Charles Dawson the likely fraudster",
+      "publisher": "Natural History Museum",
+      "url": "https://www.nhm.ac.uk/discover/news/2016/august/piltdown-man-charles-dawson-likely-fraudster.html",
+      "sourceType": "MUSEUM_RESEARCH_NEWS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "piltdown-v01",
+      "role": "FORENSIC_BREAKDOWN",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "인간 두개골 + orangutan 턱 + filed teeth + staining의 위조구조.",
+      "captionEn": "Hoax construction: human skull + orangutan jaw + filed teeth + staining.",
+      "altKo": "인간 두개골 + orangutan 턱 + filed teeth + staining의 위조구조.",
+      "altEn": "Hoax construction: human skull + orangutan jaw + filed teeth + staining.",
+      "sourceRefs": [
+        "PILT_NHM"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "piltdown-man__piltdown-v01__ko.png",
+          "sha256": "3039ce461fcdaa0ca4fc57f0899d5a28363f94ceeaf89db8eedec5b6d0e04ead",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "piltdown-man__piltdown-v01__en.png",
+          "sha256": "8a90d91388208b891523f9acae70c9d3db98d3e5cb891b52ddf776278a86887e",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "piltdown-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1912 발표 → 1949 fluorine test → 1953 폭로 → 2016 Dawson 재평가.",
+      "captionEn": "1912 announcement → 1949 fluorine test → 1953 exposure → 2016 Dawson reassessment.",
+      "altKo": "1912 발표 → 1949 fluorine test → 1953 폭로 → 2016 Dawson 재평가.",
+      "altEn": "1912 announcement → 1949 fluorine test → 1953 exposure → 2016 Dawson reassessment.",
+      "sourceRefs": [
+        "PILT_NHM",
+        "PILT_NHM_2016"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "piltdown-man__piltdown-v02__ko.png",
+          "sha256": "0e107559f8d55bdb669ba6f2cb2fd0339f3009ad1aaa798886ad39635c57fb2c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "piltdown-man__piltdown-v02__en.png",
+          "sha256": "032573afe8db3c23a2b3fb1bf2c0bf2fb6b23a358c6a09ccdd384cb875509f6d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Scientific Fraud",
+      "Explained Mystery"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [
+      "Sussex"
+    ],
+    "places": [
+      {
+        "name": "Piltdown",
+        "role": "claimed discovery site"
+      }
+    ],
+    "people": [
+      {
+        "name": "Charles Dawson",
+        "role": "leading fraud suspect"
+      },
+      {
+        "name": "Kenneth Oakley",
+        "role": "fluorine dating investigator"
+      }
+    ],
+    "organizations": [
+      "Natural History Museum"
+    ],
+    "dateRange": {
+      "start": "1912",
+      "end": "2016",
+      "precision": "announcement through modern forensic reassessment"
+    },
+    "era": "20th-century paleoanthropology",
+    "resolution": "HOAX_CONFIRMED_FULL_CONSPIRATOR_LIST_UNRESOLVED",
+    "searchAliases": [
+      "Piltdown hoax",
+      "Eoanthropus dawsoni"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1624,
+    "enBodyWords": 462,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

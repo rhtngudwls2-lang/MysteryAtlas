@@ -1,0 +1,383 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "stardust-stendec",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Star Dust와 STENDEC",
+    "canonicalTitleEn": "Star Dust / STENDEC Mystery",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "AVIATION_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "비행기 실종은 거의 풀렸지만 마지막 무전 “STENDEC”는 남았다",
+      "hook": "빙하에서 잔해가 나오며 산악 충돌이 확인됐다. 마지막 전송문자열의 정확한 뜻은 아직 확정되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1947년, 산티아고 도착 직전 항공기가 사라졌다",
+          "headingEn": "In 1947, an Airliner Vanished Just Before Santiago",
+          "textKo": "BSAA의 Lancastrian Star Dust는 부에노스아이레스에서 산티아고로 향하다 1947년 8월 2일 실종됐다. 당시 공식 사고보고서는 항공기가 안데스 어딘가에 있을 것으로 추정했지만 wreckage를 찾지 못했다고 기록했다. 마지막 교신에서는 도착예정시간에 이어 “STENDEC”가 세 차례 전송됐다.",
+          "textEn": "BSAA Lancastrian Star Dust disappeared on 2 August 1947 while flying from Buenos Aires to Santiago. The official accident report concluded that the aircraft was probably somewhere in the Andes but no wreckage had been located. Its final communications included an estimated arrival time followed by the repeated string “STENDEC.”"
+        },
+        {
+          "blockId": "wreck-02",
+          "type": "TURNING_POINT",
+          "headingKo": "1998년 빙하에서 엔진과 잔해가 나타나면서 사건이 바뀌었다",
+          "headingEn": "Wreckage Emerging From a Glacier in 1998 Changed the Case",
+          "textKo": "반세기 뒤 Tupungato 지역의 빙하에서 엔진·기체조각과 인체유해가 발견됐다. PBS/NOVA가 정리한 조사에 따르면 잔해분포는 항공기가 고속으로 빙하 또는 산악면에 충돌했고 이후 얼음에 묻혀 이동한 시나리오와 맞았다. 그래서 “비행기가 어디로 사라졌나”는 크게 해결됐다.",
+          "textEn": "Half a century later, an engine, wreckage, and human remains emerged from a glacier near Mount Tupungato. The investigation summarized by PBS/NOVA found the debris pattern consistent with a high-speed mountain or glacier impact followed by burial and transport within moving ice. The question of where the aircraft went was therefore largely answered."
+        },
+        {
+          "blockId": "navigation-03",
+          "type": "BACKGROUND",
+          "headingKo": "산맥을 넘었다고 착각한 항법오류가 사고 설명의 중심에 있다",
+          "headingEn": "A Navigation Error About Crossing the Andes Became Central to the Reconstruction",
+          "textKo": "당시 고고도 서풍과 jet stream 영향은 예상보다 강했고 지상속도를 판단하기 어려웠다. 사고재구성은 승무원이 안데스를 이미 넘어 산티아고 쪽에 있다고 생각했지만 실제로는 산악지대에 남아 있었을 가능성을 다룬다. 이는 엔진고장이나 폭발보다 위치판단 오류와 지형충돌을 설명한다.",
+          "textEn": "Strong high-altitude winds and jet-stream effects complicated estimates of groundspeed. Reconstructions consider the possibility that the crew believed it had already crossed the Andes and was approaching Santiago while it was still over the mountains. This fits controlled flight into terrain better than an explosion or catastrophic engine failure."
+        },
+        {
+          "blockId": "stendec-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "STENDEC는 실제 수신됐지만 뜻은 모른다",
+          "headingEn": "STENDEC Was Actually Received, but Its Meaning Is Unknown",
+          "textKo": "1947년 보고서와 후대 자료는 STENDEC가 한 번이 아니라 반복 전송됐다고 기록한다. 오타, Morse spacing 오류, 약어, 전파상태에 따른 오독 등 여러 설명이 제안됐다. 그러나 어떤 해석도 당시 송신자의 의도를 직접 입증하지 못했다.",
+          "textEn": "The 1947 report and later reconstructions record STENDEC as a repeated transmission, not a single stray character sequence. Proposed explanations include typing error, Morse spacing ambiguity, an abbreviation, or reception problems. None has direct evidence establishing what the radio operator intended."
+        },
+        {
+          "blockId": "aftermath-05",
+          "type": "AFTERMATH",
+          "headingKo": "큰 미스터리가 풀리면 작은 미스터리가 더 선명해질 수 있다",
+          "headingEn": "Solving the Big Mystery Made the Small One More Visible",
+          "textKo": "Star Dust 사례는 “미해결 사건”이 부분적으로 해결되는 방식을 보여준다. wreck와 빙하 이동이 사라진 항공기를 설명했지만, 그 과정이 마지막 한 단어의 뜻까지 자동으로 설명해주지는 않았다. 해결된 층과 미해결 층을 분리해야 한다.",
+          "textEn": "Star Dust shows how a mystery can be resolved in layers. Wreckage and glacier dynamics explain the vanished aircraft, but that does not automatically decode the final word. The solved and unresolved layers should be kept separate."
+        },
+        {
+          "blockId": "weather-045",
+          "type": "BACKGROUND",
+          "headingKo": "jet stream은 “네비게이터가 무능했다”는 단순한 설명보다 복잡하다",
+          "headingEn": "The Jet Stream Makes the Navigation Error More Complex Than Simple Incompetence",
+          "textKo": "1947년에는 고고도 서풍과 jet stream에 대한 운항경험이 오늘날보다 제한적이었다. 강한 역풍은 지상속도를 크게 낮추면서도 항공기의 대기속도·엔진상태를 정상처럼 보이게 할 수 있다. 산악구름 때문에 지상참조가 사라지면 dead reckoning 오차가 누적될 수 있다. 그래서 현대 재구성은 승무원이 단순히 지도를 잘못 읽었다기보다 당시 항법수단과 예상 밖 바람이 결합해 위치오차를 키웠을 가능성을 본다.",
+          "textEn": "In 1947 operational knowledge of high-altitude westerlies and the jet stream was far less mature than today. Strong headwinds could greatly reduce groundspeed while indicated airspeed and engine performance appeared normal. With mountains hidden by cloud, dead-reckoning errors could accumulate. Modern reconstructions therefore focus less on simplistic “pilot incompetence” and more on how the navigation methods of the time interacted with unexpectedly strong winds."
+        },
+        {
+          "blockId": "glacier-047",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "빙하가 잔해를 “숨긴” 것이 아니라 천천히 옮겼다",
+          "headingEn": "The Glacier Did Not Simply Hide the Wreck—It Transported It",
+          "textKo": "1998년 이후 조사에서 중요한 전환은 현재 잔해위치가 1947년 충돌지점과 같지 않다는 이해였다. 빙하는 두꺼워지면 중력에 따라 매우 천천히 아래로 흐르며 내부에 들어간 물체도 함께 이동시킨다. Star Dust는 충돌 직후 눈과 얼음에 묻힌 뒤 수십 년 동안 빙하와 함께 이동했고, 더 낮고 따뜻한 융해구역에 도달하면서 엔진과 기체조각이 다시 표면으로 나왔다. 이 메커니즘은 초기에 대규모 산악수색이 있었는데도 왜 잔해를 찾지 못했는지를 설명한다.",
+          "textEn": "A key post-1998 insight was that the location where debris emerged was not necessarily the 1947 impact site. Thick glaciers flow slowly downhill under gravity, carrying embedded objects with them. Star Dust was likely buried rapidly after impact, transported within the glacier for decades, and then exposed as the ice reached a lower ablation zone. That mechanism explains how a major mountain search could miss the wreck even though debris later appeared in an area that had been visited before."
+        },
+        {
+          "blockId": "report-049",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 공식보고서도 사고지점을 안데스로 추정했지만 물리증거가 없었다",
+          "headingEn": "The Original Report Already Suspected the Andes but Lacked Physical Confirmation",
+          "textKo": "1948년에 발간된 공식 사고보고서는 Star Dust가 산티아고 동쪽 안데스 어딘가에서 사고를 당했을 가능성을 가장 높게 봤다. 다만 wreckage를 발견하지 못했기 때문에 추정에 머물렀다. 반세기 뒤 나온 엔진·잔해·유해는 새 이야기를 만든 것이라기보다 오래된 항공조사 가설에 물리적 증거를 붙여준 셈이다.",
+          "textEn": "The 1948 accident report already considered an accident somewhere in the Andes east of Santiago the most likely scenario, but without wreckage it remained an inference. The engine, debris, and remains that appeared half a century later did not create an entirely new story; they supplied physical evidence to a long-standing accident reconstruction."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Star Dust는 1947년 안데스에서 산악/빙하 충돌로 추락했고, 빙하 이동 뒤 잔해가 수십 년 후 드러났다. 마지막 무전에서 STENDEC가 반복 수신됐다.\n\n확인되지 않음: STENDEC의 정확한 의미는 확정되지 않았다.",
+          "textEn": "Established: Star Dust crashed in the Andes in 1947, and wreckage later emerged after decades of glacial movement. The final transmission included the repeated string STENDEC.\n\nNot established: The exact intended meaning of STENDEC remains unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Star Dust는 1947년 안데스에서 산악/빙하 충돌로 추락했고, 빙하 이동 뒤 잔해가 수십 년 후 드러났다. 마지막 무전에서 STENDEC가 반복 수신됐다.",
+        "notEstablished": "확인되지 않음: STENDEC의 정확한 의미는 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "wreck-02",
+        "navigation-03",
+        "stendec-04",
+        "aftermath-05",
+        "weather-045",
+        "glacier-047",
+        "report-049"
+      ]
+    },
+    "en": {
+      "headline": "The Disappearance Is Mostly Solved—But the Final Morse Word “STENDEC” Remains",
+      "hook": "Glacial wreckage confirmed a mountain impact. The exact meaning of the final transmitted string remains unresolved.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1947년, 산티아고 도착 직전 항공기가 사라졌다",
+          "headingEn": "In 1947, an Airliner Vanished Just Before Santiago",
+          "textKo": "BSAA의 Lancastrian Star Dust는 부에노스아이레스에서 산티아고로 향하다 1947년 8월 2일 실종됐다. 당시 공식 사고보고서는 항공기가 안데스 어딘가에 있을 것으로 추정했지만 wreckage를 찾지 못했다고 기록했다. 마지막 교신에서는 도착예정시간에 이어 “STENDEC”가 세 차례 전송됐다.",
+          "textEn": "BSAA Lancastrian Star Dust disappeared on 2 August 1947 while flying from Buenos Aires to Santiago. The official accident report concluded that the aircraft was probably somewhere in the Andes but no wreckage had been located. Its final communications included an estimated arrival time followed by the repeated string “STENDEC.”"
+        },
+        {
+          "blockId": "wreck-02",
+          "type": "TURNING_POINT",
+          "headingKo": "1998년 빙하에서 엔진과 잔해가 나타나면서 사건이 바뀌었다",
+          "headingEn": "Wreckage Emerging From a Glacier in 1998 Changed the Case",
+          "textKo": "반세기 뒤 Tupungato 지역의 빙하에서 엔진·기체조각과 인체유해가 발견됐다. PBS/NOVA가 정리한 조사에 따르면 잔해분포는 항공기가 고속으로 빙하 또는 산악면에 충돌했고 이후 얼음에 묻혀 이동한 시나리오와 맞았다. 그래서 “비행기가 어디로 사라졌나”는 크게 해결됐다.",
+          "textEn": "Half a century later, an engine, wreckage, and human remains emerged from a glacier near Mount Tupungato. The investigation summarized by PBS/NOVA found the debris pattern consistent with a high-speed mountain or glacier impact followed by burial and transport within moving ice. The question of where the aircraft went was therefore largely answered."
+        },
+        {
+          "blockId": "navigation-03",
+          "type": "BACKGROUND",
+          "headingKo": "산맥을 넘었다고 착각한 항법오류가 사고 설명의 중심에 있다",
+          "headingEn": "A Navigation Error About Crossing the Andes Became Central to the Reconstruction",
+          "textKo": "당시 고고도 서풍과 jet stream 영향은 예상보다 강했고 지상속도를 판단하기 어려웠다. 사고재구성은 승무원이 안데스를 이미 넘어 산티아고 쪽에 있다고 생각했지만 실제로는 산악지대에 남아 있었을 가능성을 다룬다. 이는 엔진고장이나 폭발보다 위치판단 오류와 지형충돌을 설명한다.",
+          "textEn": "Strong high-altitude winds and jet-stream effects complicated estimates of groundspeed. Reconstructions consider the possibility that the crew believed it had already crossed the Andes and was approaching Santiago while it was still over the mountains. This fits controlled flight into terrain better than an explosion or catastrophic engine failure."
+        },
+        {
+          "blockId": "stendec-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "STENDEC는 실제 수신됐지만 뜻은 모른다",
+          "headingEn": "STENDEC Was Actually Received, but Its Meaning Is Unknown",
+          "textKo": "1947년 보고서와 후대 자료는 STENDEC가 한 번이 아니라 반복 전송됐다고 기록한다. 오타, Morse spacing 오류, 약어, 전파상태에 따른 오독 등 여러 설명이 제안됐다. 그러나 어떤 해석도 당시 송신자의 의도를 직접 입증하지 못했다.",
+          "textEn": "The 1947 report and later reconstructions record STENDEC as a repeated transmission, not a single stray character sequence. Proposed explanations include typing error, Morse spacing ambiguity, an abbreviation, or reception problems. None has direct evidence establishing what the radio operator intended."
+        },
+        {
+          "blockId": "aftermath-05",
+          "type": "AFTERMATH",
+          "headingKo": "큰 미스터리가 풀리면 작은 미스터리가 더 선명해질 수 있다",
+          "headingEn": "Solving the Big Mystery Made the Small One More Visible",
+          "textKo": "Star Dust 사례는 “미해결 사건”이 부분적으로 해결되는 방식을 보여준다. wreck와 빙하 이동이 사라진 항공기를 설명했지만, 그 과정이 마지막 한 단어의 뜻까지 자동으로 설명해주지는 않았다. 해결된 층과 미해결 층을 분리해야 한다.",
+          "textEn": "Star Dust shows how a mystery can be resolved in layers. Wreckage and glacier dynamics explain the vanished aircraft, but that does not automatically decode the final word. The solved and unresolved layers should be kept separate."
+        },
+        {
+          "blockId": "weather-045",
+          "type": "BACKGROUND",
+          "headingKo": "jet stream은 “네비게이터가 무능했다”는 단순한 설명보다 복잡하다",
+          "headingEn": "The Jet Stream Makes the Navigation Error More Complex Than Simple Incompetence",
+          "textKo": "1947년에는 고고도 서풍과 jet stream에 대한 운항경험이 오늘날보다 제한적이었다. 강한 역풍은 지상속도를 크게 낮추면서도 항공기의 대기속도·엔진상태를 정상처럼 보이게 할 수 있다. 산악구름 때문에 지상참조가 사라지면 dead reckoning 오차가 누적될 수 있다. 그래서 현대 재구성은 승무원이 단순히 지도를 잘못 읽었다기보다 당시 항법수단과 예상 밖 바람이 결합해 위치오차를 키웠을 가능성을 본다.",
+          "textEn": "In 1947 operational knowledge of high-altitude westerlies and the jet stream was far less mature than today. Strong headwinds could greatly reduce groundspeed while indicated airspeed and engine performance appeared normal. With mountains hidden by cloud, dead-reckoning errors could accumulate. Modern reconstructions therefore focus less on simplistic “pilot incompetence” and more on how the navigation methods of the time interacted with unexpectedly strong winds."
+        },
+        {
+          "blockId": "glacier-047",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "빙하가 잔해를 “숨긴” 것이 아니라 천천히 옮겼다",
+          "headingEn": "The Glacier Did Not Simply Hide the Wreck—It Transported It",
+          "textKo": "1998년 이후 조사에서 중요한 전환은 현재 잔해위치가 1947년 충돌지점과 같지 않다는 이해였다. 빙하는 두꺼워지면 중력에 따라 매우 천천히 아래로 흐르며 내부에 들어간 물체도 함께 이동시킨다. Star Dust는 충돌 직후 눈과 얼음에 묻힌 뒤 수십 년 동안 빙하와 함께 이동했고, 더 낮고 따뜻한 융해구역에 도달하면서 엔진과 기체조각이 다시 표면으로 나왔다. 이 메커니즘은 초기에 대규모 산악수색이 있었는데도 왜 잔해를 찾지 못했는지를 설명한다.",
+          "textEn": "A key post-1998 insight was that the location where debris emerged was not necessarily the 1947 impact site. Thick glaciers flow slowly downhill under gravity, carrying embedded objects with them. Star Dust was likely buried rapidly after impact, transported within the glacier for decades, and then exposed as the ice reached a lower ablation zone. That mechanism explains how a major mountain search could miss the wreck even though debris later appeared in an area that had been visited before."
+        },
+        {
+          "blockId": "report-049",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "초기 공식보고서도 사고지점을 안데스로 추정했지만 물리증거가 없었다",
+          "headingEn": "The Original Report Already Suspected the Andes but Lacked Physical Confirmation",
+          "textKo": "1948년에 발간된 공식 사고보고서는 Star Dust가 산티아고 동쪽 안데스 어딘가에서 사고를 당했을 가능성을 가장 높게 봤다. 다만 wreckage를 발견하지 못했기 때문에 추정에 머물렀다. 반세기 뒤 나온 엔진·잔해·유해는 새 이야기를 만든 것이라기보다 오래된 항공조사 가설에 물리적 증거를 붙여준 셈이다.",
+          "textEn": "The 1948 accident report already considered an accident somewhere in the Andes east of Santiago the most likely scenario, but without wreckage it remained an inference. The engine, debris, and remains that appeared half a century later did not create an entirely new story; they supplied physical evidence to a long-standing accident reconstruction."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Star Dust는 1947년 안데스에서 산악/빙하 충돌로 추락했고, 빙하 이동 뒤 잔해가 수십 년 후 드러났다. 마지막 무전에서 STENDEC가 반복 수신됐다.\n\n확인되지 않음: STENDEC의 정확한 의미는 확정되지 않았다.",
+          "textEn": "Established: Star Dust crashed in the Andes in 1947, and wreckage later emerged after decades of glacial movement. The final transmission included the repeated string STENDEC.\n\nNot established: The exact intended meaning of STENDEC remains unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Star Dust crashed in the Andes in 1947, and wreckage later emerged after decades of glacial movement. The final transmission included the repeated string STENDEC.",
+        "notEstablished": "Not established: The exact intended meaning of STENDEC remains unresolved."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "wreck-02",
+        "navigation-03",
+        "stendec-04",
+        "aftermath-05",
+        "weather-045",
+        "glacier-047",
+        "report-049"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "STD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Star Dust는 1947년 안데스에서 추락했다.",
+      "statementEn": "Star Dust crashed in the Andes in 1947.",
+      "sourceRefs": [
+        "STENDEC_REPORT",
+        "STENDEC_NOVA"
+      ]
+    },
+    {
+      "claimId": "STD-C2",
+      "status": "CONFIRMED",
+      "statementKo": "빙하에서 발견된 잔해가 오랜 실종의 물리적 경로를 설명했다.",
+      "statementEn": "Wreckage emerging from a glacier explained how the aircraft remained hidden for decades.",
+      "sourceRefs": [
+        "STENDEC_NOVA"
+      ]
+    },
+    {
+      "claimId": "STD-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "STENDEC의 정확한 의미는 확정되지 않았다.",
+      "statementEn": "The exact meaning of STENDEC remains unresolved.",
+      "sourceRefs": [
+        "STENDEC_REPORT",
+        "STENDEC_NOVA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "STENDEC_REPORT",
+      "title": "1947 Official Accident Report",
+      "publisher": "Ministry of Civil Aviation / PBS NOVA reproduction",
+      "url": "https://www.pbs.org/wgbh/nova/vanished/sten_report.html",
+      "sourceType": "OFFICIAL_ACCIDENT_REPORT_REPRODUCTION"
+    },
+    {
+      "sourceId": "STENDEC_NOVA",
+      "title": "Vanished!",
+      "publisher": "PBS NOVA",
+      "url": "https://www.pbs.org/wgbh/nova/transcripts/2802vanished.html",
+      "sourceType": "DOCUMENTARY_INVESTIGATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "stendec-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1947 실종 → 1998 잔해 발견 → 빙하 이동 재구성 → STENDEC 잔여 미스터리.",
+      "captionEn": "1947 disappearance → 1998 wreck discovery → glacial reconstruction → unresolved STENDEC.",
+      "altKo": "1947 실종 → 1998 잔해 발견 → 빙하 이동 재구성 → STENDEC 잔여 미스터리.",
+      "altEn": "1947 disappearance → 1998 wreck discovery → glacial reconstruction → unresolved STENDEC.",
+      "sourceRefs": [
+        "STENDEC_REPORT",
+        "STENDEC_NOVA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "stardust-stendec__stendec-v01__ko.png",
+          "sha256": "7fe15ae69590dc2224aa45bf2558dd9b88870084edd6d3db3898f63da846fc7a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "stardust-stendec__stendec-v01__en.png",
+          "sha256": "cd9355418e9b13bbb8580bb8af798f3f58cb28f65418db187a2edcf6ab56d07a",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "stendec-v02",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "해결된 crash mechanism과 미해결 STENDEC 의미를 분리.",
+      "captionEn": "Separate the resolved crash reconstruction from the unresolved STENDEC meaning.",
+      "altKo": "해결된 crash mechanism과 미해결 STENDEC 의미를 분리.",
+      "altEn": "Separate the resolved crash reconstruction from the unresolved STENDEC meaning.",
+      "sourceRefs": [
+        "STENDEC_NOVA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "stardust-stendec__stendec-v02__ko.png",
+          "sha256": "c6d8e92604961fab68eee5255d1e5a2df624eb8c108f4db0096f6bc7235c243a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "stardust-stendec__stendec-v02__en.png",
+          "sha256": "49a8ba4a6ea96f217a281290d8826c53431dcca367248f7a1e6afedda0c03f52",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Solved Mystery / Residual Mystery"
+    ],
+    "countries": [
+      "Argentina",
+      "Chile"
+    ],
+    "regions": [
+      "Andes"
+    ],
+    "places": [
+      {
+        "name": "Mount Tupungato",
+        "role": "crash area"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "British South American Airways"
+    ],
+    "dateRange": {
+      "start": "1947-08-02",
+      "end": "2001",
+      "precision": "crash through modern reconstruction"
+    },
+    "era": "postwar aviation",
+    "resolution": "CRASH_LARGELY_RESOLVED_STENDEC_UNRESOLVED",
+    "searchAliases": [
+      "Star Dust",
+      "Stardust STENDEC"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1545,
+    "enBodyWords": 463,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

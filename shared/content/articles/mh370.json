@@ -1,0 +1,668 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "mh370",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "MH370",
+    "canonicalTitleEn": "Malaysia Airlines Flight 370",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "STANDARD_STORY",
+    "editorialFamily": "AVIATION_DOSSIER",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "위성 handshake와 표류잔해는 경로를 좁혔지만, 2026년에도 주 wreck는 찾지 못했다",
+      "hook": "사건에는 실제 데이터가 많다. 가장 큰 빈칸은 남인도양의 정확한 충돌지점과 왜 항공기가 그 경로로 갔는지다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2014년 3월 8일, 정기편이 레이더와 관제망에서 사라졌다",
+          "headingEn": "On 8 March 2014, a Scheduled Flight Disappeared From the Normal Air-Traffic Picture",
+          "textKo": "Malaysia Airlines MH370은 Kuala Lumpur에서 Beijing으로 향하던 Boeing 777-200ER이었다. 이륙 후 정상 교신이 이어졌지만 남중국해 상공에서 민간 2차감시레이더 신호가 사라졌고, 이후 군 레이더 자료는 항공기가 말레이반도를 가로질러 안다만해 방향으로 되돌아간 것으로 해석됐다. 탑승자는 239명이었다.",
+          "textEn": "Malaysia Airlines Flight 370 was a Boeing 777-200ER flying from Kuala Lumpur to Beijing. After normal early communications, its civil secondary-surveillance signal disappeared over the South China Sea. Military radar was later interpreted as showing the aircraft crossing back over the Malay Peninsula toward the Andaman Sea. There were 239 people aboard."
+        },
+        {
+          "blockId": "satcom-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 중요한 단서는 음성통화가 아니라 Inmarsat 시스템의 자동 handshake였다",
+          "headingEn": "The Crucial Clues Came From Automated Inmarsat Handshakes, Not Voice Calls",
+          "textKo": "항공기의 SATCOM 시스템은 비행 중 Inmarsat 위성과 여러 차례 자동 log-on handshake를 교환했다. 조사팀은 burst timing offset과 burst frequency offset을 이용해 각 handshake 시점에 항공기가 있을 수 있는 거리호(arc)와 운동방향을 추정했다. 이 분석은 항공기가 북쪽이 아니라 남인도양 쪽으로 장시간 비행했을 가능성을 크게 높였다.",
+          "textEn": "The aircraft’s SATCOM system exchanged a series of automated log-on handshakes with an Inmarsat satellite. Investigators used burst timing offset and burst frequency offset to estimate distance arcs and motion at each handshake. That analysis strongly favored a prolonged flight into the southern Indian Ocean rather than a northern route."
+        },
+        {
+          "blockId": "search-03",
+          "type": "BACKGROUND",
+          "headingKo": "남인도양은 탐색하기 가장 어려운 해역 중 하나다",
+          "headingEn": "The Southern Indian Ocean Is One of the Hardest Search Environments",
+          "textKo": "가능경로는 넓고 수심은 수천 미터에 이르며 해저지형도 복잡하다. 초기 수색은 해상·항공수색에서 시작해 bathymetry와 towfish sonar, autonomous underwater vehicle을 이용한 해저탐사로 바뀌었다. ATSB 주도 수색은 광대한 영역을 조사했지만 주 wreck를 찾지 못했다.",
+          "textEn": "The possible route covered a huge area of ocean, much of it several kilometers deep with complex seabed terrain. The search evolved from surface and aerial operations to bathymetric mapping, towed sonar, and autonomous underwater vehicles. The ATSB-led underwater search covered a vast area without locating the main wreck."
+        },
+        {
+          "blockId": "debris-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Réunion의 flaperon과 여러 표류잔해가 남인도양 시나리오를 실제 물리증거로 보강했다",
+          "headingEn": "The Réunion Flaperon and Other Drift Debris Added Physical Evidence",
+          "textKo": "2015년 Réunion Island에서 발견된 flaperon은 MH370의 것으로 공식 확인됐다. 이후 서인도양 연안과 섬에서 다른 항공기 부품들이 발견됐고 일부는 MH370과 확인 또는 매우 높은 가능성으로 연결됐다. 표류잔해는 항공기가 남인도양에서 끝났다는 위성분석과 양립하지만, 해류의 불확실성 때문에 정확한 충돌점 하나를 역산하지는 못한다.",
+          "textEn": "A flaperon found on Réunion Island in 2015 was officially identified as coming from MH370. Other aircraft debris later appeared along western Indian Ocean coasts and islands, with some pieces confirmed or assessed as highly likely to be from the flight. Drift evidence is consistent with a southern Indian Ocean endpoint, but ocean-current uncertainty prevents precise backtracking to one impact point."
+        },
+        {
+          "blockId": "last-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "마지막 위성교신 뒤의 급격한 주파수 변화는 연료고갈 뒤 전력재부팅과 하강모델에 쓰였다",
+          "headingEn": "The Final Satellite Event Informed Fuel-Exhaustion and Descent Modeling",
+          "textKo": "마지막 SATCOM log-on과 BFO 변화는 연료고갈로 엔진이 멈추고 전력계통이 재구성된 뒤 SATCOM이 다시 로그인했을 가능성과 연결돼 분석됐다. 조사팀은 여러 descent rate와 autopilot 상태를 모델링해 탐색범위를 조정했다. 하지만 이 신호만으로 항공기의 마지막 몇 분을 하나의 정확한 궤적으로 고정할 수는 없다.",
+          "textEn": "The final SATCOM log-on and BFO behavior were analyzed in connection with a scenario in which fuel exhaustion stopped the engines, electrical systems reconfigured, and SATCOM logged on again. Investigators modeled multiple descent rates and autopilot states to refine search areas. The signal does not uniquely determine one exact trajectory for the final minutes."
+        },
+        {
+          "blockId": "human-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "의도적 비행변경 가능성은 조사대상이지만 동기·행위자를 확정하지 못했다",
+          "headingEn": "Deliberate Course Changes Are Part of the Evidence, but Motive and Actor Remain Unresolved",
+          "textKo": "항공기의 transponder와 통신체계 상태변화, 항로이탈, 장거리 비행 때문에 의도적 조종 가능성이 반복 논의됐다. 그러나 말레이시아 안전조사보고서는 증거만으로 조종사·승무원·제3자가 어떤 의도로 어떤 행동을 했는지 확정할 수 없었다. 확정된 trajectory evidence와 심리적 동기추정을 분리해야 한다.",
+          "textEn": "The aircraft’s communication-system changes, route deviation, and long subsequent flight have kept deliberate control scenarios under scrutiny. But the Malaysian safety investigation could not establish from available evidence which person, if any, acted with what intent. Trajectory evidence must be separated from psychological inference about motive."
+        },
+        {
+          "blockId": "conspiracy-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "납치·격추·원격해킹 등 많은 이론은 같은 증거수준이 아니다",
+          "headingEn": "Hijacking, Shootdown, and Remote-Hacking Theories Do Not Have Equal Evidence",
+          "textKo": "사건의 공백이 크기 때문에 군사격추, 비밀착륙, 원격해킹 등 수많은 이론이 생겼다. 하지만 공식 레이더·위성·표류잔해와 맞지 않거나 추가 증거가 없는 주장은 가능성 목록에 있다는 이유만으로 동등한 가설이 되지 않는다. 미해결은 ‘모든 설명이 같은 확률’이라는 뜻이 아니다.",
+          "textEn": "Large gaps in the record generated theories involving shootdown, secret landing, remote takeover, and other scenarios. But a theory does not gain equal evidentiary weight merely by remaining logically possible. Claims inconsistent with radar, satellite, and debris evidence—or unsupported by additional data—should not be treated as equal to evidence-driven scenarios."
+        },
+        {
+          "blockId": "2018-08",
+          "type": "AFTERMATH",
+          "headingKo": "2018년 Ocean Infinity 수색도 wreck를 찾지 못했다",
+          "headingEn": "The 2018 Ocean Infinity Search Also Failed to Locate the Wreck",
+          "textKo": "ATSB 수색 종료 후 Ocean Infinity는 2018년 “no find, no fee” 방식으로 추가 해저수색을 수행했다. 새로운 영역을 고해상도로 탐사했지만 주 wreck는 발견되지 않았다. 이 실패는 위성분석 자체를 무효화하기보다, 가능한 impact area가 여전히 충분히 넓고 해저탐지에는 blind spot과 지형한계가 있음을 보여줬다.",
+          "textEn": "After the ATSB-led search ended, Ocean Infinity conducted a 2018 no-find-no-fee underwater search. It mapped additional seabed at high resolution but did not locate the main wreck. The failure did not invalidate the satellite analysis; it showed that the possible impact area remained broad and seabed search can have coverage and terrain limitations."
+        },
+        {
+          "blockId": "2025-09",
+          "type": "TURNING_POINT",
+          "headingKo": "2025년 말~2026년 초 새 15,000km² 계약 구역에서 다시 수색했다",
+          "headingEn": "A New 15,000-km² Contract Area Was Searched in 2025–2026",
+          "textKo": "말레이시아 정부는 2025년 3월 Ocean Infinity와 새로운 약 15,000km² 우선수색구역 계약을 체결했다. 교통부의 2026년 업데이트에 따르면 계약 이후 두 단계에서 총 28일 탐색이 이뤄졌고 약 7,571km²의 해저를 조사했다. 2단계는 2026년 1월 23일 종료됐다.",
+          "textEn": "Malaysia signed a new agreement with Ocean Infinity in March 2025 covering a priority area of roughly 15,000 km². According to a 2026 Ministry of Transport update, 28 operational search days after the agreement surveyed about 7,571 km² of seabed across two phases. The second phase ended on 23 January 2026."
+        },
+        {
+          "blockId": "result-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2026년 공식 업데이트 시점에도 위치를 확정할 단서는 없었다",
+          "headingEn": "The 2026 Official Update Still Reported No Evidence Fixing the Wreck Location",
+          "textKo": "말레이시아 교통부는 2025~2026 수색에서도 MH370 wreck 위치를 확인할 증거를 찾지 못했다고 발표했다. 이는 탐색이 실패했다는 명확한 사실이지만, “해당 남인도양 가설이 틀렸다”거나 “wreck가 탐색구역에 절대 없다”는 뜻은 아니다. 조사범위와 탐지확률을 구분해야 한다.",
+          "textEn": "Malaysia’s Ministry of Transport reported that the 2025–2026 operation had not found evidence confirming the location of the MH370 wreck. That is a clear negative search result, but it does not prove the southern Indian Ocean framework is wrong or that no wreck exists anywhere in the contracted area. Search coverage and detection probability are separate issues."
+        },
+        {
+          "blockId": "why-11",
+          "type": "BACKGROUND",
+          "headingKo": "wreck 발견이 중요한 이유는 위치만이 아니라 원인을 판별할 증거가 있기 때문이다",
+          "headingEn": "Finding the Wreck Matters Because It Could Answer Cause, Not Just Location",
+          "textKo": "비행기록장치, cockpit voice recorder, 손상분포, flap 상태, 압력·화재 흔적은 마지막 비행의 원인을 크게 좁힐 수 있다. 현재는 위성·레이더·표류자료로 경로를 복원하지만, 왜 항로가 바뀌었고 마지막에 어떤 상태였는지를 직접 보여주는 기체증거가 부족하다. wreck는 사건의 지리적 좌표이자 원인조사의 핵심 데이터다.",
+          "textEn": "Flight recorders, cockpit voice data, damage patterns, flap configuration, and evidence of depressurization or fire could sharply narrow the cause. Today investigators reconstruct the route from satellite, radar, and drift data, but physical evidence explaining why the route changed and what happened at the end is missing. The wreck is therefore both a location and the central forensic dataset."
+        },
+        {
+          "blockId": "search-115",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수색 “면적”만으로 탐지확률을 판단할 수는 없다",
+          "headingEn": "Search Area Alone Does Not Equal Detection Probability",
+          "textKo": "심해수색은 지도에서 칠한 면적과 실제 탐지품질이 일치하지 않는다. sonar 고도, 해저경사, 협곡, 센서해상도, vehicle track spacing, 날씨와 장비고장이 모두 coverage quality를 바꾼다. 어떤 구역은 여러 번 겹쳐 보고 다른 구역은 지형 때문에 음영이 남을 수 있다. 따라서 “이미 수만 km²를 찾았으니 그곳에는 없다”거나 반대로 “조금만 더 찾으면 반드시 나온다”는 단정은 둘 다 과도하다. 최신 우선구역은 기존 위성·드리프트·성능모델을 재평가해 선택됐지만, wreck 위치를 직접 알려주는 새로운 beacon이 있는 것은 아니다.",
+          "textEn": "Deep-ocean search quality is not identical to the colored area on a map. Sonar altitude, seabed slope, canyons, sensor resolution, vehicle track spacing, weather, and equipment outages all affect effective coverage. Some patches may be scanned with overlap while terrain leaves shadows elsewhere. It is therefore too strong to say either “tens of thousands of square kilometers have been searched, so it cannot be there” or “a little more searching must find it.” New priority zones are selected by re-evaluating satellite, drift, and aircraft-performance models—not by a new beacon giving the wreck location."
+        },
+        {
+          "blockId": "families-118",
+          "type": "AFTERMATH",
+          "headingKo": "수색은 기술 프로젝트이면서 동시에 239명 가족의 장기적 불확실성 문제다",
+          "headingEn": "The Search Is Also a Long-Term Uncertainty for the Families of 239 People",
+          "textKo": "MH370 수색을 단지 해저공학 문제로만 보면 사건의 다른 축을 놓치게 된다. 탑승자 가족은 사망의 장소와 원인, 유해와 기체가 없는 상태에서 10년 넘게 공식 업데이트와 새로운 수색결정을 기다려 왔다. 말레이시아 정부가 2025년 계약을 다시 체결한 이유에도 가족에게 가능한 답을 찾겠다는 공적 책임이 포함돼 있다. 새로운 수색이 실패할 때마다 “아무것도 알아낸 것이 없다”고 느끼기 쉽지만, 실제로는 탐색구역에서 가능한 위치를 하나씩 배제하는 정보도 축적된다. 다만 그런 negative evidence가 가족에게 사건의 종결을 제공하지 못한다는 점이 이 사건의 특별한 무게다.",
+          "textEn": "Treating MH370 as only a deep-sea engineering problem misses another dimension: the families of 239 people have spent more than a decade without a known crash site, recovered main wreck, or complete explanation. Malaysia’s decision to renew the search in 2025 also reflects a public responsibility to pursue answers for those families. Each unsuccessful search can feel like no progress at all, even though negative search results eliminate some possible locations. That technical narrowing does not provide the human closure that recovery of the aircraft and a defensible causal reconstruction could offer."
+        },
+        {
+          "blockId": "data-119",
+          "type": "BACKGROUND",
+          "headingKo": "이 사건은 “데이터가 없는 미스터리”가 아니라 서로 다른 데이터의 해상도가 맞지 않는 사건이다",
+          "headingEn": "MH370 Is Not a Mystery With No Data—It Is a Case Where Different Data Have Different Resolution",
+          "textKo": "MH370에는 1차 레이더, 군레이더, SATCOM 로그, 항공기 성능모델, 해류모델, 표류잔해, 해저 sonar 등 매우 다양한 자료가 있다. 문제는 각 자료가 같은 질문에 답하지 않는다는 점이다. 레이더는 초기 경로를 비교적 잘 보여주지만 남인도양 마지막 구간에는 닿지 않는다. 위성 handshake는 거리와 운동을 제약하지만 GPS 좌표 하나를 주지 않는다. 표류잔해는 대양분지를 지지하지만 출발점을 넓은 확률분포로만 되돌린다. 서로 다른 자료를 결합할수록 후보영역은 좁아지지만, 하나의 정확한 점과 원인으로 수렴하려면 여전히 물리적 wreck 증거가 필요하다.",
+          "textEn": "MH370 actually has many data sources: civilian radar, military radar, SATCOM logs, aircraft-performance models, ocean-drift models, recovered debris, and seabed sonar. The problem is that they answer different questions at different resolutions. Radar constrains the early route but not the final southern Indian Ocean segment. Satellite handshakes constrain distance and motion without yielding one GPS coordinate. Drift debris supports an ocean basin but backtracks only to broad probability regions. Combining them narrows the search, yet a precise point and causal reconstruction still require physical wreck evidence."
+        },
+        {
+          "blockId": "boundary-12",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: MH370은 2014년 3월 8일 실종됐고 Inmarsat handshake, 군레이더, 일부 확인된 표류잔해는 남인도양으로 이어지는 경로를 지지한다. 2025~2026 Ocean Infinity 수색은 약 7,571km²를 조사했지만 위치를 확정하지 못했다.\n\n확인되지 않음: 주 wreck의 정확한 위치, 비행경로를 바꾼 주체와 동기, 마지막 몇 분의 비행상태, 실종을 초래한 정확한 사건연쇄는 미해결이다.",
+          "textEn": "Established: MH370 disappeared on 8 March 2014. Inmarsat handshakes, military radar, and confirmed drift debris support a route ending in the southern Indian Ocean. The 2025–2026 Ocean Infinity operation surveyed about 7,571 km² without confirming the wreck location.\n\nNot established: The exact main-wreck location, who or what caused the route change, the final flight state, and the precise chain of events remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: MH370은 2014년 3월 8일 실종됐고 Inmarsat handshake, 군레이더, 일부 확인된 표류잔해는 남인도양으로 이어지는 경로를 지지한다. 2025~2026 Ocean Infinity 수색은 약 7,571km²를 조사했지만 위치를 확정하지 못했다.",
+        "notEstablished": "확인되지 않음: 주 wreck의 정확한 위치, 비행경로를 바꾼 주체와 동기, 마지막 몇 분의 비행상태, 실종을 초래한 정확한 사건연쇄는 미해결이다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "satcom-02",
+        "search-03",
+        "debris-04",
+        "last-05",
+        "human-06",
+        "conspiracy-07",
+        "2018-08",
+        "2025-09",
+        "result-10",
+        "why-11",
+        "search-115",
+        "families-118",
+        "data-119"
+      ]
+    },
+    "en": {
+      "headline": "Satellite Handshakes and Drift Debris Narrowed the Search—But the Main Wreck Was Still Unlocated in 2026",
+      "hook": "The case contains substantial real data. The largest gaps are the exact impact site in the southern Indian Ocean and why the aircraft followed that path.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2014년 3월 8일, 정기편이 레이더와 관제망에서 사라졌다",
+          "headingEn": "On 8 March 2014, a Scheduled Flight Disappeared From the Normal Air-Traffic Picture",
+          "textKo": "Malaysia Airlines MH370은 Kuala Lumpur에서 Beijing으로 향하던 Boeing 777-200ER이었다. 이륙 후 정상 교신이 이어졌지만 남중국해 상공에서 민간 2차감시레이더 신호가 사라졌고, 이후 군 레이더 자료는 항공기가 말레이반도를 가로질러 안다만해 방향으로 되돌아간 것으로 해석됐다. 탑승자는 239명이었다.",
+          "textEn": "Malaysia Airlines Flight 370 was a Boeing 777-200ER flying from Kuala Lumpur to Beijing. After normal early communications, its civil secondary-surveillance signal disappeared over the South China Sea. Military radar was later interpreted as showing the aircraft crossing back over the Malay Peninsula toward the Andaman Sea. There were 239 people aboard."
+        },
+        {
+          "blockId": "satcom-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 중요한 단서는 음성통화가 아니라 Inmarsat 시스템의 자동 handshake였다",
+          "headingEn": "The Crucial Clues Came From Automated Inmarsat Handshakes, Not Voice Calls",
+          "textKo": "항공기의 SATCOM 시스템은 비행 중 Inmarsat 위성과 여러 차례 자동 log-on handshake를 교환했다. 조사팀은 burst timing offset과 burst frequency offset을 이용해 각 handshake 시점에 항공기가 있을 수 있는 거리호(arc)와 운동방향을 추정했다. 이 분석은 항공기가 북쪽이 아니라 남인도양 쪽으로 장시간 비행했을 가능성을 크게 높였다.",
+          "textEn": "The aircraft’s SATCOM system exchanged a series of automated log-on handshakes with an Inmarsat satellite. Investigators used burst timing offset and burst frequency offset to estimate distance arcs and motion at each handshake. That analysis strongly favored a prolonged flight into the southern Indian Ocean rather than a northern route."
+        },
+        {
+          "blockId": "search-03",
+          "type": "BACKGROUND",
+          "headingKo": "남인도양은 탐색하기 가장 어려운 해역 중 하나다",
+          "headingEn": "The Southern Indian Ocean Is One of the Hardest Search Environments",
+          "textKo": "가능경로는 넓고 수심은 수천 미터에 이르며 해저지형도 복잡하다. 초기 수색은 해상·항공수색에서 시작해 bathymetry와 towfish sonar, autonomous underwater vehicle을 이용한 해저탐사로 바뀌었다. ATSB 주도 수색은 광대한 영역을 조사했지만 주 wreck를 찾지 못했다.",
+          "textEn": "The possible route covered a huge area of ocean, much of it several kilometers deep with complex seabed terrain. The search evolved from surface and aerial operations to bathymetric mapping, towed sonar, and autonomous underwater vehicles. The ATSB-led underwater search covered a vast area without locating the main wreck."
+        },
+        {
+          "blockId": "debris-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Réunion의 flaperon과 여러 표류잔해가 남인도양 시나리오를 실제 물리증거로 보강했다",
+          "headingEn": "The Réunion Flaperon and Other Drift Debris Added Physical Evidence",
+          "textKo": "2015년 Réunion Island에서 발견된 flaperon은 MH370의 것으로 공식 확인됐다. 이후 서인도양 연안과 섬에서 다른 항공기 부품들이 발견됐고 일부는 MH370과 확인 또는 매우 높은 가능성으로 연결됐다. 표류잔해는 항공기가 남인도양에서 끝났다는 위성분석과 양립하지만, 해류의 불확실성 때문에 정확한 충돌점 하나를 역산하지는 못한다.",
+          "textEn": "A flaperon found on Réunion Island in 2015 was officially identified as coming from MH370. Other aircraft debris later appeared along western Indian Ocean coasts and islands, with some pieces confirmed or assessed as highly likely to be from the flight. Drift evidence is consistent with a southern Indian Ocean endpoint, but ocean-current uncertainty prevents precise backtracking to one impact point."
+        },
+        {
+          "blockId": "last-05",
+          "type": "HYPOTHESIS",
+          "headingKo": "마지막 위성교신 뒤의 급격한 주파수 변화는 연료고갈 뒤 전력재부팅과 하강모델에 쓰였다",
+          "headingEn": "The Final Satellite Event Informed Fuel-Exhaustion and Descent Modeling",
+          "textKo": "마지막 SATCOM log-on과 BFO 변화는 연료고갈로 엔진이 멈추고 전력계통이 재구성된 뒤 SATCOM이 다시 로그인했을 가능성과 연결돼 분석됐다. 조사팀은 여러 descent rate와 autopilot 상태를 모델링해 탐색범위를 조정했다. 하지만 이 신호만으로 항공기의 마지막 몇 분을 하나의 정확한 궤적으로 고정할 수는 없다.",
+          "textEn": "The final SATCOM log-on and BFO behavior were analyzed in connection with a scenario in which fuel exhaustion stopped the engines, electrical systems reconfigured, and SATCOM logged on again. Investigators modeled multiple descent rates and autopilot states to refine search areas. The signal does not uniquely determine one exact trajectory for the final minutes."
+        },
+        {
+          "blockId": "human-06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "의도적 비행변경 가능성은 조사대상이지만 동기·행위자를 확정하지 못했다",
+          "headingEn": "Deliberate Course Changes Are Part of the Evidence, but Motive and Actor Remain Unresolved",
+          "textKo": "항공기의 transponder와 통신체계 상태변화, 항로이탈, 장거리 비행 때문에 의도적 조종 가능성이 반복 논의됐다. 그러나 말레이시아 안전조사보고서는 증거만으로 조종사·승무원·제3자가 어떤 의도로 어떤 행동을 했는지 확정할 수 없었다. 확정된 trajectory evidence와 심리적 동기추정을 분리해야 한다.",
+          "textEn": "The aircraft’s communication-system changes, route deviation, and long subsequent flight have kept deliberate control scenarios under scrutiny. But the Malaysian safety investigation could not establish from available evidence which person, if any, acted with what intent. Trajectory evidence must be separated from psychological inference about motive."
+        },
+        {
+          "blockId": "conspiracy-07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "납치·격추·원격해킹 등 많은 이론은 같은 증거수준이 아니다",
+          "headingEn": "Hijacking, Shootdown, and Remote-Hacking Theories Do Not Have Equal Evidence",
+          "textKo": "사건의 공백이 크기 때문에 군사격추, 비밀착륙, 원격해킹 등 수많은 이론이 생겼다. 하지만 공식 레이더·위성·표류잔해와 맞지 않거나 추가 증거가 없는 주장은 가능성 목록에 있다는 이유만으로 동등한 가설이 되지 않는다. 미해결은 ‘모든 설명이 같은 확률’이라는 뜻이 아니다.",
+          "textEn": "Large gaps in the record generated theories involving shootdown, secret landing, remote takeover, and other scenarios. But a theory does not gain equal evidentiary weight merely by remaining logically possible. Claims inconsistent with radar, satellite, and debris evidence—or unsupported by additional data—should not be treated as equal to evidence-driven scenarios."
+        },
+        {
+          "blockId": "2018-08",
+          "type": "AFTERMATH",
+          "headingKo": "2018년 Ocean Infinity 수색도 wreck를 찾지 못했다",
+          "headingEn": "The 2018 Ocean Infinity Search Also Failed to Locate the Wreck",
+          "textKo": "ATSB 수색 종료 후 Ocean Infinity는 2018년 “no find, no fee” 방식으로 추가 해저수색을 수행했다. 새로운 영역을 고해상도로 탐사했지만 주 wreck는 발견되지 않았다. 이 실패는 위성분석 자체를 무효화하기보다, 가능한 impact area가 여전히 충분히 넓고 해저탐지에는 blind spot과 지형한계가 있음을 보여줬다.",
+          "textEn": "After the ATSB-led search ended, Ocean Infinity conducted a 2018 no-find-no-fee underwater search. It mapped additional seabed at high resolution but did not locate the main wreck. The failure did not invalidate the satellite analysis; it showed that the possible impact area remained broad and seabed search can have coverage and terrain limitations."
+        },
+        {
+          "blockId": "2025-09",
+          "type": "TURNING_POINT",
+          "headingKo": "2025년 말~2026년 초 새 15,000km² 계약 구역에서 다시 수색했다",
+          "headingEn": "A New 15,000-km² Contract Area Was Searched in 2025–2026",
+          "textKo": "말레이시아 정부는 2025년 3월 Ocean Infinity와 새로운 약 15,000km² 우선수색구역 계약을 체결했다. 교통부의 2026년 업데이트에 따르면 계약 이후 두 단계에서 총 28일 탐색이 이뤄졌고 약 7,571km²의 해저를 조사했다. 2단계는 2026년 1월 23일 종료됐다.",
+          "textEn": "Malaysia signed a new agreement with Ocean Infinity in March 2025 covering a priority area of roughly 15,000 km². According to a 2026 Ministry of Transport update, 28 operational search days after the agreement surveyed about 7,571 km² of seabed across two phases. The second phase ended on 23 January 2026."
+        },
+        {
+          "blockId": "result-10",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2026년 공식 업데이트 시점에도 위치를 확정할 단서는 없었다",
+          "headingEn": "The 2026 Official Update Still Reported No Evidence Fixing the Wreck Location",
+          "textKo": "말레이시아 교통부는 2025~2026 수색에서도 MH370 wreck 위치를 확인할 증거를 찾지 못했다고 발표했다. 이는 탐색이 실패했다는 명확한 사실이지만, “해당 남인도양 가설이 틀렸다”거나 “wreck가 탐색구역에 절대 없다”는 뜻은 아니다. 조사범위와 탐지확률을 구분해야 한다.",
+          "textEn": "Malaysia’s Ministry of Transport reported that the 2025–2026 operation had not found evidence confirming the location of the MH370 wreck. That is a clear negative search result, but it does not prove the southern Indian Ocean framework is wrong or that no wreck exists anywhere in the contracted area. Search coverage and detection probability are separate issues."
+        },
+        {
+          "blockId": "why-11",
+          "type": "BACKGROUND",
+          "headingKo": "wreck 발견이 중요한 이유는 위치만이 아니라 원인을 판별할 증거가 있기 때문이다",
+          "headingEn": "Finding the Wreck Matters Because It Could Answer Cause, Not Just Location",
+          "textKo": "비행기록장치, cockpit voice recorder, 손상분포, flap 상태, 압력·화재 흔적은 마지막 비행의 원인을 크게 좁힐 수 있다. 현재는 위성·레이더·표류자료로 경로를 복원하지만, 왜 항로가 바뀌었고 마지막에 어떤 상태였는지를 직접 보여주는 기체증거가 부족하다. wreck는 사건의 지리적 좌표이자 원인조사의 핵심 데이터다.",
+          "textEn": "Flight recorders, cockpit voice data, damage patterns, flap configuration, and evidence of depressurization or fire could sharply narrow the cause. Today investigators reconstruct the route from satellite, radar, and drift data, but physical evidence explaining why the route changed and what happened at the end is missing. The wreck is therefore both a location and the central forensic dataset."
+        },
+        {
+          "blockId": "search-115",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수색 “면적”만으로 탐지확률을 판단할 수는 없다",
+          "headingEn": "Search Area Alone Does Not Equal Detection Probability",
+          "textKo": "심해수색은 지도에서 칠한 면적과 실제 탐지품질이 일치하지 않는다. sonar 고도, 해저경사, 협곡, 센서해상도, vehicle track spacing, 날씨와 장비고장이 모두 coverage quality를 바꾼다. 어떤 구역은 여러 번 겹쳐 보고 다른 구역은 지형 때문에 음영이 남을 수 있다. 따라서 “이미 수만 km²를 찾았으니 그곳에는 없다”거나 반대로 “조금만 더 찾으면 반드시 나온다”는 단정은 둘 다 과도하다. 최신 우선구역은 기존 위성·드리프트·성능모델을 재평가해 선택됐지만, wreck 위치를 직접 알려주는 새로운 beacon이 있는 것은 아니다.",
+          "textEn": "Deep-ocean search quality is not identical to the colored area on a map. Sonar altitude, seabed slope, canyons, sensor resolution, vehicle track spacing, weather, and equipment outages all affect effective coverage. Some patches may be scanned with overlap while terrain leaves shadows elsewhere. It is therefore too strong to say either “tens of thousands of square kilometers have been searched, so it cannot be there” or “a little more searching must find it.” New priority zones are selected by re-evaluating satellite, drift, and aircraft-performance models—not by a new beacon giving the wreck location."
+        },
+        {
+          "blockId": "families-118",
+          "type": "AFTERMATH",
+          "headingKo": "수색은 기술 프로젝트이면서 동시에 239명 가족의 장기적 불확실성 문제다",
+          "headingEn": "The Search Is Also a Long-Term Uncertainty for the Families of 239 People",
+          "textKo": "MH370 수색을 단지 해저공학 문제로만 보면 사건의 다른 축을 놓치게 된다. 탑승자 가족은 사망의 장소와 원인, 유해와 기체가 없는 상태에서 10년 넘게 공식 업데이트와 새로운 수색결정을 기다려 왔다. 말레이시아 정부가 2025년 계약을 다시 체결한 이유에도 가족에게 가능한 답을 찾겠다는 공적 책임이 포함돼 있다. 새로운 수색이 실패할 때마다 “아무것도 알아낸 것이 없다”고 느끼기 쉽지만, 실제로는 탐색구역에서 가능한 위치를 하나씩 배제하는 정보도 축적된다. 다만 그런 negative evidence가 가족에게 사건의 종결을 제공하지 못한다는 점이 이 사건의 특별한 무게다.",
+          "textEn": "Treating MH370 as only a deep-sea engineering problem misses another dimension: the families of 239 people have spent more than a decade without a known crash site, recovered main wreck, or complete explanation. Malaysia’s decision to renew the search in 2025 also reflects a public responsibility to pursue answers for those families. Each unsuccessful search can feel like no progress at all, even though negative search results eliminate some possible locations. That technical narrowing does not provide the human closure that recovery of the aircraft and a defensible causal reconstruction could offer."
+        },
+        {
+          "blockId": "data-119",
+          "type": "BACKGROUND",
+          "headingKo": "이 사건은 “데이터가 없는 미스터리”가 아니라 서로 다른 데이터의 해상도가 맞지 않는 사건이다",
+          "headingEn": "MH370 Is Not a Mystery With No Data—It Is a Case Where Different Data Have Different Resolution",
+          "textKo": "MH370에는 1차 레이더, 군레이더, SATCOM 로그, 항공기 성능모델, 해류모델, 표류잔해, 해저 sonar 등 매우 다양한 자료가 있다. 문제는 각 자료가 같은 질문에 답하지 않는다는 점이다. 레이더는 초기 경로를 비교적 잘 보여주지만 남인도양 마지막 구간에는 닿지 않는다. 위성 handshake는 거리와 운동을 제약하지만 GPS 좌표 하나를 주지 않는다. 표류잔해는 대양분지를 지지하지만 출발점을 넓은 확률분포로만 되돌린다. 서로 다른 자료를 결합할수록 후보영역은 좁아지지만, 하나의 정확한 점과 원인으로 수렴하려면 여전히 물리적 wreck 증거가 필요하다.",
+          "textEn": "MH370 actually has many data sources: civilian radar, military radar, SATCOM logs, aircraft-performance models, ocean-drift models, recovered debris, and seabed sonar. The problem is that they answer different questions at different resolutions. Radar constrains the early route but not the final southern Indian Ocean segment. Satellite handshakes constrain distance and motion without yielding one GPS coordinate. Drift debris supports an ocean basin but backtracks only to broad probability regions. Combining them narrows the search, yet a precise point and causal reconstruction still require physical wreck evidence."
+        },
+        {
+          "blockId": "boundary-12",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: MH370은 2014년 3월 8일 실종됐고 Inmarsat handshake, 군레이더, 일부 확인된 표류잔해는 남인도양으로 이어지는 경로를 지지한다. 2025~2026 Ocean Infinity 수색은 약 7,571km²를 조사했지만 위치를 확정하지 못했다.\n\n확인되지 않음: 주 wreck의 정확한 위치, 비행경로를 바꾼 주체와 동기, 마지막 몇 분의 비행상태, 실종을 초래한 정확한 사건연쇄는 미해결이다.",
+          "textEn": "Established: MH370 disappeared on 8 March 2014. Inmarsat handshakes, military radar, and confirmed drift debris support a route ending in the southern Indian Ocean. The 2025–2026 Ocean Infinity operation surveyed about 7,571 km² without confirming the wreck location.\n\nNot established: The exact main-wreck location, who or what caused the route change, the final flight state, and the precise chain of events remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: MH370 disappeared on 8 March 2014. Inmarsat handshakes, military radar, and confirmed drift debris support a route ending in the southern Indian Ocean. The 2025–2026 Ocean Infinity operation surveyed about 7,571 km² without confirming the wreck location.",
+        "notEstablished": "Not established: The exact main-wreck location, who or what caused the route change, the final flight state, and the precise chain of events remain unresolved."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "satcom-02",
+        "search-03",
+        "debris-04",
+        "last-05",
+        "human-06",
+        "conspiracy-07",
+        "2018-08",
+        "2025-09",
+        "result-10",
+        "why-11",
+        "search-115",
+        "families-118",
+        "data-119"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Inmarsat handshake 분석은 남인도양 경로를 지지한다.",
+      "statementEn": "Inmarsat handshake analysis supports a southern Indian Ocean route.",
+      "sourceRefs": [
+        "MH370_ATSB"
+      ]
+    },
+    {
+      "claimId": "MH-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Réunion flaperon 등 일부 표류잔해는 MH370과 공식적으로 연결됐다.",
+      "statementEn": "Some drift debris, including the Réunion flaperon, has been officially linked to MH370.",
+      "sourceRefs": [
+        "MH370_ATSB"
+      ]
+    },
+    {
+      "claimId": "MH-C3",
+      "status": "CONFIRMED",
+      "statementKo": "2025~2026 수색은 약 7,571km²를 조사했지만 wreck 위치를 확인하지 못했다.",
+      "statementEn": "The 2025–2026 search surveyed about 7,571 km² without confirming the wreck location.",
+      "sourceRefs": [
+        "MH370_MOT_2026"
+      ]
+    },
+    {
+      "claimId": "MH-C4",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 사고원인·주체·동기·주 wreck 위치는 미해결이다.",
+      "statementEn": "The exact cause, actor, motive, and main-wreck location remain unresolved.",
+      "sourceRefs": [
+        "MH370_MOT_2026",
+        "MH370_ATSB"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MH370_MOT_2026",
+      "title": "MH370 Search Operation (2025/2026): Latest Update",
+      "publisher": "Malaysia Ministry of Transport",
+      "url": "https://www.mot.gov.my/my/Kenyataan%20Media/Tahun%202026/SIARAN%20MEDIA%20OPERASI%20PENCARIAN%20MH370%20%2820252026%29%20KEMAS%20KINI%20TERKINI.pdf",
+      "sourceType": "MALAYSIA_GOVERNMENT_2026"
+    },
+    {
+      "sourceId": "MH370_ATSB",
+      "title": "The Operational Search for MH370",
+      "publisher": "Australian Transport Safety Bureau",
+      "url": "https://www.atsb.gov.au/publications/investigation_reports/2014/aair/ae-2014-054",
+      "sourceType": "OFFICIAL_INVESTIGATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "mh370-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "2014 실종 → ATSB 수색 → 2015~ 표류잔해 → 2018 OI → 2025~2026 OI 재수색.",
+      "captionEn": "2014 disappearance → ATSB search → drift debris → 2018 OI → 2025–2026 renewed OI search.",
+      "altKo": "2014 실종 → ATSB 수색 → 2015~ 표류잔해 → 2018 OI → 2025~2026 OI 재수색.",
+      "altEn": "2014 disappearance → ATSB search → drift debris → 2018 OI → 2025–2026 renewed OI search.",
+      "sourceRefs": [
+        "MH370_ATSB",
+        "MH370_MOT_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v01__ko.png",
+          "sha256": "d7fb4eeaa2e51ad990694a56be5ec030afbc70d93a740c0f7e6bc3bde6379559",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v01__en.png",
+          "sha256": "5a4b833432513ba2a5852fce991dd6d262121965882511a501bb6466f8145149",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mh370-v02",
+      "role": "SATELLITE_ARCS",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "Inmarsat handshake arc와 남·북 경로추정 개념도.",
+      "captionEn": "Concept diagram of Inmarsat handshake arcs and route discrimination.",
+      "altKo": "Inmarsat handshake arc와 남·북 경로추정 개념도.",
+      "altEn": "Concept diagram of Inmarsat handshake arcs and route discrimination.",
+      "sourceRefs": [
+        "MH370_ATSB"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v02__ko.png",
+          "sha256": "eb45537b432936eaebb549ae038096bcbd901a294c66d97d2595a42ca92d290b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v02__en.png",
+          "sha256": "aacc92f0bc590a56a98aeb3e6bfd2ab44fe109e25724007e6f3e2f55b51bf775",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mh370-v03",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "레이더·SATCOM·표류잔해·해저수색의 서로 다른 증거역할.",
+      "captionEn": "Different evidence roles of radar, SATCOM, drift debris, and seabed search.",
+      "altKo": "레이더·SATCOM·표류잔해·해저수색의 서로 다른 증거역할.",
+      "altEn": "Different evidence roles of radar, SATCOM, drift debris, and seabed search.",
+      "sourceRefs": [
+        "MH370_ATSB"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v03__ko.png",
+          "sha256": "6ba323490e2a8e75c19a5a44a7c8faba84ebb0dfd0d6da90b0af12c3356c1c1f",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v03__en.png",
+          "sha256": "3a1100a564cdc865d433bd15de5bdd02dabecae91162720cdbcb8e4f52a6d453",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mh370-v04",
+      "role": "SEARCH_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "남인도양 탐색구역과 2025 계약 우선구역의 개념적 관계.",
+      "captionEn": "Conceptual relationship between southern Indian Ocean search areas and the 2025 priority zone.",
+      "altKo": "남인도양 탐색구역과 2025 계약 우선구역의 개념적 관계.",
+      "altEn": "Conceptual relationship between southern Indian Ocean search areas and the 2025 priority zone.",
+      "sourceRefs": [
+        "MH370_MOT_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v04__ko.png",
+          "sha256": "672e08cde570d5cbbcb1ccd82d2e4a4e075c184d8305d2a117aae332ce45b83d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v04__en.png",
+          "sha256": "2ae4fe1444a8f4aad1f7dde6f9cdcbf79546a6827333b5f86f6c5cf80e53d42d",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mh370-v05",
+      "role": "FINAL_MINUTES",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "연료고갈·SATCOM relog-on·하강모델의 관계를 추론단계로 표시.",
+      "captionEn": "Inference chain linking fuel exhaustion, SATCOM relog-on, and descent models.",
+      "altKo": "연료고갈·SATCOM relog-on·하강모델의 관계를 추론단계로 표시.",
+      "altEn": "Inference chain linking fuel exhaustion, SATCOM relog-on, and descent models.",
+      "sourceRefs": [
+        "MH370_ATSB"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v05__ko.png",
+          "sha256": "43c80f72c99d840062c92231d94d8a56417e6e521623cab66808fe04d99499f3",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v05__en.png",
+          "sha256": "ed77a84c01e0e03572272c600cbc6cf933701e6637aa52d3c5c59612d9bfaffe",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mh370-v06",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확정 trajectory evidence와 미확정 동기·원인을 분리.",
+      "captionEn": "Separate established trajectory evidence from unresolved motive and cause.",
+      "altKo": "확정 trajectory evidence와 미확정 동기·원인을 분리.",
+      "altEn": "Separate established trajectory evidence from unresolved motive and cause.",
+      "sourceRefs": [
+        "MH370_ATSB"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v06__ko.png",
+          "sha256": "a0aad22e2597d5aa690facf856ce80280b7cff619d98264bcd75b9106e039d9a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v06__en.png",
+          "sha256": "b55d2640cdcbc19626738db498b0044f39789bd834772471280c3a0f54df0080",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "mh370-v07",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 데이터와 아직 wreck가 있어야 답할 질문을 분리.",
+      "captionEn": "Separate established data from questions requiring wreck evidence.",
+      "altKo": "확인된 데이터와 아직 wreck가 있어야 답할 질문을 분리.",
+      "altEn": "Separate established data from questions requiring wreck evidence.",
+      "sourceRefs": [
+        "MH370_MOT_2026",
+        "MH370_ATSB"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "mh370__mh370-v07__ko.png",
+          "sha256": "6078807ed4faf04b9155d4b354922efac534a27dbfa957908874b2f6f347a86c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "mh370__mh370-v07__en.png",
+          "sha256": "88b316de7591e35225ce55061f3aec6198730f47473f67671f8bf81da4dd8244",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Maritime / Aviation",
+    "secondaryGenres": [
+      "Unsolved Disappearance",
+      "Forensic Search"
+    ],
+    "countries": [
+      "Malaysia",
+      "Australia"
+    ],
+    "regions": [
+      "Southern Indian Ocean"
+    ],
+    "places": [
+      {
+        "name": "Kuala Lumpur",
+        "role": "departure"
+      },
+      {
+        "name": "Beijing",
+        "role": "destination"
+      },
+      {
+        "name": "Southern Indian Ocean",
+        "role": "search region"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Malaysia Ministry of Transport",
+      "ATSB",
+      "Inmarsat",
+      "Ocean Infinity"
+    ],
+    "dateRange": {
+      "start": "2014-03-08",
+      "end": "2026-01-23",
+      "precision": "disappearance through latest cited search phase"
+    },
+    "era": "modern aviation",
+    "resolution": "ROUTE_PARTIALLY_RECONSTRUCTED_MAIN_WRECK_AND_CAUSE_UNRESOLVED",
+    "searchAliases": [
+      "Malaysia Airlines 370",
+      "MH370 Ocean Infinity",
+      "Inmarsat arcs"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 3202,
+    "enBodyWords": 916,
+    "meaningfulBlockCount": 15,
+    "visualPlacementCount": 7,
+    "sourceCount": 2,
+    "claimCount": 4,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 7,
+    "localizedFiles": 14,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

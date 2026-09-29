@@ -1,0 +1,443 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "fairy-circles",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "페어리 서클",
+    "canonicalTitleEn": "Fairy Circles",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SCIENCE_DEBATE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사막의 규칙적인 맨땅 원—흰개미인가, 식물 자기조직화인가, 아니면 둘 다인가",
+      "hook": "패턴은 실제다. 논쟁은 서로 다른 지역의 비슷한 원이 같은 메커니즘으로 생기는지에 있다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "나미비아 건조초원에는 거의 같은 간격의 맨땅 원이 반복된다",
+          "headingEn": "Namibian Grasslands Contain Repeating Bare Circles With Striking Regularity",
+          "textKo": "나미비아와 앙골라의 일부 건조초원에서는 수 미터 규모의 거의 원형 맨땅이 규칙적으로 배열된다. 사진만 보면 누군가 원을 찍어낸 것처럼 보이지만 패턴은 자연적으로 형성된다. 수십 년 동안 흰개미, 식물의 수분경쟁과 자기조직화, 토양·가스·독성식물 등 많은 가설이 제안됐다. 현재 논쟁은 “원인이 있느냐”가 아니라 어떤 생태과정이 어느 지역에서 지배적인가다.",
+          "textEn": "In parts of Namibia and Angola, bare circular patches several meters across repeat across arid grasslands with striking regularity. The geometry can look engineered, but the patterns are natural. For decades researchers have proposed termites, plant competition and self-organization, soil processes, gases, and toxic plants. The modern debate is not whether a mechanism exists, but which ecological process dominates in which region."
+        },
+        {
+          "blockId": "plant-02",
+          "type": "HYPOTHESIS",
+          "headingKo": "식물 자기조직화 모델은 물이 부족할수록 규칙적 패턴이 생길 수 있다고 본다",
+          "headingEn": "Plant Self-Organization Models Show How Water Stress Can Generate Regular Spacing",
+          "textKo": "건조지역 식물은 뿌리 주변으로 물을 끌어당기면서 가까운 식물과 경쟁한다. 수학·생태모델은 이런 국소적 이익과 먼 거리의 경쟁이 결합하면 식생과 맨땅이 주기적으로 반복되는 패턴을 만들 수 있음을 보여준다. 특히 나미비아의 공간적 규칙성은 이런 모델과 잘 맞는다는 연구가 있다.",
+          "textEn": "Plants in arid environments can concentrate water around roots while competing with neighbors. Ecological and mathematical models show that local facilitation combined with longer-range competition can produce periodic vegetation gaps. The strong spatial regularity of some Namibian fairy circles has been argued to fit this self-organization framework."
+        },
+        {
+          "blockId": "termite-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "흰개미 증거도 강하다—특히 호주와 일부 남부아프리카 지역에서",
+          "headingEn": "Termite Evidence Is Also Strong—Especially in Australia and Parts of Southern Africa",
+          "textKo": "2023년 Nature Ecology & Evolution 연구는 호주 원주민 Martu의 지식과 현장조사를 결합해, 많은 원형 맨땅이 Drepanotermes 흰개미의 pavement nest와 연결된다고 보고했다. 이 연구는 기존의 “식물만의 자기조직화” 설명이 모든 호주 패턴에 적용되지 않는다고 비판했다.",
+          "textEn": "A 2023 Nature Ecology & Evolution study combined Martu Indigenous knowledge with field research and linked many Australian circular bare patches to pavement nests of Drepanotermes termites. The authors argued that a plant-only self-organization explanation could not be generalized to all Australian patterns."
+        },
+        {
+          "blockId": "debate-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "반론은 “호주의 모든 linyji와 진짜 periodic fairy circle을 같은 것으로 묶지 말라”는 것이다",
+          "headingEn": "The Counterargument: Not Every Australian Linyji Is the Same as a Periodic Fairy Circle",
+          "textKo": "2024년 Matters Arising에서 다른 연구진은 호주의 흔한 termite gap과 자신들이 연구한 매우 규칙적인 Newman 인근 패턴을 구분해야 한다고 반박했다. 그들은 periodic spacing을 식물 자기조직화로 설명하며, 흰개미가 존재한다는 사실이 모든 패턴의 공간적 규칙성을 만든 원인임을 뜻하지 않는다고 주장했다.",
+          "textEn": "A 2024 Matters Arising response argued that common Australian termite gaps should not be conflated with the highly periodic patterns studied near Newman. Those authors retain plant self-organization as the explanation for the periodic spacing and argue that termite presence does not automatically prove termites generate every spatial pattern."
+        },
+        {
+          "blockId": "regions-05",
+          "type": "BACKGROUND",
+          "headingKo": "“fairy circle”이라는 이름이 서로 다른 현상을 한 범주로 묶을 수 있다",
+          "headingEn": "The Label “Fairy Circle” May Group Different Phenomena",
+          "textKo": "나미비아, 앙골라, 호주의 맨땅 패치는 겉모양이 비슷해도 토양·강수·흰개미종·식생구조가 다르다. 같은 시각적 모양이 같은 원인을 요구하지 않는다. 생태학에서는 pattern matching보다 기작 검증이 중요하다. 따라서 지역별 field experiment와 장기 수분·흰개미 자료가 필요하다.",
+          "textEn": "Bare patches in Namibia, Angola, and Australia can look similar while differing in soil, rainfall, termite species, and vegetation structure. Visual resemblance does not require identical causation. Mechanistic tests matter more than pattern matching, which is why region-specific experiments and long-term water and termite observations are crucial."
+        },
+        {
+          "blockId": "interaction-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "흰개미와 식물 경쟁이 상호작용하는 혼합 모델도 가능하다",
+          "headingEn": "Termites and Plant Competition May Interact",
+          "textKo": "생태계에서는 원인이 하나일 필요가 없다. 흰개미가 토양구조와 수분분포를 바꾸고, 식물이 그 변화에 반응하면서 자기조직화된 경계가 강화될 수 있다. 실제로 일부 연구는 termite engineering과 vegetation feedback의 상호작용을 제안한다. 중요한 것은 지역별 데이터로 각 기여도를 분리하는 것이다.",
+          "textEn": "Ecosystems do not require a single cause. Termites can alter soil structure and water distribution, while vegetation responds to those changes and may reinforce spatial boundaries. Some work therefore explores interactions between termite engineering and vegetation feedback. The remaining task is to quantify their contributions in each landscape."
+        },
+        {
+          "blockId": "aftermath-07",
+          "type": "AFTERMATH",
+          "headingKo": "이 논쟁의 진짜 성과는 “미스터리 해결”보다 자연 패턴을 검증하는 방법에 있다",
+          "headingEn": "The Deeper Value Is Learning How to Test Natural Pattern Formation",
+          "textKo": "fairy circle 논쟁은 멋진 사진을 설명하는 문제를 넘어, 원주민 지식·현장생태학·원격탐사·수학모델을 어떻게 결합할지 보여준다. 한 지역의 설명을 세계 전체에 복제하지 않고, 겉모양이 같은 현상을 독립적으로 검증하는 과정 자체가 핵심이다.",
+          "textEn": "The fairy-circle debate is more than an attempt to explain a striking photograph. It demonstrates how Indigenous knowledge, field ecology, remote sensing, and mathematical modeling can be combined—and why a mechanism established in one region should not simply be copied to every visually similar landscape."
+        },
+        {
+          "blockId": "methods-075",
+          "type": "BACKGROUND",
+          "headingKo": "논쟁은 사진보다 실험설계의 차이에서 갈린다",
+          "headingEn": "The Dispute Turns on Experimental Design More Than Photographs",
+          "textKo": "연구자들은 항공·위성영상으로 원의 간격을 측정하고, 현장에서 termite nest를 파거나 토양수분·식생회복을 추적한다. 식물 자기조직화 연구는 공간통계와 수분 feedback을 강조하고, termite 연구는 지하 colony와 토양구조를 직접 확인하려 한다. 같은 모양을 보고도 결론이 다른 이유는 관측대상과 질문이 다르기 때문이다. 패턴의 “규칙성”을 설명하는 것과 각 bare patch의 직접 생성자를 찾는 것은 동일한 실험이 아니다.",
+          "textEn": "Researchers measure spacing from aerial and satellite imagery, excavate termite nests, and monitor soil moisture and vegetation recovery in the field. Plant self-organization studies emphasize spatial statistics and water feedback, while termite studies seek direct colonies and soil-engineering evidence. Different conclusions often reflect different questions: explaining the regular spacing of a landscape is not identical to identifying the immediate maker of each bare patch."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 나미비아·앙골라와 호주 일부 지역의 규칙적 맨땅 패턴은 실제이며, 흰개미와 식물 수분경쟁 모두 강한 실증연구의 대상이다.\n\n확인되지 않음: 전 세계의 모든 fairy circle이 하나의 동일한 메커니즘으로 형성된다는 합의는 없다. 호주의 모든 linyji와 나미비아의 periodic fairy circle을 동일 현상으로 보는 것도 논쟁적이다.",
+          "textEn": "Established: Regular bare-ground patterns in parts of Namibia, Angola, and Australia are real, and both termite activity and plant-water competition have strong empirical research behind them.\n\nNot established: There is no consensus that every fairy circle worldwide is produced by one identical mechanism, or that all Australian linyji are equivalent to the periodic Namibian phenomenon."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 나미비아·앙골라와 호주 일부 지역의 규칙적 맨땅 패턴은 실제이며, 흰개미와 식물 수분경쟁 모두 강한 실증연구의 대상이다.",
+        "notEstablished": "확인되지 않음: 전 세계의 모든 fairy circle이 하나의 동일한 메커니즘으로 형성된다는 합의는 없다. 호주의 모든 linyji와 나미비아의 periodic fairy circle을 동일 현상으로 보는 것도 논쟁적이다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "plant-02",
+        "termite-03",
+        "debate-04",
+        "regions-05",
+        "interaction-06",
+        "aftermath-07",
+        "methods-075"
+      ]
+    },
+    "en": {
+      "headline": "Regular Bare Circles in Desert Grasslands—Termites, Plant Self-Organization, or Both?",
+      "hook": "The patterns are real. The dispute is whether visually similar circles in different regions share one mechanism.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "나미비아 건조초원에는 거의 같은 간격의 맨땅 원이 반복된다",
+          "headingEn": "Namibian Grasslands Contain Repeating Bare Circles With Striking Regularity",
+          "textKo": "나미비아와 앙골라의 일부 건조초원에서는 수 미터 규모의 거의 원형 맨땅이 규칙적으로 배열된다. 사진만 보면 누군가 원을 찍어낸 것처럼 보이지만 패턴은 자연적으로 형성된다. 수십 년 동안 흰개미, 식물의 수분경쟁과 자기조직화, 토양·가스·독성식물 등 많은 가설이 제안됐다. 현재 논쟁은 “원인이 있느냐”가 아니라 어떤 생태과정이 어느 지역에서 지배적인가다.",
+          "textEn": "In parts of Namibia and Angola, bare circular patches several meters across repeat across arid grasslands with striking regularity. The geometry can look engineered, but the patterns are natural. For decades researchers have proposed termites, plant competition and self-organization, soil processes, gases, and toxic plants. The modern debate is not whether a mechanism exists, but which ecological process dominates in which region."
+        },
+        {
+          "blockId": "plant-02",
+          "type": "HYPOTHESIS",
+          "headingKo": "식물 자기조직화 모델은 물이 부족할수록 규칙적 패턴이 생길 수 있다고 본다",
+          "headingEn": "Plant Self-Organization Models Show How Water Stress Can Generate Regular Spacing",
+          "textKo": "건조지역 식물은 뿌리 주변으로 물을 끌어당기면서 가까운 식물과 경쟁한다. 수학·생태모델은 이런 국소적 이익과 먼 거리의 경쟁이 결합하면 식생과 맨땅이 주기적으로 반복되는 패턴을 만들 수 있음을 보여준다. 특히 나미비아의 공간적 규칙성은 이런 모델과 잘 맞는다는 연구가 있다.",
+          "textEn": "Plants in arid environments can concentrate water around roots while competing with neighbors. Ecological and mathematical models show that local facilitation combined with longer-range competition can produce periodic vegetation gaps. The strong spatial regularity of some Namibian fairy circles has been argued to fit this self-organization framework."
+        },
+        {
+          "blockId": "termite-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "흰개미 증거도 강하다—특히 호주와 일부 남부아프리카 지역에서",
+          "headingEn": "Termite Evidence Is Also Strong—Especially in Australia and Parts of Southern Africa",
+          "textKo": "2023년 Nature Ecology & Evolution 연구는 호주 원주민 Martu의 지식과 현장조사를 결합해, 많은 원형 맨땅이 Drepanotermes 흰개미의 pavement nest와 연결된다고 보고했다. 이 연구는 기존의 “식물만의 자기조직화” 설명이 모든 호주 패턴에 적용되지 않는다고 비판했다.",
+          "textEn": "A 2023 Nature Ecology & Evolution study combined Martu Indigenous knowledge with field research and linked many Australian circular bare patches to pavement nests of Drepanotermes termites. The authors argued that a plant-only self-organization explanation could not be generalized to all Australian patterns."
+        },
+        {
+          "blockId": "debate-04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "반론은 “호주의 모든 linyji와 진짜 periodic fairy circle을 같은 것으로 묶지 말라”는 것이다",
+          "headingEn": "The Counterargument: Not Every Australian Linyji Is the Same as a Periodic Fairy Circle",
+          "textKo": "2024년 Matters Arising에서 다른 연구진은 호주의 흔한 termite gap과 자신들이 연구한 매우 규칙적인 Newman 인근 패턴을 구분해야 한다고 반박했다. 그들은 periodic spacing을 식물 자기조직화로 설명하며, 흰개미가 존재한다는 사실이 모든 패턴의 공간적 규칙성을 만든 원인임을 뜻하지 않는다고 주장했다.",
+          "textEn": "A 2024 Matters Arising response argued that common Australian termite gaps should not be conflated with the highly periodic patterns studied near Newman. Those authors retain plant self-organization as the explanation for the periodic spacing and argue that termite presence does not automatically prove termites generate every spatial pattern."
+        },
+        {
+          "blockId": "regions-05",
+          "type": "BACKGROUND",
+          "headingKo": "“fairy circle”이라는 이름이 서로 다른 현상을 한 범주로 묶을 수 있다",
+          "headingEn": "The Label “Fairy Circle” May Group Different Phenomena",
+          "textKo": "나미비아, 앙골라, 호주의 맨땅 패치는 겉모양이 비슷해도 토양·강수·흰개미종·식생구조가 다르다. 같은 시각적 모양이 같은 원인을 요구하지 않는다. 생태학에서는 pattern matching보다 기작 검증이 중요하다. 따라서 지역별 field experiment와 장기 수분·흰개미 자료가 필요하다.",
+          "textEn": "Bare patches in Namibia, Angola, and Australia can look similar while differing in soil, rainfall, termite species, and vegetation structure. Visual resemblance does not require identical causation. Mechanistic tests matter more than pattern matching, which is why region-specific experiments and long-term water and termite observations are crucial."
+        },
+        {
+          "blockId": "interaction-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "흰개미와 식물 경쟁이 상호작용하는 혼합 모델도 가능하다",
+          "headingEn": "Termites and Plant Competition May Interact",
+          "textKo": "생태계에서는 원인이 하나일 필요가 없다. 흰개미가 토양구조와 수분분포를 바꾸고, 식물이 그 변화에 반응하면서 자기조직화된 경계가 강화될 수 있다. 실제로 일부 연구는 termite engineering과 vegetation feedback의 상호작용을 제안한다. 중요한 것은 지역별 데이터로 각 기여도를 분리하는 것이다.",
+          "textEn": "Ecosystems do not require a single cause. Termites can alter soil structure and water distribution, while vegetation responds to those changes and may reinforce spatial boundaries. Some work therefore explores interactions between termite engineering and vegetation feedback. The remaining task is to quantify their contributions in each landscape."
+        },
+        {
+          "blockId": "aftermath-07",
+          "type": "AFTERMATH",
+          "headingKo": "이 논쟁의 진짜 성과는 “미스터리 해결”보다 자연 패턴을 검증하는 방법에 있다",
+          "headingEn": "The Deeper Value Is Learning How to Test Natural Pattern Formation",
+          "textKo": "fairy circle 논쟁은 멋진 사진을 설명하는 문제를 넘어, 원주민 지식·현장생태학·원격탐사·수학모델을 어떻게 결합할지 보여준다. 한 지역의 설명을 세계 전체에 복제하지 않고, 겉모양이 같은 현상을 독립적으로 검증하는 과정 자체가 핵심이다.",
+          "textEn": "The fairy-circle debate is more than an attempt to explain a striking photograph. It demonstrates how Indigenous knowledge, field ecology, remote sensing, and mathematical modeling can be combined—and why a mechanism established in one region should not simply be copied to every visually similar landscape."
+        },
+        {
+          "blockId": "methods-075",
+          "type": "BACKGROUND",
+          "headingKo": "논쟁은 사진보다 실험설계의 차이에서 갈린다",
+          "headingEn": "The Dispute Turns on Experimental Design More Than Photographs",
+          "textKo": "연구자들은 항공·위성영상으로 원의 간격을 측정하고, 현장에서 termite nest를 파거나 토양수분·식생회복을 추적한다. 식물 자기조직화 연구는 공간통계와 수분 feedback을 강조하고, termite 연구는 지하 colony와 토양구조를 직접 확인하려 한다. 같은 모양을 보고도 결론이 다른 이유는 관측대상과 질문이 다르기 때문이다. 패턴의 “규칙성”을 설명하는 것과 각 bare patch의 직접 생성자를 찾는 것은 동일한 실험이 아니다.",
+          "textEn": "Researchers measure spacing from aerial and satellite imagery, excavate termite nests, and monitor soil moisture and vegetation recovery in the field. Plant self-organization studies emphasize spatial statistics and water feedback, while termite studies seek direct colonies and soil-engineering evidence. Different conclusions often reflect different questions: explaining the regular spacing of a landscape is not identical to identifying the immediate maker of each bare patch."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 나미비아·앙골라와 호주 일부 지역의 규칙적 맨땅 패턴은 실제이며, 흰개미와 식물 수분경쟁 모두 강한 실증연구의 대상이다.\n\n확인되지 않음: 전 세계의 모든 fairy circle이 하나의 동일한 메커니즘으로 형성된다는 합의는 없다. 호주의 모든 linyji와 나미비아의 periodic fairy circle을 동일 현상으로 보는 것도 논쟁적이다.",
+          "textEn": "Established: Regular bare-ground patterns in parts of Namibia, Angola, and Australia are real, and both termite activity and plant-water competition have strong empirical research behind them.\n\nNot established: There is no consensus that every fairy circle worldwide is produced by one identical mechanism, or that all Australian linyji are equivalent to the periodic Namibian phenomenon."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Regular bare-ground patterns in parts of Namibia, Angola, and Australia are real, and both termite activity and plant-water competition have strong empirical research behind them.",
+        "notEstablished": "Not established: There is no consensus that every fairy circle worldwide is produced by one identical mechanism, or that all Australian linyji are equivalent to the periodic Namibian phenomenon."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "plant-02",
+        "termite-03",
+        "debate-04",
+        "regions-05",
+        "interaction-06",
+        "aftermath-07",
+        "methods-075"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "FAIRY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "규칙적 맨땅 원형 패턴은 여러 건조초원에서 실제 관측된다.",
+      "statementEn": "Regular circular bare-ground patterns are observed in multiple arid grasslands.",
+      "sourceRefs": [
+        "FAIRY_NATURE_2023"
+      ]
+    },
+    {
+      "claimId": "FAIRY-C2",
+      "status": "SUPPORTED",
+      "statementKo": "호주 많은 linyji는 흰개미 pavement nest와 연결된다.",
+      "statementEn": "Many Australian linyji are associated with termite pavement nests.",
+      "sourceRefs": [
+        "FAIRY_NATURE_2023"
+      ]
+    },
+    {
+      "claimId": "FAIRY-C3",
+      "status": "DISPUTED",
+      "statementKo": "모든 periodic fairy circle이 흰개미만으로 형성된다는 주장은 논쟁 중이다.",
+      "statementEn": "The claim that termites alone generate every periodic fairy-circle pattern remains disputed.",
+      "sourceRefs": [
+        "FAIRY_NATURE_2023",
+        "FAIRY_NATURE_DEBATE_2024"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "FAIRY_NATURE_2023",
+      "title": "First Peoples’ knowledge leads scientists to reveal fairy circles and termite linyji are linked in Australia",
+      "publisher": "Nature Ecology & Evolution",
+      "url": "https://www.nature.com/articles/s41559-023-01994-1",
+      "sourceType": "PEER_REVIEWED"
+    },
+    {
+      "sourceId": "FAIRY_NATURE_DEBATE_2024",
+      "title": "Australian fairy circles and termite linyji are not caused by the same mechanism",
+      "publisher": "Nature Ecology & Evolution",
+      "url": "https://www.nature.com/articles/s41559-023-02225-3",
+      "sourceType": "PEER_REVIEWED_MATTERS_ARISING"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "fairy-v01",
+      "role": "PATTERN_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "나미비아·앙골라·호주의 서로 다른 fairy-circle 연구지역을 비교.",
+      "captionEn": "Compare study regions in Namibia, Angola, and Australia.",
+      "altKo": "나미비아·앙골라·호주의 서로 다른 fairy-circle 연구지역을 비교.",
+      "altEn": "Compare study regions in Namibia, Angola, and Australia.",
+      "sourceRefs": [
+        "FAIRY_NATURE_2023"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fairy-circles__fairy-v01__ko.png",
+          "sha256": "0ee4cc01051f6c81b2ccf351281cd37186e361ebab050f566ab0475313936fd5",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fairy-circles__fairy-v01__en.png",
+          "sha256": "922245e1fa07215a1ca5de48805f68d1818fedf815ccb44fa7fb821665d56ce9",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fairy-v02",
+      "role": "MECHANISM_COMPARE",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "식물 자기조직화와 흰개미 engineering의 핵심 메커니즘 비교.",
+      "captionEn": "Compare plant self-organization and termite engineering mechanisms.",
+      "altKo": "식물 자기조직화와 흰개미 engineering의 핵심 메커니즘 비교.",
+      "altEn": "Compare plant self-organization and termite engineering mechanisms.",
+      "sourceRefs": [
+        "FAIRY_NATURE_2023",
+        "FAIRY_NATURE_DEBATE_2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fairy-circles__fairy-v02__ko.png",
+          "sha256": "14e8131d2919d8716fec7bdf138746e91e7d7e31f37505aba36e93be19180522",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fairy-circles__fairy-v02__en.png",
+          "sha256": "8cf6c3fe15ef7ae24b00dfcc01462709d2ffd8e467e6dfe132e15d8ee5611e03",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fairy-v03",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "지역별 termite evidence·spacing regularity·water feedback을 분리.",
+      "captionEn": "Separate termite evidence, spacing regularity, and water feedback by region.",
+      "altKo": "지역별 termite evidence·spacing regularity·water feedback을 분리.",
+      "altEn": "Separate termite evidence, spacing regularity, and water feedback by region.",
+      "sourceRefs": [
+        "FAIRY_NATURE_2023",
+        "FAIRY_NATURE_DEBATE_2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fairy-circles__fairy-v03__ko.png",
+          "sha256": "0efec31d43d10a35f4e9b1d075a1770bdf960f92a42e1aebaf09736e9b8ea240",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fairy-circles__fairy-v03__en.png",
+          "sha256": "27e59cface60106c2c665eae4dd96825214f837853a5366bb0b9c1c5ed9d30ec",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "fairy-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "실재 패턴과 “전 세계 단일 원인” 주장을 분리.",
+      "captionEn": "Separate the real patterns from the claim of one universal cause.",
+      "altKo": "실재 패턴과 “전 세계 단일 원인” 주장을 분리.",
+      "altEn": "Separate the real patterns from the claim of one universal cause.",
+      "sourceRefs": [
+        "FAIRY_NATURE_DEBATE_2024"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "fairy-circles__fairy-v04__ko.png",
+          "sha256": "b29d673ad740f8a4f4e6c33ed74d0614e4b843cebb29a714f8f3c4d12e9befb6",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "fairy-circles__fairy-v04__en.png",
+          "sha256": "dec00b6226e463273a85e52139660e2de86f16fe9bfdf226e3e5566e18c3f768",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Nature",
+    "secondaryGenres": [
+      "Ecology",
+      "Pattern Formation"
+    ],
+    "countries": [
+      "Namibia",
+      "Angola",
+      "Australia"
+    ],
+    "regions": [
+      "Namib Desert",
+      "Western Australia"
+    ],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Nature Ecology & Evolution"
+    ],
+    "dateRange": {
+      "start": "1970s",
+      "end": "2024",
+      "precision": "modern research debate"
+    },
+    "era": "modern ecology",
+    "resolution": "PATTERN_REAL_CAUSATION_REGION_DEPENDENT",
+    "searchAliases": [
+      "Namib fairy circles",
+      "Australian linyji"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1644,
+    "enBodyWords": 460,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 4,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

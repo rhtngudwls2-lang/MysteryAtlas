@@ -1,0 +1,418 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-sea-spray",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Operation Sea-Spray",
+    "canonicalTitleEn": "Operation Sea-Spray",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SECRET_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1950년 샌프란시스코 위에 실제로 박테리아를 뿌렸다—그러나 개인 환자의 인과관계는 별도 문제다",
+      "hook": "비밀 모의살포는 공식·학술기록으로 확인된다. 특정 감염이나 사망을 그 시험에 연결하려면 추가 역학 증거가 필요하다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1950년 군함이 샌프란시스코 앞바다에서 aerosol line을 만들었다",
+          "headingEn": "In 1950, a Naval Vessel Released an Aerosol Line Offshore",
+          "textKo": "냉전 초기 미군은 항구도시가 생물무기 공격에 얼마나 취약한지 알아보기 위해 실제 도시 규모의 모의시험을 했다. National Academies의 프로그램 역사에는 1950년 샌프란시스코 앞바다에서 해군 함정이 Bacillus 계열 simulant와 Serratia marcescens를 살포한 시험이 기록돼 있다. 당시에는 이 미생물들이 비교적 무해한 모의물질로 취급됐다.",
+          "textEn": "In the early Cold War, the U.S. military conducted city-scale simulations to test vulnerability to biological-warfare attack. A National Academies program history documents 1950 releases off San Francisco using a Bacillus-family simulant and Serratia marcescens. At the time, these organisms were treated as relatively harmless simulants."
+        },
+        {
+          "blockId": "dispersion-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "목표는 무기효과가 아니라 도시로 얼마나 퍼지는지 측정하는 것이었다",
+          "headingEn": "The Immediate Goal Was to Measure Urban Dispersion",
+          "textKo": "해안에서 뿌린 aerosol이 바람을 타고 도심과 주변지역의 sampler에 얼마나 도달하는지를 측정했다. 한 조건에서는 downtown sampler에서 매우 높은 Bacillus 농도가 확인돼 해상 line-source attack이 도시 전체로 퍼질 수 있음을 보여줬다. 반면 기상조건이 달라지면 분산범위가 크게 줄었다. 시험은 대기안정도와 바람이 결과를 크게 좌우한다는 점을 확인했다.",
+          "textEn": "The tests measured how an aerosol released offshore moved with the wind into urban and surrounding samplers. Under favorable conditions, high Bacillus concentrations were recovered downtown, demonstrating the vulnerability of a seaport to a line-source aerosol. Under unstable atmospheric conditions, penetration was much smaller. Meteorology strongly controlled the result."
+        },
+        {
+          "blockId": "serratia-03",
+          "type": "BACKGROUND",
+          "headingKo": "Serratia는 당시 “simulant”였지만 오늘날 완전히 무해한 균으로 보지는 않는다",
+          "headingEn": "Serratia Was Used as a Simulant, but Is Not Regarded as Universally Harmless Today",
+          "textKo": "Serratia marcescens는 색소 때문에 추적이 쉬워 시험에 이용됐다. 당시 군 연구자들은 위해성이 낮다고 판단했지만, 오늘날에는 특히 취약환자에서 opportunistic infection을 일으킬 수 있는 세균으로 알려져 있다. 이것은 과거 안전성 판단이 현대 기준과 다를 수 있음을 보여준다.",
+          "textEn": "Serratia marcescens was easy to track because of its pigment and was used as a biological simulant. Military researchers at the time considered it low-risk, but today it is recognized as an opportunistic pathogen, especially in vulnerable patients. Historical safety assumptions therefore should not be treated as equivalent to modern ones."
+        },
+        {
+          "blockId": "hospital-04",
+          "type": "TURNING_POINT",
+          "headingKo": "시험 직후 병원 감염 사례가 알려지며 인과논쟁이 시작됐다",
+          "headingEn": "Hospital Cases After the Test Created a Long Causation Debate",
+          "textKo": "살포시기와 비슷한 시기에 지역 병원에서 Serratia 감염 사례가 보고됐고 한 환자의 사망이 후대 논쟁의 중심이 됐다. 하지만 특정 임상사례가 군 살포에서 직접 유래했음을 증명하려면 동일 strain, 노출경로, 시간·공간적 연결 같은 별도 자료가 필요하다. “시험이 있었다”는 확정사실과 “그 시험이 특정 환자를 감염시켰다”는 인과주장은 증거단계가 다르다.",
+          "textEn": "Serratia infections were reported in a local hospital around the same period, and one patient death later became central to public controversy. But proving that a particular clinical case came from the military release would require separate evidence linking strain, exposure route, time, and place. “The test occurred” and “the test caused this individual infection” are different evidentiary claims."
+        },
+        {
+          "blockId": "ethics-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 분명한 윤리문제는 주민에게 동의나 고지가 없었다는 점이다",
+          "headingEn": "The Clearest Ethical Problem Is the Lack of Public Consent or Notice",
+          "textKo": "도시 전체가 실험환경이었지만 주민은 사전에 동의하거나 노출사실을 알지 못했다. 당시 군은 공격 취약성을 현실적으로 측정하기 위해 비밀성이 필요하다고 봤지만, 현대 연구윤리에서는 비동의 인구집단을 잠재적 생물학적 노출에 포함시키는 방식이 중대한 문제로 평가된다.",
+          "textEn": "An entire urban population became part of the test environment without advance consent or notification. The military considered secrecy necessary to model a realistic attack, but under modern research-ethics standards, exposing a non-consenting population to a biological agent—even a simulant—raises serious concerns."
+        },
+        {
+          "blockId": "context-06",
+          "type": "BACKGROUND",
+          "headingKo": "Sea-Spray는 더 큰 미국 생물전 취약성 시험 프로그램의 한 사례였다",
+          "headingEn": "Sea-Spray Was One Part of a Broader Vulnerability-Testing Program",
+          "textKo": "샌프란시스코 시험은 단독사건이 아니었다. 냉전기 미국은 도시·지하철·군시설에서 여러 simulant dispersion test를 수행했다. 이 맥락은 사건이 “한 번의 기괴한 실험”이 아니라 생물방어·공격 연구체계의 일부였음을 보여준다. 다만 다른 시험의 세부를 Sea-Spray에 자동으로 합쳐서는 안 된다.",
+          "textEn": "San Francisco was not an isolated test. During the Cold War, the United States conducted multiple simulant-dispersion studies in cities, transit systems, and military environments. This places Sea-Spray within a broader biological-warfare vulnerability program, but details from other tests should not automatically be attributed to Sea-Spray itself."
+        },
+        {
+          "blockId": "disclosure-065",
+          "type": "AFTERMATH",
+          "headingKo": "후대 공개는 비밀시험의 존재를 확인했지만 당시 모든 건강영향을 재구성해주지는 않는다",
+          "headingEn": "Later Disclosure Confirmed the Test but Cannot Reconstruct Every Health Outcome",
+          "textKo": "프로그램 기록이 공개된 뒤 주민과 의학계는 사전동의 없는 노출의 정당성을 다시 물었다. 하지만 수십 년 뒤에는 당시 노출량, 개인별 위치, 기저질환, 병원 균주의 유전적 동일성을 완벽히 복원하기 어렵다. 이 때문에 윤리적 비판은 매우 강하게 성립하는 반면, 특정 환자 수준의 역학적 인과는 더 높은 증거문턱을 요구한다. 두 문제를 하나로 합치면 오히려 확인된 사실의 힘이 약해진다.",
+          "textEn": "After records became public, residents and medical researchers revisited the ethics of non-consensual exposure. But decades later it is difficult to reconstruct individual dose, location, underlying illness, and strain-level identity for every clinical case. The ethical critique can therefore be very strong even when patient-specific epidemiological causation remains harder to prove. Combining those two questions weakens rather than strengthens the evidence."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1950년 샌프란시스코 지역에서 미군이 Bacillus simulant와 Serratia marcescens를 이용한 비밀 aerosol dispersion test를 수행했다.\n\n확인되지 않음: 특정 개인의 감염이나 사망이 Sea-Spray 때문에 발생했다고 단정하려면 별도의 역학·미생물학적 인과증거가 필요하다.",
+          "textEn": "Established: In 1950, the U.S. military conducted covert aerosol-dispersion tests over the San Francisco area using a Bacillus simulant and Serratia marcescens.\n\nNot established: Attributing a specific person’s infection or death to Sea-Spray requires separate epidemiological and microbiological evidence of causation."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1950년 샌프란시스코 지역에서 미군이 Bacillus simulant와 Serratia marcescens를 이용한 비밀 aerosol dispersion test를 수행했다.",
+        "notEstablished": "확인되지 않음: 특정 개인의 감염이나 사망이 Sea-Spray 때문에 발생했다고 단정하려면 별도의 역학·미생물학적 인과증거가 필요하다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "dispersion-02",
+        "serratia-03",
+        "hospital-04",
+        "ethics-05",
+        "context-06",
+        "disclosure-065"
+      ]
+    },
+    "en": {
+      "headline": "The U.S. Military Really Released Bacteria Over San Francisco—But Individual Medical Causation Is a Separate Question",
+      "hook": "The covert simulation is documented. Linking any specific infection or death to the test requires separate epidemiological evidence.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1950년 군함이 샌프란시스코 앞바다에서 aerosol line을 만들었다",
+          "headingEn": "In 1950, a Naval Vessel Released an Aerosol Line Offshore",
+          "textKo": "냉전 초기 미군은 항구도시가 생물무기 공격에 얼마나 취약한지 알아보기 위해 실제 도시 규모의 모의시험을 했다. National Academies의 프로그램 역사에는 1950년 샌프란시스코 앞바다에서 해군 함정이 Bacillus 계열 simulant와 Serratia marcescens를 살포한 시험이 기록돼 있다. 당시에는 이 미생물들이 비교적 무해한 모의물질로 취급됐다.",
+          "textEn": "In the early Cold War, the U.S. military conducted city-scale simulations to test vulnerability to biological-warfare attack. A National Academies program history documents 1950 releases off San Francisco using a Bacillus-family simulant and Serratia marcescens. At the time, these organisms were treated as relatively harmless simulants."
+        },
+        {
+          "blockId": "dispersion-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "목표는 무기효과가 아니라 도시로 얼마나 퍼지는지 측정하는 것이었다",
+          "headingEn": "The Immediate Goal Was to Measure Urban Dispersion",
+          "textKo": "해안에서 뿌린 aerosol이 바람을 타고 도심과 주변지역의 sampler에 얼마나 도달하는지를 측정했다. 한 조건에서는 downtown sampler에서 매우 높은 Bacillus 농도가 확인돼 해상 line-source attack이 도시 전체로 퍼질 수 있음을 보여줬다. 반면 기상조건이 달라지면 분산범위가 크게 줄었다. 시험은 대기안정도와 바람이 결과를 크게 좌우한다는 점을 확인했다.",
+          "textEn": "The tests measured how an aerosol released offshore moved with the wind into urban and surrounding samplers. Under favorable conditions, high Bacillus concentrations were recovered downtown, demonstrating the vulnerability of a seaport to a line-source aerosol. Under unstable atmospheric conditions, penetration was much smaller. Meteorology strongly controlled the result."
+        },
+        {
+          "blockId": "serratia-03",
+          "type": "BACKGROUND",
+          "headingKo": "Serratia는 당시 “simulant”였지만 오늘날 완전히 무해한 균으로 보지는 않는다",
+          "headingEn": "Serratia Was Used as a Simulant, but Is Not Regarded as Universally Harmless Today",
+          "textKo": "Serratia marcescens는 색소 때문에 추적이 쉬워 시험에 이용됐다. 당시 군 연구자들은 위해성이 낮다고 판단했지만, 오늘날에는 특히 취약환자에서 opportunistic infection을 일으킬 수 있는 세균으로 알려져 있다. 이것은 과거 안전성 판단이 현대 기준과 다를 수 있음을 보여준다.",
+          "textEn": "Serratia marcescens was easy to track because of its pigment and was used as a biological simulant. Military researchers at the time considered it low-risk, but today it is recognized as an opportunistic pathogen, especially in vulnerable patients. Historical safety assumptions therefore should not be treated as equivalent to modern ones."
+        },
+        {
+          "blockId": "hospital-04",
+          "type": "TURNING_POINT",
+          "headingKo": "시험 직후 병원 감염 사례가 알려지며 인과논쟁이 시작됐다",
+          "headingEn": "Hospital Cases After the Test Created a Long Causation Debate",
+          "textKo": "살포시기와 비슷한 시기에 지역 병원에서 Serratia 감염 사례가 보고됐고 한 환자의 사망이 후대 논쟁의 중심이 됐다. 하지만 특정 임상사례가 군 살포에서 직접 유래했음을 증명하려면 동일 strain, 노출경로, 시간·공간적 연결 같은 별도 자료가 필요하다. “시험이 있었다”는 확정사실과 “그 시험이 특정 환자를 감염시켰다”는 인과주장은 증거단계가 다르다.",
+          "textEn": "Serratia infections were reported in a local hospital around the same period, and one patient death later became central to public controversy. But proving that a particular clinical case came from the military release would require separate evidence linking strain, exposure route, time, and place. “The test occurred” and “the test caused this individual infection” are different evidentiary claims."
+        },
+        {
+          "blockId": "ethics-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가장 분명한 윤리문제는 주민에게 동의나 고지가 없었다는 점이다",
+          "headingEn": "The Clearest Ethical Problem Is the Lack of Public Consent or Notice",
+          "textKo": "도시 전체가 실험환경이었지만 주민은 사전에 동의하거나 노출사실을 알지 못했다. 당시 군은 공격 취약성을 현실적으로 측정하기 위해 비밀성이 필요하다고 봤지만, 현대 연구윤리에서는 비동의 인구집단을 잠재적 생물학적 노출에 포함시키는 방식이 중대한 문제로 평가된다.",
+          "textEn": "An entire urban population became part of the test environment without advance consent or notification. The military considered secrecy necessary to model a realistic attack, but under modern research-ethics standards, exposing a non-consenting population to a biological agent—even a simulant—raises serious concerns."
+        },
+        {
+          "blockId": "context-06",
+          "type": "BACKGROUND",
+          "headingKo": "Sea-Spray는 더 큰 미국 생물전 취약성 시험 프로그램의 한 사례였다",
+          "headingEn": "Sea-Spray Was One Part of a Broader Vulnerability-Testing Program",
+          "textKo": "샌프란시스코 시험은 단독사건이 아니었다. 냉전기 미국은 도시·지하철·군시설에서 여러 simulant dispersion test를 수행했다. 이 맥락은 사건이 “한 번의 기괴한 실험”이 아니라 생물방어·공격 연구체계의 일부였음을 보여준다. 다만 다른 시험의 세부를 Sea-Spray에 자동으로 합쳐서는 안 된다.",
+          "textEn": "San Francisco was not an isolated test. During the Cold War, the United States conducted multiple simulant-dispersion studies in cities, transit systems, and military environments. This places Sea-Spray within a broader biological-warfare vulnerability program, but details from other tests should not automatically be attributed to Sea-Spray itself."
+        },
+        {
+          "blockId": "disclosure-065",
+          "type": "AFTERMATH",
+          "headingKo": "후대 공개는 비밀시험의 존재를 확인했지만 당시 모든 건강영향을 재구성해주지는 않는다",
+          "headingEn": "Later Disclosure Confirmed the Test but Cannot Reconstruct Every Health Outcome",
+          "textKo": "프로그램 기록이 공개된 뒤 주민과 의학계는 사전동의 없는 노출의 정당성을 다시 물었다. 하지만 수십 년 뒤에는 당시 노출량, 개인별 위치, 기저질환, 병원 균주의 유전적 동일성을 완벽히 복원하기 어렵다. 이 때문에 윤리적 비판은 매우 강하게 성립하는 반면, 특정 환자 수준의 역학적 인과는 더 높은 증거문턱을 요구한다. 두 문제를 하나로 합치면 오히려 확인된 사실의 힘이 약해진다.",
+          "textEn": "After records became public, residents and medical researchers revisited the ethics of non-consensual exposure. But decades later it is difficult to reconstruct individual dose, location, underlying illness, and strain-level identity for every clinical case. The ethical critique can therefore be very strong even when patient-specific epidemiological causation remains harder to prove. Combining those two questions weakens rather than strengthens the evidence."
+        },
+        {
+          "blockId": "boundary-07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1950년 샌프란시스코 지역에서 미군이 Bacillus simulant와 Serratia marcescens를 이용한 비밀 aerosol dispersion test를 수행했다.\n\n확인되지 않음: 특정 개인의 감염이나 사망이 Sea-Spray 때문에 발생했다고 단정하려면 별도의 역학·미생물학적 인과증거가 필요하다.",
+          "textEn": "Established: In 1950, the U.S. military conducted covert aerosol-dispersion tests over the San Francisco area using a Bacillus simulant and Serratia marcescens.\n\nNot established: Attributing a specific person’s infection or death to Sea-Spray requires separate epidemiological and microbiological evidence of causation."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: In 1950, the U.S. military conducted covert aerosol-dispersion tests over the San Francisco area using a Bacillus simulant and Serratia marcescens.",
+        "notEstablished": "Not established: Attributing a specific person’s infection or death to Sea-Spray requires separate epidemiological and microbiological evidence of causation."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "dispersion-02",
+        "serratia-03",
+        "hospital-04",
+        "ethics-05",
+        "context-06",
+        "disclosure-065"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SEA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1950년 샌프란시스코에서 Bacillus simulant와 Serratia marcescens가 살포시험에 사용됐다.",
+      "statementEn": "Bacillus simulant and Serratia marcescens were used in 1950 San Francisco dispersion tests.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ]
+    },
+    {
+      "claimId": "SEA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "기상조건은 aerosol의 도시침투 범위에 큰 영향을 줬다.",
+      "statementEn": "Meteorological conditions strongly affected urban aerosol penetration.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ]
+    },
+    {
+      "claimId": "SEA-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 환자의 감염·사망을 Sea-Spray와 직접 연결하는 인과는 별도 증거가 필요하다.",
+      "statementEn": "Directly linking any specific infection or death to Sea-Spray requires separate causal evidence.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SEASPRAY_NAS",
+      "title": "Firepower in the Lab — San Francisco vulnerability tests",
+      "publisher": "National Academies",
+      "url": "https://www.nationalacademies.org/read/9749/chapter/20",
+      "sourceType": "NATIONAL_ACADEMY_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "seaspray-v01",
+      "role": "DISPERSION_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "해상 line-source release → 바람 → 도시 sampler의 확산구조.",
+      "captionEn": "Offshore line-source release → wind → urban sampler dispersion.",
+      "altKo": "해상 line-source release → 바람 → 도시 sampler의 확산구조.",
+      "altEn": "Offshore line-source release → wind → urban sampler dispersion.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-sea-spray__seaspray-v01__ko.png",
+          "sha256": "dbcd770577bbc3e9ccf91f99421837537867ff6471eba25eae68904841ae1c58",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-sea-spray__seaspray-v01__en.png",
+          "sha256": "3c6c95eee947bc3671b7a939ca84c55c7040ee98bb790f4a66b668da2758973c",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "seaspray-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1950 시험 → 후대 공개 → 윤리·의학 인과 논쟁의 흐름.",
+      "captionEn": "1950 test → later disclosure → ethics and medical-causation debate.",
+      "altKo": "1950 시험 → 후대 공개 → 윤리·의학 인과 논쟁의 흐름.",
+      "altEn": "1950 test → later disclosure → ethics and medical-causation debate.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-sea-spray__seaspray-v02__ko.png",
+          "sha256": "8bcd290dac6fb41ac523b1b194e51190a891555ea62d75a86e39571d66079512",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-sea-spray__seaspray-v02__en.png",
+          "sha256": "724bf95db156dff25fcb14f2a967c0cfc732c35b24eac6bd0f8c24a263ae79bf",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "seaspray-v03",
+      "role": "CLAIM_VS_EVIDENCE",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "“시험 실재”와 “특정 환자 인과”를 분리.",
+      "captionEn": "Separate documented testing from patient-specific causation.",
+      "altKo": "“시험 실재”와 “특정 환자 인과”를 분리.",
+      "altEn": "Separate documented testing from patient-specific causation.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-sea-spray__seaspray-v03__ko.png",
+          "sha256": "87bb86b8088019295c5a1a8f8c37264221e6b62163e675f7b57429c7e32701e8",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-sea-spray__seaspray-v03__en.png",
+          "sha256": "ffae00a3a3a03fc6430964394b8bab1616e3b7258200e23e5ac5008fa8f2a526",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "seaspray-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "공식기록이 확인하는 범위와 확인하지 않는 범위를 표시.",
+      "captionEn": "Show what the official record establishes and what it does not.",
+      "altKo": "공식기록이 확인하는 범위와 확인하지 않는 범위를 표시.",
+      "altEn": "Show what the official record establishes and what it does not.",
+      "sourceRefs": [
+        "SEASPRAY_NAS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-sea-spray__seaspray-v04__ko.png",
+          "sha256": "0930d1288083048306c826a5945ca59b31454d816c142a47168471d1cde46a4b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-sea-spray__seaspray-v04__en.png",
+          "sha256": "9413909aabf681110e7adf2f67d260888933bf10f847f11c6dc051485b9779b0",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Human Experiment Ethics",
+      "Biological Warfare History"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "California"
+    ],
+    "places": [
+      {
+        "name": "San Francisco",
+        "role": "test area"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. military",
+      "National Academies"
+    ],
+    "dateRange": {
+      "start": "1950",
+      "end": "1950",
+      "precision": "test year"
+    },
+    "era": "early Cold War",
+    "resolution": "TEST_DOCUMENTED_PATIENT_SPECIFIC_CAUSATION_NOT_ESTABLISHED",
+    "searchAliases": [
+      "Sea Spray",
+      "Serratia San Francisco"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1513,
+    "enBodyWords": 396,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 4,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MysteryAtlas_MEDIA_READY154_PACK_2026-09-28_v1.0.zip",
+  "sourcePack": "MysteryAtlas_MEDIA_READY164_PACK_2026-09-29_v1.0.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -3043,6 +3043,79 @@
       }
     },
     {
+      "canonicalId": "fairy-circles",
+      "title": {
+        "ko": "페어리 서클",
+        "en": "Fairy Circles"
+      },
+      "headline": {
+        "ko": "사막의 규칙적인 맨땅 원—흰개미인가, 식물 자기조직화인가, 아니면 둘 다인가",
+        "en": "Regular Bare Circles in Desert Grasslands—Termites, Plant Self-Organization, or Both?"
+      },
+      "hook": {
+        "ko": "패턴은 실제다. 논쟁은 서로 다른 지역의 비슷한 원이 같은 메커니즘으로 생기는지에 있다.",
+        "en": "The patterns are real. The dispute is whether visually similar circles in different regions share one mechanism."
+      },
+      "aliases": [
+        "Namib fairy circles",
+        "Australian linyji"
+      ],
+      "genre": "Science / Nature",
+      "genres": [
+        "Ecology",
+        "Pattern Formation"
+      ],
+      "countries": [
+        "Namibia",
+        "Angola",
+        "Australia"
+      ],
+      "regions": [
+        "Namib Desert",
+        "Western Australia"
+      ],
+      "era": "modern ecology",
+      "resolution": "PATTERN_REAL_CAUSATION_REGION_DEPENDENT",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1970s",
+        "end": "2024",
+        "precision": "modern research debate"
+      },
+      "related": [],
+      "heroAssetId": "fairy-v01",
+      "heroFile": {
+        "ko": "fairy-circles__fairy-v01__ko.png",
+        "en": "fairy-circles__fairy-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "나미비아·앙골라·호주의 서로 다른 fairy-circle 연구지역을 비교.",
+        "en": "Compare study regions in Namibia, Angola, and Australia."
+      },
+      "heroAlt": {
+        "ko": "나미비아·앙골라·호주의 서로 다른 fairy-circle 연구지역을 비교.",
+        "en": "Compare study regions in Namibia, Angola, and Australia."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SCIENCE_DEBATE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "falcon-lake",
       "title": {
         "ko": "팔콘 레이크 사건",
@@ -5676,6 +5749,81 @@
       }
     },
     {
+      "canonicalId": "lake-baikal-ice-rings",
+      "title": {
+        "ko": "바이칼 호수 얼음 고리",
+        "en": "Lake Baikal Ice Rings"
+      },
+      "headline": {
+        "ko": "얼음 위에 나타나는 수 km짜리 검은 고리—외계 흔적이 아니라 호수 내부의 열과 순환 문제다",
+        "en": "Kilometer-Scale Dark Rings in Ice—A Lake-Convection Problem, Not an Alien Signature"
+      },
+      "hook": {
+        "ko": "거대한 고리는 위성·우주정거장에서 반복 관측됐다. 정확한 열원은 사례별로 완전히 같다고 확정되지 않았다.",
+        "en": "The giant rings have been repeatedly observed from space. The exact heat source is not proven identical for every case."
+      },
+      "aliases": [
+        "Baikal ice circles",
+        "Baikal ice rings"
+      ],
+      "genre": "Science / Nature",
+      "genres": [
+        "Lake Physics",
+        "Ice Phenomena"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "regions": [
+        "Siberia"
+      ],
+      "era": "satellite observation era",
+      "resolution": "NATURAL_CONVECTION_FAVORED_EXACT_HEAT_SOURCE_CASE_DEPENDENT",
+      "places": [
+        {
+          "name": "Lake Baikal",
+          "role": "phenomenon location"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1985",
+        "end": "2009",
+        "precision": "documented recurring observations"
+      },
+      "related": [],
+      "heroAssetId": "baikal-v01",
+      "heroFile": {
+        "ko": "lake-baikal-ice-rings__baikal-v01__ko.png",
+        "en": "lake-baikal-ice-rings__baikal-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "얼음 아래 upwelling·convection이 ring-shaped thin ice를 만드는 개념도.",
+        "en": "Concept diagram of sub-ice upwelling and convection producing a thin-ice ring."
+      },
+      "heroAlt": {
+        "ko": "얼음 아래 upwelling·convection이 ring-shaped thin ice를 만드는 개념도.",
+        "en": "Concept diagram of sub-ice upwelling and convection producing a thin-ice ring."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SCIENCE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "lake-nyos",
       "title": {
         "ko": "니오스 호수 가스 참사",
@@ -5885,6 +6033,165 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "longyou-caves",
+      "title": {
+        "ko": "룽유 석굴",
+        "en": "Longyou Caves"
+      },
+      "headline": {
+        "ko": "24개의 거대 인공 석굴—누가, 언제, 왜 파냈는지는 아직 기록 밖에 있다",
+        "en": "Twenty-Four Giant Man-Made Caverns—But Who Built Them, When, and Why?"
+      },
+      "hook": {
+        "ko": "인공 구조라는 점은 확실하다. 미스터리는 존재 여부가 아니라 축조 연대·용도·사라진 석재의 행방이다.",
+        "en": "Their artificial origin is certain. The mystery is their date, purpose, labor system, and the removed stone."
+      },
+      "aliases": [
+        "Longyou Grottoes",
+        "龙游石窟"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Ancient Engineering"
+      ],
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Zhejiang"
+      ],
+      "era": "Ancient China / modern rediscovery",
+      "resolution": "ARTIFICIAL_CAVES_CONFIRMED_BUILDERS_DATE_PURPOSE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Longyou County",
+          "role": "site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "-0206",
+        "end": "1992",
+        "precision": "archaeological clue through rediscovery"
+      },
+      "related": [],
+      "heroAssetId": "longyou-v01",
+      "heroFile": {
+        "ko": "longyou-caves__longyou-v01__ko.png",
+        "en": "longyou-caves__longyou-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "24개 인공 석굴과 기둥·천장·공구흔의 구조를 개념적으로 표시.",
+        "en": "Conceptual structure of the twenty-four artificial caverns, pillars, roof, and tool marks."
+      },
+      "heroAlt": {
+        "ko": "24개 인공 석굴과 기둥·천장·공구흔의 구조를 개념적으로 표시.",
+        "en": "Conceptual structure of the twenty-four artificial caverns, pillars, roof, and tool marks."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "lost-colony-roanoke",
+      "title": {
+        "ko": "로어노크 잃어버린 식민지",
+        "en": "Lost Colony of Roanoke"
+      },
+      "headline": {
+        "ko": "117명의 식민자가 사라진 뒤 남은 한 단어—CROATOAN은 답이었을까",
+        "en": "117 Colonists Vanished, Leaving One Word—Was CROATOAN the Answer?"
+      },
+      "hook": {
+        "ko": "John White는 식민자들이 Croatoan으로 이동했다고 생각했다. 문제는 그 뒤의 경로를 확정할 직접 증거가 부족하다는 점이다.",
+        "en": "John White believed the colonists moved to Croatoan. The problem is the lack of decisive evidence for what happened after that move."
+      },
+      "aliases": [
+        "Lost Colony",
+        "Roanoke colony",
+        "CROATOAN"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Lost Colony",
+        "Identity / Migration"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "North Carolina Outer Banks"
+      ],
+      "era": "Elizabethan colonization",
+      "resolution": "RELOCATION_CLUE_DOCUMENTED_FINAL_FATE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Roanoke Island",
+          "role": "settlement"
+        },
+        {
+          "name": "Hatteras Island / Croatoan",
+          "role": "possible destination"
+        }
+      ],
+      "people": [
+        {
+          "name": "John White",
+          "role": "governor"
+        }
+      ],
+      "dateRange": {
+        "start": "1587",
+        "end": "1590",
+        "precision": "colony period"
+      },
+      "related": [],
+      "heroAssetId": "roanoke-v01",
+      "heroFile": {
+        "ko": "lost-colony-roanoke__roanoke-v01__ko.png",
+        "en": "lost-colony-roanoke__roanoke-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1587 정착 → White 출국 → 전쟁 지연 → 1590 귀환과 CROATOAN.",
+        "en": "1587 settlement → White departs → war delay → 1590 return and CROATOAN."
+      },
+      "heroAlt": {
+        "ko": "1587 정착 → White 출국 → 전쟁 지연 → 1590 귀환과 CROATOAN.",
+        "en": "1587 settlement → White departs → war delay → 1590 return and CROATOAN."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "HISTORICAL_MYSTERY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -6426,6 +6733,91 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mh370",
+      "title": {
+        "ko": "MH370",
+        "en": "Malaysia Airlines Flight 370"
+      },
+      "headline": {
+        "ko": "위성 handshake와 표류잔해는 경로를 좁혔지만, 2026년에도 주 wreck는 찾지 못했다",
+        "en": "Satellite Handshakes and Drift Debris Narrowed the Search—But the Main Wreck Was Still Unlocated in 2026"
+      },
+      "hook": {
+        "ko": "사건에는 실제 데이터가 많다. 가장 큰 빈칸은 남인도양의 정확한 충돌지점과 왜 항공기가 그 경로로 갔는지다.",
+        "en": "The case contains substantial real data. The largest gaps are the exact impact site in the southern Indian Ocean and why the aircraft followed that path."
+      },
+      "aliases": [
+        "Malaysia Airlines 370",
+        "MH370 Ocean Infinity",
+        "Inmarsat arcs"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Unsolved Disappearance",
+        "Forensic Search"
+      ],
+      "countries": [
+        "Malaysia",
+        "Australia"
+      ],
+      "regions": [
+        "Southern Indian Ocean"
+      ],
+      "era": "modern aviation",
+      "resolution": "ROUTE_PARTIALLY_RECONSTRUCTED_MAIN_WRECK_AND_CAUSE_UNRESOLVED",
+      "places": [
+        {
+          "name": "Kuala Lumpur",
+          "role": "departure"
+        },
+        {
+          "name": "Beijing",
+          "role": "destination"
+        },
+        {
+          "name": "Southern Indian Ocean",
+          "role": "search region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "2014-03-08",
+        "end": "2026-01-23",
+        "precision": "disappearance through latest cited search phase"
+      },
+      "related": [],
+      "heroAssetId": "mh370-v01",
+      "heroFile": {
+        "ko": "mh370__mh370-v01__ko.png",
+        "en": "mh370__mh370-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "2014 실종 → ATSB 수색 → 2015~ 표류잔해 → 2018 OI → 2025~2026 OI 재수색.",
+        "en": "2014 disappearance → ATSB search → drift debris → 2018 OI → 2025–2026 renewed OI search."
+      },
+      "heroAlt": {
+        "ko": "2014 실종 → ATSB 수색 → 2015~ 표류잔해 → 2018 OI → 2025~2026 OI 재수색.",
+        "en": "2014 disappearance → ATSB search → drift debris → 2018 OI → 2025–2026 renewed OI search."
+      },
+      "readMinutes": {
+        "ko": 5,
+        "en": 5
+      },
+      "publication": {
+        "tier": "STANDARD_STORY",
+        "editorialFamily": "AVIATION_DOSSIER",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -7402,6 +7794,86 @@
       }
     },
     {
+      "canonicalId": "operation-mongoose",
+      "title": {
+        "ko": "오퍼레이션 몽구스",
+        "en": "Operation Mongoose"
+      },
+      "headline": {
+        "ko": "쿠바 정권 전복을 목표로 한 범정부 비밀작전—문서에 있는 계획과 실제 실행은 다르다",
+        "en": "A U.S. Interagency Covert Campaign Against Castro—But Plans and Executed Actions Are Not the Same"
+      },
+      "hook": {
+        "ko": "Operation Mongoose는 실재했다. 그러나 비밀해제 문서에 적힌 모든 극단적 시나리오가 실제 실행됐다는 뜻은 아니다.",
+        "en": "Operation Mongoose was real. The existence of a plan does not mean every extreme scenario in the files was carried out."
+      },
+      "aliases": [
+        "Cuba Project",
+        "Mongoose Cuba"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Cold War"
+      ],
+      "countries": [
+        "United States",
+        "Cuba"
+      ],
+      "regions": [
+        "Caribbean"
+      ],
+      "era": "Cold War",
+      "resolution": "PROGRAM_DOCUMENTED_IMPLEMENTATION_VARIED",
+      "places": [
+        {
+          "name": "Cuba",
+          "role": "target area"
+        }
+      ],
+      "people": [
+        {
+          "name": "Edward Lansdale",
+          "role": "chief of operations"
+        }
+      ],
+      "dateRange": {
+        "start": "1961-11",
+        "end": "1962-10",
+        "precision": "core program period"
+      },
+      "related": [],
+      "heroAssetId": "mongoose-v01",
+      "heroFile": {
+        "ko": "operation-mongoose__mongoose-v01__ko.png",
+        "en": "operation-mongoose__mongoose-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1961 승인 → 1962 Phase I → 확대안 검토 → Cuban Missile Crisis의 흐름.",
+        "en": "1961 authorization → 1962 Phase I → escalation options → Cuban Missile Crisis."
+      },
+      "heroAlt": {
+        "ko": "1961 승인 → 1962 Phase I → 확대안 검토 → Cuban Missile Crisis의 흐름.",
+        "en": "1961 authorization → 1962 Phase I → escalation options → Cuban Missile Crisis."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "operation-northwoods",
       "title": {
         "ko": "오퍼레이션 노스우즈",
@@ -7622,6 +8094,81 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "operation-sea-spray",
+      "title": {
+        "ko": "Operation Sea-Spray",
+        "en": "Operation Sea-Spray"
+      },
+      "headline": {
+        "ko": "1950년 샌프란시스코 위에 실제로 박테리아를 뿌렸다—그러나 개인 환자의 인과관계는 별도 문제다",
+        "en": "The U.S. Military Really Released Bacteria Over San Francisco—But Individual Medical Causation Is a Separate Question"
+      },
+      "hook": {
+        "ko": "비밀 모의살포는 공식·학술기록으로 확인된다. 특정 감염이나 사망을 그 시험에 연결하려면 추가 역학 증거가 필요하다.",
+        "en": "The covert simulation is documented. Linking any specific infection or death to the test requires separate epidemiological evidence."
+      },
+      "aliases": [
+        "Sea Spray",
+        "Serratia San Francisco"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Human Experiment Ethics",
+        "Biological Warfare History"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "California"
+      ],
+      "era": "early Cold War",
+      "resolution": "TEST_DOCUMENTED_PATIENT_SPECIFIC_CAUSATION_NOT_ESTABLISHED",
+      "places": [
+        {
+          "name": "San Francisco",
+          "role": "test area"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1950",
+        "end": "1950",
+        "precision": "test year"
+      },
+      "related": [],
+      "heroAssetId": "seaspray-v01",
+      "heroFile": {
+        "ko": "operation-sea-spray__seaspray-v01__ko.png",
+        "en": "operation-sea-spray__seaspray-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "해상 line-source release → 바람 → 도시 sampler의 확산구조.",
+        "en": "Offshore line-source release → wind → urban sampler dispersion."
+      },
+      "heroAlt": {
+        "ko": "해상 line-source release → 바람 → 도시 sampler의 확산구조.",
+        "en": "Offshore line-source release → wind → urban sampler dispersion."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "SECRET_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -7898,6 +8445,90 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "piltdown-man",
+      "title": {
+        "ko": "필트다운 맨",
+        "en": "Piltdown Man"
+      },
+      "headline": {
+        "ko": "“잃어버린 고리”는 없었다—두개골·오랑우탄 턱·갈아낸 이빨이 만든 과학사기",
+        "en": "There Was No “Missing Link”—A Human Skull, Orangutan Jaw, and Filed Teeth Made a Scientific Hoax"
+      },
+      "hook": {
+        "ko": "위조 자체는 확정됐다. 남은 미스터리는 누가 모든 조작을 설계했는지다.",
+        "en": "The hoax is conclusively established. The residual mystery is who planned every part of it."
+      },
+      "aliases": [
+        "Piltdown hoax",
+        "Eoanthropus dawsoni"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Scientific Fraud",
+        "Explained Mystery"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Sussex"
+      ],
+      "era": "20th-century paleoanthropology",
+      "resolution": "HOAX_CONFIRMED_FULL_CONSPIRATOR_LIST_UNRESOLVED",
+      "places": [
+        {
+          "name": "Piltdown",
+          "role": "claimed discovery site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Charles Dawson",
+          "role": "leading fraud suspect"
+        },
+        {
+          "name": "Kenneth Oakley",
+          "role": "fluorine dating investigator"
+        }
+      ],
+      "dateRange": {
+        "start": "1912",
+        "end": "2016",
+        "precision": "announcement through modern forensic reassessment"
+      },
+      "related": [],
+      "heroAssetId": "piltdown-v01",
+      "heroFile": {
+        "ko": "piltdown-man__piltdown-v01__ko.png",
+        "en": "piltdown-man__piltdown-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "인간 두개골 + orangutan 턱 + filed teeth + staining의 위조구조.",
+        "en": "Hoax construction: human skull + orangutan jaw + filed teeth + staining."
+      },
+      "heroAlt": {
+        "ko": "인간 두개골 + orangutan 턱 + filed teeth + staining의 위조구조.",
+        "en": "Hoax construction: human skull + orangutan jaw + filed teeth + staining."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_HOAX",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9254,6 +9885,81 @@
       }
     },
     {
+      "canonicalId": "sanxingdui",
+      "title": {
+        "ko": "싼싱두이의 청동 가면",
+        "en": "Sanxingdui"
+      },
+      "headline": {
+        "ko": "거대한 청동 얼굴은 “외계인”이 아니라 고대 촉 문화의 기록—진짜 미스터리는 상징과 정치구조다",
+        "en": "The Giant Bronze Faces Are Evidence of Ancient Shu Culture—The Real Mystery Is Their Meaning and Political World"
+      },
+      "hook": {
+        "ko": "유물과 제사구덩이는 확실한 고고학 자료다. 문자기록이 적어 누가 어떤 신·권력·의례를 표현했는지는 해석이 남는다.",
+        "en": "The artifacts and ritual pits are firm archaeological evidence. Limited writing leaves their symbolism, religion, and political structure open to interpretation."
+      },
+      "aliases": [
+        "Sanxingdui bronze masks",
+        "Ancient Shu"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Ancient Shu",
+        "Bronze Age Art"
+      ],
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Sichuan"
+      ],
+      "era": "Bronze Age China / modern archaeology",
+      "resolution": "SITE_AND_ARTIFACTS_CONFIRMED_SYMBOLISM_AND_POLITICAL_STRUCTURE_PARTLY_UNRESOLVED",
+      "places": [
+        {
+          "name": "Sanxingdui",
+          "role": "archaeological site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "-1700",
+        "end": "2022",
+        "precision": "culture through latest cited excavation"
+      },
+      "related": [],
+      "heroAssetId": "sanxingdui-v01",
+      "heroFile": {
+        "ko": "sanxingdui__sanxingdui-v01__ko.png",
+        "en": "sanxingdui__sanxingdui-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1986 대발견 → 2020~2022 추가 6개 구덩이 발굴.",
+        "en": "1986 discoveries → 2020–2022 excavation of six additional pits."
+      },
+      "heroAlt": {
+        "ko": "1986 대발견 → 2020~2022 추가 6개 구덩이 발굴.",
+        "en": "1986 discoveries → 2020–2022 excavation of six additional pits."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_STORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "seneca-guns",
       "title": {
         "ko": "세네카 건스",
@@ -9865,6 +10571,81 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "stardust-stendec",
+      "title": {
+        "ko": "Star Dust와 STENDEC",
+        "en": "Star Dust / STENDEC Mystery"
+      },
+      "headline": {
+        "ko": "비행기 실종은 거의 풀렸지만 마지막 무전 “STENDEC”는 남았다",
+        "en": "The Disappearance Is Mostly Solved—But the Final Morse Word “STENDEC” Remains"
+      },
+      "hook": {
+        "ko": "빙하에서 잔해가 나오며 산악 충돌이 확인됐다. 마지막 전송문자열의 정확한 뜻은 아직 확정되지 않았다.",
+        "en": "Glacial wreckage confirmed a mountain impact. The exact meaning of the final transmitted string remains unresolved."
+      },
+      "aliases": [
+        "Star Dust",
+        "Stardust STENDEC"
+      ],
+      "genre": "Maritime / Aviation",
+      "genres": [
+        "Solved Mystery / Residual Mystery"
+      ],
+      "countries": [
+        "Argentina",
+        "Chile"
+      ],
+      "regions": [
+        "Andes"
+      ],
+      "era": "postwar aviation",
+      "resolution": "CRASH_LARGELY_RESOLVED_STENDEC_UNRESOLVED",
+      "places": [
+        {
+          "name": "Mount Tupungato",
+          "role": "crash area"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1947-08-02",
+        "end": "2001",
+        "precision": "crash through modern reconstruction"
+      },
+      "related": [],
+      "heroAssetId": "stendec-v01",
+      "heroFile": {
+        "ko": "stardust-stendec__stendec-v01__ko.png",
+        "en": "stardust-stendec__stendec-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "1947 실종 → 1998 잔해 발견 → 빙하 이동 재구성 → STENDEC 잔여 미스터리.",
+        "en": "1947 disappearance → 1998 wreck discovery → glacial reconstruction → unresolved STENDEC."
+      },
+      "heroAlt": {
+        "ko": "1947 실종 → 1998 잔해 발견 → 빙하 이동 재구성 → STENDEC 잔여 미스터리.",
+        "en": "1947 disappearance → 1998 wreck discovery → glacial reconstruction → unresolved STENDEC."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "AVIATION_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded tier; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

@@ -1,0 +1,452 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "lost-colony-roanoke",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로어노크 잃어버린 식민지",
+    "canonicalTitleEn": "Lost Colony of Roanoke",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "HISTORICAL_MYSTERY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "117명의 식민자가 사라진 뒤 남은 한 단어—CROATOAN은 답이었을까",
+      "hook": "John White는 식민자들이 Croatoan으로 이동했다고 생각했다. 문제는 그 뒤의 경로를 확정할 직접 증거가 부족하다는 점이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1590년 John White가 돌아왔을 때 식민지는 비어 있었다",
+          "headingEn": "When John White Returned in 1590, the Settlement Was Empty",
+          "textKo": "1587년 John White가 이끈 117명의 남녀와 아이들은 Roanoke Island에 정착했다. 보급을 위해 영국으로 돌아간 White는 스페인과의 전쟁 때문에 3년 동안 귀환하지 못했다. 1590년 8월 돌아왔을 때 집들은 사라지고 사람도 시신도 없었다. 남은 가장 유명한 단서는 나무의 “CRO”와 방책 기둥의 “CROATOAN”이었다.",
+          "textEn": "In 1587, 117 men, women, and children led by John White settled on Roanoke Island. White returned to England for supplies but war with Spain delayed his return for three years. When he came back in August 1590, the houses and people were gone. The most famous clues were “CRO” carved on a tree and “CROATOAN” carved on a palisade post."
+        },
+        {
+          "blockId": "signal-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "CROATOAN은 White와 식민자들이 미리 정한 이동 신호와 맞았다",
+          "headingEn": "CROATOAN Matched a Prearranged Relocation Signal",
+          "textKo": "NPS가 인용하는 White의 기록에 따르면 식민자들이 다른 곳으로 이동한다면 목적지를 표시하기로 약속했고, 강제로 떠난 경우 십자가 표시를 더하기로 했다. White는 CROATOAN을 보고 Hatteras 쪽 Croatoan 공동체로 이동한 것으로 해석했고 강제이동 표시가 없다는 점을 주목했다.",
+          "textEn": "NPS accounts of White’s record note that the colonists had agreed to leave a destination marker if they moved, and an additional sign if they were forced away. White interpreted CROATOAN as indicating relocation toward the Croatoan community on modern Hatteras Island and noted the absence of the agreed distress sign."
+        },
+        {
+          "blockId": "search-03",
+          "type": "BACKGROUND",
+          "headingKo": "White는 곧바로 Croatoan으로 갈 수 없었다",
+          "headingEn": "White Could Not Immediately Follow the Clue",
+          "textKo": "White는 Croatoan으로 가서 확인하기를 원했지만 악천후와 선박 사정 때문에 수색이 좌절됐다. 결국 그는 영국으로 돌아갔고 식민자들을 직접 다시 만나지 못했다. 이 실패가 사건을 미스터리로 남긴 핵심이다. 단서는 이동방향을 시사하지만 결과를 확인할 관찰이 끊겼다.",
+          "textEn": "White wanted to sail to Croatoan to verify the clue, but weather and ship conditions prevented the search. He returned to England and never saw the colonists again. That interruption is central to the mystery: the clue suggests a direction, but the confirming observation never happened."
+        },
+        {
+          "blockId": "indigenous-04",
+          "type": "BACKGROUND",
+          "headingKo": "식민자들은 고립된 섬에 살지 않았다—주변 원주민 공동체가 있었다",
+          "headingEn": "The Colonists Were Not Alone—Indigenous Communities Surrounded the Settlement",
+          "textKo": "Roanoke 식민지의 생존은 Algonquian-speaking communities와의 교역·갈등에 크게 영향을 받았다. Manteo와 Croatoan 공동체는 영국인과 비교적 우호적 관계를 맺었던 것으로 기록된다. 따라서 일부 또는 전부가 주변 공동체에 합류했다는 가설은 역사적 맥락과 맞는다. 하지만 가능성이 곧 입증은 아니다.",
+          "textEn": "The colony’s survival depended heavily on relations with Algonquian-speaking communities, including trade and conflict. Manteo and the Croatoan community had comparatively friendly ties with the English. This makes integration with nearby Indigenous communities historically plausible, but plausibility is not proof."
+        },
+        {
+          "blockId": "archaeology-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "후대 발굴의 영국계 유물은 단서지만 “Lost Colony 확인”과는 다르다",
+          "headingEn": "Later English-Associated Artifacts Are Clues, Not Automatic Proof",
+          "textKo": "Roanoke 주변과 Hatteras, 내륙 지역에서 16세기 영국과 연결될 수 있는 유물이 보고돼 왔다. 하지만 유물은 교역·후대 방문·다른 식민활동으로도 이동할 수 있다. Lost Colony의 특정 가족이나 집단과 직접 연결할 수 있는 층위·문서·DNA가 없다면 “식민자들의 최종 정착지”라고 확정하기 어렵다.",
+          "textEn": "Sixteenth-century English-associated artifacts have been reported around Roanoke, Hatteras, and inland areas. But objects can move through trade, later visits, or other colonial activity. Without secure context tying an assemblage directly to members of the Lost Colony, artifacts do not automatically establish a final settlement site."
+        },
+        {
+          "blockId": "theories-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "Croatoan 합류·내륙 이동·분산은 서로 배타적일 필요가 없다",
+          "headingEn": "Croatoan Integration, Inland Movement, and Dispersal Need Not Be Mutually Exclusive",
+          "textKo": "117명이 한 덩어리로 이동했다고 가정할 필요는 없다. 식량과 안전문제 때문에 집단이 나뉘었을 수 있고, 일부는 Croatoan과 합류하고 다른 일부는 내륙으로 이동했을 가능성도 있다. 이 복수경로 모델은 여러 지역의 단서를 동시에 설명할 수 있지만, 아직 직접 확정할 자료는 없다.",
+          "textEn": "There is no requirement that all 117 colonists moved together. Food and security pressures could have split the group, with some joining Croatoan communities and others moving inland. A multi-route model can accommodate clues from more than one region, but the surviving evidence does not yet establish it directly."
+        },
+        {
+          "blockId": "aftermath-07",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 “증발”이 아니라 기록 단절에 가깝다",
+          "headingEn": "The Mystery Is Better Described as a Break in the Record Than a Vanishing",
+          "textKo": "사람들이 흔적 없이 공중에서 사라진 사건으로 묘사하면 CROATOAN과 당시 사회관계를 오히려 무시하게 된다. 가장 방어 가능한 해석은 식민지가 계획적으로 이동했고 이후 기록이 끊겼다는 것이다. 다만 어디로, 몇 집단으로, 얼마나 오래 살아남았는지는 여전히 열려 있다.",
+          "textEn": "Describing the colonists as if they vanished into thin air understates the CROATOAN clue and the surrounding social landscape. The most defensible interpretation is that the settlement relocated and the documentary record then broke off. Where they went, whether they split, and how long they survived remain open questions."
+        },
+        {
+          "blockId": "violence-065",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“학살됐다”는 단정도 “모두 동화됐다”는 단정도 증거를 넘는다",
+          "headingEn": "Neither Total Massacre Nor Complete Assimilation Is Proven",
+          "textKo": "초기 영국인과 주변 공동체 사이에는 폭력과 보복이 있었기 때문에 학살 가능성은 오래 제기됐다. 반면 CROATOAN 단서와 우호관계 때문에 완전한 동화 가설도 인기가 있다. 그러나 대량학살을 직접 보여주는 유해집단이나 전투기록도, 117명 모두가 특정 공동체에 합류했다는 동시대 명단도 없다. 역사적으로 가능한 시나리오와 입증된 사건을 구분해야 한다.",
+          "textEn": "Violence and retaliation between earlier English colonists and nearby communities made massacre theories plausible enough to investigate. The CROATOAN clue and friendly relations made assimilation theories equally attractive. Yet no mass burial or contemporary battle record establishes a total massacre, and no surviving list shows all 117 colonists joining one community. Historical plausibility must be kept separate from proof."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1587년 117명이 Roanoke에 정착했고 White가 1590년 돌아왔을 때 식민지는 비어 있었다. CRO/CROATOAN 표시는 실제 기록에 남아 있으며 White는 Croatoan으로의 이동을 뜻한다고 해석했다.\n\n확인되지 않음: 식민자 전원이 Croatoan/Hatteras에 합류했는지, 일부가 내륙으로 이동했는지, 여러 집단으로 분산됐는지는 결정적으로 입증되지 않았다.",
+          "textEn": "Established: 117 colonists settled at Roanoke in 1587, and the settlement was empty when White returned in 1590. CRO/CROATOAN is documented, and White interpreted it as indicating relocation toward Croatoan.\n\nNot established: It remains unproven whether all colonists joined the Croatoan/Hatteras community, moved inland, or dispersed into multiple groups."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1587년 117명이 Roanoke에 정착했고 White가 1590년 돌아왔을 때 식민지는 비어 있었다. CRO/CROATOAN 표시는 실제 기록에 남아 있으며 White는 Croatoan으로의 이동을 뜻한다고 해석했다.",
+        "notEstablished": "확인되지 않음: 식민자 전원이 Croatoan/Hatteras에 합류했는지, 일부가 내륙으로 이동했는지, 여러 집단으로 분산됐는지는 결정적으로 입증되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "signal-02",
+        "search-03",
+        "indigenous-04",
+        "archaeology-05",
+        "theories-06",
+        "aftermath-07",
+        "violence-065"
+      ]
+    },
+    "en": {
+      "headline": "117 Colonists Vanished, Leaving One Word—Was CROATOAN the Answer?",
+      "hook": "John White believed the colonists moved to Croatoan. The problem is the lack of decisive evidence for what happened after that move.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1590년 John White가 돌아왔을 때 식민지는 비어 있었다",
+          "headingEn": "When John White Returned in 1590, the Settlement Was Empty",
+          "textKo": "1587년 John White가 이끈 117명의 남녀와 아이들은 Roanoke Island에 정착했다. 보급을 위해 영국으로 돌아간 White는 스페인과의 전쟁 때문에 3년 동안 귀환하지 못했다. 1590년 8월 돌아왔을 때 집들은 사라지고 사람도 시신도 없었다. 남은 가장 유명한 단서는 나무의 “CRO”와 방책 기둥의 “CROATOAN”이었다.",
+          "textEn": "In 1587, 117 men, women, and children led by John White settled on Roanoke Island. White returned to England for supplies but war with Spain delayed his return for three years. When he came back in August 1590, the houses and people were gone. The most famous clues were “CRO” carved on a tree and “CROATOAN” carved on a palisade post."
+        },
+        {
+          "blockId": "signal-02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "CROATOAN은 White와 식민자들이 미리 정한 이동 신호와 맞았다",
+          "headingEn": "CROATOAN Matched a Prearranged Relocation Signal",
+          "textKo": "NPS가 인용하는 White의 기록에 따르면 식민자들이 다른 곳으로 이동한다면 목적지를 표시하기로 약속했고, 강제로 떠난 경우 십자가 표시를 더하기로 했다. White는 CROATOAN을 보고 Hatteras 쪽 Croatoan 공동체로 이동한 것으로 해석했고 강제이동 표시가 없다는 점을 주목했다.",
+          "textEn": "NPS accounts of White’s record note that the colonists had agreed to leave a destination marker if they moved, and an additional sign if they were forced away. White interpreted CROATOAN as indicating relocation toward the Croatoan community on modern Hatteras Island and noted the absence of the agreed distress sign."
+        },
+        {
+          "blockId": "search-03",
+          "type": "BACKGROUND",
+          "headingKo": "White는 곧바로 Croatoan으로 갈 수 없었다",
+          "headingEn": "White Could Not Immediately Follow the Clue",
+          "textKo": "White는 Croatoan으로 가서 확인하기를 원했지만 악천후와 선박 사정 때문에 수색이 좌절됐다. 결국 그는 영국으로 돌아갔고 식민자들을 직접 다시 만나지 못했다. 이 실패가 사건을 미스터리로 남긴 핵심이다. 단서는 이동방향을 시사하지만 결과를 확인할 관찰이 끊겼다.",
+          "textEn": "White wanted to sail to Croatoan to verify the clue, but weather and ship conditions prevented the search. He returned to England and never saw the colonists again. That interruption is central to the mystery: the clue suggests a direction, but the confirming observation never happened."
+        },
+        {
+          "blockId": "indigenous-04",
+          "type": "BACKGROUND",
+          "headingKo": "식민자들은 고립된 섬에 살지 않았다—주변 원주민 공동체가 있었다",
+          "headingEn": "The Colonists Were Not Alone—Indigenous Communities Surrounded the Settlement",
+          "textKo": "Roanoke 식민지의 생존은 Algonquian-speaking communities와의 교역·갈등에 크게 영향을 받았다. Manteo와 Croatoan 공동체는 영국인과 비교적 우호적 관계를 맺었던 것으로 기록된다. 따라서 일부 또는 전부가 주변 공동체에 합류했다는 가설은 역사적 맥락과 맞는다. 하지만 가능성이 곧 입증은 아니다.",
+          "textEn": "The colony’s survival depended heavily on relations with Algonquian-speaking communities, including trade and conflict. Manteo and the Croatoan community had comparatively friendly ties with the English. This makes integration with nearby Indigenous communities historically plausible, but plausibility is not proof."
+        },
+        {
+          "blockId": "archaeology-05",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "후대 발굴의 영국계 유물은 단서지만 “Lost Colony 확인”과는 다르다",
+          "headingEn": "Later English-Associated Artifacts Are Clues, Not Automatic Proof",
+          "textKo": "Roanoke 주변과 Hatteras, 내륙 지역에서 16세기 영국과 연결될 수 있는 유물이 보고돼 왔다. 하지만 유물은 교역·후대 방문·다른 식민활동으로도 이동할 수 있다. Lost Colony의 특정 가족이나 집단과 직접 연결할 수 있는 층위·문서·DNA가 없다면 “식민자들의 최종 정착지”라고 확정하기 어렵다.",
+          "textEn": "Sixteenth-century English-associated artifacts have been reported around Roanoke, Hatteras, and inland areas. But objects can move through trade, later visits, or other colonial activity. Without secure context tying an assemblage directly to members of the Lost Colony, artifacts do not automatically establish a final settlement site."
+        },
+        {
+          "blockId": "theories-06",
+          "type": "HYPOTHESIS",
+          "headingKo": "Croatoan 합류·내륙 이동·분산은 서로 배타적일 필요가 없다",
+          "headingEn": "Croatoan Integration, Inland Movement, and Dispersal Need Not Be Mutually Exclusive",
+          "textKo": "117명이 한 덩어리로 이동했다고 가정할 필요는 없다. 식량과 안전문제 때문에 집단이 나뉘었을 수 있고, 일부는 Croatoan과 합류하고 다른 일부는 내륙으로 이동했을 가능성도 있다. 이 복수경로 모델은 여러 지역의 단서를 동시에 설명할 수 있지만, 아직 직접 확정할 자료는 없다.",
+          "textEn": "There is no requirement that all 117 colonists moved together. Food and security pressures could have split the group, with some joining Croatoan communities and others moving inland. A multi-route model can accommodate clues from more than one region, but the surviving evidence does not yet establish it directly."
+        },
+        {
+          "blockId": "aftermath-07",
+          "type": "AFTERMATH",
+          "headingKo": "미스터리는 “증발”이 아니라 기록 단절에 가깝다",
+          "headingEn": "The Mystery Is Better Described as a Break in the Record Than a Vanishing",
+          "textKo": "사람들이 흔적 없이 공중에서 사라진 사건으로 묘사하면 CROATOAN과 당시 사회관계를 오히려 무시하게 된다. 가장 방어 가능한 해석은 식민지가 계획적으로 이동했고 이후 기록이 끊겼다는 것이다. 다만 어디로, 몇 집단으로, 얼마나 오래 살아남았는지는 여전히 열려 있다.",
+          "textEn": "Describing the colonists as if they vanished into thin air understates the CROATOAN clue and the surrounding social landscape. The most defensible interpretation is that the settlement relocated and the documentary record then broke off. Where they went, whether they split, and how long they survived remain open questions."
+        },
+        {
+          "blockId": "violence-065",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“학살됐다”는 단정도 “모두 동화됐다”는 단정도 증거를 넘는다",
+          "headingEn": "Neither Total Massacre Nor Complete Assimilation Is Proven",
+          "textKo": "초기 영국인과 주변 공동체 사이에는 폭력과 보복이 있었기 때문에 학살 가능성은 오래 제기됐다. 반면 CROATOAN 단서와 우호관계 때문에 완전한 동화 가설도 인기가 있다. 그러나 대량학살을 직접 보여주는 유해집단이나 전투기록도, 117명 모두가 특정 공동체에 합류했다는 동시대 명단도 없다. 역사적으로 가능한 시나리오와 입증된 사건을 구분해야 한다.",
+          "textEn": "Violence and retaliation between earlier English colonists and nearby communities made massacre theories plausible enough to investigate. The CROATOAN clue and friendly relations made assimilation theories equally attractive. Yet no mass burial or contemporary battle record establishes a total massacre, and no surviving list shows all 117 colonists joining one community. Historical plausibility must be kept separate from proof."
+        },
+        {
+          "blockId": "boundary-08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 1587년 117명이 Roanoke에 정착했고 White가 1590년 돌아왔을 때 식민지는 비어 있었다. CRO/CROATOAN 표시는 실제 기록에 남아 있으며 White는 Croatoan으로의 이동을 뜻한다고 해석했다.\n\n확인되지 않음: 식민자 전원이 Croatoan/Hatteras에 합류했는지, 일부가 내륙으로 이동했는지, 여러 집단으로 분산됐는지는 결정적으로 입증되지 않았다.",
+          "textEn": "Established: 117 colonists settled at Roanoke in 1587, and the settlement was empty when White returned in 1590. CRO/CROATOAN is documented, and White interpreted it as indicating relocation toward Croatoan.\n\nNot established: It remains unproven whether all colonists joined the Croatoan/Hatteras community, moved inland, or dispersed into multiple groups."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: 117 colonists settled at Roanoke in 1587, and the settlement was empty when White returned in 1590. CRO/CROATOAN is documented, and White interpreted it as indicating relocation toward Croatoan.",
+        "notEstablished": "Not established: It remains unproven whether all colonists joined the Croatoan/Hatteras community, moved inland, or dispersed into multiple groups."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "signal-02",
+        "search-03",
+        "indigenous-04",
+        "archaeology-05",
+        "theories-06",
+        "aftermath-07",
+        "violence-065"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ROA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1587년 117명이 Roanoke에 정착했고 1590년 White 귀환 때 식민지는 비어 있었다.",
+      "statementEn": "117 colonists settled at Roanoke in 1587 and the settlement was empty when White returned in 1590.",
+      "sourceRefs": [
+        "ROANOKE_NPS"
+      ]
+    },
+    {
+      "claimId": "ROA-C2",
+      "status": "CONFIRMED",
+      "statementKo": "CRO/CROATOAN 표시는 White의 기록에 남아 있다.",
+      "statementEn": "CRO/CROATOAN is documented in White’s account.",
+      "sourceRefs": [
+        "ROANOKE_WHITE_NPS"
+      ]
+    },
+    {
+      "claimId": "ROA-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "식민자들의 최종 정착지와 분산경로는 확정되지 않았다.",
+      "statementEn": "The colonists’ final destination and dispersal pattern remain unresolved.",
+      "sourceRefs": [
+        "ROANOKE_NPS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "ROANOKE_NPS",
+      "title": "The Lost Colony",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/fora/learn/historyculture/the-lost-colony.htm",
+      "sourceType": "US_GOVERNMENT_HISTORY"
+    },
+    {
+      "sourceId": "ROANOKE_WHITE_NPS",
+      "title": "John White",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/people/johnwhite.htm",
+      "sourceType": "US_GOVERNMENT_BIOGRAPHY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "roanoke-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1587 정착 → White 출국 → 전쟁 지연 → 1590 귀환과 CROATOAN.",
+      "captionEn": "1587 settlement → White departs → war delay → 1590 return and CROATOAN.",
+      "altKo": "1587 정착 → White 출국 → 전쟁 지연 → 1590 귀환과 CROATOAN.",
+      "altEn": "1587 settlement → White departs → war delay → 1590 return and CROATOAN.",
+      "sourceRefs": [
+        "ROANOKE_NPS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lost-colony-roanoke__roanoke-v01__ko.png",
+          "sha256": "6e8b7d3d1ef88dce848e2a10e36b8a6274ce449c96e044d6379f916236c3c077",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lost-colony-roanoke__roanoke-v01__en.png",
+          "sha256": "d5873f95589a92494a05b955b4be533fe377393deac3713277cbadba56693081",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "roanoke-v02",
+      "role": "MOVEMENT_MAP",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "Roanoke·Croatoan/Hatteras·내륙 이동 가설을 지도형으로 분리.",
+      "captionEn": "Map-style comparison of Roanoke, Croatoan/Hatteras, and inland movement hypotheses.",
+      "altKo": "Roanoke·Croatoan/Hatteras·내륙 이동 가설을 지도형으로 분리.",
+      "altEn": "Map-style comparison of Roanoke, Croatoan/Hatteras, and inland movement hypotheses.",
+      "sourceRefs": [
+        "ROANOKE_NPS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lost-colony-roanoke__roanoke-v02__ko.png",
+          "sha256": "4ac6f5b852174eb958ca22eb145de9f241cc02a1012729baf11914af0850c261",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lost-colony-roanoke__roanoke-v02__en.png",
+          "sha256": "dd4b46c3a69f58300811cf1c083cccaa64f35f1fa7a1336f90d1b5d401a6f019",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "roanoke-v03",
+      "role": "EVIDENCE_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기록·표식·고고학 유물의 증거 강도와 한계를 구분.",
+      "captionEn": "Separate the strength and limits of written, carved, and archaeological evidence.",
+      "altKo": "기록·표식·고고학 유물의 증거 강도와 한계를 구분.",
+      "altEn": "Separate the strength and limits of written, carved, and archaeological evidence.",
+      "sourceRefs": [
+        "ROANOKE_WHITE_NPS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lost-colony-roanoke__roanoke-v03__ko.png",
+          "sha256": "0f7410d410148c9ae1b6fa6f7be4f5842014c709683e6941a08ecd4047749b1d",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lost-colony-roanoke__roanoke-v03__en.png",
+          "sha256": "fb1a0642d8c89051080af485ccf8e993d9e7607e08f0b17aa9416a5f7cbd36e3",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "roanoke-v04",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "계획적 이동 단서와 미확정 최종운명을 분리.",
+      "captionEn": "Separate evidence for relocation from the unresolved final fate.",
+      "altKo": "계획적 이동 단서와 미확정 최종운명을 분리.",
+      "altEn": "Separate evidence for relocation from the unresolved final fate.",
+      "sourceRefs": [
+        "ROANOKE_NPS"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lost-colony-roanoke__roanoke-v04__ko.png",
+          "sha256": "11a4bef7ef661d15f3b844bf8c3c2db3a01a73ad3b4719e6e2bcf14fb79f753e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lost-colony-roanoke__roanoke-v04__en.png",
+          "sha256": "a8c259b64cc67f900efeb0eeda61c54bec7c5005d781695f6a383b8eef0b0036",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Lost Colony",
+      "Identity / Migration"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "North Carolina Outer Banks"
+    ],
+    "places": [
+      {
+        "name": "Roanoke Island",
+        "role": "settlement"
+      },
+      {
+        "name": "Hatteras Island / Croatoan",
+        "role": "possible destination"
+      }
+    ],
+    "people": [
+      {
+        "name": "John White",
+        "role": "governor"
+      }
+    ],
+    "organizations": [
+      "U.S. National Park Service"
+    ],
+    "dateRange": {
+      "start": "1587",
+      "end": "1590",
+      "precision": "colony period"
+    },
+    "era": "Elizabethan colonization",
+    "resolution": "RELOCATION_CLUE_DOCUMENTED_FINAL_FATE_UNRESOLVED",
+    "searchAliases": [
+      "Lost Colony",
+      "Roanoke colony",
+      "CROATOAN"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1598,
+    "enBodyWords": 450,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 4,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 4,
+    "localizedFiles": 8,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

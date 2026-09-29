@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "lake-baikal-ice-rings",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "바이칼 호수 얼음 고리",
+    "canonicalTitleEn": "Lake Baikal Ice Rings",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "SCIENCE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "얼음 위에 나타나는 수 km짜리 검은 고리—외계 흔적이 아니라 호수 내부의 열과 순환 문제다",
+      "hook": "거대한 고리는 위성·우주정거장에서 반복 관측됐다. 정확한 열원은 사례별로 완전히 같다고 확정되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2009년 남부 바이칼 얼음에 지름 약 4.4km 원이 나타났다",
+          "headingEn": "A Ring About 4.4 km Across Appeared in Southern Lake Baikal in 2009",
+          "textKo": "NASA Earth Observatory는 2009년 4월 국제우주정거장 사진에서 바이칼호 남단 얼음에 거대한 어두운 원형을 기록했다. 지름은 약 4.4km였고 어두운 부분은 얼음이 얇아진 영역이었다. 같은 시기 호수 중앙의 수중 ridge 인근에도 비슷한 원이 보였다.",
+          "textEn": "NASA Earth Observatory documented a huge dark circular area in southern Lake Baikal in April 2009 using ISS imagery. The feature was about 4.4 km across, and the dark color represented thinner ice. A similar ring also appeared near the center of the lake above a submerged ridge."
+        },
+        {
+          "blockId": "history-02",
+          "type": "BACKGROUND",
+          "headingKo": "한 번 생긴 이상현상이 아니라 과거에도 반복됐다",
+          "headingEn": "It Was Not a One-Time Anomaly",
+          "textKo": "NASA는 1985년과 1994년에도 비슷한 원형 thin-ice pattern이 같은 호수에서 기록됐다고 설명한다. 즉 위성시대에 반복 관측된 계절성·수리학적 현상이다. 반복성은 초자연적 단발사건보다는 호수 내부 조건과 계절적 얼음과정의 결합을 시사한다.",
+          "textEn": "NASA notes that similar circular thin-ice patterns were documented in 1985 and 1994. The phenomenon is therefore recurrent rather than a single anomalous event, pointing toward seasonal lake physics and ice processes rather than a one-off supernatural cause."
+        },
+        {
+          "blockId": "convection-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "가장 직접적인 해석은 따뜻한 물의 upwelling과 convection이다",
+          "headingEn": "The Most Direct Interpretation Is Upwelling and Convection",
+          "textKo": "얼음 아래에서 상대적으로 따뜻한 물이 상승하고 회전·순환하면 표면의 얼음 두께가 원형으로 달라질 수 있다. NASA는 원의 형태가 수주 동안 지속되는 convection pattern을 시사한다고 설명한다. 중심부보다 고리 가장자리에서 흐름과 열전달이 강해지면 얇은 ice ring이 만들어질 수 있다.",
+          "textEn": "Relatively warm water rising beneath the ice can create rotating circulation that changes ice thickness in a ring. NASA describes the pattern as suggestive of persistent convection. Stronger flow and heat transfer around the edge of a circulation cell can produce a thin-ice annulus rather than uniform melting."
+        },
+        {
+          "blockId": "heat-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수열활동·높은 heat flow가 후보지만 모든 위치를 간단히 설명하지는 않는다",
+          "headingEn": "Hydrothermal Activity and Heat Flow Are Candidates, but Not a Universal Answer",
+          "textKo": "바이칼호 일부 지역에는 hydrothermal activity와 높은 열류가 알려져 있다. 그러나 2009년 남부 고리는 깊은 수역 위에 있어 알려진 수열지점과 간단히 일치하지 않았다. 그래서 수중지형, 가스방출, 수괴순환 등 여러 요인이 연구돼 왔다.",
+          "textEn": "Hydrothermal activity and elevated heat flow are known in parts of Lake Baikal, but the 2009 southern ring appeared over deep water and did not map neatly onto a known hydrothermal site. Underwater topography, gas release, and water-mass circulation have therefore also been investigated."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "우주에서 보인다는 사실이 인공구조나 UFO의 증거는 아니다",
+          "headingEn": "Visibility From Space Does Not Make the Rings Artificial",
+          "textKo": "수 km 크기라 위성사진에서 뚜렷하게 보이지만, 크기와 기하학적 모양만으로 인공성을 추론할 수 없다. 얼음·유체역학은 큰 규모의 원형·소용돌이 패턴을 자연적으로 만든다. 증거는 호수 내부의 열과 순환을 가리킨다.",
+          "textEn": "The rings are large enough to be obvious in satellite imagery, but size and geometry alone do not imply artificial construction. Ice and fluid dynamics naturally produce large circular and vortex-like patterns. The evidence points to heat and circulation within the lake."
+        },
+        {
+          "blockId": "season-045",
+          "type": "BACKGROUND",
+          "headingKo": "고리는 얼음이 생기고 녹는 짧은 계절창에서 가장 잘 보인다",
+          "headingEn": "The Rings Are Most Visible During a Narrow Freeze–Thaw Window",
+          "textKo": "NASA의 2009 관측에서 원은 4월 초부터 수주간 유지됐고 얼음이 녹으면서 사라졌다. 낮과 밤의 급격한 온도변화 때문에 바이칼의 봄철 얼음은 매우 동적이다. 내부 순환이 만든 미세한 두께차가 이 시기에 시각적으로 크게 증폭될 수 있다. 즉 고리의 출현시기는 호수 내부 열원뿐 아니라 표면의 계절적 얼음조건에도 의존한다.",
+          "textEn": "NASA observations in 2009 showed the rings persisting for weeks in April before disappearing as the ice cover broke up. Spring ice on Baikal changes rapidly under large day–night temperature swings. Small circulation-driven thickness differences can therefore become visually dramatic during this narrow seasonal window. Ring visibility depends on surface ice conditions as well as the underlying circulation."
+        },
+        {
+          "blockId": "scale-047",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "위성·우주정거장 관측은 패턴의 크기와 반복성을 정량화했다",
+          "headingEn": "Satellite and ISS Observations Made the Scale and Recurrence Measurable",
+          "textKo": "지상에서 얼음 위에 서 있으면 수 km짜리 원형의 전체 형태를 보기 어렵다. MODIS와 우주정거장 사진은 여러 날짜를 비교해 원이 생기고 유지되고 사라지는 과정을 한 눈에 보여줬다. 같은 계절에 중앙부와 남부에서 서로 다른 원이 나타났다는 사실도 공간적으로 떨어진 여러 순환셀 가능성을 시사한다. 이런 원격관측은 “특이한 얼음 무늬가 있었다”는 일화에서 벗어나 크기·위치·지속기간을 비교하는 물리문제로 바꿨다.",
+          "textEn": "Standing on the ice makes it difficult to perceive a circle several kilometers across. MODIS and International Space Station imagery made it possible to compare dates and follow the formation, persistence, and breakup of the rings. The presence of separate rings in central and southern parts of the lake during the same season also points toward more than one localized circulation cell. Remote sensing transformed the phenomenon from an anecdotal oddity into a measurable physical problem involving size, location, and duration."
+        },
+        {
+          "blockId": "geom-049",
+          "type": "BACKGROUND",
+          "headingKo": "원형이라는 모양도 유체역학에서는 이상한 일이 아니다",
+          "headingEn": "Circular Geometry Is Not Unusual in Fluid Dynamics",
+          "textKo": "회전하는 물기둥과 소용돌이 구조는 경계가 닫힌 원형·환형 패턴을 만들 수 있다. 바이칼의 고리도 얼음 자체가 회전한다는 뜻이 아니라, 아래 수층의 순환이 표면 열전달을 공간적으로 다르게 만들어 얼음두께 차이를 남긴다는 해석이다. 따라서 “정확한 원”이라는 인상만으로 인공성이나 외부힘을 추론할 근거는 없다.",
+          "textEn": "Rotating water columns and circulation cells can generate closed circular or annular patterns. For Baikal, this does not mean the ice itself is spinning; rather, circulation below can redistribute heat so that ice thickness changes spatially around a ring. Geometric regularity therefore does not by itself imply engineering or an external artificial force."
+        },
+        {
+          "blockId": "boundary-method-051",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "원인을 “모른다”와 자연 메커니즘이 “없다”는 말은 다르다",
+          "headingEn": "“Not Fully Resolved” Does Not Mean “No Natural Mechanism”",
+          "textKo": "NASA가 2009년 설명에서 정확한 열원을 미정으로 남겼다는 사실은 원 전체가 설명불가능하다는 뜻이 아니다. 관측된 얇은 얼음, 반복성, 계절성은 convection/upwelling과 잘 맞고, 미해결 부분은 그 순환을 매번 시작시키는 국소 열원과 수중지형의 세부다. 알려진 메커니즘의 범위와 남은 세부를 분리해야 한다.",
+          "textEn": "NASA’s 2009 note that the exact heat source was unresolved does not mean the entire phenomenon lacks a natural mechanism. Thin ice, recurrence, and seasonality are consistent with convection and upwelling; the open question is what local heat source and underwater geometry trigger each circulation cell. The known mechanism and unresolved details should be kept separate."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 바이칼호 얼음에는 수 km 규모의 thin-ice ring이 여러 해 반복 관측됐고, convection/upwelling과 관련된 자연현상으로 해석된다.\n\n확인되지 않음: 모든 고리가 동일한 정확한 열원과 순환조건으로 생긴다는 것은 확정되지 않았다.",
+          "textEn": "Established: Kilometer-scale thin-ice rings have been repeatedly observed on Lake Baikal and are interpreted as natural features linked to convection and upwelling.\n\nNot established: The exact heat source and circulation conditions have not been proven identical for every ring."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 바이칼호 얼음에는 수 km 규모의 thin-ice ring이 여러 해 반복 관측됐고, convection/upwelling과 관련된 자연현상으로 해석된다.",
+        "notEstablished": "확인되지 않음: 모든 고리가 동일한 정확한 열원과 순환조건으로 생긴다는 것은 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "history-02",
+        "convection-03",
+        "heat-04",
+        "myth-05",
+        "season-045",
+        "scale-047",
+        "geom-049",
+        "boundary-method-051"
+      ]
+    },
+    "en": {
+      "headline": "Kilometer-Scale Dark Rings in Ice—A Lake-Convection Problem, Not an Alien Signature",
+      "hook": "The giant rings have been repeatedly observed from space. The exact heat source is not proven identical for every case.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "2009년 남부 바이칼 얼음에 지름 약 4.4km 원이 나타났다",
+          "headingEn": "A Ring About 4.4 km Across Appeared in Southern Lake Baikal in 2009",
+          "textKo": "NASA Earth Observatory는 2009년 4월 국제우주정거장 사진에서 바이칼호 남단 얼음에 거대한 어두운 원형을 기록했다. 지름은 약 4.4km였고 어두운 부분은 얼음이 얇아진 영역이었다. 같은 시기 호수 중앙의 수중 ridge 인근에도 비슷한 원이 보였다.",
+          "textEn": "NASA Earth Observatory documented a huge dark circular area in southern Lake Baikal in April 2009 using ISS imagery. The feature was about 4.4 km across, and the dark color represented thinner ice. A similar ring also appeared near the center of the lake above a submerged ridge."
+        },
+        {
+          "blockId": "history-02",
+          "type": "BACKGROUND",
+          "headingKo": "한 번 생긴 이상현상이 아니라 과거에도 반복됐다",
+          "headingEn": "It Was Not a One-Time Anomaly",
+          "textKo": "NASA는 1985년과 1994년에도 비슷한 원형 thin-ice pattern이 같은 호수에서 기록됐다고 설명한다. 즉 위성시대에 반복 관측된 계절성·수리학적 현상이다. 반복성은 초자연적 단발사건보다는 호수 내부 조건과 계절적 얼음과정의 결합을 시사한다.",
+          "textEn": "NASA notes that similar circular thin-ice patterns were documented in 1985 and 1994. The phenomenon is therefore recurrent rather than a single anomalous event, pointing toward seasonal lake physics and ice processes rather than a one-off supernatural cause."
+        },
+        {
+          "blockId": "convection-03",
+          "type": "HYPOTHESIS",
+          "headingKo": "가장 직접적인 해석은 따뜻한 물의 upwelling과 convection이다",
+          "headingEn": "The Most Direct Interpretation Is Upwelling and Convection",
+          "textKo": "얼음 아래에서 상대적으로 따뜻한 물이 상승하고 회전·순환하면 표면의 얼음 두께가 원형으로 달라질 수 있다. NASA는 원의 형태가 수주 동안 지속되는 convection pattern을 시사한다고 설명한다. 중심부보다 고리 가장자리에서 흐름과 열전달이 강해지면 얇은 ice ring이 만들어질 수 있다.",
+          "textEn": "Relatively warm water rising beneath the ice can create rotating circulation that changes ice thickness in a ring. NASA describes the pattern as suggestive of persistent convection. Stronger flow and heat transfer around the edge of a circulation cell can produce a thin-ice annulus rather than uniform melting."
+        },
+        {
+          "blockId": "heat-04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "수열활동·높은 heat flow가 후보지만 모든 위치를 간단히 설명하지는 않는다",
+          "headingEn": "Hydrothermal Activity and Heat Flow Are Candidates, but Not a Universal Answer",
+          "textKo": "바이칼호 일부 지역에는 hydrothermal activity와 높은 열류가 알려져 있다. 그러나 2009년 남부 고리는 깊은 수역 위에 있어 알려진 수열지점과 간단히 일치하지 않았다. 그래서 수중지형, 가스방출, 수괴순환 등 여러 요인이 연구돼 왔다.",
+          "textEn": "Hydrothermal activity and elevated heat flow are known in parts of Lake Baikal, but the 2009 southern ring appeared over deep water and did not map neatly onto a known hydrothermal site. Underwater topography, gas release, and water-mass circulation have therefore also been investigated."
+        },
+        {
+          "blockId": "myth-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "우주에서 보인다는 사실이 인공구조나 UFO의 증거는 아니다",
+          "headingEn": "Visibility From Space Does Not Make the Rings Artificial",
+          "textKo": "수 km 크기라 위성사진에서 뚜렷하게 보이지만, 크기와 기하학적 모양만으로 인공성을 추론할 수 없다. 얼음·유체역학은 큰 규모의 원형·소용돌이 패턴을 자연적으로 만든다. 증거는 호수 내부의 열과 순환을 가리킨다.",
+          "textEn": "The rings are large enough to be obvious in satellite imagery, but size and geometry alone do not imply artificial construction. Ice and fluid dynamics naturally produce large circular and vortex-like patterns. The evidence points to heat and circulation within the lake."
+        },
+        {
+          "blockId": "season-045",
+          "type": "BACKGROUND",
+          "headingKo": "고리는 얼음이 생기고 녹는 짧은 계절창에서 가장 잘 보인다",
+          "headingEn": "The Rings Are Most Visible During a Narrow Freeze–Thaw Window",
+          "textKo": "NASA의 2009 관측에서 원은 4월 초부터 수주간 유지됐고 얼음이 녹으면서 사라졌다. 낮과 밤의 급격한 온도변화 때문에 바이칼의 봄철 얼음은 매우 동적이다. 내부 순환이 만든 미세한 두께차가 이 시기에 시각적으로 크게 증폭될 수 있다. 즉 고리의 출현시기는 호수 내부 열원뿐 아니라 표면의 계절적 얼음조건에도 의존한다.",
+          "textEn": "NASA observations in 2009 showed the rings persisting for weeks in April before disappearing as the ice cover broke up. Spring ice on Baikal changes rapidly under large day–night temperature swings. Small circulation-driven thickness differences can therefore become visually dramatic during this narrow seasonal window. Ring visibility depends on surface ice conditions as well as the underlying circulation."
+        },
+        {
+          "blockId": "scale-047",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "위성·우주정거장 관측은 패턴의 크기와 반복성을 정량화했다",
+          "headingEn": "Satellite and ISS Observations Made the Scale and Recurrence Measurable",
+          "textKo": "지상에서 얼음 위에 서 있으면 수 km짜리 원형의 전체 형태를 보기 어렵다. MODIS와 우주정거장 사진은 여러 날짜를 비교해 원이 생기고 유지되고 사라지는 과정을 한 눈에 보여줬다. 같은 계절에 중앙부와 남부에서 서로 다른 원이 나타났다는 사실도 공간적으로 떨어진 여러 순환셀 가능성을 시사한다. 이런 원격관측은 “특이한 얼음 무늬가 있었다”는 일화에서 벗어나 크기·위치·지속기간을 비교하는 물리문제로 바꿨다.",
+          "textEn": "Standing on the ice makes it difficult to perceive a circle several kilometers across. MODIS and International Space Station imagery made it possible to compare dates and follow the formation, persistence, and breakup of the rings. The presence of separate rings in central and southern parts of the lake during the same season also points toward more than one localized circulation cell. Remote sensing transformed the phenomenon from an anecdotal oddity into a measurable physical problem involving size, location, and duration."
+        },
+        {
+          "blockId": "geom-049",
+          "type": "BACKGROUND",
+          "headingKo": "원형이라는 모양도 유체역학에서는 이상한 일이 아니다",
+          "headingEn": "Circular Geometry Is Not Unusual in Fluid Dynamics",
+          "textKo": "회전하는 물기둥과 소용돌이 구조는 경계가 닫힌 원형·환형 패턴을 만들 수 있다. 바이칼의 고리도 얼음 자체가 회전한다는 뜻이 아니라, 아래 수층의 순환이 표면 열전달을 공간적으로 다르게 만들어 얼음두께 차이를 남긴다는 해석이다. 따라서 “정확한 원”이라는 인상만으로 인공성이나 외부힘을 추론할 근거는 없다.",
+          "textEn": "Rotating water columns and circulation cells can generate closed circular or annular patterns. For Baikal, this does not mean the ice itself is spinning; rather, circulation below can redistribute heat so that ice thickness changes spatially around a ring. Geometric regularity therefore does not by itself imply engineering or an external artificial force."
+        },
+        {
+          "blockId": "boundary-method-051",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "원인을 “모른다”와 자연 메커니즘이 “없다”는 말은 다르다",
+          "headingEn": "“Not Fully Resolved” Does Not Mean “No Natural Mechanism”",
+          "textKo": "NASA가 2009년 설명에서 정확한 열원을 미정으로 남겼다는 사실은 원 전체가 설명불가능하다는 뜻이 아니다. 관측된 얇은 얼음, 반복성, 계절성은 convection/upwelling과 잘 맞고, 미해결 부분은 그 순환을 매번 시작시키는 국소 열원과 수중지형의 세부다. 알려진 메커니즘의 범위와 남은 세부를 분리해야 한다.",
+          "textEn": "NASA’s 2009 note that the exact heat source was unresolved does not mean the entire phenomenon lacks a natural mechanism. Thin ice, recurrence, and seasonality are consistent with convection and upwelling; the open question is what local heat source and underwater geometry trigger each circulation cell. The known mechanism and unresolved details should be kept separate."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 바이칼호 얼음에는 수 km 규모의 thin-ice ring이 여러 해 반복 관측됐고, convection/upwelling과 관련된 자연현상으로 해석된다.\n\n확인되지 않음: 모든 고리가 동일한 정확한 열원과 순환조건으로 생긴다는 것은 확정되지 않았다.",
+          "textEn": "Established: Kilometer-scale thin-ice rings have been repeatedly observed on Lake Baikal and are interpreted as natural features linked to convection and upwelling.\n\nNot established: The exact heat source and circulation conditions have not been proven identical for every ring."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Kilometer-scale thin-ice rings have been repeatedly observed on Lake Baikal and are interpreted as natural features linked to convection and upwelling.",
+        "notEstablished": "Not established: The exact heat source and circulation conditions have not been proven identical for every ring."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "history-02",
+        "convection-03",
+        "heat-04",
+        "myth-05",
+        "season-045",
+        "scale-047",
+        "geom-049",
+        "boundary-method-051"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BAI-C1",
+      "status": "CONFIRMED",
+      "statementKo": "바이칼호에서 수 km 규모 얼음 고리가 반복 관측됐다.",
+      "statementEn": "Kilometer-scale ice rings have been repeatedly observed on Lake Baikal.",
+      "sourceRefs": [
+        "BAIKAL_NASA"
+      ]
+    },
+    {
+      "claimId": "BAI-C2",
+      "status": "SUPPORTED",
+      "statementKo": "convection과 따뜻한 물 upwelling이 얼음을 얇게 만드는 주요 메커니즘으로 해석된다.",
+      "statementEn": "Convection and warm-water upwelling are the leading interpretation for thinning the ice.",
+      "sourceRefs": [
+        "BAIKAL_NASA"
+      ]
+    },
+    {
+      "claimId": "BAI-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 고리의 정확한 열원은 동일하게 확정되지 않았다.",
+      "statementEn": "The exact heat source has not been established as identical for every ring.",
+      "sourceRefs": [
+        "BAIKAL_NASA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BAIKAL_NASA",
+      "title": "Circles in Thin Ice, Lake Baikal, Russia",
+      "publisher": "NASA Earth Observatory",
+      "url": "https://earthobservatory.nasa.gov/images/38721/circles-in-thin-ice-lake-baikal-russia",
+      "sourceType": "NASA_EARTH_OBSERVATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "baikal-v01",
+      "role": "MECHANISM_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "얼음 아래 upwelling·convection이 ring-shaped thin ice를 만드는 개념도.",
+      "captionEn": "Concept diagram of sub-ice upwelling and convection producing a thin-ice ring.",
+      "altKo": "얼음 아래 upwelling·convection이 ring-shaped thin ice를 만드는 개념도.",
+      "altEn": "Concept diagram of sub-ice upwelling and convection producing a thin-ice ring.",
+      "sourceRefs": [
+        "BAIKAL_NASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lake-baikal-ice-rings__baikal-v01__ko.png",
+          "sha256": "510373da0a5d9af7272b4bf7372c4ca6a230435b44486141373eb738517924fe",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lake-baikal-ice-rings__baikal-v01__en.png",
+          "sha256": "c9415fa5fbf0b89451ff1fe8b738ce200aee436cbc6b05912c93d086fdfa3d1b",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "baikal-v02",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "1985·1994·2009 반복 관측을 시간축으로 표시.",
+      "captionEn": "Timeline of recurring observations in 1985, 1994, and 2009.",
+      "altKo": "1985·1994·2009 반복 관측을 시간축으로 표시.",
+      "altEn": "Timeline of recurring observations in 1985, 1994, and 2009.",
+      "sourceRefs": [
+        "BAIKAL_NASA"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "lake-baikal-ice-rings__baikal-v02__ko.png",
+          "sha256": "38cba86006a6b3e81254c8d92b868b67ba109fccbe5d9005d5cc7e787f6b25de",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "lake-baikal-ice-rings__baikal-v02__en.png",
+          "sha256": "cdcd4c7dba5a5b796a1a057e7a3817ca6117b24128ca19dba20ec47015eb8112",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Nature",
+    "secondaryGenres": [
+      "Lake Physics",
+      "Ice Phenomena"
+    ],
+    "countries": [
+      "Russia"
+    ],
+    "regions": [
+      "Siberia"
+    ],
+    "places": [
+      {
+        "name": "Lake Baikal",
+        "role": "phenomenon location"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "NASA Earth Observatory"
+    ],
+    "dateRange": {
+      "start": "1985",
+      "end": "2009",
+      "precision": "documented recurring observations"
+    },
+    "era": "satellite observation era",
+    "resolution": "NATURAL_CONVECTION_FAVORED_EXACT_HEAT_SOURCE_CASE_DEPENDENT",
+    "searchAliases": [
+      "Baikal ice circles",
+      "Baikal ice rings"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1629,
+    "enBodyWords": 507,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 2,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

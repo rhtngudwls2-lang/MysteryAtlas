@@ -1,0 +1,362 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "longyou-caves",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "룽유 석굴",
+    "canonicalTitleEn": "Longyou Caves",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "ARCHAEOLOGY_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded tier; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "24개의 거대 인공 석굴—누가, 언제, 왜 파냈는지는 아직 기록 밖에 있다",
+      "hook": "인공 구조라는 점은 확실하다. 미스터리는 존재 여부가 아니라 축조 연대·용도·사라진 석재의 행방이다.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1992년, ‘바닥 없는 연못’을 비우자 인공 벽이 나타났다",
+          "headingEn": "In 1992, Draining a “Bottomless Pond” Revealed Man-Made Walls",
+          "textKo": "중국 저장성 룽유현 스옌베이 마을에서는 여러 연못이 오랫동안 깊이를 알 수 없는 물웅덩이로 여겨졌다. 1992년 주민들이 한 연못의 물을 빼자 높은 천장과 규칙적인 기둥, 촘촘한 끌자국이 남은 거대한 지하공간이 드러났다. 이후 주변을 조사하면서 24개의 대형 인공 석굴이 확인됐다. 현재 지방정부 자료는 이들이 사암층을 광범위하게 파내 만든 인공공간이라는 점을 명확히 한다.",
+          "textEn": "In Shiyanbei Village, Longyou County, several ponds were long regarded as unusually deep. In 1992, villagers drained one and exposed a vast underground chamber with high walls, regular pillars, and repeated chisel marks. Nearby ponds led to the identification of twenty-four large man-made caverns. Zhejiang government material clearly identifies them as artificial spaces extensively excavated into sandstone."
+        },
+        {
+          "blockId": "scale-02",
+          "type": "BACKGROUND",
+          "headingKo": "규모가 큰데도 직접 설명하는 기록이 거의 없다",
+          "headingEn": "The Scale Is Enormous, Yet Direct Historical Documentation Is Sparse",
+          "textKo": "공식 소개는 24개 석굴이 매우 좁은 지역에 밀집하고 각 동굴이 수백~수천 제곱미터 규모라고 설명한다. 벽과 천장에는 반복적인 공구흔이 남아 있고 기둥은 천장을 지지하도록 남겨졌다. 이런 규모라면 장기간 노동과 석재 운반이 필요했을 가능성이 크지만, 누가 공사를 지휘했고 어디에 석재를 사용했는지를 직접 설명하는 동시대 문서는 확인되지 않았다.",
+          "textEn": "Official site material describes twenty-four caverns packed into a small area, many spanning hundreds or thousands of square meters. Repeated tool marks cover walls and ceilings, while pillars were deliberately left to support the roof. Such work implies organized labor and removal of huge quantities of sandstone, yet no surviving contemporary record directly explains who directed the work or where the stone went."
+        },
+        {
+          "blockId": "date-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "서한시대 토기 단서는 있지만 정확한 시작연대는 고정되지 않았다",
+          "headingEn": "Western Han Pottery Offers a Clue, Not a Precise Construction Date",
+          "textKo": "저장성 정부 소개는 동굴 바닥의 퇴적물에서 서한시대(기원전 206~서기 23년)로 연대가 잡히는 유약토기가 발견됐다고 정리한다. 이는 석굴이 약 2천 년 전 또는 그보다 앞선 시기와 관련될 가능성을 높이지만, 토기가 곧 석굴을 판 날짜를 뜻하지는 않는다. 유물이 나중에 들어갔을 가능성과 사용기간을 구분해야 한다.",
+          "textEn": "Zhejiang government material notes glazed pottery recovered from cave-floor silt and dated to the Western Han period, 206 BCE to 23 CE. That makes an antiquity of roughly two millennia plausible, but pottery in sediment is not identical to a construction date. Deposition, later use, and excavation date remain separate questions."
+        },
+        {
+          "blockId": "purpose-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "채석장·저장시설·군사공간·의례공간 등 여러 가설이 남아 있다",
+          "headingEn": "Quarry, Storage, Military, and Ritual Hypotheses Remain",
+          "textKo": "연구와 관광자료에는 채석장, 창고, 병력 은닉공간, 왕릉·의례공간 등 여러 해석이 반복된다. 어떤 가설은 넓은 공간과 석재 제거를 설명하고, 다른 가설은 반복적 표면처리나 구조적 정교함을 강조한다. 그러나 현재까지 하나의 기능을 결정적으로 입증하는 문서·유물 조합은 부족하다.",
+          "textEn": "Quarrying, storage, military shelter, burial, and ritual functions have all been proposed. Some ideas fit the removal of huge quantities of sandstone, while others emphasize the deliberate surface treatment and structural planning. No surviving combination of texts and artifacts has decisively established one primary function."
+        },
+        {
+          "blockId": "counter-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“초고대 기술”이 필요하다는 주장은 증거보다 앞선다",
+          "headingEn": "Claims of Impossible Ancient Technology Go Beyond the Evidence",
+          "textKo": "규칙적인 끌자국과 거대한 공간은 인상적이지만, 그것만으로 잃어버린 문명이나 비인간 기술을 요구하지는 않는다. 석굴이 사람이 만든 구조라는 점은 오히려 분명하다. 미해결 부분은 조직 규모와 공사시기, 사용목적이지 인간이 만들 수 있었는지 여부가 아니다.",
+          "textEn": "The repeated chisel marks and cavern scale are striking, but they do not require a lost civilization or non-human technology. The artificial nature of the caves is the least mysterious part. What remains unresolved is organization, chronology, and function—not whether human builders were capable of making them."
+        },
+        {
+          "blockId": "archaeology-055",
+          "type": "BACKGROUND",
+          "headingKo": "공학 규모를 계산하는 일과 역사적 의미를 해석하는 일은 다르다",
+          "headingEn": "Engineering Scale and Historical Meaning Are Different Questions",
+          "textKo": "석굴의 부피와 제거석재량을 계산하면 공사 규모를 가늠할 수 있지만 그것만으로 용도를 결정할 수는 없다. 대규모 채석은 산업활동을 시사할 수 있고, 반대로 정교한 표면처리와 기둥배치는 장기 사용을 염두에 둔 공간일 가능성을 보여준다. 연구는 공학적 수치, 바닥 퇴적층, 도구흔, 주변 고고학 맥락을 함께 비교해야 한다. 특히 관광홍보에서 반복되는 “수백만 톤의 사라진 돌” 같은 수치는 흥미롭지만, 어디에 사용됐는지 입증할 물리적 연결고리가 확인돼야 역사적 결론이 된다.",
+          "textEn": "Calculating cavern volume and removed stone helps estimate construction scale, but scale alone cannot determine function. Large-scale extraction may suggest quarrying, while deliberate surface treatment and pillar layout may indicate planned long-term use. Archaeology has to compare engineering estimates with floor deposits, tool marks, and surrounding sites. Promotional claims about “millions of tons of missing stone” are interesting, but only a physical or documentary link can show where that material actually went."
+        },
+        {
+          "blockId": "labor-057",
+          "type": "BACKGROUND",
+          "headingKo": "보이지 않는 질문은 노동조직이다",
+          "headingEn": "The Invisible Question Is Labor Organization",
+          "textKo": "수십 개의 거대한 공간을 같은 암반대에 만들려면 단순한 개인 채석 이상의 계획이 필요했을 가능성이 크다. 작업구역을 나누고 천장과 기둥을 남기며 물을 처리하고 석재를 반출하려면 반복 가능한 공정과 인력이 필요하다. 그러나 현재 알려진 사료에는 공사조직·세금·군역·채석권 같은 행정기록이 직접 연결되지 않는다. 그래서 룽유의 미스터리는 기술 그 자체보다 “어떤 사회조직이 이 정도의 노동을 동원했는가”라는 역사문제로 남는다.",
+          "textEn": "Creating dozens of large chambers in the same sandstone zone likely required planning beyond ad hoc individual quarrying. Work areas had to be organized, pillars and roof loads managed, water controlled, and stone removed through repeatable procedures. Yet no surviving administrative record has been securely linked to labor levies, quarry rights, taxation, or a construction authority. The deeper historical mystery is therefore not whether people could carve the caves, but what social organization mobilized the labor."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 룽유 석굴은 저장성의 사암층을 인공적으로 파낸 24개 대형 지하공간이며 1992년 이후 본격 조사됐다. 서한시대 유물이 연대 단서를 제공한다.\n\n확인되지 않음: 정확한 축조 시작연대, 건설 주체, 노동조직, 핵심 용도와 대량의 석재가 어디에 사용됐는지는 결정적으로 밝혀지지 않았다.",
+          "textEn": "Established: The Longyou Caves are twenty-four large man-made underground spaces cut into sandstone in Zhejiang and investigated intensively since their 1992 rediscovery. Western Han material provides chronological clues.\n\nNot established: The exact construction date, builders, labor organization, primary function, and destination of the removed stone remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 룽유 석굴은 저장성의 사암층을 인공적으로 파낸 24개 대형 지하공간이며 1992년 이후 본격 조사됐다. 서한시대 유물이 연대 단서를 제공한다.",
+        "notEstablished": "확인되지 않음: 정확한 축조 시작연대, 건설 주체, 노동조직, 핵심 용도와 대량의 석재가 어디에 사용됐는지는 결정적으로 밝혀지지 않았다."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "scale-02",
+        "date-03",
+        "purpose-04",
+        "counter-05",
+        "archaeology-055",
+        "labor-057"
+      ]
+    },
+    "en": {
+      "headline": "Twenty-Four Giant Man-Made Caverns—But Who Built Them, When, and Why?",
+      "hook": "Their artificial origin is certain. The mystery is their date, purpose, labor system, and the removed stone.",
+      "blocks": [
+        {
+          "blockId": "scene-01",
+          "type": "SCENE",
+          "headingKo": "1992년, ‘바닥 없는 연못’을 비우자 인공 벽이 나타났다",
+          "headingEn": "In 1992, Draining a “Bottomless Pond” Revealed Man-Made Walls",
+          "textKo": "중국 저장성 룽유현 스옌베이 마을에서는 여러 연못이 오랫동안 깊이를 알 수 없는 물웅덩이로 여겨졌다. 1992년 주민들이 한 연못의 물을 빼자 높은 천장과 규칙적인 기둥, 촘촘한 끌자국이 남은 거대한 지하공간이 드러났다. 이후 주변을 조사하면서 24개의 대형 인공 석굴이 확인됐다. 현재 지방정부 자료는 이들이 사암층을 광범위하게 파내 만든 인공공간이라는 점을 명확히 한다.",
+          "textEn": "In Shiyanbei Village, Longyou County, several ponds were long regarded as unusually deep. In 1992, villagers drained one and exposed a vast underground chamber with high walls, regular pillars, and repeated chisel marks. Nearby ponds led to the identification of twenty-four large man-made caverns. Zhejiang government material clearly identifies them as artificial spaces extensively excavated into sandstone."
+        },
+        {
+          "blockId": "scale-02",
+          "type": "BACKGROUND",
+          "headingKo": "규모가 큰데도 직접 설명하는 기록이 거의 없다",
+          "headingEn": "The Scale Is Enormous, Yet Direct Historical Documentation Is Sparse",
+          "textKo": "공식 소개는 24개 석굴이 매우 좁은 지역에 밀집하고 각 동굴이 수백~수천 제곱미터 규모라고 설명한다. 벽과 천장에는 반복적인 공구흔이 남아 있고 기둥은 천장을 지지하도록 남겨졌다. 이런 규모라면 장기간 노동과 석재 운반이 필요했을 가능성이 크지만, 누가 공사를 지휘했고 어디에 석재를 사용했는지를 직접 설명하는 동시대 문서는 확인되지 않았다.",
+          "textEn": "Official site material describes twenty-four caverns packed into a small area, many spanning hundreds or thousands of square meters. Repeated tool marks cover walls and ceilings, while pillars were deliberately left to support the roof. Such work implies organized labor and removal of huge quantities of sandstone, yet no surviving contemporary record directly explains who directed the work or where the stone went."
+        },
+        {
+          "blockId": "date-03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "서한시대 토기 단서는 있지만 정확한 시작연대는 고정되지 않았다",
+          "headingEn": "Western Han Pottery Offers a Clue, Not a Precise Construction Date",
+          "textKo": "저장성 정부 소개는 동굴 바닥의 퇴적물에서 서한시대(기원전 206~서기 23년)로 연대가 잡히는 유약토기가 발견됐다고 정리한다. 이는 석굴이 약 2천 년 전 또는 그보다 앞선 시기와 관련될 가능성을 높이지만, 토기가 곧 석굴을 판 날짜를 뜻하지는 않는다. 유물이 나중에 들어갔을 가능성과 사용기간을 구분해야 한다.",
+          "textEn": "Zhejiang government material notes glazed pottery recovered from cave-floor silt and dated to the Western Han period, 206 BCE to 23 CE. That makes an antiquity of roughly two millennia plausible, but pottery in sediment is not identical to a construction date. Deposition, later use, and excavation date remain separate questions."
+        },
+        {
+          "blockId": "purpose-04",
+          "type": "HYPOTHESIS",
+          "headingKo": "채석장·저장시설·군사공간·의례공간 등 여러 가설이 남아 있다",
+          "headingEn": "Quarry, Storage, Military, and Ritual Hypotheses Remain",
+          "textKo": "연구와 관광자료에는 채석장, 창고, 병력 은닉공간, 왕릉·의례공간 등 여러 해석이 반복된다. 어떤 가설은 넓은 공간과 석재 제거를 설명하고, 다른 가설은 반복적 표면처리나 구조적 정교함을 강조한다. 그러나 현재까지 하나의 기능을 결정적으로 입증하는 문서·유물 조합은 부족하다.",
+          "textEn": "Quarrying, storage, military shelter, burial, and ritual functions have all been proposed. Some ideas fit the removal of huge quantities of sandstone, while others emphasize the deliberate surface treatment and structural planning. No surviving combination of texts and artifacts has decisively established one primary function."
+        },
+        {
+          "blockId": "counter-05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“초고대 기술”이 필요하다는 주장은 증거보다 앞선다",
+          "headingEn": "Claims of Impossible Ancient Technology Go Beyond the Evidence",
+          "textKo": "규칙적인 끌자국과 거대한 공간은 인상적이지만, 그것만으로 잃어버린 문명이나 비인간 기술을 요구하지는 않는다. 석굴이 사람이 만든 구조라는 점은 오히려 분명하다. 미해결 부분은 조직 규모와 공사시기, 사용목적이지 인간이 만들 수 있었는지 여부가 아니다.",
+          "textEn": "The repeated chisel marks and cavern scale are striking, but they do not require a lost civilization or non-human technology. The artificial nature of the caves is the least mysterious part. What remains unresolved is organization, chronology, and function—not whether human builders were capable of making them."
+        },
+        {
+          "blockId": "archaeology-055",
+          "type": "BACKGROUND",
+          "headingKo": "공학 규모를 계산하는 일과 역사적 의미를 해석하는 일은 다르다",
+          "headingEn": "Engineering Scale and Historical Meaning Are Different Questions",
+          "textKo": "석굴의 부피와 제거석재량을 계산하면 공사 규모를 가늠할 수 있지만 그것만으로 용도를 결정할 수는 없다. 대규모 채석은 산업활동을 시사할 수 있고, 반대로 정교한 표면처리와 기둥배치는 장기 사용을 염두에 둔 공간일 가능성을 보여준다. 연구는 공학적 수치, 바닥 퇴적층, 도구흔, 주변 고고학 맥락을 함께 비교해야 한다. 특히 관광홍보에서 반복되는 “수백만 톤의 사라진 돌” 같은 수치는 흥미롭지만, 어디에 사용됐는지 입증할 물리적 연결고리가 확인돼야 역사적 결론이 된다.",
+          "textEn": "Calculating cavern volume and removed stone helps estimate construction scale, but scale alone cannot determine function. Large-scale extraction may suggest quarrying, while deliberate surface treatment and pillar layout may indicate planned long-term use. Archaeology has to compare engineering estimates with floor deposits, tool marks, and surrounding sites. Promotional claims about “millions of tons of missing stone” are interesting, but only a physical or documentary link can show where that material actually went."
+        },
+        {
+          "blockId": "labor-057",
+          "type": "BACKGROUND",
+          "headingKo": "보이지 않는 질문은 노동조직이다",
+          "headingEn": "The Invisible Question Is Labor Organization",
+          "textKo": "수십 개의 거대한 공간을 같은 암반대에 만들려면 단순한 개인 채석 이상의 계획이 필요했을 가능성이 크다. 작업구역을 나누고 천장과 기둥을 남기며 물을 처리하고 석재를 반출하려면 반복 가능한 공정과 인력이 필요하다. 그러나 현재 알려진 사료에는 공사조직·세금·군역·채석권 같은 행정기록이 직접 연결되지 않는다. 그래서 룽유의 미스터리는 기술 그 자체보다 “어떤 사회조직이 이 정도의 노동을 동원했는가”라는 역사문제로 남는다.",
+          "textEn": "Creating dozens of large chambers in the same sandstone zone likely required planning beyond ad hoc individual quarrying. Work areas had to be organized, pillars and roof loads managed, water controlled, and stone removed through repeatable procedures. Yet no surviving administrative record has been securely linked to labor levies, quarry rights, taxation, or a construction authority. The deeper historical mystery is therefore not whether people could carve the caves, but what social organization mobilized the labor."
+        },
+        {
+          "blockId": "boundary-06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 룽유 석굴은 저장성의 사암층을 인공적으로 파낸 24개 대형 지하공간이며 1992년 이후 본격 조사됐다. 서한시대 유물이 연대 단서를 제공한다.\n\n확인되지 않음: 정확한 축조 시작연대, 건설 주체, 노동조직, 핵심 용도와 대량의 석재가 어디에 사용됐는지는 결정적으로 밝혀지지 않았다.",
+          "textEn": "Established: The Longyou Caves are twenty-four large man-made underground spaces cut into sandstone in Zhejiang and investigated intensively since their 1992 rediscovery. Western Han material provides chronological clues.\n\nNot established: The exact construction date, builders, labor organization, primary function, and destination of the removed stone remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: The Longyou Caves are twenty-four large man-made underground spaces cut into sandstone in Zhejiang and investigated intensively since their 1992 rediscovery. Western Han material provides chronological clues.",
+        "notEstablished": "Not established: The exact construction date, builders, labor organization, primary function, and destination of the removed stone remain unresolved."
+      },
+      "audioNarrationOrder": [
+        "scene-01",
+        "scale-02",
+        "date-03",
+        "purpose-04",
+        "counter-05",
+        "archaeology-055",
+        "labor-057"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LONG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "룽유 석굴은 24개의 대형 인공 사암 석굴이다.",
+      "statementEn": "The Longyou Caves are twenty-four large artificial sandstone caverns.",
+      "sourceRefs": [
+        "LONGYOU_ZJ"
+      ]
+    },
+    {
+      "claimId": "LONG-C2",
+      "status": "SUPPORTED",
+      "statementKo": "서한시대 토기는 약 2천 년 전 사용 가능성에 대한 연대 단서를 제공한다.",
+      "statementEn": "Western Han pottery provides a chronological clue to use roughly two millennia ago.",
+      "sourceRefs": [
+        "LONGYOU_ZJ"
+      ]
+    },
+    {
+      "claimId": "LONG-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 건설자·연대·핵심 용도는 확정되지 않았다.",
+      "statementEn": "The exact builders, construction date, and primary purpose remain unresolved.",
+      "sourceRefs": [
+        "LONGYOU_ZJ",
+        "LONGYOU_OFFICIAL"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "LONGYOU_ZJ",
+      "title": "Longyou Caves",
+      "publisher": "Zhejiang Provincial Government",
+      "url": "https://fad.zj.gov.cn/art/2021/5/24/art_1229498550_58897494.html",
+      "sourceType": "PROVINCIAL_GOVERNMENT"
+    },
+    {
+      "sourceId": "LONGYOU_OFFICIAL",
+      "title": "Longyou Caves — Discovery",
+      "publisher": "Longyou Caves Scenic Area",
+      "url": "https://longyou-caves.cn/en/discovery",
+      "sourceType": "OFFICIAL_SITE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "longyou-v01",
+      "role": "STRUCTURE_DIAGRAM",
+      "kind": "PROJECT_ORIGINAL_DIAGRAM",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "24개 인공 석굴과 기둥·천장·공구흔의 구조를 개념적으로 표시.",
+      "captionEn": "Conceptual structure of the twenty-four artificial caverns, pillars, roof, and tool marks.",
+      "altKo": "24개 인공 석굴과 기둥·천장·공구흔의 구조를 개념적으로 표시.",
+      "altEn": "Conceptual structure of the twenty-four artificial caverns, pillars, roof, and tool marks.",
+      "sourceRefs": [
+        "LONGYOU_ZJ"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "longyou-caves__longyou-v01__ko.png",
+          "sha256": "89af7dd17c8972e746f76fc46054cbc62cf44074048c7025f6755da579241edd",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "longyou-caves__longyou-v01__en.png",
+          "sha256": "2caf7b74770413381e5bbaf2f1d3742aa100770545073add9977e10afe5ad94f",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    },
+    {
+      "assetId": "longyou-v02",
+      "role": "HYPOTHESIS_MATRIX",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "채석·저장·군사·의례 가설과 각 가설이 설명/설명하지 못하는 점을 분리.",
+      "captionEn": "Compare quarry, storage, military, and ritual hypotheses and their limits.",
+      "altKo": "채석·저장·군사·의례 가설과 각 가설이 설명/설명하지 못하는 점을 분리.",
+      "altEn": "Compare quarry, storage, military, and ritual hypotheses and their limits.",
+      "sourceRefs": [
+        "LONGYOU_OFFICIAL"
+      ],
+      "isDocumentaryEvidence": false,
+      "localizedFiles": {
+        "ko": {
+          "fileName": "longyou-caves__longyou-v02__ko.png",
+          "sha256": "b7d652f65ac92f71ee1fce642e3a8e83e321190e832a70c7672d55853c54a8b5",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "longyou-caves__longyou-v02__en.png",
+          "sha256": "0d6a3d4bed44066750bbddf8b54e72c0306f347381242d1b9be2d2d60112a0b0",
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS"
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "History / Archaeology",
+    "secondaryGenres": [
+      "Ancient Engineering"
+    ],
+    "countries": [
+      "China"
+    ],
+    "regions": [
+      "Zhejiang"
+    ],
+    "places": [
+      {
+        "name": "Longyou County",
+        "role": "site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "Zhejiang Provincial Government"
+    ],
+    "dateRange": {
+      "start": "-0206",
+      "end": "1992",
+      "precision": "archaeological clue through rediscovery"
+    },
+    "era": "Ancient China / modern rediscovery",
+    "resolution": "ARTIFICIAL_CAVES_CONFIRMED_BUILDERS_DATE_PURPOSE_UNRESOLVED",
+    "searchAliases": [
+      "Longyou Grottoes",
+      "龙游石窟"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1530,
+    "enBodyWords": 458,
+    "meaningfulBlockCount": 8,
+    "visualPlacementCount": 2,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH35",
+    "assetGroups": 2,
+    "localizedFiles": 4,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
