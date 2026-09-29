@@ -1,0 +1,359 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-gasbuggy",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Project Gasbuggy",
+    "canonicalTitleEn": "Project Gasbuggy",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "VERIFIED_TECH_HISTORY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "천연가스를 더 뽑기 위해 지하 핵폭발을 사용한 실험은 실제였다",
+      "hook": "Gasbuggy는 1967년 실제로 폭발했다. 암석은 파쇄됐지만 방사성 오염과 경제성 문제 때문에 상용기술이 되지 못했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "뉴멕시코 지하에서 핵폭발로 가스 저류층을 깨뜨렸다",
+          "headingEn": "A Nuclear Device Was Detonated Underground to Fracture a Gas Reservoir",
+          "textKo": "Project Gasbuggy는 미국 Plowshare 프로그램의 일환으로 1967년 뉴멕시코의 천연가스 저류층 깊은 지하에서 핵장치를 폭발시킨 실험이다. 목적은 단단하고 투과성이 낮은 암석을 거대한 폭발로 파쇄해 가스가 더 잘 흐르도록 만들 수 있는지 보는 것이었다. 오늘날 수압파쇄와 이름이 함께 언급되기도 하지만 에너지원과 오염위험은 전혀 달랐다. Gasbuggy는 ‘평화적 핵폭발’로 민간 산업문제를 해결하려 했던 시대의 실제 기술시험이었다.",
+          "textEn": "Project Gasbuggy detonated a nuclear device underground in New Mexico in 1967 to test whether a tight natural-gas reservoir could be fractured to improve production."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "Plowshare는 핵폭발을 산업도구로 쓰려는 더 큰 구상이었다",
+          "headingEn": "Plowshare Sought Civilian Uses for Nuclear Explosions",
+          "textKo": "냉전 초기에는 핵폭발의 막대한 에너지를 운하, 굴착, 지하저장, 자원개발에 활용할 수 있다는 아이디어가 진지하게 검토됐다. Gasbuggy는 그중 천연가스 생산성 향상을 시험한 사례다. 핵폭발이 만든 공동과 균열망을 통해 가스가 더 넓은 암석부피에서 유입될 것으로 기대했다. 이 구상은 물리적으로 암석을 깨는 데 성공하는 것과 실제 상품가스를 안전하고 싸게 생산하는 것이 완전히 다른 문제라는 점을 곧 드러냈다.",
+          "textEn": "Plowshare explored civilian uses of nuclear explosions. Gasbuggy tested gas-reservoir stimulation, highlighting the difference between fracturing rock and producing a safe, economical commodity."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가스 유동은 늘었지만 방사성 오염이 따라왔다",
+          "headingEn": "Gas Flow Increased, but Radioactive Contamination Followed",
+          "textKo": "폭발은 설계대로 지하 암석을 크게 파쇄했고 시험생산에서는 가스 유동이 증가했다. 그러나 폭발 생성물이 생산가스와 섞이면서 tritium을 포함한 방사성 오염 문제가 생겼다. 가스를 판매하려면 안전·규제 기준을 충족해야 하고 오염을 처리하거나 희석하는 비용도 고려해야 했다. 따라서 ‘기술적으로 가스가 더 나왔다’는 성공과 ‘상업적 천연가스 생산법이 됐다’는 성공은 분리해야 한다.",
+          "textEn": "The explosion fractured the formation and increased gas flow, but radioactive products including tritium contaminated the produced gas. Technical stimulation was not the same as commercial viability."
+        },
+        {
+          "blockId": "04",
+          "type": "TURNING_POINT",
+          "headingKo": "경제성·환경·규제가 상용화를 막았다",
+          "headingEn": "Economics, Environment, and Regulation Blocked Commercial Adoption",
+          "textKo": "Gasbuggy와 후속 Plowshare 가스자극 실험은 핵폭발 방식이 산업현장에서 반복 사용되기 어려운 이유를 보여줬다. 핵장치 취급과 보안, 방사성 오염, 장기 환경관리, 소비자 수용성, 규제비용을 모두 합치면 기존 시추·자극기술과 경쟁하기 어려웠다. 한 번의 대규모 폭발은 되돌릴 수 없다는 점도 중요한 차이였다. 결국 핵폭발을 이용한 천연가스 개발은 상용기술로 자리잡지 못했다.",
+          "textEn": "Nuclear security, contamination, long-term stewardship, regulation, and economics made the method impractical compared with conventional gas-development technologies."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "실험은 끝났지만 부지는 장기 환경관리 대상이 됐다",
+          "headingEn": "The Experiment Ended, but the Site Required Long-Term Stewardship",
+          "textKo": "폭발이 끝났다고 방사성 물질과 지하 공동이 사라지는 것은 아니다. Gasbuggy 부지는 이후 연방정부의 환경조사와 장기관리 대상이 됐다. 이런 사후관리는 Plowshare의 경제성 평가에서 당시 예상보다 훨씬 긴 시간축을 고려해야 한다는 사실을 보여준다. 오늘날 Gasbuggy의 의미는 ‘핵폭발로 가스를 뽑을 수 있었나’보다 기술적 가능성과 사회적·환경적 비용 사이의 차이가 얼마나 컸는지를 보여주는 데 있다.",
+          "textEn": "The site later required environmental investigation and stewardship, showing that technical success can carry costs extending far beyond the test itself."
+        },
+        {
+          "blockId": "06",
+          "type": "CONTEXT",
+          "headingKo": "Gasbuggy만의 실패가 아니라 Plowshare 산업응용 자체의 한계를 드러냈다",
+          "headingEn": "Gasbuggy Exposed a Wider Limit of Peaceful Nuclear Engineering",
+          "textKo": "Gasbuggy 뒤에도 핵폭발로 가스층을 자극하는 후속 실험이 이어졌지만 상업적 전환은 이루어지지 않았다. 반복시험이 필요했다는 사실 자체가 첫 폭발의 물리적 성과와 산업적 성공 사이에 큰 간극이 있었음을 보여준다. 자원개발에서는 생산량뿐 아니라 제품 품질, 규제, 보험, 부지관리와 장기환경책임이 모두 비용에 포함된다. Plowshare가 제시한 ‘폭발 에너지는 싸고 강력하다’는 계산만으로는 이런 시스템 전체 비용을 해결할 수 없었다.",
+          "textEn": "Follow-on Plowshare gas-stimulation tests did not produce commercial adoption. Gasbuggy exposed the gap between physical fracture success and the full economic, regulatory, and environmental system required for energy production."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Gasbuggy는 1967년 뉴멕시코에서 실제 지하 핵폭발을 사용해 천연가스 저류층 파쇄와 생산성 향상을 시험했다. 암석 파쇄와 유동 증가는 있었지만 생산가스의 방사성 오염이 문제가 됐다.\n\n확인되지 않음: 핵폭발을 이용한 천연가스 생산이 안전하고 경제적인 상용기술로 정착했다는 주장은 사실이 아니다. 이 방식은 상용화되지 않았다.",
+          "textEn": "Established: Project Gasbuggy used a real underground nuclear detonation in 1967 to stimulate a natural-gas reservoir, with increased flow and radioactive contamination.\n\nNot established: Nuclear explosions did not become a safe, economical commercial gas-extraction technology."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project Gasbuggy는 1967년 뉴멕시코에서 실제 지하 핵폭발을 사용해 천연가스 저류층 파쇄와 생산성 향상을 시험했다. 암석 파쇄와 유동 증가는 있었지만 생산가스의 방사성 오염이 문제가 됐다.",
+        "notEstablished": "확인되지 않음: 핵폭발을 이용한 천연가스 생산이 안전하고 경제적인 상용기술로 정착했다는 주장은 사실이 아니다. 이 방식은 상용화되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "A Nuclear Explosion Was Really Used to Try to Increase Natural-Gas Production",
+      "hook": "Gasbuggy really detonated in 1967. It fractured rock, but contamination and economics prevented commercial adoption.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "뉴멕시코 지하에서 핵폭발로 가스 저류층을 깨뜨렸다",
+          "headingEn": "A Nuclear Device Was Detonated Underground to Fracture a Gas Reservoir",
+          "textKo": "Project Gasbuggy는 미국 Plowshare 프로그램의 일환으로 1967년 뉴멕시코의 천연가스 저류층 깊은 지하에서 핵장치를 폭발시킨 실험이다. 목적은 단단하고 투과성이 낮은 암석을 거대한 폭발로 파쇄해 가스가 더 잘 흐르도록 만들 수 있는지 보는 것이었다. 오늘날 수압파쇄와 이름이 함께 언급되기도 하지만 에너지원과 오염위험은 전혀 달랐다. Gasbuggy는 ‘평화적 핵폭발’로 민간 산업문제를 해결하려 했던 시대의 실제 기술시험이었다.",
+          "textEn": "Project Gasbuggy detonated a nuclear device underground in New Mexico in 1967 to test whether a tight natural-gas reservoir could be fractured to improve production."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "Plowshare는 핵폭발을 산업도구로 쓰려는 더 큰 구상이었다",
+          "headingEn": "Plowshare Sought Civilian Uses for Nuclear Explosions",
+          "textKo": "냉전 초기에는 핵폭발의 막대한 에너지를 운하, 굴착, 지하저장, 자원개발에 활용할 수 있다는 아이디어가 진지하게 검토됐다. Gasbuggy는 그중 천연가스 생산성 향상을 시험한 사례다. 핵폭발이 만든 공동과 균열망을 통해 가스가 더 넓은 암석부피에서 유입될 것으로 기대했다. 이 구상은 물리적으로 암석을 깨는 데 성공하는 것과 실제 상품가스를 안전하고 싸게 생산하는 것이 완전히 다른 문제라는 점을 곧 드러냈다.",
+          "textEn": "Plowshare explored civilian uses of nuclear explosions. Gasbuggy tested gas-reservoir stimulation, highlighting the difference between fracturing rock and producing a safe, economical commodity."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "가스 유동은 늘었지만 방사성 오염이 따라왔다",
+          "headingEn": "Gas Flow Increased, but Radioactive Contamination Followed",
+          "textKo": "폭발은 설계대로 지하 암석을 크게 파쇄했고 시험생산에서는 가스 유동이 증가했다. 그러나 폭발 생성물이 생산가스와 섞이면서 tritium을 포함한 방사성 오염 문제가 생겼다. 가스를 판매하려면 안전·규제 기준을 충족해야 하고 오염을 처리하거나 희석하는 비용도 고려해야 했다. 따라서 ‘기술적으로 가스가 더 나왔다’는 성공과 ‘상업적 천연가스 생산법이 됐다’는 성공은 분리해야 한다.",
+          "textEn": "The explosion fractured the formation and increased gas flow, but radioactive products including tritium contaminated the produced gas. Technical stimulation was not the same as commercial viability."
+        },
+        {
+          "blockId": "04",
+          "type": "TURNING_POINT",
+          "headingKo": "경제성·환경·규제가 상용화를 막았다",
+          "headingEn": "Economics, Environment, and Regulation Blocked Commercial Adoption",
+          "textKo": "Gasbuggy와 후속 Plowshare 가스자극 실험은 핵폭발 방식이 산업현장에서 반복 사용되기 어려운 이유를 보여줬다. 핵장치 취급과 보안, 방사성 오염, 장기 환경관리, 소비자 수용성, 규제비용을 모두 합치면 기존 시추·자극기술과 경쟁하기 어려웠다. 한 번의 대규모 폭발은 되돌릴 수 없다는 점도 중요한 차이였다. 결국 핵폭발을 이용한 천연가스 개발은 상용기술로 자리잡지 못했다.",
+          "textEn": "Nuclear security, contamination, long-term stewardship, regulation, and economics made the method impractical compared with conventional gas-development technologies."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "실험은 끝났지만 부지는 장기 환경관리 대상이 됐다",
+          "headingEn": "The Experiment Ended, but the Site Required Long-Term Stewardship",
+          "textKo": "폭발이 끝났다고 방사성 물질과 지하 공동이 사라지는 것은 아니다. Gasbuggy 부지는 이후 연방정부의 환경조사와 장기관리 대상이 됐다. 이런 사후관리는 Plowshare의 경제성 평가에서 당시 예상보다 훨씬 긴 시간축을 고려해야 한다는 사실을 보여준다. 오늘날 Gasbuggy의 의미는 ‘핵폭발로 가스를 뽑을 수 있었나’보다 기술적 가능성과 사회적·환경적 비용 사이의 차이가 얼마나 컸는지를 보여주는 데 있다.",
+          "textEn": "The site later required environmental investigation and stewardship, showing that technical success can carry costs extending far beyond the test itself."
+        },
+        {
+          "blockId": "06",
+          "type": "CONTEXT",
+          "headingKo": "Gasbuggy만의 실패가 아니라 Plowshare 산업응용 자체의 한계를 드러냈다",
+          "headingEn": "Gasbuggy Exposed a Wider Limit of Peaceful Nuclear Engineering",
+          "textKo": "Gasbuggy 뒤에도 핵폭발로 가스층을 자극하는 후속 실험이 이어졌지만 상업적 전환은 이루어지지 않았다. 반복시험이 필요했다는 사실 자체가 첫 폭발의 물리적 성과와 산업적 성공 사이에 큰 간극이 있었음을 보여준다. 자원개발에서는 생산량뿐 아니라 제품 품질, 규제, 보험, 부지관리와 장기환경책임이 모두 비용에 포함된다. Plowshare가 제시한 ‘폭발 에너지는 싸고 강력하다’는 계산만으로는 이런 시스템 전체 비용을 해결할 수 없었다.",
+          "textEn": "Follow-on Plowshare gas-stimulation tests did not produce commercial adoption. Gasbuggy exposed the gap between physical fracture success and the full economic, regulatory, and environmental system required for energy production."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Gasbuggy는 1967년 뉴멕시코에서 실제 지하 핵폭발을 사용해 천연가스 저류층 파쇄와 생산성 향상을 시험했다. 암석 파쇄와 유동 증가는 있었지만 생산가스의 방사성 오염이 문제가 됐다.\n\n확인되지 않음: 핵폭발을 이용한 천연가스 생산이 안전하고 경제적인 상용기술로 정착했다는 주장은 사실이 아니다. 이 방식은 상용화되지 않았다.",
+          "textEn": "Established: Project Gasbuggy used a real underground nuclear detonation in 1967 to stimulate a natural-gas reservoir, with increased flow and radioactive contamination.\n\nNot established: Nuclear explosions did not become a safe, economical commercial gas-extraction technology."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project Gasbuggy used a real underground nuclear detonation in 1967 to stimulate a natural-gas reservoir, with increased flow and radioactive contamination.",
+        "notEstablished": "Not established: Nuclear explosions did not become a safe, economical commercial gas-extraction technology."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GAS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Gasbuggy는 1967년 실제 지하 핵폭발을 수행했다.",
+      "statementEn": "Gasbuggy conducted a real underground nuclear detonation in 1967.",
+      "sourceRefs": [
+        "DOE_NETL"
+      ]
+    },
+    {
+      "claimId": "GAS-C2",
+      "status": "CONFIRMED",
+      "statementKo": "방사성 오염과 경제성 문제 때문에 상용기술이 되지 못했다.",
+      "statementEn": "Radioactive contamination and economics prevented commercial adoption.",
+      "sourceRefs": [
+        "DOE_NETL"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "DOE_NETL",
+      "title": "Early Innovations in Natural Gas",
+      "publisher": "U.S. Department of Energy / NETL",
+      "url": "https://www.netl.doe.gov/early-innovations-natural-gas",
+      "sourceType": "US_GOVERNMENT_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "project-gasbuggy-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "DOE_NETL"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-gasbuggy__project-gasbuggy-v01__ko.png",
+          "sha256": "9bc531352436626c619d6e12da5d476e61eac36371a5d155fd37b44054bf0046",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-gasbuggy__project-gasbuggy-v01__en.png",
+          "sha256": "52d1deca48ec2a816f522ca590e3167e80667a5abfad2dc2373e2bca204c4dab",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-gasbuggy-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "DOE_NETL"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-gasbuggy__project-gasbuggy-v02__ko.png",
+          "sha256": "157d104fbc3fc639d6e613b875029e321767a4127c6d71c783db210159736f37",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-gasbuggy__project-gasbuggy-v02__en.png",
+          "sha256": "a531ae6c2aa460745f2fd99674cade84f03bb8c895fd4245e602ee0f4b451c33",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-gasbuggy-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "DOE_NETL"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-gasbuggy__project-gasbuggy-v03__ko.png",
+          "sha256": "344d091349d962edb110a1e0b0ec745c30aff1a4d6af7b1216c6b39772b6902a",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-gasbuggy__project-gasbuggy-v03__en.png",
+          "sha256": "a0a307351a75c6f7bb6d3c33e795dd11e945ef59778dd5a21487165965bcb43f",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Secret Program",
+    "secondaryGenres": [
+      "Nuclear Engineering",
+      "Energy"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New Mexico"
+    ],
+    "places": [
+      {
+        "name": "Project Gasbuggy site",
+        "role": "test site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "U.S. Department of Energy"
+    ],
+    "dateRange": {
+      "start": "1967",
+      "end": "1970s",
+      "precision": "test/evaluation era"
+    },
+    "era": "Plowshare era",
+    "resolution": "REAL_TEST_COMMERCIAL_FAILURE",
+    "searchAliases": [
+      "Gasbuggy",
+      "Plowshare Gasbuggy"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1582,
+    "enBodyWords": 177,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

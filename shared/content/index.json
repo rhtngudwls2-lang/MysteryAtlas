@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MysteryAtlas_MEDIA_READY174_PACK_2026-09-29_v1.0.zip",
+  "sourcePack": "batch37_canonical",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -3123,6 +3123,78 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "echelon",
+      "title": {
+        "ko": "ECHELON",
+        "en": "ECHELON Interception System"
+      },
+      "headline": {
+        "ko": "‘전 세계 통신을 모두 듣는 시스템’이라는 전설에서 문서가 확인한 범위는 어디까지인가",
+        "en": "What the Record Supports Beyond the “Listening to Everything” Myth"
+      },
+      "hook": {
+        "ko": "유럽의회는 UKUSA 국가들의 글로벌 감청 협력을 강하게 뒷받침했다. 그러나 모든 통신을 완벽히 실시간 해독한다는 이미지는 별개다.",
+        "en": "The European Parliament strongly supported global interception cooperation, but not omniscient real-time access to every communication."
+      },
+      "aliases": [
+        "ECHELON",
+        "UKUSA interception"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Signals Intelligence",
+        "Surveillance"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "New Zealand"
+      ],
+      "regions": [],
+      "era": "late 20th / early 21st century",
+      "resolution": "COOPERATION_SUPPORTED_CAPABILITY_MYTH_EXAGGERATED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1999",
+        "end": "2001",
+        "precision": "inquiry period"
+      },
+      "related": [],
+      "heroAssetId": "echelon-v01",
+      "heroFile": {
+        "ko": "echelon__echelon-v01__ko.png",
+        "en": "echelon__echelon-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 1
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "INTELLIGENCE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -8179,6 +8251,81 @@
       }
     },
     {
+      "canonicalId": "operation-argus",
+      "title": {
+        "ko": "Operation Argus",
+        "en": "Operation Argus"
+      },
+      "headline": {
+        "ko": "1958년 남대서양에서 세 번의 핵폭발로 인공 방사선대를 만들었다",
+        "en": "Three Nuclear Explosions Over the South Atlantic Created Artificial Radiation Belts"
+      },
+      "hook": {
+        "ko": "Argus는 문서화된 고고도 핵실험이다. 목표는 핵폭발 전자가 지구 자기장에 갇힐 수 있는지 시험하는 것이었다.",
+        "en": "Argus was a documented high-altitude nuclear test series designed to test trapped-particle physics."
+      },
+      "aliases": [
+        "Project Argus",
+        "Argus nuclear tests"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Nuclear Test",
+        "Space Environment"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "South Atlantic"
+      ],
+      "era": "Cold War",
+      "resolution": "DECLASSIFIED_TEST_EFFECT_DOCUMENTED",
+      "places": [],
+      "people": [
+        {
+          "name": "Nicholas Christofilos",
+          "role": "physicist"
+        }
+      ],
+      "dateRange": {
+        "start": "1958-08-27",
+        "end": "1958-09-06",
+        "precision": "test series"
+      },
+      "related": [],
+      "heroAssetId": "operation-argus-v01",
+      "heroFile": {
+        "ko": "operation-argus__operation-argus-v01__ko.png",
+        "en": "operation-argus__operation-argus-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 1
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DECLASSIFIED_TEST_HISTORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "operation-mongoose",
       "title": {
         "ko": "오퍼레이션 몽구스",
@@ -9293,6 +9440,223 @@
       }
     },
     {
+      "canonicalId": "project-112-shad",
+      "title": {
+        "ko": "Project 112 / SHAD",
+        "en": "Project 112 / SHAD"
+      },
+      "headline": {
+        "ko": "실제로 진행된 화학·생물학 방어시험과 개별 건강영향은 다른 증거문제다",
+        "en": "A Real Defense-Test Program and Individual Health Effects Are Different Evidence Questions"
+      },
+      "hook": {
+        "ko": "Project 112와 SHAD는 실제 프로그램이었다. 하지만 프로그램의 존재가 각 개인의 구체적 노출·건강영향까지 자동 증명하진 않는다.",
+        "en": "Project 112 and SHAD were real. That fact alone does not automatically establish each individual’s exposure or health outcome."
+      },
+      "aliases": [
+        "Project 112",
+        "SHAD"
+      ],
+      "genre": "Intelligence / Secret Program",
+      "genres": [
+        "Military Testing",
+        "Public Health"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "Cold War",
+      "resolution": "PROGRAM_DOCUMENTED_CAUSATION_CASE_SPECIFIC",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1962",
+        "end": "1973",
+        "precision": "program period"
+      },
+      "related": [],
+      "heroAssetId": "project-112-shad-v01",
+      "heroFile": {
+        "ko": "project-112-shad__project-112-shad-v01__ko.png",
+        "en": "project-112-shad__project-112-shad-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "DECLASSIFIED_PROGRAM",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "project-excelsior",
+      "title": {
+        "ko": "Project Excelsior",
+        "en": "Project Excelsior"
+      },
+      "headline": {
+        "ko": "31km 상공에서 사람을 떨어뜨려 고고도 탈출을 검증했다",
+        "en": "High-Altitude Escape Was Tested With Human Jumps From the Stratosphere"
+      },
+      "hook": {
+        "ko": "Project Excelsior는 기록 이벤트가 아니라 압력복·산소·안정화 낙하산과 인체 반응을 검증한 미 공군 연구였다.",
+        "en": "Project Excelsior tested pressure suits, oxygen, stabilization parachutes, and human survival at extreme altitude."
+      },
+      "aliases": [
+        "Excelsior III",
+        "Kittinger jump"
+      ],
+      "genre": "Technology / Aerospace",
+      "genres": [
+        "Verified Experiment"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "New Mexico"
+      ],
+      "era": "early space age",
+      "resolution": "DOCUMENTED_EXTREME_ALTITUDE_TESTING",
+      "places": [],
+      "people": [
+        {
+          "name": "Joseph Kittinger",
+          "role": "test pilot"
+        }
+      ],
+      "dateRange": {
+        "start": "1959",
+        "end": "1960",
+        "precision": "program jumps"
+      },
+      "related": [],
+      "heroAssetId": "project-excelsior-v01",
+      "heroFile": {
+        "ko": "project-excelsior__project-excelsior-v01__ko.png",
+        "en": "project-excelsior__project-excelsior-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "VERIFIED_TECH_HISTORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "project-gasbuggy",
+      "title": {
+        "ko": "Project Gasbuggy",
+        "en": "Project Gasbuggy"
+      },
+      "headline": {
+        "ko": "천연가스를 더 뽑기 위해 지하 핵폭발을 사용한 실험은 실제였다",
+        "en": "A Nuclear Explosion Was Really Used to Try to Increase Natural-Gas Production"
+      },
+      "hook": {
+        "ko": "Gasbuggy는 1967년 실제로 폭발했다. 암석은 파쇄됐지만 방사성 오염과 경제성 문제 때문에 상용기술이 되지 못했다.",
+        "en": "Gasbuggy really detonated in 1967. It fractured rock, but contamination and economics prevented commercial adoption."
+      },
+      "aliases": [
+        "Gasbuggy",
+        "Plowshare Gasbuggy"
+      ],
+      "genre": "Technology / Secret Program",
+      "genres": [
+        "Nuclear Engineering",
+        "Energy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "New Mexico"
+      ],
+      "era": "Plowshare era",
+      "resolution": "REAL_TEST_COMMERCIAL_FAILURE",
+      "places": [
+        {
+          "name": "Project Gasbuggy site",
+          "role": "test site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1967",
+        "end": "1970s",
+        "precision": "test/evaluation era"
+      },
+      "related": [],
+      "heroAssetId": "project-gasbuggy-v01",
+      "heroFile": {
+        "ko": "project-gasbuggy__project-gasbuggy-v01__ko.png",
+        "en": "project-gasbuggy__project-gasbuggy-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 1
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "VERIFIED_TECH_HISTORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "project-horizon",
       "title": {
         "ko": "Project Horizon",
@@ -9424,6 +9788,73 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Downgraded from STANDARD_STORY because KO body is under the tier minimum; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "project-orion",
+      "title": {
+        "ko": "Project Orion",
+        "en": "Project Orion"
+      },
+      "headline": {
+        "ko": "핵폭발을 우주선 엔진으로 쓰자는 계획은 실제 공학연구였다",
+        "en": "Nuclear Explosions as a Spacecraft Engine Were a Real Engineering Program"
+      },
+      "hook": {
+        "ko": "Orion은 설계와 비핵 모형시험까지 갔다. 그러나 핵 펄스 추진 우주선이 실제로 발사된 적은 없다.",
+        "en": "Orion reached serious design work and non-nuclear model tests, but no nuclear-pulse spacecraft ever flew."
+      },
+      "aliases": [
+        "Orion nuclear pulse",
+        "Project Orion spacecraft"
+      ],
+      "genre": "Technology / Secret Program",
+      "genres": [
+        "Nuclear Propulsion"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "Cold War",
+      "resolution": "REAL_STUDY_NO_OPERATIONAL_SPACECRAFT",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1958",
+        "end": "1965",
+        "precision": "core study era"
+      },
+      "related": [],
+      "heroAssetId": "project-orion-v01",
+      "heroFile": {
+        "ko": "project-orion__project-orion-v01__ko.png",
+        "en": "project-orion__project-orion-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "VERIFIED_TECH_HISTORY",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9776,6 +10207,86 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "qin-mausoleum-unopened",
+      "title": {
+        "ko": "진시황릉의 미개봉 중심묘",
+        "en": "Unexcavated Tomb Chamber of Qin Shi Huang"
+      },
+      "headline": {
+        "ko": "병마용은 발굴됐지만 황제의 중심묘는 왜 아직 열지 않았나",
+        "en": "The Terracotta Army Was Excavated—Why Is the Central Tomb Still Unopened?"
+      },
+      "hook": {
+        "ko": "미스터리는 묘의 존재가 아니라, 열지 않고 어디까지 알 수 있으며 언제 열어도 안전한가에 있다.",
+        "en": "The mystery is not whether the mausoleum exists, but how much can be learned without opening the central chamber."
+      },
+      "aliases": [
+        "Qin Shi Huang tomb",
+        "Terracotta Army tomb"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Unexcavated Site",
+        "Conservation"
+      ],
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Shaanxi"
+      ],
+      "era": "Qin dynasty",
+      "resolution": "SITE_CONFIRMED_CHAMBER_UNEXCAVATED",
+      "places": [
+        {
+          "name": "Mausoleum of the First Qin Emperor",
+          "role": "site"
+        }
+      ],
+      "people": [
+        {
+          "name": "Qin Shi Huang",
+          "role": "emperor"
+        }
+      ],
+      "dateRange": {
+        "start": "-246",
+        "end": "-208",
+        "precision": "construction era"
+      },
+      "related": [],
+      "heroAssetId": "qin-mausoleum-unopened-v01",
+      "heroFile": {
+        "ko": "qin-mausoleum-unopened__qin-mausoleum-unopened-v01__ko.png",
+        "en": "qin-mausoleum-unopened__qin-mausoleum-unopened-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -10387,6 +10898,80 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "sailing-stones",
+      "title": {
+        "ko": "데스밸리 움직이는 돌",
+        "en": "Death Valley Sailing Stones"
+      },
+      "headline": {
+        "ko": "밤새 움직인 돌의 미스터리는 얼음과 약한 바람에서 풀렸다",
+        "en": "The Moving-Rock Mystery Came Down to Thin Ice and Light Wind"
+      },
+      "hook": {
+        "ko": "흔적은 오래전부터 보였지만 움직이는 순간은 드물었다. 2013년 GPS와 현장관측이 핵심 장면을 잡았다.",
+        "en": "The tracks were obvious for decades, but movement was rarely witnessed. GPS and direct observation captured it in 2013."
+      },
+      "aliases": [
+        "moving rocks",
+        "Racetrack Playa"
+      ],
+      "genre": "Science / Nature",
+      "genres": [
+        "Explained Mystery"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [
+        "California"
+      ],
+      "era": "modern field science",
+      "resolution": "CORE_MECHANISM_DIRECTLY_OBSERVED",
+      "places": [
+        {
+          "name": "Racetrack Playa",
+          "role": "site"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "2013-12",
+        "end": "2014",
+        "precision": "observation/publication"
+      },
+      "related": [],
+      "heroAssetId": "sailing-stones-v01",
+      "heroFile": {
+        "ko": "sailing-stones__sailing-stones-v01__ko.png",
+        "en": "sailing-stones__sailing-stones-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_NATURAL_PHENOMENON",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -11715,6 +12300,81 @@
       }
     },
     {
+      "canonicalId": "tarim-mummies",
+      "title": {
+        "ko": "타림 미라",
+        "en": "Tarim Basin Mummies"
+      },
+      "headline": {
+        "ko": "서쪽 이주민처럼 보였던 미라—DNA는 고립된 지역계통을 가리켰다",
+        "en": "Mummies Once Assumed to Be Western Migrants—DNA Pointed to an Isolated Local Ancestry"
+      },
+      "hook": {
+        "ko": "외모와 옷은 오랫동안 이주민 서사를 만들었다. 2021년 고대 DNA는 그 직관을 크게 수정했다.",
+        "en": "Appearance and clothing fueled a migration story for decades. Ancient DNA substantially revised it."
+      },
+      "aliases": [
+        "Tarim mummies",
+        "Xiaohe mummies"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Ancient DNA"
+      ],
+      "countries": [
+        "China"
+      ],
+      "regions": [
+        "Xinjiang",
+        "Tarim Basin"
+      ],
+      "era": "Bronze Age",
+      "resolution": "GENETIC_ORIGIN_REVISED_SOCIAL_IDENTITY_OPEN",
+      "places": [
+        {
+          "name": "Tarim Basin",
+          "role": "burial region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "-2100",
+        "end": "-1700",
+        "precision": "early cemetery horizon"
+      },
+      "related": [],
+      "heroAssetId": "tarim-mummies-v01",
+      "heroFile": {
+        "ko": "tarim-mummies__tarim-mummies-v01__ko.png",
+        "en": "tarim-mummies__tarim-mummies-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "ARCHAEOLOGY_DNA",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "tehran-1976",
       "title": {
         "ko": "테헤란 1976 사건",
@@ -12761,6 +13421,79 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
+      "canonicalId": "vinland-map",
+      "title": {
+        "ko": "빈란드 지도",
+        "en": "Vinland Map"
+      },
+      "headline": {
+        "ko": "바이킹의 북미 도달은 사실이지만 ‘빈란드 지도’는 별개의 위조품이었다",
+        "en": "Norse America Is Real—The Vinland Map Is a Separate Forgery"
+      },
+      "hook": {
+        "ko": "지도 위조가 바이킹의 북미 도달을 부정하는 것은 아니다. 두 주장에는 서로 다른 증거가 있다.",
+        "en": "The map’s forgery does not erase Norse arrival in North America. The claims rest on different evidence."
+      },
+      "aliases": [
+        "Vinland Map",
+        "Yale Vinland Map"
+      ],
+      "genre": "History / Archaeology",
+      "genres": [
+        "Forgery",
+        "Explained Mystery"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "modern artifact controversy",
+      "resolution": "MODERN_FORGERY_STRONGLY_ESTABLISHED",
+      "places": [
+        {
+          "name": "Vinland",
+          "role": "claimed region"
+        }
+      ],
+      "people": [],
+      "dateRange": {
+        "start": "1950s",
+        "end": "2021",
+        "precision": "controversy to analysis"
+      },
+      "related": [],
+      "heroAssetId": "vinland-map-v01",
+      "heroFile": {
+        "ko": "vinland-map__vinland-map-v01__ko.png",
+        "en": "vinland-map__vinland-map-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, observation, and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "EXPLAINED_ARTIFACT",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {

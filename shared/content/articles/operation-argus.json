@@ -1,0 +1,359 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-argus",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Operation Argus",
+    "canonicalTitleEn": "Operation Argus",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DECLASSIFIED_TEST_HISTORY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1958년 남대서양에서 세 번의 핵폭발로 인공 방사선대를 만들었다",
+      "hook": "Argus는 문서화된 고고도 핵실험이다. 목표는 핵폭발 전자가 지구 자기장에 갇힐 수 있는지 시험하는 것이었다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "짧은 준비기간에 세 차례 고고도 핵실험이 진행됐다",
+          "headingEn": "Three High-Altitude Nuclear Tests Were Organized Rapidly",
+          "textKo": "Operation Argus는 1958년 미국이 남대서양 상공에서 실시한 세 차례 고고도 핵폭발 실험이다. DTRA 역사자료는 준비와 실행이 매우 짧은 일정 속에서 진행됐고 함정·로켓·위성 관측이 함께 동원됐음을 기록한다. 일반적인 지상 핵실험처럼 폭발의 직접 파괴효과를 보는 것이 아니라, 우주에 가까운 고도에서 나온 고에너지 전자가 지구 자기장과 어떻게 상호작용하는지를 시험하려는 목적이 컸다. 냉전기 군사·우주과학이 겹친 대표 사례다.",
+          "textEn": "Operation Argus was a three-shot U.S. high-altitude nuclear test series over the South Atlantic in 1958. DTRA records an unusually rapid preparation schedule and a measurement campaign involving ships, rockets, and satellites."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "핵심 가설은 인공 방사선대를 만들 수 있다는 것이었다",
+          "headingEn": "The Central Hypothesis Was Artificial Radiation-Belt Formation",
+          "textKo": "물리학자 Nicholas Christofilos는 핵폭발에서 나온 전자가 지구 자기장에 포획되면 자연 Van Allen belt와 비슷한 인공 방사선층을 만들 수 있다고 제안했다. 자연 방사선대 자체도 막 발견되던 시기였다. Argus는 이 가설을 실제 핵폭발로 시험했다. 연구 관심은 입자 포획 물리뿐 아니라 통신·레이더·우주환경에 미칠 수 있는 군사적 영향에도 있었다. 따라서 순수 과학실험과 군사적 가능성을 완전히 분리하기 어려운 프로젝트였다.",
+          "textEn": "Nicholas Christofilos proposed that energetic electrons from nuclear explosions could become trapped in Earth’s magnetic field, creating artificial radiation belts. Argus tested the idea directly, with both scientific and military interest."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "위성·로켓은 폭발 뒤 고에너지 입자 증가를 측정했다",
+          "headingEn": "Satellites and Rockets Measured Enhanced Energetic Particles",
+          "textKo": "1958년 8월 말부터 9월 초까지 폭발이 이루어진 뒤 Explorer 계열 위성과 로켓·지상관측이 비정상적으로 증가한 고에너지 입자와 시간에 따른 감쇠를 기록했다. 결과는 핵폭발 입자가 자기장에 갇혀 인공 방사선대를 만들 수 있다는 핵심 가설을 지지했다. Argus의 중요한 부분은 ‘비밀 실험이 있었다’는 사실만이 아니라, 의도한 물리효과가 실제 계측으로 확인됐다는 점이다. 프로그램의 실재와 효과는 오늘날 공식 역사자료에 포함돼 있다.",
+          "textEn": "After the detonations, satellite, rocket, and ground measurements recorded enhanced energetic-particle populations and their decay, supporting the trapped-particle hypothesis."
+        },
+        {
+          "blockId": "04",
+          "type": "BACKGROUND",
+          "headingKo": "성공은 동시에 우주 핵실험의 위험성을 보여줬다",
+          "headingEn": "The Success Also Demonstrated Space-Nuclear Risks",
+          "textKo": "인공 방사선대 형성은 과학적으로 흥미로웠지만 우주환경을 인위적으로 변화시키는 핵실험이 위성전자와 통신에 위험을 줄 수 있다는 사실도 보여줬다. 이후 Starfish Prime 같은 더 큰 고고도 핵실험에서는 위성 손상과 광범위한 전자기효과가 더 분명해졌다. Argus는 냉전기 우주가 단순한 관측공간이 아니라 군사적 실험장으로도 취급됐음을 보여주는 초기 사례다. 기술적으로 가능한 효과가 반드시 바람직한 효과를 의미하지는 않았다.",
+          "textEn": "Artificial radiation belts were scientifically interesting but also demonstrated that nuclear explosions could alter the near-Earth environment and threaten space systems."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "기밀 프로그램은 공식 핵실험 역사로 바뀌었다",
+          "headingEn": "A Secret Program Became Part of the Official Historical Record",
+          "textKo": "Argus는 당시 높은 비밀등급 아래 진행됐지만 오늘날 DTRA와 관련 기록에 실험 시점, 목적, 관측결과가 정리돼 있다. 따라서 ‘Argus가 실제였나’는 더 이상 미스터리가 아니다. 남는 질문은 이런 실험이 초기 우주환경 연구, 군사전략, 이후 핵실험 규제와 위성안전 인식에 어떤 영향을 남겼는지다. 비밀해제된 프로그램을 막연한 음모서사로 되돌리기보다 현재 확인 가능한 기록과 당시 공개되지 않았던 범위를 구분하는 편이 정확하다.",
+          "textEn": "Argus was highly classified when conducted, but its dates, purpose, and effects are now documented. The historical question is its influence on space science, military planning, and later nuclear-test policy."
+        },
+        {
+          "blockId": "06",
+          "type": "CONTEXT",
+          "headingKo": "Argus는 자연 Van Allen belt 발견 직후의 과학적 충격과 맞물렸다",
+          "headingEn": "Argus Coincided With the Discovery of the Natural Radiation Belts",
+          "textKo": "1958년은 Explorer 1이 지구 주변의 자연 방사선대를 확인한 바로 그 해였다. 따라서 Argus는 완성된 우주환경 지식을 적용한 시험이 아니라, 지구 자기권 자체를 막 이해하기 시작한 시기의 실험이었다. 자연적으로 존재하는 입자대와 핵폭발로 만든 일시적 입자대를 비교하면서 초기 우주물리학과 군사시험이 동시에 데이터를 생산했다. 오늘날의 관점에서는 위험한 실험으로 보이지만, 당시에는 우주환경의 기본구조와 핵효과를 동시에 탐색하던 매우 초기 단계였다는 시대적 맥락이 있다.",
+          "textEn": "Argus occurred in the same year that Explorer 1 helped reveal the natural Van Allen belts, linking early magnetospheric science with Cold War weapons testing."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Operation Argus는 1958년 미국이 실시한 세 차례 고고도 핵실험이며, 핵폭발 입자가 지구 자기장에 포획돼 인공 방사선대를 만드는 효과가 계측됐다.\n\n확인되지 않음: 이 프로그램을 초자연적 현상이나 비공개 우주무기 완성의 증거로 볼 근거는 없다. 문서화된 목적과 결과를 넘어서는 주장은 별도 증거가 필요하다.",
+          "textEn": "Established: Operation Argus was a three-shot U.S. high-altitude nuclear test series in 1958, and artificial radiation-belt effects were measured.\n\nNot established: It is not evidence of supernatural phenomena or a completed secret space weapon."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Operation Argus는 1958년 미국이 실시한 세 차례 고고도 핵실험이며, 핵폭발 입자가 지구 자기장에 포획돼 인공 방사선대를 만드는 효과가 계측됐다.",
+        "notEstablished": "확인되지 않음: 이 프로그램을 초자연적 현상이나 비공개 우주무기 완성의 증거로 볼 근거는 없다. 문서화된 목적과 결과를 넘어서는 주장은 별도 증거가 필요하다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "Three Nuclear Explosions Over the South Atlantic Created Artificial Radiation Belts",
+      "hook": "Argus was a documented high-altitude nuclear test series designed to test trapped-particle physics.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "짧은 준비기간에 세 차례 고고도 핵실험이 진행됐다",
+          "headingEn": "Three High-Altitude Nuclear Tests Were Organized Rapidly",
+          "textKo": "Operation Argus는 1958년 미국이 남대서양 상공에서 실시한 세 차례 고고도 핵폭발 실험이다. DTRA 역사자료는 준비와 실행이 매우 짧은 일정 속에서 진행됐고 함정·로켓·위성 관측이 함께 동원됐음을 기록한다. 일반적인 지상 핵실험처럼 폭발의 직접 파괴효과를 보는 것이 아니라, 우주에 가까운 고도에서 나온 고에너지 전자가 지구 자기장과 어떻게 상호작용하는지를 시험하려는 목적이 컸다. 냉전기 군사·우주과학이 겹친 대표 사례다.",
+          "textEn": "Operation Argus was a three-shot U.S. high-altitude nuclear test series over the South Atlantic in 1958. DTRA records an unusually rapid preparation schedule and a measurement campaign involving ships, rockets, and satellites."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "핵심 가설은 인공 방사선대를 만들 수 있다는 것이었다",
+          "headingEn": "The Central Hypothesis Was Artificial Radiation-Belt Formation",
+          "textKo": "물리학자 Nicholas Christofilos는 핵폭발에서 나온 전자가 지구 자기장에 포획되면 자연 Van Allen belt와 비슷한 인공 방사선층을 만들 수 있다고 제안했다. 자연 방사선대 자체도 막 발견되던 시기였다. Argus는 이 가설을 실제 핵폭발로 시험했다. 연구 관심은 입자 포획 물리뿐 아니라 통신·레이더·우주환경에 미칠 수 있는 군사적 영향에도 있었다. 따라서 순수 과학실험과 군사적 가능성을 완전히 분리하기 어려운 프로젝트였다.",
+          "textEn": "Nicholas Christofilos proposed that energetic electrons from nuclear explosions could become trapped in Earth’s magnetic field, creating artificial radiation belts. Argus tested the idea directly, with both scientific and military interest."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "위성·로켓은 폭발 뒤 고에너지 입자 증가를 측정했다",
+          "headingEn": "Satellites and Rockets Measured Enhanced Energetic Particles",
+          "textKo": "1958년 8월 말부터 9월 초까지 폭발이 이루어진 뒤 Explorer 계열 위성과 로켓·지상관측이 비정상적으로 증가한 고에너지 입자와 시간에 따른 감쇠를 기록했다. 결과는 핵폭발 입자가 자기장에 갇혀 인공 방사선대를 만들 수 있다는 핵심 가설을 지지했다. Argus의 중요한 부분은 ‘비밀 실험이 있었다’는 사실만이 아니라, 의도한 물리효과가 실제 계측으로 확인됐다는 점이다. 프로그램의 실재와 효과는 오늘날 공식 역사자료에 포함돼 있다.",
+          "textEn": "After the detonations, satellite, rocket, and ground measurements recorded enhanced energetic-particle populations and their decay, supporting the trapped-particle hypothesis."
+        },
+        {
+          "blockId": "04",
+          "type": "BACKGROUND",
+          "headingKo": "성공은 동시에 우주 핵실험의 위험성을 보여줬다",
+          "headingEn": "The Success Also Demonstrated Space-Nuclear Risks",
+          "textKo": "인공 방사선대 형성은 과학적으로 흥미로웠지만 우주환경을 인위적으로 변화시키는 핵실험이 위성전자와 통신에 위험을 줄 수 있다는 사실도 보여줬다. 이후 Starfish Prime 같은 더 큰 고고도 핵실험에서는 위성 손상과 광범위한 전자기효과가 더 분명해졌다. Argus는 냉전기 우주가 단순한 관측공간이 아니라 군사적 실험장으로도 취급됐음을 보여주는 초기 사례다. 기술적으로 가능한 효과가 반드시 바람직한 효과를 의미하지는 않았다.",
+          "textEn": "Artificial radiation belts were scientifically interesting but also demonstrated that nuclear explosions could alter the near-Earth environment and threaten space systems."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "기밀 프로그램은 공식 핵실험 역사로 바뀌었다",
+          "headingEn": "A Secret Program Became Part of the Official Historical Record",
+          "textKo": "Argus는 당시 높은 비밀등급 아래 진행됐지만 오늘날 DTRA와 관련 기록에 실험 시점, 목적, 관측결과가 정리돼 있다. 따라서 ‘Argus가 실제였나’는 더 이상 미스터리가 아니다. 남는 질문은 이런 실험이 초기 우주환경 연구, 군사전략, 이후 핵실험 규제와 위성안전 인식에 어떤 영향을 남겼는지다. 비밀해제된 프로그램을 막연한 음모서사로 되돌리기보다 현재 확인 가능한 기록과 당시 공개되지 않았던 범위를 구분하는 편이 정확하다.",
+          "textEn": "Argus was highly classified when conducted, but its dates, purpose, and effects are now documented. The historical question is its influence on space science, military planning, and later nuclear-test policy."
+        },
+        {
+          "blockId": "06",
+          "type": "CONTEXT",
+          "headingKo": "Argus는 자연 Van Allen belt 발견 직후의 과학적 충격과 맞물렸다",
+          "headingEn": "Argus Coincided With the Discovery of the Natural Radiation Belts",
+          "textKo": "1958년은 Explorer 1이 지구 주변의 자연 방사선대를 확인한 바로 그 해였다. 따라서 Argus는 완성된 우주환경 지식을 적용한 시험이 아니라, 지구 자기권 자체를 막 이해하기 시작한 시기의 실험이었다. 자연적으로 존재하는 입자대와 핵폭발로 만든 일시적 입자대를 비교하면서 초기 우주물리학과 군사시험이 동시에 데이터를 생산했다. 오늘날의 관점에서는 위험한 실험으로 보이지만, 당시에는 우주환경의 기본구조와 핵효과를 동시에 탐색하던 매우 초기 단계였다는 시대적 맥락이 있다.",
+          "textEn": "Argus occurred in the same year that Explorer 1 helped reveal the natural Van Allen belts, linking early magnetospheric science with Cold War weapons testing."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Operation Argus는 1958년 미국이 실시한 세 차례 고고도 핵실험이며, 핵폭발 입자가 지구 자기장에 포획돼 인공 방사선대를 만드는 효과가 계측됐다.\n\n확인되지 않음: 이 프로그램을 초자연적 현상이나 비공개 우주무기 완성의 증거로 볼 근거는 없다. 문서화된 목적과 결과를 넘어서는 주장은 별도 증거가 필요하다.",
+          "textEn": "Established: Operation Argus was a three-shot U.S. high-altitude nuclear test series in 1958, and artificial radiation-belt effects were measured.\n\nNot established: It is not evidence of supernatural phenomena or a completed secret space weapon."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Operation Argus was a three-shot U.S. high-altitude nuclear test series in 1958, and artificial radiation-belt effects were measured.",
+        "notEstablished": "Not established: It is not evidence of supernatural phenomena or a completed secret space weapon."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ARG-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Operation Argus는 1958년 세 차례 고고도 핵실험이었다.",
+      "statementEn": "Operation Argus consisted of three high-altitude nuclear tests in 1958.",
+      "sourceRefs": [
+        "DTRA"
+      ]
+    },
+    {
+      "claimId": "ARG-C2",
+      "status": "CONFIRMED",
+      "statementKo": "인공 방사선대 효과가 계측됐다.",
+      "statementEn": "Artificial radiation-belt effects were instrumentally measured.",
+      "sourceRefs": [
+        "DTRA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "DTRA",
+      "title": "Operation ARGUS Fact Sheet",
+      "publisher": "Defense Threat Reduction Agency",
+      "url": "https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/16-ARGUS%20-%202021.pdf",
+      "sourceType": "US_GOVERNMENT_FACT_SHEET"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "operation-argus-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "DTRA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-argus__operation-argus-v01__ko.png",
+          "sha256": "5fcfb6bf4c79405accbcefbba18ca6837d62e95da2146b65fabf905c2a93992e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-argus__operation-argus-v01__en.png",
+          "sha256": "f190483da266574e60c9a77887d1512ecc7be001dd2aa60cb5b3eee4348943fd",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "operation-argus-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "DTRA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-argus__operation-argus-v02__ko.png",
+          "sha256": "b2c661e78a6b1831d0ddaabaaccef83e315779450be9c18786dfd8f6313de98b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-argus__operation-argus-v02__en.png",
+          "sha256": "831a2d100043da301ec5a3f35340413e1c4dc7ec77ee61c99b0f4201e9168dc1",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "operation-argus-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "DTRA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "operation-argus__operation-argus-v03__ko.png",
+          "sha256": "b8f3c1634ca661f184700fb11221ee0a9abd3c18f63a59e747f190cdd9377776",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "operation-argus__operation-argus-v03__en.png",
+          "sha256": "7cff9eac0bd1fee3e103525753d78d1d39274e13e8e9c9d98ffd65bdf992aa6c",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Nuclear Test",
+      "Space Environment"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "South Atlantic"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Nicholas Christofilos",
+        "role": "physicist"
+      }
+    ],
+    "organizations": [
+      "Defense Threat Reduction Agency"
+    ],
+    "dateRange": {
+      "start": "1958-08-27",
+      "end": "1958-09-06",
+      "precision": "test series"
+    },
+    "era": "Cold War",
+    "resolution": "DECLASSIFIED_TEST_EFFECT_DOCUMENTED",
+    "searchAliases": [
+      "Project Argus",
+      "Argus nuclear tests"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1678,
+    "enBodyWords": 192,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

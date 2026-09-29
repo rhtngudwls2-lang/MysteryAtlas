@@ -1,0 +1,367 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "echelon",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "ECHELON",
+    "canonicalTitleEn": "ECHELON Interception System",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "INTELLIGENCE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘전 세계 통신을 모두 듣는 시스템’이라는 전설에서 문서가 확인한 범위는 어디까지인가",
+      "hook": "유럽의회는 UKUSA 국가들의 글로벌 감청 협력을 강하게 뒷받침했다. 그러나 모든 통신을 완벽히 실시간 해독한다는 이미지는 별개다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "ECHELON은 오랫동안 실재 여부 자체가 논쟁거리였다",
+          "headingEn": "For Years, the Debate Began With Whether ECHELON Existed",
+          "textKo": "ECHELON은 미국·영국·캐나다·호주·뉴질랜드가 국제통신을 함께 감청하는 체계를 가리키는 이름으로 널리 알려졌다. 냉전기 정보수집 특성상 운영구조와 능력의 상당 부분이 공개되지 않았기 때문에 언론과 대중문화에서는 전화·팩스·이메일 거의 전부를 자동으로 훑는 전지적 시스템처럼 묘사되기도 했다. 실재하는 정보협력과 기술적 과장을 구분하기 위해 유럽의회는 임시위원회를 구성해 자료와 증언을 조사했다.",
+          "textEn": "ECHELON became a name for cooperative interception of international communications by the United States, United Kingdom, Canada, Australia, and New Zealand. Secrecy encouraged exaggerated images of an omniscient system."
+        },
+        {
+          "blockId": "02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2001년 유럽의회 보고서는 글로벌 감청협력의 존재를 강하게 지지했다",
+          "headingEn": "The 2001 European Parliament Report Strongly Supported Interception Cooperation",
+          "textKo": "유럽의회 최종보고서는 UKUSA 국가들이 통신감청에서 협력해온 체계의 존재를 더 이상 단순한 추측으로 보기 어렵다고 결론냈다. 위성통신과 국제 통신망 일부를 대상으로 한 수집능력, 국가 간 역할분담, 정보공유가 핵심이었다. 이 보고서는 ECHELON을 인터넷 전설에서 문서·증언에 기반한 정책문제로 이동시켰다. 다만 보고서가 확인한 것은 협력적 감청체계이지 무한한 기술능력이 아니었다.",
+          "textEn": "The European Parliament concluded that a cooperative interception framework among UKUSA countries could no longer be dismissed as speculation. It examined satellite and international communications interception and intelligence sharing."
+        },
+        {
+          "blockId": "03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘모든 통신을 언제나 읽는다’는 이미지는 보고서보다 훨씬 크다",
+          "headingEn": "The “Everything, Everywhere” Image Exceeds the Report",
+          "textKo": "통신망의 규모, 암호화, 전송방식, 물리적 접속점, 처리능력 때문에 모든 통신을 완벽하게 실시간 수집·해독한다는 것은 훨씬 강한 주장이다. 유럽의회 보고서도 대중적으로 퍼진 일부 설명이 실제 능력을 과장한다고 지적했다. 대규모 감청이 가능하다는 사실과 전 세계 모든 메시지를 전지적으로 읽는다는 주장은 같은 문장이 아니다. 증거 수준을 분리하지 않으면 실제 감시와 통제 문제를 오히려 이해하기 어려워진다.",
+          "textEn": "The existence of large-scale interception is not equivalent to perfect real-time access to every communication worldwide. The Parliament report itself cautioned against exaggerated descriptions of capability."
+        },
+        {
+          "blockId": "04",
+          "type": "BACKGROUND",
+          "headingKo": "핵심 쟁점은 기술보다 민주적·법적 통제였다",
+          "headingEn": "The Central Issue Was Governance and Oversight",
+          "textKo": "유럽의회 논의에서 중요한 문제는 감청기술의 존재만이 아니었다. 유럽 시민과 기업의 통신이 외국 정보기관에 의해 수집될 가능성, 국가안보 목적과 상업정보의 경계, 암호화와 개인정보 보호정책이 함께 다뤄졌다. ECHELON은 단순한 ‘비밀 기계’가 아니라 국제 정보협력과 민주적 통제의 범위를 묻는 사건이다. 법적·규범적 평가와 역사적으로 확인된 기술·조직 사실은 서로 구분해서 서술할 필요가 있다.",
+          "textEn": "The Parliament debate also concerned privacy, commercial communications, encryption, and oversight. ECHELON is better understood as a governance issue than as one mysterious machine."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "2001년의 ECHELON을 오늘날 감시체계와 동일시할 수는 없다",
+          "headingEn": "The 2001 Architecture Cannot Simply Be Mapped Onto Today",
+          "textKo": "2001년 이후 통신은 위성·전화 중심에서 인터넷·광섬유·클라우드로 급격히 이동했다. 당시 보고서의 기술구조를 오늘날 정보수집체계에 그대로 대입하는 것은 부정확하다. 그럼에도 여러 국가가 신호정보에서 협력하고 기술적 능력과 법적 통제가 긴장한다는 문제는 이후 논쟁에서도 반복됐다. ECHELON 사건의 가치는 ‘모든 것을 듣는 기계’보다 대규모 신호정보 체계를 어떻게 검증하고 통제할 것인가라는 질문을 남긴 데 있다.",
+          "textEn": "Communications architecture changed dramatically after 2001, so the report cannot simply be treated as a description of modern systems. Its enduring issue is how multinational signals-intelligence systems are verified and governed."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE",
+          "headingKo": "‘ECHELON’이라는 이름과 더 넓은 UKUSA 협력은 같은 범위로 취급하기 어렵다",
+          "headingEn": "The Name ECHELON and the Wider UKUSA Relationship Are Not Perfect Synonyms",
+          "textKo": "신호정보 협력은 특정 프로그램명 하나보다 오래되고 넓은 제도적 관계를 포함한다. 유럽의회 조사가 다룬 자료에서도 ECHELON이라는 명칭, 위성통신 수집시설, UKUSA 협력구조가 서로 겹치지만 완전히 동일한 대상은 아니다. 그래서 오늘날 ‘Five Eyes의 모든 정보활동이 ECHELON이다’라고 부르는 것도 과도한 단순화다. 역사적 명칭과 현재 조직관계를 분리하면 무엇이 2001년 보고서로 확인됐고 무엇이 이후 별도 자료가 필요한지 더 명확해진다.",
+          "textEn": "ECHELON as a historical label should not be treated as a synonym for every UKUSA or Five Eyes intelligence activity across all periods."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 유럽의회 조사는 미국·영국·캐나다·호주·뉴질랜드를 중심으로 한 국제 통신감청 협력체계의 존재를 강하게 뒷받침했다.\n\n확인되지 않음: 모든 세계 통신을 언제나 완벽하게 실시간 수집·해독한다는 대중적 이미지는 보고서가 지지하지 않았다. 2001년의 기술구조를 현재 시스템과 동일하다고 간주할 수도 없다.",
+          "textEn": "Established: The European Parliament investigation strongly supported an international interception-cooperation framework among UKUSA countries.\n\nNot established: It did not support the image of perfect real-time capture and decoding of every communication worldwide."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 유럽의회 조사는 미국·영국·캐나다·호주·뉴질랜드를 중심으로 한 국제 통신감청 협력체계의 존재를 강하게 뒷받침했다.",
+        "notEstablished": "확인되지 않음: 모든 세계 통신을 언제나 완벽하게 실시간 수집·해독한다는 대중적 이미지는 보고서가 지지하지 않았다. 2001년의 기술구조를 현재 시스템과 동일하다고 간주할 수도 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "What the Record Supports Beyond the “Listening to Everything” Myth",
+      "hook": "The European Parliament strongly supported global interception cooperation, but not omniscient real-time access to every communication.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "ECHELON은 오랫동안 실재 여부 자체가 논쟁거리였다",
+          "headingEn": "For Years, the Debate Began With Whether ECHELON Existed",
+          "textKo": "ECHELON은 미국·영국·캐나다·호주·뉴질랜드가 국제통신을 함께 감청하는 체계를 가리키는 이름으로 널리 알려졌다. 냉전기 정보수집 특성상 운영구조와 능력의 상당 부분이 공개되지 않았기 때문에 언론과 대중문화에서는 전화·팩스·이메일 거의 전부를 자동으로 훑는 전지적 시스템처럼 묘사되기도 했다. 실재하는 정보협력과 기술적 과장을 구분하기 위해 유럽의회는 임시위원회를 구성해 자료와 증언을 조사했다.",
+          "textEn": "ECHELON became a name for cooperative interception of international communications by the United States, United Kingdom, Canada, Australia, and New Zealand. Secrecy encouraged exaggerated images of an omniscient system."
+        },
+        {
+          "blockId": "02",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "2001년 유럽의회 보고서는 글로벌 감청협력의 존재를 강하게 지지했다",
+          "headingEn": "The 2001 European Parliament Report Strongly Supported Interception Cooperation",
+          "textKo": "유럽의회 최종보고서는 UKUSA 국가들이 통신감청에서 협력해온 체계의 존재를 더 이상 단순한 추측으로 보기 어렵다고 결론냈다. 위성통신과 국제 통신망 일부를 대상으로 한 수집능력, 국가 간 역할분담, 정보공유가 핵심이었다. 이 보고서는 ECHELON을 인터넷 전설에서 문서·증언에 기반한 정책문제로 이동시켰다. 다만 보고서가 확인한 것은 협력적 감청체계이지 무한한 기술능력이 아니었다.",
+          "textEn": "The European Parliament concluded that a cooperative interception framework among UKUSA countries could no longer be dismissed as speculation. It examined satellite and international communications interception and intelligence sharing."
+        },
+        {
+          "blockId": "03",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘모든 통신을 언제나 읽는다’는 이미지는 보고서보다 훨씬 크다",
+          "headingEn": "The “Everything, Everywhere” Image Exceeds the Report",
+          "textKo": "통신망의 규모, 암호화, 전송방식, 물리적 접속점, 처리능력 때문에 모든 통신을 완벽하게 실시간 수집·해독한다는 것은 훨씬 강한 주장이다. 유럽의회 보고서도 대중적으로 퍼진 일부 설명이 실제 능력을 과장한다고 지적했다. 대규모 감청이 가능하다는 사실과 전 세계 모든 메시지를 전지적으로 읽는다는 주장은 같은 문장이 아니다. 증거 수준을 분리하지 않으면 실제 감시와 통제 문제를 오히려 이해하기 어려워진다.",
+          "textEn": "The existence of large-scale interception is not equivalent to perfect real-time access to every communication worldwide. The Parliament report itself cautioned against exaggerated descriptions of capability."
+        },
+        {
+          "blockId": "04",
+          "type": "BACKGROUND",
+          "headingKo": "핵심 쟁점은 기술보다 민주적·법적 통제였다",
+          "headingEn": "The Central Issue Was Governance and Oversight",
+          "textKo": "유럽의회 논의에서 중요한 문제는 감청기술의 존재만이 아니었다. 유럽 시민과 기업의 통신이 외국 정보기관에 의해 수집될 가능성, 국가안보 목적과 상업정보의 경계, 암호화와 개인정보 보호정책이 함께 다뤄졌다. ECHELON은 단순한 ‘비밀 기계’가 아니라 국제 정보협력과 민주적 통제의 범위를 묻는 사건이다. 법적·규범적 평가와 역사적으로 확인된 기술·조직 사실은 서로 구분해서 서술할 필요가 있다.",
+          "textEn": "The Parliament debate also concerned privacy, commercial communications, encryption, and oversight. ECHELON is better understood as a governance issue than as one mysterious machine."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "2001년의 ECHELON을 오늘날 감시체계와 동일시할 수는 없다",
+          "headingEn": "The 2001 Architecture Cannot Simply Be Mapped Onto Today",
+          "textKo": "2001년 이후 통신은 위성·전화 중심에서 인터넷·광섬유·클라우드로 급격히 이동했다. 당시 보고서의 기술구조를 오늘날 정보수집체계에 그대로 대입하는 것은 부정확하다. 그럼에도 여러 국가가 신호정보에서 협력하고 기술적 능력과 법적 통제가 긴장한다는 문제는 이후 논쟁에서도 반복됐다. ECHELON 사건의 가치는 ‘모든 것을 듣는 기계’보다 대규모 신호정보 체계를 어떻게 검증하고 통제할 것인가라는 질문을 남긴 데 있다.",
+          "textEn": "Communications architecture changed dramatically after 2001, so the report cannot simply be treated as a description of modern systems. Its enduring issue is how multinational signals-intelligence systems are verified and governed."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE",
+          "headingKo": "‘ECHELON’이라는 이름과 더 넓은 UKUSA 협력은 같은 범위로 취급하기 어렵다",
+          "headingEn": "The Name ECHELON and the Wider UKUSA Relationship Are Not Perfect Synonyms",
+          "textKo": "신호정보 협력은 특정 프로그램명 하나보다 오래되고 넓은 제도적 관계를 포함한다. 유럽의회 조사가 다룬 자료에서도 ECHELON이라는 명칭, 위성통신 수집시설, UKUSA 협력구조가 서로 겹치지만 완전히 동일한 대상은 아니다. 그래서 오늘날 ‘Five Eyes의 모든 정보활동이 ECHELON이다’라고 부르는 것도 과도한 단순화다. 역사적 명칭과 현재 조직관계를 분리하면 무엇이 2001년 보고서로 확인됐고 무엇이 이후 별도 자료가 필요한지 더 명확해진다.",
+          "textEn": "ECHELON as a historical label should not be treated as a synonym for every UKUSA or Five Eyes intelligence activity across all periods."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: 유럽의회 조사는 미국·영국·캐나다·호주·뉴질랜드를 중심으로 한 국제 통신감청 협력체계의 존재를 강하게 뒷받침했다.\n\n확인되지 않음: 모든 세계 통신을 언제나 완벽하게 실시간 수집·해독한다는 대중적 이미지는 보고서가 지지하지 않았다. 2001년의 기술구조를 현재 시스템과 동일하다고 간주할 수도 없다.",
+          "textEn": "Established: The European Parliament investigation strongly supported an international interception-cooperation framework among UKUSA countries.\n\nNot established: It did not support the image of perfect real-time capture and decoding of every communication worldwide."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: The European Parliament investigation strongly supported an international interception-cooperation framework among UKUSA countries.",
+        "notEstablished": "Not established: It did not support the image of perfect real-time capture and decoding of every communication worldwide."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ECH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "유럽의회 조사는 UKUSA 국가들의 감청협력 존재를 강하게 뒷받침했다.",
+      "statementEn": "The European Parliament strongly supported the existence of UKUSA interception cooperation.",
+      "sourceRefs": [
+        "EP_ECHELON_REPORT",
+        "EP_PROCEDURE"
+      ]
+    },
+    {
+      "claimId": "ECH-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 통신을 완벽히 실시간 수집·해독한다는 주장은 지지되지 않았다.",
+      "statementEn": "Perfect real-time collection and decoding of every communication was not supported.",
+      "sourceRefs": [
+        "EP_ECHELON_REPORT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "EP_ECHELON_REPORT",
+      "title": "Report on the ECHELON interception system",
+      "publisher": "European Parliament",
+      "url": "https://www.europarl.europa.eu/doceo/document/A-5-2001-0264_EN.html",
+      "sourceType": "EUROPEAN_PARLIAMENT_REPORT"
+    },
+    {
+      "sourceId": "EP_PROCEDURE",
+      "title": "ECHELON procedure file",
+      "publisher": "European Parliament",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2001%2F2098%28INI%29",
+      "sourceType": "EUROPEAN_PARLIAMENT_PROCEDURE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "echelon-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "EP_ECHELON_REPORT",
+        "EP_PROCEDURE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "echelon__echelon-v01__ko.png",
+          "sha256": "c625cde78c19b03369fbcd87beaa7711b03f3766258769b956018ff362215e23",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "echelon__echelon-v01__en.png",
+          "sha256": "a6bff1ad77f0fd4089825215eddec5c24de1d5e4190301c8d1f103b4c4fa7049",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "echelon-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "EP_ECHELON_REPORT",
+        "EP_PROCEDURE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "echelon__echelon-v02__ko.png",
+          "sha256": "62ae19c66cbe603190bb74a5295499689ab2275e6c0e259e68bdb35796e2a679",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "echelon__echelon-v02__en.png",
+          "sha256": "40e216ac6eafe6682746d23bb5c5c2a233d5efb7f546204da212dfb5bf3edbf6",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "echelon-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "EP_ECHELON_REPORT",
+        "EP_PROCEDURE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "echelon__echelon-v03__ko.png",
+          "sha256": "630a5d426236f9ff64e29439e68eaa7122406bbc02ded8c6791201ae8bd9c909",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "echelon__echelon-v03__en.png",
+          "sha256": "e40f87b18e45fed1344dc3a36686f54bad93a9a0298f9233b70265a273c58746",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Signals Intelligence",
+      "Surveillance"
+    ],
+    "countries": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Australia",
+      "New Zealand"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "European Parliament"
+    ],
+    "dateRange": {
+      "start": "1999",
+      "end": "2001",
+      "precision": "inquiry period"
+    },
+    "era": "late 20th / early 21st century",
+    "resolution": "COOPERATION_SUPPORTED_CAPABILITY_MYTH_EXAGGERATED",
+    "searchAliases": [
+      "ECHELON",
+      "UKUSA interception"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1543,
+    "enBodyWords": 194,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

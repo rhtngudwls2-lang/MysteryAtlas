@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-orion",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Project Orion",
+    "canonicalTitleEn": "Project Orion",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "VERIFIED_TECH_HISTORY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "핵폭발을 우주선 엔진으로 쓰자는 계획은 실제 공학연구였다",
+      "hook": "Orion은 설계와 비핵 모형시험까지 갔다. 그러나 핵 펄스 추진 우주선이 실제로 발사된 적은 없다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "우주선 뒤에서 핵폭발을 반복한다는 발상이 실제 연구가 됐다",
+          "headingEn": "Repeated Nuclear Explosions Became a Real Propulsion Study",
+          "textKo": "Project Orion은 1950~60년대 미국에서 연구된 핵 펄스 추진 개념이다. 우주선 뒤쪽에서 작은 핵폭발을 반복하고 거대한 pusher plate가 운동량을 받아 완충장치를 통해 선체에 전달하는 방식이었다. 화학로켓보다 훨씬 큰 추력과 높은 비추력을 동시에 얻을 가능성이 있어 초대형 우주선과 행성간 임무가 검토됐다. 급진적인 발상이었지만 단순 소설이 아니라 실제 계산·설계·실험이 수행된 공학 연구였다.",
+          "textEn": "Project Orion studied repeated nuclear explosions behind a spacecraft, transferring momentum through a massive pusher plate and shock absorbers. The concept promised unusually high thrust and specific impulse and was treated as genuine engineering research."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "폭발의 충격을 제어된 추력으로 바꾸는 것이 핵심이었다",
+          "headingEn": "The Core Problem Was Turning Blast Impulse Into Controlled Thrust",
+          "textKo": "핵폭발은 짧고 강한 에너지를 낸다. Orion 설계는 폭발과 우주선 사이의 추진재·플라즈마가 충격판에 운동량을 전달하고, 거대한 완충 시스템이 연속 충격을 선체와 승무원이 견딜 수 있는 가속으로 바꾸도록 했다. 이는 원자로가 공기를 가열하는 Project Pluto나 원자로 열로 추진제를 가열하는 핵열로켓과 다르다. Orion의 독특함은 실제 핵폭발 펄스를 반복 사용한다는 데 있었다.",
+          "textEn": "Orion proposed converting explosive impulses into controlled acceleration through a pusher plate and large shock absorbers. It differed from reactor-heated concepts because the propulsion pulse itself would come from nuclear explosions."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "비핵 축소모형은 시험됐지만 핵 추진 비행은 없었다",
+          "headingEn": "Scale Models Were Tested, but No Nuclear-Pulse Flight Occurred",
+          "textKo": "연구팀은 화학폭약을 이용한 축소모형으로 펄스 추진과 기체 안정성의 일부를 시험했다. 이런 실험은 원리의 일부를 보여줬지만 실제 핵폭발 환경, 장기간 구조수명, 승무원 안전을 완전하게 재현하지는 못했다. NASA 기술문헌은 Orion을 역사적 핵추진 연구로 다루지만 운영 우주선이 제작됐다는 기록은 없다. ‘실제 프로젝트’와 ‘실제 핵폭발 추진 우주선’은 반드시 구분해야 한다.",
+          "textEn": "Chemical-explosive scale models tested aspects of pulsed propulsion and stability, but they did not reproduce an operational nuclear environment. NASA technical history documents Orion as real research, not as a flown nuclear spacecraft."
+        },
+        {
+          "blockId": "04",
+          "type": "TURNING_POINT",
+          "headingKo": "낙진·정치·조약이 기술문제만큼 큰 장벽이었다",
+          "headingEn": "Fallout, Politics, and Treaties Became Major Barriers",
+          "textKo": "지상이나 대기권에서 Orion을 발사하면 반복 핵폭발이 낙진과 환경문제를 만들 수 있었다. 핵실험 우려가 커지고 1963년 부분핵실험금지조약이 대기권·우주·수중 핵폭발을 금지하면서 프로그램의 정치적 공간은 크게 좁아졌다. 우주에서만 펄스를 쓰는 변형도 생각할 수 있었지만 비용·안전·핵물질 관리까지 포함하면 실용화 문턱이 매우 높았다. 기술적으로 가능한 개념과 사회적으로 실행 가능한 기술은 다르다.",
+          "textEn": "Fallout concerns and the 1963 Partial Test Ban Treaty sharply narrowed the practical and political space for Orion. Technical possibility was not the same as an acceptable operational system."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "사라진 계획은 심우주 추진 논쟁의 기준점으로 남았다",
+          "headingEn": "The Abandoned Program Remains a Benchmark for High-Energy Propulsion",
+          "textKo": "Orion은 운영체계가 되지 않았지만 이후 핵추진과 고속 심우주 탐사 논의에서 반복적으로 언급됐다. 화학로켓이 제공하기 어려운 큰 탑재량과 속도를 동시에 꿈꿀 수 있었던 반면 안전·조약·핵물질 관리라는 대가가 컸기 때문이다. 오늘날 Orion의 의미는 ‘비밀리에 완성된 기술’이라는 이야기가 아니라, 공학적 잠재력과 현실적 제약이 얼마나 크게 충돌할 수 있는지를 보여준 데 있다. 또한 Orion의 대형 설계는 작은 탐사선보다 수천 톤급 탑재량과 승무원 거주공간을 상정하기도 했다. 이 때문에 추진기관만이 아니라 핵폭발장치의 생산·보관·발사안전과 국제정치가 시스템 전체의 일부가 됐다.",
+          "textEn": "Orion remains a benchmark for high-energy propulsion because its theoretical performance was extraordinary, as were its safety, treaty, and nuclear-material constraints. Some studies considered extremely large spacecraft, making production, storage, launch safety, and international politics part of the propulsion system problem itself."
+        },
+        {
+          "blockId": "06",
+          "type": "ENGINEERING",
+          "headingKo": "충격판이 한 번 버티는 것과 수백·수천 번 버티는 것은 다른 문제였다",
+          "headingEn": "Surviving One Pulse Was Not the Same as Surviving a Mission",
+          "textKo": "Orion의 공학난점은 폭발 한 번의 충격을 견디는 데서 끝나지 않았다. 반복 펄스가 충격판 표면을 침식하는지, 완충장치가 수많은 사이클에서 신뢰성을 유지하는지, 폭발장치를 일정한 간격과 위치로 투입할 수 있는지도 해결해야 했다. 개념연구는 이런 문제를 계산과 재료실험으로 다뤘지만 실제 핵 펄스 비행환경에서 장기간 검증되지는 않았다. 높은 이론성능과 낮은 실제 운용경험 사이의 간극이 Orion의 핵심 경계다.",
+          "textEn": "Orion also faced fatigue, plate erosion, shock-absorber life, and precise pulse-unit deployment. High theoretical performance was never matched by long-duration nuclear flight experience."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Orion은 실제 미국 핵 펄스 추진 연구였고 pusher plate·완충 구조·비핵 축소모형이 연구됐다.\n\n확인되지 않음: 핵폭발 추진 방식의 실전 우주선이 제작·발사됐다는 증거는 없다. 프로그램은 운영체계가 되지 않았다.",
+          "textEn": "Established: Project Orion was real U.S. nuclear-pulse propulsion research involving pusher plates, shock absorbers, and non-nuclear scale models.\n\nNot established: No operational nuclear-pulse spacecraft was built or launched."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project Orion은 실제 미국 핵 펄스 추진 연구였고 pusher plate·완충 구조·비핵 축소모형이 연구됐다.",
+        "notEstablished": "확인되지 않음: 핵폭발 추진 방식의 실전 우주선이 제작·발사됐다는 증거는 없다. 프로그램은 운영체계가 되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "Nuclear Explosions as a Spacecraft Engine Were a Real Engineering Program",
+      "hook": "Orion reached serious design work and non-nuclear model tests, but no nuclear-pulse spacecraft ever flew.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "우주선 뒤에서 핵폭발을 반복한다는 발상이 실제 연구가 됐다",
+          "headingEn": "Repeated Nuclear Explosions Became a Real Propulsion Study",
+          "textKo": "Project Orion은 1950~60년대 미국에서 연구된 핵 펄스 추진 개념이다. 우주선 뒤쪽에서 작은 핵폭발을 반복하고 거대한 pusher plate가 운동량을 받아 완충장치를 통해 선체에 전달하는 방식이었다. 화학로켓보다 훨씬 큰 추력과 높은 비추력을 동시에 얻을 가능성이 있어 초대형 우주선과 행성간 임무가 검토됐다. 급진적인 발상이었지만 단순 소설이 아니라 실제 계산·설계·실험이 수행된 공학 연구였다.",
+          "textEn": "Project Orion studied repeated nuclear explosions behind a spacecraft, transferring momentum through a massive pusher plate and shock absorbers. The concept promised unusually high thrust and specific impulse and was treated as genuine engineering research."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "폭발의 충격을 제어된 추력으로 바꾸는 것이 핵심이었다",
+          "headingEn": "The Core Problem Was Turning Blast Impulse Into Controlled Thrust",
+          "textKo": "핵폭발은 짧고 강한 에너지를 낸다. Orion 설계는 폭발과 우주선 사이의 추진재·플라즈마가 충격판에 운동량을 전달하고, 거대한 완충 시스템이 연속 충격을 선체와 승무원이 견딜 수 있는 가속으로 바꾸도록 했다. 이는 원자로가 공기를 가열하는 Project Pluto나 원자로 열로 추진제를 가열하는 핵열로켓과 다르다. Orion의 독특함은 실제 핵폭발 펄스를 반복 사용한다는 데 있었다.",
+          "textEn": "Orion proposed converting explosive impulses into controlled acceleration through a pusher plate and large shock absorbers. It differed from reactor-heated concepts because the propulsion pulse itself would come from nuclear explosions."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "비핵 축소모형은 시험됐지만 핵 추진 비행은 없었다",
+          "headingEn": "Scale Models Were Tested, but No Nuclear-Pulse Flight Occurred",
+          "textKo": "연구팀은 화학폭약을 이용한 축소모형으로 펄스 추진과 기체 안정성의 일부를 시험했다. 이런 실험은 원리의 일부를 보여줬지만 실제 핵폭발 환경, 장기간 구조수명, 승무원 안전을 완전하게 재현하지는 못했다. NASA 기술문헌은 Orion을 역사적 핵추진 연구로 다루지만 운영 우주선이 제작됐다는 기록은 없다. ‘실제 프로젝트’와 ‘실제 핵폭발 추진 우주선’은 반드시 구분해야 한다.",
+          "textEn": "Chemical-explosive scale models tested aspects of pulsed propulsion and stability, but they did not reproduce an operational nuclear environment. NASA technical history documents Orion as real research, not as a flown nuclear spacecraft."
+        },
+        {
+          "blockId": "04",
+          "type": "TURNING_POINT",
+          "headingKo": "낙진·정치·조약이 기술문제만큼 큰 장벽이었다",
+          "headingEn": "Fallout, Politics, and Treaties Became Major Barriers",
+          "textKo": "지상이나 대기권에서 Orion을 발사하면 반복 핵폭발이 낙진과 환경문제를 만들 수 있었다. 핵실험 우려가 커지고 1963년 부분핵실험금지조약이 대기권·우주·수중 핵폭발을 금지하면서 프로그램의 정치적 공간은 크게 좁아졌다. 우주에서만 펄스를 쓰는 변형도 생각할 수 있었지만 비용·안전·핵물질 관리까지 포함하면 실용화 문턱이 매우 높았다. 기술적으로 가능한 개념과 사회적으로 실행 가능한 기술은 다르다.",
+          "textEn": "Fallout concerns and the 1963 Partial Test Ban Treaty sharply narrowed the practical and political space for Orion. Technical possibility was not the same as an acceptable operational system."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "사라진 계획은 심우주 추진 논쟁의 기준점으로 남았다",
+          "headingEn": "The Abandoned Program Remains a Benchmark for High-Energy Propulsion",
+          "textKo": "Orion은 운영체계가 되지 않았지만 이후 핵추진과 고속 심우주 탐사 논의에서 반복적으로 언급됐다. 화학로켓이 제공하기 어려운 큰 탑재량과 속도를 동시에 꿈꿀 수 있었던 반면 안전·조약·핵물질 관리라는 대가가 컸기 때문이다. 오늘날 Orion의 의미는 ‘비밀리에 완성된 기술’이라는 이야기가 아니라, 공학적 잠재력과 현실적 제약이 얼마나 크게 충돌할 수 있는지를 보여준 데 있다. 또한 Orion의 대형 설계는 작은 탐사선보다 수천 톤급 탑재량과 승무원 거주공간을 상정하기도 했다. 이 때문에 추진기관만이 아니라 핵폭발장치의 생산·보관·발사안전과 국제정치가 시스템 전체의 일부가 됐다.",
+          "textEn": "Orion remains a benchmark for high-energy propulsion because its theoretical performance was extraordinary, as were its safety, treaty, and nuclear-material constraints. Some studies considered extremely large spacecraft, making production, storage, launch safety, and international politics part of the propulsion system problem itself."
+        },
+        {
+          "blockId": "06",
+          "type": "ENGINEERING",
+          "headingKo": "충격판이 한 번 버티는 것과 수백·수천 번 버티는 것은 다른 문제였다",
+          "headingEn": "Surviving One Pulse Was Not the Same as Surviving a Mission",
+          "textKo": "Orion의 공학난점은 폭발 한 번의 충격을 견디는 데서 끝나지 않았다. 반복 펄스가 충격판 표면을 침식하는지, 완충장치가 수많은 사이클에서 신뢰성을 유지하는지, 폭발장치를 일정한 간격과 위치로 투입할 수 있는지도 해결해야 했다. 개념연구는 이런 문제를 계산과 재료실험으로 다뤘지만 실제 핵 펄스 비행환경에서 장기간 검증되지는 않았다. 높은 이론성능과 낮은 실제 운용경험 사이의 간극이 Orion의 핵심 경계다.",
+          "textEn": "Orion also faced fatigue, plate erosion, shock-absorber life, and precise pulse-unit deployment. High theoretical performance was never matched by long-duration nuclear flight experience."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Orion은 실제 미국 핵 펄스 추진 연구였고 pusher plate·완충 구조·비핵 축소모형이 연구됐다.\n\n확인되지 않음: 핵폭발 추진 방식의 실전 우주선이 제작·발사됐다는 증거는 없다. 프로그램은 운영체계가 되지 않았다.",
+          "textEn": "Established: Project Orion was real U.S. nuclear-pulse propulsion research involving pusher plates, shock absorbers, and non-nuclear scale models.\n\nNot established: No operational nuclear-pulse spacecraft was built or launched."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project Orion was real U.S. nuclear-pulse propulsion research involving pusher plates, shock absorbers, and non-nuclear scale models.",
+        "notEstablished": "Not established: No operational nuclear-pulse spacecraft was built or launched."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ORI-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project Orion은 실제 핵 펄스 추진 연구였다.",
+      "statementEn": "Project Orion was real nuclear-pulse propulsion research.",
+      "sourceRefs": [
+        "NASA_NTRS"
+      ]
+    },
+    {
+      "claimId": "ORI-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "핵폭발 추진 우주선이 실제 발사된 적은 없다.",
+      "statementEn": "No nuclear-pulse spacecraft was actually launched.",
+      "sourceRefs": [
+        "NASA_NTRS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_NTRS",
+      "title": "Nuclear Pulse Propulsion: Orion and Beyond",
+      "publisher": "NASA Technical Reports Server",
+      "url": "https://ntrs.nasa.gov/citations/20000096503",
+      "sourceType": "NASA_TECHNICAL_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "project-orion-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "NASA_NTRS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-orion__project-orion-v01__ko.png",
+          "sha256": "242dbdb5a194659b32cf71e2f8ef99ea04334ea72404cd4198c2a575cfaf9d6e",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-orion__project-orion-v01__en.png",
+          "sha256": "2ac72cab90538d11c5a07efc18f2c17c55e7951e82309d770a8a8861c610376c",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-orion-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "NASA_NTRS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-orion__project-orion-v02__ko.png",
+          "sha256": "b9518b0b6575e4726e0f23167e172dde9591e5a319b814ec169f26ee9c867f9c",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-orion__project-orion-v02__en.png",
+          "sha256": "f2cae99075c1b917ce5a6641f87bc68179d1f492907362fad18f9a6f8da52312",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-orion-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "NASA_NTRS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-orion__project-orion-v03__ko.png",
+          "sha256": "186f14673c26ac10ea3f79dc738148887385bfcfc650acc0206c89926af11289",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-orion__project-orion-v03__en.png",
+          "sha256": "09579e7a712da767973d8d24deebd9deb2bb4cba18a4dfc5eb56b42559570fe4",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Secret Program",
+    "secondaryGenres": [
+      "Nuclear Propulsion"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "NASA"
+    ],
+    "dateRange": {
+      "start": "1958",
+      "end": "1965",
+      "precision": "core study era"
+    },
+    "era": "Cold War",
+    "resolution": "REAL_STUDY_NO_OPERATIONAL_SPACECRAFT",
+    "searchAliases": [
+      "Orion nuclear pulse",
+      "Project Orion spacecraft"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1575,
+    "enBodyWords": 221,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

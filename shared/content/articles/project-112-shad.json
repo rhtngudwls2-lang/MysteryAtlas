@@ -1,0 +1,374 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-112-shad",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Project 112 / SHAD",
+    "canonicalTitleEn": "Project 112 / SHAD",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "DECLASSIFIED_PROGRAM",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "실제로 진행된 화학·생물학 방어시험과 개별 건강영향은 다른 증거문제다",
+      "hook": "Project 112와 SHAD는 실제 프로그램이었다. 하지만 프로그램의 존재가 각 개인의 구체적 노출·건강영향까지 자동 증명하진 않는다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1962~1973년 실제 취약성 시험이 운영됐다",
+          "headingEn": "A Real Vulnerability-Test Program Operated From 1962 to 1973",
+          "textKo": "Project 112는 미 국방부 Deseret Test Center가 화학·생물학전 공격에 대한 군의 취약성과 방어절차를 시험하기 위해 수행한 프로그램이다. 육상과 해상에서 여러 형태의 시험이 계획됐고 일부는 실제 작용제, 일부는 모의물질을 사용했다. 오랫동안 세부가 널리 알려지지 않았지만 이후 국방부와 보훈당국이 참가부대와 시험정보를 공개하면서 프로그램의 존재와 범위가 공식기록으로 정리됐다. 따라서 프로그램 자체는 추측의 영역이 아니다.",
+          "textEn": "Project 112 was a Defense Department program run through the Deseret Test Center to assess vulnerability to chemical and biological warfare and defensive procedures. Later Defense and VA records documented tests and participants."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "SHAD는 Project 112의 해상시험을 가리킨다",
+          "headingEn": "SHAD Refers to the Maritime Tests",
+          "textKo": "SHAD는 Shipboard Hazard and Defense의 약자로, 미군 함정이 화학·생물학 작용제 환경에서 얼마나 취약한지, 탐지·방호·제독 절차가 어떻게 작동하는지를 평가한 해상시험을 뜻한다. Project 112 전체와 SHAD를 완전히 같은 말로 쓰면 범위가 흐려진다. 육상시험과 해상시험은 장소, 대상, 물질, 목적이 달랐다. 각 시험의 사실관계를 알려면 프로그램명보다 개별 fact sheet와 참가기록을 확인해야 한다.",
+          "textEn": "SHAD—Shipboard Hazard and Defense—covered maritime tests of vessel vulnerability and defensive procedures. It was part of Project 112, not a perfect synonym for every test under the wider program."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "VA와 국방부가 공식 시험정보를 제공한다",
+          "headingEn": "VA and Defense Sources Provide Official Test Information",
+          "textKo": "미 보훈부는 Project 112/SHAD의 기본정보와 건강 관련 안내를 제공하고 국방부는 개별 시험 fact sheet를 공개한다. 이는 프로그램이 단순한 음모론이 아니라 실제 정부사업이었다는 점을 명확히 한다. 동시에 자료공개가 늦었던 역사 때문에 참전군인들의 노출정보와 건강문제를 둘러싼 불신이 커졌다는 점도 중요하다. 현재는 어떤 시험이 있었는지, 알려진 참가단위와 사용물질이 무엇인지 과거보다 훨씬 구체적으로 추적할 수 있다.",
+          "textEn": "VA and Defense sources now provide program background, health guidance, and individual test fact sheets. This establishes the program while also documenting the consequences of delayed disclosure."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "실제 프로그램과 개별 질병의 인과는 같은 문장이 아니다",
+          "headingEn": "Program Reality and Individual Medical Causation Are Not the Same Claim",
+          "textKo": "Project 112/SHAD가 실제였다는 사실과 특정 개인의 질병이 특정 시험노출 때문에 발생했다는 결론은 별도의 증거문제다. 개별 인과판정에는 어떤 시험에 참여했는지, 물질과 농도, 노출경로, 보호장비, 의학적 경과와 대체원인 등이 필요하다. 반대로 개별 인과가 복잡하다는 이유로 프로그램 자체나 노출 가능성을 부정하는 것도 맞지 않는다. 역사·역학·개별 임상의학을 각각의 증거층으로 분리해야 한다.",
+          "textEn": "A real program does not automatically prove that a particular illness was caused by a specific test. Individual causation requires exposure and medical evidence, while complexity in causation does not negate the program itself."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "비밀 군사시험이 공개기록과 보건정책 문제로 이동했다",
+          "headingEn": "A Secret Test Program Became a Public-Records and Health-Policy Issue",
+          "textKo": "Project 112/SHAD는 냉전기 군사시험이 수십 년 뒤 어떻게 재평가되는지 보여준다. 초기에는 임무 보안 때문에 정보가 제한됐고 이후 참가자 확인, 자료공개, 건강문제 대응이 정책과제가 됐다. 오늘날에는 ‘프로그램이 있었나’보다 어떤 시험에서 누가 무엇에 노출됐고 그 자료를 어떻게 의료와 보상정책에 연결할지가 더 실질적인 질문이다. 미스터리라는 표현도 현재 공개된 문서의 구체성을 가리지 않도록 해야 한다.",
+          "textEn": "Today the practical questions concern participation, exposure, health care, and benefits more than whether the program existed. Declassification turned a secret test program into a records and public-health issue."
+        },
+        {
+          "blockId": "06",
+          "type": "RECORDS",
+          "headingKo": "시험별 fact sheet가 중요한 이유는 프로그램을 하나의 사건처럼 뭉개지 않기 위해서다",
+          "headingEn": "Test-Level Records Prevent the Program From Being Flattened Into One Event",
+          "textKo": "Project 112/SHAD에는 서로 다른 장소·연도·함정·물질을 사용한 다수 시험이 포함됐다. 특정 시험에서 실제 작용제를 썼다는 기록이 있다고 해서 다른 모든 시험에도 같은 물질·농도가 적용됐다고 볼 수 없다. 국방부 fact sheet와 VA 안내를 시험 단위로 대조하는 이유가 여기에 있다. 참가자의 노출을 검토할 때도 프로그램명만이 아니라 해당 부대와 시험, 날짜를 연결해야 한다. 세부 기록이 늘어날수록 사건은 더 충격적으로 보이기보다 오히려 더 구체적으로 구분된다.",
+          "textEn": "Project 112/SHAD contained many tests with different locations, dates, vessels, and materials. Test-level records are essential for evaluating exposure without overgeneralizing from one trial to the entire program."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project 112와 SHAD는 1962~1973년 화학·생물학전 취약성과 방어절차를 시험하기 위해 수행된 실제 미 국방부 프로그램이다.\n\n확인되지 않음: 프로그램의 존재만으로 모든 참가자·함정의 구체적 노출량이나 각 개인의 건강영향을 자동 확정할 수는 없다. 개별 인과판정에는 별도 의학·노출 증거가 필요하다.",
+          "textEn": "Established: Project 112 and SHAD were real U.S. Defense Department programs conducted from 1962 to 1973.\n\nNot established: Program existence alone does not establish the specific exposure dose or health effect for every participant or vessel."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project 112와 SHAD는 1962~1973년 화학·생물학전 취약성과 방어절차를 시험하기 위해 수행된 실제 미 국방부 프로그램이다.",
+        "notEstablished": "확인되지 않음: 프로그램의 존재만으로 모든 참가자·함정의 구체적 노출량이나 각 개인의 건강영향을 자동 확정할 수는 없다. 개별 인과판정에는 별도 의학·노출 증거가 필요하다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "A Real Defense-Test Program and Individual Health Effects Are Different Evidence Questions",
+      "hook": "Project 112 and SHAD were real. That fact alone does not automatically establish each individual’s exposure or health outcome.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1962~1973년 실제 취약성 시험이 운영됐다",
+          "headingEn": "A Real Vulnerability-Test Program Operated From 1962 to 1973",
+          "textKo": "Project 112는 미 국방부 Deseret Test Center가 화학·생물학전 공격에 대한 군의 취약성과 방어절차를 시험하기 위해 수행한 프로그램이다. 육상과 해상에서 여러 형태의 시험이 계획됐고 일부는 실제 작용제, 일부는 모의물질을 사용했다. 오랫동안 세부가 널리 알려지지 않았지만 이후 국방부와 보훈당국이 참가부대와 시험정보를 공개하면서 프로그램의 존재와 범위가 공식기록으로 정리됐다. 따라서 프로그램 자체는 추측의 영역이 아니다.",
+          "textEn": "Project 112 was a Defense Department program run through the Deseret Test Center to assess vulnerability to chemical and biological warfare and defensive procedures. Later Defense and VA records documented tests and participants."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "SHAD는 Project 112의 해상시험을 가리킨다",
+          "headingEn": "SHAD Refers to the Maritime Tests",
+          "textKo": "SHAD는 Shipboard Hazard and Defense의 약자로, 미군 함정이 화학·생물학 작용제 환경에서 얼마나 취약한지, 탐지·방호·제독 절차가 어떻게 작동하는지를 평가한 해상시험을 뜻한다. Project 112 전체와 SHAD를 완전히 같은 말로 쓰면 범위가 흐려진다. 육상시험과 해상시험은 장소, 대상, 물질, 목적이 달랐다. 각 시험의 사실관계를 알려면 프로그램명보다 개별 fact sheet와 참가기록을 확인해야 한다.",
+          "textEn": "SHAD—Shipboard Hazard and Defense—covered maritime tests of vessel vulnerability and defensive procedures. It was part of Project 112, not a perfect synonym for every test under the wider program."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "VA와 국방부가 공식 시험정보를 제공한다",
+          "headingEn": "VA and Defense Sources Provide Official Test Information",
+          "textKo": "미 보훈부는 Project 112/SHAD의 기본정보와 건강 관련 안내를 제공하고 국방부는 개별 시험 fact sheet를 공개한다. 이는 프로그램이 단순한 음모론이 아니라 실제 정부사업이었다는 점을 명확히 한다. 동시에 자료공개가 늦었던 역사 때문에 참전군인들의 노출정보와 건강문제를 둘러싼 불신이 커졌다는 점도 중요하다. 현재는 어떤 시험이 있었는지, 알려진 참가단위와 사용물질이 무엇인지 과거보다 훨씬 구체적으로 추적할 수 있다.",
+          "textEn": "VA and Defense sources now provide program background, health guidance, and individual test fact sheets. This establishes the program while also documenting the consequences of delayed disclosure."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "실제 프로그램과 개별 질병의 인과는 같은 문장이 아니다",
+          "headingEn": "Program Reality and Individual Medical Causation Are Not the Same Claim",
+          "textKo": "Project 112/SHAD가 실제였다는 사실과 특정 개인의 질병이 특정 시험노출 때문에 발생했다는 결론은 별도의 증거문제다. 개별 인과판정에는 어떤 시험에 참여했는지, 물질과 농도, 노출경로, 보호장비, 의학적 경과와 대체원인 등이 필요하다. 반대로 개별 인과가 복잡하다는 이유로 프로그램 자체나 노출 가능성을 부정하는 것도 맞지 않는다. 역사·역학·개별 임상의학을 각각의 증거층으로 분리해야 한다.",
+          "textEn": "A real program does not automatically prove that a particular illness was caused by a specific test. Individual causation requires exposure and medical evidence, while complexity in causation does not negate the program itself."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "비밀 군사시험이 공개기록과 보건정책 문제로 이동했다",
+          "headingEn": "A Secret Test Program Became a Public-Records and Health-Policy Issue",
+          "textKo": "Project 112/SHAD는 냉전기 군사시험이 수십 년 뒤 어떻게 재평가되는지 보여준다. 초기에는 임무 보안 때문에 정보가 제한됐고 이후 참가자 확인, 자료공개, 건강문제 대응이 정책과제가 됐다. 오늘날에는 ‘프로그램이 있었나’보다 어떤 시험에서 누가 무엇에 노출됐고 그 자료를 어떻게 의료와 보상정책에 연결할지가 더 실질적인 질문이다. 미스터리라는 표현도 현재 공개된 문서의 구체성을 가리지 않도록 해야 한다.",
+          "textEn": "Today the practical questions concern participation, exposure, health care, and benefits more than whether the program existed. Declassification turned a secret test program into a records and public-health issue."
+        },
+        {
+          "blockId": "06",
+          "type": "RECORDS",
+          "headingKo": "시험별 fact sheet가 중요한 이유는 프로그램을 하나의 사건처럼 뭉개지 않기 위해서다",
+          "headingEn": "Test-Level Records Prevent the Program From Being Flattened Into One Event",
+          "textKo": "Project 112/SHAD에는 서로 다른 장소·연도·함정·물질을 사용한 다수 시험이 포함됐다. 특정 시험에서 실제 작용제를 썼다는 기록이 있다고 해서 다른 모든 시험에도 같은 물질·농도가 적용됐다고 볼 수 없다. 국방부 fact sheet와 VA 안내를 시험 단위로 대조하는 이유가 여기에 있다. 참가자의 노출을 검토할 때도 프로그램명만이 아니라 해당 부대와 시험, 날짜를 연결해야 한다. 세부 기록이 늘어날수록 사건은 더 충격적으로 보이기보다 오히려 더 구체적으로 구분된다.",
+          "textEn": "Project 112/SHAD contained many tests with different locations, dates, vessels, and materials. Test-level records are essential for evaluating exposure without overgeneralizing from one trial to the entire program."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project 112와 SHAD는 1962~1973년 화학·생물학전 취약성과 방어절차를 시험하기 위해 수행된 실제 미 국방부 프로그램이다.\n\n확인되지 않음: 프로그램의 존재만으로 모든 참가자·함정의 구체적 노출량이나 각 개인의 건강영향을 자동 확정할 수는 없다. 개별 인과판정에는 별도 의학·노출 증거가 필요하다.",
+          "textEn": "Established: Project 112 and SHAD were real U.S. Defense Department programs conducted from 1962 to 1973.\n\nNot established: Program existence alone does not establish the specific exposure dose or health effect for every participant or vessel."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project 112 and SHAD were real U.S. Defense Department programs conducted from 1962 to 1973.",
+        "notEstablished": "Not established: Program existence alone does not establish the specific exposure dose or health effect for every participant or vessel."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SHAD-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project 112와 SHAD는 실제 국방부 프로그램이었다.",
+      "statementEn": "Project 112 and SHAD were real Defense Department programs.",
+      "sourceRefs": [
+        "VA_SHAD",
+        "DOD_SHAD_FACTS"
+      ]
+    },
+    {
+      "claimId": "SHAD-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "프로그램 존재만으로 모든 참가자의 개별 건강영향이 자동 확정되지는 않는다.",
+      "statementEn": "Program existence alone does not establish every participant's individual health effect.",
+      "sourceRefs": [
+        "VA_SHAD"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "VA_SHAD",
+      "title": "Project 112/SHAD — Basics",
+      "publisher": "U.S. Department of Veterans Affairs",
+      "url": "https://www.publichealth.va.gov/exposures/shad/basics.asp",
+      "sourceType": "US_GOVERNMENT_HEALTH"
+    },
+    {
+      "sourceId": "VA_SHAD_HOME",
+      "title": "Project 112/SHAD",
+      "publisher": "U.S. Department of Veterans Affairs",
+      "url": "https://www.publichealth.va.gov/exposures/shad/",
+      "sourceType": "US_GOVERNMENT_HEALTH"
+    },
+    {
+      "sourceId": "DOD_SHAD_FACTS",
+      "title": "Project 112/SHAD Fact Sheets",
+      "publisher": "Military Health System",
+      "url": "https://www.health.mil/Military-Health-Topics/Environmental-Exposures-Hub/Environmental-Exposures-Topics/Project-112-SHAD/Fact-Sheets",
+      "sourceType": "US_GOVERNMENT_FACT_SHEETS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "project-112-shad-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "VA_SHAD",
+        "VA_SHAD_HOME",
+        "DOD_SHAD_FACTS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-112-shad__project-112-shad-v01__ko.png",
+          "sha256": "47eee46cf694936f82118cbb06d2d7c57a029043d97963a3a78ba9f451fb9828",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-112-shad__project-112-shad-v01__en.png",
+          "sha256": "20efb100e1b66d353d2ccce597566bff626f9cff3670252c548ccec2134d546d",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-112-shad-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "VA_SHAD",
+        "VA_SHAD_HOME",
+        "DOD_SHAD_FACTS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-112-shad__project-112-shad-v02__ko.png",
+          "sha256": "dda17402ec1fc24bd4519048d24fdabed635dcb95571c167393d09db2bb5ada2",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-112-shad__project-112-shad-v02__en.png",
+          "sha256": "607729f172c85fe40feee21b0a97cd767a5190a7367af7847aedd2248d3690b0",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-112-shad-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "VA_SHAD",
+        "VA_SHAD_HOME",
+        "DOD_SHAD_FACTS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-112-shad__project-112-shad-v03__ko.png",
+          "sha256": "a609c7cf76c160c43f5540d5c2dc50810f43edb989ae70c10d3d11d4db9a7533",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-112-shad__project-112-shad-v03__en.png",
+          "sha256": "721043839b531142f6205df6ee48bef11db3a596898f34c40614e428a22e3ccc",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Secret Program",
+    "secondaryGenres": [
+      "Military Testing",
+      "Public Health"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Department of Defense",
+      "Department of Veterans Affairs"
+    ],
+    "dateRange": {
+      "start": "1962",
+      "end": "1973",
+      "precision": "program period"
+    },
+    "era": "Cold War",
+    "resolution": "PROGRAM_DOCUMENTED_CAUSATION_CASE_SPECIFIC",
+    "searchAliases": [
+      "Project 112",
+      "SHAD"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1640,
+    "enBodyWords": 216,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 3,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

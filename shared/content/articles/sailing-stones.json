@@ -1,0 +1,369 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "sailing-stones",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "데스밸리 움직이는 돌",
+    "canonicalTitleEn": "Death Valley Sailing Stones",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "EXPLAINED_NATURAL_PHENOMENON",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "밤새 움직인 돌의 미스터리는 얼음과 약한 바람에서 풀렸다",
+      "hook": "흔적은 오래전부터 보였지만 움직이는 순간은 드물었다. 2013년 GPS와 현장관측이 핵심 장면을 잡았다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "돌 뒤의 긴 자국은 보이는데 움직이는 순간은 없었다",
+          "headingEn": "Tracks Were Obvious, Movement Was Not",
+          "textKo": "Death Valley의 Racetrack Playa에서는 돌 뒤로 긴 이동자국이 남는다. 돌이 방향을 바꾸거나 서로 평행하게 이동한 흔적은 오래 관찰됐지만 실제 이동 장면은 거의 잡히지 않았다. 강풍, 진흙, 얼음, 인간 개입 등 여러 설명이 제안된 이유다. 이 사건의 난점은 결과가 풍부한데 과정이 보이지 않았다는 데 있었다. 자연현상의 원인을 찾으려면 흔적만 보는 것에서 벗어나 조건이 재현되는 순간을 장기간 기다려야 했다.",
+          "textEn": "At Racetrack Playa, rocks leave long trails but were rarely seen moving. Wind, mud, ice, and human interference were all proposed because the aftermath was visible while the process was not."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "물·밤의 결빙·햇빛·바람이 순서대로 맞아야 한다",
+          "headingEn": "Water, Freezing, Sunlight, and Wind Must Align",
+          "textKo": "Racetrack은 평소 매우 건조하지만 겨울에는 얕은 물이 고이고 밤사이 얼 수 있다. 돌이 움직이려면 얇은 얼음판이 만들어지고, 아침 햇빛에 얼음이 큰 판으로 깨져 떠다닐 수 있어야 하며, 약한 바람도 필요하다. 너무 춥거나 물이 없거나 얼음이 너무 두꺼우면 조건이 달라진다. 이런 조합이 드물어 연구자들이 장비를 설치한 뒤에도 실제 이동을 보기까지 시간이 걸렸다.",
+          "textEn": "The Racetrack is usually dry, but winter can produce shallow water that freezes overnight. Thin ice must form, break into mobile panels under sunlight, and be pushed by light wind. Because this combination is rare, movement can be difficult to observe."
+        },
+        {
+          "blockId": "03",
+          "type": "TURNING_POINT",
+          "headingKo": "2013년 12월 GPS와 현장관측이 실제 이동을 기록했다",
+          "headingEn": "GPS and Direct Observation Captured Movement in December 2013",
+          "textKo": "연구팀은 일부 돌에 GPS 장비를 달고 기상과 수면 조건을 기록했다. 2013년 12월 얕은 연못이 얼었다가 햇빛에 깨지는 상황에서 여러 돌이 동시에 천천히 이동했다. PLOS ONE 연구는 떠 있는 얇은 얼음판이 약한 바람에 밀리면서 돌에 지속적인 힘을 전달해 진흙 위로 미끄러지게 하는 과정을 보고했다. 폭풍에 돌이 날아가는 장면이 아니라 사람이 눈치채기 어려울 만큼 느린 이동이었다.",
+          "textEn": "Researchers fitted rocks with GPS and monitored surface conditions. In December 2013 they observed thin floating ice panels, driven by light wind, pushing rocks slowly across muddy ground. The motion was gradual rather than dramatic."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "핵심은 하나의 힘이 아니라 순서와 조합이다",
+          "headingEn": "The Mechanism Is a Sequence, Not One Force",
+          "textKo": "‘바람이 돌을 밀었다’ 또는 ‘얼음이 끌고 갔다’만으로 설명하면 관측과정의 핵심을 놓친다. 얕은 물이 얼고, 얇은 얼음이 햇빛에 분리되고, 바람이 판을 움직이고, 얼음판이 돌을 오랫동안 밀어야 한다. 현장관측은 이 결합을 직접 기록했다. 자연 미스터리 중에서도 가설이 단순히 그럴듯한 수준을 넘어 실제 작동 장면과 계측값으로 연결된 드문 사례다.",
+          "textEn": "The observed process requires a sequence: shallow water, thin ice, breakup under sunlight, wind-driven panels, and sustained contact with rocks. The mechanism was observed in operation rather than inferred from trails alone."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "해결됐다고 모든 옛 자국의 세부까지 아는 것은 아니다",
+          "headingEn": "A Solved Mechanism Does Not Reconstruct Every Old Track",
+          "textKo": "2013년 관측은 핵심 이동 메커니즘을 강하게 해결했지만 모든 과거 자국이 정확히 같은 물 깊이·얼음 두께·풍속에서 생겼다는 뜻은 아니다. 자연환경과 돌의 크기는 해마다 다르다. 따라서 ‘미스터리가 해결됐다’는 말은 돌이 스스로 이동하는 핵심 물리과정이 직접 관찰됐다는 뜻이다. 과거 개별 자국의 정확한 날짜와 미세조건까지 모두 복원됐다는 뜻은 아니다. 또한 자국의 길이와 방향은 국지적 수면형태와 얼음판의 모양에 따라 달라질 수 있어, 같은 playa 안에서도 모든 돌이 똑같이 움직일 필요는 없다. 해결된 메커니즘 안에서도 개별 흔적은 서로 다른 조건의 결과일 수 있다는 점이 남는다.",
+          "textEn": "The core movement mechanism was directly observed, but the study does not prove identical microconditions for every historical trail. Track length and direction can also vary with local water depth and ice-panel geometry, so not every rock must move identically even under the same general mechanism."
+        },
+        {
+          "blockId": "06",
+          "type": "METHOD",
+          "headingKo": "GPS가 중요한 이유는 ‘움직였다’뿐 아니라 속도와 동시성을 남겼기 때문이다",
+          "headingEn": "GPS Turned a Visual Mystery Into Measured Motion",
+          "textKo": "직접 목격만으로는 얼음과 돌의 관계를 정량적으로 설명하기 어렵다. GPS와 기상기록을 함께 사용하면 여러 돌이 언제 움직였는지, 비슷한 시점에 시작했는지, 이동속도와 거리를 비교할 수 있다. 현장 사진·목격과 계측자료가 겹치면서 ‘강한 폭풍이 돌을 굴렸다’ 같은 설명보다 얇은 얼음판이 천천히 밀었다는 모델을 구체적으로 검증할 수 있었다. 이 사건은 자연현상 연구에서 장기간 자동계측이 우연히 드문 순간을 잡는 방식의 가치를 보여준다.",
+          "textEn": "GPS supplied timing, distance, and simultaneous-motion data that visual observation alone could not provide, turning a rare event into a measurable mechanism."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Racetrack Playa의 돌은 얕은 물, 얇은 얼음판, 약한 바람이 결합하는 겨울 조건에서 실제 이동하는 모습이 GPS와 현장관측으로 기록됐다.\n\n확인되지 않음: 과거 모든 이동자국이 정확히 같은 미세조건에서 만들어졌다고 소급해 증명한 것은 아니다. 초자연적 힘을 요구할 증거도 없다.",
+          "textEn": "Established: Rock movement was directly observed and GPS-recorded under conditions involving shallow water, thin ice, and light wind.\n\nNot established: Every historical trail need not have formed under identical microconditions."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Racetrack Playa의 돌은 얕은 물, 얇은 얼음판, 약한 바람이 결합하는 겨울 조건에서 실제 이동하는 모습이 GPS와 현장관측으로 기록됐다.",
+        "notEstablished": "확인되지 않음: 과거 모든 이동자국이 정확히 같은 미세조건에서 만들어졌다고 소급해 증명한 것은 아니다. 초자연적 힘을 요구할 증거도 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "The Moving-Rock Mystery Came Down to Thin Ice and Light Wind",
+      "hook": "The tracks were obvious for decades, but movement was rarely witnessed. GPS and direct observation captured it in 2013.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "돌 뒤의 긴 자국은 보이는데 움직이는 순간은 없었다",
+          "headingEn": "Tracks Were Obvious, Movement Was Not",
+          "textKo": "Death Valley의 Racetrack Playa에서는 돌 뒤로 긴 이동자국이 남는다. 돌이 방향을 바꾸거나 서로 평행하게 이동한 흔적은 오래 관찰됐지만 실제 이동 장면은 거의 잡히지 않았다. 강풍, 진흙, 얼음, 인간 개입 등 여러 설명이 제안된 이유다. 이 사건의 난점은 결과가 풍부한데 과정이 보이지 않았다는 데 있었다. 자연현상의 원인을 찾으려면 흔적만 보는 것에서 벗어나 조건이 재현되는 순간을 장기간 기다려야 했다.",
+          "textEn": "At Racetrack Playa, rocks leave long trails but were rarely seen moving. Wind, mud, ice, and human interference were all proposed because the aftermath was visible while the process was not."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "물·밤의 결빙·햇빛·바람이 순서대로 맞아야 한다",
+          "headingEn": "Water, Freezing, Sunlight, and Wind Must Align",
+          "textKo": "Racetrack은 평소 매우 건조하지만 겨울에는 얕은 물이 고이고 밤사이 얼 수 있다. 돌이 움직이려면 얇은 얼음판이 만들어지고, 아침 햇빛에 얼음이 큰 판으로 깨져 떠다닐 수 있어야 하며, 약한 바람도 필요하다. 너무 춥거나 물이 없거나 얼음이 너무 두꺼우면 조건이 달라진다. 이런 조합이 드물어 연구자들이 장비를 설치한 뒤에도 실제 이동을 보기까지 시간이 걸렸다.",
+          "textEn": "The Racetrack is usually dry, but winter can produce shallow water that freezes overnight. Thin ice must form, break into mobile panels under sunlight, and be pushed by light wind. Because this combination is rare, movement can be difficult to observe."
+        },
+        {
+          "blockId": "03",
+          "type": "TURNING_POINT",
+          "headingKo": "2013년 12월 GPS와 현장관측이 실제 이동을 기록했다",
+          "headingEn": "GPS and Direct Observation Captured Movement in December 2013",
+          "textKo": "연구팀은 일부 돌에 GPS 장비를 달고 기상과 수면 조건을 기록했다. 2013년 12월 얕은 연못이 얼었다가 햇빛에 깨지는 상황에서 여러 돌이 동시에 천천히 이동했다. PLOS ONE 연구는 떠 있는 얇은 얼음판이 약한 바람에 밀리면서 돌에 지속적인 힘을 전달해 진흙 위로 미끄러지게 하는 과정을 보고했다. 폭풍에 돌이 날아가는 장면이 아니라 사람이 눈치채기 어려울 만큼 느린 이동이었다.",
+          "textEn": "Researchers fitted rocks with GPS and monitored surface conditions. In December 2013 they observed thin floating ice panels, driven by light wind, pushing rocks slowly across muddy ground. The motion was gradual rather than dramatic."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "핵심은 하나의 힘이 아니라 순서와 조합이다",
+          "headingEn": "The Mechanism Is a Sequence, Not One Force",
+          "textKo": "‘바람이 돌을 밀었다’ 또는 ‘얼음이 끌고 갔다’만으로 설명하면 관측과정의 핵심을 놓친다. 얕은 물이 얼고, 얇은 얼음이 햇빛에 분리되고, 바람이 판을 움직이고, 얼음판이 돌을 오랫동안 밀어야 한다. 현장관측은 이 결합을 직접 기록했다. 자연 미스터리 중에서도 가설이 단순히 그럴듯한 수준을 넘어 실제 작동 장면과 계측값으로 연결된 드문 사례다.",
+          "textEn": "The observed process requires a sequence: shallow water, thin ice, breakup under sunlight, wind-driven panels, and sustained contact with rocks. The mechanism was observed in operation rather than inferred from trails alone."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "해결됐다고 모든 옛 자국의 세부까지 아는 것은 아니다",
+          "headingEn": "A Solved Mechanism Does Not Reconstruct Every Old Track",
+          "textKo": "2013년 관측은 핵심 이동 메커니즘을 강하게 해결했지만 모든 과거 자국이 정확히 같은 물 깊이·얼음 두께·풍속에서 생겼다는 뜻은 아니다. 자연환경과 돌의 크기는 해마다 다르다. 따라서 ‘미스터리가 해결됐다’는 말은 돌이 스스로 이동하는 핵심 물리과정이 직접 관찰됐다는 뜻이다. 과거 개별 자국의 정확한 날짜와 미세조건까지 모두 복원됐다는 뜻은 아니다. 또한 자국의 길이와 방향은 국지적 수면형태와 얼음판의 모양에 따라 달라질 수 있어, 같은 playa 안에서도 모든 돌이 똑같이 움직일 필요는 없다. 해결된 메커니즘 안에서도 개별 흔적은 서로 다른 조건의 결과일 수 있다는 점이 남는다.",
+          "textEn": "The core movement mechanism was directly observed, but the study does not prove identical microconditions for every historical trail. Track length and direction can also vary with local water depth and ice-panel geometry, so not every rock must move identically even under the same general mechanism."
+        },
+        {
+          "blockId": "06",
+          "type": "METHOD",
+          "headingKo": "GPS가 중요한 이유는 ‘움직였다’뿐 아니라 속도와 동시성을 남겼기 때문이다",
+          "headingEn": "GPS Turned a Visual Mystery Into Measured Motion",
+          "textKo": "직접 목격만으로는 얼음과 돌의 관계를 정량적으로 설명하기 어렵다. GPS와 기상기록을 함께 사용하면 여러 돌이 언제 움직였는지, 비슷한 시점에 시작했는지, 이동속도와 거리를 비교할 수 있다. 현장 사진·목격과 계측자료가 겹치면서 ‘강한 폭풍이 돌을 굴렸다’ 같은 설명보다 얇은 얼음판이 천천히 밀었다는 모델을 구체적으로 검증할 수 있었다. 이 사건은 자연현상 연구에서 장기간 자동계측이 우연히 드문 순간을 잡는 방식의 가치를 보여준다.",
+          "textEn": "GPS supplied timing, distance, and simultaneous-motion data that visual observation alone could not provide, turning a rare event into a measurable mechanism."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Racetrack Playa의 돌은 얕은 물, 얇은 얼음판, 약한 바람이 결합하는 겨울 조건에서 실제 이동하는 모습이 GPS와 현장관측으로 기록됐다.\n\n확인되지 않음: 과거 모든 이동자국이 정확히 같은 미세조건에서 만들어졌다고 소급해 증명한 것은 아니다. 초자연적 힘을 요구할 증거도 없다.",
+          "textEn": "Established: Rock movement was directly observed and GPS-recorded under conditions involving shallow water, thin ice, and light wind.\n\nNot established: Every historical trail need not have formed under identical microconditions."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Rock movement was directly observed and GPS-recorded under conditions involving shallow water, thin ice, and light wind.",
+        "notEstablished": "Not established: Every historical trail need not have formed under identical microconditions."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SAIL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2013년 실제 이동이 GPS와 직접관측으로 기록됐다.",
+      "statementEn": "Rock movement was directly observed and GPS-recorded in 2013.",
+      "sourceRefs": [
+        "NPS_RACETRACK",
+        "PLOS_2014"
+      ]
+    },
+    {
+      "claimId": "SAIL-C2",
+      "status": "CONFIRMED",
+      "statementKo": "얕은 물·얇은 얼음·약한 바람의 조합이 관찰된 메커니즘이었다.",
+      "statementEn": "Shallow water, thin ice, and light wind produced the observed motion.",
+      "sourceRefs": [
+        "PLOS_2014"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NPS_RACETRACK",
+      "title": "Racetrack Playa / Moving Rocks",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/deva/learn/news/racetrack.htm/index.htm",
+      "sourceType": "US_GOV_PARK_SCIENCE"
+    },
+    {
+      "sourceId": "PLOS_2014",
+      "title": "Sliding Rocks on Racetrack Playa",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105948",
+      "sourceType": "PEER_REVIEWED_FIELD_STUDY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "sailing-stones-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "NPS_RACETRACK",
+        "PLOS_2014"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sailing-stones__sailing-stones-v01__ko.png",
+          "sha256": "c06b318ca8787976e8f0eb867c400820ce4fefe35daf7f69a282dac24797b1ed",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sailing-stones__sailing-stones-v01__en.png",
+          "sha256": "4432d3f73af72df2ad44a927b891070b02ae6b49daf9997dd7226ae6eca994ac",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "sailing-stones-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "NPS_RACETRACK",
+        "PLOS_2014"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sailing-stones__sailing-stones-v02__ko.png",
+          "sha256": "e46c2b31ad03df7944ee3011daed758e2d9d90a724872fc9c05fc74660210a03",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sailing-stones__sailing-stones-v02__en.png",
+          "sha256": "266bfd5e684172ca52a189edded7d21a7fa9f052a50e45ce677f9e1a3386d781",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "sailing-stones-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "NPS_RACETRACK",
+        "PLOS_2014"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "sailing-stones__sailing-stones-v03__ko.png",
+          "sha256": "c7b9eab798a6629e4773d0146da14fcecd05a991864cd39eedf57147789b0974",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "sailing-stones__sailing-stones-v03__en.png",
+          "sha256": "b0f690f7487dbce0cfab1666dfa7b58524d35c4c60b2f6f740e02fc13aa0d115",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Science / Nature",
+    "secondaryGenres": [
+      "Explained Mystery"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "California"
+    ],
+    "places": [
+      {
+        "name": "Racetrack Playa",
+        "role": "site"
+      }
+    ],
+    "people": [],
+    "organizations": [
+      "National Park Service"
+    ],
+    "dateRange": {
+      "start": "2013-12",
+      "end": "2014",
+      "precision": "observation/publication"
+    },
+    "era": "modern field science",
+    "resolution": "CORE_MECHANISM_DIRECTLY_OBSERVED",
+    "searchAliases": [
+      "moving rocks",
+      "Racetrack Playa"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1595,
+    "enBodyWords": 237,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

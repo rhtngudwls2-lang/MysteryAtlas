@@ -1,0 +1,358 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "project-excelsior",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "Project Excelsior",
+    "canonicalTitleEn": "Project Excelsior",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "VERIFIED_TECH_HISTORY",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "31km 상공에서 사람을 떨어뜨려 고고도 탈출을 검증했다",
+      "hook": "Project Excelsior는 기록 이벤트가 아니라 압력복·산소·안정화 낙하산과 인체 반응을 검증한 미 공군 연구였다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1959~1960년 세 차례 성층권 점프가 실제로 진행됐다",
+          "headingEn": "Three Stratospheric Jumps Were Conducted in 1959–1960",
+          "textKo": "미 공군 Project Excelsior는 초고도에서 항공기가 고장났을 때 조종사가 안전하게 탈출할 방법을 연구한 프로그램이다. 제트기와 초기 우주비행 계획은 사람이 이전보다 훨씬 높은 곳에 올라가는 시대를 열고 있었다. Joseph Kittinger는 성층권 기구에 매달린 곤돌라로 올라가 세 차례 점프를 수행했다. 이 시험은 기록을 세우기 위한 쇼가 아니라 압력복, 산소공급, 자유낙하 자세, 안정화 낙하산과 인체생리 데이터를 얻기 위한 실험이었다.",
+          "textEn": "Project Excelsior studied how a pilot could survive escape from extreme altitude. Joseph Kittinger made three stratospheric balloon jumps in 1959 and 1960 to test pressure protection, oxygen, body stability, and parachute systems."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "희박한 공기에서는 일반 낙하산 상식이 깨진다",
+          "headingEn": "Thin Air Changes the Physics of Escape",
+          "textKo": "성층권에서는 공기밀도가 낮아 낙하 초기의 저항이 작고 몸이 빠르게 가속한다. 자세가 불안정하면 위험한 회전이 생길 수 있으며 저기압에서는 의식과 생리기능을 지키기 위해 압력복과 산소가 필요하다. Excelsior는 이런 문제를 동시에 다뤘다. 특히 작은 안정화 낙하산이 자유낙하 중 몸의 회전을 억제하도록 설계됐다. 이 장비는 스포츠 낙하산보다 고고도 군용기 탈출 시스템에 가까웠다.",
+          "textEn": "Thin air reduces drag, allows rapid acceleration, and makes uncontrolled spinning dangerous. Low pressure also requires pressure protection and oxygen. Excelsior tested these problems together, including a stabilization parachute intended to control body attitude."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Excelsior III는 약 102,800피트에서 시작됐다",
+          "headingEn": "Excelsior III Began at About 102,800 Feet",
+          "textKo": "1960년 8월 Excelsior III에서 Kittinger는 약 102,800피트, 대략 31km 고도에서 뛰어내렸다. 미 공군 박물관은 이 곤돌라와 점프를 고고도 탈출 연구의 중요한 이정표로 보존한다. 대중서사에서는 최고속도나 기록이 강조되지만 연구성과는 특정 숫자 하나보다 넓다. 실제 환경에서 압력복이 유지되는지, 안정화 장치가 회전을 제어하는지, 낙하산을 어떤 고도에서 전개할지 등 비상탈출 전체 체계를 검증했다.",
+          "textEn": "During Excelsior III in August 1960, Kittinger jumped from about 102,800 feet, roughly 31 km. The Air Force Museum preserves the gondola as a milestone in high-altitude escape research, where the broader objective was validating the complete survival system."
+        },
+        {
+          "blockId": "04",
+          "type": "BACKGROUND",
+          "headingKo": "결과는 항공·우주 인체안전 연구에 연결됐다",
+          "headingEn": "The Results Fed Into Aerospace Human-Safety Research",
+          "textKo": "Project Excelsior가 남긴 것은 사람이 극저압과 장시간 자유낙하를 견딜 수 있는 조건에 대한 실제 데이터였다. 이 경험은 고고도 조종사 탈출, 압력복 설계, 우주비행 인체생리 연구에 참고가 됐다. 프로그램의 극단적인 모습 때문에 비밀 우주임무처럼 과장되는 경우가 있지만 공식 기록은 목적과 시험내용을 공개 항공우주 기술사로 남기고 있다. 실제 기술시험과 후대의 과장된 해석을 분리해야 한다.",
+          "textEn": "Excelsior produced real data on survival in low pressure and prolonged free fall, informing pressure suits and aerospace escape systems. Its extreme appearance should not be mistaken for evidence of a hidden space mission."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "후대의 더 높은 점프가 기록을 깼어도 연구가치는 사라지지 않았다",
+          "headingEn": "Later Record Jumps Did Not Erase Its Research Value",
+          "textKo": "훗날 더 높은 성층권 점프가 이루어져 Excelsior의 기록 일부는 깨졌다. 그러나 역사적 의미는 기록 보유기간이 아니라 당시 처음 검증한 위험과 장비에 있다. 공군은 실제 비상상황에서 문제가 될 감압, 회전, 낙하산 전개를 인간 피험자와 계측장비로 시험했다. ‘사람이 31km에서 뛰었다’는 놀라움 뒤에는 매우 구체적인 안전공학 문제가 있었다. 이 사건은 미스터리보다 검증된 극한기술의 역사에 가깝다.",
+          "textEn": "Later jumps surpassed some records, but Excelsior's value lies in the hazards and equipment it validated. It was controlled aerospace safety research rather than an unresolved mystery."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE",
+          "headingKo": "Excelsior I의 사고도 안정화 시스템이 왜 필요한지 보여줬다",
+          "headingEn": "The Early Tests Demonstrated Why Stabilization Mattered",
+          "textKo": "초기 Excelsior 점프에서는 장비와 신체 안정성 문제가 실제 위험으로 드러났다. 고고도에서 회전이 시작되면 지상 낙하산 경험과 다른 생리적 부담이 생긴다. 그래서 후속 시험에서 안정화 장치와 절차를 조정하는 과정 자체가 프로그램의 연구성과였다. 성공한 마지막 점프만 떼어보면 기술이 처음부터 완성돼 있었던 것처럼 보이지만, 실제로는 위험을 관찰하고 설계를 수정해가는 연속 실험이었다. 극한기술의 검증은 기록 한 번보다 실패와 수정의 축적에 가깝다.",
+          "textEn": "Earlier Excelsior testing exposed real stability hazards, and later procedures incorporated those lessons. The program was iterative engineering rather than a single record attempt."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Excelsior는 미 공군의 실제 고고도 탈출 연구였고 Joseph Kittinger는 1959~1960년 세 차례 성층권 점프를 수행했다. Excelsior III는 약 31km 고도에서 시작됐다.\n\n확인되지 않음: 이 프로그램이 비밀 우주임무나 초인 실험의 증거라는 주장은 공식 기록과 맞지 않는다.",
+          "textEn": "Established: Project Excelsior was a real U.S. Air Force high-altitude escape program, and Kittinger made three stratospheric jumps.\n\nNot established: It is not evidence of a hidden space mission or superhuman experiment."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Project Excelsior는 미 공군의 실제 고고도 탈출 연구였고 Joseph Kittinger는 1959~1960년 세 차례 성층권 점프를 수행했다. Excelsior III는 약 31km 고도에서 시작됐다.",
+        "notEstablished": "확인되지 않음: 이 프로그램이 비밀 우주임무나 초인 실험의 증거라는 주장은 공식 기록과 맞지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    },
+    "en": {
+      "headline": "High-Altitude Escape Was Tested With Human Jumps From the Stratosphere",
+      "hook": "Project Excelsior tested pressure suits, oxygen, stabilization parachutes, and human survival at extreme altitude.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1959~1960년 세 차례 성층권 점프가 실제로 진행됐다",
+          "headingEn": "Three Stratospheric Jumps Were Conducted in 1959–1960",
+          "textKo": "미 공군 Project Excelsior는 초고도에서 항공기가 고장났을 때 조종사가 안전하게 탈출할 방법을 연구한 프로그램이다. 제트기와 초기 우주비행 계획은 사람이 이전보다 훨씬 높은 곳에 올라가는 시대를 열고 있었다. Joseph Kittinger는 성층권 기구에 매달린 곤돌라로 올라가 세 차례 점프를 수행했다. 이 시험은 기록을 세우기 위한 쇼가 아니라 압력복, 산소공급, 자유낙하 자세, 안정화 낙하산과 인체생리 데이터를 얻기 위한 실험이었다.",
+          "textEn": "Project Excelsior studied how a pilot could survive escape from extreme altitude. Joseph Kittinger made three stratospheric balloon jumps in 1959 and 1960 to test pressure protection, oxygen, body stability, and parachute systems."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "희박한 공기에서는 일반 낙하산 상식이 깨진다",
+          "headingEn": "Thin Air Changes the Physics of Escape",
+          "textKo": "성층권에서는 공기밀도가 낮아 낙하 초기의 저항이 작고 몸이 빠르게 가속한다. 자세가 불안정하면 위험한 회전이 생길 수 있으며 저기압에서는 의식과 생리기능을 지키기 위해 압력복과 산소가 필요하다. Excelsior는 이런 문제를 동시에 다뤘다. 특히 작은 안정화 낙하산이 자유낙하 중 몸의 회전을 억제하도록 설계됐다. 이 장비는 스포츠 낙하산보다 고고도 군용기 탈출 시스템에 가까웠다.",
+          "textEn": "Thin air reduces drag, allows rapid acceleration, and makes uncontrolled spinning dangerous. Low pressure also requires pressure protection and oxygen. Excelsior tested these problems together, including a stabilization parachute intended to control body attitude."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "Excelsior III는 약 102,800피트에서 시작됐다",
+          "headingEn": "Excelsior III Began at About 102,800 Feet",
+          "textKo": "1960년 8월 Excelsior III에서 Kittinger는 약 102,800피트, 대략 31km 고도에서 뛰어내렸다. 미 공군 박물관은 이 곤돌라와 점프를 고고도 탈출 연구의 중요한 이정표로 보존한다. 대중서사에서는 최고속도나 기록이 강조되지만 연구성과는 특정 숫자 하나보다 넓다. 실제 환경에서 압력복이 유지되는지, 안정화 장치가 회전을 제어하는지, 낙하산을 어떤 고도에서 전개할지 등 비상탈출 전체 체계를 검증했다.",
+          "textEn": "During Excelsior III in August 1960, Kittinger jumped from about 102,800 feet, roughly 31 km. The Air Force Museum preserves the gondola as a milestone in high-altitude escape research, where the broader objective was validating the complete survival system."
+        },
+        {
+          "blockId": "04",
+          "type": "BACKGROUND",
+          "headingKo": "결과는 항공·우주 인체안전 연구에 연결됐다",
+          "headingEn": "The Results Fed Into Aerospace Human-Safety Research",
+          "textKo": "Project Excelsior가 남긴 것은 사람이 극저압과 장시간 자유낙하를 견딜 수 있는 조건에 대한 실제 데이터였다. 이 경험은 고고도 조종사 탈출, 압력복 설계, 우주비행 인체생리 연구에 참고가 됐다. 프로그램의 극단적인 모습 때문에 비밀 우주임무처럼 과장되는 경우가 있지만 공식 기록은 목적과 시험내용을 공개 항공우주 기술사로 남기고 있다. 실제 기술시험과 후대의 과장된 해석을 분리해야 한다.",
+          "textEn": "Excelsior produced real data on survival in low pressure and prolonged free fall, informing pressure suits and aerospace escape systems. Its extreme appearance should not be mistaken for evidence of a hidden space mission."
+        },
+        {
+          "blockId": "05",
+          "type": "AFTERMATH",
+          "headingKo": "후대의 더 높은 점프가 기록을 깼어도 연구가치는 사라지지 않았다",
+          "headingEn": "Later Record Jumps Did Not Erase Its Research Value",
+          "textKo": "훗날 더 높은 성층권 점프가 이루어져 Excelsior의 기록 일부는 깨졌다. 그러나 역사적 의미는 기록 보유기간이 아니라 당시 처음 검증한 위험과 장비에 있다. 공군은 실제 비상상황에서 문제가 될 감압, 회전, 낙하산 전개를 인간 피험자와 계측장비로 시험했다. ‘사람이 31km에서 뛰었다’는 놀라움 뒤에는 매우 구체적인 안전공학 문제가 있었다. 이 사건은 미스터리보다 검증된 극한기술의 역사에 가깝다.",
+          "textEn": "Later jumps surpassed some records, but Excelsior's value lies in the hazards and equipment it validated. It was controlled aerospace safety research rather than an unresolved mystery."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE",
+          "headingKo": "Excelsior I의 사고도 안정화 시스템이 왜 필요한지 보여줬다",
+          "headingEn": "The Early Tests Demonstrated Why Stabilization Mattered",
+          "textKo": "초기 Excelsior 점프에서는 장비와 신체 안정성 문제가 실제 위험으로 드러났다. 고고도에서 회전이 시작되면 지상 낙하산 경험과 다른 생리적 부담이 생긴다. 그래서 후속 시험에서 안정화 장치와 절차를 조정하는 과정 자체가 프로그램의 연구성과였다. 성공한 마지막 점프만 떼어보면 기술이 처음부터 완성돼 있었던 것처럼 보이지만, 실제로는 위험을 관찰하고 설계를 수정해가는 연속 실험이었다. 극한기술의 검증은 기록 한 번보다 실패와 수정의 축적에 가깝다.",
+          "textEn": "Earlier Excelsior testing exposed real stability hazards, and later procedures incorporated those lessons. The program was iterative engineering rather than a single record attempt."
+        },
+        {
+          "blockId": "07",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "현재까지 확인된 것",
+          "headingEn": "What Is Established Now",
+          "textKo": "확인됨: Project Excelsior는 미 공군의 실제 고고도 탈출 연구였고 Joseph Kittinger는 1959~1960년 세 차례 성층권 점프를 수행했다. Excelsior III는 약 31km 고도에서 시작됐다.\n\n확인되지 않음: 이 프로그램이 비밀 우주임무나 초인 실험의 증거라는 주장은 공식 기록과 맞지 않는다.",
+          "textEn": "Established: Project Excelsior was a real U.S. Air Force high-altitude escape program, and Kittinger made three stratospheric jumps.\n\nNot established: It is not evidence of a hidden space mission or superhuman experiment."
+        }
+      ],
+      "factBoundary": {
+        "established": "Established: Project Excelsior was a real U.S. Air Force high-altitude escape program, and Kittinger made three stratospheric jumps.",
+        "notEstablished": "Not established: It is not evidence of a hidden space mission or superhuman experiment."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "EXC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Project Excelsior는 고고도 탈출 연구 프로그램이었다.",
+      "statementEn": "Project Excelsior was a high-altitude escape research program.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "EXC-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Kittinger는 세 차례 고고도 점프를 수행했다.",
+      "statementEn": "Kittinger made three high-altitude jumps.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "USAF_MUSEUM",
+      "title": "Excelsior Gondola",
+      "publisher": "National Museum of the U.S. Air Force",
+      "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195681/excelsior-gondola/",
+      "sourceType": "US_GOVERNMENT_MUSEUM"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "project-excelsior-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_TIMELINE",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "altKo": "핵심 사건·관측·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, observation, and later reassessment.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-excelsior__project-excelsior-v01__ko.png",
+          "sha256": "a5c5150888f8b09edee5e2b7551dfc8205ef35dd272697c0e68e8d21ca77c74b",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-excelsior__project-excelsior-v01__en.png",
+          "sha256": "6fd313fe36f54dd658be1520aed3d436b76f56e5f53db4508ac0358930894ba8",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-excelsior-v02",
+      "role": "EVIDENCE_LAYERS",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "captionEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "altKo": "직접 확인된 사실, 자료에 근거한 추론, 아직 미확정인 주장을 분리.",
+      "altEn": "Separate directly established facts, source-supported inference, and unresolved claims.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-excelsior__project-excelsior-v02__ko.png",
+          "sha256": "d65dc28d6368b611f7e45003db626efc6ce01a7d2281d8743ae7e21d00fdc089",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-excelsior__project-excelsior-v02__en.png",
+          "sha256": "bac7f53094355e3020f547a48563de528a9d58f7f1e7392e79604d8dab0d2bd2",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    },
+    {
+      "assetId": "project-excelsior-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EVIDENCE_CARD",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "captionEn": "Fact Boundary card comparing established and not-established points.",
+      "altKo": "확인됨과 확인되지 않음을 한 화면에서 비교한 Fact Boundary 카드.",
+      "altEn": "Fact Boundary card comparing established and not-established points.",
+      "sourceRefs": [
+        "USAF_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "fileName": "project-excelsior__project-excelsior-v03__ko.png",
+          "sha256": "6ed9afe7787851f5b803c1942c0f54a14e0b013813c3985b5295a5268575cf68",
+          "width": 1600,
+          "height": 900
+        },
+        "en": {
+          "fileName": "project-excelsior__project-excelsior-v03__en.png",
+          "sha256": "3c9d61bf8a5416b09ec8e0fbbbee2cae67aecc64af940613ce2b38657240f7b9",
+          "width": 1600,
+          "height": 900
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Technology / Aerospace",
+    "secondaryGenres": [
+      "Verified Experiment"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [
+      "New Mexico"
+    ],
+    "places": [],
+    "people": [
+      {
+        "name": "Joseph Kittinger",
+        "role": "test pilot"
+      }
+    ],
+    "organizations": [
+      "United States Air Force"
+    ],
+    "dateRange": {
+      "start": "1959",
+      "end": "1960",
+      "precision": "program jumps"
+    },
+    "era": "early space age",
+    "resolution": "DOCUMENTED_EXTREME_ALTITUDE_TESTING",
+    "searchAliases": [
+      "Excelsior III",
+      "Kittinger jump"
+    ]
+  },
+  "quality": {
+    "koBodyChars": 1591,
+    "enBodyWords": 223,
+    "meaningfulBlockCount": 7,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 2,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH37",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
