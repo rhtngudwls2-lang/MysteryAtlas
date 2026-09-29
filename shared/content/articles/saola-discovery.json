@@ -1,0 +1,393 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "saola-discovery",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "사올라 발견과 사라지는 흔적",
+    "canonicalTitleEn": "The Discovery and Disappearance of the Saola",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1992년에 처음 과학계에 알려진 대형 포유류는 지금도 살아 있을까",
+      "hook": "사올라는 ‘발견’ 자체보다 그 뒤 30년 동안 거의 보이지 않았다는 사실 때문에 더 큰 미스터리가 됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "뿔 한 쌍이 만든 새로운 종",
+          "headingEn": "A Pair of Horns Reveals a New Species",
+          "textKo": "1992년 베트남 Vu Quang 지역을 조사하던 베트남 산림당국과 WWF 팀은 사냥꾼 집에서 동남아 다른 동물과 맞지 않는 길고 곧은 뿔을 확인했다. 추가 표본과 가죽이 확보되면서 과학계는 대형 포유류의 새로운 종을 인식하게 됐다. 발견은 야생에서 직접 동물을 오래 관찰한 사건이 아니라 지역지식과 표본에서 시작됐다.",
+          "textEn": "In 1992 a joint Vietnamese forestry and WWF survey in the Vu Quang area encountered unusual long, straight horns in a hunter home. Additional remains and skins showed that the material belonged to a large mammal new to science. The discovery began with local knowledge and specimens rather than prolonged direct observation of a living wild animal."
+        },
+        {
+          "blockId": "02",
+          "type": "TAXONOMY",
+          "headingKo": "영양처럼 보이지만 소과에 가깝다",
+          "headingEn": "Antelope-Like, but Related to Wild Cattle",
+          "textKo": "사올라는 외형 때문에 영양처럼 묘사되지만 계통적으로는 소과에 속한다. 긴 평행한 뿔과 흰 얼굴무늬가 특징이며 베트남·라오스 경계의 안남산맥 숲에 제한적으로 분포한다. 20세기 말까지 대형 포유류가 과학적으로 새로 기록될 수 있었다는 점이 발견 자체를 유명하게 만들었다.",
+          "textEn": "The saola resembles an antelope but belongs within the cattle family. Its parallel horns and white facial markings are distinctive, and its range is restricted to forest in the Annamite Mountains along the Vietnam–Laos border. Recognition of such a large mammal in the late twentieth century made the discovery extraordinary."
+        },
+        {
+          "blockId": "03",
+          "type": "LOCAL_KNOWLEDGE",
+          "headingKo": "‘인류에게 처음 발견’은 아니다",
+          "headingEn": "Not the First Human Discovery",
+          "textKo": "현지 사냥꾼과 주민은 과학자들보다 오래 전부터 이 동물을 알고 있었다. 따라서 1992년은 인간에게 처음 발견된 날짜가 아니라 서구·국제 과학 분류체계에 공식적으로 편입된 시점이다. 희귀종의 발견사를 쓸 때 지역사회의 기존 지식을 지우지 않는 것이 중요하다.",
+          "textEn": "Local hunters and communities knew the animal before scientists classified it. The 1992 date therefore marks entry into international zoological science, not the first human awareness of the species. Accurate discovery history should preserve that distinction."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE",
+          "headingKo": "사진보다 흔적이 더 드물어졌다",
+          "headingEn": "Confirmed Records Became Extremely Sparse",
+          "textKo": "확인된 야생 사진과 포획 기록은 극히 적다. IUCN은 1999년 라오스 카메라트랩 사진, 2010년 포획 뒤 곧 죽은 개체, 2013년 베트남 카메라트랩 자료 같은 제한된 기록을 강조한다. 2021년에는 2013년 이후 확정적 검출이 없다는 점이 보전위기의 핵심으로 제시됐다.",
+          "textEn": "Wild photographs and capture records are exceptionally rare. IUCN highlights camera-trap images from Laos in 1999, a captured animal that died in 2010, and a 2013 camera-trap record in Vietnam. By 2021 experts stressed that there had been no conclusive detection since 2013."
+        },
+        {
+          "blockId": "05",
+          "type": "THREAT",
+          "headingKo": "보이지 않는다고 안전한 것이 아니다",
+          "headingEn": "Being Unseen Does Not Mean Being Safe",
+          "textKo": "사올라의 가장 큰 위협은 광범위한 올무 사냥과 서식지 압력이다. 특정 동물을 노리지 않은 올무도 사올라 같은 희귀종에는 치명적이다. 개체수가 매우 적을 때는 생존개체를 찾는 것 자체가 어려워져 ‘없어서 못 찾는지, 숨어 있어서 못 찾는지’ 구분하기 힘들어진다.",
+          "textEn": "Widespread wire snaring and habitat pressure are major threats. Snares set for other wildlife can still kill an extremely rare saola. At very low density, finding the last animals becomes difficult, creating a dangerous ambiguity between absence, extreme rarity, and survey failure."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "미검출은 멸종 증명인가",
+          "headingEn": "Does Non-Detection Prove Extinction?",
+          "textKo": "오랫동안 사진이 없다는 사실은 매우 우려스럽지만 곧바로 멸종을 증명하지는 않는다. 울창한 산악림, 매우 낮은 밀도, 제한된 조사범위는 미검출 가능성을 높인다. 반대로 희귀성을 낭만적으로 해석해 충분한 증거 없이 ‘분명 살아 있다’고 말하는 것도 과학적이지 않다.",
+          "textEn": "A long gap without confirmed evidence is alarming but not automatic proof of extinction. Dense mountain forest, tiny population size, and incomplete survey coverage all reduce detection. The opposite claim—that the species must still survive somewhere—also requires evidence rather than hope."
+        },
+        {
+          "blockId": "07",
+          "type": "SEARCH",
+          "headingKo": "찾는 기술도 바뀌고 있다",
+          "headingEn": "The Search Methods Are Changing",
+          "textKo": "현대 조사는 카메라트랩뿐 아니라 환경 DNA, 탐지견, 지역정보 네트워크 등 여러 방법을 결합하려 한다. 목표는 단순한 사진 한 장보다 생존지역을 좁혀 실제 보전조치를 가능하게 하는 것이다. 사올라 미스터리의 해결은 곧 보전시간표와 직결된다.",
+          "textEn": "Modern searches combine camera traps with environmental DNA, detection dogs, and local information networks. The goal is not merely another photograph but enough location evidence to direct urgent protection. Resolving the mystery is inseparable from conservation action."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀까",
+          "headingEn": "What Would Change the Assessment",
+          "textKo": "새로운 확정 사진, 유전적으로 검증된 분변·털, 신선한 사체나 살아있는 개체의 과학적 확인이 나오면 현재 상태를 크게 갱신할 수 있다. 반대로 광범위하고 반복된 조사에서도 수년간 검출이 없다는 자료가 축적되면 멸종 가능성 평가가 더 강해질 수 있다. 사올라처럼 극희귀종에서는 ‘마지막 확정 기록 이후 몇 년이 지났는가’만큼 ‘얼마나 넓은 잠재서식지를 어떤 탐지확률로 조사했는가’가 중요하다. 조사강도가 낮으면 미검출의 의미도 약하고, 조사강도가 높아질수록 같은 미검출이 더 강한 증거가 된다.",
+          "textEn": "A new verified photograph, genetically confirmed hair or dung, a fresh carcass, or a scientifically documented living animal would immediately update the status. Conversely, increasingly intensive surveys with continued non-detection would strengthen extinction-risk assessments. For an ultra-rare species, years since the last confirmed record matter less than they seem without survey effort. The evidentiary meaning of non-detection depends on how much potential habitat was searched and with what probability of detection."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 사올라는 1992년 베트남 정부·WWF 조사에서 과학계에 새로 알려졌고, 이후 극소수의 사진·포획기록으로 존재가 확인됐다. IUCN은 심각한 올무 사냥과 장기간의 미검출을 핵심 위기로 본다.\n\nNOT ESTABLISHED: 현재 야생 개체수가 정확히 몇 마리인지, 2013년 이후 어디에서 안정적으로 생존하고 있는지, 이미 멸종했는지는 확정되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: the saola was recognized by science in 1992 through a Vietnamese government and WWF survey and has since been confirmed by a very small number of photographs and capture records. IUCN identifies snaring and long-term non-detection as major concerns.\n\nNOT ESTABLISHED: the exact current wild population, a secure surviving location after 2013, and whether the species is already extinct remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "사올라는 1992년 베트남 정부·WWF 조사에서 과학계에 새로 알려졌고, 이후 극소수의 사진·포획기록으로 존재가 확인됐다. IUCN은 심각한 올무 사냥과 장기간의 미검출을 핵심 위기로 본다.",
+        "notEstablished": "현재 야생 개체수가 정확히 몇 마리인지, 2013년 이후 어디에서 안정적으로 생존하고 있는지, 이미 멸종했는지는 확정되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "Does the Large Mammal First Recognized by Science in 1992 Still Survive?",
+      "hook": "The saola became more mysterious after its discovery because confirmed evidence almost vanished for decades.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "뿔 한 쌍이 만든 새로운 종",
+          "headingEn": "A Pair of Horns Reveals a New Species",
+          "textKo": "1992년 베트남 Vu Quang 지역을 조사하던 베트남 산림당국과 WWF 팀은 사냥꾼 집에서 동남아 다른 동물과 맞지 않는 길고 곧은 뿔을 확인했다. 추가 표본과 가죽이 확보되면서 과학계는 대형 포유류의 새로운 종을 인식하게 됐다. 발견은 야생에서 직접 동물을 오래 관찰한 사건이 아니라 지역지식과 표본에서 시작됐다.",
+          "textEn": "In 1992 a joint Vietnamese forestry and WWF survey in the Vu Quang area encountered unusual long, straight horns in a hunter home. Additional remains and skins showed that the material belonged to a large mammal new to science. The discovery began with local knowledge and specimens rather than prolonged direct observation of a living wild animal."
+        },
+        {
+          "blockId": "02",
+          "type": "TAXONOMY",
+          "headingKo": "영양처럼 보이지만 소과에 가깝다",
+          "headingEn": "Antelope-Like, but Related to Wild Cattle",
+          "textKo": "사올라는 외형 때문에 영양처럼 묘사되지만 계통적으로는 소과에 속한다. 긴 평행한 뿔과 흰 얼굴무늬가 특징이며 베트남·라오스 경계의 안남산맥 숲에 제한적으로 분포한다. 20세기 말까지 대형 포유류가 과학적으로 새로 기록될 수 있었다는 점이 발견 자체를 유명하게 만들었다.",
+          "textEn": "The saola resembles an antelope but belongs within the cattle family. Its parallel horns and white facial markings are distinctive, and its range is restricted to forest in the Annamite Mountains along the Vietnam–Laos border. Recognition of such a large mammal in the late twentieth century made the discovery extraordinary."
+        },
+        {
+          "blockId": "03",
+          "type": "LOCAL_KNOWLEDGE",
+          "headingKo": "‘인류에게 처음 발견’은 아니다",
+          "headingEn": "Not the First Human Discovery",
+          "textKo": "현지 사냥꾼과 주민은 과학자들보다 오래 전부터 이 동물을 알고 있었다. 따라서 1992년은 인간에게 처음 발견된 날짜가 아니라 서구·국제 과학 분류체계에 공식적으로 편입된 시점이다. 희귀종의 발견사를 쓸 때 지역사회의 기존 지식을 지우지 않는 것이 중요하다.",
+          "textEn": "Local hunters and communities knew the animal before scientists classified it. The 1992 date therefore marks entry into international zoological science, not the first human awareness of the species. Accurate discovery history should preserve that distinction."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE",
+          "headingKo": "사진보다 흔적이 더 드물어졌다",
+          "headingEn": "Confirmed Records Became Extremely Sparse",
+          "textKo": "확인된 야생 사진과 포획 기록은 극히 적다. IUCN은 1999년 라오스 카메라트랩 사진, 2010년 포획 뒤 곧 죽은 개체, 2013년 베트남 카메라트랩 자료 같은 제한된 기록을 강조한다. 2021년에는 2013년 이후 확정적 검출이 없다는 점이 보전위기의 핵심으로 제시됐다.",
+          "textEn": "Wild photographs and capture records are exceptionally rare. IUCN highlights camera-trap images from Laos in 1999, a captured animal that died in 2010, and a 2013 camera-trap record in Vietnam. By 2021 experts stressed that there had been no conclusive detection since 2013."
+        },
+        {
+          "blockId": "05",
+          "type": "THREAT",
+          "headingKo": "보이지 않는다고 안전한 것이 아니다",
+          "headingEn": "Being Unseen Does Not Mean Being Safe",
+          "textKo": "사올라의 가장 큰 위협은 광범위한 올무 사냥과 서식지 압력이다. 특정 동물을 노리지 않은 올무도 사올라 같은 희귀종에는 치명적이다. 개체수가 매우 적을 때는 생존개체를 찾는 것 자체가 어려워져 ‘없어서 못 찾는지, 숨어 있어서 못 찾는지’ 구분하기 힘들어진다.",
+          "textEn": "Widespread wire snaring and habitat pressure are major threats. Snares set for other wildlife can still kill an extremely rare saola. At very low density, finding the last animals becomes difficult, creating a dangerous ambiguity between absence, extreme rarity, and survey failure."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "미검출은 멸종 증명인가",
+          "headingEn": "Does Non-Detection Prove Extinction?",
+          "textKo": "오랫동안 사진이 없다는 사실은 매우 우려스럽지만 곧바로 멸종을 증명하지는 않는다. 울창한 산악림, 매우 낮은 밀도, 제한된 조사범위는 미검출 가능성을 높인다. 반대로 희귀성을 낭만적으로 해석해 충분한 증거 없이 ‘분명 살아 있다’고 말하는 것도 과학적이지 않다.",
+          "textEn": "A long gap without confirmed evidence is alarming but not automatic proof of extinction. Dense mountain forest, tiny population size, and incomplete survey coverage all reduce detection. The opposite claim—that the species must still survive somewhere—also requires evidence rather than hope."
+        },
+        {
+          "blockId": "07",
+          "type": "SEARCH",
+          "headingKo": "찾는 기술도 바뀌고 있다",
+          "headingEn": "The Search Methods Are Changing",
+          "textKo": "현대 조사는 카메라트랩뿐 아니라 환경 DNA, 탐지견, 지역정보 네트워크 등 여러 방법을 결합하려 한다. 목표는 단순한 사진 한 장보다 생존지역을 좁혀 실제 보전조치를 가능하게 하는 것이다. 사올라 미스터리의 해결은 곧 보전시간표와 직결된다.",
+          "textEn": "Modern searches combine camera traps with environmental DNA, detection dogs, and local information networks. The goal is not merely another photograph but enough location evidence to direct urgent protection. Resolving the mystery is inseparable from conservation action."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 바꿀까",
+          "headingEn": "What Would Change the Assessment",
+          "textKo": "새로운 확정 사진, 유전적으로 검증된 분변·털, 신선한 사체나 살아있는 개체의 과학적 확인이 나오면 현재 상태를 크게 갱신할 수 있다. 반대로 광범위하고 반복된 조사에서도 수년간 검출이 없다는 자료가 축적되면 멸종 가능성 평가가 더 강해질 수 있다. 사올라처럼 극희귀종에서는 ‘마지막 확정 기록 이후 몇 년이 지났는가’만큼 ‘얼마나 넓은 잠재서식지를 어떤 탐지확률로 조사했는가’가 중요하다. 조사강도가 낮으면 미검출의 의미도 약하고, 조사강도가 높아질수록 같은 미검출이 더 강한 증거가 된다.",
+          "textEn": "A new verified photograph, genetically confirmed hair or dung, a fresh carcass, or a scientifically documented living animal would immediately update the status. Conversely, increasingly intensive surveys with continued non-detection would strengthen extinction-risk assessments. For an ultra-rare species, years since the last confirmed record matter less than they seem without survey effort. The evidentiary meaning of non-detection depends on how much potential habitat was searched and with what probability of detection."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 사올라는 1992년 베트남 정부·WWF 조사에서 과학계에 새로 알려졌고, 이후 극소수의 사진·포획기록으로 존재가 확인됐다. IUCN은 심각한 올무 사냥과 장기간의 미검출을 핵심 위기로 본다.\n\nNOT ESTABLISHED: 현재 야생 개체수가 정확히 몇 마리인지, 2013년 이후 어디에서 안정적으로 생존하고 있는지, 이미 멸종했는지는 확정되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: the saola was recognized by science in 1992 through a Vietnamese government and WWF survey and has since been confirmed by a very small number of photographs and capture records. IUCN identifies snaring and long-term non-detection as major concerns.\n\nNOT ESTABLISHED: the exact current wild population, a secure surviving location after 2013, and whether the species is already extinct remain unresolved."
+        }
+      ],
+      "factBoundary": {
+        "established": "the saola was recognized by science in 1992 through a Vietnamese government and WWF survey and has since been confirmed by a very small number of photographs and capture records. IUCN identifies snaring and long-term non-detection as major concerns.",
+        "notEstablished": "the exact current wild population, a secure surviving location after 2013, and whether the species is already extinct remain unresolved."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SAOLA_DISCOVERY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "사올라는 1992년 베트남 정부·WWF 조사에서 과학계에 새로 알려졌고, 이후 극소수의 사진·포획기록으로 존재가 확인됐다. IUCN은 심각한 올무 사냥과 장기간의 미검출을 핵심 위기로 본다.",
+      "statementEn": "the saola was recognized by science in 1992 through a Vietnamese government and WWF survey and has since been confirmed by a very small number of photographs and capture records. IUCN identifies snaring and long-term non-detection as major concerns.",
+      "sourceRefs": [
+        "IUCN_SAOLA_2012",
+        "IUCN_SAOLA_2021",
+        "WWF_SAOLA"
+      ]
+    },
+    {
+      "claimId": "SAOLA_DISCOVERY-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 야생 개체수가 정확히 몇 마리인지, 2013년 이후 어디에서 안정적으로 생존하고 있는지, 이미 멸종했는지는 확정되지 않았다.",
+      "statementEn": "the exact current wild population, a secure surviving location after 2013, and whether the species is already extinct remain unresolved.",
+      "sourceRefs": [
+        "IUCN_SAOLA_2012",
+        "IUCN_SAOLA_2021",
+        "WWF_SAOLA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "IUCN_SAOLA_2012",
+      "title": "Saola still a mystery 20 years after its spectacular debut",
+      "publisher": "IUCN",
+      "url": "https://iucn.org/content/saola-still-a-mystery-20-years-after-its-spectacular-debut",
+      "sourceType": "CONSERVATION_INSTITUTION"
+    },
+    {
+      "sourceId": "IUCN_SAOLA_2021",
+      "title": "IUCN SSC experts urge for immediate action to find Saola",
+      "publisher": "IUCN",
+      "url": "https://iucn.org/news/species-survival-commission/202108/iucn-ssc-experts-urge-immediate-action-find-saola-its-too-late",
+      "sourceType": "CONSERVATION_INSTITUTION"
+    },
+    {
+      "sourceId": "WWF_SAOLA",
+      "title": "Saola",
+      "publisher": "WWF",
+      "url": "https://www.worldwildlife.org/species/saola/",
+      "sourceType": "CONSERVATION_INSTITUTION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "saola-discovery-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "IUCN_SAOLA_2012",
+        "IUCN_SAOLA_2021",
+        "WWF_SAOLA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "saola-discovery__saola-discovery-v01__ko.png",
+          "sha256": "e8ad6e951180438eea9ce98dc655bd8724efd17aeff9693e84343923ba71a544",
+          "width": 1600,
+          "height": 900,
+          "fileName": "saola-discovery__saola-discovery-v01__ko.png"
+        },
+        "en": {
+          "file": "saola-discovery__saola-discovery-v01__en.png",
+          "sha256": "3dba823f001fe83ef87dee97bef740d4fc7d2d0337a705b39b26ca2bd224cc7d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "saola-discovery__saola-discovery-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "saola-discovery-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "IUCN_SAOLA_2012",
+        "IUCN_SAOLA_2021",
+        "WWF_SAOLA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "saola-discovery__saola-discovery-v02__ko.png",
+          "sha256": "77e685c8ef761289ab0464a5c1534bbf23820d2492b082a1187a1aecf1a215a9",
+          "width": 1600,
+          "height": 900,
+          "fileName": "saola-discovery__saola-discovery-v02__ko.png"
+        },
+        "en": {
+          "file": "saola-discovery__saola-discovery-v02__en.png",
+          "sha256": "1dd4f846b01bfa5d524d4c959c06d90c499f9393a18106e7d1566901494f33f3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "saola-discovery__saola-discovery-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "saola-discovery-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "IUCN_SAOLA_2012",
+        "IUCN_SAOLA_2021",
+        "WWF_SAOLA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "saola-discovery__saola-discovery-v03__ko.png",
+          "sha256": "393c61e6e26693cd5d156fb0cddca8e370da308e3fa8d527f5d84b4723f02867",
+          "width": 1600,
+          "height": 900,
+          "fileName": "saola-discovery__saola-discovery-v03__ko.png"
+        },
+        "en": {
+          "file": "saola-discovery__saola-discovery-v03__en.png",
+          "sha256": "953a3e68333a36ca113f14fa0c8a59f2281b445a299a062739ccbc8a37584a62",
+          "width": 1600,
+          "height": 900,
+          "fileName": "saola-discovery__saola-discovery-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Vietnam / Laos",
+    "era": "1992–present",
+    "genre": "Rare Animal / Conservation Mystery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Rare Animal / Conservation Mystery",
+    "resolution": "unknown",
+    "countries": [
+      "Vietnam / Laos"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1548,
+    "enBodyWords": 441
+  }
+}

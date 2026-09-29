@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "batch42-clean.zip",
+  "sourcePack": "batch43-clean.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -142,6 +142,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "af447-flight-recorder",
+      "title": {
+        "ko": "에어프랑스 447편 블랙박스 수색",
+        "en": "The Search for Air France 447’s Flight Recorders"
+      },
+      "headline": {
+        "ko": "3900미터 해저의 블랙박스가 사고 원인을 어떻게 바꿨나",
+        "en": "How Did Flight Recorders Recovered from 3,900 Metres Change the AF447 Investigation?"
+      },
+      "hook": {
+        "ko": "2년 가까이 찾지 못했던 잔해와 기록장치가 발견되자, 조종실에서 실제로 벌어진 일이 추측이 아니라 데이터가 됐다.",
+        "en": "After nearly two years without the main wreckage, recorders recovered from 3,900 metres turned cockpit speculation into data."
+      },
+      "aliases": [],
+      "genre": "Aviation / Deep-Sea Investigation",
+      "genres": [],
+      "countries": [
+        "Atlantic Ocean / France / Brazil"
+      ],
+      "regions": [],
+      "era": "2009–2012",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "af447-flight-recorder-v01",
+      "heroFile": {
+        "ko": "af447-flight-recorder__af447-flight-recorder-v01__ko.png",
+        "en": "af447-flight-recorder__af447-flight-recorder-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -538,6 +596,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "antarctic-ozone-hole-1985",
+      "title": {
+        "ko": "1985년 남극 오존 구멍 발견",
+        "en": "The 1985 Discovery of the Antarctic Ozone Hole"
+      },
+      "headline": {
+        "ko": "위성시대에도 남극 오존 급감이 늦게 알려진 이유는 무엇이었나",
+        "en": "Why Was the Antarctic Ozone Hole a Surprise in the Satellite Era?"
+      },
+      "hook": {
+        "ko": "영국 남극기지의 장기 지상관측이 ‘너무 낮아 보이는’ 오존값을 끝까지 버리지 않았고, 1985년 세계적 경보가 됐다.",
+        "en": "Long-term ground observations kept the extremely low ozone measurements instead of dismissing them, leading to a global alarm in 1985."
+      },
+      "aliases": [],
+      "genre": "Atmospheric Science / Unexpected Discovery",
+      "genres": [],
+      "countries": [
+        "Antarctica / United Kingdom"
+      ],
+      "regions": [],
+      "era": "1957–present / discovery 1985",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "antarctic-ozone-hole-1985-v01",
+      "heroFile": {
+        "ko": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v01__ko.png",
+        "en": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -2864,6 +2980,64 @@
       }
     },
     {
+      "canonicalId": "colossal-squid-2007",
+      "title": {
+        "ko": "2007년 콜로설 오징어 표본",
+        "en": "The 2007 Colossal Squid Specimen"
+      },
+      "headline": {
+        "ko": "심해의 ‘괴물’은 어떻게 실제 표본이 되었나",
+        "en": "How a Deep-Sea “Monster” Became a Real Museum Specimen"
+      },
+      "hook": {
+        "ko": "2007년 로스해에서 올라온 거대한 암컷 표본은 전설처럼 떠돌던 동물을 해부·측정 가능한 실제 생물로 바꿨다.",
+        "en": "A huge female recovered from the Ross Sea in 2007 turned a legendary deep-sea animal into a specimen that could be measured and studied."
+      },
+      "aliases": [],
+      "genre": "Natural History / Rare Animal",
+      "genres": [],
+      "countries": [
+        "Antarctica / New Zealand"
+      ],
+      "regions": [],
+      "era": "2007–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "colossal-squid-2007-v01",
+      "heroFile": {
+        "ko": "colossal-squid-2007__colossal-squid-2007-v01__ko.png",
+        "en": "colossal-squid-2007__colossal-squid-2007-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "copper-scroll",
       "title": {
         "ko": "구리 두루마리",
@@ -3316,6 +3490,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "denisovan-finger-genome",
+      "title": {
+        "ko": "손가락뼈 한 조각의 데니소바인",
+        "en": "The Finger Bone That Revealed the Denisovans"
+      },
+      "headline": {
+        "ko": "작은 손가락뼈에서 어떻게 새로운 고대 인류집단이 드러났나",
+        "en": "How Did a Tiny Finger Bone Reveal an Ancient Human Population?"
+      },
+      "hook": {
+        "ko": "형태만으로는 정체를 알기 어려운 작은 뼈 조각에서 DNA를 읽어, 네안데르탈인과도 다른 계통이 확인됐다.",
+        "en": "DNA from a small bone fragment revealed a lineage distinct from both modern humans and Neanderthals."
+      },
+      "aliases": [],
+      "genre": "Human Origins / Genetic Discovery",
+      "genres": [],
+      "countries": [
+        "Russia / Asia"
+      ],
+      "regions": [],
+      "era": "2008–2010 discovery / prehistoric",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "denisovan-finger-genome-v01",
+      "heroFile": {
+        "ko": "denisovan-finger-genome__denisovan-finger-genome-v01__ko.png",
+        "en": "denisovan-finger-genome__denisovan-finger-genome-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4263,6 +4495,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "four-corners-hantavirus-1993",
+      "title": {
+        "ko": "1993년 포코너스 원인불명 폐질환",
+        "en": "The 1993 Four Corners Hantavirus Outbreak"
+      },
+      "headline": {
+        "ko": "건강하던 젊은 사람들이 급격히 폐부종으로 쓰러진 원인은 무엇이었나",
+        "en": "What Caused Healthy Young Adults to Develop Sudden Fatal Pulmonary Failure in 1993?"
+      },
+      "hook": {
+        "ko": "포코너스 지역의 원인불명 호흡부전은 몇 주 만에 새 한타바이러스와 사슴쥐 저장숙주로 연결됐다.",
+        "en": "A mysterious pulmonary syndrome in the Four Corners region was linked within weeks to a newly recognized hantavirus and its deer-mouse reservoir."
+      },
+      "aliases": [],
+      "genre": "Medical Mystery / Emerging Infection",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1993",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "four-corners-hantavirus-1993-v01",
+      "heroFile": {
+        "ko": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v01__ko.png",
+        "en": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -6744,6 +7034,64 @@
       }
     },
     {
+      "canonicalId": "john-snow-broad-street",
+      "title": {
+        "ko": "존 스노의 브로드 스트리트 콜레라 지도",
+        "en": "John Snow and the Broad Street Cholera Map"
+      },
+      "headline": {
+        "ko": "점으로 찍은 사망자 지도는 어떻게 우물 하나를 의심하게 했나",
+        "en": "How a Death Map Helped Focus Suspicion on One Water Pump"
+      },
+      "hook": {
+        "ko": "1854년 런던의 콜레라 유행에서 존 스노는 발병 위치와 물공급을 연결해 전염경로를 좁혔다.",
+        "en": "During London’s 1854 cholera outbreak, John Snow linked case geography to water supply and narrowed the route of transmission."
+      },
+      "aliases": [],
+      "genre": "Epidemiology / Solved Cause",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [],
+      "era": "1854–1855",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "john-snow-broad-street-v01",
+      "heroFile": {
+        "ko": "john-snow-broad-street__john-snow-broad-street-v01__ko.png",
+        "en": "john-snow-broad-street__john-snow-broad-street-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "k2-18b-biosignature",
       "title": {
         "ko": "K2-18 b 생명지표 논쟁",
@@ -7207,6 +7555,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Tier selected to match source density and uncertainty; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "legionnaires-1976-outbreak",
+      "title": {
+        "ko": "1976년 레지오넬라병 역학조사",
+        "en": "The 1976 Legionnaires’ Disease Investigation"
+      },
+      "headline": {
+        "ko": "호텔 집단폐렴의 원인을 찾는 데 왜 반년이 걸렸나",
+        "en": "Why Did It Take Months to Identify the Cause of the 1976 Hotel Outbreak?"
+      },
+      "hook": {
+        "ko": "필라델피아 재향군인대회 뒤 발생한 치명적 폐렴은 독극물·바이러스·테러설까지 낳았지만 결국 새로운 세균이 분리됐다.",
+        "en": "A deadly pneumonia outbreak after a Philadelphia convention generated theories ranging from toxins to viruses before a previously unrecognized bacterium was isolated."
+      },
+      "aliases": [],
+      "genre": "Medical Mystery / Outbreak Investigation",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1976–1977",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "legionnaires-1976-outbreak-v01",
+      "heroFile": {
+        "ko": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v01__ko.png",
+        "en": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -7788,6 +8194,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mars-climate-orbiter-loss",
+      "title": {
+        "ko": "화성 기후 궤도선의 단위 변환 실패",
+        "en": "The Mars Climate Orbiter Unit-Conversion Failure"
+      },
+      "headline": {
+        "ko": "3억 달러급 우주선은 왜 ‘미터와 파운드’ 때문에 화성에서 사라졌나",
+        "en": "How Did a Unit-Conversion Failure Send a Mars Spacecraft Too Low?"
+      },
+      "hook": {
+        "ko": "사고조사는 단순 계산실수보다 인터페이스·검증·조직절차가 함께 무너진 시스템 실패를 보여줬다.",
+        "en": "The loss is remembered as a metric-versus-English-units error, but the investigation exposed a broader failure of interfaces, verification, and process."
+      },
+      "aliases": [],
+      "genre": "Engineering Failure / Explained Mystery",
+      "genres": [],
+      "countries": [
+        "United States / Mars"
+      ],
+      "regions": [],
+      "era": "1998–1999",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "mars-climate-orbiter-loss-v01",
+      "heroFile": {
+        "ko": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v01__ko.png",
+        "en": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9114,6 +9578,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "muryeong-tomb-epitaph",
+      "title": {
+        "ko": "무령왕릉 묘지석이 밝힌 주인",
+        "en": "The Epitaph That Identified King Muryeong’s Tomb"
+      },
+      "headline": {
+        "ko": "백제 왕릉의 주인을 단번에 밝혀낸 돌판은 무엇을 적고 있었나",
+        "en": "How Two Stone Epitaphs Identified a Baekje Royal Tomb"
+      },
+      "hook": {
+        "ko": "도굴되지 않은 무덤 안에서 나온 묘지석은 이름·사망일·매장일을 남겨, 삼국시대 왕릉 가운데 드문 확정 신원사례를 만들었다.",
+        "en": "Stone epitaphs inside an undisturbed tomb preserved names and dates, creating one of the rare securely identified royal burials of Korea’s Three Kingdoms period."
+      },
+      "aliases": [],
+      "genre": "Archaeology / Identity Resolution",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "523–525 CE / discovered 1971",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "muryeong-tomb-epitaph-v01",
+      "heroFile": {
+        "ko": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v01__ko.png",
+        "en": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -13254,6 +13776,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "saola-discovery",
+      "title": {
+        "ko": "사올라 발견과 사라지는 흔적",
+        "en": "The Discovery and Disappearance of the Saola"
+      },
+      "headline": {
+        "ko": "1992년에 처음 과학계에 알려진 대형 포유류는 지금도 살아 있을까",
+        "en": "Does the Large Mammal First Recognized by Science in 1992 Still Survive?"
+      },
+      "hook": {
+        "ko": "사올라는 ‘발견’ 자체보다 그 뒤 30년 동안 거의 보이지 않았다는 사실 때문에 더 큰 미스터리가 됐다.",
+        "en": "The saola became more mysterious after its discovery because confirmed evidence almost vanished for decades."
+      },
+      "aliases": [],
+      "genre": "Rare Animal / Conservation Mystery",
+      "genres": [],
+      "countries": [
+        "Vietnam / Laos"
+      ],
+      "regions": [],
+      "era": "1992–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "saola-discovery-v01",
+      "heroFile": {
+        "ko": "saola-discovery__saola-discovery-v01__ko.png",
+        "en": "saola-discovery__saola-discovery-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

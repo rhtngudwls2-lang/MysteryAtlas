@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "antarctic-ozone-hole-1985",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1985년 남극 오존 구멍 발견",
+    "canonicalTitleEn": "The 1985 Discovery of the Antarctic Ozone Hole",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "위성시대에도 남극 오존 급감이 늦게 알려진 이유는 무엇이었나",
+      "hook": "영국 남극기지의 장기 지상관측이 ‘너무 낮아 보이는’ 오존값을 끝까지 버리지 않았고, 1985년 세계적 경보가 됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "봄마다 이상하게 낮아지는 값",
+          "headingEn": "Values Falling Every Antarctic Spring",
+          "textKo": "British Antarctic Survey는 1950년대부터 남극 Halley 기지에서 대기오존을 장기측정했다. 1980년대 초 연구자들은 남극 봄철 오존량이 과거보다 급격히 낮아지는 패턴을 확인했다. 단년 이상치가 아니라 여러 해 반복되는 변화였다.",
+          "textEn": "British Antarctic Survey had measured atmospheric ozone at Halley for decades. By the early 1980s researchers saw springtime ozone falling far below the historical range. It was not one anomalous year but a repeated pattern."
+        },
+        {
+          "blockId": "02",
+          "type": "DISCOVERY",
+          "headingKo": "1985년 Nature 논문",
+          "headingEn": "The 1985 Nature Paper",
+          "textKo": "Joe Farman, Brian Gardiner, Jonathan Shanklin은 1985년 장기 관측자료를 분석해 남극 성층권 오존이 봄철 심각하게 감소한다는 결과를 발표했다. 이 발견은 ‘오존 구멍’이라는 이름으로 세계적 관심을 받았다.",
+          "textEn": "Joe Farman, Brian Gardiner, and Jonathan Shanklin analysed the long record and published the dramatic Antarctic spring depletion in 1985. The phenomenon quickly became known worldwide as the ozone hole."
+        },
+        {
+          "blockId": "03",
+          "type": "SATELLITE",
+          "headingKo": "위성이 있었는데 왜 놀랐나",
+          "headingEn": "Why Was It a Surprise in the Satellite Era?",
+          "textKo": "당시 위성도 오존을 관측하고 있었지만 극단적으로 낮은 값이 품질관리 과정에서 비정상치로 처리되거나 즉시 강조되지 않은 문제가 있었다. 반면 지상관측은 기기와 보정을 반복 확인하며 실제 변화 가능성을 추적했다. 자동 필터와 인간 검증의 관계를 보여주는 유명한 사례다.",
+          "textEn": "Satellites were already measuring ozone, but extremely low values could be treated as suspicious by data-processing and quality-control systems rather than immediately highlighted. Ground observers repeatedly checked instruments and calibration instead of discarding the trend. The episode became a famous lesson in automated filtering and human verification."
+        },
+        {
+          "blockId": "04",
+          "type": "CHEMISTRY",
+          "headingKo": "CFC와 극지 성층권 화학",
+          "headingEn": "CFCs and Polar Stratospheric Chemistry",
+          "textKo": "후속 연구는 CFC에서 유래한 염소화합물이 매우 낮은 남극 성층권 온도와 극지성층권구름 조건에서 활성화돼 봄철 햇빛이 돌아올 때 오존을 빠르게 파괴하는 메커니즘을 확립했다. 단순 상관관계에서 반응화학까지 증거가 확장됐다.",
+          "textEn": "Later research established how chlorine compounds derived from CFCs become chemically active under extremely cold Antarctic stratospheric conditions and polar stratospheric clouds, then rapidly destroy ozone when sunlight returns in spring. Evidence moved from correlation to a detailed reaction mechanism."
+        },
+        {
+          "blockId": "05",
+          "type": "POLICY",
+          "headingKo": "발견이 국제정책으로 연결되다",
+          "headingEn": "From Observation to International Policy",
+          "textKo": "오존층 파괴 증거는 1987년 Montreal Protocol과 이후 규제강화의 과학적 배경이 됐다. 과학관측이 국제환경협약과 산업물질 규제로 직접 이어진 대표 사례다. 정책효과 평가는 배출감소와 대기농도, 오존회복 추세를 장기간 추적해 이뤄진다.",
+          "textEn": "The evidence contributed to the scientific basis for the 1987 Montreal Protocol and later strengthening of controls on ozone-depleting substances. It became a major example of atmospheric measurement leading to coordinated global environmental regulation."
+        },
+        {
+          "blockId": "06",
+          "type": "RECOVERY",
+          "headingKo": "회복은 느리다",
+          "headingEn": "Recovery Is Slow",
+          "textKo": "오존파괴물질의 대기수명이 길기 때문에 규제를 시작했다고 즉시 오존층이 복구되는 것은 아니다. 해마다 기상조건에 따라 오존 구멍의 크기와 깊이가 달라진다. 한 해의 큰 구멍이나 작은 구멍만으로 장기회복 추세를 판단하면 안 된다.",
+          "textEn": "Ozone-depleting chemicals can remain in the atmosphere for decades, so regulation does not produce immediate restoration. Weather conditions also change the size and depth of the hole from year to year. One unusually large or small year cannot define the long-term trend."
+        },
+        {
+          "blockId": "07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "발견이 ‘과학이 틀렸다’는 증거인가",
+          "headingEn": "Did the Discovery Show That Science Had Failed?",
+          "textKo": "초기 위성처리에서 극단값이 제대로 주목되지 않았다는 사실은 과학이 무용했다는 뜻이 아니다. 오히려 서로 다른 관측체계와 반복검증이 오류 가능성을 찾아내고 새로운 현상을 확정한 사례다. 과학적 교정과 재검토가 작동한 것이다.",
+          "textEn": "Problems in early handling of extreme satellite values do not show that ozone science was useless. Independent measurement systems and repeated verification ultimately exposed the anomaly and corrected the interpretation. That is scientific self-correction working."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 확정했나",
+          "headingEn": "What Made the Causal Explanation Strong",
+          "textKo": "지상 Dobson 관측, 위성자료 재분석, 실험실 반응화학, 성층권 관측, 오존파괴물질 추세가 서로 독립적으로 맞아떨어졌다. 그래서 CFC와 남극 오존 고갈의 인과설명은 강하다. 남은 질문은 주로 회복속도와 기후변화가 성층권에 미치는 상호작용이다. 오존 구멍의 역사에서 장기관측은 특히 중요하다. 한 번의 극단값은 기기오류일 수 있지만, 같은 계절에 반복되고 독립장비와 위성 재분석이 일치하면 자연현상으로서의 신뢰도가 급격히 높아진다. 장기환경관측망은 바로 이런 ‘느리게 커지는 이상’을 발견하기 위해 존재한다. Montreal Protocol 이후 오존파괴물질의 대기농도가 감소하는 방향은 관측으로 확인되지만, 남극 오존의 완전한 회복은 수십 년 규모의 장기과정으로 평가된다. 단기 변동과 장기추세를 구분해야 한다.",
+          "textEn": "Ground Dobson measurements, reprocessed satellite data, laboratory chemistry, stratospheric observations, and trends in ozone-depleting substances converged. The causal role of CFC-derived chlorine in Antarctic depletion is therefore strong; current questions focus more on recovery speed and interactions with climate change. Long-term monitoring was crucial. One extreme value could be an instrument problem, but repeated seasonal decline confirmed by independent instruments and reprocessed satellite data rapidly increases confidence that the anomaly is real rather than noise. Atmospheric concentrations of major ozone-depleting substances declined after controls, but Antarctic ozone recovery is a multi-decadal process; short-term variability must be separated from long-term trend."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: BAS 연구진은 장기 지상관측을 통해 1985년 남극 봄철의 급격한 오존 감소를 보고했고, 후속 연구는 인공 CFC에서 유래한 염소화학을 핵심 원인으로 확립했다.\n\nNOT ESTABLISHED: 특정 한 해의 오존 구멍 크기만으로 장기회복의 성공·실패를 단정하거나, 발견 당시의 위성처리 문제를 전체 오존과학의 부정으로 해석하는 것은 타당하지 않다.",
+          "textEn": "CONFIRMED / SUPPORTED: BAS scientists reported severe Antarctic spring ozone depletion in 1985 using long-term ground observations, and subsequent research established chlorine chemistry from human-made CFCs as a central cause.\n\nNOT ESTABLISHED: one year’s ozone-hole size cannot by itself prove long-term recovery success or failure, and early satellite-processing problems do not invalidate the broader ozone science."
+        }
+      ],
+      "factBoundary": {
+        "established": "BAS 연구진은 장기 지상관측을 통해 1985년 남극 봄철의 급격한 오존 감소를 보고했고, 후속 연구는 인공 CFC에서 유래한 염소화학을 핵심 원인으로 확립했다.",
+        "notEstablished": "특정 한 해의 오존 구멍 크기만으로 장기회복의 성공·실패를 단정하거나, 발견 당시의 위성처리 문제를 전체 오존과학의 부정으로 해석하는 것은 타당하지 않다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "Why Was the Antarctic Ozone Hole a Surprise in the Satellite Era?",
+      "hook": "Long-term ground observations kept the extremely low ozone measurements instead of dismissing them, leading to a global alarm in 1985.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "봄마다 이상하게 낮아지는 값",
+          "headingEn": "Values Falling Every Antarctic Spring",
+          "textKo": "British Antarctic Survey는 1950년대부터 남극 Halley 기지에서 대기오존을 장기측정했다. 1980년대 초 연구자들은 남극 봄철 오존량이 과거보다 급격히 낮아지는 패턴을 확인했다. 단년 이상치가 아니라 여러 해 반복되는 변화였다.",
+          "textEn": "British Antarctic Survey had measured atmospheric ozone at Halley for decades. By the early 1980s researchers saw springtime ozone falling far below the historical range. It was not one anomalous year but a repeated pattern."
+        },
+        {
+          "blockId": "02",
+          "type": "DISCOVERY",
+          "headingKo": "1985년 Nature 논문",
+          "headingEn": "The 1985 Nature Paper",
+          "textKo": "Joe Farman, Brian Gardiner, Jonathan Shanklin은 1985년 장기 관측자료를 분석해 남극 성층권 오존이 봄철 심각하게 감소한다는 결과를 발표했다. 이 발견은 ‘오존 구멍’이라는 이름으로 세계적 관심을 받았다.",
+          "textEn": "Joe Farman, Brian Gardiner, and Jonathan Shanklin analysed the long record and published the dramatic Antarctic spring depletion in 1985. The phenomenon quickly became known worldwide as the ozone hole."
+        },
+        {
+          "blockId": "03",
+          "type": "SATELLITE",
+          "headingKo": "위성이 있었는데 왜 놀랐나",
+          "headingEn": "Why Was It a Surprise in the Satellite Era?",
+          "textKo": "당시 위성도 오존을 관측하고 있었지만 극단적으로 낮은 값이 품질관리 과정에서 비정상치로 처리되거나 즉시 강조되지 않은 문제가 있었다. 반면 지상관측은 기기와 보정을 반복 확인하며 실제 변화 가능성을 추적했다. 자동 필터와 인간 검증의 관계를 보여주는 유명한 사례다.",
+          "textEn": "Satellites were already measuring ozone, but extremely low values could be treated as suspicious by data-processing and quality-control systems rather than immediately highlighted. Ground observers repeatedly checked instruments and calibration instead of discarding the trend. The episode became a famous lesson in automated filtering and human verification."
+        },
+        {
+          "blockId": "04",
+          "type": "CHEMISTRY",
+          "headingKo": "CFC와 극지 성층권 화학",
+          "headingEn": "CFCs and Polar Stratospheric Chemistry",
+          "textKo": "후속 연구는 CFC에서 유래한 염소화합물이 매우 낮은 남극 성층권 온도와 극지성층권구름 조건에서 활성화돼 봄철 햇빛이 돌아올 때 오존을 빠르게 파괴하는 메커니즘을 확립했다. 단순 상관관계에서 반응화학까지 증거가 확장됐다.",
+          "textEn": "Later research established how chlorine compounds derived from CFCs become chemically active under extremely cold Antarctic stratospheric conditions and polar stratospheric clouds, then rapidly destroy ozone when sunlight returns in spring. Evidence moved from correlation to a detailed reaction mechanism."
+        },
+        {
+          "blockId": "05",
+          "type": "POLICY",
+          "headingKo": "발견이 국제정책으로 연결되다",
+          "headingEn": "From Observation to International Policy",
+          "textKo": "오존층 파괴 증거는 1987년 Montreal Protocol과 이후 규제강화의 과학적 배경이 됐다. 과학관측이 국제환경협약과 산업물질 규제로 직접 이어진 대표 사례다. 정책효과 평가는 배출감소와 대기농도, 오존회복 추세를 장기간 추적해 이뤄진다.",
+          "textEn": "The evidence contributed to the scientific basis for the 1987 Montreal Protocol and later strengthening of controls on ozone-depleting substances. It became a major example of atmospheric measurement leading to coordinated global environmental regulation."
+        },
+        {
+          "blockId": "06",
+          "type": "RECOVERY",
+          "headingKo": "회복은 느리다",
+          "headingEn": "Recovery Is Slow",
+          "textKo": "오존파괴물질의 대기수명이 길기 때문에 규제를 시작했다고 즉시 오존층이 복구되는 것은 아니다. 해마다 기상조건에 따라 오존 구멍의 크기와 깊이가 달라진다. 한 해의 큰 구멍이나 작은 구멍만으로 장기회복 추세를 판단하면 안 된다.",
+          "textEn": "Ozone-depleting chemicals can remain in the atmosphere for decades, so regulation does not produce immediate restoration. Weather conditions also change the size and depth of the hole from year to year. One unusually large or small year cannot define the long-term trend."
+        },
+        {
+          "blockId": "07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "발견이 ‘과학이 틀렸다’는 증거인가",
+          "headingEn": "Did the Discovery Show That Science Had Failed?",
+          "textKo": "초기 위성처리에서 극단값이 제대로 주목되지 않았다는 사실은 과학이 무용했다는 뜻이 아니다. 오히려 서로 다른 관측체계와 반복검증이 오류 가능성을 찾아내고 새로운 현상을 확정한 사례다. 과학적 교정과 재검토가 작동한 것이다.",
+          "textEn": "Problems in early handling of extreme satellite values do not show that ozone science was useless. Independent measurement systems and repeated verification ultimately exposed the anomaly and corrected the interpretation. That is scientific self-correction working."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 결론을 확정했나",
+          "headingEn": "What Made the Causal Explanation Strong",
+          "textKo": "지상 Dobson 관측, 위성자료 재분석, 실험실 반응화학, 성층권 관측, 오존파괴물질 추세가 서로 독립적으로 맞아떨어졌다. 그래서 CFC와 남극 오존 고갈의 인과설명은 강하다. 남은 질문은 주로 회복속도와 기후변화가 성층권에 미치는 상호작용이다. 오존 구멍의 역사에서 장기관측은 특히 중요하다. 한 번의 극단값은 기기오류일 수 있지만, 같은 계절에 반복되고 독립장비와 위성 재분석이 일치하면 자연현상으로서의 신뢰도가 급격히 높아진다. 장기환경관측망은 바로 이런 ‘느리게 커지는 이상’을 발견하기 위해 존재한다. Montreal Protocol 이후 오존파괴물질의 대기농도가 감소하는 방향은 관측으로 확인되지만, 남극 오존의 완전한 회복은 수십 년 규모의 장기과정으로 평가된다. 단기 변동과 장기추세를 구분해야 한다.",
+          "textEn": "Ground Dobson measurements, reprocessed satellite data, laboratory chemistry, stratospheric observations, and trends in ozone-depleting substances converged. The causal role of CFC-derived chlorine in Antarctic depletion is therefore strong; current questions focus more on recovery speed and interactions with climate change. Long-term monitoring was crucial. One extreme value could be an instrument problem, but repeated seasonal decline confirmed by independent instruments and reprocessed satellite data rapidly increases confidence that the anomaly is real rather than noise. Atmospheric concentrations of major ozone-depleting substances declined after controls, but Antarctic ozone recovery is a multi-decadal process; short-term variability must be separated from long-term trend."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: BAS 연구진은 장기 지상관측을 통해 1985년 남극 봄철의 급격한 오존 감소를 보고했고, 후속 연구는 인공 CFC에서 유래한 염소화학을 핵심 원인으로 확립했다.\n\nNOT ESTABLISHED: 특정 한 해의 오존 구멍 크기만으로 장기회복의 성공·실패를 단정하거나, 발견 당시의 위성처리 문제를 전체 오존과학의 부정으로 해석하는 것은 타당하지 않다.",
+          "textEn": "CONFIRMED / SUPPORTED: BAS scientists reported severe Antarctic spring ozone depletion in 1985 using long-term ground observations, and subsequent research established chlorine chemistry from human-made CFCs as a central cause.\n\nNOT ESTABLISHED: one year’s ozone-hole size cannot by itself prove long-term recovery success or failure, and early satellite-processing problems do not invalidate the broader ozone science."
+        }
+      ],
+      "factBoundary": {
+        "established": "BAS scientists reported severe Antarctic spring ozone depletion in 1985 using long-term ground observations, and subsequent research established chlorine chemistry from human-made CFCs as a central cause.",
+        "notEstablished": "one year’s ozone-hole size cannot by itself prove long-term recovery success or failure, and early satellite-processing problems do not invalidate the broader ozone science."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ANTARCTIC_OZONE_HOLE_1985-C1",
+      "status": "CONFIRMED",
+      "statementKo": "BAS 연구진은 장기 지상관측을 통해 1985년 남극 봄철의 급격한 오존 감소를 보고했고, 후속 연구는 인공 CFC에서 유래한 염소화학을 핵심 원인으로 확립했다.",
+      "statementEn": "BAS scientists reported severe Antarctic spring ozone depletion in 1985 using long-term ground observations, and subsequent research established chlorine chemistry from human-made CFCs as a central cause.",
+      "sourceRefs": [
+        "BAS_OZONE_HISTORY",
+        "BAS_OZONE_40"
+      ]
+    },
+    {
+      "claimId": "ANTARCTIC_OZONE_HOLE_1985-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "특정 한 해의 오존 구멍 크기만으로 장기회복의 성공·실패를 단정하거나, 발견 당시의 위성처리 문제를 전체 오존과학의 부정으로 해석하는 것은 타당하지 않다.",
+      "statementEn": "one year’s ozone-hole size cannot by itself prove long-term recovery success or failure, and early satellite-processing problems do not invalidate the broader ozone science.",
+      "sourceRefs": [
+        "BAS_OZONE_HISTORY",
+        "BAS_OZONE_40"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BAS_OZONE_HISTORY",
+      "title": "The ozone hole discovery",
+      "publisher": "British Antarctic Survey",
+      "url": "https://www.bas.ac.uk/about/history/ozone-hole-discovery/",
+      "sourceType": "RESEARCH_INSTITUTION"
+    },
+    {
+      "sourceId": "BAS_OZONE_40",
+      "title": "Marking 40 years since the discovery of the ozone hole",
+      "publisher": "British Antarctic Survey",
+      "url": "https://www.bas.ac.uk/news/marking-40-years-since-the-discovery-of-the-ozone-hole/",
+      "sourceType": "RESEARCH_INSTITUTION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "antarctic-ozone-hole-1985-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "BAS_OZONE_HISTORY",
+        "BAS_OZONE_40"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v01__ko.png",
+          "sha256": "06a94b36820a835fb8606d1315726cf7c658db04632aed96d37a84c2e4cf4686",
+          "width": 1600,
+          "height": 900,
+          "fileName": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v01__ko.png"
+        },
+        "en": {
+          "file": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v01__en.png",
+          "sha256": "d194068df744cad761d868de7a391bc726d016dc5cb90dde7c9df6dd2e90db24",
+          "width": 1600,
+          "height": 900,
+          "fileName": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "antarctic-ozone-hole-1985-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "BAS_OZONE_HISTORY",
+        "BAS_OZONE_40"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v02__ko.png",
+          "sha256": "87e53b8b335fb1b8c284e606efacb9a1ec9f7c017d1beef5c34136bd18e815e9",
+          "width": 1600,
+          "height": 900,
+          "fileName": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v02__ko.png"
+        },
+        "en": {
+          "file": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v02__en.png",
+          "sha256": "209e034725435f712b6eb412bd7071e75bb83445a168a8e9f17acdf5e855638a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "antarctic-ozone-hole-1985-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "BAS_OZONE_HISTORY",
+        "BAS_OZONE_40"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v03__ko.png",
+          "sha256": "8adceeb8d69f437afcac3e449009ef2248ef5092f4d3120391ccbca040d16112",
+          "width": 1600,
+          "height": 900,
+          "fileName": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v03__ko.png"
+        },
+        "en": {
+          "file": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v03__en.png",
+          "sha256": "65bbc13d031e082b8d4e01dabb1421f1eb521bc5f891838d59dfa2a0faf5e021",
+          "width": 1600,
+          "height": 900,
+          "fileName": "antarctic-ozone-hole-1985__antarctic-ozone-hole-1985-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Antarctica / United Kingdom",
+    "era": "1957–present / discovery 1985",
+    "genre": "Atmospheric Science / Unexpected Discovery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Atmospheric Science / Unexpected Discovery",
+    "resolution": "unknown",
+    "countries": [
+      "Antarctica / United Kingdom"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1554,
+    "enBodyWords": 419
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "legionnaires-1976-outbreak",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1976년 레지오넬라병 역학조사",
+    "canonicalTitleEn": "The 1976 Legionnaires’ Disease Investigation",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "호텔 집단폐렴의 원인을 찾는 데 왜 반년이 걸렸나",
+      "hook": "필라델피아 재향군인대회 뒤 발생한 치명적 폐렴은 독극물·바이러스·테러설까지 낳았지만 결국 새로운 세균이 분리됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "재향군인 대회 뒤의 폐렴",
+          "headingEn": "Pneumonia After an American Legion Convention",
+          "textKo": "1976년 7월 필라델피아에서 열린 American Legion 대회 참석자들 사이에서 고열·기침·폐렴이 잇따랐다. 초기 집계는 빠르게 늘었고 사망자도 발생했다. 같은 행사에 참석한 사람들에게 집중됐지만 흔한 병원체 검사에서는 원인이 잡히지 않았다.",
+          "textEn": "After a July 1976 American Legion convention in Philadelphia, attendees developed fever, cough, and severe pneumonia. Case counts rose quickly and deaths followed. Illness clustered around the event, yet routine testing did not reveal a familiar cause."
+        },
+        {
+          "blockId": "02",
+          "type": "UNKNOWN",
+          "headingKo": "원인이 보이지 않자 가설이 폭발했다",
+          "headingEn": "Uncertainty Generated Many Hypotheses",
+          "textKo": "CDC의 당시 기록은 세균·바이러스뿐 아니라 중금속, 독성물질 같은 가능성까지 검토됐음을 보여준다. 몇 달 동안 원인체가 분리되지 않자 언론과 대중의 추측도 커졌다. 원인불명 집단발병에서는 ‘검출 실패’가 쉽게 비정상적 가설의 공간을 만든다.",
+          "textEn": "CDC’s historical records show that investigators considered bacteria, viruses, heavy metals, and other toxic exposures. Months without a clear organism encouraged public speculation. An unexplained outbreak creates room for dramatic theories when ordinary tests keep failing."
+        },
+        {
+          "blockId": "03",
+          "type": "EPIDEMIOLOGY",
+          "headingKo": "사람 간 전파가 아닌 환경노출",
+          "headingEn": "An Environmental Pattern Rather Than Simple Person-to-Person Spread",
+          "textKo": "조사에서 가족이나 접촉자 사이의 2차 전파가 뚜렷하지 않았고, 특정 장소·기간에 노출된 사람에게 위험이 높았다. 이 패턴은 사람에서 사람으로 빠르게 퍼지는 일반적 호흡기 유행과 달랐다. 역학패턴이 병원체의 전파방식을 좁히는 단서가 됐다.",
+          "textEn": "Investigators found no clear wave of secondary transmission among families and close contacts. Risk instead clustered around a particular place and time. That pattern differed from many ordinary contagious respiratory outbreaks and helped narrow the possible route of exposure."
+        },
+        {
+          "blockId": "04",
+          "type": "LAB",
+          "headingKo": "1977년 세균 분리",
+          "headingEn": "A Bacterium Is Isolated in 1977",
+          "textKo": "1977년 1월 CDC는 치명적 사례의 폐조직에서 새로운 세균성 병원체를 분리했다고 보고했다. 이후 이 균은 Legionella pneumophila로 명명되고 레지오넬라병이라는 질환개념이 확립됐다. 미스터리는 초자연적 사건이 아니라 당시 검사체계가 익숙하지 않은 병원체를 찾는 과정이었다.",
+          "textEn": "In January 1977 CDC reported isolation of a bacterial agent from lung tissue of fatal cases. The organism was later established as Legionella pneumophila and the disease became known as Legionnaires’ disease. The mystery was ultimately a problem of detecting an unfamiliar pathogen."
+        },
+        {
+          "blockId": "05",
+          "type": "ENVIRONMENT",
+          "headingKo": "물과 냉각설비의 중요성",
+          "headingEn": "Water Systems Became Part of Epidemiology",
+          "textKo": "Legionella는 물환경에서 증식하고 미세한 물방울을 통해 노출될 수 있다. 후대 연구는 냉각탑·온수시스템·배관 같은 인공 수계가 관리되지 않을 때 위험을 키울 수 있음을 보여줬다. 1976년 사건은 건물설비가 감염병 역학의 일부가 될 수 있음을 각인시켰다.",
+          "textEn": "Legionella can grow in water systems and spread through inhaled aerosols. Later work showed that cooling towers, hot-water systems, and plumbing can create risk when conditions permit growth. The 1976 outbreak helped establish building water systems as an important public-health environment."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "초기 오진은 무능의 증거인가",
+          "headingEn": "Was the Delay Simply Incompetence?",
+          "textKo": "새로운 병원체를 기존 검사법으로 못 찾았다는 사실을 단순 무능으로 볼 수는 없다. 당시 연구진은 반복적으로 가설을 수정하고 조직배양·동물실험·혈청검사를 조합했다. 새 질환을 확인하는 과정은 정답을 알고 푸는 문제가 아니라 검사체계 자체를 확장하는 작업이었다.",
+          "textEn": "Failure to detect a new organism with existing tests is not the same as negligence. Investigators repeatedly revised hypotheses and combined animal studies, pathology, culture methods, and serology. Discovering a new disease requires expanding the tools, not merely choosing the right answer from a known list."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "초기 MMWR와 후속보고를 함께 읽는다",
+          "headingEn": "Read the First and Follow-Up MMWR Reports Together",
+          "textKo": "1976년 첫 MMWR에는 원인체가 없고 환자·사망 규모와 임상양상이 중심이다. 1977년 후속보고에는 병원체 분리가 등장한다. 두 문서를 순서대로 읽으면 당시 지식이 어떻게 업데이트됐는지 보이며, 후대 지식을 초기문서에 소급하지 않게 된다.",
+          "textEn": "The 1976 report focuses on cases, deaths, and clinical pattern without an identified cause. The 1977 report introduces the isolated organism. Reading them in sequence shows knowledge being updated and prevents later information from being projected backward into the first days of the outbreak."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "왜 이 사건은 ‘해결된 미스터리’인가",
+          "headingEn": "Why This Became a Solved Mystery",
+          "textKo": "원인균 분리, 환자 혈청반응, 후속 환경·임상연구가 서로 맞물리면서 원인체와 질환이 재현가능한 형태로 정리됐다. 오늘날에도 레지오넬라 집단발병은 발생하지만, 1976년처럼 병원체의 존재 자체가 미지인 상황은 아니다. 원인균이 확인된 뒤에는 과거의 설명도 다시 분류됐다. 초기에 고려한 독성물질이나 바이러스 가설은 당시에는 합리적 탐색범위였지만, 후속 배양·혈청·역학증거가 축적된 뒤에도 같은 비중으로 남겨둘 이유는 없었다. 미스터리 해결은 모든 가설을 영구히 동등하게 두는 과정이 아니다. 이후 같은 균이 이전의 미해결 폐렴 표본에서도 확인되면서 1976년 사건만의 특이현상이 아니라 과거부터 존재하던 감염병이 뒤늦게 인식된 것임이 드러났다.",
+          "textEn": "Isolation of the organism, serologic evidence, and later environmental and clinical research converged. Legionnaires’ disease still causes outbreaks, but the pathogen itself is no longer an unknown entity. Once the organism was identified, earlier hypotheses had to be reweighted. Toxic and viral explanations were reasonable to test during uncertainty, but they did not remain equally plausible after culture, serology, and epidemiology converged on Legionella. The organism was later recognized in earlier unexplained pneumonia material, showing that the disease predated the famous 1976 outbreak."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1976년 필라델피아 American Legion 대회와 연관된 중증 폐렴 집단발병이 발생했고, 1977년 CDC 연구에서 원인 세균이 분리돼 이후 Legionella pneumophila로 정립됐다.\n\nNOT ESTABLISHED: 당시 원인불명 기간에 제기된 독극물·테러 등 대안설은 병원체 확인 뒤 사건의 주된 원인으로 지지되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: a severe pneumonia outbreak linked to the 1976 American Legion convention in Philadelphia was investigated, and CDC reported isolation of the causative bacterium in 1977, later established as Legionella pneumophila.\n\nNOT ESTABLISHED: alternative theories involving poisoning or terrorism that circulated during the unexplained phase are not supported as the primary cause after pathogen identification."
+        }
+      ],
+      "factBoundary": {
+        "established": "1976년 필라델피아 American Legion 대회와 연관된 중증 폐렴 집단발병이 발생했고, 1977년 CDC 연구에서 원인 세균이 분리돼 이후 Legionella pneumophila로 정립됐다.",
+        "notEstablished": "당시 원인불명 기간에 제기된 독극물·테러 등 대안설은 병원체 확인 뒤 사건의 주된 원인으로 지지되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "Why Did It Take Months to Identify the Cause of the 1976 Hotel Outbreak?",
+      "hook": "A deadly pneumonia outbreak after a Philadelphia convention generated theories ranging from toxins to viruses before a previously unrecognized bacterium was isolated.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "재향군인 대회 뒤의 폐렴",
+          "headingEn": "Pneumonia After an American Legion Convention",
+          "textKo": "1976년 7월 필라델피아에서 열린 American Legion 대회 참석자들 사이에서 고열·기침·폐렴이 잇따랐다. 초기 집계는 빠르게 늘었고 사망자도 발생했다. 같은 행사에 참석한 사람들에게 집중됐지만 흔한 병원체 검사에서는 원인이 잡히지 않았다.",
+          "textEn": "After a July 1976 American Legion convention in Philadelphia, attendees developed fever, cough, and severe pneumonia. Case counts rose quickly and deaths followed. Illness clustered around the event, yet routine testing did not reveal a familiar cause."
+        },
+        {
+          "blockId": "02",
+          "type": "UNKNOWN",
+          "headingKo": "원인이 보이지 않자 가설이 폭발했다",
+          "headingEn": "Uncertainty Generated Many Hypotheses",
+          "textKo": "CDC의 당시 기록은 세균·바이러스뿐 아니라 중금속, 독성물질 같은 가능성까지 검토됐음을 보여준다. 몇 달 동안 원인체가 분리되지 않자 언론과 대중의 추측도 커졌다. 원인불명 집단발병에서는 ‘검출 실패’가 쉽게 비정상적 가설의 공간을 만든다.",
+          "textEn": "CDC’s historical records show that investigators considered bacteria, viruses, heavy metals, and other toxic exposures. Months without a clear organism encouraged public speculation. An unexplained outbreak creates room for dramatic theories when ordinary tests keep failing."
+        },
+        {
+          "blockId": "03",
+          "type": "EPIDEMIOLOGY",
+          "headingKo": "사람 간 전파가 아닌 환경노출",
+          "headingEn": "An Environmental Pattern Rather Than Simple Person-to-Person Spread",
+          "textKo": "조사에서 가족이나 접촉자 사이의 2차 전파가 뚜렷하지 않았고, 특정 장소·기간에 노출된 사람에게 위험이 높았다. 이 패턴은 사람에서 사람으로 빠르게 퍼지는 일반적 호흡기 유행과 달랐다. 역학패턴이 병원체의 전파방식을 좁히는 단서가 됐다.",
+          "textEn": "Investigators found no clear wave of secondary transmission among families and close contacts. Risk instead clustered around a particular place and time. That pattern differed from many ordinary contagious respiratory outbreaks and helped narrow the possible route of exposure."
+        },
+        {
+          "blockId": "04",
+          "type": "LAB",
+          "headingKo": "1977년 세균 분리",
+          "headingEn": "A Bacterium Is Isolated in 1977",
+          "textKo": "1977년 1월 CDC는 치명적 사례의 폐조직에서 새로운 세균성 병원체를 분리했다고 보고했다. 이후 이 균은 Legionella pneumophila로 명명되고 레지오넬라병이라는 질환개념이 확립됐다. 미스터리는 초자연적 사건이 아니라 당시 검사체계가 익숙하지 않은 병원체를 찾는 과정이었다.",
+          "textEn": "In January 1977 CDC reported isolation of a bacterial agent from lung tissue of fatal cases. The organism was later established as Legionella pneumophila and the disease became known as Legionnaires’ disease. The mystery was ultimately a problem of detecting an unfamiliar pathogen."
+        },
+        {
+          "blockId": "05",
+          "type": "ENVIRONMENT",
+          "headingKo": "물과 냉각설비의 중요성",
+          "headingEn": "Water Systems Became Part of Epidemiology",
+          "textKo": "Legionella는 물환경에서 증식하고 미세한 물방울을 통해 노출될 수 있다. 후대 연구는 냉각탑·온수시스템·배관 같은 인공 수계가 관리되지 않을 때 위험을 키울 수 있음을 보여줬다. 1976년 사건은 건물설비가 감염병 역학의 일부가 될 수 있음을 각인시켰다.",
+          "textEn": "Legionella can grow in water systems and spread through inhaled aerosols. Later work showed that cooling towers, hot-water systems, and plumbing can create risk when conditions permit growth. The 1976 outbreak helped establish building water systems as an important public-health environment."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "초기 오진은 무능의 증거인가",
+          "headingEn": "Was the Delay Simply Incompetence?",
+          "textKo": "새로운 병원체를 기존 검사법으로 못 찾았다는 사실을 단순 무능으로 볼 수는 없다. 당시 연구진은 반복적으로 가설을 수정하고 조직배양·동물실험·혈청검사를 조합했다. 새 질환을 확인하는 과정은 정답을 알고 푸는 문제가 아니라 검사체계 자체를 확장하는 작업이었다.",
+          "textEn": "Failure to detect a new organism with existing tests is not the same as negligence. Investigators repeatedly revised hypotheses and combined animal studies, pathology, culture methods, and serology. Discovering a new disease requires expanding the tools, not merely choosing the right answer from a known list."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "초기 MMWR와 후속보고를 함께 읽는다",
+          "headingEn": "Read the First and Follow-Up MMWR Reports Together",
+          "textKo": "1976년 첫 MMWR에는 원인체가 없고 환자·사망 규모와 임상양상이 중심이다. 1977년 후속보고에는 병원체 분리가 등장한다. 두 문서를 순서대로 읽으면 당시 지식이 어떻게 업데이트됐는지 보이며, 후대 지식을 초기문서에 소급하지 않게 된다.",
+          "textEn": "The 1976 report focuses on cases, deaths, and clinical pattern without an identified cause. The 1977 report introduces the isolated organism. Reading them in sequence shows knowledge being updated and prevents later information from being projected backward into the first days of the outbreak."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "왜 이 사건은 ‘해결된 미스터리’인가",
+          "headingEn": "Why This Became a Solved Mystery",
+          "textKo": "원인균 분리, 환자 혈청반응, 후속 환경·임상연구가 서로 맞물리면서 원인체와 질환이 재현가능한 형태로 정리됐다. 오늘날에도 레지오넬라 집단발병은 발생하지만, 1976년처럼 병원체의 존재 자체가 미지인 상황은 아니다. 원인균이 확인된 뒤에는 과거의 설명도 다시 분류됐다. 초기에 고려한 독성물질이나 바이러스 가설은 당시에는 합리적 탐색범위였지만, 후속 배양·혈청·역학증거가 축적된 뒤에도 같은 비중으로 남겨둘 이유는 없었다. 미스터리 해결은 모든 가설을 영구히 동등하게 두는 과정이 아니다. 이후 같은 균이 이전의 미해결 폐렴 표본에서도 확인되면서 1976년 사건만의 특이현상이 아니라 과거부터 존재하던 감염병이 뒤늦게 인식된 것임이 드러났다.",
+          "textEn": "Isolation of the organism, serologic evidence, and later environmental and clinical research converged. Legionnaires’ disease still causes outbreaks, but the pathogen itself is no longer an unknown entity. Once the organism was identified, earlier hypotheses had to be reweighted. Toxic and viral explanations were reasonable to test during uncertainty, but they did not remain equally plausible after culture, serology, and epidemiology converged on Legionella. The organism was later recognized in earlier unexplained pneumonia material, showing that the disease predated the famous 1976 outbreak."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1976년 필라델피아 American Legion 대회와 연관된 중증 폐렴 집단발병이 발생했고, 1977년 CDC 연구에서 원인 세균이 분리돼 이후 Legionella pneumophila로 정립됐다.\n\nNOT ESTABLISHED: 당시 원인불명 기간에 제기된 독극물·테러 등 대안설은 병원체 확인 뒤 사건의 주된 원인으로 지지되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: a severe pneumonia outbreak linked to the 1976 American Legion convention in Philadelphia was investigated, and CDC reported isolation of the causative bacterium in 1977, later established as Legionella pneumophila.\n\nNOT ESTABLISHED: alternative theories involving poisoning or terrorism that circulated during the unexplained phase are not supported as the primary cause after pathogen identification."
+        }
+      ],
+      "factBoundary": {
+        "established": "a severe pneumonia outbreak linked to the 1976 American Legion convention in Philadelphia was investigated, and CDC reported isolation of the causative bacterium in 1977, later established as Legionella pneumophila.",
+        "notEstablished": "alternative theories involving poisoning or terrorism that circulated during the unexplained phase are not supported as the primary cause after pathogen identification."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LEGIONNAIRES_1976_OUTBREAK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1976년 필라델피아 American Legion 대회와 연관된 중증 폐렴 집단발병이 발생했고, 1977년 CDC 연구에서 원인 세균이 분리돼 이후 Legionella pneumophila로 정립됐다.",
+      "statementEn": "a severe pneumonia outbreak linked to the 1976 American Legion convention in Philadelphia was investigated, and CDC reported isolation of the causative bacterium in 1977, later established as Legionella pneumophila.",
+      "sourceRefs": [
+        "CDC_1976",
+        "CDC_1977"
+      ]
+    },
+    {
+      "claimId": "LEGIONNAIRES_1976_OUTBREAK-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "당시 원인불명 기간에 제기된 독극물·테러 등 대안설은 병원체 확인 뒤 사건의 주된 원인으로 지지되지 않는다.",
+      "statementEn": "alternative theories involving poisoning or terrorism that circulated during the unexplained phase are not supported as the primary cause after pathogen identification.",
+      "sourceRefs": [
+        "CDC_1976",
+        "CDC_1977"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CDC_1976",
+      "title": "Respiratory Infection -- Pennsylvania",
+      "publisher": "CDC MMWR",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/lmrk053.htm",
+      "sourceType": "PUBLIC_HEALTH_OFFICIAL"
+    },
+    {
+      "sourceId": "CDC_1977",
+      "title": "Follow-up on Respiratory Illness -- Philadelphia",
+      "publisher": "CDC MMWR",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00045731.htm",
+      "sourceType": "PUBLIC_HEALTH_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "legionnaires-1976-outbreak-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "CDC_1976",
+        "CDC_1977"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v01__ko.png",
+          "sha256": "2ac6b88feb5e51c1ba01cbd9de1bb89ed34676e7c8d7b6e74bcd681d24bc333d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v01__ko.png"
+        },
+        "en": {
+          "file": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v01__en.png",
+          "sha256": "2db2b3bd1cc3bb9d8733b4188210b5f38e318b44095033ad611d469f3e7eb064",
+          "width": 1600,
+          "height": 900,
+          "fileName": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "legionnaires-1976-outbreak-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "CDC_1976",
+        "CDC_1977"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v02__ko.png",
+          "sha256": "ec945a12a83a1121c5d1ce89269e254686c907903ee05a2725e2307cdbf5c7d0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v02__ko.png"
+        },
+        "en": {
+          "file": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v02__en.png",
+          "sha256": "07a3e8fcd2877ce5b9f8ed89bbee5914a3c7aa750bbd0bcbfbb19545bd5a2e12",
+          "width": 1600,
+          "height": 900,
+          "fileName": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "legionnaires-1976-outbreak-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "CDC_1976",
+        "CDC_1977"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v03__ko.png",
+          "sha256": "4e7e242d5acfedc7f84de57b98e7db1f914091458a4bc244857c9c6636c5484d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v03__ko.png"
+        },
+        "en": {
+          "file": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v03__en.png",
+          "sha256": "5a09faf650bf8540c8e453922c92b7fba3b6218714db4fb962d7b5f3c0ffbb9c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "legionnaires-1976-outbreak__legionnaires-1976-outbreak-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States",
+    "era": "1976–1977",
+    "genre": "Medical Mystery / Outbreak Investigation",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Medical Mystery / Outbreak Investigation",
+    "resolution": "unknown",
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1566,
+    "enBodyWords": 426
+  }
+}

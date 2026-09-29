@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "mars-climate-orbiter-loss",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "화성 기후 궤도선의 단위 변환 실패",
+    "canonicalTitleEn": "The Mars Climate Orbiter Unit-Conversion Failure",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "3억 달러급 우주선은 왜 ‘미터와 파운드’ 때문에 화성에서 사라졌나",
+      "hook": "사고조사는 단순 계산실수보다 인터페이스·검증·조직절차가 함께 무너진 시스템 실패를 보여줬다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "화성 진입 직전 연락 두절",
+          "headingEn": "Contact Lost at Mars",
+          "textKo": "Mars Climate Orbiter는 화성 기후를 연구하고 다른 탐사선의 통신중계를 맡기 위해 1998년 발사됐다. 1999년 9월 화성 궤도진입 과정에서 예상보다 낮은 고도로 접근했고 교신이 끊겼다. 임무는 복구되지 않았다.",
+          "textEn": "Mars Climate Orbiter launched in 1998 to study the Martian climate and relay communications. During Mars orbit insertion in September 1999 it approached much lower than expected and contact was lost. The mission was never recovered."
+        },
+        {
+          "blockId": "02",
+          "type": "UNITS",
+          "headingKo": "영국식 단위와 미터법",
+          "headingEn": "English Units Meet Metric Navigation",
+          "textKo": "NASA 설명에 따르면 지상 소프트웨어의 한 부분은 추력정보를 영국식 단위로 제공했고 항법시스템은 미터법 값을 기대했다. 변환되지 않은 데이터가 누적되면서 궤도 예측이 틀어졌다. ‘단위를 틀렸다’는 요약은 사실이지만 그것만으로 전체 사고과정을 설명하기에는 부족하다.",
+          "textEn": "NASA explains that one ground-software interface delivered thrust information in English units while the navigation system expected metric values. The unconverted data accumulated into a trajectory error. The famous units mismatch is real, but it is not the whole systems story."
+        },
+        {
+          "blockId": "03",
+          "type": "TRAJECTORY",
+          "headingKo": "작은 오차가 누적되다",
+          "headingEn": "Small Errors Accumulate",
+          "textKo": "행성간 비행에서는 작은 항법편차가 시간이 지나며 큰 위치차이로 이어질 수 있다. 탐사선은 화성에 너무 가까이 접근한 것으로 분석됐고 대기에서 소실됐을 가능성이 높다. 단위오류는 물리적으로 위험한 궤도차이로 변환됐다.",
+          "textEn": "In interplanetary navigation, small discrepancies can grow over time. The spacecraft was calculated to have passed too close to Mars and was likely destroyed in the atmosphere. A software-interface mismatch became a physical trajectory hazard."
+        },
+        {
+          "blockId": "04",
+          "type": "SYSTEM",
+          "headingKo": "왜 자동으로 잡히지 않았나",
+          "headingEn": "Why Was the Mismatch Not Caught?",
+          "textKo": "중요한 질문은 서로 다른 단위를 쓰는 두 시스템이 왜 인터페이스 검증에서 걸러지지 않았느냐이다. 소프트웨어 요구사항, 데이터형식, 독립검증, 항법추세 감시가 충분히 연결되지 않았다. 사고는 계산 한 줄보다 시스템엔지니어링과 조직 커뮤니케이션 실패를 보여준다.",
+          "textEn": "The deeper question is why incompatible units passed through interface verification. Requirements, data-format control, independent checking, and trend monitoring did not form an effective defense. The loss illustrates systems-engineering and organizational failure rather than one bad arithmetic operation."
+        },
+        {
+          "blockId": "05",
+          "type": "WARNING",
+          "headingKo": "이상징후는 있었지만 해석되지 않았다",
+          "headingEn": "There Were Signs, but Not the Right Interpretation",
+          "textKo": "항법팀은 임무 중 예상과 다른 궤도추세를 관측했다. 그러나 그 차이를 단위 인터페이스 문제까지 추적하지 못했다. 복잡한 시스템에서는 경고가 ‘없었다’기보다 여러 팀 사이에서 의미가 충분히 공유되지 않는 경우가 위험하다.",
+          "textEn": "Navigation teams observed trajectory behaviour that differed from expectation. The discrepancy was not traced to the units interface in time. Complex systems often fail not because warnings are absent, but because their meaning is not integrated across teams."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘초보적 실수’라는 조롱의 한계",
+          "headingEn": "The Limits of the “Beginner Mistake” Story",
+          "textKo": "미터법과 파운드법 혼동은 이해하기 쉬워 사고가 우스운 실수처럼 소비되지만, 고신뢰 시스템의 핵심은 인간이 실수하지 않는 것이 아니라 실수가 임무상실까지 이어지지 않도록 방어층을 만드는 것이다. 사고조사의 가치는 바로 그 방어층이 어디서 무너졌는지 찾는 데 있다.",
+          "textEn": "The metric-versus-English error is easy to mock. High-reliability engineering, however, assumes people will make mistakes and builds barriers so one mistake cannot destroy a mission. Accident analysis matters because it identifies the missing barriers."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "NASA 절차가 바뀌다",
+          "headingEn": "Process Lessons for Later Missions",
+          "textKo": "사고 뒤 NASA는 시스템엔지니어링·독립검증·인터페이스 관리의 중요성을 재강조했다. 후속 화성임무는 이런 교훈을 반영했다. 실패는 비싼 손실이었지만 우주개발에서 표준화와 검증문화를 설명하는 대표 사례가 됐다.",
+          "textEn": "NASA reinforced systems engineering, independent verification, and interface management after the loss. Later Mars missions incorporated those lessons. The failed spacecraft became a standard case study in why technical standards and verification culture matter."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "원인은 얼마나 확정됐나",
+          "headingEn": "How Certain Is the Cause?",
+          "textKo": "NASA는 임무 실패를 단위 변환이 되지 않은 항법데이터와 그 오류를 포착하지 못한 절차적 실패로 공식 정리한다. 따라서 원인 자체는 미스터리가 아니다. 남은 교훈은 어떤 조직설계가 같은 유형의 인터페이스 실패를 막을 수 있는가이다. 단위 불일치는 한 번의 숫자입력 실수가 아니라 반복적으로 사용되는 인터페이스 값의 규약문제였다. 그래서 재발방지는 ‘더 조심하자’보다 단위·자료형을 기계적으로 검증하고, 독립 항법추정과 실제 추세가 일정 범위를 벗어나면 강제로 문제를 제기하는 절차를 만드는 쪽에 가깝다. 같은 유형의 실수를 막으려면 코드 리뷰만으로 부족하다. 요구사항 문서와 테스트케이스에서 단위를 명시하고, 인터페이스 단계에서 자동 변환·범위검사를 수행하며, 비행 중 독립된 경로추정으로 결과를 교차검증해야 한다.",
+          "textEn": "NASA officially attributes the loss to unconverted navigation data and the process failures that allowed it through. The cause is therefore not an unresolved mystery. The continuing question is how organizations design interfaces so the same class of error cannot propagate. The units mismatch was a recurring interface-contract problem, not one isolated keystroke. Prevention therefore depends on machine-checkable units, independent navigation estimates, and escalation rules when observed trends depart from predicted ranges. Preventing recurrence requires explicit units in requirements and tests, automated interface checks, and independent navigation estimates rather than relying on code review alone."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Mars Climate Orbiter는 1999년 화성 도착 때 소실됐고 NASA는 지상 소프트웨어의 영국식 단위와 항법측의 미터법 기대값 불일치를 핵심 원인으로 공식 설명한다.\n\nNOT ESTABLISHED: 단일 개발자의 단순 실수 하나만이 사고 전체를 설명한다는 서사는 다층적인 검증·인터페이스·조직 실패를 과도하게 축약한다.",
+          "textEn": "CONFIRMED / SUPPORTED: Mars Climate Orbiter was lost on arrival at Mars in 1999, and NASA officially identifies a mismatch between English-unit ground data and metric navigation expectations as a central cause.\n\nNOT ESTABLISHED: reducing the entire accident to one careless developer hides the broader failures of verification, interface control, and organization documented by the investigation."
+        }
+      ],
+      "factBoundary": {
+        "established": "Mars Climate Orbiter는 1999년 화성 도착 때 소실됐고 NASA는 지상 소프트웨어의 영국식 단위와 항법측의 미터법 기대값 불일치를 핵심 원인으로 공식 설명한다.",
+        "notEstablished": "단일 개발자의 단순 실수 하나만이 사고 전체를 설명한다는 서사는 다층적인 검증·인터페이스·조직 실패를 과도하게 축약한다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Unit-Conversion Failure Send a Mars Spacecraft Too Low?",
+      "hook": "The loss is remembered as a metric-versus-English-units error, but the investigation exposed a broader failure of interfaces, verification, and process.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "화성 진입 직전 연락 두절",
+          "headingEn": "Contact Lost at Mars",
+          "textKo": "Mars Climate Orbiter는 화성 기후를 연구하고 다른 탐사선의 통신중계를 맡기 위해 1998년 발사됐다. 1999년 9월 화성 궤도진입 과정에서 예상보다 낮은 고도로 접근했고 교신이 끊겼다. 임무는 복구되지 않았다.",
+          "textEn": "Mars Climate Orbiter launched in 1998 to study the Martian climate and relay communications. During Mars orbit insertion in September 1999 it approached much lower than expected and contact was lost. The mission was never recovered."
+        },
+        {
+          "blockId": "02",
+          "type": "UNITS",
+          "headingKo": "영국식 단위와 미터법",
+          "headingEn": "English Units Meet Metric Navigation",
+          "textKo": "NASA 설명에 따르면 지상 소프트웨어의 한 부분은 추력정보를 영국식 단위로 제공했고 항법시스템은 미터법 값을 기대했다. 변환되지 않은 데이터가 누적되면서 궤도 예측이 틀어졌다. ‘단위를 틀렸다’는 요약은 사실이지만 그것만으로 전체 사고과정을 설명하기에는 부족하다.",
+          "textEn": "NASA explains that one ground-software interface delivered thrust information in English units while the navigation system expected metric values. The unconverted data accumulated into a trajectory error. The famous units mismatch is real, but it is not the whole systems story."
+        },
+        {
+          "blockId": "03",
+          "type": "TRAJECTORY",
+          "headingKo": "작은 오차가 누적되다",
+          "headingEn": "Small Errors Accumulate",
+          "textKo": "행성간 비행에서는 작은 항법편차가 시간이 지나며 큰 위치차이로 이어질 수 있다. 탐사선은 화성에 너무 가까이 접근한 것으로 분석됐고 대기에서 소실됐을 가능성이 높다. 단위오류는 물리적으로 위험한 궤도차이로 변환됐다.",
+          "textEn": "In interplanetary navigation, small discrepancies can grow over time. The spacecraft was calculated to have passed too close to Mars and was likely destroyed in the atmosphere. A software-interface mismatch became a physical trajectory hazard."
+        },
+        {
+          "blockId": "04",
+          "type": "SYSTEM",
+          "headingKo": "왜 자동으로 잡히지 않았나",
+          "headingEn": "Why Was the Mismatch Not Caught?",
+          "textKo": "중요한 질문은 서로 다른 단위를 쓰는 두 시스템이 왜 인터페이스 검증에서 걸러지지 않았느냐이다. 소프트웨어 요구사항, 데이터형식, 독립검증, 항법추세 감시가 충분히 연결되지 않았다. 사고는 계산 한 줄보다 시스템엔지니어링과 조직 커뮤니케이션 실패를 보여준다.",
+          "textEn": "The deeper question is why incompatible units passed through interface verification. Requirements, data-format control, independent checking, and trend monitoring did not form an effective defense. The loss illustrates systems-engineering and organizational failure rather than one bad arithmetic operation."
+        },
+        {
+          "blockId": "05",
+          "type": "WARNING",
+          "headingKo": "이상징후는 있었지만 해석되지 않았다",
+          "headingEn": "There Were Signs, but Not the Right Interpretation",
+          "textKo": "항법팀은 임무 중 예상과 다른 궤도추세를 관측했다. 그러나 그 차이를 단위 인터페이스 문제까지 추적하지 못했다. 복잡한 시스템에서는 경고가 ‘없었다’기보다 여러 팀 사이에서 의미가 충분히 공유되지 않는 경우가 위험하다.",
+          "textEn": "Navigation teams observed trajectory behaviour that differed from expectation. The discrepancy was not traced to the units interface in time. Complex systems often fail not because warnings are absent, but because their meaning is not integrated across teams."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘초보적 실수’라는 조롱의 한계",
+          "headingEn": "The Limits of the “Beginner Mistake” Story",
+          "textKo": "미터법과 파운드법 혼동은 이해하기 쉬워 사고가 우스운 실수처럼 소비되지만, 고신뢰 시스템의 핵심은 인간이 실수하지 않는 것이 아니라 실수가 임무상실까지 이어지지 않도록 방어층을 만드는 것이다. 사고조사의 가치는 바로 그 방어층이 어디서 무너졌는지 찾는 데 있다.",
+          "textEn": "The metric-versus-English error is easy to mock. High-reliability engineering, however, assumes people will make mistakes and builds barriers so one mistake cannot destroy a mission. Accident analysis matters because it identifies the missing barriers."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "NASA 절차가 바뀌다",
+          "headingEn": "Process Lessons for Later Missions",
+          "textKo": "사고 뒤 NASA는 시스템엔지니어링·독립검증·인터페이스 관리의 중요성을 재강조했다. 후속 화성임무는 이런 교훈을 반영했다. 실패는 비싼 손실이었지만 우주개발에서 표준화와 검증문화를 설명하는 대표 사례가 됐다.",
+          "textEn": "NASA reinforced systems engineering, independent verification, and interface management after the loss. Later Mars missions incorporated those lessons. The failed spacecraft became a standard case study in why technical standards and verification culture matter."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "원인은 얼마나 확정됐나",
+          "headingEn": "How Certain Is the Cause?",
+          "textKo": "NASA는 임무 실패를 단위 변환이 되지 않은 항법데이터와 그 오류를 포착하지 못한 절차적 실패로 공식 정리한다. 따라서 원인 자체는 미스터리가 아니다. 남은 교훈은 어떤 조직설계가 같은 유형의 인터페이스 실패를 막을 수 있는가이다. 단위 불일치는 한 번의 숫자입력 실수가 아니라 반복적으로 사용되는 인터페이스 값의 규약문제였다. 그래서 재발방지는 ‘더 조심하자’보다 단위·자료형을 기계적으로 검증하고, 독립 항법추정과 실제 추세가 일정 범위를 벗어나면 강제로 문제를 제기하는 절차를 만드는 쪽에 가깝다. 같은 유형의 실수를 막으려면 코드 리뷰만으로 부족하다. 요구사항 문서와 테스트케이스에서 단위를 명시하고, 인터페이스 단계에서 자동 변환·범위검사를 수행하며, 비행 중 독립된 경로추정으로 결과를 교차검증해야 한다.",
+          "textEn": "NASA officially attributes the loss to unconverted navigation data and the process failures that allowed it through. The cause is therefore not an unresolved mystery. The continuing question is how organizations design interfaces so the same class of error cannot propagate. The units mismatch was a recurring interface-contract problem, not one isolated keystroke. Prevention therefore depends on machine-checkable units, independent navigation estimates, and escalation rules when observed trends depart from predicted ranges. Preventing recurrence requires explicit units in requirements and tests, automated interface checks, and independent navigation estimates rather than relying on code review alone."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Mars Climate Orbiter는 1999년 화성 도착 때 소실됐고 NASA는 지상 소프트웨어의 영국식 단위와 항법측의 미터법 기대값 불일치를 핵심 원인으로 공식 설명한다.\n\nNOT ESTABLISHED: 단일 개발자의 단순 실수 하나만이 사고 전체를 설명한다는 서사는 다층적인 검증·인터페이스·조직 실패를 과도하게 축약한다.",
+          "textEn": "CONFIRMED / SUPPORTED: Mars Climate Orbiter was lost on arrival at Mars in 1999, and NASA officially identifies a mismatch between English-unit ground data and metric navigation expectations as a central cause.\n\nNOT ESTABLISHED: reducing the entire accident to one careless developer hides the broader failures of verification, interface control, and organization documented by the investigation."
+        }
+      ],
+      "factBoundary": {
+        "established": "Mars Climate Orbiter was lost on arrival at Mars in 1999, and NASA officially identifies a mismatch between English-unit ground data and metric navigation expectations as a central cause.",
+        "notEstablished": "reducing the entire accident to one careless developer hides the broader failures of verification, interface control, and organization documented by the investigation."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MARS_CLIMATE_ORBITER_LOSS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Mars Climate Orbiter는 1999년 화성 도착 때 소실됐고 NASA는 지상 소프트웨어의 영국식 단위와 항법측의 미터법 기대값 불일치를 핵심 원인으로 공식 설명한다.",
+      "statementEn": "Mars Climate Orbiter was lost on arrival at Mars in 1999, and NASA officially identifies a mismatch between English-unit ground data and metric navigation expectations as a central cause.",
+      "sourceRefs": [
+        "NASA_MCO",
+        "NASA_MCO_SCIENCE"
+      ]
+    },
+    {
+      "claimId": "MARS_CLIMATE_ORBITER_LOSS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "단일 개발자의 단순 실수 하나만이 사고 전체를 설명한다는 서사는 다층적인 검증·인터페이스·조직 실패를 과도하게 축약한다.",
+      "statementEn": "reducing the entire accident to one careless developer hides the broader failures of verification, interface control, and organization documented by the investigation.",
+      "sourceRefs": [
+        "NASA_MCO",
+        "NASA_MCO_SCIENCE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_MCO",
+      "title": "Mars Climate Orbiter",
+      "publisher": "NASA JPL",
+      "url": "https://www.jpl.nasa.gov/missions/mars-climate-orbiter/",
+      "sourceType": "SPACE_AGENCY_OFFICIAL"
+    },
+    {
+      "sourceId": "NASA_MCO_SCIENCE",
+      "title": "Mars Climate Orbiter",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/mars-climate-orbiter/",
+      "sourceType": "SPACE_AGENCY_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "mars-climate-orbiter-loss-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "NASA_MCO",
+        "NASA_MCO_SCIENCE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v01__ko.png",
+          "sha256": "d25795a1022779a299c4d2d594737075f74d9ad8d4b21b442918b82785c76d2d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v01__ko.png"
+        },
+        "en": {
+          "file": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v01__en.png",
+          "sha256": "e6eb7a8983313f243a173cddb529880f150fedf7d3e2f659a29b3ce2b9e15b1a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "mars-climate-orbiter-loss-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NASA_MCO",
+        "NASA_MCO_SCIENCE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v02__ko.png",
+          "sha256": "107b3dd15b4eb317bdd8a17099486a1dfe39491b225e03dd3b4bd379a72ff7bd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v02__ko.png"
+        },
+        "en": {
+          "file": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v02__en.png",
+          "sha256": "1d42be5927d91580256d145ba9ef3a80a54f34d850227102c91358b017d1084e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "mars-climate-orbiter-loss-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "NASA_MCO",
+        "NASA_MCO_SCIENCE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v03__ko.png",
+          "sha256": "f8dd27bd2335dcebb856f9a2e19c347d1f96e8cea6f4c132e2a28d51cdc8b3a0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v03__ko.png"
+        },
+        "en": {
+          "file": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v03__en.png",
+          "sha256": "8f729829304bca54c5744931b5ed1f24f53c9d045ef9c94769a9d2ec9816258f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mars-climate-orbiter-loss__mars-climate-orbiter-loss-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States / Mars",
+    "era": "1998–1999",
+    "genre": "Engineering Failure / Explained Mystery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Engineering Failure / Explained Mystery",
+    "resolution": "unknown",
+    "countries": [
+      "United States / Mars"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1532,
+    "enBodyWords": 407
+  }
+}

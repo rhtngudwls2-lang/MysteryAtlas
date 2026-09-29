@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "denisovan-finger-genome",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "손가락뼈 한 조각의 데니소바인",
+    "canonicalTitleEn": "The Finger Bone That Revealed the Denisovans",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "작은 손가락뼈에서 어떻게 새로운 고대 인류집단이 드러났나",
+      "hook": "형태만으로는 정체를 알기 어려운 작은 뼈 조각에서 DNA를 읽어, 네안데르탈인과도 다른 계통이 확인됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "시베리아 동굴의 작은 뼈",
+          "headingEn": "A Tiny Bone from a Siberian Cave",
+          "textKo": "데니소바 동굴에서 발견된 작은 손가락뼈 조각은 겉모습만으로 새로운 인류집단을 선언할 만큼 특징적이지 않았다. 그러나 고대 DNA 분석이 가능해지면서 이 작은 표본은 형태보다 유전정보가 먼저 정체를 드러낸 특별한 사례가 됐다.",
+          "textEn": "A small finger-bone fragment from Denisova Cave did not have enough distinctive anatomy to announce a new human group by shape alone. Ancient-DNA technology changed that. Genetic information, rather than morphology, revealed the specimen’s unusual identity."
+        },
+        {
+          "blockId": "02",
+          "type": "DNA",
+          "headingKo": "미토콘드리아 DNA가 이상했다",
+          "headingEn": "The Mitochondrial DNA Was Unexpected",
+          "textKo": "초기 유전분석에서 표본의 미토콘드리아 DNA는 현대인과 네안데르탈인의 알려진 범위와 뚜렷하게 달랐다. 추가 핵게놈 분석은 이 집단이 네안데르탈인과 가까운 친척이지만 별도의 계통을 이룬다는 해석을 강화했다. 새로운 고인류집단이 사실상 DNA로 먼저 정의된 셈이다.",
+          "textEn": "Initial mitochondrial DNA differed strongly from known modern-human and Neanderthal sequences. Nuclear-genome analysis then showed a lineage closely related to Neanderthals but distinct from them. An ancient human population was effectively recognized through genetics first."
+        },
+        {
+          "blockId": "03",
+          "type": "NAME",
+          "headingKo": "이름은 동굴에서 왔다",
+          "headingEn": "Named After the Cave",
+          "textKo": "‘데니소바인’이라는 이름은 특정 해부학적 특징보다 발견장소 Denisova Cave에서 유래했다. 이후 어금니, 티베트 고원 하악골, 다른 아시아 표본들이 유전·단백질 자료와 연결되면서 집단의 지리적 범위가 넓어졌다.",
+          "textEn": "The name Denisovan comes from Denisova Cave rather than a defining anatomical trait. Later teeth, a Tibetan Plateau jaw, and other Asian material connected through genetics or proteins expanded the geographic picture."
+        },
+        {
+          "blockId": "04",
+          "type": "ADMIXTURE",
+          "headingKo": "현대인 안에 남은 유전흔적",
+          "headingEn": "Genetic Traces Survive in Living People",
+          "textKo": "게놈 비교는 데니소바계 유전변이가 오늘날 일부 아시아·오세아니아 인구에 남아 있음을 보여준다. 이는 고대 인류집단들이 완전히 고립된 계통이 아니라 서로 만났고 유전자를 교환했다는 복잡한 인류사를 지지한다.",
+          "textEn": "Genome comparisons show Denisovan-derived variants in some present-day Asian and Oceanian populations. That supports a human past in which ancient groups were not completely isolated but met and exchanged genes."
+        },
+        {
+          "blockId": "05",
+          "type": "LIMIT",
+          "headingKo": "게놈이 얼굴 전체를 알려주지는 않는다",
+          "headingEn": "A Genome Does Not Reconstruct an Entire Face or Culture",
+          "textKo": "DNA로 계통관계와 일부 유전형질 가능성을 추정할 수 있지만, 한 표본의 게놈이 전체 집단의 모습·문화·언어·행동을 복원하지는 못한다. 데니소바인의 화석표본은 여전히 제한적이며 형태적 다양성도 충분히 알려지지 않았다.",
+          "textEn": "DNA can clarify relationships and suggest some traits, but one genome cannot reconstruct the full appearance, culture, language, or behaviour of a population. Denisovan fossil material remains sparse and morphological diversity is poorly known."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘새 종’ 표현은 얼마나 확정적인가",
+          "headingEn": "How Certain Is the “New Species” Label?",
+          "textKo": "대중적으로 Denisovan을 새로운 인류종이라고 부르지만 고인류 분류에서 종의 경계는 복잡하다. 네안데르탈인·현생인류와 실제 유전자교환이 있었기 때문에 생물학적 종 개념 하나로 단순화하기 어렵다. ‘별도 유전계통’은 더 직접적인 표현이다.",
+          "textEn": "Denisovans are often described popularly as a separate human species, but species boundaries in paleoanthropology are complicated. Gene flow with Neanderthals and modern humans makes a simple biological-species label difficult. “Distinct genetic lineage” is the more direct claim."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "작은 표본이 강한 이유",
+          "headingEn": "Why a Small Specimen Can Carry Huge Evidence",
+          "textKo": "표본 크기가 작다고 증거력이 약한 것은 아니다. DNA 보존이 좋고 오염통제가 되면 수십억 개 염기정보를 얻을 수 있다. 반대로 큰 두개골이라도 DNA가 없으면 계통관계의 일부 질문에는 더 불확실할 수 있다. 증거의 물리적 크기와 정보량은 다르다.",
+          "textEn": "Physical size does not determine information value. If ancient DNA is well preserved and contamination is controlled, a tiny fragment can yield enormous genomic information. A large fossil without DNA may answer different questions less precisely."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 더 필요하나",
+          "headingEn": "What Evidence Is Still Needed",
+          "textKo": "아시아 여러 지역에서 유전적으로 확인된 데니소바 화석이 더 발견되면 외형·분포·시대범위를 훨씬 정확히 재구성할 수 있다. 현재는 유전학이 매우 강하지만 화석기록이 상대적으로 희박해, 어떤 형태적 다양성이 한 집단 안에 있었는지는 열려 있다. 데니소바 연구는 고인류학의 증거우선순위를 바꾼 사례이기도 하다. 과거에는 형태적으로 분류하기 어려운 작은 뼈가 연구가치가 낮게 보일 수 있었지만, 단백질체·고대DNA 기술은 겉모양이 거의 없는 조각에서도 계통정보를 얻을 수 있게 했다. 앞으로 미분류 화석의 재검토 가능성도 커졌다. 특히 데니소바계 DNA가 고산 적응과 관련된 일부 현대인 유전자에 기여했다는 연구는, 고대 혼혈이 단순 계보 정보가 아니라 오늘날 생물학적 적응에도 분명한 흔적을 남겼음을 보여준다.",
+          "textEn": "More genetically confirmed Denisovan fossils across Asia would make body form, geographic range, and chronology far clearer. Genetics is powerful, but the sparse fossil record still limits reconstruction of the full population. Denisovan research also changed what counts as an informative fossil. Proteomics and ancient DNA can recover lineage information from fragments with little diagnostic anatomy, making re-examination of previously unclassified material increasingly important. Research linking Denisovan ancestry to some present-day high-altitude adaptations shows that ancient admixture left biologically relevant traces, not just genealogical ones."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Denisova Cave의 작은 손가락뼈와 다른 표본에서 얻은 고대 DNA는 네안데르탈인과 가까우면서도 구별되는 고대 인류계통을 보여주며, 일부 현대인 집단에는 데니소바계 유전흔적이 남아 있다.\n\nNOT ESTABLISHED: 제한된 화석과 게놈만으로 데니소바인의 전체 외형·문화·언어·정확한 종 경계를 완전히 복원할 수는 없다.",
+          "textEn": "CONFIRMED / SUPPORTED: ancient DNA from a small Denisova Cave finger bone and other material reveals an ancient human lineage closely related to but distinct from Neanderthals, with Denisovan ancestry surviving in some living populations.\n\nNOT ESTABLISHED: the limited fossil and genomic record cannot fully reconstruct Denisovan appearance, culture, language, or a universally agreed species boundary."
+        }
+      ],
+      "factBoundary": {
+        "established": "Denisova Cave의 작은 손가락뼈와 다른 표본에서 얻은 고대 DNA는 네안데르탈인과 가까우면서도 구별되는 고대 인류계통을 보여주며, 일부 현대인 집단에는 데니소바계 유전흔적이 남아 있다.",
+        "notEstablished": "제한된 화석과 게놈만으로 데니소바인의 전체 외형·문화·언어·정확한 종 경계를 완전히 복원할 수는 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Tiny Finger Bone Reveal an Ancient Human Population?",
+      "hook": "DNA from a small bone fragment revealed a lineage distinct from both modern humans and Neanderthals.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "시베리아 동굴의 작은 뼈",
+          "headingEn": "A Tiny Bone from a Siberian Cave",
+          "textKo": "데니소바 동굴에서 발견된 작은 손가락뼈 조각은 겉모습만으로 새로운 인류집단을 선언할 만큼 특징적이지 않았다. 그러나 고대 DNA 분석이 가능해지면서 이 작은 표본은 형태보다 유전정보가 먼저 정체를 드러낸 특별한 사례가 됐다.",
+          "textEn": "A small finger-bone fragment from Denisova Cave did not have enough distinctive anatomy to announce a new human group by shape alone. Ancient-DNA technology changed that. Genetic information, rather than morphology, revealed the specimen’s unusual identity."
+        },
+        {
+          "blockId": "02",
+          "type": "DNA",
+          "headingKo": "미토콘드리아 DNA가 이상했다",
+          "headingEn": "The Mitochondrial DNA Was Unexpected",
+          "textKo": "초기 유전분석에서 표본의 미토콘드리아 DNA는 현대인과 네안데르탈인의 알려진 범위와 뚜렷하게 달랐다. 추가 핵게놈 분석은 이 집단이 네안데르탈인과 가까운 친척이지만 별도의 계통을 이룬다는 해석을 강화했다. 새로운 고인류집단이 사실상 DNA로 먼저 정의된 셈이다.",
+          "textEn": "Initial mitochondrial DNA differed strongly from known modern-human and Neanderthal sequences. Nuclear-genome analysis then showed a lineage closely related to Neanderthals but distinct from them. An ancient human population was effectively recognized through genetics first."
+        },
+        {
+          "blockId": "03",
+          "type": "NAME",
+          "headingKo": "이름은 동굴에서 왔다",
+          "headingEn": "Named After the Cave",
+          "textKo": "‘데니소바인’이라는 이름은 특정 해부학적 특징보다 발견장소 Denisova Cave에서 유래했다. 이후 어금니, 티베트 고원 하악골, 다른 아시아 표본들이 유전·단백질 자료와 연결되면서 집단의 지리적 범위가 넓어졌다.",
+          "textEn": "The name Denisovan comes from Denisova Cave rather than a defining anatomical trait. Later teeth, a Tibetan Plateau jaw, and other Asian material connected through genetics or proteins expanded the geographic picture."
+        },
+        {
+          "blockId": "04",
+          "type": "ADMIXTURE",
+          "headingKo": "현대인 안에 남은 유전흔적",
+          "headingEn": "Genetic Traces Survive in Living People",
+          "textKo": "게놈 비교는 데니소바계 유전변이가 오늘날 일부 아시아·오세아니아 인구에 남아 있음을 보여준다. 이는 고대 인류집단들이 완전히 고립된 계통이 아니라 서로 만났고 유전자를 교환했다는 복잡한 인류사를 지지한다.",
+          "textEn": "Genome comparisons show Denisovan-derived variants in some present-day Asian and Oceanian populations. That supports a human past in which ancient groups were not completely isolated but met and exchanged genes."
+        },
+        {
+          "blockId": "05",
+          "type": "LIMIT",
+          "headingKo": "게놈이 얼굴 전체를 알려주지는 않는다",
+          "headingEn": "A Genome Does Not Reconstruct an Entire Face or Culture",
+          "textKo": "DNA로 계통관계와 일부 유전형질 가능성을 추정할 수 있지만, 한 표본의 게놈이 전체 집단의 모습·문화·언어·행동을 복원하지는 못한다. 데니소바인의 화석표본은 여전히 제한적이며 형태적 다양성도 충분히 알려지지 않았다.",
+          "textEn": "DNA can clarify relationships and suggest some traits, but one genome cannot reconstruct the full appearance, culture, language, or behaviour of a population. Denisovan fossil material remains sparse and morphological diversity is poorly known."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘새 종’ 표현은 얼마나 확정적인가",
+          "headingEn": "How Certain Is the “New Species” Label?",
+          "textKo": "대중적으로 Denisovan을 새로운 인류종이라고 부르지만 고인류 분류에서 종의 경계는 복잡하다. 네안데르탈인·현생인류와 실제 유전자교환이 있었기 때문에 생물학적 종 개념 하나로 단순화하기 어렵다. ‘별도 유전계통’은 더 직접적인 표현이다.",
+          "textEn": "Denisovans are often described popularly as a separate human species, but species boundaries in paleoanthropology are complicated. Gene flow with Neanderthals and modern humans makes a simple biological-species label difficult. “Distinct genetic lineage” is the more direct claim."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "작은 표본이 강한 이유",
+          "headingEn": "Why a Small Specimen Can Carry Huge Evidence",
+          "textKo": "표본 크기가 작다고 증거력이 약한 것은 아니다. DNA 보존이 좋고 오염통제가 되면 수십억 개 염기정보를 얻을 수 있다. 반대로 큰 두개골이라도 DNA가 없으면 계통관계의 일부 질문에는 더 불확실할 수 있다. 증거의 물리적 크기와 정보량은 다르다.",
+          "textEn": "Physical size does not determine information value. If ancient DNA is well preserved and contamination is controlled, a tiny fragment can yield enormous genomic information. A large fossil without DNA may answer different questions less precisely."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 더 필요하나",
+          "headingEn": "What Evidence Is Still Needed",
+          "textKo": "아시아 여러 지역에서 유전적으로 확인된 데니소바 화석이 더 발견되면 외형·분포·시대범위를 훨씬 정확히 재구성할 수 있다. 현재는 유전학이 매우 강하지만 화석기록이 상대적으로 희박해, 어떤 형태적 다양성이 한 집단 안에 있었는지는 열려 있다. 데니소바 연구는 고인류학의 증거우선순위를 바꾼 사례이기도 하다. 과거에는 형태적으로 분류하기 어려운 작은 뼈가 연구가치가 낮게 보일 수 있었지만, 단백질체·고대DNA 기술은 겉모양이 거의 없는 조각에서도 계통정보를 얻을 수 있게 했다. 앞으로 미분류 화석의 재검토 가능성도 커졌다. 특히 데니소바계 DNA가 고산 적응과 관련된 일부 현대인 유전자에 기여했다는 연구는, 고대 혼혈이 단순 계보 정보가 아니라 오늘날 생물학적 적응에도 분명한 흔적을 남겼음을 보여준다.",
+          "textEn": "More genetically confirmed Denisovan fossils across Asia would make body form, geographic range, and chronology far clearer. Genetics is powerful, but the sparse fossil record still limits reconstruction of the full population. Denisovan research also changed what counts as an informative fossil. Proteomics and ancient DNA can recover lineage information from fragments with little diagnostic anatomy, making re-examination of previously unclassified material increasingly important. Research linking Denisovan ancestry to some present-day high-altitude adaptations shows that ancient admixture left biologically relevant traces, not just genealogical ones."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Denisova Cave의 작은 손가락뼈와 다른 표본에서 얻은 고대 DNA는 네안데르탈인과 가까우면서도 구별되는 고대 인류계통을 보여주며, 일부 현대인 집단에는 데니소바계 유전흔적이 남아 있다.\n\nNOT ESTABLISHED: 제한된 화석과 게놈만으로 데니소바인의 전체 외형·문화·언어·정확한 종 경계를 완전히 복원할 수는 없다.",
+          "textEn": "CONFIRMED / SUPPORTED: ancient DNA from a small Denisova Cave finger bone and other material reveals an ancient human lineage closely related to but distinct from Neanderthals, with Denisovan ancestry surviving in some living populations.\n\nNOT ESTABLISHED: the limited fossil and genomic record cannot fully reconstruct Denisovan appearance, culture, language, or a universally agreed species boundary."
+        }
+      ],
+      "factBoundary": {
+        "established": "ancient DNA from a small Denisova Cave finger bone and other material reveals an ancient human lineage closely related to but distinct from Neanderthals, with Denisovan ancestry surviving in some living populations.",
+        "notEstablished": "the limited fossil and genomic record cannot fully reconstruct Denisovan appearance, culture, language, or a universally agreed species boundary."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DENISOVAN_FINGER_GENOME-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Denisova Cave의 작은 손가락뼈와 다른 표본에서 얻은 고대 DNA는 네안데르탈인과 가까우면서도 구별되는 고대 인류계통을 보여주며, 일부 현대인 집단에는 데니소바계 유전흔적이 남아 있다.",
+      "statementEn": "ancient DNA from a small Denisova Cave finger bone and other material reveals an ancient human lineage closely related to but distinct from Neanderthals, with Denisovan ancestry surviving in some living populations.",
+      "sourceRefs": [
+        "SMITH_DENISOVAN",
+        "SMITH_DENISOVAN_GENOME"
+      ]
+    },
+    {
+      "claimId": "DENISOVAN_FINGER_GENOME-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "제한된 화석과 게놈만으로 데니소바인의 전체 외형·문화·언어·정확한 종 경계를 완전히 복원할 수는 없다.",
+      "statementEn": "the limited fossil and genomic record cannot fully reconstruct Denisovan appearance, culture, language, or a universally agreed species boundary.",
+      "sourceRefs": [
+        "SMITH_DENISOVAN",
+        "SMITH_DENISOVAN_GENOME"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SMITH_DENISOVAN",
+      "title": "Ancient DNA and Neanderthals – Identifying the Denisovans",
+      "publisher": "Smithsonian Human Origins Program",
+      "url": "https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals",
+      "sourceType": "RESEARCH_INSTITUTION"
+    },
+    {
+      "sourceId": "SMITH_DENISOVAN_GENOME",
+      "title": "Differences found between fossil and modern human genomes",
+      "publisher": "Smithsonian Human Origins Program",
+      "url": "https://humanorigins.si.edu/research/whats-hot-human-origins/differences-found-between-fossil-and-modern-human-genomes",
+      "sourceType": "RESEARCH_INSTITUTION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "denisovan-finger-genome-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "SMITH_DENISOVAN",
+        "SMITH_DENISOVAN_GENOME"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "denisovan-finger-genome__denisovan-finger-genome-v01__ko.png",
+          "sha256": "fda0e6594007eae432c05a432265f6febb5c8a2258a238294c8ea8b14deea471",
+          "width": 1600,
+          "height": 900,
+          "fileName": "denisovan-finger-genome__denisovan-finger-genome-v01__ko.png"
+        },
+        "en": {
+          "file": "denisovan-finger-genome__denisovan-finger-genome-v01__en.png",
+          "sha256": "e70c9929be78811f2f1e00d56d814d5bcbd152c346d51c218094b411474f611a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "denisovan-finger-genome__denisovan-finger-genome-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "denisovan-finger-genome-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "SMITH_DENISOVAN",
+        "SMITH_DENISOVAN_GENOME"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "denisovan-finger-genome__denisovan-finger-genome-v02__ko.png",
+          "sha256": "7e7aef9b2f6b60abc8ccacb39c213535f61ab415881001af690658d0c002441f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "denisovan-finger-genome__denisovan-finger-genome-v02__ko.png"
+        },
+        "en": {
+          "file": "denisovan-finger-genome__denisovan-finger-genome-v02__en.png",
+          "sha256": "e0ce63bc9dc389606417848ddc874888994a0b91b3cb5fb0ee9399ebc1e5b106",
+          "width": 1600,
+          "height": 900,
+          "fileName": "denisovan-finger-genome__denisovan-finger-genome-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "denisovan-finger-genome-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "SMITH_DENISOVAN",
+        "SMITH_DENISOVAN_GENOME"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "denisovan-finger-genome__denisovan-finger-genome-v03__ko.png",
+          "sha256": "9419b13477cd3773e510a2d31edc3f3e0511fc8c55c770acef6f1b1ec282d94c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "denisovan-finger-genome__denisovan-finger-genome-v03__ko.png"
+        },
+        "en": {
+          "file": "denisovan-finger-genome__denisovan-finger-genome-v03__en.png",
+          "sha256": "6a22d1478e8ddac6fc834630230f251d68768016c30d4015285318333ab413c2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "denisovan-finger-genome__denisovan-finger-genome-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Russia / Asia",
+    "era": "2008–2010 discovery / prehistoric",
+    "genre": "Human Origins / Genetic Discovery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Human Origins / Genetic Discovery",
+    "resolution": "unknown",
+    "countries": [
+      "Russia / Asia"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1500,
+    "enBodyWords": 382
+  }
+}

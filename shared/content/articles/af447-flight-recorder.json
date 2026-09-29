@@ -1,0 +1,369 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "af447-flight-recorder",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "에어프랑스 447편 블랙박스 수색",
+    "canonicalTitleEn": "The Search for Air France 447’s Flight Recorders",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "3900미터 해저의 블랙박스가 사고 원인을 어떻게 바꿨나",
+      "hook": "2년 가까이 찾지 못했던 잔해와 기록장치가 발견되자, 조종실에서 실제로 벌어진 일이 추측이 아니라 데이터가 됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "대서양 한가운데서 사라진 항공기",
+          "headingEn": "An Aircraft Disappears over the Atlantic",
+          "textKo": "2009년 6월 1일 Rio de Janeiro에서 Paris로 향하던 Air France 447편 A330이 대서양 상공에서 연락이 끊겼다. 일부 부유잔해와 희생자는 빠르게 발견됐지만, 주요 동체와 비행기록장치는 깊은 해저에 남아 사고순서를 직접 확인하기 어려웠다.",
+          "textEn": "On June 1, 2009 Air France Flight 447, an Airbus A330 from Rio de Janeiro to Paris, disappeared over the Atlantic. Floating debris and some victims were found, but the main wreckage and flight recorders remained on the deep seabed, leaving the final sequence uncertain."
+        },
+        {
+          "blockId": "02",
+          "type": "SEARCH",
+          "headingKo": "광대한 바다를 여러 차례 수색하다",
+          "headingEn": "Repeated Searches Across a Huge Ocean Area",
+          "textKo": "BEA는 음향탐지·측면주사소나·무인잠수정 등 여러 방법으로 수색을 이어갔다. 비콘 신호를 찾는 초기단계가 실패한 뒤 해저지형과 확률분석을 이용해 탐색전략을 수정했다. 수색기술 자체가 조사과정의 핵심이 됐다.",
+          "textEn": "BEA used acoustic searches, side-scan sonar, autonomous and remotely operated vehicles, and revised probability models. When early attempts failed to locate the beacon signals, the search strategy had to be redesigned. Search science itself became part of the investigation."
+        },
+        {
+          "blockId": "03",
+          "type": "WRECK",
+          "headingKo": "2011년 3900미터 해저에서 발견",
+          "headingEn": "Found at About 3,900 Metres in 2011",
+          "textKo": "2011년 4월 주요 잔해가 수심 약 3900미터에서 발견됐다. 이어 5월 Flight Data Recorder와 Cockpit Voice Recorder가 회수됐다. 해수압과 장기간 침수에도 메모리에서 데이터를 읽을 수 있었고, 마지막 비행구간을 초 단위로 재구성할 수 있게 됐다.",
+          "textEn": "The main wreckage was located in April 2011 at roughly 3,900 metres depth. The Flight Data Recorder and Cockpit Voice Recorder were recovered in May. Despite deep-water exposure, investigators successfully read the memory and reconstructed the final minutes in detail."
+        },
+        {
+          "blockId": "04",
+          "type": "DATA",
+          "headingKo": "센서문제와 조종반응의 연쇄",
+          "headingEn": "A Chain from Sensor Loss to Control Problems",
+          "textKo": "최종조사는 Pitot probe 일시적 결빙으로 속도정보가 불일치하면서 자동조종이 해제되고, 이후 조종입력과 상황인식이 악화된 연쇄를 설명했다. 중요한 것은 한 부품만의 실패가 아니라 자동화·훈련·고고도 수동조종·경고해석이 상호작용했다는 점이다.",
+          "textEn": "The final investigation describes temporary pitot-probe icing that produced inconsistent airspeed, autopilot disengagement, and a subsequent sequence of control inputs and degraded situational understanding. The accident was not simply one failed component; automation, training, manual high-altitude flight, and alert interpretation interacted."
+        },
+        {
+          "blockId": "05",
+          "type": "HUMAN_FACTORS",
+          "headingKo": "사람과 시스템을 함께 본다",
+          "headingEn": "Human and Technical Factors Together",
+          "textKo": "사고 후 초기 대중서사는 ‘조종사 실수’ 또는 ‘센서 결함’ 중 하나를 선택하려는 경향이 있었다. BEA는 장비고장, 절차, 조종실 협업, 항공사 훈련과 인증문제를 함께 분석했다. 현대 사고조사는 단일 책임보다 실패연쇄를 찾는다.",
+          "textEn": "Public discussion often tried to choose between “pilot error” and “sensor failure.” BEA analysed equipment, procedures, crew coordination, training, and certification together. Modern safety investigation looks for interacting failure chains rather than a single moral culprit."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "블랙박스가 없었다면 무엇이 달랐나",
+          "headingEn": "What Did the Recorders Change?",
+          "textKo": "기록장치 회수 전에도 ACARS 자동메시지와 일부 잔해로 가설은 세울 수 있었다. 그러나 조종입력과 경고, 대화의 시간순서를 직접 확인할 수 없어 중요한 부분이 추측에 남았다. 블랙박스는 가설을 검증가능한 사건순서로 바꿨다.",
+          "textEn": "Before recovery, ACARS messages and debris supported several hypotheses, but investigators lacked the exact timing of control inputs, warnings, and cockpit conversation. The recorders turned speculation into a testable event sequence."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "해양사고 기록기술의 문제",
+          "headingEn": "The Problem of Recovering Data after Ocean Accidents",
+          "textKo": "AF447 수색의 어려움은 해상사고에서 비행기록장치를 더 쉽게 찾고 데이터를 신속히 회수하는 방법을 논의하게 했다. 장거리 비행의 위치추적·기록전송·비콘 지속시간 개선은 이후 국제항공안전 논의에서 중요한 과제가 됐다.",
+          "textEn": "The difficult search renewed debate about locating flight recorders, tracking aircraft, transmitting key data, and extending underwater-beacon endurance. AF447 became a major reference point for international discussions of flight-data recovery."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "사고는 완전히 설명됐나",
+          "headingEn": "How Complete Is the Explanation?",
+          "textKo": "BEA 최종보고서는 주요 사고연쇄와 기여요인을 상세히 제시한다. 모든 인간행동의 심리적 이유를 완벽하게 알 수는 없지만, 핵심 비행상태와 조종입력은 기록데이터로 강하게 제약된다. 따라서 원인연쇄는 미해결 실종사건 단계에서 크게 벗어났다. AF447은 ‘블랙박스가 있으면 모든 것이 자동으로 해결된다’는 오해도 교정한다. 기록장치는 정확한 비행상태와 대화를 제공하지만, 왜 특정 상황인식이 실패했는지 이해하려면 훈련기록·절차·자동화설계·조직운영까지 함께 분석해야 한다. 데이터는 해석의 출발점이지 사고조사의 전부가 아니다. 회수된 기록은 실속 상태가 장시간 지속됐다는 점과 조종실이 이를 충분히 인식하지 못한 과정을 시간순으로 보여줬다. 이 직접 데이터가 없었다면 후대 논쟁은 훨씬 더 넓은 추정범위에 머물렀을 것이다.",
+          "textEn": "BEA’s final report constrains the major physical and operational sequence in detail. No accident report can know every internal thought, but the flight state and control inputs are strongly documented. The case moved far beyond the uncertainty of the initial disappearance. AF447 also corrects the idea that flight recorders automatically solve an accident. They provide precise states and conversations, but understanding why situational awareness failed requires training, procedures, automation design, and organizational context as well. The recovered data showed the sustained stall and the cockpit's failure to fully recognize it, sharply narrowing what would otherwise have remained a much wider field of speculation."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: AF447 주요 잔해는 2011년 약 3900미터 해저에서 발견됐고 FDR·CVR이 회수돼 데이터가 성공적으로 판독됐다. BEA는 속도정보 상실 뒤 자동화 해제와 조종·상황인식 문제의 연쇄를 최종보고서에 정리했다.\n\nNOT ESTABLISHED: 사고를 센서 하나 또는 개인 한 명의 단순 실수로만 설명하는 것은 공식조사의 다중 기여요인을 과도하게 축약한다.",
+          "textEn": "CONFIRMED / SUPPORTED: AF447’s main wreckage was found in 2011 at about 3,900 metres, the FDR and CVR were recovered and read successfully, and BEA documented a chain involving unreliable airspeed, automation loss, and subsequent crew-control and situational-awareness problems.\n\nNOT ESTABLISHED: reducing the accident to one sensor or one individual’s simple mistake misrepresents the multiple contributing factors in the official investigation."
+        }
+      ],
+      "factBoundary": {
+        "established": "AF447 주요 잔해는 2011년 약 3900미터 해저에서 발견됐고 FDR·CVR이 회수돼 데이터가 성공적으로 판독됐다. BEA는 속도정보 상실 뒤 자동화 해제와 조종·상황인식 문제의 연쇄를 최종보고서에 정리했다.",
+        "notEstablished": "사고를 센서 하나 또는 개인 한 명의 단순 실수로만 설명하는 것은 공식조사의 다중 기여요인을 과도하게 축약한다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "How Did Flight Recorders Recovered from 3,900 Metres Change the AF447 Investigation?",
+      "hook": "After nearly two years without the main wreckage, recorders recovered from 3,900 metres turned cockpit speculation into data.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "대서양 한가운데서 사라진 항공기",
+          "headingEn": "An Aircraft Disappears over the Atlantic",
+          "textKo": "2009년 6월 1일 Rio de Janeiro에서 Paris로 향하던 Air France 447편 A330이 대서양 상공에서 연락이 끊겼다. 일부 부유잔해와 희생자는 빠르게 발견됐지만, 주요 동체와 비행기록장치는 깊은 해저에 남아 사고순서를 직접 확인하기 어려웠다.",
+          "textEn": "On June 1, 2009 Air France Flight 447, an Airbus A330 from Rio de Janeiro to Paris, disappeared over the Atlantic. Floating debris and some victims were found, but the main wreckage and flight recorders remained on the deep seabed, leaving the final sequence uncertain."
+        },
+        {
+          "blockId": "02",
+          "type": "SEARCH",
+          "headingKo": "광대한 바다를 여러 차례 수색하다",
+          "headingEn": "Repeated Searches Across a Huge Ocean Area",
+          "textKo": "BEA는 음향탐지·측면주사소나·무인잠수정 등 여러 방법으로 수색을 이어갔다. 비콘 신호를 찾는 초기단계가 실패한 뒤 해저지형과 확률분석을 이용해 탐색전략을 수정했다. 수색기술 자체가 조사과정의 핵심이 됐다.",
+          "textEn": "BEA used acoustic searches, side-scan sonar, autonomous and remotely operated vehicles, and revised probability models. When early attempts failed to locate the beacon signals, the search strategy had to be redesigned. Search science itself became part of the investigation."
+        },
+        {
+          "blockId": "03",
+          "type": "WRECK",
+          "headingKo": "2011년 3900미터 해저에서 발견",
+          "headingEn": "Found at About 3,900 Metres in 2011",
+          "textKo": "2011년 4월 주요 잔해가 수심 약 3900미터에서 발견됐다. 이어 5월 Flight Data Recorder와 Cockpit Voice Recorder가 회수됐다. 해수압과 장기간 침수에도 메모리에서 데이터를 읽을 수 있었고, 마지막 비행구간을 초 단위로 재구성할 수 있게 됐다.",
+          "textEn": "The main wreckage was located in April 2011 at roughly 3,900 metres depth. The Flight Data Recorder and Cockpit Voice Recorder were recovered in May. Despite deep-water exposure, investigators successfully read the memory and reconstructed the final minutes in detail."
+        },
+        {
+          "blockId": "04",
+          "type": "DATA",
+          "headingKo": "센서문제와 조종반응의 연쇄",
+          "headingEn": "A Chain from Sensor Loss to Control Problems",
+          "textKo": "최종조사는 Pitot probe 일시적 결빙으로 속도정보가 불일치하면서 자동조종이 해제되고, 이후 조종입력과 상황인식이 악화된 연쇄를 설명했다. 중요한 것은 한 부품만의 실패가 아니라 자동화·훈련·고고도 수동조종·경고해석이 상호작용했다는 점이다.",
+          "textEn": "The final investigation describes temporary pitot-probe icing that produced inconsistent airspeed, autopilot disengagement, and a subsequent sequence of control inputs and degraded situational understanding. The accident was not simply one failed component; automation, training, manual high-altitude flight, and alert interpretation interacted."
+        },
+        {
+          "blockId": "05",
+          "type": "HUMAN_FACTORS",
+          "headingKo": "사람과 시스템을 함께 본다",
+          "headingEn": "Human and Technical Factors Together",
+          "textKo": "사고 후 초기 대중서사는 ‘조종사 실수’ 또는 ‘센서 결함’ 중 하나를 선택하려는 경향이 있었다. BEA는 장비고장, 절차, 조종실 협업, 항공사 훈련과 인증문제를 함께 분석했다. 현대 사고조사는 단일 책임보다 실패연쇄를 찾는다.",
+          "textEn": "Public discussion often tried to choose between “pilot error” and “sensor failure.” BEA analysed equipment, procedures, crew coordination, training, and certification together. Modern safety investigation looks for interacting failure chains rather than a single moral culprit."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "블랙박스가 없었다면 무엇이 달랐나",
+          "headingEn": "What Did the Recorders Change?",
+          "textKo": "기록장치 회수 전에도 ACARS 자동메시지와 일부 잔해로 가설은 세울 수 있었다. 그러나 조종입력과 경고, 대화의 시간순서를 직접 확인할 수 없어 중요한 부분이 추측에 남았다. 블랙박스는 가설을 검증가능한 사건순서로 바꿨다.",
+          "textEn": "Before recovery, ACARS messages and debris supported several hypotheses, but investigators lacked the exact timing of control inputs, warnings, and cockpit conversation. The recorders turned speculation into a testable event sequence."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "해양사고 기록기술의 문제",
+          "headingEn": "The Problem of Recovering Data after Ocean Accidents",
+          "textKo": "AF447 수색의 어려움은 해상사고에서 비행기록장치를 더 쉽게 찾고 데이터를 신속히 회수하는 방법을 논의하게 했다. 장거리 비행의 위치추적·기록전송·비콘 지속시간 개선은 이후 국제항공안전 논의에서 중요한 과제가 됐다.",
+          "textEn": "The difficult search renewed debate about locating flight recorders, tracking aircraft, transmitting key data, and extending underwater-beacon endurance. AF447 became a major reference point for international discussions of flight-data recovery."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "사고는 완전히 설명됐나",
+          "headingEn": "How Complete Is the Explanation?",
+          "textKo": "BEA 최종보고서는 주요 사고연쇄와 기여요인을 상세히 제시한다. 모든 인간행동의 심리적 이유를 완벽하게 알 수는 없지만, 핵심 비행상태와 조종입력은 기록데이터로 강하게 제약된다. 따라서 원인연쇄는 미해결 실종사건 단계에서 크게 벗어났다. AF447은 ‘블랙박스가 있으면 모든 것이 자동으로 해결된다’는 오해도 교정한다. 기록장치는 정확한 비행상태와 대화를 제공하지만, 왜 특정 상황인식이 실패했는지 이해하려면 훈련기록·절차·자동화설계·조직운영까지 함께 분석해야 한다. 데이터는 해석의 출발점이지 사고조사의 전부가 아니다. 회수된 기록은 실속 상태가 장시간 지속됐다는 점과 조종실이 이를 충분히 인식하지 못한 과정을 시간순으로 보여줬다. 이 직접 데이터가 없었다면 후대 논쟁은 훨씬 더 넓은 추정범위에 머물렀을 것이다.",
+          "textEn": "BEA’s final report constrains the major physical and operational sequence in detail. No accident report can know every internal thought, but the flight state and control inputs are strongly documented. The case moved far beyond the uncertainty of the initial disappearance. AF447 also corrects the idea that flight recorders automatically solve an accident. They provide precise states and conversations, but understanding why situational awareness failed requires training, procedures, automation design, and organizational context as well. The recovered data showed the sustained stall and the cockpit's failure to fully recognize it, sharply narrowing what would otherwise have remained a much wider field of speculation."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: AF447 주요 잔해는 2011년 약 3900미터 해저에서 발견됐고 FDR·CVR이 회수돼 데이터가 성공적으로 판독됐다. BEA는 속도정보 상실 뒤 자동화 해제와 조종·상황인식 문제의 연쇄를 최종보고서에 정리했다.\n\nNOT ESTABLISHED: 사고를 센서 하나 또는 개인 한 명의 단순 실수로만 설명하는 것은 공식조사의 다중 기여요인을 과도하게 축약한다.",
+          "textEn": "CONFIRMED / SUPPORTED: AF447’s main wreckage was found in 2011 at about 3,900 metres, the FDR and CVR were recovered and read successfully, and BEA documented a chain involving unreliable airspeed, automation loss, and subsequent crew-control and situational-awareness problems.\n\nNOT ESTABLISHED: reducing the accident to one sensor or one individual’s simple mistake misrepresents the multiple contributing factors in the official investigation."
+        }
+      ],
+      "factBoundary": {
+        "established": "AF447’s main wreckage was found in 2011 at about 3,900 metres, the FDR and CVR were recovered and read successfully, and BEA documented a chain involving unreliable airspeed, automation loss, and subsequent crew-control and situational-awareness problems.",
+        "notEstablished": "reducing the accident to one sensor or one individual’s simple mistake misrepresents the multiple contributing factors in the official investigation."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "AF447_FLIGHT_RECORDER-C1",
+      "status": "CONFIRMED",
+      "statementKo": "AF447 주요 잔해는 2011년 약 3900미터 해저에서 발견됐고 FDR·CVR이 회수돼 데이터가 성공적으로 판독됐다. BEA는 속도정보 상실 뒤 자동화 해제와 조종·상황인식 문제의 연쇄를 최종보고서에 정리했다.",
+      "statementEn": "AF447’s main wreckage was found in 2011 at about 3,900 metres, the FDR and CVR were recovered and read successfully, and BEA documented a chain involving unreliable airspeed, automation loss, and subsequent crew-control and situational-awareness problems.",
+      "sourceRefs": [
+        "BEA_AF447"
+      ]
+    },
+    {
+      "claimId": "AF447_FLIGHT_RECORDER-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "사고를 센서 하나 또는 개인 한 명의 단순 실수로만 설명하는 것은 공식조사의 다중 기여요인을 과도하게 축약한다.",
+      "statementEn": "reducing the accident to one sensor or one individual’s simple mistake misrepresents the multiple contributing factors in the official investigation.",
+      "sourceRefs": [
+        "BEA_AF447"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BEA_AF447",
+      "title": "Accident to Airbus A330 F-GZCP / Flight AF447",
+      "publisher": "BEA",
+      "url": "https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-the-airbus-a330-203-registered-f-gzcp-and-operated-by-air-france-occured-on-06-01-2009-in-the-atlantic-ocean",
+      "sourceType": "OFFICIAL_ACCIDENT_INVESTIGATION"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "af447-flight-recorder-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "BEA_AF447"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "af447-flight-recorder__af447-flight-recorder-v01__ko.png",
+          "sha256": "420a24b343e8d15a26de3b6ebec67b616d7b687bc8621af08ff8480918ef8602",
+          "width": 1600,
+          "height": 900,
+          "fileName": "af447-flight-recorder__af447-flight-recorder-v01__ko.png"
+        },
+        "en": {
+          "file": "af447-flight-recorder__af447-flight-recorder-v01__en.png",
+          "sha256": "5cf349aa5d32afc94e91f98130aaf692004df58eaef66265b1348db4325d3c20",
+          "width": 1600,
+          "height": 900,
+          "fileName": "af447-flight-recorder__af447-flight-recorder-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "af447-flight-recorder-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "BEA_AF447"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "af447-flight-recorder__af447-flight-recorder-v02__ko.png",
+          "sha256": "19abf584c7668fb54ead58caccc0da2813e7b66e837c091c9d086d993d3b6c4a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "af447-flight-recorder__af447-flight-recorder-v02__ko.png"
+        },
+        "en": {
+          "file": "af447-flight-recorder__af447-flight-recorder-v02__en.png",
+          "sha256": "db23e381be9402678850fed29a4b58a3d13fb9dc697a58597589fad5d0f3ffa0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "af447-flight-recorder__af447-flight-recorder-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "af447-flight-recorder-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "BEA_AF447"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "af447-flight-recorder__af447-flight-recorder-v03__ko.png",
+          "sha256": "21a76b8fb7e91df2219b539be1449e283a201cc80f87ddd06b77e9ea2bc0c017",
+          "width": 1600,
+          "height": 900,
+          "fileName": "af447-flight-recorder__af447-flight-recorder-v03__ko.png"
+        },
+        "en": {
+          "file": "af447-flight-recorder__af447-flight-recorder-v03__en.png",
+          "sha256": "be00e8275da04ad00d50cf69741b42a6d9b42962307fea9e54c160db580b2a40",
+          "width": 1600,
+          "height": 900,
+          "fileName": "af447-flight-recorder__af447-flight-recorder-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Atlantic Ocean / France / Brazil",
+    "era": "2009–2012",
+    "genre": "Aviation / Deep-Sea Investigation",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Aviation / Deep-Sea Investigation",
+    "resolution": "unknown",
+    "countries": [
+      "Atlantic Ocean / France / Brazil"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1557,
+    "enBodyWords": 426
+  }
+}

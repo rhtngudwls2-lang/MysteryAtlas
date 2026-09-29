@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "muryeong-tomb-epitaph",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "무령왕릉 묘지석이 밝힌 주인",
+    "canonicalTitleEn": "The Epitaph That Identified King Muryeong’s Tomb",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "백제 왕릉의 주인을 단번에 밝혀낸 돌판은 무엇을 적고 있었나",
+      "hook": "도굴되지 않은 무덤 안에서 나온 묘지석은 이름·사망일·매장일을 남겨, 삼국시대 왕릉 가운데 드문 확정 신원사례를 만들었다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "배수로 공사에서 열린 왕릉",
+          "headingEn": "A Royal Tomb Found During Drainage Work",
+          "textKo": "1971년 공주 송산리 고분군에서 배수로 공사를 하던 중 벽돌무덤 입구가 우연히 발견됐다. 무덤은 도굴되지 않은 상태였고 내부에는 왕과 왕비의 장신구·관재·진묘수·각종 부장품이 남아 있었다. 그러나 가장 결정적인 유물은 화려한 금속공예품이 아니라 글자가 새겨진 돌판이었다.",
+          "textEn": "In 1971 drainage work at the Songsan-ri tomb complex in Gongju exposed the entrance to a brick tomb. It had escaped looting and contained royal ornaments, coffin fittings, a guardian figure, and many grave goods. The most decisive objects, however, were not the gold ornaments but inscribed stone epitaphs."
+        },
+        {
+          "blockId": "02",
+          "type": "EPITAPH",
+          "headingKo": "묘지석이 이름을 말했다",
+          "headingEn": "The Stones Named the Occupants",
+          "textKo": "왕과 왕비의 묘지석에는 사망일과 장례 관련 날짜, 묘역 매입을 상징하는 문구가 기록돼 있다. 국립공주박물관은 이 지석 때문에 무령왕릉이 삼국시대 무덤 가운데 주인을 확실히 알 수 있는 매우 드문 사례라고 설명한다. 고고학적 추정이 아니라 무덤 내부의 직접 명문이 신원을 고정했다.",
+          "textEn": "The epitaphs record death and burial information for the king and queen, along with formulae associated with the burial plot. Gongju National Museum emphasizes that these inscriptions make the tomb an unusually secure identification among royal tombs of Korea’s Three Kingdoms period. The identity rests on direct text found inside the tomb."
+        },
+        {
+          "blockId": "03",
+          "type": "CHRONOLOGY",
+          "headingKo": "523년과 525년",
+          "headingEn": "Dates That Anchor the Burial",
+          "textKo": "무령왕은 523년에 사망했고 장례는 525년에 치러졌다는 기록이 묘지석과 문헌을 통해 연결된다. 왕비 역시 별도의 지석과 장례기록이 있어 무덤 사용의 시간순서를 복원할 수 있다. 왕릉의 연대가 단순 양식비교가 아니라 명문날짜와 교차검증된다는 점이 중요하다.",
+          "textEn": "The inscriptions and historical records connect King Muryeong’s death in 523 with burial rites in 525. The queen also has separate inscriptional evidence. Rather than relying only on stylistic comparison, archaeologists can tie the tomb sequence to written dates."
+        },
+        {
+          "blockId": "04",
+          "type": "OBJECTS",
+          "headingKo": "부장품도 신원과 맞물린다",
+          "headingEn": "The Grave Goods Fit the Royal Context",
+          "textKo": "왕·왕비용 금제 장신구, 목관 부속, 진묘수와 제사용 그릇은 묘지석이 제시한 왕실 신분과 일관된 맥락을 만든다. 다만 화려한 물건 하나만 보고 왕릉이라고 단정한 것이 아니라, 명문·매장구조·부장품 전체가 결합해 해석을 강화했다.",
+          "textEn": "Gold ornaments for the king and queen, coffin hardware, ritual vessels, and the stone guardian fit the status indicated by the epitaphs. The interpretation is strong because inscription, burial architecture, and artifact assemblage reinforce one another rather than depending on a single spectacular object."
+        },
+        {
+          "blockId": "05",
+          "type": "HISTORY",
+          "headingKo": "문헌기록을 교정하는 기준점",
+          "headingEn": "A Fixed Point for Baekje Chronology",
+          "textKo": "무령왕릉은 백제사 연표와 왕실 장례, 중국 남조와의 교류를 연구하는 기준점이 됐다. 출토품의 제작기법과 수입품은 당시 국제교류를 보여주며, 정확한 연대가 있는 무덤이기 때문에 주변 다른 유적의 상대연대를 비교하는 데도 큰 가치가 있다.",
+          "textEn": "The tomb became a chronological anchor for Baekje history, royal burial practice, and connections with southern China. Imported or technologically distinctive objects can be compared with a burial whose date and occupants are unusually well constrained."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모든 왕릉이 이렇게 확인되는 것은 아니다",
+          "headingEn": "Most Royal Tombs Are Not This Securely Named",
+          "textKo": "대부분의 고대 왕릉에는 이름을 직접 밝히는 묘지석이 남지 않는다. 그래서 구조·유물·문헌을 조합해 주인을 추정해야 한다. 무령왕릉의 확정성이 예외적으로 강하다고 해서 다른 무덤의 추정신원을 같은 수준으로 취급해서는 안 된다.",
+          "textEn": "Many ancient royal tombs contain no inscription that directly identifies an occupant. Their attribution must rely on architecture, artifacts, and texts. The exceptional certainty at Muryeong’s tomb should not be transferred automatically to other burials where direct naming evidence is absent."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "‘발견’보다 중요한 것은 맥락",
+          "headingEn": "Context Makes the Inscription Powerful",
+          "textKo": "묘지석이 유물시장에 따로 나왔다면 신뢰도는 훨씬 낮았을 것이다. 왕릉 내부에서 원위치에 가까운 상태로 발견됐고 다른 유물과 함께 기록됐기 때문에 명문의 증거력이 커졌다. 고고학에서 provenance와 발굴맥락이 왜 중요한지를 보여주는 대표 사례다.",
+          "textEn": "An inscribed stone detached from archaeological context would be less persuasive. These epitaphs were found inside an intact tomb alongside a coherent royal assemblage. The case demonstrates why provenance and excavation context are central to archaeological identification."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "앞으로 무엇을 더 알 수 있나",
+          "headingEn": "What Questions Remain",
+          "textKo": "보존과학·목재연구·금속분석·인골연구가 발전하면 왕실의 식생활, 장거리 교류, 장례과정은 더 정밀해질 수 있다. 그러나 무덤 주인의 기본 신원은 이미 묘지석이라는 직접증거로 매우 강하게 고정돼 있다. 남은 질문은 ‘누구인가’보다 ‘어떻게 살고 장례를 치렀는가’에 가깝다. 묘지석의 강점은 이름만 적혀 있다는 데 그치지 않는다. 무덤 내부에서 왕과 왕비의 장례순서와 연결되는 날짜 정보가 다른 유물배치와 함께 나왔기 때문에, 문헌연대와 고고학적 연대를 서로 맞출 수 있는 기준점이 됐다. 이런 직접명문은 주변 백제 유적의 연대추정에도 비교기준을 제공한다. 이 때문에 무령왕릉은 백제 고고학에서 연대와 신원을 동시에 고정하는 드문 기준유적으로 활용된다.",
+          "textEn": "Conservation science, wood analysis, metallurgy, and human-remains research can refine knowledge of diet, exchange, and funerary sequence. The basic identity of the occupants, however, is already strongly fixed by direct inscription. The remaining questions concern life and ritual more than the name of the tomb owner. The epitaphs matter not only because they name the occupants. Their dates appear within an intact burial context that can be compared with artifact placement and documentary chronology, creating an anchor for dating other Baekje material. For that reason the tomb serves as a rare Baekje reference point fixing both chronology and identity."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1971년 발견된 무령왕릉 내부의 묘지석은 무덤 주인이 백제 제25대 무령왕과 왕비임을 직접 밝혀 주며, 국립공주박물관도 이를 삼국시대 왕릉 가운데 주인이 확정된 대표 사례로 설명한다.\n\nNOT ESTABLISHED: 무령왕릉의 모든 부장품 제작자·장례의식 세부·왕실 구성원의 생애를 묘지석만으로 완전히 복원할 수 있는 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: epitaph stones found inside the tomb discovered in 1971 directly identify King Muryeong of Baekje and his queen, and Gongju National Museum treats the burial as a rare securely identified Three Kingdoms royal tomb.\n\nNOT ESTABLISHED: the epitaphs do not by themselves reconstruct every maker, ritual detail, or aspect of the royal couple’s lives."
+        }
+      ],
+      "factBoundary": {
+        "established": "1971년 발견된 무령왕릉 내부의 묘지석은 무덤 주인이 백제 제25대 무령왕과 왕비임을 직접 밝혀 주며, 국립공주박물관도 이를 삼국시대 왕릉 가운데 주인이 확정된 대표 사례로 설명한다.",
+        "notEstablished": "무령왕릉의 모든 부장품 제작자·장례의식 세부·왕실 구성원의 생애를 묘지석만으로 완전히 복원할 수 있는 것은 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "How Two Stone Epitaphs Identified a Baekje Royal Tomb",
+      "hook": "Stone epitaphs inside an undisturbed tomb preserved names and dates, creating one of the rare securely identified royal burials of Korea’s Three Kingdoms period.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "배수로 공사에서 열린 왕릉",
+          "headingEn": "A Royal Tomb Found During Drainage Work",
+          "textKo": "1971년 공주 송산리 고분군에서 배수로 공사를 하던 중 벽돌무덤 입구가 우연히 발견됐다. 무덤은 도굴되지 않은 상태였고 내부에는 왕과 왕비의 장신구·관재·진묘수·각종 부장품이 남아 있었다. 그러나 가장 결정적인 유물은 화려한 금속공예품이 아니라 글자가 새겨진 돌판이었다.",
+          "textEn": "In 1971 drainage work at the Songsan-ri tomb complex in Gongju exposed the entrance to a brick tomb. It had escaped looting and contained royal ornaments, coffin fittings, a guardian figure, and many grave goods. The most decisive objects, however, were not the gold ornaments but inscribed stone epitaphs."
+        },
+        {
+          "blockId": "02",
+          "type": "EPITAPH",
+          "headingKo": "묘지석이 이름을 말했다",
+          "headingEn": "The Stones Named the Occupants",
+          "textKo": "왕과 왕비의 묘지석에는 사망일과 장례 관련 날짜, 묘역 매입을 상징하는 문구가 기록돼 있다. 국립공주박물관은 이 지석 때문에 무령왕릉이 삼국시대 무덤 가운데 주인을 확실히 알 수 있는 매우 드문 사례라고 설명한다. 고고학적 추정이 아니라 무덤 내부의 직접 명문이 신원을 고정했다.",
+          "textEn": "The epitaphs record death and burial information for the king and queen, along with formulae associated with the burial plot. Gongju National Museum emphasizes that these inscriptions make the tomb an unusually secure identification among royal tombs of Korea’s Three Kingdoms period. The identity rests on direct text found inside the tomb."
+        },
+        {
+          "blockId": "03",
+          "type": "CHRONOLOGY",
+          "headingKo": "523년과 525년",
+          "headingEn": "Dates That Anchor the Burial",
+          "textKo": "무령왕은 523년에 사망했고 장례는 525년에 치러졌다는 기록이 묘지석과 문헌을 통해 연결된다. 왕비 역시 별도의 지석과 장례기록이 있어 무덤 사용의 시간순서를 복원할 수 있다. 왕릉의 연대가 단순 양식비교가 아니라 명문날짜와 교차검증된다는 점이 중요하다.",
+          "textEn": "The inscriptions and historical records connect King Muryeong’s death in 523 with burial rites in 525. The queen also has separate inscriptional evidence. Rather than relying only on stylistic comparison, archaeologists can tie the tomb sequence to written dates."
+        },
+        {
+          "blockId": "04",
+          "type": "OBJECTS",
+          "headingKo": "부장품도 신원과 맞물린다",
+          "headingEn": "The Grave Goods Fit the Royal Context",
+          "textKo": "왕·왕비용 금제 장신구, 목관 부속, 진묘수와 제사용 그릇은 묘지석이 제시한 왕실 신분과 일관된 맥락을 만든다. 다만 화려한 물건 하나만 보고 왕릉이라고 단정한 것이 아니라, 명문·매장구조·부장품 전체가 결합해 해석을 강화했다.",
+          "textEn": "Gold ornaments for the king and queen, coffin hardware, ritual vessels, and the stone guardian fit the status indicated by the epitaphs. The interpretation is strong because inscription, burial architecture, and artifact assemblage reinforce one another rather than depending on a single spectacular object."
+        },
+        {
+          "blockId": "05",
+          "type": "HISTORY",
+          "headingKo": "문헌기록을 교정하는 기준점",
+          "headingEn": "A Fixed Point for Baekje Chronology",
+          "textKo": "무령왕릉은 백제사 연표와 왕실 장례, 중국 남조와의 교류를 연구하는 기준점이 됐다. 출토품의 제작기법과 수입품은 당시 국제교류를 보여주며, 정확한 연대가 있는 무덤이기 때문에 주변 다른 유적의 상대연대를 비교하는 데도 큰 가치가 있다.",
+          "textEn": "The tomb became a chronological anchor for Baekje history, royal burial practice, and connections with southern China. Imported or technologically distinctive objects can be compared with a burial whose date and occupants are unusually well constrained."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모든 왕릉이 이렇게 확인되는 것은 아니다",
+          "headingEn": "Most Royal Tombs Are Not This Securely Named",
+          "textKo": "대부분의 고대 왕릉에는 이름을 직접 밝히는 묘지석이 남지 않는다. 그래서 구조·유물·문헌을 조합해 주인을 추정해야 한다. 무령왕릉의 확정성이 예외적으로 강하다고 해서 다른 무덤의 추정신원을 같은 수준으로 취급해서는 안 된다.",
+          "textEn": "Many ancient royal tombs contain no inscription that directly identifies an occupant. Their attribution must rely on architecture, artifacts, and texts. The exceptional certainty at Muryeong’s tomb should not be transferred automatically to other burials where direct naming evidence is absent."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "‘발견’보다 중요한 것은 맥락",
+          "headingEn": "Context Makes the Inscription Powerful",
+          "textKo": "묘지석이 유물시장에 따로 나왔다면 신뢰도는 훨씬 낮았을 것이다. 왕릉 내부에서 원위치에 가까운 상태로 발견됐고 다른 유물과 함께 기록됐기 때문에 명문의 증거력이 커졌다. 고고학에서 provenance와 발굴맥락이 왜 중요한지를 보여주는 대표 사례다.",
+          "textEn": "An inscribed stone detached from archaeological context would be less persuasive. These epitaphs were found inside an intact tomb alongside a coherent royal assemblage. The case demonstrates why provenance and excavation context are central to archaeological identification."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "앞으로 무엇을 더 알 수 있나",
+          "headingEn": "What Questions Remain",
+          "textKo": "보존과학·목재연구·금속분석·인골연구가 발전하면 왕실의 식생활, 장거리 교류, 장례과정은 더 정밀해질 수 있다. 그러나 무덤 주인의 기본 신원은 이미 묘지석이라는 직접증거로 매우 강하게 고정돼 있다. 남은 질문은 ‘누구인가’보다 ‘어떻게 살고 장례를 치렀는가’에 가깝다. 묘지석의 강점은 이름만 적혀 있다는 데 그치지 않는다. 무덤 내부에서 왕과 왕비의 장례순서와 연결되는 날짜 정보가 다른 유물배치와 함께 나왔기 때문에, 문헌연대와 고고학적 연대를 서로 맞출 수 있는 기준점이 됐다. 이런 직접명문은 주변 백제 유적의 연대추정에도 비교기준을 제공한다. 이 때문에 무령왕릉은 백제 고고학에서 연대와 신원을 동시에 고정하는 드문 기준유적으로 활용된다.",
+          "textEn": "Conservation science, wood analysis, metallurgy, and human-remains research can refine knowledge of diet, exchange, and funerary sequence. The basic identity of the occupants, however, is already strongly fixed by direct inscription. The remaining questions concern life and ritual more than the name of the tomb owner. The epitaphs matter not only because they name the occupants. Their dates appear within an intact burial context that can be compared with artifact placement and documentary chronology, creating an anchor for dating other Baekje material. For that reason the tomb serves as a rare Baekje reference point fixing both chronology and identity."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1971년 발견된 무령왕릉 내부의 묘지석은 무덤 주인이 백제 제25대 무령왕과 왕비임을 직접 밝혀 주며, 국립공주박물관도 이를 삼국시대 왕릉 가운데 주인이 확정된 대표 사례로 설명한다.\n\nNOT ESTABLISHED: 무령왕릉의 모든 부장품 제작자·장례의식 세부·왕실 구성원의 생애를 묘지석만으로 완전히 복원할 수 있는 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: epitaph stones found inside the tomb discovered in 1971 directly identify King Muryeong of Baekje and his queen, and Gongju National Museum treats the burial as a rare securely identified Three Kingdoms royal tomb.\n\nNOT ESTABLISHED: the epitaphs do not by themselves reconstruct every maker, ritual detail, or aspect of the royal couple’s lives."
+        }
+      ],
+      "factBoundary": {
+        "established": "epitaph stones found inside the tomb discovered in 1971 directly identify King Muryeong of Baekje and his queen, and Gongju National Museum treats the burial as a rare securely identified Three Kingdoms royal tomb.",
+        "notEstablished": "the epitaphs do not by themselves reconstruct every maker, ritual detail, or aspect of the royal couple’s lives."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MURYEONG_TOMB_EPITAPH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1971년 발견된 무령왕릉 내부의 묘지석은 무덤 주인이 백제 제25대 무령왕과 왕비임을 직접 밝혀 주며, 국립공주박물관도 이를 삼국시대 왕릉 가운데 주인이 확정된 대표 사례로 설명한다.",
+      "statementEn": "epitaph stones found inside the tomb discovered in 1971 directly identify King Muryeong of Baekje and his queen, and Gongju National Museum treats the burial as a rare securely identified Three Kingdoms royal tomb.",
+      "sourceRefs": [
+        "GONGJU_TOMB",
+        "GONGJU_PLAN"
+      ]
+    },
+    {
+      "claimId": "MURYEONG_TOMB_EPITAPH-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "무령왕릉의 모든 부장품 제작자·장례의식 세부·왕실 구성원의 생애를 묘지석만으로 완전히 복원할 수 있는 것은 아니다.",
+      "statementEn": "the epitaphs do not by themselves reconstruct every maker, ritual detail, or aspect of the royal couple’s lives.",
+      "sourceRefs": [
+        "GONGJU_TOMB",
+        "GONGJU_PLAN"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GONGJU_TOMB",
+      "title": "웅진백제실 / 무령왕릉",
+      "publisher": "국립공주박물관",
+      "url": "https://gongju.museum.go.kr/kor/sub01_01_02.do",
+      "sourceType": "NATIONAL_MUSEUM"
+    },
+    {
+      "sourceId": "GONGJU_PLAN",
+      "title": "2025년도 국립공주박물관 주요 업무계획",
+      "publisher": "국립공주박물관",
+      "url": "https://egongju.museum.go.kr/thumbnail/viewer/1754825583131/index.html",
+      "sourceType": "NATIONAL_MUSEUM"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "muryeong-tomb-epitaph-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "GONGJU_TOMB",
+        "GONGJU_PLAN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v01__ko.png",
+          "sha256": "4b33db5e5170eb45477b51a0e047e03f8e1bbceb1ed722d7cb6165d63a13d6ca",
+          "width": 1600,
+          "height": 900,
+          "fileName": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v01__ko.png"
+        },
+        "en": {
+          "file": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v01__en.png",
+          "sha256": "7481b14c98ef99ebf3d4232edf19e04dae811df07253878e6d6eda71d2ba59db",
+          "width": 1600,
+          "height": 900,
+          "fileName": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "muryeong-tomb-epitaph-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "GONGJU_TOMB",
+        "GONGJU_PLAN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v02__ko.png",
+          "sha256": "eeadbdb845536054fa95140b26029ca37b1a3a77fbeea7a5d7ab8080330d0036",
+          "width": 1600,
+          "height": 900,
+          "fileName": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v02__ko.png"
+        },
+        "en": {
+          "file": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v02__en.png",
+          "sha256": "97d456ac87b1d4f65df2d3dc973d2300243dd038e46ae2a89d5af5d5d07df5dc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "muryeong-tomb-epitaph-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "GONGJU_TOMB",
+        "GONGJU_PLAN"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v03__ko.png",
+          "sha256": "a7223d0caba7918fb77d65e408f9c91d59c06d4ce02c8730fa144e8f4b147a99",
+          "width": 1600,
+          "height": 900,
+          "fileName": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v03__ko.png"
+        },
+        "en": {
+          "file": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v03__en.png",
+          "sha256": "b1bfbefb8c79e27cc0493eab69e0b98e87de03b18999eb3300e7c5328e600b18",
+          "width": 1600,
+          "height": 900,
+          "fileName": "muryeong-tomb-epitaph__muryeong-tomb-epitaph-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Korea",
+    "era": "523–525 CE / discovered 1971",
+    "genre": "Archaeology / Identity Resolution",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Archaeology / Identity Resolution",
+    "resolution": "unknown",
+    "countries": [
+      "Korea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1544,
+    "enBodyWords": 454
+  }
+}

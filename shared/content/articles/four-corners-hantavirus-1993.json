@@ -1,0 +1,393 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "four-corners-hantavirus-1993",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1993년 포코너스 원인불명 폐질환",
+    "canonicalTitleEn": "The 1993 Four Corners Hantavirus Outbreak",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "건강하던 젊은 사람들이 급격히 폐부종으로 쓰러진 원인은 무엇이었나",
+      "hook": "포코너스 지역의 원인불명 호흡부전은 몇 주 만에 새 한타바이러스와 사슴쥐 저장숙주로 연결됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "설명되지 않는 급성 호흡부전",
+          "headingEn": "Unexplained Acute Respiratory Failure",
+          "textKo": "1993년 봄 미국 남서부 포코너스 지역에서 이전에 건강하던 젊은 사람들이 발열·근육통 뒤 빠르게 호흡부전과 폐부종으로 악화되는 사례가 나타났다. 초기에는 흔한 독감이나 세균성 폐렴과 맞지 않았고 사망률도 높아 지역사회에 큰 공포를 만들었다.",
+          "textEn": "In spring 1993 previously healthy young adults in the U.S. Four Corners region developed fever and muscle aches followed by rapid respiratory failure and pulmonary edema. The pattern did not fit ordinary influenza or bacterial pneumonia, and the high fatality rate created intense fear."
+        },
+        {
+          "blockId": "02",
+          "type": "COLLABORATION",
+          "headingKo": "주·연방·나바호 보건당국의 합동조사",
+          "headingEn": "A Multi-Agency Investigation",
+          "textKo": "뉴멕시코·애리조나·콜로라도·유타 보건당국, Indian Health Service, CDC, Navajo Nation 보건조직이 환자자료와 검체를 모았다. 새 질환을 특정하려면 병원 한 곳의 임상정보만으로 부족했고, 지역 간 사례를 같은 정의로 묶는 감시체계가 필요했다.",
+          "textEn": "Health departments in New Mexico, Arizona, Colorado, and Utah worked with the Indian Health Service, CDC, and Navajo Nation health authorities. A new syndrome could not be defined from one hospital alone; investigators needed shared case definitions, specimens, and regional surveillance."
+        },
+        {
+          "blockId": "03",
+          "type": "VIRUS",
+          "headingKo": "한타바이러스 신호",
+          "headingEn": "Evidence Points to Hantavirus",
+          "textKo": "혈청과 조직검사에서 한타바이러스 계열 감염을 가리키는 신호가 확인됐다. 이후 바이러스의 유전정보가 분석되며 북미에서 새로 인식된 Sin Nombre virus가 주요 원인으로 정리됐다. ‘새 바이러스가 갑자기 생겼다’기보다 기존 자연계 바이러스가 인간질환의 원인으로 새롭게 인식된 사건이었다.",
+          "textEn": "Serologic and tissue testing showed evidence of hantavirus infection. Genetic work then identified what became known as Sin Nombre virus as a major cause. The episode was not simply a brand-new virus appearing from nowhere, but an existing wildlife virus newly recognized as a cause of severe human disease."
+        },
+        {
+          "blockId": "04",
+          "type": "RESERVOIR",
+          "headingKo": "사슴쥐가 연결되다",
+          "headingEn": "The Deer Mouse Connection",
+          "textKo": "현장 포획조사에서 deer mouse에 한타바이러스 감염증거가 높은 비율로 확인됐다. 인간은 감염된 설치류의 배설물·소변·타액이 오염한 먼지를 흡입할 때 위험해질 수 있다. 환자끼리의 일반적인 호흡기 전파와는 다른 생태학적 감염경로였다.",
+          "textEn": "Field studies found evidence of hantavirus infection in deer mice. Humans can be exposed by inhaling contaminated particles from infected rodent urine, droppings, or saliva. The ecological pathway differs from an ordinary person-to-person respiratory epidemic."
+        },
+        {
+          "blockId": "05",
+          "type": "ENVIRONMENT",
+          "headingKo": "왜 그해 사건이 두드러졌나",
+          "headingEn": "Why the 1993 Outbreak Became Visible",
+          "textKo": "당시 기후와 먹이조건이 설치류 개체수 증가에 영향을 줬다는 연구가 이어졌다. 하지만 특정 기후요인 하나만으로 모든 발생을 설명할 수는 없다. 사람의 주거환경, 설치류 밀도, 노출행동이 함께 작용해 위험을 만든다.",
+          "textEn": "Research examined how climate and food conditions may have increased rodent numbers. No single climate variable explains every case. Housing conditions, rodent density, and human exposure behaviour all influence risk."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "지역·민족을 질병과 동일시하지 않는다",
+          "headingEn": "Do Not Turn Geography into Stigma",
+          "textKo": "초기 언론보도는 나바호 지역과 질환을 강하게 결부해 낙인을 만들었다. 그러나 이후 미국 여러 지역에서 한타바이러스 감염이 확인됐다. 감염병의 생태적 발생지를 특정 공동체의 속성처럼 묘사하지 않는 것이 중요한 공중보건 원칙이다.",
+          "textEn": "Early coverage strongly associated the disease with Navajo communities, producing stigma. Later U.S. cases appeared in many regions. The ecological location of an outbreak should not be treated as a characteristic of an ethnic group."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "초기 치명률 숫자는 계속 변했다",
+          "headingEn": "Early Fatality Numbers Changed",
+          "textKo": "1993년 MMWR의 환자·사망 수는 조사 진행에 따라 업데이트됐다. 초기 18명 중 14명 같은 수치는 그 시점의 확인사례일 뿐 최종 전국통계가 아니다. 실시간 유행기록을 읽을 때는 발표 날짜와 사례정의를 함께 확인해야 한다.",
+          "textEn": "MMWR case and death counts changed as the investigation progressed. A figure such as fourteen deaths among eighteen confirmed cases represented one dated snapshot, not the final national total. Real-time outbreak records must be read with their publication date and case definition."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 미스터리를 해결했나",
+          "headingEn": "What Solved the Mystery",
+          "textKo": "환자 검체의 혈청·유전 증거, 설치류 조사, 역학적 노출패턴이 같은 방향을 가리키면서 원인설명이 굳어졌다. 이후 감시체계와 진단검사가 만들어져 미국 전역의 사례를 추적하게 됐다. 현재도 감염은 발생하지만 1993년처럼 원인 자체가 미지인 상태는 아니다. 이 사건은 새로운 병원체 이름을 붙이는 일과 실제 환자위험을 줄이는 일이 동시에 진행된 사례다. 조사팀은 원인규명과 병행해 설치류 접촉을 줄이는 행동지침과 감시체계를 만들었다. 원인이 완전히 정리되기 전에도 잠정적 위험감소 조치를 취하는 것이 공중보건의 중요한 특징이다. 후대 감시자료는 미국 여러 주에서 산발사례가 계속 발생함을 보여준다. 따라서 1993년은 질병의 시작점이라기보다 북미 한타바이러스 질환을 공식적으로 인식하고 추적하기 시작한 전환점에 가깝다.",
+          "textEn": "Serology and genetic evidence from patients, rodent studies, and exposure epidemiology converged. Diagnostic tests and national surveillance followed. Hantavirus disease still occurs, but the cause is no longer the unknown that confronted investigators in 1993. The investigation had to identify a pathogen and reduce immediate risk at the same time. Public-health teams developed surveillance and rodent-exposure guidance before every scientific detail was settled, illustrating why provisional protective action can precede complete explanation. Later surveillance found cases across multiple U.S. states, making 1993 a recognition and surveillance turning point rather than the biological beginning of the disease."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1993년 포코너스 지역의 급성 호흡부전 집단발생은 새로 인식된 한타바이러스 감염과 연결됐고, 사슴쥐가 중요한 저장숙주로 확인됐다.\n\nNOT ESTABLISHED: 사건을 특정 민족집단의 특성이나 하나의 단순한 기후요인만으로 설명하는 해석은 근거가 부족하다.",
+          "textEn": "CONFIRMED / SUPPORTED: the 1993 Four Corners outbreak of severe pulmonary disease was linked to a newly recognized hantavirus, with the deer mouse identified as an important reservoir.\n\nNOT ESTABLISHED: explanations that reduce the outbreak to a particular ethnic community or one simple climate factor are not supported by the broader evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "1993년 포코너스 지역의 급성 호흡부전 집단발생은 새로 인식된 한타바이러스 감염과 연결됐고, 사슴쥐가 중요한 저장숙주로 확인됐다.",
+        "notEstablished": "사건을 특정 민족집단의 특성이나 하나의 단순한 기후요인만으로 설명하는 해석은 근거가 부족하다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "What Caused Healthy Young Adults to Develop Sudden Fatal Pulmonary Failure in 1993?",
+      "hook": "A mysterious pulmonary syndrome in the Four Corners region was linked within weeks to a newly recognized hantavirus and its deer-mouse reservoir.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "설명되지 않는 급성 호흡부전",
+          "headingEn": "Unexplained Acute Respiratory Failure",
+          "textKo": "1993년 봄 미국 남서부 포코너스 지역에서 이전에 건강하던 젊은 사람들이 발열·근육통 뒤 빠르게 호흡부전과 폐부종으로 악화되는 사례가 나타났다. 초기에는 흔한 독감이나 세균성 폐렴과 맞지 않았고 사망률도 높아 지역사회에 큰 공포를 만들었다.",
+          "textEn": "In spring 1993 previously healthy young adults in the U.S. Four Corners region developed fever and muscle aches followed by rapid respiratory failure and pulmonary edema. The pattern did not fit ordinary influenza or bacterial pneumonia, and the high fatality rate created intense fear."
+        },
+        {
+          "blockId": "02",
+          "type": "COLLABORATION",
+          "headingKo": "주·연방·나바호 보건당국의 합동조사",
+          "headingEn": "A Multi-Agency Investigation",
+          "textKo": "뉴멕시코·애리조나·콜로라도·유타 보건당국, Indian Health Service, CDC, Navajo Nation 보건조직이 환자자료와 검체를 모았다. 새 질환을 특정하려면 병원 한 곳의 임상정보만으로 부족했고, 지역 간 사례를 같은 정의로 묶는 감시체계가 필요했다.",
+          "textEn": "Health departments in New Mexico, Arizona, Colorado, and Utah worked with the Indian Health Service, CDC, and Navajo Nation health authorities. A new syndrome could not be defined from one hospital alone; investigators needed shared case definitions, specimens, and regional surveillance."
+        },
+        {
+          "blockId": "03",
+          "type": "VIRUS",
+          "headingKo": "한타바이러스 신호",
+          "headingEn": "Evidence Points to Hantavirus",
+          "textKo": "혈청과 조직검사에서 한타바이러스 계열 감염을 가리키는 신호가 확인됐다. 이후 바이러스의 유전정보가 분석되며 북미에서 새로 인식된 Sin Nombre virus가 주요 원인으로 정리됐다. ‘새 바이러스가 갑자기 생겼다’기보다 기존 자연계 바이러스가 인간질환의 원인으로 새롭게 인식된 사건이었다.",
+          "textEn": "Serologic and tissue testing showed evidence of hantavirus infection. Genetic work then identified what became known as Sin Nombre virus as a major cause. The episode was not simply a brand-new virus appearing from nowhere, but an existing wildlife virus newly recognized as a cause of severe human disease."
+        },
+        {
+          "blockId": "04",
+          "type": "RESERVOIR",
+          "headingKo": "사슴쥐가 연결되다",
+          "headingEn": "The Deer Mouse Connection",
+          "textKo": "현장 포획조사에서 deer mouse에 한타바이러스 감염증거가 높은 비율로 확인됐다. 인간은 감염된 설치류의 배설물·소변·타액이 오염한 먼지를 흡입할 때 위험해질 수 있다. 환자끼리의 일반적인 호흡기 전파와는 다른 생태학적 감염경로였다.",
+          "textEn": "Field studies found evidence of hantavirus infection in deer mice. Humans can be exposed by inhaling contaminated particles from infected rodent urine, droppings, or saliva. The ecological pathway differs from an ordinary person-to-person respiratory epidemic."
+        },
+        {
+          "blockId": "05",
+          "type": "ENVIRONMENT",
+          "headingKo": "왜 그해 사건이 두드러졌나",
+          "headingEn": "Why the 1993 Outbreak Became Visible",
+          "textKo": "당시 기후와 먹이조건이 설치류 개체수 증가에 영향을 줬다는 연구가 이어졌다. 하지만 특정 기후요인 하나만으로 모든 발생을 설명할 수는 없다. 사람의 주거환경, 설치류 밀도, 노출행동이 함께 작용해 위험을 만든다.",
+          "textEn": "Research examined how climate and food conditions may have increased rodent numbers. No single climate variable explains every case. Housing conditions, rodent density, and human exposure behaviour all influence risk."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "지역·민족을 질병과 동일시하지 않는다",
+          "headingEn": "Do Not Turn Geography into Stigma",
+          "textKo": "초기 언론보도는 나바호 지역과 질환을 강하게 결부해 낙인을 만들었다. 그러나 이후 미국 여러 지역에서 한타바이러스 감염이 확인됐다. 감염병의 생태적 발생지를 특정 공동체의 속성처럼 묘사하지 않는 것이 중요한 공중보건 원칙이다.",
+          "textEn": "Early coverage strongly associated the disease with Navajo communities, producing stigma. Later U.S. cases appeared in many regions. The ecological location of an outbreak should not be treated as a characteristic of an ethnic group."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "초기 치명률 숫자는 계속 변했다",
+          "headingEn": "Early Fatality Numbers Changed",
+          "textKo": "1993년 MMWR의 환자·사망 수는 조사 진행에 따라 업데이트됐다. 초기 18명 중 14명 같은 수치는 그 시점의 확인사례일 뿐 최종 전국통계가 아니다. 실시간 유행기록을 읽을 때는 발표 날짜와 사례정의를 함께 확인해야 한다.",
+          "textEn": "MMWR case and death counts changed as the investigation progressed. A figure such as fourteen deaths among eighteen confirmed cases represented one dated snapshot, not the final national total. Real-time outbreak records must be read with their publication date and case definition."
+        },
+        {
+          "blockId": "08",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 미스터리를 해결했나",
+          "headingEn": "What Solved the Mystery",
+          "textKo": "환자 검체의 혈청·유전 증거, 설치류 조사, 역학적 노출패턴이 같은 방향을 가리키면서 원인설명이 굳어졌다. 이후 감시체계와 진단검사가 만들어져 미국 전역의 사례를 추적하게 됐다. 현재도 감염은 발생하지만 1993년처럼 원인 자체가 미지인 상태는 아니다. 이 사건은 새로운 병원체 이름을 붙이는 일과 실제 환자위험을 줄이는 일이 동시에 진행된 사례다. 조사팀은 원인규명과 병행해 설치류 접촉을 줄이는 행동지침과 감시체계를 만들었다. 원인이 완전히 정리되기 전에도 잠정적 위험감소 조치를 취하는 것이 공중보건의 중요한 특징이다. 후대 감시자료는 미국 여러 주에서 산발사례가 계속 발생함을 보여준다. 따라서 1993년은 질병의 시작점이라기보다 북미 한타바이러스 질환을 공식적으로 인식하고 추적하기 시작한 전환점에 가깝다.",
+          "textEn": "Serology and genetic evidence from patients, rodent studies, and exposure epidemiology converged. Diagnostic tests and national surveillance followed. Hantavirus disease still occurs, but the cause is no longer the unknown that confronted investigators in 1993. The investigation had to identify a pathogen and reduce immediate risk at the same time. Public-health teams developed surveillance and rodent-exposure guidance before every scientific detail was settled, illustrating why provisional protective action can precede complete explanation. Later surveillance found cases across multiple U.S. states, making 1993 a recognition and surveillance turning point rather than the biological beginning of the disease."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1993년 포코너스 지역의 급성 호흡부전 집단발생은 새로 인식된 한타바이러스 감염과 연결됐고, 사슴쥐가 중요한 저장숙주로 확인됐다.\n\nNOT ESTABLISHED: 사건을 특정 민족집단의 특성이나 하나의 단순한 기후요인만으로 설명하는 해석은 근거가 부족하다.",
+          "textEn": "CONFIRMED / SUPPORTED: the 1993 Four Corners outbreak of severe pulmonary disease was linked to a newly recognized hantavirus, with the deer mouse identified as an important reservoir.\n\nNOT ESTABLISHED: explanations that reduce the outbreak to a particular ethnic community or one simple climate factor are not supported by the broader evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "the 1993 Four Corners outbreak of severe pulmonary disease was linked to a newly recognized hantavirus, with the deer mouse identified as an important reservoir.",
+        "notEstablished": "explanations that reduce the outbreak to a particular ethnic community or one simple climate factor are not supported by the broader evidence."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "FOUR_CORNERS_HANTAVIRUS_1993-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1993년 포코너스 지역의 급성 호흡부전 집단발생은 새로 인식된 한타바이러스 감염과 연결됐고, 사슴쥐가 중요한 저장숙주로 확인됐다.",
+      "statementEn": "the 1993 Four Corners outbreak of severe pulmonary disease was linked to a newly recognized hantavirus, with the deer mouse identified as an important reservoir.",
+      "sourceRefs": [
+        "CDC_HANTA_1993",
+        "CDC_HANTA_HISTORY",
+        "CDC_HANTA_2026"
+      ]
+    },
+    {
+      "claimId": "FOUR_CORNERS_HANTAVIRUS_1993-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "사건을 특정 민족집단의 특성이나 하나의 단순한 기후요인만으로 설명하는 해석은 근거가 부족하다.",
+      "statementEn": "explanations that reduce the outbreak to a particular ethnic community or one simple climate factor are not supported by the broader evidence.",
+      "sourceRefs": [
+        "CDC_HANTA_1993",
+        "CDC_HANTA_HISTORY",
+        "CDC_HANTA_2026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CDC_HANTA_1993",
+      "title": "Hantavirus Disease -- Southwestern United States, 1993",
+      "publisher": "CDC MMWR",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00021294.htm",
+      "sourceType": "PUBLIC_HEALTH_OFFICIAL"
+    },
+    {
+      "sourceId": "CDC_HANTA_HISTORY",
+      "title": "Hantavirus Pulmonary Syndrome—The 25th Anniversary of the Four Corners Outbreak",
+      "publisher": "CDC Emerging Infectious Diseases",
+      "url": "https://wwwnc.cdc.gov/eid/article/24/11/18-0381_article",
+      "sourceType": "PEER_REVIEWED_PUBLIC_HEALTH"
+    },
+    {
+      "sourceId": "CDC_HANTA_2026",
+      "title": "Reported Cases of Hantavirus Disease",
+      "publisher": "CDC",
+      "url": "https://www.cdc.gov/hantavirus/data-research/cases/",
+      "sourceType": "PUBLIC_HEALTH_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "four-corners-hantavirus-1993-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "CDC_HANTA_1993",
+        "CDC_HANTA_HISTORY",
+        "CDC_HANTA_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v01__ko.png",
+          "sha256": "a675063521938617e29c4d4404856798aff07d24bd39c4b1f67c48696e7c3ec7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v01__ko.png"
+        },
+        "en": {
+          "file": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v01__en.png",
+          "sha256": "7b85fc712b212248fa8447d8a008ec1aad820c3a007265fd4578577730fbabdd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "four-corners-hantavirus-1993-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "CDC_HANTA_1993",
+        "CDC_HANTA_HISTORY",
+        "CDC_HANTA_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v02__ko.png",
+          "sha256": "5a3afb35701e67a21f48d8f7da78d2bbb463e604c5d2046ebf0fcaa0103f371b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v02__ko.png"
+        },
+        "en": {
+          "file": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v02__en.png",
+          "sha256": "1d6ebc450d4db8c4ec14986ef2230a528660ed28d1cf1a732058a6cf7f4fe55b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "four-corners-hantavirus-1993-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "CDC_HANTA_1993",
+        "CDC_HANTA_HISTORY",
+        "CDC_HANTA_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v03__ko.png",
+          "sha256": "262addc87e7dcf049386b02a6329b2ae38ab570406e1db4209c698f3af43a3fc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v03__ko.png"
+        },
+        "en": {
+          "file": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v03__en.png",
+          "sha256": "74e4fd4000b89fd489dc20c31f3f412706900afff6ada254c8a3dbaefd447098",
+          "width": 1600,
+          "height": 900,
+          "fileName": "four-corners-hantavirus-1993__four-corners-hantavirus-1993-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States",
+    "era": "1993",
+    "genre": "Medical Mystery / Emerging Infection",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Medical Mystery / Emerging Infection",
+    "resolution": "unknown",
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1519,
+    "enBodyWords": 424
+  }
+}
