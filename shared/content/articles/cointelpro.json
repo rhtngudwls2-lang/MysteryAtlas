@@ -1,0 +1,424 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "cointelpro",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "COINTELPRO",
+    "canonicalTitleEn": "COINTELPRO",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "FBI는 감시를 넘어 어떤 방식으로 정치·사회단체를 교란했나",
+      "hook": "FBI 자체 역사와 공개 파일은 프로그램의 존재뿐 아니라 침투·불신 조성·활동 약화 같은 수단도 기록한다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "비밀 프로그램은 FBI 파일 안에 남아 있다",
+          "headingEn": "The Program Is in the FBI’s Own Files",
+          "textKo": "COINTELPRO는 단순한 후대 별명이 아니라 FBI가 1956년 시작한 Counterintelligence Program의 실제 명칭이다. 처음에는 미국 공산당 활동을 겨냥했지만 이후 Socialist Workers Party, Ku Klux Klan, Black Panther Party, New Left 등 서로 다른 성격의 집단으로 범위가 넓어졌다.",
+          "textEn": "COINTELPRO was not a later nickname. It was the FBI’s Counterintelligence Program, begun in 1956. It initially focused on the Communist Party USA and later expanded to targets including the Socialist Workers Party, the Ku Klux Klan, the Black Panther Party, and New Left organizations."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "감시와 교란은 같은 행위가 아니다",
+          "headingEn": "Surveillance and Disruption Are Different",
+          "textKo": "정보수집만 하는 것과 조직의 내부관계·평판·활동능력에 영향을 주려는 것은 다른 단계다. FBI 자체 역사는 일부 COINTELPRO 활동이 침투, 구성원 사이의 불신 조성, 외부에서의 신뢰 훼손 등 적극적 방식을 사용했다고 설명한다.",
+          "textEn": "Collecting information is not the same as trying to affect an organization’s internal relationships, public reputation, or ability to function. The FBI’s own history acknowledges that some COINTELPRO activity included infiltration, sowing distrust, and efforts to discredit or disrupt targets."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "Vault가 보여주는 프로그램의 분화",
+          "headingEn": "The Vault Shows Multiple Target Programs",
+          "textKo": "현재 FBI Vault에는 White Hate Groups, New Left, Puerto Rican Groups, Black Extremist, Socialist Workers Party 등 여러 하위 파일군이 공개돼 있다. 자료는 하나의 단일 작전이 아니라 대상 범주별로 문서·지침·현장 활동이 축적된 체계였음을 보여준다.",
+          "textEn": "The FBI Vault now organizes released COINTELPRO files by categories such as White Hate Groups, New Left, Puerto Rican Groups, Black Extremist, and Socialist Workers Party. The archive shows a network of target-specific files and practices rather than one undifferentiated operation."
+        },
+        {
+          "blockId": "04",
+          "type": "TURNING_POINT",
+          "headingKo": "1971년 폭로와 프로그램 종료",
+          "headingEn": "1971 Exposure and Termination",
+          "textKo": "1971년 펜실베이니아주 Media의 FBI 사무실에서 문서가 탈취돼 언론과 의회에 전달되면서 프로그램의 실체가 널리 알려졌다. FBI 공식 역사에 따르면 J. Edgar Hoover는 같은 해 4월 모든 COINTELPRO 작전을 공식 종료했다.",
+          "textEn": "The program became widely known after documents were taken from an FBI office in Media, Pennsylvania, in 1971 and shared with journalists and Congress. FBI history states that J. Edgar Hoover formally ended all COINTELPRO operations in April 1971."
+        },
+        {
+          "blockId": "05",
+          "type": "OVERSIGHT",
+          "headingKo": "후대 평가는 권리침해를 문제 삼았다",
+          "headingEn": "Later Criticism Focused on Rights and Limits",
+          "textKo": "FBI는 오늘날 자체 역사에서 일부 수단이 지나쳤으며, 의회와 미국 사회가 수정헌법 제1조 권리 침해 등의 이유로 프로그램을 비판했다고 서술한다. 이후 국내안보 수사에는 더 강한 지침과 통제장치가 도입됐다.",
+          "textEn": "The FBI’s current institutional history acknowledges that some tactics went too far and that Congress and the public criticized the program for abridging First Amendment rights and other concerns. Later rules imposed stronger controls on domestic national-security investigations."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "대상 집단의 성격이 수단을 정당화하진 않는다",
+          "headingEn": "Risk Assessments Do Not Settle the Legality of Tactics",
+          "textKo": "대상에는 폭력적 행위와 연관된 조직도 있었고 합법적 정치활동을 한 집단도 있었다. 특정 단체에 대한 위험평가와 정부기관이 사용할 수 있는 수단의 적법성은 별도 문제다. 따라서 사건은 ‘누가 옳았나’의 단순 구도가 아니라 권한과 수단을 문서로 확인하는 방식으로 읽어야 한다.",
+          "textEn": "Some target organizations were associated with violence, while others engaged in lawful political activity. Assessing a group’s risk and deciding what methods government agents may lawfully use are separate questions. The documentary record must be read case by case."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "남은 기록은 제도적 기억이 됐다",
+          "headingEn": "Released Records Became Institutional Memory",
+          "textKo": "COINTELPRO 공개자료는 정보기관·수사기관의 비밀 프로그램을 사후에 어떻게 검증할 수 있는지 보여주는 대규모 사례다. 현재의 평가는 공개문서, 기관 자체 역사, 의회 조사라는 서로 다른 층위를 함께 보는 데서 시작한다.",
+          "textEn": "COINTELPRO remains one of the clearest examples of how secret domestic programs can later be reconstructed through agency records, FOIA archives, and congressional oversight. The strongest account separates documented tactics from generalizations about every individual file."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "대상별 파일을 한 덩어리로 읽지 않는다",
+          "headingEn": "Do Not Flatten Every File Into One Story",
+          "textKo": "FBI Vault의 COINTELPRO 자료는 대상 범주와 지역, 시기별로 매우 다르다. 따라서 특정 파일에서 확인되는 수단을 프로그램 전체의 모든 사건에 자동 적용해서는 안 된다. 반대로 FBI 자체 역사가 침투와 불신 조성, 활동 약화 같은 수단이 실제 사용됐다고 인정하는 만큼, 프로그램을 단순한 ‘정보수집’으로만 축소해서도 안 된다. 개별 기록과 제도적 평가를 함께 읽는 방식이 필요하다.",
+          "textEn": "COINTELPRO records vary by target category, place, and period. A tactic documented in one file should not automatically be assigned to every case. At the same time, the FBI’s own history acknowledges infiltration and disruption, so reducing the program to ordinary information gathering is also inaccurate. Individual files and institutional assessments need to be read together."
+        },
+        {
+          "blockId": "09",
+          "type": "METHODS",
+          "headingKo": "교란수단은 사건마다 달랐다",
+          "headingEn": "Tactics Varied by Case",
+          "textKo": "공개기록에서 확인되는 COINTELPRO 수단에는 정보원·침투, 익명 또는 위장 서신, 조직 내부 갈등을 키우는 조치, 외부 평판을 훼손하려는 시도 등이 포함된다. 그러나 모든 대상에게 같은 수단이 사용된 것은 아니다. 어떤 사건에서 무엇이 실제로 승인·실행됐는지는 해당 파일로 확인해야 한다. 프로그램 전체의 성격과 개별작전의 책임을 동시에 정확히 보려면 이 구분이 필수다.",
+          "textEn": "Released records show tactics including informants, infiltration, anonymous or disguised communications, efforts to intensify internal conflict, and attempts to damage reputations. Those methods were not used identically against every target. What was authorized or carried out in a particular case must be established from that case’s files."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: FBI는 1956~1971년 COINTELPRO를 운영했고 다양한 단체를 대상으로 감시뿐 아니라 침투·교란 수단을 사용했다.\n\n확인되지 않음: 개별 공개문서 한 건만으로 모든 대상·모든 요원의 행동을 동일한 수준의 불법행위로 일반화할 수는 없다.",
+          "textEn": "Confirmed: the FBI operated COINTELPRO from 1956 to 1971 and used disruption tactics, not merely surveillance, against multiple categories of organizations.\n\nNot established: no single released file justifies treating every target or every FBI action as identical in conduct or legal status."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: FBI는 1956~1971년 COINTELPRO를 운영했고 다양한 단체를 대상으로 감시뿐 아니라 침투·교란 수단을 사용했다.",
+        "notEstablished": "확인되지 않음: 개별 공개문서 한 건만으로 모든 대상·모든 요원의 행동을 동일한 수준의 불법행위로 일반화할 수는 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "How Did the FBI Move From Surveillance to Disruption Under COINTELPRO?",
+      "hook": "The FBI’s own history and released files document not only the program’s existence but tactics including infiltration, sowing distrust, and disruption.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "비밀 프로그램은 FBI 파일 안에 남아 있다",
+          "headingEn": "The Program Is in the FBI’s Own Files",
+          "textKo": "COINTELPRO는 단순한 후대 별명이 아니라 FBI가 1956년 시작한 Counterintelligence Program의 실제 명칭이다. 처음에는 미국 공산당 활동을 겨냥했지만 이후 Socialist Workers Party, Ku Klux Klan, Black Panther Party, New Left 등 서로 다른 성격의 집단으로 범위가 넓어졌다.",
+          "textEn": "COINTELPRO was not a later nickname. It was the FBI’s Counterintelligence Program, begun in 1956. It initially focused on the Communist Party USA and later expanded to targets including the Socialist Workers Party, the Ku Klux Klan, the Black Panther Party, and New Left organizations."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "감시와 교란은 같은 행위가 아니다",
+          "headingEn": "Surveillance and Disruption Are Different",
+          "textKo": "정보수집만 하는 것과 조직의 내부관계·평판·활동능력에 영향을 주려는 것은 다른 단계다. FBI 자체 역사는 일부 COINTELPRO 활동이 침투, 구성원 사이의 불신 조성, 외부에서의 신뢰 훼손 등 적극적 방식을 사용했다고 설명한다.",
+          "textEn": "Collecting information is not the same as trying to affect an organization’s internal relationships, public reputation, or ability to function. The FBI’s own history acknowledges that some COINTELPRO activity included infiltration, sowing distrust, and efforts to discredit or disrupt targets."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "Vault가 보여주는 프로그램의 분화",
+          "headingEn": "The Vault Shows Multiple Target Programs",
+          "textKo": "현재 FBI Vault에는 White Hate Groups, New Left, Puerto Rican Groups, Black Extremist, Socialist Workers Party 등 여러 하위 파일군이 공개돼 있다. 자료는 하나의 단일 작전이 아니라 대상 범주별로 문서·지침·현장 활동이 축적된 체계였음을 보여준다.",
+          "textEn": "The FBI Vault now organizes released COINTELPRO files by categories such as White Hate Groups, New Left, Puerto Rican Groups, Black Extremist, and Socialist Workers Party. The archive shows a network of target-specific files and practices rather than one undifferentiated operation."
+        },
+        {
+          "blockId": "04",
+          "type": "TURNING_POINT",
+          "headingKo": "1971년 폭로와 프로그램 종료",
+          "headingEn": "1971 Exposure and Termination",
+          "textKo": "1971년 펜실베이니아주 Media의 FBI 사무실에서 문서가 탈취돼 언론과 의회에 전달되면서 프로그램의 실체가 널리 알려졌다. FBI 공식 역사에 따르면 J. Edgar Hoover는 같은 해 4월 모든 COINTELPRO 작전을 공식 종료했다.",
+          "textEn": "The program became widely known after documents were taken from an FBI office in Media, Pennsylvania, in 1971 and shared with journalists and Congress. FBI history states that J. Edgar Hoover formally ended all COINTELPRO operations in April 1971."
+        },
+        {
+          "blockId": "05",
+          "type": "OVERSIGHT",
+          "headingKo": "후대 평가는 권리침해를 문제 삼았다",
+          "headingEn": "Later Criticism Focused on Rights and Limits",
+          "textKo": "FBI는 오늘날 자체 역사에서 일부 수단이 지나쳤으며, 의회와 미국 사회가 수정헌법 제1조 권리 침해 등의 이유로 프로그램을 비판했다고 서술한다. 이후 국내안보 수사에는 더 강한 지침과 통제장치가 도입됐다.",
+          "textEn": "The FBI’s current institutional history acknowledges that some tactics went too far and that Congress and the public criticized the program for abridging First Amendment rights and other concerns. Later rules imposed stronger controls on domestic national-security investigations."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "대상 집단의 성격이 수단을 정당화하진 않는다",
+          "headingEn": "Risk Assessments Do Not Settle the Legality of Tactics",
+          "textKo": "대상에는 폭력적 행위와 연관된 조직도 있었고 합법적 정치활동을 한 집단도 있었다. 특정 단체에 대한 위험평가와 정부기관이 사용할 수 있는 수단의 적법성은 별도 문제다. 따라서 사건은 ‘누가 옳았나’의 단순 구도가 아니라 권한과 수단을 문서로 확인하는 방식으로 읽어야 한다.",
+          "textEn": "Some target organizations were associated with violence, while others engaged in lawful political activity. Assessing a group’s risk and deciding what methods government agents may lawfully use are separate questions. The documentary record must be read case by case."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "남은 기록은 제도적 기억이 됐다",
+          "headingEn": "Released Records Became Institutional Memory",
+          "textKo": "COINTELPRO 공개자료는 정보기관·수사기관의 비밀 프로그램을 사후에 어떻게 검증할 수 있는지 보여주는 대규모 사례다. 현재의 평가는 공개문서, 기관 자체 역사, 의회 조사라는 서로 다른 층위를 함께 보는 데서 시작한다.",
+          "textEn": "COINTELPRO remains one of the clearest examples of how secret domestic programs can later be reconstructed through agency records, FOIA archives, and congressional oversight. The strongest account separates documented tactics from generalizations about every individual file."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "대상별 파일을 한 덩어리로 읽지 않는다",
+          "headingEn": "Do Not Flatten Every File Into One Story",
+          "textKo": "FBI Vault의 COINTELPRO 자료는 대상 범주와 지역, 시기별로 매우 다르다. 따라서 특정 파일에서 확인되는 수단을 프로그램 전체의 모든 사건에 자동 적용해서는 안 된다. 반대로 FBI 자체 역사가 침투와 불신 조성, 활동 약화 같은 수단이 실제 사용됐다고 인정하는 만큼, 프로그램을 단순한 ‘정보수집’으로만 축소해서도 안 된다. 개별 기록과 제도적 평가를 함께 읽는 방식이 필요하다.",
+          "textEn": "COINTELPRO records vary by target category, place, and period. A tactic documented in one file should not automatically be assigned to every case. At the same time, the FBI’s own history acknowledges infiltration and disruption, so reducing the program to ordinary information gathering is also inaccurate. Individual files and institutional assessments need to be read together."
+        },
+        {
+          "blockId": "09",
+          "type": "METHODS",
+          "headingKo": "교란수단은 사건마다 달랐다",
+          "headingEn": "Tactics Varied by Case",
+          "textKo": "공개기록에서 확인되는 COINTELPRO 수단에는 정보원·침투, 익명 또는 위장 서신, 조직 내부 갈등을 키우는 조치, 외부 평판을 훼손하려는 시도 등이 포함된다. 그러나 모든 대상에게 같은 수단이 사용된 것은 아니다. 어떤 사건에서 무엇이 실제로 승인·실행됐는지는 해당 파일로 확인해야 한다. 프로그램 전체의 성격과 개별작전의 책임을 동시에 정확히 보려면 이 구분이 필수다.",
+          "textEn": "Released records show tactics including informants, infiltration, anonymous or disguised communications, efforts to intensify internal conflict, and attempts to damage reputations. Those methods were not used identically against every target. What was authorized or carried out in a particular case must be established from that case’s files."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: FBI는 1956~1971년 COINTELPRO를 운영했고 다양한 단체를 대상으로 감시뿐 아니라 침투·교란 수단을 사용했다.\n\n확인되지 않음: 개별 공개문서 한 건만으로 모든 대상·모든 요원의 행동을 동일한 수준의 불법행위로 일반화할 수는 없다.",
+          "textEn": "Confirmed: the FBI operated COINTELPRO from 1956 to 1971 and used disruption tactics, not merely surveillance, against multiple categories of organizations.\n\nNot established: no single released file justifies treating every target or every FBI action as identical in conduct or legal status."
+        }
+      ],
+      "factBoundary": {
+        "established": "Confirmed: the FBI operated COINTELPRO from 1956 to 1971 and used disruption tactics, not merely surveillance, against multiple categories of organizations.",
+        "notEstablished": "Not established: no single released file justifies treating every target or every FBI action as identical in conduct or legal status."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "COINT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "FBI는 1956년 COINTELPRO를 시작했고 이후 여러 정치·사회단체로 대상을 확대했다.",
+      "statementEn": "The FBI began COINTELPRO in 1956 and later expanded its targets to multiple political and social organizations.",
+      "sourceRefs": [
+        "FBI_HISTORY",
+        "FBI_VAULT"
+      ]
+    },
+    {
+      "claimId": "COINT-C2",
+      "status": "CONFIRMED",
+      "statementKo": "FBI 공식 역사에는 침투, 내부 불신 조성, 활동 약화 시도가 기록돼 있다.",
+      "statementEn": "The FBI’s official history acknowledges infiltration, efforts to sow distrust, and attempts to disrupt activities.",
+      "sourceRefs": [
+        "FBI_HISTORY"
+      ]
+    },
+    {
+      "claimId": "COINT-C3",
+      "status": "SUPPORTED",
+      "statementKo": "1971년 프로그램 종료 뒤 의회와 대중의 비판은 FBI 국내안보 수사의 통제강화에 영향을 줬다.",
+      "statementEn": "Criticism after the program ended in 1971 contributed to tighter controls on FBI national-security investigations.",
+      "sourceRefs": [
+        "FBI_HISTORY"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "FBI_HISTORY",
+      "title": "And Justice for All, 1954–1971",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/history-of-the-fbi/and-justice-for-all",
+      "sourceType": "GOVERNMENT_OFFICIAL_HISTORY"
+    },
+    {
+      "sourceId": "FBI_VAULT",
+      "title": "COINTELPRO",
+      "publisher": "FBI Vault",
+      "url": "https://vault.fbi.gov/cointel-pro",
+      "sourceType": "GOVERNMENT_FOIA_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cointelpro-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events and later reassessment.",
+      "altKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key events and later reassessment.",
+      "sourceRefs": [
+        "FBI_HISTORY",
+        "FBI_VAULT"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "eeeebf0ddb7d758cdaea75996f944c44dad8cb540c27ef6611dfe6dde5576298",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cointelpro__cointelpro-v01__ko.png"
+        },
+        "en": {
+          "sha256": "d36ab0bc7ec3e920c1aeac54deb2567329c2ab87b7a4094f9a34e8e6fccfa39e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cointelpro__cointelpro-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "cointelpro-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram of institutions, records, and claims.",
+      "altKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram of institutions, records, and claims.",
+      "sourceRefs": [
+        "FBI_HISTORY",
+        "FBI_VAULT"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "a6f1a7e13b62d82a65449c698a18a68d86b3703e6cf482fedada298dbb78df57",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cointelpro__cointelpro-v02__ko.png"
+        },
+        "en": {
+          "sha256": "26736850cfab95f1396a3d736f9175d23a2a3066ffb6b269519f89cd4e27e4ec",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cointelpro__cointelpro-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "cointelpro-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "captionEn": "Project-original boundary card separating established facts from unproven claims.",
+      "altKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "altEn": "Project-original boundary card separating established facts from unproven claims.",
+      "sourceRefs": [
+        "FBI_HISTORY",
+        "FBI_VAULT"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "b80f66a439115f427bf630b692101280a109a0c6643a4c24be8eac7b638c1af4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cointelpro__cointelpro-v03__ko.png"
+        },
+        "en": {
+          "sha256": "b153aeea290f82cdf30bd9bd1c837af935624c12413aab7f615209d6a290b94b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cointelpro__cointelpro-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Civil Liberties",
+    "secondaryGenres": [
+      "FBI history",
+      "Domestic counterintelligence"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Federal Bureau of Investigation",
+      "FBI Vault"
+    ],
+    "dateRange": {
+      "start": "1956",
+      "end": "1971",
+      "precision": "historical/current range"
+    },
+    "era": "1956–1971",
+    "resolution": "DOCUMENTED_PROGRAM_TERMINATED",
+    "searchAliases": []
+  },
+  "quality": {
+    "koBodyChars": 1615,
+    "enBodyWords": 423,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH39",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

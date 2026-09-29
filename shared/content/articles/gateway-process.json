@@ -1,0 +1,406 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "gateway-process",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "게이트웨이 프로세스 문서",
+    "canonicalTitleEn": "Analysis and Assessment of Gateway Process",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "CIA 문서로 알려진 ‘게이트웨이’ 보고서는 실제로 누가 썼나",
+      "hook": "문서는 실제 정부 기록이다. 그러나 CIA 서버에 보관된 것과 CIA가 그 내용 전체를 과학적으로 승인했다는 것은 전혀 다른 주장이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "문서의 출처부터 다시 본다",
+          "headingEn": "Start With Provenance",
+          "textKo": "인터넷에서는 이 보고서가 흔히 ‘CIA Gateway 문서’로 불린다. 실제로 CIA Reading Room에서 사본을 찾을 수 있어 그런 인상이 강화됐다. 그러나 GovInfo의 서지정보는 1983년 문서의 정부 저자를 국방부·육군으로 표시한다. 출처를 정확히 잡으면 사건의 핵심은 ‘CIA가 초능력을 인정했나’가 아니라, 냉전기 군 정보조직이 의식 상태와 훈련법을 어떤 언어로 검토했는가로 바뀐다.",
+          "textEn": "Online, the report is often called a “CIA Gateway document” because a copy is available through the CIA Reading Room. GovInfo, however, catalogs the 1983 publication under the Department of Defense and Department of the Army. Once provenance is fixed, the question shifts from whether the CIA “confirmed” extraordinary claims to how a Cold War military-intelligence context evaluated a consciousness-training system."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "Gateway는 무엇을 평가하려 했나",
+          "headingEn": "What the Report Was Trying to Assess",
+          "textKo": "보고서는 Monroe Institute의 이른바 Gateway Experience와 Hemi-Sync를 설명하면서 뇌 반구 동조, 이완·집중 상태, 의식과 시간·공간에 대한 이론적 설명을 한 문서 안에 섞는다. 일부 대목은 당시 과학·심리학 용어를 차용하고, 다른 대목은 훨씬 더 추상적인 우주론을 전개한다. 따라서 문서의 각 문장을 동일한 증거 수준으로 읽으면 안 된다.",
+          "textEn": "The report describes the Monroe Institute’s Gateway Experience and Hemi-Sync while combining discussion of relaxation, attention, brain activity, and much more speculative models of consciousness, time, and space. Those layers do not carry the same evidentiary weight simply because they appear in the same government document."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "CENTER LANE 기록이 보여주는 실제 훈련",
+          "headingEn": "What CENTER LANE Records Actually Show",
+          "textKo": "별도의 INSCOM CENTER LANE 기록은 Hemi-Sync 훈련과 Monroe Institute Gateway 프로그램이 일부 인원의 훈련 과정에 포함됐음을 보여준다. 이 자료는 정부 조직이 해당 기법에 관심을 갖고 사용한 사실을 확인하는 데 중요하다. 다만 훈련을 사용했다는 사실과 그 훈련이 주장한 모든 능력이 객관적으로 검증됐다는 결론은 별개다.",
+          "textEn": "Separate INSCOM CENTER LANE records document the use of Hemi-Sync and the Monroe Institute Gateway program in training for some personnel. That establishes institutional interest and use. It does not, by itself, demonstrate that every capability discussed around the training was objectively validated."
+        },
+        {
+          "blockId": "04",
+          "type": "PROVENANCE",
+          "headingKo": "CIA 보관과 CIA 저작은 다르다",
+          "headingEn": "CIA Custody Is Not CIA Authorship",
+          "textKo": "정보기관 아카이브에는 다른 기관이 작성했거나 정보공유 과정에서 보관된 문서가 다수 존재한다. CIA Reading Room에 있다는 이유만으로 작성자·승인기관·정책을 CIA로 단정하면 provenance가 뒤섞인다. 이 사건에서는 표지·서지·기관 계보를 먼저 확인하는 것이 내용 해석만큼 중요하다.",
+          "textEn": "Intelligence archives contain records written by many agencies and exchanged through government channels. A document appearing on a CIA server does not automatically make the CIA its author or make every statement official CIA doctrine. In this case, the header, catalog record, and agency lineage matter as much as the document’s dramatic content."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘정부가 연구했다’와 ‘정부가 입증했다’ 사이",
+          "headingEn": "Research Is Not Proof",
+          "textKo": "냉전기 기관들은 원격관측, 심리기법, 의식 상태 등 다양한 가설을 조사했다. 연구·평가를 했다는 사실은 역사적으로 흥미롭지만, 탐색의 존재 자체가 결과의 진실성을 보증하지 않는다. 행정적 관심, 실험적 사용, 재현 가능한 과학적 입증은 서로 다른 단계다.",
+          "textEn": "Cold War agencies investigated unconventional hypotheses, psychological methods, and altered states. The existence of an investigation is historically significant, but it is not a certificate that the investigated proposition was true. Administrative interest, experimental use, and independently reproducible scientific evidence are different categories."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "왜 이 문서는 계속 되살아나는가",
+          "headingEn": "Why the Document Keeps Returning",
+          "textKo": "문서의 독특한 도표와 우주론적 문장은 짧은 이미지나 영상으로 잘라 공유하기 쉽다. 반면 문서의 작성주체와 기록맥락은 설명이 길다. 그 비대칭 때문에 ‘CIA가 우주의 구조를 확인했다’ 같은 압축된 서사가 반복된다. 이 기사는 바로 그 출처와 주장 수준을 분리한다.",
+          "textEn": "The report’s diagrams and unusual language are easy to circulate as isolated screenshots, while provenance takes longer to explain. That imbalance helps compressed claims such as “the CIA proved the structure of the universe” spread farther than the record supports."
+        },
+        {
+          "blockId": "07",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "남는 질문은 효능과 재현성이다",
+          "headingEn": "The Remaining Question Is Efficacy",
+          "textKo": "실제 문서의 존재와 실제 교육 기록을 인정하더라도, 남는 과학적 질문은 해당 기법이 독립적 통제조건에서 어떤 효과를 보였는가다. 그 답은 문서가 보관된 기관명이나 기밀표시만으로 해결되지 않는다. 효과 판단에는 별도의 실험·재현 근거가 필요하다.",
+          "textEn": "Even after accepting that the report and training records are genuine, the scientific question remains whether the methods produced measurable effects under independent controlled conditions. Archive location or classification markings cannot answer that question."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "문서 제목보다 작성·보관·인용 경로가 중요하다",
+          "headingEn": "Provenance Matters More Than the Nickname",
+          "textKo": "게이트웨이 문서를 읽을 때는 표지의 작성기관, 작성 시점, 이후 어떤 기관의 기록 묶음에 편입됐는지, 별도의 CENTER LANE 훈련문서가 무엇을 실제로 말하는지를 나눠야 한다. 이 과정을 거치면 ‘정부문서니까 모두 사실’이라는 오류와 ‘이상한 내용이니 문서도 가짜’라는 반대 오류를 동시에 피할 수 있다. 문서의 진위와 문서 속 가설의 과학적 타당성은 서로 다른 검증문제다.",
+          "textEn": "Reading the Gateway file requires separating authorship, date, later archival custody, and what the separate CENTER LANE training records actually establish. That avoids two opposite errors: assuming every proposition is true because the document is official, or assuming the record is fake because parts of it sound unusual. Authenticity of the record and scientific validity of its hypotheses are different questions."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: 1983 Gateway 평가문서는 미 육군 계통의 실제 정부 기록이며 CENTER LANE 문서에는 Hemi-Sync/Gateway 훈련이 기록돼 있다.\n\n확인되지 않음: CIA나 미 육군이 문서의 모든 초상적·우주론적 주장을 과학적 사실로 확정했다는 주장은 성립하지 않는다.",
+          "textEn": "Confirmed: the 1983 Gateway assessment is a genuine U.S. Army-side government record, and CENTER LANE records document Hemi-Sync/Gateway training.\n\nNot established: neither record establishes that the CIA or Army scientifically validated every paranormal or cosmological proposition in the report."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: 1983 Gateway 평가문서는 미 육군 계통의 실제 정부 기록이며 CENTER LANE 문서에는 Hemi-Sync/Gateway 훈련이 기록돼 있다.",
+        "notEstablished": "확인되지 않음: CIA나 미 육군이 문서의 모든 초상적·우주론적 주장을 과학적 사실로 확정했다는 주장은 성립하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    },
+    "en": {
+      "headline": "Who Actually Wrote the “Gateway Process” Report Often Called a CIA Document?",
+      "hook": "The report is a genuine government record, but CIA custody of a copy is not the same as scientific endorsement of every claim in it.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "문서의 출처부터 다시 본다",
+          "headingEn": "Start With Provenance",
+          "textKo": "인터넷에서는 이 보고서가 흔히 ‘CIA Gateway 문서’로 불린다. 실제로 CIA Reading Room에서 사본을 찾을 수 있어 그런 인상이 강화됐다. 그러나 GovInfo의 서지정보는 1983년 문서의 정부 저자를 국방부·육군으로 표시한다. 출처를 정확히 잡으면 사건의 핵심은 ‘CIA가 초능력을 인정했나’가 아니라, 냉전기 군 정보조직이 의식 상태와 훈련법을 어떤 언어로 검토했는가로 바뀐다.",
+          "textEn": "Online, the report is often called a “CIA Gateway document” because a copy is available through the CIA Reading Room. GovInfo, however, catalogs the 1983 publication under the Department of Defense and Department of the Army. Once provenance is fixed, the question shifts from whether the CIA “confirmed” extraordinary claims to how a Cold War military-intelligence context evaluated a consciousness-training system."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "Gateway는 무엇을 평가하려 했나",
+          "headingEn": "What the Report Was Trying to Assess",
+          "textKo": "보고서는 Monroe Institute의 이른바 Gateway Experience와 Hemi-Sync를 설명하면서 뇌 반구 동조, 이완·집중 상태, 의식과 시간·공간에 대한 이론적 설명을 한 문서 안에 섞는다. 일부 대목은 당시 과학·심리학 용어를 차용하고, 다른 대목은 훨씬 더 추상적인 우주론을 전개한다. 따라서 문서의 각 문장을 동일한 증거 수준으로 읽으면 안 된다.",
+          "textEn": "The report describes the Monroe Institute’s Gateway Experience and Hemi-Sync while combining discussion of relaxation, attention, brain activity, and much more speculative models of consciousness, time, and space. Those layers do not carry the same evidentiary weight simply because they appear in the same government document."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "CENTER LANE 기록이 보여주는 실제 훈련",
+          "headingEn": "What CENTER LANE Records Actually Show",
+          "textKo": "별도의 INSCOM CENTER LANE 기록은 Hemi-Sync 훈련과 Monroe Institute Gateway 프로그램이 일부 인원의 훈련 과정에 포함됐음을 보여준다. 이 자료는 정부 조직이 해당 기법에 관심을 갖고 사용한 사실을 확인하는 데 중요하다. 다만 훈련을 사용했다는 사실과 그 훈련이 주장한 모든 능력이 객관적으로 검증됐다는 결론은 별개다.",
+          "textEn": "Separate INSCOM CENTER LANE records document the use of Hemi-Sync and the Monroe Institute Gateway program in training for some personnel. That establishes institutional interest and use. It does not, by itself, demonstrate that every capability discussed around the training was objectively validated."
+        },
+        {
+          "blockId": "04",
+          "type": "PROVENANCE",
+          "headingKo": "CIA 보관과 CIA 저작은 다르다",
+          "headingEn": "CIA Custody Is Not CIA Authorship",
+          "textKo": "정보기관 아카이브에는 다른 기관이 작성했거나 정보공유 과정에서 보관된 문서가 다수 존재한다. CIA Reading Room에 있다는 이유만으로 작성자·승인기관·정책을 CIA로 단정하면 provenance가 뒤섞인다. 이 사건에서는 표지·서지·기관 계보를 먼저 확인하는 것이 내용 해석만큼 중요하다.",
+          "textEn": "Intelligence archives contain records written by many agencies and exchanged through government channels. A document appearing on a CIA server does not automatically make the CIA its author or make every statement official CIA doctrine. In this case, the header, catalog record, and agency lineage matter as much as the document’s dramatic content."
+        },
+        {
+          "blockId": "05",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘정부가 연구했다’와 ‘정부가 입증했다’ 사이",
+          "headingEn": "Research Is Not Proof",
+          "textKo": "냉전기 기관들은 원격관측, 심리기법, 의식 상태 등 다양한 가설을 조사했다. 연구·평가를 했다는 사실은 역사적으로 흥미롭지만, 탐색의 존재 자체가 결과의 진실성을 보증하지 않는다. 행정적 관심, 실험적 사용, 재현 가능한 과학적 입증은 서로 다른 단계다.",
+          "textEn": "Cold War agencies investigated unconventional hypotheses, psychological methods, and altered states. The existence of an investigation is historically significant, but it is not a certificate that the investigated proposition was true. Administrative interest, experimental use, and independently reproducible scientific evidence are different categories."
+        },
+        {
+          "blockId": "06",
+          "type": "AFTERMATH",
+          "headingKo": "왜 이 문서는 계속 되살아나는가",
+          "headingEn": "Why the Document Keeps Returning",
+          "textKo": "문서의 독특한 도표와 우주론적 문장은 짧은 이미지나 영상으로 잘라 공유하기 쉽다. 반면 문서의 작성주체와 기록맥락은 설명이 길다. 그 비대칭 때문에 ‘CIA가 우주의 구조를 확인했다’ 같은 압축된 서사가 반복된다. 이 기사는 바로 그 출처와 주장 수준을 분리한다.",
+          "textEn": "The report’s diagrams and unusual language are easy to circulate as isolated screenshots, while provenance takes longer to explain. That imbalance helps compressed claims such as “the CIA proved the structure of the universe” spread farther than the record supports."
+        },
+        {
+          "blockId": "07",
+          "type": "BOUNDARY_PREP",
+          "headingKo": "남는 질문은 효능과 재현성이다",
+          "headingEn": "The Remaining Question Is Efficacy",
+          "textKo": "실제 문서의 존재와 실제 교육 기록을 인정하더라도, 남는 과학적 질문은 해당 기법이 독립적 통제조건에서 어떤 효과를 보였는가다. 그 답은 문서가 보관된 기관명이나 기밀표시만으로 해결되지 않는다. 효과 판단에는 별도의 실험·재현 근거가 필요하다.",
+          "textEn": "Even after accepting that the report and training records are genuine, the scientific question remains whether the methods produced measurable effects under independent controlled conditions. Archive location or classification markings cannot answer that question."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "문서 제목보다 작성·보관·인용 경로가 중요하다",
+          "headingEn": "Provenance Matters More Than the Nickname",
+          "textKo": "게이트웨이 문서를 읽을 때는 표지의 작성기관, 작성 시점, 이후 어떤 기관의 기록 묶음에 편입됐는지, 별도의 CENTER LANE 훈련문서가 무엇을 실제로 말하는지를 나눠야 한다. 이 과정을 거치면 ‘정부문서니까 모두 사실’이라는 오류와 ‘이상한 내용이니 문서도 가짜’라는 반대 오류를 동시에 피할 수 있다. 문서의 진위와 문서 속 가설의 과학적 타당성은 서로 다른 검증문제다.",
+          "textEn": "Reading the Gateway file requires separating authorship, date, later archival custody, and what the separate CENTER LANE training records actually establish. That avoids two opposite errors: assuming every proposition is true because the document is official, or assuming the record is fake because parts of it sound unusual. Authenticity of the record and scientific validity of its hypotheses are different questions."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: 1983 Gateway 평가문서는 미 육군 계통의 실제 정부 기록이며 CENTER LANE 문서에는 Hemi-Sync/Gateway 훈련이 기록돼 있다.\n\n확인되지 않음: CIA나 미 육군이 문서의 모든 초상적·우주론적 주장을 과학적 사실로 확정했다는 주장은 성립하지 않는다.",
+          "textEn": "Confirmed: the 1983 Gateway assessment is a genuine U.S. Army-side government record, and CENTER LANE records document Hemi-Sync/Gateway training.\n\nNot established: neither record establishes that the CIA or Army scientifically validated every paranormal or cosmological proposition in the report."
+        }
+      ],
+      "factBoundary": {
+        "established": "Confirmed: the 1983 Gateway assessment is a genuine U.S. Army-side government record, and CENTER LANE records document Hemi-Sync/Gateway training.",
+        "notEstablished": "Not established: neither record establishes that the CIA or Army scientifically validated every paranormal or cosmological proposition in the report."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GW-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1983년 ‘Analysis and Assessment of Gateway Process’는 미 육군 계통의 정부 문서다.",
+      "statementEn": "The 1983 “Analysis and Assessment of Gateway Process” is a U.S. Army-side government document.",
+      "sourceRefs": [
+        "GOVINFO_GATEWAY"
+      ]
+    },
+    {
+      "claimId": "GW-C2",
+      "status": "SUPPORTED",
+      "statementKo": "CENTER LANE 기록은 일부 인원이 Monroe Institute의 Gateway/Hemi-Sync 훈련을 받은 사실을 문서화한다.",
+      "statementEn": "CENTER LANE records document the use of Monroe Institute Gateway/Hemi-Sync training for some personnel.",
+      "sourceRefs": [
+        "CENTER_LANE"
+      ]
+    },
+    {
+      "claimId": "GW-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "문서의 존재는 초상적·우주론적 주장들이 과학적으로 입증됐다는 뜻이 아니다.",
+      "statementEn": "The document’s existence does not establish its paranormal or cosmological propositions as scientifically proven.",
+      "sourceRefs": [
+        "GOVINFO_GATEWAY",
+        "CENTER_LANE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "GOVINFO_GATEWAY",
+      "title": "Analysis and Assessment of Gateway Process",
+      "publisher": "U.S. Government Publishing Office / Department of the Army",
+      "url": "https://www.govinfo.gov/app/details/GOVPUB-D101-PURL-gpo152943",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    },
+    {
+      "sourceId": "CENTER_LANE",
+      "title": "INSCOM CENTER LANE Project",
+      "publisher": "CIA Reading Room / U.S. Army record",
+      "url": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001500090010-7",
+      "sourceType": "DECLASSIFIED_GOVERNMENT_RECORD"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "gateway-process-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events and later reassessment.",
+      "altKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key events and later reassessment.",
+      "sourceRefs": [
+        "GOVINFO_GATEWAY",
+        "CENTER_LANE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "770d47d64385b55168f14543cc4d8a6498720bc5874b1268818680d7ce5ce5cf",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gateway-process__gateway-process-v01__ko.png"
+        },
+        "en": {
+          "sha256": "b66b7ee860edcf5a79f915bb79b8acff1e3c4b4e08b6ce931c2ae3b337ca3194",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gateway-process__gateway-process-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "gateway-process-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram of institutions, records, and claims.",
+      "altKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram of institutions, records, and claims.",
+      "sourceRefs": [
+        "GOVINFO_GATEWAY",
+        "CENTER_LANE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "bc126d8124218afd10de16621ddda470b9187912047303b7daf391140a5061a4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gateway-process__gateway-process-v02__ko.png"
+        },
+        "en": {
+          "sha256": "ea1e715faefe583de05319273a6b116d417201d07b15e9f30e9678d6a06cc305",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gateway-process__gateway-process-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "gateway-process-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "captionEn": "Project-original boundary card separating established facts from unproven claims.",
+      "altKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "altEn": "Project-original boundary card separating established facts from unproven claims.",
+      "sourceRefs": [
+        "GOVINFO_GATEWAY",
+        "CENTER_LANE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "d76ab788a74b408e2c4404a3d248dd5408759c56ddb972dfcb0867e82a5ae5fc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gateway-process__gateway-process-v03__ko.png"
+        },
+        "en": {
+          "sha256": "01a03d79c350b6a227a62052eab58425b3d8f718429a9a66e495b5a3eba13267",
+          "width": 1600,
+          "height": 900,
+          "fileName": "gateway-process__gateway-process-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Secret Files / Psychology",
+    "secondaryGenres": [
+      "Document provenance",
+      "Consciousness research"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "U.S. Government Publishing Office / Department of the Army",
+      "CIA Reading Room / U.S. Army record"
+    ],
+    "dateRange": {
+      "start": "1983",
+      "end": "1984",
+      "precision": "historical/current range"
+    },
+    "era": "1983–1984",
+    "resolution": "DOCUMENTED_REPORT_CLAIMS_NOT_ALL_VALIDATED",
+    "searchAliases": []
+  },
+  "quality": {
+    "koBodyChars": 1593,
+    "enBodyWords": 420,
+    "meaningfulBlockCount": 9,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH39",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

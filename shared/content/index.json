@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "batch38_final",
+  "sourcePack": "batch39_final",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -1651,6 +1651,71 @@
       }
     },
     {
+      "canonicalId": "bluebird-artichoke",
+      "title": {
+        "ko": "BLUEBIRD / ARTICHOKE",
+        "en": "Projects BLUEBIRD / ARTICHOKE"
+      },
+      "headline": {
+        "ko": "MKULTRA 이전, CIA는 약물·최면·심문을 어떻게 연구했나",
+        "en": "Before MKULTRA, How Did the CIA Study Drugs, Hypnosis, and Interrogation?"
+      },
+      "hook": {
+        "ko": "1951년 BLUEBIRD 문서와 1953년 ARTICHOKE 문서는 프로그램의 목표·기법·조직적 계보를 직접 보여준다.",
+        "en": "CIA records from 1951 and 1953 directly document the programs’ aims, methods, and lineage."
+      },
+      "aliases": [],
+      "genre": "Secret Programs / Interrogation Research",
+      "genres": [
+        "CIA history",
+        "Behavioral research"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1951–1953",
+      "resolution": "DOCUMENTED_PRECURSOR_PROGRAMS",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1951",
+        "end": "1953",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "bluebird-artichoke-v01",
+      "heroFile": {
+        "ko": "bluebird-artichoke__bluebird-artichoke-v01__ko.png",
+        "en": "bluebird-artichoke__bluebird-artichoke-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "booming-sand-dunes",
       "title": {
         "ko": "노래하는 모래언덕",
@@ -2557,6 +2622,71 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding beyond the verified evidence."
+      }
+    },
+    {
+      "canonicalId": "cointelpro",
+      "title": {
+        "ko": "COINTELPRO",
+        "en": "COINTELPRO"
+      },
+      "headline": {
+        "ko": "FBI는 감시를 넘어 어떤 방식으로 정치·사회단체를 교란했나",
+        "en": "How Did the FBI Move From Surveillance to Disruption Under COINTELPRO?"
+      },
+      "hook": {
+        "ko": "FBI 자체 역사와 공개 파일은 프로그램의 존재뿐 아니라 침투·불신 조성·활동 약화 같은 수단도 기록한다.",
+        "en": "The FBI’s own history and released files document not only the program’s existence but tactics including infiltration, sowing distrust, and disruption."
+      },
+      "aliases": [],
+      "genre": "Intelligence / Civil Liberties",
+      "genres": [
+        "FBI history",
+        "Domestic counterintelligence"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1956–1971",
+      "resolution": "DOCUMENTED_PROGRAM_TERMINATED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1956",
+        "end": "1971",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "cointelpro-v01",
+      "heroFile": {
+        "ko": "cointelpro__cointelpro-v01__ko.png",
+        "en": "cointelpro__cointelpro-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -4199,6 +4329,71 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "gateway-process",
+      "title": {
+        "ko": "게이트웨이 프로세스 문서",
+        "en": "Analysis and Assessment of Gateway Process"
+      },
+      "headline": {
+        "ko": "CIA 문서로 알려진 ‘게이트웨이’ 보고서는 실제로 누가 썼나",
+        "en": "Who Actually Wrote the “Gateway Process” Report Often Called a CIA Document?"
+      },
+      "hook": {
+        "ko": "문서는 실제 정부 기록이다. 그러나 CIA 서버에 보관된 것과 CIA가 그 내용 전체를 과학적으로 승인했다는 것은 전혀 다른 주장이다.",
+        "en": "The report is a genuine government record, but CIA custody of a copy is not the same as scientific endorsement of every claim in it."
+      },
+      "aliases": [],
+      "genre": "Secret Files / Psychology",
+      "genres": [
+        "Document provenance",
+        "Consciousness research"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1983–1984",
+      "resolution": "DOCUMENTED_REPORT_CLAIMS_NOT_ALL_VALIDATED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1983",
+        "end": "1984",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "gateway-process-v01",
+      "heroFile": {
+        "ko": "gateway-process__gateway-process-v01__ko.png",
+        "en": "gateway-process__gateway-process-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -7839,6 +8034,71 @@
       }
     },
     {
+      "canonicalId": "mkultra",
+      "title": {
+        "ko": "MKULTRA",
+        "en": "Project MKULTRA"
+      },
+      "headline": {
+        "ko": "실제 비밀실험과 ‘전능한 마인드컨트롤’ 전설은 어디에서 갈라지나",
+        "en": "Where Do the Documented MKULTRA Experiments End and the Omnipotent Mind-Control Myth Begin?"
+      },
+      "hook": {
+        "ko": "약물·최면·행동변화 연구와 비동의 피험자 사용은 문서로 확인된다. 그러나 그 사실이 모든 후대 마인드컨트롤 주장까지 입증하지는 않는다.",
+        "en": "Drugs, hypnosis, behavior-modification research, and unwitting subjects are documented, but that evidence does not validate every later mind-control claim."
+      },
+      "aliases": [],
+      "genre": "Secret Programs / Human Experimentation",
+      "genres": [
+        "Behavioral research",
+        "Oversight"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1953–1977",
+      "resolution": "DOCUMENTED_PROGRAM_ENDED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1953",
+        "end": "1977",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "mkultra-v01",
+      "heroFile": {
+        "ko": "mkultra__mkultra-v01__ko.png",
+        "en": "mkultra__mkultra-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "moon-landing-hoax",
       "title": {
         "ko": "달 착륙 조작설",
@@ -8824,6 +9084,71 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "operation-chaos",
+      "title": {
+        "ko": "오퍼레이션 CHAOS",
+        "en": "Operation CHAOS"
+      },
+      "headline": {
+        "ko": "해외정보기관 CIA는 왜 미국 안의 반전운동 자료를 축적했나",
+        "en": "Why Did a Foreign-Intelligence Agency Accumulate Files on U.S. Antiwar Activity?"
+      },
+      "hook": {
+        "ko": "외국 연계 여부를 찾는다는 임무로 시작했지만, 후대 공식조사는 국내정보 축적이 합리적 필요를 넘어섰다고 판단했다.",
+        "en": "The mission began as a search for foreign links, but later official review found that domestic data collection exceeded what was reasonably necessary."
+      },
+      "aliases": [],
+      "genre": "Intelligence / Oversight",
+      "genres": [
+        "Domestic surveillance",
+        "Institutional reform"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1967–1974",
+      "resolution": "DOCUMENTED_PROGRAM_WITH_OFFICIAL_OVERSIGHT_FINDINGS",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1967",
+        "end": "1974",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "operation-chaos-v01",
+      "heroFile": {
+        "ko": "operation-chaos__operation-chaos-v01__ko.png",
+        "en": "operation-chaos__operation-chaos-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -10465,6 +10790,73 @@
       }
     },
     {
+      "canonicalId": "project-iceworm-camp-century",
+      "title": {
+        "ko": "Project Iceworm와 Camp Century",
+        "en": "Project Iceworm / Camp Century"
+      },
+      "headline": {
+        "ko": "그린란드 얼음 아래 핵미사일 기지 계획은 실제 어디까지 갔나",
+        "en": "How Far Did the Plan for a Nuclear-Missile Network Beneath Greenland’s Ice Actually Go?"
+      },
+      "hook": {
+        "ko": "Camp Century는 실제 건설·운영됐다. 그러나 훨씬 큰 Iceworm 미사일망은 실현되지 않았다. 둘을 섞으면 사건이 왜곡된다.",
+        "en": "Camp Century was real and operational; the much larger Iceworm missile network was never realized. Conflating them distorts the record."
+      },
+      "aliases": [],
+      "genre": "Cold War / Secret Engineering",
+      "genres": [
+        "Arctic engineering",
+        "Environmental legacy"
+      ],
+      "countries": [
+        "Greenland",
+        "Denmark",
+        "United States"
+      ],
+      "regions": [],
+      "era": "1959–1967",
+      "resolution": "BASE_BUILT_ICEWORM_NOT_IMPLEMENTED",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "1959",
+        "end": "1967",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "project-iceworm-camp-century-v01",
+      "heroFile": {
+        "ko": "project-iceworm-camp-century__project-iceworm-camp-century-v01__ko.png",
+        "en": "project-iceworm-camp-century__project-iceworm-camp-century-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "project-manhigh",
       "title": {
         "ko": "Project Manhigh",
@@ -12074,6 +12466,71 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded tier; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "section702-prism",
+      "title": {
+        "ko": "PRISM과 FISA Section 702",
+        "en": "PRISM and FISA Section 702"
+      },
+      "headline": {
+        "ko": "‘PRISM’과 Section 702는 같은 말이 아니다",
+        "en": "PRISM and Section 702 Are Not the Same Thing"
+      },
+      "hook": {
+        "ko": "법적 권한, downstream 수집, upstream 수집, 대상선정·질의 규칙을 분리해야 2013년 이후의 감시 논쟁을 정확히 읽을 수 있다.",
+        "en": "Accurate analysis requires separating the legal authority from downstream and upstream collection, targeting, and query rules."
+      },
+      "aliases": [],
+      "genre": "Surveillance / Law",
+      "genres": [
+        "FISA",
+        "Privacy and civil liberties"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "2008–2026",
+      "resolution": "ACTIVE_LEGAL_PROGRAM_WITH_CURRENT_OVERSIGHT",
+      "places": [],
+      "people": [],
+      "dateRange": {
+        "start": "2008",
+        "end": "2026",
+        "precision": "historical/current range"
+      },
+      "related": [],
+      "heroAssetId": "section702-prism-v01",
+      "heroFile": {
+        "ko": "section702-prism__section702-prism-v01__ko.png",
+        "en": "section702-prism__section702-prism-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key events and later reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

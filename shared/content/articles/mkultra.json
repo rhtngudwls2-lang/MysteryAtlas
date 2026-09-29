@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "mkultra",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "MKULTRA",
+    "canonicalTitleEn": "Project MKULTRA",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "실제 비밀실험과 ‘전능한 마인드컨트롤’ 전설은 어디에서 갈라지나",
+      "hook": "약물·최면·행동변화 연구와 비동의 피험자 사용은 문서로 확인된다. 그러나 그 사실이 모든 후대 마인드컨트롤 주장까지 입증하지는 않는다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "음모론처럼 들리는 이름이 실제 문서에 있다",
+          "headingEn": "A Conspiracy-Sounding Name in Real Records",
+          "textKo": "MKULTRA는 후대 대중문화에서 가장 과장되기 쉬운 정보기관 프로그램 중 하나다. 하지만 프로그램 자체는 허구가 아니다. 1977년 미 상원 청문회는 CIA의 행동변화 연구 프로그램을 공식적으로 다뤘고, 약물·최면·인간 대상 연구와 감독실패를 기록에 남겼다.",
+          "textEn": "MKULTRA is unusually vulnerable to exaggeration because the program itself was real. The 1977 U.S. Senate hearing formally examined CIA behavioral-modification research and documented drugs, hypnosis, human-subject experiments, and oversight failures."
+        },
+        {
+          "blockId": "02",
+          "type": "ORIGIN",
+          "headingKo": "1953년 시작된 연구망",
+          "headingEn": "A Network of Research Beginning in 1953",
+          "textKo": "MKULTRA는 단일 실험실의 하나의 실험이 아니라 여러 외부기관·연구자와 연결된 서브프로젝트 체계였다. 관심분야에는 LSD를 포함한 약물, 행동에 영향을 줄 수 있는 다양한 물질과 기법, 심리·생리 반응 등이 포함됐다.",
+          "textEn": "MKULTRA was not one experiment in one laboratory. It was a structure of subprojects linked to outside researchers and institutions. Areas of interest included LSD and other drugs, psychological and physiological effects, and methods intended to influence behavior."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "비동의·비인지 피험자 문제",
+          "headingEn": "The Unwitting-Subject Problem",
+          "textKo": "가장 중요한 윤리적 경계는 일부 시험에서 피험자가 자신이 연구대상임을 알지 못했다는 점이다. 1977년 청문회는 이 문제를 핵심적으로 다뤘다. 프로그램이 실제였다는 확인은 바로 이런 문서화된 행위에서 출발해야지, 후대의 무제한적 추측에서 출발해서는 안 된다.",
+          "textEn": "A central ethical issue was that some people were tested without knowing that they were research subjects. The 1977 hearing treated this as a core problem. The strongest history begins with these documented practices rather than with later unlimited speculation."
+        },
+        {
+          "blockId": "04",
+          "type": "DESTRUCTION",
+          "headingKo": "기록 파기가 남긴 빈칸",
+          "headingEn": "Destroyed Records Created Real Gaps",
+          "textKo": "1973년 관련 기록 상당수가 파기돼 전체 프로그램을 완전하게 재구성하기 어렵게 됐다. 이후 남은 재정자료와 다른 문서를 통해 추가 서브프로젝트가 드러났지만, ‘기록이 없다’는 빈칸을 임의의 사건으로 채우면 증거수준을 넘어선다.",
+          "textEn": "Many program records were destroyed in 1973, making complete reconstruction impossible. Later financial files and related records exposed additional subprojects, but evidentiary gaps cannot responsibly be filled by assigning undocumented events to MKULTRA."
+        },
+        {
+          "blockId": "05",
+          "type": "OVERSIGHT",
+          "headingKo": "1970년대 조사로 성격이 달라졌다",
+          "headingEn": "Congressional Investigation Changed the Story",
+          "textKo": "Watergate 이후 정보기관 감독이 강화되면서 MKULTRA는 의회 조사 대상이 됐다. 핵심은 비밀연구의 존재뿐 아니라 동의, 연구윤리, 기관통제, 기록관리 실패가 어떻게 발생했는지를 검토하는 것이었다.",
+          "textEn": "As intelligence oversight intensified after Watergate, MKULTRA became a subject of congressional inquiry. The issue was not only secrecy but informed consent, research ethics, agency controls, and destruction or preservation of records."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘연구했다’와 ‘성공했다’는 다르다",
+          "headingEn": "Studying a Capability Is Not the Same as Mastering It",
+          "textKo": "CIA가 특정 능력을 얻으려 연구했다는 사실은 그 목표를 달성했다는 증거가 아니다. 약물·최면이 행동과 인식에 영향을 줄 수 있다는 것과 사람을 정밀하게 원격조종하는 수준의 기술이 완성됐다는 주장은 전혀 다른 증거를 요구한다.",
+          "textEn": "CIA interest in a technique does not establish that the technique achieved its operational goal. Drugs and hypnosis can affect perception and behavior, but claims of precise, reliable, programmable control of a person require evidence far beyond the fact that the program existed."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "사실이 강할수록 경계도 더 엄격해야 한다",
+          "headingEn": "Strong Facts Require Strong Boundaries",
+          "textKo": "MKULTRA는 이미 문서만으로도 충분히 충격적인 역사다. 그래서 확인된 비동의 실험, 약물연구, 기록파기와 아직 입증되지 않은 후대의 암살·세뇌·완전통제 주장을 분리하는 것이 오히려 사건의 실제 무게를 보존한다.",
+          "textEn": "The documented record is disturbing enough without embellishment. Separating confirmed unwitting experiments, drug research, and record destruction from unproven claims about perfect brainwashing preserves the actual historical significance of the case."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "남아 있는 기록의 성격을 먼저 본다",
+          "headingEn": "The Surviving Archive Is Incomplete",
+          "textKo": "MKULTRA 자료는 완전한 프로그램 일지가 아니다. 상당한 기록이 파기됐고, 후대에 발견된 재정자료·청문회 증언·부분 문서로 구조를 재구성해야 한다. 그래서 ‘기록에 없는 일은 없었다’고 단정하는 것도 부정확하고, 반대로 기록의 빈칸에 원하는 사건을 집어넣는 것도 부정확하다. 확인된 행위, 합리적으로 추론 가능한 범위, 전혀 입증되지 않은 후대 주장을 분리해야 한다.",
+          "textEn": "The surviving MKULTRA record is not a complete program diary. Many records were destroyed, and later investigators reconstructed parts of the program from financial material, testimony, and surviving files. It is therefore wrong both to assume that anything undocumented never happened and to fill archival gaps with preferred stories. Confirmed conduct, bounded inference, and unsupported claims must remain separate."
+        },
+        {
+          "blockId": "09",
+          "type": "CASE_BOUNDARY",
+          "headingKo": "개별 사건과 프로그램 전체를 자동 연결하지 않는다",
+          "headingEn": "A Real Program Does Not Validate Every Claimed Connection",
+          "textKo": "MKULTRA와 관련해 가장 많이 반복되는 오류 중 하나는 프로그램이 실제였다는 사실을 근거로 이후의 모든 의문스러운 사망, 범죄, 기억상실, 암살사건을 자동 연결하는 것이다. 특정 사건이 MKULTRA의 일부였다고 주장하려면 이름이 비슷하거나 시대가 겹친다는 것 이상으로 문서, 참가자 기록, 자금흐름, 지휘관계 같은 사건별 증거가 필요하다. 실제 프로그램의 존재는 개별 연결고리의 입증을 대신하지 않는다. 이 원칙은 프로그램의 실제 피해를 축소하는 것이 아니라, 확인된 피해와 추정 서사를 섞지 않기 위한 최소한의 증거 규율이다.",
+          "textEn": "One recurring error is to use the reality of MKULTRA as automatic proof that any later suspicious death, crime, memory loss, or assassination was part of it. A case-specific connection requires records, participant evidence, funding trails, or command links. The existence of the program cannot substitute for evidence tying a particular event to it."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: MKULTRA는 실제 CIA 프로그램이었고 약물·행동변화 연구와 일부 비동의/비인지 인간 대상 시험이 공식 의회기록으로 확인된다.\n\n확인되지 않음: 프로그램이 대중문화에서 묘사되는 수준의 완전하고 신뢰할 수 있는 정신통제 기술을 완성했다는 증거는 없다.",
+          "textEn": "Confirmed: MKULTRA was a real CIA program, and official congressional records document drug and behavior-modification research including experiments involving unwitting human subjects.\n\nNot established: there is no evidence that the program perfected the kind of complete, reliable mind control often portrayed in popular culture."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: MKULTRA는 실제 CIA 프로그램이었고 약물·행동변화 연구와 일부 비동의/비인지 인간 대상 시험이 공식 의회기록으로 확인된다.",
+        "notEstablished": "확인되지 않음: 프로그램이 대중문화에서 묘사되는 수준의 완전하고 신뢰할 수 있는 정신통제 기술을 완성했다는 증거는 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Where Do the Documented MKULTRA Experiments End and the Omnipotent Mind-Control Myth Begin?",
+      "hook": "Drugs, hypnosis, behavior-modification research, and unwitting subjects are documented, but that evidence does not validate every later mind-control claim.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "음모론처럼 들리는 이름이 실제 문서에 있다",
+          "headingEn": "A Conspiracy-Sounding Name in Real Records",
+          "textKo": "MKULTRA는 후대 대중문화에서 가장 과장되기 쉬운 정보기관 프로그램 중 하나다. 하지만 프로그램 자체는 허구가 아니다. 1977년 미 상원 청문회는 CIA의 행동변화 연구 프로그램을 공식적으로 다뤘고, 약물·최면·인간 대상 연구와 감독실패를 기록에 남겼다.",
+          "textEn": "MKULTRA is unusually vulnerable to exaggeration because the program itself was real. The 1977 U.S. Senate hearing formally examined CIA behavioral-modification research and documented drugs, hypnosis, human-subject experiments, and oversight failures."
+        },
+        {
+          "blockId": "02",
+          "type": "ORIGIN",
+          "headingKo": "1953년 시작된 연구망",
+          "headingEn": "A Network of Research Beginning in 1953",
+          "textKo": "MKULTRA는 단일 실험실의 하나의 실험이 아니라 여러 외부기관·연구자와 연결된 서브프로젝트 체계였다. 관심분야에는 LSD를 포함한 약물, 행동에 영향을 줄 수 있는 다양한 물질과 기법, 심리·생리 반응 등이 포함됐다.",
+          "textEn": "MKULTRA was not one experiment in one laboratory. It was a structure of subprojects linked to outside researchers and institutions. Areas of interest included LSD and other drugs, psychological and physiological effects, and methods intended to influence behavior."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "비동의·비인지 피험자 문제",
+          "headingEn": "The Unwitting-Subject Problem",
+          "textKo": "가장 중요한 윤리적 경계는 일부 시험에서 피험자가 자신이 연구대상임을 알지 못했다는 점이다. 1977년 청문회는 이 문제를 핵심적으로 다뤘다. 프로그램이 실제였다는 확인은 바로 이런 문서화된 행위에서 출발해야지, 후대의 무제한적 추측에서 출발해서는 안 된다.",
+          "textEn": "A central ethical issue was that some people were tested without knowing that they were research subjects. The 1977 hearing treated this as a core problem. The strongest history begins with these documented practices rather than with later unlimited speculation."
+        },
+        {
+          "blockId": "04",
+          "type": "DESTRUCTION",
+          "headingKo": "기록 파기가 남긴 빈칸",
+          "headingEn": "Destroyed Records Created Real Gaps",
+          "textKo": "1973년 관련 기록 상당수가 파기돼 전체 프로그램을 완전하게 재구성하기 어렵게 됐다. 이후 남은 재정자료와 다른 문서를 통해 추가 서브프로젝트가 드러났지만, ‘기록이 없다’는 빈칸을 임의의 사건으로 채우면 증거수준을 넘어선다.",
+          "textEn": "Many program records were destroyed in 1973, making complete reconstruction impossible. Later financial files and related records exposed additional subprojects, but evidentiary gaps cannot responsibly be filled by assigning undocumented events to MKULTRA."
+        },
+        {
+          "blockId": "05",
+          "type": "OVERSIGHT",
+          "headingKo": "1970년대 조사로 성격이 달라졌다",
+          "headingEn": "Congressional Investigation Changed the Story",
+          "textKo": "Watergate 이후 정보기관 감독이 강화되면서 MKULTRA는 의회 조사 대상이 됐다. 핵심은 비밀연구의 존재뿐 아니라 동의, 연구윤리, 기관통제, 기록관리 실패가 어떻게 발생했는지를 검토하는 것이었다.",
+          "textEn": "As intelligence oversight intensified after Watergate, MKULTRA became a subject of congressional inquiry. The issue was not only secrecy but informed consent, research ethics, agency controls, and destruction or preservation of records."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘연구했다’와 ‘성공했다’는 다르다",
+          "headingEn": "Studying a Capability Is Not the Same as Mastering It",
+          "textKo": "CIA가 특정 능력을 얻으려 연구했다는 사실은 그 목표를 달성했다는 증거가 아니다. 약물·최면이 행동과 인식에 영향을 줄 수 있다는 것과 사람을 정밀하게 원격조종하는 수준의 기술이 완성됐다는 주장은 전혀 다른 증거를 요구한다.",
+          "textEn": "CIA interest in a technique does not establish that the technique achieved its operational goal. Drugs and hypnosis can affect perception and behavior, but claims of precise, reliable, programmable control of a person require evidence far beyond the fact that the program existed."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "사실이 강할수록 경계도 더 엄격해야 한다",
+          "headingEn": "Strong Facts Require Strong Boundaries",
+          "textKo": "MKULTRA는 이미 문서만으로도 충분히 충격적인 역사다. 그래서 확인된 비동의 실험, 약물연구, 기록파기와 아직 입증되지 않은 후대의 암살·세뇌·완전통제 주장을 분리하는 것이 오히려 사건의 실제 무게를 보존한다.",
+          "textEn": "The documented record is disturbing enough without embellishment. Separating confirmed unwitting experiments, drug research, and record destruction from unproven claims about perfect brainwashing preserves the actual historical significance of the case."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "남아 있는 기록의 성격을 먼저 본다",
+          "headingEn": "The Surviving Archive Is Incomplete",
+          "textKo": "MKULTRA 자료는 완전한 프로그램 일지가 아니다. 상당한 기록이 파기됐고, 후대에 발견된 재정자료·청문회 증언·부분 문서로 구조를 재구성해야 한다. 그래서 ‘기록에 없는 일은 없었다’고 단정하는 것도 부정확하고, 반대로 기록의 빈칸에 원하는 사건을 집어넣는 것도 부정확하다. 확인된 행위, 합리적으로 추론 가능한 범위, 전혀 입증되지 않은 후대 주장을 분리해야 한다.",
+          "textEn": "The surviving MKULTRA record is not a complete program diary. Many records were destroyed, and later investigators reconstructed parts of the program from financial material, testimony, and surviving files. It is therefore wrong both to assume that anything undocumented never happened and to fill archival gaps with preferred stories. Confirmed conduct, bounded inference, and unsupported claims must remain separate."
+        },
+        {
+          "blockId": "09",
+          "type": "CASE_BOUNDARY",
+          "headingKo": "개별 사건과 프로그램 전체를 자동 연결하지 않는다",
+          "headingEn": "A Real Program Does Not Validate Every Claimed Connection",
+          "textKo": "MKULTRA와 관련해 가장 많이 반복되는 오류 중 하나는 프로그램이 실제였다는 사실을 근거로 이후의 모든 의문스러운 사망, 범죄, 기억상실, 암살사건을 자동 연결하는 것이다. 특정 사건이 MKULTRA의 일부였다고 주장하려면 이름이 비슷하거나 시대가 겹친다는 것 이상으로 문서, 참가자 기록, 자금흐름, 지휘관계 같은 사건별 증거가 필요하다. 실제 프로그램의 존재는 개별 연결고리의 입증을 대신하지 않는다. 이 원칙은 프로그램의 실제 피해를 축소하는 것이 아니라, 확인된 피해와 추정 서사를 섞지 않기 위한 최소한의 증거 규율이다.",
+          "textEn": "One recurring error is to use the reality of MKULTRA as automatic proof that any later suspicious death, crime, memory loss, or assassination was part of it. A case-specific connection requires records, participant evidence, funding trails, or command links. The existence of the program cannot substitute for evidence tying a particular event to it."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: MKULTRA는 실제 CIA 프로그램이었고 약물·행동변화 연구와 일부 비동의/비인지 인간 대상 시험이 공식 의회기록으로 확인된다.\n\n확인되지 않음: 프로그램이 대중문화에서 묘사되는 수준의 완전하고 신뢰할 수 있는 정신통제 기술을 완성했다는 증거는 없다.",
+          "textEn": "Confirmed: MKULTRA was a real CIA program, and official congressional records document drug and behavior-modification research including experiments involving unwitting human subjects.\n\nNot established: there is no evidence that the program perfected the kind of complete, reliable mind control often portrayed in popular culture."
+        }
+      ],
+      "factBoundary": {
+        "established": "Confirmed: MKULTRA was a real CIA program, and official congressional records document drug and behavior-modification research including experiments involving unwitting human subjects.",
+        "notEstablished": "Not established: there is no evidence that the program perfected the kind of complete, reliable mind control often portrayed in popular culture."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MK-C1",
+      "status": "CONFIRMED",
+      "statementKo": "MKULTRA는 1953년 시작된 CIA 행동변화 연구 프로그램으로 약물과 기타 기법을 포함했다.",
+      "statementEn": "MKULTRA was a CIA behavioral-modification research program begun in 1953 and included drugs and other techniques.",
+      "sourceRefs": [
+        "SENATE_1977"
+      ]
+    },
+    {
+      "claimId": "MK-C2",
+      "status": "CONFIRMED",
+      "statementKo": "1977년 상원 청문회는 일부 인간 대상 실험과 비동의·비인지 피험자 문제를 공식적으로 다뤘다.",
+      "statementEn": "The 1977 Senate hearing formally addressed human-subject experiments, including issues involving unwitting subjects.",
+      "sourceRefs": [
+        "SENATE_1977"
+      ]
+    },
+    {
+      "claimId": "MK-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "문서화된 프로그램이 대중문화의 모든 ‘완전한 정신통제’ 주장에 성공했다는 증거는 없다.",
+      "statementEn": "The documented program does not establish that every popular claim of complete mind control was achieved.",
+      "sourceRefs": [
+        "SENATE_1977"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SENATE_1977",
+      "title": "Project MKULTRA, the CIA's Program of Research in Behavioral Modification",
+      "publisher": "U.S. Senate Select Committee on Intelligence",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+      "sourceType": "CONGRESSIONAL_HEARING"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "mkultra-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events and later reassessment.",
+      "altKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key events and later reassessment.",
+      "sourceRefs": [
+        "SENATE_1977"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "031ed020cd43417feb7ce5a246a5fb05ffefb1e95e3c908b13a21c14565c3896",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mkultra__mkultra-v01__ko.png"
+        },
+        "en": {
+          "sha256": "e7e466c903d47a423825e8d084a525bf7ff23a22a9cce37b6bc1c86a2cf796bb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mkultra__mkultra-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "mkultra-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram of institutions, records, and claims.",
+      "altKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram of institutions, records, and claims.",
+      "sourceRefs": [
+        "SENATE_1977"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "b72cb2cc5a33d8de108b1bdb16b2c93a9596c2aba634e5d9d91bcceb7ad38f44",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mkultra__mkultra-v02__ko.png"
+        },
+        "en": {
+          "sha256": "faaeadbd49591a438edf167f353ae942775f68fabd6b6209373cd4939d1276cf",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mkultra__mkultra-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "mkultra-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "captionEn": "Project-original boundary card separating established facts from unproven claims.",
+      "altKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "altEn": "Project-original boundary card separating established facts from unproven claims.",
+      "sourceRefs": [
+        "SENATE_1977"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "7429dd49de3f3f403ab9d65bfd6b0fc8f89358344d4ee6e66f01ef99caa1611b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mkultra__mkultra-v03__ko.png"
+        },
+        "en": {
+          "sha256": "1929b2911bc0343c5f92735468cae00c828fd68e78835dc67a5506f5c0529e9e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "mkultra__mkultra-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Secret Programs / Human Experimentation",
+    "secondaryGenres": [
+      "Behavioral research",
+      "Oversight"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "U.S. Senate Select Committee on Intelligence"
+    ],
+    "dateRange": {
+      "start": "1953",
+      "end": "1977",
+      "precision": "historical/current range"
+    },
+    "era": "1953–1977",
+    "resolution": "DOCUMENTED_PROGRAM_ENDED",
+    "searchAliases": []
+  },
+  "quality": {
+    "koBodyChars": 1550,
+    "enBodyWords": 405,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH39",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

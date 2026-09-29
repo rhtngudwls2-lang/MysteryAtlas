@@ -1,0 +1,424 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "operation-chaos",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오퍼레이션 CHAOS",
+    "canonicalTitleEn": "Operation CHAOS",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "해외정보기관 CIA는 왜 미국 안의 반전운동 자료를 축적했나",
+      "hook": "외국 연계 여부를 찾는다는 임무로 시작했지만, 후대 공식조사는 국내정보 축적이 합리적 필요를 넘어섰다고 판단했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "외국 연결고리를 찾는 임무",
+          "headingEn": "A Search for Foreign Links",
+          "textKo": "1960년대 후반 미국 정부는 국내 반전운동과 사회불안에 외국 정부나 조직의 영향이 있는지 파악하려 했다. CIA의 Operation CHAOS는 그 질문에 답하기 위한 정보수집·분석 체계로 성장했다. 문제는 해외연계 탐색과 국내 정치활동 데이터 축적의 경계가 점차 흐려졌다는 점이다.",
+          "textEn": "In the late 1960s, U.S. officials wanted to know whether foreign governments or organizations were influencing antiwar activism and domestic unrest. Operation CHAOS grew inside the CIA around that foreign-link question. The central problem was that the line between foreign-intelligence analysis and accumulation of information about domestic political activity became increasingly blurred."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "CIA의 법적 임무와 긴장",
+          "headingEn": "The Tension With the CIA’s Mission",
+          "textKo": "CIA는 본질적으로 해외정보기관이다. 국내에서 순수하게 내부안보 임무를 수행하는 것은 기관 권한과 충돌한다. 따라서 외국 연결성을 확인하기 위해 미국 내 활동 정보를 접하게 되는 상황에서는 수집 범위와 보관 목적이 핵심 통제선이 된다.",
+          "textEn": "The CIA is fundamentally a foreign-intelligence service. Pure domestic-security work creates a direct authority problem. When assessing foreign connections requires touching information about U.S. activity, collection scope, retention, and purpose become critical safeguards."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "Rockefeller Commission의 판단",
+          "headingEn": "The Rockefeller Commission’s Finding",
+          "textKo": "1975년 Rockefeller Commission 보고서는 외국 연계를 공정하게 평가하려면 일정한 국내정보 기반이 필요했을 수 있다고 보면서도, CHAOS가 축적한 국내 자료가 그 목적에 합리적으로 필요한 범위를 넘어섰다고 적었다. 또한 미국 안에서 순수한 국내 사안을 수집한 일부 활동을 CIA 권한 밖으로 평가했다.",
+          "textEn": "The 1975 Rockefeller Commission acknowledged that some domestic information might have been needed to evaluate foreign connections fairly. It nevertheless concluded that CHAOS accumulated domestic data beyond what was reasonably necessary and that some strictly domestic collection exceeded CIA authority."
+        },
+        {
+          "blockId": "04",
+          "type": "STRUCTURE",
+          "headingKo": "고립된 조직구조도 문제였다",
+          "headingEn": "Isolation From Normal Supervision",
+          "textKo": "위원회는 CHAOS가 정규 지휘·감독선에서 비교적 고립된 채 운영된 점을 지적했다. 이런 구조에서는 프로그램의 본래 목적이 확대되거나 수집 관행이 관성적으로 이어질 위험이 커진다. 기록은 단순히 ‘감시가 있었다’가 아니라 감독장치가 왜 중요한지도 보여준다.",
+          "textEn": "The Commission also criticized the program’s relative isolation from normal supervisory channels. A self-contained unit can allow mission boundaries to drift without timely review. The record therefore documents not only surveillance but also a governance failure."
+        },
+        {
+          "blockId": "05",
+          "type": "OVERSIGHT",
+          "headingKo": "폭로 뒤 이어진 조사와 개혁",
+          "headingEn": "Investigations and Reform",
+          "textKo": "1970년대 중반 Rockefeller Commission과 의회조사는 CIA의 국내활동 전반을 조사했다. CIA 자체의 후대 역사 역시 CHAOS가 단계적으로 종료됐고, 국내 감시와 정보수집을 제한하기 위한 공식 절차들이 강화됐다고 설명한다.",
+          "textEn": "The Rockefeller Commission and congressional investigations examined CIA domestic activities in the mid-1970s. Later CIA histories describe CHAOS as having been phased out and note tighter procedures governing domestic surveillance and related information collection."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모든 국내 반대세력을 외국조직으로 본 것은 아니다",
+          "headingEn": "Foreign Influence Was a Question, Not a Universal Finding",
+          "textKo": "프로그램이 외국 연계를 의심하며 자료를 모았다는 사실과 실제 외국 지휘가 입증됐다는 것은 다르다. 공식조사의 핵심 비판 중 하나도 바로 그 간극이다. 해외정보 목적을 이유로 국내 정치활동 데이터가 과도하게 축적될 때 목적 제한이 무너질 수 있다.",
+          "textEn": "The program’s search for foreign links does not mean that all domestic opposition was shown to be foreign-directed. One of the central lessons of the official review is the danger of allowing a hypothesis about foreign influence to justify unlimited accumulation of domestic political data."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건의 의미는 규모보다 경계선에 있다",
+          "headingEn": "The Durable Issue Is the Boundary",
+          "textKo": "CHAOS는 정보기관이 불확실한 위협을 조사할 때 ‘필요한 관련정보’의 범위를 어디까지 잡을 것인지 보여주는 사례다. 오늘 이 사건을 읽을 때도 특정 정치세력을 평가하기보다 문서화된 임무, 수집범위, 감독 실패, 후대 개혁을 구분하는 것이 중요하다.",
+          "textEn": "Operation CHAOS is most useful as a case about mission limits: how much related domestic information a foreign-intelligence agency may collect while pursuing a legitimate foreign-intelligence question, and what oversight is needed to stop that boundary from expanding."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "후대 공식조사는 프로그램 자체와 평가를 분리한다",
+          "headingEn": "Official Review Separates Mission From Overreach",
+          "textKo": "CHAOS를 이해할 때는 프로그램의 원래 외국정보 목적, 실제로 축적된 국내 자료, 그리고 1975년 위원회의 법적·행정적 평가를 구분해야 한다. 공식보고서가 ‘필요할 수 있었던 국내정보’와 ‘합리적 필요를 넘어선 축적’을 동시에 언급한다는 점이 중요하다. 이는 처음부터 모든 행위가 같은 성격이었다는 단순화도, 문제가 전혀 없었다는 단순화도 피하게 한다.",
+          "textEn": "The official record distinguishes the original foreign-intelligence purpose, the domestic data that was actually accumulated, and the 1975 commission’s legal and administrative judgment. The report recognized a possible need for some domestic information while finding that accumulation exceeded reasonable necessity. That distinction resists both blanket condemnation and blanket exoneration."
+        },
+        {
+          "blockId": "09",
+          "type": "RECORD_SCOPE",
+          "headingKo": "수치보다 중요한 것은 정보가 어떤 기준으로 남았는가",
+          "headingEn": "A Database Entry Is Not a Finding of Guilt",
+          "textKo": "CHAOS 관련 공개기록에는 미국 내 개인·단체에 관한 대규모 색인과 파일이 언급된다. 숫자는 프로그램 규모를 이해하는 단서지만, 더 중요한 질문은 각 기록이 어떤 외국정보 목적과 연결됐고 언제 국내정보로 변질됐는지다. 개별 이름이 데이터베이스에 있었다는 사실만으로 그 사람이 불법행위에 연루됐거나 외국세력과 연결됐다고 볼 수 없다. 정보기관 데이터베이스의 포함 기준과 혐의 입증은 다른 문제다.",
+          "textEn": "Released accounts describe large indexes and files concerning U.S. persons and organizations. Scale matters, but inclusion in an intelligence database does not establish unlawful conduct or a foreign connection. The key question is how each item related to a foreign-intelligence purpose and where collection crossed into purely domestic activity."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: Operation CHAOS와 국내 반전·반체제 활동 관련 정보축적은 공식 조사자료로 확인되며 Rockefeller Commission은 일부 활동이 CIA 권한을 넘어섰다고 판단했다.\n\n확인되지 않음: 이 기록은 미국 내 반전운동 전체가 외국세력에 의해 지휘됐다는 결론을 뒷받침하지 않는다.",
+          "textEn": "Confirmed: official investigations document Operation CHAOS and its accumulation of information concerning U.S. antiwar and dissident activity; the Rockefeller Commission found some activities exceeded CIA authority.\n\nNot established: the record does not show that the U.S. antiwar movement as a whole was directed by foreign powers."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Operation CHAOS와 국내 반전·반체제 활동 관련 정보축적은 공식 조사자료로 확인되며 Rockefeller Commission은 일부 활동이 CIA 권한을 넘어섰다고 판단했다.",
+        "notEstablished": "확인되지 않음: 이 기록은 미국 내 반전운동 전체가 외국세력에 의해 지휘됐다는 결론을 뒷받침하지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Why Did a Foreign-Intelligence Agency Accumulate Files on U.S. Antiwar Activity?",
+      "hook": "The mission began as a search for foreign links, but later official review found that domestic data collection exceeded what was reasonably necessary.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "외국 연결고리를 찾는 임무",
+          "headingEn": "A Search for Foreign Links",
+          "textKo": "1960년대 후반 미국 정부는 국내 반전운동과 사회불안에 외국 정부나 조직의 영향이 있는지 파악하려 했다. CIA의 Operation CHAOS는 그 질문에 답하기 위한 정보수집·분석 체계로 성장했다. 문제는 해외연계 탐색과 국내 정치활동 데이터 축적의 경계가 점차 흐려졌다는 점이다.",
+          "textEn": "In the late 1960s, U.S. officials wanted to know whether foreign governments or organizations were influencing antiwar activism and domestic unrest. Operation CHAOS grew inside the CIA around that foreign-link question. The central problem was that the line between foreign-intelligence analysis and accumulation of information about domestic political activity became increasingly blurred."
+        },
+        {
+          "blockId": "02",
+          "type": "BACKGROUND",
+          "headingKo": "CIA의 법적 임무와 긴장",
+          "headingEn": "The Tension With the CIA’s Mission",
+          "textKo": "CIA는 본질적으로 해외정보기관이다. 국내에서 순수하게 내부안보 임무를 수행하는 것은 기관 권한과 충돌한다. 따라서 외국 연결성을 확인하기 위해 미국 내 활동 정보를 접하게 되는 상황에서는 수집 범위와 보관 목적이 핵심 통제선이 된다.",
+          "textEn": "The CIA is fundamentally a foreign-intelligence service. Pure domestic-security work creates a direct authority problem. When assessing foreign connections requires touching information about U.S. activity, collection scope, retention, and purpose become critical safeguards."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "Rockefeller Commission의 판단",
+          "headingEn": "The Rockefeller Commission’s Finding",
+          "textKo": "1975년 Rockefeller Commission 보고서는 외국 연계를 공정하게 평가하려면 일정한 국내정보 기반이 필요했을 수 있다고 보면서도, CHAOS가 축적한 국내 자료가 그 목적에 합리적으로 필요한 범위를 넘어섰다고 적었다. 또한 미국 안에서 순수한 국내 사안을 수집한 일부 활동을 CIA 권한 밖으로 평가했다.",
+          "textEn": "The 1975 Rockefeller Commission acknowledged that some domestic information might have been needed to evaluate foreign connections fairly. It nevertheless concluded that CHAOS accumulated domestic data beyond what was reasonably necessary and that some strictly domestic collection exceeded CIA authority."
+        },
+        {
+          "blockId": "04",
+          "type": "STRUCTURE",
+          "headingKo": "고립된 조직구조도 문제였다",
+          "headingEn": "Isolation From Normal Supervision",
+          "textKo": "위원회는 CHAOS가 정규 지휘·감독선에서 비교적 고립된 채 운영된 점을 지적했다. 이런 구조에서는 프로그램의 본래 목적이 확대되거나 수집 관행이 관성적으로 이어질 위험이 커진다. 기록은 단순히 ‘감시가 있었다’가 아니라 감독장치가 왜 중요한지도 보여준다.",
+          "textEn": "The Commission also criticized the program’s relative isolation from normal supervisory channels. A self-contained unit can allow mission boundaries to drift without timely review. The record therefore documents not only surveillance but also a governance failure."
+        },
+        {
+          "blockId": "05",
+          "type": "OVERSIGHT",
+          "headingKo": "폭로 뒤 이어진 조사와 개혁",
+          "headingEn": "Investigations and Reform",
+          "textKo": "1970년대 중반 Rockefeller Commission과 의회조사는 CIA의 국내활동 전반을 조사했다. CIA 자체의 후대 역사 역시 CHAOS가 단계적으로 종료됐고, 국내 감시와 정보수집을 제한하기 위한 공식 절차들이 강화됐다고 설명한다.",
+          "textEn": "The Rockefeller Commission and congressional investigations examined CIA domestic activities in the mid-1970s. Later CIA histories describe CHAOS as having been phased out and note tighter procedures governing domestic surveillance and related information collection."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "모든 국내 반대세력을 외국조직으로 본 것은 아니다",
+          "headingEn": "Foreign Influence Was a Question, Not a Universal Finding",
+          "textKo": "프로그램이 외국 연계를 의심하며 자료를 모았다는 사실과 실제 외국 지휘가 입증됐다는 것은 다르다. 공식조사의 핵심 비판 중 하나도 바로 그 간극이다. 해외정보 목적을 이유로 국내 정치활동 데이터가 과도하게 축적될 때 목적 제한이 무너질 수 있다.",
+          "textEn": "The program’s search for foreign links does not mean that all domestic opposition was shown to be foreign-directed. One of the central lessons of the official review is the danger of allowing a hypothesis about foreign influence to justify unlimited accumulation of domestic political data."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "이 사건의 의미는 규모보다 경계선에 있다",
+          "headingEn": "The Durable Issue Is the Boundary",
+          "textKo": "CHAOS는 정보기관이 불확실한 위협을 조사할 때 ‘필요한 관련정보’의 범위를 어디까지 잡을 것인지 보여주는 사례다. 오늘 이 사건을 읽을 때도 특정 정치세력을 평가하기보다 문서화된 임무, 수집범위, 감독 실패, 후대 개혁을 구분하는 것이 중요하다.",
+          "textEn": "Operation CHAOS is most useful as a case about mission limits: how much related domestic information a foreign-intelligence agency may collect while pursuing a legitimate foreign-intelligence question, and what oversight is needed to stop that boundary from expanding."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "후대 공식조사는 프로그램 자체와 평가를 분리한다",
+          "headingEn": "Official Review Separates Mission From Overreach",
+          "textKo": "CHAOS를 이해할 때는 프로그램의 원래 외국정보 목적, 실제로 축적된 국내 자료, 그리고 1975년 위원회의 법적·행정적 평가를 구분해야 한다. 공식보고서가 ‘필요할 수 있었던 국내정보’와 ‘합리적 필요를 넘어선 축적’을 동시에 언급한다는 점이 중요하다. 이는 처음부터 모든 행위가 같은 성격이었다는 단순화도, 문제가 전혀 없었다는 단순화도 피하게 한다.",
+          "textEn": "The official record distinguishes the original foreign-intelligence purpose, the domestic data that was actually accumulated, and the 1975 commission’s legal and administrative judgment. The report recognized a possible need for some domestic information while finding that accumulation exceeded reasonable necessity. That distinction resists both blanket condemnation and blanket exoneration."
+        },
+        {
+          "blockId": "09",
+          "type": "RECORD_SCOPE",
+          "headingKo": "수치보다 중요한 것은 정보가 어떤 기준으로 남았는가",
+          "headingEn": "A Database Entry Is Not a Finding of Guilt",
+          "textKo": "CHAOS 관련 공개기록에는 미국 내 개인·단체에 관한 대규모 색인과 파일이 언급된다. 숫자는 프로그램 규모를 이해하는 단서지만, 더 중요한 질문은 각 기록이 어떤 외국정보 목적과 연결됐고 언제 국내정보로 변질됐는지다. 개별 이름이 데이터베이스에 있었다는 사실만으로 그 사람이 불법행위에 연루됐거나 외국세력과 연결됐다고 볼 수 없다. 정보기관 데이터베이스의 포함 기준과 혐의 입증은 다른 문제다.",
+          "textEn": "Released accounts describe large indexes and files concerning U.S. persons and organizations. Scale matters, but inclusion in an intelligence database does not establish unlawful conduct or a foreign connection. The key question is how each item related to a foreign-intelligence purpose and where collection crossed into purely domestic activity."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: Operation CHAOS와 국내 반전·반체제 활동 관련 정보축적은 공식 조사자료로 확인되며 Rockefeller Commission은 일부 활동이 CIA 권한을 넘어섰다고 판단했다.\n\n확인되지 않음: 이 기록은 미국 내 반전운동 전체가 외국세력에 의해 지휘됐다는 결론을 뒷받침하지 않는다.",
+          "textEn": "Confirmed: official investigations document Operation CHAOS and its accumulation of information concerning U.S. antiwar and dissident activity; the Rockefeller Commission found some activities exceeded CIA authority.\n\nNot established: the record does not show that the U.S. antiwar movement as a whole was directed by foreign powers."
+        }
+      ],
+      "factBoundary": {
+        "established": "Confirmed: official investigations document Operation CHAOS and its accumulation of information concerning U.S. antiwar and dissident activity; the Rockefeller Commission found some activities exceeded CIA authority.",
+        "notEstablished": "Not established: the record does not show that the U.S. antiwar movement as a whole was directed by foreign powers."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CHAOS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Operation CHAOS는 외국 세력과 미국 내 반전·반체제 활동의 연계를 평가하기 위한 CIA 프로그램이었다.",
+      "statementEn": "Operation CHAOS was a CIA program intended to assess possible foreign links to U.S. antiwar and dissident activity.",
+      "sourceRefs": [
+        "ROCKEFELLER_REPORT"
+      ]
+    },
+    {
+      "claimId": "CHAOS-C2",
+      "status": "CONFIRMED",
+      "statementKo": "Rockefeller Commission은 국내 데이터 축적 일부가 합리적 필요와 CIA 권한을 넘어섰다고 판단했다.",
+      "statementEn": "The Rockefeller Commission found that parts of the domestic data accumulation exceeded reasonable need and CIA authority.",
+      "sourceRefs": [
+        "ROCKEFELLER_REPORT"
+      ]
+    },
+    {
+      "claimId": "CHAOS-C3",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "공식 기록이 모든 미국 내 반전활동이 외국 지휘를 받았음을 입증하는 것은 아니다.",
+      "statementEn": "The official record does not establish that all U.S. antiwar activity was directed by foreign powers.",
+      "sourceRefs": [
+        "ROCKEFELLER_REPORT",
+        "CIA_REFORM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "ROCKEFELLER_REPORT",
+      "title": "Report to the President by the Commission on CIA Activities within the United States",
+      "publisher": "Rockefeller Commission / CIA Reading Room",
+      "url": "https://www.cia.gov/readingroom/docs/REPORT%20TO%20THE%20PRESIDENT%20B%5B15890372%5D.pdf",
+      "sourceType": "OFFICIAL_COMMISSION_REPORT"
+    },
+    {
+      "sourceId": "CIA_REFORM",
+      "title": "Intelligence Reform in the Mid-1970s",
+      "publisher": "CIA Center for the Study of Intelligence",
+      "url": "https://www.cia.gov/resources/csi/static/Intelligence-Reform-Mid-1970s.pdf",
+      "sourceType": "GOVERNMENT_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "operation-chaos-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events and later reassessment.",
+      "altKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key events and later reassessment.",
+      "sourceRefs": [
+        "ROCKEFELLER_REPORT",
+        "CIA_REFORM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "39c4abc097e0980e3521bae0759e0ba214fc4111960e4a008bad09c6bedb28f1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-chaos__operation-chaos-v01__ko.png"
+        },
+        "en": {
+          "sha256": "99dd141b74d45f67a612793d0a6d3ad9e0af1fb2f26b7ec27ca27d4f886da0d8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-chaos__operation-chaos-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "operation-chaos-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram of institutions, records, and claims.",
+      "altKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram of institutions, records, and claims.",
+      "sourceRefs": [
+        "ROCKEFELLER_REPORT",
+        "CIA_REFORM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "f35d93de3dd683aee9a84b2f501ebb1db4b0a6183c6348e23b27d1e0528b6a36",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-chaos__operation-chaos-v02__ko.png"
+        },
+        "en": {
+          "sha256": "7aae81e737d260975bc73b968dc3fbbf7fdf01a8bed6a91cc8806ced1b7cca30",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-chaos__operation-chaos-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "operation-chaos-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "captionEn": "Project-original boundary card separating established facts from unproven claims.",
+      "altKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "altEn": "Project-original boundary card separating established facts from unproven claims.",
+      "sourceRefs": [
+        "ROCKEFELLER_REPORT",
+        "CIA_REFORM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "386ee9d9a4fe9e3c13551de2fd056a43533af2074d1d65958faabf7ee01e40a7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-chaos__operation-chaos-v03__ko.png"
+        },
+        "en": {
+          "sha256": "7b1d6837bea396dc6ac58c4d162d4e5246ccd059df3c737ca57d50917eaac3d8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "operation-chaos__operation-chaos-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Intelligence / Oversight",
+    "secondaryGenres": [
+      "Domestic surveillance",
+      "Institutional reform"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Rockefeller Commission / CIA Reading Room",
+      "CIA Center for the Study of Intelligence"
+    ],
+    "dateRange": {
+      "start": "1967",
+      "end": "1974",
+      "precision": "historical/current range"
+    },
+    "era": "1967–1974",
+    "resolution": "DOCUMENTED_PROGRAM_WITH_OFFICIAL_OVERSIGHT_FINDINGS",
+    "searchAliases": []
+  },
+  "quality": {
+    "koBodyChars": 1612,
+    "enBodyWords": 422,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 2,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH39",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}

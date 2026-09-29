@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "section702-prism",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "PRISM과 FISA Section 702",
+    "canonicalTitleEn": "PRISM and FISA Section 702",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_DOCUMENT_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "‘PRISM’과 Section 702는 같은 말이 아니다",
+      "hook": "법적 권한, downstream 수집, upstream 수집, 대상선정·질의 규칙을 분리해야 2013년 이후의 감시 논쟁을 정확히 읽을 수 있다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "하나의 이름처럼 섞여버린 여러 층위",
+          "headingEn": "Several Layers Collapsed Into One Name",
+          "textKo": "2013년 이후 PRISM은 인터넷 감시 전체를 뜻하는 상징어처럼 쓰였다. 그러나 제도를 분석하려면 먼저 Section 702라는 법적 권한과 실제 수집방식을 구분해야 한다. 법, 기술적 수집경로, 대상선정, 데이터 질의, 감독은 서로 다른 층위다.",
+          "textEn": "After the 2013 disclosures, PRISM became a shorthand for broad electronic surveillance. Accurate analysis requires separating the Section 702 legal authority from collection architecture, targeting, queries, and oversight. Those are distinct layers."
+        },
+        {
+          "blockId": "02",
+          "type": "LEGAL",
+          "headingKo": "Section 702가 허용하는 대상의 범위",
+          "headingEn": "Who Section 702 Is Designed to Target",
+          "textKo": "Section 702는 미국 밖에 있다고 합리적으로 믿어지는 비미국인을 외국정보 목적으로 표적화하는 체계다. 미국인을 표적으로 삼는 근거가 아니며, 미국 내 사람을 고의로 우회 표적화하는 ‘reverse targeting’도 금지된다. 동시에 해외 표적과 미국인이 통신하면 미국인 정보가 부수적으로 수집될 수 있어 별도 보호규칙이 중요해진다.",
+          "textEn": "Section 702 authorizes targeting of non-U.S. persons reasonably believed to be outside the United States for foreign-intelligence purposes. It is not an authority to target U.S. persons, and reverse targeting is prohibited. U.S.-person information can nevertheless be incidentally acquired when communicating with a lawful foreign target."
+        },
+        {
+          "blockId": "03",
+          "type": "SYSTEM",
+          "headingKo": "downstream과 upstream",
+          "headingEn": "Downstream and Upstream Collection",
+          "textKo": "프로그램에는 서로 다른 기술적 수집경로가 존재한다. 공개된 감독자료는 통신서비스 제공자로부터 특정 계정 관련 데이터를 받는 downstream 계열과 인터넷 백본의 특정 통신을 다루는 upstream 계열을 구분해 설명해 왔다. 이 둘을 ‘PRISM’ 한 단어로 모두 부르면 실제 구조를 놓치게 된다.",
+          "textEn": "Public oversight materials distinguish different collection routes. Downstream collection, historically associated with the term PRISM, involves provider-based acquisition tied to selectors, while upstream collection operates on parts of the communications backbone. Treating both as one thing obscures the architecture."
+        },
+        {
+          "blockId": "04",
+          "type": "QUERY",
+          "headingKo": "수집 이후의 질의가 또 다른 쟁점이다",
+          "headingEn": "Queries Are a Separate Control Point",
+          "textKo": "이미 Section 702로 수집된 정보에서 미국인 식별자를 사용해 검색하는 문제는 표적선정과 별도의 통제영역이다. FBI 질의 규칙, 승인·기록 요건, 준수감사는 최근 개혁에서 반복적으로 강화된 부분이다.",
+          "textEn": "Searching information already acquired under Section 702 using U.S.-person identifiers is distinct from the original targeting decision. FBI query rules, approval requirements, logging, compliance audits, and reporting therefore form a separate privacy and civil-liberties issue."
+        },
+        {
+          "blockId": "05",
+          "type": "UPDATE",
+          "headingKo": "2024 RISAA와 2026 PCLOB 보고서",
+          "headingEn": "The 2024 Reform and 2026 PCLOB Review",
+          "textKo": "PCLOB의 2026 보고서는 Reforming Intelligence and Securing America Act of 2024 이후 변화를 평가한다. 더 엄격한 일부 FBI 질의 요건, 교육·보고 확대, 위반에 대한 징계규칙, FISA Court amici 활용 등 보호장치 변화와 함께 프로그램 범위의 일부 확대도 설명한다.",
+          "textEn": "PCLOB’s 2026 report evaluates changes following the Reforming Intelligence and Securing America Act of 2024, including stricter requirements for some FBI queries, expanded training and reporting, disciplinary rules for noncompliance, and mandatory use of FISA Court amici in certain certifications."
+        },
+        {
+          "blockId": "06",
+          "type": "PERSPECTIVES",
+          "headingKo": "안보 효용과 사생활 침해 위험은 별도 평가축",
+          "headingEn": "Security Utility and Privacy Risk Are Separate Axes",
+          "textKo": "정부기관은 Section 702가 해외 위협정보 수집에 중요한 도구라고 평가한다. 동시에 시민자유 관점에서는 미국인 정보의 부수적 수집과 질의, 투명성, 감사가능성이 계속 핵심 쟁점이다. 두 질문은 동시에 검토할 수 있으며 어느 한쪽만으로 제도 전체가 설명되지는 않는다.",
+          "textEn": "Government agencies describe Section 702 as valuable for foreign-threat intelligence. Civil-liberties review focuses on incidental U.S.-person information, queries, transparency, and auditability. A complete description can present both without collapsing the legal and technical details into a single slogan."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "용어를 정확히 써야 논쟁도 정확해진다",
+          "headingEn": "Precise Vocabulary Produces Better Debate",
+          "textKo": "‘PRISM’이라는 이름은 강력하지만 현재 제도 전체를 대표하는 법률명도 기술명도 아니다. 감시정책을 평가하려면 누가 표적이 되는지, 어떤 경로로 수집되는지, 미국인 정보에 어떤 제한이 적용되는지, 어떤 감독보고가 있는지를 나눠 봐야 한다.",
+          "textEn": "PRISM is a powerful label but is not the name of the entire Section 702 regime or all U.S. electronic surveillance. Evaluating the system requires asking who is targeted, how data is collected, what protections apply to U.S.-person information, and what oversight reports show."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "현재 제도는 2013년 스냅샷만으로 설명할 수 없다",
+          "headingEn": "A 2013 Snapshot Does Not Describe the Current Regime",
+          "textKo": "Section 702는 2013년 폭로 당시의 자료만 보면 현재 상태를 놓치기 쉽다. 법률 재승인과 개정, FISA Court 절차, 기관별 질의규칙, PCLOB의 후속감독이 계속 바뀌어 왔다. 특히 2024년 RISAA 이후의 변화는 2026년 PCLOB 보고서가 별도로 평가하고 있다. 따라서 과거 유출문건과 현재 법적·감독 상태를 같은 시점의 정보처럼 섞지 않는 것이 중요하다.",
+          "textEn": "Section 702 has continued to change through statutory reauthorization, court procedures, agency query rules, and oversight. The 2026 PCLOB review specifically evaluates reforms following RISAA in 2024. Historical disclosure material therefore should not be treated as if it were a complete description of the current legal and compliance framework."
+        },
+        {
+          "blockId": "09",
+          "type": "BOUNDARY",
+          "headingKo": "외국인 표적화와 미국인 정보의 존재는 동시에 가능하다",
+          "headingEn": "Targeting Rules and U.S.-Person Data Can Coexist",
+          "textKo": "Section 702 논쟁이 어려운 이유는 법률상 표적은 해외 비미국인이지만 그들과 통신하는 미국인의 메시지나 식별정보가 수집자료에 포함될 수 있기 때문이다. 따라서 ‘미국인을 표적으로 하지 않는다’와 ‘미국인 정보가 전혀 들어오지 않는다’는 같은 문장이 아니다. 현재 감독체계의 핵심은 이런 부수적 수집 뒤 최소화·질의·보관·감사 규칙이 실제로 어떻게 적용되는지에 있다.",
+          "textEn": "Section 702 targets non-U.S. persons abroad, yet communications involving U.S. persons can be incidentally acquired when they interact with lawful targets. “U.S. persons are not targets” therefore does not mean “no U.S.-person information enters the dataset.” Minimization, querying, retention, and auditing rules matter precisely because of that distinction."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: Section 702와 그 하위 수집·질의·감독 체계는 법률과 PCLOB 감독자료로 문서화돼 있으며 2024년 개혁 뒤 2026년에도 운영·감독이 계속되고 있다.\n\n주의: PRISM을 Section 702 전체나 모든 미국 정부 전자감시의 동의어로 쓰면 제도 구조를 부정확하게 만든다.",
+          "textEn": "Confirmed: Section 702 and its collection, query, and oversight framework are documented in law and PCLOB reporting, with updated oversight following the 2024 reforms.\n\nBoundary: using “PRISM” as a synonym for all Section 702 activity—or all U.S. electronic surveillance—misstates the structure of the program."
+        }
+      ],
+      "factBoundary": {
+        "established": "확인됨: Section 702와 그 하위 수집·질의·감독 체계는 법률과 PCLOB 감독자료로 문서화돼 있으며 2024년 개혁 뒤 2026년에도 운영·감독이 계속되고 있다.",
+        "notEstablished": "주의: PRISM을 Section 702 전체나 모든 미국 정부 전자감시의 동의어로 쓰면 제도 구조를 부정확하게 만든다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "PRISM and Section 702 Are Not the Same Thing",
+      "hook": "Accurate analysis requires separating the legal authority from downstream and upstream collection, targeting, and query rules.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "하나의 이름처럼 섞여버린 여러 층위",
+          "headingEn": "Several Layers Collapsed Into One Name",
+          "textKo": "2013년 이후 PRISM은 인터넷 감시 전체를 뜻하는 상징어처럼 쓰였다. 그러나 제도를 분석하려면 먼저 Section 702라는 법적 권한과 실제 수집방식을 구분해야 한다. 법, 기술적 수집경로, 대상선정, 데이터 질의, 감독은 서로 다른 층위다.",
+          "textEn": "After the 2013 disclosures, PRISM became a shorthand for broad electronic surveillance. Accurate analysis requires separating the Section 702 legal authority from collection architecture, targeting, queries, and oversight. Those are distinct layers."
+        },
+        {
+          "blockId": "02",
+          "type": "LEGAL",
+          "headingKo": "Section 702가 허용하는 대상의 범위",
+          "headingEn": "Who Section 702 Is Designed to Target",
+          "textKo": "Section 702는 미국 밖에 있다고 합리적으로 믿어지는 비미국인을 외국정보 목적으로 표적화하는 체계다. 미국인을 표적으로 삼는 근거가 아니며, 미국 내 사람을 고의로 우회 표적화하는 ‘reverse targeting’도 금지된다. 동시에 해외 표적과 미국인이 통신하면 미국인 정보가 부수적으로 수집될 수 있어 별도 보호규칙이 중요해진다.",
+          "textEn": "Section 702 authorizes targeting of non-U.S. persons reasonably believed to be outside the United States for foreign-intelligence purposes. It is not an authority to target U.S. persons, and reverse targeting is prohibited. U.S.-person information can nevertheless be incidentally acquired when communicating with a lawful foreign target."
+        },
+        {
+          "blockId": "03",
+          "type": "SYSTEM",
+          "headingKo": "downstream과 upstream",
+          "headingEn": "Downstream and Upstream Collection",
+          "textKo": "프로그램에는 서로 다른 기술적 수집경로가 존재한다. 공개된 감독자료는 통신서비스 제공자로부터 특정 계정 관련 데이터를 받는 downstream 계열과 인터넷 백본의 특정 통신을 다루는 upstream 계열을 구분해 설명해 왔다. 이 둘을 ‘PRISM’ 한 단어로 모두 부르면 실제 구조를 놓치게 된다.",
+          "textEn": "Public oversight materials distinguish different collection routes. Downstream collection, historically associated with the term PRISM, involves provider-based acquisition tied to selectors, while upstream collection operates on parts of the communications backbone. Treating both as one thing obscures the architecture."
+        },
+        {
+          "blockId": "04",
+          "type": "QUERY",
+          "headingKo": "수집 이후의 질의가 또 다른 쟁점이다",
+          "headingEn": "Queries Are a Separate Control Point",
+          "textKo": "이미 Section 702로 수집된 정보에서 미국인 식별자를 사용해 검색하는 문제는 표적선정과 별도의 통제영역이다. FBI 질의 규칙, 승인·기록 요건, 준수감사는 최근 개혁에서 반복적으로 강화된 부분이다.",
+          "textEn": "Searching information already acquired under Section 702 using U.S.-person identifiers is distinct from the original targeting decision. FBI query rules, approval requirements, logging, compliance audits, and reporting therefore form a separate privacy and civil-liberties issue."
+        },
+        {
+          "blockId": "05",
+          "type": "UPDATE",
+          "headingKo": "2024 RISAA와 2026 PCLOB 보고서",
+          "headingEn": "The 2024 Reform and 2026 PCLOB Review",
+          "textKo": "PCLOB의 2026 보고서는 Reforming Intelligence and Securing America Act of 2024 이후 변화를 평가한다. 더 엄격한 일부 FBI 질의 요건, 교육·보고 확대, 위반에 대한 징계규칙, FISA Court amici 활용 등 보호장치 변화와 함께 프로그램 범위의 일부 확대도 설명한다.",
+          "textEn": "PCLOB’s 2026 report evaluates changes following the Reforming Intelligence and Securing America Act of 2024, including stricter requirements for some FBI queries, expanded training and reporting, disciplinary rules for noncompliance, and mandatory use of FISA Court amici in certain certifications."
+        },
+        {
+          "blockId": "06",
+          "type": "PERSPECTIVES",
+          "headingKo": "안보 효용과 사생활 침해 위험은 별도 평가축",
+          "headingEn": "Security Utility and Privacy Risk Are Separate Axes",
+          "textKo": "정부기관은 Section 702가 해외 위협정보 수집에 중요한 도구라고 평가한다. 동시에 시민자유 관점에서는 미국인 정보의 부수적 수집과 질의, 투명성, 감사가능성이 계속 핵심 쟁점이다. 두 질문은 동시에 검토할 수 있으며 어느 한쪽만으로 제도 전체가 설명되지는 않는다.",
+          "textEn": "Government agencies describe Section 702 as valuable for foreign-threat intelligence. Civil-liberties review focuses on incidental U.S.-person information, queries, transparency, and auditability. A complete description can present both without collapsing the legal and technical details into a single slogan."
+        },
+        {
+          "blockId": "07",
+          "type": "AFTERMATH",
+          "headingKo": "용어를 정확히 써야 논쟁도 정확해진다",
+          "headingEn": "Precise Vocabulary Produces Better Debate",
+          "textKo": "‘PRISM’이라는 이름은 강력하지만 현재 제도 전체를 대표하는 법률명도 기술명도 아니다. 감시정책을 평가하려면 누가 표적이 되는지, 어떤 경로로 수집되는지, 미국인 정보에 어떤 제한이 적용되는지, 어떤 감독보고가 있는지를 나눠 봐야 한다.",
+          "textEn": "PRISM is a powerful label but is not the name of the entire Section 702 regime or all U.S. electronic surveillance. Evaluating the system requires asking who is targeted, how data is collected, what protections apply to U.S.-person information, and what oversight reports show."
+        },
+        {
+          "blockId": "08",
+          "type": "SOURCE_READING",
+          "headingKo": "현재 제도는 2013년 스냅샷만으로 설명할 수 없다",
+          "headingEn": "A 2013 Snapshot Does Not Describe the Current Regime",
+          "textKo": "Section 702는 2013년 폭로 당시의 자료만 보면 현재 상태를 놓치기 쉽다. 법률 재승인과 개정, FISA Court 절차, 기관별 질의규칙, PCLOB의 후속감독이 계속 바뀌어 왔다. 특히 2024년 RISAA 이후의 변화는 2026년 PCLOB 보고서가 별도로 평가하고 있다. 따라서 과거 유출문건과 현재 법적·감독 상태를 같은 시점의 정보처럼 섞지 않는 것이 중요하다.",
+          "textEn": "Section 702 has continued to change through statutory reauthorization, court procedures, agency query rules, and oversight. The 2026 PCLOB review specifically evaluates reforms following RISAA in 2024. Historical disclosure material therefore should not be treated as if it were a complete description of the current legal and compliance framework."
+        },
+        {
+          "blockId": "09",
+          "type": "BOUNDARY",
+          "headingKo": "외국인 표적화와 미국인 정보의 존재는 동시에 가능하다",
+          "headingEn": "Targeting Rules and U.S.-Person Data Can Coexist",
+          "textKo": "Section 702 논쟁이 어려운 이유는 법률상 표적은 해외 비미국인이지만 그들과 통신하는 미국인의 메시지나 식별정보가 수집자료에 포함될 수 있기 때문이다. 따라서 ‘미국인을 표적으로 하지 않는다’와 ‘미국인 정보가 전혀 들어오지 않는다’는 같은 문장이 아니다. 현재 감독체계의 핵심은 이런 부수적 수집 뒤 최소화·질의·보관·감사 규칙이 실제로 어떻게 적용되는지에 있다.",
+          "textEn": "Section 702 targets non-U.S. persons abroad, yet communications involving U.S. persons can be incidentally acquired when they interact with lawful targets. “U.S. persons are not targets” therefore does not mean “no U.S.-person information enters the dataset.” Minimization, querying, retention, and auditing rules matter precisely because of that distinction."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "확인된 것 / 남은 경계",
+          "headingEn": "Established / Boundary",
+          "textKo": "확인됨: Section 702와 그 하위 수집·질의·감독 체계는 법률과 PCLOB 감독자료로 문서화돼 있으며 2024년 개혁 뒤 2026년에도 운영·감독이 계속되고 있다.\n\n주의: PRISM을 Section 702 전체나 모든 미국 정부 전자감시의 동의어로 쓰면 제도 구조를 부정확하게 만든다.",
+          "textEn": "Confirmed: Section 702 and its collection, query, and oversight framework are documented in law and PCLOB reporting, with updated oversight following the 2024 reforms.\n\nBoundary: using “PRISM” as a synonym for all Section 702 activity—or all U.S. electronic surveillance—misstates the structure of the program."
+        }
+      ],
+      "factBoundary": {
+        "established": "Confirmed: Section 702 and its collection, query, and oversight framework are documented in law and PCLOB reporting, with updated oversight following the 2024 reforms.",
+        "notEstablished": "Boundary: using “PRISM” as a synonym for all Section 702 activity—or all U.S. electronic surveillance—misstates the structure of the program."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "702-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Section 702는 해외의 비미국인을 대상으로 외국정보를 수집하기 위한 법적 권한이며 미국인을 대상으로 삼는 권한이 아니다.",
+      "statementEn": "Section 702 is a legal authority for targeting non-U.S. persons abroad for foreign-intelligence purposes, not an authority to target U.S. persons.",
+      "sourceRefs": [
+        "PCLOB_2026"
+      ]
+    },
+    {
+      "claimId": "702-C2",
+      "status": "CONFIRMED",
+      "statementKo": "PCLOB는 Section 702 프로그램의 수집·질의·감독 규칙과 2024년 RISAA 이후 개혁을 검토했다.",
+      "statementEn": "PCLOB reviewed Section 702 collection, querying, oversight rules, and reforms made under RISAA in 2024.",
+      "sourceRefs": [
+        "PCLOB_2026"
+      ]
+    },
+    {
+      "claimId": "702-C3",
+      "status": "SUPPORTED",
+      "statementKo": "대중적으로 PRISM이라 불리는 downstream 방식과 upstream 방식은 서로 다른 수집구조로 이해해야 한다.",
+      "statementEn": "The downstream method commonly associated with PRISM and upstream collection are distinct collection architectures.",
+      "sourceRefs": [
+        "PCLOB_2026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "PCLOB_2026",
+      "title": "2026 Report on the Surveillance Program Operated Pursuant to Section 702 of FISA",
+      "publisher": "Privacy and Civil Liberties Oversight Board",
+      "url": "https://www.pclob.gov/OversightProjects/Details/20",
+      "sourceType": "INDEPENDENT_EXECUTIVE_OVERSIGHT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "section702-prism-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key events and later reassessment.",
+      "altKo": "핵심 사건과 후대 재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key events and later reassessment.",
+      "sourceRefs": [
+        "PCLOB_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "849d539d7b6b3aee6a4a52027e061029479d8ce73d5978d2affca5c95ac5fb5b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "section702-prism__section702-prism-v01__ko.png"
+        },
+        "en": {
+          "sha256": "092dea51fa78ed31f6ef3167df06b977f447f33e3b2ca82dcd0fe4efab4f9cd4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "section702-prism__section702-prism-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "section702-prism-v02",
+      "role": "SYSTEM_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram of institutions, records, and claims.",
+      "altKo": "기관·문서·주장 사이의 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram of institutions, records, and claims.",
+      "sourceRefs": [
+        "PCLOB_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "2d35616571be25d4462a7f61c701cc829a05480207ffe6ddb5877644400b9d88",
+          "width": 1600,
+          "height": 900,
+          "fileName": "section702-prism__section702-prism-v02__ko.png"
+        },
+        "en": {
+          "sha256": "e16fda18b0ecc9570e1c573c9b3f8d2cf35220c0bf82617d6ef4007a24d8c3d7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "section702-prism__section702-prism-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "section702-prism-v03",
+      "role": "FACT_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "captionEn": "Project-original boundary card separating established facts from unproven claims.",
+      "altKo": "확인된 사실과 미확정 주장을 분리한 프로젝트 원본 경계 카드.",
+      "altEn": "Project-original boundary card separating established facts from unproven claims.",
+      "sourceRefs": [
+        "PCLOB_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "sha256": "4cecc9b61ac5e4d8e0a3a96a41ca6bf831afaf5715ce9fa4a03ddbc7a287eb0c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "section702-prism__section702-prism-v03__ko.png"
+        },
+        "en": {
+          "sha256": "896a03ab317b7dcc94e0dd664a680145e2006df1c85a96864fc70d60fb8147fa",
+          "width": 1600,
+          "height": 900,
+          "fileName": "section702-prism__section702-prism-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "primaryGenre": "Surveillance / Law",
+    "secondaryGenres": [
+      "FISA",
+      "Privacy and civil liberties"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "places": [],
+    "people": [],
+    "organizations": [
+      "Privacy and Civil Liberties Oversight Board"
+    ],
+    "dateRange": {
+      "start": "2008",
+      "end": "2026",
+      "precision": "historical/current range"
+    },
+    "era": "2008–2026",
+    "resolution": "ACTIVE_LEGAL_PROGRAM_WITH_CURRENT_OVERSIGHT",
+    "searchAliases": []
+  },
+  "quality": {
+    "koBodyChars": 1668,
+    "enBodyWords": 415,
+    "meaningfulBlockCount": 10,
+    "visualPlacementCount": 3,
+    "sourceCount": 1,
+    "claimCount": 3,
+    "factBoundaryPass": true,
+    "koPass": true,
+    "enPass": true,
+    "mediaPass": true,
+    "metadataPass": true,
+    "androidRenderPass": false,
+    "webRenderPass": false,
+    "sourceLinkPass": true,
+    "randomGatePass": false
+  },
+  "mediaPackage": {
+    "batch": "MysteryAtlas_PROJECT_ORIGINAL_VISUAL_BATCH39",
+    "assetGroups": 3,
+    "localizedFiles": 6,
+    "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+    "thirdPartyImageBytes": 0,
+    "androidApplied": false,
+    "webApplied": false
+  }
+}
