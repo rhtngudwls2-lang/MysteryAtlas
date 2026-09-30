@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "b46.zip",
+  "sourcePack": "b47.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -508,6 +508,64 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "Downgraded from pre-production DEEP_DOSSIER plan: current verified material supports a dense Standard Story; no padding added to reach 6,000 characters."
+      }
+    },
+    {
+      "canonicalId": "amber-room-loss",
+      "title": {
+        "ko": "사라진 호박방의 마지막 행방",
+        "en": "The Lost Amber Room: Looting, Königsberg, and the Missing Panels"
+      },
+      "headline": {
+        "ko": "27개 상자로 옮겨진 호박방은 1945년 어디에서 사라졌나",
+        "en": "Where Did the Amber Room Disappear After Königsberg?"
+      },
+      "hook": {
+        "ko": "독일군은 1941년 Catherine Palace의 호박 패널을 해체해 Königsberg로 옮겨 전시했다. 전쟁 말기 패널은 다시 상자에 포장됐고 그 뒤 완전한 행방은 끊겼다. 원본 일부 요소는 후대에 회수됐지만 방 전체는 발견되지 않았고, 오늘의 화려한 호박방은 24년에 걸친 재현이다.",
+        "en": "German forces dismantled the Amber Room in 1941 and shipped its panels from Catherine Palace to Königsberg, where they were displayed. Near the end of the war the panels were crated again, after which their complete trail disappears. A few original elements later resurfaced, but the room itself has never been recovered; today’s Amber Room is a decades-long reconstruction."
+      },
+      "aliases": [],
+      "genre": "Historical Enigma / Lost Place / Identity",
+      "genres": [],
+      "countries": [
+        "Russia / Germany"
+      ],
+      "regions": [],
+      "era": "1941–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "amber-room-loss-v01",
+      "heroFile": {
+        "ko": "amber-room-loss__amber-room-loss-v01__ko.png",
+        "en": "amber-room-loss__amber-room-loss-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -3096,6 +3154,64 @@
       }
     },
     {
+      "canonicalId": "collata-khipu-letters",
+      "title": {
+        "ko": "콜라타 키푸 두 통의 해독 단서",
+        "en": "The Collata Khipu Letters and a Possible Phonetic Code"
+      },
+      "headline": {
+        "ko": "매듭과 털실이 “편지”였다면, 우리는 얼마나 읽어냈나",
+        "en": "If Knotted Cords Were Letters, How Much of the Collata Khipus Can We Read?"
+      },
+      "hook": {
+        "ko": "페루 산후안 데 콜라타 공동체가 보존해 온 두 키푸는 단순 회계표가 아니라 전쟁과 관련된 서신으로 전승된다. 2017년 연구는 95개 기호와 색·섬유·꼬임 조합, 그리고 두 계보명으로 보이는 음가 단서를 제시했다. 그러나 전체 문장은 아직 읽히지 않는다.",
+        "en": "Two khipus preserved by the community of San Juan de Collata are remembered as letters connected with warfare rather than accounting devices. A 2017 study identified 95 symbol combinations and proposed phonetic readings for lineage names encoded through color, fiber and twist. The full texts remain undeciphered."
+      },
+      "aliases": [],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [],
+      "countries": [
+        "Peru"
+      ],
+      "regions": [],
+      "era": "18th century / studied 2015–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "collata-khipu-letters-v01",
+      "heroFile": {
+        "ko": "collata-khipu-letters__collata-khipu-letters-v01__ko.png",
+        "en": "collata-khipu-letters__collata-khipu-letters-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "colossal-squid-2007",
       "title": {
         "ko": "2007년 콜로설 오징어 표본",
@@ -3319,6 +3435,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "crippen-1910-radio-pursuit",
+      "title": {
+        "ko": "크리펜 사건과 대서양 무선전보 추적",
+        "en": "Crippen 1910: Murder, Flight, and the Wireless Pursuit"
+      },
+      "headline": {
+        "ko": "살인 용의자를 대서양 한가운데서 잡게 한 것은 어떻게 전파였나",
+        "en": "How Did Wireless Telegraphy Turn an Atlantic Escape into a Police Pursuit?"
+      },
+      "hook": {
+        "ko": "1910년 런던에서 아내가 사라진 뒤 지하실에서 시신 일부가 발견되자 Hawley Crippen과 Ethel Le Neve는 캐나다행 배에 올랐다. 선장은 새 무선전신 기술로 육지에 의심을 알렸고, 수사관은 더 빠른 배를 타고 앞질러 체포했다.",
+        "en": "After Crippen’s wife disappeared and human remains were found beneath his London home, Hawley Crippen and Ethel Le Neve sailed for Canada. The ship’s captain used the new technology of wireless telegraphy to alert authorities ashore, allowing a detective to cross the Atlantic faster and arrest them on arrival."
+      },
+      "aliases": [],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [],
+      "countries": [
+        "United Kingdom / Canada"
+      ],
+      "regions": [],
+      "era": "1910",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "crippen-1910-radio-pursuit-v01",
+      "heroFile": {
+        "ko": "crippen-1910-radio-pursuit__crippen-1910-radio-pursuit-v01__ko.png",
+        "en": "crippen-1910-radio-pursuit__crippen-1910-radio-pursuit-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4628,6 +4802,64 @@
       }
     },
     {
+      "canonicalId": "fatima-1917-sun",
+      "title": {
+        "ko": "1917년 파티마 태양 현상 보도",
+        "en": "Fatima 1917: Reports of the Sun Phenomenon"
+      },
+      "headline": {
+        "ko": "1917년 10월 13일, 수만 명이 보았다고 한 “태양의 기적”은 기록에 무엇으로 남았나",
+        "en": "What Do the 1917 Records Actually Say About Fatima’s “Miracle of the Sun”?"
+      },
+      "hook": {
+        "ko": "1917년 10월 파티마에는 미리 예고된 사건을 보려는 군중이 몰렸고, 동시대 신문은 태양이 회전하거나 내려오는 듯 보였다는 증언을 전했다. 사건의 역사적 기록성은 강하지만, 관찰된 현상의 물리적 원인과 초자연적 해석은 같은 수준의 사실이 아니다.",
+        "en": "In October 1917 a large crowd gathered at Fatima for a predicted event, and contemporary newspapers reported witnesses describing the Sun as spinning or seeming to descend. The gathering and reports are historical facts; the physical cause and supernatural interpretation are not established at the same evidential level."
+      },
+      "aliases": [],
+      "genre": "Paranormal / Haunting / Folklore",
+      "genres": [],
+      "countries": [
+        "Portugal"
+      ],
+      "regions": [],
+      "era": "1917",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "fatima-1917-sun-v01",
+      "heroFile": {
+        "ko": "fatima-1917-sun__fatima-1917-sun-v01__ko.png",
+        "en": "fatima-1917-sun__fatima-1917-sun-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "feejee-mermaid-barnum",
       "title": {
         "ko": "피지 인어 전시품의 정체",
@@ -5821,6 +6053,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "golden-state-killer-dna",
+      "title": {
+        "ko": "골든 스테이트 킬러의 유전자 추적",
+        "en": "The Golden State Killer and Investigative Genetic Genealogy"
+      },
+      "headline": {
+        "ko": "수십 년 묵은 연쇄범죄는 어떻게 가족나무를 따라 한 사람에게 좁혀졌나",
+        "en": "How Did a Decades-Old Serial Crime Case Narrow Through Genetic Genealogy?"
+      },
+      "hook": {
+        "ko": "1970~80년대 캘리포니아의 여러 살인·성폭력 사건은 DNA와 범행 패턴으로 한 범인과 연결됐지만 신원은 수십 년간 남지 않았다. 2018년 수사기관은 법집행 CODIS와 다른 방식의 조사 유전계보를 이용해 Joseph DeAngelo를 특정했다.",
+        "en": "Murders and sexual assaults across California in the 1970s and 1980s were linked by DNA and crime patterns, yet the offender remained unidentified for decades. In 2018 investigators used investigative genetic genealogy—distinct from ordinary CODIS searching—to narrow the case to Joseph DeAngelo."
+      },
+      "aliases": [],
+      "genre": "Unsolved Crime / Disappearance",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1976–2020",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "golden-state-killer-dna-v01",
+      "heroFile": {
+        "ko": "golden-state-killer-dna__golden-state-killer-dna-v01__ko.png",
+        "en": "golden-state-killer-dna__golden-state-killer-dna-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -7868,6 +8158,64 @@
       }
     },
     {
+      "canonicalId": "kal-007-1983",
+      "title": {
+        "ko": "대한항공 007편 격추와 냉전 문서",
+        "en": "Korean Air Lines 007: Shootdown, Navigation, and Cold War Records"
+      },
+      "headline": {
+        "ko": "KAL 007편은 왜 소련 영공으로 들어갔고, 이후 공개문서는 무엇을 바꿨나",
+        "en": "Why Did KAL 007 Enter Soviet Airspace, and What Did Later Records Change?"
+      },
+      "hook": {
+        "ko": "1983년 9월 1일 대한항공 007편은 예정항로에서 벗어나 소련 영공으로 진입한 뒤 요격기에 격추돼 탑승자 269명 전원이 사망했다. 냉전 직후 양측은 첩보비행 여부와 경고 과정을 두고 충돌했고, 이후 항공조사와 기밀해제 통신자료가 사건의 경계를 좁혔다.",
+        "en": "On 1 September 1983 Korean Air Lines Flight 007 deviated from its planned route, entered Soviet airspace and was shot down by an interceptor, killing all 269 people aboard. The Cold War immediately produced competing claims about espionage and warning procedures; later aviation investigation and declassified communications narrowed the evidential boundaries."
+      },
+      "aliases": [],
+      "genre": "Maritime / Aviation",
+      "genres": [],
+      "countries": [
+        "South Korea / Soviet Union / United States / Japan"
+      ],
+      "regions": [],
+      "era": "1983",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "kal-007-1983-v01",
+      "heroFile": {
+        "ko": "kal-007-1983__kal-007-1983-v01__ko.png",
+        "en": "kal-007-1983__kal-007-1983-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "kaz-ii",
       "title": {
         "ko": "Kaz II 유령요트",
@@ -8355,6 +8703,64 @@
       "heroAlt": {
         "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
         "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "liber-linteus-zagreb",
+      "title": {
+        "ko": "자그레브 미라 붕대의 에트루리아어 책",
+        "en": "Liber Linteus: The Etruscan Book Reused as Mummy Wrapping"
+      },
+      "headline": {
+        "ko": "미라 붕대가 세계에서 가장 긴 에트루리아어 책으로 바뀐 순간",
+        "en": "How Did Mummy Wrappings Become the Longest Surviving Etruscan Book?"
+      },
+      "hook": {
+        "ko": "19세기 이집트에서 구입한 미라의 붕대에는 낯선 글자가 적혀 있었다. 자그레브 고고학박물관이 보존한 이 직물은 1892년 에트루리아어로 확인됐고, 약 12개 열과 1천 단어가 넘는 가장 긴 에트루리아 문헌으로 남았다. 문맥은 상당히 읽히지만 언어 자체는 완전히 해독되지 않았다.",
+        "en": "A mummy purchased in Egypt in the nineteenth century was wrapped in linen covered with unfamiliar writing. The textile now preserved in Zagreb was recognized as Etruscan in the 1890s and survives as the longest known Etruscan text, with twelve columns and more than a thousand words. Much of its ritual context is understood, but the language remains incompletely known."
+      },
+      "aliases": [],
+      "genre": "Codes / Manuscripts / Undeciphered Texts",
+      "genres": [],
+      "countries": [
+        "Croatia / Egypt / Etruria"
+      ],
+      "regions": [],
+      "era": "ancient / identified 19th century",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "liber-linteus-zagreb-v01",
+      "heroFile": {
+        "ko": "liber-linteus-zagreb__liber-linteus-zagreb-v01__ko.png",
+        "en": "liber-linteus-zagreb__liber-linteus-zagreb-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
       },
       "readMinutes": {
         "ko": 3,
@@ -16481,6 +16887,64 @@
       }
     },
     {
+      "canonicalId": "tanganyika-laughter-1962",
+      "title": {
+        "ko": "1962년 탕가니카 웃음 확산 사건",
+        "en": "The 1962 Tanganyika Laughter Epidemic"
+      },
+      "headline": {
+        "ko": "“웃음 전염병”은 정말 웃음이 퍼진 사건이었나",
+        "en": "Was the Tanganyika “Laughter Epidemic” Really an Epidemic of Laughter?"
+      },
+      "hook": {
+        "ko": "1962년 북서부 탕가니카의 여학교에서 시작된 이상 행동은 다른 학교와 마을로 퍼졌다. 1963년 최초 의학 보고는 웃음뿐 아니라 울음과 초조를 함께 기록했고, 검사 이상과 사망은 없었다. 후대 연구는 대중적으로 알려진 “전염성 웃음” 서사를 수정한다.",
+        "en": "An outbreak of unusual behavior began at a girls’ school in north-west Tanganyika in 1962 and spread to other schools and villages. The first medical report described not only laughter but crying and restlessness, found no abnormal laboratory results, and reported no deaths. Later scholarship corrected the popular story of simply “contagious laughter.”"
+      },
+      "aliases": [],
+      "genre": "Medicine / Psychology / Human Experiment",
+      "genres": [],
+      "countries": [
+        "Tanganyika (Tanzania)"
+      ],
+      "regions": [],
+      "era": "1962–1963",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "tanganyika-laughter-1962-v01",
+      "heroFile": {
+        "ko": "tanganyika-laughter-1962__tanganyika-laughter-1962-v01__ko.png",
+        "en": "tanganyika-laughter-1962__tanganyika-laughter-1962-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "taos-hum",
       "title": {
         "ko": "타오스 험",
@@ -16997,6 +17461,64 @@
       }
     },
     {
+      "canonicalId": "trans-en-provence-1981",
+      "title": {
+        "ko": "1981년 트랑장프로방스 지면 흔적 조사",
+        "en": "Trans-en-Provence 1981: The Official Trace Investigation"
+      },
+      "headline": {
+        "ko": "프랑스 정부 파일에 남은 “착륙 흔적”은 무엇까지 말해 주나",
+        "en": "What Does France’s Official Trans-en-Provence Trace File Actually Establish?"
+      },
+      "hook": {
+        "ko": "1981년 1월 프랑스 남부의 한 목격자는 작은 물체가 가까운 땅에 내려왔다 떠났다고 신고했고 원형 흔적이 조사됐다. GEIPAN은 사건을 D등급 미확인으로 유지하며 경찰진술, 토양·식물 분석, 기상·기술 검토 문서를 공개한다. 흔적은 조사됐지만 물체의 정체는 확정되지 않았다.",
+        "en": "In January 1981 a witness in southern France reported a small object descending to nearby ground and departing, after which a circular trace was investigated. GEIPAN keeps the case in its unexplained Class D category and publishes police statements, soil and plant analyses, weather and technical documents. The trace was studied; the object was not identified."
+      },
+      "aliases": [],
+      "genre": "UFO / UAP / Aerial Anomaly",
+      "genres": [],
+      "countries": [
+        "France"
+      ],
+      "regions": [],
+      "era": "1981 / reviewed 2018",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "trans-en-provence-1981-v01",
+      "heroFile": {
+        "ko": "trans-en-provence-1981__trans-en-provence-1981-v01__ko.png",
+        "en": "trans-en-provence-1981__trans-en-provence-1981-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "troy-schliemann-excavation",
       "title": {
         "ko": "트로이 발굴과 전설의 지층",
@@ -17113,6 +17635,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "turin-shroud-carbon-test",
+      "title": {
+        "ko": "토리노 수의 방사성탄소 연대측정",
+        "en": "The Turin Shroud Radiocarbon Test"
+      },
+      "headline": {
+        "ko": "세 연구실의 탄소연대 결과는 수의 논쟁을 어디까지 닫았나",
+        "en": "What Did the Three-Laboratory Radiocarbon Test Settle About the Turin Shroud?"
+      },
+      "hook": {
+        "ko": "1988년 토리노 수의에서 채취한 작은 시료가 Arizona, Oxford, Zürich 세 연구실로 보내졌다. 1989년 Nature 논문은 결과가 중세 린넨이라는 결론을 강하게 지지한다고 보고했다. 그러나 측정은 천의 연대를 다루며, 이미지가 어떻게 형성됐는지나 종교적 의미 전체를 직접 판정하지 않는다.",
+        "en": "In 1988 small samples from the Turin Shroud were sent to laboratories in Arizona, Oxford and Zurich. A 1989 Nature paper reported that the results strongly supported a medieval date for the linen. The measurements addressed the cloth’s age; they did not directly solve how the image formed or every religious claim associated with it."
+      },
+      "aliases": [],
+      "genre": "Explained Mystery / Debunked Myth",
+      "genres": [],
+      "countries": [
+        "Italy / UK / Switzerland / USA"
+      ],
+      "regions": [],
+      "era": "1988–1989",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "turin-shroud-carbon-test-v01",
+      "heroFile": {
+        "ko": "turin-shroud-carbon-test__turin-shroud-carbon-test-v01__ko.png",
+        "en": "turin-shroud-carbon-test__turin-shroud-carbon-test-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

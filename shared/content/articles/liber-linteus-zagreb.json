@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "liber-linteus-zagreb",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "자그레브 미라 붕대의 에트루리아어 책",
+    "canonicalTitleEn": "Liber Linteus: The Etruscan Book Reused as Mummy Wrapping",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "미라 붕대가 세계에서 가장 긴 에트루리아어 책으로 바뀐 순간",
+      "hook": "19세기 이집트에서 구입한 미라의 붕대에는 낯선 글자가 적혀 있었다. 자그레브 고고학박물관이 보존한 이 직물은 1892년 에트루리아어로 확인됐고, 약 12개 열과 1천 단어가 넘는 가장 긴 에트루리아 문헌으로 남았다. 문맥은 상당히 읽히지만 언어 자체는 완전히 해독되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "이집트에서 산 미라와 낯선 글씨",
+          "headingEn": "A Mummy Purchased in Egypt, Wrapped in Writing",
+          "textKo": "Mihael Barić는 19세기 중반 이집트 여행 중 미라를 구입했고, 이후 미라와 관련 유물을 자그레브의 박물관 전신에 남겼다. 미라를 감싼 린넨 조각에는 검은색과 붉은색 잉크로 정돈된 열의 글자가 적혀 있었지만 처음에는 정체를 알아내지 못했다. 중요한 문헌은 도서관이 아니라 장례용 재사용 직물의 형태로 살아남았다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Mihael Barić acquired a mummy during a nineteenth-century journey to Egypt and later left the mummy and associated objects to the institution that became the Archaeological Museum in Zagreb. The linen strips carried orderly columns of black and red writing, but their identity was initially unclear. A major text had survived not in a library but as reused funerary wrapping. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "IDENTIFICATION",
+          "headingKo": "1890년대, 문자가 에트루리아어로 확인되다",
+          "headingEn": "Recognized as Etruscan in the 1890s",
+          "textKo": "박물관 기록은 여러 해의 오인 끝에 이집트학자 Jakob Krall이 1890년대 초 글자가 에트루리아어임을 확인했다고 설명한다. 그 순간 미라 붕대는 고대 이탈리아의 문자자료로 재분류됐다. 물건의 제작 문화와 마지막 사용 장소가 서로 다르다는 점이 사건의 첫 번째 퍼즐이다. 에트루리아에서 만들어진 책이 어떤 경로로 이집트에 도달했는지는 완전히 복원되지 않았다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "After years of mistaken identifications, Egyptologist Jakob Krall recognized the writing as Etruscan in the early 1890s. The mummy wrapping was suddenly reclassified as a textual artifact from ancient Italy. The culture that created the book and the place where it was ultimately reused were different, and the route by which the linen reached Egypt remains only partly reconstructed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "STRUCTURE",
+          "headingKo": "12개 열과 1천 단어가 넘는 기록",
+          "headingEn": "Twelve Columns and More Than a Thousand Words",
+          "textKo": "자그레브 박물관은 펼친 린넨이 여러 조각으로 보존돼 있고 텍스트가 12개 열에 배치돼 있다고 설명한다. 약 1,130단어 규모로 알려져 있으며, 현재까지 남은 에트루리아어 문헌 가운데 가장 길다. 날짜 표현, 신명, 제물과 의례 관련 어휘가 반복돼 학자들은 일종의 제의 달력 또는 종교 지침서 성격을 추정한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Zagreb museum describes the surviving linen as multiple strips containing text arranged in twelve columns. At roughly 1,130 words it is the longest surviving Etruscan text. Repeated dates, divine names and ritual vocabulary have led scholars to interpret it as a liturgical calendar or set of ritual instructions. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "DECIPHERMENT",
+          "headingKo": "글자를 읽는 것과 언어를 완전히 아는 것은 다르다",
+          "headingEn": "Reading the Script Is Not the Same as Knowing the Language",
+          "textKo": "에트루리아 문자는 알파벳 자체를 소리내어 읽을 수 있는 수준까지 이해돼 있지만, 언어의 어휘와 문법은 제한된 자료 때문에 완전히 해명되지 않았다. 따라서 Liber Linteus의 단어 일부와 반복구조, 의례 맥락은 분석할 수 있어도 모든 문장을 자연스러운 현대어로 확정 번역할 수 있는 상태는 아니다. “미해독 문자”와 “부분적으로 이해되는 언어”를 구분해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Etruscan alphabet can be read phonetically, but the language’s vocabulary and grammar remain incompletely understood because the corpus is limited. Scholars can analyze words, repetitions and ritual context in the Liber Linteus without being able to translate every sentence with confidence. An unreadable script and an only partially understood language are different kinds of problem. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "가장 긴 텍스트가 가장 큰 빈칸을 품고 있다",
+          "headingEn": "The Longest Text Contains the Biggest Gaps",
+          "textKo": "이 사건의 힘은 “정체불명의 글자”에 있지 않다. 오히려 우리는 문자가 에트루리아어라는 사실, 대략의 시대와 제의적 성격을 알고 있지만 긴 문헌 전체의 의미는 아직 닫혀 있다는 데 있다. 게다가 책이 이집트로 이동해 미라 붕대가 된 경로도 불완전하다. 하나의 물건 안에 언어학 미스터리와 이동경로 미스터리가 동시에 남아 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The mystery is not that the letters are unidentified. We know the script is Etruscan, have a broad date, and understand much of the ritual setting, yet the meaning of the long text remains incomplete. At the same time, the route that carried an Etruscan linen book to Egypt and into mummy wrapping is only partly known. Linguistic and object-history mysteries survive in the same artifact. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 자그레브 고고학박물관 소장 Liber Linteus Zagrabiensis는 이집트 미라를 감싸는 데 재사용된 에트루리아어 린넨 문서다. 박물관은 12개 열, 약 1,130단어의 가장 긴 보존 에트루리아어 문헌이며 제의·달력적 성격을 가진다고 설명한다.\n\nNOT ESTABLISHED: 모든 문장을 현대 언어로 확정 번역한 것은 아니며, 원래 제작지와 정확한 이동 경로, 왜 이 에트루리아 책이 이집트 미라 붕대로 재사용됐는지도 완전히 확인되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Liber Linteus Zagrabiensis in the Archaeological Museum in Zagreb is an Etruscan linen text later reused as mummy wrapping in Egypt. The museum describes twelve columns and roughly 1,130 words, making it the longest surviving Etruscan text, probably with ritual and calendrical content.\n\nNOT ESTABLISHED: The text has not been translated completely and unambiguously into a modern language. Its exact place of manufacture, full route to Egypt, and the circumstances by which an Etruscan book became mummy wrapping are not fully established."
+        }
+      ],
+      "factBoundary": {
+        "established": "자그레브 고고학박물관 소장 Liber Linteus Zagrabiensis는 이집트 미라를 감싸는 데 재사용된 에트루리아어 린넨 문서다. 박물관은 12개 열, 약 1,130단어의 가장 긴 보존 에트루리아어 문헌이며 제의·달력적 성격을 가진다고 설명한다.",
+        "notEstablished": "모든 문장을 현대 언어로 확정 번역한 것은 아니며, 원래 제작지와 정확한 이동 경로, 왜 이 에트루리아 책이 이집트 미라 붕대로 재사용됐는지도 완전히 확인되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "How Did Mummy Wrappings Become the Longest Surviving Etruscan Book?",
+      "hook": "A mummy purchased in Egypt in the nineteenth century was wrapped in linen covered with unfamiliar writing. The textile now preserved in Zagreb was recognized as Etruscan in the 1890s and survives as the longest known Etruscan text, with twelve columns and more than a thousand words. Much of its ritual context is understood, but the language remains incompletely known.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "이집트에서 산 미라와 낯선 글씨",
+          "headingEn": "A Mummy Purchased in Egypt, Wrapped in Writing",
+          "textKo": "Mihael Barić는 19세기 중반 이집트 여행 중 미라를 구입했고, 이후 미라와 관련 유물을 자그레브의 박물관 전신에 남겼다. 미라를 감싼 린넨 조각에는 검은색과 붉은색 잉크로 정돈된 열의 글자가 적혀 있었지만 처음에는 정체를 알아내지 못했다. 중요한 문헌은 도서관이 아니라 장례용 재사용 직물의 형태로 살아남았다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Mihael Barić acquired a mummy during a nineteenth-century journey to Egypt and later left the mummy and associated objects to the institution that became the Archaeological Museum in Zagreb. The linen strips carried orderly columns of black and red writing, but their identity was initially unclear. A major text had survived not in a library but as reused funerary wrapping. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "IDENTIFICATION",
+          "headingKo": "1890년대, 문자가 에트루리아어로 확인되다",
+          "headingEn": "Recognized as Etruscan in the 1890s",
+          "textKo": "박물관 기록은 여러 해의 오인 끝에 이집트학자 Jakob Krall이 1890년대 초 글자가 에트루리아어임을 확인했다고 설명한다. 그 순간 미라 붕대는 고대 이탈리아의 문자자료로 재분류됐다. 물건의 제작 문화와 마지막 사용 장소가 서로 다르다는 점이 사건의 첫 번째 퍼즐이다. 에트루리아에서 만들어진 책이 어떤 경로로 이집트에 도달했는지는 완전히 복원되지 않았다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "After years of mistaken identifications, Egyptologist Jakob Krall recognized the writing as Etruscan in the early 1890s. The mummy wrapping was suddenly reclassified as a textual artifact from ancient Italy. The culture that created the book and the place where it was ultimately reused were different, and the route by which the linen reached Egypt remains only partly reconstructed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "STRUCTURE",
+          "headingKo": "12개 열과 1천 단어가 넘는 기록",
+          "headingEn": "Twelve Columns and More Than a Thousand Words",
+          "textKo": "자그레브 박물관은 펼친 린넨이 여러 조각으로 보존돼 있고 텍스트가 12개 열에 배치돼 있다고 설명한다. 약 1,130단어 규모로 알려져 있으며, 현재까지 남은 에트루리아어 문헌 가운데 가장 길다. 날짜 표현, 신명, 제물과 의례 관련 어휘가 반복돼 학자들은 일종의 제의 달력 또는 종교 지침서 성격을 추정한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Zagreb museum describes the surviving linen as multiple strips containing text arranged in twelve columns. At roughly 1,130 words it is the longest surviving Etruscan text. Repeated dates, divine names and ritual vocabulary have led scholars to interpret it as a liturgical calendar or set of ritual instructions. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "DECIPHERMENT",
+          "headingKo": "글자를 읽는 것과 언어를 완전히 아는 것은 다르다",
+          "headingEn": "Reading the Script Is Not the Same as Knowing the Language",
+          "textKo": "에트루리아 문자는 알파벳 자체를 소리내어 읽을 수 있는 수준까지 이해돼 있지만, 언어의 어휘와 문법은 제한된 자료 때문에 완전히 해명되지 않았다. 따라서 Liber Linteus의 단어 일부와 반복구조, 의례 맥락은 분석할 수 있어도 모든 문장을 자연스러운 현대어로 확정 번역할 수 있는 상태는 아니다. “미해독 문자”와 “부분적으로 이해되는 언어”를 구분해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Etruscan alphabet can be read phonetically, but the language’s vocabulary and grammar remain incompletely understood because the corpus is limited. Scholars can analyze words, repetitions and ritual context in the Liber Linteus without being able to translate every sentence with confidence. An unreadable script and an only partially understood language are different kinds of problem. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "가장 긴 텍스트가 가장 큰 빈칸을 품고 있다",
+          "headingEn": "The Longest Text Contains the Biggest Gaps",
+          "textKo": "이 사건의 힘은 “정체불명의 글자”에 있지 않다. 오히려 우리는 문자가 에트루리아어라는 사실, 대략의 시대와 제의적 성격을 알고 있지만 긴 문헌 전체의 의미는 아직 닫혀 있다는 데 있다. 게다가 책이 이집트로 이동해 미라 붕대가 된 경로도 불완전하다. 하나의 물건 안에 언어학 미스터리와 이동경로 미스터리가 동시에 남아 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The mystery is not that the letters are unidentified. We know the script is Etruscan, have a broad date, and understand much of the ritual setting, yet the meaning of the long text remains incomplete. At the same time, the route that carried an Etruscan linen book to Egypt and into mummy wrapping is only partly known. Linguistic and object-history mysteries survive in the same artifact. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 자그레브 고고학박물관 소장 Liber Linteus Zagrabiensis는 이집트 미라를 감싸는 데 재사용된 에트루리아어 린넨 문서다. 박물관은 12개 열, 약 1,130단어의 가장 긴 보존 에트루리아어 문헌이며 제의·달력적 성격을 가진다고 설명한다.\n\nNOT ESTABLISHED: 모든 문장을 현대 언어로 확정 번역한 것은 아니며, 원래 제작지와 정확한 이동 경로, 왜 이 에트루리아 책이 이집트 미라 붕대로 재사용됐는지도 완전히 확인되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Liber Linteus Zagrabiensis in the Archaeological Museum in Zagreb is an Etruscan linen text later reused as mummy wrapping in Egypt. The museum describes twelve columns and roughly 1,130 words, making it the longest surviving Etruscan text, probably with ritual and calendrical content.\n\nNOT ESTABLISHED: The text has not been translated completely and unambiguously into a modern language. Its exact place of manufacture, full route to Egypt, and the circumstances by which an Etruscan book became mummy wrapping are not fully established."
+        }
+      ],
+      "factBoundary": {
+        "established": "The Liber Linteus Zagrabiensis in the Archaeological Museum in Zagreb is an Etruscan linen text later reused as mummy wrapping in Egypt. The museum describes twelve columns and roughly 1,130 words, making it the longest surviving Etruscan text, probably with ritual and calendrical content.",
+        "notEstablished": "The text has not been translated completely and unambiguously into a modern language. Its exact place of manufacture, full route to Egypt, and the circumstances by which an Etruscan book became mummy wrapping are not fully established."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LIBER_LINTEUS_ZAGREB-C1",
+      "status": "CONFIRMED",
+      "statementKo": "자그레브 고고학박물관 소장 Liber Linteus Zagrabiensis는 이집트 미라를 감싸는 데 재사용된 에트루리아어 린넨 문서다. 박물관은 12개 열, 약 1,130단어의 가장 긴 보존 에트루리아어 문헌이며 제의·달력적 성격을 가진다고 설명한다.",
+      "statementEn": "The Liber Linteus Zagrabiensis in the Archaeological Museum in Zagreb is an Etruscan linen text later reused as mummy wrapping in Egypt. The museum describes twelve columns and roughly 1,130 words, making it the longest surviving Etruscan text, probably with ritual and calendrical content.",
+      "sourceRefs": [
+        "AMZ_OBJECT",
+        "FFZG_LIBER",
+        "CRO_ENC"
+      ]
+    },
+    {
+      "claimId": "LIBER_LINTEUS_ZAGREB-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 문장을 현대 언어로 확정 번역한 것은 아니며, 원래 제작지와 정확한 이동 경로, 왜 이 에트루리아 책이 이집트 미라 붕대로 재사용됐는지도 완전히 확인되지 않는다.",
+      "statementEn": "The text has not been translated completely and unambiguously into a modern language. Its exact place of manufacture, full route to Egypt, and the circumstances by which an Etruscan book became mummy wrapping are not fully established.",
+      "sourceRefs": [
+        "AMZ_OBJECT",
+        "FFZG_LIBER",
+        "CRO_ENC"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "AMZ_OBJECT",
+      "title": "Zagrebačka lanena knjiga — object catalogue",
+      "publisher": "Archaeological Museum in Zagreb",
+      "url": "https://katalog.amz.hr/en/Item/2525/3",
+      "sourceType": "MUSEUM_COLLECTION_RECORD"
+    },
+    {
+      "sourceId": "FFZG_LIBER",
+      "title": "Liber Linteus and the Zagreb Mummy",
+      "publisher": "University of Zagreb Faculty of Humanities and Social Sciences Press",
+      "url": "https://openbooks.ffzg.unizg.hr/index.php/FFpress/catalog/download/32/41/1572?inline=1",
+      "sourceType": "ACADEMIC_MUSEUM_STUDY"
+    },
+    {
+      "sourceId": "CRO_ENC",
+      "title": "Liber linteus Zagrabiensis",
+      "publisher": "Croatian Encyclopedia",
+      "url": "https://www.enciklopedija.hr/clanak/liber-linteus-zagrabiensis",
+      "sourceType": "NATIONAL_REFERENCE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "liber-linteus-zagreb-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "AMZ_OBJECT",
+        "FFZG_LIBER",
+        "CRO_ENC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "liber-linteus-zagreb__liber-linteus-zagreb-v01__ko.png",
+          "sha256": "fcdc7e6a87a2c7d3b272063872140c848f9bd6eb3f9042d9c6c5889d090392f4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "liber-linteus-zagreb__liber-linteus-zagreb-v01__ko.png"
+        },
+        "en": {
+          "file": "liber-linteus-zagreb__liber-linteus-zagreb-v01__en.png",
+          "sha256": "af23a7c3abec4f75ce30026a7f49eee98116353b4d97f1490852ec3583889674",
+          "width": 1600,
+          "height": 900,
+          "fileName": "liber-linteus-zagreb__liber-linteus-zagreb-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "liber-linteus-zagreb-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "AMZ_OBJECT",
+        "FFZG_LIBER",
+        "CRO_ENC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "liber-linteus-zagreb__liber-linteus-zagreb-v02__ko.png",
+          "sha256": "bbfc5e50b35e4aa01c81283d2e25969f4d50e403b53116aade0fa26865af2b23",
+          "width": 1600,
+          "height": 900,
+          "fileName": "liber-linteus-zagreb__liber-linteus-zagreb-v02__ko.png"
+        },
+        "en": {
+          "file": "liber-linteus-zagreb__liber-linteus-zagreb-v02__en.png",
+          "sha256": "4f67f2b20bc9afeb63c5eed150649cb061abb6d24c0ee31a2e3f435219ee74a8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "liber-linteus-zagreb__liber-linteus-zagreb-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "liber-linteus-zagreb-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "AMZ_OBJECT",
+        "FFZG_LIBER",
+        "CRO_ENC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "liber-linteus-zagreb__liber-linteus-zagreb-v03__ko.png",
+          "sha256": "14cc60cce2eeec6179bde880e3295e8680954d9ceda8e718f8ce694e4f015993",
+          "width": 1600,
+          "height": 900,
+          "fileName": "liber-linteus-zagreb__liber-linteus-zagreb-v03__ko.png"
+        },
+        "en": {
+          "file": "liber-linteus-zagreb__liber-linteus-zagreb-v03__en.png",
+          "sha256": "c629997bfa2cdc8e215909dd325ab6b05a4b5aa03588a5b1129a108eb8ea1aec",
+          "width": 1600,
+          "height": 900,
+          "fileName": "liber-linteus-zagreb__liber-linteus-zagreb-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Croatia / Egypt / Etruria",
+    "era": "ancient / identified 19th century",
+    "genre": "Codes / Manuscripts / Undeciphered Texts",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "resolution": "unknown",
+    "countries": [
+      "Croatia / Egypt / Etruria"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1548,
+    "enBodyWords": 481
+  }
+}

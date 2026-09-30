@@ -1,0 +1,327 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "amber-room-loss",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "사라진 호박방의 마지막 행방",
+    "canonicalTitleEn": "The Lost Amber Room: Looting, Königsberg, and the Missing Panels",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "27개 상자로 옮겨진 호박방은 1945년 어디에서 사라졌나",
+      "hook": "독일군은 1941년 Catherine Palace의 호박 패널을 해체해 Königsberg로 옮겨 전시했다. 전쟁 말기 패널은 다시 상자에 포장됐고 그 뒤 완전한 행방은 끊겼다. 원본 일부 요소는 후대에 회수됐지만 방 전체는 발견되지 않았고, 오늘의 화려한 호박방은 24년에 걸친 재현이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1941년, 궁전에서 뜯겨 나간 방",
+          "headingEn": "A Room Dismantled from a Palace in 1941",
+          "textKo": "독일군이 Tsarskoye Selo를 점령하자 Catherine Palace의 호박 장식은 약탈 대상이 됐다. 소련 측은 패널이 오래돼 매우 부서지기 쉬워 완전 해체·대피를 포기하고 현장에서 가리는 방법을 택했지만, 독일 전문팀은 패널과 장식을 떼어 상자에 넣어 Königsberg로 보냈다. 하나의 “방”이 이동 가능한 수십 개 부품 묶음으로 바뀐 순간이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "When German forces occupied Tsarskoye Selo, the Amber Room became a target for seizure. Soviet curators had judged the brittle panels too fragile for safe evacuation and attempted to conceal them in place, but German specialists dismantled the decoration, packed it and shipped it to Königsberg. A complete room was transformed into a transportable set of components. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "KONIGSBERG",
+          "headingKo": "마지막으로 확실히 전시된 장소",
+          "headingEn": "The Last Secure Display Location",
+          "textKo": "Königsberg 성의 박물관에서는 반출된 호박 패널이 다시 설치돼 공개됐다. 박물관 기록과 당시 관장 Alfred Rohde의 문서 때문에 이 시점까지의 이동경로는 비교적 잘 추적된다. 1944년 전황이 악화되자 패널은 다시 해체돼 상자에 포장됐다고 전한다. 문제는 바로 그 다음 단계다. 어느 창고나 열차, 지하공간으로 이동했는지 신뢰할 수 있는 연속 기록이 끊긴다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The looted panels were reinstalled and displayed in the museum at Königsberg Castle, giving this phase of the trail relatively strong documentation. As the war situation deteriorated in 1944, records indicate that the panels were dismantled and crated again. The evidence becomes discontinuous after that point: no reliable chain shows which warehouse, train or underground site received the complete room. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "DESTRUCTION",
+          "headingKo": "폭격과 전투 속 파괴설",
+          "headingEn": "The Destruction Hypothesis",
+          "textKo": "연합군 폭격과 1945년 소련군의 Königsberg 전투로 성은 심하게 파괴됐다. 그래서 많은 연구자는 상자에 든 호박 패널이 성이나 인근 저장공간에서 불타거나 파괴됐을 가능성을 가장 현실적인 설명으로 본다. 그러나 전쟁 직후 조사에서도 결정적인 잔해가 방 전체와 연결되지는 않았고, “언제 어디서 완전히 소실됐다”는 단일 문서도 남아 있지 않다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Allied bombing and the 1945 battle for Königsberg devastated the castle, making destruction in the castle or nearby storage one of the most plausible explanations. Yet postwar searches did not recover decisive remains of the complete room, and no single document establishes exactly when and where all panels were destroyed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "RECOVERY",
+          "headingKo": "일부 원본 조각은 실제로 돌아왔다",
+          "headingEn": "Some Original Pieces Really Did Reappear",
+          "textKo": "전체 방이 사라졌다고 해서 모든 구성품이 영원히 사라진 것은 아니다. 1990년대 독일에서 원래의 Florentine mosaic 가운데 하나와 가구가 발견돼 러시아로 반환됐다. 이런 회수는 전쟁 중 일부 부품이 전체 운송경로에서 분리됐음을 보여준다. 동시에 “한 조각이 나타났으니 나머지도 비밀창고에 있다”는 추론은 성립하지 않는다. 부분 회수와 전체 생존은 별개의 주장이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The disappearance of the room did not mean every component vanished permanently. In the 1990s an original Florentine mosaic and a piece of furniture resurfaced in Germany and were returned. These recoveries show that some objects became separated from the main transport chain, but they do not imply that all missing panels survive together in a hidden cache. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "오늘의 호박방은 원본이 아니라 증거기반 재현이다",
+          "headingEn": "Today’s Amber Room Is a Reconstruction",
+          "textKo": "1979년 시작된 복원사업은 전쟁 전 흑백사진, 도면, 남은 원본 조각과 공예기술을 바탕으로 24년간 진행돼 2003년 공개됐다. 현재 Catherine Palace에서 보는 방은 실종된 원본의 발견물이 아니라 재현물이다. 이 구분을 명확히 하면 “호박방이 이미 발견됐다”는 혼동을 막으면서도 원본 패널의 마지막 행방이라는 미스터리를 그대로 남길 수 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The reconstruction launched in 1979 used prewar photographs, plans, surviving pieces and recreated craftsmanship, opening in 2003 after twenty-four years. The room seen today at Catherine Palace is not the recovered original. Keeping that distinction clear prevents the reconstruction from being mistaken for a discovery while preserving the real mystery: the final fate of the missing panels. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1941년 독일 점령군은 Catherine Palace에서 호박 패널을 해체해 Königsberg로 반출했고, 현지 성 박물관에 재설치했다. 전쟁 말기 다시 해체된 뒤 원본 패널의 행방은 확인되지 않았으며, 소련·러시아는 1979년부터 복원사업을 진행해 2003년 재현 호박방을 공개했다.\n\nNOT ESTABLISHED: 원본 호박방이 특정 광산·벙커·선박에 현재도 숨겨져 있다는 각종 보물찾기 주장은 입증되지 않았다. Königsberg 성 폭격·화재에서 완전히 파괴됐다는 가설도 유력하지만 최종 물증으로 확정되지는 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: In 1941 German occupation forces dismantled the Amber Room at Catherine Palace and transported the panels to Königsberg, where they were reinstalled in the castle museum. They were dismantled again near the end of the war and their subsequent fate is unconfirmed. A reconstruction begun in 1979 opened in 2003.\n\nNOT ESTABLISHED: Treasure-hunt claims that the original room survives in a particular mine, bunker or ship have not been demonstrated. Destruction during bombing and fighting at Königsberg is a prominent hypothesis, but the final fate of the complete panels has not been proven by decisive physical evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "1941년 독일 점령군은 Catherine Palace에서 호박 패널을 해체해 Königsberg로 반출했고, 현지 성 박물관에 재설치했다. 전쟁 말기 다시 해체된 뒤 원본 패널의 행방은 확인되지 않았으며, 소련·러시아는 1979년부터 복원사업을 진행해 2003년 재현 호박방을 공개했다.",
+        "notEstablished": "원본 호박방이 특정 광산·벙커·선박에 현재도 숨겨져 있다는 각종 보물찾기 주장은 입증되지 않았다. Königsberg 성 폭격·화재에서 완전히 파괴됐다는 가설도 유력하지만 최종 물증으로 확정되지는 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "Where Did the Amber Room Disappear After Königsberg?",
+      "hook": "German forces dismantled the Amber Room in 1941 and shipped its panels from Catherine Palace to Königsberg, where they were displayed. Near the end of the war the panels were crated again, after which their complete trail disappears. A few original elements later resurfaced, but the room itself has never been recovered; today’s Amber Room is a decades-long reconstruction.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1941년, 궁전에서 뜯겨 나간 방",
+          "headingEn": "A Room Dismantled from a Palace in 1941",
+          "textKo": "독일군이 Tsarskoye Selo를 점령하자 Catherine Palace의 호박 장식은 약탈 대상이 됐다. 소련 측은 패널이 오래돼 매우 부서지기 쉬워 완전 해체·대피를 포기하고 현장에서 가리는 방법을 택했지만, 독일 전문팀은 패널과 장식을 떼어 상자에 넣어 Königsberg로 보냈다. 하나의 “방”이 이동 가능한 수십 개 부품 묶음으로 바뀐 순간이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "When German forces occupied Tsarskoye Selo, the Amber Room became a target for seizure. Soviet curators had judged the brittle panels too fragile for safe evacuation and attempted to conceal them in place, but German specialists dismantled the decoration, packed it and shipped it to Königsberg. A complete room was transformed into a transportable set of components. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "KONIGSBERG",
+          "headingKo": "마지막으로 확실히 전시된 장소",
+          "headingEn": "The Last Secure Display Location",
+          "textKo": "Königsberg 성의 박물관에서는 반출된 호박 패널이 다시 설치돼 공개됐다. 박물관 기록과 당시 관장 Alfred Rohde의 문서 때문에 이 시점까지의 이동경로는 비교적 잘 추적된다. 1944년 전황이 악화되자 패널은 다시 해체돼 상자에 포장됐다고 전한다. 문제는 바로 그 다음 단계다. 어느 창고나 열차, 지하공간으로 이동했는지 신뢰할 수 있는 연속 기록이 끊긴다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The looted panels were reinstalled and displayed in the museum at Königsberg Castle, giving this phase of the trail relatively strong documentation. As the war situation deteriorated in 1944, records indicate that the panels were dismantled and crated again. The evidence becomes discontinuous after that point: no reliable chain shows which warehouse, train or underground site received the complete room. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "DESTRUCTION",
+          "headingKo": "폭격과 전투 속 파괴설",
+          "headingEn": "The Destruction Hypothesis",
+          "textKo": "연합군 폭격과 1945년 소련군의 Königsberg 전투로 성은 심하게 파괴됐다. 그래서 많은 연구자는 상자에 든 호박 패널이 성이나 인근 저장공간에서 불타거나 파괴됐을 가능성을 가장 현실적인 설명으로 본다. 그러나 전쟁 직후 조사에서도 결정적인 잔해가 방 전체와 연결되지는 않았고, “언제 어디서 완전히 소실됐다”는 단일 문서도 남아 있지 않다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Allied bombing and the 1945 battle for Königsberg devastated the castle, making destruction in the castle or nearby storage one of the most plausible explanations. Yet postwar searches did not recover decisive remains of the complete room, and no single document establishes exactly when and where all panels were destroyed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "RECOVERY",
+          "headingKo": "일부 원본 조각은 실제로 돌아왔다",
+          "headingEn": "Some Original Pieces Really Did Reappear",
+          "textKo": "전체 방이 사라졌다고 해서 모든 구성품이 영원히 사라진 것은 아니다. 1990년대 독일에서 원래의 Florentine mosaic 가운데 하나와 가구가 발견돼 러시아로 반환됐다. 이런 회수는 전쟁 중 일부 부품이 전체 운송경로에서 분리됐음을 보여준다. 동시에 “한 조각이 나타났으니 나머지도 비밀창고에 있다”는 추론은 성립하지 않는다. 부분 회수와 전체 생존은 별개의 주장이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The disappearance of the room did not mean every component vanished permanently. In the 1990s an original Florentine mosaic and a piece of furniture resurfaced in Germany and were returned. These recoveries show that some objects became separated from the main transport chain, but they do not imply that all missing panels survive together in a hidden cache. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "오늘의 호박방은 원본이 아니라 증거기반 재현이다",
+          "headingEn": "Today’s Amber Room Is a Reconstruction",
+          "textKo": "1979년 시작된 복원사업은 전쟁 전 흑백사진, 도면, 남은 원본 조각과 공예기술을 바탕으로 24년간 진행돼 2003년 공개됐다. 현재 Catherine Palace에서 보는 방은 실종된 원본의 발견물이 아니라 재현물이다. 이 구분을 명확히 하면 “호박방이 이미 발견됐다”는 혼동을 막으면서도 원본 패널의 마지막 행방이라는 미스터리를 그대로 남길 수 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The reconstruction launched in 1979 used prewar photographs, plans, surviving pieces and recreated craftsmanship, opening in 2003 after twenty-four years. The room seen today at Catherine Palace is not the recovered original. Keeping that distinction clear prevents the reconstruction from being mistaken for a discovery while preserving the real mystery: the final fate of the missing panels. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1941년 독일 점령군은 Catherine Palace에서 호박 패널을 해체해 Königsberg로 반출했고, 현지 성 박물관에 재설치했다. 전쟁 말기 다시 해체된 뒤 원본 패널의 행방은 확인되지 않았으며, 소련·러시아는 1979년부터 복원사업을 진행해 2003년 재현 호박방을 공개했다.\n\nNOT ESTABLISHED: 원본 호박방이 특정 광산·벙커·선박에 현재도 숨겨져 있다는 각종 보물찾기 주장은 입증되지 않았다. Königsberg 성 폭격·화재에서 완전히 파괴됐다는 가설도 유력하지만 최종 물증으로 확정되지는 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: In 1941 German occupation forces dismantled the Amber Room at Catherine Palace and transported the panels to Königsberg, where they were reinstalled in the castle museum. They were dismantled again near the end of the war and their subsequent fate is unconfirmed. A reconstruction begun in 1979 opened in 2003.\n\nNOT ESTABLISHED: Treasure-hunt claims that the original room survives in a particular mine, bunker or ship have not been demonstrated. Destruction during bombing and fighting at Königsberg is a prominent hypothesis, but the final fate of the complete panels has not been proven by decisive physical evidence."
+        }
+      ],
+      "factBoundary": {
+        "established": "In 1941 German occupation forces dismantled the Amber Room at Catherine Palace and transported the panels to Königsberg, where they were reinstalled in the castle museum. They were dismantled again near the end of the war and their subsequent fate is unconfirmed. A reconstruction begun in 1979 opened in 2003.",
+        "notEstablished": "Treasure-hunt claims that the original room survives in a particular mine, bunker or ship have not been demonstrated. Destruction during bombing and fighting at Königsberg is a prominent hypothesis, but the final fate of the complete panels has not been proven by decisive physical evidence."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "AMBER_ROOM_LOSS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1941년 독일 점령군은 Catherine Palace에서 호박 패널을 해체해 Königsberg로 반출했고, 현지 성 박물관에 재설치했다. 전쟁 말기 다시 해체된 뒤 원본 패널의 행방은 확인되지 않았으며, 소련·러시아는 1979년부터 복원사업을 진행해 2003년 재현 호박방을 공개했다.",
+      "statementEn": "In 1941 German occupation forces dismantled the Amber Room at Catherine Palace and transported the panels to Königsberg, where they were reinstalled in the castle museum. They were dismantled again near the end of the war and their subsequent fate is unconfirmed. A reconstruction begun in 1979 opened in 2003.",
+      "sourceRefs": [
+        "CATHERINE_PALACE",
+        "GIA_AMBER"
+      ]
+    },
+    {
+      "claimId": "AMBER_ROOM_LOSS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "원본 호박방이 특정 광산·벙커·선박에 현재도 숨겨져 있다는 각종 보물찾기 주장은 입증되지 않았다. Königsberg 성 폭격·화재에서 완전히 파괴됐다는 가설도 유력하지만 최종 물증으로 확정되지는 않았다.",
+      "statementEn": "Treasure-hunt claims that the original room survives in a particular mine, bunker or ship have not been demonstrated. Destruction during bombing and fighting at Königsberg is a prominent hypothesis, but the final fate of the complete panels has not been proven by decisive physical evidence.",
+      "sourceRefs": [
+        "CATHERINE_PALACE",
+        "GIA_AMBER"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "CATHERINE_PALACE",
+      "title": "The Amber Room — history and reconstruction",
+      "publisher": "Tsarskoye Selo State Museum-Preserve",
+      "url": "https://eng.tzar.ctorstudio.com/museums/palaces/c_atherine/amber_room",
+      "sourceType": "STATE_MUSEUM_HISTORY"
+    },
+    {
+      "sourceId": "GIA_AMBER",
+      "title": "The History and Reconstruction of the Amber Room",
+      "publisher": "GIA Gems & Gemology",
+      "url": "https://www.gia.edu/gems-gemology/winter-2018-history-and-reconstruction-of-amber-room",
+      "sourceType": "ACADEMIC_TECHNICAL_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "amber-room-loss-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "CATHERINE_PALACE",
+        "GIA_AMBER"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "amber-room-loss__amber-room-loss-v01__ko.png",
+          "sha256": "843b87510669466d3e0559ed126ebd8ac38942b449adbd4d1ed66f35cae3cdb1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "amber-room-loss__amber-room-loss-v01__ko.png"
+        },
+        "en": {
+          "file": "amber-room-loss__amber-room-loss-v01__en.png",
+          "sha256": "69a4476234f029deb1c3918057e0a0f7163549063a8c5ef374ef01dd4be9cedc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "amber-room-loss__amber-room-loss-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "amber-room-loss-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "CATHERINE_PALACE",
+        "GIA_AMBER"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "amber-room-loss__amber-room-loss-v02__ko.png",
+          "sha256": "c8f26e7a2f89fbb2f25896c59e175e14f8fbdcca10cfca27780653b3e7041266",
+          "width": 1600,
+          "height": 900,
+          "fileName": "amber-room-loss__amber-room-loss-v02__ko.png"
+        },
+        "en": {
+          "file": "amber-room-loss__amber-room-loss-v02__en.png",
+          "sha256": "4e1ccd9828bb0d49d14c62b11014c1c0a611f68f084d7cbbcb02957d3955b820",
+          "width": 1600,
+          "height": 900,
+          "fileName": "amber-room-loss__amber-room-loss-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "amber-room-loss-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "CATHERINE_PALACE",
+        "GIA_AMBER"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "amber-room-loss__amber-room-loss-v03__ko.png",
+          "sha256": "0c9e053a6c5b338232ff7f5882f59a29ca0f1aafe40d923d2483bc13d39099b0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "amber-room-loss__amber-room-loss-v03__ko.png"
+        },
+        "en": {
+          "file": "amber-room-loss__amber-room-loss-v03__en.png",
+          "sha256": "64da114782bf6683a240eb432cf52d47be87b94bddba99c7455499a0d1d48822",
+          "width": 1600,
+          "height": 900,
+          "fileName": "amber-room-loss__amber-room-loss-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Russia / Germany",
+    "era": "1941–present",
+    "genre": "Historical Enigma / Lost Place / Identity",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "resolution": "unknown",
+    "countries": [
+      "Russia / Germany"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1661,
+    "enBodyWords": 487
+  }
+}

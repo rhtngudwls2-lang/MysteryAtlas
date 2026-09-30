@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "collata-khipu-letters",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "콜라타 키푸 두 통의 해독 단서",
+    "canonicalTitleEn": "The Collata Khipu Letters and a Possible Phonetic Code",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "매듭과 털실이 “편지”였다면, 우리는 얼마나 읽어냈나",
+      "hook": "페루 산후안 데 콜라타 공동체가 보존해 온 두 키푸는 단순 회계표가 아니라 전쟁과 관련된 서신으로 전승된다. 2017년 연구는 95개 기호와 색·섬유·꼬임 조합, 그리고 두 계보명으로 보이는 음가 단서를 제시했다. 그러나 전체 문장은 아직 읽히지 않는다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "마을이 지켜 온 두 개의 매듭 서신",
+          "headingEn": "Two Corded Objects Kept as Letters",
+          "textKo": "산후안 데 콜라타의 공동체 당국은 두 개의 특이한 키푸를 보존해 왔고, 지역 전승에서는 이를 18세기 식민지 통치에 맞선 시기의 서신으로 설명한다. 2015년 현장조사를 허가받은 Hyland는 일반적인 회계 키푸와 달리 이 두 물건에 매듭보다 색, 섬유종류, 꼬임 방향의 복합적 차이가 두드러진다는 점에 주목했다. 물건의 “용도에 대한 기억” 자체가 해독 가설의 중요한 출발점이었다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Community authorities in San Juan de Collata preserve two unusual khipus remembered locally as letters from an eighteenth-century anti-colonial context. When Hyland was allowed to examine them in 2015, she found that unlike ordinary accounting khipus, they emphasized combinations of color, fiber type and ply direction. The community’s memory of the objects as correspondence became an important starting point for testing a writing hypothesis. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "SYMBOLS",
+          "headingKo": "95개 기호는 단순 수치표보다 복잡하다",
+          "headingEn": "Ninety-Five Signs Exceed a Simple Numerical Table",
+          "textKo": "연구는 두 키푸에서 95개의 서로 다른 기호 조합을 식별했다. 이는 지역 회계 키푸의 단순 수치기록보다 훨씬 다양한 레퍼토리이며 로고음절 문자체계가 가질 수 있는 규모와 비교됐다. 다만 “기호가 많다”는 사실만으로 곧바로 문자임이 증명되는 것은 아니다. 핵심은 기호 다양성에 더해 반복·위치·공동체 전승이 서로 맞물린다는 점이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The study identified 95 distinct sign combinations across the two khipus, far more varied than a simple regional accounting record and within the range expected for some logosyllabic systems. Symbol count alone does not prove writing. The stronger argument comes from the combination of diversity, position, repetition and local knowledge about the objects’ communicative function. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "PHONETIC",
+          "headingKo": "두 ayllu 이름이 음가 단서가 됐다",
+          "headingEn": "Two Ayllu Names Became Phonetic Clues",
+          "textKo": "각 키푸 끝부분의 세 줄 묶음은 색과 동물섬유, 꼬임 방향이 서로 달랐고, Hyland는 이것이 해당 마을의 두 계보 집단 이름을 나타낸다고 제안했다. 예를 들어 특정 동물섬유의 명칭과 집단명의 소리가 연결될 수 있다는 것이다. 이 해석은 키푸가 단지 수량을 기록한 것이 아니라 음성 요소를 담을 수 있다는 중요한 가능성을 열었다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Three-cord sequences at the ends of the khipus differed in color, animal fiber and ply direction. Hyland proposed that they encode the names of two local lineage groups, with fiber terms contributing phonetic values. If correct, this would mean the cords could carry sound-based information rather than only numerical values. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "LIMIT",
+          "headingKo": "부분 해독과 완전 해독은 다르다",
+          "headingEn": "Partial Reading Is Not Full Decipherment",
+          "textKo": "“잉카 문자가 해독됐다”는 표현은 현재 증거보다 앞서 나간다. 두 계보명에 대한 읽기와 구조적 규칙은 강한 단서지만, 키푸 전체 내용을 문장 단위로 번역한 것은 아니다. 더구나 콜라타 키푸는 18세기 식민기 자료로, 잉카 제국기의 모든 키푸와 시간적으로도 떨어져 있다. 발견의 중요성을 유지하려면 바로 이 범위를 명시해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Claims that “Inka writing has been deciphered” go beyond the evidence. Proposed readings of lineage names and structural rules are important clues, but no sentence-by-sentence translation of the entire objects exists. The Collata khipus are also eighteenth-century colonial-period artifacts, chronologically separated from many Inka imperial examples. Their significance depends on preserving that scope. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "읽을 수 있을지도 모르는 미해독 기록",
+          "headingEn": "An Undeciphered Record That May Be Readable",
+          "textKo": "콜라타 키푸는 미스터리 아틀라스의 전형적인 “코드와 증거” 사건이다. 물건은 실재하고 출처도 분명하며, 완전한 무지 상태도 아니다. 연구자는 일부 구조와 가능한 음가를 제시했지만 전체 텍스트는 여전히 닫혀 있다. 확정된 부분과 아직 열린 부분이 한 물건 안에서 공존하기 때문에, 새로운 비교자료가 나오면 해독 수준이 실제로 달라질 수 있는 살아 있는 미스터리다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Collata khipus are a classic Mystery Atlas code problem: the objects are real and well contextualized, and they are not wholly unreadable. Researchers have proposed structural and phonetic clues, yet the full texts remain closed. Established evidence and open interpretation coexist in the same artifacts, meaning that new comparative material could genuinely change the level of decipherment. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Sabine Hyland는 2015년 콜라타에서 두 키푸를 조사했고 2017년 Current Anthropology 논문에서 이들이 서신으로 전승되며 95개의 구별되는 기호를 사용한다고 보고했다. 끝부분의 색·동물섬유·꼬임 조합은 특정 ayllu 이름을 음성적으로 나타낼 가능성이 제시됐다.\n\nNOT ESTABLISHED: 두 키푸 전체가 완전히 해독된 것은 아니며, 95개 기호 모두의 음가나 의미가 확정된 것도 아니다. 콜라타 사례를 근거로 모든 잉카시대 키푸가 동일한 로고음절 문자체계였다고 일반화하는 것도 아직 성급하다.",
+          "textEn": "CONFIRMED / SUPPORTED: Sabine Hyland examined two Collata khipus in 2015 and reported in Current Anthropology in 2017 that local authorities preserve them as epistles and that they use 95 distinguishable signs. Color, animal fiber and ply direction at their ends were proposed as phonetic encodings of particular ayllu names.\n\nNOT ESTABLISHED: The two khipus have not been fully deciphered, and the sound or meaning of all 95 signs is not established. It is also premature to infer from Collata that every Inka-period khipu used one identical logosyllabic writing system."
+        }
+      ],
+      "factBoundary": {
+        "established": "Sabine Hyland는 2015년 콜라타에서 두 키푸를 조사했고 2017년 Current Anthropology 논문에서 이들이 서신으로 전승되며 95개의 구별되는 기호를 사용한다고 보고했다. 끝부분의 색·동물섬유·꼬임 조합은 특정 ayllu 이름을 음성적으로 나타낼 가능성이 제시됐다.",
+        "notEstablished": "두 키푸 전체가 완전히 해독된 것은 아니며, 95개 기호 모두의 음가나 의미가 확정된 것도 아니다. 콜라타 사례를 근거로 모든 잉카시대 키푸가 동일한 로고음절 문자체계였다고 일반화하는 것도 아직 성급하다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "If Knotted Cords Were Letters, How Much of the Collata Khipus Can We Read?",
+      "hook": "Two khipus preserved by the community of San Juan de Collata are remembered as letters connected with warfare rather than accounting devices. A 2017 study identified 95 symbol combinations and proposed phonetic readings for lineage names encoded through color, fiber and twist. The full texts remain undeciphered.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "마을이 지켜 온 두 개의 매듭 서신",
+          "headingEn": "Two Corded Objects Kept as Letters",
+          "textKo": "산후안 데 콜라타의 공동체 당국은 두 개의 특이한 키푸를 보존해 왔고, 지역 전승에서는 이를 18세기 식민지 통치에 맞선 시기의 서신으로 설명한다. 2015년 현장조사를 허가받은 Hyland는 일반적인 회계 키푸와 달리 이 두 물건에 매듭보다 색, 섬유종류, 꼬임 방향의 복합적 차이가 두드러진다는 점에 주목했다. 물건의 “용도에 대한 기억” 자체가 해독 가설의 중요한 출발점이었다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Community authorities in San Juan de Collata preserve two unusual khipus remembered locally as letters from an eighteenth-century anti-colonial context. When Hyland was allowed to examine them in 2015, she found that unlike ordinary accounting khipus, they emphasized combinations of color, fiber type and ply direction. The community’s memory of the objects as correspondence became an important starting point for testing a writing hypothesis. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "SYMBOLS",
+          "headingKo": "95개 기호는 단순 수치표보다 복잡하다",
+          "headingEn": "Ninety-Five Signs Exceed a Simple Numerical Table",
+          "textKo": "연구는 두 키푸에서 95개의 서로 다른 기호 조합을 식별했다. 이는 지역 회계 키푸의 단순 수치기록보다 훨씬 다양한 레퍼토리이며 로고음절 문자체계가 가질 수 있는 규모와 비교됐다. 다만 “기호가 많다”는 사실만으로 곧바로 문자임이 증명되는 것은 아니다. 핵심은 기호 다양성에 더해 반복·위치·공동체 전승이 서로 맞물린다는 점이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The study identified 95 distinct sign combinations across the two khipus, far more varied than a simple regional accounting record and within the range expected for some logosyllabic systems. Symbol count alone does not prove writing. The stronger argument comes from the combination of diversity, position, repetition and local knowledge about the objects’ communicative function. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "PHONETIC",
+          "headingKo": "두 ayllu 이름이 음가 단서가 됐다",
+          "headingEn": "Two Ayllu Names Became Phonetic Clues",
+          "textKo": "각 키푸 끝부분의 세 줄 묶음은 색과 동물섬유, 꼬임 방향이 서로 달랐고, Hyland는 이것이 해당 마을의 두 계보 집단 이름을 나타낸다고 제안했다. 예를 들어 특정 동물섬유의 명칭과 집단명의 소리가 연결될 수 있다는 것이다. 이 해석은 키푸가 단지 수량을 기록한 것이 아니라 음성 요소를 담을 수 있다는 중요한 가능성을 열었다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Three-cord sequences at the ends of the khipus differed in color, animal fiber and ply direction. Hyland proposed that they encode the names of two local lineage groups, with fiber terms contributing phonetic values. If correct, this would mean the cords could carry sound-based information rather than only numerical values. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "LIMIT",
+          "headingKo": "부분 해독과 완전 해독은 다르다",
+          "headingEn": "Partial Reading Is Not Full Decipherment",
+          "textKo": "“잉카 문자가 해독됐다”는 표현은 현재 증거보다 앞서 나간다. 두 계보명에 대한 읽기와 구조적 규칙은 강한 단서지만, 키푸 전체 내용을 문장 단위로 번역한 것은 아니다. 더구나 콜라타 키푸는 18세기 식민기 자료로, 잉카 제국기의 모든 키푸와 시간적으로도 떨어져 있다. 발견의 중요성을 유지하려면 바로 이 범위를 명시해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Claims that “Inka writing has been deciphered” go beyond the evidence. Proposed readings of lineage names and structural rules are important clues, but no sentence-by-sentence translation of the entire objects exists. The Collata khipus are also eighteenth-century colonial-period artifacts, chronologically separated from many Inka imperial examples. Their significance depends on preserving that scope. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "읽을 수 있을지도 모르는 미해독 기록",
+          "headingEn": "An Undeciphered Record That May Be Readable",
+          "textKo": "콜라타 키푸는 미스터리 아틀라스의 전형적인 “코드와 증거” 사건이다. 물건은 실재하고 출처도 분명하며, 완전한 무지 상태도 아니다. 연구자는 일부 구조와 가능한 음가를 제시했지만 전체 텍스트는 여전히 닫혀 있다. 확정된 부분과 아직 열린 부분이 한 물건 안에서 공존하기 때문에, 새로운 비교자료가 나오면 해독 수준이 실제로 달라질 수 있는 살아 있는 미스터리다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Collata khipus are a classic Mystery Atlas code problem: the objects are real and well contextualized, and they are not wholly unreadable. Researchers have proposed structural and phonetic clues, yet the full texts remain closed. Established evidence and open interpretation coexist in the same artifacts, meaning that new comparative material could genuinely change the level of decipherment. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Sabine Hyland는 2015년 콜라타에서 두 키푸를 조사했고 2017년 Current Anthropology 논문에서 이들이 서신으로 전승되며 95개의 구별되는 기호를 사용한다고 보고했다. 끝부분의 색·동물섬유·꼬임 조합은 특정 ayllu 이름을 음성적으로 나타낼 가능성이 제시됐다.\n\nNOT ESTABLISHED: 두 키푸 전체가 완전히 해독된 것은 아니며, 95개 기호 모두의 음가나 의미가 확정된 것도 아니다. 콜라타 사례를 근거로 모든 잉카시대 키푸가 동일한 로고음절 문자체계였다고 일반화하는 것도 아직 성급하다.",
+          "textEn": "CONFIRMED / SUPPORTED: Sabine Hyland examined two Collata khipus in 2015 and reported in Current Anthropology in 2017 that local authorities preserve them as epistles and that they use 95 distinguishable signs. Color, animal fiber and ply direction at their ends were proposed as phonetic encodings of particular ayllu names.\n\nNOT ESTABLISHED: The two khipus have not been fully deciphered, and the sound or meaning of all 95 signs is not established. It is also premature to infer from Collata that every Inka-period khipu used one identical logosyllabic writing system."
+        }
+      ],
+      "factBoundary": {
+        "established": "Sabine Hyland examined two Collata khipus in 2015 and reported in Current Anthropology in 2017 that local authorities preserve them as epistles and that they use 95 distinguishable signs. Color, animal fiber and ply direction at their ends were proposed as phonetic encodings of particular ayllu names.",
+        "notEstablished": "The two khipus have not been fully deciphered, and the sound or meaning of all 95 signs is not established. It is also premature to infer from Collata that every Inka-period khipu used one identical logosyllabic writing system."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "COLLATA_KHIPU_LETTERS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Sabine Hyland는 2015년 콜라타에서 두 키푸를 조사했고 2017년 Current Anthropology 논문에서 이들이 서신으로 전승되며 95개의 구별되는 기호를 사용한다고 보고했다. 끝부분의 색·동물섬유·꼬임 조합은 특정 ayllu 이름을 음성적으로 나타낼 가능성이 제시됐다.",
+      "statementEn": "Sabine Hyland examined two Collata khipus in 2015 and reported in Current Anthropology in 2017 that local authorities preserve them as epistles and that they use 95 distinguishable signs. Color, animal fiber and ply direction at their ends were proposed as phonetic encodings of particular ayllu names.",
+      "sourceRefs": [
+        "HYLAND_2017",
+        "ST_ANDREWS_REPO",
+        "ST_ANDREWS_NEWS"
+      ]
+    },
+    {
+      "claimId": "COLLATA_KHIPU_LETTERS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "두 키푸 전체가 완전히 해독된 것은 아니며, 95개 기호 모두의 음가나 의미가 확정된 것도 아니다. 콜라타 사례를 근거로 모든 잉카시대 키푸가 동일한 로고음절 문자체계였다고 일반화하는 것도 아직 성급하다.",
+      "statementEn": "The two khipus have not been fully deciphered, and the sound or meaning of all 95 signs is not established. It is also premature to infer from Collata that every Inka-period khipu used one identical logosyllabic writing system.",
+      "sourceRefs": [
+        "HYLAND_2017",
+        "ST_ANDREWS_REPO",
+        "ST_ANDREWS_NEWS"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "HYLAND_2017",
+      "title": "Writing with Twisted Cords: The Inscriptive Capacity of Andean Khipus",
+      "publisher": "Current Anthropology",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/691682",
+      "sourceType": "PEER_REVIEWED_PRIMARY_RESEARCH"
+    },
+    {
+      "sourceId": "ST_ANDREWS_REPO",
+      "title": "Writing with twisted cords — repository copy and metadata",
+      "publisher": "University of St Andrews",
+      "url": "https://research-repository.st-andrews.ac.uk/handle/10023/12326",
+      "sourceType": "UNIVERSITY_REPOSITORY"
+    },
+    {
+      "sourceId": "ST_ANDREWS_NEWS",
+      "title": "Lost writing of the Incas discovered",
+      "publisher": "University of St Andrews",
+      "url": "https://news.st-andrews.ac.uk/archive/lost-writing-of-the-inkas-discovered/",
+      "sourceType": "INSTITUTIONAL_RESEARCH_SUMMARY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "collata-khipu-letters-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "HYLAND_2017",
+        "ST_ANDREWS_REPO",
+        "ST_ANDREWS_NEWS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "collata-khipu-letters__collata-khipu-letters-v01__ko.png",
+          "sha256": "bc1d7b23db99ed546f96333191323ef4c6b400422d5c4e5b85bd504eb1f35332",
+          "width": 1600,
+          "height": 900,
+          "fileName": "collata-khipu-letters__collata-khipu-letters-v01__ko.png"
+        },
+        "en": {
+          "file": "collata-khipu-letters__collata-khipu-letters-v01__en.png",
+          "sha256": "1521261a9768958306392a4c5b518719f7343fd3405aff942b7d2caec125e5ac",
+          "width": 1600,
+          "height": 900,
+          "fileName": "collata-khipu-letters__collata-khipu-letters-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "collata-khipu-letters-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "HYLAND_2017",
+        "ST_ANDREWS_REPO",
+        "ST_ANDREWS_NEWS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "collata-khipu-letters__collata-khipu-letters-v02__ko.png",
+          "sha256": "dacf644a6f54306e294e97cd16ab065e782e85d74cd55ca167e6dee6325cfec7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "collata-khipu-letters__collata-khipu-letters-v02__ko.png"
+        },
+        "en": {
+          "file": "collata-khipu-letters__collata-khipu-letters-v02__en.png",
+          "sha256": "0ad9ec2286b2a287e9fc4e3ec4809f2e94e52c699a4866c166f502dde9d4339e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "collata-khipu-letters__collata-khipu-letters-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "collata-khipu-letters-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "HYLAND_2017",
+        "ST_ANDREWS_REPO",
+        "ST_ANDREWS_NEWS"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "collata-khipu-letters__collata-khipu-letters-v03__ko.png",
+          "sha256": "08beca1824c0b943c97eca722cb86997f97721806b772ef01c1c9806acdddea1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "collata-khipu-letters__collata-khipu-letters-v03__ko.png"
+        },
+        "en": {
+          "file": "collata-khipu-letters__collata-khipu-letters-v03__en.png",
+          "sha256": "d31f526fe69c5905ab89edbf0092324cc6adce2afd85ab298f4b46870a37fa63",
+          "width": 1600,
+          "height": 900,
+          "fileName": "collata-khipu-letters__collata-khipu-letters-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Peru",
+    "era": "18th century / studied 2015–present",
+    "genre": "Codes / Manuscripts / Undeciphered Texts",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Codes / Manuscripts / Undeciphered Texts",
+    "resolution": "unknown",
+    "countries": [
+      "Peru"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1616,
+    "enBodyWords": 475
+  }
+}

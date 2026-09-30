@@ -1,0 +1,327 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "turin-shroud-carbon-test",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "토리노 수의 방사성탄소 연대측정",
+    "canonicalTitleEn": "The Turin Shroud Radiocarbon Test",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "세 연구실의 탄소연대 결과는 수의 논쟁을 어디까지 닫았나",
+      "hook": "1988년 토리노 수의에서 채취한 작은 시료가 Arizona, Oxford, Zürich 세 연구실로 보내졌다. 1989년 Nature 논문은 결과가 중세 린넨이라는 결론을 강하게 지지한다고 보고했다. 그러나 측정은 천의 연대를 다루며, 이미지가 어떻게 형성됐는지나 종교적 의미 전체를 직접 판정하지 않는다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "한 유물, 세 개의 독립 연구실",
+          "headingEn": "One Artifact, Three Laboratories",
+          "textKo": "수의 연대논쟁을 줄이기 위해 1988년 작은 린넨 시료가 세 곳의 가속기질량분석 연구실로 분배됐다. Arizona 대학, Oxford 대학, Zürich ETH 연구진이 참여했고, 실험 설계에는 연대가 이미 알려진 대조시료도 포함됐다. 한 연구실의 단일 측정이 아니라 여러 기관이 같은 문제를 독립적으로 다루도록 한 것이 핵심 설계였다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "To reduce uncertainty over the shroud’s age, small linen samples were distributed in 1988 to three accelerator mass spectrometry laboratories: Arizona, Oxford and ETH Zurich. The design also included control samples with independently known ages. The key feature was replication across institutions rather than reliance on one laboratory measurement. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "RESULT",
+          "headingKo": "1989년 Nature의 결론은 “중세 린넨”이었다",
+          "headingEn": "The 1989 Nature Conclusion Was Medieval Linen",
+          "textKo": "공동 논문은 각 연구실이 얻은 방사성탄소 결과를 통계적으로 결합해 수의 린넨이 중세 시기에 해당한다고 보고했다. 논문의 표현은 당시 측정이 진품 1세기 유물 가설과 양립하기 어렵다는 것이었다. 이 결과는 종교적 의미를 평가한 것이 아니라 탄소동위원소 비율을 이용해 천의 제작시기를 추정한 물리측정 결과다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The joint paper combined the radiocarbon results statistically and reported that the linen dated to the medieval period. In the authors’ interpretation, the measurements were inconsistent with the cloth itself being a first-century artifact. The result was a physical dating measurement based on carbon isotopes, not a test of religious meaning. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "CONTROLS",
+          "headingKo": "대조시료가 함께 들어간 이유",
+          "headingEn": "Why Control Samples Mattered",
+          "textKo": "실험에는 나이가 이미 알려진 다른 직물들이 함께 들어갔다. 이는 각 연구실의 측정 체계가 알려진 연대와 일치하는지 확인하는 장치였다. 과학적 검증에서 중요한 것은 “유명 유물을 측정했다”는 사실이 아니라 측정절차와 대조군, 연구실 간 일치도다. 수의 연구가 대중논쟁을 넘어 과학 논문으로 다뤄질 수 있었던 핵심도 이 설계에 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The experiment included textiles of independently known age so that laboratories could demonstrate that their procedures reproduced expected dates. What matters scientifically is not merely that a famous relic was measured, but the controls, protocols and agreement across laboratories. That design is what allowed the shroud question to be treated as a testable dating problem. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "LIMIT",
+          "headingKo": "연대와 이미지 형성은 다른 문제다",
+          "headingEn": "Age and Image Formation Are Different Questions",
+          "textKo": "탄소연대측정은 린넨 섬유가 언제 만들어졌는지에 관한 확률분포를 제공한다. 얼굴과 신체 이미지가 정확히 어떤 화학·물리 과정으로 형성됐는지, 누가 제작했는지, 어떤 의도로 보존됐는지는 별도의 문제다. 따라서 “중세 연대 결과가 이미지 생성법까지 모두 설명했다”거나 반대로 “이미지 기법이 미스터리이므로 연대측정도 틀렸다”는 주장은 둘 다 논리적으로 건너뛴다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Radiocarbon dating provides a probability distribution for when the linen material originated. It does not by itself explain the exact chemical or physical process that created the body image, identify a maker, or reconstruct later custody. Saying that a medieval date solves image formation—or that mysterious image formation invalidates the date—confuses separate questions. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 부분과 남은 부분을 분리하는 사건",
+          "headingEn": "A Case About Separating the Solved from the Unsolved",
+          "textKo": "토리노 수의는 “모든 것이 미스터리”도 아니고 “모든 것이 완전히 해결”된 사건도 아니다. 1989년 다기관 탄소연대는 린넨의 연대에 강한 제약을 걸었지만, 이미지의 제작과 역사적 이동경로를 모두 닫지는 않았다. 무엇이 측정됐고 무엇은 측정되지 않았는지를 정확히 나누는 것이 이 사건의 핵심이며, 그 경계가 과학 미스터리 콘텐츠에 가장 중요한 지점이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Turin Shroud is neither a case where everything remains mysterious nor one where every question is solved. The 1989 multi-laboratory dating placed a strong constraint on the linen’s age while leaving image formation and parts of the object’s history separate. The case is valuable precisely because it forces a clear statement of what was measured and what was not. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Arizona, Oxford, Zürich 연구진은 가속기질량분석 방사성탄소 연대측정을 수행했고 대조시료와 함께 분석한 결과를 1989년 Nature에 공동 발표했다. 논문은 세 연구실 결과가 토리노 수의 린넨이 중세 것이라는 강한 증거라고 결론내렸다.\n\nNOT ESTABLISHED: 연대측정이 수의 이미지의 정확한 제작기법이나 제작자를 규명한 것은 아니며, 종교적 신앙의 의미를 실험으로 판정한 것도 아니다. 시료 대표성·오염 가능성 등에 대한 후대 비판이 존재하지만 그것만으로 1989년 결과가 자동 무효가 되는 것도 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: Laboratories in Arizona, Oxford and Zurich used accelerator mass spectrometry radiocarbon dating and analyzed the shroud sample alongside independently dated controls. Their joint 1989 Nature paper concluded that the results provided strong evidence for a medieval origin of the linen.\n\nNOT ESTABLISHED: Radiocarbon dating did not identify the exact image-making technique or maker, nor did it adjudicate religious belief. Later critiques concerning sampling or contamination exist, but their existence does not automatically invalidate the published 1989 measurements."
+        }
+      ],
+      "factBoundary": {
+        "established": "Arizona, Oxford, Zürich 연구진은 가속기질량분석 방사성탄소 연대측정을 수행했고 대조시료와 함께 분석한 결과를 1989년 Nature에 공동 발표했다. 논문은 세 연구실 결과가 토리노 수의 린넨이 중세 것이라는 강한 증거라고 결론내렸다.",
+        "notEstablished": "연대측정이 수의 이미지의 정확한 제작기법이나 제작자를 규명한 것은 아니며, 종교적 신앙의 의미를 실험으로 판정한 것도 아니다. 시료 대표성·오염 가능성 등에 대한 후대 비판이 존재하지만 그것만으로 1989년 결과가 자동 무효가 되는 것도 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "What Did the Three-Laboratory Radiocarbon Test Settle About the Turin Shroud?",
+      "hook": "In 1988 small samples from the Turin Shroud were sent to laboratories in Arizona, Oxford and Zurich. A 1989 Nature paper reported that the results strongly supported a medieval date for the linen. The measurements addressed the cloth’s age; they did not directly solve how the image formed or every religious claim associated with it.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "한 유물, 세 개의 독립 연구실",
+          "headingEn": "One Artifact, Three Laboratories",
+          "textKo": "수의 연대논쟁을 줄이기 위해 1988년 작은 린넨 시료가 세 곳의 가속기질량분석 연구실로 분배됐다. Arizona 대학, Oxford 대학, Zürich ETH 연구진이 참여했고, 실험 설계에는 연대가 이미 알려진 대조시료도 포함됐다. 한 연구실의 단일 측정이 아니라 여러 기관이 같은 문제를 독립적으로 다루도록 한 것이 핵심 설계였다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "To reduce uncertainty over the shroud’s age, small linen samples were distributed in 1988 to three accelerator mass spectrometry laboratories: Arizona, Oxford and ETH Zurich. The design also included control samples with independently known ages. The key feature was replication across institutions rather than reliance on one laboratory measurement. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "RESULT",
+          "headingKo": "1989년 Nature의 결론은 “중세 린넨”이었다",
+          "headingEn": "The 1989 Nature Conclusion Was Medieval Linen",
+          "textKo": "공동 논문은 각 연구실이 얻은 방사성탄소 결과를 통계적으로 결합해 수의 린넨이 중세 시기에 해당한다고 보고했다. 논문의 표현은 당시 측정이 진품 1세기 유물 가설과 양립하기 어렵다는 것이었다. 이 결과는 종교적 의미를 평가한 것이 아니라 탄소동위원소 비율을 이용해 천의 제작시기를 추정한 물리측정 결과다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The joint paper combined the radiocarbon results statistically and reported that the linen dated to the medieval period. In the authors’ interpretation, the measurements were inconsistent with the cloth itself being a first-century artifact. The result was a physical dating measurement based on carbon isotopes, not a test of religious meaning. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "CONTROLS",
+          "headingKo": "대조시료가 함께 들어간 이유",
+          "headingEn": "Why Control Samples Mattered",
+          "textKo": "실험에는 나이가 이미 알려진 다른 직물들이 함께 들어갔다. 이는 각 연구실의 측정 체계가 알려진 연대와 일치하는지 확인하는 장치였다. 과학적 검증에서 중요한 것은 “유명 유물을 측정했다”는 사실이 아니라 측정절차와 대조군, 연구실 간 일치도다. 수의 연구가 대중논쟁을 넘어 과학 논문으로 다뤄질 수 있었던 핵심도 이 설계에 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The experiment included textiles of independently known age so that laboratories could demonstrate that their procedures reproduced expected dates. What matters scientifically is not merely that a famous relic was measured, but the controls, protocols and agreement across laboratories. That design is what allowed the shroud question to be treated as a testable dating problem. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "LIMIT",
+          "headingKo": "연대와 이미지 형성은 다른 문제다",
+          "headingEn": "Age and Image Formation Are Different Questions",
+          "textKo": "탄소연대측정은 린넨 섬유가 언제 만들어졌는지에 관한 확률분포를 제공한다. 얼굴과 신체 이미지가 정확히 어떤 화학·물리 과정으로 형성됐는지, 누가 제작했는지, 어떤 의도로 보존됐는지는 별도의 문제다. 따라서 “중세 연대 결과가 이미지 생성법까지 모두 설명했다”거나 반대로 “이미지 기법이 미스터리이므로 연대측정도 틀렸다”는 주장은 둘 다 논리적으로 건너뛴다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Radiocarbon dating provides a probability distribution for when the linen material originated. It does not by itself explain the exact chemical or physical process that created the body image, identify a maker, or reconstruct later custody. Saying that a medieval date solves image formation—or that mysterious image formation invalidates the date—confuses separate questions. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 부분과 남은 부분을 분리하는 사건",
+          "headingEn": "A Case About Separating the Solved from the Unsolved",
+          "textKo": "토리노 수의는 “모든 것이 미스터리”도 아니고 “모든 것이 완전히 해결”된 사건도 아니다. 1989년 다기관 탄소연대는 린넨의 연대에 강한 제약을 걸었지만, 이미지의 제작과 역사적 이동경로를 모두 닫지는 않았다. 무엇이 측정됐고 무엇은 측정되지 않았는지를 정확히 나누는 것이 이 사건의 핵심이며, 그 경계가 과학 미스터리 콘텐츠에 가장 중요한 지점이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The Turin Shroud is neither a case where everything remains mysterious nor one where every question is solved. The 1989 multi-laboratory dating placed a strong constraint on the linen’s age while leaving image formation and parts of the object’s history separate. The case is valuable precisely because it forces a clear statement of what was measured and what was not. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Arizona, Oxford, Zürich 연구진은 가속기질량분석 방사성탄소 연대측정을 수행했고 대조시료와 함께 분석한 결과를 1989년 Nature에 공동 발표했다. 논문은 세 연구실 결과가 토리노 수의 린넨이 중세 것이라는 강한 증거라고 결론내렸다.\n\nNOT ESTABLISHED: 연대측정이 수의 이미지의 정확한 제작기법이나 제작자를 규명한 것은 아니며, 종교적 신앙의 의미를 실험으로 판정한 것도 아니다. 시료 대표성·오염 가능성 등에 대한 후대 비판이 존재하지만 그것만으로 1989년 결과가 자동 무효가 되는 것도 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: Laboratories in Arizona, Oxford and Zurich used accelerator mass spectrometry radiocarbon dating and analyzed the shroud sample alongside independently dated controls. Their joint 1989 Nature paper concluded that the results provided strong evidence for a medieval origin of the linen.\n\nNOT ESTABLISHED: Radiocarbon dating did not identify the exact image-making technique or maker, nor did it adjudicate religious belief. Later critiques concerning sampling or contamination exist, but their existence does not automatically invalidate the published 1989 measurements."
+        }
+      ],
+      "factBoundary": {
+        "established": "Laboratories in Arizona, Oxford and Zurich used accelerator mass spectrometry radiocarbon dating and analyzed the shroud sample alongside independently dated controls. Their joint 1989 Nature paper concluded that the results provided strong evidence for a medieval origin of the linen.",
+        "notEstablished": "Radiocarbon dating did not identify the exact image-making technique or maker, nor did it adjudicate religious belief. Later critiques concerning sampling or contamination exist, but their existence does not automatically invalidate the published 1989 measurements."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TURIN_SHROUD_CARBON_TEST-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Arizona, Oxford, Zürich 연구진은 가속기질량분석 방사성탄소 연대측정을 수행했고 대조시료와 함께 분석한 결과를 1989년 Nature에 공동 발표했다. 논문은 세 연구실 결과가 토리노 수의 린넨이 중세 것이라는 강한 증거라고 결론내렸다.",
+      "statementEn": "Laboratories in Arizona, Oxford and Zurich used accelerator mass spectrometry radiocarbon dating and analyzed the shroud sample alongside independently dated controls. Their joint 1989 Nature paper concluded that the results provided strong evidence for a medieval origin of the linen.",
+      "sourceRefs": [
+        "NATURE_1989",
+        "NATURE_1988_GOVE"
+      ]
+    },
+    {
+      "claimId": "TURIN_SHROUD_CARBON_TEST-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "연대측정이 수의 이미지의 정확한 제작기법이나 제작자를 규명한 것은 아니며, 종교적 신앙의 의미를 실험으로 판정한 것도 아니다. 시료 대표성·오염 가능성 등에 대한 후대 비판이 존재하지만 그것만으로 1989년 결과가 자동 무효가 되는 것도 아니다.",
+      "statementEn": "Radiocarbon dating did not identify the exact image-making technique or maker, nor did it adjudicate religious belief. Later critiques concerning sampling or contamination exist, but their existence does not automatically invalidate the published 1989 measurements.",
+      "sourceRefs": [
+        "NATURE_1989",
+        "NATURE_1988_GOVE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NATURE_1989",
+      "title": "Radiocarbon dating of the Shroud of Turin",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/337611a0",
+      "sourceType": "PEER_REVIEWED_MULTILAB_STUDY"
+    },
+    {
+      "sourceId": "NATURE_1988_GOVE",
+      "title": "Radiocarbon-dating the shroud",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/333110c0",
+      "sourceType": "SCIENTIFIC_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "turin-shroud-carbon-test-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "NATURE_1989",
+        "NATURE_1988_GOVE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "turin-shroud-carbon-test__turin-shroud-carbon-test-v01__ko.png",
+          "sha256": "0a173d8be548cca5442a268f2c94afbbbfeb1f91dfafb2283c683da6ffb47c5e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "turin-shroud-carbon-test__turin-shroud-carbon-test-v01__ko.png"
+        },
+        "en": {
+          "file": "turin-shroud-carbon-test__turin-shroud-carbon-test-v01__en.png",
+          "sha256": "6c22a0441cca265a117c509270adc173322d70cb542be73ad52eb49924fec06b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "turin-shroud-carbon-test__turin-shroud-carbon-test-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "turin-shroud-carbon-test-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NATURE_1989",
+        "NATURE_1988_GOVE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "turin-shroud-carbon-test__turin-shroud-carbon-test-v02__ko.png",
+          "sha256": "8d3798f3b778a34c76b014387ff7fcfa848fe2f8d31243de8342fde94a958727",
+          "width": 1600,
+          "height": 900,
+          "fileName": "turin-shroud-carbon-test__turin-shroud-carbon-test-v02__ko.png"
+        },
+        "en": {
+          "file": "turin-shroud-carbon-test__turin-shroud-carbon-test-v02__en.png",
+          "sha256": "8328d06185303ab23e4c4204a2ba0c8bfd0e561dc5bd996c260129c996e6833a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "turin-shroud-carbon-test__turin-shroud-carbon-test-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "turin-shroud-carbon-test-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "NATURE_1989",
+        "NATURE_1988_GOVE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "turin-shroud-carbon-test__turin-shroud-carbon-test-v03__ko.png",
+          "sha256": "4d95dffc104f0019a7f90a9e408ff566613d090191095de1df5c2db1489704a1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "turin-shroud-carbon-test__turin-shroud-carbon-test-v03__ko.png"
+        },
+        "en": {
+          "file": "turin-shroud-carbon-test__turin-shroud-carbon-test-v03__en.png",
+          "sha256": "46e77beac22f42b93e07256a9ffd0f9ecf1b81ae1d504a0ffda67cae87117d72",
+          "width": 1600,
+          "height": 900,
+          "fileName": "turin-shroud-carbon-test__turin-shroud-carbon-test-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Italy / UK / Switzerland / USA",
+    "era": "1988–1989",
+    "genre": "Explained Mystery / Debunked Myth",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Explained Mystery / Debunked Myth",
+    "resolution": "unknown",
+    "countries": [
+      "Italy / UK / Switzerland / USA"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1588,
+    "enBodyWords": 453
+  }
+}

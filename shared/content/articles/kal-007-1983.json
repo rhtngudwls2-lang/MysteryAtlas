@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "kal-007-1983",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "대한항공 007편 격추와 냉전 문서",
+    "canonicalTitleEn": "Korean Air Lines 007: Shootdown, Navigation, and Cold War Records",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "KAL 007편은 왜 소련 영공으로 들어갔고, 이후 공개문서는 무엇을 바꿨나",
+      "hook": "1983년 9월 1일 대한항공 007편은 예정항로에서 벗어나 소련 영공으로 진입한 뒤 요격기에 격추돼 탑승자 269명 전원이 사망했다. 냉전 직후 양측은 첩보비행 여부와 경고 과정을 두고 충돌했고, 이후 항공조사와 기밀해제 통신자료가 사건의 경계를 좁혔다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "예정항로를 벗어난 747",
+          "headingEn": "A 747 Off Its Planned Route",
+          "textKo": "1983년 9월 1일 KAL 007편은 Anchorage에서 Seoul로 향하는 장거리 비행 중 정상 북태평양 항로에서 크게 벗어났다. 항공기는 소련이 군사적으로 민감하게 보던 캄차카와 사할린 주변 공역에 들어갔고, 소련 방공체계가 이를 추적했다. 당시에는 미국 정찰활동과 소련 방공경계가 극도로 긴장된 냉전 환경이었기 때문에 평범한 항법이탈이 치명적 군사사건으로 변했다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "On 1 September 1983 KAL 007 drifted far from its normal North Pacific route while flying from Anchorage toward Seoul. It entered airspace near Kamchatka and Sakhalin that Soviet defenses considered highly sensitive and was tracked by the air-defense system. In the tense Cold War environment, an aviation navigation deviation became a military confrontation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "INTERCEPT",
+          "headingKo": "요격과 격추, 269명의 사망",
+          "headingEn": "Interception, Shootdown, 269 Deaths",
+          "textKo": "소련 전투기는 항공기를 요격했고 결국 미사일을 발사했다. 항공기는 바다로 추락해 승객과 승무원 269명 전원이 사망했다. 사건 직후 소련은 민항기였다는 점과 자국 조치에 대한 설명을 단계적으로 바꾸었고, 미국은 일본 등과 확보한 통신정보를 공개하며 소련의 대응을 비판했다. 비극 자체는 명확하지만 그 주변의 정보전은 즉시 시작됐다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Soviet fighters intercepted the aircraft and ultimately fired missiles. The Boeing 747 fell into the sea, killing all 269 passengers and crew. In the immediate aftermath the Soviet public account changed as the civilian identity of the aircraft became undeniable, while the United States released intercepted communications to criticize Soviet actions. The tragedy was clear; an information war began at once. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "DOCUMENTS",
+          "headingKo": "기밀 통신자료가 사건 서사를 바꿨다",
+          "headingEn": "Declassified Communications Changed the Narrative",
+          "textKo": "미국 국가기록원에 공개된 NSA 냉전사 자료는 미·일 통신정보 협력과 요격 관련 신호정보 공개가 외교적으로도 민감했음을 보여준다. 1983년 미국 정부가 일부 감청내용을 공개하면서 소련 조종사와 지휘체계의 인식이 국제논쟁의 중심으로 들어왔다. 다만 정보기관 문서는 그 자체로 중립적인 “블랙박스 전체 기록”이 아니라 수집·선별·정책맥락을 가진 자료라는 점도 고려해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "NSA Cold War histories released through the U.S. National Archives show that U.S.-Japanese signals-intelligence cooperation and the decision to release intercepts were themselves diplomatically sensitive. Publicized communications brought Soviet pilot and command perceptions into the international debate. Intelligence documents, however, are not a neutral substitute for a complete cockpit recorder; they were collected, selected and released within policy contexts. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "NAVIGATION",
+          "headingKo": "왜 항로를 벗어났는가",
+          "headingEn": "Why the Aircraft Deviated",
+          "textKo": "후대 항공조사에서는 관성항법과 자동조종 설정, 비행 초기 항로 유지 상태 등이 중심 쟁점이 됐다. 널리 받아들여지는 설명은 의도적 침투보다 항법·운용상의 오류 연쇄다. 그러나 탑승 승무원의 직접 증언이 남지 않았기 때문에 특정 조작이 언제 어떻게 이뤄졌는지에 대해서는 기록에서 추론하는 부분이 있다. “결과가 분명하다”와 “모든 조종실 의사결정이 직접 관찰됐다”는 것은 다르다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Later aviation investigation focused on inertial navigation, autopilot mode selection and the aircraft’s failure to capture the intended track soon after departure. The dominant reconstruction points to a chain of navigation and operational errors rather than intentional intrusion. Because no crew survived to explain their actions, parts of the cockpit sequence remain reconstructed from records rather than directly witnessed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "냉전 음모 주장과 문서기록을 분리하다",
+          "headingEn": "Separating Cold War Claims from the Documentary Record",
+          "textKo": "KAL 007은 단순 항공사고로만 읽기 어렵다. 항로이탈, 군사 요격, 정보기관 감청, 양측 선전, 이후 국제항공 규범 변화가 한 사건에 겹쳐 있기 때문이다. “정찰 임무였다” 같은 당시 정치주장과 실제 공개문서를 같은 무게로 두지 않고, 확인된 비행·격추 사실과 아직 추론에 남은 조종실 세부를 분리해야 냉전 미스터리의 구조가 보인다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "KAL 007 is difficult to understand as a routine aviation accident alone because navigation error, military interception, signals intelligence, propaganda and later aviation policy all intersect. The key is not to give Cold War espionage claims the same weight as documentary evidence, and to separate established flight and shootdown facts from cockpit details that still depend on reconstruction. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: KAL 007편은 1983년 9월 1일 Anchorage에서 Seoul로 향하던 중 소련 영공에 진입했고 소련 전투기에 의해 격추돼 269명이 사망했다. 이후 국제민간항공 조사와 공개된 냉전 통신자료는 항로이탈과 소련 요격·교신 상황을 재구성하는 자료가 됐다.\n\nNOT ESTABLISHED: 민항기가 의도된 미국 첩보작전을 수행했다는 소련의 당시 주장은 공개된 기록으로 확립되지 않았다. 또한 공개자료만으로 조종석에서 항법 설정 오류가 발생한 정확한 순간과 승무원이 끝까지 인지한 내용을 모두 직접 확인할 수 있는 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: KAL 007 entered Soviet airspace on 1 September 1983 while flying from Anchorage toward Seoul and was shot down by a Soviet interceptor, killing 269 people. Later ICAO investigation and declassified Cold War communications became key sources for reconstructing the navigation deviation and Soviet interception process.\n\nNOT ESTABLISHED: The Soviet claim that the civilian flight was deliberately conducting a U.S. intelligence mission is not established by the public record. Nor can public documents reveal every cockpit action or exactly what the crew understood at each moment of the navigation deviation."
+        }
+      ],
+      "factBoundary": {
+        "established": "KAL 007편은 1983년 9월 1일 Anchorage에서 Seoul로 향하던 중 소련 영공에 진입했고 소련 전투기에 의해 격추돼 269명이 사망했다. 이후 국제민간항공 조사와 공개된 냉전 통신자료는 항로이탈과 소련 요격·교신 상황을 재구성하는 자료가 됐다.",
+        "notEstablished": "민항기가 의도된 미국 첩보작전을 수행했다는 소련의 당시 주장은 공개된 기록으로 확립되지 않았다. 또한 공개자료만으로 조종석에서 항법 설정 오류가 발생한 정확한 순간과 승무원이 끝까지 인지한 내용을 모두 직접 확인할 수 있는 것은 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "Why Did KAL 007 Enter Soviet Airspace, and What Did Later Records Change?",
+      "hook": "On 1 September 1983 Korean Air Lines Flight 007 deviated from its planned route, entered Soviet airspace and was shot down by an interceptor, killing all 269 people aboard. The Cold War immediately produced competing claims about espionage and warning procedures; later aviation investigation and declassified communications narrowed the evidential boundaries.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "예정항로를 벗어난 747",
+          "headingEn": "A 747 Off Its Planned Route",
+          "textKo": "1983년 9월 1일 KAL 007편은 Anchorage에서 Seoul로 향하는 장거리 비행 중 정상 북태평양 항로에서 크게 벗어났다. 항공기는 소련이 군사적으로 민감하게 보던 캄차카와 사할린 주변 공역에 들어갔고, 소련 방공체계가 이를 추적했다. 당시에는 미국 정찰활동과 소련 방공경계가 극도로 긴장된 냉전 환경이었기 때문에 평범한 항법이탈이 치명적 군사사건으로 변했다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "On 1 September 1983 KAL 007 drifted far from its normal North Pacific route while flying from Anchorage toward Seoul. It entered airspace near Kamchatka and Sakhalin that Soviet defenses considered highly sensitive and was tracked by the air-defense system. In the tense Cold War environment, an aviation navigation deviation became a military confrontation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "INTERCEPT",
+          "headingKo": "요격과 격추, 269명의 사망",
+          "headingEn": "Interception, Shootdown, 269 Deaths",
+          "textKo": "소련 전투기는 항공기를 요격했고 결국 미사일을 발사했다. 항공기는 바다로 추락해 승객과 승무원 269명 전원이 사망했다. 사건 직후 소련은 민항기였다는 점과 자국 조치에 대한 설명을 단계적으로 바꾸었고, 미국은 일본 등과 확보한 통신정보를 공개하며 소련의 대응을 비판했다. 비극 자체는 명확하지만 그 주변의 정보전은 즉시 시작됐다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Soviet fighters intercepted the aircraft and ultimately fired missiles. The Boeing 747 fell into the sea, killing all 269 passengers and crew. In the immediate aftermath the Soviet public account changed as the civilian identity of the aircraft became undeniable, while the United States released intercepted communications to criticize Soviet actions. The tragedy was clear; an information war began at once. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "DOCUMENTS",
+          "headingKo": "기밀 통신자료가 사건 서사를 바꿨다",
+          "headingEn": "Declassified Communications Changed the Narrative",
+          "textKo": "미국 국가기록원에 공개된 NSA 냉전사 자료는 미·일 통신정보 협력과 요격 관련 신호정보 공개가 외교적으로도 민감했음을 보여준다. 1983년 미국 정부가 일부 감청내용을 공개하면서 소련 조종사와 지휘체계의 인식이 국제논쟁의 중심으로 들어왔다. 다만 정보기관 문서는 그 자체로 중립적인 “블랙박스 전체 기록”이 아니라 수집·선별·정책맥락을 가진 자료라는 점도 고려해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "NSA Cold War histories released through the U.S. National Archives show that U.S.-Japanese signals-intelligence cooperation and the decision to release intercepts were themselves diplomatically sensitive. Publicized communications brought Soviet pilot and command perceptions into the international debate. Intelligence documents, however, are not a neutral substitute for a complete cockpit recorder; they were collected, selected and released within policy contexts. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "NAVIGATION",
+          "headingKo": "왜 항로를 벗어났는가",
+          "headingEn": "Why the Aircraft Deviated",
+          "textKo": "후대 항공조사에서는 관성항법과 자동조종 설정, 비행 초기 항로 유지 상태 등이 중심 쟁점이 됐다. 널리 받아들여지는 설명은 의도적 침투보다 항법·운용상의 오류 연쇄다. 그러나 탑승 승무원의 직접 증언이 남지 않았기 때문에 특정 조작이 언제 어떻게 이뤄졌는지에 대해서는 기록에서 추론하는 부분이 있다. “결과가 분명하다”와 “모든 조종실 의사결정이 직접 관찰됐다”는 것은 다르다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Later aviation investigation focused on inertial navigation, autopilot mode selection and the aircraft’s failure to capture the intended track soon after departure. The dominant reconstruction points to a chain of navigation and operational errors rather than intentional intrusion. Because no crew survived to explain their actions, parts of the cockpit sequence remain reconstructed from records rather than directly witnessed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "냉전 음모 주장과 문서기록을 분리하다",
+          "headingEn": "Separating Cold War Claims from the Documentary Record",
+          "textKo": "KAL 007은 단순 항공사고로만 읽기 어렵다. 항로이탈, 군사 요격, 정보기관 감청, 양측 선전, 이후 국제항공 규범 변화가 한 사건에 겹쳐 있기 때문이다. “정찰 임무였다” 같은 당시 정치주장과 실제 공개문서를 같은 무게로 두지 않고, 확인된 비행·격추 사실과 아직 추론에 남은 조종실 세부를 분리해야 냉전 미스터리의 구조가 보인다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "KAL 007 is difficult to understand as a routine aviation accident alone because navigation error, military interception, signals intelligence, propaganda and later aviation policy all intersect. The key is not to give Cold War espionage claims the same weight as documentary evidence, and to separate established flight and shootdown facts from cockpit details that still depend on reconstruction. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: KAL 007편은 1983년 9월 1일 Anchorage에서 Seoul로 향하던 중 소련 영공에 진입했고 소련 전투기에 의해 격추돼 269명이 사망했다. 이후 국제민간항공 조사와 공개된 냉전 통신자료는 항로이탈과 소련 요격·교신 상황을 재구성하는 자료가 됐다.\n\nNOT ESTABLISHED: 민항기가 의도된 미국 첩보작전을 수행했다는 소련의 당시 주장은 공개된 기록으로 확립되지 않았다. 또한 공개자료만으로 조종석에서 항법 설정 오류가 발생한 정확한 순간과 승무원이 끝까지 인지한 내용을 모두 직접 확인할 수 있는 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: KAL 007 entered Soviet airspace on 1 September 1983 while flying from Anchorage toward Seoul and was shot down by a Soviet interceptor, killing 269 people. Later ICAO investigation and declassified Cold War communications became key sources for reconstructing the navigation deviation and Soviet interception process.\n\nNOT ESTABLISHED: The Soviet claim that the civilian flight was deliberately conducting a U.S. intelligence mission is not established by the public record. Nor can public documents reveal every cockpit action or exactly what the crew understood at each moment of the navigation deviation."
+        }
+      ],
+      "factBoundary": {
+        "established": "KAL 007 entered Soviet airspace on 1 September 1983 while flying from Anchorage toward Seoul and was shot down by a Soviet interceptor, killing 269 people. Later ICAO investigation and declassified Cold War communications became key sources for reconstructing the navigation deviation and Soviet interception process.",
+        "notEstablished": "The Soviet claim that the civilian flight was deliberately conducting a U.S. intelligence mission is not established by the public record. Nor can public documents reveal every cockpit action or exactly what the crew understood at each moment of the navigation deviation."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "KAL_007_1983-C1",
+      "status": "CONFIRMED",
+      "statementKo": "KAL 007편은 1983년 9월 1일 Anchorage에서 Seoul로 향하던 중 소련 영공에 진입했고 소련 전투기에 의해 격추돼 269명이 사망했다. 이후 국제민간항공 조사와 공개된 냉전 통신자료는 항로이탈과 소련 요격·교신 상황을 재구성하는 자료가 됐다.",
+      "statementEn": "KAL 007 entered Soviet airspace on 1 September 1983 while flying from Anchorage toward Seoul and was shot down by a Soviet interceptor, killing 269 people. Later ICAO investigation and declassified Cold War communications became key sources for reconstructing the navigation deviation and Soviet interception process.",
+      "sourceRefs": [
+        "NARA_NSA_BOOK4",
+        "ICAO_PS752_REF",
+        "NARA_NSA_BOOK2"
+      ]
+    },
+    {
+      "claimId": "KAL_007_1983-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "민항기가 의도된 미국 첩보작전을 수행했다는 소련의 당시 주장은 공개된 기록으로 확립되지 않았다. 또한 공개자료만으로 조종석에서 항법 설정 오류가 발생한 정확한 순간과 승무원이 끝까지 인지한 내용을 모두 직접 확인할 수 있는 것은 아니다.",
+      "statementEn": "The Soviet claim that the civilian flight was deliberately conducting a U.S. intelligence mission is not established by the public record. Nor can public documents reveal every cockpit action or exactly what the crew understood at each moment of the navigation deviation.",
+      "sourceRefs": [
+        "NARA_NSA_BOOK4",
+        "ICAO_PS752_REF",
+        "NARA_NSA_BOOK2"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NARA_NSA_BOOK4",
+      "title": "American Cryptology during the Cold War — Book IV",
+      "publisher": "U.S. National Archives / NSA declassification",
+      "url": "https://www.archives.gov/files/declassification/iscap/pdf/2016-220-pt-2-release-material-completed.pdf",
+      "sourceType": "DECLASSIFIED_INTELLIGENCE_HISTORY"
+    },
+    {
+      "sourceId": "ICAO_PS752_REF",
+      "title": "PS752 Final Report — historical section referencing KAL 007",
+      "publisher": "ICAO-hosted accident investigation document",
+      "url": "https://www.icao.int/sites/default/files/safety/airnavigation/AIG/Documents/Safety-Recommendations-to-ICAO/Final-Reports/PS752Finrep.pdf",
+      "sourceType": "ICAO_HOSTED_AVIATION_RECORD"
+    },
+    {
+      "sourceId": "NARA_NSA_BOOK2",
+      "title": "American Cryptology during the Cold War — Book II",
+      "publisher": "U.S. National Archives / NSA declassification",
+      "url": "https://www.archives.gov/files/declassification/iscap/pdf/2008-021-doc1.pdf",
+      "sourceType": "DECLASSIFIED_INTELLIGENCE_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "kal-007-1983-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "NARA_NSA_BOOK4",
+        "ICAO_PS752_REF",
+        "NARA_NSA_BOOK2"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "kal-007-1983__kal-007-1983-v01__ko.png",
+          "sha256": "d451ee02e7ad1372ef15cc9fc0e78323fef4bfeb5dd3382a22ff9d4cecb7985a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "kal-007-1983__kal-007-1983-v01__ko.png"
+        },
+        "en": {
+          "file": "kal-007-1983__kal-007-1983-v01__en.png",
+          "sha256": "6f0a2d401d8a3ea0b20c7889f32f2ddb45e66053f25eeb34528544e07107ccdc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "kal-007-1983__kal-007-1983-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "kal-007-1983-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NARA_NSA_BOOK4",
+        "ICAO_PS752_REF",
+        "NARA_NSA_BOOK2"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "kal-007-1983__kal-007-1983-v02__ko.png",
+          "sha256": "2e09aee9bd3a4e8bca808be0b07d9e5b87d9fbb242e870c15457012c5ae87fda",
+          "width": 1600,
+          "height": 900,
+          "fileName": "kal-007-1983__kal-007-1983-v02__ko.png"
+        },
+        "en": {
+          "file": "kal-007-1983__kal-007-1983-v02__en.png",
+          "sha256": "cdb211020e5422cd43823edc9269320c38bfbd9396d3cef855b6af257d5be1a4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "kal-007-1983__kal-007-1983-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "kal-007-1983-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "NARA_NSA_BOOK4",
+        "ICAO_PS752_REF",
+        "NARA_NSA_BOOK2"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "kal-007-1983__kal-007-1983-v03__ko.png",
+          "sha256": "9b4a1e5e8aee96fb90e4a0dd426fbe2c3b0bc24fc471ac9472e2d491d5fa68fe",
+          "width": 1600,
+          "height": 900,
+          "fileName": "kal-007-1983__kal-007-1983-v03__ko.png"
+        },
+        "en": {
+          "file": "kal-007-1983__kal-007-1983-v03__en.png",
+          "sha256": "6694976aa617a9e0238fc863d5f49c1804ffeb42af823a6df63ec2d7fb1677cd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "kal-007-1983__kal-007-1983-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "South Korea / Soviet Union / United States / Japan",
+    "era": "1983",
+    "genre": "Maritime / Aviation",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Maritime / Aviation",
+    "resolution": "unknown",
+    "countries": [
+      "South Korea / Soviet Union / United States / Japan"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1649,
+    "enBodyWords": 489
+  }
+}

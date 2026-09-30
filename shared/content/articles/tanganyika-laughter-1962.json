@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "tanganyika-laughter-1962",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1962년 탕가니카 웃음 확산 사건",
+    "canonicalTitleEn": "The 1962 Tanganyika Laughter Epidemic",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "“웃음 전염병”은 정말 웃음이 퍼진 사건이었나",
+      "hook": "1962년 북서부 탕가니카의 여학교에서 시작된 이상 행동은 다른 학교와 마을로 퍼졌다. 1963년 최초 의학 보고는 웃음뿐 아니라 울음과 초조를 함께 기록했고, 검사 이상과 사망은 없었다. 후대 연구는 대중적으로 알려진 “전염성 웃음” 서사를 수정한다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "여학교에서 시작된 이상 행동",
+          "headingEn": "The Outbreak Began at a Girls’ School",
+          "textKo": "1963년 Rankin과 Philip의 보고는 1962년 북서부 탕가니카 부코바 인근 여학교에서 사건이 시작됐다고 기술한다. 학생들은 갑작스러운 웃음만 보인 것이 아니라 울음, 초조, 불안정한 행동을 함께 나타냈다. 증상은 접촉한 다른 학생들과 학교, 일부 마을로 이어졌고 수업과 일상이 중단됐다. “웃는 사람들이 계속 즐거워했다”는 대중적 이미지와 원 보고서의 임상 묘사는 상당히 다르다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Rankin and Philip’s 1963 report traced the outbreak to a girls’ school near Bukoba in north-west Tanganyika. Students did not simply laugh; they also cried, became restless and showed disturbed behavior. Symptoms appeared in contacts at other schools and some villages, disrupting ordinary life. The clinical description differs sharply from the popular image of people happily laughing without control. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "MEDICAL",
+          "headingKo": "검사에서는 독성·감염 신호를 찾지 못했다",
+          "headingEn": "Medical Testing Found No Toxic or Infectious Signal",
+          "textKo": "현지 의료진은 환자에게서 뚜렷한 신체 이상을 찾지 못했고 실시된 실험실 검사도 정상이라고 기록했다. 식품 공급의 독성 요인도 확인되지 않았으며 사망자는 없었다. 이 결과는 당시 유행하던 중독설이나 감염병설을 약화시켰다. 다만 1960년대 농촌 동아프리카에서 가능한 검사가 오늘날보다 제한적이었다는 점도 함께 기억해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Medical officers reported no significant abnormal physical signs and normal laboratory tests in those examined. They found no toxic factor in food supplies and recorded no fatalities. Those findings weakened poisoning and infectious-disease explanations, although the diagnostic tools available in rural East Africa in the early 1960s were more limited than those available today. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "SPREAD",
+          "headingKo": "“웃음”보다 복합 증상이 이동했다",
+          "headingEn": "A Syndrome Spread, Not a Joke",
+          "textKo": "후대 연구자 Hempelmann은 이 사건이 웃음의 유머적 전염을 보여주는 고전 사례로 자주 오용됐다고 지적한다. 원 보고서에는 울음·공포·도주감·초조 같은 다양한 증상이 섞여 있고, 웃음은 그중 하나였다. 사건을 “누군가 웃자 옆 사람이 웃었다”는 단순 행동전염으로 바꾸면 실제 의학 기록의 복합성이 사라진다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Hempelmann later argued that the episode is often misused as a classic example of humorous contagious laughter. The original report described a mixture of crying, fear, restlessness and other symptoms, with laughter only one element. Reducing it to a simple chain of one person laughing because another laughed erases the complexity of the medical record. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "INTERPRETATION",
+          "headingKo": "집단심인성 질환 해석과 시대적 맥락",
+          "headingEn": "Mass Psychogenic Illness and Historical Context",
+          "textKo": "당시 의사들은 “mass hysteria”라는 용어를 사용했고, 현대 연구에서는 더 중립적인 집단심인성 질환 또는 사회성 질환이라는 틀이 자주 사용된다. 학교 규율, 사회 변화, 탈식민기의 긴장 같은 맥락이 제시돼 왔다. 그러나 이런 해석도 한 개인의 마음을 직접 측정한 것이 아니라 집단 패턴과 음성 검사결과를 바탕으로 한 역사적·임상적 추론이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The original physicians used the term “mass hysteria”; modern scholarship more often frames the episode as mass psychogenic or sociogenic illness. School discipline, social change and postcolonial stress have been proposed as relevant context. Even this interpretation is an inference from group patterns and negative medical findings, not a direct measurement of every affected individual’s mental state. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "괴상한 제목보다 자료의 수정이 더 흥미롭다",
+          "headingEn": "The Correction Is More Interesting Than the Sensational Label",
+          "textKo": "사건은 실제로 있었지만 인터넷에서 반복되는 버전은 “몇 달간 웃음이 나라 전체를 마비시켰다”는 식으로 과장되기 쉽다. 원 보고서와 후대 재평가를 나란히 놓으면 사망 없음, 복합 증상, 정상 검사라는 중요한 경계가 드러난다. 미스터리는 웃음의 전염성이 아니라 왜 특정 사회환경에서 집단적 증상이 생기고 퍼졌는지에 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The event was real, but online retellings often turn it into a story in which laughter alone paralyzed an entire country for months. Reading the first report beside later reassessment restores key boundaries: no deaths, multiple symptoms and negative medical tests. The mystery is not the magical contagiousness of laughter but why collective symptoms emerged and spread in a particular social environment. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1962년 부코바 지역에서 웃음·울음·초조 등을 포함한 집단 행동 증상이 발생해 학교와 마을로 확산됐다는 사건은 1963년 의학 보고로 확인된다. 당시 조사자들은 유의한 신체 이상이나 독성 식품 요인을 찾지 못했고 사망자는 없다고 보고했다.\n\nNOT ESTABLISHED: 웃음 자체가 바이러스처럼 전염됐다는 것, 독성물질이나 특정 감염원이 원인이었다는 것, 또는 오늘날의 진단기준으로 단일 정신질환을 확정할 수 있다는 것은 입증되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: A 1963 medical report documents an outbreak in the Bukoba district involving laughter, crying, restlessness and related behavior that spread between schools and villages. Investigators reported no significant physical abnormalities, no toxic food factor and no fatalities.\n\nNOT ESTABLISHED: The evidence does not establish that laughter itself spread like a virus, that a toxin or infectious agent caused the outbreak, or that a single modern psychiatric diagnosis can be assigned with certainty."
+        }
+      ],
+      "factBoundary": {
+        "established": "1962년 부코바 지역에서 웃음·울음·초조 등을 포함한 집단 행동 증상이 발생해 학교와 마을로 확산됐다는 사건은 1963년 의학 보고로 확인된다. 당시 조사자들은 유의한 신체 이상이나 독성 식품 요인을 찾지 못했고 사망자는 없다고 보고했다.",
+        "notEstablished": "웃음 자체가 바이러스처럼 전염됐다는 것, 독성물질이나 특정 감염원이 원인이었다는 것, 또는 오늘날의 진단기준으로 단일 정신질환을 확정할 수 있다는 것은 입증되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "Was the Tanganyika “Laughter Epidemic” Really an Epidemic of Laughter?",
+      "hook": "An outbreak of unusual behavior began at a girls’ school in north-west Tanganyika in 1962 and spread to other schools and villages. The first medical report described not only laughter but crying and restlessness, found no abnormal laboratory results, and reported no deaths. Later scholarship corrected the popular story of simply “contagious laughter.”",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "여학교에서 시작된 이상 행동",
+          "headingEn": "The Outbreak Began at a Girls’ School",
+          "textKo": "1963년 Rankin과 Philip의 보고는 1962년 북서부 탕가니카 부코바 인근 여학교에서 사건이 시작됐다고 기술한다. 학생들은 갑작스러운 웃음만 보인 것이 아니라 울음, 초조, 불안정한 행동을 함께 나타냈다. 증상은 접촉한 다른 학생들과 학교, 일부 마을로 이어졌고 수업과 일상이 중단됐다. “웃는 사람들이 계속 즐거워했다”는 대중적 이미지와 원 보고서의 임상 묘사는 상당히 다르다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Rankin and Philip’s 1963 report traced the outbreak to a girls’ school near Bukoba in north-west Tanganyika. Students did not simply laugh; they also cried, became restless and showed disturbed behavior. Symptoms appeared in contacts at other schools and some villages, disrupting ordinary life. The clinical description differs sharply from the popular image of people happily laughing without control. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "MEDICAL",
+          "headingKo": "검사에서는 독성·감염 신호를 찾지 못했다",
+          "headingEn": "Medical Testing Found No Toxic or Infectious Signal",
+          "textKo": "현지 의료진은 환자에게서 뚜렷한 신체 이상을 찾지 못했고 실시된 실험실 검사도 정상이라고 기록했다. 식품 공급의 독성 요인도 확인되지 않았으며 사망자는 없었다. 이 결과는 당시 유행하던 중독설이나 감염병설을 약화시켰다. 다만 1960년대 농촌 동아프리카에서 가능한 검사가 오늘날보다 제한적이었다는 점도 함께 기억해야 한다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Medical officers reported no significant abnormal physical signs and normal laboratory tests in those examined. They found no toxic factor in food supplies and recorded no fatalities. Those findings weakened poisoning and infectious-disease explanations, although the diagnostic tools available in rural East Africa in the early 1960s were more limited than those available today. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "SPREAD",
+          "headingKo": "“웃음”보다 복합 증상이 이동했다",
+          "headingEn": "A Syndrome Spread, Not a Joke",
+          "textKo": "후대 연구자 Hempelmann은 이 사건이 웃음의 유머적 전염을 보여주는 고전 사례로 자주 오용됐다고 지적한다. 원 보고서에는 울음·공포·도주감·초조 같은 다양한 증상이 섞여 있고, 웃음은 그중 하나였다. 사건을 “누군가 웃자 옆 사람이 웃었다”는 단순 행동전염으로 바꾸면 실제 의학 기록의 복합성이 사라진다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Hempelmann later argued that the episode is often misused as a classic example of humorous contagious laughter. The original report described a mixture of crying, fear, restlessness and other symptoms, with laughter only one element. Reducing it to a simple chain of one person laughing because another laughed erases the complexity of the medical record. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "INTERPRETATION",
+          "headingKo": "집단심인성 질환 해석과 시대적 맥락",
+          "headingEn": "Mass Psychogenic Illness and Historical Context",
+          "textKo": "당시 의사들은 “mass hysteria”라는 용어를 사용했고, 현대 연구에서는 더 중립적인 집단심인성 질환 또는 사회성 질환이라는 틀이 자주 사용된다. 학교 규율, 사회 변화, 탈식민기의 긴장 같은 맥락이 제시돼 왔다. 그러나 이런 해석도 한 개인의 마음을 직접 측정한 것이 아니라 집단 패턴과 음성 검사결과를 바탕으로 한 역사적·임상적 추론이다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The original physicians used the term “mass hysteria”; modern scholarship more often frames the episode as mass psychogenic or sociogenic illness. School discipline, social change and postcolonial stress have been proposed as relevant context. Even this interpretation is an inference from group patterns and negative medical findings, not a direct measurement of every affected individual’s mental state. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "괴상한 제목보다 자료의 수정이 더 흥미롭다",
+          "headingEn": "The Correction Is More Interesting Than the Sensational Label",
+          "textKo": "사건은 실제로 있었지만 인터넷에서 반복되는 버전은 “몇 달간 웃음이 나라 전체를 마비시켰다”는 식으로 과장되기 쉽다. 원 보고서와 후대 재평가를 나란히 놓으면 사망 없음, 복합 증상, 정상 검사라는 중요한 경계가 드러난다. 미스터리는 웃음의 전염성이 아니라 왜 특정 사회환경에서 집단적 증상이 생기고 퍼졌는지에 있다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "The event was real, but online retellings often turn it into a story in which laughter alone paralyzed an entire country for months. Reading the first report beside later reassessment restores key boundaries: no deaths, multiple symptoms and negative medical tests. The mystery is not the magical contagiousness of laughter but why collective symptoms emerged and spread in a particular social environment. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1962년 부코바 지역에서 웃음·울음·초조 등을 포함한 집단 행동 증상이 발생해 학교와 마을로 확산됐다는 사건은 1963년 의학 보고로 확인된다. 당시 조사자들은 유의한 신체 이상이나 독성 식품 요인을 찾지 못했고 사망자는 없다고 보고했다.\n\nNOT ESTABLISHED: 웃음 자체가 바이러스처럼 전염됐다는 것, 독성물질이나 특정 감염원이 원인이었다는 것, 또는 오늘날의 진단기준으로 단일 정신질환을 확정할 수 있다는 것은 입증되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: A 1963 medical report documents an outbreak in the Bukoba district involving laughter, crying, restlessness and related behavior that spread between schools and villages. Investigators reported no significant physical abnormalities, no toxic food factor and no fatalities.\n\nNOT ESTABLISHED: The evidence does not establish that laughter itself spread like a virus, that a toxin or infectious agent caused the outbreak, or that a single modern psychiatric diagnosis can be assigned with certainty."
+        }
+      ],
+      "factBoundary": {
+        "established": "A 1963 medical report documents an outbreak in the Bukoba district involving laughter, crying, restlessness and related behavior that spread between schools and villages. Investigators reported no significant physical abnormalities, no toxic food factor and no fatalities.",
+        "notEstablished": "The evidence does not establish that laughter itself spread like a virus, that a toxin or infectious agent caused the outbreak, or that a single modern psychiatric diagnosis can be assigned with certainty."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TANGANYIKA_LAUGHTER_1962-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1962년 부코바 지역에서 웃음·울음·초조 등을 포함한 집단 행동 증상이 발생해 학교와 마을로 확산됐다는 사건은 1963년 의학 보고로 확인된다. 당시 조사자들은 유의한 신체 이상이나 독성 식품 요인을 찾지 못했고 사망자는 없다고 보고했다.",
+      "statementEn": "A 1963 medical report documents an outbreak in the Bukoba district involving laughter, crying, restlessness and related behavior that spread between schools and villages. Investigators reported no significant physical abnormalities, no toxic food factor and no fatalities.",
+      "sourceRefs": [
+        "RANKIN_1963",
+        "HEMPELMANN_2007",
+        "EAST_AFRICA_HIST"
+      ]
+    },
+    {
+      "claimId": "TANGANYIKA_LAUGHTER_1962-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "웃음 자체가 바이러스처럼 전염됐다는 것, 독성물질이나 특정 감염원이 원인이었다는 것, 또는 오늘날의 진단기준으로 단일 정신질환을 확정할 수 있다는 것은 입증되지 않는다.",
+      "statementEn": "The evidence does not establish that laughter itself spread like a virus, that a toxin or infectious agent caused the outbreak, or that a single modern psychiatric diagnosis can be assigned with certainty.",
+      "sourceRefs": [
+        "RANKIN_1963",
+        "HEMPELMANN_2007",
+        "EAST_AFRICA_HIST"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "RANKIN_1963",
+      "title": "An epidemic of laughing in the Bukoba district of Tanganyika",
+      "publisher": "Central African Journal of Medicine",
+      "url": "https://journals.co.za/doi/10.10520/AJA00089176_6171",
+      "sourceType": "PRIMARY_MEDICAL_REPORT"
+    },
+    {
+      "sourceId": "HEMPELMANN_2007",
+      "title": "The laughter of the 1962 Tanganyika “laughter epidemic”",
+      "publisher": "HUMOR / De Gruyter",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/HUMOR.2007.003/html",
+      "sourceType": "PEER_REVIEWED_REASSESSMENT"
+    },
+    {
+      "sourceId": "EAST_AFRICA_HIST",
+      "title": "Investigating “mass hysteria” in early postcolonial Uganda",
+      "publisher": "PMC / History of the Human Sciences",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4988490/",
+      "sourceType": "ACADEMIC_HISTORICAL_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "tanganyika-laughter-1962-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "RANKIN_1963",
+        "HEMPELMANN_2007",
+        "EAST_AFRICA_HIST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "tanganyika-laughter-1962__tanganyika-laughter-1962-v01__ko.png",
+          "sha256": "8fdf2e60243acde6d12b404486345a093c674d3695e8b01dbf0e935247efa6b0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "tanganyika-laughter-1962__tanganyika-laughter-1962-v01__ko.png"
+        },
+        "en": {
+          "file": "tanganyika-laughter-1962__tanganyika-laughter-1962-v01__en.png",
+          "sha256": "388aee61c3eb4991520d66d054aa059ccce379949deea33159d84165fd685e13",
+          "width": 1600,
+          "height": 900,
+          "fileName": "tanganyika-laughter-1962__tanganyika-laughter-1962-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "tanganyika-laughter-1962-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "RANKIN_1963",
+        "HEMPELMANN_2007",
+        "EAST_AFRICA_HIST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "tanganyika-laughter-1962__tanganyika-laughter-1962-v02__ko.png",
+          "sha256": "31347789b0b55da6b73946cee18a7f2a5ce970590067f5491a759dad0755287b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "tanganyika-laughter-1962__tanganyika-laughter-1962-v02__ko.png"
+        },
+        "en": {
+          "file": "tanganyika-laughter-1962__tanganyika-laughter-1962-v02__en.png",
+          "sha256": "460e98b35886d012fe106ed419f58cbd3f50990cd20c0edbfb5bc56a84025bb4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "tanganyika-laughter-1962__tanganyika-laughter-1962-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "tanganyika-laughter-1962-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "RANKIN_1963",
+        "HEMPELMANN_2007",
+        "EAST_AFRICA_HIST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "tanganyika-laughter-1962__tanganyika-laughter-1962-v03__ko.png",
+          "sha256": "56021203a7523c116e940d063aa61f7d54b2715012e41c3b5dfa2b43229a2077",
+          "width": 1600,
+          "height": 900,
+          "fileName": "tanganyika-laughter-1962__tanganyika-laughter-1962-v03__ko.png"
+        },
+        "en": {
+          "file": "tanganyika-laughter-1962__tanganyika-laughter-1962-v03__en.png",
+          "sha256": "23136eb09376168aeb122a8113c2d6147cfe9aa2c4b99535d641df93a25893fd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "tanganyika-laughter-1962__tanganyika-laughter-1962-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Tanganyika (Tanzania)",
+    "era": "1962–1963",
+    "genre": "Medicine / Psychology / Human Experiment",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "resolution": "unknown",
+    "countries": [
+      "Tanganyika (Tanzania)"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1544,
+    "enBodyWords": 467
+  }
+}

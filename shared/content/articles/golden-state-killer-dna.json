@@ -1,0 +1,339 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "golden-state-killer-dna",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "골든 스테이트 킬러의 유전자 추적",
+    "canonicalTitleEn": "The Golden State Killer and Investigative Genetic Genealogy",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "수십 년 묵은 연쇄범죄는 어떻게 가족나무를 따라 한 사람에게 좁혀졌나",
+      "hook": "1970~80년대 캘리포니아의 여러 살인·성폭력 사건은 DNA와 범행 패턴으로 한 범인과 연결됐지만 신원은 수십 년간 남지 않았다. 2018년 수사기관은 법집행 CODIS와 다른 방식의 조사 유전계보를 이용해 Joseph DeAngelo를 특정했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "하나의 이름이 없던 여러 사건",
+          "headingEn": "Many Crimes, No Name",
+          "textKo": "1976년부터 1986년까지 캘리포니아 여러 지역에서 발생한 성폭력·살인·주거침입 사건은 서로 다른 별칭으로 불렸다. 시간이 지나면서 DNA와 범행 특징이 여러 사건을 하나의 범인 집단으로 묶었지만 이름은 남지 않았다. FBI는 2016년에도 공개 캠페인과 보상금을 걸어 신원 확인을 요청했다. 과학이 사건을 연결했어도 사람을 특정하지 못한 상태가 오래 지속됐다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "From 1976 to 1986, sexual assaults, murders and burglaries across California were known under several different offender names. DNA and behavioral links eventually connected many crimes to one offender, but the name remained unknown. As late as 2016 the FBI was running a public campaign and reward effort. Science had linked the cases without yet identifying the person. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "GENEALOGY",
+          "headingKo": "CODIS와 다른 계보 검색",
+          "headingEn": "A Search Different from CODIS",
+          "textKo": "FBI 자료는 법집행 DNA 데이터베이스의 친족검색과 조사 유전계보를 구분한다. 조사 유전계보는 소비자가 계보 목적으로 제출한 비법집행 데이터베이스의 장거리 친족 연결과 계보 기록을 이용해 후보 가문을 좁힌다. 2018년 수사팀은 이 방법을 통해 DeAngelo가 포함된 계보 방향으로 수사를 집중했고, 이후 전통적 감시와 직접 DNA 확인 단계로 넘어갔다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "FBI guidance distinguishes law-enforcement familial searching from forensic genetic genealogy. Investigative genealogy uses long-range family relationships in non-law-enforcement genealogy data and documentary family trees to narrow candidate families. In 2018 the team used that approach to focus on a lineage containing DeAngelo, then moved to conventional surveillance and direct DNA confirmation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "CONFIRMATION",
+          "headingKo": "가족나무는 단서였고 신원 확인은 별도였다",
+          "headingEn": "The Family Tree Was a Lead, Not the Final Proof",
+          "textKo": "계보상 가능한 친척을 찾는 것과 범죄현장 DNA의 실제 주인을 확정하는 것은 다른 단계다. 후보자들의 연령, 성별, 거주지, 당시 이동 가능성을 전통 수사로 걸러내고, 최종적으로 DeAngelo와 범죄현장 DNA를 비교하는 확인 절차가 이어졌다. 이 구분은 조사 유전계보가 “데이터베이스에서 범인 이름이 바로 튀어나오는 기술”이라는 오해를 막아준다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Finding possible relatives in a family tree is different from proving who left crime-scene DNA. Investigators filtered candidates through age, sex, residence and historical opportunity, then used direct DNA comparison to confirm DeAngelo. This distinction matters because investigative genealogy is not a system in which a criminal’s name simply appears from a database query. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "OUTCOME",
+          "headingKo": "2018 체포에서 2020 유죄 인정까지",
+          "headingEn": "From the 2018 Arrest to the 2020 Pleas",
+          "textKo": "DeAngelo는 2018년 체포된 뒤 여러 카운티의 사건이 하나의 기소 절차로 묶였다. 2020년 그는 13건의 살인과 13건의 납치 혐의에 유죄를 인정했고 다수의 추가 범행을 인정하는 절차가 진행됐다. 사건은 “미제 연쇄범 신원”이라는 핵심 미스터리는 닫았지만, DNA 데이터의 사용범위와 제3자 가족의 프라이버시라는 새로운 정책 논쟁을 남겼다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "After DeAngelo’s 2018 arrest, cases from multiple counties were consolidated. In 2020 he pleaded guilty to 13 murders and 13 kidnappings and acknowledged numerous additional crimes. The central mystery of the offender’s identity was resolved, but the method opened a new policy debate about access to genetic data and the privacy interests of relatives who never submitted evidence themselves. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리의 핵심은 “어떻게”다",
+          "headingEn": "For a Solved Mystery, the “How” Is the Story",
+          "textKo": "이 사건은 범인이 잡혔기 때문에 미스터리가 끝난 일반 범죄사가 아니다. 수십 년 된 DNA가 사건들을 연결하고, 새로운 데이터 구조가 친족망을 통해 후보를 좁히고, 마지막에 전통 수사가 신원을 확인하는 단계적 해결 과정이 핵심이다. 해결 자체가 서사의 결말이 아니라 새로운 수사기술이 오래된 미제를 어떻게 바꿨는지를 보여주는 증거기반 미스터리다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "This is not simply a crime story that stopped being mysterious once the offender was caught. The central narrative is the sequence: old DNA links crimes, a new data strategy narrows a family network, and conventional investigation confirms a person. The solution itself demonstrates how new investigative infrastructure can transform a decades-old cold case. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Joseph James DeAngelo는 2018년 체포됐고 2020년 13건의 살인과 13건의 납치 등 혐의에 유죄를 인정한 뒤 가석방 없는 종신형을 선고받았다. FBI와 Sacramento County DA는 조사 유전계보가 신원 특정에 핵심적으로 사용됐다고 설명한다.\n\nNOT ESTABLISHED: 유전계보가 단독으로 유죄를 확정한 것은 아니며, 계보 검색 결과는 수사 후보를 좁히는 단서였다. 최종 신원 확인과 형사절차에는 별도의 DNA 비교와 전통적 수사·법정 절차가 필요했다.",
+          "textEn": "CONFIRMED / SUPPORTED: Joseph James DeAngelo was arrested in 2018 and in 2020 pleaded guilty to 13 murders and 13 kidnappings, receiving life sentences without parole. The FBI and Sacramento County District Attorney describe investigative genetic genealogy as central to identifying him.\n\nNOT ESTABLISHED: Genetic genealogy did not by itself establish guilt. Genealogical searching generated investigative leads; separate DNA comparison, traditional police work and the criminal process were required to confirm identity and resolve the case."
+        }
+      ],
+      "factBoundary": {
+        "established": "Joseph James DeAngelo는 2018년 체포됐고 2020년 13건의 살인과 13건의 납치 등 혐의에 유죄를 인정한 뒤 가석방 없는 종신형을 선고받았다. FBI와 Sacramento County DA는 조사 유전계보가 신원 특정에 핵심적으로 사용됐다고 설명한다.",
+        "notEstablished": "유전계보가 단독으로 유죄를 확정한 것은 아니며, 계보 검색 결과는 수사 후보를 좁히는 단서였다. 최종 신원 확인과 형사절차에는 별도의 DNA 비교와 전통적 수사·법정 절차가 필요했다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Decades-Old Serial Crime Case Narrow Through Genetic Genealogy?",
+      "hook": "Murders and sexual assaults across California in the 1970s and 1980s were linked by DNA and crime patterns, yet the offender remained unidentified for decades. In 2018 investigators used investigative genetic genealogy—distinct from ordinary CODIS searching—to narrow the case to Joseph DeAngelo.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "하나의 이름이 없던 여러 사건",
+          "headingEn": "Many Crimes, No Name",
+          "textKo": "1976년부터 1986년까지 캘리포니아 여러 지역에서 발생한 성폭력·살인·주거침입 사건은 서로 다른 별칭으로 불렸다. 시간이 지나면서 DNA와 범행 특징이 여러 사건을 하나의 범인 집단으로 묶었지만 이름은 남지 않았다. FBI는 2016년에도 공개 캠페인과 보상금을 걸어 신원 확인을 요청했다. 과학이 사건을 연결했어도 사람을 특정하지 못한 상태가 오래 지속됐다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "From 1976 to 1986, sexual assaults, murders and burglaries across California were known under several different offender names. DNA and behavioral links eventually connected many crimes to one offender, but the name remained unknown. As late as 2016 the FBI was running a public campaign and reward effort. Science had linked the cases without yet identifying the person. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "GENEALOGY",
+          "headingKo": "CODIS와 다른 계보 검색",
+          "headingEn": "A Search Different from CODIS",
+          "textKo": "FBI 자료는 법집행 DNA 데이터베이스의 친족검색과 조사 유전계보를 구분한다. 조사 유전계보는 소비자가 계보 목적으로 제출한 비법집행 데이터베이스의 장거리 친족 연결과 계보 기록을 이용해 후보 가문을 좁힌다. 2018년 수사팀은 이 방법을 통해 DeAngelo가 포함된 계보 방향으로 수사를 집중했고, 이후 전통적 감시와 직접 DNA 확인 단계로 넘어갔다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "FBI guidance distinguishes law-enforcement familial searching from forensic genetic genealogy. Investigative genealogy uses long-range family relationships in non-law-enforcement genealogy data and documentary family trees to narrow candidate families. In 2018 the team used that approach to focus on a lineage containing DeAngelo, then moved to conventional surveillance and direct DNA confirmation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "CONFIRMATION",
+          "headingKo": "가족나무는 단서였고 신원 확인은 별도였다",
+          "headingEn": "The Family Tree Was a Lead, Not the Final Proof",
+          "textKo": "계보상 가능한 친척을 찾는 것과 범죄현장 DNA의 실제 주인을 확정하는 것은 다른 단계다. 후보자들의 연령, 성별, 거주지, 당시 이동 가능성을 전통 수사로 걸러내고, 최종적으로 DeAngelo와 범죄현장 DNA를 비교하는 확인 절차가 이어졌다. 이 구분은 조사 유전계보가 “데이터베이스에서 범인 이름이 바로 튀어나오는 기술”이라는 오해를 막아준다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "Finding possible relatives in a family tree is different from proving who left crime-scene DNA. Investigators filtered candidates through age, sex, residence and historical opportunity, then used direct DNA comparison to confirm DeAngelo. This distinction matters because investigative genealogy is not a system in which a criminal’s name simply appears from a database query. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "OUTCOME",
+          "headingKo": "2018 체포에서 2020 유죄 인정까지",
+          "headingEn": "From the 2018 Arrest to the 2020 Pleas",
+          "textKo": "DeAngelo는 2018년 체포된 뒤 여러 카운티의 사건이 하나의 기소 절차로 묶였다. 2020년 그는 13건의 살인과 13건의 납치 혐의에 유죄를 인정했고 다수의 추가 범행을 인정하는 절차가 진행됐다. 사건은 “미제 연쇄범 신원”이라는 핵심 미스터리는 닫았지만, DNA 데이터의 사용범위와 제3자 가족의 프라이버시라는 새로운 정책 논쟁을 남겼다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "After DeAngelo’s 2018 arrest, cases from multiple counties were consolidated. In 2020 he pleaded guilty to 13 murders and 13 kidnappings and acknowledged numerous additional crimes. The central mystery of the offender’s identity was resolved, but the method opened a new policy debate about access to genetic data and the privacy interests of relatives who never submitted evidence themselves. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리의 핵심은 “어떻게”다",
+          "headingEn": "For a Solved Mystery, the “How” Is the Story",
+          "textKo": "이 사건은 범인이 잡혔기 때문에 미스터리가 끝난 일반 범죄사가 아니다. 수십 년 된 DNA가 사건들을 연결하고, 새로운 데이터 구조가 친족망을 통해 후보를 좁히고, 마지막에 전통 수사가 신원을 확인하는 단계적 해결 과정이 핵심이다. 해결 자체가 서사의 결말이 아니라 새로운 수사기술이 오래된 미제를 어떻게 바꿨는지를 보여주는 증거기반 미스터리다. 이 구분은 사건 자체의 존재, 원인에 대한 해석, 후대에 덧붙은 서사를 같은 확실성으로 취급하지 않기 위해 필요하다.",
+          "textEn": "This is not simply a crime story that stopped being mysterious once the offender was caught. The central narrative is the sequence: old DNA links crimes, a new data strategy narrows a family network, and conventional investigation confirms a person. The solution itself demonstrates how new investigative infrastructure can transform a decades-old cold case. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Joseph James DeAngelo는 2018년 체포됐고 2020년 13건의 살인과 13건의 납치 등 혐의에 유죄를 인정한 뒤 가석방 없는 종신형을 선고받았다. FBI와 Sacramento County DA는 조사 유전계보가 신원 특정에 핵심적으로 사용됐다고 설명한다.\n\nNOT ESTABLISHED: 유전계보가 단독으로 유죄를 확정한 것은 아니며, 계보 검색 결과는 수사 후보를 좁히는 단서였다. 최종 신원 확인과 형사절차에는 별도의 DNA 비교와 전통적 수사·법정 절차가 필요했다.",
+          "textEn": "CONFIRMED / SUPPORTED: Joseph James DeAngelo was arrested in 2018 and in 2020 pleaded guilty to 13 murders and 13 kidnappings, receiving life sentences without parole. The FBI and Sacramento County District Attorney describe investigative genetic genealogy as central to identifying him.\n\nNOT ESTABLISHED: Genetic genealogy did not by itself establish guilt. Genealogical searching generated investigative leads; separate DNA comparison, traditional police work and the criminal process were required to confirm identity and resolve the case."
+        }
+      ],
+      "factBoundary": {
+        "established": "Joseph James DeAngelo was arrested in 2018 and in 2020 pleaded guilty to 13 murders and 13 kidnappings, receiving life sentences without parole. The FBI and Sacramento County District Attorney describe investigative genetic genealogy as central to identifying him.",
+        "notEstablished": "Genetic genealogy did not by itself establish guilt. Genealogical searching generated investigative leads; separate DNA comparison, traditional police work and the criminal process were required to confirm identity and resolve the case."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GOLDEN_STATE_KILLER_DNA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Joseph James DeAngelo는 2018년 체포됐고 2020년 13건의 살인과 13건의 납치 등 혐의에 유죄를 인정한 뒤 가석방 없는 종신형을 선고받았다. FBI와 Sacramento County DA는 조사 유전계보가 신원 특정에 핵심적으로 사용됐다고 설명한다.",
+      "statementEn": "Joseph James DeAngelo was arrested in 2018 and in 2020 pleaded guilty to 13 murders and 13 kidnappings, receiving life sentences without parole. The FBI and Sacramento County District Attorney describe investigative genetic genealogy as central to identifying him.",
+      "sourceRefs": [
+        "FBI_TIMELINE",
+        "FBI_CODIS",
+        "SACDA_CCST"
+      ]
+    },
+    {
+      "claimId": "GOLDEN_STATE_KILLER_DNA-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "유전계보가 단독으로 유죄를 확정한 것은 아니며, 계보 검색 결과는 수사 후보를 좁히는 단서였다. 최종 신원 확인과 형사절차에는 별도의 DNA 비교와 전통적 수사·법정 절차가 필요했다.",
+      "statementEn": "Genetic genealogy did not by itself establish guilt. Genealogical searching generated investigative leads; separate DNA comparison, traditional police work and the criminal process were required to confirm identity and resolve the case.",
+      "sourceRefs": [
+        "FBI_TIMELINE",
+        "FBI_CODIS",
+        "SACDA_CCST"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "FBI_TIMELINE",
+      "title": "FBI Timeline — April 2018 Golden State Killer arrest",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/timeline",
+      "sourceType": "FEDERAL_LAW_ENFORCEMENT"
+    },
+    {
+      "sourceId": "FBI_CODIS",
+      "title": "CODIS Archive — forensic genetic genealogy distinction",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://le.fbi.gov/science-and-lab/biometrics-and-fingerprints/codis-2",
+      "sourceType": "FEDERAL_FORENSIC_GUIDANCE"
+    },
+    {
+      "sourceId": "SACDA_CCST",
+      "title": "Cold Case Science and Technology Unit",
+      "publisher": "Sacramento County District Attorney",
+      "url": "https://www.sacda.org/in-the-courtroom/the-cold-case-science-and-technology-unit/",
+      "sourceType": "PROSECUTOR_OFFICE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "golden-state-killer-dna-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "FBI_TIMELINE",
+        "FBI_CODIS",
+        "SACDA_CCST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "golden-state-killer-dna__golden-state-killer-dna-v01__ko.png",
+          "sha256": "ab1e0596ce7a63174b97732c9519b2c012b4c668c3177cd3ca59755b8d2076d5",
+          "width": 1600,
+          "height": 900,
+          "fileName": "golden-state-killer-dna__golden-state-killer-dna-v01__ko.png"
+        },
+        "en": {
+          "file": "golden-state-killer-dna__golden-state-killer-dna-v01__en.png",
+          "sha256": "e1eb28b75bab97f9ecaccdb63557fc1aca00133e7ad9a8095e918f8da398d4c3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "golden-state-killer-dna__golden-state-killer-dna-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "golden-state-killer-dna-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "FBI_TIMELINE",
+        "FBI_CODIS",
+        "SACDA_CCST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "golden-state-killer-dna__golden-state-killer-dna-v02__ko.png",
+          "sha256": "f0e9cd7c22c7e5512efe7fe45faf0ee2bf3a122866034ca98afb9ef163fd9098",
+          "width": 1600,
+          "height": 900,
+          "fileName": "golden-state-killer-dna__golden-state-killer-dna-v02__ko.png"
+        },
+        "en": {
+          "file": "golden-state-killer-dna__golden-state-killer-dna-v02__en.png",
+          "sha256": "9355bb20d1c2273508978478437379388336ae33240e92dd9c76d2c7a3ada551",
+          "width": 1600,
+          "height": 900,
+          "fileName": "golden-state-killer-dna__golden-state-killer-dna-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "golden-state-killer-dna-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "FBI_TIMELINE",
+        "FBI_CODIS",
+        "SACDA_CCST"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "golden-state-killer-dna__golden-state-killer-dna-v03__ko.png",
+          "sha256": "c21698795c432cffabffbe118362932382a57ede6fa036ea462389fcf67dd854",
+          "width": 1600,
+          "height": 900,
+          "fileName": "golden-state-killer-dna__golden-state-killer-dna-v03__ko.png"
+        },
+        "en": {
+          "file": "golden-state-killer-dna__golden-state-killer-dna-v03__en.png",
+          "sha256": "bcda969d0a8b443486ab885b1629eecb2381bb9e8856161eb73081a6a194d11b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "golden-state-killer-dna__golden-state-killer-dna-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States",
+    "era": "1976–2020",
+    "genre": "Unsolved Crime / Disappearance",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Unsolved Crime / Disappearance",
+    "resolution": "unknown",
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1612,
+    "enBodyWords": 457
+  }
+}
