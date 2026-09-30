@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "hunminjeongeum-haerye-1940",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "훈민정음 해례본의 전승과 1940년 입수",
+    "canonicalTitleEn": "The Hunminjeongeum Haerye and Its 1940 Reappearance",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "문자 창제 원리를 설명한 책은 어떻게 다시 세상에 나왔나",
+      "hook": "1446년의 훈민정음 해례본은 한글 창제 원리를 직접 설명하는 핵심 문헌이다. 현재 간송미술관 소장본은 1940년 전형필이 입수했지만, 그 이전 전승 경로의 세부는 후대 이야기와 연구가 섞여 있다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "OBJECT",
+          "headingKo": "한글을 설명하는 ‘설계 문서’",
+          "headingEn": "A Design Document for a Writing System",
+          "textKo": "훈민정음은 문자 이름이면서 1446년에 간행된 책 이름이기도 하다. 해례본에는 세종의 서문과 예의뿐 아니라 집현전 학자들이 문자 구성 원리와 초성·중성·종성, 결합 방식과 용례를 설명한 해례가 포함된다. 한글의 구조를 후대 추측이 아니라 당대 문헌으로 확인하게 해주는 자료다.",
+          "textEn": "Hunminjeongeum is both the original name of the script and the title of the book published in 1446. The Haerye edition includes the royal preface and examples as well as detailed explanations of consonants, vowels, syllable structure, and usage by scholars of the Hall of Worthies."
+        },
+        {
+          "blockId": "02",
+          "type": "MISSING_RECORD",
+          "headingKo": "원리는 알려졌지만 원문은 오랫동안 보이지 않았다",
+          "headingEn": "The Principles Survived While the Book Disappeared from View",
+          "textKo": "한글은 계속 쓰였지만, 창제 원리를 체계적으로 설명한 해례본 실물은 근대에 널리 알려진 자료가 아니었다. 그래서 문자 형태가 무엇을 본떠 만들어졌는지 같은 핵심 문제를 둘러싸고 여러 설명이 존재했다. 해례본의 등장은 이런 논의를 당대 문헌으로 다시 연결했다.",
+          "textEn": "Hangul continued to be used, but the surviving Haerye copy was not widely available to modern scholars. Questions about the intended logic behind letter shapes therefore attracted competing explanations. The manuscript’s reappearance reconnected those debates to a contemporaneous explanatory text."
+        },
+        {
+          "blockId": "03",
+          "type": "REAPPEARANCE",
+          "headingKo": "1940년, 전형필의 입수",
+          "headingEn": "Jeon Hyeong-pil’s 1940 Acquisition",
+          "textKo": "간송미술문화재단은 일제강점기인 1940년 전형필이 훈민정음 원본 한 부를 고가에 구입했다고 기록한다. 당시 한국어 교육과 문화가 압박받던 시기였다는 맥락 때문에 이 입수는 단순한 수집을 넘어 보존 행위로 기억된다.",
+          "textEn": "The Kansong Art and Culture Foundation records that Jeon Hyeong-pil acquired an original copy of Hunminjeongeum in 1940 at great cost. Because the purchase occurred during Japanese colonial policies suppressing Korean language and culture, the acquisition is remembered as an act of preservation as well as collecting."
+        },
+        {
+          "blockId": "04",
+          "type": "DOCUMENT",
+          "headingKo": "책이 말해주는 것은 무엇인가",
+          "headingEn": "What the Manuscript Itself Establishes",
+          "textKo": "유네스코는 이 문헌을 1446년 음력 9월 간행된 책으로 설명하고, 세종의 문자 반포와 해례·정인지 서문을 포함한다고 정리한다. 국립한글박물관 역시 자음과 모음의 제자 원리, 음절 구성, 용례를 이 책을 통해 구체적으로 알 수 있다고 설명한다.",
+          "textEn": "UNESCO describes the manuscript as a 1446 publication containing Sejong’s promulgation, explanatory commentaries, and Jeong In-ji’s postface. The National Hangeul Museum likewise emphasizes that the book preserves specific explanations for consonant and vowel design, syllable structure, and use."
+        },
+        {
+          "blockId": "05",
+          "type": "PROVENANCE",
+          "headingKo": "‘발견’ 서사의 빈칸",
+          "headingEn": "The Gaps in the Discovery Story",
+          "textKo": "현재 소장본이 1940년에 전형필의 수중으로 들어왔다는 사실은 기관 기록으로 확인되지만, 그 이전 몇 세기 동안 정확히 누구의 손을 거쳐 어떤 방식으로 보관됐는지를 하나의 연속된 문서 사슬로 복원하기는 어렵다. 후대에 전해진 일화와 실물의 확정 정보는 구분해야 한다.",
+          "textEn": "The 1940 acquisition is institutionally documented, but the copy’s full custody history across the preceding centuries cannot be reconstructed as one uninterrupted documentary chain. Later anecdotes about ownership and concealment should therefore be separated from what the surviving object and institutional records establish."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "첫 장의 훼손을 곧바로 탄압 서사로 연결할 수 있을까",
+          "headingEn": "Can Damage Be Directly Tied to Suppression?",
+          "textKo": "해례본의 결손과 표지 상태를 둘러싼 설명에는 후대 전승이 섞여 있다. 일부 연구는 첫 두 장이 사라진 시기와 원인을 기존 통설과 다르게 본다. 책의 가치와 진정성을 설명할 때, 확인되지 않은 ‘숨기기 위해 찢었다’는 서사를 사실처럼 고정하지 않는 것이 중요하다.",
+          "textEn": "Stories about missing leaves and concealment have accumulated around the manuscript. Some scholarship places the loss of the first leaves later than popular accounts suggest. The manuscript’s importance does not require turning an uncertain preservation anecdote into a confirmed historical fact."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "왜 해례본 한 권이 결정적이었나",
+          "headingEn": "Why One Copy Changed the Debate",
+          "textKo": "해례본은 한글이 우연히 변형된 문자가 아니라 발음기관과 철학적·음운론적 원리를 고려해 설계됐다는 당대 설명을 제공한다. 그래서 이 자료의 의미는 ‘희귀한 옛책’보다 크다. 문자 체계가 어떻게 의도적으로 만들어졌는지를 내부 문서로 설명하는 드문 사례다.",
+          "textEn": "The Haerye provides a contemporaneous account of a deliberately designed writing system, connecting letter forms to articulatory and phonological principles. Its significance therefore goes beyond rarity: it is a rare internal explanation of how and why a script was intentionally constructed."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 내용보다 전승 경로에 있다",
+          "headingEn": "The Mystery Lies in Transmission, Not the Alphabet",
+          "textKo": "한글의 창제 주체와 원리는 해례본 자체와 실록 기록으로 강하게 확인된다. 남는 미스터리는 ‘한글을 누가 만들었나’가 아니라, 이 핵심 문헌이 수백 년 동안 어떻게 전승되어 20세기에 다시 학계 앞에 나타났는지에 더 가깝다. 또한 1940년 ‘발견’이라는 표현은 책이 그해 처음 존재하게 됐다는 뜻이 아니다. 현재 기관 자료가 강하게 보여주는 것은 전형필의 입수와 보존이며, 그 직전 소장자와 사용 맥락을 둘러싼 세부는 별도의 문헌·연구를 통해 단계적으로 확인해야 한다.",
+          "textEn": "The creator and design principles of Hangul are strongly documented by the Haerye and historical records. The more defensible mystery is not who invented Hangul, but how this crucial explanatory manuscript survived across centuries before returning to scholarly view in the twentieth century.Calling 1940 the year of “discovery” does not mean the book first came into existence then. Institutional records most clearly establish Jeon Hyeong-pil’s acquisition and preservation, while details about earlier owners and use have to be reconstructed cautiously from separate documentary and scholarly evidence."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "1997년 유네스코 세계기록유산",
+          "headingEn": "From Private Rescue to World Memory",
+          "textKo": "소장본은 현재 간송미술관에 보존되고 있으며, 유네스코는 1997년 훈민정음 문헌을 세계기록유산에 등재했다. 1940년의 입수는 한 개인의 수집 행위로 끝나지 않고, 한 문자 체계의 설계 원리를 보존한 세계적 기록유산의 전승 단계가 됐다.",
+          "textEn": "The surviving copy is preserved by the Kansong Art Museum, and UNESCO inscribed the Hunminjeongeum manuscript on the Memory of the World Register in 1997. The 1940 acquisition became a key link in preserving a globally significant record of how a writing system was designed."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 훈민정음 해례본은 1446년 간행된 문자 해설 문헌이며, 현재 간송미술관 소장본은 1940년 전형필이 입수했고 1997년 유네스코 세계기록유산에 등재됐다.\n\nNOT ESTABLISHED: 현재 소장본의 수백 년간 전승 경로와 결손 장의 정확한 훼손 경위가 모두 연속적으로 입증된 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Hunminjeongeum Haerye is a 1446 explanatory manuscript; the surviving Kansong copy was acquired by Jeon Hyeong-pil in 1940 and was inscribed on UNESCO’s Memory of the World Register in 1997.\n\nNOT ESTABLISHED: The copy’s complete chain of custody across the preceding centuries and the exact circumstances behind its missing leaves are not fully documented."
+        }
+      ],
+      "factBoundary": {
+        "established": "훈민정음 해례본은 1446년 간행된 문자 해설 문헌이며, 현재 간송미술관 소장본은 1940년 전형필이 입수했고 1997년 유네스코 세계기록유산에 등재됐다.",
+        "notEstablished": "현재 소장본의 수백 년간 전승 경로와 결손 장의 정확한 훼손 경위가 모두 연속적으로 입증된 것은 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "How the Book Explaining Hangul’s Design Re-emerged in 1940",
+      "hook": "The 1446 Hunminjeongeum Haerye explains the design principles of Hangul in the document itself. The surviving Kansong copy entered Jeon Hyeong-pil’s collection in 1940, while parts of its earlier transmission history remain less certain than the manuscript’s contents.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "OBJECT",
+          "headingKo": "한글을 설명하는 ‘설계 문서’",
+          "headingEn": "A Design Document for a Writing System",
+          "textKo": "훈민정음은 문자 이름이면서 1446년에 간행된 책 이름이기도 하다. 해례본에는 세종의 서문과 예의뿐 아니라 집현전 학자들이 문자 구성 원리와 초성·중성·종성, 결합 방식과 용례를 설명한 해례가 포함된다. 한글의 구조를 후대 추측이 아니라 당대 문헌으로 확인하게 해주는 자료다.",
+          "textEn": "Hunminjeongeum is both the original name of the script and the title of the book published in 1446. The Haerye edition includes the royal preface and examples as well as detailed explanations of consonants, vowels, syllable structure, and usage by scholars of the Hall of Worthies."
+        },
+        {
+          "blockId": "02",
+          "type": "MISSING_RECORD",
+          "headingKo": "원리는 알려졌지만 원문은 오랫동안 보이지 않았다",
+          "headingEn": "The Principles Survived While the Book Disappeared from View",
+          "textKo": "한글은 계속 쓰였지만, 창제 원리를 체계적으로 설명한 해례본 실물은 근대에 널리 알려진 자료가 아니었다. 그래서 문자 형태가 무엇을 본떠 만들어졌는지 같은 핵심 문제를 둘러싸고 여러 설명이 존재했다. 해례본의 등장은 이런 논의를 당대 문헌으로 다시 연결했다.",
+          "textEn": "Hangul continued to be used, but the surviving Haerye copy was not widely available to modern scholars. Questions about the intended logic behind letter shapes therefore attracted competing explanations. The manuscript’s reappearance reconnected those debates to a contemporaneous explanatory text."
+        },
+        {
+          "blockId": "03",
+          "type": "REAPPEARANCE",
+          "headingKo": "1940년, 전형필의 입수",
+          "headingEn": "Jeon Hyeong-pil’s 1940 Acquisition",
+          "textKo": "간송미술문화재단은 일제강점기인 1940년 전형필이 훈민정음 원본 한 부를 고가에 구입했다고 기록한다. 당시 한국어 교육과 문화가 압박받던 시기였다는 맥락 때문에 이 입수는 단순한 수집을 넘어 보존 행위로 기억된다.",
+          "textEn": "The Kansong Art and Culture Foundation records that Jeon Hyeong-pil acquired an original copy of Hunminjeongeum in 1940 at great cost. Because the purchase occurred during Japanese colonial policies suppressing Korean language and culture, the acquisition is remembered as an act of preservation as well as collecting."
+        },
+        {
+          "blockId": "04",
+          "type": "DOCUMENT",
+          "headingKo": "책이 말해주는 것은 무엇인가",
+          "headingEn": "What the Manuscript Itself Establishes",
+          "textKo": "유네스코는 이 문헌을 1446년 음력 9월 간행된 책으로 설명하고, 세종의 문자 반포와 해례·정인지 서문을 포함한다고 정리한다. 국립한글박물관 역시 자음과 모음의 제자 원리, 음절 구성, 용례를 이 책을 통해 구체적으로 알 수 있다고 설명한다.",
+          "textEn": "UNESCO describes the manuscript as a 1446 publication containing Sejong’s promulgation, explanatory commentaries, and Jeong In-ji’s postface. The National Hangeul Museum likewise emphasizes that the book preserves specific explanations for consonant and vowel design, syllable structure, and use."
+        },
+        {
+          "blockId": "05",
+          "type": "PROVENANCE",
+          "headingKo": "‘발견’ 서사의 빈칸",
+          "headingEn": "The Gaps in the Discovery Story",
+          "textKo": "현재 소장본이 1940년에 전형필의 수중으로 들어왔다는 사실은 기관 기록으로 확인되지만, 그 이전 몇 세기 동안 정확히 누구의 손을 거쳐 어떤 방식으로 보관됐는지를 하나의 연속된 문서 사슬로 복원하기는 어렵다. 후대에 전해진 일화와 실물의 확정 정보는 구분해야 한다.",
+          "textEn": "The 1940 acquisition is institutionally documented, but the copy’s full custody history across the preceding centuries cannot be reconstructed as one uninterrupted documentary chain. Later anecdotes about ownership and concealment should therefore be separated from what the surviving object and institutional records establish."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "첫 장의 훼손을 곧바로 탄압 서사로 연결할 수 있을까",
+          "headingEn": "Can Damage Be Directly Tied to Suppression?",
+          "textKo": "해례본의 결손과 표지 상태를 둘러싼 설명에는 후대 전승이 섞여 있다. 일부 연구는 첫 두 장이 사라진 시기와 원인을 기존 통설과 다르게 본다. 책의 가치와 진정성을 설명할 때, 확인되지 않은 ‘숨기기 위해 찢었다’는 서사를 사실처럼 고정하지 않는 것이 중요하다.",
+          "textEn": "Stories about missing leaves and concealment have accumulated around the manuscript. Some scholarship places the loss of the first leaves later than popular accounts suggest. The manuscript’s importance does not require turning an uncertain preservation anecdote into a confirmed historical fact."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "왜 해례본 한 권이 결정적이었나",
+          "headingEn": "Why One Copy Changed the Debate",
+          "textKo": "해례본은 한글이 우연히 변형된 문자가 아니라 발음기관과 철학적·음운론적 원리를 고려해 설계됐다는 당대 설명을 제공한다. 그래서 이 자료의 의미는 ‘희귀한 옛책’보다 크다. 문자 체계가 어떻게 의도적으로 만들어졌는지를 내부 문서로 설명하는 드문 사례다.",
+          "textEn": "The Haerye provides a contemporaneous account of a deliberately designed writing system, connecting letter forms to articulatory and phonological principles. Its significance therefore goes beyond rarity: it is a rare internal explanation of how and why a script was intentionally constructed."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 내용보다 전승 경로에 있다",
+          "headingEn": "The Mystery Lies in Transmission, Not the Alphabet",
+          "textKo": "한글의 창제 주체와 원리는 해례본 자체와 실록 기록으로 강하게 확인된다. 남는 미스터리는 ‘한글을 누가 만들었나’가 아니라, 이 핵심 문헌이 수백 년 동안 어떻게 전승되어 20세기에 다시 학계 앞에 나타났는지에 더 가깝다. 또한 1940년 ‘발견’이라는 표현은 책이 그해 처음 존재하게 됐다는 뜻이 아니다. 현재 기관 자료가 강하게 보여주는 것은 전형필의 입수와 보존이며, 그 직전 소장자와 사용 맥락을 둘러싼 세부는 별도의 문헌·연구를 통해 단계적으로 확인해야 한다.",
+          "textEn": "The creator and design principles of Hangul are strongly documented by the Haerye and historical records. The more defensible mystery is not who invented Hangul, but how this crucial explanatory manuscript survived across centuries before returning to scholarly view in the twentieth century.Calling 1940 the year of “discovery” does not mean the book first came into existence then. Institutional records most clearly establish Jeon Hyeong-pil’s acquisition and preservation, while details about earlier owners and use have to be reconstructed cautiously from separate documentary and scholarly evidence."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "1997년 유네스코 세계기록유산",
+          "headingEn": "From Private Rescue to World Memory",
+          "textKo": "소장본은 현재 간송미술관에 보존되고 있으며, 유네스코는 1997년 훈민정음 문헌을 세계기록유산에 등재했다. 1940년의 입수는 한 개인의 수집 행위로 끝나지 않고, 한 문자 체계의 설계 원리를 보존한 세계적 기록유산의 전승 단계가 됐다.",
+          "textEn": "The surviving copy is preserved by the Kansong Art Museum, and UNESCO inscribed the Hunminjeongeum manuscript on the Memory of the World Register in 1997. The 1940 acquisition became a key link in preserving a globally significant record of how a writing system was designed."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 훈민정음 해례본은 1446년 간행된 문자 해설 문헌이며, 현재 간송미술관 소장본은 1940년 전형필이 입수했고 1997년 유네스코 세계기록유산에 등재됐다.\n\nNOT ESTABLISHED: 현재 소장본의 수백 년간 전승 경로와 결손 장의 정확한 훼손 경위가 모두 연속적으로 입증된 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Hunminjeongeum Haerye is a 1446 explanatory manuscript; the surviving Kansong copy was acquired by Jeon Hyeong-pil in 1940 and was inscribed on UNESCO’s Memory of the World Register in 1997.\n\nNOT ESTABLISHED: The copy’s complete chain of custody across the preceding centuries and the exact circumstances behind its missing leaves are not fully documented."
+        }
+      ],
+      "factBoundary": {
+        "established": "The Hunminjeongeum Haerye is a 1446 explanatory manuscript; the surviving Kansong copy was acquired by Jeon Hyeong-pil in 1940 and was inscribed on UNESCO’s Memory of the World Register in 1997.",
+        "notEstablished": "The copy’s complete chain of custody across the preceding centuries and the exact circumstances behind its missing leaves are not fully documented."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HUNMINJEONGEUM_HAERYE_1940-C1",
+      "status": "CONFIRMED",
+      "statementKo": "훈민정음 해례본은 1446년 간행된 문자 해설 문헌이며, 현재 간송미술관 소장본은 1940년 전형필이 입수했고 1997년 유네스코 세계기록유산에 등재됐다.",
+      "statementEn": "The Hunminjeongeum Haerye is a 1446 explanatory manuscript; the surviving Kansong copy was acquired by Jeon Hyeong-pil in 1940 and was inscribed on UNESCO’s Memory of the World Register in 1997.",
+      "sourceRefs": [
+        "UNESCO_HUNMIN",
+        "KANSONG_HUNMIN",
+        "HANGEUL_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "HUNMINJEONGEUM_HAERYE_1940-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "현재 소장본의 수백 년간 전승 경로와 결손 장의 정확한 훼손 경위가 모두 연속적으로 입증된 것은 아니다.",
+      "statementEn": "The copy’s complete chain of custody across the preceding centuries and the exact circumstances behind its missing leaves are not fully documented.",
+      "sourceRefs": [
+        "UNESCO_HUNMIN",
+        "KANSONG_HUNMIN",
+        "HANGEUL_MUSEUM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "UNESCO_HUNMIN",
+      "title": "Hunminjeongum Manuscript",
+      "publisher": "UNESCO Memory of the World",
+      "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript?hub=1081",
+      "sourceType": "INTERNATIONAL_REGISTER"
+    },
+    {
+      "sourceId": "KANSONG_HUNMIN",
+      "title": "Introduction: Kansong and Hunminjeongeum",
+      "publisher": "Kansong Art and Culture Foundation",
+      "url": "https://museumwww.kansong.org/eng/index.do?menu_id=00005172",
+      "sourceType": "HOLDING_INSTITUTION_HISTORY"
+    },
+    {
+      "sourceId": "HANGEUL_MUSEUM",
+      "title": "Hunminjeongeum",
+      "publisher": "National Hangeul Museum",
+      "url": "https://m.hangeul.go.kr/lang/en/html/education/Hangeul.do",
+      "sourceType": "NATIONAL_MUSEUM"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "hunminjeongeum-haerye-1940-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "UNESCO_HUNMIN",
+        "KANSONG_HUNMIN",
+        "HANGEUL_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v01__ko.png",
+          "sha256": "bea5f6aadd6e923a1350b24e4931d530a81b206950ca94eb35becf7b63d2b228",
+          "width": 1600,
+          "height": 900,
+          "fileName": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v01__ko.png"
+        },
+        "en": {
+          "file": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v01__en.png",
+          "sha256": "eabbb0df7c35501317e3b9112a6119fef7bd60dffaecb6e473660f7df49f764c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "hunminjeongeum-haerye-1940-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "UNESCO_HUNMIN",
+        "KANSONG_HUNMIN",
+        "HANGEUL_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v02__ko.png",
+          "sha256": "637355f3a14929ce09719b08e104709fdb1530e57aaba5b3edd54ffdfc7d042c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v02__ko.png"
+        },
+        "en": {
+          "file": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v02__en.png",
+          "sha256": "ce307060026c024d5686c3a1fb6fa3cda48590ca15e10afce872cc6bacbe4d14",
+          "width": 1600,
+          "height": 900,
+          "fileName": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "hunminjeongeum-haerye-1940-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "UNESCO_HUNMIN",
+        "KANSONG_HUNMIN",
+        "HANGEUL_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v03__ko.png",
+          "sha256": "2c1d22f18b304ecee8a886364a1f4a318af600a04161ef97a6fe8bf5920a0fa1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v03__ko.png"
+        },
+        "en": {
+          "file": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v03__en.png",
+          "sha256": "1de5d20069a2f7dbf1ed9051c2b3d0cf3458daec75046f09528d7f0230bee7d1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Korea",
+    "era": "1446 / 1940",
+    "genre": "Lost Manuscript / Writing-System History",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Lost Manuscript / Writing-System History",
+    "resolution": "unknown",
+    "countries": [
+      "Korea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1568,
+    "enBodyWords": 485
+  }
+}

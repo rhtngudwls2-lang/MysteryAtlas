@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "osage-1920s-murders",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오세이지 연속 살인과 헤드라이트 음모",
+    "canonicalTitleEn": "The Osage Murders and the Headright Conspiracy",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "석유 부자가 된 뒤 사람들이 죽기 시작했다—오세이지의 ‘공포의 시대’",
+      "hook": "1920년대 오클라호마의 오세이지 공동체에서는 상속 가능한 석유 수익권을 둘러싼 죽음이 이어졌다. 연방 수사는 한 음모를 밝혔지만, 당시 사망 전체가 한 사건으로 완전히 정리된 것은 아니다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "석유가 만든 부와 위험",
+          "headingEn": "Oil Wealth Became a Target",
+          "textKo": "20세기 초 오세이지 보호구역에서 석유 생산이 커지자 부족 구성원들은 ‘헤드라이트’라 불린 석유 수익 지분을 통해 막대한 돈을 받았다. 문제는 이 지분이 상속될 수 있었다는 점이었다. 부는 곧 외부의 탐욕과 후견·결혼·상속 구조를 악용하려는 범죄의 표적이 됐다.",
+          "textEn": "Oil production on the Osage reservation turned headrights—shares in mineral royalty income—into valuable inheritable assets. That wealth created a lethal incentive for outsiders and associates who could gain control through marriage, guardianship, inheritance, intimidation, and murder."
+        },
+        {
+          "blockId": "02",
+          "type": "TIMELINE",
+          "headingKo": "안나 브라운에서 폭탄 사건까지",
+          "headingEn": "From Anna Brown to a Bombed House",
+          "textKo": "FBI 기록은 1921년 안나 브라운의 시신 발견, 어머니 리지의 의심스러운 죽음, 사촌 헨리 로언의 총격 사망, 1923년 리타와 빌 스미스 부부가 집 폭발로 사망한 사건을 한 흐름으로 정리한다. 서로 떨어져 보이던 죽음들이 상속 구조를 따라 연결되기 시작했다.",
+          "textEn": "The FBI chronology links the 1921 murder of Anna Brown, the suspicious death of her mother Lizzie, the shooting of Henry Roan, and the 1923 bombing that killed Rita and Bill Smith. Seemingly separate deaths began to align with patterns of inheritance and financial benefit."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "헤드라이트가 만든 동기",
+          "headingEn": "The Motive Hidden in Headrights",
+          "textKo": "안나의 가족이 차례로 사망하면 석유 수익권이 특정 상속선으로 모일 수 있었다. 연방 수사는 윌리엄 헤일과 조카 어니스트 버크하트 주변의 관계와 돈의 흐름을 추적했고, 결국 가족 구성원 살해를 통해 재산을 통제하려는 계획을 입증하는 증언과 정황을 확보했다.",
+          "textEn": "If Anna’s relatives died in a particular sequence, valuable headrights could concentrate along a narrower inheritance line. Federal investigators traced relationships and money around William Hale and his nephew Ernest Burkhart and built a case that murder had been used to gain control of family wealth."
+        },
+        {
+          "blockId": "04",
+          "type": "INVESTIGATION",
+          "headingKo": "왜 초반 수사는 계속 막혔나",
+          "headingEn": "Why Early Investigations Failed",
+          "textKo": "지역사회에는 협박과 매수, 허위 단서, 외부 수사자에 대한 불신이 뒤섞여 있었다. FBI는 민간 수사들이 성과를 내지 못했고 일부는 수사를 방해하기까지 했다고 기록한다. 이후 톰 화이트가 이끄는 팀은 보험설계사·가축상 등으로 위장해 내부 증언을 확보했다.",
+          "textEn": "Fear, bribery, planted leads, and distrust of outsiders complicated the investigation. The FBI says some earlier efforts went nowhere and some actors actively misdirected investigators. Tom White’s team then used undercover identities to build trust and secure testimony."
+        },
+        {
+          "blockId": "05",
+          "type": "RESOLUTION",
+          "headingKo": "헤일의 유죄 판결이 해결한 것",
+          "headingEn": "What Hale’s Conviction Actually Solved",
+          "textKo": "연방 사건은 헤일이 안나 브라운 일가와 헨리 로언 등의 살해를 지시한 계획을 입증했고, 1929년 헤일은 유죄 판결을 받았다. 이로써 ‘오세이지의 죽음이 모두 설명됐다’고 말하기는 어렵지만, 적어도 핵심 가족을 노린 조직적 살인 음모는 사법적으로 드러났다.",
+          "textEn": "The federal case established that Hale directed murders tied to the Brown family and Henry Roan, and Hale was convicted in 1929. That did not solve every death associated with the period, but it did judicially expose a coordinated murder conspiracy aimed at wealth and inheritance."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘최소 두 dozen’과 ‘60건 이상’의 차이",
+          "headingEn": "Why Death Counts Differ",
+          "textKo": "FBI 역사 페이지는 적어도 두 dozen의 사망을 언급하는 반면, 오세이지 네이션은 1920~1925년 오세이지 카운티에서 60건이 넘는 미해결 또는 의문사·살인을 설명한다. 두 숫자는 조사 범위와 포함 기준이 다르므로 하나의 확정 피해자 수처럼 합치면 안 된다.",
+          "textEn": "The FBI’s public history refers to at least two dozen deaths, while the Osage Nation describes more than sixty mysterious or unsolved murders in Osage County between 1920 and 1925. The counts reflect different scopes and should not be flattened into one definitive victim total."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "가해자 중심 기록만으로는 부족하다",
+          "headingEn": "The Record Must Not Be Only About the Investigators",
+          "textKo": "이 사건은 연방 수사의 성공담으로만 읽으면 중요한 맥락이 빠진다. 오세이지 네이션의 기록은 헤드라이트 제도와 공동체가 겪은 공포를 사건의 중심에 둔다. 수사기관 자료와 피해 공동체 자료를 함께 읽어야 범죄의 동기와 피해 규모를 더 정확하게 볼 수 있다.",
+          "textEn": "Reading the case only as a federal investigative triumph erases essential context. Osage Nation accounts center the headright system and the community’s experience of terror. Pairing investigative records with tribal history produces a more accurate picture of motive, harm, and uncertainty."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 ‘누가 죽였나’에서 ‘얼마나 넓었나’로 남는다",
+          "headingEn": "The Remaining Mystery Is the Scope",
+          "textKo": "헤일 음모의 핵심은 해결됐지만, 공포의 시대에 기록된 모든 죽음이 같은 네트워크로 설명되는지는 확정되지 않았다. 따라서 이 사건의 미스터리 정체성은 범인을 모르는 단순 미제보다, 밝혀진 음모와 끝까지 확정되지 않은 전체 범위 사이의 간극에 있다. 특히 피해자 수를 셀 때에는 유죄 판결이 난 개별 사건, 당시 의문사로 남은 사건, 후대 연구가 공포의 시대와 연결한 사건을 구분해야 한다. 이 구분을 지키지 않으면 ‘확실히 입증된 범죄’와 ‘강하게 의심되지만 법정에서 확정되지 않은 죽음’이 하나의 숫자로 섞인다.",
+          "textEn": "The central Hale conspiracy was solved, but not every death from the Reign of Terror was definitively assigned to the same network. The mystery therefore lies less in one unknown killer than in the gap between a proven conspiracy and the full, still-uncertain scope of the violence.Counting victims requires separating crimes proven in court, suspicious deaths left unresolved at the time, and later cases associated with the Reign of Terror by historians or the community. Without that separation, judicially established murders and strongly suspected but unproven deaths collapse into one misleading total."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "해결된 사건이 끝나지 않는 이유",
+          "headingEn": "Why a Solved Conspiracy Still Feels Unfinished",
+          "textKo": "유죄 판결은 중요한 결말이지만, 사건은 미국의 후견·상속 제도와 인종적 권력관계가 범죄에 어떤 환경을 만들었는지까지 질문하게 한다. 범죄사와 제도사의 경계에서, ‘누가 무엇을 알고도 막지 못했는가’라는 더 넓은 질문은 사법 기록만으로 닫히지 않는다.",
+          "textEn": "Convictions supplied a legal ending, but the case also exposes how guardianship, inheritance rules, and racial power shaped the environment in which the crimes occurred. The broader question of who knew, profited, or failed to intervene is not fully closed by the criminal verdicts."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1920년대 오세이지 구성원들의 석유 헤드라이트를 노린 살인 음모가 실제로 수사됐고, 윌리엄 헤일 등 관련자들이 유죄 판결을 받았다.\n\nNOT ESTABLISHED: 당시 오세이지 카운티의 모든 의문사와 살인이 하나의 네트워크에 의해 저질러졌다는 것은 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: A murder conspiracy targeting Osage oil headrights was investigated, and William Hale and other participants were convicted.\n\nNOT ESTABLISHED: It is not established that every suspicious death or murder in Osage County during the period was committed by one network."
+        }
+      ],
+      "factBoundary": {
+        "established": "1920년대 오세이지 구성원들의 석유 헤드라이트를 노린 살인 음모가 실제로 수사됐고, 윌리엄 헤일 등 관련자들이 유죄 판결을 받았다.",
+        "notEstablished": "당시 오세이지 카운티의 모든 의문사와 살인이 하나의 네트워크에 의해 저질러졌다는 것은 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "After Oil Wealth Came a Trail of Death: The Osage Reign of Terror",
+      "hook": "In 1920s Oklahoma, deaths accumulated around Osage families whose oil headrights could be inherited. Federal investigators exposed one major conspiracy, but the full universe of deaths from the period was never reduced to a single solved case.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "석유가 만든 부와 위험",
+          "headingEn": "Oil Wealth Became a Target",
+          "textKo": "20세기 초 오세이지 보호구역에서 석유 생산이 커지자 부족 구성원들은 ‘헤드라이트’라 불린 석유 수익 지분을 통해 막대한 돈을 받았다. 문제는 이 지분이 상속될 수 있었다는 점이었다. 부는 곧 외부의 탐욕과 후견·결혼·상속 구조를 악용하려는 범죄의 표적이 됐다.",
+          "textEn": "Oil production on the Osage reservation turned headrights—shares in mineral royalty income—into valuable inheritable assets. That wealth created a lethal incentive for outsiders and associates who could gain control through marriage, guardianship, inheritance, intimidation, and murder."
+        },
+        {
+          "blockId": "02",
+          "type": "TIMELINE",
+          "headingKo": "안나 브라운에서 폭탄 사건까지",
+          "headingEn": "From Anna Brown to a Bombed House",
+          "textKo": "FBI 기록은 1921년 안나 브라운의 시신 발견, 어머니 리지의 의심스러운 죽음, 사촌 헨리 로언의 총격 사망, 1923년 리타와 빌 스미스 부부가 집 폭발로 사망한 사건을 한 흐름으로 정리한다. 서로 떨어져 보이던 죽음들이 상속 구조를 따라 연결되기 시작했다.",
+          "textEn": "The FBI chronology links the 1921 murder of Anna Brown, the suspicious death of her mother Lizzie, the shooting of Henry Roan, and the 1923 bombing that killed Rita and Bill Smith. Seemingly separate deaths began to align with patterns of inheritance and financial benefit."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE",
+          "headingKo": "헤드라이트가 만든 동기",
+          "headingEn": "The Motive Hidden in Headrights",
+          "textKo": "안나의 가족이 차례로 사망하면 석유 수익권이 특정 상속선으로 모일 수 있었다. 연방 수사는 윌리엄 헤일과 조카 어니스트 버크하트 주변의 관계와 돈의 흐름을 추적했고, 결국 가족 구성원 살해를 통해 재산을 통제하려는 계획을 입증하는 증언과 정황을 확보했다.",
+          "textEn": "If Anna’s relatives died in a particular sequence, valuable headrights could concentrate along a narrower inheritance line. Federal investigators traced relationships and money around William Hale and his nephew Ernest Burkhart and built a case that murder had been used to gain control of family wealth."
+        },
+        {
+          "blockId": "04",
+          "type": "INVESTIGATION",
+          "headingKo": "왜 초반 수사는 계속 막혔나",
+          "headingEn": "Why Early Investigations Failed",
+          "textKo": "지역사회에는 협박과 매수, 허위 단서, 외부 수사자에 대한 불신이 뒤섞여 있었다. FBI는 민간 수사들이 성과를 내지 못했고 일부는 수사를 방해하기까지 했다고 기록한다. 이후 톰 화이트가 이끄는 팀은 보험설계사·가축상 등으로 위장해 내부 증언을 확보했다.",
+          "textEn": "Fear, bribery, planted leads, and distrust of outsiders complicated the investigation. The FBI says some earlier efforts went nowhere and some actors actively misdirected investigators. Tom White’s team then used undercover identities to build trust and secure testimony."
+        },
+        {
+          "blockId": "05",
+          "type": "RESOLUTION",
+          "headingKo": "헤일의 유죄 판결이 해결한 것",
+          "headingEn": "What Hale’s Conviction Actually Solved",
+          "textKo": "연방 사건은 헤일이 안나 브라운 일가와 헨리 로언 등의 살해를 지시한 계획을 입증했고, 1929년 헤일은 유죄 판결을 받았다. 이로써 ‘오세이지의 죽음이 모두 설명됐다’고 말하기는 어렵지만, 적어도 핵심 가족을 노린 조직적 살인 음모는 사법적으로 드러났다.",
+          "textEn": "The federal case established that Hale directed murders tied to the Brown family and Henry Roan, and Hale was convicted in 1929. That did not solve every death associated with the period, but it did judicially expose a coordinated murder conspiracy aimed at wealth and inheritance."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘최소 두 dozen’과 ‘60건 이상’의 차이",
+          "headingEn": "Why Death Counts Differ",
+          "textKo": "FBI 역사 페이지는 적어도 두 dozen의 사망을 언급하는 반면, 오세이지 네이션은 1920~1925년 오세이지 카운티에서 60건이 넘는 미해결 또는 의문사·살인을 설명한다. 두 숫자는 조사 범위와 포함 기준이 다르므로 하나의 확정 피해자 수처럼 합치면 안 된다.",
+          "textEn": "The FBI’s public history refers to at least two dozen deaths, while the Osage Nation describes more than sixty mysterious or unsolved murders in Osage County between 1920 and 1925. The counts reflect different scopes and should not be flattened into one definitive victim total."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "가해자 중심 기록만으로는 부족하다",
+          "headingEn": "The Record Must Not Be Only About the Investigators",
+          "textKo": "이 사건은 연방 수사의 성공담으로만 읽으면 중요한 맥락이 빠진다. 오세이지 네이션의 기록은 헤드라이트 제도와 공동체가 겪은 공포를 사건의 중심에 둔다. 수사기관 자료와 피해 공동체 자료를 함께 읽어야 범죄의 동기와 피해 규모를 더 정확하게 볼 수 있다.",
+          "textEn": "Reading the case only as a federal investigative triumph erases essential context. Osage Nation accounts center the headright system and the community’s experience of terror. Pairing investigative records with tribal history produces a more accurate picture of motive, harm, and uncertainty."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 ‘누가 죽였나’에서 ‘얼마나 넓었나’로 남는다",
+          "headingEn": "The Remaining Mystery Is the Scope",
+          "textKo": "헤일 음모의 핵심은 해결됐지만, 공포의 시대에 기록된 모든 죽음이 같은 네트워크로 설명되는지는 확정되지 않았다. 따라서 이 사건의 미스터리 정체성은 범인을 모르는 단순 미제보다, 밝혀진 음모와 끝까지 확정되지 않은 전체 범위 사이의 간극에 있다. 특히 피해자 수를 셀 때에는 유죄 판결이 난 개별 사건, 당시 의문사로 남은 사건, 후대 연구가 공포의 시대와 연결한 사건을 구분해야 한다. 이 구분을 지키지 않으면 ‘확실히 입증된 범죄’와 ‘강하게 의심되지만 법정에서 확정되지 않은 죽음’이 하나의 숫자로 섞인다.",
+          "textEn": "The central Hale conspiracy was solved, but not every death from the Reign of Terror was definitively assigned to the same network. The mystery therefore lies less in one unknown killer than in the gap between a proven conspiracy and the full, still-uncertain scope of the violence.Counting victims requires separating crimes proven in court, suspicious deaths left unresolved at the time, and later cases associated with the Reign of Terror by historians or the community. Without that separation, judicially established murders and strongly suspected but unproven deaths collapse into one misleading total."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "해결된 사건이 끝나지 않는 이유",
+          "headingEn": "Why a Solved Conspiracy Still Feels Unfinished",
+          "textKo": "유죄 판결은 중요한 결말이지만, 사건은 미국의 후견·상속 제도와 인종적 권력관계가 범죄에 어떤 환경을 만들었는지까지 질문하게 한다. 범죄사와 제도사의 경계에서, ‘누가 무엇을 알고도 막지 못했는가’라는 더 넓은 질문은 사법 기록만으로 닫히지 않는다.",
+          "textEn": "Convictions supplied a legal ending, but the case also exposes how guardianship, inheritance rules, and racial power shaped the environment in which the crimes occurred. The broader question of who knew, profited, or failed to intervene is not fully closed by the criminal verdicts."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1920년대 오세이지 구성원들의 석유 헤드라이트를 노린 살인 음모가 실제로 수사됐고, 윌리엄 헤일 등 관련자들이 유죄 판결을 받았다.\n\nNOT ESTABLISHED: 당시 오세이지 카운티의 모든 의문사와 살인이 하나의 네트워크에 의해 저질러졌다는 것은 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: A murder conspiracy targeting Osage oil headrights was investigated, and William Hale and other participants were convicted.\n\nNOT ESTABLISHED: It is not established that every suspicious death or murder in Osage County during the period was committed by one network."
+        }
+      ],
+      "factBoundary": {
+        "established": "A murder conspiracy targeting Osage oil headrights was investigated, and William Hale and other participants were convicted.",
+        "notEstablished": "It is not established that every suspicious death or murder in Osage County during the period was committed by one network."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "OSAGE_1920S_MURDERS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1920년대 오세이지 구성원들의 석유 헤드라이트를 노린 살인 음모가 실제로 수사됐고, 윌리엄 헤일 등 관련자들이 유죄 판결을 받았다.",
+      "statementEn": "A murder conspiracy targeting Osage oil headrights was investigated, and William Hale and other participants were convicted.",
+      "sourceRefs": [
+        "OSAGE_FBI",
+        "OSAGE_NATION"
+      ]
+    },
+    {
+      "claimId": "OSAGE_1920S_MURDERS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "당시 오세이지 카운티의 모든 의문사와 살인이 하나의 네트워크에 의해 저질러졌다는 것은 확립되지 않았다.",
+      "statementEn": "It is not established that every suspicious death or murder in Osage County during the period was committed by one network.",
+      "sourceRefs": [
+        "OSAGE_FBI",
+        "OSAGE_NATION"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "OSAGE_FBI",
+      "title": "Osage Murders Case",
+      "publisher": "Federal Bureau of Investigation",
+      "url": "https://www.fbi.gov/history/cases-and-criminals/osage-murders-case",
+      "sourceType": "OFFICIAL_CASE_HISTORY"
+    },
+    {
+      "sourceId": "OSAGE_NATION",
+      "title": "Did You Know? Osage Murders",
+      "publisher": "Osage Nation",
+      "url": "https://www.osagenation-nsn.gov/news-events/news/did-you-know-osage-murders",
+      "sourceType": "TRIBAL_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "osage-1920s-murders-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "OSAGE_FBI",
+        "OSAGE_NATION"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "osage-1920s-murders__osage-1920s-murders-v01__ko.png",
+          "sha256": "6cf7be9b8e0bab7e182528089ea26072c6f9e1c93c40ff09ec8f5100f1fcb0c7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "osage-1920s-murders__osage-1920s-murders-v01__ko.png"
+        },
+        "en": {
+          "file": "osage-1920s-murders__osage-1920s-murders-v01__en.png",
+          "sha256": "e855d84299378f54de3c6ff2d023f524f5dfc5c1a9b0e768d5138348f3c57964",
+          "width": 1600,
+          "height": 900,
+          "fileName": "osage-1920s-murders__osage-1920s-murders-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "osage-1920s-murders-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "OSAGE_FBI",
+        "OSAGE_NATION"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "osage-1920s-murders__osage-1920s-murders-v02__ko.png",
+          "sha256": "65a25c5a1ddacacb7b18942920b4ad05796e5a2c6085733ec8f94446ef24544d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "osage-1920s-murders__osage-1920s-murders-v02__ko.png"
+        },
+        "en": {
+          "file": "osage-1920s-murders__osage-1920s-murders-v02__en.png",
+          "sha256": "6675c5257f9c8354d5b8796d253c787175a3aea247b7384201efe59da1d1dbae",
+          "width": 1600,
+          "height": 900,
+          "fileName": "osage-1920s-murders__osage-1920s-murders-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "osage-1920s-murders-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "OSAGE_FBI",
+        "OSAGE_NATION"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "osage-1920s-murders__osage-1920s-murders-v03__ko.png",
+          "sha256": "b33d7c3dd15d1901d92baaa5ce324718cda3964cfc9cbc38243766a151c15a6a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "osage-1920s-murders__osage-1920s-murders-v03__ko.png"
+        },
+        "en": {
+          "file": "osage-1920s-murders__osage-1920s-murders-v03__en.png",
+          "sha256": "1c3336658f7eac2a611a81915bf81cae4df36be78d75b2c47e32e79f4f5e2b81",
+          "width": 1600,
+          "height": 900,
+          "fileName": "osage-1920s-murders__osage-1920s-murders-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States",
+    "era": "1921–1929",
+    "genre": "Unsolved Crime / Hidden Conspiracy",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Unsolved Crime / Hidden Conspiracy",
+    "resolution": "unknown",
+    "countries": [
+      "United States"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1607,
+    "enBodyWords": 476
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "zimmermann-telegram",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "치머만 전보의 해독과 폭로",
+    "canonicalTitleEn": "The Zimmermann Telegram: Intercepted, Decoded, Exposed",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "숫자열 하나가 전쟁의 여론을 뒤집은 과정",
+      "hook": "1917년 독일 외무장관의 암호 전보는 멕시코에 미국과의 전쟁 동맹을 제안했다. 영국 암호해독가들은 내용을 풀었지만, 해독 사실을 공개하는 순간 자신들의 정보 수집 능력까지 드러날 위험이 있었다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "MESSAGE",
+          "headingKo": "숫자로만 보이는 외교문서",
+          "headingEn": "A Diplomatic Message That Looked Like Numbers",
+          "textKo": "1917년 1월 16일 독일 외무장관 아르투어 치머만은 멕시코 주재 독일 공사에게 암호 전보를 보냈다. 겉으로는 숫자 묶음에 불과했지만, 내용은 미국이 독일과 전쟁에 들어갈 경우 멕시코와 동맹을 맺고 미국 남서부 영토 회복을 지원하겠다는 제안이었다.",
+          "textEn": "On January 16, 1917, German Foreign Secretary Arthur Zimmermann sent an encoded telegram to the German minister in Mexico. The apparent strings of numbers concealed a proposal: if the United States entered the war against Germany, Mexico was invited into an alliance with the promise of support for recovering territory in the American Southwest."
+        },
+        {
+          "blockId": "02",
+          "type": "INTERCEPT",
+          "headingKo": "영국이 먼저 읽었다",
+          "headingEn": "Britain Read It First",
+          "textKo": "영국 암호해독가들은 전보를 가로채고 해독했다. 문제는 내용보다 공개 방식이었다. 영국이 원문을 어디서 얻었고 독일 암호를 어느 정도 읽을 수 있는지가 드러나면 앞으로의 정보 수집이 위험해질 수 있었다. 따라서 정보의 진위를 설득하면서 출처를 숨기는 작업이 필요했다.",
+          "textEn": "British cryptanalysts intercepted and deciphered the telegram. The challenge was not only understanding the message but revealing it safely. Public disclosure could expose the source of the intercept and the extent of Britain’s ability to read German codes, jeopardizing future intelligence collection."
+        },
+        {
+          "blockId": "03",
+          "type": "TRADECRAFT",
+          "headingKo": "정보를 공개하기 위한 위장 경로",
+          "headingEn": "A Cover Story for the Intelligence",
+          "textKo": "미국에 내용을 넘기기 전 영국은 멕시코 전신망을 통해 별도의 사본을 확보해, 해독 자료가 멕시코에서 입수된 것처럼 설명할 수 있는 경로를 만들었다. 이 단계는 암호해독 자체만큼이나 사건의 핵심이다. 좋은 정보는 확보뿐 아니라 공개 가능한 형태로 바꾸는 과정이 필요하다.",
+          "textEn": "Before sharing the intelligence, the British developed a way to present the message without openly revealing the most sensitive intercept route. The episode shows that intelligence work is not only about obtaining a secret; it is also about creating a disclosure path that protects sources and methods."
+        },
+        {
+          "blockId": "04",
+          "type": "RELEASE",
+          "headingKo": "윌슨에게 전달되고 신문에 공개되다",
+          "headingEn": "From Wilson’s Desk to the Newspapers",
+          "textKo": "미국 국립문서기록관리청은 영국이 2월 24일 윌슨 대통령에게 전보를 전달했고, 3월 1일 언론을 통해 널리 공개됐다고 정리한다. 암호문이 실제 외교 제안이라는 사실은 미국 여론에 큰 충격을 줬다.",
+          "textEn": "The National Archives records that Britain delivered the telegram to President Woodrow Wilson on February 24 and that its contents were widely published on March 1. The revelation that the coded text represented a genuine diplomatic proposal caused a major public shock in the United States."
+        },
+        {
+          "blockId": "05",
+          "type": "AUTHENTICATION",
+          "headingKo": "‘영국이 꾸민 가짜’라는 의심",
+          "headingEn": "The Suspicion That Britain Fabricated It",
+          "textKo": "처음에는 영국이 미국을 전쟁에 끌어들이기 위해 문서를 조작했다는 의심도 나왔다. 그러나 치머만 자신이 전보의 진위를 공개적으로 인정하면서 위조설은 설득력을 크게 잃었다. 이 사례에서 놀라운 부분은 정보기관이 비밀을 폭로하면서도 상대에게 진위를 확인받는 역설이다.",
+          "textEn": "Some initially suspected that Britain had fabricated the message to push the United States toward war. That suspicion weakened sharply after Zimmermann himself publicly acknowledged the telegram’s authenticity. The case produced a rare intelligence paradox: a secret operation was validated in public by the sender."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "전보 하나가 미국을 참전시켰나",
+          "headingEn": "Did One Telegram Bring America into the War?",
+          "textKo": "치머만 전보는 미국 여론에 강한 영향을 줬지만, 미국의 참전 결정에는 독일의 무제한 잠수함전 재개 같은 다른 중대한 요인도 있었다. 따라서 ‘전보 한 장이 미국을 전쟁으로 끌어들였다’고 단일 원인으로 설명하면 당시 외교·군사 환경을 과도하게 압축한다.",
+          "textEn": "The Zimmermann Telegram had major political impact, but American entry into the war also followed other consequential developments, especially Germany’s renewed unrestricted submarine warfare. Treating the telegram as the sole cause of U.S. entry compresses a broader military and diplomatic crisis into one document."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "암호문·평문·해독 설명을 함께 봐야 한다",
+          "headingEn": "Read the Cipher, Plaintext, and Provenance Together",
+          "textKo": "국립문서기록관리청에는 암호 전보와 해독본, 관련 설명이 함께 보존돼 있다. 사건을 이해하려면 ‘무슨 내용이었나’뿐 아니라 어떤 암호 형식이었고 누가 언제 해독했으며, 어떤 경로로 공개됐는지를 한 세트로 읽어야 한다.",
+          "textEn": "The National Archives preserves the encoded telegram, decoded versions, and explanatory records. Understanding the case requires more than the plaintext: the code system, interception, timing of decryption, and disclosure path are all part of the evidentiary chain."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 암호 미스터리 + 비밀 공개의 딜레마",
+          "headingEn": "A Solved Cipher Mystery with a Disclosure Problem",
+          "textKo": "전보의 내용과 해독 과정은 역사적으로 상당히 잘 확립돼 있다. 이 사건의 미스터리성은 ‘문서가 진짜인가’라는 미제가 아니라, 비밀리에 얻은 진실을 정보원을 노출하지 않고 어떻게 공적 증거로 바꿀 것인가라는 정보전의 퍼즐에 있다. 영국은 이미 독일 통신을 읽을 수 있다는 사실 자체를 전략 자산으로 봤기 때문에, 전보 내용을 공개하는 순간 적이 암호와 통신 경로를 바꿀 가능성도 계산해야 했다. 그래서 ‘해독 성공’과 ‘정치적 공개’ 사이에 별도의 정보작전 단계가 존재했다.",
+          "textEn": "The message and its decryption are well established. The enduring mystery-like tension is not whether the telegram was real, but how secret intelligence could be converted into public evidence without sacrificing the methods that produced it.Britain also treated the very fact that it could read German communications as a strategic asset. Public disclosure risked prompting Germany to change codes or routes, so there was a distinct intelligence problem between successful decryption and politically useful release."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "암호해독이 외교 사건이 된 순간",
+          "headingEn": "When Cryptanalysis Became Public Diplomacy",
+          "textKo": "치머만 전보는 암호해독이 군사 내부 기술을 넘어 외교와 여론을 움직이는 사건이 될 수 있음을 보여줬다. 암호문, 정보기관의 판단, 공개 전략, 정치적 반응이 연쇄적으로 이어지며 하나의 문서가 국제정세의 변수가 됐다.",
+          "textEn": "The Zimmermann episode demonstrated that cryptanalysis could become more than an internal military capability. Ciphertext, intelligence assessment, disclosure strategy, and public reaction formed a chain in which one document became an international political force."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1917년 치머만은 멕시코에 미국을 상대로 한 동맹을 제안하는 암호 전보를 보냈고, 영국이 이를 해독해 미국에 전달했으며 이후 공개됐다.\n\nNOT ESTABLISHED: 치머만 전보 하나만이 미국의 제1차 세계대전 참전을 결정한 유일한 원인이었다고 볼 수는 없다.",
+          "textEn": "CONFIRMED / SUPPORTED: In 1917 Zimmermann sent an encoded proposal for a German-Mexican alliance against the United States; Britain decrypted it, shared it with the United States, and it became public.\n\nNOT ESTABLISHED: The telegram alone cannot be treated as the sole cause of U.S. entry into World War I."
+        }
+      ],
+      "factBoundary": {
+        "established": "1917년 치머만은 멕시코에 미국을 상대로 한 동맹을 제안하는 암호 전보를 보냈고, 영국이 이를 해독해 미국에 전달했으며 이후 공개됐다.",
+        "notEstablished": "치머만 전보 하나만이 미국의 제1차 세계대전 참전을 결정한 유일한 원인이었다고 볼 수는 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "How a String of Numbers Became a Diplomatic Shock",
+      "hook": "In 1917 a coded telegram from Germany’s foreign secretary proposed an alliance with Mexico against the United States. British cryptanalysts could read it, but exposing the message risked revealing how Britain had obtained and deciphered German communications.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "MESSAGE",
+          "headingKo": "숫자로만 보이는 외교문서",
+          "headingEn": "A Diplomatic Message That Looked Like Numbers",
+          "textKo": "1917년 1월 16일 독일 외무장관 아르투어 치머만은 멕시코 주재 독일 공사에게 암호 전보를 보냈다. 겉으로는 숫자 묶음에 불과했지만, 내용은 미국이 독일과 전쟁에 들어갈 경우 멕시코와 동맹을 맺고 미국 남서부 영토 회복을 지원하겠다는 제안이었다.",
+          "textEn": "On January 16, 1917, German Foreign Secretary Arthur Zimmermann sent an encoded telegram to the German minister in Mexico. The apparent strings of numbers concealed a proposal: if the United States entered the war against Germany, Mexico was invited into an alliance with the promise of support for recovering territory in the American Southwest."
+        },
+        {
+          "blockId": "02",
+          "type": "INTERCEPT",
+          "headingKo": "영국이 먼저 읽었다",
+          "headingEn": "Britain Read It First",
+          "textKo": "영국 암호해독가들은 전보를 가로채고 해독했다. 문제는 내용보다 공개 방식이었다. 영국이 원문을 어디서 얻었고 독일 암호를 어느 정도 읽을 수 있는지가 드러나면 앞으로의 정보 수집이 위험해질 수 있었다. 따라서 정보의 진위를 설득하면서 출처를 숨기는 작업이 필요했다.",
+          "textEn": "British cryptanalysts intercepted and deciphered the telegram. The challenge was not only understanding the message but revealing it safely. Public disclosure could expose the source of the intercept and the extent of Britain’s ability to read German codes, jeopardizing future intelligence collection."
+        },
+        {
+          "blockId": "03",
+          "type": "TRADECRAFT",
+          "headingKo": "정보를 공개하기 위한 위장 경로",
+          "headingEn": "A Cover Story for the Intelligence",
+          "textKo": "미국에 내용을 넘기기 전 영국은 멕시코 전신망을 통해 별도의 사본을 확보해, 해독 자료가 멕시코에서 입수된 것처럼 설명할 수 있는 경로를 만들었다. 이 단계는 암호해독 자체만큼이나 사건의 핵심이다. 좋은 정보는 확보뿐 아니라 공개 가능한 형태로 바꾸는 과정이 필요하다.",
+          "textEn": "Before sharing the intelligence, the British developed a way to present the message without openly revealing the most sensitive intercept route. The episode shows that intelligence work is not only about obtaining a secret; it is also about creating a disclosure path that protects sources and methods."
+        },
+        {
+          "blockId": "04",
+          "type": "RELEASE",
+          "headingKo": "윌슨에게 전달되고 신문에 공개되다",
+          "headingEn": "From Wilson’s Desk to the Newspapers",
+          "textKo": "미국 국립문서기록관리청은 영국이 2월 24일 윌슨 대통령에게 전보를 전달했고, 3월 1일 언론을 통해 널리 공개됐다고 정리한다. 암호문이 실제 외교 제안이라는 사실은 미국 여론에 큰 충격을 줬다.",
+          "textEn": "The National Archives records that Britain delivered the telegram to President Woodrow Wilson on February 24 and that its contents were widely published on March 1. The revelation that the coded text represented a genuine diplomatic proposal caused a major public shock in the United States."
+        },
+        {
+          "blockId": "05",
+          "type": "AUTHENTICATION",
+          "headingKo": "‘영국이 꾸민 가짜’라는 의심",
+          "headingEn": "The Suspicion That Britain Fabricated It",
+          "textKo": "처음에는 영국이 미국을 전쟁에 끌어들이기 위해 문서를 조작했다는 의심도 나왔다. 그러나 치머만 자신이 전보의 진위를 공개적으로 인정하면서 위조설은 설득력을 크게 잃었다. 이 사례에서 놀라운 부분은 정보기관이 비밀을 폭로하면서도 상대에게 진위를 확인받는 역설이다.",
+          "textEn": "Some initially suspected that Britain had fabricated the message to push the United States toward war. That suspicion weakened sharply after Zimmermann himself publicly acknowledged the telegram’s authenticity. The case produced a rare intelligence paradox: a secret operation was validated in public by the sender."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "전보 하나가 미국을 참전시켰나",
+          "headingEn": "Did One Telegram Bring America into the War?",
+          "textKo": "치머만 전보는 미국 여론에 강한 영향을 줬지만, 미국의 참전 결정에는 독일의 무제한 잠수함전 재개 같은 다른 중대한 요인도 있었다. 따라서 ‘전보 한 장이 미국을 전쟁으로 끌어들였다’고 단일 원인으로 설명하면 당시 외교·군사 환경을 과도하게 압축한다.",
+          "textEn": "The Zimmermann Telegram had major political impact, but American entry into the war also followed other consequential developments, especially Germany’s renewed unrestricted submarine warfare. Treating the telegram as the sole cause of U.S. entry compresses a broader military and diplomatic crisis into one document."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "암호문·평문·해독 설명을 함께 봐야 한다",
+          "headingEn": "Read the Cipher, Plaintext, and Provenance Together",
+          "textKo": "국립문서기록관리청에는 암호 전보와 해독본, 관련 설명이 함께 보존돼 있다. 사건을 이해하려면 ‘무슨 내용이었나’뿐 아니라 어떤 암호 형식이었고 누가 언제 해독했으며, 어떤 경로로 공개됐는지를 한 세트로 읽어야 한다.",
+          "textEn": "The National Archives preserves the encoded telegram, decoded versions, and explanatory records. Understanding the case requires more than the plaintext: the code system, interception, timing of decryption, and disclosure path are all part of the evidentiary chain."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 암호 미스터리 + 비밀 공개의 딜레마",
+          "headingEn": "A Solved Cipher Mystery with a Disclosure Problem",
+          "textKo": "전보의 내용과 해독 과정은 역사적으로 상당히 잘 확립돼 있다. 이 사건의 미스터리성은 ‘문서가 진짜인가’라는 미제가 아니라, 비밀리에 얻은 진실을 정보원을 노출하지 않고 어떻게 공적 증거로 바꿀 것인가라는 정보전의 퍼즐에 있다. 영국은 이미 독일 통신을 읽을 수 있다는 사실 자체를 전략 자산으로 봤기 때문에, 전보 내용을 공개하는 순간 적이 암호와 통신 경로를 바꿀 가능성도 계산해야 했다. 그래서 ‘해독 성공’과 ‘정치적 공개’ 사이에 별도의 정보작전 단계가 존재했다.",
+          "textEn": "The message and its decryption are well established. The enduring mystery-like tension is not whether the telegram was real, but how secret intelligence could be converted into public evidence without sacrificing the methods that produced it.Britain also treated the very fact that it could read German communications as a strategic asset. Public disclosure risked prompting Germany to change codes or routes, so there was a distinct intelligence problem between successful decryption and politically useful release."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "암호해독이 외교 사건이 된 순간",
+          "headingEn": "When Cryptanalysis Became Public Diplomacy",
+          "textKo": "치머만 전보는 암호해독이 군사 내부 기술을 넘어 외교와 여론을 움직이는 사건이 될 수 있음을 보여줬다. 암호문, 정보기관의 판단, 공개 전략, 정치적 반응이 연쇄적으로 이어지며 하나의 문서가 국제정세의 변수가 됐다.",
+          "textEn": "The Zimmermann episode demonstrated that cryptanalysis could become more than an internal military capability. Ciphertext, intelligence assessment, disclosure strategy, and public reaction formed a chain in which one document became an international political force."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1917년 치머만은 멕시코에 미국을 상대로 한 동맹을 제안하는 암호 전보를 보냈고, 영국이 이를 해독해 미국에 전달했으며 이후 공개됐다.\n\nNOT ESTABLISHED: 치머만 전보 하나만이 미국의 제1차 세계대전 참전을 결정한 유일한 원인이었다고 볼 수는 없다.",
+          "textEn": "CONFIRMED / SUPPORTED: In 1917 Zimmermann sent an encoded proposal for a German-Mexican alliance against the United States; Britain decrypted it, shared it with the United States, and it became public.\n\nNOT ESTABLISHED: The telegram alone cannot be treated as the sole cause of U.S. entry into World War I."
+        }
+      ],
+      "factBoundary": {
+        "established": "In 1917 Zimmermann sent an encoded proposal for a German-Mexican alliance against the United States; Britain decrypted it, shared it with the United States, and it became public.",
+        "notEstablished": "The telegram alone cannot be treated as the sole cause of U.S. entry into World War I."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ZIMMERMANN_TELEGRAM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1917년 치머만은 멕시코에 미국을 상대로 한 동맹을 제안하는 암호 전보를 보냈고, 영국이 이를 해독해 미국에 전달했으며 이후 공개됐다.",
+      "statementEn": "In 1917 Zimmermann sent an encoded proposal for a German-Mexican alliance against the United States; Britain decrypted it, shared it with the United States, and it became public.",
+      "sourceRefs": [
+        "NARA_ZIMMERMANN",
+        "NARA_ZIMMERMANN_PROLOGUE"
+      ]
+    },
+    {
+      "claimId": "ZIMMERMANN_TELEGRAM-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "치머만 전보 하나만이 미국의 제1차 세계대전 참전을 결정한 유일한 원인이었다고 볼 수는 없다.",
+      "statementEn": "The telegram alone cannot be treated as the sole cause of U.S. entry into World War I.",
+      "sourceRefs": [
+        "NARA_ZIMMERMANN",
+        "NARA_ZIMMERMANN_PROLOGUE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NARA_ZIMMERMANN",
+      "title": "Zimmermann Telegram (1917)",
+      "publisher": "U.S. National Archives",
+      "url": "https://www.archives.gov/milestone-documents/zimmermann-telegram",
+      "sourceType": "PRIMARY_DOCUMENT_CONTEXT"
+    },
+    {
+      "sourceId": "NARA_ZIMMERMANN_PROLOGUE",
+      "title": "The Zimmermann Telegram",
+      "publisher": "U.S. National Archives, Prologue",
+      "url": "https://www.archives.gov/publications/prologue/2016/winter/zimmermann-telegram",
+      "sourceType": "ARCHIVAL_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "zimmermann-telegram-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "NARA_ZIMMERMANN",
+        "NARA_ZIMMERMANN_PROLOGUE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "zimmermann-telegram__zimmermann-telegram-v01__ko.png",
+          "sha256": "af05e176a3bf9aa62fff25bce989c005ce8f8b8ef2bf948b1e69c7d823d603d1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "zimmermann-telegram__zimmermann-telegram-v01__ko.png"
+        },
+        "en": {
+          "file": "zimmermann-telegram__zimmermann-telegram-v01__en.png",
+          "sha256": "5207c3e06d38b76e2a7cf61210d36efb6b6d8ebb0b736e1d2f08bb120fabc301",
+          "width": 1600,
+          "height": 900,
+          "fileName": "zimmermann-telegram__zimmermann-telegram-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "zimmermann-telegram-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NARA_ZIMMERMANN",
+        "NARA_ZIMMERMANN_PROLOGUE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "zimmermann-telegram__zimmermann-telegram-v02__ko.png",
+          "sha256": "eb01d0338780ad3377457c3b01eaf5e58aee1d7980575490c65e8f66f3d0806b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "zimmermann-telegram__zimmermann-telegram-v02__ko.png"
+        },
+        "en": {
+          "file": "zimmermann-telegram__zimmermann-telegram-v02__en.png",
+          "sha256": "23b8005f11dcaea25ff019f09e44de11407f0c26cfde98a24293eff2c5bdf055",
+          "width": 1600,
+          "height": 900,
+          "fileName": "zimmermann-telegram__zimmermann-telegram-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "zimmermann-telegram-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "NARA_ZIMMERMANN",
+        "NARA_ZIMMERMANN_PROLOGUE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "zimmermann-telegram__zimmermann-telegram-v03__ko.png",
+          "sha256": "0428b64ca7ea9e60375459eebc5ac3ee74f35b0736e8472993ac8429d14c1644",
+          "width": 1600,
+          "height": 900,
+          "fileName": "zimmermann-telegram__zimmermann-telegram-v03__ko.png"
+        },
+        "en": {
+          "file": "zimmermann-telegram__zimmermann-telegram-v03__en.png",
+          "sha256": "835ad203a9f00896096689fd910e951ff348799e355db8d021ffaf3c2d224d47",
+          "width": 1600,
+          "height": 900,
+          "fileName": "zimmermann-telegram__zimmermann-telegram-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Germany / Mexico / United States / United Kingdom",
+    "era": "January–April 1917",
+    "genre": "Intelligence / Cryptanalysis",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Intelligence / Cryptanalysis",
+    "resolution": "unknown",
+    "countries": [
+      "Germany / Mexico / United States / United Kingdom"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1506,
+    "enBodyWords": 474
+  }
+}

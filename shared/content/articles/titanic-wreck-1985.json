@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "titanic-wreck-1985",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1985년 타이타닉 잔해 발견",
+    "canonicalTitleEn": "The 1985 Discovery of the Titanic Wreck",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "73년 동안 사라졌던 배를 찾은 단서는 ‘배’가 아니라 잔해였다",
+      "hook": "1912년 침몰 뒤 타이타닉의 정확한 위치는 수십 년 동안 확인되지 않았다. 1985년 프랑스-미국 공동 탐사는 넓은 바다에서 선체 자체를 찍는 대신, 해저에 이어진 잔해 흔적을 따라가며 마침내 보일러와 선체를 확인했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "PROBLEM",
+          "headingKo": "위치가 알려져도 찾을 수 없는 바다",
+          "headingEn": "A Known Disaster in an Uncertain Ocean",
+          "textKo": "타이타닉은 1912년 북대서양에서 침몰했지만 구조선·무선기록이 남긴 위치 정보는 실제 해저 좌표를 바로 가리키지 못했다. 수천 미터 수심, 넓은 탐색 면적, 당시 항법 오차 때문에 ‘대략 어디서 침몰했는가’와 ‘정확히 어디에 누워 있는가’는 다른 문제였다.",
+          "textEn": "Titanic sank in 1912 in the North Atlantic, but the positions reported by ships and radio traffic did not translate directly into a precise seafloor coordinate. Deep water, a large search box, and navigational uncertainty made “roughly where it sank” different from “exactly where the wreck lies.”"
+        },
+        {
+          "blockId": "02",
+          "type": "TEAM",
+          "headingKo": "프랑스 IFREMER와 미국 WHOI의 공동 탐사",
+          "headingEn": "A Joint French-American Search",
+          "textKo": "1985년 탐사는 프랑스 IFREMER와 미국 우즈홀해양연구소의 공동 작업이었다. 프랑스 측은 Le Suroit에서 측면주사 소나 SAR를 운용했고, 미국 측은 Knorr에서 심해 견인 장비 Argo를 사용했다. 서로 다른 센서 전략이 한 탐색 계획 안에서 이어졌다.",
+          "textEn": "The 1985 search combined France’s IFREMER and the Woods Hole Oceanographic Institution. The French team surveyed from Le Suroit with SAR side-scan sonar, while the U.S. team later deployed the deep-towed Argo system from Knorr. Different sensing strategies were joined into one search campaign."
+        },
+        {
+          "blockId": "03",
+          "type": "SEARCH",
+          "headingKo": "70%를 훑고도 놓친 난파선",
+          "headingEn": "Seventy Percent Surveyed, Yet No Wreck",
+          "textKo": "NOAA 기록에 따르면 프랑스 탐사는 약 150제곱해리 탐색 구역의 70%를 훑었지만 타이타닉을 찾지 못했다. 후대 분석에서는 실제 잔해에 매우 가까이 접근한 것으로 나타났다. 심해 탐사에서는 ‘충분히 많이 봤다’가 곧 ‘목표가 없다’를 뜻하지 않는다.",
+          "textEn": "NOAA notes that the French survey covered about 70 percent of a 150-square-nautical-mile search box without locating Titanic. Later analysis showed the team had passed very close to the wreck. In deep-ocean searches, broad coverage does not necessarily mean the target was absent from the remaining uncertainty."
+        },
+        {
+          "blockId": "04",
+          "type": "METHOD",
+          "headingKo": "선체가 아니라 잔해 띠를 찾는다",
+          "headingEn": "Search for the Debris, Not the Hull",
+          "textKo": "밥 발라드의 팀은 Argo의 저조도 영상과 소나를 이용해 큰 선체 한 점을 직접 맞히기보다, 침몰 과정에서 흩어진 잔해가 길게 이어질 것이라는 가설을 활용했다. 넓은 바다에서 작은 목표를 찾는 대신 더 긴 ‘흔적’을 찾아 따라가는 전략이었다.",
+          "textEn": "Ballard’s team used Argo’s low-light cameras and sonar with a different search logic: rather than trying to hit one large hull directly, look for the elongated trail of debris created as the ship broke apart and sank. A long trace is easier to intersect than a single target point."
+        },
+        {
+          "blockId": "05",
+          "type": "DISCOVERY",
+          "headingKo": "8월 31일 밤, 먼저 나타난 것은 파편이었다",
+          "headingEn": "Debris Appeared Before the Ship",
+          "textKo": "NOAA는 1985년 8월 31일 자정 직전 흩어진 파편이 영상에 나타나기 시작했고, 9월 1일 새벽 보일러의 형태가 확인되면서 수색이 끝났다고 정리한다. ‘배를 발견한 순간’은 완전한 선체 한 장면이 아니라 증거가 연속적으로 강해진 과정이었다.",
+          "textEn": "NOAA records that scattered debris began appearing just before midnight on August 31, 1985. In the early hours of September 1, the unmistakable form of a boiler confirmed that the search had reached Titanic. Discovery was a sequence of strengthening evidence, not one perfect image of a whole ship."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE",
+          "headingKo": "왜 보일러가 결정적이었나",
+          "headingEn": "Why the Boiler Mattered",
+          "textKo": "심해에는 다른 선박 잔해와 자연물도 존재할 수 있다. 그러나 타이타닉의 대형 보일러는 형태와 맥락이 특징적이어서, 주변 파편과 결합했을 때 표적 신원을 확인하는 강한 단서가 됐다. 탐색은 ‘무언가 있다’에서 ‘이것이 타이타닉이다’로 넘어갔다.",
+          "textEn": "The deep sea can contain other wreckage and natural objects, so isolated debris is not enough. Titanic’s large boilers were distinctive, and when seen in the context of the debris field they provided strong identification evidence. The search shifted from “something is here” to “this is Titanic.”"
+        },
+        {
+          "blockId": "07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "발견자는 한 사람인가",
+          "headingEn": "Was There a Single Discoverer?",
+          "textKo": "대중문화에서는 타이타닉 발견을 밥 발라드 한 사람의 성취로 축약하기 쉽다. 그러나 WHOI는 1985년 발견을 두 연구기관, 두 선박, 여러 연구자와 기술팀의 공동 성과로 설명한다. 탐사의 성공은 프랑스 소나 수색과 미국 Argo 수색이 연결된 결과였다.",
+          "textEn": "Popular retellings often compress the discovery into a single-person achievement by Robert Ballard. WHOI describes the 1985 result as a joint effort involving two institutions, multiple ships, researchers, and technical teams. The successful search built on both the French sonar phase and the U.S. Argo phase."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "‘잃어버린 장소’를 푼 탐색 미스터리",
+          "headingEn": "A Lost-Location Mystery Solved by Search Design",
+          "textKo": "타이타닉 침몰 원인 자체가 미제라서 이 사건을 고르는 것이 아니다. 1985년 사건의 미스터리 정체성은 이미 유명했던 재난의 정확한 위치를 어떤 탐색 전략으로 찾아냈는가에 있다. ‘찾는 법’이 결말을 만든 해결형 미스터리다. 탐사팀은 24시간 교대로 Argo 영상을 감시하며 느린 속도로 해저를 훑었다. 이 방식은 극적인 ‘한 번의 발견’보다 지루하고 반복적인 패턴 인식에 가까웠다. 작은 파편이 연속적으로 나타나는 순간, 탐사 전략이 실제 위치 추정으로 전환됐다.",
+          "textEn": "The mystery identity here is not that Titanic’s sinking cause was unknown. It is the search problem: how to locate a famous but unconfirmed wreck across a vast deep-ocean area. The solution came from search design—following evidence geometry rather than waiting for a lucky direct hit.The Argo survey required around-the-clock watches and slow, repetitive observation of the seafloor. It was less a cinematic instant than a pattern-recognition problem: once scattered fragments appeared repeatedly, the search logic shifted from covering area to following a trail toward the main wreck."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "발견 이후의 질문은 보존으로 이동했다",
+          "headingEn": "From Discovery to Preservation",
+          "textKo": "잔해의 위치가 확인된 뒤 관심은 탐사·촬영·유물 인양과 함께 보존·윤리 문제로 이동했다. 타이타닉은 더 이상 ‘어디 있는지 모르는 배’가 아니지만, 심해 문화유산을 어떻게 조사하고 다룰 것인지는 계속되는 문제다.",
+          "textEn": "Once the wreck’s location was confirmed, the central questions shifted toward exploration, imaging, artifact recovery, preservation, and ethics. Titanic ceased to be a lost-location mystery, but it became an enduring test case for how deep-sea cultural heritage should be studied and treated."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1985년 IFREMER-WHOI 공동 탐사는 심해 수색 끝에 잔해 흔적과 보일러를 확인하며 타이타닉의 난파 위치를 확정했다.\n\nNOT ESTABLISHED: 타이타닉이 한 사람의 단독 탐색이나 한 번의 우연한 영상 포착만으로 발견됐다는 단순화는 실제 공동 탐사 과정과 맞지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: The 1985 IFREMER-WHOI expedition confirmed Titanic’s wreck site after a deep-ocean search that followed debris and identified a boiler and associated wreckage.\n\nNOT ESTABLISHED: The wreck was not found by one person acting alone or by a single lucky image; that simplification does not match the joint search history."
+        }
+      ],
+      "factBoundary": {
+        "established": "1985년 IFREMER-WHOI 공동 탐사는 심해 수색 끝에 잔해 흔적과 보일러를 확인하며 타이타닉의 난파 위치를 확정했다.",
+        "notEstablished": "타이타닉이 한 사람의 단독 탐색이나 한 번의 우연한 영상 포착만으로 발견됐다는 단순화는 실제 공동 탐사 과정과 맞지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "The Clue That Found Titanic Was Not the Ship—It Was the Debris",
+      "hook": "After the 1912 sinking, Titanic’s exact resting place remained unconfirmed for decades. In 1985 a French-American search succeeded not by spotting the ship first, but by following a debris field across the seafloor until unmistakable wreckage appeared.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "PROBLEM",
+          "headingKo": "위치가 알려져도 찾을 수 없는 바다",
+          "headingEn": "A Known Disaster in an Uncertain Ocean",
+          "textKo": "타이타닉은 1912년 북대서양에서 침몰했지만 구조선·무선기록이 남긴 위치 정보는 실제 해저 좌표를 바로 가리키지 못했다. 수천 미터 수심, 넓은 탐색 면적, 당시 항법 오차 때문에 ‘대략 어디서 침몰했는가’와 ‘정확히 어디에 누워 있는가’는 다른 문제였다.",
+          "textEn": "Titanic sank in 1912 in the North Atlantic, but the positions reported by ships and radio traffic did not translate directly into a precise seafloor coordinate. Deep water, a large search box, and navigational uncertainty made “roughly where it sank” different from “exactly where the wreck lies.”"
+        },
+        {
+          "blockId": "02",
+          "type": "TEAM",
+          "headingKo": "프랑스 IFREMER와 미국 WHOI의 공동 탐사",
+          "headingEn": "A Joint French-American Search",
+          "textKo": "1985년 탐사는 프랑스 IFREMER와 미국 우즈홀해양연구소의 공동 작업이었다. 프랑스 측은 Le Suroit에서 측면주사 소나 SAR를 운용했고, 미국 측은 Knorr에서 심해 견인 장비 Argo를 사용했다. 서로 다른 센서 전략이 한 탐색 계획 안에서 이어졌다.",
+          "textEn": "The 1985 search combined France’s IFREMER and the Woods Hole Oceanographic Institution. The French team surveyed from Le Suroit with SAR side-scan sonar, while the U.S. team later deployed the deep-towed Argo system from Knorr. Different sensing strategies were joined into one search campaign."
+        },
+        {
+          "blockId": "03",
+          "type": "SEARCH",
+          "headingKo": "70%를 훑고도 놓친 난파선",
+          "headingEn": "Seventy Percent Surveyed, Yet No Wreck",
+          "textKo": "NOAA 기록에 따르면 프랑스 탐사는 약 150제곱해리 탐색 구역의 70%를 훑었지만 타이타닉을 찾지 못했다. 후대 분석에서는 실제 잔해에 매우 가까이 접근한 것으로 나타났다. 심해 탐사에서는 ‘충분히 많이 봤다’가 곧 ‘목표가 없다’를 뜻하지 않는다.",
+          "textEn": "NOAA notes that the French survey covered about 70 percent of a 150-square-nautical-mile search box without locating Titanic. Later analysis showed the team had passed very close to the wreck. In deep-ocean searches, broad coverage does not necessarily mean the target was absent from the remaining uncertainty."
+        },
+        {
+          "blockId": "04",
+          "type": "METHOD",
+          "headingKo": "선체가 아니라 잔해 띠를 찾는다",
+          "headingEn": "Search for the Debris, Not the Hull",
+          "textKo": "밥 발라드의 팀은 Argo의 저조도 영상과 소나를 이용해 큰 선체 한 점을 직접 맞히기보다, 침몰 과정에서 흩어진 잔해가 길게 이어질 것이라는 가설을 활용했다. 넓은 바다에서 작은 목표를 찾는 대신 더 긴 ‘흔적’을 찾아 따라가는 전략이었다.",
+          "textEn": "Ballard’s team used Argo’s low-light cameras and sonar with a different search logic: rather than trying to hit one large hull directly, look for the elongated trail of debris created as the ship broke apart and sank. A long trace is easier to intersect than a single target point."
+        },
+        {
+          "blockId": "05",
+          "type": "DISCOVERY",
+          "headingKo": "8월 31일 밤, 먼저 나타난 것은 파편이었다",
+          "headingEn": "Debris Appeared Before the Ship",
+          "textKo": "NOAA는 1985년 8월 31일 자정 직전 흩어진 파편이 영상에 나타나기 시작했고, 9월 1일 새벽 보일러의 형태가 확인되면서 수색이 끝났다고 정리한다. ‘배를 발견한 순간’은 완전한 선체 한 장면이 아니라 증거가 연속적으로 강해진 과정이었다.",
+          "textEn": "NOAA records that scattered debris began appearing just before midnight on August 31, 1985. In the early hours of September 1, the unmistakable form of a boiler confirmed that the search had reached Titanic. Discovery was a sequence of strengthening evidence, not one perfect image of a whole ship."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE",
+          "headingKo": "왜 보일러가 결정적이었나",
+          "headingEn": "Why the Boiler Mattered",
+          "textKo": "심해에는 다른 선박 잔해와 자연물도 존재할 수 있다. 그러나 타이타닉의 대형 보일러는 형태와 맥락이 특징적이어서, 주변 파편과 결합했을 때 표적 신원을 확인하는 강한 단서가 됐다. 탐색은 ‘무언가 있다’에서 ‘이것이 타이타닉이다’로 넘어갔다.",
+          "textEn": "The deep sea can contain other wreckage and natural objects, so isolated debris is not enough. Titanic’s large boilers were distinctive, and when seen in the context of the debris field they provided strong identification evidence. The search shifted from “something is here” to “this is Titanic.”"
+        },
+        {
+          "blockId": "07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "발견자는 한 사람인가",
+          "headingEn": "Was There a Single Discoverer?",
+          "textKo": "대중문화에서는 타이타닉 발견을 밥 발라드 한 사람의 성취로 축약하기 쉽다. 그러나 WHOI는 1985년 발견을 두 연구기관, 두 선박, 여러 연구자와 기술팀의 공동 성과로 설명한다. 탐사의 성공은 프랑스 소나 수색과 미국 Argo 수색이 연결된 결과였다.",
+          "textEn": "Popular retellings often compress the discovery into a single-person achievement by Robert Ballard. WHOI describes the 1985 result as a joint effort involving two institutions, multiple ships, researchers, and technical teams. The successful search built on both the French sonar phase and the U.S. Argo phase."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "‘잃어버린 장소’를 푼 탐색 미스터리",
+          "headingEn": "A Lost-Location Mystery Solved by Search Design",
+          "textKo": "타이타닉 침몰 원인 자체가 미제라서 이 사건을 고르는 것이 아니다. 1985년 사건의 미스터리 정체성은 이미 유명했던 재난의 정확한 위치를 어떤 탐색 전략으로 찾아냈는가에 있다. ‘찾는 법’이 결말을 만든 해결형 미스터리다. 탐사팀은 24시간 교대로 Argo 영상을 감시하며 느린 속도로 해저를 훑었다. 이 방식은 극적인 ‘한 번의 발견’보다 지루하고 반복적인 패턴 인식에 가까웠다. 작은 파편이 연속적으로 나타나는 순간, 탐사 전략이 실제 위치 추정으로 전환됐다.",
+          "textEn": "The mystery identity here is not that Titanic’s sinking cause was unknown. It is the search problem: how to locate a famous but unconfirmed wreck across a vast deep-ocean area. The solution came from search design—following evidence geometry rather than waiting for a lucky direct hit.The Argo survey required around-the-clock watches and slow, repetitive observation of the seafloor. It was less a cinematic instant than a pattern-recognition problem: once scattered fragments appeared repeatedly, the search logic shifted from covering area to following a trail toward the main wreck."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "발견 이후의 질문은 보존으로 이동했다",
+          "headingEn": "From Discovery to Preservation",
+          "textKo": "잔해의 위치가 확인된 뒤 관심은 탐사·촬영·유물 인양과 함께 보존·윤리 문제로 이동했다. 타이타닉은 더 이상 ‘어디 있는지 모르는 배’가 아니지만, 심해 문화유산을 어떻게 조사하고 다룰 것인지는 계속되는 문제다.",
+          "textEn": "Once the wreck’s location was confirmed, the central questions shifted toward exploration, imaging, artifact recovery, preservation, and ethics. Titanic ceased to be a lost-location mystery, but it became an enduring test case for how deep-sea cultural heritage should be studied and treated."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1985년 IFREMER-WHOI 공동 탐사는 심해 수색 끝에 잔해 흔적과 보일러를 확인하며 타이타닉의 난파 위치를 확정했다.\n\nNOT ESTABLISHED: 타이타닉이 한 사람의 단독 탐색이나 한 번의 우연한 영상 포착만으로 발견됐다는 단순화는 실제 공동 탐사 과정과 맞지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: The 1985 IFREMER-WHOI expedition confirmed Titanic’s wreck site after a deep-ocean search that followed debris and identified a boiler and associated wreckage.\n\nNOT ESTABLISHED: The wreck was not found by one person acting alone or by a single lucky image; that simplification does not match the joint search history."
+        }
+      ],
+      "factBoundary": {
+        "established": "The 1985 IFREMER-WHOI expedition confirmed Titanic’s wreck site after a deep-ocean search that followed debris and identified a boiler and associated wreckage.",
+        "notEstablished": "The wreck was not found by one person acting alone or by a single lucky image; that simplification does not match the joint search history."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TITANIC_WRECK_1985-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1985년 IFREMER-WHOI 공동 탐사는 심해 수색 끝에 잔해 흔적과 보일러를 확인하며 타이타닉의 난파 위치를 확정했다.",
+      "statementEn": "The 1985 IFREMER-WHOI expedition confirmed Titanic’s wreck site after a deep-ocean search that followed debris and identified a boiler and associated wreckage.",
+      "sourceRefs": [
+        "WHOI_TITANIC",
+        "NOAA_TITANIC"
+      ]
+    },
+    {
+      "claimId": "TITANIC_WRECK_1985-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "타이타닉이 한 사람의 단독 탐색이나 한 번의 우연한 영상 포착만으로 발견됐다는 단순화는 실제 공동 탐사 과정과 맞지 않는다.",
+      "statementEn": "The wreck was not found by one person acting alone or by a single lucky image; that simplification does not match the joint search history.",
+      "sourceRefs": [
+        "WHOI_TITANIC",
+        "NOAA_TITANIC"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "WHOI_TITANIC",
+      "title": "1985 discovery of RMS Titanic",
+      "publisher": "Woods Hole Oceanographic Institution",
+      "url": "https://www.whoi.edu/ocean-learning-hub/ocean-topics/ocean-human-lives/underwater-archaeology/rms-titanic/1985-discovery-of-rms-titanic/",
+      "sourceType": "RESEARCH_INSTITUTION_HISTORY"
+    },
+    {
+      "sourceId": "NOAA_TITANIC",
+      "title": "Maritime Heritage Program - Titanic past expeditions",
+      "publisher": "NOAA",
+      "url": "https://sanctuaries.noaa.gov/maritime/titanic/past_expeditions.html",
+      "sourceType": "FEDERAL_MARITIME_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "titanic-wreck-1985-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "WHOI_TITANIC",
+        "NOAA_TITANIC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "titanic-wreck-1985__titanic-wreck-1985-v01__ko.png",
+          "sha256": "d9f01539794f1cfcb4e987538baa6bc47005b192738690fc9a061f68db18821f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "titanic-wreck-1985__titanic-wreck-1985-v01__ko.png"
+        },
+        "en": {
+          "file": "titanic-wreck-1985__titanic-wreck-1985-v01__en.png",
+          "sha256": "7eb42b28cda6c795f0a8408c56d3112b91648965a5ec6916f929c7eba37f5575",
+          "width": 1600,
+          "height": 900,
+          "fileName": "titanic-wreck-1985__titanic-wreck-1985-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "titanic-wreck-1985-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "WHOI_TITANIC",
+        "NOAA_TITANIC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "titanic-wreck-1985__titanic-wreck-1985-v02__ko.png",
+          "sha256": "318bf70d22c301559b948a0a7c4d4fb2acc9344578c8eaa26349acccdaff4938",
+          "width": 1600,
+          "height": 900,
+          "fileName": "titanic-wreck-1985__titanic-wreck-1985-v02__ko.png"
+        },
+        "en": {
+          "file": "titanic-wreck-1985__titanic-wreck-1985-v02__en.png",
+          "sha256": "567b3c2b0b4a0c7fb85583e9b0e2e2b7b56b4b13101ae46fb0565b4583290556",
+          "width": 1600,
+          "height": 900,
+          "fileName": "titanic-wreck-1985__titanic-wreck-1985-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "titanic-wreck-1985-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "WHOI_TITANIC",
+        "NOAA_TITANIC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "titanic-wreck-1985__titanic-wreck-1985-v03__ko.png",
+          "sha256": "5ec2a9f50e8b6bab8d8ce493f8c65bf2211142504a440c3ae074c2dac832d7f8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "titanic-wreck-1985__titanic-wreck-1985-v03__ko.png"
+        },
+        "en": {
+          "file": "titanic-wreck-1985__titanic-wreck-1985-v03__en.png",
+          "sha256": "5dd177ac617531c6882fbd8c73b29d3d8366762926db50914eed5e6c36aa3a4a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "titanic-wreck-1985__titanic-wreck-1985-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "North Atlantic",
+    "era": "1985",
+    "genre": "Lost Wreck / Search Mystery",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Lost Wreck / Search Mystery",
+    "resolution": "unknown",
+    "countries": [
+      "North Atlantic"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1541,
+    "enBodyWords": 511
+  }
+}

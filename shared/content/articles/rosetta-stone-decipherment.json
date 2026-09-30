@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "rosetta-stone-decipherment",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "로제타석과 상형문자 해독",
+    "canonicalTitleEn": "The Rosetta Stone and the Decipherment of Hieroglyphs",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "읽을 수 없던 문자는 어떻게 다시 목소리를 얻었나",
+      "hook": "로제타석은 같은 칙령을 서로 다른 문자 체계로 새긴 비정상적으로 강력한 단서였다. 하지만 상형문자 해독은 한 번의 번역이 아니라, 토머스 영과 장프랑수아 샹폴리옹을 포함한 여러 연구자의 단계적 돌파였다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "OBJECT",
+          "headingKo": "세 번 새겨진 하나의 칙령",
+          "headingEn": "One Decree in Three Scripts",
+          "textKo": "로제타석은 기원전 196년 프톨레마이오스 5세 시대의 칙령을 상형문자, 데모틱, 고대 그리스어로 기록한 비석 조각이다. 세 텍스트가 완전히 같은 길이로 일대일 대응하는 것은 아니지만, 이미 읽을 수 있던 그리스어가 미지의 문자 체계를 비교할 기준을 제공했다.",
+          "textEn": "The Rosetta Stone is a fragment of a stela bearing a decree from 196 BCE in hieroglyphic, Demotic, and ancient Greek scripts. The three versions are not a simple character-for-character crib, but the readable Greek text provided a powerful reference for approaching the Egyptian scripts."
+        },
+        {
+          "blockId": "02",
+          "type": "DISCOVERY",
+          "headingKo": "1799년 로제타에서 나온 돌",
+          "headingEn": "The 1799 Discovery at Rosetta",
+          "textKo": "나폴레옹 원정군 병사들은 1799년 엘라시드, 즉 로제타 인근 요새 공사 중 이 비석을 발견했다. 이후 프랑스의 패배와 알렉산드리아 조약을 거치며 돌은 영국으로 넘어가 1802년부터 대영박물관에 전시됐다. 동시에 탁본과 사본이 유럽 연구자들에게 퍼졌다.",
+          "textEn": "Soldiers in Napoleon’s army found the stone in 1799 while working on fortifications near el-Rashid, or Rosetta. After the French defeat it passed to the British under the Treaty of Alexandria and went on display at the British Museum in 1802, while copies and impressions circulated among scholars."
+        },
+        {
+          "blockId": "03",
+          "type": "CLUE",
+          "headingKo": "왕 이름이 만든 첫 틈",
+          "headingEn": "Royal Names Opened the First Gap",
+          "textKo": "토머스 영은 카르투슈 안의 기호 일부가 프톨레마이오스 같은 왕명을 소리값으로 적는다는 점을 보여줬다. 이것은 상형문자가 오직 상징적 그림이라는 단순한 생각을 무너뜨리는 중요한 단계였다. 다만 영의 체계만으로 전체 문장을 안정적으로 읽을 수 있었던 것은 아니다.",
+          "textEn": "Thomas Young demonstrated that some signs inside royal cartouches could represent sounds in names such as Ptolemy. That finding weakened the old idea that hieroglyphs were purely symbolic pictures. It was a crucial step, but Young’s framework did not yet make the wider script fully readable."
+        },
+        {
+          "blockId": "04",
+          "type": "BREAKTHROUGH",
+          "headingKo": "샹폴리옹이 확장한 음가의 원리",
+          "headingEn": "Champollion Extended the Phonetic Principle",
+          "textKo": "샹폴리옹은 왕명뿐 아니라 이집트어 고유어에도 음가 기호가 쓰인다는 점을 확장해 이해했고, 콥트어 지식을 활용해 고대 이집트어와 연결했다. 1822년 9월 발표는 상형문자를 실제 언어를 기록하는 복합 문자 체계로 읽는 결정적 전환점이 됐다.",
+          "textEn": "Champollion extended the phonetic insight beyond foreign royal names, recognizing that phonetic signs also operated in native Egyptian words. His knowledge of Coptic helped connect the script to the Egyptian language, and his September 1822 presentation became the decisive turning point toward systematic reading."
+        },
+        {
+          "blockId": "05",
+          "type": "MISCONCEPTION",
+          "headingKo": "‘그리스어를 그대로 대입했다’는 오해",
+          "headingEn": "Why It Was Not a Simple Substitution Cipher",
+          "textKo": "로제타석은 암호표처럼 그리스어 한 글자와 상형문자 한 글자를 그대로 대응시키지 않는다. 상형문자는 표음·표의·결정 기호가 함께 작동하는 복합 체계다. 해독은 이름 비교, 다른 비문, 콥트어, 문법적 패턴을 함께 사용한 누적 연구였다.",
+          "textEn": "The Rosetta Stone was not a substitution table matching one Greek letter to one hieroglyph. Egyptian writing combines phonetic, logographic, and determinative functions. Decipherment required names, parallel inscriptions, Coptic, grammatical patterns, and accumulated comparison across texts."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "한 사람의 ‘천재적 순간’이 전부였나",
+          "headingEn": "Was It One Genius Moment?",
+          "textKo": "대중 서사에서는 샹폴리옹 한 사람이 갑자기 암호를 풀었다고 묘사되기 쉽지만, 대영박물관 자료는 영의 선행 성과와 여러 연구자의 경쟁·공유를 함께 보여준다. 샹폴리옹의 1822년 돌파는 결정적이었지만, 그 돌파가 성립한 지적 경로도 사건의 일부다.",
+          "textEn": "Popular retellings often compress the story into a single moment of genius by Champollion. British Museum accounts instead show overlapping work, including Young’s earlier phonetic observations and a wider scholarly race. Champollion’s 1822 breakthrough was decisive, but it emerged from a cumulative intellectual path."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "돌 자체와 후대 해독사를 분리해 읽기",
+          "headingEn": "Separate the Ancient Object from the Modern Decipherment Story",
+          "textKo": "비석이 직접 증명하는 것은 칙령과 세 문자 체계의 공존이다. 누가 어떤 단계에서 무엇을 알아냈는지는 19세기 연구 문서와 후대 학술사가 설명한다. 고대 유물과 근대 해독 경쟁을 하나의 순간으로 합치면 사건의 시간 구조가 사라진다.",
+          "textEn": "The stone itself establishes the decree and the coexistence of three written forms. The sequence of who discovered what belongs to nineteenth-century papers and later histories of decipherment. Collapsing the ancient object and the modern scholarly race into one moment hides the actual chronology."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리의 핵심은 방법이다",
+          "headingEn": "A Solved Mystery Whose Method Is the Story",
+          "textKo": "이 사건은 결과가 알려진 ‘해결된 미스터리’다. 흥미의 중심은 더 이상 상형문자를 읽을 수 있는가가 아니라, 제한된 병렬 텍스트와 언어 지식을 이용해 어떻게 읽는 규칙을 검증했는가에 있다. 해결 과정 자체가 미스터리 아틀라스의 사건 구조가 된다. 또 로제타석의 상형문자 부분은 완전한 상태가 아니어서, 학자들은 같은 칙령의 다른 사본과 다른 왕명 비문도 함께 비교했다. 따라서 성공은 하나의 유물에 매달린 단선적 해독이 아니라 여러 자료가 서로의 가설을 시험하는 비교 과정이었다.",
+          "textEn": "This is a solved mystery. The tension no longer lies in whether hieroglyphs can be read, but in how scholars converted a limited parallel text and linguistic knowledge into a testable reading system. The method of resolution is the mystery story.The hieroglyphic portion of the Rosetta Stone is incomplete, so scholars also relied on other inscriptions and copies of related decrees. The breakthrough was therefore not a single-object trick but a comparative process in which hypotheses were tested across multiple texts."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "하나의 돌에서 문명 전체의 문서로",
+          "headingEn": "From One Stone to an Archive of a Civilization",
+          "textKo": "1822년의 돌파 이후 상형문자 읽기는 다른 비문과 파피루스에 적용되며 고대 이집트사의 자료층을 크게 넓혔다. 로제타석의 가치는 ‘모든 답을 담은 돌’이라기보다, 검증 가능한 해독 체계로 넘어가는 결정적 교차점에 있었다.",
+          "textEn": "After the 1822 breakthrough, decipherment could be tested and expanded across inscriptions and papyri, opening an enormous documentary record of ancient Egypt. The Rosetta Stone mattered not because it contained every answer, but because it created a decisive bridge to a workable reading system."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 로제타석은 기원전 196년 칙령을 세 문자 형태로 새겼고, 영의 초기 음가 분석과 샹폴리옹의 1822년 돌파가 상형문자 해독의 핵심 단계였다.\n\nNOT ESTABLISHED: 로제타석 하나만으로 한 사람이 즉시 상형문자 전체를 ‘번역’했다는 식의 단순화는 역사적 과정과 맞지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Rosetta Stone carries a 196 BCE decree in three written forms, and Young’s phonetic observations plus Champollion’s 1822 breakthrough were central stages in decipherment.\n\nNOT ESTABLISHED: The historical process does not support the simplified idea that one person instantly translated the entire hieroglyphic system from the Rosetta Stone alone."
+        }
+      ],
+      "factBoundary": {
+        "established": "로제타석은 기원전 196년 칙령을 세 문자 형태로 새겼고, 영의 초기 음가 분석과 샹폴리옹의 1822년 돌파가 상형문자 해독의 핵심 단계였다.",
+        "notEstablished": "로제타석 하나만으로 한 사람이 즉시 상형문자 전체를 ‘번역’했다는 식의 단순화는 역사적 과정과 맞지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "How a Silent Script Became Readable Again",
+      "hook": "The Rosetta Stone placed versions of the same decree in multiple scripts, creating an unusually powerful key. But decipherment was not one instant translation; it emerged through a sequence of breakthroughs involving Thomas Young, Jean-François Champollion, and earlier scholarship.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "OBJECT",
+          "headingKo": "세 번 새겨진 하나의 칙령",
+          "headingEn": "One Decree in Three Scripts",
+          "textKo": "로제타석은 기원전 196년 프톨레마이오스 5세 시대의 칙령을 상형문자, 데모틱, 고대 그리스어로 기록한 비석 조각이다. 세 텍스트가 완전히 같은 길이로 일대일 대응하는 것은 아니지만, 이미 읽을 수 있던 그리스어가 미지의 문자 체계를 비교할 기준을 제공했다.",
+          "textEn": "The Rosetta Stone is a fragment of a stela bearing a decree from 196 BCE in hieroglyphic, Demotic, and ancient Greek scripts. The three versions are not a simple character-for-character crib, but the readable Greek text provided a powerful reference for approaching the Egyptian scripts."
+        },
+        {
+          "blockId": "02",
+          "type": "DISCOVERY",
+          "headingKo": "1799년 로제타에서 나온 돌",
+          "headingEn": "The 1799 Discovery at Rosetta",
+          "textKo": "나폴레옹 원정군 병사들은 1799년 엘라시드, 즉 로제타 인근 요새 공사 중 이 비석을 발견했다. 이후 프랑스의 패배와 알렉산드리아 조약을 거치며 돌은 영국으로 넘어가 1802년부터 대영박물관에 전시됐다. 동시에 탁본과 사본이 유럽 연구자들에게 퍼졌다.",
+          "textEn": "Soldiers in Napoleon’s army found the stone in 1799 while working on fortifications near el-Rashid, or Rosetta. After the French defeat it passed to the British under the Treaty of Alexandria and went on display at the British Museum in 1802, while copies and impressions circulated among scholars."
+        },
+        {
+          "blockId": "03",
+          "type": "CLUE",
+          "headingKo": "왕 이름이 만든 첫 틈",
+          "headingEn": "Royal Names Opened the First Gap",
+          "textKo": "토머스 영은 카르투슈 안의 기호 일부가 프톨레마이오스 같은 왕명을 소리값으로 적는다는 점을 보여줬다. 이것은 상형문자가 오직 상징적 그림이라는 단순한 생각을 무너뜨리는 중요한 단계였다. 다만 영의 체계만으로 전체 문장을 안정적으로 읽을 수 있었던 것은 아니다.",
+          "textEn": "Thomas Young demonstrated that some signs inside royal cartouches could represent sounds in names such as Ptolemy. That finding weakened the old idea that hieroglyphs were purely symbolic pictures. It was a crucial step, but Young’s framework did not yet make the wider script fully readable."
+        },
+        {
+          "blockId": "04",
+          "type": "BREAKTHROUGH",
+          "headingKo": "샹폴리옹이 확장한 음가의 원리",
+          "headingEn": "Champollion Extended the Phonetic Principle",
+          "textKo": "샹폴리옹은 왕명뿐 아니라 이집트어 고유어에도 음가 기호가 쓰인다는 점을 확장해 이해했고, 콥트어 지식을 활용해 고대 이집트어와 연결했다. 1822년 9월 발표는 상형문자를 실제 언어를 기록하는 복합 문자 체계로 읽는 결정적 전환점이 됐다.",
+          "textEn": "Champollion extended the phonetic insight beyond foreign royal names, recognizing that phonetic signs also operated in native Egyptian words. His knowledge of Coptic helped connect the script to the Egyptian language, and his September 1822 presentation became the decisive turning point toward systematic reading."
+        },
+        {
+          "blockId": "05",
+          "type": "MISCONCEPTION",
+          "headingKo": "‘그리스어를 그대로 대입했다’는 오해",
+          "headingEn": "Why It Was Not a Simple Substitution Cipher",
+          "textKo": "로제타석은 암호표처럼 그리스어 한 글자와 상형문자 한 글자를 그대로 대응시키지 않는다. 상형문자는 표음·표의·결정 기호가 함께 작동하는 복합 체계다. 해독은 이름 비교, 다른 비문, 콥트어, 문법적 패턴을 함께 사용한 누적 연구였다.",
+          "textEn": "The Rosetta Stone was not a substitution table matching one Greek letter to one hieroglyph. Egyptian writing combines phonetic, logographic, and determinative functions. Decipherment required names, parallel inscriptions, Coptic, grammatical patterns, and accumulated comparison across texts."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "한 사람의 ‘천재적 순간’이 전부였나",
+          "headingEn": "Was It One Genius Moment?",
+          "textKo": "대중 서사에서는 샹폴리옹 한 사람이 갑자기 암호를 풀었다고 묘사되기 쉽지만, 대영박물관 자료는 영의 선행 성과와 여러 연구자의 경쟁·공유를 함께 보여준다. 샹폴리옹의 1822년 돌파는 결정적이었지만, 그 돌파가 성립한 지적 경로도 사건의 일부다.",
+          "textEn": "Popular retellings often compress the story into a single moment of genius by Champollion. British Museum accounts instead show overlapping work, including Young’s earlier phonetic observations and a wider scholarly race. Champollion’s 1822 breakthrough was decisive, but it emerged from a cumulative intellectual path."
+        },
+        {
+          "blockId": "07",
+          "type": "SOURCE_READING",
+          "headingKo": "돌 자체와 후대 해독사를 분리해 읽기",
+          "headingEn": "Separate the Ancient Object from the Modern Decipherment Story",
+          "textKo": "비석이 직접 증명하는 것은 칙령과 세 문자 체계의 공존이다. 누가 어떤 단계에서 무엇을 알아냈는지는 19세기 연구 문서와 후대 학술사가 설명한다. 고대 유물과 근대 해독 경쟁을 하나의 순간으로 합치면 사건의 시간 구조가 사라진다.",
+          "textEn": "The stone itself establishes the decree and the coexistence of three written forms. The sequence of who discovered what belongs to nineteenth-century papers and later histories of decipherment. Collapsing the ancient object and the modern scholarly race into one moment hides the actual chronology."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리의 핵심은 방법이다",
+          "headingEn": "A Solved Mystery Whose Method Is the Story",
+          "textKo": "이 사건은 결과가 알려진 ‘해결된 미스터리’다. 흥미의 중심은 더 이상 상형문자를 읽을 수 있는가가 아니라, 제한된 병렬 텍스트와 언어 지식을 이용해 어떻게 읽는 규칙을 검증했는가에 있다. 해결 과정 자체가 미스터리 아틀라스의 사건 구조가 된다. 또 로제타석의 상형문자 부분은 완전한 상태가 아니어서, 학자들은 같은 칙령의 다른 사본과 다른 왕명 비문도 함께 비교했다. 따라서 성공은 하나의 유물에 매달린 단선적 해독이 아니라 여러 자료가 서로의 가설을 시험하는 비교 과정이었다.",
+          "textEn": "This is a solved mystery. The tension no longer lies in whether hieroglyphs can be read, but in how scholars converted a limited parallel text and linguistic knowledge into a testable reading system. The method of resolution is the mystery story.The hieroglyphic portion of the Rosetta Stone is incomplete, so scholars also relied on other inscriptions and copies of related decrees. The breakthrough was therefore not a single-object trick but a comparative process in which hypotheses were tested across multiple texts."
+        },
+        {
+          "blockId": "09",
+          "type": "AFTERMATH",
+          "headingKo": "하나의 돌에서 문명 전체의 문서로",
+          "headingEn": "From One Stone to an Archive of a Civilization",
+          "textKo": "1822년의 돌파 이후 상형문자 읽기는 다른 비문과 파피루스에 적용되며 고대 이집트사의 자료층을 크게 넓혔다. 로제타석의 가치는 ‘모든 답을 담은 돌’이라기보다, 검증 가능한 해독 체계로 넘어가는 결정적 교차점에 있었다.",
+          "textEn": "After the 1822 breakthrough, decipherment could be tested and expanded across inscriptions and papyri, opening an enormous documentary record of ancient Egypt. The Rosetta Stone mattered not because it contained every answer, but because it created a decisive bridge to a workable reading system."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 로제타석은 기원전 196년 칙령을 세 문자 형태로 새겼고, 영의 초기 음가 분석과 샹폴리옹의 1822년 돌파가 상형문자 해독의 핵심 단계였다.\n\nNOT ESTABLISHED: 로제타석 하나만으로 한 사람이 즉시 상형문자 전체를 ‘번역’했다는 식의 단순화는 역사적 과정과 맞지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Rosetta Stone carries a 196 BCE decree in three written forms, and Young’s phonetic observations plus Champollion’s 1822 breakthrough were central stages in decipherment.\n\nNOT ESTABLISHED: The historical process does not support the simplified idea that one person instantly translated the entire hieroglyphic system from the Rosetta Stone alone."
+        }
+      ],
+      "factBoundary": {
+        "established": "The Rosetta Stone carries a 196 BCE decree in three written forms, and Young’s phonetic observations plus Champollion’s 1822 breakthrough were central stages in decipherment.",
+        "notEstablished": "The historical process does not support the simplified idea that one person instantly translated the entire hieroglyphic system from the Rosetta Stone alone."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ROSETTA_STONE_DECIPHERMENT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "로제타석은 기원전 196년 칙령을 세 문자 형태로 새겼고, 영의 초기 음가 분석과 샹폴리옹의 1822년 돌파가 상형문자 해독의 핵심 단계였다.",
+      "statementEn": "The Rosetta Stone carries a 196 BCE decree in three written forms, and Young’s phonetic observations plus Champollion’s 1822 breakthrough were central stages in decipherment.",
+      "sourceRefs": [
+        "BM_ROSETTA",
+        "BM_TIMELINE"
+      ]
+    },
+    {
+      "claimId": "ROSETTA_STONE_DECIPHERMENT-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "로제타석 하나만으로 한 사람이 즉시 상형문자 전체를 ‘번역’했다는 식의 단순화는 역사적 과정과 맞지 않는다.",
+      "statementEn": "The historical process does not support the simplified idea that one person instantly translated the entire hieroglyphic system from the Rosetta Stone alone.",
+      "sourceRefs": [
+        "BM_ROSETTA",
+        "BM_TIMELINE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BM_ROSETTA",
+      "title": "The Rosetta Stone: everything you need to know",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+      "sourceType": "MUSEUM_RESEARCH"
+    },
+    {
+      "sourceId": "BM_TIMELINE",
+      "title": "How Egyptian hieroglyphs were decoded",
+      "publisher": "British Museum",
+      "url": "https://www.britishmuseum.org/exhibitions/hieroglyphs-unlocking-ancient-egypt/egyptian-hieroglyphs-decipherment-timeline",
+      "sourceType": "MUSEUM_TIMELINE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "rosetta-stone-decipherment-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "BM_ROSETTA",
+        "BM_TIMELINE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "rosetta-stone-decipherment__rosetta-stone-decipherment-v01__ko.png",
+          "sha256": "824155cf4c5660fa9b909d7ecf2c23679808be92af66c34fe54a4f30be4399d3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "rosetta-stone-decipherment__rosetta-stone-decipherment-v01__ko.png"
+        },
+        "en": {
+          "file": "rosetta-stone-decipherment__rosetta-stone-decipherment-v01__en.png",
+          "sha256": "2213034d339ad7145df5ca45508a29a04133fbeacee6b62590af3c0a52f192b8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "rosetta-stone-decipherment__rosetta-stone-decipherment-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "rosetta-stone-decipherment-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "BM_ROSETTA",
+        "BM_TIMELINE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "rosetta-stone-decipherment__rosetta-stone-decipherment-v02__ko.png",
+          "sha256": "3a01a0002910d82e797029426c389ce4f2c40cd3411856b086b098106f02df81",
+          "width": 1600,
+          "height": 900,
+          "fileName": "rosetta-stone-decipherment__rosetta-stone-decipherment-v02__ko.png"
+        },
+        "en": {
+          "file": "rosetta-stone-decipherment__rosetta-stone-decipherment-v02__en.png",
+          "sha256": "655bcc193c53587deb058118c88f2c3d2f56d608ebcdbf51a1c4c72d4644bde1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "rosetta-stone-decipherment__rosetta-stone-decipherment-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "rosetta-stone-decipherment-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "BM_ROSETTA",
+        "BM_TIMELINE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "rosetta-stone-decipherment__rosetta-stone-decipherment-v03__ko.png",
+          "sha256": "c4313df46c3a255c7c1d36af0993162912c6b449578c7ff86ff1f3709d601f9c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "rosetta-stone-decipherment__rosetta-stone-decipherment-v03__ko.png"
+        },
+        "en": {
+          "file": "rosetta-stone-decipherment__rosetta-stone-decipherment-v03__en.png",
+          "sha256": "b1017b1f92038a5296e61653121c05810d39c66f894772628ba2ae785f7cac44",
+          "width": 1600,
+          "height": 900,
+          "fileName": "rosetta-stone-decipherment__rosetta-stone-decipherment-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Egypt / France / United Kingdom",
+    "era": "1799–1822",
+    "genre": "Solved Code / Ancient Writing",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Solved Code / Ancient Writing",
+    "resolution": "unknown",
+    "countries": [
+      "Egypt / France / United Kingdom"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1530,
+    "enBodyWords": 485
+  }
+}

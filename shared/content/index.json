@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MediaBatch44_ExpansionLock06_FINAL.zip",
+  "sourcePack": "b45.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -3884,6 +3884,64 @@
       }
     },
     {
+      "canonicalId": "dreyfus-1894-affair",
+      "title": {
+        "ko": "드레퓌스 사건의 문서와 재심",
+        "en": "The Dreyfus Affair: Documents, Forgeries, and Reversal"
+      },
+      "headline": {
+        "ko": "한 장의 필적과 비밀 문서가 만든 유죄는 어떻게 무너졌나",
+        "en": "How Handwriting, Secret Files, and a Forgery Built—and Broke—a Conviction"
+      },
+      "hook": {
+        "ko": "1894년 프랑스 육군은 익명의 ‘보르드로’ 문서를 근거로 알프레드 드레퓌스를 간첩으로 몰았다. 사건은 필적 추정, 피고에게 공개되지 않은 비밀 자료, 실제 용의자, 그리고 조작된 문서가 겹치며 국가적 위기로 커졌다.",
+        "en": "In 1894 the French Army accused Captain Alfred Dreyfus of espionage after an unsigned memorandum known as the bordereau was recovered. Handwriting claims, a secret dossier withheld from the defense, another suspect, and a fabricated document turned the case into a national crisis."
+      },
+      "aliases": [],
+      "genre": "Judicial Mystery / Forged Evidence",
+      "genres": [],
+      "countries": [
+        "France"
+      ],
+      "regions": [],
+      "era": "1894–1906",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "dreyfus-1894-affair-v01",
+      "heroFile": {
+        "ko": "dreyfus-1894-affair__dreyfus-1894-affair-v01__ko.png",
+        "en": "dreyfus-1894-affair__dreyfus-1894-affair-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "earthquake-lights",
       "title": {
         "ko": "지진광",
@@ -4094,6 +4152,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "enceladus-plume-hydrogen",
+      "title": {
+        "ko": "엔셀라두스 분출 기둥의 수소",
+        "en": "Hydrogen in Enceladus’s Plume"
+      },
+      "headline": {
+        "ko": "토성의 얼음 위성에서 ‘생명 에너지’가 검출됐다는 말의 정확한 뜻",
+        "en": "What It Really Means to Find a Potential Energy Source for Life at Enceladus"
+      },
+      "hook": {
+        "ko": "카시니는 엔셀라두스 남극 분출 기둥에서 분자 수소를 검출했다. 이 수소는 바닷물과 암석의 열수 반응을 지지하고 미생물이 이용할 수 있는 화학에너지를 뜻하지만, 생명 자체의 검출은 아니다.",
+        "en": "Cassini detected molecular hydrogen in the plume erupting from Enceladus. The hydrogen supports water-rock interaction and a chemical energy source that microbes could use, but it is evidence for habitability—not a detection of life."
+      },
+      "aliases": [],
+      "genre": "Space / Astrobiology Anomaly",
+      "genres": [],
+      "countries": [
+        "Saturn system"
+      ],
+      "regions": [],
+      "era": "2015–2023",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "enceladus-plume-hydrogen-v01",
+      "heroFile": {
+        "ko": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v01__ko.png",
+        "en": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -6779,6 +6895,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "hunminjeongeum-haerye-1940",
+      "title": {
+        "ko": "훈민정음 해례본의 전승과 1940년 입수",
+        "en": "The Hunminjeongeum Haerye and Its 1940 Reappearance"
+      },
+      "headline": {
+        "ko": "문자 창제 원리를 설명한 책은 어떻게 다시 세상에 나왔나",
+        "en": "How the Book Explaining Hangul’s Design Re-emerged in 1940"
+      },
+      "hook": {
+        "ko": "1446년의 훈민정음 해례본은 한글 창제 원리를 직접 설명하는 핵심 문헌이다. 현재 간송미술관 소장본은 1940년 전형필이 입수했지만, 그 이전 전승 경로의 세부는 후대 이야기와 연구가 섞여 있다.",
+        "en": "The 1446 Hunminjeongeum Haerye explains the design principles of Hangul in the document itself. The surviving Kansong copy entered Jeon Hyeong-pil’s collection in 1940, while parts of its earlier transmission history remain less certain than the manuscript’s contents."
+      },
+      "aliases": [],
+      "genre": "Lost Manuscript / Writing-System History",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "1446 / 1940",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "hunminjeongeum-haerye-1940-v01",
+      "heroFile": {
+        "ko": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v01__ko.png",
+        "en": "hunminjeongeum-haerye-1940__hunminjeongeum-haerye-1940-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -11364,6 +11538,64 @@
       }
     },
     {
+      "canonicalId": "osage-1920s-murders",
+      "title": {
+        "ko": "오세이지 연속 살인과 헤드라이트 음모",
+        "en": "The Osage Murders and the Headright Conspiracy"
+      },
+      "headline": {
+        "ko": "석유 부자가 된 뒤 사람들이 죽기 시작했다—오세이지의 ‘공포의 시대’",
+        "en": "After Oil Wealth Came a Trail of Death: The Osage Reign of Terror"
+      },
+      "hook": {
+        "ko": "1920년대 오클라호마의 오세이지 공동체에서는 상속 가능한 석유 수익권을 둘러싼 죽음이 이어졌다. 연방 수사는 한 음모를 밝혔지만, 당시 사망 전체가 한 사건으로 완전히 정리된 것은 아니다.",
+        "en": "In 1920s Oklahoma, deaths accumulated around Osage families whose oil headrights could be inherited. Federal investigators exposed one major conspiracy, but the full universe of deaths from the period was never reduced to a single solved case."
+      },
+      "aliases": [],
+      "genre": "Unsolved Crime / Hidden Conspiracy",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1921–1929",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "osage-1920s-murders-v01",
+      "heroFile": {
+        "ko": "osage-1920s-murders__osage-1920s-murders-v01__ko.png",
+        "en": "osage-1920s-murders__osage-1920s-murders-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "oseberg-ship-women",
       "title": {
         "ko": "오세베르그 선박 묘 여성들의 정체",
@@ -13925,6 +14157,64 @@
       }
     },
     {
+      "canonicalId": "rosetta-stone-decipherment",
+      "title": {
+        "ko": "로제타석과 상형문자 해독",
+        "en": "The Rosetta Stone and the Decipherment of Hieroglyphs"
+      },
+      "headline": {
+        "ko": "읽을 수 없던 문자는 어떻게 다시 목소리를 얻었나",
+        "en": "How a Silent Script Became Readable Again"
+      },
+      "hook": {
+        "ko": "로제타석은 같은 칙령을 서로 다른 문자 체계로 새긴 비정상적으로 강력한 단서였다. 하지만 상형문자 해독은 한 번의 번역이 아니라, 토머스 영과 장프랑수아 샹폴리옹을 포함한 여러 연구자의 단계적 돌파였다.",
+        "en": "The Rosetta Stone placed versions of the same decree in multiple scripts, creating an unusually powerful key. But decipherment was not one instant translation; it emerged through a sequence of breakthroughs involving Thomas Young, Jean-François Champollion, and earlier scholarship."
+      },
+      "aliases": [],
+      "genre": "Solved Code / Ancient Writing",
+      "genres": [],
+      "countries": [
+        "Egypt / France / United Kingdom"
+      ],
+      "regions": [],
+      "era": "1799–1822",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "rosetta-stone-decipherment-v01",
+      "heroFile": {
+        "ko": "rosetta-stone-decipherment__rosetta-stone-decipherment-v01__ko.png",
+        "en": "rosetta-stone-decipherment__rosetta-stone-decipherment-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "roswell",
       "title": {
         "ko": "로즈웰 사건",
@@ -16127,6 +16417,64 @@
       }
     },
     {
+      "canonicalId": "titanic-wreck-1985",
+      "title": {
+        "ko": "1985년 타이타닉 잔해 발견",
+        "en": "The 1985 Discovery of the Titanic Wreck"
+      },
+      "headline": {
+        "ko": "73년 동안 사라졌던 배를 찾은 단서는 ‘배’가 아니라 잔해였다",
+        "en": "The Clue That Found Titanic Was Not the Ship—It Was the Debris"
+      },
+      "hook": {
+        "ko": "1912년 침몰 뒤 타이타닉의 정확한 위치는 수십 년 동안 확인되지 않았다. 1985년 프랑스-미국 공동 탐사는 넓은 바다에서 선체 자체를 찍는 대신, 해저에 이어진 잔해 흔적을 따라가며 마침내 보일러와 선체를 확인했다.",
+        "en": "After the 1912 sinking, Titanic’s exact resting place remained unconfirmed for decades. In 1985 a French-American search succeeded not by spotting the ship first, but by following a debris field across the seafloor until unmistakable wreckage appeared."
+      },
+      "aliases": [],
+      "genre": "Lost Wreck / Search Mystery",
+      "genres": [],
+      "countries": [
+        "North Atlantic"
+      ],
+      "regions": [],
+      "era": "1985",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "titanic-wreck-1985-v01",
+      "heroFile": {
+        "ko": "titanic-wreck-1985__titanic-wreck-1985-v01__ko.png",
+        "en": "titanic-wreck-1985__titanic-wreck-1985-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "troy-schliemann-excavation",
       "title": {
         "ko": "트로이 발굴과 전설의 지층",
@@ -17539,6 +17887,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "zimmermann-telegram",
+      "title": {
+        "ko": "치머만 전보의 해독과 폭로",
+        "en": "The Zimmermann Telegram: Intercepted, Decoded, Exposed"
+      },
+      "headline": {
+        "ko": "숫자열 하나가 전쟁의 여론을 뒤집은 과정",
+        "en": "How a String of Numbers Became a Diplomatic Shock"
+      },
+      "hook": {
+        "ko": "1917년 독일 외무장관의 암호 전보는 멕시코에 미국과의 전쟁 동맹을 제안했다. 영국 암호해독가들은 내용을 풀었지만, 해독 사실을 공개하는 순간 자신들의 정보 수집 능력까지 드러날 위험이 있었다.",
+        "en": "In 1917 a coded telegram from Germany’s foreign secretary proposed an alliance with Mexico against the United States. British cryptanalysts could read it, but exposing the message risked revealing how Britain had obtained and deciphered German communications."
+      },
+      "aliases": [],
+      "genre": "Intelligence / Cryptanalysis",
+      "genres": [],
+      "countries": [
+        "Germany / Mexico / United States / United Kingdom"
+      ],
+      "regions": [],
+      "era": "January–April 1917",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "zimmermann-telegram-v01",
+      "heroFile": {
+        "ko": "zimmermann-telegram__zimmermann-telegram-v01__ko.png",
+        "en": "zimmermann-telegram__zimmermann-telegram-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key events and evidence sequence."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",

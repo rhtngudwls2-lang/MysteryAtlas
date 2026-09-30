@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "enceladus-plume-hydrogen",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "엔셀라두스 분출 기둥의 수소",
+    "canonicalTitleEn": "Hydrogen in Enceladus’s Plume",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "토성의 얼음 위성에서 ‘생명 에너지’가 검출됐다는 말의 정확한 뜻",
+      "hook": "카시니는 엔셀라두스 남극 분출 기둥에서 분자 수소를 검출했다. 이 수소는 바닷물과 암석의 열수 반응을 지지하고 미생물이 이용할 수 있는 화학에너지를 뜻하지만, 생명 자체의 검출은 아니다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SETTING",
+          "headingKo": "얼음 아래의 바다",
+          "headingEn": "An Ocean Beneath the Ice",
+          "textKo": "엔셀라두스는 지름 약 500킬로미터의 작은 얼음 위성이지만, 카시니 관측은 얼음 지각 아래 전 지구적 바다가 존재하고 남극 균열에서 물질이 우주로 분출된다는 그림을 만들었다. 이 분출 기둥은 착륙하지 않고도 내부 바다의 화학을 간접 샘플링할 창구가 됐다.",
+          "textEn": "Enceladus is a small icy moon about 500 kilometers across, yet Cassini observations established a global subsurface ocean and active material erupting from fractures near the south pole. Those plumes created a rare opportunity to sample chemistry from the hidden ocean without landing or drilling."
+        },
+        {
+          "blockId": "02",
+          "type": "FLYBY",
+          "headingKo": "2015년 마지막 깊은 통과",
+          "headingEn": "The Deep 2015 Plume Flyby",
+          "textKo": "카시니는 2015년 10월 28일 분출 기둥을 약 49킬로미터 고도에서 통과하며 가스 성분을 측정했다. NASA는 이 관측에서 분자 수소가 검출됐고, 분출 가스의 약 98%는 수증기, 약 1%는 수소이며 나머지에는 이산화탄소·메탄·암모니아 등이 포함된다고 설명한다.",
+          "textEn": "On October 28, 2015, Cassini passed roughly 49 kilometers above Enceladus’s surface through the plume and measured its gases. NASA reports that molecular hydrogen was detected; the plume gas was about 98 percent water vapor, about 1 percent hydrogen, with smaller amounts of carbon dioxide, methane, ammonia, and other species."
+        },
+        {
+          "blockId": "03",
+          "type": "MECHANISM",
+          "headingKo": "수소는 어디서 왔나",
+          "headingEn": "Where Did the Hydrogen Come From?",
+          "textKo": "가장 중요한 해석은 바다 물이 암석질 해저와 반응하면서 수소가 만들어진다는 것이다. NASA는 물-암석 상호작용과 열수 활동을 수소의 유력한 공급원으로 본다. 이것은 엔셀라두스 내부가 단순히 차가운 물 저장고가 아니라 화학적으로 활동적인 환경일 가능성을 높인다.",
+          "textEn": "The leading interpretation is that ocean water reacts with the moon’s rocky seafloor, producing hydrogen through hydrothermal water-rock chemistry. NASA treats the measurement as an independent line of evidence for ongoing hydrothermal activity, implying a chemically active interior rather than a passive reservoir of cold water."
+        },
+        {
+          "blockId": "04",
+          "type": "ENERGY",
+          "headingKo": "왜 수소가 생명 논의와 연결되나",
+          "headingEn": "Why Hydrogen Matters to Habitability",
+          "textKo": "지구의 일부 미생물은 수소와 이산화탄소를 이용해 에너지를 얻는 메탄생성 경로를 사용한다. 엔셀라두스 바다에 충분한 수소가 있다면, 적어도 이론적으로는 유사한 대사에 필요한 자유에너지 공급원이 존재할 수 있다. 중요한 단어는 ‘가능’이지 ‘생명’이 아니다.",
+          "textEn": "Some Earth microbes obtain energy through methanogenesis, combining hydrogen with carbon dioxide. If Enceladus’s ocean contains abundant hydrogen, comparable chemical free energy could in principle support a similar metabolism. The key conclusion is possibility: an energy source exists; biology has not been demonstrated."
+        },
+        {
+          "blockId": "05",
+          "type": "BOUNDARY",
+          "headingKo": "거주 가능성과 실제 생명은 다르다",
+          "headingEn": "Habitability Is Not Life Detection",
+          "textKo": "NASA는 카시니가 생명을 검출하도록 설계된 임무가 아니며 엔셀라두스에 생명이 존재한다는 증거를 찾은 것이 아니라고 명시한다. 액체 물, 에너지, 화학 원소가 있다는 것은 ‘살 수 있는 조건’에 대한 평가다. 실제 생명체, 생체분자, 대사 활동을 직접 확인한 것과는 단계가 다르다.",
+          "textEn": "NASA explicitly states that Cassini was not a life-detection mission and did not find evidence that Enceladus is inhabited. Liquid water, chemical energy, and useful ingredients concern habitability. They are categorically different from directly detecting organisms, biosignatures, or active metabolism."
+        },
+        {
+          "blockId": "06",
+          "type": "FOLLOWUP",
+          "headingKo": "2023년에도 카시니 데이터는 계속 새로운 것을 냈다",
+          "headingEn": "Old Cassini Data, New Chemistry",
+          "textKo": "카시니 임무 종료 뒤에도 저장된 데이터는 다시 분석됐다. 2023년 연구에서는 생명 기원 화학과 관련된 시안화수소가 강하게 확인되고 추가적인 화학에너지 경로가 제시됐다. 이는 바다의 화학적 풍부함을 키우지만, 여전히 생명 존재를 확정하지 않는다.",
+          "textEn": "Years after Cassini ended, archived measurements continued to yield new chemistry. A 2023 analysis reported strong confirmation of hydrogen cyanide and additional energetic chemical pathways relevant to prebiotic and biological chemistry. The results strengthen the case for chemical richness without establishing life."
+        },
+        {
+          "blockId": "07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘열수 분출구가 있다’는 표현의 수준",
+          "headingEn": "How Certain Are Hydrothermal Vents?",
+          "textKo": "수소와 실리카 입자, 메탄 등 여러 관측은 해저 열수 활동 모델과 잘 맞는다. 그러나 카시니가 엔셀라두스 해저의 분출구를 카메라로 직접 촬영한 것은 아니다. ‘열수 활동 증거’와 ‘지구형 검은 연기 굴뚝을 직접 관측했다’는 주장은 구분해야 한다.",
+          "textEn": "Hydrogen, silica-rich particles, methane, and other observations fit models of hydrothermal activity. But Cassini did not photograph seafloor vents directly. Evidence for hydrothermal processes should not be rewritten as a direct image of Earth-like vent chimneys on the moon’s ocean floor."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "과학적 미스터리의 경계는 어디인가",
+          "headingEn": "Where the Scientific Mystery Actually Lies",
+          "textKo": "‘외계 생명 발견’이라는 과장 대신 이 사건의 미스터리는 더 정교하다. 내부 바다의 에너지 환경이 실제로 얼마나 오래 유지됐는지, 유기화학이 어느 단계까지 진행됐는지, 생명으로 넘어간 적이 있는지를 알 수 없다. 강한 증거와 큰 미지수가 동시에 존재한다. 특히 ‘수소가 있다’는 사실만으로 생물학적 기원을 뜻하지 않는다. 오히려 현재의 강한 해석은 무생물적인 물-암석 반응이 충분한 수소를 공급할 수 있다는 것이다. 생명 탐색에서는 에너지원의 존재와 그 에너지를 실제로 쓰는 생물의 존재를 엄격히 분리해야 한다.",
+          "textEn": "The compelling mystery is subtler than “alien life found.” We do not know how long the ocean’s energy system has persisted, how far its organic chemistry has progressed, or whether biology ever emerged. The case combines unusually strong habitability evidence with equally important unknowns.The presence of hydrogen does not itself imply a biological origin. The strongest current interpretation is that abiotic water-rock reactions can supply it. Astrobiology therefore has to keep two questions separate: whether usable energy exists and whether any organism is actually present to exploit it."
+        },
+        {
+          "blockId": "09",
+          "type": "NEXT",
+          "headingKo": "다음 임무가 풀어야 할 질문",
+          "headingEn": "The Next Test",
+          "textKo": "엔셀라두스는 분출물이 우주로 나오기 때문에 미래 임무가 바다 자체에 잠수하지 않고도 더 정밀한 화학 분석을 할 수 있는 목표다. 다음 단계는 ‘조건이 있는가’를 반복 확인하는 것에서, 더 구체적인 생명지표를 오염 없이 측정할 수 있는가로 이동한다.",
+          "textEn": "Because Enceladus ejects ocean-derived material into space, a future mission could perform much more capable chemistry without drilling through kilometers of ice. The next question is how to move from confirming favorable conditions to testing specific biosignatures with adequate contamination control and sensitivity."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 카시니는 엔셀라두스 분출 기둥에서 분자 수소를 검출했고, 이는 물-암석 반응과 해저 열수 활동, 생명에 이용 가능한 화학에너지 가능성을 지지한다.\n\nNOT ESTABLISHED: 엔셀라두스에 현재 또는 과거 생명이 존재했다는 것은 검출되지 않았으며, 카시니가 생명체를 발견한 것도 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: Cassini detected molecular hydrogen in Enceladus’s plume, supporting water-rock interaction, hydrothermal activity, and the availability of chemical energy that life could potentially use.\n\nNOT ESTABLISHED: No present or past life on Enceladus has been detected, and Cassini did not discover organisms or a confirmed biosignature."
+        }
+      ],
+      "factBoundary": {
+        "established": "카시니는 엔셀라두스 분출 기둥에서 분자 수소를 검출했고, 이는 물-암석 반응과 해저 열수 활동, 생명에 이용 가능한 화학에너지 가능성을 지지한다.",
+        "notEstablished": "엔셀라두스에 현재 또는 과거 생명이 존재했다는 것은 검출되지 않았으며, 카시니가 생명체를 발견한 것도 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "What It Really Means to Find a Potential Energy Source for Life at Enceladus",
+      "hook": "Cassini detected molecular hydrogen in the plume erupting from Enceladus. The hydrogen supports water-rock interaction and a chemical energy source that microbes could use, but it is evidence for habitability—not a detection of life.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SETTING",
+          "headingKo": "얼음 아래의 바다",
+          "headingEn": "An Ocean Beneath the Ice",
+          "textKo": "엔셀라두스는 지름 약 500킬로미터의 작은 얼음 위성이지만, 카시니 관측은 얼음 지각 아래 전 지구적 바다가 존재하고 남극 균열에서 물질이 우주로 분출된다는 그림을 만들었다. 이 분출 기둥은 착륙하지 않고도 내부 바다의 화학을 간접 샘플링할 창구가 됐다.",
+          "textEn": "Enceladus is a small icy moon about 500 kilometers across, yet Cassini observations established a global subsurface ocean and active material erupting from fractures near the south pole. Those plumes created a rare opportunity to sample chemistry from the hidden ocean without landing or drilling."
+        },
+        {
+          "blockId": "02",
+          "type": "FLYBY",
+          "headingKo": "2015년 마지막 깊은 통과",
+          "headingEn": "The Deep 2015 Plume Flyby",
+          "textKo": "카시니는 2015년 10월 28일 분출 기둥을 약 49킬로미터 고도에서 통과하며 가스 성분을 측정했다. NASA는 이 관측에서 분자 수소가 검출됐고, 분출 가스의 약 98%는 수증기, 약 1%는 수소이며 나머지에는 이산화탄소·메탄·암모니아 등이 포함된다고 설명한다.",
+          "textEn": "On October 28, 2015, Cassini passed roughly 49 kilometers above Enceladus’s surface through the plume and measured its gases. NASA reports that molecular hydrogen was detected; the plume gas was about 98 percent water vapor, about 1 percent hydrogen, with smaller amounts of carbon dioxide, methane, ammonia, and other species."
+        },
+        {
+          "blockId": "03",
+          "type": "MECHANISM",
+          "headingKo": "수소는 어디서 왔나",
+          "headingEn": "Where Did the Hydrogen Come From?",
+          "textKo": "가장 중요한 해석은 바다 물이 암석질 해저와 반응하면서 수소가 만들어진다는 것이다. NASA는 물-암석 상호작용과 열수 활동을 수소의 유력한 공급원으로 본다. 이것은 엔셀라두스 내부가 단순히 차가운 물 저장고가 아니라 화학적으로 활동적인 환경일 가능성을 높인다.",
+          "textEn": "The leading interpretation is that ocean water reacts with the moon’s rocky seafloor, producing hydrogen through hydrothermal water-rock chemistry. NASA treats the measurement as an independent line of evidence for ongoing hydrothermal activity, implying a chemically active interior rather than a passive reservoir of cold water."
+        },
+        {
+          "blockId": "04",
+          "type": "ENERGY",
+          "headingKo": "왜 수소가 생명 논의와 연결되나",
+          "headingEn": "Why Hydrogen Matters to Habitability",
+          "textKo": "지구의 일부 미생물은 수소와 이산화탄소를 이용해 에너지를 얻는 메탄생성 경로를 사용한다. 엔셀라두스 바다에 충분한 수소가 있다면, 적어도 이론적으로는 유사한 대사에 필요한 자유에너지 공급원이 존재할 수 있다. 중요한 단어는 ‘가능’이지 ‘생명’이 아니다.",
+          "textEn": "Some Earth microbes obtain energy through methanogenesis, combining hydrogen with carbon dioxide. If Enceladus’s ocean contains abundant hydrogen, comparable chemical free energy could in principle support a similar metabolism. The key conclusion is possibility: an energy source exists; biology has not been demonstrated."
+        },
+        {
+          "blockId": "05",
+          "type": "BOUNDARY",
+          "headingKo": "거주 가능성과 실제 생명은 다르다",
+          "headingEn": "Habitability Is Not Life Detection",
+          "textKo": "NASA는 카시니가 생명을 검출하도록 설계된 임무가 아니며 엔셀라두스에 생명이 존재한다는 증거를 찾은 것이 아니라고 명시한다. 액체 물, 에너지, 화학 원소가 있다는 것은 ‘살 수 있는 조건’에 대한 평가다. 실제 생명체, 생체분자, 대사 활동을 직접 확인한 것과는 단계가 다르다.",
+          "textEn": "NASA explicitly states that Cassini was not a life-detection mission and did not find evidence that Enceladus is inhabited. Liquid water, chemical energy, and useful ingredients concern habitability. They are categorically different from directly detecting organisms, biosignatures, or active metabolism."
+        },
+        {
+          "blockId": "06",
+          "type": "FOLLOWUP",
+          "headingKo": "2023년에도 카시니 데이터는 계속 새로운 것을 냈다",
+          "headingEn": "Old Cassini Data, New Chemistry",
+          "textKo": "카시니 임무 종료 뒤에도 저장된 데이터는 다시 분석됐다. 2023년 연구에서는 생명 기원 화학과 관련된 시안화수소가 강하게 확인되고 추가적인 화학에너지 경로가 제시됐다. 이는 바다의 화학적 풍부함을 키우지만, 여전히 생명 존재를 확정하지 않는다.",
+          "textEn": "Years after Cassini ended, archived measurements continued to yield new chemistry. A 2023 analysis reported strong confirmation of hydrogen cyanide and additional energetic chemical pathways relevant to prebiotic and biological chemistry. The results strengthen the case for chemical richness without establishing life."
+        },
+        {
+          "blockId": "07",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "‘열수 분출구가 있다’는 표현의 수준",
+          "headingEn": "How Certain Are Hydrothermal Vents?",
+          "textKo": "수소와 실리카 입자, 메탄 등 여러 관측은 해저 열수 활동 모델과 잘 맞는다. 그러나 카시니가 엔셀라두스 해저의 분출구를 카메라로 직접 촬영한 것은 아니다. ‘열수 활동 증거’와 ‘지구형 검은 연기 굴뚝을 직접 관측했다’는 주장은 구분해야 한다.",
+          "textEn": "Hydrogen, silica-rich particles, methane, and other observations fit models of hydrothermal activity. But Cassini did not photograph seafloor vents directly. Evidence for hydrothermal processes should not be rewritten as a direct image of Earth-like vent chimneys on the moon’s ocean floor."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "과학적 미스터리의 경계는 어디인가",
+          "headingEn": "Where the Scientific Mystery Actually Lies",
+          "textKo": "‘외계 생명 발견’이라는 과장 대신 이 사건의 미스터리는 더 정교하다. 내부 바다의 에너지 환경이 실제로 얼마나 오래 유지됐는지, 유기화학이 어느 단계까지 진행됐는지, 생명으로 넘어간 적이 있는지를 알 수 없다. 강한 증거와 큰 미지수가 동시에 존재한다. 특히 ‘수소가 있다’는 사실만으로 생물학적 기원을 뜻하지 않는다. 오히려 현재의 강한 해석은 무생물적인 물-암석 반응이 충분한 수소를 공급할 수 있다는 것이다. 생명 탐색에서는 에너지원의 존재와 그 에너지를 실제로 쓰는 생물의 존재를 엄격히 분리해야 한다.",
+          "textEn": "The compelling mystery is subtler than “alien life found.” We do not know how long the ocean’s energy system has persisted, how far its organic chemistry has progressed, or whether biology ever emerged. The case combines unusually strong habitability evidence with equally important unknowns.The presence of hydrogen does not itself imply a biological origin. The strongest current interpretation is that abiotic water-rock reactions can supply it. Astrobiology therefore has to keep two questions separate: whether usable energy exists and whether any organism is actually present to exploit it."
+        },
+        {
+          "blockId": "09",
+          "type": "NEXT",
+          "headingKo": "다음 임무가 풀어야 할 질문",
+          "headingEn": "The Next Test",
+          "textKo": "엔셀라두스는 분출물이 우주로 나오기 때문에 미래 임무가 바다 자체에 잠수하지 않고도 더 정밀한 화학 분석을 할 수 있는 목표다. 다음 단계는 ‘조건이 있는가’를 반복 확인하는 것에서, 더 구체적인 생명지표를 오염 없이 측정할 수 있는가로 이동한다.",
+          "textEn": "Because Enceladus ejects ocean-derived material into space, a future mission could perform much more capable chemistry without drilling through kilometers of ice. The next question is how to move from confirming favorable conditions to testing specific biosignatures with adequate contamination control and sensitivity."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 카시니는 엔셀라두스 분출 기둥에서 분자 수소를 검출했고, 이는 물-암석 반응과 해저 열수 활동, 생명에 이용 가능한 화학에너지 가능성을 지지한다.\n\nNOT ESTABLISHED: 엔셀라두스에 현재 또는 과거 생명이 존재했다는 것은 검출되지 않았으며, 카시니가 생명체를 발견한 것도 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: Cassini detected molecular hydrogen in Enceladus’s plume, supporting water-rock interaction, hydrothermal activity, and the availability of chemical energy that life could potentially use.\n\nNOT ESTABLISHED: No present or past life on Enceladus has been detected, and Cassini did not discover organisms or a confirmed biosignature."
+        }
+      ],
+      "factBoundary": {
+        "established": "Cassini detected molecular hydrogen in Enceladus’s plume, supporting water-rock interaction, hydrothermal activity, and the availability of chemical energy that life could potentially use.",
+        "notEstablished": "No present or past life on Enceladus has been detected, and Cassini did not discover organisms or a confirmed biosignature."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ENCELADUS_PLUME_HYDROGEN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "카시니는 엔셀라두스 분출 기둥에서 분자 수소를 검출했고, 이는 물-암석 반응과 해저 열수 활동, 생명에 이용 가능한 화학에너지 가능성을 지지한다.",
+      "statementEn": "Cassini detected molecular hydrogen in Enceladus’s plume, supporting water-rock interaction, hydrothermal activity, and the availability of chemical energy that life could potentially use.",
+      "sourceRefs": [
+        "NASA_H2",
+        "NASA_HABITABILITY",
+        "NASA_HCN_2023"
+      ]
+    },
+    {
+      "claimId": "ENCELADUS_PLUME_HYDROGEN-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "엔셀라두스에 현재 또는 과거 생명이 존재했다는 것은 검출되지 않았으며, 카시니가 생명체를 발견한 것도 아니다.",
+      "statementEn": "No present or past life on Enceladus has been detected, and Cassini did not discover organisms or a confirmed biosignature.",
+      "sourceRefs": [
+        "NASA_H2",
+        "NASA_HABITABILITY",
+        "NASA_HCN_2023"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_H2",
+      "title": "Enceladus Hydrothermal Activity",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/resource/enceladus-hydrothermal-activity/",
+      "sourceType": "MISSION_RESULT"
+    },
+    {
+      "sourceId": "NASA_HABITABILITY",
+      "title": "Ingredients for Life at Enceladus",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/resource/ingredients-for-life-at-enceladus/",
+      "sourceType": "MISSION_INTERPRETATION"
+    },
+    {
+      "sourceId": "NASA_HCN_2023",
+      "title": "NASA Study Finds Life-Sparking Energy Source and Molecule at Enceladus",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/solar-system/nasa-study-finds-life-sparking-energy-source-and-molecule-at-enceladus/",
+      "sourceType": "FOLLOWUP_ANALYSIS"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "enceladus-plume-hydrogen-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "NASA_H2",
+        "NASA_HABITABILITY",
+        "NASA_HCN_2023"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v01__ko.png",
+          "sha256": "ec97aebd44aaa0932712e1ff1a258cd2b62f134dbc53b47a1275f3c1cbb0fde0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v01__ko.png"
+        },
+        "en": {
+          "file": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v01__en.png",
+          "sha256": "5818216b10eb8ef0f42adf80f5443e40b8adafd4f7902176db0551497cdec675",
+          "width": 1600,
+          "height": 900,
+          "fileName": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "enceladus-plume-hydrogen-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NASA_H2",
+        "NASA_HABITABILITY",
+        "NASA_HCN_2023"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v02__ko.png",
+          "sha256": "8e4e1a351563d9f058ac0cfc2a6047999288a25f73fa404053f494adfcac96a8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v02__ko.png"
+        },
+        "en": {
+          "file": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v02__en.png",
+          "sha256": "edbd23319f00b35c04f4d719e99834e14911742c8649e43b0b601f9b162e85b0",
+          "width": 1600,
+          "height": 900,
+          "fileName": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "enceladus-plume-hydrogen-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "NASA_H2",
+        "NASA_HABITABILITY",
+        "NASA_HCN_2023"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v03__ko.png",
+          "sha256": "082319d5230ef84c5329b9587b0b83c4995f1c41dc6e1fdba7e344883a014863",
+          "width": 1600,
+          "height": 900,
+          "fileName": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v03__ko.png"
+        },
+        "en": {
+          "file": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v03__en.png",
+          "sha256": "9836b7cfdda73773e8cbe4bbc3b9f4743f42427c5069f3a4ed4657b69686ddbb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "enceladus-plume-hydrogen__enceladus-plume-hydrogen-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Saturn system",
+    "era": "2015–2023",
+    "genre": "Space / Astrobiology Anomaly",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Space / Astrobiology Anomaly",
+    "resolution": "unknown",
+    "countries": [
+      "Saturn system"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1617,
+    "enBodyWords": 486
+  }
+}
