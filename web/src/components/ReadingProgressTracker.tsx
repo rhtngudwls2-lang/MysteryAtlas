@@ -42,10 +42,18 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
     const positionAt = (id: string) => {
       const target = document.getElementById(id);
       if (!target) return;
+      const root = document.documentElement;
+      const body = document.body;
+      const rootBehavior = root.style.scrollBehavior;
+      const bodyBehavior = body.style.scrollBehavior;
+      root.style.scrollBehavior = "auto";
+      body.style.scrollBehavior = "auto";
       target.scrollIntoView({ block: "start", inline: "nearest", behavior: "auto" });
       const toolbar = document.querySelector<HTMLElement>(".article-toolbar");
       const offset = Math.max(96, Math.ceil(toolbar?.getBoundingClientRect().height ?? 0) + 24);
       window.scrollBy({ top: -offset, left: 0, behavior: "auto" });
+      root.style.scrollBehavior = rootBehavior;
+      body.style.scrollBehavior = bodyBehavior;
     };
 
     const finishRestore = (id: string) => {
@@ -67,12 +75,16 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
     };
 
     const restore = (id: string) => {
-      if (!id.startsWith("block-") || !document.getElementById(id)) {
+      const target = id.startsWith("block-") ? document.getElementById(id) : null;
+      if (!target) {
         beginTracking();
         return;
       }
 
-      const pendingImages = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) => !image.complete);
+      const pendingImages = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) => {
+        const isBeforeTarget = Boolean(image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING);
+        return isBeforeTarget && !image.complete;
+      });
       let finished = false;
       let timeout: ReturnType<typeof setTimeout> | null = null;
 

@@ -1,11 +1,32 @@
-import { expect, test, type Page } from "@playwright/test";
+import { expect, test, type Locator, type Page } from "@playwright/test";
 
-async function waitForArticleImages(page: Page) {
-  await page.waitForFunction(() => {
-    const images = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")];
-    return images.length >= 3 && images.every((image) => image.complete && image.naturalWidth > 0);
-  }, undefined, { timeout: 10000 });
+async function waitForAnchorLayout(page: Page, id: string) {
+  await page.waitForFunction((targetId) => {
+    const target = document.getElementById(targetId);
+    if (!target) return false;
+    const images = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) =>
+      Boolean(image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING)
+    );
+    return images.every((image) => image.complete && image.naturalWidth > 0);
+  }, id, { timeout: 10000 });
   await page.evaluate(() => document.fonts.ready.then(() => undefined));
+}
+
+async function placeChapterNearTop(chapter: Locator) {
+  await chapter.evaluate((element) => {
+    const root = document.documentElement;
+    const body = document.body;
+    const rootBehavior = root.style.scrollBehavior;
+    const bodyBehavior = body.style.scrollBehavior;
+    root.style.scrollBehavior = "auto";
+    body.style.scrollBehavior = "auto";
+    window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 140);
+    root.style.scrollBehavior = rootBehavior;
+    body.style.scrollBehavior = bodyBehavior;
+  });
+  await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top), { timeout: 5000 }).toBeLessThan(300);
+  const top = await chapter.evaluate((element) => element.getBoundingClientRect().top);
+  expect(top).toBeGreaterThanOrEqual(0);
 }
 
 async function expectAnchorNearTop(page: Page, id: string) {
@@ -22,18 +43,17 @@ test("Batch50 locale switch keeps language and chapter position at 390/430", asy
     await page.setViewportSize({ width, height: 850 });
     await page.goto(`/ko/cases/${slug}/`);
     await expect(page.locator("html")).toHaveAttribute("lang", "ko");
-    await waitForArticleImages(page);
 
     const chapter = page.locator(".narrative-chapter").nth(3);
     const id = await chapter.getAttribute("id");
     expect(id).toBeTruthy();
-    await chapter.evaluate((element) => window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 140));
-    await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top), { timeout: 5000 }).toBeLessThan(300);
+    await waitForAnchorLayout(page, id!);
+    await placeChapterNearTop(chapter);
 
     await page.locator('.article-languages a[lang="en"]').click();
     await expect(page).toHaveURL(new RegExp(`/en/cases/${slug}/#${id}$`));
     await expect(page.locator("html")).toHaveAttribute("lang", "en");
-    await waitForArticleImages(page);
+    await waitForAnchorLayout(page, id!);
     await expectAnchorNearTop(page, id!);
   }
 });
@@ -57,7 +77,7 @@ test("Continue Reading restores the saved chapter after image layout settles", a
     await link.click();
     await expect(page).toHaveURL(/\/en\/cases\/edmund-fitzgerald\/#block-04$/);
     await expect(page.locator("html")).toHaveAttribute("lang", "en");
-    await waitForArticleImages(page);
+    await waitForAnchorLayout(page, "block-04");
     await expectAnchorNearTop(page, "block-04");
   }
 });
