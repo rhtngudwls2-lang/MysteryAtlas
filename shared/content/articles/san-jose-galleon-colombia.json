@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "san-jose-galleon-colombia",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "콜롬비아 산호세 갤리온 탐사",
+    "canonicalTitleEn": "Colombia’s San José Galleon Investigation",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "“보물선”이 아니라 수중 유적—산호세 갤리온이 다시 쓰이는 중이다",
+      "hook": "1708년 침몰한 산호세 갤리온은 수백 년 뒤 발견됐지만, 정확한 침몰 과정과 선내 물품의 맥락은 아직 연구 중이다. 콜롬비아의 최신 프로젝트는 금액보다 유적 전체의 역사정보를 우선한다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1708년 바루 해전 뒤의 침몰",
+          "headingEn": "A 1708 Wreck After the Battle of Barú",
+          "textKo": "스페인 갤리온 산호세는 1708년 카리브해에서 전투 중 침몰했다. 오랫동안 거대한 귀금속 화물과 함께 사라진 ‘보물선’으로 유명했지만, 현대 수중고고학의 질문은 단순한 재산가치보다 배와 사람, 교역망, 침몰 과정을 복원하는 데 있다.",
+          "textEn": "The Spanish galleon San José sank during combat in the Caribbean in 1708. Long famous as a “treasure ship,” the wreck is now approached through underwater archaeology, where the central questions concern the ship, people, trade networks, and the process of sinking rather than a market valuation."
+        },
+        {
+          "blockId": "02",
+          "type": "DISCOVERY",
+          "headingKo": "발견 뒤에도 좌표는 공개되지 않았다",
+          "headingEn": "The Location Remains Protected",
+          "textKo": "콜롬비아 정부는 난파선이 카르타헤나 인근 약 600미터 깊이에 있다고 설명하면서도 정확한 좌표는 약탈과 무단 개입을 막기 위해 보호정보로 관리한다. ‘발견됐다’는 것과 ‘누구나 접근할 수 있다’는 것은 전혀 다르다.",
+          "textEn": "Colombia states that the wreck lies near Cartagena at roughly 600 metres depth, while exact coordinates are protected to reduce looting and unauthorized intervention. Discovery does not mean open access."
+        },
+        {
+          "blockId": "03",
+          "type": "ARCHAEOLOGY",
+          "headingKo": "46만 제곱미터를 비파괴로 지도화",
+          "headingEn": "Mapping the Site Without Excavating It Away",
+          "textKo": "국가 연구프로젝트는 원격센서와 ROV, 고해상도 사진측량을 이용해 수십만 제곱미터의 해저를 비침습적으로 기록했다. 1천 점이 넘는 물체가 초기 분류됐고, 배의 잔존부와 물품 분포가 하나의 고고학적 맥락으로 분석되고 있다.",
+          "textEn": "The national research project uses remote sensing, ROVs, and high-resolution photogrammetry to document hundreds of thousands of square metres of seabed non-intrusively. More than a thousand objects have been initially classified within the wider archaeological context."
+        },
+        {
+          "blockId": "04",
+          "type": "NEW_HYPOTHESIS",
+          "headingKo": "“폭발 침몰” 설명이 바뀔 수 있다",
+          "headingEn": "A New Hypothesis About How the Ship Sank",
+          "textKo": "콜롬비아 프로젝트는 여러 나라의 역사문서 250건과 수중현장을 대조하면서, 배가 전투 중 폭발로 즉시 사라졌다는 전통적 설명보다 구조적 손상으로 침몰했을 가능성을 새 가설로 제시했다. 이는 아직 연구가 진행되는 해석이다.",
+          "textEn": "By comparing roughly 250 historical files with the underwater site, Colombia’s project has proposed a new hypothesis: the ship may have sunk from structural damage rather than a catastrophic explosion during battle. This remains an evolving research interpretation."
+        },
+        {
+          "blockId": "05",
+          "type": "OBJECTS",
+          "headingKo": "금화보다 중요한 물건들",
+          "headingEn": "Objects More Informative Than Their Price",
+          "textKo": "현장에는 주화뿐 아니라 도자기, 유리, 대포, 생활용기 같은 다양한 유물이 있다. 콜롬비아 문화당국은 이를 경제적 ‘보물’이 아니라 당시 생활과 대서양·태평양 교역을 복원하는 문화유산으로 정의한다.",
+          "textEn": "The site contains coins but also ceramics, glass, artillery, and everyday containers. Colombian cultural authorities explicitly frame these as cultural heritage that can reconstruct life and global exchange rather than as a pile of treasure with a single monetary value."
+        },
+        {
+          "blockId": "06",
+          "type": "SCIENCE_2026",
+          "headingKo": "2026년 물체 분석이 더해진 정보",
+          "headingEn": "What 2026 Laboratory Work Added",
+          "textKo": "2026년 콜롬비아 지질조사기관은 회수된 일부 물체의 재료, 부식, 유기물, 미생물과 탄소연대 측정 결과를 공개했다. 난파선 연구가 단순한 영상촬영에서 재료과학과 보존과학으로 확장되고 있다는 뜻이다.",
+          "textEn": "In 2026 Colombia’s geological service reported laboratory work on recovered archaeological materials, including composition, corrosion, organic matter, microorganisms, and radiocarbon dating. The investigation has moved beyond imaging into material and conservation science."
+        },
+        {
+          "blockId": "07",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 아직 결정되지 않았나",
+          "headingEn": "What Has Not Yet Been Settled",
+          "textKo": "정확한 화물량과 일부 물체의 원산지, 침몰 순간의 세부 과정, 향후 인양 범위는 연구와 정책 판단이 더 필요하다. ‘수조 원짜리 보물선’ 같은 숫자는 고고학적 결론이 아니며, 공식 프로젝트는 현장의 정보가치와 보존을 우선한다.",
+          "textEn": "Exact cargo quantities, origins of some objects, the detailed sinking sequence, and the future scope of recovery remain subjects of research and policy. Headlines assigning enormous treasure values are not archaeological conclusions; the official project prioritizes information and preservation."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "좌표를 숨기면서도 과학은 공개할 수 있다",
+          "headingEn": "Protected Coordinates Can Coexist with Public Science",
+          "textKo": "산호세 프로젝트는 난파선의 정확한 위치를 공개하지 않으면서 조사 방법과 일부 결과를 공개한다. 이는 검증 가능성과 유적 보호가 반드시 충돌하는 것은 아니라는 점을 보여준다. ROV 영상, 사진측량, 물체 분포, 재료분석처럼 연구자가 비교할 수 있는 데이터는 축적하되, 약탈이나 무단 인양을 돕는 정밀 위치정보는 제한하는 방식이다. 따라서 “좌표가 비공개이니 발견도 검증할 수 없다”는 주장과 “모든 정보를 공개해야 과학이다”라는 주장은 모두 실제 수중문화유산 관리의 복잡성을 놓친다.",
+          "textEn": "The San José project withholds the wreck’s exact coordinates while publishing methods and selected findings. That shows that archaeological transparency and site protection are not necessarily opposites. ROV imagery, photogrammetry, object distributions, archival comparisons, and material analyses can be documented while precise location data that could facilitate looting remain restricted."
+        },
+        {
+          "blockId": "09",
+          "type": "HYPOTHESIS_BOUNDARY",
+          "headingKo": "새 침몰 가설은 결론이 아니라 검증 대상이다",
+          "headingEn": "The New Sinking Hypothesis Is a Research Claim, Not a Final Verdict",
+          "textKo": "공식 프로젝트가 역사문서와 해저 분포를 대조해 “대폭발”보다 구조적 손상 가능성을 제시했다는 점은 중요하다. 그러나 최신 가설이라는 이유만으로 최종 판정으로 바꾸면 안 된다. 선체 잔존부의 상태, 유물 분포, 전투기록, 회수물 분석이 더 쌓이면서 설명은 수정될 수 있다. 산호세의 매력은 이미 발견된 난파선이라는 사실과, 발견 뒤에도 침몰 과정·화물 맥락·보존 방식에 관한 새로운 질문이 계속 생긴다는 점에 있다.",
+          "textEn": "The official project’s comparison of historical records with seabed distribution has produced an important hypothesis favoring structural damage over a catastrophic explosion. A new hypothesis is not automatically a final verdict. As hull evidence, object distribution, battle records, and recovered materials are studied further, the explanation may be refined. The case remains compelling because discovery of the wreck opened new questions rather than ending them."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 콜롬비아는 산호세 난파선을 국가 수중문화유산 연구대상으로 보호하며, ROV·사진측량·문헌대조·재료분석을 통해 현장을 조사하고 있다.\n\nNOT ESTABLISHED: 정확한 화물가치와 모든 유물의 원산지, 침몰의 세부 메커니즘, 앞으로의 전체 인양 계획은 아직 확정된 결론이 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: Colombia protects the San José wreck as submerged cultural heritage and is studying it through ROV survey, photogrammetry, archival comparison, and material analysis.\n\nNOT ESTABLISHED: The exact monetary cargo value, provenance of every object, detailed sinking mechanism, and complete future recovery plan are not yet settled conclusions."
+        }
+      ],
+      "factBoundary": {
+        "established": "콜롬비아는 산호세 난파선을 국가 수중문화유산 연구대상으로 보호하며, ROV·사진측량·문헌대조·재료분석을 통해 현장을 조사하고 있다.",
+        "notEstablished": "정확한 화물가치와 모든 유물의 원산지, 침몰의 세부 메커니즘, 앞으로의 전체 인양 계획은 아직 확정된 결론이 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "From “Treasure Ship” to Archaeological Site: Reconstructing the San José",
+      "hook": "The San José sank in 1708 and was found centuries later, but the mechanics of the sinking and the archaeological context of its cargo remain under study. Colombia’s current project emphasizes knowledge over treasure value.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1708년 바루 해전 뒤의 침몰",
+          "headingEn": "A 1708 Wreck After the Battle of Barú",
+          "textKo": "스페인 갤리온 산호세는 1708년 카리브해에서 전투 중 침몰했다. 오랫동안 거대한 귀금속 화물과 함께 사라진 ‘보물선’으로 유명했지만, 현대 수중고고학의 질문은 단순한 재산가치보다 배와 사람, 교역망, 침몰 과정을 복원하는 데 있다.",
+          "textEn": "The Spanish galleon San José sank during combat in the Caribbean in 1708. Long famous as a “treasure ship,” the wreck is now approached through underwater archaeology, where the central questions concern the ship, people, trade networks, and the process of sinking rather than a market valuation."
+        },
+        {
+          "blockId": "02",
+          "type": "DISCOVERY",
+          "headingKo": "발견 뒤에도 좌표는 공개되지 않았다",
+          "headingEn": "The Location Remains Protected",
+          "textKo": "콜롬비아 정부는 난파선이 카르타헤나 인근 약 600미터 깊이에 있다고 설명하면서도 정확한 좌표는 약탈과 무단 개입을 막기 위해 보호정보로 관리한다. ‘발견됐다’는 것과 ‘누구나 접근할 수 있다’는 것은 전혀 다르다.",
+          "textEn": "Colombia states that the wreck lies near Cartagena at roughly 600 metres depth, while exact coordinates are protected to reduce looting and unauthorized intervention. Discovery does not mean open access."
+        },
+        {
+          "blockId": "03",
+          "type": "ARCHAEOLOGY",
+          "headingKo": "46만 제곱미터를 비파괴로 지도화",
+          "headingEn": "Mapping the Site Without Excavating It Away",
+          "textKo": "국가 연구프로젝트는 원격센서와 ROV, 고해상도 사진측량을 이용해 수십만 제곱미터의 해저를 비침습적으로 기록했다. 1천 점이 넘는 물체가 초기 분류됐고, 배의 잔존부와 물품 분포가 하나의 고고학적 맥락으로 분석되고 있다.",
+          "textEn": "The national research project uses remote sensing, ROVs, and high-resolution photogrammetry to document hundreds of thousands of square metres of seabed non-intrusively. More than a thousand objects have been initially classified within the wider archaeological context."
+        },
+        {
+          "blockId": "04",
+          "type": "NEW_HYPOTHESIS",
+          "headingKo": "“폭발 침몰” 설명이 바뀔 수 있다",
+          "headingEn": "A New Hypothesis About How the Ship Sank",
+          "textKo": "콜롬비아 프로젝트는 여러 나라의 역사문서 250건과 수중현장을 대조하면서, 배가 전투 중 폭발로 즉시 사라졌다는 전통적 설명보다 구조적 손상으로 침몰했을 가능성을 새 가설로 제시했다. 이는 아직 연구가 진행되는 해석이다.",
+          "textEn": "By comparing roughly 250 historical files with the underwater site, Colombia’s project has proposed a new hypothesis: the ship may have sunk from structural damage rather than a catastrophic explosion during battle. This remains an evolving research interpretation."
+        },
+        {
+          "blockId": "05",
+          "type": "OBJECTS",
+          "headingKo": "금화보다 중요한 물건들",
+          "headingEn": "Objects More Informative Than Their Price",
+          "textKo": "현장에는 주화뿐 아니라 도자기, 유리, 대포, 생활용기 같은 다양한 유물이 있다. 콜롬비아 문화당국은 이를 경제적 ‘보물’이 아니라 당시 생활과 대서양·태평양 교역을 복원하는 문화유산으로 정의한다.",
+          "textEn": "The site contains coins but also ceramics, glass, artillery, and everyday containers. Colombian cultural authorities explicitly frame these as cultural heritage that can reconstruct life and global exchange rather than as a pile of treasure with a single monetary value."
+        },
+        {
+          "blockId": "06",
+          "type": "SCIENCE_2026",
+          "headingKo": "2026년 물체 분석이 더해진 정보",
+          "headingEn": "What 2026 Laboratory Work Added",
+          "textKo": "2026년 콜롬비아 지질조사기관은 회수된 일부 물체의 재료, 부식, 유기물, 미생물과 탄소연대 측정 결과를 공개했다. 난파선 연구가 단순한 영상촬영에서 재료과학과 보존과학으로 확장되고 있다는 뜻이다.",
+          "textEn": "In 2026 Colombia’s geological service reported laboratory work on recovered archaeological materials, including composition, corrosion, organic matter, microorganisms, and radiocarbon dating. The investigation has moved beyond imaging into material and conservation science."
+        },
+        {
+          "blockId": "07",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 아직 결정되지 않았나",
+          "headingEn": "What Has Not Yet Been Settled",
+          "textKo": "정확한 화물량과 일부 물체의 원산지, 침몰 순간의 세부 과정, 향후 인양 범위는 연구와 정책 판단이 더 필요하다. ‘수조 원짜리 보물선’ 같은 숫자는 고고학적 결론이 아니며, 공식 프로젝트는 현장의 정보가치와 보존을 우선한다.",
+          "textEn": "Exact cargo quantities, origins of some objects, the detailed sinking sequence, and the future scope of recovery remain subjects of research and policy. Headlines assigning enormous treasure values are not archaeological conclusions; the official project prioritizes information and preservation."
+        },
+        {
+          "blockId": "08",
+          "type": "METHOD",
+          "headingKo": "좌표를 숨기면서도 과학은 공개할 수 있다",
+          "headingEn": "Protected Coordinates Can Coexist with Public Science",
+          "textKo": "산호세 프로젝트는 난파선의 정확한 위치를 공개하지 않으면서 조사 방법과 일부 결과를 공개한다. 이는 검증 가능성과 유적 보호가 반드시 충돌하는 것은 아니라는 점을 보여준다. ROV 영상, 사진측량, 물체 분포, 재료분석처럼 연구자가 비교할 수 있는 데이터는 축적하되, 약탈이나 무단 인양을 돕는 정밀 위치정보는 제한하는 방식이다. 따라서 “좌표가 비공개이니 발견도 검증할 수 없다”는 주장과 “모든 정보를 공개해야 과학이다”라는 주장은 모두 실제 수중문화유산 관리의 복잡성을 놓친다.",
+          "textEn": "The San José project withholds the wreck’s exact coordinates while publishing methods and selected findings. That shows that archaeological transparency and site protection are not necessarily opposites. ROV imagery, photogrammetry, object distributions, archival comparisons, and material analyses can be documented while precise location data that could facilitate looting remain restricted."
+        },
+        {
+          "blockId": "09",
+          "type": "HYPOTHESIS_BOUNDARY",
+          "headingKo": "새 침몰 가설은 결론이 아니라 검증 대상이다",
+          "headingEn": "The New Sinking Hypothesis Is a Research Claim, Not a Final Verdict",
+          "textKo": "공식 프로젝트가 역사문서와 해저 분포를 대조해 “대폭발”보다 구조적 손상 가능성을 제시했다는 점은 중요하다. 그러나 최신 가설이라는 이유만으로 최종 판정으로 바꾸면 안 된다. 선체 잔존부의 상태, 유물 분포, 전투기록, 회수물 분석이 더 쌓이면서 설명은 수정될 수 있다. 산호세의 매력은 이미 발견된 난파선이라는 사실과, 발견 뒤에도 침몰 과정·화물 맥락·보존 방식에 관한 새로운 질문이 계속 생긴다는 점에 있다.",
+          "textEn": "The official project’s comparison of historical records with seabed distribution has produced an important hypothesis favoring structural damage over a catastrophic explosion. A new hypothesis is not automatically a final verdict. As hull evidence, object distribution, battle records, and recovered materials are studied further, the explanation may be refined. The case remains compelling because discovery of the wreck opened new questions rather than ending them."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 콜롬비아는 산호세 난파선을 국가 수중문화유산 연구대상으로 보호하며, ROV·사진측량·문헌대조·재료분석을 통해 현장을 조사하고 있다.\n\nNOT ESTABLISHED: 정확한 화물가치와 모든 유물의 원산지, 침몰의 세부 메커니즘, 앞으로의 전체 인양 계획은 아직 확정된 결론이 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: Colombia protects the San José wreck as submerged cultural heritage and is studying it through ROV survey, photogrammetry, archival comparison, and material analysis.\n\nNOT ESTABLISHED: The exact monetary cargo value, provenance of every object, detailed sinking mechanism, and complete future recovery plan are not yet settled conclusions."
+        }
+      ],
+      "factBoundary": {
+        "established": "Colombia protects the San José wreck as submerged cultural heritage and is studying it through ROV survey, photogrammetry, archival comparison, and material analysis.",
+        "notEstablished": "The exact monetary cargo value, provenance of every object, detailed sinking mechanism, and complete future recovery plan are not yet settled conclusions."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SAN_JOSE_GALLEON_COLOMBIA-C1",
+      "status": "CONFIRMED",
+      "statementKo": "콜롬비아는 산호세 난파선을 국가 수중문화유산 연구대상으로 보호하며, ROV·사진측량·문헌대조·재료분석을 통해 현장을 조사하고 있다.",
+      "statementEn": "Colombia protects the San José wreck as submerged cultural heritage and is studying it through ROV survey, photogrammetry, archival comparison, and material analysis.",
+      "sourceRefs": [
+        "MINCULTURA_SANJOSE",
+        "SANJOSE_PROJECT",
+        "SGC_SANJOSE_2026"
+      ]
+    },
+    {
+      "claimId": "SAN_JOSE_GALLEON_COLOMBIA-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확한 화물가치와 모든 유물의 원산지, 침몰의 세부 메커니즘, 앞으로의 전체 인양 계획은 아직 확정된 결론이 아니다.",
+      "statementEn": "The exact monetary cargo value, provenance of every object, detailed sinking mechanism, and complete future recovery plan are not yet settled conclusions.",
+      "sourceRefs": [
+        "MINCULTURA_SANJOSE",
+        "SANJOSE_PROJECT",
+        "SGC_SANJOSE_2026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "MINCULTURA_SANJOSE",
+      "title": "El Galeón San José",
+      "publisher": "Ministerio de las Culturas, Colombia",
+      "url": "https://mincultura.gov.co/direcciones/patrimonio-y-memoria/Paginas/programas-proyectos/galeon-san-jose.aspx",
+      "sourceType": "GOVERNMENT_OFFICIAL"
+    },
+    {
+      "sourceId": "SANJOSE_PROJECT",
+      "title": "Hacia el corazón del Galeón San José — Proyecto",
+      "publisher": "Government of Colombia / interinstitutional project",
+      "url": "https://www.galeonsanjose.gov.co/proyecto/",
+      "sourceType": "GOVERNMENT_PROJECT"
+    },
+    {
+      "sourceId": "SGC_SANJOSE_2026",
+      "title": "SGC presentó resultados sobre objetos arqueológicos recuperados del galeón San José",
+      "publisher": "Servicio Geológico Colombiano",
+      "url": "https://www2.sgc.gov.co/Noticias/Paginas/SGC-presento-los-resultados-de-sus-investigaciones-sobre-los-objetos-arqueologicos-recuperados-del-galeon-San-Jose.aspx",
+      "sourceType": "GOVERNMENT_SCIENCE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "san-jose-galleon-colombia-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "MINCULTURA_SANJOSE",
+        "SANJOSE_PROJECT",
+        "SGC_SANJOSE_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "san-jose-galleon-colombia__san-jose-galleon-colombia-v01__ko.png",
+          "sha256": "b4efc38aaca050966d499b4feb8ad5e78711c43764d300c2cd4dc74d9618ace5",
+          "width": 1600,
+          "height": 900,
+          "fileName": "san-jose-galleon-colombia__san-jose-galleon-colombia-v01__ko.png"
+        },
+        "en": {
+          "file": "san-jose-galleon-colombia__san-jose-galleon-colombia-v01__en.png",
+          "sha256": "cdc10bc649a759b25e5a0920587f93cec855ad47f737cf75fca15221b9e26790",
+          "width": 1600,
+          "height": 900,
+          "fileName": "san-jose-galleon-colombia__san-jose-galleon-colombia-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "san-jose-galleon-colombia-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "MINCULTURA_SANJOSE",
+        "SANJOSE_PROJECT",
+        "SGC_SANJOSE_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "san-jose-galleon-colombia__san-jose-galleon-colombia-v02__ko.png",
+          "sha256": "b0476a54e200fa461657c3d51e61f1d2654ec4404b1fdc7cac03c2d270c7a0ab",
+          "width": 1600,
+          "height": 900,
+          "fileName": "san-jose-galleon-colombia__san-jose-galleon-colombia-v02__ko.png"
+        },
+        "en": {
+          "file": "san-jose-galleon-colombia__san-jose-galleon-colombia-v02__en.png",
+          "sha256": "ed5e5e877778b757ffd8dc5f734c3c697560bfe73f8cd1789866b4cf0fb65ed8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "san-jose-galleon-colombia__san-jose-galleon-colombia-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "san-jose-galleon-colombia-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "MINCULTURA_SANJOSE",
+        "SANJOSE_PROJECT",
+        "SGC_SANJOSE_2026"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "san-jose-galleon-colombia__san-jose-galleon-colombia-v03__ko.png",
+          "sha256": "483527c7a5984c94d0dd31838021ac183ab01ffbc2d4d2f25559c5ee5fd5eb0a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "san-jose-galleon-colombia__san-jose-galleon-colombia-v03__ko.png"
+        },
+        "en": {
+          "file": "san-jose-galleon-colombia__san-jose-galleon-colombia-v03__en.png",
+          "sha256": "7aeabb8dc79327ea3d9d4437ede12cd1a90fb381fd33840bed54ce654c9546a5",
+          "width": 1600,
+          "height": 900,
+          "fileName": "san-jose-galleon-colombia__san-jose-galleon-colombia-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Colombia / Caribbean Sea",
+    "era": "1708 wreck / 2015–2026 investigation",
+    "genre": "Maritime Archaeology / Lost Wreck",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Maritime Archaeology / Lost Wreck",
+    "resolution": "unknown",
+    "countries": [
+      "Colombia / Caribbean Sea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1524,
+    "enBodyWords": 427
+  }
+}

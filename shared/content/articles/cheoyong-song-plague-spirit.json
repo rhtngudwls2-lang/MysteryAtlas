@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "cheoyong-song-plague-spirit",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "처용가의 역신 이야기",
+    "canonicalTitleEn": "Cheoyong and the Plague-Spirit Legend",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "역신을 춤으로 물리쳤다는 처용—전설과 기록의 경계",
+      "hook": "처용 설화는 초자연 사건의 증명이라기보다 신라 말의 이야기, 노래, 탈춤, 벽사 의례가 수백 년 동안 어떻게 살아남았는지를 보여주는 기록이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "밤에 돌아온 남자",
+          "headingEn": "The Man Who Returned Home",
+          "textKo": "『삼국유사』에 전하는 처용 설화에서 처용은 집에 돌아와 아내 곁에 역신이 있는 장면을 마주한다. 이야기의 핵심은 처용이 폭력으로 맞서지 않고 노래하고 춤춘 뒤 물러난다는 데 있다. 이후 역신은 처용의 형상이 있는 곳에는 들어가지 않겠다고 맹세하는 존재로 서술된다.",
+          "textEn": "In the Cheoyong legend preserved through the Samguk Yusa tradition, Cheoyong returns home and finds a plague spirit beside his wife. Instead of attacking, he sings and dances before withdrawing. The spirit is then said to promise that it will avoid places bearing Cheoyong’s image."
+        },
+        {
+          "blockId": "02",
+          "type": "TEXT_HISTORY",
+          "headingKo": "설화와 역사기록은 같은 것이 아니다",
+          "headingEn": "Legend Is Not the Same as Chronicle",
+          "textKo": "한국민족문화대백과는 처용을 신라 헌강왕대를 배경으로 한 설화의 주인공으로 설명한다. 용왕의 아들이라는 설정, 역신의 등장, 벽사 효험은 전승의 내용이지 독립된 역사자료로 확인된 사건이 아니다. 인물의 실재 여부와 설화의 상징은 분리해서 읽어야 한다.",
+          "textEn": "The Academy of Korean Studies describes Cheoyong as the protagonist of a legend set in King Heongang’s Silla. The dragon-king origin, the invading spirit, and the apotropaic power belong to transmitted tradition, not to independently verified event history."
+        },
+        {
+          "blockId": "03",
+          "type": "RITUAL",
+          "headingKo": "문에 붙은 얼굴",
+          "headingEn": "The Face on the Door",
+          "textKo": "처용의 얼굴을 문에 붙여 재앙을 막는 풍습은 설화와 함께 전해졌다. 시간이 지나면서 처용은 개인의 이름을 넘어 악귀와 질병을 막는 상징이 되었고, 노래·가면·춤이 결합된 의례적 존재로 확장됐다. 여기서 확인되는 것은 믿음의 역사이지 초자연적 효능의 실증이 아니다.",
+          "textEn": "The practice of placing Cheoyong’s image at a doorway developed alongside the legend. Over time he became more than a character: song, mask, dance, and protective ritual converged around him. What can be documented is the history of the belief, not the supernatural efficacy claimed for it."
+        },
+        {
+          "blockId": "04",
+          "type": "TRANSMISSION",
+          "headingKo": "처용무로 살아남은 이야기",
+          "headingEn": "A Legend That Survived as Dance",
+          "textKo": "유네스코는 처용무가 과거 왕실 연회와 섣달그믐 의식에서 악귀를 물리치고 평안을 비는 춤으로 쓰였다고 설명한다. 2009년 인류무형문화유산 대표목록에 등재된 것은 이 전승과 실연 공동체의 문화적 가치 때문이다.",
+          "textEn": "UNESCO describes Cheoyongmu as a court dance formerly used at royal banquets and New Year’s Eve rites to dispel evil spirits and pray for tranquillity. Its 2009 inscription recognizes the living cultural tradition and its practitioners, not a historical validation of the spirit story."
+        },
+        {
+          "blockId": "05",
+          "type": "INTERPRETATION",
+          "headingKo": "역신은 무엇을 뜻했나",
+          "headingEn": "What Did the Spirit Mean?",
+          "textKo": "처용가와 설화는 질병, 외부 침입, 성적 질투, 관용, 벽사 의식 등 여러 층위로 해석돼 왔다. 학설이 여러 갈래라는 사실 자체가 원문의 의미가 하나의 정답으로 고정되지 않았음을 보여준다. 현대 독자는 해석과 원문 내용을 섞지 않는 것이 중요하다.",
+          "textEn": "The song and legend have been interpreted through illness, intrusion, jealousy, tolerance, and ritual protection. The diversity of interpretations shows that the text does not yield a single uncontested meaning. Modern readings should distinguish interpretation from what the transmitted story actually states."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "전염병 기록으로 읽을 수 있을까",
+          "headingEn": "Can It Be Read as a Disease Record?",
+          "textKo": "유네스코 설명에는 처용 설화가 천연두와 연결된 전승으로 소개되지만, 이를 특정 유행병의 현장보고로 바꾸어 읽을 근거는 부족하다. ‘질병을 의인화한 이야기일 수 있다’는 해석과 ‘실제 역신이 출현했다’는 주장은 증거 수준이 완전히 다르다.",
+          "textEn": "UNESCO’s description connects the tradition with a smallpox spirit, but that does not turn the legend into an epidemiological field report. Interpreting the spirit as a personification of disease is categorically different from claiming that a literal supernatural being appeared."
+        },
+        {
+          "blockId": "07",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 남아 있는 미스터리인가",
+          "headingEn": "What Mystery Actually Remains",
+          "textKo": "남는 질문은 초자연 존재의 실재 여부가 아니라 이 이야기가 언제 어떤 방식으로 형성되고 왕실 의례와 민간 벽사 풍습으로 확장됐는지다. 텍스트의 층위와 후대 공연 전통을 더 세밀하게 비교할수록 ‘사건’보다 ‘전승의 변형’이 핵심 미스터리로 보인다.",
+          "textEn": "The durable mystery is not whether a spirit can be proven real, but how the story formed, changed, and became attached to court ritual and household protection. Comparing textual layers with later performance traditions turns the case from a ghost claim into a history-of-transmission puzzle."
+        },
+        {
+          "blockId": "08",
+          "type": "RECORD_DISTANCE",
+          "headingKo": "설화의 배경과 기록의 시간은 다르다",
+          "headingEn": "The Story’s Setting and Its Record Are Different Times",
+          "textKo": "처용 이야기는 신라 헌강왕대를 무대로 하지만, 오늘 우리가 읽는 형태는 후대의 문헌 전승을 거쳐 남았다. 따라서 이야기 속 시대를 곧바로 목격 기록의 작성 시점처럼 취급하면 안 된다. 오히려 중요한 점은 후대 사람들이 오래된 이야기를 어떤 방식으로 기억하고 재구성했는지, 그리고 그 기억이 노래와 의례 속에서 계속 기능했다는 사실이다. 이 시간차를 인정하면 “실제 역신 사건”을 찾기보다 설화가 왜 오랫동안 질병과 재앙을 막는 상징으로 쓰였는지를 더 정확하게 볼 수 있다.",
+          "textEn": "The legend is set in the reign of King Heongang, but the form available to modern readers survived through later textual transmission. The setting should therefore not be mistaken for the date of an eyewitness record. The historical question is how later communities remembered and reshaped an older story, and why it continued to function through song and ritual as a symbol of protection from illness and misfortune."
+        },
+        {
+          "blockId": "09",
+          "type": "EVIDENCE_BOUNDARY",
+          "headingKo": "무형유산 등재가 증명하는 것",
+          "headingEn": "What Intangible-Heritage Recognition Actually Shows",
+          "textKo": "처용무가 유네스코 대표목록에 올라 있다는 사실은 전승이 실제로 이어져 왔고 춤·음악·가면·의례가 문화적으로 중요한 체계를 이룬다는 강한 증거다. 그러나 문화유산 등재는 설화 속 초자연 존재를 사실 판정하는 절차가 아니다. “전승이 실재한다”와 “전승이 묘사한 초자연 사건이 실재했다”는 서로 다른 주장이다. 미스터리 아틀라스에서는 바로 이 두 층을 분리해야, 전설을 깎아내리지 않으면서도 기록이 말하는 범위를 넘지 않을 수 있다.",
+          "textEn": "UNESCO recognition is strong evidence that the tradition itself persisted and that dance, music, masks, and ritual form a culturally important practice. It is not a procedure for certifying supernatural beings described in the legend. “The tradition exists” and “the supernatural event described by the tradition occurred” are different propositions. Keeping them separate preserves both cultural meaning and evidentiary discipline."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 처용 설화와 처용가는 한국의 문헌·공연 전통 속에 전해졌고, 처용무는 악귀를 물리치고 평안을 비는 의례적 춤으로 계승돼 2009년 유네스코 대표목록에 등재됐다.\n\nNOT ESTABLISHED: 처용이라는 인물이 실제로 용왕의 아들이었는지, 역신이 실재했는지, 노래와 춤이 실제 질병을 물리쳤는지는 역사적으로 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Cheoyong legend and song are documented in Korean literary and performance traditions, and Cheoyongmu survived as a ritual dance for protection and was inscribed by UNESCO in 2009.\n\nNOT ESTABLISHED: It is not historically established that Cheoyong was literally a dragon king’s son, that a plague spirit existed, or that song and dance physically expelled disease."
+        }
+      ],
+      "factBoundary": {
+        "established": "처용 설화와 처용가는 한국의 문헌·공연 전통 속에 전해졌고, 처용무는 악귀를 물리치고 평안을 비는 의례적 춤으로 계승돼 2009년 유네스코 대표목록에 등재됐다.",
+        "notEstablished": "처용이라는 인물이 실제로 용왕의 아들이었는지, 역신이 실재했는지, 노래와 춤이 실제 질병을 물리쳤는지는 역사적으로 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Cheoyong, the Spirit, and the Boundary Between Legend and Record",
+      "hook": "The Cheoyong story is not evidence that a plague spirit literally appeared; it is evidence of how a late-Silla legend became song, masked dance, and a long-lived ritual of protection.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "밤에 돌아온 남자",
+          "headingEn": "The Man Who Returned Home",
+          "textKo": "『삼국유사』에 전하는 처용 설화에서 처용은 집에 돌아와 아내 곁에 역신이 있는 장면을 마주한다. 이야기의 핵심은 처용이 폭력으로 맞서지 않고 노래하고 춤춘 뒤 물러난다는 데 있다. 이후 역신은 처용의 형상이 있는 곳에는 들어가지 않겠다고 맹세하는 존재로 서술된다.",
+          "textEn": "In the Cheoyong legend preserved through the Samguk Yusa tradition, Cheoyong returns home and finds a plague spirit beside his wife. Instead of attacking, he sings and dances before withdrawing. The spirit is then said to promise that it will avoid places bearing Cheoyong’s image."
+        },
+        {
+          "blockId": "02",
+          "type": "TEXT_HISTORY",
+          "headingKo": "설화와 역사기록은 같은 것이 아니다",
+          "headingEn": "Legend Is Not the Same as Chronicle",
+          "textKo": "한국민족문화대백과는 처용을 신라 헌강왕대를 배경으로 한 설화의 주인공으로 설명한다. 용왕의 아들이라는 설정, 역신의 등장, 벽사 효험은 전승의 내용이지 독립된 역사자료로 확인된 사건이 아니다. 인물의 실재 여부와 설화의 상징은 분리해서 읽어야 한다.",
+          "textEn": "The Academy of Korean Studies describes Cheoyong as the protagonist of a legend set in King Heongang’s Silla. The dragon-king origin, the invading spirit, and the apotropaic power belong to transmitted tradition, not to independently verified event history."
+        },
+        {
+          "blockId": "03",
+          "type": "RITUAL",
+          "headingKo": "문에 붙은 얼굴",
+          "headingEn": "The Face on the Door",
+          "textKo": "처용의 얼굴을 문에 붙여 재앙을 막는 풍습은 설화와 함께 전해졌다. 시간이 지나면서 처용은 개인의 이름을 넘어 악귀와 질병을 막는 상징이 되었고, 노래·가면·춤이 결합된 의례적 존재로 확장됐다. 여기서 확인되는 것은 믿음의 역사이지 초자연적 효능의 실증이 아니다.",
+          "textEn": "The practice of placing Cheoyong’s image at a doorway developed alongside the legend. Over time he became more than a character: song, mask, dance, and protective ritual converged around him. What can be documented is the history of the belief, not the supernatural efficacy claimed for it."
+        },
+        {
+          "blockId": "04",
+          "type": "TRANSMISSION",
+          "headingKo": "처용무로 살아남은 이야기",
+          "headingEn": "A Legend That Survived as Dance",
+          "textKo": "유네스코는 처용무가 과거 왕실 연회와 섣달그믐 의식에서 악귀를 물리치고 평안을 비는 춤으로 쓰였다고 설명한다. 2009년 인류무형문화유산 대표목록에 등재된 것은 이 전승과 실연 공동체의 문화적 가치 때문이다.",
+          "textEn": "UNESCO describes Cheoyongmu as a court dance formerly used at royal banquets and New Year’s Eve rites to dispel evil spirits and pray for tranquillity. Its 2009 inscription recognizes the living cultural tradition and its practitioners, not a historical validation of the spirit story."
+        },
+        {
+          "blockId": "05",
+          "type": "INTERPRETATION",
+          "headingKo": "역신은 무엇을 뜻했나",
+          "headingEn": "What Did the Spirit Mean?",
+          "textKo": "처용가와 설화는 질병, 외부 침입, 성적 질투, 관용, 벽사 의식 등 여러 층위로 해석돼 왔다. 학설이 여러 갈래라는 사실 자체가 원문의 의미가 하나의 정답으로 고정되지 않았음을 보여준다. 현대 독자는 해석과 원문 내용을 섞지 않는 것이 중요하다.",
+          "textEn": "The song and legend have been interpreted through illness, intrusion, jealousy, tolerance, and ritual protection. The diversity of interpretations shows that the text does not yield a single uncontested meaning. Modern readings should distinguish interpretation from what the transmitted story actually states."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "전염병 기록으로 읽을 수 있을까",
+          "headingEn": "Can It Be Read as a Disease Record?",
+          "textKo": "유네스코 설명에는 처용 설화가 천연두와 연결된 전승으로 소개되지만, 이를 특정 유행병의 현장보고로 바꾸어 읽을 근거는 부족하다. ‘질병을 의인화한 이야기일 수 있다’는 해석과 ‘실제 역신이 출현했다’는 주장은 증거 수준이 완전히 다르다.",
+          "textEn": "UNESCO’s description connects the tradition with a smallpox spirit, but that does not turn the legend into an epidemiological field report. Interpreting the spirit as a personification of disease is categorically different from claiming that a literal supernatural being appeared."
+        },
+        {
+          "blockId": "07",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "무엇이 남아 있는 미스터리인가",
+          "headingEn": "What Mystery Actually Remains",
+          "textKo": "남는 질문은 초자연 존재의 실재 여부가 아니라 이 이야기가 언제 어떤 방식으로 형성되고 왕실 의례와 민간 벽사 풍습으로 확장됐는지다. 텍스트의 층위와 후대 공연 전통을 더 세밀하게 비교할수록 ‘사건’보다 ‘전승의 변형’이 핵심 미스터리로 보인다.",
+          "textEn": "The durable mystery is not whether a spirit can be proven real, but how the story formed, changed, and became attached to court ritual and household protection. Comparing textual layers with later performance traditions turns the case from a ghost claim into a history-of-transmission puzzle."
+        },
+        {
+          "blockId": "08",
+          "type": "RECORD_DISTANCE",
+          "headingKo": "설화의 배경과 기록의 시간은 다르다",
+          "headingEn": "The Story’s Setting and Its Record Are Different Times",
+          "textKo": "처용 이야기는 신라 헌강왕대를 무대로 하지만, 오늘 우리가 읽는 형태는 후대의 문헌 전승을 거쳐 남았다. 따라서 이야기 속 시대를 곧바로 목격 기록의 작성 시점처럼 취급하면 안 된다. 오히려 중요한 점은 후대 사람들이 오래된 이야기를 어떤 방식으로 기억하고 재구성했는지, 그리고 그 기억이 노래와 의례 속에서 계속 기능했다는 사실이다. 이 시간차를 인정하면 “실제 역신 사건”을 찾기보다 설화가 왜 오랫동안 질병과 재앙을 막는 상징으로 쓰였는지를 더 정확하게 볼 수 있다.",
+          "textEn": "The legend is set in the reign of King Heongang, but the form available to modern readers survived through later textual transmission. The setting should therefore not be mistaken for the date of an eyewitness record. The historical question is how later communities remembered and reshaped an older story, and why it continued to function through song and ritual as a symbol of protection from illness and misfortune."
+        },
+        {
+          "blockId": "09",
+          "type": "EVIDENCE_BOUNDARY",
+          "headingKo": "무형유산 등재가 증명하는 것",
+          "headingEn": "What Intangible-Heritage Recognition Actually Shows",
+          "textKo": "처용무가 유네스코 대표목록에 올라 있다는 사실은 전승이 실제로 이어져 왔고 춤·음악·가면·의례가 문화적으로 중요한 체계를 이룬다는 강한 증거다. 그러나 문화유산 등재는 설화 속 초자연 존재를 사실 판정하는 절차가 아니다. “전승이 실재한다”와 “전승이 묘사한 초자연 사건이 실재했다”는 서로 다른 주장이다. 미스터리 아틀라스에서는 바로 이 두 층을 분리해야, 전설을 깎아내리지 않으면서도 기록이 말하는 범위를 넘지 않을 수 있다.",
+          "textEn": "UNESCO recognition is strong evidence that the tradition itself persisted and that dance, music, masks, and ritual form a culturally important practice. It is not a procedure for certifying supernatural beings described in the legend. “The tradition exists” and “the supernatural event described by the tradition occurred” are different propositions. Keeping them separate preserves both cultural meaning and evidentiary discipline."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 처용 설화와 처용가는 한국의 문헌·공연 전통 속에 전해졌고, 처용무는 악귀를 물리치고 평안을 비는 의례적 춤으로 계승돼 2009년 유네스코 대표목록에 등재됐다.\n\nNOT ESTABLISHED: 처용이라는 인물이 실제로 용왕의 아들이었는지, 역신이 실재했는지, 노래와 춤이 실제 질병을 물리쳤는지는 역사적으로 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Cheoyong legend and song are documented in Korean literary and performance traditions, and Cheoyongmu survived as a ritual dance for protection and was inscribed by UNESCO in 2009.\n\nNOT ESTABLISHED: It is not historically established that Cheoyong was literally a dragon king’s son, that a plague spirit existed, or that song and dance physically expelled disease."
+        }
+      ],
+      "factBoundary": {
+        "established": "The Cheoyong legend and song are documented in Korean literary and performance traditions, and Cheoyongmu survived as a ritual dance for protection and was inscribed by UNESCO in 2009.",
+        "notEstablished": "It is not historically established that Cheoyong was literally a dragon king’s son, that a plague spirit existed, or that song and dance physically expelled disease."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "CHEOYONG_SONG_PLAGUE_SPIRIT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "처용 설화와 처용가는 한국의 문헌·공연 전통 속에 전해졌고, 처용무는 악귀를 물리치고 평안을 비는 의례적 춤으로 계승돼 2009년 유네스코 대표목록에 등재됐다.",
+      "statementEn": "The Cheoyong legend and song are documented in Korean literary and performance traditions, and Cheoyongmu survived as a ritual dance for protection and was inscribed by UNESCO in 2009.",
+      "sourceRefs": [
+        "AKS_CHEOYONG",
+        "AKS_CHEOYONGGA",
+        "UNESCO_CHEOYONGMU"
+      ]
+    },
+    {
+      "claimId": "CHEOYONG_SONG_PLAGUE_SPIRIT-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "처용이라는 인물이 실제로 용왕의 아들이었는지, 역신이 실재했는지, 노래와 춤이 실제 질병을 물리쳤는지는 역사적으로 확립되지 않았다.",
+      "statementEn": "It is not historically established that Cheoyong was literally a dragon king’s son, that a plague spirit existed, or that song and dance physically expelled disease.",
+      "sourceRefs": [
+        "AKS_CHEOYONG",
+        "AKS_CHEOYONGGA",
+        "UNESCO_CHEOYONGMU"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "AKS_CHEOYONG",
+      "title": "처용",
+      "publisher": "Academy of Korean Studies",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055713",
+      "sourceType": "ACADEMIC_ENCYCLOPEDIA"
+    },
+    {
+      "sourceId": "AKS_CHEOYONGGA",
+      "title": "처용가",
+      "publisher": "Academy of Korean Studies",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055715",
+      "sourceType": "ACADEMIC_ENCYCLOPEDIA"
+    },
+    {
+      "sourceId": "UNESCO_CHEOYONGMU",
+      "title": "Decision 4.COM 13.64 — Cheoyongmu",
+      "publisher": "UNESCO",
+      "url": "https://ich.unesco.org/en/decisions/4.COM/13.64",
+      "sourceType": "UNESCO_OFFICIAL"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "cheoyong-song-plague-spirit-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "AKS_CHEOYONG",
+        "AKS_CHEOYONGGA",
+        "UNESCO_CHEOYONGMU"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v01__ko.png",
+          "sha256": "6730b14d0bc6cffea2e03ec40788db3d97fce176233ecbbcf61d9b4fff329bfa",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v01__ko.png"
+        },
+        "en": {
+          "file": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v01__en.png",
+          "sha256": "5777b9644fc16c892bdf3f645b9cde487d5371b7a14ea0755e814fa0a70d1188",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "cheoyong-song-plague-spirit-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "AKS_CHEOYONG",
+        "AKS_CHEOYONGGA",
+        "UNESCO_CHEOYONGMU"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v02__ko.png",
+          "sha256": "9f5ff53f392e0704e4c7eed06348908fc14fe8dbb53cbb12c7dd27f641547c1c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v02__ko.png"
+        },
+        "en": {
+          "file": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v02__en.png",
+          "sha256": "fd111247276115b9b6d5a03e0230b23b950de40ab6dae5937c2dba778fe867ed",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "cheoyong-song-plague-spirit-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "AKS_CHEOYONG",
+        "AKS_CHEOYONGGA",
+        "UNESCO_CHEOYONGMU"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v03__ko.png",
+          "sha256": "0ab3159be921ebdc1a5925fc48ecd19690dcd9c103bd94b9c606f067d5a45029",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v03__ko.png"
+        },
+        "en": {
+          "file": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v03__en.png",
+          "sha256": "905454f36d90e0df1e0b08a523cd645c6c44e17a365c6b6555098f354dddc125",
+          "width": 1600,
+          "height": 900,
+          "fileName": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Korea",
+    "era": "late 9th century tradition / later transmission",
+    "genre": "Folklore / Ritual History",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Folklore / Ritual History",
+    "resolution": "unknown",
+    "countries": [
+      "Korea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1664,
+    "enBodyWords": 489
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "geumgwanchong-isaji-king",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "금관총 이사지왕 명문 발견",
+    "canonicalTitleEn": "The “King Isaji” Inscription from Geumgwanchong",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "금관총의 주인은 “이사지왕”인가—칼집 네 글자가 만든 새 미스터리",
+      "hook": "1921년 발굴된 금관총의 칼집에서 2013년 ‘이사지왕’ 네 글자가 확인됐다. 이름은 분명하지만, 그 인물이 누구이고 무덤의 주인인지까지는 고대 기록이 답해주지 않는다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "DISCOVERY",
+          "headingKo": "1921년 나온 칼, 2013년 읽힌 이름",
+          "headingEn": "A Sword Excavated in 1921, a Name Read in 2013",
+          "textKo": "금관총은 1921년 일제강점기에 발굴됐다. 수십 년 뒤 국립중앙박물관 보존처리 과정에서 고리자루큰칼의 칼집에 새겨진 ‘이사지왕’ 글자가 확인됐다. 이미 알려진 유물이 보존과 재조사를 통해 새 사료가 된 사례다.",
+          "textEn": "Geumgwanchong was excavated in 1921 during the Japanese colonial period. Decades later, conservation work at the National Museum of Korea revealed the characters “King Isaji” on the scabbard of a ring-pommel sword. A familiar object became new historical evidence through re-examination."
+        },
+        {
+          "blockId": "02",
+          "type": "INSCRIPTION",
+          "headingKo": "네 글자가 왜 중요한가",
+          "headingEn": "Why Four Characters Matter",
+          "textKo": "박물관은 고대 신라 무덤 출토품에서 ‘왕’과 개인 이름이 결합된 이런 명문이 확인된 점을 중요하게 평가했다. 고분은 풍부한 금관과 장신구를 남겼지만 피장자의 이름을 알려주는 묘지석이 없기 때문에, 짧은 명문이 드문 신원 단서가 된다.",
+          "textEn": "The museum emphasized the rarity of an inscription combining a personal name with “king” on an object from an ancient Silla tomb. Rich grave goods survive, but no epitaph directly names the tomb occupant, making the short inscription an unusual identity clue."
+        },
+        {
+          "blockId": "03",
+          "type": "RECORD_GAP",
+          "headingKo": "문헌에 없는 왕",
+          "headingEn": "A King Missing from the Chronicles",
+          "textKo": "문제는 ‘이사지왕’이라는 이름이 남아 있는 고대 사서에서 확인되지 않는다는 점이다. 글자는 읽히지만 그 사람을 알려줄 문헌 연결고리가 없다. 그래서 명문은 신원을 해결하는 열쇠인 동시에 새로운 미스터리의 시작이 됐다.",
+          "textEn": "The problem is that a Silla ruler named Isaji does not appear in the surviving ancient chronicles. The inscription can be read, but there is no straightforward textual bridge to the person behind the name. The clue both helps and complicates identification."
+        },
+        {
+          "blockId": "04",
+          "type": "TOMB_OWNER",
+          "headingKo": "그가 무덤의 주인인가",
+          "headingEn": "Was He the Person Buried There?",
+          "textKo": "칼이 무덤에서 나왔다는 사실만으로 칼에 적힌 이름이 곧 피장자라고 단정할 수는 없다. 물건은 선물, 상속, 의례품, 소유자 표시 등 다양한 경로로 무덤에 들어갈 수 있다. ‘이사지왕의 물건’과 ‘이사지왕의 무덤’은 다른 명제다.",
+          "textEn": "A named object from a tomb does not automatically prove that the named person was the tomb occupant. Objects can enter burials as gifts, inherited goods, ritual equipment, or possessions. “An object bearing Isaji’s name” and “Isaji’s tomb” are different propositions."
+        },
+        {
+          "blockId": "05",
+          "type": "EXCAVATION_HISTORY",
+          "headingKo": "초기 발굴기록의 한계",
+          "headingEn": "Limits of the Early Excavation Record",
+          "textKo": "금관총은 한국 고고학 초기의 중요한 발굴이지만 당시 조사와 기록은 오늘의 기준과 다르다. 출토 맥락과 유물의 원래 위치가 충분히 남지 않은 부분은 피장자 추론을 어렵게 한다. 그래서 보존과학이 오래된 발굴을 다시 읽는 역할을 한다.",
+          "textEn": "Geumgwanchong is a foundational excavation in Korean archaeology, but its 1921 documentation does not match modern standards in every respect. Lost or incomplete contextual information makes identity reconstruction harder, increasing the value of conservation science and re-study."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“왕”이면 신라 국왕인가",
+          "headingEn": "Does “King” Mean the Supreme Silla Monarch?",
+          "textKo": "고대 명칭의 ‘왕’이 항상 후대 사서에 정리된 최고 군주 한 명만을 뜻한다고 가정하면 해석이 너무 좁아진다. 당시 정치구조와 칭호 사용을 함께 검토해야 하며, 명문 하나로 기존 왕계를 즉시 다시 쓰는 것은 증거를 넘어선다.",
+          "textEn": "Assuming that the title “king” must refer only to the single supreme monarch listed in later dynastic chronologies may be too narrow. Title use and political structure require context; one inscription is not enough to rewrite the Silla king list by itself."
+        },
+        {
+          "blockId": "07",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "다음에 필요한 증거",
+          "headingEn": "What Evidence Could Resolve It",
+          "textKo": "다른 유물에서 같은 이름이나 계보 단서가 확인되고, 금관총의 연대와 인물 활동시기가 맞아떨어져야 피장자 가설이 강해진다. 현재 가장 강한 사실은 ‘이사지왕’이라는 이름이 실물에 존재한다는 것이고, 그 사람의 정확한 역사적 위치는 열려 있다.",
+          "textEn": "The occupant hypothesis would strengthen if the same name or genealogy appeared in other objects and if chronology aligned with an identifiable historical figure. The strongest fact today is that the name “King Isaji” exists on the artifact; the person’s exact historical place remains open."
+        },
+        {
+          "blockId": "08",
+          "type": "CONSERVATION_DISCOVERY",
+          "headingKo": "발굴 92년 뒤 보존처리에서 나온 이름",
+          "headingEn": "A Name Found 92 Years After Excavation",
+          "textKo": "금관총은 1921년에 발굴됐지만 “이사지왕”이라는 글자는 당시 발굴보고에서 핵심 단서로 인식되지 않았다. 2013년 국립중앙박물관이 출토 대도를 보존처리하는 과정에서 칼집과 관련 부위의 명문을 다시 확인하면서 이름이 학계와 대중에 크게 알려졌다. 이 사례는 새로운 유물이 나와서가 아니라 이미 수장고에 있던 유물을 새로운 기술과 질문으로 다시 보면서 정보가 생긴 경우다. 박물관 보존이 단순한 수리 작업이 아니라 재조사의 기회가 될 수 있음을 보여준다.",
+          "textEn": "Geumgwanchong was excavated in 1921, but the name “King Isaji” was not recognized then as a central clue. During conservation work on an excavated sword in 2013, the National Museum of Korea re-examined inscriptions on the scabbard-related fittings and brought the name to wider scholarly attention. The discovery came not from a new tomb but from asking new questions of an object that had already been in a collection for decades."
+        },
+        {
+          "blockId": "09",
+          "type": "IDENTITY_BOUNDARY",
+          "headingKo": "이름이 보인다고 묘주가 확정되는가",
+          "headingEn": "Does a Name Automatically Identify the Tomb Occupant?",
+          "textKo": "명문에 “이사지왕”이 읽힌다는 사실과 금관총의 묘주가 이사지왕이라는 결론 사이에는 추가 논리가 필요하다. 무덤에 부장된 물건은 소유자·증여자·제작자·의례 관계자와 연결될 수 있고, 현존 문헌에는 이사지왕이라는 왕이 별도로 확인되지 않는다. 따라서 명문은 신라 왕족과 정치질서를 연구하는 매우 강한 단서이지만 단독 신분증은 아니다. 1921년 발굴기록의 한계까지 감안하면, 정확한 묘주 문제는 여전히 열려 있는 역사 퍼즐로 다루는 것이 안전하다.",
+          "textEn": "Reading “King Isaji” in the inscription does not by itself prove that Isaji was the person buried in Geumgwanchong. Grave goods can relate to owners, donors, makers, or ritual relationships, and no king called Isaji is independently identified in the surviving written record. The inscription is therefore a major clue to Silla elite society, not a standalone identification card for the tomb occupant."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 2013년 보존처리 과정에서 1921년 금관총 출토 고리자루큰칼의 칼집에 ‘이사지왕’ 명문이 확인됐다.\n\nNOT ESTABLISHED: 이사지왕이 정확히 누구였는지, 그가 금관총의 피장자인지, 후대 사서의 어느 인물과 같은 사람인지는 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: In 2013 conservation work revealed an inscription reading “King Isaji” on the scabbard of a ring-pommel sword excavated from Geumgwanchong in 1921.\n\nNOT ESTABLISHED: It is not established who King Isaji was, whether he was the occupant of Geumgwanchong, or whether he corresponds to any ruler named in later chronicles."
+        }
+      ],
+      "factBoundary": {
+        "established": "2013년 보존처리 과정에서 1921년 금관총 출토 고리자루큰칼의 칼집에 ‘이사지왕’ 명문이 확인됐다.",
+        "notEstablished": "이사지왕이 정확히 누구였는지, 그가 금관총의 피장자인지, 후대 사서의 어느 인물과 같은 사람인지는 확립되지 않았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    },
+    "en": {
+      "headline": "Does “King Isaji” Name the Occupant of Geumgwanchong?",
+      "hook": "Four characters reading “King Isaji” were recognized in 2013 on a sword scabbard excavated from Geumgwanchong in 1921. The name is real; the identity behind it is not settled.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "DISCOVERY",
+          "headingKo": "1921년 나온 칼, 2013년 읽힌 이름",
+          "headingEn": "A Sword Excavated in 1921, a Name Read in 2013",
+          "textKo": "금관총은 1921년 일제강점기에 발굴됐다. 수십 년 뒤 국립중앙박물관 보존처리 과정에서 고리자루큰칼의 칼집에 새겨진 ‘이사지왕’ 글자가 확인됐다. 이미 알려진 유물이 보존과 재조사를 통해 새 사료가 된 사례다.",
+          "textEn": "Geumgwanchong was excavated in 1921 during the Japanese colonial period. Decades later, conservation work at the National Museum of Korea revealed the characters “King Isaji” on the scabbard of a ring-pommel sword. A familiar object became new historical evidence through re-examination."
+        },
+        {
+          "blockId": "02",
+          "type": "INSCRIPTION",
+          "headingKo": "네 글자가 왜 중요한가",
+          "headingEn": "Why Four Characters Matter",
+          "textKo": "박물관은 고대 신라 무덤 출토품에서 ‘왕’과 개인 이름이 결합된 이런 명문이 확인된 점을 중요하게 평가했다. 고분은 풍부한 금관과 장신구를 남겼지만 피장자의 이름을 알려주는 묘지석이 없기 때문에, 짧은 명문이 드문 신원 단서가 된다.",
+          "textEn": "The museum emphasized the rarity of an inscription combining a personal name with “king” on an object from an ancient Silla tomb. Rich grave goods survive, but no epitaph directly names the tomb occupant, making the short inscription an unusual identity clue."
+        },
+        {
+          "blockId": "03",
+          "type": "RECORD_GAP",
+          "headingKo": "문헌에 없는 왕",
+          "headingEn": "A King Missing from the Chronicles",
+          "textKo": "문제는 ‘이사지왕’이라는 이름이 남아 있는 고대 사서에서 확인되지 않는다는 점이다. 글자는 읽히지만 그 사람을 알려줄 문헌 연결고리가 없다. 그래서 명문은 신원을 해결하는 열쇠인 동시에 새로운 미스터리의 시작이 됐다.",
+          "textEn": "The problem is that a Silla ruler named Isaji does not appear in the surviving ancient chronicles. The inscription can be read, but there is no straightforward textual bridge to the person behind the name. The clue both helps and complicates identification."
+        },
+        {
+          "blockId": "04",
+          "type": "TOMB_OWNER",
+          "headingKo": "그가 무덤의 주인인가",
+          "headingEn": "Was He the Person Buried There?",
+          "textKo": "칼이 무덤에서 나왔다는 사실만으로 칼에 적힌 이름이 곧 피장자라고 단정할 수는 없다. 물건은 선물, 상속, 의례품, 소유자 표시 등 다양한 경로로 무덤에 들어갈 수 있다. ‘이사지왕의 물건’과 ‘이사지왕의 무덤’은 다른 명제다.",
+          "textEn": "A named object from a tomb does not automatically prove that the named person was the tomb occupant. Objects can enter burials as gifts, inherited goods, ritual equipment, or possessions. “An object bearing Isaji’s name” and “Isaji’s tomb” are different propositions."
+        },
+        {
+          "blockId": "05",
+          "type": "EXCAVATION_HISTORY",
+          "headingKo": "초기 발굴기록의 한계",
+          "headingEn": "Limits of the Early Excavation Record",
+          "textKo": "금관총은 한국 고고학 초기의 중요한 발굴이지만 당시 조사와 기록은 오늘의 기준과 다르다. 출토 맥락과 유물의 원래 위치가 충분히 남지 않은 부분은 피장자 추론을 어렵게 한다. 그래서 보존과학이 오래된 발굴을 다시 읽는 역할을 한다.",
+          "textEn": "Geumgwanchong is a foundational excavation in Korean archaeology, but its 1921 documentation does not match modern standards in every respect. Lost or incomplete contextual information makes identity reconstruction harder, increasing the value of conservation science and re-study."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "“왕”이면 신라 국왕인가",
+          "headingEn": "Does “King” Mean the Supreme Silla Monarch?",
+          "textKo": "고대 명칭의 ‘왕’이 항상 후대 사서에 정리된 최고 군주 한 명만을 뜻한다고 가정하면 해석이 너무 좁아진다. 당시 정치구조와 칭호 사용을 함께 검토해야 하며, 명문 하나로 기존 왕계를 즉시 다시 쓰는 것은 증거를 넘어선다.",
+          "textEn": "Assuming that the title “king” must refer only to the single supreme monarch listed in later dynastic chronologies may be too narrow. Title use and political structure require context; one inscription is not enough to rewrite the Silla king list by itself."
+        },
+        {
+          "blockId": "07",
+          "type": "RESOLUTION_GATE",
+          "headingKo": "다음에 필요한 증거",
+          "headingEn": "What Evidence Could Resolve It",
+          "textKo": "다른 유물에서 같은 이름이나 계보 단서가 확인되고, 금관총의 연대와 인물 활동시기가 맞아떨어져야 피장자 가설이 강해진다. 현재 가장 강한 사실은 ‘이사지왕’이라는 이름이 실물에 존재한다는 것이고, 그 사람의 정확한 역사적 위치는 열려 있다.",
+          "textEn": "The occupant hypothesis would strengthen if the same name or genealogy appeared in other objects and if chronology aligned with an identifiable historical figure. The strongest fact today is that the name “King Isaji” exists on the artifact; the person’s exact historical place remains open."
+        },
+        {
+          "blockId": "08",
+          "type": "CONSERVATION_DISCOVERY",
+          "headingKo": "발굴 92년 뒤 보존처리에서 나온 이름",
+          "headingEn": "A Name Found 92 Years After Excavation",
+          "textKo": "금관총은 1921년에 발굴됐지만 “이사지왕”이라는 글자는 당시 발굴보고에서 핵심 단서로 인식되지 않았다. 2013년 국립중앙박물관이 출토 대도를 보존처리하는 과정에서 칼집과 관련 부위의 명문을 다시 확인하면서 이름이 학계와 대중에 크게 알려졌다. 이 사례는 새로운 유물이 나와서가 아니라 이미 수장고에 있던 유물을 새로운 기술과 질문으로 다시 보면서 정보가 생긴 경우다. 박물관 보존이 단순한 수리 작업이 아니라 재조사의 기회가 될 수 있음을 보여준다.",
+          "textEn": "Geumgwanchong was excavated in 1921, but the name “King Isaji” was not recognized then as a central clue. During conservation work on an excavated sword in 2013, the National Museum of Korea re-examined inscriptions on the scabbard-related fittings and brought the name to wider scholarly attention. The discovery came not from a new tomb but from asking new questions of an object that had already been in a collection for decades."
+        },
+        {
+          "blockId": "09",
+          "type": "IDENTITY_BOUNDARY",
+          "headingKo": "이름이 보인다고 묘주가 확정되는가",
+          "headingEn": "Does a Name Automatically Identify the Tomb Occupant?",
+          "textKo": "명문에 “이사지왕”이 읽힌다는 사실과 금관총의 묘주가 이사지왕이라는 결론 사이에는 추가 논리가 필요하다. 무덤에 부장된 물건은 소유자·증여자·제작자·의례 관계자와 연결될 수 있고, 현존 문헌에는 이사지왕이라는 왕이 별도로 확인되지 않는다. 따라서 명문은 신라 왕족과 정치질서를 연구하는 매우 강한 단서이지만 단독 신분증은 아니다. 1921년 발굴기록의 한계까지 감안하면, 정확한 묘주 문제는 여전히 열려 있는 역사 퍼즐로 다루는 것이 안전하다.",
+          "textEn": "Reading “King Isaji” in the inscription does not by itself prove that Isaji was the person buried in Geumgwanchong. Grave goods can relate to owners, donors, makers, or ritual relationships, and no king called Isaji is independently identified in the surviving written record. The inscription is therefore a major clue to Silla elite society, not a standalone identification card for the tomb occupant."
+        },
+        {
+          "blockId": "10",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 2013년 보존처리 과정에서 1921년 금관총 출토 고리자루큰칼의 칼집에 ‘이사지왕’ 명문이 확인됐다.\n\nNOT ESTABLISHED: 이사지왕이 정확히 누구였는지, 그가 금관총의 피장자인지, 후대 사서의 어느 인물과 같은 사람인지는 확립되지 않았다.",
+          "textEn": "CONFIRMED / SUPPORTED: In 2013 conservation work revealed an inscription reading “King Isaji” on the scabbard of a ring-pommel sword excavated from Geumgwanchong in 1921.\n\nNOT ESTABLISHED: It is not established who King Isaji was, whether he was the occupant of Geumgwanchong, or whether he corresponds to any ruler named in later chronicles."
+        }
+      ],
+      "factBoundary": {
+        "established": "In 2013 conservation work revealed an inscription reading “King Isaji” on the scabbard of a ring-pommel sword excavated from Geumgwanchong in 1921.",
+        "notEstablished": "It is not established who King Isaji was, whether he was the occupant of Geumgwanchong, or whether he corresponds to any ruler named in later chronicles."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "GEUMGWANCHONG_ISAJI_KING-C1",
+      "status": "CONFIRMED",
+      "statementKo": "2013년 보존처리 과정에서 1921년 금관총 출토 고리자루큰칼의 칼집에 ‘이사지왕’ 명문이 확인됐다.",
+      "statementEn": "In 2013 conservation work revealed an inscription reading “King Isaji” on the scabbard of a ring-pommel sword excavated from Geumgwanchong in 1921.",
+      "sourceRefs": [
+        "NMK_ISAJI",
+        "NMK_ISAJI_PRESS",
+        "GYEONGJU_ISAJI"
+      ]
+    },
+    {
+      "claimId": "GEUMGWANCHONG_ISAJI_KING-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "이사지왕이 정확히 누구였는지, 그가 금관총의 피장자인지, 후대 사서의 어느 인물과 같은 사람인지는 확립되지 않았다.",
+      "statementEn": "It is not established who King Isaji was, whether he was the occupant of Geumgwanchong, or whether he corresponds to any ruler named in later chronicles.",
+      "sourceRefs": [
+        "NMK_ISAJI",
+        "NMK_ISAJI_PRESS",
+        "GYEONGJU_ISAJI"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NMK_ISAJI",
+      "title": "The Geumgwanchong Tomb and King Isaji",
+      "publisher": "National Museum of Korea",
+      "url": "https://www.museum.go.kr/site/eng/exhiSpecialTheme/view/current?exhiSpThemId=4208",
+      "sourceType": "NATIONAL_MUSEUM"
+    },
+    {
+      "sourceId": "NMK_ISAJI_PRESS",
+      "title": "Thematic: The Geumgwanchong Tomb and King Isaji",
+      "publisher": "National Museum of Korea",
+      "url": "https://www.museum.go.kr/ENG/contents/E0606010000.do?arcId=10345&catCustomType=united&catId=128&schM=view",
+      "sourceType": "NATIONAL_MUSEUM"
+    },
+    {
+      "sourceId": "GYEONGJU_ISAJI",
+      "title": "Gold Crown Tomb and King Isaji",
+      "publisher": "Gyeongju National Museum",
+      "url": "https://gyeongju.museum.go.kr/eng/html/sub02/0202.html?cp_gubun=P&d_mng_no=118&mode=VD",
+      "sourceType": "NATIONAL_MUSEUM"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "geumgwanchong-isaji-king-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "altKo": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key event, discovery, and reassessment.",
+      "sourceRefs": [
+        "NMK_ISAJI",
+        "NMK_ISAJI_PRESS",
+        "GYEONGJU_ISAJI"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v01__ko.png",
+          "sha256": "5ec8d79b0fe03a68e8ce392e1cfe7af23f1b72d821185d8bb6e033eb7c509264",
+          "width": 1600,
+          "height": 900,
+          "fileName": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v01__ko.png"
+        },
+        "en": {
+          "file": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v01__en.png",
+          "sha256": "c3add44961124ab491ab335b9ead9b0e22b342a05f3e14f6f4f684cd17c55003",
+          "width": 1600,
+          "height": 900,
+          "fileName": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "geumgwanchong-isaji-king-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장의 경계를 정리한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NMK_ISAJI",
+        "NMK_ISAJI_PRESS",
+        "GYEONGJU_ISAJI"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v02__ko.png",
+          "sha256": "8b4a28a52e924f7a6bbfd70fa463aa7a6863fe6a4740139e2a286d68c50867ea",
+          "width": 1600,
+          "height": 900,
+          "fileName": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v02__ko.png"
+        },
+        "en": {
+          "file": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v02__en.png",
+          "sha256": "bd3fce6dac3348b219e4776f252e5fdf11c33573f7b113a0be97a37041e0b3a6",
+          "width": 1600,
+          "height": 900,
+          "fileName": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "geumgwanchong-isaji-king-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "captionEn": "Project-original diagram mapping key sources to claims.",
+      "altKo": "주요 자료와 주장 사이 관계를 정리한 프로젝트 원본 설명도.",
+      "altEn": "Project-original diagram mapping key sources to claims.",
+      "sourceRefs": [
+        "NMK_ISAJI",
+        "NMK_ISAJI_PRESS",
+        "GYEONGJU_ISAJI"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v03__ko.png",
+          "sha256": "84881d70dc3b23f27a5246206e211f1cd7a33bb95af50281763e4b2e71c20544",
+          "width": 1600,
+          "height": 900,
+          "fileName": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v03__ko.png"
+        },
+        "en": {
+          "file": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v03__en.png",
+          "sha256": "e283b7786b192e556c2636f6ac90311117750c2af6fb285ebbc79c3ee2c5992b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Korea",
+    "era": "5th–6th century tomb / inscription recognized 2013",
+    "genre": "Archaeological Identity",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Archaeological Identity",
+    "resolution": "unknown",
+    "countries": [
+      "Korea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1546,
+    "enBodyWords": 477
+  }
+}

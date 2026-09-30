@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "batch43-clean.zip",
+  "sourcePack": "MediaBatch44_ExpansionLock06_FINAL.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -1333,6 +1333,64 @@
       }
     },
     {
+      "canonicalId": "bear-brook-identity-2025",
+      "title": {
+        "ko": "베어브룩 네 희생자의 신원 추적",
+        "en": "Bear Brook: Identifying the Last Unknown Victim"
+      },
+      "headline": {
+        "ko": "40년 만에 마지막 이름을 되찾다—베어브룩의 DNA 추적",
+        "en": "The Last Bear Brook Victim Regained Her Name After Four Decades"
+      },
+      "hook": {
+        "ko": "두 개의 배럴에서 발견된 네 사람 가운데 마지막으로 신원이 남아 있던 어린이는 2025년 Rea Rasmussen으로 확인됐다. 하지만 그녀의 어머니 Pepper Reed의 행방은 여전히 풀리지 않았다.",
+        "en": "The last unidentified child among the four Bear Brook victims was identified in 2025 as Rea Rasmussen. The identification closed one mystery while opening renewed questions about her missing mother, Pepper Reed."
+      },
+      "aliases": [],
+      "genre": "Forensic Identity / Cold Case",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "1985–2025",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "bear-brook-identity-2025-v01",
+      "heroFile": {
+        "ko": "bear-brook-identity-2025__bear-brook-identity-2025-v01__ko.png",
+        "en": "bear-brook-identity-2025__bear-brook-identity-2025-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "beast-gevaudan",
       "title": {
         "ko": "제보당의 야수 사냥 기록",
@@ -2487,6 +2545,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "cheoyong-song-plague-spirit",
+      "title": {
+        "ko": "처용가의 역신 이야기",
+        "en": "Cheoyong and the Plague-Spirit Legend"
+      },
+      "headline": {
+        "ko": "역신을 춤으로 물리쳤다는 처용—전설과 기록의 경계",
+        "en": "Cheoyong, the Spirit, and the Boundary Between Legend and Record"
+      },
+      "hook": {
+        "ko": "처용 설화는 초자연 사건의 증명이라기보다 신라 말의 이야기, 노래, 탈춤, 벽사 의례가 수백 년 동안 어떻게 살아남았는지를 보여주는 기록이다.",
+        "en": "The Cheoyong story is not evidence that a plague spirit literally appeared; it is evidence of how a late-Silla legend became song, masked dance, and a long-lived ritual of protection."
+      },
+      "aliases": [],
+      "genre": "Folklore / Ritual History",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "late 9th century tradition / later transmission",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "cheoyong-song-plague-spirit-v01",
+      "heroFile": {
+        "ko": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v01__ko.png",
+        "en": "cheoyong-song-plague-spirit__cheoyong-song-plague-spirit-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4222,6 +4338,64 @@
       }
     },
     {
+      "canonicalId": "feejee-mermaid-barnum",
+      "title": {
+        "ko": "피지 인어 전시품의 정체",
+        "en": "Barnum’s Feejee Mermaid and the Problem of the Surviving Specimen"
+      },
+      "headline": {
+        "ko": "인어는 가짜였다—그런데 “원본”은 어디로 갔을까",
+        "en": "The Mermaid Was Fake—But Which Object Was the Original?"
+      },
+      "hook": {
+        "ko": "바넘이 1842년 떠들썩하게 홍보한 피지 인어는 합성 전시품이었다. 더 흥미로운 문제는 오늘 남아 있는 비슷한 물건 가운데 어느 것이 실제 그 전시품이었는지 확실하지 않다는 점이다.",
+        "en": "Barnum’s 1842 Feejee Mermaid was a manufactured composite. The more interesting mystery is provenance: the famous object and surviving museum specimens cannot simply be assumed to be the same thing."
+      },
+      "aliases": [],
+      "genre": "Hoax / Cryptid History",
+      "genres": [],
+      "countries": [
+        "United States / Japan-linked manufacture"
+      ],
+      "regions": [],
+      "era": "1842–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "feejee-mermaid-barnum-v01",
+      "heroFile": {
+        "ko": "feejee-mermaid-barnum__feejee-mermaid-barnum-v01__ko.png",
+        "en": "feejee-mermaid-barnum__feejee-mermaid-barnum-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "fermi-bubbles",
       "title": {
         "ko": "페르미 버블",
@@ -4945,6 +5119,64 @@
       }
     },
     {
+      "canonicalId": "geumgwanchong-isaji-king",
+      "title": {
+        "ko": "금관총 이사지왕 명문 발견",
+        "en": "The “King Isaji” Inscription from Geumgwanchong"
+      },
+      "headline": {
+        "ko": "금관총의 주인은 “이사지왕”인가—칼집 네 글자가 만든 새 미스터리",
+        "en": "Does “King Isaji” Name the Occupant of Geumgwanchong?"
+      },
+      "hook": {
+        "ko": "1921년 발굴된 금관총의 칼집에서 2013년 ‘이사지왕’ 네 글자가 확인됐다. 이름은 분명하지만, 그 인물이 누구이고 무덤의 주인인지까지는 고대 기록이 답해주지 않는다.",
+        "en": "Four characters reading “King Isaji” were recognized in 2013 on a sword scabbard excavated from Geumgwanchong in 1921. The name is real; the identity behind it is not settled."
+      },
+      "aliases": [],
+      "genre": "Archaeological Identity",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "5th–6th century tomb / inscription recognized 2013",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "geumgwanchong-isaji-king-v01",
+      "heroFile": {
+        "ko": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v01__ko.png",
+        "en": "geumgwanchong-isaji-king__geumgwanchong-isaji-king-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "giant-squid",
       "title": {
         "ko": "대왕오징어",
@@ -5461,6 +5693,64 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "great-zimbabwe-attribution",
+      "title": {
+        "ko": "그레이트 짐바브웨의 건설자 논쟁",
+        "en": "Who Built Great Zimbabwe?"
+      },
+      "headline": {
+        "ko": "“아프리카인이 지었을 리 없다”는 주장은 어떻게 무너졌나",
+        "en": "How Archaeology Overturned the Claim That Africans Could Not Have Built Great Zimbabwe"
+      },
+      "hook": {
+        "ko": "거대한 석조도시를 본 식민지 시대 유럽인들은 성서 속 민족이나 외부 세력을 건설자로 상상했다. 그러나 유적의 층위와 물질문화는 쇼나 조상의 지역 문명으로 수렴한다.",
+        "en": "Colonial observers imagined biblical or foreign builders for the great stone city. Archaeological context instead places Great Zimbabwe within the local civilization of Shona ancestors."
+      },
+      "aliases": [],
+      "genre": "Explained Mystery / Archaeology",
+      "genres": [],
+      "countries": [
+        "Zimbabwe"
+      ],
+      "regions": [],
+      "era": "11th–15th centuries / colonial reinterpretation",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "great-zimbabwe-attribution-v01",
+      "heroFile": {
+        "ko": "great-zimbabwe-attribution__great-zimbabwe-attribution-v01__ko.png",
+        "en": "great-zimbabwe-attribution__great-zimbabwe-attribution-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {
@@ -8913,6 +9203,64 @@
       }
     },
     {
+      "canonicalId": "mireuksa-reliquary-inscription",
+      "title": {
+        "ko": "미륵사지 사리봉영기와 창건 전승",
+        "en": "The Mireuksa Reliquary Inscription and the Founding Legend"
+      },
+      "headline": {
+        "ko": "금판 193자가 바꿔 놓은 미륵사의 창건 이야기",
+        "en": "A Gold Inscription Complicated the Founding Story of Mireuksa"
+      },
+      "hook": {
+        "ko": "2009년 미륵사지 서석탑에서 나온 사리봉영기는 639년, 백제 왕후, 사택씨라는 구체적 정보를 남겼다. 이 짧은 금판은 『삼국유사』의 선화공주 전승을 새롭게 보게 만들었다.",
+        "en": "A gold reliquary inscription found in 2009 supplied a date, a Baekje queen, and the Sataek family. The artifact complicated the later Seonhwa-princess foundation tradition rather than simply erasing it."
+      },
+      "aliases": [],
+      "genre": "Archaeology / Text vs Legend",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "639 / discovered 2009",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "mireuksa-reliquary-inscription-v01",
+      "heroFile": {
+        "ko": "mireuksa-reliquary-inscription__mireuksa-reliquary-inscription-v01__ko.png",
+        "en": "mireuksa-reliquary-inscription__mireuksa-reliquary-inscription-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "mj12",
       "title": {
         "ko": "MJ-12 / Majestic 12",
@@ -9135,6 +9483,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Source-bounded compact file; evidence density favored over padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mona-lisa-theft-1911",
+      "title": {
+        "ko": "모나리자 1911년 도난과 반환",
+        "en": "The 1911 Theft and Recovery of the Mona Lisa"
+      },
+      "headline": {
+        "ko": "벽에서 사라진 모나리자—2년 동안 모두가 틀린 곳을 봤다",
+        "en": "When the Mona Lisa Vanished, the Investigation Looked in the Wrong Places"
+      },
+      "hook": {
+        "ko": "1911년 루브르에서 사라진 그림은 1913년 피렌체에서 되찾았다. 사건의 재미는 범인의 이름보다도, 사라진 뒤 만들어진 수많은 오판과 그림의 세계적 명성이 함께 커졌다는 데 있다.",
+        "en": "The painting stolen from the Louvre in 1911 was recovered in Florence in 1913. The case is notable not only for the thief, but for the false leads, publicity, and transformation of the painting into a global icon."
+      },
+      "aliases": [],
+      "genre": "Art Crime / Solved Mystery",
+      "genres": [],
+      "countries": [
+        "France / Italy"
+      ],
+      "regions": [],
+      "era": "1911–1914",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "mona-lisa-theft-1911-v01",
+      "heroFile": {
+        "ko": "mona-lisa-theft-1911__mona-lisa-theft-1911-v01__ko.png",
+        "en": "mona-lisa-theft-1911__mona-lisa-theft-1911-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -9798,6 +10204,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "narwhal-tusk-unicorn",
+      "title": {
+        "ko": "유니콘 뿔의 정체와 일각고래",
+        "en": "Narwhal Tusks and the Unicorn-Horn Trade"
+      },
+      "headline": {
+        "ko": "왕실 보물창고의 유니콘 뿔은 왜 바다에서 왔나",
+        "en": "Why Europe’s “Unicorn Horns” Came from the Sea"
+      },
+      "hook": {
+        "ko": "중세 유럽이 귀하게 보관한 나선형 유니콘 뿔 가운데 많은 것은 실제로 북극해 고래의 이빨이었다. 전설은 가짜 동물보다 진짜 물건의 오해에서 더 오래 살아남았다.",
+        "en": "Many prized “unicorn horns” in medieval Europe were real objects—but they were narwhal teeth from the Arctic. The mystery is how genuine material entered a false zoological story."
+      },
+      "aliases": [],
+      "genre": "Cryptid / Material Culture",
+      "genres": [],
+      "countries": [
+        "Arctic / Europe"
+      ],
+      "regions": [],
+      "era": "medieval–early modern",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "narwhal-tusk-unicorn-v01",
+      "heroFile": {
+        "ko": "narwhal-tusk-unicorn__narwhal-tusk-unicorn-v01__ko.png",
+        "en": "narwhal-tusk-unicorn__narwhal-tusk-unicorn-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -13531,6 +13995,64 @@
       }
     },
     {
+      "canonicalId": "sacramento-airship-1896",
+      "title": {
+        "ko": "1896년 새크라멘토 공중선 소동",
+        "en": "The 1896 Sacramento Airship Reports"
+      },
+      "headline": {
+        "ko": "비행기가 없던 시대, 새크라멘토 하늘의 “공중선”",
+        "en": "The “Airship” Seen Over Sacramento Before Practical Airplanes"
+      },
+      "hook": {
+        "ko": "1896년 11월 캘리포니아 신문들은 새크라멘토 상공을 지나간 조명과 공중선 목격담을 연이어 실었다. 기록은 분명하지만, 그 빛의 정체와 목격담이 하나의 실제 비행체를 가리키는지는 별개다.",
+        "en": "California newspapers in November 1896 carried repeated reports of lights and a supposed airship over Sacramento. The reports are real; the identity of what witnesses saw is not."
+      },
+      "aliases": [],
+      "genre": "Historical Aerial Anomaly",
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "regions": [],
+      "era": "November 1896",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "sacramento-airship-1896-v01",
+      "heroFile": {
+        "ko": "sacramento-airship-1896__sacramento-airship-1896-v01__ko.png",
+        "en": "sacramento-airship-1896__sacramento-airship-1896-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "sailing-stones",
       "title": {
         "ko": "데스밸리 움직이는 돌",
@@ -13701,6 +14223,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "san-jose-galleon-colombia",
+      "title": {
+        "ko": "콜롬비아 산호세 갤리온 탐사",
+        "en": "Colombia’s San José Galleon Investigation"
+      },
+      "headline": {
+        "ko": "“보물선”이 아니라 수중 유적—산호세 갤리온이 다시 쓰이는 중이다",
+        "en": "From “Treasure Ship” to Archaeological Site: Reconstructing the San José"
+      },
+      "hook": {
+        "ko": "1708년 침몰한 산호세 갤리온은 수백 년 뒤 발견됐지만, 정확한 침몰 과정과 선내 물품의 맥락은 아직 연구 중이다. 콜롬비아의 최신 프로젝트는 금액보다 유적 전체의 역사정보를 우선한다.",
+        "en": "The San José sank in 1708 and was found centuries later, but the mechanics of the sinking and the archaeological context of its cargo remain under study. Colombia’s current project emphasizes knowledge over treasure value."
+      },
+      "aliases": [],
+      "genre": "Maritime Archaeology / Lost Wreck",
+      "genres": [],
+      "countries": [
+        "Colombia / Caribbean Sea"
+      ],
+      "regions": [],
+      "era": "1708 wreck / 2015–2026 investigation",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "san-jose-galleon-colombia-v01",
+      "heroFile": {
+        "ko": "san-jose-galleon-colombia__san-jose-galleon-colombia-v01__ko.png",
+        "en": "san-jose-galleon-colombia__san-jose-galleon-colombia-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "heroAlt": {
+        "ko": "핵심 사건·발견·재평가를 시간순으로 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of the key event, discovery, and reassessment."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
