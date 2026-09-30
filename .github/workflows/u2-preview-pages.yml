@@ -61,6 +61,9 @@ jobs:
       - name: Static links
         run: npm run check:static
         working-directory: web
+        env:
+          NEXT_PUBLIC_MYSTERY_ATLAS_BASE_PATH: /MysteryAtlas
+          NEXT_PUBLIC_SITE_URL: https://rhtngudwls2-lang.github.io
 
       - name: Metadata audit
         run: python3 shared/tools/audit_static_metadata.py
