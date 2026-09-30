@@ -2,6 +2,10 @@ name: Mystery Atlas U2 free preview
 on:
   push:
     branches: [work/mystery-atlas-unified-web-mobile-u2]
+    paths-ignore:
+      - ".sync-input/**"
+      - ".github/workflows/u2-one-shot-sync-242-269.yml"
+      - ".github/workflows/u2-preview-pages.yml"
   workflow_dispatch:
 
 permissions:

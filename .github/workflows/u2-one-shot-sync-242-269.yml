@@ -1,0 +1,229 @@
+name: Mystery Atlas one-shot Web242 to Web269 sync
+on:
+  push:
+    branches: [work/mystery-atlas-unified-web-mobile-u2]
+    paths:
+      - ".sync-input/242-to-269/run.trigger"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mystery-atlas-u2-sync-242-269
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Guard authoritative Web242 start
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD^)" = "0d1594471b32a89f121a4243a42e558697651562"
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          idx=json.loads(Path("shared/content/index.json").read_text())
+          man=json.loads(Path("shared/content/visual-manifest.json").read_text())
+          assert len(idx["items"])==242
+          assert len(man["assets"])==1398
+          print("START 242 / 699 / 1398")
+          PY
+
+      - name: Download authoritative Batch45-47 packages
+        shell: bash
+        env:
+          B45_URL: "https://sdmntprseasia.oaiusercontent.com/files/00000000-4668-8207-ba2a-ad25a6afad15/raw?se=2026-09-30T01%3A33%3A03Z&sp=r&sv=2026-02-06&sr=b&scid=ac59429a-6b05-5f00-8b3b-ab8d18070929&skoid=6980ab1e-b994-4668-84de-ad0444c9d08b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-29T22%3A16%3A20Z&ske=2026-09-30T22%3A16%3A20Z&sks=b&skv=2026-02-06&sig=mezz7RslHGEjLcxdUCB27M/AFoCR4nVjXFXCvR2G/9w%3D"
+          B46_URL: "https://sdmntprseasia.oaiusercontent.com/files/00000000-a62c-8207-a3db-2fd181ed613f/raw?se=2026-09-30T01%3A33%3A05Z&sp=r&sv=2026-02-06&sr=b&scid=1e89b05e-357f-5f2e-a135-58dfa25f1bc6&skoid=6980ab1e-b994-4668-84de-ad0444c9d08b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-29T11%3A45%3A37Z&ske=2026-09-30T11%3A45%3A37Z&sks=b&skv=2026-02-06&sig=O9hLlgB2Ad0bziScEJA4tHrUMVOM2lAetEp70hw8hYg%3D"
+          B47_URL: "https://sdmntprseasia.oaiusercontent.com/files/00000000-5258-8207-90f6-80ecc820497f/raw?se=2026-09-30T01%3A33%3A08Z&sp=r&sv=2026-02-06&sr=b&scid=4849e098-649d-5612-a602-e9c2d0e8797b&skoid=6980ab1e-b994-4668-84de-ad0444c9d08b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-09-30T00%3A25%3A32Z&ske=2026-10-01T00%3A25%3A32Z&sks=b&skv=2026-02-06&sig=3%2BAyq1RTr89T/0vldrMzz2SB6/nA8CoJuXhfJQGqmbQ%3D"
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/ma-sync
+          curl -L --fail --retry 3 --retry-delay 2 "$B45_URL" -o /tmp/ma-sync/b45.zip
+          curl -L --fail --retry 3 --retry-delay 2 "$B46_URL" -o /tmp/ma-sync/b46.zip
+          curl -L --fail --retry 3 --retry-delay 2 "$B47_URL" -o /tmp/ma-sync/b47.zip
+          echo "99b048fda2c09341b58b15741f91e7608afb47d4119f3a71bfbff9b585eadb1c  /tmp/ma-sync/b45.zip" | sha256sum -c -
+          echo "d341ab97922f655b19578a3e607b4c18f0dec924b4c0270d5902ce84b230277d  /tmp/ma-sync/b46.zip" | sha256sum -c -
+          echo "8e1719f4135d66324dd79e72e8a59369af0ee50a71a79cef85d1161ea0ab91d1  /tmp/ma-sync/b47.zip" | sha256sum -c -
+
+      - name: Apply and push durable stages
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          verify_counts() {
+            python3 - "$1" "$2" "$3" <<'PY'
+          import json,sys
+          from pathlib import Path
+          ea,eg,ei=map(int,sys.argv[1:4])
+          idx=json.loads(Path("shared/content/index.json").read_text())
+          man=json.loads(Path("shared/content/visual-manifest.json").read_text())
+          got=(len(idx["items"]),len(man["assets"])//2,len(man["assets"]))
+          want=(ea,eg,ei)
+          assert got==want,(got,want)
+          print(got)
+          PY
+          }
+
+          push_stage() {
+            label="$1"; a="$2"; g="$3"; i="$4"
+            rm -rf .sync-checkpoints
+            verify_counts "$a" "$g" "$i"
+            git add shared/content web/src/content/productized-loaders.generated.ts
+            git commit -m "Web U2: sync $label [skip ci]"
+            git push origin "HEAD:work/mystery-atlas-unified-web-mobile-u2"
+            L="$(git rev-parse HEAD)"
+            R="$(git ls-remote origin "refs/heads/work/mystery-atlas-unified-web-mobile-u2" | awk '{print $1}')"
+            test "$L" = "$R"
+            echo "$label REMOTE_DURABLE $L"
+          }
+
+          python3 shared/tools/macro_sync.py --source /tmp/ma-sync/b45.zip --target web --apply
+          push_stage "MediaBatch45 to 249" 249 720 1440
+          python3 shared/tools/macro_sync.py --source /tmp/ma-sync/b46.zip --target web --apply
+          push_stage "MediaBatch46 to 259" 259 750 1500
+          python3 shared/tools/macro_sync.py --source /tmp/ma-sync/b47.zip --target web --apply
+          push_stage "MediaBatch47 to 269" 269 780 1560
+
+      - name: Prepare final Web269 validation and preview workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf .sync-checkpoints
+          cat > .github/workflows/u2-preview-pages.yml <<'YAML'
+          name: Mystery Atlas U2 free preview
+          on:
+            push:
+              branches: [work/mystery-atlas-unified-web-mobile-u2]
+            workflow_dispatch:
+
+          permissions:
+            contents: read
+            pages: write
+            id-token: write
+
+          concurrency:
+            group: mystery-atlas-u2-preview
+            cancel-in-progress: false
+
+          jobs:
+            build-and-preview:
+              runs-on: ubuntu-latest
+              environment:
+                name: github-pages
+                url: ${{ steps.deployment.outputs.page_url }}
+              steps:
+                - uses: actions/checkout@v4
+                - uses: actions/setup-node@v4
+                  with:
+                    node-version: '22'
+                    cache: npm
+                    cache-dependency-path: web/package-lock.json
+                - uses: actions/configure-pages@v5
+                - name: Install
+                  run: npm ci
+                  working-directory: web
+                - name: Content validator
+                  run: python3 shared/tools/sync_content.py
+                - name: Macro-sync tests
+                  run: python3 -m unittest -v test_macro_sync.py
+                  working-directory: shared/tools
+                - name: Lint
+                  run: npm run lint
+                  working-directory: web
+                - name: Typecheck
+                  run: npm run typecheck
+                  working-directory: web
+                - name: Unit
+                  run: npm run test
+                  working-directory: web
+                - name: Build
+                  run: npm run build
+                  working-directory: web
+                  env:
+                    NEXT_PUBLIC_MYSTERY_ATLAS_BASE_PATH: /MysteryAtlas
+                    NEXT_PUBLIC_SITE_URL: https://rhtngudwls2-lang.github.io
+                - name: Static links
+                  run: npm run check:static
+                  working-directory: web
+                - name: Metadata
+                  run: python3 shared/tools/audit_static_metadata.py
+                - name: Verify totals
+                  run: |
+                    python3 - <<'PY'
+                    import json
+                    from pathlib import Path
+                    idx=json.loads(Path("shared/content/index.json").read_text())
+                    man=json.loads(Path("shared/content/visual-manifest.json").read_text())
+                    assert len(idx["items"])==269
+                    assert len(man["assets"])==1560
+                    assert len(man["assets"])//2==780
+                    print("WEB269 COUNTS PASS")
+                    PY
+                - uses: actions/upload-pages-artifact@v3
+                  with:
+                    path: web/out
+                - id: deployment
+                  uses: actions/deploy-pages@v4
+                - name: Install Chromium
+                  run: npx playwright install --with-deps chromium
+                  working-directory: web
+                - name: Deployed browser QA
+                  working-directory: web
+                  env:
+                    PREVIEW_URL: ${{ steps.deployment.outputs.page_url }}
+                  run: |
+                    node --input-type=module <<'NODE'
+                    import { chromium } from "@playwright/test";
+                    const base=(process.env.PREVIEW_URL||"https://rhtngudwls2-lang.github.io/MysteryAtlas/").replace(/\/$/,"");
+                    const browser=await chromium.launch({headless:true});
+                    const page=await browser.newPage();
+                    async function go(path){ const r=await page.goto(base+path,{waitUntil:"networkidle"}); if(!r||!r.ok()) throw new Error(path+" "+r?.status()); }
+                    for(const w of [360,390,430]){
+                      await page.setViewportSize({width:w,height:900});
+                      for(const p of ["/ko/","/ko/explore/","/ko/search/"]){
+                        await go(p);
+                        const x=await page.evaluate(()=>[innerWidth,document.documentElement.scrollWidth]);
+                        if(x[1]>x[0]+1) throw new Error("overflow "+p+" @"+w);
+                      }
+                    }
+                    for(const slug of ["geumgwanchong-isaji-king","dreyfus-1894-affair","dancing-plague-1518","fatima-1917-sun"]){
+                      await go("/ko/cases/"+slug+"/");
+                      if(await page.locator(".u2-hero-visual img").count()===0) throw new Error("hero "+slug);
+                      if(await page.locator("#sources li").count()===0) throw new Error("sources "+slug);
+                    }
+                    await go("/en/cases/fatima-1917-sun/");
+                    await page.locator(".reader-settings > summary").click();
+                    await page.getByRole("group",{name:"Text size"}).getByRole("button",{name:"18"}).click();
+                    if(await page.locator("html").getAttribute("data-reader-size")!=="18") throw new Error("Aa");
+                    await page.locator('.article-languages a[href^="/ko/"]').click();
+                    if(!page.url().includes("/ko/cases/fatima-1917-sun/")) throw new Error("locale");
+                    await go("/en/cases/fatima-1917-sun/");
+                    await page.evaluate(()=>{ window.__copied=""; Object.defineProperty(navigator,"share",{value:undefined,configurable:true}); Object.defineProperty(navigator,"clipboard",{value:{writeText:async(v)=>{window.__copied=v;}},configurable:true}); });
+                    await page.getByRole("button",{name:"Share"}).click();
+                    const copied=await page.evaluate(()=>window.__copied);
+                    if(copied!==page.url().split("#")[0]) throw new Error("share");
+                    await page.evaluate(()=>localStorage.setItem("mystery-atlas-reading-v1",JSON.stringify({canonicalId:"fatima-1917-sun",locale:"en",blockId:"block-intro",updatedAt:Date.now()})));
+                    await go("/en/");
+                    if(await page.locator('section[aria-label="Continue reading"].is-ready').count()===0) throw new Error("continue");
+                    await browser.close();
+                    console.log("BROWSER_QA_PASS");
+                    NODE
+          YAML
+
+          git rm .github/workflows/u2-one-shot-sync-242-269.yml
+          git rm .sync-input/242-to-269/run.trigger
+          git add .github/workflows/u2-preview-pages.yml
+          git commit -m "Validate and deploy Web U2 269 preview"
+          git push origin "HEAD:work/mystery-atlas-unified-web-mobile-u2"
+          L="$(git rev-parse HEAD)"
+          R="$(git ls-remote origin "refs/heads/work/mystery-atlas-unified-web-mobile-u2" | awk '{print $1}')"
+          test "$L" = "$R"
+          echo "FINAL_TRIGGER_HEAD=$L"
