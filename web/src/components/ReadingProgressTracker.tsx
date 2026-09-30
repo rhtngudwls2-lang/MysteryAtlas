@@ -74,7 +74,7 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
 
       const pendingImages = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) => !image.complete);
       let finished = false;
-      let timeout: ReturnType<typeof setTimeout> | undefined;
+      let timeout: ReturnType<typeof setTimeout> | null = null;
 
       const ready = () => {
         if (finished || disposed) return;
