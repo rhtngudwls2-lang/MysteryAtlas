@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "brides-in-the-bath-smith",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "욕조 속 신부들 살인 재판",
+    "canonicalTitleEn": "The Brides in the Bath: Pattern, Trial and Forensic Inference",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "서로 다른 욕조 사망은 어떻게 하나의 살인 패턴이 되었나",
+      "hook": "조지 조지프 스미스 사건에서 결정적인 것은 한 장면을 본 목격자가 아니라, 비슷한 혼인·보험·욕조 사망이 반복됐다는 패턴이었다. 1915년 재판은 “유사 사실”과 법의학 추론이 어떻게 결합되는지 보여준다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "서로 다른 이름과 도시의 죽음",
+          "headingEn": "Deaths Under Different Names in Different Towns",
+          "textKo": "스미스 사건은 처음부터 “연쇄살인”이라는 이름으로 수사된 것이 아니었다. 서로 다른 지역에서 결혼한 여성들이 욕조에서 죽었고, 남편은 다른 이름을 사용했으며 금전적 이익이 뒤따랐다. 개별 사망만 보면 사고나 발작처럼 보일 수 있었지만, 유사한 구조가 겹치면서 경찰과 검찰은 별개의 사건을 하나의 패턴으로 보기 시작했다.",
+          "textEn": "The case did not begin as a neatly labeled serial-murder investigation. Women died in bathtubs in different places after relationships with a man using different identities, and financial benefits followed. Any one death might have resembled an accident or seizure. The investigative shift came when repeating structures made authorities consider the deaths together."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "1915년 재판에서 패턴이 증거가 되다",
+          "headingEn": "Pattern Evidence Entered the 1915 Trial",
+          "textKo": "동시대 「The Sketch」 보도는 Old Bailey 재판에서 Bessie Mundy 사건 뒤 Alice Burnham의 사망이 어떻게 제시됐는지를 보여준다. 검찰은 단순히 “비슷하다”는 인상을 주는 데 그치지 않고 혼인, 보험, 유언, 욕조가 있는 숙소 선택 같은 반복요소를 연결했다. 이 사건은 영국 법사에서 유사사실 증거가 얼마나 강력할 수 있는지를 보여주는 사례로 남았다.",
+          "textEn": "Contemporary coverage in The Sketch shows how the Old Bailey proceedings moved from the Bessie Mundy case to evidence concerning Alice Burnham and other similarities. Prosecutors linked marriage, insurance, wills, money and the selection of lodgings with baths. The importance of the case lies partly in how similar-fact evidence can transform several ambiguous incidents into a coherent prosecution theory."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "법의학 재현의 힘과 한계",
+          "headingEn": "Forensic Reconstruction Had Power and Limits",
+          "textKo": "사건에는 욕조 안에서 사람이 어떻게 의식을 잃고 익사할 수 있는지를 시험하는 재현과 의학적 추론도 등장했다. 그러나 역사적 재판자료를 읽을 때 재현 실험이 모든 개별 사망 순간을 그대로 복원했다고 과장해서는 안 된다. 법정은 여러 정황의 결합으로 판단했고, 현대 독자는 그 추론 구조와 당시 과학수사의 한계를 함께 봐야 한다.",
+          "textEn": "The proceedings included medical reasoning and reconstruction of how a person might be rendered helpless and drown in a bath. Historical retellings should not exaggerate such demonstrations as perfect reproductions of every death. The verdict rested on a combination of circumstances, and modern readers should distinguish the logic of the reconstruction from the limitations of early twentieth-century forensic practice."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "신문 보도는 현장기록이면서도 서사다",
+          "headingEn": "Newspapers Are Records and Narratives",
+          "textKo": "1915년 신문은 법정 장면과 증언을 매우 자세히 전달하지만 선정적 제목과 극적 묘사도 사용했다. 1933년 Papers Past에 실린 회고 역시 사건을 이미 유명한 범죄극으로 다룬다. 따라서 신문은 재판 진행과 당시 사회 반응을 추적하는 귀중한 자료지만, 모든 문장을 중립적 수사기록처럼 취급해서는 안 된다.",
+          "textEn": "Newspapers from 1915 provide unusually detailed accounts of courtroom testimony, but they also use dramatic framing. A 1933 retrospective preserved by Papers Past treats the case as an already famous crime drama. These sources are valuable for following proceedings and public reaction, but their rhetoric should not be mistaken for neutral police documentation."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 사건도 미스터리가 될 수 있다",
+          "headingEn": "A Solved Case Can Still Be a Mystery Story",
+          "textKo": "스미스의 유죄판결 자체는 역사적으로 확정된 결말이다. 그러나 “어떻게 서로 떨어진 죽음들이 하나의 범행 패턴으로 인식됐는가”는 여전히 훌륭한 조사 미스터리다. 이 사건의 초점은 범인이 누구인지 새로 추측하는 데 있지 않고, 반복되는 정황과 법의학이 우연처럼 보이던 사건들을 어떻게 연결했는지를 보여주는 데 있다.",
+          "textEn": "Smith’s conviction is not an open question. The investigative mystery is how deaths that initially appeared separate were recognized as a pattern. Mystery Atlas therefore focuses not on inventing a new suspect but on the evidential process by which repetition, money and forensic inference turned apparent accidents into a murder prosecution."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "“유사사실”은 단순한 소문이 아니라 법정 전략이었다",
+          "headingEn": "Similar-Fact Evidence Was a Legal Strategy, Not Just a Crime Legend",
+          "textKo": "이 사건에서 다른 여성들의 죽음이 언급된 이유는 범죄전설을 풍성하게 만들기 위해서가 아니라, 우연으로 보기 어려운 행동 패턴을 배심원에게 제시하기 위해서였다. 당시 법정은 다른 사건의 자료가 피고인의 성향을 나쁘게 보이게 할 위험과, 특정한 범행 방식과 의도를 밝히는 데 필요한 증거가치를 함께 따져야 했다. 그래서 Brides in the Bath는 범죄사뿐 아니라 증거법의 역사에서도 자주 언급된다. 사건을 읽을 때는 “세 여성이 비슷하게 죽었다”보다 법정이 그 유사성을 어떤 논리로 허용하고 평가했는지가 더 중요하다.",
+          "textEn": "The other deaths were not introduced merely to make the story more sensational. Prosecutors used repeated behavior to argue that coincidence was becoming implausible, while the court had to balance probative value against the danger of simply portraying the defendant as a bad person. That is why the case remains important in the history of evidence law as well as crime history. The key question is not only that several women died in similar circumstances, but how the court justified treating those similarities as legally relevant."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "현대 재검증이 어려운 이유",
+          "headingEn": "Why Modern Re-testing Is Limited",
+          "textKo": "원래 사건의 욕조, 시신, 실험조건과 모든 수사자료를 오늘날 동일하게 재검사할 수는 없다. 따라서 현대 독자는 1915년 법정이 사용할 수 있었던 증거의 조합을 평가해야지, 현재 기술로 새 부검을 한 것처럼 말해서는 안 된다. 사건의 결론은 확정됐지만 증거를 읽는 방식에는 시대적 한계가 남는다.",
+          "textEn": "The original baths, bodies, experimental conditions and complete investigative record cannot be re-examined today as if this were a new case. Modern readers must evaluate the combination of evidence available to the 1915 court rather than pretending a contemporary forensic re-autopsy has been performed."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1915년 조지 조지프 스미스의 재판에서 여러 여성의 욕조 사망과 혼인·금전 관계가 함께 제시됐고, 동시대 신문은 Bessie Mundy 사건과 Alice Burnham 등 다른 사망의 유사성을 상세히 보도했다.\n\nNOT ESTABLISHED: 각 사망 순간을 직접 본 목격자가 있었던 것은 아니며, 모든 세부를 오늘날의 법의학 기준으로 다시 검증할 수 있는 것은 아니다. 유사성은 강한 정황증거지만 단순한 반복 자체가 자동으로 살인을 증명하는 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: At George Joseph Smith’s 1915 trial, multiple bathtub deaths and related patterns of marriage and money were presented together; contemporary reporting described the Bessie Mundy case and similarities involving Alice Burnham and others.\n\nNOT ESTABLISHED: There was no eyewitness to every fatal moment, and not every detail can be retested to modern forensic standards. Pattern evidence can be powerful circumstantial evidence without being identical to direct observation."
+        }
+      ],
+      "factBoundary": {
+        "established": "1915년 조지 조지프 스미스의 재판에서 여러 여성의 욕조 사망과 혼인·금전 관계가 함께 제시됐고, 동시대 신문은 Bessie Mundy 사건과 Alice Burnham 등 다른 사망의 유사성을 상세히 보도했다.",
+        "notEstablished": "각 사망 순간을 직접 본 목격자가 있었던 것은 아니며, 모든 세부를 오늘날의 법의학 기준으로 다시 검증할 수 있는 것은 아니다. 유사성은 강한 정황증거지만 단순한 반복 자체가 자동으로 살인을 증명하는 것은 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "How Separate Bathtub Deaths Became One Murder Pattern",
+      "hook": "The George Joseph Smith case did not turn on an eyewitness to a single killing. Its force came from repeated patterns of marriage, money and bathtub deaths, combined with forensic reconstruction at the 1915 trial.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "서로 다른 이름과 도시의 죽음",
+          "headingEn": "Deaths Under Different Names in Different Towns",
+          "textKo": "스미스 사건은 처음부터 “연쇄살인”이라는 이름으로 수사된 것이 아니었다. 서로 다른 지역에서 결혼한 여성들이 욕조에서 죽었고, 남편은 다른 이름을 사용했으며 금전적 이익이 뒤따랐다. 개별 사망만 보면 사고나 발작처럼 보일 수 있었지만, 유사한 구조가 겹치면서 경찰과 검찰은 별개의 사건을 하나의 패턴으로 보기 시작했다.",
+          "textEn": "The case did not begin as a neatly labeled serial-murder investigation. Women died in bathtubs in different places after relationships with a man using different identities, and financial benefits followed. Any one death might have resembled an accident or seizure. The investigative shift came when repeating structures made authorities consider the deaths together."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "1915년 재판에서 패턴이 증거가 되다",
+          "headingEn": "Pattern Evidence Entered the 1915 Trial",
+          "textKo": "동시대 「The Sketch」 보도는 Old Bailey 재판에서 Bessie Mundy 사건 뒤 Alice Burnham의 사망이 어떻게 제시됐는지를 보여준다. 검찰은 단순히 “비슷하다”는 인상을 주는 데 그치지 않고 혼인, 보험, 유언, 욕조가 있는 숙소 선택 같은 반복요소를 연결했다. 이 사건은 영국 법사에서 유사사실 증거가 얼마나 강력할 수 있는지를 보여주는 사례로 남았다.",
+          "textEn": "Contemporary coverage in The Sketch shows how the Old Bailey proceedings moved from the Bessie Mundy case to evidence concerning Alice Burnham and other similarities. Prosecutors linked marriage, insurance, wills, money and the selection of lodgings with baths. The importance of the case lies partly in how similar-fact evidence can transform several ambiguous incidents into a coherent prosecution theory."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "법의학 재현의 힘과 한계",
+          "headingEn": "Forensic Reconstruction Had Power and Limits",
+          "textKo": "사건에는 욕조 안에서 사람이 어떻게 의식을 잃고 익사할 수 있는지를 시험하는 재현과 의학적 추론도 등장했다. 그러나 역사적 재판자료를 읽을 때 재현 실험이 모든 개별 사망 순간을 그대로 복원했다고 과장해서는 안 된다. 법정은 여러 정황의 결합으로 판단했고, 현대 독자는 그 추론 구조와 당시 과학수사의 한계를 함께 봐야 한다.",
+          "textEn": "The proceedings included medical reasoning and reconstruction of how a person might be rendered helpless and drown in a bath. Historical retellings should not exaggerate such demonstrations as perfect reproductions of every death. The verdict rested on a combination of circumstances, and modern readers should distinguish the logic of the reconstruction from the limitations of early twentieth-century forensic practice."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "신문 보도는 현장기록이면서도 서사다",
+          "headingEn": "Newspapers Are Records and Narratives",
+          "textKo": "1915년 신문은 법정 장면과 증언을 매우 자세히 전달하지만 선정적 제목과 극적 묘사도 사용했다. 1933년 Papers Past에 실린 회고 역시 사건을 이미 유명한 범죄극으로 다룬다. 따라서 신문은 재판 진행과 당시 사회 반응을 추적하는 귀중한 자료지만, 모든 문장을 중립적 수사기록처럼 취급해서는 안 된다.",
+          "textEn": "Newspapers from 1915 provide unusually detailed accounts of courtroom testimony, but they also use dramatic framing. A 1933 retrospective preserved by Papers Past treats the case as an already famous crime drama. These sources are valuable for following proceedings and public reaction, but their rhetoric should not be mistaken for neutral police documentation."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 사건도 미스터리가 될 수 있다",
+          "headingEn": "A Solved Case Can Still Be a Mystery Story",
+          "textKo": "스미스의 유죄판결 자체는 역사적으로 확정된 결말이다. 그러나 “어떻게 서로 떨어진 죽음들이 하나의 범행 패턴으로 인식됐는가”는 여전히 훌륭한 조사 미스터리다. 이 사건의 초점은 범인이 누구인지 새로 추측하는 데 있지 않고, 반복되는 정황과 법의학이 우연처럼 보이던 사건들을 어떻게 연결했는지를 보여주는 데 있다.",
+          "textEn": "Smith’s conviction is not an open question. The investigative mystery is how deaths that initially appeared separate were recognized as a pattern. Mystery Atlas therefore focuses not on inventing a new suspect but on the evidential process by which repetition, money and forensic inference turned apparent accidents into a murder prosecution."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "“유사사실”은 단순한 소문이 아니라 법정 전략이었다",
+          "headingEn": "Similar-Fact Evidence Was a Legal Strategy, Not Just a Crime Legend",
+          "textKo": "이 사건에서 다른 여성들의 죽음이 언급된 이유는 범죄전설을 풍성하게 만들기 위해서가 아니라, 우연으로 보기 어려운 행동 패턴을 배심원에게 제시하기 위해서였다. 당시 법정은 다른 사건의 자료가 피고인의 성향을 나쁘게 보이게 할 위험과, 특정한 범행 방식과 의도를 밝히는 데 필요한 증거가치를 함께 따져야 했다. 그래서 Brides in the Bath는 범죄사뿐 아니라 증거법의 역사에서도 자주 언급된다. 사건을 읽을 때는 “세 여성이 비슷하게 죽었다”보다 법정이 그 유사성을 어떤 논리로 허용하고 평가했는지가 더 중요하다.",
+          "textEn": "The other deaths were not introduced merely to make the story more sensational. Prosecutors used repeated behavior to argue that coincidence was becoming implausible, while the court had to balance probative value against the danger of simply portraying the defendant as a bad person. That is why the case remains important in the history of evidence law as well as crime history. The key question is not only that several women died in similar circumstances, but how the court justified treating those similarities as legally relevant."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "현대 재검증이 어려운 이유",
+          "headingEn": "Why Modern Re-testing Is Limited",
+          "textKo": "원래 사건의 욕조, 시신, 실험조건과 모든 수사자료를 오늘날 동일하게 재검사할 수는 없다. 따라서 현대 독자는 1915년 법정이 사용할 수 있었던 증거의 조합을 평가해야지, 현재 기술로 새 부검을 한 것처럼 말해서는 안 된다. 사건의 결론은 확정됐지만 증거를 읽는 방식에는 시대적 한계가 남는다.",
+          "textEn": "The original baths, bodies, experimental conditions and complete investigative record cannot be re-examined today as if this were a new case. Modern readers must evaluate the combination of evidence available to the 1915 court rather than pretending a contemporary forensic re-autopsy has been performed."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1915년 조지 조지프 스미스의 재판에서 여러 여성의 욕조 사망과 혼인·금전 관계가 함께 제시됐고, 동시대 신문은 Bessie Mundy 사건과 Alice Burnham 등 다른 사망의 유사성을 상세히 보도했다.\n\nNOT ESTABLISHED: 각 사망 순간을 직접 본 목격자가 있었던 것은 아니며, 모든 세부를 오늘날의 법의학 기준으로 다시 검증할 수 있는 것은 아니다. 유사성은 강한 정황증거지만 단순한 반복 자체가 자동으로 살인을 증명하는 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: At George Joseph Smith’s 1915 trial, multiple bathtub deaths and related patterns of marriage and money were presented together; contemporary reporting described the Bessie Mundy case and similarities involving Alice Burnham and others.\n\nNOT ESTABLISHED: There was no eyewitness to every fatal moment, and not every detail can be retested to modern forensic standards. Pattern evidence can be powerful circumstantial evidence without being identical to direct observation."
+        }
+      ],
+      "factBoundary": {
+        "established": "At George Joseph Smith’s 1915 trial, multiple bathtub deaths and related patterns of marriage and money were presented together; contemporary reporting described the Bessie Mundy case and similarities involving Alice Burnham and others.",
+        "notEstablished": "There was no eyewitness to every fatal moment, and not every detail can be retested to modern forensic standards. Pattern evidence can be powerful circumstantial evidence without being identical to direct observation."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "BRIDES_IN_THE_BATH_SMITH-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1915년 조지 조지프 스미스의 재판에서 여러 여성의 욕조 사망과 혼인·금전 관계가 함께 제시됐고, 동시대 신문은 Bessie Mundy 사건과 Alice Burnham 등 다른 사망의 유사성을 상세히 보도했다.",
+      "statementEn": "At George Joseph Smith’s 1915 trial, multiple bathtub deaths and related patterns of marriage and money were presented together; contemporary reporting described the Bessie Mundy case and similarities involving Alice Burnham and others.",
+      "sourceRefs": [
+        "SKETCH_1915",
+        "PAPERS_PAST_1933"
+      ]
+    },
+    {
+      "claimId": "BRIDES_IN_THE_BATH_SMITH-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "각 사망 순간을 직접 본 목격자가 있었던 것은 아니며, 모든 세부를 오늘날의 법의학 기준으로 다시 검증할 수 있는 것은 아니다. 유사성은 강한 정황증거지만 단순한 반복 자체가 자동으로 살인을 증명하는 것은 아니다.",
+      "statementEn": "There was no eyewitness to every fatal moment, and not every detail can be retested to modern forensic standards. Pattern evidence can be powerful circumstantial evidence without being identical to direct observation.",
+      "sourceRefs": [
+        "SKETCH_1915",
+        "PAPERS_PAST_1933"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SKETCH_1915",
+      "title": "The Sketch, 26 June 1915 — Brides in the Bath trial coverage",
+      "publisher": "Library of Congress / World Digital Library scan",
+      "url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/19/14/6/wdl_19146/wdl_19146.pdf",
+      "sourceType": "CONTEMPORARY_NEWSPAPER"
+    },
+    {
+      "sourceId": "PAPERS_PAST_1933",
+      "title": "Brides in the Bath Case — trial retrospective",
+      "publisher": "National Library of New Zealand, Papers Past",
+      "url": "https://paperspast.natlib.govt.nz/newspapers/TS19330923.2.154.24",
+      "sourceType": "HISTORICAL_NEWSPAPER"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "brides-in-the-bath-smith-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록과 조사 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key records and investigative sequence.",
+      "altKo": "핵심 기록과 조사 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key records and investigative sequence.",
+      "sourceRefs": [
+        "SKETCH_1915",
+        "PAPERS_PAST_1933"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "brides-in-the-bath-smith__brides-in-the-bath-smith-v01__ko.png",
+          "sha256": "e84c13bd37a64832c0f5f476b7fd739ed19d51749a473da8376e5995a6669f6b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "brides-in-the-bath-smith__brides-in-the-bath-smith-v01__ko.png"
+        },
+        "en": {
+          "file": "brides-in-the-bath-smith__brides-in-the-bath-smith-v01__en.png",
+          "sha256": "b38ad0f31203f03684668ad8950a20cba549ca5c5d8d230e22feb39c6afef5f3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "brides-in-the-bath-smith__brides-in-the-bath-smith-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "brides-in-the-bath-smith-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "SKETCH_1915",
+        "PAPERS_PAST_1933"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "brides-in-the-bath-smith__brides-in-the-bath-smith-v02__ko.png",
+          "sha256": "3a39e0e33939bb58671e6d183166e241c733a72b76680d93d764c1ccf855ac86",
+          "width": 1600,
+          "height": 900,
+          "fileName": "brides-in-the-bath-smith__brides-in-the-bath-smith-v02__ko.png"
+        },
+        "en": {
+          "file": "brides-in-the-bath-smith__brides-in-the-bath-smith-v02__en.png",
+          "sha256": "fbe6f6b1f371a71a509b73303528d51cada842f6c8e6dd8943a43053e739c784",
+          "width": 1600,
+          "height": 900,
+          "fileName": "brides-in-the-bath-smith__brides-in-the-bath-smith-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "brides-in-the-bath-smith-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to central claims.",
+      "sourceRefs": [
+        "SKETCH_1915",
+        "PAPERS_PAST_1933"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "brides-in-the-bath-smith__brides-in-the-bath-smith-v03__ko.png",
+          "sha256": "9778203b718fd657f7118584918914ec851db7f347565a971f3adc4ee472a8fd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "brides-in-the-bath-smith__brides-in-the-bath-smith-v03__ko.png"
+        },
+        "en": {
+          "file": "brides-in-the-bath-smith__brides-in-the-bath-smith-v03__en.png",
+          "sha256": "c7e1cd4914c137397eaa0caf71c1ada659cd1ed71053bb999e59ad81be355b4a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "brides-in-the-bath-smith__brides-in-the-bath-smith-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United Kingdom",
+    "era": "1912–1915",
+    "genre": "Crime / Investigation",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Crime / Investigation",
+    "resolution": "unknown",
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1658,
+    "enBodyWords": 475
+  }
+}

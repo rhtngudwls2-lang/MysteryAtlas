@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "orford-wild-man",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "오포드 바다의 야인 기록",
+    "canonicalTitleEn": "The Wild Man of Orford: Chronicle, Captivity and Legend",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "어부들이 잡았다는 “바다 야인”은 기록인가, 전설인가",
+      "hook": "랠프 오브 코게셜은 어부들이 인간처럼 보이는 야인을 잡아 오포드 성의 관리에게 데려왔다고 기록했다. 기록은 실제로 남아 있지만, 포로의 정체와 사건의 물리적 진실은 연대기 밖에서 확인되지 않는다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "연대기 속 한 문장으로 시작된 사건",
+          "headingEn": "A Chronicle Is the Starting Point",
+          "textKo": "English Heritage가 인용하는 랠프 오브 코게셜의 기록은 어부들이 그물에 걸린 “야인”을 붙잡아 오포드의 성 관리에게 데려왔다고 전한다. 이 이야기는 성과 지역 전승에 깊게 남았지만, 출발점은 현대의 목격사진이나 표본이 아니라 중세 연대기다. 사건을 읽을 때는 먼저 “기록이 존재한다”와 “기록된 생물이 실제로 존재했다”를 분리해야 한다.",
+          "textEn": "English Heritage quotes Ralph of Coggeshall’s account that fishermen caught a “wild man” in their nets and brought him to Orford’s castellan. The story became embedded in the castle’s local tradition, but its starting point is a medieval chronicle, not a specimen, photograph or modern investigation. The existence of the text must be separated from the literal existence of the creature it describes."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "포로와 고문의 서사는 무엇을 말하나",
+          "headingEn": "Captivity and Cruelty Complicate the Tale",
+          "textKo": "후대 소개에 따르면 야인은 말을 하지 않았고 육지 생활에 적응하지 않는 듯 보였으며 감금과 가혹한 대우를 받은 뒤 결국 바다로 달아났다고 전해진다. 이 부분은 미지의 생물 이야기이면서 동시에 낯선 인간을 공동체가 어떻게 다뤘는지 보여주는 불편한 기록이다. 설령 실존 인물이었더라도 그의 상태와 출신을 판정할 현대 의학·언어학 정보는 없다.",
+          "textEn": "Later summaries say the captive did not speak, seemed poorly adapted to life on land, was harshly treated and eventually escaped back to the sea. The episode can therefore be read not only as a monster story but as an uncomfortable story about how a community treated an unfamiliar being. Even if the captive was a real person, there is no modern medical or linguistic evidence from which to identify him."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "연대기 작성자도 결론을 내리지 않았다",
+          "headingEn": "The Chronicler Did Not Claim Certainty",
+          "textKo": "흥미롭게도 코게셜의 서술 자체가 정체를 확정하지 않는다. English Heritage는 그가 “필멸의 인간인지 인간 모습을 한 물고기인지 판단하기 쉽지 않다”고 숙고했다고 소개한다. 후대 독자가 바다괴물이나 인어로 단정하는 것보다 원문 전통이 더 조심스러운 셈이다. 불확실성은 현대 편집자가 새로 만든 것이 아니다.",
+          "textEn": "The most revealing detail is that Ralph’s tradition did not confidently classify the captive. English Heritage notes his reflection that it was difficult to decide whether the being was a mortal man or a fish assuming human form. That uncertainty is older than modern skepticism; later retellings can actually sound more certain than the medieval source."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대 상징과 사건의 거리는 멀다",
+          "headingEn": "Later Symbols Are Not Eyewitness Portraits",
+          "textKo": "오포드 지역에는 야인 형상이 교회 조각과 지역 문화에 남아 있지만, Orford Museum은 많은 woodwose 조각이 훨씬 뒤인 15세기에 만들어졌다고 지적한다. 지역 전승이 시각적 상징으로 재생산됐다는 점은 확인할 수 있어도, 조각을 12세기 포로의 초상처럼 다루면 시간 순서가 뒤집힌다.",
+          "textEn": "Orford’s wild-man imagery survived in local culture, including church carvings, but Orford Museum notes that many such woodwose carvings were made much later, in the fifteenth century. Their existence shows the persistence of the legend, not a visual record made from the captive in the twelfth century."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "남는 질문은 정체가 아니라 기록의 층위다",
+          "headingEn": "The Puzzle Is the Layering of Evidence",
+          "textKo": "야인이 실제로 누구였는지는 현재 자료로 해결하기 어렵다. 난파자, 장애나 질환이 있던 사람, 전설적 창작, 또는 전혀 다른 사건의 변형 등 여러 가능성이 열려 있다. 미스터리 아틀라스가 보존할 것은 괴물 단정이 아니라 연대기·지역기억·후대 상징이 어떻게 한 전설을 만들었는지의 증거 경계다.",
+          "textEn": "The captive’s identity is unlikely to be recoverable. A castaway, a vulnerable person, a literary marvel or a transformed event remain possibilities. The evidentially responsible mystery is how chronicle, local memory and later imagery combined into a durable legend without pretending that any one explanation has been demonstrated."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "연대와 세부는 후대 소개에서 흔들린다",
+          "headingEn": "Dates and Details Become Sharper in Later Retellings",
+          "textKo": "오포드 야인 이야기는 자료마다 포획 연도를 1160년대 후반으로 잡기도 하고 코게셜이 기록한 시점을 1207년경으로 설명하기도 한다. 이런 차이는 “사건 날짜”와 “기록 작성·전승 날짜”를 섞을 때 생기기 쉽다. 또한 감금 기간, 교회 방문, 먹이와 행동에 관한 세부도 후대 요약에서 더 또렷해지는 경향이 있다. 따라서 기사에서는 연대기의 존재와 핵심 서사를 확정층으로 두고, 세부 연표와 생물학적 정체는 낮은 확실성으로 유지해야 한다.",
+          "textEn": "Sources sometimes place the supposed capture in the later 1160s while describing Ralph of Coggeshall’s written report around 1207. This illustrates how event dates and recording dates can become conflated. Details about the duration of captivity, church attendance, diet and behavior also tend to become more definite in later summaries. The chronicle and its core narrative belong in the strongest layer; the precise chronology and biological identity belong in a lower-confidence layer."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "정체를 좁힐 수 있는 자료는 남아 있지 않다",
+          "headingEn": "What Evidence Could Narrow the Identity?",
+          "textKo": "만약 당시의 행정기록, 포로의 신체 특징을 독립적으로 기록한 문서, 매장·의료 기록 같은 자료가 발견된다면 실제 인물 여부를 훨씬 구체적으로 검토할 수 있다. 현재는 연대기와 후대 지역전승이 핵심이므로 생물학적 종이나 정확한 출신을 특정하는 단계까지 나아갈 수 없다.",
+          "textEn": "Administrative records, independent descriptions of the captive’s body, or medical or burial evidence could materially change the case. At present the chronicle and later local tradition dominate, so the evidence cannot support a biological species identification or a precise origin for the captive."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: English Heritage는 랠프 오브 코게셜이 1207년경 어부들이 그물로 “야인”을 잡아 성 관리에게 데려왔다고 기록했음을 소개하며, 연대기 자체가 이 인물이 사람인지 인간 형태의 물고기인지 결론 내리기 어렵다고 적었다고 전한다.\n\nNOT ESTABLISHED: 포로가 실제 미지의 수중 인간이었는지, 정확히 얼마나 오래 감금됐는지, 후대 교회 조각이 이 사건을 직접 묘사한 것인지는 확인되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: English Heritage notes Ralph of Coggeshall’s report that fishermen caught a “wild man” and brought him to Orford’s castellan, and that the chronicler himself said it was difficult to decide whether he was a man or a fish in human form.\n\nNOT ESTABLISHED: The surviving material does not establish that the captive was an unknown aquatic human, the exact duration of captivity, or that later church carvings were direct portraits of the episode."
+        }
+      ],
+      "factBoundary": {
+        "established": "English Heritage는 랠프 오브 코게셜이 1207년경 어부들이 그물로 “야인”을 잡아 성 관리에게 데려왔다고 기록했음을 소개하며, 연대기 자체가 이 인물이 사람인지 인간 형태의 물고기인지 결론 내리기 어렵다고 적었다고 전한다.",
+        "notEstablished": "포로가 실제 미지의 수중 인간이었는지, 정확히 얼마나 오래 감금됐는지, 후대 교회 조각이 이 사건을 직접 묘사한 것인지는 확인되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Orford’s “Wild Man of the Sea”: Chronicle or Creature?",
+      "hook": "Ralph of Coggeshall recorded that fishermen caught a human-like “wild man” and brought him to the castellan at Orford. The chronicle survives; the prisoner’s identity and the literal physical event do not have independent confirmation.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "연대기 속 한 문장으로 시작된 사건",
+          "headingEn": "A Chronicle Is the Starting Point",
+          "textKo": "English Heritage가 인용하는 랠프 오브 코게셜의 기록은 어부들이 그물에 걸린 “야인”을 붙잡아 오포드의 성 관리에게 데려왔다고 전한다. 이 이야기는 성과 지역 전승에 깊게 남았지만, 출발점은 현대의 목격사진이나 표본이 아니라 중세 연대기다. 사건을 읽을 때는 먼저 “기록이 존재한다”와 “기록된 생물이 실제로 존재했다”를 분리해야 한다.",
+          "textEn": "English Heritage quotes Ralph of Coggeshall’s account that fishermen caught a “wild man” in their nets and brought him to Orford’s castellan. The story became embedded in the castle’s local tradition, but its starting point is a medieval chronicle, not a specimen, photograph or modern investigation. The existence of the text must be separated from the literal existence of the creature it describes."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "포로와 고문의 서사는 무엇을 말하나",
+          "headingEn": "Captivity and Cruelty Complicate the Tale",
+          "textKo": "후대 소개에 따르면 야인은 말을 하지 않았고 육지 생활에 적응하지 않는 듯 보였으며 감금과 가혹한 대우를 받은 뒤 결국 바다로 달아났다고 전해진다. 이 부분은 미지의 생물 이야기이면서 동시에 낯선 인간을 공동체가 어떻게 다뤘는지 보여주는 불편한 기록이다. 설령 실존 인물이었더라도 그의 상태와 출신을 판정할 현대 의학·언어학 정보는 없다.",
+          "textEn": "Later summaries say the captive did not speak, seemed poorly adapted to life on land, was harshly treated and eventually escaped back to the sea. The episode can therefore be read not only as a monster story but as an uncomfortable story about how a community treated an unfamiliar being. Even if the captive was a real person, there is no modern medical or linguistic evidence from which to identify him."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "연대기 작성자도 결론을 내리지 않았다",
+          "headingEn": "The Chronicler Did Not Claim Certainty",
+          "textKo": "흥미롭게도 코게셜의 서술 자체가 정체를 확정하지 않는다. English Heritage는 그가 “필멸의 인간인지 인간 모습을 한 물고기인지 판단하기 쉽지 않다”고 숙고했다고 소개한다. 후대 독자가 바다괴물이나 인어로 단정하는 것보다 원문 전통이 더 조심스러운 셈이다. 불확실성은 현대 편집자가 새로 만든 것이 아니다.",
+          "textEn": "The most revealing detail is that Ralph’s tradition did not confidently classify the captive. English Heritage notes his reflection that it was difficult to decide whether the being was a mortal man or a fish assuming human form. That uncertainty is older than modern skepticism; later retellings can actually sound more certain than the medieval source."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "후대 상징과 사건의 거리는 멀다",
+          "headingEn": "Later Symbols Are Not Eyewitness Portraits",
+          "textKo": "오포드 지역에는 야인 형상이 교회 조각과 지역 문화에 남아 있지만, Orford Museum은 많은 woodwose 조각이 훨씬 뒤인 15세기에 만들어졌다고 지적한다. 지역 전승이 시각적 상징으로 재생산됐다는 점은 확인할 수 있어도, 조각을 12세기 포로의 초상처럼 다루면 시간 순서가 뒤집힌다.",
+          "textEn": "Orford’s wild-man imagery survived in local culture, including church carvings, but Orford Museum notes that many such woodwose carvings were made much later, in the fifteenth century. Their existence shows the persistence of the legend, not a visual record made from the captive in the twelfth century."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "남는 질문은 정체가 아니라 기록의 층위다",
+          "headingEn": "The Puzzle Is the Layering of Evidence",
+          "textKo": "야인이 실제로 누구였는지는 현재 자료로 해결하기 어렵다. 난파자, 장애나 질환이 있던 사람, 전설적 창작, 또는 전혀 다른 사건의 변형 등 여러 가능성이 열려 있다. 미스터리 아틀라스가 보존할 것은 괴물 단정이 아니라 연대기·지역기억·후대 상징이 어떻게 한 전설을 만들었는지의 증거 경계다.",
+          "textEn": "The captive’s identity is unlikely to be recoverable. A castaway, a vulnerable person, a literary marvel or a transformed event remain possibilities. The evidentially responsible mystery is how chronicle, local memory and later imagery combined into a durable legend without pretending that any one explanation has been demonstrated."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "연대와 세부는 후대 소개에서 흔들린다",
+          "headingEn": "Dates and Details Become Sharper in Later Retellings",
+          "textKo": "오포드 야인 이야기는 자료마다 포획 연도를 1160년대 후반으로 잡기도 하고 코게셜이 기록한 시점을 1207년경으로 설명하기도 한다. 이런 차이는 “사건 날짜”와 “기록 작성·전승 날짜”를 섞을 때 생기기 쉽다. 또한 감금 기간, 교회 방문, 먹이와 행동에 관한 세부도 후대 요약에서 더 또렷해지는 경향이 있다. 따라서 기사에서는 연대기의 존재와 핵심 서사를 확정층으로 두고, 세부 연표와 생물학적 정체는 낮은 확실성으로 유지해야 한다.",
+          "textEn": "Sources sometimes place the supposed capture in the later 1160s while describing Ralph of Coggeshall’s written report around 1207. This illustrates how event dates and recording dates can become conflated. Details about the duration of captivity, church attendance, diet and behavior also tend to become more definite in later summaries. The chronicle and its core narrative belong in the strongest layer; the precise chronology and biological identity belong in a lower-confidence layer."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "정체를 좁힐 수 있는 자료는 남아 있지 않다",
+          "headingEn": "What Evidence Could Narrow the Identity?",
+          "textKo": "만약 당시의 행정기록, 포로의 신체 특징을 독립적으로 기록한 문서, 매장·의료 기록 같은 자료가 발견된다면 실제 인물 여부를 훨씬 구체적으로 검토할 수 있다. 현재는 연대기와 후대 지역전승이 핵심이므로 생물학적 종이나 정확한 출신을 특정하는 단계까지 나아갈 수 없다.",
+          "textEn": "Administrative records, independent descriptions of the captive’s body, or medical or burial evidence could materially change the case. At present the chronicle and later local tradition dominate, so the evidence cannot support a biological species identification or a precise origin for the captive."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: English Heritage는 랠프 오브 코게셜이 1207년경 어부들이 그물로 “야인”을 잡아 성 관리에게 데려왔다고 기록했음을 소개하며, 연대기 자체가 이 인물이 사람인지 인간 형태의 물고기인지 결론 내리기 어렵다고 적었다고 전한다.\n\nNOT ESTABLISHED: 포로가 실제 미지의 수중 인간이었는지, 정확히 얼마나 오래 감금됐는지, 후대 교회 조각이 이 사건을 직접 묘사한 것인지는 확인되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: English Heritage notes Ralph of Coggeshall’s report that fishermen caught a “wild man” and brought him to Orford’s castellan, and that the chronicler himself said it was difficult to decide whether he was a man or a fish in human form.\n\nNOT ESTABLISHED: The surviving material does not establish that the captive was an unknown aquatic human, the exact duration of captivity, or that later church carvings were direct portraits of the episode."
+        }
+      ],
+      "factBoundary": {
+        "established": "English Heritage notes Ralph of Coggeshall’s report that fishermen caught a “wild man” and brought him to Orford’s castellan, and that the chronicler himself said it was difficult to decide whether he was a man or a fish in human form.",
+        "notEstablished": "The surviving material does not establish that the captive was an unknown aquatic human, the exact duration of captivity, or that later church carvings were direct portraits of the episode."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ORFORD_WILD_MAN-C1",
+      "status": "CONFIRMED",
+      "statementKo": "English Heritage는 랠프 오브 코게셜이 1207년경 어부들이 그물로 “야인”을 잡아 성 관리에게 데려왔다고 기록했음을 소개하며, 연대기 자체가 이 인물이 사람인지 인간 형태의 물고기인지 결론 내리기 어렵다고 적었다고 전한다.",
+      "statementEn": "English Heritage notes Ralph of Coggeshall’s report that fishermen caught a “wild man” and brought him to Orford’s castellan, and that the chronicler himself said it was difficult to decide whether he was a man or a fish in human form.",
+      "sourceRefs": [
+        "EH_ORFORD",
+        "ORFORD_MUSEUM"
+      ]
+    },
+    {
+      "claimId": "ORFORD_WILD_MAN-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "포로가 실제 미지의 수중 인간이었는지, 정확히 얼마나 오래 감금됐는지, 후대 교회 조각이 이 사건을 직접 묘사한 것인지는 확인되지 않는다.",
+      "statementEn": "The surviving material does not establish that the captive was an unknown aquatic human, the exact duration of captivity, or that later church carvings were direct portraits of the episode.",
+      "sourceRefs": [
+        "EH_ORFORD",
+        "ORFORD_MUSEUM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "EH_ORFORD",
+      "title": "History of Orford Castle — Orford’s Wild Man of the Sea",
+      "publisher": "English Heritage",
+      "url": "https://www.english-heritage.org.uk/visit/places/orford-castle/history/",
+      "sourceType": "HERITAGE_HISTORY"
+    },
+    {
+      "sourceId": "ORFORD_MUSEUM",
+      "title": "Orford Castle — The Wildman of Orford",
+      "publisher": "Orford Museum",
+      "url": "https://orfordmuseum.org.uk/orford-castle/",
+      "sourceType": "LOCAL_MUSEUM_HISTORY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "orford-wild-man-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록과 조사 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key records and investigative sequence.",
+      "altKo": "핵심 기록과 조사 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key records and investigative sequence.",
+      "sourceRefs": [
+        "EH_ORFORD",
+        "ORFORD_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "orford-wild-man__orford-wild-man-v01__ko.png",
+          "sha256": "47918889768111057500baec597a442f387ac90b4e310bb6feb30d97249fd15c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "orford-wild-man__orford-wild-man-v01__ko.png"
+        },
+        "en": {
+          "file": "orford-wild-man__orford-wild-man-v01__en.png",
+          "sha256": "e703332ae3462b581d38b2b9d0b7d38cf3b912537c20bd2fdf50228034792e91",
+          "width": 1600,
+          "height": 900,
+          "fileName": "orford-wild-man__orford-wild-man-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "orford-wild-man-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "EH_ORFORD",
+        "ORFORD_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "orford-wild-man__orford-wild-man-v02__ko.png",
+          "sha256": "a6fedcc3e64bec8fdb730fab655dcbb89cbfe15b6407b7bd45e92cc42d868812",
+          "width": 1600,
+          "height": 900,
+          "fileName": "orford-wild-man__orford-wild-man-v02__ko.png"
+        },
+        "en": {
+          "file": "orford-wild-man__orford-wild-man-v02__en.png",
+          "sha256": "e29c4a4787b38ae54197fb51a2f18f1abcaf5581e7627afaf4c31c0c65a10569",
+          "width": 1600,
+          "height": 900,
+          "fileName": "orford-wild-man__orford-wild-man-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "orford-wild-man-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to central claims.",
+      "sourceRefs": [
+        "EH_ORFORD",
+        "ORFORD_MUSEUM"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "orford-wild-man__orford-wild-man-v03__ko.png",
+          "sha256": "7f394ee646c194db4eb54e91155378152e1bbd08257370687121a62c4af8bd40",
+          "width": 1600,
+          "height": 900,
+          "fileName": "orford-wild-man__orford-wild-man-v03__ko.png"
+        },
+        "en": {
+          "file": "orford-wild-man__orford-wild-man-v03__en.png",
+          "sha256": "b58d1c0f779be1e1e5218e06d74167670884aee78df567e3d76bc3dc717f848f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "orford-wild-man__orford-wild-man-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "England",
+    "era": "reported by Ralph of Coggeshall, c. 1207",
+    "genre": "Paranormal / Haunting / Folklore",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "resolution": "unknown",
+    "countries": [
+      "England"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1532,
+    "enBodyWords": 476
+  }
+}

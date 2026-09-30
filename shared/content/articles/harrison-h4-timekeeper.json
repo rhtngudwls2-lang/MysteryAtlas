@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "harrison-h4-timekeeper",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "해리슨 H4와 경도 문제",
+    "canonicalTitleEn": "Harrison H4 and the Longitude Problem",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "바다에서 경도를 찾는 문제는 어떻게 시계 하나로 풀렸나",
+      "hook": "바다에서 동서 위치를 정확히 구하는 문제는 수백 년간 항해의 난제였다. 존 해리슨의 H4는 1759년 완성되고 해상 시험에서 기준을 충족했지만, 해결은 한 번의 “유레카”가 아니라 기술·검증·보상 논쟁의 긴 과정이었다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "바다에서 동서 위치를 모른다는 문제",
+          "headingEn": "The East-West Problem at Sea",
+          "textKo": "위도는 태양과 별의 고도로 비교적 잘 구할 수 있었지만, 경도는 정확한 기준시간과 현지시간의 차이를 알아야 했다. 시계가 배의 흔들림·온도·습도 속에서 오차를 누적하면 위치 계산도 빠르게 틀어졌다. 1714년 영국 경도법은 충분한 정확도로 경도를 구하는 방법에 큰 상금을 걸었고, 이 문제는 천문학과 정밀기계공학의 경쟁장이 됐다.",
+          "textEn": "Latitude could be estimated from the altitude of the Sun or stars, but longitude required comparing local time with a reliable reference time. If a clock accumulated error under ship motion, temperature change and humidity, the position estimate drifted as well. Britain’s 1714 Longitude Act offered major rewards for a sufficiently accurate method, turning the problem into a competition between astronomy and precision engineering."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "H1에서 H3까지 실패가 쌓였다",
+          "headingEn": "H1, H2 and H3 Were Necessary Failures",
+          "textKo": "존 해리슨은 한 번에 H4를 만든 것이 아니다. Royal Museums Greenwich 자료는 그가 H1, H2, H3를 거치며 해상용 시계의 구조와 진동계를 바꾸고 수십 년간 문제를 수정했다고 설명한다. H3에는 19년 가까운 작업이 들어갔지만 목표 정확도에 충분히 도달하지 못했다. 실패한 기계들이 H4의 설계로 가는 실험실 역할을 했다.",
+          "textEn": "John Harrison did not jump directly to H4. Royal Museums Greenwich describes decades of work on H1, H2 and H3, changing mechanisms and oscillators as problems emerged. H3 alone consumed nearly nineteen years and still did not reach the desired practical performance. Those imperfect machines functioned as an extended experimental program leading toward the eventual design."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "거대한 시계에서 큰 회중시계로",
+          "headingEn": "From Large Sea Clocks to a Large Watch",
+          "textKo": "1750년대 해리슨은 존 제퍼리스가 만든 정밀 시계의 성공을 바탕으로 훨씬 작은 H4에 방향을 틀었다. H4는 1759년에 완성됐고 높은 주파수의 안정적인 밸런스를 사용했다. 당시 일반적인 회중시계는 정밀 항법도구로 여겨지지 않았다는 점에서 이 선택은 예상 밖이었다. 해결책은 더 거대한 기계가 아니라 작지만 빠르게 진동하는 시계였다.",
+          "textEn": "In the 1750s Harrison drew on the success of a precision watch made by John Jefferys and shifted toward the much smaller H4. Completed in 1759, it used a stable high-frequency balance. At a time when ordinary pocket watches were not regarded as serious navigation instruments, the conceptual move was striking: the successful direction was not an even larger machine but a smaller, faster-oscillating one."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "시험 통과 뒤에도 싸움은 끝나지 않았다",
+          "headingEn": "Passing the Trial Did Not End the Dispute",
+          "textKo": "해상시험에서 H4는 경도법이 요구한 엄격한 정확도 기준을 충족했다. 그러나 Board of Longitude는 한 개의 뛰어난 시계가 곧 재현 가능한 실용 해법인지, 원리를 공개해야 하는지 등을 놓고 해리슨과 충돌했다. 그는 결국 큰 보상을 받았지만 자신이 기대한 방식과 시점은 아니었다. 과학기술의 “해결”에는 성능뿐 아니라 검증과 제도도 포함된다.",
+          "textEn": "Sea trials showed that H4 could satisfy the demanding accuracy limits associated with the Longitude Act. Yet the Board of Longitude and Harrison continued to argue about whether one exceptional instrument constituted a reproducible solution, how its principles should be disclosed, and what reward was due. Technical performance, verification and institutions all formed part of what it meant to “solve” the problem."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리가 보여주는 것",
+          "headingEn": "A Solved Mystery Still Has an Investigative Story",
+          "textKo": "경도 문제는 더 이상 미제는 아니지만, 해결 과정은 미스터리 아틀라스의 “해결 자체가 이야기인 사건”에 해당한다. H4가 중요했다고 해서 천문학적 방법이 무의미했던 것도 아니고, 곧바로 전 함대에 보급된 것도 아니다. 진짜 이야기는 오랜 시행착오, 엄격한 시험, 복제 가능성, 그리고 누가 해결자로 인정받는가의 경계에 있다.",
+          "textEn": "Longitude is no longer an unsolved problem, but the solution process fits Mystery Atlas’s category in which the resolution itself is the mystery. H4 mattered enormously without instantly replacing lunar methods or equipping every ship. The deeper story is decades of failure, testing, reproducibility and the contested boundary between a brilliant prototype and a recognized practical solution."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "보상 논쟁은 기술의 재현 가능성을 둘러싼 문제였다",
+          "headingEn": "The Reward Dispute Was Also About Reproducibility",
+          "textKo": "해리슨과 경도위원회의 갈등은 단순히 “천재에게 돈을 주기 싫어했다”는 도덕극으로 축약하기 어렵다. 위원회 입장에서는 한 대의 시계가 뛰어난 성능을 보이는 것과, 원리를 공개하고 다른 제작자가 반복 생산해 항해 체계에 적용할 수 있는 것은 다른 문제였다. 반대로 해리슨은 수십 년간 투자한 설계가 충분히 시험됐다고 보았고 추가 조건이 계속 붙는다고 느꼈다. 이 충돌은 발명품이 과학적·공공적 해결책으로 인정받기 위해 성능 외에도 재현성, 공개, 비용, 제도적 검증이 필요하다는 점을 보여준다.",
+          "textEn": "The conflict between Harrison and the Board of Longitude is too simple if reduced to “officials refused to pay a genius.” For the Board, one exceptional watch performing well was not identical to a disclosed, reproducible method that other makers could build and navies could use. Harrison, after decades of work, believed the performance already justified the reward and regarded repeated new conditions as unfair. The dispute shows that turning an invention into a public solution involves reproducibility, disclosure, cost and institutional verification as well as raw performance."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "H4 이후에야 “해결”이 사회기술로 바뀌었다",
+          "headingEn": "From Prototype Success to a Practical System",
+          "textKo": "H4의 성공 뒤에도 해상 크로노미터는 비싸고 제작이 어려웠다. 후대 시계제작자들이 구조를 단순화하고 가격을 낮추면서야 정확한 해상시간이 더 넓은 항해체계로 퍼졌다. 따라서 역사적 해결점은 H4의 시험통과 한 순간이 아니라 원리의 검증에서 반복 생산과 실제 보급으로 이어지는 긴 전환으로 보는 편이 정확하다.",
+          "textEn": "Even after H4 succeeded, marine chronometers remained expensive and difficult to make. Wider use came only as later makers simplified designs and lowered costs. The historical “solution” is therefore better understood as a transition from successful prototype, through verification, to reproducible production and practical adoption rather than one instant of completion."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Royal Museums Greenwich는 H4가 1759년 완성됐고 두 차례 해상시험에서 높은 정확도를 보였으며, 1765년 위원회가 1714년 경도법의 엄격한 한계 내 성능을 확인했다고 설명한다.\n\nNOT ESTABLISHED: H4 하나가 즉시 모든 선박의 경도 문제를 해결했다거나 천문학적 월거법을 곧바로 대체했다는 것은 맞지 않는다. 가격과 복제 가능성, 보상 기준을 둘러싼 논쟁이 계속됐고 보급에는 시간이 걸렸다.",
+          "textEn": "CONFIRMED / SUPPORTED: Royal Museums Greenwich records that H4 was completed in 1759, performed accurately in sea trials, and that the Board acknowledged in 1765 that it had kept time within the stringent limits of the 1714 Longitude Act.\n\nNOT ESTABLISHED: H4 did not instantly equip every ship or immediately eliminate lunar-distance methods. Cost, reproducibility and reward criteria remained contested, and widespread chronometer adoption took time."
+        }
+      ],
+      "factBoundary": {
+        "established": "Royal Museums Greenwich는 H4가 1759년 완성됐고 두 차례 해상시험에서 높은 정확도를 보였으며, 1765년 위원회가 1714년 경도법의 엄격한 한계 내 성능을 확인했다고 설명한다.",
+        "notEstablished": "H4 하나가 즉시 모든 선박의 경도 문제를 해결했다거나 천문학적 월거법을 곧바로 대체했다는 것은 맞지 않는다. 가격과 복제 가능성, 보상 기준을 둘러싼 논쟁이 계속됐고 보급에는 시간이 걸렸다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "How Did a Watch Help Solve the Longitude Problem?",
+      "hook": "Determining east-west position at sea challenged navigators for generations. John Harrison’s H4, completed in 1759, met demanding sea-trial standards, but the solution was not a single eureka moment: it involved engineering, testing and a long dispute over recognition and reward.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "바다에서 동서 위치를 모른다는 문제",
+          "headingEn": "The East-West Problem at Sea",
+          "textKo": "위도는 태양과 별의 고도로 비교적 잘 구할 수 있었지만, 경도는 정확한 기준시간과 현지시간의 차이를 알아야 했다. 시계가 배의 흔들림·온도·습도 속에서 오차를 누적하면 위치 계산도 빠르게 틀어졌다. 1714년 영국 경도법은 충분한 정확도로 경도를 구하는 방법에 큰 상금을 걸었고, 이 문제는 천문학과 정밀기계공학의 경쟁장이 됐다.",
+          "textEn": "Latitude could be estimated from the altitude of the Sun or stars, but longitude required comparing local time with a reliable reference time. If a clock accumulated error under ship motion, temperature change and humidity, the position estimate drifted as well. Britain’s 1714 Longitude Act offered major rewards for a sufficiently accurate method, turning the problem into a competition between astronomy and precision engineering."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "H1에서 H3까지 실패가 쌓였다",
+          "headingEn": "H1, H2 and H3 Were Necessary Failures",
+          "textKo": "존 해리슨은 한 번에 H4를 만든 것이 아니다. Royal Museums Greenwich 자료는 그가 H1, H2, H3를 거치며 해상용 시계의 구조와 진동계를 바꾸고 수십 년간 문제를 수정했다고 설명한다. H3에는 19년 가까운 작업이 들어갔지만 목표 정확도에 충분히 도달하지 못했다. 실패한 기계들이 H4의 설계로 가는 실험실 역할을 했다.",
+          "textEn": "John Harrison did not jump directly to H4. Royal Museums Greenwich describes decades of work on H1, H2 and H3, changing mechanisms and oscillators as problems emerged. H3 alone consumed nearly nineteen years and still did not reach the desired practical performance. Those imperfect machines functioned as an extended experimental program leading toward the eventual design."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "거대한 시계에서 큰 회중시계로",
+          "headingEn": "From Large Sea Clocks to a Large Watch",
+          "textKo": "1750년대 해리슨은 존 제퍼리스가 만든 정밀 시계의 성공을 바탕으로 훨씬 작은 H4에 방향을 틀었다. H4는 1759년에 완성됐고 높은 주파수의 안정적인 밸런스를 사용했다. 당시 일반적인 회중시계는 정밀 항법도구로 여겨지지 않았다는 점에서 이 선택은 예상 밖이었다. 해결책은 더 거대한 기계가 아니라 작지만 빠르게 진동하는 시계였다.",
+          "textEn": "In the 1750s Harrison drew on the success of a precision watch made by John Jefferys and shifted toward the much smaller H4. Completed in 1759, it used a stable high-frequency balance. At a time when ordinary pocket watches were not regarded as serious navigation instruments, the conceptual move was striking: the successful direction was not an even larger machine but a smaller, faster-oscillating one."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "시험 통과 뒤에도 싸움은 끝나지 않았다",
+          "headingEn": "Passing the Trial Did Not End the Dispute",
+          "textKo": "해상시험에서 H4는 경도법이 요구한 엄격한 정확도 기준을 충족했다. 그러나 Board of Longitude는 한 개의 뛰어난 시계가 곧 재현 가능한 실용 해법인지, 원리를 공개해야 하는지 등을 놓고 해리슨과 충돌했다. 그는 결국 큰 보상을 받았지만 자신이 기대한 방식과 시점은 아니었다. 과학기술의 “해결”에는 성능뿐 아니라 검증과 제도도 포함된다.",
+          "textEn": "Sea trials showed that H4 could satisfy the demanding accuracy limits associated with the Longitude Act. Yet the Board of Longitude and Harrison continued to argue about whether one exceptional instrument constituted a reproducible solution, how its principles should be disclosed, and what reward was due. Technical performance, verification and institutions all formed part of what it meant to “solve” the problem."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리가 보여주는 것",
+          "headingEn": "A Solved Mystery Still Has an Investigative Story",
+          "textKo": "경도 문제는 더 이상 미제는 아니지만, 해결 과정은 미스터리 아틀라스의 “해결 자체가 이야기인 사건”에 해당한다. H4가 중요했다고 해서 천문학적 방법이 무의미했던 것도 아니고, 곧바로 전 함대에 보급된 것도 아니다. 진짜 이야기는 오랜 시행착오, 엄격한 시험, 복제 가능성, 그리고 누가 해결자로 인정받는가의 경계에 있다.",
+          "textEn": "Longitude is no longer an unsolved problem, but the solution process fits Mystery Atlas’s category in which the resolution itself is the mystery. H4 mattered enormously without instantly replacing lunar methods or equipping every ship. The deeper story is decades of failure, testing, reproducibility and the contested boundary between a brilliant prototype and a recognized practical solution."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "보상 논쟁은 기술의 재현 가능성을 둘러싼 문제였다",
+          "headingEn": "The Reward Dispute Was Also About Reproducibility",
+          "textKo": "해리슨과 경도위원회의 갈등은 단순히 “천재에게 돈을 주기 싫어했다”는 도덕극으로 축약하기 어렵다. 위원회 입장에서는 한 대의 시계가 뛰어난 성능을 보이는 것과, 원리를 공개하고 다른 제작자가 반복 생산해 항해 체계에 적용할 수 있는 것은 다른 문제였다. 반대로 해리슨은 수십 년간 투자한 설계가 충분히 시험됐다고 보았고 추가 조건이 계속 붙는다고 느꼈다. 이 충돌은 발명품이 과학적·공공적 해결책으로 인정받기 위해 성능 외에도 재현성, 공개, 비용, 제도적 검증이 필요하다는 점을 보여준다.",
+          "textEn": "The conflict between Harrison and the Board of Longitude is too simple if reduced to “officials refused to pay a genius.” For the Board, one exceptional watch performing well was not identical to a disclosed, reproducible method that other makers could build and navies could use. Harrison, after decades of work, believed the performance already justified the reward and regarded repeated new conditions as unfair. The dispute shows that turning an invention into a public solution involves reproducibility, disclosure, cost and institutional verification as well as raw performance."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "H4 이후에야 “해결”이 사회기술로 바뀌었다",
+          "headingEn": "From Prototype Success to a Practical System",
+          "textKo": "H4의 성공 뒤에도 해상 크로노미터는 비싸고 제작이 어려웠다. 후대 시계제작자들이 구조를 단순화하고 가격을 낮추면서야 정확한 해상시간이 더 넓은 항해체계로 퍼졌다. 따라서 역사적 해결점은 H4의 시험통과 한 순간이 아니라 원리의 검증에서 반복 생산과 실제 보급으로 이어지는 긴 전환으로 보는 편이 정확하다.",
+          "textEn": "Even after H4 succeeded, marine chronometers remained expensive and difficult to make. Wider use came only as later makers simplified designs and lowered costs. The historical “solution” is therefore better understood as a transition from successful prototype, through verification, to reproducible production and practical adoption rather than one instant of completion."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: Royal Museums Greenwich는 H4가 1759년 완성됐고 두 차례 해상시험에서 높은 정확도를 보였으며, 1765년 위원회가 1714년 경도법의 엄격한 한계 내 성능을 확인했다고 설명한다.\n\nNOT ESTABLISHED: H4 하나가 즉시 모든 선박의 경도 문제를 해결했다거나 천문학적 월거법을 곧바로 대체했다는 것은 맞지 않는다. 가격과 복제 가능성, 보상 기준을 둘러싼 논쟁이 계속됐고 보급에는 시간이 걸렸다.",
+          "textEn": "CONFIRMED / SUPPORTED: Royal Museums Greenwich records that H4 was completed in 1759, performed accurately in sea trials, and that the Board acknowledged in 1765 that it had kept time within the stringent limits of the 1714 Longitude Act.\n\nNOT ESTABLISHED: H4 did not instantly equip every ship or immediately eliminate lunar-distance methods. Cost, reproducibility and reward criteria remained contested, and widespread chronometer adoption took time."
+        }
+      ],
+      "factBoundary": {
+        "established": "Royal Museums Greenwich records that H4 was completed in 1759, performed accurately in sea trials, and that the Board acknowledged in 1765 that it had kept time within the stringent limits of the 1714 Longitude Act.",
+        "notEstablished": "H4 did not instantly equip every ship or immediately eliminate lunar-distance methods. Cost, reproducibility and reward criteria remained contested, and widespread chronometer adoption took time."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "HARRISON_H4_TIMEKEEPER-C1",
+      "status": "CONFIRMED",
+      "statementKo": "Royal Museums Greenwich는 H4가 1759년 완성됐고 두 차례 해상시험에서 높은 정확도를 보였으며, 1765년 위원회가 1714년 경도법의 엄격한 한계 내 성능을 확인했다고 설명한다.",
+      "statementEn": "Royal Museums Greenwich records that H4 was completed in 1759, performed accurately in sea trials, and that the Board acknowledged in 1765 that it had kept time within the stringent limits of the 1714 Longitude Act.",
+      "sourceRefs": [
+        "RMG_HARRISON",
+        "RMG_H4"
+      ]
+    },
+    {
+      "claimId": "HARRISON_H4_TIMEKEEPER-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "H4 하나가 즉시 모든 선박의 경도 문제를 해결했다거나 천문학적 월거법을 곧바로 대체했다는 것은 맞지 않는다. 가격과 복제 가능성, 보상 기준을 둘러싼 논쟁이 계속됐고 보급에는 시간이 걸렸다.",
+      "statementEn": "H4 did not instantly equip every ship or immediately eliminate lunar-distance methods. Cost, reproducibility and reward criteria remained contested, and widespread chronometer adoption took time.",
+      "sourceRefs": [
+        "RMG_HARRISON",
+        "RMG_H4"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "RMG_HARRISON",
+      "title": "Longitude found — the story of Harrison’s timekeepers",
+      "publisher": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem",
+      "sourceType": "MUSEUM_HISTORY"
+    },
+    {
+      "sourceId": "RMG_H4",
+      "title": "H4 marine timekeeper — object record",
+      "publisher": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-79142",
+      "sourceType": "MUSEUM_OBJECT_RECORD"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "harrison-h4-timekeeper-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록과 조사 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key records and investigative sequence.",
+      "altKo": "핵심 기록과 조사 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key records and investigative sequence.",
+      "sourceRefs": [
+        "RMG_HARRISON",
+        "RMG_H4"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "harrison-h4-timekeeper__harrison-h4-timekeeper-v01__ko.png",
+          "sha256": "549a7c425a916237b2dd29f2cde8957cf134b160d6d4098a4030d10b26248bf7",
+          "width": 1600,
+          "height": 900,
+          "fileName": "harrison-h4-timekeeper__harrison-h4-timekeeper-v01__ko.png"
+        },
+        "en": {
+          "file": "harrison-h4-timekeeper__harrison-h4-timekeeper-v01__en.png",
+          "sha256": "b0ec7169a24ca9551525d5bc007b358fa3a0b157eb5a830c773b120dc53517e4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "harrison-h4-timekeeper__harrison-h4-timekeeper-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "harrison-h4-timekeeper-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "RMG_HARRISON",
+        "RMG_H4"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "harrison-h4-timekeeper__harrison-h4-timekeeper-v02__ko.png",
+          "sha256": "13a207cb65e35ab963c3b9f724581305245b6acaff436d2060c718ef1016bead",
+          "width": 1600,
+          "height": 900,
+          "fileName": "harrison-h4-timekeeper__harrison-h4-timekeeper-v02__ko.png"
+        },
+        "en": {
+          "file": "harrison-h4-timekeeper__harrison-h4-timekeeper-v02__en.png",
+          "sha256": "66db8a30763067499aa7666a18af614551b32db211824e9ea03510b9af8ea606",
+          "width": 1600,
+          "height": 900,
+          "fileName": "harrison-h4-timekeeper__harrison-h4-timekeeper-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "harrison-h4-timekeeper-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to central claims.",
+      "sourceRefs": [
+        "RMG_HARRISON",
+        "RMG_H4"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "harrison-h4-timekeeper__harrison-h4-timekeeper-v03__ko.png",
+          "sha256": "30e985eec7c9af1d090d23ffeadfd3299326acb522e77a48fb95e192827199d4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "harrison-h4-timekeeper__harrison-h4-timekeeper-v03__ko.png"
+        },
+        "en": {
+          "file": "harrison-h4-timekeeper__harrison-h4-timekeeper-v03__en.png",
+          "sha256": "de29b6672dd264029f4637d2172498f67debfa1baba1d38c96761bc5e380117b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "harrison-h4-timekeeper__harrison-h4-timekeeper-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United Kingdom",
+    "era": "1714–1773",
+    "genre": "Technology / Solved Mystery",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Technology / Solved Mystery",
+    "resolution": "unknown",
+    "countries": [
+      "United Kingdom"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1647,
+    "enBodyWords": 509
+  }
+}
