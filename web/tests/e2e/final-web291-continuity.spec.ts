@@ -5,6 +5,7 @@ async function waitForArticleImages(page: Page) {
     const images = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")];
     return images.length >= 3 && images.every((image) => image.complete && image.naturalWidth > 0);
   }, undefined, { timeout: 10000 });
+  await page.evaluate(() => document.fonts.ready.then(() => undefined));
 }
 
 async function expectAnchorNearTop(page: Page, id: string) {
@@ -27,6 +28,7 @@ test("Batch50 locale switch keeps language and chapter position at 390/430", asy
     const id = await chapter.getAttribute("id");
     expect(id).toBeTruthy();
     await chapter.evaluate((element) => window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 140));
+    await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top), { timeout: 5000 }).toBeLessThan(300);
 
     await page.locator('.article-languages a[lang="en"]').click();
     await expect(page).toHaveURL(new RegExp(`/en/cases/${slug}/#${id}$`));

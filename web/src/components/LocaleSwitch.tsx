@@ -4,6 +4,7 @@ import { useEffect } from "react";
 import { usePathname, useRouter } from "next/navigation";
 import type { Locale } from "@/content/schema";
 import { localeHref } from "@/lib/base-path";
+import { pendingAnchorKey } from "./ReadingProgressTracker";
 
 export function LocaleSwitch({ locale, article = false }: { locale: Locale; article?: boolean }) {
   const pathname = usePathname();
@@ -17,9 +18,15 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
   function rememberPosition(event: React.MouseEvent<HTMLAnchorElement>, choice: Locale) {
     if (!article) return;
     const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
-    const current = sections.filter((section) => section.getBoundingClientRect().top <= 300).at(-1);
+    const readingLine = Math.min(220, Math.max(120, window.innerHeight * 0.25));
+    const current = sections.find((section) => {
+      const rect = section.getBoundingClientRect();
+      return rect.top <= readingLine && rect.bottom > readingLine;
+    }) ?? sections.filter((section) => section.getBoundingClientRect().top <= readingLine).at(-1);
+
     if (current) {
       event.preventDefault();
+      try { sessionStorage.setItem(pendingAnchorKey, current.id); } catch { /* Navigation still works without storage. */ }
       router.push(`/${choice}${route || "/"}#${current.id}`, { scroll: false });
     }
   }
