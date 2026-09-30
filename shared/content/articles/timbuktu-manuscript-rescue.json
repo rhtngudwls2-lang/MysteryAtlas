@@ -1,0 +1,375 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "timbuktu-manuscript-rescue",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "팀북투 고문서의 은닉과 구조",
+    "canonicalTitleEn": "The Hidden Manuscripts of Timbuktu",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "불타버린 줄 알았던 팀북투 문서 수십만 점은 어떻게 살아남았나",
+      "hook": "2012~2013년 북부 말리 분쟁 때 팀북투 고문서가 파괴됐다는 소식이 세계를 돌았다. 실제 피해는 컸지만, 주민과 소장가들은 수십만 점을 상자에 넣어 숨기고 바마코로 옮겼다. “사라진 문서”의 이야기는 파괴와 구조가 동시에 있었던 사건이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "파괴 소식 뒤에 숨은 구조 작전",
+          "headingEn": "A Rescue Operation Hid Behind the Destruction Headlines",
+          "textKo": "무장세력이 팀북투의 문화유산을 공격하자 일부 시설과 문서가 실제로 피해를 입었다. 하지만 지역 소장가와 사서들은 상황이 악화되기 전후로 문서를 금속 상자와 가방에 나눠 숨기고, 검문과 도로 위험을 피해 남쪽으로 옮겼다. UNESCO가 기록한 30만 점 이상이라는 규모는 이 일이 몇 명의 우연한 구조가 아니라 지역 공동체의 거대한 보존 작전이었음을 보여준다.",
+          "textEn": "Armed groups did damage cultural heritage in Timbuktu, but local custodians and families also moved manuscripts into metal trunks, hidden rooms and vehicles, transporting them south under dangerous conditions. UNESCO’s figure of more than 300,000 manuscripts moved to Bamako shows that this was not a handful of lucky escapes but a large community preservation operation."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "4천 점 손실과 30만 점 구조는 동시에 참이다",
+          "headingEn": "Four Thousand Lost and Three Hundred Thousand Saved Can Both Be True",
+          "textKo": "사건은 “전부 불탔다”와 “모두 구했다” 사이에 있다. Ahmed Baba Institute에서는 4천 점 이상이 소실되거나 도난됐지만, 다른 공공·사립 컬렉션의 방대한 자료는 분산 이동됐다. 숫자를 한 문장으로 압축하면 피해와 구조 중 하나가 지워진다. 미스터리는 모순된 보도보다 서로 다른 컬렉션과 이동 경로를 구분할 때 풀린다.",
+          "textEn": "The event sits between the slogans “everything burned” and “everything was saved.” More than 4,000 manuscripts from the Ahmed Baba Institute were lost, stolen or burned, while enormous public and private collections were dispersed and moved. Collapsing all repositories into one number erases either the losses or the successful rescue."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "바마코에 도착한 뒤에도 위험은 끝나지 않았다",
+          "headingEn": "Arrival in Bamako Created a New Threat",
+          "textKo": "사막 기후에 적응해 있던 종이·가죽 문서가 더 습한 바마코로 옮겨지면서 곰팡이와 해충, 부적절한 상자와 공간이 새로운 위협이 됐다. 2015년 UNESCO 회의가 긴급 보존 계획과 장기 저장 개선을 요구한 이유다. 구조는 마지막 단계가 아니라 물리적 보존의 두 번째 시작이었다.",
+          "textEn": "Manuscripts adapted to Timbuktu’s dry environment faced different humidity, pests and storage conditions after relocation. UNESCO’s 2015 emergency conference called for improved storage, digitization and long-term preservation. Rescue was therefore not the end of the operation but the beginning of a second conservation crisis."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "사립 도서관이 사건의 지도를 복잡하게 만든다",
+          "headingEn": "Private Libraries Complicate the Map",
+          "textKo": "팀북투의 학문 전통은 하나의 중앙도서관에만 모여 있지 않았다. 가족과 지역 공동체가 세대에 걸쳐 문서를 보관해 왔기 때문에 “팀북투 고문서”는 소유권과 목록이 분산된 거대한 집합이다. 이 구조 덕분에 일부는 공격을 피했지만, 동시에 전체 수량과 현재 위치를 단일 장부로 확정하기 어렵게 만들었다.",
+          "textEn": "Timbuktu’s written heritage was never concentrated in a single state archive. Families and local institutions had preserved collections for generations. That dispersal helped some manuscripts survive attack, but it also makes the total corpus and present location of every item difficult to establish from one central inventory."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "사라진 도서관이 아니라 살아남은 네트워크",
+          "headingEn": "Not a Lost Library, but a Surviving Network",
+          "textKo": "이 사건의 핵심은 잃어버린 보물을 찾는 단순 서사가 아니다. 문서가 어떻게 도시 밖으로 빠져나갔고, 누가 위험을 감수해 운반했으며, 구조 뒤 어떤 보존 문제가 생겼는지를 추적하면 팀북투는 “파괴된 유산”과 “살아남은 지식 네트워크”를 동시에 보여주는 사례가 된다.",
+          "textEn": "The deeper mystery is not simply where a treasure disappeared. It is how a scholarly network moved under pressure, who carried the materials, and how preservation continued afterward. Timbuktu is simultaneously a case of cultural destruction and of a knowledge system surviving through distributed custodianship."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "UNESCO의 시설별 손실 수치와 주민 구조 수치를 같은 모수처럼 계산하지 않는다. Ahmed Baba Institute, 사립도서관, 바마코 임시보관소를 서로 다른 컬렉션으로 구분하고, 2012~2013년 이동과 2015년 보존 문제를 시간순으로 배열한다. 또한 “30만 점”은 동일한 서가에서 한 번에 옮긴 숫자가 아니라 여러 가족·기관 컬렉션을 합친 규모다. 구조 경로가 비공개로 유지된 사례도 있어, 보존 성공을 영웅담으로만 정리하기보다 각 컬렉션의 목록화 상태와 소실 여부를 따로 확인해야 한다.",
+          "textEn": "The method does not treat UNESCO figures for institutional losses and community rescue as if they describe the same denominator. It separates the Ahmed Baba Institute, private libraries and Bamako storage sites, then orders the 2012–2013 evacuation and later conservation crisis chronologically."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "향후 각 컬렉션의 완전한 디지털 목록과 이동 전·후 식별번호가 연결되면 어떤 문서가 소실·이동·복원됐는지 더 정확히 추적할 수 있다. 현재의 가장 강한 결론은 대규모 손실과 대규모 구조가 동시에 일어났다는 것이다.",
+          "textEn": "Complete item-level catalogs linking pre-conflict identifiers to post-evacuation holdings would allow a more exact accounting of what was lost, moved or restored. For now, the strongest conclusion is that substantial destruction and substantial rescue occurred at the same time."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: UNESCO는 2012~2013년 분쟁 동안 Ahmed Baba Institute의 약 4만 점 가운데 4천 점 이상이 소실·도난됐다고 정리하며, 주민들이 30만 점이 넘는 고문서를 비밀리에 바마코로 옮겨 보호했다고 설명한다. 이후 보존 환경 개선과 디지털화가 긴급 과제가 됐다.\n\nNOT ESTABLISHED: 모든 팀북투 문서가 파괴됐다는 초기 인상도, 반대로 거의 피해가 없었다는 서술도 정확하지 않다. 이동 과정과 습도·보관 환경 때문에 구조 뒤에도 훼손 위험이 남았고, 전체 소장량과 개별 문서의 행방은 여러 사립도서관에 분산돼 있다.",
+          "textEn": "CONFIRMED / SUPPORTED: UNESCO reports that more than 4,000 of roughly 40,000 manuscripts at the Ahmed Baba Institute were lost, burned or stolen during the 2012–2013 conflict, while residents secretly moved more than 300,000 manuscripts to Bamako. Conservation conditions and digitization then became urgent challenges.\n\nNOT ESTABLISHED: It is inaccurate either to say that all Timbuktu manuscripts were destroyed or that the rescue left them safe. Transport, humidity and storage created new risks, while the corpus remains distributed among many family and institutional collections."
+        }
+      ],
+      "factBoundary": {
+        "established": "UNESCO는 2012~2013년 분쟁 동안 Ahmed Baba Institute의 약 4만 점 가운데 4천 점 이상이 소실·도난됐다고 정리하며, 주민들이 30만 점이 넘는 고문서를 비밀리에 바마코로 옮겨 보호했다고 설명한다. 이후 보존 환경 개선과 디지털화가 긴급 과제가 됐다.",
+        "notEstablished": "모든 팀북투 문서가 파괴됐다는 초기 인상도, 반대로 거의 피해가 없었다는 서술도 정확하지 않다. 이동 과정과 습도·보관 환경 때문에 구조 뒤에도 훼손 위험이 남았고, 전체 소장량과 개별 문서의 행방은 여러 사립도서관에 분산돼 있다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "How Did Hundreds of Thousands of Timbuktu Manuscripts Survive?",
+      "hook": "During the 2012–2013 conflict in northern Mali, reports of destroyed Timbuktu manuscripts spread worldwide. Real losses occurred, yet families and local custodians secretly moved hundreds of thousands of manuscripts to Bamako. The story of “lost manuscripts” is therefore also a story of clandestine rescue.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "파괴 소식 뒤에 숨은 구조 작전",
+          "headingEn": "A Rescue Operation Hid Behind the Destruction Headlines",
+          "textKo": "무장세력이 팀북투의 문화유산을 공격하자 일부 시설과 문서가 실제로 피해를 입었다. 하지만 지역 소장가와 사서들은 상황이 악화되기 전후로 문서를 금속 상자와 가방에 나눠 숨기고, 검문과 도로 위험을 피해 남쪽으로 옮겼다. UNESCO가 기록한 30만 점 이상이라는 규모는 이 일이 몇 명의 우연한 구조가 아니라 지역 공동체의 거대한 보존 작전이었음을 보여준다.",
+          "textEn": "Armed groups did damage cultural heritage in Timbuktu, but local custodians and families also moved manuscripts into metal trunks, hidden rooms and vehicles, transporting them south under dangerous conditions. UNESCO’s figure of more than 300,000 manuscripts moved to Bamako shows that this was not a handful of lucky escapes but a large community preservation operation."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "4천 점 손실과 30만 점 구조는 동시에 참이다",
+          "headingEn": "Four Thousand Lost and Three Hundred Thousand Saved Can Both Be True",
+          "textKo": "사건은 “전부 불탔다”와 “모두 구했다” 사이에 있다. Ahmed Baba Institute에서는 4천 점 이상이 소실되거나 도난됐지만, 다른 공공·사립 컬렉션의 방대한 자료는 분산 이동됐다. 숫자를 한 문장으로 압축하면 피해와 구조 중 하나가 지워진다. 미스터리는 모순된 보도보다 서로 다른 컬렉션과 이동 경로를 구분할 때 풀린다.",
+          "textEn": "The event sits between the slogans “everything burned” and “everything was saved.” More than 4,000 manuscripts from the Ahmed Baba Institute were lost, stolen or burned, while enormous public and private collections were dispersed and moved. Collapsing all repositories into one number erases either the losses or the successful rescue."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "바마코에 도착한 뒤에도 위험은 끝나지 않았다",
+          "headingEn": "Arrival in Bamako Created a New Threat",
+          "textKo": "사막 기후에 적응해 있던 종이·가죽 문서가 더 습한 바마코로 옮겨지면서 곰팡이와 해충, 부적절한 상자와 공간이 새로운 위협이 됐다. 2015년 UNESCO 회의가 긴급 보존 계획과 장기 저장 개선을 요구한 이유다. 구조는 마지막 단계가 아니라 물리적 보존의 두 번째 시작이었다.",
+          "textEn": "Manuscripts adapted to Timbuktu’s dry environment faced different humidity, pests and storage conditions after relocation. UNESCO’s 2015 emergency conference called for improved storage, digitization and long-term preservation. Rescue was therefore not the end of the operation but the beginning of a second conservation crisis."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "사립 도서관이 사건의 지도를 복잡하게 만든다",
+          "headingEn": "Private Libraries Complicate the Map",
+          "textKo": "팀북투의 학문 전통은 하나의 중앙도서관에만 모여 있지 않았다. 가족과 지역 공동체가 세대에 걸쳐 문서를 보관해 왔기 때문에 “팀북투 고문서”는 소유권과 목록이 분산된 거대한 집합이다. 이 구조 덕분에 일부는 공격을 피했지만, 동시에 전체 수량과 현재 위치를 단일 장부로 확정하기 어렵게 만들었다.",
+          "textEn": "Timbuktu’s written heritage was never concentrated in a single state archive. Families and local institutions had preserved collections for generations. That dispersal helped some manuscripts survive attack, but it also makes the total corpus and present location of every item difficult to establish from one central inventory."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "사라진 도서관이 아니라 살아남은 네트워크",
+          "headingEn": "Not a Lost Library, but a Surviving Network",
+          "textKo": "이 사건의 핵심은 잃어버린 보물을 찾는 단순 서사가 아니다. 문서가 어떻게 도시 밖으로 빠져나갔고, 누가 위험을 감수해 운반했으며, 구조 뒤 어떤 보존 문제가 생겼는지를 추적하면 팀북투는 “파괴된 유산”과 “살아남은 지식 네트워크”를 동시에 보여주는 사례가 된다.",
+          "textEn": "The deeper mystery is not simply where a treasure disappeared. It is how a scholarly network moved under pressure, who carried the materials, and how preservation continued afterward. Timbuktu is simultaneously a case of cultural destruction and of a knowledge system surviving through distributed custodianship."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "UNESCO의 시설별 손실 수치와 주민 구조 수치를 같은 모수처럼 계산하지 않는다. Ahmed Baba Institute, 사립도서관, 바마코 임시보관소를 서로 다른 컬렉션으로 구분하고, 2012~2013년 이동과 2015년 보존 문제를 시간순으로 배열한다. 또한 “30만 점”은 동일한 서가에서 한 번에 옮긴 숫자가 아니라 여러 가족·기관 컬렉션을 합친 규모다. 구조 경로가 비공개로 유지된 사례도 있어, 보존 성공을 영웅담으로만 정리하기보다 각 컬렉션의 목록화 상태와 소실 여부를 따로 확인해야 한다.",
+          "textEn": "The method does not treat UNESCO figures for institutional losses and community rescue as if they describe the same denominator. It separates the Ahmed Baba Institute, private libraries and Bamako storage sites, then orders the 2012–2013 evacuation and later conservation crisis chronologically."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "향후 각 컬렉션의 완전한 디지털 목록과 이동 전·후 식별번호가 연결되면 어떤 문서가 소실·이동·복원됐는지 더 정확히 추적할 수 있다. 현재의 가장 강한 결론은 대규모 손실과 대규모 구조가 동시에 일어났다는 것이다.",
+          "textEn": "Complete item-level catalogs linking pre-conflict identifiers to post-evacuation holdings would allow a more exact accounting of what was lost, moved or restored. For now, the strongest conclusion is that substantial destruction and substantial rescue occurred at the same time."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: UNESCO는 2012~2013년 분쟁 동안 Ahmed Baba Institute의 약 4만 점 가운데 4천 점 이상이 소실·도난됐다고 정리하며, 주민들이 30만 점이 넘는 고문서를 비밀리에 바마코로 옮겨 보호했다고 설명한다. 이후 보존 환경 개선과 디지털화가 긴급 과제가 됐다.\n\nNOT ESTABLISHED: 모든 팀북투 문서가 파괴됐다는 초기 인상도, 반대로 거의 피해가 없었다는 서술도 정확하지 않다. 이동 과정과 습도·보관 환경 때문에 구조 뒤에도 훼손 위험이 남았고, 전체 소장량과 개별 문서의 행방은 여러 사립도서관에 분산돼 있다.",
+          "textEn": "CONFIRMED / SUPPORTED: UNESCO reports that more than 4,000 of roughly 40,000 manuscripts at the Ahmed Baba Institute were lost, burned or stolen during the 2012–2013 conflict, while residents secretly moved more than 300,000 manuscripts to Bamako. Conservation conditions and digitization then became urgent challenges.\n\nNOT ESTABLISHED: It is inaccurate either to say that all Timbuktu manuscripts were destroyed or that the rescue left them safe. Transport, humidity and storage created new risks, while the corpus remains distributed among many family and institutional collections."
+        }
+      ],
+      "factBoundary": {
+        "established": "UNESCO reports that more than 4,000 of roughly 40,000 manuscripts at the Ahmed Baba Institute were lost, burned or stolen during the 2012–2013 conflict, while residents secretly moved more than 300,000 manuscripts to Bamako. Conservation conditions and digitization then became urgent challenges.",
+        "notEstablished": "It is inaccurate either to say that all Timbuktu manuscripts were destroyed or that the rescue left them safe. Transport, humidity and storage created new risks, while the corpus remains distributed among many family and institutional collections."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "TIMBUKTU_MANUSCRIPT_RESCUE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "UNESCO는 2012~2013년 분쟁 동안 Ahmed Baba Institute의 약 4만 점 가운데 4천 점 이상이 소실·도난됐다고 정리하며, 주민들이 30만 점이 넘는 고문서를 비밀리에 바마코로 옮겨 보호했다고 설명한다. 이후 보존 환경 개선과 디지털화가 긴급 과제가 됐다.",
+      "statementEn": "UNESCO reports that more than 4,000 of roughly 40,000 manuscripts at the Ahmed Baba Institute were lost, burned or stolen during the 2012–2013 conflict, while residents secretly moved more than 300,000 manuscripts to Bamako. Conservation conditions and digitization then became urgent challenges.",
+      "sourceRefs": [
+        "UNESCO_TIMBUKTU_SUCCESS",
+        "UNESCO_TIMBUKTU_2015",
+        "UNESCO_TIMBUKTU_DOC"
+      ]
+    },
+    {
+      "claimId": "TIMBUKTU_MANUSCRIPT_RESCUE-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 팀북투 문서가 파괴됐다는 초기 인상도, 반대로 거의 피해가 없었다는 서술도 정확하지 않다. 이동 과정과 습도·보관 환경 때문에 구조 뒤에도 훼손 위험이 남았고, 전체 소장량과 개별 문서의 행방은 여러 사립도서관에 분산돼 있다.",
+      "statementEn": "It is inaccurate either to say that all Timbuktu manuscripts were destroyed or that the rescue left them safe. Transport, humidity and storage created new risks, while the corpus remains distributed among many family and institutional collections.",
+      "sourceRefs": [
+        "UNESCO_TIMBUKTU_SUCCESS",
+        "UNESCO_TIMBUKTU_2015",
+        "UNESCO_TIMBUKTU_DOC"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "UNESCO_TIMBUKTU_SUCCESS",
+      "title": "Cultural heritage: 7 successes of UNESCO preservation work",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/cultural-heritage-7-successes-unescos-preservation-work",
+      "sourceType": "UNESCO_OVERVIEW"
+    },
+    {
+      "sourceId": "UNESCO_TIMBUKTU_2015",
+      "title": "Bamako heritage conference urges emergency action",
+      "publisher": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/bamako-heritage-conference-urges-emergency-action-ensure-safeguarding-ancient-manuscripts-mali",
+      "sourceType": "UNESCO_CONSERVATION"
+    },
+    {
+      "sourceId": "UNESCO_TIMBUKTU_DOC",
+      "title": "Manuscripts conserved at SAVAMA DCI, Timbuktu",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/documents/139081",
+      "sourceType": "UNESCO_DOCUMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "timbuktu-manuscript-rescue-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key records, discoveries and investigation.",
+      "altKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key records, discoveries and investigation.",
+      "sourceRefs": [
+        "UNESCO_TIMBUKTU_SUCCESS",
+        "UNESCO_TIMBUKTU_2015",
+        "UNESCO_TIMBUKTU_DOC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v01__ko.png",
+          "sha256": "2a763f85fa65e6c952e8f2f6d5a8b313b782f66007ee22fe112e9168b868de43",
+          "width": 1600,
+          "height": 900,
+          "fileName": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v01__ko.png"
+        },
+        "en": {
+          "file": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v01__en.png",
+          "sha256": "d9faaaa2a893a9e04ed6bb4bcd95d96adf2ddb1a35a24a353f6207a591dab083",
+          "width": 1600,
+          "height": 900,
+          "fileName": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "timbuktu-manuscript-rescue-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "altKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "sourceRefs": [
+        "UNESCO_TIMBUKTU_SUCCESS",
+        "UNESCO_TIMBUKTU_2015",
+        "UNESCO_TIMBUKTU_DOC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v02__ko.png",
+          "sha256": "701ba49d7d4a48befbbcd8576342116e0908e6ff2a731d0cf774913d78c2d1e9",
+          "width": 1600,
+          "height": 900,
+          "fileName": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v02__ko.png"
+        },
+        "en": {
+          "file": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v02__en.png",
+          "sha256": "2ab18e99a2bc8cd84d8abd1f930c85ee005fed16e49f4008e86c44395e684b51",
+          "width": 1600,
+          "height": 900,
+          "fileName": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "timbuktu-manuscript-rescue-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map connecting references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map connecting references to central claims.",
+      "sourceRefs": [
+        "UNESCO_TIMBUKTU_SUCCESS",
+        "UNESCO_TIMBUKTU_2015",
+        "UNESCO_TIMBUKTU_DOC"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v03__ko.png",
+          "sha256": "798113d1f544711fd74690285ceb7e5c7b36cef24db0b83af9a858488015b149",
+          "width": 1600,
+          "height": 900,
+          "fileName": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v03__ko.png"
+        },
+        "en": {
+          "file": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v03__en.png",
+          "sha256": "f2c13b2e078e6858971e235a1bfe91f80c61f838fe7a74850b18287d1d0ab427",
+          "width": 1600,
+          "height": 900,
+          "fileName": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Mali",
+    "era": "2012–2015 preservation crisis",
+    "genre": "Historical Enigma / Lost Place / Identity",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Historical Enigma / Lost Place / Identity",
+    "resolution": "unknown",
+    "countries": [
+      "Mali"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1581,
+    "enBodyWords": 406
+  }
+}

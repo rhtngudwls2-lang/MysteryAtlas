@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "shoemaker-levy9-impact",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "슈메이커-레비 9 혜성의 목성 충돌",
+    "canonicalTitleEn": "Shoemaker–Levy 9: Watching a Comet Hit Jupiter",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "인류는 어떻게 혜성이 행성과 충돌하는 장면을 처음 실시간으로 봤나",
+      "hook": "1993년 발견된 슈메이커-레비 9는 한 개의 혜성이 아니라 목성의 중력에 찢겨 20개가 넘는 조각으로 늘어선 상태였다. 궤도 계산은 1994년 7월 충돌을 예측했고, 전 세계 망원경과 Galileo가 충돌 흔적을 관측했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "발견 순간부터 이미 산산조각 난 혜성이었다",
+          "headingEn": "The Comet Was Already a String of Fragments",
+          "textKo": "Carolyn과 Eugene Shoemaker, David Levy가 1993년 촬영한 사진에서 혜성은 긴 줄의 점처럼 보였다. 계산을 되돌리자 1992년 목성에 매우 가까이 지나며 조석력으로 분해됐다는 그림이 나왔다. “진주 목걸이” 모양은 단순한 관측 이상이 아니라 거대행성의 중력이 작은 천체를 어떻게 파괴하는지 보여주는 현장이었다.",
+          "textEn": "When Carolyn and Eugene Shoemaker and David Levy photographed the object in 1993, it appeared as a chain of points. Orbital reconstruction showed that a very close encounter with Jupiter in July 1992 had pulled it apart through tidal forces. The “string of pearls” became direct evidence of how a giant planet can disrupt a small body."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "충돌을 미리 예측할 수 있었다",
+          "headingEn": "Astronomers Could Predict the Collision",
+          "textKo": "추가 관측으로 궤도가 정밀해지면서 조각들이 1994년 7월 목성에 충돌할 것이라는 예측이 나왔다. 천문학자들은 망원경 시간과 우주선을 미리 배치할 수 있었다. 자연 천체 충돌을 사후 흔적이 아니라 예정된 사건으로 준비해 관측했다는 점이 역사적이었다.",
+          "textEn": "As the orbit was refined, calculations showed that the fragments would strike Jupiter in July 1994. Observatories could schedule telescope time and spacecraft observations in advance. For the first time, a large natural planetary impact could be prepared for as a predicted event rather than studied only from ancient scars."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "충돌 지점은 지구에서 바로 보이지 않았다",
+          "headingEn": "The Impact Sites Were Not Immediately Earth-Facing",
+          "textKo": "여러 조각은 목성의 지구 반대편 가장자리 너머로 충돌했다. 지상 관측자는 충돌 순간 자체를 항상 직접 보지 못했지만, 목성이 회전하면서 검은 충돌흔적과 뜨거운 기체가 보였다. 목성으로 향하던 Galileo는 다른 시야각에서 일부 충돌 섬광을 직접 관측할 수 있었다.",
+          "textEn": "Many fragments struck just beyond the limb on the far side from Earth. Ground observers could not always see the initial flash directly, but Jupiter’s rotation soon brought dark impact scars and hot atmospheric material into view. Galileo, approaching Jupiter from another geometry, observed some events more directly."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "흔적은 목성 대기의 실험이 됐다",
+          "headingEn": "The Scars Became Atmospheric Experiments",
+          "textKo": "충돌 후 대기의 화학성분, 온도, 파동과 구름 변화가 관측됐다. 각 조각이 서로 다른 시간과 위치에 충돌했기 때문에 자연이 반복 실험을 제공한 셈이다. 이를 통해 목성 상층대기와 혜성 충돌의 에너지 전달을 연구할 수 있었다.",
+          "textEn": "Researchers tracked chemistry, temperature, waves and cloud changes after each impact. Because fragments arrived at different times and locations, nature produced a sequence of related experiments. The event became a probe of Jupiter’s upper atmosphere as well as of comet-impact physics."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "행성 충돌 위험을 현실적인 천문현상으로 만들었다",
+          "headingEn": "Planetary Impacts Became a Modern Observable Phenomenon",
+          "textKo": "슈메이커-레비 9는 지구 충돌체가 아니었지만, 큰 천체가 현대 관측 시대에 행성과 충돌하는 모습을 실제로 보여줬다. 행성 방어 논의에서 “충돌은 지질학적 과거의 일”이라는 거리감을 줄였다. 미스터리는 충돌 여부가 아니라 조각의 물성, 대기반응, 원래 혜성의 구조를 얼마나 정확히 역산할 수 있는가에 남는다.",
+          "textEn": "Shoemaker–Levy 9 never threatened Earth, but it demonstrated in the modern observing era that large objects really do collide with planets. It reduced the psychological distance between impact craters and present-day planetary defense. The remaining scientific uncertainty concerns fragment properties, atmospheric response and reconstruction of the original comet."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "발견 사진, 궤도 역산, 충돌시각 예측, Galileo·지상 관측을 순서대로 분리한다. 충돌흔적의 크기를 혜성 조각 직경과 일대일 대응시키지 않고, 관측값과 대기모델에서 추정한 물리량을 구분한다. 각 조각의 충돌 에너지는 밝기, 충돌흔적, 대기 파동을 통해 추정됐지만 동일한 관측값이 조각의 밀도·입사각에 따라 다른 질량을 허용할 수 있다. 그래서 “몇 km짜리 조각” 같은 단일 숫자는 모델 범위를 함께 제시해야 한다.",
+          "textEn": "The method separates discovery images, orbital reconstruction, predicted impact times and Galileo or ground observations. Impact-scar size is not treated as a direct one-to-one measure of fragment diameter, and modeled physical properties remain distinct from direct observations."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "조각별 질량·밀도와 원래 핵의 구조를 더 정확히 알 수 있었다면 대기 충돌모델을 훨씬 엄격하게 검증할 수 있었을 것이다. 현재는 다양한 파장 관측과 모델을 결합해 범위를 좁히는 방식이 최선이다. 충돌 직전 조각의 자전과 형태, 정확한 밀도를 직접 알 수 없었던 점은 모델의 가장 큰 불확실성 가운데 하나다. 같은 대기흔적도 입사각과 조성에 따라 다른 에너지를 허용하므로, 여러 파장의 관측을 동시에 맞추는 것이 단일 영상보다 강하다.",
+          "textEn": "Direct measurements of fragment mass, density and original nucleus structure would have allowed much stricter tests of impact models. In their absence, the best constraints come from combining multiwavelength observations with atmospheric and impact modeling."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: NASA는 1992년 7월 목성 근접 통과가 혜성을 20개 이상의 조각으로 찢었고, 1993년 3월 발견 뒤 궤도 계산으로 1994년 7월 16~22일 목성 충돌이 예측됐다고 설명한다. Galileo와 지상·우주 망원경이 충돌과 대기 흔적을 관측했다.\n\nNOT ESTABLISHED: 모든 조각의 정확한 크기와 원래 혜성의 내부구조가 직접 측정된 것은 아니다. 충돌 밝기와 대기반응에서 추정한 물리량에는 모델 의존성이 있고, 큰 충돌흔적이 곧 조각 크기의 단순한 자와 같은 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: NASA states that a close passage by Jupiter in July 1992 tore the comet into more than twenty fragments. After discovery in March 1993, orbital calculations predicted impacts on Jupiter from 16–22 July 1994, observed by Galileo and many Earth- and space-based telescopes.\n\nNOT ESTABLISHED: The exact size of every fragment and the internal structure of the original comet were not directly measured. Physical properties inferred from brightness and atmospheric response depend on models, and impact scars are not simple rulers for fragment diameter."
+        }
+      ],
+      "factBoundary": {
+        "established": "NASA는 1992년 7월 목성 근접 통과가 혜성을 20개 이상의 조각으로 찢었고, 1993년 3월 발견 뒤 궤도 계산으로 1994년 7월 16~22일 목성 충돌이 예측됐다고 설명한다. Galileo와 지상·우주 망원경이 충돌과 대기 흔적을 관측했다.",
+        "notEstablished": "모든 조각의 정확한 크기와 원래 혜성의 내부구조가 직접 측정된 것은 아니다. 충돌 밝기와 대기반응에서 추정한 물리량에는 모델 의존성이 있고, 큰 충돌흔적이 곧 조각 크기의 단순한 자와 같은 것은 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "How Did Humanity Watch a Comet Strike a Planet?",
+      "hook": "Discovered in 1993, Shoemaker–Levy 9 was not a single intact comet but a train of more than twenty fragments torn apart by Jupiter’s gravity. Orbital calculations predicted impacts in July 1994, allowing observatories worldwide and Galileo to prepare for the collision.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "발견 순간부터 이미 산산조각 난 혜성이었다",
+          "headingEn": "The Comet Was Already a String of Fragments",
+          "textKo": "Carolyn과 Eugene Shoemaker, David Levy가 1993년 촬영한 사진에서 혜성은 긴 줄의 점처럼 보였다. 계산을 되돌리자 1992년 목성에 매우 가까이 지나며 조석력으로 분해됐다는 그림이 나왔다. “진주 목걸이” 모양은 단순한 관측 이상이 아니라 거대행성의 중력이 작은 천체를 어떻게 파괴하는지 보여주는 현장이었다.",
+          "textEn": "When Carolyn and Eugene Shoemaker and David Levy photographed the object in 1993, it appeared as a chain of points. Orbital reconstruction showed that a very close encounter with Jupiter in July 1992 had pulled it apart through tidal forces. The “string of pearls” became direct evidence of how a giant planet can disrupt a small body."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "충돌을 미리 예측할 수 있었다",
+          "headingEn": "Astronomers Could Predict the Collision",
+          "textKo": "추가 관측으로 궤도가 정밀해지면서 조각들이 1994년 7월 목성에 충돌할 것이라는 예측이 나왔다. 천문학자들은 망원경 시간과 우주선을 미리 배치할 수 있었다. 자연 천체 충돌을 사후 흔적이 아니라 예정된 사건으로 준비해 관측했다는 점이 역사적이었다.",
+          "textEn": "As the orbit was refined, calculations showed that the fragments would strike Jupiter in July 1994. Observatories could schedule telescope time and spacecraft observations in advance. For the first time, a large natural planetary impact could be prepared for as a predicted event rather than studied only from ancient scars."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "충돌 지점은 지구에서 바로 보이지 않았다",
+          "headingEn": "The Impact Sites Were Not Immediately Earth-Facing",
+          "textKo": "여러 조각은 목성의 지구 반대편 가장자리 너머로 충돌했다. 지상 관측자는 충돌 순간 자체를 항상 직접 보지 못했지만, 목성이 회전하면서 검은 충돌흔적과 뜨거운 기체가 보였다. 목성으로 향하던 Galileo는 다른 시야각에서 일부 충돌 섬광을 직접 관측할 수 있었다.",
+          "textEn": "Many fragments struck just beyond the limb on the far side from Earth. Ground observers could not always see the initial flash directly, but Jupiter’s rotation soon brought dark impact scars and hot atmospheric material into view. Galileo, approaching Jupiter from another geometry, observed some events more directly."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "흔적은 목성 대기의 실험이 됐다",
+          "headingEn": "The Scars Became Atmospheric Experiments",
+          "textKo": "충돌 후 대기의 화학성분, 온도, 파동과 구름 변화가 관측됐다. 각 조각이 서로 다른 시간과 위치에 충돌했기 때문에 자연이 반복 실험을 제공한 셈이다. 이를 통해 목성 상층대기와 혜성 충돌의 에너지 전달을 연구할 수 있었다.",
+          "textEn": "Researchers tracked chemistry, temperature, waves and cloud changes after each impact. Because fragments arrived at different times and locations, nature produced a sequence of related experiments. The event became a probe of Jupiter’s upper atmosphere as well as of comet-impact physics."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "행성 충돌 위험을 현실적인 천문현상으로 만들었다",
+          "headingEn": "Planetary Impacts Became a Modern Observable Phenomenon",
+          "textKo": "슈메이커-레비 9는 지구 충돌체가 아니었지만, 큰 천체가 현대 관측 시대에 행성과 충돌하는 모습을 실제로 보여줬다. 행성 방어 논의에서 “충돌은 지질학적 과거의 일”이라는 거리감을 줄였다. 미스터리는 충돌 여부가 아니라 조각의 물성, 대기반응, 원래 혜성의 구조를 얼마나 정확히 역산할 수 있는가에 남는다.",
+          "textEn": "Shoemaker–Levy 9 never threatened Earth, but it demonstrated in the modern observing era that large objects really do collide with planets. It reduced the psychological distance between impact craters and present-day planetary defense. The remaining scientific uncertainty concerns fragment properties, atmospheric response and reconstruction of the original comet."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "발견 사진, 궤도 역산, 충돌시각 예측, Galileo·지상 관측을 순서대로 분리한다. 충돌흔적의 크기를 혜성 조각 직경과 일대일 대응시키지 않고, 관측값과 대기모델에서 추정한 물리량을 구분한다. 각 조각의 충돌 에너지는 밝기, 충돌흔적, 대기 파동을 통해 추정됐지만 동일한 관측값이 조각의 밀도·입사각에 따라 다른 질량을 허용할 수 있다. 그래서 “몇 km짜리 조각” 같은 단일 숫자는 모델 범위를 함께 제시해야 한다.",
+          "textEn": "The method separates discovery images, orbital reconstruction, predicted impact times and Galileo or ground observations. Impact-scar size is not treated as a direct one-to-one measure of fragment diameter, and modeled physical properties remain distinct from direct observations."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "조각별 질량·밀도와 원래 핵의 구조를 더 정확히 알 수 있었다면 대기 충돌모델을 훨씬 엄격하게 검증할 수 있었을 것이다. 현재는 다양한 파장 관측과 모델을 결합해 범위를 좁히는 방식이 최선이다. 충돌 직전 조각의 자전과 형태, 정확한 밀도를 직접 알 수 없었던 점은 모델의 가장 큰 불확실성 가운데 하나다. 같은 대기흔적도 입사각과 조성에 따라 다른 에너지를 허용하므로, 여러 파장의 관측을 동시에 맞추는 것이 단일 영상보다 강하다.",
+          "textEn": "Direct measurements of fragment mass, density and original nucleus structure would have allowed much stricter tests of impact models. In their absence, the best constraints come from combining multiwavelength observations with atmospheric and impact modeling."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: NASA는 1992년 7월 목성 근접 통과가 혜성을 20개 이상의 조각으로 찢었고, 1993년 3월 발견 뒤 궤도 계산으로 1994년 7월 16~22일 목성 충돌이 예측됐다고 설명한다. Galileo와 지상·우주 망원경이 충돌과 대기 흔적을 관측했다.\n\nNOT ESTABLISHED: 모든 조각의 정확한 크기와 원래 혜성의 내부구조가 직접 측정된 것은 아니다. 충돌 밝기와 대기반응에서 추정한 물리량에는 모델 의존성이 있고, 큰 충돌흔적이 곧 조각 크기의 단순한 자와 같은 것은 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: NASA states that a close passage by Jupiter in July 1992 tore the comet into more than twenty fragments. After discovery in March 1993, orbital calculations predicted impacts on Jupiter from 16–22 July 1994, observed by Galileo and many Earth- and space-based telescopes.\n\nNOT ESTABLISHED: The exact size of every fragment and the internal structure of the original comet were not directly measured. Physical properties inferred from brightness and atmospheric response depend on models, and impact scars are not simple rulers for fragment diameter."
+        }
+      ],
+      "factBoundary": {
+        "established": "NASA states that a close passage by Jupiter in July 1992 tore the comet into more than twenty fragments. After discovery in March 1993, orbital calculations predicted impacts on Jupiter from 16–22 July 1994, observed by Galileo and many Earth- and space-based telescopes.",
+        "notEstablished": "The exact size of every fragment and the internal structure of the original comet were not directly measured. Physical properties inferred from brightness and atmospheric response depend on models, and impact scars are not simple rulers for fragment diameter."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "SHOEMAKER_LEVY9_IMPACT-C1",
+      "status": "CONFIRMED",
+      "statementKo": "NASA는 1992년 7월 목성 근접 통과가 혜성을 20개 이상의 조각으로 찢었고, 1993년 3월 발견 뒤 궤도 계산으로 1994년 7월 16~22일 목성 충돌이 예측됐다고 설명한다. Galileo와 지상·우주 망원경이 충돌과 대기 흔적을 관측했다.",
+      "statementEn": "NASA states that a close passage by Jupiter in July 1992 tore the comet into more than twenty fragments. After discovery in March 1993, orbital calculations predicted impacts on Jupiter from 16–22 July 1994, observed by Galileo and many Earth- and space-based telescopes.",
+      "sourceRefs": [
+        "NASA_SL9",
+        "JPL_SL9"
+      ]
+    },
+    {
+      "claimId": "SHOEMAKER_LEVY9_IMPACT-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "모든 조각의 정확한 크기와 원래 혜성의 내부구조가 직접 측정된 것은 아니다. 충돌 밝기와 대기반응에서 추정한 물리량에는 모델 의존성이 있고, 큰 충돌흔적이 곧 조각 크기의 단순한 자와 같은 것은 아니다.",
+      "statementEn": "The exact size of every fragment and the internal structure of the original comet were not directly measured. Physical properties inferred from brightness and atmospheric response depend on models, and impact scars are not simple rulers for fragment diameter.",
+      "sourceRefs": [
+        "NASA_SL9",
+        "JPL_SL9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NASA_SL9",
+      "title": "Comet P/Shoemaker-Levy 9",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/solar-system/comets/p-shoemaker-levy-9/",
+      "sourceType": "NASA_OVERVIEW"
+    },
+    {
+      "sourceId": "JPL_SL9",
+      "title": "Fragment of Shoemaker-Levy 9 lights up Jupiter’s night sky",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/fragment-of-shoemaker-levy-9-lights-up-jupiters-night-sky/",
+      "sourceType": "MISSION_REPORT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "shoemaker-levy9-impact-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key records, discoveries and investigation.",
+      "altKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key records, discoveries and investigation.",
+      "sourceRefs": [
+        "NASA_SL9",
+        "JPL_SL9"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "shoemaker-levy9-impact__shoemaker-levy9-impact-v01__ko.png",
+          "sha256": "484a0e747612d82e7df2031bc102286f3f0636196bfbb348bd5eb599606a34f2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "shoemaker-levy9-impact__shoemaker-levy9-impact-v01__ko.png"
+        },
+        "en": {
+          "file": "shoemaker-levy9-impact__shoemaker-levy9-impact-v01__en.png",
+          "sha256": "d8a82c6b74e999fdabf15123c5e8ecdca0fde5f7faa20b99462fe817bf40671d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "shoemaker-levy9-impact__shoemaker-levy9-impact-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "shoemaker-levy9-impact-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "altKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "sourceRefs": [
+        "NASA_SL9",
+        "JPL_SL9"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "shoemaker-levy9-impact__shoemaker-levy9-impact-v02__ko.png",
+          "sha256": "cf9e60b013bdc0bb5b104eb46517d640f6ac588a550b1b38d561ed403b2c55a8",
+          "width": 1600,
+          "height": 900,
+          "fileName": "shoemaker-levy9-impact__shoemaker-levy9-impact-v02__ko.png"
+        },
+        "en": {
+          "file": "shoemaker-levy9-impact__shoemaker-levy9-impact-v02__en.png",
+          "sha256": "bde89e791e448e4caa679e09645bfeccf5e3fc6acb13223cc12150e9c9620134",
+          "width": 1600,
+          "height": 900,
+          "fileName": "shoemaker-levy9-impact__shoemaker-levy9-impact-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "shoemaker-levy9-impact-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map connecting references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map connecting references to central claims.",
+      "sourceRefs": [
+        "NASA_SL9",
+        "JPL_SL9"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "shoemaker-levy9-impact__shoemaker-levy9-impact-v03__ko.png",
+          "sha256": "6112ef08b68e950cd13a490d8c1c1d32fb029410933fbd010413b3b3a3b8d217",
+          "width": 1600,
+          "height": 900,
+          "fileName": "shoemaker-levy9-impact__shoemaker-levy9-impact-v03__ko.png"
+        },
+        "en": {
+          "file": "shoemaker-levy9-impact__shoemaker-levy9-impact-v03__en.png",
+          "sha256": "9abf6aaac8448ef5a47fb534b2a4955aa392f9a664abe5e6f8606d44a8863ffd",
+          "width": 1600,
+          "height": 900,
+          "fileName": "shoemaker-levy9-impact__shoemaker-levy9-impact-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Jupiter system",
+    "era": "1992–1994",
+    "genre": "Space / Astronomy",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Space / Astronomy",
+    "resolution": "unknown",
+    "countries": [
+      "Jupiter system"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1544,
+    "enBodyWords": 403
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MediaBatch48_ExpansionLock10_FINAL.zip",
+  "sourcePack": "MediaBatch49_ExpansionLock11_FINAL.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -192,6 +192,64 @@
       "readMinutes": {
         "ko": 3,
         "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "aguada-fenix-platform",
+      "title": {
+        "ko": "아구아다 페닉스 거대 토단의 발견",
+        "en": "Aguada Fénix and the Discovery of an Early Maya Monument"
+      },
+      "headline": {
+        "ko": "정글 아래 숨은 1.4km 토단은 마야 문명의 시작을 어떻게 바꿨나",
+        "en": "How Did a 1.4-Kilometre Platform Change the Story of Early Maya Civilization?"
+      },
+      "hook": {
+        "ko": "라이다는 평평한 지형처럼 보이던 타바스코의 땅에서 길이 약 1.4km, 높이 10~15m의 인공 토단을 드러냈다. 발굴과 방사성탄소 연대는 이 구조가 기원전 1000~800년 사이 건설됐음을 보여주며 초기 마야 사회의 규모와 조직에 대한 기존 그림을 수정했다.",
+        "en": "Lidar revealed a 1.4-kilometre-long artificial plateau, 10–15 metres high, beneath seemingly ordinary terrain in Tabasco. Excavation and radiocarbon dating place construction around 1000–800 BCE, forcing a reassessment of the scale and organization of early Maya communities."
+      },
+      "aliases": [],
+      "genre": "Ancient History / Archaeology",
+      "genres": [],
+      "countries": [
+        "Mexico"
+      ],
+      "regions": [],
+      "era": "ca. 1000–800 BCE",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "aguada-fenix-platform-v01",
+      "heroFile": {
+        "ko": "aguada-fenix-platform__aguada-fenix-platform-v01__ko.png",
+        "en": "aguada-fenix-platform__aguada-fenix-platform-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
       },
       "publication": {
         "tier": "COMPACT_FILE",
@@ -1611,6 +1669,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "benin-bronzes-1897",
+      "title": {
+        "ko": "베닌 유물의 1897 약탈과 분산 경로",
+        "en": "Benin Objects: Looting, Sale, and Dispersal after 1897"
+      },
+      "headline": {
+        "ko": "베닌 왕궁의 유물은 어떻게 세계 수백 개 컬렉션으로 흩어졌나",
+        "en": "How Did Benin Court Objects Become Dispersed Across Global Collections?"
+      },
+      "hook": {
+        "ko": "1897년 영국군이 베닌시티를 점령한 뒤 왕궁과 창고의 미술품을 약탈했고, 상당수는 영국과 유럽의 박물관·딜러·개인 소장가에게 흩어졌다. 오늘의 미스터리는 “어디서 왔나”보다 각 물건이 어떤 거래와 기증 경로를 거쳤는지 복원하는 provenance 조사에 있다.",
+        "en": "After British forces occupied Benin City in 1897, art from the royal palace and compounds was looted and dispersed through museums, dealers and private owners. The modern puzzle is less “where did these objects come from?” than reconstructing the acquisition path of each object."
+      },
+      "aliases": [],
+      "genre": "Historical Enigma / Provenance",
+      "genres": [],
+      "countries": [
+        "Nigeria / United Kingdom"
+      ],
+      "regions": [],
+      "era": "1897–present",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "benin-bronzes-1897-v01",
+      "heroFile": {
+        "ko": "benin-bronzes-1897__benin-bronzes-1897-v01__ko.png",
+        "en": "benin-bronzes-1897__benin-bronzes-1897-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4508,6 +4624,64 @@
       }
     },
     {
+      "canonicalId": "el-faro-2015",
+      "title": {
+        "ko": "엘 파로호 침몰과 허리케인 항로 판단",
+        "en": "El Faro: Route Decisions inside Hurricane Joaquin"
+      },
+      "headline": {
+        "ko": "엘 파로호는 왜 허리케인 호아킨을 피하지 못했나",
+        "en": "Why Did El Faro Fail to Avoid Hurricane Joaquin?"
+      },
+      "hook": {
+        "ko": "2015년 10월 1일 화물선 El Faro는 허리케인 호아킨 속에서 침몰해 33명 전원이 사망했다. 심해에서 회수된 voyage data recorder와 NTSB 조사는 기상정보, 선장의 항로 판단, 침수와 추진력 상실이 어떻게 겹쳤는지 재구성했다.",
+        "en": "On 1 October 2015 the cargo ship El Faro sank in Hurricane Joaquin with the loss of all 33 aboard. Recovery of the voyage data recorder and the NTSB investigation reconstructed how weather information, route decisions, flooding and loss of propulsion interacted."
+      },
+      "aliases": [],
+      "genre": "Maritime / Aviation",
+      "genres": [],
+      "countries": [
+        "United States / Bahamas"
+      ],
+      "regions": [],
+      "era": "2015–2017 investigation",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "el-faro-2015-v01",
+      "heroFile": {
+        "ko": "el-faro-2015__el-faro-2015-v01__ko.png",
+        "en": "el-faro-2015__el-faro-2015-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "enceladus-plume-hydrogen",
       "title": {
         "ko": "엔셀라두스 분출 기둥의 수소",
@@ -6450,6 +6624,64 @@
       }
     },
     {
+      "canonicalId": "great-train-robbery-1963",
+      "title": {
+        "ko": "1963년 영국 열차 강도와 추적",
+        "en": "The Great Train Robbery: Heist, Hideout, and Pursuit"
+      },
+      "headline": {
+        "ko": "£230만을 훔친 17명은 왜 농장 은신처에서 흔적을 남겼나",
+        "en": "Why Did the Great Train Robbers Leave Their Trail at the Farm?"
+      },
+      "hook": {
+        "ko": "1963년 8월 7일 밤, 17명의 강도단은 글래스고에서 런던으로 가던 우편열차를 멈추고 £230만을 빼앗았다. 대담한 범행보다 수사에서 더 중요한 것은 은신 농장에 남은 지문과 물건, 그리고 이후 수십 년간 이어진 도주·체포 기록이었다.",
+        "en": "On the night of 7 August 1963, a gang of 17 stopped a Glasgow-to-London mail train and stole £2.3 million. The heist became famous, but the investigation turned on the farm hideout, physical traces and the long record of arrests and fugitives."
+      },
+      "aliases": [],
+      "genre": "Crime / Disappearance",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [],
+      "era": "1963 and aftermath",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "great-train-robbery-1963-v01",
+      "heroFile": {
+        "ko": "great-train-robbery-1963__great-train-robbery-1963-v01__ko.png",
+        "en": "great-train-robbery-1963__great-train-robbery-1963-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "great-zimbabwe-attribution",
       "title": {
         "ko": "그레이트 짐바브웨의 건설자 논쟁",
@@ -7981,6 +8213,64 @@
       }
     },
     {
+      "canonicalId": "janghwa-hongryeon-original",
+      "title": {
+        "ko": "장화홍련전의 원전과 철산 전승",
+        "en": "Janghwa and Hongryeon: From Cheolsan Tradition to Classic Novel"
+      },
+      "headline": {
+        "ko": "장화홍련은 실제 원한 사건이었나, 후대 소설이 만든 기억이었나",
+        "en": "Janghwa and Hongryeon: Historical Case, Local Memory, or Literary Construction?"
+      },
+      "hook": {
+        "ko": "《장화홍련전》은 단순한 귀신소설이 아니라 철산 부사 전동흘이 억울한 죽음을 처리했다는 사실담을 소재로 삼았다고 전해지는 작품이다. 그러나 현존하는 초기 텍스트는 사건보다 훨씬 뒤에 기록됐고, 여러 이본은 결말까지 달라진다.",
+        "en": "Janghwa and Hongryeon is remembered as a ghost story, but the literary tradition says it drew on a Cheolsan case handled by magistrate Jeon Dong-heul. The earliest surviving texts are much later than the alleged events, and different versions even change the ending."
+      },
+      "aliases": [],
+      "genre": "Paranormal / Haunting / Folklore",
+      "genres": [],
+      "countries": [
+        "Korea"
+      ],
+      "regions": [],
+      "era": "17th-century story tradition; 1818 early extant text",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "janghwa-hongryeon-original-v01",
+      "heroFile": {
+        "ko": "janghwa-hongryeon-original__janghwa-hongryeon-original-v01__ko.png",
+        "en": "janghwa-hongryeon-original__janghwa-hongryeon-original-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "japanese-wolf-extinction",
       "title": {
         "ko": "일본 늑대 표본과 생존 목격담",
@@ -9071,6 +9361,64 @@
       }
     },
     {
+      "canonicalId": "liangzhu-hydraulic-city",
+      "title": {
+        "ko": "량주 고대도시와 수리시설",
+        "en": "Liangzhu: A Neolithic City and Its Water System"
+      },
+      "headline": {
+        "ko": "5천 년 전 량주는 왜 도시 주변에 거대한 수리체계를 만들었나",
+        "en": "Why Did Liangzhu Build a Vast Water System Five Millennia Ago?"
+      },
+      "hook": {
+        "ko": "량주 유적은 성벽 도시만이 아니라 산 입구의 높은 댐, 평야의 낮은 댐, 수로와 제방이 하나의 체계로 연결된 신석기 도시였다. 발굴은 장강 하류에서 매우 이른 시기에 대규모 물 관리와 사회 조직이 가능했음을 보여준다.",
+        "en": "Liangzhu was not simply a walled settlement. High dams at valley mouths, low dams on the plain, waterways and causeways formed a larger system around the city. Archaeology shows large-scale water management and social organization in the lower Yangtze at a remarkably early date."
+      },
+      "aliases": [],
+      "genre": "Ancient History / Archaeology",
+      "genres": [],
+      "countries": [
+        "China"
+      ],
+      "regions": [],
+      "era": "ca. 3300–2300 BCE",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "liangzhu-hydraulic-city-v01",
+      "heroFile": {
+        "ko": "liangzhu-hydraulic-city__liangzhu-hydraulic-city-v01__ko.png",
+        "en": "liangzhu-hydraulic-city__liangzhu-hydraulic-city-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "liber-linteus-zagreb",
       "title": {
         "ko": "자그레브 미라 붕대의 에트루리아어 책",
@@ -9713,6 +10061,64 @@
       "readMinutes": {
         "ko": 3,
         "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "mapungubwe-gold-rhino",
+      "title": {
+        "ko": "마풍구브웨 금 코뿔소와 잊힌 왕국",
+        "en": "Mapungubwe, the Gold Rhinoceros, and a Forgotten Kingdom"
+      },
+      "headline": {
+        "ko": "금 코뿔소 한 점은 남아프리카의 잊힌 왕국을 어떻게 다시 보이게 했나",
+        "en": "How Did a Gold Rhinoceros Help Restore a Forgotten Southern African Kingdom to History?"
+      },
+      "hook": {
+        "ko": "마풍구브웨 언덕에서 발견된 금 코뿔소는 화려한 보물 이상의 증거다. 유적과 교역품, 금세공은 13세기 무렵 림포포-샤셰 합류부에 계층화된 왕국과 장거리 교역망이 존재했음을 보여준다.",
+        "en": "The gold rhinoceros from Mapungubwe is more than a treasure. Archaeology, imported goods and gold working reveal a stratified kingdom and long-distance trade network at the Limpopo–Shashe confluence around the thirteenth century."
+      },
+      "aliases": [],
+      "genre": "Historical Enigma / Lost Place / Identity",
+      "genres": [],
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [],
+      "era": "ca. 900–1300 CE; rediscovery 20th century",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "mapungubwe-gold-rhino-v01",
+      "heroFile": {
+        "ko": "mapungubwe-gold-rhino__mapungubwe-gold-rhino-v01__ko.png",
+        "en": "mapungubwe-gold-rhino__mapungubwe-gold-rhino-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
       },
       "publication": {
         "tier": "COMPACT_FILE",
@@ -16531,6 +16937,64 @@
       }
     },
     {
+      "canonicalId": "shoemaker-levy9-impact",
+      "title": {
+        "ko": "슈메이커-레비 9 혜성의 목성 충돌",
+        "en": "Shoemaker–Levy 9: Watching a Comet Hit Jupiter"
+      },
+      "headline": {
+        "ko": "인류는 어떻게 혜성이 행성과 충돌하는 장면을 처음 실시간으로 봤나",
+        "en": "How Did Humanity Watch a Comet Strike a Planet?"
+      },
+      "hook": {
+        "ko": "1993년 발견된 슈메이커-레비 9는 한 개의 혜성이 아니라 목성의 중력에 찢겨 20개가 넘는 조각으로 늘어선 상태였다. 궤도 계산은 1994년 7월 충돌을 예측했고, 전 세계 망원경과 Galileo가 충돌 흔적을 관측했다.",
+        "en": "Discovered in 1993, Shoemaker–Levy 9 was not a single intact comet but a train of more than twenty fragments torn apart by Jupiter’s gravity. Orbital calculations predicted impacts in July 1994, allowing observatories worldwide and Galileo to prepare for the collision."
+      },
+      "aliases": [],
+      "genre": "Space / Astronomy",
+      "genres": [],
+      "countries": [
+        "Jupiter system"
+      ],
+      "regions": [],
+      "era": "1992–1994",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "shoemaker-levy9-impact-v01",
+      "heroFile": {
+        "ko": "shoemaker-levy9-impact__shoemaker-levy9-impact-v01__ko.png",
+        "en": "shoemaker-levy9-impact__shoemaker-levy9-impact-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
       "canonicalId": "shugborough-inscription",
       "title": {
         "ko": "셔그버러 비문",
@@ -16686,6 +17150,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "STANDARD_STORY retained from recovered scaffold; multiple peer-reviewed mechanism papers support 8 evidence-dense narrative blocks plus a fact boundary.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "sipan-tomb-1987",
+      "title": {
+        "ko": "시판 왕실 무덤: 도굴 위기에서 발굴까지",
+        "en": "The Royal Tomb of Sipán: From Looting Threat to Archaeological Rescue"
+      },
+      "headline": {
+        "ko": "도굴 직전의 왕실 무덤은 어떻게 1987년 고고학의 전환점이 됐나",
+        "en": "How Did a Tomb Threatened by Looting Become an Archaeological Landmark in 1987?"
+      },
+      "hook": {
+        "ko": "1987년 페루 북부 Huaca Rajada에서 도굴 흔적을 추적하던 고고학자들은 훼손되지 않은 모체 왕실 묘실을 발굴했다. 황금 장신구보다 중요한 것은 유물의 위치와 시신·동반 매장·제의 맥락이 함께 기록됐다는 점이었다.",
+        "en": "In 1987 archaeologists responding to looting at Huaca Rajada uncovered an intact Moche royal burial. The importance was not simply the gold: bodies, offerings and spatial context could be excavated together instead of appearing as unprovenanced objects on the market."
+      },
+      "aliases": [],
+      "genre": "Ancient History / Archaeology",
+      "genres": [],
+      "countries": [
+        "Peru"
+      ],
+      "regions": [],
+      "era": "1987 and subsequent excavation",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "sipan-tomb-1987-v01",
+      "heroFile": {
+        "ko": "sipan-tomb-1987__sipan-tomb-1987-v01__ko.png",
+        "en": "sipan-tomb-1987__sipan-tomb-1987-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 2
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -17838,6 +18360,64 @@
           "RUNTIME_QA_NOT_RUN"
         ],
         "tierDecisionNote": "COMPACT_FILE selected to preserve source density and avoid padding."
+      }
+    },
+    {
+      "canonicalId": "timbuktu-manuscript-rescue",
+      "title": {
+        "ko": "팀북투 고문서의 은닉과 구조",
+        "en": "The Hidden Manuscripts of Timbuktu"
+      },
+      "headline": {
+        "ko": "불타버린 줄 알았던 팀북투 문서 수십만 점은 어떻게 살아남았나",
+        "en": "How Did Hundreds of Thousands of Timbuktu Manuscripts Survive?"
+      },
+      "hook": {
+        "ko": "2012~2013년 북부 말리 분쟁 때 팀북투 고문서가 파괴됐다는 소식이 세계를 돌았다. 실제 피해는 컸지만, 주민과 소장가들은 수십만 점을 상자에 넣어 숨기고 바마코로 옮겼다. “사라진 문서”의 이야기는 파괴와 구조가 동시에 있었던 사건이다.",
+        "en": "During the 2012–2013 conflict in northern Mali, reports of destroyed Timbuktu manuscripts spread worldwide. Real losses occurred, yet families and local custodians secretly moved hundreds of thousands of manuscripts to Bamako. The story of “lost manuscripts” is therefore also a story of clandestine rescue."
+      },
+      "aliases": [],
+      "genre": "Historical Enigma / Lost Place / Identity",
+      "genres": [],
+      "countries": [
+        "Mali"
+      ],
+      "regions": [],
+      "era": "2012–2015 preservation crisis",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "timbuktu-manuscript-rescue-v01",
+      "heroFile": {
+        "ko": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v01__ko.png",
+        "en": "timbuktu-manuscript-rescue__timbuktu-manuscript-rescue-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "heroAlt": {
+        "ko": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+        "en": "Project-original timeline of key records, discoveries and investigation."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
       }
     },
     {

@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "el-faro-2015",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "엘 파로호 침몰과 허리케인 항로 판단",
+    "canonicalTitleEn": "El Faro: Route Decisions inside Hurricane Joaquin",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "엘 파로호는 왜 허리케인 호아킨을 피하지 못했나",
+      "hook": "2015년 10월 1일 화물선 El Faro는 허리케인 호아킨 속에서 침몰해 33명 전원이 사망했다. 심해에서 회수된 voyage data recorder와 NTSB 조사는 기상정보, 선장의 항로 판단, 침수와 추진력 상실이 어떻게 겹쳤는지 재구성했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "허리케인과 항로가 점점 가까워졌다",
+          "headingEn": "The Route and Hurricane Converged",
+          "textKo": "El Faro는 Jacksonville에서 Puerto Rico로 향하던 중 Joaquin의 진로와 강도가 빠르게 변하는 상황을 만났다. 선교의 대화와 기상자료를 통해 조사관들은 선장이 어떤 정보를 언제 보고 어떤 항로 대안을 검토했는지 재구성했다. 핵심은 폭풍 존재를 몰랐다는 것이 아니라 위험을 평가하는 과정이 충분히 보수적으로 바뀌지 않았다는 점이다.",
+          "textEn": "El Faro was sailing from Jacksonville toward Puerto Rico while Hurricane Joaquin changed track and intensity. Bridge conversations and weather products allowed investigators to reconstruct what information was available and which route alternatives were discussed. The issue was not ignorance of the storm, but failure to make the risk assessment sufficiently conservative as conditions worsened."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "배는 악천후 속에서 기술 문제까지 겪었다",
+          "headingEn": "Technical Problems Compounded the Weather",
+          "textKo": "침수와 선체 경사, 화물과 내부 유체의 영향, 추진력 상실이 폭풍 환경과 겹쳤다. 엔진이 멈추면 파도와 바람에 대한 선박의 자세를 적극적으로 제어하기 어려워진다. 그래서 침몰은 기상판단과 기계·선체 상태를 분리해서 볼 수 없는 연쇄사건이었다.",
+          "textEn": "Flooding, vessel list, cargo and free-surface effects, and eventual loss of propulsion overlapped with severe weather. Without propulsion the ship had far less ability to control its orientation to wind and waves. The sinking therefore cannot be separated into an isolated navigation mistake and an unrelated mechanical failure."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "심해 VDR 회수가 조사 수준을 바꿨다",
+          "headingEn": "Deep-Sea VDR Recovery Changed the Investigation",
+          "textKo": "침몰선은 깊은 바다에 있었고 초기 수색에서 기록장치 비컨 신호도 잡히지 않았다. 이후 VDR 캡슐이 회수되면서 선교의 여러 마이크와 항해 데이터를 분석할 수 있었다. 일부 음질은 좋지 않았지만, 수시간의 대화는 의사결정의 시간순서를 복원하는 드문 자료가 됐다.",
+          "textEn": "The wreck lay at great depth and the recorder beacon was not detected during the first underwater search. Recovery of the voyage data recorder later provided bridge audio and navigation data. Some channels were poor, but hours of recorded conversation gave investigators an unusual chronological view of decisions aboard a ship that left no survivors."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "probable cause는 단일 원인 목록이 아니다",
+          "headingEn": "Probable Cause Is Not a One-Line Explanation",
+          "textKo": "NTSB의 probable cause 문장은 선장의 판단을 중심에 두지만 보고서는 회사 관행, 훈련, 기상자료 제공, 선박 설계와 안전규정 등 다수의 안전문제를 함께 다룬다. 사고조사에서 “주원인”과 “기여요인”을 섞지 않는 것이 중요하다.",
+          "textEn": "The NTSB’s probable-cause statement focuses on the captain’s actions, but the full report also addresses company practices, training, weather products, vessel design and safety regulation. A careful reading distinguishes primary causal findings from contributing safety issues instead of compressing the report into one blame statement."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 음모가 아니라 의사결정 연쇄다",
+          "headingEn": "The Mystery Is a Decision Chain, Not a Conspiracy",
+          "textKo": "El Faro는 원인이 전혀 알려지지 않은 해난이 아니다. 오히려 기록장치와 공식조사 덕분에 왜 위험이 커지는 동안 항로가 충분히 멀어지지 않았는지, 기술문제가 언제 결정적이 됐는지 세밀하게 볼 수 있다. 해결된 사고에서도 인간·조직·기계가 연결되는 순간은 강한 조사 서사가 된다.",
+          "textEn": "El Faro is not an unexplained disappearance. Its value as an investigative story comes from the extraordinary amount of recovered evidence showing how weather judgment, organizational practice and mechanical vulnerability interacted. Even a solved accident can reveal a complex sequence rather than a single dramatic cause."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "VDR 음성, 항해·기상 데이터, 선체·기관 분석, NTSB probable cause를 서로 다른 증거층으로 유지한다. 생존자가 없는 사건에서 음성기록의 발언을 기술센서 데이터처럼 취급하지 않고, 보고서의 기여요인과 주원인을 구분한다. VDR에는 선교의 판단 과정이 풍부하게 남았지만, 모든 선내 공간과 기계 상태를 직접 기록하지는 않는다. 조사관들은 음성, 기상자료, 선박 설계, 침수 시뮬레이션을 서로 대조해 빈칸을 메웠고, 바로 이 다중자료 결합이 사고 재구성의 핵심이다.",
+          "textEn": "The method keeps VDR audio, navigation and weather data, engineering analysis and the NTSB probable-cause finding as distinct layers. In an accident with no survivors, spoken impressions are not treated as equivalent to instrument measurements, and contributing factors remain separate from the primary causal finding."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "향후 동일형 선박의 구조·운항 데이터와 당시 사용된 기상제품 전달 기록을 더 세밀하게 결합하면 특정 판단이 어느 시점에 다른 선택으로 바뀔 수 있었는지 더 정교한 counterfactual 분석이 가능하다. 또한 당시 여러 기상제품의 갱신시각과 선교가 실제로 확인한 시각을 분 단위로 맞추면, 정보 부족과 정보 활용 실패를 더 정확히 나눌 수 있다. 이는 단순히 최신 예보가 존재했다는 사실보다 의사결정 환경을 재구성하는 데 중요하다.",
+          "textEn": "More detailed integration of sister-ship performance and the exact delivery history of weather products could sharpen counterfactual analysis of when a different route or operational decision might still have altered the outcome."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: NTSB는 2015년 10월 1일 El Faro가 Bahamas 인근 대서양에서 허리케인 Joaquin 중 침몰해 33명 전원이 사망했다고 기록한다. probable cause는 선장이 허리케인을 피하기 위한 충분한 조치를 취하지 않고 최신 기상정보를 활용하지 못했으며 승무원 소집이 늦었던 점 등으로 판정됐다.\n\nNOT ESTABLISHED: 침몰을 하나의 단순한 “폭풍에 들어간 실수”로만 설명하면 선박 상태, 침수, 추진력 상실, 회사 안전관리와 기상정보 체계 같은 다른 기여요인을 지운다. 음성기록도 모든 기술 상태를 직접 측정하는 센서는 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: The NTSB records that El Faro sank near the Bahamas during Hurricane Joaquin on 1 October 2015, killing all 33 aboard. It determined the probable cause included the captain’s insufficient action to avoid the hurricane, failure to use the most current weather information, and a late decision to muster the crew.\n\nNOT ESTABLISHED: Reducing the loss to a single “bad route choice” erases vessel condition, flooding, loss of propulsion, company safety management and weather-information issues. The recovered audio also does not directly measure every technical condition on the ship."
+        }
+      ],
+      "factBoundary": {
+        "established": "NTSB는 2015년 10월 1일 El Faro가 Bahamas 인근 대서양에서 허리케인 Joaquin 중 침몰해 33명 전원이 사망했다고 기록한다. probable cause는 선장이 허리케인을 피하기 위한 충분한 조치를 취하지 않고 최신 기상정보를 활용하지 못했으며 승무원 소집이 늦었던 점 등으로 판정됐다.",
+        "notEstablished": "침몰을 하나의 단순한 “폭풍에 들어간 실수”로만 설명하면 선박 상태, 침수, 추진력 상실, 회사 안전관리와 기상정보 체계 같은 다른 기여요인을 지운다. 음성기록도 모든 기술 상태를 직접 측정하는 센서는 아니다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Why Did El Faro Fail to Avoid Hurricane Joaquin?",
+      "hook": "On 1 October 2015 the cargo ship El Faro sank in Hurricane Joaquin with the loss of all 33 aboard. Recovery of the voyage data recorder and the NTSB investigation reconstructed how weather information, route decisions, flooding and loss of propulsion interacted.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "허리케인과 항로가 점점 가까워졌다",
+          "headingEn": "The Route and Hurricane Converged",
+          "textKo": "El Faro는 Jacksonville에서 Puerto Rico로 향하던 중 Joaquin의 진로와 강도가 빠르게 변하는 상황을 만났다. 선교의 대화와 기상자료를 통해 조사관들은 선장이 어떤 정보를 언제 보고 어떤 항로 대안을 검토했는지 재구성했다. 핵심은 폭풍 존재를 몰랐다는 것이 아니라 위험을 평가하는 과정이 충분히 보수적으로 바뀌지 않았다는 점이다.",
+          "textEn": "El Faro was sailing from Jacksonville toward Puerto Rico while Hurricane Joaquin changed track and intensity. Bridge conversations and weather products allowed investigators to reconstruct what information was available and which route alternatives were discussed. The issue was not ignorance of the storm, but failure to make the risk assessment sufficiently conservative as conditions worsened."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "배는 악천후 속에서 기술 문제까지 겪었다",
+          "headingEn": "Technical Problems Compounded the Weather",
+          "textKo": "침수와 선체 경사, 화물과 내부 유체의 영향, 추진력 상실이 폭풍 환경과 겹쳤다. 엔진이 멈추면 파도와 바람에 대한 선박의 자세를 적극적으로 제어하기 어려워진다. 그래서 침몰은 기상판단과 기계·선체 상태를 분리해서 볼 수 없는 연쇄사건이었다.",
+          "textEn": "Flooding, vessel list, cargo and free-surface effects, and eventual loss of propulsion overlapped with severe weather. Without propulsion the ship had far less ability to control its orientation to wind and waves. The sinking therefore cannot be separated into an isolated navigation mistake and an unrelated mechanical failure."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "심해 VDR 회수가 조사 수준을 바꿨다",
+          "headingEn": "Deep-Sea VDR Recovery Changed the Investigation",
+          "textKo": "침몰선은 깊은 바다에 있었고 초기 수색에서 기록장치 비컨 신호도 잡히지 않았다. 이후 VDR 캡슐이 회수되면서 선교의 여러 마이크와 항해 데이터를 분석할 수 있었다. 일부 음질은 좋지 않았지만, 수시간의 대화는 의사결정의 시간순서를 복원하는 드문 자료가 됐다.",
+          "textEn": "The wreck lay at great depth and the recorder beacon was not detected during the first underwater search. Recovery of the voyage data recorder later provided bridge audio and navigation data. Some channels were poor, but hours of recorded conversation gave investigators an unusual chronological view of decisions aboard a ship that left no survivors."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "probable cause는 단일 원인 목록이 아니다",
+          "headingEn": "Probable Cause Is Not a One-Line Explanation",
+          "textKo": "NTSB의 probable cause 문장은 선장의 판단을 중심에 두지만 보고서는 회사 관행, 훈련, 기상자료 제공, 선박 설계와 안전규정 등 다수의 안전문제를 함께 다룬다. 사고조사에서 “주원인”과 “기여요인”을 섞지 않는 것이 중요하다.",
+          "textEn": "The NTSB’s probable-cause statement focuses on the captain’s actions, but the full report also addresses company practices, training, weather products, vessel design and safety regulation. A careful reading distinguishes primary causal findings from contributing safety issues instead of compressing the report into one blame statement."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 음모가 아니라 의사결정 연쇄다",
+          "headingEn": "The Mystery Is a Decision Chain, Not a Conspiracy",
+          "textKo": "El Faro는 원인이 전혀 알려지지 않은 해난이 아니다. 오히려 기록장치와 공식조사 덕분에 왜 위험이 커지는 동안 항로가 충분히 멀어지지 않았는지, 기술문제가 언제 결정적이 됐는지 세밀하게 볼 수 있다. 해결된 사고에서도 인간·조직·기계가 연결되는 순간은 강한 조사 서사가 된다.",
+          "textEn": "El Faro is not an unexplained disappearance. Its value as an investigative story comes from the extraordinary amount of recovered evidence showing how weather judgment, organizational practice and mechanical vulnerability interacted. Even a solved accident can reveal a complex sequence rather than a single dramatic cause."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "VDR 음성, 항해·기상 데이터, 선체·기관 분석, NTSB probable cause를 서로 다른 증거층으로 유지한다. 생존자가 없는 사건에서 음성기록의 발언을 기술센서 데이터처럼 취급하지 않고, 보고서의 기여요인과 주원인을 구분한다. VDR에는 선교의 판단 과정이 풍부하게 남았지만, 모든 선내 공간과 기계 상태를 직접 기록하지는 않는다. 조사관들은 음성, 기상자료, 선박 설계, 침수 시뮬레이션을 서로 대조해 빈칸을 메웠고, 바로 이 다중자료 결합이 사고 재구성의 핵심이다.",
+          "textEn": "The method keeps VDR audio, navigation and weather data, engineering analysis and the NTSB probable-cause finding as distinct layers. In an accident with no survivors, spoken impressions are not treated as equivalent to instrument measurements, and contributing factors remain separate from the primary causal finding."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "향후 동일형 선박의 구조·운항 데이터와 당시 사용된 기상제품 전달 기록을 더 세밀하게 결합하면 특정 판단이 어느 시점에 다른 선택으로 바뀔 수 있었는지 더 정교한 counterfactual 분석이 가능하다. 또한 당시 여러 기상제품의 갱신시각과 선교가 실제로 확인한 시각을 분 단위로 맞추면, 정보 부족과 정보 활용 실패를 더 정확히 나눌 수 있다. 이는 단순히 최신 예보가 존재했다는 사실보다 의사결정 환경을 재구성하는 데 중요하다.",
+          "textEn": "More detailed integration of sister-ship performance and the exact delivery history of weather products could sharpen counterfactual analysis of when a different route or operational decision might still have altered the outcome."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: NTSB는 2015년 10월 1일 El Faro가 Bahamas 인근 대서양에서 허리케인 Joaquin 중 침몰해 33명 전원이 사망했다고 기록한다. probable cause는 선장이 허리케인을 피하기 위한 충분한 조치를 취하지 않고 최신 기상정보를 활용하지 못했으며 승무원 소집이 늦었던 점 등으로 판정됐다.\n\nNOT ESTABLISHED: 침몰을 하나의 단순한 “폭풍에 들어간 실수”로만 설명하면 선박 상태, 침수, 추진력 상실, 회사 안전관리와 기상정보 체계 같은 다른 기여요인을 지운다. 음성기록도 모든 기술 상태를 직접 측정하는 센서는 아니다.",
+          "textEn": "CONFIRMED / SUPPORTED: The NTSB records that El Faro sank near the Bahamas during Hurricane Joaquin on 1 October 2015, killing all 33 aboard. It determined the probable cause included the captain’s insufficient action to avoid the hurricane, failure to use the most current weather information, and a late decision to muster the crew.\n\nNOT ESTABLISHED: Reducing the loss to a single “bad route choice” erases vessel condition, flooding, loss of propulsion, company safety management and weather-information issues. The recovered audio also does not directly measure every technical condition on the ship."
+        }
+      ],
+      "factBoundary": {
+        "established": "The NTSB records that El Faro sank near the Bahamas during Hurricane Joaquin on 1 October 2015, killing all 33 aboard. It determined the probable cause included the captain’s insufficient action to avoid the hurricane, failure to use the most current weather information, and a late decision to muster the crew.",
+        "notEstablished": "Reducing the loss to a single “bad route choice” erases vessel condition, flooding, loss of propulsion, company safety management and weather-information issues. The recovered audio also does not directly measure every technical condition on the ship."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "EL_FARO_2015-C1",
+      "status": "CONFIRMED",
+      "statementKo": "NTSB는 2015년 10월 1일 El Faro가 Bahamas 인근 대서양에서 허리케인 Joaquin 중 침몰해 33명 전원이 사망했다고 기록한다. probable cause는 선장이 허리케인을 피하기 위한 충분한 조치를 취하지 않고 최신 기상정보를 활용하지 못했으며 승무원 소집이 늦었던 점 등으로 판정됐다.",
+      "statementEn": "The NTSB records that El Faro sank near the Bahamas during Hurricane Joaquin on 1 October 2015, killing all 33 aboard. It determined the probable cause included the captain’s insufficient action to avoid the hurricane, failure to use the most current weather information, and a late decision to muster the crew.",
+      "sourceRefs": [
+        "NTSB_EL_FARO",
+        "NTSB_EL_FARO_REPORT"
+      ]
+    },
+    {
+      "claimId": "EL_FARO_2015-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "침몰을 하나의 단순한 “폭풍에 들어간 실수”로만 설명하면 선박 상태, 침수, 추진력 상실, 회사 안전관리와 기상정보 체계 같은 다른 기여요인을 지운다. 음성기록도 모든 기술 상태를 직접 측정하는 센서는 아니다.",
+      "statementEn": "Reducing the loss to a single “bad route choice” erases vessel condition, flooding, loss of propulsion, company safety management and weather-information issues. The recovered audio also does not directly measure every technical condition on the ship.",
+      "sourceRefs": [
+        "NTSB_EL_FARO",
+        "NTSB_EL_FARO_REPORT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NTSB_EL_FARO",
+      "title": "Sinking of the Freight Vessel El Faro",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/investigations/Pages/DCA16MM001.aspx",
+      "sourceType": "OFFICIAL_INVESTIGATION"
+    },
+    {
+      "sourceId": "NTSB_EL_FARO_REPORT",
+      "title": "Marine Accident Report MAR-17/01",
+      "publisher": "National Transportation Safety Board",
+      "url": "https://www.ntsb.gov/investigations/AccidentReports/Reports/MAR1701.pdf",
+      "sourceType": "OFFICIAL_REPORT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "el-faro-2015-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key records, discoveries and investigation.",
+      "altKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key records, discoveries and investigation.",
+      "sourceRefs": [
+        "NTSB_EL_FARO",
+        "NTSB_EL_FARO_REPORT"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "el-faro-2015__el-faro-2015-v01__ko.png",
+          "sha256": "5c49f109ddd357ff80a127d911ae422f2031d1ab05410941b4f9a5b263c76677",
+          "width": 1600,
+          "height": 900,
+          "fileName": "el-faro-2015__el-faro-2015-v01__ko.png"
+        },
+        "en": {
+          "file": "el-faro-2015__el-faro-2015-v01__en.png",
+          "sha256": "fdad01475f9c12fdcaef91a165b4914b6d5c279a0049ea4e02ed442f807b8606",
+          "width": 1600,
+          "height": 900,
+          "fileName": "el-faro-2015__el-faro-2015-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "el-faro-2015-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "altKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "sourceRefs": [
+        "NTSB_EL_FARO",
+        "NTSB_EL_FARO_REPORT"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "el-faro-2015__el-faro-2015-v02__ko.png",
+          "sha256": "cbd15f08c25d7cd76d4b92777f4c2420a992218dcf4261427534fd4bf0295d3c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "el-faro-2015__el-faro-2015-v02__ko.png"
+        },
+        "en": {
+          "file": "el-faro-2015__el-faro-2015-v02__en.png",
+          "sha256": "2c0dffac2d636d37de1a43187ddd39fd42e16775b021dbcaa1aea3ed40593050",
+          "width": 1600,
+          "height": 900,
+          "fileName": "el-faro-2015__el-faro-2015-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "el-faro-2015-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map connecting references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map connecting references to central claims.",
+      "sourceRefs": [
+        "NTSB_EL_FARO",
+        "NTSB_EL_FARO_REPORT"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "el-faro-2015__el-faro-2015-v03__ko.png",
+          "sha256": "896015fe044ae229f87e7d7496a1a0c7f07dfb59d690b0aec99203ec1f55e780",
+          "width": 1600,
+          "height": 900,
+          "fileName": "el-faro-2015__el-faro-2015-v03__ko.png"
+        },
+        "en": {
+          "file": "el-faro-2015__el-faro-2015-v03__en.png",
+          "sha256": "e4b82431f1321b8006a45ad6e3f81570e944fb8e47ea65bf7c6d705783284f61",
+          "width": 1600,
+          "height": 900,
+          "fileName": "el-faro-2015__el-faro-2015-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "United States / Bahamas",
+    "era": "2015–2017 investigation",
+    "genre": "Maritime / Aviation",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Maritime / Aviation",
+    "resolution": "unknown",
+    "countries": [
+      "United States / Bahamas"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1614,
+    "enBodyWords": 418
+  }
+}

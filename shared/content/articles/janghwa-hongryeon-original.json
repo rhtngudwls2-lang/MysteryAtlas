@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "janghwa-hongryeon-original",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "장화홍련전의 원전과 철산 전승",
+    "canonicalTitleEn": "Janghwa and Hongryeon: From Cheolsan Tradition to Classic Novel",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "장화홍련은 실제 원한 사건이었나, 후대 소설이 만든 기억이었나",
+      "hook": "《장화홍련전》은 단순한 귀신소설이 아니라 철산 부사 전동흘이 억울한 죽음을 처리했다는 사실담을 소재로 삼았다고 전해지는 작품이다. 그러나 현존하는 초기 텍스트는 사건보다 훨씬 뒤에 기록됐고, 여러 이본은 결말까지 달라진다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1818년 문헌이 붙잡은 오래된 이야기",
+          "headingEn": "An 1818 Text Captures an Older Story",
+          "textKo": "현존 초기 이본으로 소개되는 박인수 한문본은 1818년에 작성됐다. 이 기록은 전동흘의 후손이 간청해 쓰였다고 전하며, 철산에서 억울하게 죽은 장화와 홍련 사건을 전동흘이 처리했다는 가족·지역 기억을 문학의 출발점으로 제시한다. 중요한 점은 “17세기 사건의 원문 기록”과 “19세기에 정리된 전승”을 같은 것으로 보지 않는 것이다.",
+          "textEn": "The early surviving classical-Chinese version attributed to Park In-su was written in 1818 at the request of a descendant of Jeon Dong-heul. It presents the tale as rooted in a Cheolsan case the magistrate had handled generations earlier. The crucial distinction is between a seventeenth-century event as remembered and a nineteenth-century literary text that preserves that memory."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "귀신담과 사법 서사가 한 작품에 겹친다",
+          "headingEn": "Ghost Story and Judicial Narrative Overlap",
+          "textKo": "작품의 힘은 원혼의 출현만이 아니라 억울한 죽음이 관청의 조사와 판결을 통해 해소된다는 구조에서 나온다. 그래서 이 이야기는 공포설화, 가정비극, 송사소설의 성격을 동시에 가진다. 후대 독자는 초자연 장면에 집중하기 쉽지만, 전승의 중심에는 누가 거짓말했고 누가 억울하게 죽었는지를 재판으로 가리는 과정도 있다.",
+          "textEn": "The tale is powerful not only because the dead sisters return as spirits, but because wrongful deaths are resolved through investigation and judgment. It combines haunting, domestic tragedy and courtroom narrative. The supernatural scenes can dominate modern retellings, yet the story also revolves around testimony, deception and an official attempting to establish what happened."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "이본이 달라지면 “사건”도 달라진다",
+          "headingEn": "Variant Endings Change the Event Itself",
+          "textKo": "백과사전은 결말을 네 계열로 나눈다. 어떤 판본은 계모 처벌로 끝나고, 어떤 판본은 지옥 장면을 덧붙이며, 또 다른 판본은 장화의 회생이나 쌍둥이 환생으로 이야기를 확장한다. 이런 차이는 핵심 모티프가 오래 살아남았음을 보여주지만, 동시에 어느 세부를 실제 사건의 기억으로 볼 것인지 훨씬 어렵게 만든다.",
+          "textEn": "The Academy of Korean Studies divides the surviving versions into several ending traditions. Some end with punishment of the stepmother, others add infernal punishment, while still others revive Janghwa or transform the sisters through reincarnation. Variation proves the vitality of the tradition but makes it dangerous to treat any single literary detail as a stable memory of a historical case."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "철산 전승은 증거이자 해석의 출발점이다",
+          "headingEn": "Cheolsan Tradition Is Evidence, Not a Court File",
+          "textKo": "전동흘과 철산을 연결하는 전승은 작품이 완전히 무연고한 허구라고 보기 어렵게 하지만, 후손의 기억과 실록류 편찬도 당시 수사기록과 같은 증거층은 아니다. 지역의 사실담이 소설로 변형되는 과정에서는 인과관계, 악인의 성격, 초자연적 보상 같은 요소가 강화될 수 있다. 그래서 전승의 존재와 범죄의 역사적 재구성을 분리해야 한다.",
+          "textEn": "The connection to Jeon Dong-heul and Cheolsan makes a completely context-free invention less likely, but family memory and later biographical compilations are not the same evidential layer as a contemporary case file. As oral memory becomes literature, motives, villains and supernatural justice can be sharpened. The existence of tradition therefore must be separated from a forensic reconstruction."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "남는 미스터리는 “귀신이 있었나”보다 크다",
+          "headingEn": "The Mystery Is Larger Than “Were There Ghosts?”",
+          "textKo": "가장 흥미로운 질문은 유령의 실재 여부 하나가 아니다. 얼마나 오래된 사건 기억이 1818년 텍스트에 남았는지, 후대 이본이 어떤 부분을 바꿨는지, 실제 관청 사건과 가족 전승과 문학적 정의가 어디서 갈라지는지가 핵심이다. 이 경계를 보존하면 장화홍련전은 단순 괴담이 아니라 기록과 기억의 변형을 추적하는 미스터리가 된다.",
+          "textEn": "The most productive question is not simply whether ghosts existed. It is how much older case memory entered the 1818 text, which elements changed across editions, and where local history ends and literary justice begins. Preserving those boundaries turns Janghwa and Hongryeon from a simple ghost story into a mystery about evidence, memory and transformation."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "사건을 다룰 때 17세기 사실담으로 전해지는 층, 1818년 박인수본, 1865년 이후 실록류, 근대 목판·활자 이본을 시간순으로 분리한다. 같은 이름이 반복된다는 이유만으로 서로 다른 시대의 텍스트를 하나의 동시대 기록처럼 합치지 않는다. 특히 작품 안의 관청 처리 장면이 실제 행정 절차를 얼마나 반영하는지는 별도 검토가 필요하다. 후대 독자가 익숙한 계모 악인상과 환생 결말은 판본별 변이가 크므로, 가장 오래된 공통핵과 후대 확장을 나눠 읽어야 한다.",
+          "textEn": "The evidential method separates the purported seventeenth-century case tradition, the 1818 Park In-su text, later family compilations, and modern woodblock or movable-type versions. Repeated names do not turn texts produced in different centuries into a single contemporary record."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "더 강한 역사적 판정을 위해서는 전동흘 재임기의 독립 관청 문서나 사건 당사자를 특정할 동시대 자료가 필요하다. 그런 자료가 확보되면 문학적 이본과 대조해 어떤 요소가 오래된 사건 기억인지 훨씬 정확하게 가를 수 있다.",
+          "textEn": "A stronger historical verdict would require independent contemporary administrative or judicial records from Jeon Dong-heul’s tenure that identify the people and incident. Such material could be compared with later variants to determine which elements plausibly preserve older case memory."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 한국민족문화대백과사전은 박인수가 1818년에 쓴 한문본을 초기 이본으로 설명하며, 전동흘이 효종 연간 철산부사로 있을 때 처리했다는 장화·홍련 사건의 사실담을 소재로 삼았다고 정리한다. 필사본·목판본·활자본과 여러 결말 계열도 전한다.\n\nNOT ESTABLISHED: 장화와 홍련의 죽음, 계모의 범행, 원혼 출현 등 소설의 모든 장면이 17세기 실제 사건 기록과 일치한다는 점은 확정되지 않는다. 1818년 텍스트는 사건으로 전해지는 시기와 큰 시간차가 있고 이본 간 변형도 크다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Academy of Korean Studies describes an 1818 classical-Chinese text by Park In-su as an early surviving version and says the tale used a purported case handled by Cheolsan magistrate Jeon Dong-heul during King Hyojong’s reign. Manuscript, woodblock and movable-type versions survive with multiple ending traditions.\n\nNOT ESTABLISHED: The surviving evidence does not establish that every literary scene—murder details, the stepmother’s plot, or ghostly appearances—matches a seventeenth-century judicial event. The surviving early text is much later than the alleged events and the variants diverge substantially."
+        }
+      ],
+      "factBoundary": {
+        "established": "한국민족문화대백과사전은 박인수가 1818년에 쓴 한문본을 초기 이본으로 설명하며, 전동흘이 효종 연간 철산부사로 있을 때 처리했다는 장화·홍련 사건의 사실담을 소재로 삼았다고 정리한다. 필사본·목판본·활자본과 여러 결말 계열도 전한다.",
+        "notEstablished": "장화와 홍련의 죽음, 계모의 범행, 원혼 출현 등 소설의 모든 장면이 17세기 실제 사건 기록과 일치한다는 점은 확정되지 않는다. 1818년 텍스트는 사건으로 전해지는 시기와 큰 시간차가 있고 이본 간 변형도 크다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Janghwa and Hongryeon: Historical Case, Local Memory, or Literary Construction?",
+      "hook": "Janghwa and Hongryeon is remembered as a ghost story, but the literary tradition says it drew on a Cheolsan case handled by magistrate Jeon Dong-heul. The earliest surviving texts are much later than the alleged events, and different versions even change the ending.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1818년 문헌이 붙잡은 오래된 이야기",
+          "headingEn": "An 1818 Text Captures an Older Story",
+          "textKo": "현존 초기 이본으로 소개되는 박인수 한문본은 1818년에 작성됐다. 이 기록은 전동흘의 후손이 간청해 쓰였다고 전하며, 철산에서 억울하게 죽은 장화와 홍련 사건을 전동흘이 처리했다는 가족·지역 기억을 문학의 출발점으로 제시한다. 중요한 점은 “17세기 사건의 원문 기록”과 “19세기에 정리된 전승”을 같은 것으로 보지 않는 것이다.",
+          "textEn": "The early surviving classical-Chinese version attributed to Park In-su was written in 1818 at the request of a descendant of Jeon Dong-heul. It presents the tale as rooted in a Cheolsan case the magistrate had handled generations earlier. The crucial distinction is between a seventeenth-century event as remembered and a nineteenth-century literary text that preserves that memory."
+        },
+        {
+          "blockId": "02",
+          "type": "SOURCE_READING",
+          "headingKo": "귀신담과 사법 서사가 한 작품에 겹친다",
+          "headingEn": "Ghost Story and Judicial Narrative Overlap",
+          "textKo": "작품의 힘은 원혼의 출현만이 아니라 억울한 죽음이 관청의 조사와 판결을 통해 해소된다는 구조에서 나온다. 그래서 이 이야기는 공포설화, 가정비극, 송사소설의 성격을 동시에 가진다. 후대 독자는 초자연 장면에 집중하기 쉽지만, 전승의 중심에는 누가 거짓말했고 누가 억울하게 죽었는지를 재판으로 가리는 과정도 있다.",
+          "textEn": "The tale is powerful not only because the dead sisters return as spirits, but because wrongful deaths are resolved through investigation and judgment. It combines haunting, domestic tragedy and courtroom narrative. The supernatural scenes can dominate modern retellings, yet the story also revolves around testimony, deception and an official attempting to establish what happened."
+        },
+        {
+          "blockId": "03",
+          "type": "EVIDENCE_NARRATIVE",
+          "headingKo": "이본이 달라지면 “사건”도 달라진다",
+          "headingEn": "Variant Endings Change the Event Itself",
+          "textKo": "백과사전은 결말을 네 계열로 나눈다. 어떤 판본은 계모 처벌로 끝나고, 어떤 판본은 지옥 장면을 덧붙이며, 또 다른 판본은 장화의 회생이나 쌍둥이 환생으로 이야기를 확장한다. 이런 차이는 핵심 모티프가 오래 살아남았음을 보여주지만, 동시에 어느 세부를 실제 사건의 기억으로 볼 것인지 훨씬 어렵게 만든다.",
+          "textEn": "The Academy of Korean Studies divides the surviving versions into several ending traditions. Some end with punishment of the stepmother, others add infernal punishment, while still others revive Janghwa or transform the sisters through reincarnation. Variation proves the vitality of the tradition but makes it dangerous to treat any single literary detail as a stable memory of a historical case."
+        },
+        {
+          "blockId": "04",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "철산 전승은 증거이자 해석의 출발점이다",
+          "headingEn": "Cheolsan Tradition Is Evidence, Not a Court File",
+          "textKo": "전동흘과 철산을 연결하는 전승은 작품이 완전히 무연고한 허구라고 보기 어렵게 하지만, 후손의 기억과 실록류 편찬도 당시 수사기록과 같은 증거층은 아니다. 지역의 사실담이 소설로 변형되는 과정에서는 인과관계, 악인의 성격, 초자연적 보상 같은 요소가 강화될 수 있다. 그래서 전승의 존재와 범죄의 역사적 재구성을 분리해야 한다.",
+          "textEn": "The connection to Jeon Dong-heul and Cheolsan makes a completely context-free invention less likely, but family memory and later biographical compilations are not the same evidential layer as a contemporary case file. As oral memory becomes literature, motives, villains and supernatural justice can be sharpened. The existence of tradition therefore must be separated from a forensic reconstruction."
+        },
+        {
+          "blockId": "05",
+          "type": "IDENTITY_GATE",
+          "headingKo": "남는 미스터리는 “귀신이 있었나”보다 크다",
+          "headingEn": "The Mystery Is Larger Than “Were There Ghosts?”",
+          "textKo": "가장 흥미로운 질문은 유령의 실재 여부 하나가 아니다. 얼마나 오래된 사건 기억이 1818년 텍스트에 남았는지, 후대 이본이 어떤 부분을 바꿨는지, 실제 관청 사건과 가족 전승과 문학적 정의가 어디서 갈라지는지가 핵심이다. 이 경계를 보존하면 장화홍련전은 단순 괴담이 아니라 기록과 기억의 변형을 추적하는 미스터리가 된다.",
+          "textEn": "The most productive question is not simply whether ghosts existed. It is how much older case memory entered the 1818 text, which elements changed across editions, and where local history ends and literary justice begins. Preserving those boundaries turns Janghwa and Hongryeon from a simple ghost story into a mystery about evidence, memory and transformation."
+        },
+        {
+          "blockId": "06",
+          "type": "EVIDENCE_LIMIT",
+          "headingKo": "자료를 읽는 기준",
+          "headingEn": "How the Evidence Is Read",
+          "textKo": "사건을 다룰 때 17세기 사실담으로 전해지는 층, 1818년 박인수본, 1865년 이후 실록류, 근대 목판·활자 이본을 시간순으로 분리한다. 같은 이름이 반복된다는 이유만으로 서로 다른 시대의 텍스트를 하나의 동시대 기록처럼 합치지 않는다. 특히 작품 안의 관청 처리 장면이 실제 행정 절차를 얼마나 반영하는지는 별도 검토가 필요하다. 후대 독자가 익숙한 계모 악인상과 환생 결말은 판본별 변이가 크므로, 가장 오래된 공통핵과 후대 확장을 나눠 읽어야 한다.",
+          "textEn": "The evidential method separates the purported seventeenth-century case tradition, the 1818 Park In-su text, later family compilations, and modern woodblock or movable-type versions. Repeated names do not turn texts produced in different centuries into a single contemporary record."
+        },
+        {
+          "blockId": "07",
+          "type": "EVIDENCE_THRESHOLD",
+          "headingKo": "무엇이 판단을 더 강하게 바꿀까",
+          "headingEn": "What Evidence Would Change the Verdict?",
+          "textKo": "더 강한 역사적 판정을 위해서는 전동흘 재임기의 독립 관청 문서나 사건 당사자를 특정할 동시대 자료가 필요하다. 그런 자료가 확보되면 문학적 이본과 대조해 어떤 요소가 오래된 사건 기억인지 훨씬 정확하게 가를 수 있다.",
+          "textEn": "A stronger historical verdict would require independent contemporary administrative or judicial records from Jeon Dong-heul’s tenure that identify the people and incident. Such material could be compared with later variants to determine which elements plausibly preserve older case memory."
+        },
+        {
+          "blockId": "08",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 한국민족문화대백과사전은 박인수가 1818년에 쓴 한문본을 초기 이본으로 설명하며, 전동흘이 효종 연간 철산부사로 있을 때 처리했다는 장화·홍련 사건의 사실담을 소재로 삼았다고 정리한다. 필사본·목판본·활자본과 여러 결말 계열도 전한다.\n\nNOT ESTABLISHED: 장화와 홍련의 죽음, 계모의 범행, 원혼 출현 등 소설의 모든 장면이 17세기 실제 사건 기록과 일치한다는 점은 확정되지 않는다. 1818년 텍스트는 사건으로 전해지는 시기와 큰 시간차가 있고 이본 간 변형도 크다.",
+          "textEn": "CONFIRMED / SUPPORTED: The Academy of Korean Studies describes an 1818 classical-Chinese text by Park In-su as an early surviving version and says the tale used a purported case handled by Cheolsan magistrate Jeon Dong-heul during King Hyojong’s reign. Manuscript, woodblock and movable-type versions survive with multiple ending traditions.\n\nNOT ESTABLISHED: The surviving evidence does not establish that every literary scene—murder details, the stepmother’s plot, or ghostly appearances—matches a seventeenth-century judicial event. The surviving early text is much later than the alleged events and the variants diverge substantially."
+        }
+      ],
+      "factBoundary": {
+        "established": "The Academy of Korean Studies describes an 1818 classical-Chinese text by Park In-su as an early surviving version and says the tale used a purported case handled by Cheolsan magistrate Jeon Dong-heul during King Hyojong’s reign. Manuscript, woodblock and movable-type versions survive with multiple ending traditions.",
+        "notEstablished": "The surviving evidence does not establish that every literary scene—murder details, the stepmother’s plot, or ghostly appearances—matches a seventeenth-century judicial event. The surviving early text is much later than the alleged events and the variants diverge substantially."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "JANGHWA_HONGRYEON_ORIGINAL-C1",
+      "status": "CONFIRMED",
+      "statementKo": "한국민족문화대백과사전은 박인수가 1818년에 쓴 한문본을 초기 이본으로 설명하며, 전동흘이 효종 연간 철산부사로 있을 때 처리했다는 장화·홍련 사건의 사실담을 소재로 삼았다고 정리한다. 필사본·목판본·활자본과 여러 결말 계열도 전한다.",
+      "statementEn": "The Academy of Korean Studies describes an 1818 classical-Chinese text by Park In-su as an early surviving version and says the tale used a purported case handled by Cheolsan magistrate Jeon Dong-heul during King Hyojong’s reign. Manuscript, woodblock and movable-type versions survive with multiple ending traditions.",
+      "sourceRefs": [
+        "AKS_JANGHWA"
+      ]
+    },
+    {
+      "claimId": "JANGHWA_HONGRYEON_ORIGINAL-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "장화와 홍련의 죽음, 계모의 범행, 원혼 출현 등 소설의 모든 장면이 17세기 실제 사건 기록과 일치한다는 점은 확정되지 않는다. 1818년 텍스트는 사건으로 전해지는 시기와 큰 시간차가 있고 이본 간 변형도 크다.",
+      "statementEn": "The surviving evidence does not establish that every literary scene—murder details, the stepmother’s plot, or ghostly appearances—matches a seventeenth-century judicial event. The surviving early text is much later than the alleged events and the variants diverge substantially.",
+      "sourceRefs": [
+        "AKS_JANGHWA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "AKS_JANGHWA",
+      "title": "장화홍련전",
+      "publisher": "한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048918",
+      "sourceType": "ACADEMIC_ENCYCLOPEDIA"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "janghwa-hongryeon-original-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of key records, discoveries and investigation.",
+      "altKo": "핵심 기록·발견·조사 흐름을 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of key records, discoveries and investigation.",
+      "sourceRefs": [
+        "AKS_JANGHWA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "janghwa-hongryeon-original__janghwa-hongryeon-original-v01__ko.png",
+          "sha256": "14f13985e28ee9ad0d1964c76991d8576ac03ac35e5db764245077d76b9adb8a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "janghwa-hongryeon-original__janghwa-hongryeon-original-v01__ko.png"
+        },
+        "en": {
+          "file": "janghwa-hongryeon-original__janghwa-hongryeon-original-v01__en.png",
+          "sha256": "7c24dbe0ea7a799ed182fec9950221958fe3ec40395c088caec1d98ddafd6e34",
+          "width": 1600,
+          "height": 900,
+          "fileName": "janghwa-hongryeon-original__janghwa-hongryeon-original-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "janghwa-hongryeon-original-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "captionEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "altKo": "확인된 사실과 미확정 해석을 구분한 프로젝트 원본 증거 카드.",
+      "altEn": "Project-original evidence card separating established facts from unresolved interpretation.",
+      "sourceRefs": [
+        "AKS_JANGHWA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "janghwa-hongryeon-original__janghwa-hongryeon-original-v02__ko.png",
+          "sha256": "dd115de1e8ee5e16e276eb0be4263d6ade75e0a95de439a3e9c4fd4baa6e4b8e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "janghwa-hongryeon-original__janghwa-hongryeon-original-v02__ko.png"
+        },
+        "en": {
+          "file": "janghwa-hongryeon-original__janghwa-hongryeon-original-v02__en.png",
+          "sha256": "48aca05fdf2274b7ad9bcee2d0ea6cc6470cd9a70127bac525d9cdab5663751d",
+          "width": 1600,
+          "height": 900,
+          "fileName": "janghwa-hongryeon-original__janghwa-hongryeon-original-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "janghwa-hongryeon-original-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map connecting references to central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이 관계를 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map connecting references to central claims.",
+      "sourceRefs": [
+        "AKS_JANGHWA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "janghwa-hongryeon-original__janghwa-hongryeon-original-v03__ko.png",
+          "sha256": "371a4fed535f07443e1d8eb2fe215ea47dfd136becea55cd741de4a64c7555fb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "janghwa-hongryeon-original__janghwa-hongryeon-original-v03__ko.png"
+        },
+        "en": {
+          "file": "janghwa-hongryeon-original__janghwa-hongryeon-original-v03__en.png",
+          "sha256": "30c37cefc6f1cfe14354fb528dd87e0a279c90fce304473a39ef6e2e9a5eefd4",
+          "width": 1600,
+          "height": 900,
+          "fileName": "janghwa-hongryeon-original__janghwa-hongryeon-original-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Korea",
+    "era": "17th-century story tradition; 1818 early extant text",
+    "genre": "Paranormal / Haunting / Folklore",
+    "rabbitHole": [],
+    "readingTier": "COMPACT_FILE",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "resolution": "unknown",
+    "countries": [
+      "Korea"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "factBoundary": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1563,
+    "enBodyWords": 448
+  }
+}
