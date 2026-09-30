@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "vasa-sinking-investigation",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "바사호 침몰과 1628년 조사",
+    "canonicalTitleEn": "Vasa: The 1628 Sinking, Inquest, and Evidence from the Wreck",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "첫 항해 20분 만에 가라앉은 군함은 왜 아무도 처벌하지 못했나",
+      "hook": "바사는 1628년 스톡홀름을 떠난 지 약 20분 만에 전복됐다. 선원들은 대포가 고정됐고 술에 취하지 않았다고 진술했으며, 배가 지나치게 불안정했다고 말했다. 333년 뒤 인양된 선체는 당시 조사 기록을 물리적 증거와 비교할 수 있게 했다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1.3킬로미터짜리 첫 항해",
+          "headingEn": "A Maiden Voyage of About 1.3 Kilometres",
+          "textKo": "바사는 1628년 8월 10일 스톡홀름 항구를 떠난 뒤 멀리 가지 못했다. 약한 돌풍에 배가 기울었고 열린 하부 포문으로 물이 쏟아지면서 수분 안에 가라앉았다. 화려한 신형 군함이 시민과 외교관이 보는 앞에서 침몰했다는 점 때문에 즉시 책임 조사가 시작됐다.",
+          "textEn": "Vasa sailed only a short distance from Stockholm on August 10, 1628. A gust made the ship heel, water entered through the open lower gunports, and the new warship sank within minutes in view of citizens and foreign observers. The visibility and political importance of the disaster triggered an immediate inquiry. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "WARNING",
+          "headingKo": "출항 전 이미 흔들림이 보였다",
+          "headingEn": "Instability Was Visible Before Departure",
+          "textKo": "박물관이 정리한 동시대 증언에는 출항 전 30명이 갑판을 왕복하는 안정성 시험이 나온다. 배가 심하게 흔들려 시험이 중단됐지만 출항은 취소되지 않았다. 이 대목은 사고가 완전히 예측 불가능한 돌발상황이 아니라, 위험 신호가 이미 존재한 상태에서 일어났음을 보여준다.",
+          "textEn": "Contemporary testimony preserved by the museum describes a pre-sailing stability test in which thirty men ran back and forth across the deck. The roll became alarming and the test was stopped, yet the voyage was not cancelled. The episode shows that the loss followed visible warning signs rather than a wholly unforeseeable event. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "INQUEST",
+          "headingKo": "선장은 가장 먼저 의심받았다",
+          "headingEn": "The Captain Was Questioned First",
+          "textKo": "침몰 직후 선장 Söfring Hansson은 체포돼 대포가 제대로 고정됐는지, 승무원이 술에 취했는지 질문받았다. 그는 두 가지를 모두 부인하며 배 자체가 너무 불안정했다고 진술했다. 승무원들의 설명도 같은 방향이었다. 문제는 “누가 잘못 조작했는가”보다 “왜 이런 배가 출항했는가”로 이동했다.",
+          "textEn": "Captain Söfring Hansson was arrested and questioned about unsecured guns and drunken crew. He rejected both explanations and said the ship itself was too unstable; other crew testimony pointed the same way. The inquiry therefore shifted from asking who mishandled the ship to asking why such an unstable vessel had been allowed to sail. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "DESIGN",
+          "headingKo": "너무 높은 상부, 너무 작은 수중부",
+          "headingEn": "Top-Heavy Proportions",
+          "textKo": "현대의 선박 안정성 계산은 17세기 조선소에 없었다. 바사박물관은 선체 수중부에 비해 상부구조가 크고 무거워 무게중심이 지나치게 높았다고 설명한다. 열린 포문은 물 유입 경로가 됐지만, 근본적으로는 작은 바람에도 크게 기울 수 있는 설계가 사고 취약성을 만들었다.",
+          "textEn": "Seventeenth-century shipbuilders lacked modern stability calculations. The Vasa Museum explains that the upper works were too tall and heavy relative to the underwater hull, leaving the center of gravity too high. Open gunports provided a path for flooding, but the ship’s basic proportions made it dangerously sensitive to even modest wind. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "BLAME",
+          "headingKo": "조사는 했지만 처벌할 사람은 없었다",
+          "headingEn": "An Inquest Without a Punished Culprit",
+          "textKo": "국왕은 책임자를 찾으라고 요구했지만 조사위원회는 명확한 개인 범죄를 입증하지 못했다. 설계자 Henrik Hybertsson은 이미 사망했고, 건조는 경험칙과 왕실 요구 속에서 진행됐다. “왕의 명령 때문에 침몰했다”거나 “설계자 한 명이 모든 것을 망쳤다”는 단순한 설명은 살아남은 기록보다 더 단정적이다.",
+          "textEn": "The king demanded accountability, but the inquiry did not establish a clear individual crime. Designer Henrik Hybertsson was already dead, and construction had unfolded through experience-based practice and royal requirements. Simple stories that blame only the king or only one shipwright go beyond what the surviving record can securely assign. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "WRECK",
+          "headingKo": "1961년 인양된 선체가 두 번째 증언이 됐다",
+          "headingEn": "The Raised Hull Became a Second Witness",
+          "textKo": "333년 동안 항구 바닥에 있던 바사는 1961년 인양됐다. 이어진 발굴에서 3만 점이 넘는 물건이 회수됐고 선체 자체도 구조와 하중을 분석할 수 있는 거대한 자료가 됐다. 1628년 사람들의 진술과 20세기 이후 물리적 연구를 겹쳐 볼 수 있다는 점이 이 사건을 특별하게 만든다.",
+          "textEn": "Vasa remained on the harbor floor for 333 years before being raised in 1961. Excavation recovered more than 30,000 objects, while the hull itself became an enormous dataset for structural analysis. The case is unusual because seventeenth-century testimony can be compared directly with a largely surviving ship. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "침몰 원인은 알려졌지만 책임의 질문은 남았다",
+          "headingEn": "The Cause Is Clearer Than the Question of Responsibility",
+          "textKo": "바사호는 오늘날 불안정한 설계와 열린 포문을 통해 물이 들어온 과정이 잘 설명되지만, 1628년 조사에서는 그런 기술적 사실을 곧바로 개인의 책임으로 바꾸기 어려웠다. 출항 전 복원력에 문제가 있다는 신호가 있었고, 왕실의 요구와 조선 과정, 선체 비례가 얽혀 있었다. 결국 조사에서 명확한 처벌 대상은 나오지 않았다. 이 사건의 흥미는 “왜 가라앉았나”를 현대 공학으로 재현할 수 있으면서도 “누가 그 위험을 알고도 출항시켰나”라는 당시 조직적 책임은 훨씬 흐릿하다는 데 있다.",
+          "textEn": "Modern analysis can describe Vasa’s instability and the flooding through its open gunports, yet the 1628 inquiry struggled to convert technical failure into individual blame. Warning signs about stability existed before departure, while royal expectations, shipbuilding practice, changing dimensions, and command decisions were entangled. The inquiry ultimately produced no simple culprit. That asymmetry is what makes the case useful: the physical mechanism of sinking can be reconstructed with considerable confidence, while the organizational question—who understood the risk and who had the authority to stop the sailing—remains much less tidy."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "“왜 가라앉았나”보다 “왜 출항했나”",
+          "headingEn": "From Sinking Mechanism to Organizational Question",
+          "textKo": "바사의 물리적 침몰 메커니즘은 오늘날 상당히 잘 이해된다. 남는 역사적 미스터리는 위험 신호가 있었는데도 왜 프로젝트가 계속됐는지, 책임이 설계·지휘·조선 관행 사이에서 어떻게 분산됐는지다. 완전히 해결된 공학 문제 뒤에 조직 의사결정의 빈칸이 남아 있다.",
+          "textEn": "The physical mechanism of Vasa’s sinking is now well understood. The more interesting historical mystery is why the project continued despite warning signs and how responsibility was distributed among design, command, and shipbuilding practice. A solved engineering failure still leaves gaps in the organizational story. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 바사는 1628년 8월 10일 첫 항해 중 돌풍에 기울고 열린 하부 포문으로 물이 들어오면서 침몰했다. 동시대 조사에서 불안정성이 지적됐으나 특정인을 처벌하지 못했고, 선체는 1961년 인양됐다.\n\nNOT ESTABLISHED: 침몰 원인을 한 사람의 설계 실수나 한 번의 명령만으로 환원할 수 없으며, 당시 건조 관행과 왕실 요구, 설계 변경의 책임 비율을 정확히 수치화한 동시대 기록은 없다.",
+          "textEn": "CONFIRMED / SUPPORTED: Vasa sank on August 10, 1628, after heeling in a gust and taking water through open lower gunports. Contemporary investigators recognized instability but punished no single culprit, and the ship was raised in 1961.\n\nNOT ESTABLISHED: The loss cannot be reduced to one designer’s mistake or one order, and surviving seventeenth-century records do not assign precise shares of responsibility among design practice, royal demands, and construction decisions."
+        }
+      ],
+      "factBoundary": {
+        "established": "바사는 1628년 8월 10일 첫 항해 중 돌풍에 기울고 열린 하부 포문으로 물이 들어오면서 침몰했다. 동시대 조사에서 불안정성이 지적됐으나 특정인을 처벌하지 못했고, 선체는 1961년 인양됐다.",
+        "notEstablished": "침몰 원인을 한 사람의 설계 실수나 한 번의 명령만으로 환원할 수 없으며, 당시 건조 관행과 왕실 요구, 설계 변경의 책임 비율을 정확히 수치화한 동시대 기록은 없다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Why Did a Warship Sink Within Minutes—and Leave the Inquest Without a Culprit?",
+      "hook": "Vasa capsized in 1628 after only about twenty minutes under sail. Crew members said the guns were secured and the men sober, while repeatedly describing the ship as dangerously unstable. Raised 333 years later, the hull lets historians compare the seventeenth-century inquest with physical evidence.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1.3킬로미터짜리 첫 항해",
+          "headingEn": "A Maiden Voyage of About 1.3 Kilometres",
+          "textKo": "바사는 1628년 8월 10일 스톡홀름 항구를 떠난 뒤 멀리 가지 못했다. 약한 돌풍에 배가 기울었고 열린 하부 포문으로 물이 쏟아지면서 수분 안에 가라앉았다. 화려한 신형 군함이 시민과 외교관이 보는 앞에서 침몰했다는 점 때문에 즉시 책임 조사가 시작됐다.",
+          "textEn": "Vasa sailed only a short distance from Stockholm on August 10, 1628. A gust made the ship heel, water entered through the open lower gunports, and the new warship sank within minutes in view of citizens and foreign observers. The visibility and political importance of the disaster triggered an immediate inquiry. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "WARNING",
+          "headingKo": "출항 전 이미 흔들림이 보였다",
+          "headingEn": "Instability Was Visible Before Departure",
+          "textKo": "박물관이 정리한 동시대 증언에는 출항 전 30명이 갑판을 왕복하는 안정성 시험이 나온다. 배가 심하게 흔들려 시험이 중단됐지만 출항은 취소되지 않았다. 이 대목은 사고가 완전히 예측 불가능한 돌발상황이 아니라, 위험 신호가 이미 존재한 상태에서 일어났음을 보여준다.",
+          "textEn": "Contemporary testimony preserved by the museum describes a pre-sailing stability test in which thirty men ran back and forth across the deck. The roll became alarming and the test was stopped, yet the voyage was not cancelled. The episode shows that the loss followed visible warning signs rather than a wholly unforeseeable event. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "INQUEST",
+          "headingKo": "선장은 가장 먼저 의심받았다",
+          "headingEn": "The Captain Was Questioned First",
+          "textKo": "침몰 직후 선장 Söfring Hansson은 체포돼 대포가 제대로 고정됐는지, 승무원이 술에 취했는지 질문받았다. 그는 두 가지를 모두 부인하며 배 자체가 너무 불안정했다고 진술했다. 승무원들의 설명도 같은 방향이었다. 문제는 “누가 잘못 조작했는가”보다 “왜 이런 배가 출항했는가”로 이동했다.",
+          "textEn": "Captain Söfring Hansson was arrested and questioned about unsecured guns and drunken crew. He rejected both explanations and said the ship itself was too unstable; other crew testimony pointed the same way. The inquiry therefore shifted from asking who mishandled the ship to asking why such an unstable vessel had been allowed to sail. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "DESIGN",
+          "headingKo": "너무 높은 상부, 너무 작은 수중부",
+          "headingEn": "Top-Heavy Proportions",
+          "textKo": "현대의 선박 안정성 계산은 17세기 조선소에 없었다. 바사박물관은 선체 수중부에 비해 상부구조가 크고 무거워 무게중심이 지나치게 높았다고 설명한다. 열린 포문은 물 유입 경로가 됐지만, 근본적으로는 작은 바람에도 크게 기울 수 있는 설계가 사고 취약성을 만들었다.",
+          "textEn": "Seventeenth-century shipbuilders lacked modern stability calculations. The Vasa Museum explains that the upper works were too tall and heavy relative to the underwater hull, leaving the center of gravity too high. Open gunports provided a path for flooding, but the ship’s basic proportions made it dangerously sensitive to even modest wind. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "BLAME",
+          "headingKo": "조사는 했지만 처벌할 사람은 없었다",
+          "headingEn": "An Inquest Without a Punished Culprit",
+          "textKo": "국왕은 책임자를 찾으라고 요구했지만 조사위원회는 명확한 개인 범죄를 입증하지 못했다. 설계자 Henrik Hybertsson은 이미 사망했고, 건조는 경험칙과 왕실 요구 속에서 진행됐다. “왕의 명령 때문에 침몰했다”거나 “설계자 한 명이 모든 것을 망쳤다”는 단순한 설명은 살아남은 기록보다 더 단정적이다.",
+          "textEn": "The king demanded accountability, but the inquiry did not establish a clear individual crime. Designer Henrik Hybertsson was already dead, and construction had unfolded through experience-based practice and royal requirements. Simple stories that blame only the king or only one shipwright go beyond what the surviving record can securely assign. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "WRECK",
+          "headingKo": "1961년 인양된 선체가 두 번째 증언이 됐다",
+          "headingEn": "The Raised Hull Became a Second Witness",
+          "textKo": "333년 동안 항구 바닥에 있던 바사는 1961년 인양됐다. 이어진 발굴에서 3만 점이 넘는 물건이 회수됐고 선체 자체도 구조와 하중을 분석할 수 있는 거대한 자료가 됐다. 1628년 사람들의 진술과 20세기 이후 물리적 연구를 겹쳐 볼 수 있다는 점이 이 사건을 특별하게 만든다.",
+          "textEn": "Vasa remained on the harbor floor for 333 years before being raised in 1961. Excavation recovered more than 30,000 objects, while the hull itself became an enormous dataset for structural analysis. The case is unusual because seventeenth-century testimony can be compared directly with a largely surviving ship. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "침몰 원인은 알려졌지만 책임의 질문은 남았다",
+          "headingEn": "The Cause Is Clearer Than the Question of Responsibility",
+          "textKo": "바사호는 오늘날 불안정한 설계와 열린 포문을 통해 물이 들어온 과정이 잘 설명되지만, 1628년 조사에서는 그런 기술적 사실을 곧바로 개인의 책임으로 바꾸기 어려웠다. 출항 전 복원력에 문제가 있다는 신호가 있었고, 왕실의 요구와 조선 과정, 선체 비례가 얽혀 있었다. 결국 조사에서 명확한 처벌 대상은 나오지 않았다. 이 사건의 흥미는 “왜 가라앉았나”를 현대 공학으로 재현할 수 있으면서도 “누가 그 위험을 알고도 출항시켰나”라는 당시 조직적 책임은 훨씬 흐릿하다는 데 있다.",
+          "textEn": "Modern analysis can describe Vasa’s instability and the flooding through its open gunports, yet the 1628 inquiry struggled to convert technical failure into individual blame. Warning signs about stability existed before departure, while royal expectations, shipbuilding practice, changing dimensions, and command decisions were entangled. The inquiry ultimately produced no simple culprit. That asymmetry is what makes the case useful: the physical mechanism of sinking can be reconstructed with considerable confidence, while the organizational question—who understood the risk and who had the authority to stop the sailing—remains much less tidy."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "“왜 가라앉았나”보다 “왜 출항했나”",
+          "headingEn": "From Sinking Mechanism to Organizational Question",
+          "textKo": "바사의 물리적 침몰 메커니즘은 오늘날 상당히 잘 이해된다. 남는 역사적 미스터리는 위험 신호가 있었는데도 왜 프로젝트가 계속됐는지, 책임이 설계·지휘·조선 관행 사이에서 어떻게 분산됐는지다. 완전히 해결된 공학 문제 뒤에 조직 의사결정의 빈칸이 남아 있다.",
+          "textEn": "The physical mechanism of Vasa’s sinking is now well understood. The more interesting historical mystery is why the project continued despite warning signs and how responsibility was distributed among design, command, and shipbuilding practice. A solved engineering failure still leaves gaps in the organizational story. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 바사는 1628년 8월 10일 첫 항해 중 돌풍에 기울고 열린 하부 포문으로 물이 들어오면서 침몰했다. 동시대 조사에서 불안정성이 지적됐으나 특정인을 처벌하지 못했고, 선체는 1961년 인양됐다.\n\nNOT ESTABLISHED: 침몰 원인을 한 사람의 설계 실수나 한 번의 명령만으로 환원할 수 없으며, 당시 건조 관행과 왕실 요구, 설계 변경의 책임 비율을 정확히 수치화한 동시대 기록은 없다.",
+          "textEn": "CONFIRMED / SUPPORTED: Vasa sank on August 10, 1628, after heeling in a gust and taking water through open lower gunports. Contemporary investigators recognized instability but punished no single culprit, and the ship was raised in 1961.\n\nNOT ESTABLISHED: The loss cannot be reduced to one designer’s mistake or one order, and surviving seventeenth-century records do not assign precise shares of responsibility among design practice, royal demands, and construction decisions."
+        }
+      ],
+      "factBoundary": {
+        "established": "Vasa sank on August 10, 1628, after heeling in a gust and taking water through open lower gunports. Contemporary investigators recognized instability but punished no single culprit, and the ship was raised in 1961.",
+        "notEstablished": "The loss cannot be reduced to one designer’s mistake or one order, and surviving seventeenth-century records do not assign precise shares of responsibility among design practice, royal demands, and construction decisions."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "VASA_SINKING_INVESTIGATION-C1",
+      "status": "CONFIRMED",
+      "statementKo": "바사는 1628년 8월 10일 첫 항해 중 돌풍에 기울고 열린 하부 포문으로 물이 들어오면서 침몰했다. 동시대 조사에서 불안정성이 지적됐으나 특정인을 처벌하지 못했고, 선체는 1961년 인양됐다.",
+      "statementEn": "Vasa sank on August 10, 1628, after heeling in a gust and taking water through open lower gunports. Contemporary investigators recognized instability but punished no single culprit, and the ship was raised in 1961.",
+      "sourceRefs": [
+        "VASA_DISASTER",
+        "VASA_INQUEST",
+        "VASA_EXCAVATION"
+      ]
+    },
+    {
+      "claimId": "VASA_SINKING_INVESTIGATION-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "침몰 원인을 한 사람의 설계 실수나 한 번의 명령만으로 환원할 수 없으며, 당시 건조 관행과 왕실 요구, 설계 변경의 책임 비율을 정확히 수치화한 동시대 기록은 없다.",
+      "statementEn": "The loss cannot be reduced to one designer’s mistake or one order, and surviving seventeenth-century records do not assign precise shares of responsibility among design practice, royal demands, and construction decisions.",
+      "sourceRefs": [
+        "VASA_DISASTER",
+        "VASA_INQUEST",
+        "VASA_EXCAVATION"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "VASA_DISASTER",
+      "title": "The Disaster",
+      "publisher": "Vasa Museum",
+      "url": "https://www.vasamuseet.se/en/explore/vasa-history/disaster",
+      "sourceType": "MUSEUM_RESEARCH"
+    },
+    {
+      "sourceId": "VASA_INQUEST",
+      "title": "The Inquest",
+      "publisher": "Vasa Museum",
+      "url": "https://www.vasamuseet.se/en/explore/vasa-history/inquest",
+      "sourceType": "MUSEUM_ARCHIVE_HISTORY"
+    },
+    {
+      "sourceId": "VASA_EXCAVATION",
+      "title": "The Excavation",
+      "publisher": "Vasa Museum",
+      "url": "https://www.vasamuseet.se/en/explore/vasa-history/excavation",
+      "sourceType": "MUSEUM_ARCHAEOLOGY"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "vasa-sinking-investigation-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "VASA_DISASTER",
+        "VASA_INQUEST",
+        "VASA_EXCAVATION"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "vasa-sinking-investigation__vasa-sinking-investigation-v01__ko.png",
+          "sha256": "9134c828f85db18c58c2ca965feeea40ce44482925dda380ae66078d01fe372a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "vasa-sinking-investigation__vasa-sinking-investigation-v01__ko.png"
+        },
+        "en": {
+          "file": "vasa-sinking-investigation__vasa-sinking-investigation-v01__en.png",
+          "sha256": "7156a5d19c1f52d6ab4da50a46ffb955226cf9dfd1a52a287609d385e7f34908",
+          "width": 1600,
+          "height": 900,
+          "fileName": "vasa-sinking-investigation__vasa-sinking-investigation-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "vasa-sinking-investigation-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "VASA_DISASTER",
+        "VASA_INQUEST",
+        "VASA_EXCAVATION"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "vasa-sinking-investigation__vasa-sinking-investigation-v02__ko.png",
+          "sha256": "5f8aa7279e72b5a303626f8e8b967c70cbcda295f5616f780c54a74f24c1ca7a",
+          "width": 1600,
+          "height": 900,
+          "fileName": "vasa-sinking-investigation__vasa-sinking-investigation-v02__ko.png"
+        },
+        "en": {
+          "file": "vasa-sinking-investigation__vasa-sinking-investigation-v02__en.png",
+          "sha256": "c06e4f2505ef8def078f79f00535fa6b739ae4b49350c98fef43af7a6bfecfa1",
+          "width": 1600,
+          "height": 900,
+          "fileName": "vasa-sinking-investigation__vasa-sinking-investigation-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "vasa-sinking-investigation-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "VASA_DISASTER",
+        "VASA_INQUEST",
+        "VASA_EXCAVATION"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "vasa-sinking-investigation__vasa-sinking-investigation-v03__ko.png",
+          "sha256": "4413932ddb62f1d7e974b5abfeb9f83e67804cfea1c128581ca54d9561c43b7f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "vasa-sinking-investigation__vasa-sinking-investigation-v03__ko.png"
+        },
+        "en": {
+          "file": "vasa-sinking-investigation__vasa-sinking-investigation-v03__en.png",
+          "sha256": "2b7217394a027f70dfcd5e84ec6f29ca88bf750a184eba104916ac4f49adce9b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "vasa-sinking-investigation__vasa-sinking-investigation-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Sweden",
+    "era": "1628 / 1961–present",
+    "genre": "Historical Enigma / Maritime Archaeology",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Historical Enigma / Maritime Archaeology",
+    "resolution": "unknown",
+    "countries": [
+      "Sweden"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1589,
+    "enBodyWords": 657
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "dancing-plague-1518",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1518년 스트라스부르 춤 소동",
+    "canonicalTitleEn": "The Strasbourg Dancing Plague of 1518",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "1518년 사람들은 왜 멈추지 못하고 춤췄다고 기록됐나",
+      "hook": "1518년 여름 스트라스부르에서 사람들이 장기간 춤추는 집단 현상이 기록됐다. 사건 자체는 여러 연대기와 후대 편찬자료에 남아 있지만, 사망자 수와 최초 무용수의 세부, 원인은 기록층마다 다르다. 스트레스성 집단심인성 현상과 맥각중독설 등이 경쟁한다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1518년 여름의 거리",
+          "headingEn": "The Streets of Strasbourg in 1518",
+          "textKo": "기록에 따르면 1518년 여름 스트라스부르에서 한 여성의 춤으로 시작됐다고 전해지는 현상에 더 많은 사람들이 합류했다. 며칠이 지나도 멈추지 않는 춤은 시민과 당국에게 오락이 아니라 질병·저주·사회적 위험처럼 보였다. 다만 최초 인물의 이름과 참가자 숫자는 후대 기록에서 더 구체화된 부분이 있다.",
+          "textEn": "Historical accounts describe a summer 1518 outbreak in Strasbourg in which more people joined prolonged dancing said to have begun with a woman in the street. The behavior came to be treated not as entertainment but as illness, curse, or civic danger. Details about the first dancer and crowd size became more specific in later retellings. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "RESPONSE",
+          "headingKo": "당국은 처음에 더 춤추게 했다",
+          "headingEn": "Authorities Initially Encouraged More Dancing",
+          "textKo": "일부 기록을 재구성한 연구에 따르면 시 당국과 의사들은 춤을 억누르기보다 피해자들이 끝까지 춰서 병을 “소진”하도록 무대와 음악을 제공하는 대응을 했다. 결과가 나쁘자 정책은 바뀌었고 종교적 치유와 성 비투스 숭배가 다시 중심에 들어왔다. 당시 의학과 종교가 겹친 대응이었다.",
+          "textEn": "Historical reconstructions describe civic authorities and physicians initially providing space and music under the idea that afflicted people should dance the condition out of their bodies. When that failed, policy shifted toward religious remedies associated with St. Vitus. Medical and religious assumptions were intertwined rather than cleanly separated. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "RECORD",
+          "headingKo": "자료가 많아 보여도 층위가 다르다",
+          "headingEn": "A Record with Unequal Layers",
+          "textKo": "사건은 여러 연대기와 편찬자료에 남아 있지만 모든 문서가 1518년에 작성된 것은 아니다. 일부 원본 연대기는 사라지고 후대 전사나 인용을 통해 내용이 전한다. 역사학자는 “사건이 있었다”는 강한 합의와 “정확히 몇 명이 언제 죽었다”는 약한 세부를 분리해 읽는다.",
+          "textEn": "Several chronicles and compilations refer to the outbreak, but not every surviving text was written in 1518. Some original chronicles are lost and known through later copies or quotations. Historians therefore separate the strong conclusion that an outbreak occurred from weaker claims about exact numbers and daily deaths. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "ERGOT",
+          "headingKo": "맥각중독설의 매력과 한계",
+          "headingEn": "The Appeal and Limits of Ergot Poisoning",
+          "textKo": "습한 곡물에 생기는 맥각은 경련과 환각을 유발할 수 있어 자연스러운 후보처럼 보인다. 하지만 수주 동안 조직적으로 춤추는 행동과 지역적 전염 양상을 모두 설명하기 어렵고, 유럽의 다른 춤 광기 사례와 식단을 함께 보면 단일 독성물질 설명은 충분하지 않다는 비판이 있다.",
+          "textEn": "Ergot growing on damp grain can cause convulsions and hallucinations, making poisoning an attractive hypothesis. Yet it does not easily explain prolonged, socially patterned dancing over weeks, and comparison with other European dancing manias weakens a single-toxin explanation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "PSYCHOGENIC",
+          "headingKo": "집단심인성 설명",
+          "headingEn": "The Mass-Psychogenic Interpretation",
+          "textKo": "의학사학자 John Waller는 당시 스트라스부르의 기근, 질병, 경제적 압박과 성 비투스의 저주에 대한 문화적 믿음을 함께 본다. 극심한 스트레스 속에서 예상 가능한 문화적 형태로 증상이 표현되고, 공개적인 무대와 음악이 행동을 강화했을 가능성이다. 이는 유력한 설명이지만 실험으로 재현할 수 있는 확정 진단은 아니다.",
+          "textEn": "Historian John Waller links the outbreak to famine, disease, economic stress, and cultural belief in the curse of St. Vitus. In this model, extreme stress produced symptoms in a culturally recognizable form, while public performance and music amplified the behavior. It is influential, but it remains a historical interpretation rather than an experimentally demonstrated diagnosis. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "DEATHS",
+          "headingKo": "“춤추다 죽었다”는 숫자는 얼마나 확실한가",
+          "headingEn": "How Certain Are the Death Claims?",
+          "textKo": "대중 서사에는 하루 15명 사망 같은 숫자가 반복되지만, 이를 직접 뒷받침하는 동시대 스트라스부르 도시 기록은 분명하지 않다. 후대 자료가 사망을 언급하고 일부 역사학자는 실제 사망 가능성을 인정하지만, 정확한 총사망자 수를 확정하는 것은 어렵다. 숫자가 강한 서사를 만든다고 해서 증거도 강한 것은 아니다.",
+          "textEn": "Popular retellings repeat figures such as fifteen deaths per day, but surviving contemporary Strasbourg records do not securely establish that number. Later accounts mention deaths and historians do not rule out fatalities, yet an exact toll is difficult to prove. A dramatic number can be narratively powerful without being evidentially strong. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "확실한 사건과 불확실한 숫자를 분리해야 한다",
+          "headingEn": "Separating the Documented Event from Uncertain Numbers",
+          "textKo": "1518년 스트라스부르에서 사람들이 장기간 춤추는 현상이 문제로 기록됐다는 사실 자체는 여러 역사 연구가 지지한다. 하지만 현대에 널리 퍼진 세부—정확히 수백 명이 동시에 춤췄다거나 하루에 특정 인원이 죽었다는 숫자—는 같은 수준으로 확실하지 않다. 당시 당국의 대응과 종교적 해석은 비교적 추적할 수 있지만, 의학적 원인을 사후에 확정 진단할 수는 없다. 그래서 이 사건은 기괴한 장면보다 ‘확실한 핵심’과 ‘후대에 강화된 디테일’을 분리해 읽는 과정 자체가 더 흥미로운 역사 미스터리다.",
+          "textEn": "Historical scholarship supports the core fact that prolonged compulsive dancing became a serious public problem in Strasbourg in 1518. But many details repeated in modern retellings—precise crowd sizes or exact daily death counts—do not carry the same evidential weight. The authorities’ changing responses and religious interpretations can be traced more securely than a retrospective medical diagnosis. That makes the case more interesting than its strangest imagery: it is an exercise in separating a well-supported historical core from dramatic numerical details and causal claims that became stronger in later retellings."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "사건은 기록됐고 원인은 미확정이다",
+          "headingEn": "A Documented Event with an Unsettled Cause",
+          "textKo": "1518년 춤 소동은 “아무 근거 없는 전설”로 버릴 수도 없고, 반대로 한 가지 현대 진단으로 깔끔하게 닫을 수도 없다. 가장 안전한 경계는 사건 발생 자체와 도시 대응은 비교적 강하게 지지되지만, 개인 수·사망 규모·의학적 원인은 서로 다른 확실성을 가진다는 것이다. 바로 그 불균형이 미스터리다.",
+          "textEn": "The Strasbourg outbreak cannot be dismissed as a baseless legend, yet it also cannot be closed neatly with one modern diagnosis. The safest boundary is that the outbreak and civic response are comparatively well supported, while participant totals, deaths, and medical cause carry different levels of certainty. That imbalance is the mystery. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1518년 스트라스부르에서 여러 사람이 장기간 춤추는 집단 현상이 발생했다는 사실은 동시대·근접시기 기록과 도시 자료를 바탕으로 한 역사연구에서 지지된다. 그러나 정확한 참가자 수와 사망자 수는 자료마다 불확실하다.\n\nNOT ESTABLISHED: 맥각중독, 초자연적 저주, 특정 감염병 가운데 하나가 원인으로 입증된 것은 아니다. “하루 15명씩 죽었다”는 식의 극적인 사망 수치도 동시대 도시 기록으로 확정되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: Historical research based on early chronicles and city materials supports that a prolonged episode of compulsive dancing occurred in Strasbourg in 1518. Exact participant totals and the number of deaths, however, remain uncertain and vary across the surviving record.\n\nNOT ESTABLISHED: No single explanation—ergot poisoning, supernatural curse, or specific infection—has been demonstrated as the cause. Dramatic claims that around fifteen people died per day are not securely established by surviving contemporary city records."
+        }
+      ],
+      "factBoundary": {
+        "established": "1518년 스트라스부르에서 여러 사람이 장기간 춤추는 집단 현상이 발생했다는 사실은 동시대·근접시기 기록과 도시 자료를 바탕으로 한 역사연구에서 지지된다. 그러나 정확한 참가자 수와 사망자 수는 자료마다 불확실하다.",
+        "notEstablished": "맥각중독, 초자연적 저주, 특정 감염병 가운데 하나가 원인으로 입증된 것은 아니다. “하루 15명씩 죽었다”는 식의 극적인 사망 수치도 동시대 도시 기록으로 확정되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Why Did Strasbourg’s Records Describe People Dancing for Days?",
+      "hook": "In the summer of 1518, Strasbourg sources recorded a prolonged outbreak of compulsive dancing. The event is historically documented, but details such as death toll, the first dancer, and exact cause vary across layers of evidence. Mass psychogenic explanations and ergot poisoning are among the competing interpretations.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1518년 여름의 거리",
+          "headingEn": "The Streets of Strasbourg in 1518",
+          "textKo": "기록에 따르면 1518년 여름 스트라스부르에서 한 여성의 춤으로 시작됐다고 전해지는 현상에 더 많은 사람들이 합류했다. 며칠이 지나도 멈추지 않는 춤은 시민과 당국에게 오락이 아니라 질병·저주·사회적 위험처럼 보였다. 다만 최초 인물의 이름과 참가자 숫자는 후대 기록에서 더 구체화된 부분이 있다.",
+          "textEn": "Historical accounts describe a summer 1518 outbreak in Strasbourg in which more people joined prolonged dancing said to have begun with a woman in the street. The behavior came to be treated not as entertainment but as illness, curse, or civic danger. Details about the first dancer and crowd size became more specific in later retellings. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "RESPONSE",
+          "headingKo": "당국은 처음에 더 춤추게 했다",
+          "headingEn": "Authorities Initially Encouraged More Dancing",
+          "textKo": "일부 기록을 재구성한 연구에 따르면 시 당국과 의사들은 춤을 억누르기보다 피해자들이 끝까지 춰서 병을 “소진”하도록 무대와 음악을 제공하는 대응을 했다. 결과가 나쁘자 정책은 바뀌었고 종교적 치유와 성 비투스 숭배가 다시 중심에 들어왔다. 당시 의학과 종교가 겹친 대응이었다.",
+          "textEn": "Historical reconstructions describe civic authorities and physicians initially providing space and music under the idea that afflicted people should dance the condition out of their bodies. When that failed, policy shifted toward religious remedies associated with St. Vitus. Medical and religious assumptions were intertwined rather than cleanly separated. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "RECORD",
+          "headingKo": "자료가 많아 보여도 층위가 다르다",
+          "headingEn": "A Record with Unequal Layers",
+          "textKo": "사건은 여러 연대기와 편찬자료에 남아 있지만 모든 문서가 1518년에 작성된 것은 아니다. 일부 원본 연대기는 사라지고 후대 전사나 인용을 통해 내용이 전한다. 역사학자는 “사건이 있었다”는 강한 합의와 “정확히 몇 명이 언제 죽었다”는 약한 세부를 분리해 읽는다.",
+          "textEn": "Several chronicles and compilations refer to the outbreak, but not every surviving text was written in 1518. Some original chronicles are lost and known through later copies or quotations. Historians therefore separate the strong conclusion that an outbreak occurred from weaker claims about exact numbers and daily deaths. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "ERGOT",
+          "headingKo": "맥각중독설의 매력과 한계",
+          "headingEn": "The Appeal and Limits of Ergot Poisoning",
+          "textKo": "습한 곡물에 생기는 맥각은 경련과 환각을 유발할 수 있어 자연스러운 후보처럼 보인다. 하지만 수주 동안 조직적으로 춤추는 행동과 지역적 전염 양상을 모두 설명하기 어렵고, 유럽의 다른 춤 광기 사례와 식단을 함께 보면 단일 독성물질 설명은 충분하지 않다는 비판이 있다.",
+          "textEn": "Ergot growing on damp grain can cause convulsions and hallucinations, making poisoning an attractive hypothesis. Yet it does not easily explain prolonged, socially patterned dancing over weeks, and comparison with other European dancing manias weakens a single-toxin explanation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "PSYCHOGENIC",
+          "headingKo": "집단심인성 설명",
+          "headingEn": "The Mass-Psychogenic Interpretation",
+          "textKo": "의학사학자 John Waller는 당시 스트라스부르의 기근, 질병, 경제적 압박과 성 비투스의 저주에 대한 문화적 믿음을 함께 본다. 극심한 스트레스 속에서 예상 가능한 문화적 형태로 증상이 표현되고, 공개적인 무대와 음악이 행동을 강화했을 가능성이다. 이는 유력한 설명이지만 실험으로 재현할 수 있는 확정 진단은 아니다.",
+          "textEn": "Historian John Waller links the outbreak to famine, disease, economic stress, and cultural belief in the curse of St. Vitus. In this model, extreme stress produced symptoms in a culturally recognizable form, while public performance and music amplified the behavior. It is influential, but it remains a historical interpretation rather than an experimentally demonstrated diagnosis. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "DEATHS",
+          "headingKo": "“춤추다 죽었다”는 숫자는 얼마나 확실한가",
+          "headingEn": "How Certain Are the Death Claims?",
+          "textKo": "대중 서사에는 하루 15명 사망 같은 숫자가 반복되지만, 이를 직접 뒷받침하는 동시대 스트라스부르 도시 기록은 분명하지 않다. 후대 자료가 사망을 언급하고 일부 역사학자는 실제 사망 가능성을 인정하지만, 정확한 총사망자 수를 확정하는 것은 어렵다. 숫자가 강한 서사를 만든다고 해서 증거도 강한 것은 아니다.",
+          "textEn": "Popular retellings repeat figures such as fifteen deaths per day, but surviving contemporary Strasbourg records do not securely establish that number. Later accounts mention deaths and historians do not rule out fatalities, yet an exact toll is difficult to prove. A dramatic number can be narratively powerful without being evidentially strong. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "확실한 사건과 불확실한 숫자를 분리해야 한다",
+          "headingEn": "Separating the Documented Event from Uncertain Numbers",
+          "textKo": "1518년 스트라스부르에서 사람들이 장기간 춤추는 현상이 문제로 기록됐다는 사실 자체는 여러 역사 연구가 지지한다. 하지만 현대에 널리 퍼진 세부—정확히 수백 명이 동시에 춤췄다거나 하루에 특정 인원이 죽었다는 숫자—는 같은 수준으로 확실하지 않다. 당시 당국의 대응과 종교적 해석은 비교적 추적할 수 있지만, 의학적 원인을 사후에 확정 진단할 수는 없다. 그래서 이 사건은 기괴한 장면보다 ‘확실한 핵심’과 ‘후대에 강화된 디테일’을 분리해 읽는 과정 자체가 더 흥미로운 역사 미스터리다.",
+          "textEn": "Historical scholarship supports the core fact that prolonged compulsive dancing became a serious public problem in Strasbourg in 1518. But many details repeated in modern retellings—precise crowd sizes or exact daily death counts—do not carry the same evidential weight. The authorities’ changing responses and religious interpretations can be traced more securely than a retrospective medical diagnosis. That makes the case more interesting than its strangest imagery: it is an exercise in separating a well-supported historical core from dramatic numerical details and causal claims that became stronger in later retellings."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "사건은 기록됐고 원인은 미확정이다",
+          "headingEn": "A Documented Event with an Unsettled Cause",
+          "textKo": "1518년 춤 소동은 “아무 근거 없는 전설”로 버릴 수도 없고, 반대로 한 가지 현대 진단으로 깔끔하게 닫을 수도 없다. 가장 안전한 경계는 사건 발생 자체와 도시 대응은 비교적 강하게 지지되지만, 개인 수·사망 규모·의학적 원인은 서로 다른 확실성을 가진다는 것이다. 바로 그 불균형이 미스터리다.",
+          "textEn": "The Strasbourg outbreak cannot be dismissed as a baseless legend, yet it also cannot be closed neatly with one modern diagnosis. The safest boundary is that the outbreak and civic response are comparatively well supported, while participant totals, deaths, and medical cause carry different levels of certainty. That imbalance is the mystery. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1518년 스트라스부르에서 여러 사람이 장기간 춤추는 집단 현상이 발생했다는 사실은 동시대·근접시기 기록과 도시 자료를 바탕으로 한 역사연구에서 지지된다. 그러나 정확한 참가자 수와 사망자 수는 자료마다 불확실하다.\n\nNOT ESTABLISHED: 맥각중독, 초자연적 저주, 특정 감염병 가운데 하나가 원인으로 입증된 것은 아니다. “하루 15명씩 죽었다”는 식의 극적인 사망 수치도 동시대 도시 기록으로 확정되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: Historical research based on early chronicles and city materials supports that a prolonged episode of compulsive dancing occurred in Strasbourg in 1518. Exact participant totals and the number of deaths, however, remain uncertain and vary across the surviving record.\n\nNOT ESTABLISHED: No single explanation—ergot poisoning, supernatural curse, or specific infection—has been demonstrated as the cause. Dramatic claims that around fifteen people died per day are not securely established by surviving contemporary city records."
+        }
+      ],
+      "factBoundary": {
+        "established": "Historical research based on early chronicles and city materials supports that a prolonged episode of compulsive dancing occurred in Strasbourg in 1518. Exact participant totals and the number of deaths, however, remain uncertain and vary across the surviving record.",
+        "notEstablished": "No single explanation—ergot poisoning, supernatural curse, or specific infection—has been demonstrated as the cause. Dramatic claims that around fifteen people died per day are not securely established by surviving contemporary city records."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "DANCING_PLAGUE_1518-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1518년 스트라스부르에서 여러 사람이 장기간 춤추는 집단 현상이 발생했다는 사실은 동시대·근접시기 기록과 도시 자료를 바탕으로 한 역사연구에서 지지된다. 그러나 정확한 참가자 수와 사망자 수는 자료마다 불확실하다.",
+      "statementEn": "Historical research based on early chronicles and city materials supports that a prolonged episode of compulsive dancing occurred in Strasbourg in 1518. Exact participant totals and the number of deaths, however, remain uncertain and vary across the surviving record.",
+      "sourceRefs": [
+        "WALLER_LANCET",
+        "DANCE_RESEARCH",
+        "OXFORD_REVIEW"
+      ]
+    },
+    {
+      "claimId": "DANCING_PLAGUE_1518-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "맥각중독, 초자연적 저주, 특정 감염병 가운데 하나가 원인으로 입증된 것은 아니다. “하루 15명씩 죽었다”는 식의 극적인 사망 수치도 동시대 도시 기록으로 확정되지 않는다.",
+      "statementEn": "No single explanation—ergot poisoning, supernatural curse, or specific infection—has been demonstrated as the cause. Dramatic claims that around fifteen people died per day are not securely established by surviving contemporary city records.",
+      "sourceRefs": [
+        "WALLER_LANCET",
+        "DANCE_RESEARCH",
+        "OXFORD_REVIEW"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "WALLER_LANCET",
+      "title": "A forgotten plague: making sense of dancing mania",
+      "publisher": "The Lancet / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19238695/",
+      "sourceType": "PEER_REVIEWED_HISTORICAL_ANALYSIS"
+    },
+    {
+      "sourceId": "DANCE_RESEARCH",
+      "title": "Divine Punishment or Disease? Medieval and Early Modern Approaches to the 1518 Strasbourg Dancing Plague",
+      "publisher": "Dance Research",
+      "url": "https://doi.org/10.3366/drs.2017.0199",
+      "sourceType": "PEER_REVIEWED_HISTORY"
+    },
+    {
+      "sourceId": "OXFORD_REVIEW",
+      "title": "A Time to Dance, A Time to Die",
+      "publisher": "German History / Oxford Academic",
+      "url": "https://academic.oup.com/gh/article-abstract/27/2/286/643079",
+      "sourceType": "ACADEMIC_REVIEW"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "dancing-plague-1518-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "WALLER_LANCET",
+        "DANCE_RESEARCH",
+        "OXFORD_REVIEW"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "dancing-plague-1518__dancing-plague-1518-v01__ko.png",
+          "sha256": "a81e801da9cd843cfa596d5a9c2609284b4e24af4dfa8bea0d1a7b6060e43d52",
+          "width": 1600,
+          "height": 900,
+          "fileName": "dancing-plague-1518__dancing-plague-1518-v01__ko.png"
+        },
+        "en": {
+          "file": "dancing-plague-1518__dancing-plague-1518-v01__en.png",
+          "sha256": "53a141a6f23e68e881894d9e02587f5b3108f22b8eaeff57ffbafa648074c035",
+          "width": 1600,
+          "height": 900,
+          "fileName": "dancing-plague-1518__dancing-plague-1518-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "dancing-plague-1518-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "WALLER_LANCET",
+        "DANCE_RESEARCH",
+        "OXFORD_REVIEW"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "dancing-plague-1518__dancing-plague-1518-v02__ko.png",
+          "sha256": "833c18a7b058fe4c5a99036300020bd66dc43b33fdfb92dbf77ae6cf0d2844dc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "dancing-plague-1518__dancing-plague-1518-v02__ko.png"
+        },
+        "en": {
+          "file": "dancing-plague-1518__dancing-plague-1518-v02__en.png",
+          "sha256": "5fbc367ee551e9f5147853a995ffa4a81f8705fb8394785424b8b69c6b98dd89",
+          "width": 1600,
+          "height": 900,
+          "fileName": "dancing-plague-1518__dancing-plague-1518-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "dancing-plague-1518-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "WALLER_LANCET",
+        "DANCE_RESEARCH",
+        "OXFORD_REVIEW"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "dancing-plague-1518__dancing-plague-1518-v03__ko.png",
+          "sha256": "7120e8f308464ce052e0adfb44ba2f28bc4157be60fec3e59fa418befb87b03e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "dancing-plague-1518__dancing-plague-1518-v03__ko.png"
+        },
+        "en": {
+          "file": "dancing-plague-1518__dancing-plague-1518-v03__en.png",
+          "sha256": "d270d2af08c43a9a192a1ca33f918978fa18dbec021e503a4a759a08908ac9c2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "dancing-plague-1518__dancing-plague-1518-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Strasbourg / Holy Roman Empire",
+    "era": "1518",
+    "genre": "Paranormal / Haunting / Folklore",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Paranormal / Haunting / Folklore",
+    "resolution": "unknown",
+    "countries": [
+      "Strasbourg / Holy Roman Empire"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1671,
+    "enBodyWords": 660
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "minamata-disease-cause",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "미나마타병의 원인 추적과 책임",
+    "canonicalTitleEn": "Minamata Disease: Tracing Cause, Exposure, and Responsibility",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "“원인 불명 신경질환”은 어떻게 공장 폐수까지 추적됐나",
+      "hook": "1956년 공식 보고 당시 원인은 알 수 없었다. 환자 분포, 어패류 섭취, 고양이 이상, 수은 분석, 공장 폐수와 먹이사슬이 이어지며 메틸수은 중독이라는 인과 사슬이 만들어졌다. 미스터리는 해결됐지만, 왜 확인과 대응이 오래 걸렸는지는 별도의 기록이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1956년, 이름 없는 병",
+          "headingEn": "An Unknown Disease in 1956",
+          "textKo": "미나마타시에서 어린 자매의 심한 신경증상이 공식 보고되었을 때 병명도 원인도 정해져 있지 않았다. 국립미나마타병연구소는 후대 조사에서 1953년 발병한 어린이를 더 이른 환자로 확인했고, 1956년에 확인된 환자 54명 가운데 이미 17명이 사망해 있었다고 정리한다.",
+          "textEn": "When two young sisters with severe neurological symptoms were officially reported in Minamata, the condition had neither a settled name nor a known cause. Later reviews identified an earlier child who became ill in 1953, and the national institute notes that 17 of 54 patients identified in 1956 had already died. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "PATTERN",
+          "headingKo": "사람과 고양이, 바다를 함께 보다",
+          "headingEn": "People, Cats, and the Bay",
+          "textKo": "환자 다수가 어업과 밀접했고 어패류를 많이 먹는 생활을 했다는 사실, 고양이에서도 이상 행동이 관찰됐다는 사실은 조사 방향을 바다로 돌렸다. 1956년 말 구마모토대 연구진은 어패류를 매개로 한 중금속 중독 가능성을 보고했다. 이는 특정 화학물질 확정 전 단계의 중요한 패턴 인식이었다.",
+          "textEn": "The clustering among fishing households, heavy seafood consumption, and abnormal behavior observed in cats shifted attention toward the bay and the food chain. By late 1956, Kumamoto University researchers were reporting a heavy-metal poisoning transmitted through fish and shellfish, an important step before the specific compound was settled. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "INVESTIGATION",
+          "headingKo": "후보 물질을 좁히는 데 시간이 걸렸다",
+          "headingEn": "Narrowing the Toxic Agent Took Years",
+          "textKo": "초기에는 망간·구리·셀레늄·탈륨 등 여러 물질이 후보로 거론됐다. 연구자들은 환자 진단, 주민 조사, 동물실험, 소변과 어패류의 수은 분석, 공장 폐수 조사를 조합했다. 1961~1962년에는 폐수와 촉매 잔류물에서 유기수은·메틸수은 관련 증거가 더 구체화됐다.",
+          "textEn": "Investigators considered several possible toxic agents before mercury evidence converged. Clinical examination, resident surveys, animal experiments, measurements of mercury in patients and seafood, and analysis of factory effluent were combined. By 1961–62, evidence involving organic mercury and methylmercury in waste streams and catalyst residues had become much more specific. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "CAUSE",
+          "headingKo": "먹이사슬이 연결고리였다",
+          "headingEn": "The Food Chain Was the Link",
+          "textKo": "공장에서 나온 메틸수은은 바닷물에 희석되어 사라진 것이 아니라 어패류에 축적됐다. 주민이 오염된 해산물을 지속적으로 먹으면서 신경계에 영향을 줄 수 있는 노출이 형성됐다. 국립미나마타병연구소와 환경성 자료는 이 “공정 부산물→폐수→어패류→사람” 경로를 원인의 핵심으로 설명한다.",
+          "textEn": "Methylmercury released in industrial wastewater did not simply disappear in seawater; it accumulated in fish and shellfish. Repeated consumption created human exposure sufficient to damage the nervous system. Japanese government and research-institute histories identify this factory-process-to-effluent-to-seafood-to-human pathway as central. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "DELAY",
+          "headingKo": "1968년 정부 발표까지의 간격",
+          "headingEn": "Why Official Recognition Took Until 1968",
+          "textKo": "과학적 단서는 1950년대 후반부터 쌓였지만 정부가 통일된 원인 견해를 발표한 것은 1968년이었다. 환경성 자료는 당시 미량 분석 기술과 공해 지식의 한계, 여러 가설이 경쟁했던 과정을 기록한다. 이 시간차는 “원인을 아무도 몰랐다”와 “충분한 경고가 없었다”를 같은 문장으로 처리하면 안 된다는 점을 보여준다.",
+          "textEn": "Evidence accumulated from the late 1950s, but the government’s unified causal statement came in 1968. Ministry histories describe analytical limits, incomplete pollution knowledge, and competing hypotheses. That interval matters: saying that a final official conclusion had not yet been issued is not the same as saying that no warning signs or causal evidence existed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "RESPONSIBILITY",
+          "headingKo": "의학적 원인과 법적 책임은 다른 단계다",
+          "headingEn": "Medical Causation and Legal Responsibility Are Different",
+          "textKo": "질병의 생물학적 원인이 메틸수은으로 정리된 뒤에도 피해 인정과 보상, 기업 책임 문제는 별도 절차를 거쳤다. 환경성은 1971년 니가타, 1973년 구마모토 소송에서 기업의 손해배상 책임이 인정됐다고 정리한다. “원인을 찾았다”는 순간과 “책임을 확정했다”는 순간은 동일하지 않다.",
+          "textEn": "Even after the biological cause was identified, certification, compensation, and corporate liability followed separate legal and administrative paths. Japan’s environmental ministry notes judgments in 1971 and 1973 recognizing corporate liability. The moment a cause becomes scientifically persuasive is not identical to the moment responsibility is legally fixed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "원인이 밝혀져도 미스터리가 끝나지 않은 이유",
+          "headingEn": "Why the Mystery Did Not End When the Cause Was Identified",
+          "textKo": "미나마타병은 오늘날 메틸수은 중독이라는 원인이 확립돼 있지만, 당시 현장에서 그 결론에 도달하는 과정은 단순하지 않았다. 환자 발생의 지리적 패턴, 어패류 섭취, 공장 배출과 해양 오염을 연결하려면 임상 관찰·역학·동물 실험·환경 분석이 서로 맞물려야 했다. 더 중요한 문제는 과학적 단서가 축적되는 속도와 사회적 대응 속도가 달랐다는 점이다. 이 사건을 미스터리 아틀라스에서 다루는 이유는 ‘무슨 독인가’라는 퍼즐만이 아니라, 어떤 증거가 언제 충분해졌고 왜 공적 인정과 오염 중단은 그보다 늦었는지를 추적할 수 있기 때문이다.",
+          "textEn": "Minamata disease is now firmly associated with methylmercury poisoning, but reaching that conclusion in real time was not a single-step discovery. Clinicians, epidemiologists, animal experiments, seafood exposure patterns, and environmental investigation had to converge before the industrial route became clear. A second problem then emerged: scientific suspicion, administrative recognition, and effective pollution control did not advance at the same pace. The case therefore remains valuable as an investigation of evidence itself—what was known, when it became persuasive, and why institutional action lagged behind accumulating observations."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리의 핵심은 조사 경로다",
+          "headingEn": "A Solved Mystery Built from Converging Evidence",
+          "textKo": "미나마타병은 오늘날 원인이 미확정인 질환이 아니다. 미스터리 아틀라스에서 다룰 이유는 환자·동물·환경·산업공정의 단서가 어떻게 하나의 인과관계로 수렴했는지, 그리고 그 수렴보다 사회적 대응이 왜 늦었는지를 추적할 수 있기 때문이다. 결론보다 증거가 쌓이는 순서가 이야기의 중심이다.",
+          "textEn": "Minamata disease is not an unsolved disease today. Its Mystery Atlas value lies in reconstructing how clues from patients, animals, the environment, and industrial chemistry converged—and why social response lagged behind that convergence. The investigative sequence, not uncertainty about the modern diagnosis, is the central mystery structure. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 미나마타병은 공장 공정에서 배출된 메틸수은이 어패류에 축적되고 이를 섭취한 주민에게 중추신경계 장애를 일으킨 환경성 중독이다. 일본 정부는 1968년 이 인과관계를 공식 견해로 발표했다.\n\nNOT ESTABLISHED: 1956년 첫 공식 보고 이전 정확한 최초 발병 시점과 모든 개인 사례의 노출량, 당시 각 기관이 언제 어느 정도의 인과 확신을 가졌는지는 하나의 단순한 날짜로 환원되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: Minamata disease is a central nervous system disorder caused by consuming fish and shellfish contaminated with methylmercury discharged from industrial processes. The Japanese government formally stated this causal conclusion in 1968.\n\nNOT ESTABLISHED: The exact earliest onset before the 1956 official report, exposure dose for every individual case, and the precise moment when each institution reached a given level of causal certainty cannot be reduced to one simple date."
+        }
+      ],
+      "factBoundary": {
+        "established": "미나마타병은 공장 공정에서 배출된 메틸수은이 어패류에 축적되고 이를 섭취한 주민에게 중추신경계 장애를 일으킨 환경성 중독이다. 일본 정부는 1968년 이 인과관계를 공식 견해로 발표했다.",
+        "notEstablished": "1956년 첫 공식 보고 이전 정확한 최초 발병 시점과 모든 개인 사례의 노출량, 당시 각 기관이 언제 어느 정도의 인과 확신을 가졌는지는 하나의 단순한 날짜로 환원되지 않는다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "How Did an “Unknown Neurological Disease” Lead Back to Factory Effluent?",
+      "hook": "When the disease was officially reported in 1956 its cause was unknown. Patient patterns, seafood exposure, animal observations, mercury measurements, factory effluent, and food-chain accumulation gradually formed a causal chain pointing to methylmercury poisoning. The medical mystery was solved, while the delay in recognition and response became a second story.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "1956년, 이름 없는 병",
+          "headingEn": "An Unknown Disease in 1956",
+          "textKo": "미나마타시에서 어린 자매의 심한 신경증상이 공식 보고되었을 때 병명도 원인도 정해져 있지 않았다. 국립미나마타병연구소는 후대 조사에서 1953년 발병한 어린이를 더 이른 환자로 확인했고, 1956년에 확인된 환자 54명 가운데 이미 17명이 사망해 있었다고 정리한다.",
+          "textEn": "When two young sisters with severe neurological symptoms were officially reported in Minamata, the condition had neither a settled name nor a known cause. Later reviews identified an earlier child who became ill in 1953, and the national institute notes that 17 of 54 patients identified in 1956 had already died. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "PATTERN",
+          "headingKo": "사람과 고양이, 바다를 함께 보다",
+          "headingEn": "People, Cats, and the Bay",
+          "textKo": "환자 다수가 어업과 밀접했고 어패류를 많이 먹는 생활을 했다는 사실, 고양이에서도 이상 행동이 관찰됐다는 사실은 조사 방향을 바다로 돌렸다. 1956년 말 구마모토대 연구진은 어패류를 매개로 한 중금속 중독 가능성을 보고했다. 이는 특정 화학물질 확정 전 단계의 중요한 패턴 인식이었다.",
+          "textEn": "The clustering among fishing households, heavy seafood consumption, and abnormal behavior observed in cats shifted attention toward the bay and the food chain. By late 1956, Kumamoto University researchers were reporting a heavy-metal poisoning transmitted through fish and shellfish, an important step before the specific compound was settled. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "INVESTIGATION",
+          "headingKo": "후보 물질을 좁히는 데 시간이 걸렸다",
+          "headingEn": "Narrowing the Toxic Agent Took Years",
+          "textKo": "초기에는 망간·구리·셀레늄·탈륨 등 여러 물질이 후보로 거론됐다. 연구자들은 환자 진단, 주민 조사, 동물실험, 소변과 어패류의 수은 분석, 공장 폐수 조사를 조합했다. 1961~1962년에는 폐수와 촉매 잔류물에서 유기수은·메틸수은 관련 증거가 더 구체화됐다.",
+          "textEn": "Investigators considered several possible toxic agents before mercury evidence converged. Clinical examination, resident surveys, animal experiments, measurements of mercury in patients and seafood, and analysis of factory effluent were combined. By 1961–62, evidence involving organic mercury and methylmercury in waste streams and catalyst residues had become much more specific. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "CAUSE",
+          "headingKo": "먹이사슬이 연결고리였다",
+          "headingEn": "The Food Chain Was the Link",
+          "textKo": "공장에서 나온 메틸수은은 바닷물에 희석되어 사라진 것이 아니라 어패류에 축적됐다. 주민이 오염된 해산물을 지속적으로 먹으면서 신경계에 영향을 줄 수 있는 노출이 형성됐다. 국립미나마타병연구소와 환경성 자료는 이 “공정 부산물→폐수→어패류→사람” 경로를 원인의 핵심으로 설명한다.",
+          "textEn": "Methylmercury released in industrial wastewater did not simply disappear in seawater; it accumulated in fish and shellfish. Repeated consumption created human exposure sufficient to damage the nervous system. Japanese government and research-institute histories identify this factory-process-to-effluent-to-seafood-to-human pathway as central. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "DELAY",
+          "headingKo": "1968년 정부 발표까지의 간격",
+          "headingEn": "Why Official Recognition Took Until 1968",
+          "textKo": "과학적 단서는 1950년대 후반부터 쌓였지만 정부가 통일된 원인 견해를 발표한 것은 1968년이었다. 환경성 자료는 당시 미량 분석 기술과 공해 지식의 한계, 여러 가설이 경쟁했던 과정을 기록한다. 이 시간차는 “원인을 아무도 몰랐다”와 “충분한 경고가 없었다”를 같은 문장으로 처리하면 안 된다는 점을 보여준다.",
+          "textEn": "Evidence accumulated from the late 1950s, but the government’s unified causal statement came in 1968. Ministry histories describe analytical limits, incomplete pollution knowledge, and competing hypotheses. That interval matters: saying that a final official conclusion had not yet been issued is not the same as saying that no warning signs or causal evidence existed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "RESPONSIBILITY",
+          "headingKo": "의학적 원인과 법적 책임은 다른 단계다",
+          "headingEn": "Medical Causation and Legal Responsibility Are Different",
+          "textKo": "질병의 생물학적 원인이 메틸수은으로 정리된 뒤에도 피해 인정과 보상, 기업 책임 문제는 별도 절차를 거쳤다. 환경성은 1971년 니가타, 1973년 구마모토 소송에서 기업의 손해배상 책임이 인정됐다고 정리한다. “원인을 찾았다”는 순간과 “책임을 확정했다”는 순간은 동일하지 않다.",
+          "textEn": "Even after the biological cause was identified, certification, compensation, and corporate liability followed separate legal and administrative paths. Japan’s environmental ministry notes judgments in 1971 and 1973 recognizing corporate liability. The moment a cause becomes scientifically persuasive is not identical to the moment responsibility is legally fixed. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "원인이 밝혀져도 미스터리가 끝나지 않은 이유",
+          "headingEn": "Why the Mystery Did Not End When the Cause Was Identified",
+          "textKo": "미나마타병은 오늘날 메틸수은 중독이라는 원인이 확립돼 있지만, 당시 현장에서 그 결론에 도달하는 과정은 단순하지 않았다. 환자 발생의 지리적 패턴, 어패류 섭취, 공장 배출과 해양 오염을 연결하려면 임상 관찰·역학·동물 실험·환경 분석이 서로 맞물려야 했다. 더 중요한 문제는 과학적 단서가 축적되는 속도와 사회적 대응 속도가 달랐다는 점이다. 이 사건을 미스터리 아틀라스에서 다루는 이유는 ‘무슨 독인가’라는 퍼즐만이 아니라, 어떤 증거가 언제 충분해졌고 왜 공적 인정과 오염 중단은 그보다 늦었는지를 추적할 수 있기 때문이다.",
+          "textEn": "Minamata disease is now firmly associated with methylmercury poisoning, but reaching that conclusion in real time was not a single-step discovery. Clinicians, epidemiologists, animal experiments, seafood exposure patterns, and environmental investigation had to converge before the industrial route became clear. A second problem then emerged: scientific suspicion, administrative recognition, and effective pollution control did not advance at the same pace. The case therefore remains valuable as an investigation of evidence itself—what was known, when it became persuasive, and why institutional action lagged behind accumulating observations."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "해결된 미스터리의 핵심은 조사 경로다",
+          "headingEn": "A Solved Mystery Built from Converging Evidence",
+          "textKo": "미나마타병은 오늘날 원인이 미확정인 질환이 아니다. 미스터리 아틀라스에서 다룰 이유는 환자·동물·환경·산업공정의 단서가 어떻게 하나의 인과관계로 수렴했는지, 그리고 그 수렴보다 사회적 대응이 왜 늦었는지를 추적할 수 있기 때문이다. 결론보다 증거가 쌓이는 순서가 이야기의 중심이다.",
+          "textEn": "Minamata disease is not an unsolved disease today. Its Mystery Atlas value lies in reconstructing how clues from patients, animals, the environment, and industrial chemistry converged—and why social response lagged behind that convergence. The investigative sequence, not uncertainty about the modern diagnosis, is the central mystery structure. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 미나마타병은 공장 공정에서 배출된 메틸수은이 어패류에 축적되고 이를 섭취한 주민에게 중추신경계 장애를 일으킨 환경성 중독이다. 일본 정부는 1968년 이 인과관계를 공식 견해로 발표했다.\n\nNOT ESTABLISHED: 1956년 첫 공식 보고 이전 정확한 최초 발병 시점과 모든 개인 사례의 노출량, 당시 각 기관이 언제 어느 정도의 인과 확신을 가졌는지는 하나의 단순한 날짜로 환원되지 않는다.",
+          "textEn": "CONFIRMED / SUPPORTED: Minamata disease is a central nervous system disorder caused by consuming fish and shellfish contaminated with methylmercury discharged from industrial processes. The Japanese government formally stated this causal conclusion in 1968.\n\nNOT ESTABLISHED: The exact earliest onset before the 1956 official report, exposure dose for every individual case, and the precise moment when each institution reached a given level of causal certainty cannot be reduced to one simple date."
+        }
+      ],
+      "factBoundary": {
+        "established": "Minamata disease is a central nervous system disorder caused by consuming fish and shellfish contaminated with methylmercury discharged from industrial processes. The Japanese government formally stated this causal conclusion in 1968.",
+        "notEstablished": "The exact earliest onset before the 1956 official report, exposure dose for every individual case, and the precise moment when each institution reached a given level of causal certainty cannot be reduced to one simple date."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "MINAMATA_DISEASE_CAUSE-C1",
+      "status": "CONFIRMED",
+      "statementKo": "미나마타병은 공장 공정에서 배출된 메틸수은이 어패류에 축적되고 이를 섭취한 주민에게 중추신경계 장애를 일으킨 환경성 중독이다. 일본 정부는 1968년 이 인과관계를 공식 견해로 발표했다.",
+      "statementEn": "Minamata disease is a central nervous system disorder caused by consuming fish and shellfish contaminated with methylmercury discharged from industrial processes. The Japanese government formally stated this causal conclusion in 1968.",
+      "sourceRefs": [
+        "NIMD_QA",
+        "MOE_CH2",
+        "NIMD_CAUSE"
+      ]
+    },
+    {
+      "claimId": "MINAMATA_DISEASE_CAUSE-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1956년 첫 공식 보고 이전 정확한 최초 발병 시점과 모든 개인 사례의 노출량, 당시 각 기관이 언제 어느 정도의 인과 확신을 가졌는지는 하나의 단순한 날짜로 환원되지 않는다.",
+      "statementEn": "The exact earliest onset before the 1956 official report, exposure dose for every individual case, and the precise moment when each institution reached a given level of causal certainty cannot be reduced to one simple date.",
+      "sourceRefs": [
+        "NIMD_QA",
+        "MOE_CH2",
+        "NIMD_CAUSE"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NIMD_QA",
+      "title": "Occurrence and cause of Minamata disease",
+      "publisher": "National Institute for Minamata Disease",
+      "url": "https://nimd.env.go.jp/english/qa/",
+      "sourceType": "NATIONAL_RESEARCH_INSTITUTE"
+    },
+    {
+      "sourceId": "MOE_CH2",
+      "title": "Minamata Disease: The History and Measures — Chapter 2",
+      "publisher": "Ministry of the Environment, Japan",
+      "url": "https://www.env.go.jp/en/chemi/hs/minamata2002/ch2.html",
+      "sourceType": "GOVERNMENT_HISTORY"
+    },
+    {
+      "sourceId": "NIMD_CAUSE",
+      "title": "Determination of the cause of Minamata disease",
+      "publisher": "National Institute for Minamata Disease",
+      "url": "https://nimd.env.go.jp/archives/english/minamata_disease_in_depth/cause_investigation/",
+      "sourceType": "NATIONAL_RESEARCH_ARCHIVE"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "minamata-disease-cause-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "NIMD_QA",
+        "MOE_CH2",
+        "NIMD_CAUSE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "minamata-disease-cause__minamata-disease-cause-v01__ko.png",
+          "sha256": "749fca1c5dda28457dda15e66077498c8e73175db335591ed491eecc3c311e89",
+          "width": 1600,
+          "height": 900,
+          "fileName": "minamata-disease-cause__minamata-disease-cause-v01__ko.png"
+        },
+        "en": {
+          "file": "minamata-disease-cause__minamata-disease-cause-v01__en.png",
+          "sha256": "8afe02cf1f9b46193da2c1ac87bc87a9a116f4453e0f15058708bf41111d07b9",
+          "width": 1600,
+          "height": 900,
+          "fileName": "minamata-disease-cause__minamata-disease-cause-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "minamata-disease-cause-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NIMD_QA",
+        "MOE_CH2",
+        "NIMD_CAUSE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "minamata-disease-cause__minamata-disease-cause-v02__ko.png",
+          "sha256": "3a8bb2d2de48536cecdab54220c8aab88a7b8f84aafa713d570ef19d1d9d8dcb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "minamata-disease-cause__minamata-disease-cause-v02__ko.png"
+        },
+        "en": {
+          "file": "minamata-disease-cause__minamata-disease-cause-v02__en.png",
+          "sha256": "1302be0a4c2d41caaccadc0c52320f3a1215dad51b2606794b8d32359a3bb185",
+          "width": 1600,
+          "height": 900,
+          "fileName": "minamata-disease-cause__minamata-disease-cause-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "minamata-disease-cause-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "NIMD_QA",
+        "MOE_CH2",
+        "NIMD_CAUSE"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "minamata-disease-cause__minamata-disease-cause-v03__ko.png",
+          "sha256": "d27935fc194be63b96f65163b46754f496253a4d2b8e2b9e2f8eead0ca8680e3",
+          "width": 1600,
+          "height": 900,
+          "fileName": "minamata-disease-cause__minamata-disease-cause-v03__ko.png"
+        },
+        "en": {
+          "file": "minamata-disease-cause__minamata-disease-cause-v03__en.png",
+          "sha256": "9bb5a18e6104c9b50dc5976b3076b5ca2443b056fda53f5b1f94fc1174b43794",
+          "width": 1600,
+          "height": 900,
+          "fileName": "minamata-disease-cause__minamata-disease-cause-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Japan",
+    "era": "1953–1973",
+    "genre": "Medicine / Psychology / Human Experiment",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "resolution": "unknown",
+    "countries": [
+      "Japan"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1640,
+    "enBodyWords": 639
+  }
+}

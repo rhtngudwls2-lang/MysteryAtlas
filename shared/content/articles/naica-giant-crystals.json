@@ -1,0 +1,379 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "naica-giant-crystals",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "나이카 동굴의 거대 석고 결정",
+    "canonicalTitleEn": "Naica’s Giant Gypsum Crystals: How Could They Grow So Large?",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "11미터 석고 결정은 왜 나이카에서만 자랄 수 있었나",
+      "hook": "멕시코 나이카 광산에서 발견된 거대 석고 결정은 초자연적 유물이 아니라 극단적으로 느린 결정 성장의 결과다. 지하수 온도가 무수석과 석고의 평형점 가까이 오래 머물면서 핵 생성은 억제되고 기존 결정만 거대해졌다는 모델이 핵심이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "광산 안의 “결정 숲”",
+          "headingEn": "A Forest of Crystals Underground",
+          "textKo": "나이카 광산의 고온 동굴에는 사람이 서 있는 크기와 비교 자체가 비현실적으로 느껴지는 석고 결정들이 놓여 있다. 2000년대 초 탐사로 유명해진 동굴의 일부 결정은 길이가 10미터를 넘는다. 크기 때문에 급격한 결정화 사건을 떠올리기 쉽지만 연구가 제시한 그림은 정반대다.",
+          "textEn": "Hot caves in the Naica mine contain gypsum crystals so large that human scale looks almost unreal beside them. Some crystals exceed ten metres in length. Their size might suggest a sudden mineralization event, but the research model points in the opposite direction: extremely slow and stable growth. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "CHEMISTRY",
+          "headingKo": "무수석에서 석고로",
+          "headingEn": "From Anhydrite to Gypsum",
+          "textKo": "나이카 지하에는 무수석이 풍부하다. 연구자들은 열수계가 식으면서 약 58도 부근의 평형 조건을 지나자 무수석이 녹고 석고가 침전할 수 있는 용액이 형성됐다고 설명한다. 황과 산소 동위원소도 거대 석고 결정이 지역 무수석에서 유래한 용액으로 성장했다는 해석을 지지한다.",
+          "textEn": "Naica contains abundant anhydrite. Researchers argue that as the hydrothermal system cooled through the temperature range near the anhydrite–gypsum equilibrium, anhydrite dissolved and supplied solutions from which gypsum could precipitate. Sulfur and oxygen isotope evidence supports a genetic link between the local anhydrite and the giant gypsum. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "GROWTH",
+          "headingKo": "크게 자란 비결은 “거의 안 자라는 속도”",
+          "headingEn": "The Secret Was Almost No Growth",
+          "textKo": "거대 결정을 만든 핵심은 빠른 성장보다 낮은 과포화도였다. 용액이 석고에 대해 아주 약하게 과포화된 상태를 오래 유지하면 새로운 작은 결정이 계속 생기기보다 이미 존재하는 소수 결정이 천천히 물질을 받아 성장할 수 있다. 연구진은 이처럼 핵 생성이 억제된 환경을 거대화의 핵심 조건으로 본다.",
+          "textEn": "The critical condition was not rapid growth but very low supersaturation. When water remains only slightly supersaturated with gypsum for a long time, many new crystals do not continually nucleate; instead, a small number of existing crystals can keep receiving material and grow slowly. Suppressed nucleation is central to the megacrystal model. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "TIME",
+          "headingKo": "동굴은 안정된 온도 저장고였다",
+          "headingEn": "The Cave Acted as a Stable Thermal Reservoir",
+          "textKo": "이 과정이 가능하려면 온도와 화학 조건이 오랜 기간 크게 흔들리지 않아야 한다. 광산 깊은 곳의 열수 환경은 외부 날씨와 단절돼 있고 지질학적 시간 규모로 완만하게 냉각됐다. 작은 환경 변화가 반복됐다면 거대한 투명 단결정 대신 더 많은 작은 결정이나 불완전한 성장 흔적이 남았을 가능성이 크다.",
+          "textEn": "This process requires temperature and chemistry to remain stable over long periods. Deep hydrothermal conditions are buffered from surface weather and can cool slowly on geological timescales. Repeated large fluctuations would more likely produce many smaller crystals or interrupted growth rather than a few enormous transparent single crystals. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "ACCESS",
+          "headingKo": "발견 이후에는 오히려 보존이 문제다",
+          "headingEn": "After Discovery, Preservation Became the Problem",
+          "textKo": "광산 배수로 동굴이 드러난 뒤 인간이 들어갈 수 있게 됐지만, 동시에 원래 물에 잠긴 열수 환경에서 벗어난 결정은 새로운 온도·습도 조건에 노출됐다. 후속 연구는 표면 탈수와 균열 같은 열화 시나리오를 다뤘다. “발견”은 자연 실험의 종료와 보존 실험의 시작이기도 했다.",
+          "textEn": "Mine drainage made the cave accessible, but exposure also removed the crystals from the hydrothermal environment in which they formed. Later work has examined dehydration, cracking, and other deterioration scenarios. Discovery therefore marked both the end of one natural experiment and the beginning of a conservation problem. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "거대한 크기가 곧 빠른 성장의 증거는 아니다",
+          "headingEn": "Size Does Not Imply Rapid Growth",
+          "textKo": "눈으로 보면 수십 년 사이에 갑자기 자란 듯한 인상을 주지만, 결정 크기만으로 성장 속도를 정할 수 없다. 나이카 모델은 오히려 매우 느린 성장률과 장기간 안정성을 요구한다. 극적인 외형이 극적인 속도를 뜻한다는 직관을 뒤집는 사례다.",
+          "textEn": "The crystals look as if they must have grown quickly, but size alone does not determine growth rate. The Naica model instead requires extremely slow growth and long-lived stability. It is a case where spectacular appearance points to unusually quiet conditions rather than violent formation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "거대한 결정은 빠르게 자란 것이 아니었다",
+          "headingEn": "The Giant Crystals Were Not the Product of Rapid Growth",
+          "textKo": "나이카의 거대 석고 결정은 규모 때문에 폭발적 성장이나 특수한 사건을 떠올리게 하지만, 연구는 오히려 극도로 느린 성장과 거의 평형에 가까운 화학 환경을 가리킨다. 뜨거운 지하수가 식으며 무수석고가 용해되고 석고가 안정해지는 좁은 온도 조건이 오랜 시간 유지돼야 했다. 이 설명은 “어떻게 이렇게 커졌나”에 강한 답을 주지만, 동굴의 정확한 성장 시간과 각 결정의 세부 역사는 직접 연대측정하기 어렵다. 압도적인 크기와 느린 지질 과정 사이의 간극이 이 사례의 핵심이다.",
+          "textEn": "The scale of Naica’s crystals can suggest a sudden or extraordinary growth event, but research points in the opposite direction: extremely slow growth under a chemical environment held close to equilibrium. As hot groundwater cooled, anhydrite could dissolve and gypsum become stable within a narrow temperature range, allowing crystals to grow over very long intervals. That mechanism strongly addresses how such size became possible, while the exact growth history and age of individual crystals remain harder to pin down directly. The central puzzle is the contrast between spectacular size and an exceptionally slow geological process."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 초자연이 아니라 조건의 정밀함이다",
+          "headingEn": "A Mystery of Extraordinary Conditions",
+          "textKo": "나이카에서 남는 질문은 “외계 결정인가”가 아니다. 석고라는 흔한 광물이 왜 이 장소에서만 비정상적인 크기에 도달했는지, 열수계가 얼마나 오래 평형 가까이에 머물렀는지를 복원하는 과학 미스터리다. 설명이 제시됐다고 해서 흥미가 사라지는 것이 아니라, 오히려 자연조건의 극단적 정밀함이 드러난다.",
+          "textEn": "The mystery is not whether the crystals are alien. It is why an ordinary mineral reached extraordinary dimensions here and how long the hydrothermal system remained near the delicate equilibrium required. A strong scientific explanation does not remove the wonder; it reveals how unusual the environmental stability had to be. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 나이카 광산의 동굴에는 길이 최대 약 11미터에 이르는 투명한 석고 단결정이 발견됐다. 연구는 광산 지역의 무수석이 온도 하강과 함께 녹고 석고가 매우 느리게 침전되는 열수 환경을 거대 결정 성장의 핵심으로 본다.\n\nNOT ESTABLISHED: 각 결정의 정확한 성장 시작·종료 시점과 모든 미세한 유체 변화가 직접 관측된 것은 아니며, 거대결정 형성 모델은 지질·동위원소·용해도 자료를 결합한 재구성이다.",
+          "textEn": "CONFIRMED / SUPPORTED: Caves in the Naica mine contain transparent gypsum crystals up to roughly eleven metres long. Research links their growth to hydrothermal conditions in which anhydrite dissolved as temperatures declined and gypsum precipitated extremely slowly.\n\nNOT ESTABLISHED: The precise start and end date of growth for every crystal and every small change in cave fluids were not directly observed; the formation model is a reconstruction from geology, isotopes, solubility, and crystal-growth behavior."
+        }
+      ],
+      "factBoundary": {
+        "established": "나이카 광산의 동굴에는 길이 최대 약 11미터에 이르는 투명한 석고 단결정이 발견됐다. 연구는 광산 지역의 무수석이 온도 하강과 함께 녹고 석고가 매우 느리게 침전되는 열수 환경을 거대 결정 성장의 핵심으로 본다.",
+        "notEstablished": "각 결정의 정확한 성장 시작·종료 시점과 모든 미세한 유체 변화가 직접 관측된 것은 아니며, 거대결정 형성 모델은 지질·동위원소·용해도 자료를 결합한 재구성이다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Why Could Gypsum Crystals Grow to Eleven Metres at Naica?",
+      "hook": "The giant gypsum crystals found in Mexico’s Naica mine are not supernatural objects but products of extraordinarily slow crystal growth. A key model holds that groundwater remained near the anhydrite–gypsum equilibrium temperature long enough to suppress new nucleation while allowing existing crystals to become enormous.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "광산 안의 “결정 숲”",
+          "headingEn": "A Forest of Crystals Underground",
+          "textKo": "나이카 광산의 고온 동굴에는 사람이 서 있는 크기와 비교 자체가 비현실적으로 느껴지는 석고 결정들이 놓여 있다. 2000년대 초 탐사로 유명해진 동굴의 일부 결정은 길이가 10미터를 넘는다. 크기 때문에 급격한 결정화 사건을 떠올리기 쉽지만 연구가 제시한 그림은 정반대다.",
+          "textEn": "Hot caves in the Naica mine contain gypsum crystals so large that human scale looks almost unreal beside them. Some crystals exceed ten metres in length. Their size might suggest a sudden mineralization event, but the research model points in the opposite direction: extremely slow and stable growth. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "CHEMISTRY",
+          "headingKo": "무수석에서 석고로",
+          "headingEn": "From Anhydrite to Gypsum",
+          "textKo": "나이카 지하에는 무수석이 풍부하다. 연구자들은 열수계가 식으면서 약 58도 부근의 평형 조건을 지나자 무수석이 녹고 석고가 침전할 수 있는 용액이 형성됐다고 설명한다. 황과 산소 동위원소도 거대 석고 결정이 지역 무수석에서 유래한 용액으로 성장했다는 해석을 지지한다.",
+          "textEn": "Naica contains abundant anhydrite. Researchers argue that as the hydrothermal system cooled through the temperature range near the anhydrite–gypsum equilibrium, anhydrite dissolved and supplied solutions from which gypsum could precipitate. Sulfur and oxygen isotope evidence supports a genetic link between the local anhydrite and the giant gypsum. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "GROWTH",
+          "headingKo": "크게 자란 비결은 “거의 안 자라는 속도”",
+          "headingEn": "The Secret Was Almost No Growth",
+          "textKo": "거대 결정을 만든 핵심은 빠른 성장보다 낮은 과포화도였다. 용액이 석고에 대해 아주 약하게 과포화된 상태를 오래 유지하면 새로운 작은 결정이 계속 생기기보다 이미 존재하는 소수 결정이 천천히 물질을 받아 성장할 수 있다. 연구진은 이처럼 핵 생성이 억제된 환경을 거대화의 핵심 조건으로 본다.",
+          "textEn": "The critical condition was not rapid growth but very low supersaturation. When water remains only slightly supersaturated with gypsum for a long time, many new crystals do not continually nucleate; instead, a small number of existing crystals can keep receiving material and grow slowly. Suppressed nucleation is central to the megacrystal model. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "TIME",
+          "headingKo": "동굴은 안정된 온도 저장고였다",
+          "headingEn": "The Cave Acted as a Stable Thermal Reservoir",
+          "textKo": "이 과정이 가능하려면 온도와 화학 조건이 오랜 기간 크게 흔들리지 않아야 한다. 광산 깊은 곳의 열수 환경은 외부 날씨와 단절돼 있고 지질학적 시간 규모로 완만하게 냉각됐다. 작은 환경 변화가 반복됐다면 거대한 투명 단결정 대신 더 많은 작은 결정이나 불완전한 성장 흔적이 남았을 가능성이 크다.",
+          "textEn": "This process requires temperature and chemistry to remain stable over long periods. Deep hydrothermal conditions are buffered from surface weather and can cool slowly on geological timescales. Repeated large fluctuations would more likely produce many smaller crystals or interrupted growth rather than a few enormous transparent single crystals. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "ACCESS",
+          "headingKo": "발견 이후에는 오히려 보존이 문제다",
+          "headingEn": "After Discovery, Preservation Became the Problem",
+          "textKo": "광산 배수로 동굴이 드러난 뒤 인간이 들어갈 수 있게 됐지만, 동시에 원래 물에 잠긴 열수 환경에서 벗어난 결정은 새로운 온도·습도 조건에 노출됐다. 후속 연구는 표면 탈수와 균열 같은 열화 시나리오를 다뤘다. “발견”은 자연 실험의 종료와 보존 실험의 시작이기도 했다.",
+          "textEn": "Mine drainage made the cave accessible, but exposure also removed the crystals from the hydrothermal environment in which they formed. Later work has examined dehydration, cracking, and other deterioration scenarios. Discovery therefore marked both the end of one natural experiment and the beginning of a conservation problem. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "COUNTERARGUMENT",
+          "headingKo": "거대한 크기가 곧 빠른 성장의 증거는 아니다",
+          "headingEn": "Size Does Not Imply Rapid Growth",
+          "textKo": "눈으로 보면 수십 년 사이에 갑자기 자란 듯한 인상을 주지만, 결정 크기만으로 성장 속도를 정할 수 없다. 나이카 모델은 오히려 매우 느린 성장률과 장기간 안정성을 요구한다. 극적인 외형이 극적인 속도를 뜻한다는 직관을 뒤집는 사례다.",
+          "textEn": "The crystals look as if they must have grown quickly, but size alone does not determine growth rate. The Naica model instead requires extremely slow growth and long-lived stability. It is a case where spectacular appearance points to unusually quiet conditions rather than violent formation. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "거대한 결정은 빠르게 자란 것이 아니었다",
+          "headingEn": "The Giant Crystals Were Not the Product of Rapid Growth",
+          "textKo": "나이카의 거대 석고 결정은 규모 때문에 폭발적 성장이나 특수한 사건을 떠올리게 하지만, 연구는 오히려 극도로 느린 성장과 거의 평형에 가까운 화학 환경을 가리킨다. 뜨거운 지하수가 식으며 무수석고가 용해되고 석고가 안정해지는 좁은 온도 조건이 오랜 시간 유지돼야 했다. 이 설명은 “어떻게 이렇게 커졌나”에 강한 답을 주지만, 동굴의 정확한 성장 시간과 각 결정의 세부 역사는 직접 연대측정하기 어렵다. 압도적인 크기와 느린 지질 과정 사이의 간극이 이 사례의 핵심이다.",
+          "textEn": "The scale of Naica’s crystals can suggest a sudden or extraordinary growth event, but research points in the opposite direction: extremely slow growth under a chemical environment held close to equilibrium. As hot groundwater cooled, anhydrite could dissolve and gypsum become stable within a narrow temperature range, allowing crystals to grow over very long intervals. That mechanism strongly addresses how such size became possible, while the exact growth history and age of individual crystals remain harder to pin down directly. The central puzzle is the contrast between spectacular size and an exceptionally slow geological process."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 초자연이 아니라 조건의 정밀함이다",
+          "headingEn": "A Mystery of Extraordinary Conditions",
+          "textKo": "나이카에서 남는 질문은 “외계 결정인가”가 아니다. 석고라는 흔한 광물이 왜 이 장소에서만 비정상적인 크기에 도달했는지, 열수계가 얼마나 오래 평형 가까이에 머물렀는지를 복원하는 과학 미스터리다. 설명이 제시됐다고 해서 흥미가 사라지는 것이 아니라, 오히려 자연조건의 극단적 정밀함이 드러난다.",
+          "textEn": "The mystery is not whether the crystals are alien. It is why an ordinary mineral reached extraordinary dimensions here and how long the hydrothermal system remained near the delicate equilibrium required. A strong scientific explanation does not remove the wonder; it reveals how unusual the environmental stability had to be. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 나이카 광산의 동굴에는 길이 최대 약 11미터에 이르는 투명한 석고 단결정이 발견됐다. 연구는 광산 지역의 무수석이 온도 하강과 함께 녹고 석고가 매우 느리게 침전되는 열수 환경을 거대 결정 성장의 핵심으로 본다.\n\nNOT ESTABLISHED: 각 결정의 정확한 성장 시작·종료 시점과 모든 미세한 유체 변화가 직접 관측된 것은 아니며, 거대결정 형성 모델은 지질·동위원소·용해도 자료를 결합한 재구성이다.",
+          "textEn": "CONFIRMED / SUPPORTED: Caves in the Naica mine contain transparent gypsum crystals up to roughly eleven metres long. Research links their growth to hydrothermal conditions in which anhydrite dissolved as temperatures declined and gypsum precipitated extremely slowly.\n\nNOT ESTABLISHED: The precise start and end date of growth for every crystal and every small change in cave fluids were not directly observed; the formation model is a reconstruction from geology, isotopes, solubility, and crystal-growth behavior."
+        }
+      ],
+      "factBoundary": {
+        "established": "Caves in the Naica mine contain transparent gypsum crystals up to roughly eleven metres long. Research links their growth to hydrothermal conditions in which anhydrite dissolved as temperatures declined and gypsum precipitated extremely slowly.",
+        "notEstablished": "The precise start and end date of growth for every crystal and every small change in cave fluids were not directly observed; the formation model is a reconstruction from geology, isotopes, solubility, and crystal-growth behavior."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "NAICA_GIANT_CRYSTALS-C1",
+      "status": "CONFIRMED",
+      "statementKo": "나이카 광산의 동굴에는 길이 최대 약 11미터에 이르는 투명한 석고 단결정이 발견됐다. 연구는 광산 지역의 무수석이 온도 하강과 함께 녹고 석고가 매우 느리게 침전되는 열수 환경을 거대 결정 성장의 핵심으로 본다.",
+      "statementEn": "Caves in the Naica mine contain transparent gypsum crystals up to roughly eleven metres long. Research links their growth to hydrothermal conditions in which anhydrite dissolved as temperatures declined and gypsum precipitated extremely slowly.",
+      "sourceRefs": [
+        "BSGM_NAICA",
+        "ACS_NAICA"
+      ]
+    },
+    {
+      "claimId": "NAICA_GIANT_CRYSTALS-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "각 결정의 정확한 성장 시작·종료 시점과 모든 미세한 유체 변화가 직접 관측된 것은 아니며, 거대결정 형성 모델은 지질·동위원소·용해도 자료를 결합한 재구성이다.",
+      "statementEn": "The precise start and end date of growth for every crystal and every small change in cave fluids were not directly observed; the formation model is a reconstruction from geology, isotopes, solubility, and crystal-growth behavior.",
+      "sourceRefs": [
+        "BSGM_NAICA",
+        "ACS_NAICA"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BSGM_NAICA",
+      "title": "Formación de megacristales naturales de yeso en Naica, México",
+      "publisher": "Boletín de la Sociedad Geológica Mexicana",
+      "url": "https://boletinsgm.igeolcu.unam.mx/bsgm/index.php/314-sitio/abstracts/fourth-epoch/5901/1536-5901-5-garcia",
+      "sourceType": "PEER_REVIEWED_GEOLOGY"
+    },
+    {
+      "sourceId": "ACS_NAICA",
+      "title": "Naica’s Giant Crystals: Deterioration Scenarios",
+      "publisher": "Crystal Growth & Design",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.cgd.8b00583",
+      "sourceType": "PEER_REVIEWED_FOLLOWUP"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "naica-giant-crystals-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "BSGM_NAICA",
+        "ACS_NAICA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "naica-giant-crystals__naica-giant-crystals-v01__ko.png",
+          "sha256": "7bb74ad3ebf8933d64b3f2a789cfe55d2309edee6ab62173a3d04f0899621c93",
+          "width": 1600,
+          "height": 900,
+          "fileName": "naica-giant-crystals__naica-giant-crystals-v01__ko.png"
+        },
+        "en": {
+          "file": "naica-giant-crystals__naica-giant-crystals-v01__en.png",
+          "sha256": "1c54f40c759260503ae5de0a4241dccee75f805e5e45dae37ddc7829cdd67133",
+          "width": 1600,
+          "height": 900,
+          "fileName": "naica-giant-crystals__naica-giant-crystals-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "naica-giant-crystals-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "BSGM_NAICA",
+        "ACS_NAICA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "naica-giant-crystals__naica-giant-crystals-v02__ko.png",
+          "sha256": "cc68509e82746a40fdb816e3b50ab0d0e1020e98f43ef2a796fbb3d454330b49",
+          "width": 1600,
+          "height": 900,
+          "fileName": "naica-giant-crystals__naica-giant-crystals-v02__ko.png"
+        },
+        "en": {
+          "file": "naica-giant-crystals__naica-giant-crystals-v02__en.png",
+          "sha256": "9d74be068f856f901892f9a18324c652e7c54eeba54e3487b238057b7cb4354f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "naica-giant-crystals__naica-giant-crystals-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "naica-giant-crystals-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "BSGM_NAICA",
+        "ACS_NAICA"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "naica-giant-crystals__naica-giant-crystals-v03__ko.png",
+          "sha256": "2d1ab433f8da1787c4a2c4919ba7308936a828c8265b62ff4ca3917f2d38cfa2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "naica-giant-crystals__naica-giant-crystals-v03__ko.png"
+        },
+        "en": {
+          "file": "naica-giant-crystals__naica-giant-crystals-v03__en.png",
+          "sha256": "1be4ba2627cf48fae78d7e50501c1b3e48d5db69273f8e6aa273f7c90a8ebe12",
+          "width": 1600,
+          "height": 900,
+          "fileName": "naica-giant-crystals__naica-giant-crystals-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Mexico",
+    "era": "2000 discovery / geological formation",
+    "genre": "Strange Science / Natural Anomaly",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "resolution": "unknown",
+    "countries": [
+      "Mexico"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1589,
+    "enBodyWords": 653
+  }
+}

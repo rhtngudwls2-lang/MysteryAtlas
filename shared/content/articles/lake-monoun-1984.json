@@ -1,0 +1,379 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "lake-monoun-1984",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "1984년 모눈 호수 가스 참사",
+    "canonicalTitleEn": "Lake Monoun 1984: The Deadly Gas Burst Before Nyos",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "총상도 화재도 없던 37명의 죽음—호수는 어떻게 범인이 됐나",
+      "hook": "1984년 카메룬 모눈 호수 주변에서 37명이 갑자기 숨졌다. 깊은 호수 물에 녹아 있던 이산화탄소가 한꺼번에 방출됐다는 해석은 이후 시료 분석과 지구화학으로 강화됐고, 2년 뒤 니오스 호수 대참사를 이해하는 선행 사례가 됐다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "길 위에서 갑자기 쓰러진 사람들",
+          "headingEn": "Sudden Deaths Near the Lake",
+          "textKo": "1984년 8월 15일 모눈 호수 인근에서 사람과 동물이 갑자기 쓰러졌다. 불길이나 화산 폭발 같은 눈에 보이는 재난은 없었고, 사망자는 37명으로 집계됐다. 외상이 거의 없는 집단 사망은 독성가스나 질식성 환경을 의심하게 했지만 처음부터 물질이 확정된 것은 아니었다.",
+          "textEn": "On August 15, 1984, people and animals near Lake Monoun collapsed suddenly. There was no obvious fire or eruptive spectacle, and 37 people died. A cluster of deaths without major trauma pointed toward toxic or asphyxiating gas, but the substance and mechanism were not immediately settled. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "WATER",
+          "headingKo": "96미터 깊이의 화구호",
+          "headingEn": "A Deep Crater Lake",
+          "textKo": "USGS 연구는 모눈 호수를 약 96미터 깊이의 화구호로 설명한다. 50미터 아래 물은 무산소 상태였고 특이한 화학 조성을 보였다. 깊은 물을 감압하자 기체가 빠져나왔는데 주성분은 이산화탄소였고 소량의 메탄이 섞여 있었다. 이 데이터가 “호수 자체가 가스 저장고”라는 모델을 강하게 지지했다.",
+          "textEn": "USGS research describes Monoun as a crater lake roughly 96 meters deep. Water below about 50 meters was anoxic and chemically unusual. When deep water was depressurized, gas effervesced—dominated by carbon dioxide with smaller amounts of methane. These measurements strongly supported the idea that the lake itself stored the lethal gas. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "SOURCE",
+          "headingKo": "탄소의 나이를 추적하다",
+          "headingEn": "Tracing the Carbon Source",
+          "textKo": "호수 물의 탄소 동위원소와 방사성탄소 자료는 깊은 탄소의 대부분이 최근 유기물 분해만으로 생겼다고 보기 어렵다는 점을 보여줬다. 연구자들은 화산성·지질학적 기원의 이산화탄소가 지하에서 공급되어 깊은 층에 축적됐다는 해석을 발전시켰다.",
+          "textEn": "Carbon-isotope and radiocarbon measurements suggested that the deep carbon reservoir could not be explained simply by recent decomposition of organic matter. Researchers developed a model in which geologic carbon dioxide entered the lake from below and accumulated in deep, stratified water. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "TRIGGER",
+          "headingKo": "산사태는 방아쇠였나",
+          "headingEn": "Was a Landslide the Trigger?",
+          "textKo": "1987년 논문은 사건 당시 동쪽 화구벽의 산사태와 깊은 물의 교란을 함께 기록했다. 하지만 산사태가 대규모 탈기를 시작한 결정적 방아쇠였는지, 가스 분출 과정에서 동반된 현상인지에는 더 신중한 표현이 필요하다. “무엇이 나왔나”와 “무엇이 처음 흔들었나”는 다른 질문이다.",
+          "textEn": "The 1987 study recorded a slump from the eastern crater rim in association with the disaster. Whether that landslide was the decisive trigger for the large-scale degassing, or was merely associated with the event, requires more caution. Identifying the gas is a different question from identifying the first disturbance. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "NYOS",
+          "headingKo": "2년 뒤 니오스가 모델을 확대했다",
+          "headingEn": "Nyos Made the Mechanism Impossible to Ignore",
+          "textKo": "1986년 같은 카메룬 화산지대의 니오스 호수에서 훨씬 큰 이산화탄소 방출이 일어나 약 1,700명이 숨졌다. 두 사건은 깊은 화구호가 용존 이산화탄소를 축적하다 갑자기 방출할 수 있다는 위험을 세계적으로 알렸다. 모눈은 더 작은 규모였지만 원리를 먼저 드러낸 사건이었다.",
+          "textEn": "Two years later, Lake Nyos released a much larger carbon-dioxide cloud that killed about 1,700 people. Together the events demonstrated that deep crater lakes can accumulate dissolved CO2 and release it catastrophically. Monoun was smaller, but it was the earlier warning that revealed the mechanism. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY",
+          "headingKo": "“호수가 폭발했다”는 표현의 함정",
+          "headingEn": "The Problem with Saying the Lake “Exploded”",
+          "textKo": "대중적으로는 “폭발하는 호수”라고 부르지만 화약이나 마그마 폭발과 같은 과정은 아니다. 핵심은 압력 아래 물에 녹아 있던 이산화탄소가 안정성을 잃고 기포화·탈기하면서 지표 가까이 무거운 가스 구름을 만든 것이다. 용어를 정확히 해야 재난의 물리학과 공포 서사를 혼동하지 않는다.",
+          "textEn": "Popular accounts call these “exploding lakes,” but the process is not an explosion like gunpowder or magma. The key is dissolved carbon dioxide becoming unstable, exsolving, and forming a dense gas cloud near the ground. Precise language keeps the physics separate from the dramatic metaphor. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "니오스 이전에 이미 경고가 있었다",
+          "headingEn": "A Warning Two Years Before Lake Nyos",
+          "textKo": "모눈 호수 사건은 1986년 니오스 참사를 이해하는 데 결정적인 선행 사례였다. 1984년 사망자 주변에서 화상이나 폭발 흔적 대신 질식과 비정상적인 가스 환경이 문제로 떠올랐고, 조사자들은 깊은 호수 물에 축적된 이산화탄소가 갑자기 방출됐다는 설명을 발전시켰다. 그러나 “왜 바로 그날 방출이 시작됐는가”는 별도 문제다. 산사태나 물의 교란 같은 촉발 요인이 논의됐지만 단일 트리거가 확정된 것은 아니다. 따라서 모눈은 원리의 상당 부분이 풀렸으면서도 사건 개시 조건에는 불확실성이 남은 과학 미스터리다.",
+          "textEn": "Lake Monoun became a crucial precursor to the 1986 Lake Nyos disaster. Investigators confronted deaths without the expected signs of fire or explosion and developed the explanation that carbon dioxide accumulated in deep lake water had been released abruptly, creating a lethal ground-hugging gas cloud. Yet identifying the mechanism did not fully answer what initiated the release on that specific day. Landslides and other disturbances have been discussed, but a single trigger has not been established with the same confidence as the CO2 mechanism itself. Monoun is therefore a partly solved scientific mystery: the process is understood far better than the initiating event."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "원인은 상당히 풀렸고, 방아쇠는 덜 풀렸다",
+          "headingEn": "A Solved Gas, a Less Certain Trigger",
+          "textKo": "모눈 사건의 미스터리는 오늘날 “무슨 독가스였나”에 머물지 않는다. 이산화탄소 축적과 질식 메커니즘은 강하게 지지된다. 더 열린 질문은 깊은 호수가 어떤 조건에서 임계상태를 넘는지, 특정 사건에서 최초 교란이 무엇이었는지다. 해결된 부분과 남은 불확실성을 같은 지도에 표시해야 한다.",
+          "textEn": "The Monoun mystery is no longer simply “what poison was it?” Carbon dioxide accumulation and asphyxiation are strongly supported. The more open questions concern when a deep lake crosses a stability threshold and what initiates a particular release. Established mechanism and uncertain trigger belong on the same evidence map. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1984년 8월 15일 모눈 호수에서 발생한 가스 방출로 37명이 사망했다. USGS 연구는 깊은 호수 물에서 방출되는 기체가 주로 이산화탄소였고, 호수 깊은 층이 이산화탄소에 비정상적으로 풍부했다는 자료를 제시했다.\n\nNOT ESTABLISHED: 정확히 어떤 물리적 교란이 최초의 대규모 탈기를 촉발했는지, 산사태가 원인인지 동반 현상인지에 대해서는 초기 연구부터 불확실성이 남았다.",
+          "textEn": "CONFIRMED / SUPPORTED: A gas release at Lake Monoun on August 15, 1984 killed 37 people. USGS-linked research found that gases released from deep lake water were dominated by carbon dioxide and that deep waters contained an unusual accumulation of dissolved gas.\n\nNOT ESTABLISHED: The exact physical trigger that initiated the large-scale degassing, including whether a landslide was the trigger or an associated event, has remained more uncertain than the identification of carbon dioxide itself."
+        }
+      ],
+      "factBoundary": {
+        "established": "1984년 8월 15일 모눈 호수에서 발생한 가스 방출로 37명이 사망했다. USGS 연구는 깊은 호수 물에서 방출되는 기체가 주로 이산화탄소였고, 호수 깊은 층이 이산화탄소에 비정상적으로 풍부했다는 자료를 제시했다.",
+        "notEstablished": "정확히 어떤 물리적 교란이 최초의 대규모 탈기를 촉발했는지, 산사태가 원인인지 동반 현상인지에 대해서는 초기 연구부터 불확실성이 남았다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Thirty-Seven Deaths Without Fire or Trauma—How Did the Lake Become the Suspect?",
+      "hook": "In 1984, thirty-seven people died suddenly near Lake Monoun in Cameroon. Geochemical work supported the interpretation that carbon dioxide stored in deep lake water had been released abruptly. Two years later, the much larger Lake Nyos disaster made Monoun a crucial earlier case.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "길 위에서 갑자기 쓰러진 사람들",
+          "headingEn": "Sudden Deaths Near the Lake",
+          "textKo": "1984년 8월 15일 모눈 호수 인근에서 사람과 동물이 갑자기 쓰러졌다. 불길이나 화산 폭발 같은 눈에 보이는 재난은 없었고, 사망자는 37명으로 집계됐다. 외상이 거의 없는 집단 사망은 독성가스나 질식성 환경을 의심하게 했지만 처음부터 물질이 확정된 것은 아니었다.",
+          "textEn": "On August 15, 1984, people and animals near Lake Monoun collapsed suddenly. There was no obvious fire or eruptive spectacle, and 37 people died. A cluster of deaths without major trauma pointed toward toxic or asphyxiating gas, but the substance and mechanism were not immediately settled. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "WATER",
+          "headingKo": "96미터 깊이의 화구호",
+          "headingEn": "A Deep Crater Lake",
+          "textKo": "USGS 연구는 모눈 호수를 약 96미터 깊이의 화구호로 설명한다. 50미터 아래 물은 무산소 상태였고 특이한 화학 조성을 보였다. 깊은 물을 감압하자 기체가 빠져나왔는데 주성분은 이산화탄소였고 소량의 메탄이 섞여 있었다. 이 데이터가 “호수 자체가 가스 저장고”라는 모델을 강하게 지지했다.",
+          "textEn": "USGS research describes Monoun as a crater lake roughly 96 meters deep. Water below about 50 meters was anoxic and chemically unusual. When deep water was depressurized, gas effervesced—dominated by carbon dioxide with smaller amounts of methane. These measurements strongly supported the idea that the lake itself stored the lethal gas. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "SOURCE",
+          "headingKo": "탄소의 나이를 추적하다",
+          "headingEn": "Tracing the Carbon Source",
+          "textKo": "호수 물의 탄소 동위원소와 방사성탄소 자료는 깊은 탄소의 대부분이 최근 유기물 분해만으로 생겼다고 보기 어렵다는 점을 보여줬다. 연구자들은 화산성·지질학적 기원의 이산화탄소가 지하에서 공급되어 깊은 층에 축적됐다는 해석을 발전시켰다.",
+          "textEn": "Carbon-isotope and radiocarbon measurements suggested that the deep carbon reservoir could not be explained simply by recent decomposition of organic matter. Researchers developed a model in which geologic carbon dioxide entered the lake from below and accumulated in deep, stratified water. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "TRIGGER",
+          "headingKo": "산사태는 방아쇠였나",
+          "headingEn": "Was a Landslide the Trigger?",
+          "textKo": "1987년 논문은 사건 당시 동쪽 화구벽의 산사태와 깊은 물의 교란을 함께 기록했다. 하지만 산사태가 대규모 탈기를 시작한 결정적 방아쇠였는지, 가스 분출 과정에서 동반된 현상인지에는 더 신중한 표현이 필요하다. “무엇이 나왔나”와 “무엇이 처음 흔들었나”는 다른 질문이다.",
+          "textEn": "The 1987 study recorded a slump from the eastern crater rim in association with the disaster. Whether that landslide was the decisive trigger for the large-scale degassing, or was merely associated with the event, requires more caution. Identifying the gas is a different question from identifying the first disturbance. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "NYOS",
+          "headingKo": "2년 뒤 니오스가 모델을 확대했다",
+          "headingEn": "Nyos Made the Mechanism Impossible to Ignore",
+          "textKo": "1986년 같은 카메룬 화산지대의 니오스 호수에서 훨씬 큰 이산화탄소 방출이 일어나 약 1,700명이 숨졌다. 두 사건은 깊은 화구호가 용존 이산화탄소를 축적하다 갑자기 방출할 수 있다는 위험을 세계적으로 알렸다. 모눈은 더 작은 규모였지만 원리를 먼저 드러낸 사건이었다.",
+          "textEn": "Two years later, Lake Nyos released a much larger carbon-dioxide cloud that killed about 1,700 people. Together the events demonstrated that deep crater lakes can accumulate dissolved CO2 and release it catastrophically. Monoun was smaller, but it was the earlier warning that revealed the mechanism. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "BOUNDARY",
+          "headingKo": "“호수가 폭발했다”는 표현의 함정",
+          "headingEn": "The Problem with Saying the Lake “Exploded”",
+          "textKo": "대중적으로는 “폭발하는 호수”라고 부르지만 화약이나 마그마 폭발과 같은 과정은 아니다. 핵심은 압력 아래 물에 녹아 있던 이산화탄소가 안정성을 잃고 기포화·탈기하면서 지표 가까이 무거운 가스 구름을 만든 것이다. 용어를 정확히 해야 재난의 물리학과 공포 서사를 혼동하지 않는다.",
+          "textEn": "Popular accounts call these “exploding lakes,” but the process is not an explosion like gunpowder or magma. The key is dissolved carbon dioxide becoming unstable, exsolving, and forming a dense gas cloud near the ground. Precise language keeps the physics separate from the dramatic metaphor. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "니오스 이전에 이미 경고가 있었다",
+          "headingEn": "A Warning Two Years Before Lake Nyos",
+          "textKo": "모눈 호수 사건은 1986년 니오스 참사를 이해하는 데 결정적인 선행 사례였다. 1984년 사망자 주변에서 화상이나 폭발 흔적 대신 질식과 비정상적인 가스 환경이 문제로 떠올랐고, 조사자들은 깊은 호수 물에 축적된 이산화탄소가 갑자기 방출됐다는 설명을 발전시켰다. 그러나 “왜 바로 그날 방출이 시작됐는가”는 별도 문제다. 산사태나 물의 교란 같은 촉발 요인이 논의됐지만 단일 트리거가 확정된 것은 아니다. 따라서 모눈은 원리의 상당 부분이 풀렸으면서도 사건 개시 조건에는 불확실성이 남은 과학 미스터리다.",
+          "textEn": "Lake Monoun became a crucial precursor to the 1986 Lake Nyos disaster. Investigators confronted deaths without the expected signs of fire or explosion and developed the explanation that carbon dioxide accumulated in deep lake water had been released abruptly, creating a lethal ground-hugging gas cloud. Yet identifying the mechanism did not fully answer what initiated the release on that specific day. Landslides and other disturbances have been discussed, but a single trigger has not been established with the same confidence as the CO2 mechanism itself. Monoun is therefore a partly solved scientific mystery: the process is understood far better than the initiating event."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "원인은 상당히 풀렸고, 방아쇠는 덜 풀렸다",
+          "headingEn": "A Solved Gas, a Less Certain Trigger",
+          "textKo": "모눈 사건의 미스터리는 오늘날 “무슨 독가스였나”에 머물지 않는다. 이산화탄소 축적과 질식 메커니즘은 강하게 지지된다. 더 열린 질문은 깊은 호수가 어떤 조건에서 임계상태를 넘는지, 특정 사건에서 최초 교란이 무엇이었는지다. 해결된 부분과 남은 불확실성을 같은 지도에 표시해야 한다.",
+          "textEn": "The Monoun mystery is no longer simply “what poison was it?” Carbon dioxide accumulation and asphyxiation are strongly supported. The more open questions concern when a deep lake crosses a stability threshold and what initiates a particular release. Established mechanism and uncertain trigger belong on the same evidence map. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 1984년 8월 15일 모눈 호수에서 발생한 가스 방출로 37명이 사망했다. USGS 연구는 깊은 호수 물에서 방출되는 기체가 주로 이산화탄소였고, 호수 깊은 층이 이산화탄소에 비정상적으로 풍부했다는 자료를 제시했다.\n\nNOT ESTABLISHED: 정확히 어떤 물리적 교란이 최초의 대규모 탈기를 촉발했는지, 산사태가 원인인지 동반 현상인지에 대해서는 초기 연구부터 불확실성이 남았다.",
+          "textEn": "CONFIRMED / SUPPORTED: A gas release at Lake Monoun on August 15, 1984 killed 37 people. USGS-linked research found that gases released from deep lake water were dominated by carbon dioxide and that deep waters contained an unusual accumulation of dissolved gas.\n\nNOT ESTABLISHED: The exact physical trigger that initiated the large-scale degassing, including whether a landslide was the trigger or an associated event, has remained more uncertain than the identification of carbon dioxide itself."
+        }
+      ],
+      "factBoundary": {
+        "established": "A gas release at Lake Monoun on August 15, 1984 killed 37 people. USGS-linked research found that gases released from deep lake water were dominated by carbon dioxide and that deep waters contained an unusual accumulation of dissolved gas.",
+        "notEstablished": "The exact physical trigger that initiated the large-scale degassing, including whether a landslide was the trigger or an associated event, has remained more uncertain than the identification of carbon dioxide itself."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "LAKE_MONOUN_1984-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1984년 8월 15일 모눈 호수에서 발생한 가스 방출로 37명이 사망했다. USGS 연구는 깊은 호수 물에서 방출되는 기체가 주로 이산화탄소였고, 호수 깊은 층이 이산화탄소에 비정상적으로 풍부했다는 자료를 제시했다.",
+      "statementEn": "A gas release at Lake Monoun on August 15, 1984 killed 37 people. USGS-linked research found that gases released from deep lake water were dominated by carbon dioxide and that deep waters contained an unusual accumulation of dissolved gas.",
+      "sourceRefs": [
+        "USGS_ORIGIN",
+        "USGS_CAMEROON"
+      ]
+    },
+    {
+      "claimId": "LAKE_MONOUN_1984-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "정확히 어떤 물리적 교란이 최초의 대규모 탈기를 촉발했는지, 산사태가 원인인지 동반 현상인지에 대해서는 초기 연구부터 불확실성이 남았다.",
+      "statementEn": "The exact physical trigger that initiated the large-scale degassing, including whether a landslide was the trigger or an associated event, has remained more uncertain than the identification of carbon dioxide itself.",
+      "sourceRefs": [
+        "USGS_ORIGIN",
+        "USGS_CAMEROON"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "USGS_ORIGIN",
+      "title": "Origin of the lethal gas burst from Lake Monoun, Cameroun",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/publications/origin-lethal-gas-burst-lake-monoun-cameroun",
+      "sourceType": "PEER_REVIEWED_GOVERNMENT_RESEARCH"
+    },
+    {
+      "sourceId": "USGS_CAMEROON",
+      "title": "Exploding Lakes in Cameroon",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/media/images/exploding-lakes-cameroon-1",
+      "sourceType": "GOVERNMENT_HAZARD_CONTEXT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "lake-monoun-1984-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "USGS_ORIGIN",
+        "USGS_CAMEROON"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "lake-monoun-1984__lake-monoun-1984-v01__ko.png",
+          "sha256": "b13a4b10b2901f260f5f65101f80154ad746c655230470731dced13b1c1ad9fb",
+          "width": 1600,
+          "height": 900,
+          "fileName": "lake-monoun-1984__lake-monoun-1984-v01__ko.png"
+        },
+        "en": {
+          "file": "lake-monoun-1984__lake-monoun-1984-v01__en.png",
+          "sha256": "8af691006b7b5977af7ebf0d23d6fcbd932819762d45b6fd056b4e1c758d358c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "lake-monoun-1984__lake-monoun-1984-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "lake-monoun-1984-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "USGS_ORIGIN",
+        "USGS_CAMEROON"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "lake-monoun-1984__lake-monoun-1984-v02__ko.png",
+          "sha256": "06f7921f21df609e90310e6040c0eb326762631bfb9c0b5141d330db6cb783d2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "lake-monoun-1984__lake-monoun-1984-v02__ko.png"
+        },
+        "en": {
+          "file": "lake-monoun-1984__lake-monoun-1984-v02__en.png",
+          "sha256": "e27d882f48f95ac5d08a85fd79933ddb8fbf2cb67173b9555d24de46707270fc",
+          "width": 1600,
+          "height": 900,
+          "fileName": "lake-monoun-1984__lake-monoun-1984-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "lake-monoun-1984-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "USGS_ORIGIN",
+        "USGS_CAMEROON"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "lake-monoun-1984__lake-monoun-1984-v03__ko.png",
+          "sha256": "18adda6b3481f9a189d4b4b549f4da8bfc9f048f5fe9329e9960f4451dc3bfb5",
+          "width": 1600,
+          "height": 900,
+          "fileName": "lake-monoun-1984__lake-monoun-1984-v03__ko.png"
+        },
+        "en": {
+          "file": "lake-monoun-1984__lake-monoun-1984-v03__en.png",
+          "sha256": "ffb9c42f6b4634477ab15f1a2ad60b74ec7f50c509767704ed8df207ea56f192",
+          "width": 1600,
+          "height": 900,
+          "fileName": "lake-monoun-1984__lake-monoun-1984-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Cameroon",
+    "era": "1984–1987",
+    "genre": "Strange Science / Natural Anomaly",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Strange Science / Natural Anomaly",
+    "resolution": "unknown",
+    "countries": [
+      "Cameroon"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1583,
+    "enBodyWords": 651
+  }
+}

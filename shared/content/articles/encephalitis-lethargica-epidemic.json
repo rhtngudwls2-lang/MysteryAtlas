@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "encephalitis-lethargica-epidemic",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "기면성 뇌염 유행의 풀리지 않은 원인",
+    "canonicalTitleEn": "Encephalitis Lethargica: The Epidemic Whose Cause Is Still Unknown",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "사람들을 잠들게 하고 파킨슨증을 남긴 유행병은 왜 사라졌나",
+      "hook": "20세기 초 기면성 뇌염은 심한 수면장애, 운동 이상, 이후 파킨슨증을 남기며 세계적으로 유행했다. 감염·독성물질·자가면역 가설이 제시됐지만, 100년이 지난 지금도 역사적 유행의 원인은 확정되지 않았다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "깨어 있지 못하거나, 잠들지 못하거나",
+          "headingEn": "A Disorder of Sleep, Wakefulness, and Movement",
+          "textKo": "기면성 뇌염은 이름 때문에 “계속 잠드는 병”으로 단순화되지만 실제 기록은 훨씬 다양하다. 심한 졸림뿐 아니라 불면, 안구운동 이상, 행동 변화, 운동장애가 보고됐다. 급성기를 넘긴 일부 환자는 수년 뒤 심한 파킨슨증을 보였다. 하나의 증상만으로 정의하기 어려운 복합 신경질환이었다.",
+          "textEn": "Despite its name, encephalitis lethargica was not simply a disease of excessive sleep. Historical cases included hypersomnolence, insomnia, eye-movement abnormalities, behavioral changes, and movement disorders. Some survivors later developed severe post-encephalitic parkinsonism, making the syndrome broader than a single sleep symptom. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "EPIDEMIC",
+          "headingKo": "전쟁과 독감의 시대에 겹쳐 나타났다",
+          "headingEn": "An Epidemic Beside War and Influenza",
+          "textKo": "유행은 제1차 세계대전 말기와 1918년 인플루엔자 대유행 시기와 부분적으로 겹쳤다. 이 시간적 겹침 때문에 독감 바이러스가 원인이라는 생각이 오래 지속됐다. 하지만 유행 시기와 지역 분포, 병리자료를 다시 비교한 연구는 단순한 인플루엔자 직접원인설을 지지하기 어렵다고 본다.",
+          "textEn": "The epidemic overlapped in time with the end of the First World War and the 1918 influenza pandemic. That coincidence encouraged a long-standing influenza hypothesis. Reassessment of timing, geography, pathology, and virology, however, has made a simple direct influenza explanation difficult to sustain. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "ARCHIVE",
+          "headingKo": "100년 전 환자기록을 다시 읽다",
+          "headingEn": "Re-reading Century-Old Case Notes",
+          "textKo": "2024년 연구는 영국 National Hospital의 1918~1946년 환자 기록을 다시 조사해 증상과 경과를 정량적으로 분석했다. 역사적 질환은 현대 기준으로 완벽하게 재진단하기 어렵지만, 원래 임상기록을 체계적으로 읽으면 후대 교과서가 단순화한 모습을 수정할 수 있다.",
+          "textEn": "A 2024 study re-examined case notes from the UK National Hospital dating from 1918 to 1946 and quantified clinical features and disease course. Historical patients cannot be re-diagnosed perfectly by modern standards, but systematic archival analysis can correct simplified textbook portrayals. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "PATHOLOGY",
+          "headingKo": "뇌간과 기저핵의 흔적",
+          "headingEn": "Neuropathological Clues",
+          "textKo": "역사적 부검에서는 중뇌·뇌교·기저핵 주변의 염증성 변화와 작은 출혈 등이 보고됐고, 후뇌염성 파킨슨증에서는 흑질의 위축이 관찰됐다. 이런 소견은 질환이 실재하는 신경병리적 사건이었다는 점을 지지하지만 특정 바이러스나 독성물질의 지문을 하나로 확정해주지는 않는다.",
+          "textEn": "Historical pathology described inflammatory changes and small hemorrhagic lesions around the midbrain, pons, and basal ganglia, while post-encephalitic parkinsonism was associated with substantia-nigra damage. These findings support a real neurological disease but do not identify one definitive pathogen or toxin. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "HYPOTHESES",
+          "headingKo": "감염, 독성, 자가면역",
+          "headingEn": "Infection, Toxin, or Autoimmunity?",
+          "textKo": "감염성 병원체, 환경 독성물질, 감염 뒤 자가면역 반응 등 여러 가설이 제시됐다. 최근 리뷰는 자가면역 가능성을 검토하면서도 역사적 유행과 현대의 유사 증후군이 같은 병이라는 전제가 약하다고 지적한다. 좋은 가설이 존재한다는 것과 원인이 증명됐다는 것은 다르다.",
+          "textEn": "Proposed explanations include an infectious agent, environmental toxin, and post-infectious autoimmunity. Recent reviews examine autoimmune possibilities but stress that modern look-alike syndromes may not be the same entity as the historical epidemic. A plausible hypothesis is not equivalent to a demonstrated cause. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "DISAPPEARANCE",
+          "headingKo": "왜 유행은 줄어들었나",
+          "headingEn": "Why Did the Epidemic Recede?",
+          "textKo": "1920년대 후반 이후 전형적 대규모 유행은 사라졌다. 병원체가 변했는지, 숙주 집단의 면역이 바뀌었는지, 진단명이 다른 질환에 흡수됐는지 확실한 답은 없다. 원인을 모르는 상태에서는 유행이 끝난 이유도 독립적으로 확정하기 어렵다.",
+          "textEn": "The classic large epidemic faded by the late 1920s. It is not known whether a pathogen changed, population immunity shifted, or later cases were classified under different diagnoses. Without a settled cause, the reason for disappearance is also difficult to establish independently. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "한 세기가 지나도 원인명이 붙지 않은 유행병",
+          "headingEn": "An Epidemic That Still Lacks a Confirmed Cause",
+          "textKo": "기면성 뇌염은 환자의 수면 이상, 안구운동 장애, 운동증상과 이후 파킨슨증까지 비교적 특징적인 임상상을 남겼지만, 그 임상적 선명함이 원인 규명으로 이어지지는 않았다. 인플루엔자 대유행과 시기가 겹쳤다는 사실 때문에 직접 연관설이 오래 논의됐지만 이를 확정할 병원체 증거는 부족하다. 자가면역성 기전도 후보로 검토되지만 단일한 설명으로 합의되지 않았다. 따라서 이 사례는 자료가 적어서가 아니라, 임상 기록이 풍부한데도 병인의 연결고리가 닫히지 않았다는 점에서 독특한 의학 미스터리다.",
+          "textEn": "Encephalitis lethargica left a recognizable clinical record—sleep disturbance, eye-movement abnormalities, movement disorders, and in some survivors later post-encephalitic parkinsonism. Yet the clarity of the syndrome did not translate into a confirmed cause. Its overlap with the influenza era encouraged a direct influenza hypothesis for decades, but decisive pathogen evidence has not established that link. Autoimmune mechanisms have also been investigated without producing a single accepted explanation. The case is unusual because the mystery persists not from a lack of clinical description, but despite a substantial medical record whose causal chain still does not close."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "100년 뒤에도 남은 병인 미스터리",
+          "headingEn": "A Century-Old Etiological Mystery",
+          "textKo": "기면성 뇌염은 단순한 옛 의학사가 아니라, 많은 임상기록과 병리 흔적이 있는데도 원인을 특정하지 못한 드문 유행병이다. 현재 자료가 허용하는 가장 정확한 결론은 “존재와 주요 임상상은 잘 기록됐지만 병인은 아직 미확정”이라는 이중 문장이다.",
+          "textEn": "Encephalitis lethargica is more than a medical-history curiosity: abundant clinical and pathological evidence documents the syndrome, yet its cause remains unresolved. The most accurate current boundary is two-part—its historical existence and broad clinical pattern are well documented, but its aetiology is still not established. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 기면성 뇌염은 1910년대 후반부터 1920년대에 걸쳐 유행한 신경계 질환으로 수면·각성 장애와 다양한 운동·정신 증상, 일부 환자의 후뇌염성 파킨슨증이 기록됐다. 현대 재검토에서도 역사적 유행의 정확한 병인은 확정되지 않았다.\n\nNOT ESTABLISHED: 1918년 인플루엔자가 직접 원인이었다거나, 현대의 산발적 “기면성 뇌염” 사례가 역사적 유행과 같은 질환이라는 주장은 확립되지 않았다. 자가면역 가설 역시 가능성은 있으나 결정적 증거가 부족하다.",
+          "textEn": "CONFIRMED / SUPPORTED: Encephalitis lethargica was an epidemic neurological disorder of the late 1910s and 1920s, associated with sleep-wake disturbance, varied movement and psychiatric symptoms, and post-encephalitic parkinsonism in some patients. Modern reviews still do not identify a proven cause for the historical epidemic.\n\nNOT ESTABLISHED: A direct causal link to the 1918 influenza pandemic is not established, and modern sporadic cases labeled “encephalitis lethargica” may not be the same disease. Autoimmune explanations remain plausible but unproven."
+        }
+      ],
+      "factBoundary": {
+        "established": "기면성 뇌염은 1910년대 후반부터 1920년대에 걸쳐 유행한 신경계 질환으로 수면·각성 장애와 다양한 운동·정신 증상, 일부 환자의 후뇌염성 파킨슨증이 기록됐다. 현대 재검토에서도 역사적 유행의 정확한 병인은 확정되지 않았다.",
+        "notEstablished": "1918년 인플루엔자가 직접 원인이었다거나, 현대의 산발적 “기면성 뇌염” 사례가 역사적 유행과 같은 질환이라는 주장은 확립되지 않았다. 자가면역 가설 역시 가능성은 있으나 결정적 증거가 부족하다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "What Caused the Epidemic That Altered Sleep and Left Parkinsonism Behind?",
+      "hook": "In the early twentieth century, encephalitis lethargica spread internationally with severe sleep disturbance, movement abnormalities, and later parkinsonism. Infection, toxins, and autoimmune mechanisms have all been proposed, yet a century later the cause of the historical epidemic remains unsettled.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "깨어 있지 못하거나, 잠들지 못하거나",
+          "headingEn": "A Disorder of Sleep, Wakefulness, and Movement",
+          "textKo": "기면성 뇌염은 이름 때문에 “계속 잠드는 병”으로 단순화되지만 실제 기록은 훨씬 다양하다. 심한 졸림뿐 아니라 불면, 안구운동 이상, 행동 변화, 운동장애가 보고됐다. 급성기를 넘긴 일부 환자는 수년 뒤 심한 파킨슨증을 보였다. 하나의 증상만으로 정의하기 어려운 복합 신경질환이었다.",
+          "textEn": "Despite its name, encephalitis lethargica was not simply a disease of excessive sleep. Historical cases included hypersomnolence, insomnia, eye-movement abnormalities, behavioral changes, and movement disorders. Some survivors later developed severe post-encephalitic parkinsonism, making the syndrome broader than a single sleep symptom. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "EPIDEMIC",
+          "headingKo": "전쟁과 독감의 시대에 겹쳐 나타났다",
+          "headingEn": "An Epidemic Beside War and Influenza",
+          "textKo": "유행은 제1차 세계대전 말기와 1918년 인플루엔자 대유행 시기와 부분적으로 겹쳤다. 이 시간적 겹침 때문에 독감 바이러스가 원인이라는 생각이 오래 지속됐다. 하지만 유행 시기와 지역 분포, 병리자료를 다시 비교한 연구는 단순한 인플루엔자 직접원인설을 지지하기 어렵다고 본다.",
+          "textEn": "The epidemic overlapped in time with the end of the First World War and the 1918 influenza pandemic. That coincidence encouraged a long-standing influenza hypothesis. Reassessment of timing, geography, pathology, and virology, however, has made a simple direct influenza explanation difficult to sustain. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "ARCHIVE",
+          "headingKo": "100년 전 환자기록을 다시 읽다",
+          "headingEn": "Re-reading Century-Old Case Notes",
+          "textKo": "2024년 연구는 영국 National Hospital의 1918~1946년 환자 기록을 다시 조사해 증상과 경과를 정량적으로 분석했다. 역사적 질환은 현대 기준으로 완벽하게 재진단하기 어렵지만, 원래 임상기록을 체계적으로 읽으면 후대 교과서가 단순화한 모습을 수정할 수 있다.",
+          "textEn": "A 2024 study re-examined case notes from the UK National Hospital dating from 1918 to 1946 and quantified clinical features and disease course. Historical patients cannot be re-diagnosed perfectly by modern standards, but systematic archival analysis can correct simplified textbook portrayals. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "PATHOLOGY",
+          "headingKo": "뇌간과 기저핵의 흔적",
+          "headingEn": "Neuropathological Clues",
+          "textKo": "역사적 부검에서는 중뇌·뇌교·기저핵 주변의 염증성 변화와 작은 출혈 등이 보고됐고, 후뇌염성 파킨슨증에서는 흑질의 위축이 관찰됐다. 이런 소견은 질환이 실재하는 신경병리적 사건이었다는 점을 지지하지만 특정 바이러스나 독성물질의 지문을 하나로 확정해주지는 않는다.",
+          "textEn": "Historical pathology described inflammatory changes and small hemorrhagic lesions around the midbrain, pons, and basal ganglia, while post-encephalitic parkinsonism was associated with substantia-nigra damage. These findings support a real neurological disease but do not identify one definitive pathogen or toxin. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "HYPOTHESES",
+          "headingKo": "감염, 독성, 자가면역",
+          "headingEn": "Infection, Toxin, or Autoimmunity?",
+          "textKo": "감염성 병원체, 환경 독성물질, 감염 뒤 자가면역 반응 등 여러 가설이 제시됐다. 최근 리뷰는 자가면역 가능성을 검토하면서도 역사적 유행과 현대의 유사 증후군이 같은 병이라는 전제가 약하다고 지적한다. 좋은 가설이 존재한다는 것과 원인이 증명됐다는 것은 다르다.",
+          "textEn": "Proposed explanations include an infectious agent, environmental toxin, and post-infectious autoimmunity. Recent reviews examine autoimmune possibilities but stress that modern look-alike syndromes may not be the same entity as the historical epidemic. A plausible hypothesis is not equivalent to a demonstrated cause. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "DISAPPEARANCE",
+          "headingKo": "왜 유행은 줄어들었나",
+          "headingEn": "Why Did the Epidemic Recede?",
+          "textKo": "1920년대 후반 이후 전형적 대규모 유행은 사라졌다. 병원체가 변했는지, 숙주 집단의 면역이 바뀌었는지, 진단명이 다른 질환에 흡수됐는지 확실한 답은 없다. 원인을 모르는 상태에서는 유행이 끝난 이유도 독립적으로 확정하기 어렵다.",
+          "textEn": "The classic large epidemic faded by the late 1920s. It is not known whether a pathogen changed, population immunity shifted, or later cases were classified under different diagnoses. Without a settled cause, the reason for disappearance is also difficult to establish independently. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "한 세기가 지나도 원인명이 붙지 않은 유행병",
+          "headingEn": "An Epidemic That Still Lacks a Confirmed Cause",
+          "textKo": "기면성 뇌염은 환자의 수면 이상, 안구운동 장애, 운동증상과 이후 파킨슨증까지 비교적 특징적인 임상상을 남겼지만, 그 임상적 선명함이 원인 규명으로 이어지지는 않았다. 인플루엔자 대유행과 시기가 겹쳤다는 사실 때문에 직접 연관설이 오래 논의됐지만 이를 확정할 병원체 증거는 부족하다. 자가면역성 기전도 후보로 검토되지만 단일한 설명으로 합의되지 않았다. 따라서 이 사례는 자료가 적어서가 아니라, 임상 기록이 풍부한데도 병인의 연결고리가 닫히지 않았다는 점에서 독특한 의학 미스터리다.",
+          "textEn": "Encephalitis lethargica left a recognizable clinical record—sleep disturbance, eye-movement abnormalities, movement disorders, and in some survivors later post-encephalitic parkinsonism. Yet the clarity of the syndrome did not translate into a confirmed cause. Its overlap with the influenza era encouraged a direct influenza hypothesis for decades, but decisive pathogen evidence has not established that link. Autoimmune mechanisms have also been investigated without producing a single accepted explanation. The case is unusual because the mystery persists not from a lack of clinical description, but despite a substantial medical record whose causal chain still does not close."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "100년 뒤에도 남은 병인 미스터리",
+          "headingEn": "A Century-Old Etiological Mystery",
+          "textKo": "기면성 뇌염은 단순한 옛 의학사가 아니라, 많은 임상기록과 병리 흔적이 있는데도 원인을 특정하지 못한 드문 유행병이다. 현재 자료가 허용하는 가장 정확한 결론은 “존재와 주요 임상상은 잘 기록됐지만 병인은 아직 미확정”이라는 이중 문장이다.",
+          "textEn": "Encephalitis lethargica is more than a medical-history curiosity: abundant clinical and pathological evidence documents the syndrome, yet its cause remains unresolved. The most accurate current boundary is two-part—its historical existence and broad clinical pattern are well documented, but its aetiology is still not established. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: 기면성 뇌염은 1910년대 후반부터 1920년대에 걸쳐 유행한 신경계 질환으로 수면·각성 장애와 다양한 운동·정신 증상, 일부 환자의 후뇌염성 파킨슨증이 기록됐다. 현대 재검토에서도 역사적 유행의 정확한 병인은 확정되지 않았다.\n\nNOT ESTABLISHED: 1918년 인플루엔자가 직접 원인이었다거나, 현대의 산발적 “기면성 뇌염” 사례가 역사적 유행과 같은 질환이라는 주장은 확립되지 않았다. 자가면역 가설 역시 가능성은 있으나 결정적 증거가 부족하다.",
+          "textEn": "CONFIRMED / SUPPORTED: Encephalitis lethargica was an epidemic neurological disorder of the late 1910s and 1920s, associated with sleep-wake disturbance, varied movement and psychiatric symptoms, and post-encephalitic parkinsonism in some patients. Modern reviews still do not identify a proven cause for the historical epidemic.\n\nNOT ESTABLISHED: A direct causal link to the 1918 influenza pandemic is not established, and modern sporadic cases labeled “encephalitis lethargica” may not be the same disease. Autoimmune explanations remain plausible but unproven."
+        }
+      ],
+      "factBoundary": {
+        "established": "Encephalitis lethargica was an epidemic neurological disorder of the late 1910s and 1920s, associated with sleep-wake disturbance, varied movement and psychiatric symptoms, and post-encephalitic parkinsonism in some patients. Modern reviews still do not identify a proven cause for the historical epidemic.",
+        "notEstablished": "A direct causal link to the 1918 influenza pandemic is not established, and modern sporadic cases labeled “encephalitis lethargica” may not be the same disease. Autoimmune explanations remain plausible but unproven."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "ENCEPHALITIS_LETHARGICA_EPIDEMIC-C1",
+      "status": "CONFIRMED",
+      "statementKo": "기면성 뇌염은 1910년대 후반부터 1920년대에 걸쳐 유행한 신경계 질환으로 수면·각성 장애와 다양한 운동·정신 증상, 일부 환자의 후뇌염성 파킨슨증이 기록됐다. 현대 재검토에서도 역사적 유행의 정확한 병인은 확정되지 않았다.",
+      "statementEn": "Encephalitis lethargica was an epidemic neurological disorder of the late 1910s and 1920s, associated with sleep-wake disturbance, varied movement and psychiatric symptoms, and post-encephalitic parkinsonism in some patients. Modern reviews still do not identify a proven cause for the historical epidemic.",
+      "sourceRefs": [
+        "BRAIN_2024",
+        "FOLEY_2009",
+        "AUTOIMMUNE_2021"
+      ]
+    },
+    {
+      "claimId": "ENCEPHALITIS_LETHARGICA_EPIDEMIC-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "1918년 인플루엔자가 직접 원인이었다거나, 현대의 산발적 “기면성 뇌염” 사례가 역사적 유행과 같은 질환이라는 주장은 확립되지 않았다. 자가면역 가설 역시 가능성은 있으나 결정적 증거가 부족하다.",
+      "statementEn": "A direct causal link to the 1918 influenza pandemic is not established, and modern sporadic cases labeled “encephalitis lethargica” may not be the same disease. Autoimmune explanations remain plausible but unproven.",
+      "sourceRefs": [
+        "BRAIN_2024",
+        "FOLEY_2009",
+        "AUTOIMMUNE_2021"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "BRAIN_2024",
+      "title": "Encephalitis lethargica: clinical features and aetiology",
+      "publisher": "Brain Communications / Oxford University Press",
+      "url": "https://academic.oup.com/braincomms/article/6/5/fcae347/7810952",
+      "sourceType": "PEER_REVIEWED_MODERN_REANALYSIS"
+    },
+    {
+      "sourceId": "FOLEY_2009",
+      "title": "Encephalitis lethargica and the influenza virus. III",
+      "publisher": "Journal of Neural Transmission / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2758908/",
+      "sourceType": "PEER_REVIEWED_HISTORICAL_REVIEW"
+    },
+    {
+      "sourceId": "AUTOIMMUNE_2021",
+      "title": "A role for pathogen risk factors and autoimmunity in encephalitis lethargica?",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33549696/",
+      "sourceType": "PEER_REVIEWED_REVIEW"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "encephalitis-lethargica-epidemic-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "BRAIN_2024",
+        "FOLEY_2009",
+        "AUTOIMMUNE_2021"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v01__ko.png",
+          "sha256": "d53b952ffa7f835ad1aa1462af97fda0e1e37918d0407ee8aaf90680f0fcfbf5",
+          "width": 1600,
+          "height": 900,
+          "fileName": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v01__ko.png"
+        },
+        "en": {
+          "file": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v01__en.png",
+          "sha256": "d1231f8c90aad0256c72997fcedd5bc664ba018b0715a00f0813c5d6201f03e6",
+          "width": 1600,
+          "height": 900,
+          "fileName": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "encephalitis-lethargica-epidemic-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "BRAIN_2024",
+        "FOLEY_2009",
+        "AUTOIMMUNE_2021"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v02__ko.png",
+          "sha256": "64a2fed3d8a89dc8d8d69596a47d8466cb305b1b05797fda6ac6cdfe6aa56806",
+          "width": 1600,
+          "height": 900,
+          "fileName": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v02__ko.png"
+        },
+        "en": {
+          "file": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v02__en.png",
+          "sha256": "cf79bcad95838a7052c2307917959947b8c7d7b0d6acd11fc2dac034ee05102b",
+          "width": 1600,
+          "height": 900,
+          "fileName": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "encephalitis-lethargica-epidemic-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "BRAIN_2024",
+        "FOLEY_2009",
+        "AUTOIMMUNE_2021"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v03__ko.png",
+          "sha256": "7f6571d843d996e3b85eecaa5dd444dc5b60d0c6c16248d5bc6eeac2d7a9684f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v03__ko.png"
+        },
+        "en": {
+          "file": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v03__en.png",
+          "sha256": "e101848ce5da43a6e46d5475c9c55cc7a3742c095ff437c1618f6d432af5666c",
+          "width": 1600,
+          "height": 900,
+          "fileName": "encephalitis-lethargica-epidemic__encephalitis-lethargica-epidemic-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "Europe / global",
+    "era": "1916–1920s",
+    "genre": "Medicine / Psychology / Human Experiment",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Medicine / Psychology / Human Experiment",
+    "resolution": "unknown",
+    "countries": [
+      "Europe / global"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1572,
+    "enBodyWords": 611
+  }
+}

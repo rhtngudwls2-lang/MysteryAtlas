@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "2.0",
+  "canonicalId": "erebus-901-inquiry",
+  "recordType": "CASE",
+  "identity": {
+    "canonicalTitleKo": "에레버스산 항공참사의 서로 다른 조사",
+    "canonicalTitleEn": "Erebus Flight 901: Two Inquiries, Two Causal Frames",
+    "aliasesKo": [],
+    "aliasesEn": [],
+    "legacyIds": []
+  },
+  "publication": {
+    "tier": "COMPACT_FILE",
+    "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+    "state": "MEDIA_READY",
+    "randomEligible": false,
+    "releaseEligible": false,
+    "tierDecisionNote": "Source-bounded compact file; no padding.",
+    "holdReasons": [
+      "ANDROID_NOT_APPLIED",
+      "WEB_NOT_APPLIED",
+      "RUNTIME_QA_NOT_RUN"
+    ]
+  },
+  "localizedCopy": {
+    "ko": {
+      "headline": "같은 추락사고에서 왜 두 공식 조사가 다른 원인을 보았나",
+      "hook": "1979년 에어뉴질랜드 TE901은 에레버스산에 충돌해 257명이 숨졌다. 사고조사 보고서는 비행승무원의 저고도 비행 결정을 강조했고, 왕립조사위원회는 사전에 바뀐 항로 좌표와 조직 절차를 중심 원인으로 보았다. 이 차이가 사건의 핵심이다.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "관광비행이 산으로 들어갔다",
+          "headingEn": "A Sightseeing Flight Hit the Mountain",
+          "textKo": "1979년 11월 28일 TE901은 남극 관광비행 중 에레버스산 낮은 사면에 충돌했다. 당시 눈과 구름이 지형 경계를 지우는 sector whiteout 조건이 시야 판단을 어렵게 했다. 승무원은 자신들이 계획한 항로와 실제 항공기 항법컴퓨터에 입력된 항로 사이의 문제를 충분히 인식하지 못했다.",
+          "textEn": "On November 28, 1979, TE901 struck the lower slopes of Mount Erebus during an Antarctic sightseeing flight. Sector-whiteout conditions reduced visual contrast. The crew did not fully appreciate the significance of differences between the route they expected and the coordinates programmed into the aircraft navigation system. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "FIRST_INQUIRY",
+          "headingKo": "Chippindale 보고서의 초점",
+          "headingEn": "The Chippindale Report’s Focus",
+          "textKo": "뉴질랜드 항공사고 조사 책임자 Ron Chippindale은 승무원이 위치를 확신하지 못한 상태에서 저고도 비행을 계속했고 상승 지형을 알아차리지 못한 것을 probable cause로 정리했다. 대중에게는 이 결론이 흔히 “pilot error”로 읽혔지만, 공식 문구는 더 구체적인 비행결정과 시계 조건을 다뤘다.",
+          "textEn": "Chief air-accident investigator Ron Chippindale identified the decision to continue low-level flight while uncertain of position, followed by failure to detect rising terrain, as the probable cause. Public discussion often compressed this into “pilot error,” although the formal wording was more specific about flight decisions and visual conditions. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "ROYAL_COMMISSION",
+          "headingKo": "Mahon은 지상 조직을 보았다",
+          "headingEn": "Mahon Looked at the Organization on the Ground",
+          "textKo": "Peter Mahon 판사의 왕립조사위원회는 항로 좌표가 사고 전날 변경됐고 그 사실이 승무원에게 전달되지 않은 과정에 주목했다. 보고서는 항공사 내부 절차와 정보 전달 실패를 “dominant and effective cause”로 보며, 승무원 개인보다 시스템의 잠재적 실패를 앞세웠다.",
+          "textEn": "Justice Peter Mahon’s Royal Commission focused on a route-coordinate change made before the flight and the failure to communicate it to the crew. His report treated organizational procedure and information flow as a dominant causal factor, shifting attention from individual flight crew actions toward latent system failures. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE",
+          "headingKo": "같은 CVR와 항법자료, 다른 질문",
+          "headingEn": "Same Evidence, Different Questions",
+          "textKo": "두 조사는 같은 사고 현장, 항법 시스템, 조종실 음성기록과 기상 조건을 보면서도 질문의 초점이 달랐다. 하나는 비행 마지막 단계의 판단을, 다른 하나는 그 판단이 이루어진 정보 환경과 조직 절차를 더 깊게 파고들었다. 사고 원인 분석에서 “마지막 실수”와 “실수를 가능하게 한 조건”은 서로 다른 층위다.",
+          "textEn": "Both inquiries examined the same crash, navigation system, cockpit recording, and weather, but they asked different causal questions. One emphasized decisions in the final phase of flight; the other dug into the information environment and organizational procedures that shaped those decisions. A final active error and the conditions that made it possible are different causal layers. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "LEGAL",
+          "headingKo": "Mahon 보고서 이후의 법적 다툼",
+          "headingEn": "The Legal Fight After Mahon",
+          "textKo": "Mahon이 일부 Air New Zealand 증언을 강하게 비판한 뒤 해당 당사자들은 사법심사를 청구했다. 법원은 자연적 정의와 관할 문제를 다뤘지만 사고 원인 전체를 새로 조사한 것은 아니었다. 그래서 법원 판단을 “Mahon의 사고원인 분석이 전부 폐기됐다”는 뜻으로 읽으면 범위를 벗어난다.",
+          "textEn": "After Mahon sharply criticized some Air New Zealand evidence, affected parties sought judicial review. The courts addressed natural-justice and jurisdictional issues rather than conducting a new technical accident investigation. Treating those judgments as if they erased every causal finding in the Royal Commission would overstate their scope. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "RECOGNITION",
+          "headingKo": "1999년 두 번째 공식 기록이 됐다",
+          "headingEn": "Formal Recognition in 1999",
+          "textKo": "1999년 교통장관 Maurice Williamson은 Mahon 보고서를 의회에 제출해 공식 정부 보고서로 인정했다. 이는 처음 사고조사 보고서를 지우는 조치가 아니라, 국가 기록 속에 서로 다른 공식 분석이 함께 존재하게 한 사건이었다. 오늘날 에레버스 참사는 조직사고와 인적요인 논의의 대표 사례로도 다뤄진다.",
+          "textEn": "In 1999 Transport Minister Maurice Williamson tabled the Mahon report in Parliament, giving it official recognition. This did not erase the original accident report; it meant that two official analytical records coexisted. Erebus has since become an important case in discussions of organizational accidents and human factors. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "한 사고에 두 개의 공식 설명이 남았을 때",
+          "headingEn": "When One Disaster Leaves Two Official Narratives",
+          "textKo": "에레버스 901편은 사고 원인 자체뿐 아니라 국가가 사고를 설명하는 방식이 충돌한 사례다. 초기 조사와 마혼 왕립위원회는 승무원 행동, 비행계획 변경, 조직적 정보 전달의 책임을 서로 다르게 배치했다. 이 차이는 단순한 표현상의 문제가 아니었다. 어떤 자료를 중심에 두느냐에 따라 사고의 인과관계와 책임 구조가 달라졌다. 훗날 마혼 보고서에 대한 공식적 재평가가 이뤄진 것도 그래서 중요하다. 이 사건의 미스터리는 음모를 가정하는 데 있지 않고, 동일한 잔해와 기록을 두 조사 체계가 어떻게 다르게 해석했는지 비교하는 데 있다.",
+          "textEn": "Flight 901 is significant not only because of the crash itself but because official explanations diverged. The initial investigation and the Mahon Royal Commission assigned different weight to crew actions, flight-plan changes, organizational communication, and systemic responsibility. That was more than a difference in wording: the causal story changed depending on which evidence was treated as central. Later official recognition of Mahon’s work therefore matters as part of the historical record. The mystery is not a license to invent a conspiracy; it is a documented case in which the same disaster record produced competing institutional explanations that can be compared directly."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 두 보고서 사이에 있다",
+          "headingEn": "The Mystery Lives Between the Reports",
+          "textKo": "사고가 났다는 사실이나 충돌 위치는 미스터리가 아니다. 미스터리 아틀라스가 보여줄 부분은 같은 사건에서 원인이라는 말이 얼마나 다른 층위를 가리킬 수 있는지다. 조종실의 행동, 항법 좌표, whiteout, 회사 절차를 따로 놓고 보면 “누구의 잘못인가”보다 “어떤 실패들이 겹쳤는가”가 더 정확한 질문이 된다.",
+          "textEn": "The crash location and basic sequence are not mysterious. The Mystery Atlas value lies in showing how “cause” can refer to different layers in the same event. Separating cockpit action, navigation data, whiteout, and company procedure turns the question from “whose fault was it?” into the more precise “which failures combined?” This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: TE901은 1979년 11월 28일 에레버스산에 충돌해 탑승자 257명 전원이 사망했다. Chippindale 사고조사와 Mahon 왕립조사는 원인과 책임을 다르게 해석했으며, Mahon 보고서는 1999년 뉴질랜드 의회에 공식적으로 제출돼 정부 보고서로 인정받았다.\n\nNOT ESTABLISHED: 두 보고서의 차이를 단순히 “하나는 거짓, 하나는 진실”로 줄일 수 없으며, Mahon의 일부 비판적 표현에 대한 사법심사는 사고 원인 자체를 다시 판정한 절차가 아니었다.",
+          "textEn": "CONFIRMED / SUPPORTED: TE901 crashed into Mount Erebus on November 28, 1979, killing all 257 aboard. The Chippindale accident investigation and Mahon Royal Commission framed causation and responsibility differently, and the Mahon report was formally tabled in Parliament in 1999.\n\nNOT ESTABLISHED: The two reports cannot be reduced to “one false, one true,” and later judicial review of some of Mahon’s findings did not itself re-determine the physical cause of the crash."
+        }
+      ],
+      "factBoundary": {
+        "established": "TE901은 1979년 11월 28일 에레버스산에 충돌해 탑승자 257명 전원이 사망했다. Chippindale 사고조사와 Mahon 왕립조사는 원인과 책임을 다르게 해석했으며, Mahon 보고서는 1999년 뉴질랜드 의회에 공식적으로 제출돼 정부 보고서로 인정받았다.",
+        "notEstablished": "두 보고서의 차이를 단순히 “하나는 거짓, 하나는 진실”로 줄일 수 없으며, Mahon의 일부 비판적 표현에 대한 사법심사는 사고 원인 자체를 다시 판정한 절차가 아니었다."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    },
+    "en": {
+      "headline": "Why Did Two Official Inquiries Frame the Same Crash Differently?",
+      "hook": "Air New Zealand Flight TE901 struck Mount Erebus in 1979, killing all 257 aboard. The accident investigation emphasized the crew’s low-level flight decision; the later Royal Commission centered altered navigation coordinates and organizational procedures. The gap between those causal frames is the core of the case.",
+      "blocks": [
+        {
+          "blockId": "01",
+          "type": "SCENE",
+          "headingKo": "관광비행이 산으로 들어갔다",
+          "headingEn": "A Sightseeing Flight Hit the Mountain",
+          "textKo": "1979년 11월 28일 TE901은 남극 관광비행 중 에레버스산 낮은 사면에 충돌했다. 당시 눈과 구름이 지형 경계를 지우는 sector whiteout 조건이 시야 판단을 어렵게 했다. 승무원은 자신들이 계획한 항로와 실제 항공기 항법컴퓨터에 입력된 항로 사이의 문제를 충분히 인식하지 못했다.",
+          "textEn": "On November 28, 1979, TE901 struck the lower slopes of Mount Erebus during an Antarctic sightseeing flight. Sector-whiteout conditions reduced visual contrast. The crew did not fully appreciate the significance of differences between the route they expected and the coordinates programmed into the aircraft navigation system. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "02",
+          "type": "FIRST_INQUIRY",
+          "headingKo": "Chippindale 보고서의 초점",
+          "headingEn": "The Chippindale Report’s Focus",
+          "textKo": "뉴질랜드 항공사고 조사 책임자 Ron Chippindale은 승무원이 위치를 확신하지 못한 상태에서 저고도 비행을 계속했고 상승 지형을 알아차리지 못한 것을 probable cause로 정리했다. 대중에게는 이 결론이 흔히 “pilot error”로 읽혔지만, 공식 문구는 더 구체적인 비행결정과 시계 조건을 다뤘다.",
+          "textEn": "Chief air-accident investigator Ron Chippindale identified the decision to continue low-level flight while uncertain of position, followed by failure to detect rising terrain, as the probable cause. Public discussion often compressed this into “pilot error,” although the formal wording was more specific about flight decisions and visual conditions. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "03",
+          "type": "ROYAL_COMMISSION",
+          "headingKo": "Mahon은 지상 조직을 보았다",
+          "headingEn": "Mahon Looked at the Organization on the Ground",
+          "textKo": "Peter Mahon 판사의 왕립조사위원회는 항로 좌표가 사고 전날 변경됐고 그 사실이 승무원에게 전달되지 않은 과정에 주목했다. 보고서는 항공사 내부 절차와 정보 전달 실패를 “dominant and effective cause”로 보며, 승무원 개인보다 시스템의 잠재적 실패를 앞세웠다.",
+          "textEn": "Justice Peter Mahon’s Royal Commission focused on a route-coordinate change made before the flight and the failure to communicate it to the crew. His report treated organizational procedure and information flow as a dominant causal factor, shifting attention from individual flight crew actions toward latent system failures. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "04",
+          "type": "EVIDENCE",
+          "headingKo": "같은 CVR와 항법자료, 다른 질문",
+          "headingEn": "Same Evidence, Different Questions",
+          "textKo": "두 조사는 같은 사고 현장, 항법 시스템, 조종실 음성기록과 기상 조건을 보면서도 질문의 초점이 달랐다. 하나는 비행 마지막 단계의 판단을, 다른 하나는 그 판단이 이루어진 정보 환경과 조직 절차를 더 깊게 파고들었다. 사고 원인 분석에서 “마지막 실수”와 “실수를 가능하게 한 조건”은 서로 다른 층위다.",
+          "textEn": "Both inquiries examined the same crash, navigation system, cockpit recording, and weather, but they asked different causal questions. One emphasized decisions in the final phase of flight; the other dug into the information environment and organizational procedures that shaped those decisions. A final active error and the conditions that made it possible are different causal layers. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "05",
+          "type": "LEGAL",
+          "headingKo": "Mahon 보고서 이후의 법적 다툼",
+          "headingEn": "The Legal Fight After Mahon",
+          "textKo": "Mahon이 일부 Air New Zealand 증언을 강하게 비판한 뒤 해당 당사자들은 사법심사를 청구했다. 법원은 자연적 정의와 관할 문제를 다뤘지만 사고 원인 전체를 새로 조사한 것은 아니었다. 그래서 법원 판단을 “Mahon의 사고원인 분석이 전부 폐기됐다”는 뜻으로 읽으면 범위를 벗어난다.",
+          "textEn": "After Mahon sharply criticized some Air New Zealand evidence, affected parties sought judicial review. The courts addressed natural-justice and jurisdictional issues rather than conducting a new technical accident investigation. Treating those judgments as if they erased every causal finding in the Royal Commission would overstate their scope. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "06",
+          "type": "RECOGNITION",
+          "headingKo": "1999년 두 번째 공식 기록이 됐다",
+          "headingEn": "Formal Recognition in 1999",
+          "textKo": "1999년 교통장관 Maurice Williamson은 Mahon 보고서를 의회에 제출해 공식 정부 보고서로 인정했다. 이는 처음 사고조사 보고서를 지우는 조치가 아니라, 국가 기록 속에 서로 다른 공식 분석이 함께 존재하게 한 사건이었다. 오늘날 에레버스 참사는 조직사고와 인적요인 논의의 대표 사례로도 다뤄진다.",
+          "textEn": "In 1999 Transport Minister Maurice Williamson tabled the Mahon report in Parliament, giving it official recognition. This did not erase the original accident report; it meant that two official analytical records coexisted. Erebus has since become an important case in discussions of organizational accidents and human factors. This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "07",
+          "type": "SIGNIFICANCE",
+          "headingKo": "한 사고에 두 개의 공식 설명이 남았을 때",
+          "headingEn": "When One Disaster Leaves Two Official Narratives",
+          "textKo": "에레버스 901편은 사고 원인 자체뿐 아니라 국가가 사고를 설명하는 방식이 충돌한 사례다. 초기 조사와 마혼 왕립위원회는 승무원 행동, 비행계획 변경, 조직적 정보 전달의 책임을 서로 다르게 배치했다. 이 차이는 단순한 표현상의 문제가 아니었다. 어떤 자료를 중심에 두느냐에 따라 사고의 인과관계와 책임 구조가 달라졌다. 훗날 마혼 보고서에 대한 공식적 재평가가 이뤄진 것도 그래서 중요하다. 이 사건의 미스터리는 음모를 가정하는 데 있지 않고, 동일한 잔해와 기록을 두 조사 체계가 어떻게 다르게 해석했는지 비교하는 데 있다.",
+          "textEn": "Flight 901 is significant not only because of the crash itself but because official explanations diverged. The initial investigation and the Mahon Royal Commission assigned different weight to crew actions, flight-plan changes, organizational communication, and systemic responsibility. That was more than a difference in wording: the causal story changed depending on which evidence was treated as central. Later official recognition of Mahon’s work therefore matters as part of the historical record. The mystery is not a license to invent a conspiracy; it is a documented case in which the same disaster record produced competing institutional explanations that can be compared directly."
+        },
+        {
+          "blockId": "08",
+          "type": "IDENTITY_GATE",
+          "headingKo": "미스터리는 두 보고서 사이에 있다",
+          "headingEn": "The Mystery Lives Between the Reports",
+          "textKo": "사고가 났다는 사실이나 충돌 위치는 미스터리가 아니다. 미스터리 아틀라스가 보여줄 부분은 같은 사건에서 원인이라는 말이 얼마나 다른 층위를 가리킬 수 있는지다. 조종실의 행동, 항법 좌표, whiteout, 회사 절차를 따로 놓고 보면 “누구의 잘못인가”보다 “어떤 실패들이 겹쳤는가”가 더 정확한 질문이 된다.",
+          "textEn": "The crash location and basic sequence are not mysterious. The Mystery Atlas value lies in showing how “cause” can refer to different layers in the same event. Separating cockpit action, navigation data, whiteout, and company procedure turns the question from “whose fault was it?” into the more precise “which failures combined?” This distinction matters because the event itself, causal interpretation, and later retelling should not automatically be assigned the same evidential confidence."
+        },
+        {
+          "blockId": "09",
+          "type": "FACT_BOUNDARY",
+          "headingKo": "Fact Boundary",
+          "headingEn": "Fact Boundary",
+          "textKo": "CONFIRMED / SUPPORTED: TE901은 1979년 11월 28일 에레버스산에 충돌해 탑승자 257명 전원이 사망했다. Chippindale 사고조사와 Mahon 왕립조사는 원인과 책임을 다르게 해석했으며, Mahon 보고서는 1999년 뉴질랜드 의회에 공식적으로 제출돼 정부 보고서로 인정받았다.\n\nNOT ESTABLISHED: 두 보고서의 차이를 단순히 “하나는 거짓, 하나는 진실”로 줄일 수 없으며, Mahon의 일부 비판적 표현에 대한 사법심사는 사고 원인 자체를 다시 판정한 절차가 아니었다.",
+          "textEn": "CONFIRMED / SUPPORTED: TE901 crashed into Mount Erebus on November 28, 1979, killing all 257 aboard. The Chippindale accident investigation and Mahon Royal Commission framed causation and responsibility differently, and the Mahon report was formally tabled in Parliament in 1999.\n\nNOT ESTABLISHED: The two reports cannot be reduced to “one false, one true,” and later judicial review of some of Mahon’s findings did not itself re-determine the physical cause of the crash."
+        }
+      ],
+      "factBoundary": {
+        "established": "TE901 crashed into Mount Erebus on November 28, 1979, killing all 257 aboard. The Chippindale accident investigation and Mahon Royal Commission framed causation and responsibility differently, and the Mahon report was formally tabled in Parliament in 1999.",
+        "notEstablished": "The two reports cannot be reduced to “one false, one true,” and later judicial review of some of Mahon’s findings did not itself re-determine the physical cause of the crash."
+      },
+      "audioNarrationOrder": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07"
+      ]
+    }
+  },
+  "claims": [
+    {
+      "claimId": "EREBUS_901_INQUIRY-C1",
+      "status": "CONFIRMED",
+      "statementKo": "TE901은 1979년 11월 28일 에레버스산에 충돌해 탑승자 257명 전원이 사망했다. Chippindale 사고조사와 Mahon 왕립조사는 원인과 책임을 다르게 해석했으며, Mahon 보고서는 1999년 뉴질랜드 의회에 공식적으로 제출돼 정부 보고서로 인정받았다.",
+      "statementEn": "TE901 crashed into Mount Erebus on November 28, 1979, killing all 257 aboard. The Chippindale accident investigation and Mahon Royal Commission framed causation and responsibility differently, and the Mahon report was formally tabled in Parliament in 1999.",
+      "sourceRefs": [
+        "NZHISTORY_INQUIRY",
+        "MAHON_REPORT",
+        "BEEHIVE_1999"
+      ]
+    },
+    {
+      "claimId": "EREBUS_901_INQUIRY-C2",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "두 보고서의 차이를 단순히 “하나는 거짓, 하나는 진실”로 줄일 수 없으며, Mahon의 일부 비판적 표현에 대한 사법심사는 사고 원인 자체를 다시 판정한 절차가 아니었다.",
+      "statementEn": "The two reports cannot be reduced to “one false, one true,” and later judicial review of some of Mahon’s findings did not itself re-determine the physical cause of the crash.",
+      "sourceRefs": [
+        "NZHISTORY_INQUIRY",
+        "MAHON_REPORT",
+        "BEEHIVE_1999"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "NZHISTORY_INQUIRY",
+      "title": "Finding the cause",
+      "publisher": "New Zealand Ministry for Culture and Heritage",
+      "url": "https://nzhistory.govt.nz/culture/erebus-disaster/inquiry",
+      "sourceType": "GOVERNMENT_HISTORY"
+    },
+    {
+      "sourceId": "MAHON_REPORT",
+      "title": "Report of the Royal Commission on the Crash on Mount Erebus",
+      "publisher": "Governor-General of New Zealand",
+      "url": "https://gg.govt.nz/sites/default/files/2021-06/RC%20136%20Crash%20on%20Mt%20Erebus.pdf",
+      "sourceType": "ROYAL_COMMISSION_REPORT"
+    },
+    {
+      "sourceId": "BEEHIVE_1999",
+      "title": "Erebus Report Finally Recognised",
+      "publisher": "New Zealand Government / Beehive",
+      "url": "https://www.beehive.govt.nz/release/erebus-report-finally-recognised",
+      "sourceType": "GOVERNMENT_STATEMENT"
+    }
+  ],
+  "visuals": [
+    {
+      "assetId": "erebus-901-inquiry-v01",
+      "role": "TIMELINE",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "captionEn": "Project-original timeline of the key events and evidence sequence.",
+      "altKo": "핵심 사건과 증거 흐름을 시간순으로 정리한 프로젝트 원본 타임라인.",
+      "altEn": "Project-original timeline of the key events and evidence sequence.",
+      "sourceRefs": [
+        "NZHISTORY_INQUIRY",
+        "MAHON_REPORT",
+        "BEEHIVE_1999"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "erebus-901-inquiry__erebus-901-inquiry-v01__ko.png",
+          "sha256": "de410ba4e117bc3124c2ab2a3c1fd093687414707a304694cf75d914e5059fbf",
+          "width": 1600,
+          "height": 900,
+          "fileName": "erebus-901-inquiry__erebus-901-inquiry-v01__ko.png"
+        },
+        "en": {
+          "file": "erebus-901-inquiry__erebus-901-inquiry-v01__en.png",
+          "sha256": "ec9d8918118e4208dce64ed43fde8e2293391959aed89cd57605ec3392a9ac7f",
+          "width": 1600,
+          "height": 900,
+          "fileName": "erebus-901-inquiry__erebus-901-inquiry-v01__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "erebus-901-inquiry-v02",
+      "role": "EVIDENCE_BOUNDARY",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "captionEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "altKo": "확인된 사실과 미확정 주장을 구분한 프로젝트 원본 증거 경계 카드.",
+      "altEn": "Project-original evidence boundary card separating established facts from unresolved claims.",
+      "sourceRefs": [
+        "NZHISTORY_INQUIRY",
+        "MAHON_REPORT",
+        "BEEHIVE_1999"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "erebus-901-inquiry__erebus-901-inquiry-v02__ko.png",
+          "sha256": "a608dfe5be36b7bb394357ef4336df0b5e7c76cf3385a6840aaa97084c87a252",
+          "width": 1600,
+          "height": 900,
+          "fileName": "erebus-901-inquiry__erebus-901-inquiry-v02__ko.png"
+        },
+        "en": {
+          "file": "erebus-901-inquiry__erebus-901-inquiry-v02__en.png",
+          "sha256": "31db3b3a97c9dfc9f78e9d7305d2d816b37e54952bc9ae0be1aecc0136669ad2",
+          "width": 1600,
+          "height": 900,
+          "fileName": "erebus-901-inquiry__erebus-901-inquiry-v02__en.png"
+        }
+      }
+    },
+    {
+      "assetId": "erebus-901-inquiry-v03",
+      "role": "SOURCE_MAP",
+      "kind": "PROJECT_ORIGINAL_EXPLANATORY_GRAPHIC",
+      "status": "BYTES_AVAILABLE_RIGHTS_QA_PASS",
+      "captionKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "captionEn": "Project-original source map linking key references to the central claims.",
+      "altKo": "주요 자료와 핵심 주장 사이의 연결을 정리한 프로젝트 원본 소스 맵.",
+      "altEn": "Project-original source map linking key references to the central claims.",
+      "sourceRefs": [
+        "NZHISTORY_INQUIRY",
+        "MAHON_REPORT",
+        "BEEHIVE_1999"
+      ],
+      "isDocumentaryEvidence": false,
+      "rightsStatus": "PROJECT_ORIGINAL",
+      "rightsQa": "PASS",
+      "qaState": "FACT_QA_PASS_VISUAL_QA_PASS",
+      "localizedFiles": {
+        "ko": {
+          "file": "erebus-901-inquiry__erebus-901-inquiry-v03__ko.png",
+          "sha256": "40fca0be7d30cfa4691f99b55b7ed4dc7c309164f3d3726154a8cabbd49485de",
+          "width": 1600,
+          "height": 900,
+          "fileName": "erebus-901-inquiry__erebus-901-inquiry-v03__ko.png"
+        },
+        "en": {
+          "file": "erebus-901-inquiry__erebus-901-inquiry-v03__en.png",
+          "sha256": "5b5dd49783360c4f9d200f94092b495355844c59971037f3192f8c3b5f977f0e",
+          "width": 1600,
+          "height": 900,
+          "fileName": "erebus-901-inquiry__erebus-901-inquiry-v03__en.png"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "country": "New Zealand / Antarctica",
+    "era": "1979–1999",
+    "genre": "Maritime / Aviation",
+    "status": "MEDIA_READY_RUNTIME_PENDING",
+    "readingTier": "COMPACT_FILE",
+    "rabbitHole": [],
+    "primaryGenre": "Maritime / Aviation",
+    "resolution": "unknown",
+    "countries": [
+      "New Zealand / Antarctica"
+    ],
+    "regions": [],
+    "relatedCases": []
+  },
+  "quality": {
+    "identityLock": "PASS",
+    "semanticDuplicateGate": "PASS",
+    "claimSource": "PASS",
+    "locale": "PASS",
+    "factBoundary": "PASS",
+    "media": "PASS",
+    "metadata": "PASS",
+    "audioOrder": "PASS",
+    "thirdPartyImageBytes": 0,
+    "koBodyChars": 1775,
+    "enBodyWords": 662
+  }
+}
