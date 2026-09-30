@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect } from "react";
 import { usePathname, useRouter } from "next/navigation";
 import type { Locale } from "@/content/schema";
 import { localeHref } from "@/lib/base-path";
@@ -9,13 +10,17 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
   const router = useRouter();
   const route = pathname.replace(/^\/(ko|en)(?=\/|$)/, "");
 
+  useEffect(() => {
+    document.documentElement.lang = locale;
+  }, [locale]);
+
   function rememberPosition(event: React.MouseEvent<HTMLAnchorElement>, choice: Locale) {
     if (!article) return;
     const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
     const current = sections.filter((section) => section.getBoundingClientRect().top <= 300).at(-1);
     if (current) {
       event.preventDefault();
-      router.push(`/${choice}${route || "/"}#${current.id}`);
+      router.push(`/${choice}${route || "/"}#${current.id}`, { scroll: false });
     }
   }
 
