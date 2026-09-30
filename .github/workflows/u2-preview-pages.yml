@@ -37,5 +37,11 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: web/out
+      - run: npx playwright install --with-deps chromium
+        working-directory: web
+      - run: npm run build
+        working-directory: web
+      - run: npm run test:e2e
+        working-directory: web
       - id: deployment
         uses: actions/deploy-pages@v4
