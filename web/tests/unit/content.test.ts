@@ -6,9 +6,9 @@ import { marketConfig, supportedLocales } from "../../src/config/market";
 import { getProductizedArticle, productizedItems } from "../../src/content/productized";
 
 describe("release content", () => {
-  it("adds all 269 durable articles while preserving the nine-case U1 baseline", () => {
-    expect(productizedItems).toHaveLength(269);
-    expect(cases).toHaveLength(278);
+  it("adds all 291 durable articles while preserving the nine-case U1 baseline", () => {
+    expect(productizedItems).toHaveLength(291);
+    expect(cases).toHaveLength(300);
     expect(new Set(cases.map((item) => item.slug)).size).toBe(cases.length);
     expect(cases.some((item) => item.slug === "cooper")).toBe(true);
   });

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "sourcePack": "MediaBatch49_ExpansionLock11_FINAL.zip",
+  "sourcePack": "MediaBatch50_ExpansionLock12_FINAL.zip",
   "items": [
     {
       "canonicalId": "aaro-modern-uap",
@@ -2301,6 +2301,64 @@
         "state": "MEDIA_READY",
         "randomEligible": false,
         "releaseEligible": false,
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "borley-rectory-investigation",
+      "title": {
+        "ko": "볼리 목사관 유령 주장과 조사",
+        "en": "Borley Rectory Claims and Investigations"
+      },
+      "headline": {
+        "ko": "“영국에서 가장 유령 들린 집”은 조사될수록 왜 더 논쟁적이 됐나",
+        "en": "Why Did “England’s Most Haunted House” Become More Contested as It Was Investigated?"
+      },
+      "hook": {
+        "ko": "볼리 목사관은 해리 프라이스의 조사와 대중적 홍보로 전설이 됐지만, 1956년 SPR의 비판적 보고서는 목격담·장난·암시·프라이스의 자료 처리 자체를 다시 조사했다. 방대한 아카이브는 유령의 증명보다 주장들이 어떻게 만들어지고 반박됐는지를 보여준다.",
+        "en": "Borley Rectory became legendary through Harry Price’s investigations and publicity, but a major 1956 SPR report re-examined the witnesses, hoaxes, suggestion and Price’s handling of evidence. The archive is strongest not as proof of ghosts, but as a record of how extraordinary claims were built and challenged."
+      },
+      "aliases": [],
+      "genre": "Paranormal / Haunting / Folklore",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [],
+      "era": "1929–1956",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "borley-rectory-investigation-v01",
+      "heroFile": {
+        "ko": "borley-rectory-investigation__borley-rectory-investigation-v01__ko.png",
+        "en": "borley-rectory-investigation__borley-rectory-investigation-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "프로젝트 원본 설명 그래픽.",
+        "en": "Project-original explanatory graphic."
+      },
+      "heroAlt": {
+        "ko": "사건의 핵심 증거 구조를 정리한 프로젝트 원본 그래픽.",
+        "en": "Project-original graphic summarizing the case evidence structure."
+      },
+      "readMinutes": {
+        "ko": 4,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
@@ -4616,6 +4674,64 @@
         "randomEligible": false,
         "releaseEligible": false,
         "tierDecisionNote": "Compact selected to preserve source density and avoid padding.",
+        "holdReasons": [
+          "ANDROID_NOT_APPLIED",
+          "WEB_NOT_APPLIED",
+          "RUNTIME_QA_NOT_RUN"
+        ]
+      }
+    },
+    {
+      "canonicalId": "edmund-fitzgerald",
+      "title": {
+        "ko": "에드먼드 피츠제럴드호 마지막 항해",
+        "en": "SS Edmund Fitzgerald: The Final Voyage and Competing Causal Findings"
+      },
+      "headline": {
+        "ko": "생존자도 조난신호도 없었던 피츠제럴드호는 왜 침몰했나",
+        "en": "Why Did Edmund Fitzgerald Sink Without Survivors or a Distress Call?"
+      },
+      "hook": {
+        "ko": "1975년 11월 10일 에드먼드 피츠제럴드호는 슈피리어호의 강풍 속에서 레이더에서 사라졌고 29명이 모두 사망했다. 해안경비대와 NTSB는 같은 잔해와 항해기록을 바탕으로도 즉각적 손상과 침수의 시작을 다르게 해석했다. 그래서 이 사건은 공식조사가 있어도 최종 순서를 완전히 재구성할 수 없는 해난 미스터리다.",
+        "en": "On 10 November 1975 Edmund Fitzgerald disappeared in a severe Lake Superior storm with all 29 aboard. The Coast Guard and NTSB examined much of the same wreck and operational record yet emphasized different initiating damage and flooding mechanisms. It is a rare maritime case in which official investigations exist but the final sequence remains partly irrecoverable."
+      },
+      "aliases": [],
+      "genre": "Maritime / Aviation",
+      "genres": [],
+      "countries": [
+        "United States / Canada Great Lakes"
+      ],
+      "regions": [],
+      "era": "1975–1978 investigations",
+      "resolution": "unknown",
+      "places": [],
+      "people": [],
+      "dateRange": {},
+      "related": [],
+      "heroAssetId": "edmund-fitzgerald-v01",
+      "heroFile": {
+        "ko": "edmund-fitzgerald__edmund-fitzgerald-v01__ko.png",
+        "en": "edmund-fitzgerald__edmund-fitzgerald-v01__en.png"
+      },
+      "heroCaption": {
+        "ko": "프로젝트 원본 설명 그래픽.",
+        "en": "Project-original explanatory graphic."
+      },
+      "heroAlt": {
+        "ko": "사건의 핵심 증거 구조를 정리한 프로젝트 원본 그래픽.",
+        "en": "Project-original graphic summarizing the case evidence structure."
+      },
+      "readMinutes": {
+        "ko": 3,
+        "en": 3
+      },
+      "publication": {
+        "tier": "COMPACT_FILE",
+        "editorialFamily": "MYSTERY_ATLAS_CASE_FILE",
+        "state": "MEDIA_READY",
+        "randomEligible": false,
+        "releaseEligible": false,
+        "tierDecisionNote": "Source-bounded compact file; no padding.",
         "holdReasons": [
           "ANDROID_NOT_APPLIED",
           "WEB_NOT_APPLIED",
