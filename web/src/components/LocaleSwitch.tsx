@@ -18,13 +18,18 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
   function rememberPosition(event: React.MouseEvent<HTMLAnchorElement>, choice: Locale) {
     if (!article) return;
     const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
-    // Use the same reading line as ReadingProgressTracker so locale switching
-    // and saved progress cannot disagree about the active chapter.
+    // Keep the chapter the reader is actually looking at. If the reading line
+    // falls inside an interleaved visual, use the nearest visible chapter
+    // heading instead of relying on DOM order.
     const readingLine = 300;
-    const current = sections.find((section) => {
-      const rect = section.getBoundingClientRect();
-      return rect.top <= readingLine && rect.bottom > readingLine;
-    }) ?? sections.filter((section) => section.getBoundingClientRect().top <= readingLine).at(-1);
+    const measured = sections.map((section) => ({ section, rect: section.getBoundingClientRect() }));
+    const current = measured.find(({ rect }) => rect.top <= readingLine && rect.bottom > readingLine)?.section
+      ?? measured
+        .filter(({ rect }) => rect.bottom > 0 && rect.top < window.innerHeight)
+        .sort((a, b) => Math.abs(a.rect.top - readingLine) - Math.abs(b.rect.top - readingLine))[0]?.section
+      ?? measured
+        .filter(({ rect }) => rect.top <= readingLine)
+        .sort((a, b) => b.rect.top - a.rect.top)[0]?.section;
 
     if (current) {
       event.preventDefault();
