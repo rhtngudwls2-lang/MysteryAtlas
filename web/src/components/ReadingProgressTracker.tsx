@@ -48,10 +48,10 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
       const bodyBehavior = body.style.scrollBehavior;
       root.style.scrollBehavior = "auto";
       body.style.scrollBehavior = "auto";
-      target.scrollIntoView({ block: "start", inline: "nearest", behavior: "auto" });
       const toolbar = document.querySelector<HTMLElement>(".article-toolbar");
       const offset = Math.max(96, Math.ceil(toolbar?.getBoundingClientRect().height ?? 0) + 24);
-      window.scrollBy({ top: -offset, left: 0, behavior: "auto" });
+      const top = target.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({ top: Math.max(0, top), left: 0, behavior: "auto" });
       root.style.scrollBehavior = rootBehavior;
       body.style.scrollBehavior = bodyBehavior;
     };
