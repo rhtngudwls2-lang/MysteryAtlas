@@ -41,7 +41,7 @@ jobs:
         working-directory: web
       - run: npm run build
         working-directory: web
-      - run: npx playwright test tests/e2e/final-web291-continuity.spec.ts
+      - run: npx playwright test tests/e2e/editorial-reader.spec.ts tests/e2e/final-web291-continuity.spec.ts
         working-directory: web
       - id: deployment
         uses: actions/deploy-pages@v4
