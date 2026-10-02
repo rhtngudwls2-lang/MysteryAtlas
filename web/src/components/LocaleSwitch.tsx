@@ -18,7 +18,9 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
   function rememberPosition(event: React.MouseEvent<HTMLAnchorElement>, choice: Locale) {
     if (!article) return;
     const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
-    const readingLine = Math.min(220, Math.max(120, window.innerHeight * 0.25));
+    // Use the same reading line as ReadingProgressTracker so locale switching
+    // and saved progress cannot disagree about the active chapter.
+    const readingLine = 300;
     const current = sections.find((section) => {
       const rect = section.getBoundingClientRect();
       return rect.top <= readingLine && rect.bottom > readingLine;
