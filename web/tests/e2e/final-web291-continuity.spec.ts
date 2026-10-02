@@ -7,6 +7,11 @@ async function waitForAnchorLayout(page: Page, id: string) {
     const images = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) =>
       Boolean(image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING)
     );
+    // Offscreen lazy images above the anchor must load before its layout can settle.
+    // Request them without scrolling so this helper does not alter the reading position.
+    for (const image of images) {
+      if (image.loading === "lazy") image.loading = "eager";
+    }
     return images.every((image) => image.complete && image.naturalWidth > 0);
   }, id, { timeout: 10000 });
   await page.evaluate(() => document.fonts.ready.then(() => undefined));
