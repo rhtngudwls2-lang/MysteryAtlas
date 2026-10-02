@@ -45,8 +45,9 @@ async function expectAnchorNearTop(page: Page, id: string) {
   expect(top).toBeGreaterThanOrEqual(0);
 }
 
-test("Batch50 locale switch keeps language and chapter position at 390/430", async ({ page }) => {
+test("Batch50 locale switch keeps language and chapter position at 360/390/430", async ({ page }) => {
   for (const { width, slug } of [
+    { width: 360, slug: "edmund-fitzgerald" },
     { width: 390, slug: "edmund-fitzgerald" },
     { width: 430, slug: "borley-rectory-investigation" },
   ]) {
@@ -72,7 +73,7 @@ test("Batch50 locale switch keeps language and chapter position at 390/430", asy
 });
 
 test("Continue Reading restores the saved chapter after image layout settles", async ({ page }) => {
-  for (const width of [390, 430]) {
+  for (const width of [360, 390, 430]) {
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/en/");
     await page.evaluate(() => {
@@ -97,20 +98,22 @@ test("Continue Reading restores the saved chapter after image layout settles", a
 
 
 test("Batch48-50 representatives render productized visuals and sources without mobile overflow", async ({ page }) => {
-  await page.setViewportSize({ width: 390, height: 850 });
-  for (const slug of [
-    "brides-in-the-bath-smith",
-    "valensole-1965",
-    "aguada-fenix-platform",
-    "el-faro-2015",
-    "borley-rectory-investigation",
-    "edmund-fitzgerald",
-  ]) {
-    await page.goto(`/ko/cases/${slug}/`);
-    await expect(page.locator(".productized-page")).toHaveAttribute("data-canonical-id", slug);
-    await expect(page.locator(".u2-visual img")).toHaveCount(3);
-    await expect(page.locator(".sources-section li").first()).toBeVisible();
-    const dimensions = await page.evaluate(() => ({ viewport: innerWidth, scroll: document.documentElement.scrollWidth }));
-    expect(dimensions.scroll, slug).toBeLessThanOrEqual(dimensions.viewport + 1);
+  for (const width of [360, 390, 430]) {
+    await page.setViewportSize({ width, height: 850 });
+    for (const slug of [
+      "brides-in-the-bath-smith",
+      "valensole-1965",
+      "aguada-fenix-platform",
+      "el-faro-2015",
+      "borley-rectory-investigation",
+      "edmund-fitzgerald",
+    ]) {
+      await page.goto(`/ko/cases/${slug}/`);
+      await expect(page.locator(".productized-page")).toHaveAttribute("data-canonical-id", slug);
+      await expect(page.locator(".u2-visual img")).toHaveCount(3);
+      await expect(page.locator(".sources-section li").first()).toBeVisible();
+      const dimensions = await page.evaluate(() => ({ viewport: innerWidth, scroll: document.documentElement.scrollWidth }));
+      expect(dimensions.scroll, `${width}:${slug}`).toBeLessThanOrEqual(dimensions.viewport + 1);
+    }
   }
 });
