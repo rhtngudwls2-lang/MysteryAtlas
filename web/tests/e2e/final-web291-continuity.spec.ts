@@ -18,20 +18,25 @@ async function waitForAnchorLayout(page: Page, id: string) {
 }
 
 async function placeChapterNearTop(chapter: Locator) {
-  await chapter.evaluate((element) => {
-    const root = document.documentElement;
-    const body = document.body;
-    const rootBehavior = root.style.scrollBehavior;
-    const bodyBehavior = body.style.scrollBehavior;
-    root.style.scrollBehavior = "auto";
-    body.style.scrollBehavior = "auto";
-    window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 140);
-    root.style.scrollBehavior = rootBehavior;
-    body.style.scrollBehavior = bodyBehavior;
-  });
-  await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top), { timeout: 5000 }).toBeLessThan(300);
+  // Re-center after two paint frames so a late layout pass cannot move the
+  // requested chapter back above/below the reader's active line before click.
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    await chapter.evaluate(async (element) => {
+      const root = document.documentElement;
+      const body = document.body;
+      const rootBehavior = root.style.scrollBehavior;
+      const bodyBehavior = body.style.scrollBehavior;
+      root.style.scrollBehavior = "auto";
+      body.style.scrollBehavior = "auto";
+      window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 140);
+      await new Promise<void>((resolve) => requestAnimationFrame(() => requestAnimationFrame(() => resolve())));
+      root.style.scrollBehavior = rootBehavior;
+      body.style.scrollBehavior = bodyBehavior;
+    });
+  }
+  await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top), { timeout: 5000 }).toBeLessThan(220);
   const top = await chapter.evaluate((element) => element.getBoundingClientRect().top);
-  expect(top).toBeGreaterThanOrEqual(0);
+  expect(top).toBeGreaterThanOrEqual(80);
 }
 
 async function expectAnchorNearTop(page: Page, id: string) {
