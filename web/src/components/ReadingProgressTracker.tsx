@@ -81,10 +81,16 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
         return;
       }
 
-      const pendingImages = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) => {
-        const isBeforeTarget = Boolean(image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING);
-        return isBeforeTarget && !image.complete;
-      });
+      const precedingImages = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) =>
+        Boolean(image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING)
+      );
+      // Next/Image may keep offscreen images lazy even when they are above a
+      // deep-link target. Ask those images to load before restoring the anchor,
+      // otherwise their later layout shift can move the chapter hundreds of px.
+      for (const image of precedingImages) {
+        if (image.loading === "lazy") image.loading = "eager";
+      }
+      const pendingImages = precedingImages.filter((image) => !image.complete || image.naturalWidth === 0);
       let finished = false;
       let timeout: ReturnType<typeof setTimeout> | null = null;
 
