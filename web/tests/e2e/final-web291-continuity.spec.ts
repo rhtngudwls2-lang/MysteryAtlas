@@ -94,3 +94,23 @@ test("Continue Reading restores the saved chapter after image layout settles", a
     await expectAnchorNearTop(page, "block-04");
   }
 });
+
+
+test("Batch48-50 representatives render productized visuals and sources without mobile overflow", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 850 });
+  for (const slug of [
+    "brides-in-the-bath-smith",
+    "valensole-1965",
+    "aguada-fenix-platform",
+    "el-faro-2015",
+    "borley-rectory-investigation",
+    "edmund-fitzgerald",
+  ]) {
+    await page.goto(`/ko/cases/${slug}/`);
+    await expect(page.locator(".productized-page")).toHaveAttribute("data-canonical-id", slug);
+    await expect(page.locator(".u2-visual img")).toHaveCount(3);
+    await expect(page.locator(".sources-section li").first()).toBeVisible();
+    const dimensions = await page.evaluate(() => ({ viewport: innerWidth, scroll: document.documentElement.scrollWidth }));
+    expect(dimensions.scroll, slug).toBeLessThanOrEqual(dimensions.viewport + 1);
+  }
+});
