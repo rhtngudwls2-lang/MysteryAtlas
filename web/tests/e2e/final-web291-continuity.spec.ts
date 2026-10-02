@@ -60,14 +60,10 @@ test("Batch50 locale switch keeps language and chapter position at 390/430", asy
     await waitForAnchorLayout(page, id!);
     await placeChapterNearTop(chapter);
 
-    const beforeSwitch = await page.locator("[id^='block-']").evaluateAll((elements) => elements.map((element) => ({
-      id: element.id,
-      top: element.getBoundingClientRect().top,
-      bottom: element.getBoundingClientRect().bottom,
-    })));
-    console.log("LOCALE_SWITCH_GEOMETRY", { width, slug, target: id, scrollY: await page.evaluate(() => window.scrollY), beforeSwitch });
-
-    await page.locator('.article-languages a[lang="en"]').click();
+    // Playwright's locator.click() scrolls the sticky toolbar anchor into
+    // view before dispatching the click, which changes the reading chapter.
+    // DOM click matches a real tap on an already-visible sticky toolbar.
+    await page.locator('.article-languages a[lang="en"]').evaluate((element) => (element as HTMLAnchorElement).click());
     await expect(page).toHaveURL(new RegExp(`/en/cases/${slug}/#${id}$`));
     await expect(page.locator("html")).toHaveAttribute("lang", "en");
     await waitForAnchorLayout(page, id!);
