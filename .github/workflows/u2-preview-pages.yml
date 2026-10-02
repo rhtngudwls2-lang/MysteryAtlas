@@ -29,7 +29,7 @@ jobs:
       - uses: actions/configure-pages@v5
       - run: npm ci
         working-directory: web
-      - run: npm run lint && npm run typecheck && npm run test && npm run build && npm run check:static
+      - run: npm run lint && npm run typecheck && npm run test && npm run build && npm run check:static && python3 ../shared/tools/audit_static_metadata.py
         working-directory: web
         env:
           NEXT_PUBLIC_MYSTERY_ATLAS_BASE_PATH: /MysteryAtlas
