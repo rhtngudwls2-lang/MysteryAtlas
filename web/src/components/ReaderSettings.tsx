@@ -23,8 +23,9 @@ export function ReaderSettings({ locale }: { locale: Locale }) {
     if (!ready) return;
     const root = document.documentElement;
     root.dataset.readerSize = size; root.dataset.readerLeading = leading; root.dataset.readerTone = tone;
-    try { localStorage.setItem(key, JSON.stringify({ size, leading, tone })); } catch { /* Settings remain available for this visit. */ }
+    try { localStorage.setItem(key, JSON.stringify({ ...JSON.parse(localStorage.getItem(key) || "{}"), size, leading, tone })); } catch { /* Settings remain available for this visit. */ }
   }, [size, leading, tone, ready]);
+  useEffect(() => { const change = (event: Event) => setTone(normalizeReaderTone((event as CustomEvent).detail)); window.addEventListener("reader-theme-change", change); return () => window.removeEventListener("reader-theme-change", change); }, []);
   const label = (value: typeof readerTones[number]) => ({ ivory: locale === "ko" ? "아이보리" : "Ivory", warmgray: locale === "ko" ? "웜그레이" : "Warm gray", midnight: locale === "ko" ? "미드나이트" : "Midnight" })[value];
   return <details className="reader-settings"><summary aria-label={locale === "ko" ? "읽기 설정" : "Reading settings"}>Aa</summary><div className="reader-settings-panel">
     <strong>{locale === "ko" ? "읽기 설정" : "Reading settings"}</strong>

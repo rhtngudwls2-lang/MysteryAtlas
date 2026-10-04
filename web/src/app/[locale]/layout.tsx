@@ -1,3 +1,4 @@
+import { ReaderThemeNotice } from "@/components/ReaderThemeNotice";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Footer } from "@/components/Footer";
@@ -27,5 +28,5 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const { locale: raw } = await params;
   if (!locales.includes(raw as Locale)) notFound();
   const locale = raw as Locale;
-  return <SavedProvider>{isPreview && <div className="preview-banner">{locale === "ko" ? "Mystery Atlas 미리보기 · 출시 전 콘텐츠 및 기능 검증 중" : "Mystery Atlas preview · editorial and release review in progress"}</div>}<Header locale={locale}/><main id="main-content" lang={locale}>{children}</main><Footer locale={locale}/></SavedProvider>;
+  return <SavedProvider>{isPreview && <div className="preview-banner">{locale === "ko" ? "Mystery Atlas 미리보기 · 출시 전 콘텐츠 및 기능 검증 중" : "Mystery Atlas preview · editorial and release review in progress"}</div>}<Header locale={locale}/><ReaderThemeNotice locale={locale}/><main id="main-content" lang={locale}>{children}</main><Footer locale={locale}/></SavedProvider>;
 }

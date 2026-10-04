@@ -24,79 +24,79 @@
   },
   "localizedCopy": {
     "ko": {
-      "headline": "점으로 찍은 사망자 지도는 어떻게 우물 하나를 의심하게 했나",
-      "hook": "1854년 런던의 콜레라 유행에서 존 스노는 발병 위치와 물공급을 연결해 전염경로를 좁혔다.",
+      "headline": "콜레라의 단서는 우물에 있었을까?",
+      "hook": "1854년 런던, 사람들이 숨진 위치를 살피자 우물 하나가 눈에 들어왔다. 하지만 지도만으로 병의 원인을 알 수 있었을까?",
       "blocks": [
         {
           "blockId": "01",
           "type": "SCENE",
-          "headingKo": "소호의 급격한 사망 증가",
+          "headingKo": "소호에서 사람들이 잇따라 숨졌다",
           "headingEn": "A Sudden Rise in Deaths in Soho",
-          "textKo": "1854년 런던 소호에서 콜레라 사망이 급증했다. 당시에는 악취가 질병을 만든다는 미아스마 이론이 널리 받아들여졌지만, 의사 John Snow는 물을 통한 전파 가능성을 오래 의심하고 있었다. 유행은 그 가설을 실제 거리 단위로 시험할 기회를 만들었다.",
+          "textKo": "1854년 런던 소호에서 콜레라로 숨지는 사람이 급증했다. 당시에는 나쁜 냄새가 병을 일으킨다는 설명이 널리 받아들여졌다.\n\n의사 존 스노(John Snow)는 다른 가능성을 의심했다. 사람들이 마시는 물이 병을 옮기는 것은 아닐까?",
           "textEn": "In 1854 cholera deaths surged in Soho, London. Miasma theory remained influential, but physician John Snow had long suspected transmission through contaminated water. The outbreak gave him an opportunity to test that idea at street level."
         },
         {
           "blockId": "02",
           "type": "MAP",
-          "headingKo": "사망자를 지도에 찍다",
+          "headingKo": "지도 위에서 눈에 띈 우물 하나",
           "headingEn": "Plotting Deaths on a Map",
-          "textKo": "Snow와 지역 조사자료는 사망위치를 지도에 표시하고 Broad Street 공공우물 주변에 사례가 밀집한다는 패턴을 보여줬다. 지도는 단순한 그림이 아니라 ‘사람이 어디서 살았고 어떤 물을 마셨는가’를 공간적으로 비교하는 도구였다.",
+          "textKo": "스노는 지역 조사자료와 함께 사람들이 숨진 위치를 살폈다. 지도에는 브로드 스트리트(Broad Street)의 공공우물 주변으로 사례가 모이는 모습이 나타났다.\n\n하지만 가까이 산다는 사실만으로 원인을 알 수는 없었다. 어디에 살았는지와 함께, 어떤 물을 마셨는지 알아봐야 했다.",
           "textEn": "Snow and parish investigators mapped deaths and showed a striking concentration around the public pump on Broad Street. The map was not merely an illustration; it helped compare where people lived with the water source they used."
         },
         {
           "blockId": "03",
           "type": "EXCEPTIONS",
-          "headingKo": "예외가 오히려 가설을 강화하다",
+          "headingKo": "우물에서 멀리 살던 사람도 있었다",
           "headingEn": "Exceptions Strengthened the Hypothesis",
-          "textKo": "가까이 살면서도 다른 물을 마신 집단, 멀리서 Broad Street 물을 특별히 선호한 사람들의 사례는 단순 거리보다 물공급 자체가 중요하다는 판단을 강화했다. 좋은 역학가설은 중심패턴뿐 아니라 예외사례가 왜 생겼는지도 설명해야 한다.",
+          "textKo": "가까이 살면서 다른 물을 마신 사람들, 멀리 살면서도 브로드 스트리트의 물을 가져다 마신 사람들이 있었다.\n\n이런 사례는 단순히 우물과의 거리가 아니라 마신 물 자체를 따져야 한다는 생각에 힘을 실었다. 지도에서 벗어나 보이던 예외도 중요한 단서가 됐다.",
           "textEn": "People living nearby who used other water, and people farther away who specifically obtained Broad Street water, helped separate simple distance from exposure. A useful epidemiological hypothesis must explain exceptions as well as the main cluster."
         },
         {
           "blockId": "04",
           "type": "PUMP",
-          "headingKo": "펌프 손잡이 제거의 상징성",
+          "headingKo": "손잡이를 떼자 모든 일이 끝났을까?",
           "headingEn": "The Symbolism of Removing the Pump Handle",
-          "textKo": "지역 당국은 우물 사용을 막기 위해 펌프 손잡이를 제거했다. 흔히 이 조치가 즉시 유행을 끝냈다고 단순화되지만, 발병은 이미 정점을 지나고 있었을 가능성이 있다. 손잡이 제거의 역사적 중요성은 단일 조치보다 물전파 가설을 공중보건 행동으로 옮겼다는 데 있다.",
+          "textKo": "지역 당국은 우물을 쓰지 못하도록 펌프 손잡이를 제거했다. 이 장면은 흔히 콜레라 유행을 단번에 끝낸 결정적 순간으로 전해진다.\n\n하지만 발병은 이미 정점을 지나고 있었을 가능성이 있다. 손잡이를 뗀 한 번의 조치만으로 유행 전체가 즉시 끝났다고 단정하기는 어렵다. 물을 의심한 설명이 실제 방역 조치로 이어졌다는 점에 의미가 있다.",
           "textEn": "Local authorities removed the pump handle to stop use of the well. The popular story that this single act instantly ended the epidemic is too simple because incidence may already have been declining. Its historical importance lies in converting the water hypothesis into public-health action."
         },
         {
           "blockId": "05",
           "type": "MICROBE",
-          "headingKo": "세균 자체를 본 것은 아니었다",
+          "headingKo": "균을 직접 본 것은 아니었다",
           "headingEn": "Snow Did Not See the Bacterium",
-          "textKo": "Snow는 콜레라균을 직접 관찰해 원인을 증명한 것이 아니었다. Vibrio cholerae의 병원체적 역할은 이후 미생물학 연구로 더 명확해졌다. 1854년 연구의 힘은 미생물 관찰 없이도 공간·노출·사례비교로 전파경로를 추론했다는 점이다.",
+          "textKo": "스노가 콜레라균을 직접 관찰해 원인을 밝혀낸 것은 아니다. 균이 병을 일으킨다는 설명은 이후 미생물 연구로 더 분명해졌다.\n\n당시 조사의 단서는 사람들이 살던 곳과 마신 물, 서로 다른 사람들의 사례였다. 눈에 보이지 않는 전파 경로를 이런 차이로 좁혀 간 것이다.",
           "textEn": "Snow did not prove the case by directly observing Vibrio cholerae. The pathogen’s role became clearer through later microbiology. The 1854 investigation was powerful because exposure, geography, and comparison could reveal a transmission route before modern laboratory confirmation."
         },
         {
           "blockId": "06",
           "type": "COUNTERARGUMENT",
-          "headingKo": "‘한 장의 지도가 질병을 해결했다’는 신화",
+          "headingKo": "한 사람, 한 장의 지도만으로는 부족했다",
           "headingEn": "The Myth of One Map Solving Everything",
-          "textKo": "유행조사는 Snow 혼자만의 작업이 아니었고 지역 교구 조사와 인구·위생자료가 함께 사용됐다. 또한 지도만으로 인과가 자동 증명되는 것은 아니다. 물공급 차이와 사례분포, 기존 가설, 후속자료가 함께 맞아떨어졌기 때문에 설명력이 높아졌다.",
+          "textKo": "이 조사는 스노 혼자 한 일이 아니었다. 지역 교구의 조사와 인구·위생자료, 물공급에 관한 정보도 함께 쓰였다.\n\n사망자가 지도에 모여 있다고 해서 원인이 저절로 증명되지는 않는다. 여러 자료를 함께 살펴야 물을 통한 전파라는 설명이 얼마나 설득력 있는지 판단할 수 있다.",
           "textEn": "The investigation was not Snow working alone. Parish inquiries, population information, sanitation data, and water-supply records all contributed. A map does not automatically prove causation; the broader exposure evidence made the interpretation persuasive."
         },
         {
           "blockId": "07",
           "type": "SOURCE_READING",
-          "headingKo": "원본 지도는 무엇을 보여주나",
+          "headingKo": "지금도 남아 있는 당시의 지도",
           "headingEn": "What the Original Map Shows",
-          "textKo": "Wellcome Collection이 보존한 지도는 1855년 보고서에 포함된 자료로 Broad Street 주변 사망분포를 시각화한다. 후대의 교과서식 재현과 달리 원본을 보면 당시 조사자가 사용한 실제 범위와 표기방식을 확인할 수 있다.",
+          "textKo": "웰컴 컬렉션(Wellcome Collection)은 1855년 보고서에 실린 지도를 보존하고 있다. 브로드 스트리트 주변의 사망 분포를 나타낸 자료다.\n\n오늘날 다시 그린 그림 대신 원본을 보면, 당시 조사에서 다룬 지역과 표시 방식을 직접 확인할 수 있다.",
           "textEn": "Wellcome Collection preserves the map from the later report on the outbreak. Looking at the original rather than a modern textbook redraw shows the actual spatial scope and notation available to investigators."
         },
         {
           "blockId": "08",
           "type": "RESOLUTION_GATE",
-          "headingKo": "무엇이 오늘날의 확정을 만들었나",
+          "headingKo": "지도가 남긴 것은 답만이 아니었다",
           "headingEn": "Why the Conclusion Became Stronger",
-          "textKo": "후대 세균학, 상하수도 연구, 반복된 콜레라 역학이 Snow의 물전파 설명과 일치하면서 사건의 의미가 굳어졌다. 역사적 한 사례만으로 현대 감염병 전체를 설명할 수는 없지만, 노출경로를 지도와 사례로 검증하는 방법은 현대 역학의 기본으로 남았다. Snow의 사례가 현대 역학의 상징이 된 이유는 지도가 예뻐서가 아니라, 노출가설을 반증할 수 있는 비교대상을 찾았기 때문이다. 같은 지역에서도 다른 물을 쓰는 사람과 멀리 살면서 특정 우물물을 가져간 사람을 비교하면 단순 공간상관보다 더 강한 인과추론이 가능해진다. 또한 Snow의 결론은 이후 다른 수계와 콜레라 발생을 비교하는 연구에서 반복검증됐다. 한 사건의 직관이 아니라 여러 관측이 누적되면서 물전파 설명의 신뢰도가 높아졌다.",
+          "textKo": "이후의 세균 연구와 물공급 조사, 다른 콜레라 유행에 대한 연구가 더해지면서 물을 통한 전파라는 설명은 더욱 강해졌다.\n\n스노의 사례에서 중요한 것은 지도의 모양만이 아니다. 가까이 살면서 다른 물을 마신 사람과 멀리서 우물물을 가져간 사람을 비교하며, 자신의 생각이 맞는지 시험했다는 점이다.\n\n다만 이 역사적 사례 하나가 모든 감염병의 전파 방식을 설명해 주는 것은 아니다. 이 이야기가 남긴 것은, 그럴듯한 답을 찾은 뒤에도 다른 사례와 비교해 확인하는 방법이다.",
           "textEn": "Later bacteriology, sanitation research, and repeated cholera epidemiology converged with Snow’s water-transmission explanation. One historic outbreak does not explain every infectious disease, but the method of testing exposure patterns became foundational to modern epidemiology. Snow's importance lies less in the visual appeal of the map than in finding comparisons that could challenge the exposure hypothesis. Comparing nearby people who used other water with distant users of the pump made the inference stronger than a simple spatial cluster. Snow's interpretation was also tested against later outbreaks and water-supply comparisons, so confidence grew through repeated evidence rather than one dramatic map."
         },
         {
           "blockId": "09",
           "type": "FACT_BOUNDARY",
-          "headingKo": "Fact Boundary",
+          "headingKo": "확인된 것과 단정할 수 없는 것",
           "headingEn": "Fact Boundary",
-          "textKo": "CONFIRMED / SUPPORTED: 1854년 소호 콜레라 유행에서 John Snow는 사망분포와 Broad Street 우물 사용을 연결해 물전파 가설을 강화했고, 해당 지도와 보고서는 현재도 보존돼 있다.\n\nNOT ESTABLISHED: 펌프 손잡이 제거 한 번만으로 유행 전체가 즉시 종료됐다는 단순한 영웅서사는 당시 유행곡선과 공동조사 과정을 과도하게 축약한다.",
+          "textKo": "확인된 것: 스노는 1854년 소호의 사망 분포와 브로드 스트리트 우물 사용을 연결해 물을 통한 전파라는 설명을 뒷받침했다. 당시 지도와 보고서는 지금도 남아 있다.\n\n단정할 수 없는 것: 펌프 손잡이를 떼는 한 번의 조치만으로 유행 전체가 즉시 끝났다는 이야기는 당시의 복잡한 상황과 여러 사람의 조사를 지나치게 줄인 설명이다.",
           "textEn": "CONFIRMED / SUPPORTED: during the 1854 Soho cholera outbreak, John Snow linked death distribution and use of the Broad Street pump to strengthen the water-transmission hypothesis, and his map and report survive.\n\nNOT ESTABLISHED: the simplified story that removing one pump handle alone instantly ended the entire epidemic compresses a more complex outbreak and collaborative investigation."
         }
       ],

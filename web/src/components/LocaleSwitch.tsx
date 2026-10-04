@@ -21,7 +21,8 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
     // Preserve the latest chapter heading the reader has brought into the
     // upper half of the viewport. This is stable across interleaved visuals and
     // avoids snapping back one chapter when a heading sits just below 300px.
-    const readingLine = Math.min(420, Math.max(300, window.innerHeight * 0.5));
+    const panel = document.querySelector<HTMLElement>('.article-tab-panel:not([hidden])');
+    const readingLine = Math.max(160,(document.querySelector<HTMLElement>('.article-toolbar')?.getBoundingClientRect().bottom??0)+24);
     const measured = sections.map((section) => ({ section, rect: section.getBoundingClientRect() }));
     const current = measured
       .filter(({ rect }) => rect.top <= readingLine)
@@ -33,7 +34,10 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
     if (current) {
       event.preventDefault();
       try { sessionStorage.setItem(pendingAnchorKey, current.id); } catch { /* Navigation still works without storage. */ }
-      router.push(`/${choice}${route || "/"}#${current.id}`, { scroll: false });
+      router.push(`/${choice}${route || "/"}${panel?.dataset.articlePanel ? `?panel=${panel.dataset.articlePanel}` : ''}#${current.id}`, { scroll: false });
+    } else if (panel?.dataset.articlePanel) {
+      event.preventDefault();
+      router.push(`/${choice}${route || "/"}?panel=${panel.dataset.articlePanel}`, { scroll: false });
     }
   }
 

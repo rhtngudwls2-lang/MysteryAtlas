@@ -28,20 +28,22 @@ async function placeChapterNearTop(chapter: Locator) {
       const bodyBehavior = body.style.scrollBehavior;
       root.style.scrollBehavior = "auto";
       body.style.scrollBehavior = "auto";
-      window.scrollTo(0, element.getBoundingClientRect().top + window.scrollY - 140);
+      const toolbar=document.querySelector<HTMLElement>('.article-toolbar');
+      window.scrollTo({top:Math.max(0,element.getBoundingClientRect().top+window.scrollY-(toolbar?.getBoundingClientRect().bottom??0)-20),behavior:'instant'});
       await new Promise<void>((resolve) => requestAnimationFrame(() => requestAnimationFrame(() => resolve())));
       root.style.scrollBehavior = rootBehavior;
       body.style.scrollBehavior = bodyBehavior;
     });
   }
-  await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top), { timeout: 5000 }).toBeLessThan(220);
-  const top = await chapter.evaluate((element) => element.getBoundingClientRect().top);
-  expect(top).toBeGreaterThanOrEqual(80);
+  await expect.poll(async () => chapter.evaluate((element) => element.getBoundingClientRect().top-(document.querySelector<HTMLElement>('.article-toolbar')?.getBoundingClientRect().bottom??0)), { timeout: 5000 }).toBeLessThan(100);
+  const top = await chapter.evaluate((element) => element.getBoundingClientRect().top-(document.querySelector<HTMLElement>('.article-toolbar')?.getBoundingClientRect().bottom??0));
+  expect(top).toBeGreaterThanOrEqual(0);
 }
 
 async function expectAnchorNearTop(page: Page, id: string) {
-  await expect.poll(async () => page.locator(`#${id}`).evaluate((element) => element.getBoundingClientRect().top), { timeout: 10000 }).toBeLessThan(300);
-  const top = await page.locator(`#${id}`).evaluate((element) => element.getBoundingClientRect().top);
+  await expect(page.locator(`#${id}`)).toBeVisible();
+  await expect.poll(async () => page.locator(`#${id}`).evaluate((element) => element.getBoundingClientRect().top-(document.querySelector<HTMLElement>('.article-toolbar')?.getBoundingClientRect().bottom??0)), { timeout: 10000 }).toBeLessThan(100);
+  const top = await page.locator(`#${id}`).evaluate((element) => element.getBoundingClientRect().top-(document.querySelector<HTMLElement>('.article-toolbar')?.getBoundingClientRect().bottom??0));
   expect(top).toBeGreaterThanOrEqual(0);
 }
 
@@ -55,7 +57,7 @@ test("Batch50 locale switch keeps language and chapter position at 360/390/430",
     await page.goto(`/ko/cases/${slug}/`);
     await expect(page.locator("html")).toHaveAttribute("lang", "ko");
 
-    const chapter = page.locator(".narrative-chapter").nth(3);
+    const chapter = page.locator('[role="tabpanel"]:visible .narrative-chapter').nth(3);
     const id = await chapter.getAttribute("id");
     expect(id).toBeTruthy();
     await waitForAnchorLayout(page, id!);
@@ -65,7 +67,7 @@ test("Batch50 locale switch keeps language and chapter position at 360/390/430",
     // view before dispatching the click, which changes the reading chapter.
     // DOM click matches a real tap on an already-visible sticky toolbar.
     await page.locator('.article-languages a[lang="en"]').evaluate((element) => (element as HTMLAnchorElement).click());
-    await expect(page).toHaveURL(new RegExp(`/en/cases/${slug}/#${id}$`));
+    await expect(page).toHaveURL(new RegExp(`/en/cases/${slug}/\\?panel=story#${id}$`));
     await expect(page.locator("html")).toHaveAttribute("lang", "en");
     await waitForAnchorLayout(page, id!);
     await expectAnchorNearTop(page, id!);
@@ -98,7 +100,7 @@ test("Continue Reading restores the saved chapter after image layout settles", a
 });
 
 
-test("Batch48-50 representatives render productized visuals and sources without mobile overflow", async ({ page }) => {
+test("Batch48-50 representatives preserve claims and sources in their tabs without mobile overflow", async ({ page }) => {
   for (const width of [360, 390, 430]) {
     await page.setViewportSize({ width, height: 850 });
     for (const slug of [
@@ -111,7 +113,10 @@ test("Batch48-50 representatives render productized visuals and sources without 
     ]) {
       await page.goto(`/ko/cases/${slug}/`);
       await expect(page.locator(".productized-page")).toHaveAttribute("data-canonical-id", slug);
-      await expect(page.locator(".u2-visual img")).toHaveCount(3);
+      await expect(page.getByRole('tab')).toHaveText(['이야기','증거','반론','현재','출처']);
+      await page.getByRole('tab',{name:'증거',exact:true}).click();
+      await expect(page.locator('.evidence-card').first()).toBeVisible();
+      await page.getByRole('tab',{name:'출처',exact:true}).click();
       await expect(page.locator(".sources-section li").first()).toBeVisible();
       const dimensions = await page.evaluate(() => ({ viewport: innerWidth, scroll: document.documentElement.scrollWidth }));
       expect(dimensions.scroll, `${width}:${slug}`).toBeLessThanOrEqual(dimensions.viewport + 1);

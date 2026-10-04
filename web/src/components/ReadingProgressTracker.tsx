@@ -22,11 +22,13 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
       requestAnimationFrame(() => {
         if (disposed) return;
         const blocks = [...document.querySelectorAll<HTMLElement>("[id^='block-']:not([data-anchor-alias])")].filter((node) => node.getClientRects().length > 0);
-        const current = blocks.filter((block) => block.getBoundingClientRect().top < 300).at(-1);
+        const panel = document.querySelector<HTMLElement>('.article-tab-panel:not([hidden])');
+        const readingLine = Math.max(160,(document.querySelector<HTMLElement>('.article-toolbar')?.getBoundingClientRect().bottom??0)+24);
+        const current = blocks.filter((block) => block.getBoundingClientRect().top < readingLine).at(-1);
         try {
           const previous = JSON.parse(localStorage.getItem(progressKey) ?? "null");
-          const blockId = current?.id ?? (previous?.canonicalId === canonicalId ? previous.blockId : "") ?? "";
-          localStorage.setItem(progressKey, JSON.stringify({ canonicalId, locale, blockId, updatedAt: Date.now() }));
+          const blockId = current?.id ?? (previous?.canonicalId === canonicalId && previous?.panel === panel?.dataset.articlePanel ? previous.blockId : "") ?? "";
+          localStorage.setItem(progressKey, JSON.stringify({ canonicalId, locale, blockId, panel: panel?.dataset.articlePanel, panelScroll: window.scrollY, updatedAt: Date.now() }));
         } catch { /* Keep reading if storage is disabled. */ }
         ticking = false;
       });
@@ -49,7 +51,7 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
       root.style.scrollBehavior = "auto";
       body.style.scrollBehavior = "auto";
       const toolbar = document.querySelector<HTMLElement>(".article-toolbar");
-      const offset = Math.max(96, Math.ceil(toolbar?.getBoundingClientRect().height ?? 0) + 24);
+      const offset = Math.max(96, Math.ceil(toolbar?.getBoundingClientRect().bottom ?? 0) + 24);
       const top = target.getBoundingClientRect().top + window.scrollY - offset;
       window.scrollTo({ top: Math.max(0, top), left: 0, behavior: "auto" });
       root.style.scrollBehavior = rootBehavior;

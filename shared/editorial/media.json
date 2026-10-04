@@ -250,6 +250,45 @@
       },
       "cropPolicy": "CONTAIN_FULL",
       "claimSourceRefs": []
+    },
+    {
+      "caseId": "john-snow-broad-street",
+      "assetId": "john-snow-1855-map-wellcome",
+      "assetKind": "HISTORICAL_DOCUMENT_SCAN",
+      "roles": [
+        "HERO",
+        "THUMBNAIL",
+        "EVIDENCE",
+        "SHARE"
+      ],
+      "fileName": "john-snow-map-1855-wellcome-L0072917.jpg",
+      "width": 4757,
+      "height": 4418,
+      "sha256": "3a3ac6602690f51fef618a8c1c6f5f69c5efe2b29eaf9bc1caf3439c06205aa2",
+      "reviewState": "RIGHTS_AND_PIXELS_CHECKED",
+      "isDocumentaryEvidence": true,
+      "isReconstruction": false,
+      "alt": {
+        "ko": "거리 이름과 우물 위치, 여러 개의 짧은 검은 선으로 사망 분포를 표시한 당시 지도. 종이의 접힌 자국도 남아 있다.",
+        "en": "Historical map showing streets, pumps and death distribution around Broad Street, with folds visible in the paper."
+      },
+      "caption": {
+        "ko": "1854년 런던 소호의 콜레라 유행을 다룬 1855년 보고서에 실린 지도. 브로드 스트리트 주변의 사망 분포와 우물 위치가 표시돼 있다.",
+        "en": "Map from the 1855 report on the 1854 Soho cholera outbreak, showing deaths and pump locations."
+      },
+      "notDepicted": {
+        "ko": "지도만으로 펌프 손잡이 제거의 효과나 기사 전체 주장을 증명하지 않습니다.",
+        "en": "The map alone does not establish the effect of pump-handle removal or every claim in this article."
+      },
+      "rights": {
+        "sourcePage": "https://wellcomecollection.org/works/uxgfjt62",
+        "author": "A map taken from a report by Dr. John Snow; do not infer sole cartographic authorship from the catalogue title.",
+        "credit": "A map taken from a report by Dr. John Snow. Wellcome Collection. Public Domain Mark. Source: Wellcome Collection.",
+        "creditShort": "Wellcome Collection · Public Domain Mark",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "shareAlikeRequired": false
+      }
     }
   ]
 }

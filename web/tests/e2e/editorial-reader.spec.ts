@@ -3,14 +3,14 @@ import { expect, test } from "@playwright/test";
 test("locale switch stays in the same story near the same chapter", async ({ page }) => {
   await page.goto("/ko/cases/cooper/");
   await page.evaluate(() => document.fonts.ready);
-  const chapter = page.locator(".narrative-chapter").nth(3);
+  const chapter = page.locator('[role="tabpanel"]:visible .narrative-chapter').nth(3);
   const id = await chapter.getAttribute("id");
-  await chapter.evaluate((element) => window.scrollTo({ top: element.getBoundingClientRect().top + window.scrollY - 160, behavior: "instant" }));
+  await chapter.evaluate((element) => { const toolbar=document.querySelector<HTMLElement>('.article-toolbar'); window.scrollTo({top:Math.max(0,element.getBoundingClientRect().top+window.scrollY-(toolbar?.getBoundingClientRect().bottom??0)-20),behavior:'instant'}); });
   await page.locator('.article-languages a[href^="/en/"]').evaluate((element) => (element as HTMLAnchorElement).click());
-  await expect(page).toHaveURL(new RegExp(`/en/cases/cooper/#${id}$`));
+  await expect(page).toHaveURL(new RegExp(`/en/cases/cooper/\\?panel=story#${id}$`));
   await expect(page.getByRole("heading", { name: "D.B. Cooper", exact: true })).toBeVisible();
   await page.locator('.article-languages a[href^="/ko/"]').evaluate((element) => (element as HTMLAnchorElement).click());
-  await expect(page).toHaveURL(/\/ko\/cases\/cooper\/#block-/);
+  await expect(page).toHaveURL(/\/ko\/cases\/cooper\/\?panel=story#block-/);
 });
 
 test("reader controls persist and claim detail opens in place", async ({ page }) => {
@@ -24,6 +24,7 @@ test("reader controls persist and claim detail opens in place", async ({ page })
   await expect(page.locator("html")).toHaveAttribute("data-reader-tone", "warmgray");
   await expect(page.locator(".narrative p:not(.section-number)").first()).toHaveCSS("font-size", "18px");
   const evidence = page.locator(".evidence-card").first();
+  await page.getByRole('tab',{name:'Evidence',exact:true}).click();
   await evidence.locator(".claim-detail > summary").click();
   await expect(evidence.locator(".source-block a").first()).toBeVisible();
   await evidence.locator(".claim-detail > summary").click();

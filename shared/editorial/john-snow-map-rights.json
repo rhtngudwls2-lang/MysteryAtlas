@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "MYSTERY_SOURCE_IMAGE_HANDOFF_1",
+  "status": "SOURCE_AND_PIXELS_CHECKED_NOT_APPLIED",
+  "canonicalId": "john-snow-broad-street",
+  "sourceRef": "WELLCOME_SNOW_MAP",
+  "fileName": "john-snow-map-1855-wellcome-L0072917.jpg",
+  "assetKind": "HISTORICAL_DOCUMENT_SCAN",
+  "imageIdentifier": "L0072917",
+  "title": "A map taken from a report by Dr. John Snow",
+  "sourcePage": "https://wellcomecollection.org/works/uxgfjt62",
+  "downloadUrl": "https://iiif.wellcomecollection.org/image/L0072917/full/full/0/default.jpg",
+  "authorAttribution": "A map taken from a report by Dr. John Snow; do not infer sole cartographic authorship from the catalogue title.",
+  "date": "1855 report edition; report presented July 1855, concerning the autumn 1854 outbreak",
+  "dateBoundary": "Do not caption this as a photograph, an 1854 publication, or an image created at the moment of investigation.",
+  "captionKo": "1854년 런던 소호의 콜레라 유행을 다룬 1855년 보고서에 실린 지도. 브로드 스트리트 주변의 사망 분포와 우물 위치가 표시돼 있다.",
+  "altKo": "거리 이름과 우물 위치, 여러 개의 짧은 검은 선으로 사망 분포를 표시한 당시 지도. 종이의 접힌 자국도 남아 있다.",
+  "rights": {
+    "mark": "Public Domain Mark 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "credit": "A map taken from a report by Dr. John Snow. Wellcome Collection. Public Domain Mark. Source: Wellcome Collection.",
+    "creditShort": "Wellcome Collection · Public Domain Mark",
+    "usage": "Source identifies work as public domain; PDM permits reproduction, adaptation and commercial use without copyright permission. PDM is a status mark, not a copyright licence. Preserve source credit and avoid endorsement claims.",
+    "caveat": "PDM deed notes jurisdictional and other-rights limits; no blanket legal warranty."
+  },
+  "integrity": {
+    "download": "Official full-size link; unchanged bytes",
+    "transformations": [],
+    "pixelsInspected": true,
+    "width": 4757,
+    "height": 4418,
+    "bytes": 2696565,
+    "sha256": "3a3ac6602690f51fef618a8c1c6f5f69c5efe2b29eaf9bc1caf3439c06205aa2"
+  },
+  "editorialUse": {
+    "roles": [
+      "ARTICLE_HERO",
+      "SOURCE_DETAIL"
+    ],
+    "fit": "contain",
+    "openFullResolution": true,
+    "textOverlay": false,
+    "cropPolicy": "Keep uncropped original; any later crop must be labelled and retain access to full map.",
+    "supports": "The existence and appearance of the historical map, report context, mapped distribution and locations.",
+    "doesNotAloneProve": [
+      "That pump-handle removal immediately stopped the epidemic",
+      "Every claim about microbiology or subsequent studies",
+      "Causation from spatial clustering alone"
+    ],
+    "mobile": "Whole map provides historical context; labels will be too small at 360px. Offer zoom/original link instead of claiming mobile-size labels are readable."
+  },
+  "sourcesReadAt": "2026-10-04",
+  "sourceExcerptSummary": "Catalogue identifies pp106–107 from a report by Dr John Snow, pp97–120 within the Cholera Inquiry Committee report presented July1855; discusses Broad Street pump, population, housing, sanitation and water supply."
+}
