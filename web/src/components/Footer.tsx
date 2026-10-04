@@ -14,6 +14,7 @@ export function Footer({ locale }: { locale: Locale }) {
       <Link href={`/${locale}/editorial-policy/`}>{c.editorial}</Link>
       <Link href={`/${locale}/privacy/`}>Privacy</Link>
       <Link href={`/${locale}/terms/`}>Terms</Link>
+      <a href="mailto:blueredexper@gmail.com">{locale === "ko" ? "문의 · 정정 · 권리 문의" : "Contact · corrections · rights"}</a>
     </nav>
   </div></footer>;
 }

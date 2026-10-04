@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { isLaunchVisualExcluded } from "@/lib/launch-visual-exclusions";
 import Link from "next/link";
 import { useEffect, useRef } from "react";
 import type { CaseRecord, Locale } from "@/content/schema";
@@ -23,7 +24,7 @@ export function CaseCard({ record, locale, compact = false }: { record: CaseReco
     return () => observer.disconnect();
   }, [record.slug, locale]);
   return <article ref={ref} className={`case-card${compact ? " compact" : ""}`} data-case={record.slug}>
-    {imagePath && <Link className="card-image" href={`/${locale}/cases/${record.slug}/`} aria-label={displayTitle} onClick={() => trackEvent({ name: "case_open", caseId: record.slug, locale })}>
+    {imagePath && !isLaunchVisualExcluded(imagePath) && <Link className="card-image" href={`/${locale}/cases/${record.slug}/`} aria-label={displayTitle} onClick={() => trackEvent({ name: "case_open", caseId: record.slug, locale })}>
       <Image src={assetUrl(imagePath)} alt="" width={600} height={400} sizes={compact ? "120px" : "(max-width: 760px) 92vw, 30vw"}/>
     </Link>}
     <div className="card-body">

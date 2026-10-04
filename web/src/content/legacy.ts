@@ -96,7 +96,9 @@ function mapStory(story: LegacyStory): CaseRecord {
     narrative: article.sections.map((section) => ({
       id: section.id,
       title: section.title,
-      body: section.body,
+      body: story.id === "mary-celeste" && section.id === "facts"
+        ? { ...section.body, ko: section.body.ko.replace("그들은 어떤 위험을 예상했기에 옮겨 탔을까?", "어떤 위험 때문에 배를 떠났을 가능성이 있을까?") }
+        : section.body,
       sourceIds: section.sourceIds,
     })),
     claims: article.evidence.map((evidence) => migrateClaim(article, evidence)),

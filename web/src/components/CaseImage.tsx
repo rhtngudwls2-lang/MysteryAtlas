@@ -1,9 +1,11 @@
 import Image from "next/image";
+import { isLaunchVisualExcluded } from "@/lib/launch-visual-exclusions";
 import type { CaseImage as ImageRecord, Locale } from "@/content/schema";
 import { assetUrl } from "@/lib/base-path";
 
 export function CaseImage({ image, locale, priority = false }: { image: ImageRecord; locale: Locale; priority?: boolean }) {
   const imagePath = image.localizedPaths?.[locale] ?? image.path;
+  if (imagePath && isLaunchVisualExcluded(imagePath)) return null;
   if (!imagePath) return <figure className="image-placeholder" aria-label={image.alt[locale]}>
     <div className="placeholder-mark" aria-hidden="true">?</div>
     <figcaption><strong>{locale === "en" ? "Verified image unavailable" : "검증된 이미지 없음"}</strong><span>{image.role} · {image.caption[locale]}</span></figcaption>

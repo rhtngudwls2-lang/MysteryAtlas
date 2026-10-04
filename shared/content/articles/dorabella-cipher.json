@@ -25,15 +25,15 @@
   "localizedCopy": {
     "ko": {
       "headline": "기호의 ‘키’가 보이는데도 왜 Elgar의 한 문장을 아직 못 읽나",
-      "hook": "Dorabella는 문서가 가짜여서 어려운 게 아니다. 오히려 짧고 key가 불완전하며, text인지 music인지조차 열려 있어 여러 해답이 동시에 가능하다.",
+      "hook": "도라벨라 암호는 엘가가 도라 페니에게 보낸 것으로 알려진 짧은 기호문이다. 다른 메모의 기호표를 적용해도 뜻이 분명해지지 않는다. 짧은 쪽지에서 해독문 하나를 고르는 일은 그럴듯한 문장을 만드는 것보다 어렵다.",
       "blocks": [
         {
           "blockId": "scene-01",
           "type": "SCENE",
           "headingKo": "1897년 Elgar가 Dora Penny에게 보낸 짧은 기호문은 아직 합의된 plaintext가 없다",
           "headingEn": "Elgar's 1897 Symbol Note to Dora Penny Still Has No Consensus Plaintext",
-          "textKo": "Cipher Foundation은 Edward Elgar가 1897년 Dora Penny에게 보낸 짧은 encoded-looking note를 Dorabella Cipher로 설명한다. 87개가량의 E-like rotated symbol은 Elgar가 사용한 24-symbol symmetrical key와 닮아 있다. 문서의 sender와 recipient는 확실하지만 what it says는 확정되지 않았다. 즉 ‘누가 썼나’가 아니라 ‘무엇을 썼나’가 남은 미스터리다.",
-          "textEn": "The Cipher Foundation describes the Dorabella Cipher as a short encoded-looking note Edward Elgar sent to Dora Penny in 1897. Its rotated E-like symbols resemble a 24-symbol system known from Elgar's other notes. Sender and recipient are known; the message is not."
+          "textKo": "도라벨라 암호는 작곡가 에드워드 엘가가 1897년 도라 페니에게 보낸 쪽지로 알려져 있다. E자를 여러 방향으로 돌린 듯한 기호는 엘가의 다른 메모에 등장하는 기호표와 닮았다. 암호 재단은 이 역사적 귀속을 소개하면서도 그 표를 적용한 결과가 읽을 만한 문장이 되지 않는다고 설명한다. 질문은 기호가 무엇을 뜻하느냐다.",
+          "textEn": "The Dorabella Cipher is known as a note Elgar sent to Dora Penny in 1897. Its rotated E-like marks resemble an alphabet in his other notes. The Cipher Foundation describes that historical attribution but also explains that applying the apparent key does not yield intelligible language. The question is what the symbols mean."
         },
         {
           "blockId": "key-02",
@@ -80,13 +80,13 @@
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "확인됨: Dorabella Cipher는 Elgar가 1897년 Dora Penny에게 보낸 genuine note이며 Elgar가 다른 곳에서 유사한 symbol alphabet을 사용한 기록이 있다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
-          "textEn": "Established: The Dorabella Cipher is a genuine 1897 note from Elgar to Dora Penny, and Elgar used a similar symbol alphabet elsewhere.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
+          "textKo": "기록의 범위: 이 기호문은 1897년 엘가가 도라 페니에게 보낸 쪽지로 전해진다. 유사한 기호표가 다른 메모에 등장하며, 구체적인 해독 시도들이 발표됐다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
+          "textEn": "Record: The note is attributed to Elgar’s 1897 message to Dora Penny, with a related alphabet in other notes and published decipherment attempts.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
         }
       ],
       "factBoundary": {
-        "established": "확인됨: Dorabella Cipher는 Elgar가 1897년 Dora Penny에게 보낸 genuine note이며 Elgar가 다른 곳에서 유사한 symbol alphabet을 사용한 기록이 있다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
-        "notEstablished": "See final fact boundary."
+        "established": "기록의 범위: 이 기호문은 1897년 엘가가 도라 페니에게 보낸 쪽지로 전해진다. 유사한 기호표가 다른 메모에 등장하며, 구체적인 해독 시도들이 발표됐다.",
+        "notEstablished": "확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다."
       },
       "audioNarrationOrder": [
         "scene-01",
@@ -99,15 +99,15 @@
     },
     "en": {
       "headline": "Why Can We See a Likely Symbol Key Yet Still Not Read Elgar's Message?",
-      "hook": "Dorabella is difficult not because the note is fake, but because it is short, the key is incomplete in practice, and even the type of encoding may be uncertain.",
+      "hook": "Dorabella is a short symbol note attributed to Elgar’s 1897 message to Dora Penny. Applying an alphabet from his other notes does not yield clear language. A plausible sentence is not, by itself, a verified decipherment.",
       "blocks": [
         {
           "blockId": "scene-01",
           "type": "SCENE",
           "headingKo": "1897년 Elgar가 Dora Penny에게 보낸 짧은 기호문은 아직 합의된 plaintext가 없다",
           "headingEn": "Elgar's 1897 Symbol Note to Dora Penny Still Has No Consensus Plaintext",
-          "textKo": "Cipher Foundation은 Edward Elgar가 1897년 Dora Penny에게 보낸 짧은 encoded-looking note를 Dorabella Cipher로 설명한다. 87개가량의 E-like rotated symbol은 Elgar가 사용한 24-symbol symmetrical key와 닮아 있다. 문서의 sender와 recipient는 확실하지만 what it says는 확정되지 않았다. 즉 ‘누가 썼나’가 아니라 ‘무엇을 썼나’가 남은 미스터리다.",
-          "textEn": "The Cipher Foundation describes the Dorabella Cipher as a short encoded-looking note Edward Elgar sent to Dora Penny in 1897. Its rotated E-like symbols resemble a 24-symbol system known from Elgar's other notes. Sender and recipient are known; the message is not."
+          "textKo": "도라벨라 암호는 작곡가 에드워드 엘가가 1897년 도라 페니에게 보낸 쪽지로 알려져 있다. E자를 여러 방향으로 돌린 듯한 기호는 엘가의 다른 메모에 등장하는 기호표와 닮았다. 암호 재단은 이 역사적 귀속을 소개하면서도 그 표를 적용한 결과가 읽을 만한 문장이 되지 않는다고 설명한다. 질문은 기호가 무엇을 뜻하느냐다.",
+          "textEn": "The Dorabella Cipher is known as a note Elgar sent to Dora Penny in 1897. Its rotated E-like marks resemble an alphabet in his other notes. The Cipher Foundation describes that historical attribution but also explains that applying the apparent key does not yield intelligible language. The question is what the symbols mean."
         },
         {
           "blockId": "key-02",
@@ -154,13 +154,13 @@
           "type": "FACT_BOUNDARY",
           "headingKo": "현재까지 확인된 것",
           "headingEn": "What Is Established Now",
-          "textKo": "확인됨: Dorabella Cipher는 Elgar가 1897년 Dora Penny에게 보낸 genuine note이며 Elgar가 다른 곳에서 유사한 symbol alphabet을 사용한 기록이 있다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
-          "textEn": "Established: The Dorabella Cipher is a genuine 1897 note from Elgar to Dora Penny, and Elgar used a similar symbol alphabet elsewhere.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
+          "textKo": "기록의 범위: 이 기호문은 1897년 엘가가 도라 페니에게 보낸 쪽지로 전해진다. 유사한 기호표가 다른 메모에 등장하며, 구체적인 해독 시도들이 발표됐다.\n\n확인되지 않음: consensus plaintext, exact transformation rule, text인지 musical notation인지에 대한 final answer는 없다.",
+          "textEn": "Record: The note is attributed to Elgar’s 1897 message to Dora Penny, with a related alphabet in other notes and published decipherment attempts.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
         }
       ],
       "factBoundary": {
-        "established": "Established: The Dorabella Cipher is a genuine 1897 note from Elgar to Dora Penny, and Elgar used a similar symbol alphabet elsewhere.\n\nNot established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation.",
-        "notEstablished": "See final fact boundary."
+        "established": "Record: The note is attributed to Elgar’s 1897 message to Dora Penny, with a related alphabet in other notes and published decipherment attempts.",
+        "notEstablished": "Not established: There is no consensus plaintext, exact transformation rule, or final determination that the message is textual rather than musical notation."
       },
       "audioNarrationOrder": [
         "scene-01",
@@ -176,8 +176,8 @@
     {
       "claimId": "DOR-C1",
       "status": "CONFIRMED",
-      "statementKo": "1897 Elgar→Dora Penny note는 genuine historical artifact다.",
-      "statementEn": "The 1897 Elgar-to-Dora Penny note is a genuine historical artifact.",
+      "statementKo": "암호 재단은 도라벨라 기호문을 엘가가 1897년 도라 페니에게 보낸 쪽지로 소개한다.",
+      "statementEn": "The Cipher Foundation identifies the symbol note as Elgar’s 1897 message to Dora Penny.",
       "sourceRefs": [
         "DOR_CIPHER"
       ]
@@ -185,8 +185,8 @@
     {
       "claimId": "DOR-C2",
       "status": "CONFIRMED",
-      "statementKo": "Elgar가 유사한 24-symbol alphabet을 다른 note에서 사용한 기록이 있다.",
-      "statementEn": "Elgar used a similar 24-symbol alphabet elsewhere in his notes.",
+      "statementKo": "암호 재단은 엘가의 다른 메모에도 유사한 24개 기호 체계가 등장한다고 설명한다.",
+      "statementEn": "The Cipher Foundation describes a related 24-symbol alphabet in Elgar’s other notes.",
       "sourceRefs": [
         "DOR_CIPHER"
       ]

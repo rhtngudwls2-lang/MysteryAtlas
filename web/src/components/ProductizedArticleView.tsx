@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { isLaunchVisualExcluded } from "@/lib/launch-visual-exclusions";
 import Link from "next/link";
 import { LocaleSwitch } from "./LocaleSwitch";
 import { ReaderSettings } from "./ReaderSettings";
@@ -20,6 +21,7 @@ function paragraphs(text: string) {
 
 function ProductVisual({ article, visual, locale, hero = false }: { article: ProductizedArticle; visual: ProductizedVisual; locale: Locale; hero?: boolean }) {
   const variant = visual.localizedFiles[locale];
+  if (isLaunchVisualExcluded(variant.fileName)) return null;
   const src = assetUrl(`/media/${variant.fileName}`);
   const label = visual.isReconstruction
     ? locale === "ko" ? "자체 제작 재구성 · 증거 사진 아님" : "Project reconstruction · not an evidence photo"

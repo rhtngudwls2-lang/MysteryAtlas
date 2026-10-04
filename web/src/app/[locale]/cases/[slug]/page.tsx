@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { isLaunchVisualExcluded } from "@/lib/launch-visual-exclusions";
 import { notFound } from "next/navigation";
 import { CaseImage } from "@/components/CaseImage";
 import { EvidenceCard } from "@/components/EvidenceCard";
@@ -31,12 +32,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const description = productized?.localizedCopy[locale].hook ?? record.preview[locale];
   const canonical = absoluteUrl(`/${locale}/cases/${slug}/`);
   const image = record.images.find((item) => item.role === "HERO" && item.path);
-  const socialImage = absoluteUrl(image?.localizedPaths?.[locale] ?? image?.path ?? "/og-preview.png");
+  const imagePath = image?.localizedPaths?.[locale] ?? image?.path;
+  const socialImage = absoluteUrl(imagePath && !isLaunchVisualExcluded(imagePath) ? imagePath : "/og-preview.png");
   return {
     title,
     description,
     alternates: { canonical, languages: { en: absoluteUrl(`/en/cases/${slug}/`), ko: absoluteUrl(`/ko/cases/${slug}/`) } },
-    openGraph: { title, description, url: canonical, type: "article", images: [{ url: socialImage, alt: image?.alt[locale] ?? "Mystery Atlas" }] },
+    openGraph: { title, description, url: canonical, type: "article", images: [{ url: socialImage, alt: imagePath && !isLaunchVisualExcluded(imagePath) ? image?.alt[locale] ?? "Mystery Atlas" : "Mystery Atlas" }] },
     twitter: { card: "summary_large_image", title, description, images: [socialImage] },
   };
 }
