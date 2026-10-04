@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./editorial.css";
 import "./tokens.generated.css";
+import "./abc.css";
 import { getMarket } from "@/config/market";
 import { assetUrl } from "@/lib/base-path";
 

@@ -5,11 +5,11 @@ export default defineConfig({
   fullyParallel: true,
   retries: 0,
   reporter: [["list"], ["html", { open: "never" }]],
-  use: { baseURL: "http://127.0.0.1:3100", trace: "retain-on-failure", launchOptions: process.env.MYSTERY_ATLAS_CHROMIUM ? { executablePath: process.env.MYSTERY_ATLAS_CHROMIUM, args: ["--no-sandbox"] } : undefined },
+  use: { baseURL: "http://127.0.0.1:39743", trace: "retain-on-failure", launchOptions: process.env.MYSTERY_ATLAS_CHROMIUM ? { executablePath: process.env.MYSTERY_ATLAS_CHROMIUM, args: ["--no-sandbox"] } : undefined },
   webServer: {
     command: "node tests/static-server.mjs",
-    url: "http://127.0.0.1:3100/en/",
-    reuseExistingServer: true,
+    url: "http://127.0.0.1:39743/en/",
+    reuseExistingServer: false,
     timeout: 120000
   },
   projects: [

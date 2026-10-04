@@ -30,7 +30,7 @@ css = [
     '}',
 ]
 for name, palette in tokens['tones'].items():
-    css.append(f'html[data-reader-tone="{name}"] {{ --bg: {palette["background"]}; --panel: {palette["surface"]}; }}')
+    css.append(f'html[data-reader-tone="{name}"] {{ --bg: {palette["background"]}; --panel: {palette["surface"]}; --panel-2: {palette["surface"]}; --ink: {palette["text"]}; --muted: {palette["secondary"]}; --line: {palette["border"]}; --gold: {palette["accent"]}; }}')
 for size in body['sizeChoicesPx']:
     css.append(f'html[data-reader-size="{size}"] {{ --reader-size: {size}px; }}')
 for name, value in body['lineHeightChoices'].items():

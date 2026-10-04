@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "ABC-1",
+  "assets": [
+    {
+      "caseId": "antikythera-mechanism",
+      "assetId": "photo-antikythera-mechanism",
+      "assetKind": "ACTUAL_ARTIFACT_PHOTOGRAPH",
+      "roles": [
+        "THUMBNAIL",
+        "RELATED"
+      ],
+      "fileName": "antikythera-mechanism--reviewed-photo.webp",
+      "width": 1280,
+      "height": 853,
+      "sha256": "58e575ddfd783d63f7156b93ae88523a9b4d00205490c3c182f9921bb77c08b0",
+      "bytes": 68628,
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "reviewState": "RIGHTS_AND_PIXELS_CHECKED",
+      "rightsStatus": "LICENSED_CC_BY_SA",
+      "original": {
+        "path": "originals/home3/antikythera-original.jpg",
+        "fileName": "antikythera-original.jpg",
+        "width": 4828,
+        "height": 3219,
+        "sha256": "c5fc7ff2cc77769f16e6f4ec44405b24292e5b16e520a7285895228f97cc9387",
+        "bytes": 7344798
+      },
+      "derivative": {
+        "tool": "sharp 0.35.4",
+        "format": "WebP",
+        "quality": 85,
+        "crop": "NONE",
+        "modificationNotice": {
+          "ko": "원본 비율을 유지해 너비 1280px로 축소하고 WebP(품질 85)로 압축했습니다. 크롭·합성·내용 변경은 없습니다.",
+          "en": "Resized proportionally to 1280px wide and encoded as WebP at quality 85. No cropping, compositing or content changes."
+        },
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "rights": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mechanism_of_Antikythera,_150-100_BC,_NAMA,_191431.jpg",
+        "sourceRevisionPage": "https://commons.wikimedia.org/w/index.php?title=File:Mechanism_of_Antikythera,_150-100_BC,_NAMA,_191431.jpg&oldid=1017614963",
+        "title": "Mechanism of Antikythera, 150-100 BC, NAMA, 191431.jpg",
+        "author": "Zde",
+        "created": "2019-06-11",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "creditShort": "Zde / Wikimedia Commons / CC BY-SA 4.0",
+        "credit": "Zde, Mechanism of Antikythera, 150-100 BC, NAMA, 191431.jpg, 2019-06-11. Wikimedia Commons. CC BY-SA 4.0. Downloaded original file; no changes made in this package.",
+        "rightsAction": "Retain attribution/source/license and indicate future changes. Any adapted photo must meet ShareAlike; do not mark photo or derivatives as project-original or apply conflicting restrictions.",
+        "shareAlikeRequired": true,
+        "purpose": "EDITORIAL_ONLY",
+        "noEndorsement": true,
+        "verifiedAt": "2026-10-04",
+        "otherJurisdictions": "NOT_ASSESSED"
+      },
+      "caption": {
+        "ko": "아테네 국립고고학박물관에 전시된 안티키테라 기계의 실제 조각들. 2019년 촬영.",
+        "en": "Actual fragments of the Antikythera mechanism at the National Archaeological Museum in Athens, photographed in 2019."
+      },
+      "alt": {
+        "ko": "박물관 진열대에 놓인 부식된 청동 조각 여러 점",
+        "en": "Corroded bronze fragments of the Antikythera mechanism on a museum display."
+      },
+      "notDepicted": {
+        "ko": "고대의 완성된 작동 모습이나 난파 당시 장면은 아닙니다.",
+        "en": "Not a reconstruction of the complete ancient mechanism or the shipwreck."
+      },
+      "cropPolicy": "CONTAIN_FULL",
+      "claimSourceRefs": []
+    },
+    {
+      "caseId": "princes-in-the-tower",
+      "assetId": "photo-princes-in-the-tower",
+      "assetKind": "MODERN_LOCATION_PHOTOGRAPH",
+      "roles": [
+        "THUMBNAIL",
+        "RELATED"
+      ],
+      "fileName": "princes-in-the-tower--reviewed-photo.webp",
+      "width": 1280,
+      "height": 957,
+      "sha256": "9cc5437553162bc1203aef6cb557821d400c488d996cc1cf0511dd9191cbbd54",
+      "bytes": 305174,
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "reviewState": "RIGHTS_AND_PIXELS_CHECKED",
+      "rightsStatus": "LICENSED_CC_BY_SA",
+      "original": {
+        "path": "originals/home3/tower-original.jpg",
+        "fileName": "tower-original.jpg",
+        "width": 2568,
+        "height": 1920,
+        "sha256": "50d7717810dd94449a4585defaf295f57be662ed8239997c6c234fb57dd8e958",
+        "bytes": 3355195
+      },
+      "derivative": {
+        "tool": "sharp 0.35.4",
+        "format": "WebP",
+        "quality": 85,
+        "crop": "NONE",
+        "modificationNotice": {
+          "ko": "원본 비율을 유지해 너비 1280px로 축소하고 WebP(품질 85)로 압축했습니다. 크롭·합성·내용 변경은 없습니다.",
+          "en": "Resized proportionally to 1280px wide and encoded as WebP at quality 85. No cropping, compositing or content changes."
+        },
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "rights": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Tower_of_London_White_Tower.jpg",
+        "sourceRevisionPage": "https://commons.wikimedia.org/w/index.php?title=File:Tower_of_London_White_Tower.jpg&oldid=1232366247",
+        "title": "Tower of London White Tower.jpg",
+        "author": "Bernard Gagnon",
+        "created": "2007-08-29",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "creditShort": "Bernard Gagnon / Wikimedia Commons / CC BY-SA 3.0",
+        "credit": "Bernard Gagnon, Tower of London White Tower.jpg, 2007-08-29. Wikimedia Commons. CC BY-SA 3.0 selected from the file's offered licenses. Source's current 2018 version is tilt-corrected; no additional changes made in this package.",
+        "rightsAction": "Retain author, title, source and CC BY-SA 3.0 link. Preserve notice of source tilt correction. If creating a crop or other adaptation, identify modification and apply compatible ShareAlike terms.",
+        "shareAlikeRequired": true,
+        "purpose": "EDITORIAL_ONLY",
+        "noEndorsement": true,
+        "verifiedAt": "2026-10-04",
+        "otherJurisdictions": "NOT_ASSESSED"
+      },
+      "caption": {
+        "ko": "2007년에 촬영된 런던탑의 화이트 타워. 두 왕자 사건과 관련된 장소의 현대 모습입니다.",
+        "en": "The White Tower at the Tower of London, photographed in 2007. A modern view of a place connected with the story."
+      },
+      "alt": {
+        "ko": "푸른 하늘 아래 돌로 지은 런던탑 화이트 타워의 외관",
+        "en": "The stone exterior of the White Tower under a blue sky."
+      },
+      "notDepicted": {
+        "ko": "1483년 당시 모습이나 두 왕자의 실종·사망 장면이 아닙니다.",
+        "en": "Not a view of the site in 1483 or a photograph of the princes’ disappearance or deaths."
+      },
+      "cropPolicy": "CONTAIN_FULL",
+      "claimSourceRefs": []
+    },
+    {
+      "caseId": "hubble-tension",
+      "assetId": "photo-hubble-tension",
+      "assetKind": "ACTUAL_OBSERVATORY_PHOTOGRAPH",
+      "roles": [
+        "THUMBNAIL",
+        "RELATED"
+      ],
+      "fileName": "hubble-tension--reviewed-photo.webp",
+      "width": 1280,
+      "height": 1009,
+      "sha256": "a5fba147e2b91be7f2ca6963a5f72faa6102f25de181ced2d363e1c06d06b735",
+      "bytes": 161540,
+      "isDocumentaryEvidence": false,
+      "isReconstruction": false,
+      "reviewState": "RIGHTS_AND_PIXELS_CHECKED",
+      "rightsStatus": "NASA_EDITORIAL_GUIDANCE",
+      "original": {
+        "path": "originals/home3/hubble-original.jpg",
+        "fileName": "hubble-original.jpg",
+        "width": 3744,
+        "height": 2952,
+        "sha256": "be6c11a4a5da9953ea78fcade8d4e20a7c924c4224f93346a5eac63b77059296",
+        "bytes": 5855781
+      },
+      "derivative": {
+        "tool": "sharp 0.35.4",
+        "format": "WebP",
+        "quality": 85,
+        "crop": "NONE",
+        "modificationNotice": {
+          "ko": "원본 비율을 유지해 너비 1280px로 축소하고 WebP(품질 85)로 압축했습니다. 크롭·합성·내용 변경은 없습니다.",
+          "en": "Resized proportionally to 1280px wide and encoded as WebP at quality 85. No cropping, compositing or content changes."
+        },
+        "license": "NASA editorial media usage guidance; generally not copyrighted in the United States",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+      },
+      "rights": {
+        "sourcePage": "https://science.nasa.gov/asset/hubble/bidding-hubble-farewell-after-servicing-mission-4-2009/",
+        "title": "Bidding Hubble Farewell After Servicing Mission 4 (2009)",
+        "author": "NASA (official page credit)",
+        "created": "2009-05-19",
+        "license": "NASA editorial media usage guidance; generally not copyrighted in the United States",
+        "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "creditShort": "NASA",
+        "credit": "NASA, Bidding Hubble Farewell After Servicing Mission 4 (2009), 2009-05-19. Official NASA Science 3744×2952 JPEG rendition; no local changes.",
+        "rightsAction": "Use editorially for the article, credit NASA, do not imply endorsement. No paid-ad/merchandise/brand-promotion reuse authorization is granted here. NASA's third-party/identifiable-person/logo restrictions still apply.",
+        "shareAlikeRequired": false,
+        "purpose": "EDITORIAL_ONLY",
+        "noEndorsement": true,
+        "verifiedAt": "2026-10-04",
+        "otherJurisdictions": "NOT_ASSESSED"
+      },
+      "caption": {
+        "ko": "2009년 정비 임무 뒤 촬영된 허블 우주망원경. 우주를 관측하는 장비의 실제 사진입니다.",
+        "en": "The actual Hubble Space Telescope after its 2009 servicing mission. A photograph of observing equipment."
+      },
+      "alt": {
+        "ko": "검은 우주를 배경으로 태양전지판을 펼친 허블 우주망원경",
+        "en": "The Hubble Space Telescope with its solar arrays against black space."
+      },
+      "notDepicted": {
+        "ko": "우주 팽창의 불일치 자체를 찍은 사진이 아니며, 새로운 물리학이 증명됐다는 뜻도 아닙니다.",
+        "en": "Not a photograph of the expansion discrepancy itself, or proof of new physics."
+      },
+      "cropPolicy": "CONTAIN_FULL",
+      "claimSourceRefs": []
+    }
+  ]
+}

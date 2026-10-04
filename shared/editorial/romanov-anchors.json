@@ -1,0 +1,114 @@
+{
+  "canonicalId": "romanov-remains-dna",
+  "status": "DRAFT_NOT_APPLIED",
+  "claims_preserve_unchanged": [
+    {
+      "claimId": "ROM-C1",
+      "status": "CONFIRMED",
+      "statementKo": "1991년 첫 무덤의 9구는 DNA 분석에서 로마노프 가족 일부와 수행원들에 해당하는 집단으로 지지됐다.",
+      "statementEn": "DNA analysis supported identification of the nine remains from the first grave as members of the Romanov family and household.",
+      "sourceRefs": [
+        "GILL1994"
+      ]
+    },
+    {
+      "claimId": "ROM-C2",
+      "status": "CONFIRMED",
+      "statementKo": "2007년 첫 무덤에서 약 70m 떨어진 두 번째 무덤에서 44개 뼈·치아 조각이 회수됐다.",
+      "statementEn": "In 2007, 44 bone fragments and teeth were recovered from a second grave roughly 70 metres from the first.",
+      "sourceRefs": [
+        "COBLE2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C3",
+      "status": "CONFIRMED",
+      "statementKo": "두 번째 무덤에는 최소 두 사람이 있었고 유전분석은 남성과 여성 한 명씩을 지지했다.",
+      "statementEn": "The second grave contained at least two individuals, genetically consistent with one male and one female.",
+      "sourceRefs": [
+        "COBLE2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C4",
+      "status": "CONFIRMED",
+      "statementKo": "남성 유해는 황태자 알렉세이로 확인할 수 있는 유전적 증거를 보였다.",
+      "statementEn": "The male remains showed genetic evidence allowing identification as Tsarevich Alexei.",
+      "sourceRefs": [
+        "COBLE2009",
+        "ROGAEV2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C5",
+      "status": "SUPPORTED",
+      "statementKo": "여성 유해는 니콜라이 2세와 알렉산드라의 빠진 딸 한 명과 일치한다.",
+      "statementEn": "The female remains are consistent with the missing daughter of Nicholas II and Alexandra.",
+      "sourceRefs": [
+        "COBLE2009",
+        "ROGAEV2009"
+      ]
+    },
+    {
+      "claimId": "ROM-C6",
+      "status": "NOT_ESTABLISHED",
+      "statementKo": "Coble 2009 DNA만으로 여성 유해가 마리아인지 아나스타샤인지 결정되지 않는다.",
+      "statementEn": "The Coble 2009 DNA results alone do not determine whether the female was Maria or Anastasia.",
+      "sourceRefs": [
+        "COBLE2009"
+      ]
+    }
+  ],
+  "sources_preserve_unchanged": [
+    {
+      "sourceId": "GILL1994",
+      "title": "Identification of the remains of the Romanov family by DNA analysis",
+      "publisher": "Nature Genetics / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8162066/",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "scope": "1991 grave family DNA identification"
+    },
+    {
+      "sourceId": "COBLE2009",
+      "title": "Mystery Solved: The Identification of the Two Missing Romanov Children Using DNA Analysis",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004838",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "scope": "2007 second grave, 44 fragments, mtDNA/autosomal STR/Y-STR, Alexei + one sister, daughter-label limitation"
+    },
+    {
+      "sourceId": "ROGAEV2009",
+      "title": "Genomic identification in the historical case of the Nicholas II royal family",
+      "publisher": "PNAS / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19251637/",
+      "sourceType": "PRIMARY_PEER_REVIEWED",
+      "scope": "independent genomic identification of Romanov remains"
+    }
+  ],
+  "old_to_new_block_anchors": {
+    "scene-01": "intro",
+    "background-02": "story-context",
+    "father-id-025": "methods-optional",
+    "problem-03": "story-context",
+    "discovery-04": "story-second-grave",
+    "methods-05": "methods-optional",
+    "evidence-06": "story-identification",
+    "evidence-07": "story-limit",
+    "anthro-045": "story-second-grave",
+    "sample-050": "methods-optional",
+    "mtdna-052": "methods-optional",
+    "autosomal-057": "methods-optional",
+    "ystr-062": "methods-optional",
+    "replication-068": "methods-optional",
+    "shirt-072": "methods-optional",
+    "corroboration-08": "story-identification",
+    "probability-082": "methods-optional",
+    "counter-09": "story-limit",
+    "myth-10": "story-ending",
+    "boundary-11": "fact-boundary"
+  },
+  "anchor_rule": "Retain old #block- IDs as aliases. On an old methods anchor, expand optional methods before scrolling. Preserve source claim/source links and do not overwrite existing local bookmark keys. New intro must receive id intro. Keep original detailed method text available in optional source/details section if omitted from short reader version.",
+  "baseline_notice": "Parent verified actual Android Final300 has 300 cases and Romanov matches this web source. Do not replace actual app source with old assets/v2 catalog. Six other app/web content differences remain outside this edit.",
+  "source_sha256": "4fdbd7657d7b308d41f62bff7a004a64a2de7e2bf2ec98af80ddb04ab3667a3a",
+  "photo_sha256": "5172a0c5f83a4b6d6cb6ea39834446939e17b00e6d0c86da20ffb4ec0d2cf8f0"
+}

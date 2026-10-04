@@ -17,7 +17,7 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
 
   function rememberPosition(event: React.MouseEvent<HTMLAnchorElement>, choice: Locale) {
     if (!article) return;
-    const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
+    const sections = [...document.querySelectorAll<HTMLElement>("[id^='block-']:not([data-anchor-alias])")].filter((node) => node.getClientRects().length > 0);
     // Preserve the latest chapter heading the reader has brought into the
     // upper half of the viewport. This is stable across interleaved visuals and
     // avoids snapping back one chapter when a heading sits just below 300px.
@@ -38,6 +38,6 @@ export function LocaleSwitch({ locale, article = false }: { locale: Locale; arti
   }
 
   return <nav className={article ? "article-languages" : "site-languages"} aria-label={locale === "ko" ? "기사 언어" : "Article language"}>
-    {(["ko", "en"] as Locale[]).map((choice) => <a key={choice} href={localeHref(`/${choice}${route || "/"}`)} hrefLang={choice} lang={choice} aria-current={choice === locale ? "page" : undefined} onClick={(event) => rememberPosition(event, choice)}>{choice === "ko" ? "한국어" : "English"}</a>)}
+    {(["ko", "en"] as Locale[]).map((choice) => <a key={choice} href={localeHref(`/${choice}${route || "/"}`)} hrefLang={choice} lang={choice} aria-current={choice === locale ? "page" : undefined} onClick={(event) => rememberPosition(event, choice)}>{article ? choice.toUpperCase() : choice === "ko" ? "한국어" : "English"}</a>)}
   </nav>;
 }

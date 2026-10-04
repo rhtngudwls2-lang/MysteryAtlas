@@ -3,6 +3,7 @@ import { isLaunchVisualExcluded } from "@/lib/launch-visual-exclusions";
 import Link from "next/link";
 import { LocaleSwitch } from "./LocaleSwitch";
 import { ReaderSettings } from "./ReaderSettings";
+import { SaveButton } from "./SaveButton";
 import { ShareButton } from "./ShareButton";
 import { ReadingProgressTracker } from "./ReadingProgressTracker";
 import { cases } from "@/content";
@@ -44,7 +45,7 @@ const statusKo: Record<string, string> = {
   REFUTED: "반박됨", NOT_ESTABLISHED: "입증되지 않음", CLAIM: "주장", ALLEGED: "주장됨",
 };
 
-function ProductClaim({ claim, article, locale }: { claim: ProductizedArticle["claims"][number]; article: ProductizedArticle; locale: Locale }) {
+export function ProductClaim({ claim, article, locale }: { claim: ProductizedArticle["claims"][number]; article: ProductizedArticle; locale: Locale }) {
   const sources = article.sources.filter((item) => claim.sourceRefs.includes(item.sourceId));
   return <article className="evidence-card" data-status={claim.status} id={`claim-${claim.claimId}`}>
     <header><span className="evidence-label">{locale === "ko" ? "근거 기록" : "Evidence note"}</span><span className="evidence-status">{locale === "ko" ? statusKo[claim.status] ?? claim.status : claim.status.replaceAll("_", " ")}</span></header>
@@ -104,7 +105,7 @@ export function ProductizedArticleView({ article, locale }: { article: Productiz
     <ReadingProgressTracker canonicalId={article.canonicalId} locale={locale}/>
     <div className="article-toolbar"><div className="article-toolbar-inner">
       <Link className="article-back" href={`/${locale}/explore/`}>← <span>{locale === "ko" ? "탐색" : "Explore"}</span></Link>
-      <span className="article-toolbar-title" title={title}>{title}</span><LocaleSwitch locale={locale} article/><ReaderSettings locale={locale}/><ShareButton locale={locale} title={copy.headline}/>
+      <span className="article-toolbar-title" title={title}>{title}</span><LocaleSwitch locale={locale} article/><ReaderSettings locale={locale}/><SaveButton slug={article.canonicalId} locale={locale}/><ShareButton locale={locale} title={copy.headline}/>
     </div></div>
     <header className="case-hero">
       <div className="case-hero-copy">

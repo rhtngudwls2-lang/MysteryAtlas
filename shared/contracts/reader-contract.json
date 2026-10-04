@@ -1,5 +1,5 @@
 {
-  "schemaVersion": "U2-1.0",
+  "schemaVersion": "ABC-1",
   "readingOrder": [
     "metadata",
     "editorialHeadline",
@@ -37,16 +37,22 @@
       "relaxed"
     ],
     "themes": [
+      "ivory",
+      "warmgray",
+      "midnight"
+    ],
+    "persistence": "device local; shared semantics, platform storage differs",
+    "defaultTheme": "ivory",
+    "legacyThemesPreserved": [
       "dark",
       "dim",
       "warm"
-    ],
-    "persistence": "device local; shared semantics, platform storage differs"
+    ]
   },
   "progress": {
     "key": "canonicalId + blockId + locale",
     "web": "localStorage",
     "android": "existing persistence adapter; do not replace VC16 audio"
   },
-  "media": "localize PNG by same assetId and role; captions/alt/sourceRefs from canonical article"
+  "media": "Rights-reviewed photographs for covers; explanatory graphics remain optional linked details. Preserve original canonical article bytes and IDs."
 }

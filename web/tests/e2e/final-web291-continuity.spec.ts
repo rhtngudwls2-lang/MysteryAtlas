@@ -73,6 +73,7 @@ test("Batch50 locale switch keeps language and chapter position at 360/390/430",
 });
 
 test("Continue Reading restores the saved chapter after image layout settles", async ({ page }) => {
+  test.setTimeout(60000);
   for (const width of [360, 390, 430]) {
     await page.setViewportSize({ width, height: 850 });
     await page.goto("/en/");

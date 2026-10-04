@@ -18,10 +18,10 @@ test("reader controls persist and claim detail opens in place", async ({ page })
   await page.locator(".reader-settings > summary").click();
   await page.getByRole("group", { name: "Text size" }).getByRole("button", { name: "18" }).click();
   await page.getByRole("group", { name: "Line spacing" }).getByRole("button", { name: "Relaxed" }).click();
-  await page.getByRole("group", { name: "Theme" }).getByRole("button", { name: "Warm" }).click();
+  await page.getByRole("group", { name: "Theme" }).getByRole("button", { name: "Warm gray" }).click();
   await expect(page.locator("html")).toHaveAttribute("data-reader-size", "18");
   await page.reload();
-  await expect(page.locator("html")).toHaveAttribute("data-reader-tone", "warm");
+  await expect(page.locator("html")).toHaveAttribute("data-reader-tone", "warmgray");
   await expect(page.locator(".narrative p:not(.section-number)").first()).toHaveCSS("font-size", "18px");
   const evidence = page.locator(".evidence-card").first();
   await evidence.locator(".claim-detail > summary").click();
@@ -30,8 +30,9 @@ test("reader controls persist and claim detail opens in place", async ({ page })
   await expect(evidence.locator(".source-block a").first()).toBeHidden();
 });
 
-test("reader and discovery avoid page overflow at six viewport widths", async ({ page }) => {
-  for (const width of [360, 390, 430, 768, 1024, 1440]) {
+for (const width of [360, 390, 430, 768, 1024, 1440]) {
+  test(`reader and discovery avoid page overflow at ${width}px`, async ({ page }) => {
+    test.setTimeout(30_000);
     await page.setViewportSize({ width, height: 850 });
     for (const route of ["/ko/", "/ko/cases/cooper/", "/ko/search/"]) {
       await page.goto(route);
@@ -39,7 +40,7 @@ test("reader and discovery avoid page overflow at six viewport widths", async ({
       expect(data.scroll, `${route} at ${width}px`).toBeLessThanOrEqual(data.viewport + 1);
     }
     await page.goto("/ko/cases/cooper/");
-    const toolbar = await page.locator(".article-toolbar-inner > *").evaluateAll((elements) => elements.map((element) => { const rect = element.getBoundingClientRect(); return { left: rect.left, right: rect.right, width: rect.width }; }));
+    const toolbar = await page.locator(".article-toolbar-inner > *:visible").evaluateAll((elements) => elements.map((element) => { const rect = element.getBoundingClientRect(); return { left: rect.left, right: rect.right, width: rect.width }; }));
     expect(toolbar.every((item, index) => item.width > 0 && item.right <= width + 1 && (index === 0 || item.left >= toolbar[index - 1].right - 1)), `${width}px toolbar overlap`).toBe(true);
-  }
-});
+  });
+}

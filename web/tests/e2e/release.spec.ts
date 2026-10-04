@@ -3,9 +3,9 @@ import AxeBuilder from "@axe-core/playwright";
 
 test("English and Korean locale routes render", async ({ page }) => {
   await page.goto("/en/");
-  await expect(page.getByRole("heading", { name: "D.B. Cooper", exact: true })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Why were two children missing from the Romanov grave?", exact: true })).toBeVisible();
   await page.goto("/ko/");
-  await expect(page.getByText("근거가 비어 있는 지점에서 시작하세요")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "어떤 미스터리가 끌리나요?", exact: true })).toBeVisible();
 });
 
 test("case page exposes evidence, canonical metadata and calculated reading time", async ({ page }) => {
@@ -28,7 +28,7 @@ test("quick preview, visual sequence and typed rabbit hole render", async ({ pag
 test("country discovery filters the catalog", async ({ page }) => {
   await page.goto("/en/explore/");
   await page.getByLabel("Country").selectOption("united-kingdom");
-  await expect(page.locator(".case-card")).toHaveCount(1);
+  await expect(page.locator(".case-card")).toHaveCount(22);
   await expect(page.getByRole("heading", { name: "Rendlesham Forest" })).toBeVisible();
 });
 

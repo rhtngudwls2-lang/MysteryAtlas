@@ -1,6 +1,6 @@
 {
   "typography": {
-    "family": "Pretendard Variable, system-ui fallback",
+    "family": "system Korean sans-serif (Malgun Gothic / system-ui)",
     "fontLicense": "SIL Open Font License 1.1; bundled license; commercial use allowed subject to license terms",
     "fontSource": "https://github.com/orioncactus/pretendard",
     "webFontBytes": 2057688,
@@ -49,28 +49,64 @@
     }
   },
   "colors": {
-    "background": "#14181a",
-    "surface": "#1d2325",
-    "surfaceElevated": "#232a2c",
-    "text": "#f4f1e9",
-    "secondary": "#c6c9c5",
-    "tertiary": "#aab0ae",
-    "border": "#394143",
-    "accent": "#dfbc83",
-    "accentMuted": "#947853"
+    "background": "#f7f3ea",
+    "surface": "#efebe2",
+    "surfaceElevated": "#e8e5dc",
+    "text": "#252925",
+    "secondary": "#656a63",
+    "tertiary": "#70756f",
+    "border": "#d8d7ce",
+    "accent": "#3d6155",
+    "accentMuted": "#677d72"
   },
   "tones": {
+    "ivory": {
+      "background": "#f7f3ea",
+      "surface": "#efebe2",
+      "text": "#252925",
+      "secondary": "#656a63",
+      "border": "#d8d7ce",
+      "accent": "#3d6155"
+    },
+    "warmgray": {
+      "background": "#e8e5df",
+      "surface": "#dfdcd6",
+      "text": "#262b29",
+      "secondary": "#5e6560",
+      "border": "#c6c7bf",
+      "accent": "#3b6256"
+    },
+    "midnight": {
+      "background": "#151c21",
+      "surface": "#20292e",
+      "text": "#eceee7",
+      "secondary": "#b0b8b4",
+      "border": "#3b464b",
+      "accent": "#9ebdac"
+    },
     "dark": {
       "background": "#14181a",
-      "surface": "#1d2325"
+      "surface": "#1d2325",
+      "text": "#f4f1e9",
+      "secondary": "#c6c9c5",
+      "border": "#394143",
+      "accent": "#dfbc83"
     },
     "dim": {
       "background": "#101719",
-      "surface": "#182023"
+      "surface": "#182023",
+      "text": "#f4f1e9",
+      "secondary": "#c6c9c5",
+      "border": "#394143",
+      "accent": "#dfbc83"
     },
     "warm": {
       "background": "#1b1917",
-      "surface": "#26221d"
+      "surface": "#26221d",
+      "text": "#f4f1e9",
+      "secondary": "#c6c9c5",
+      "border": "#4a4138",
+      "accent": "#dfbc83"
     }
   },
   "layout": {
@@ -83,7 +119,7 @@
       32,
       48
     ],
-    "readerMaxWidthPx": 740,
+    "readerMaxWidthPx": 680,
     "shellMaxWidthPx": 1200,
     "mobileSidePaddingPx": 20,
     "cardRadiusPx": 9,
@@ -93,9 +129,9 @@
   "components": {
     "articleToolbar": [
       "back",
-      "article title",
       "locale",
       "Aa",
+      "save",
       "share"
     ],
     "reader": [
@@ -122,9 +158,10 @@
       "read time"
     ]
   },
-  "schemaVersion": "U2-1.0",
+  "schemaVersion": "ABC-1",
   "implementation": {
     "web": "web/src/app/editorial.css",
     "android": "Android adapter pending authoritative VC16 source"
-  }
+  },
+  "defaultReaderTone": "ivory"
 }

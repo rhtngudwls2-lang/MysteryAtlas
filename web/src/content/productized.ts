@@ -1,3 +1,4 @@
+import { editorialPhoto } from "./editorial-media";
 import articleIndex from "../../../shared/content/index.json";
 import { productizedLoaders } from "./productized-loaders.generated";
 import type { CaseRecord, Locale, Localized } from "./schema";
@@ -49,7 +50,7 @@ export function productizedCaseCard(item: Summary): CaseRecord {
     aliases: item.aliases, people: item.people.map(entityName), places: item.places.map(entityName),
     dates: [item.dateRange.start, item.dateRange.end].filter(Boolean).map(String),
     verifiedAt: "2026-09-27", readMinutesByLocale: item.readMinutes,
-    images: [{
+    images: editorialPhoto(item.canonicalId) ? [editorialPhoto(item.canonicalId)!] : [{
       id: item.heroAssetId, role: "HERO", path: `/media/${item.heroFile.en}`,
       localizedPaths: { ko: `/media/${item.heroFile.ko}`, en: `/media/${item.heroFile.en}` },
       type: "CONTEXT", alt: item.heroAlt, caption: item.heroCaption,

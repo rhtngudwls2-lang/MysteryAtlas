@@ -40,7 +40,7 @@ export interface CaseImage {
   role: ImageRole;
   path?: string;
   localizedPaths?: Record<Locale, string>;
-  type: "EDITORIAL_RECONSTRUCTION" | "HISTORICAL_MATERIAL" | "CONTEXT" | "PLACEHOLDER";
+  type: "EDITORIAL_RECONSTRUCTION" | "HISTORICAL_MATERIAL" | "EXTERNAL_REVIEWED_PHOTOGRAPH" | "CONTEXT" | "PLACEHOLDER";
   alt: Localized;
   caption: Localized;
   provenance: Localized;

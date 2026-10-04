@@ -21,7 +21,7 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
       ticking = true;
       requestAnimationFrame(() => {
         if (disposed) return;
-        const blocks = [...document.querySelectorAll<HTMLElement>("[id^='block-']")];
+        const blocks = [...document.querySelectorAll<HTMLElement>("[id^='block-']:not([data-anchor-alias])")].filter((node) => node.getClientRects().length > 0);
         const current = blocks.filter((block) => block.getBoundingClientRect().top < 300).at(-1);
         try {
           const previous = JSON.parse(localStorage.getItem(progressKey) ?? "null");
@@ -81,6 +81,9 @@ export function ReadingProgressTracker({ canonicalId, locale }: { canonicalId: s
         return;
       }
 
+      for (let parent = target.parentElement; parent; parent = parent.parentElement) {
+        if (parent instanceof HTMLDetailsElement) parent.open = true;
+      }
       const precedingImages = [...document.querySelectorAll<HTMLImageElement>(".productized-page img")].filter((image) =>
         Boolean(image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING)
       );

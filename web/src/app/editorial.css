@@ -1,11 +1,4 @@
 /* U1 editorial layer. Shared values are mirrored in the design-system artifact. */
-@font-face {
-  font-family: "Pretendard";
-  src: url("/fonts/PretendardVariable.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 100 900;
-  font-display: swap;
-}
 
 :root {
   --bg: #14181a;
@@ -19,7 +12,7 @@
   --gold-soft: #947853;
   --max: 1200px;
   --reader-max: 740px;
-  --font-body: "Pretendard", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-body: "Malgun Gothic", system-ui, -apple-system, "Segoe UI", sans-serif;
   --reader-size: 17px;
   --reader-leading: 1.68;
   --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px;

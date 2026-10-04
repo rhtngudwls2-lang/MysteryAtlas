@@ -1,3 +1,5 @@
+import { RomanovArticleView } from "@/components/RomanovArticleView";
+import { editorialPhoto } from "@/content/editorial-media";
 import type { Metadata } from "next";
 import { isLaunchVisualExcluded } from "@/lib/launch-visual-exclusions";
 import { notFound } from "next/navigation";
@@ -31,7 +33,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const title = productized?.localizedCopy[locale].headline ?? record.title;
   const description = productized?.localizedCopy[locale].hook ?? record.preview[locale];
   const canonical = absoluteUrl(`/${locale}/cases/${slug}/`);
-  const image = record.images.find((item) => item.role === "HERO" && item.path);
+  const image = editorialPhoto(slug) ?? record.images.find((item) => item.role === "HERO" && item.path);
   const imagePath = image?.localizedPaths?.[locale] ?? image?.path;
   const socialImage = absoluteUrl(imagePath && !isLaunchVisualExcluded(imagePath) ? imagePath : "/og-preview.png");
   return {
@@ -57,10 +59,10 @@ export default async function CasePage({ params }: { params: Promise<{ locale: s
       headline: article.localizedCopy[locale].headline,
       description: article.localizedCopy[locale].hook,
       mainEntityOfPage: absoluteUrl(`/${locale}/cases/${slug}/`),
-      image: hero ? [absoluteUrl(`/media/${hero.localizedFiles[locale].fileName}`)] : [],
+      image: editorialPhoto(slug)?.path ? [absoluteUrl(editorialPhoto(slug)!.path!)] : hero ? [absoluteUrl(`/media/${hero.localizedFiles[locale].fileName}`)] : [],
       isAccessibleForFree: true,
     };
-    return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }}/><ProductizedArticleView article={article} locale={locale}/></>;
+    return <><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }}/>{slug === "romanov-remains-dna" ? <RomanovArticleView article={article} locale={locale}/> : <ProductizedArticleView article={article} locale={locale}/>}</>;
   }
   const hero = record.images.find((item) => item.role === "HERO")!;
   const genre = categories.find((item) => item.id === record.categories[0])?.name[locale];

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "ABC-1",
+  "caseIds": [
+    "antikythera-mechanism",
+    "princes-in-the-tower",
+    "hubble-tension"
+  ],
+  "photoInputState": "VERIFIED_FILES_CONNECTED",
+  "coverRole": "THUMBNAIL",
+  "homeCopy": {
+    "previewStatus": {
+      "keep": true,
+      "textKo": "출시 전 미리보기",
+      "placement": "One concise header/status area; do not change release/indexing flags."
+    },
+    "featuredLabelKo": "이번에 읽어볼 이야기",
+    "recommendationSection": {
+      "eyebrowKo": "다음 이야기도 궁금하다면",
+      "titleKo": "어떤 미스터리가 끌리나요?",
+      "browseAllKo": "전체 이야기 보기",
+      "removeOld": [
+        "OPEN QUESTIONS",
+        "근거가 비어 있는 지점에서 시작하세요"
+      ]
+    },
+    "unavailableRandomSection": {
+      "action": "omit_from_home",
+      "reasonKo": "제공하지 않는 기능 안내와 같은 대표 기사로 반복되는 링크는 홈 읽기 흐름에서 제외합니다. 랜덤 기능이 있는 것처럼 새 버튼을 만들지 않습니다."
+    },
+    "collections": {
+      "sectionTitleKo": "이런 이야기는 어때요?",
+      "items": [
+        {
+          "slug": "documents-under-pressure",
+          "titleKo": "기록 속에 남은 수수께끼",
+          "descriptionKo": "암호 같은 글과 오래된 문서. 무엇을 알아냈고, 무엇이 아직 풀리지 않았을까요?"
+        },
+        {
+          "slug": "evidence-changes-the-story",
+          "titleKo": "새 단서가 바꾼 이야기",
+          "descriptionKo": "익숙한 미스터리를 다시 보게 만든 발견과 설명을 따라가 보세요."
+        },
+        {
+          "slug": "identity-without-an-answer",
+          "titleKo": "그 정체는 무엇이었을까?",
+          "descriptionKo": "사라진 사람, 낯선 모습, 이상한 신호. 정체를 찾는 이야기들을 모았습니다."
+        }
+      ],
+      "rule": "Keep existing collection caseSlugs and URLs; presentation strings only."
+    }
+  },
+  "cards": [
+    {
+      "caseId": "antikythera-mechanism",
+      "titleKo": "2천 년 전, 하늘을 계산한 기계",
+      "hookKo": "난파선에서 나온 청동 조각. 고대의 기어는 어디까지 계산할 수 있었을까요?",
+      "readerTopicKo": "고대 문명·발명"
+    },
+    {
+      "caseId": "princes-in-the-tower",
+      "titleKo": "런던탑의 두 왕자는 어디로 갔을까?",
+      "hookKo": "두 왕자의 기록이 끊긴 뒤 발견된 유골. 정말 그들의 것이었을까요?",
+      "readerTopicKo": "왕실·실종"
+    },
+    {
+      "caseId": "hubble-tension",
+      "titleKo": "우주의 팽창 속도는 왜 다르게 나올까?",
+      "hookKo": "서로 다른 방법으로 잰 값이 맞지 않습니다. 측정의 문제일까요, 아직 모르는 물리가 있을까요?",
+      "readerTopicKo": "우주·과학"
+    }
+  ],
+  "sourcePackage": {
+    "libraryFileId": "libfile_916711645aa88191a89de621b11a0cad",
+    "version": 0,
+    "bytes": 16413543,
+    "sha256": "7a92e8a99f72f725f0a552e5dd09552531fbbb218b14295991c6cbdac4bb7715"
+  }
+}
